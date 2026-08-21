@@ -267,80 +267,63 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     async function loadDailyArchive() {
-        try {
-            // Check localStorage cache first for instant snappy rendering
-            try {
-                const cached = localStorage.getItem('recollection_custom_archive');
-                if (cached) {
-                    const parsed = JSON.parse(cached);
-                    if (Array.isArray(parsed) && parsed.length > 0) {
-                        currentResults = parsed;
-                        renderKinfolkGrid(currentResults);
-                    }
-                }
-            } catch (err) {}
+        let loadedItems = null;
 
-            // 1. Try static JSON directly first (Instant loading on GitHub Pages)
-            let res = await fetch('data/daily_archive.json?v=' + Date.now());
-            if (!res.ok) {
-                // 2. Try relative path from root
-                res = await fetch('./data/daily_archive.json?v=' + Date.now());
-            }
-            if (!res.ok) {
-                // 3. Try FastAPI endpoint if on local server
-                res = await fetch('/api/daily');
-            }
-            
-            if (res.ok) {
-                const data = await res.json();
-                const items = Array.isArray(data) ? data : (data.results || []);
-                if (items && items.length > 0) {
-                    // Merge with custom additions if any
-                    const existingMap = new Map();
-                    items.forEach(i => existingMap.set(i.url || i.id, i));
-                    currentResults.forEach(i => {
-                        if (i.is_new && !existingMap.has(i.url || i.id)) {
-                            items.unshift(i);
-                        }
-                    });
-                    currentResults = items;
-                    renderKinfolkGrid(currentResults);
-                    return;
-                }
-            }
-            
-            if (currentResults.length === 0) {
-                resultsContainer.innerHTML = `
-                    <div class="loading-state">
-                        <p>아직 수집된 아카이브가 없습니다.</p>
-                    </div>
-                `;
-            }
-        } catch (e) {
-            console.error("Could not load daily archive:", e);
-            // Final fallback attempt
+        // 1. Try fetching static archive JSON first
+        const jsonUrls = [
+            'data/daily_archive.json?t=' + Date.now(),
+            './data/daily_archive.json?t=' + Date.now(),
+            'https://meandfree23.github.io/re-collection/data/daily_archive.json'
+        ];
+
+        for (const url of jsonUrls) {
             try {
-                const fallbackRes = await fetch('data/daily_archive.json');
-                if (fallbackRes.ok) {
-                    const fallbackData = await fallbackRes.json();
-                    const items = Array.isArray(fallbackData) ? fallbackData : (fallbackData.results || []);
+                const res = await fetch(url);
+                if (res.ok) {
+                    const data = await res.json();
+                    const items = Array.isArray(data) ? data : (data.results || []);
                     if (items && items.length > 0) {
-                        currentResults = items;
-                        renderKinfolkGrid(currentResults);
-                        return;
+                        loadedItems = items;
+                        break;
                     }
                 }
-            } catch (err2) {
-                console.error("Fallback load failed:", err2);
+            } catch (err) {
+                console.log("Archive url check:", url, err);
             }
-            
-            if (currentResults.length === 0) {
-                resultsContainer.innerHTML = `
-                    <div class="loading-state" style="color: #ef4444;">
-                        <p>아카이브를 불러오는 중 오류가 발생했습니다.</p>
-                    </div>
-                `;
+        }
+
+        // 2. Merge with any local custom items
+        try {
+            const cached = localStorage.getItem('recollection_custom_archive');
+            if (cached) {
+                const parsed = JSON.parse(cached);
+                if (Array.isArray(parsed) && parsed.length > 0) {
+                    if (!loadedItems) {
+                        loadedItems = parsed;
+                    } else {
+                        const existingMap = new Map();
+                        loadedItems.forEach(i => existingMap.set(i.url || i.id, i));
+                        parsed.forEach(i => {
+                            if (i.is_new && !existingMap.has(i.url || i.id)) {
+                                loadedItems.unshift(i);
+                            }
+                        });
+                    }
+                }
             }
+        } catch (e) {}
+
+        if (loadedItems && loadedItems.length > 0) {
+            currentResults = loadedItems;
+            renderKinfolkGrid(currentResults);
+        } else {
+            // Fallback default sample if network is totally blocked
+            currentResults = [
+                generateInfiniteMasterpiece(),
+                generateInfiniteMasterpiece(),
+                generateInfiniteMasterpiece()
+            ];
+            renderKinfolkGrid(currentResults);
         }
     }
 
