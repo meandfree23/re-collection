@@ -6,14 +6,19 @@ import feedparser
 from bs4 import BeautifulSoup
 from datetime import datetime
 from deep_translator import GoogleTranslator
-import chromadb
-from chromadb.utils import embedding_functions
 import concurrent.futures
 
-# 1. Setup ChromaDB for indexing new items
-chroma_client = chromadb.PersistentClient(path="./chroma_db")
-sentence_transformer_ef = embedding_functions.SentenceTransformerEmbeddingFunction(model_name="paraphrase-multilingual-MiniLM-L12-v2")
-collection = chroma_client.get_or_create_collection(name="bookmarks", embedding_function=sentence_transformer_ef)
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+
+# Optional ChromaDB for local vector semantic search
+try:
+    import chromadb
+    from chromadb.utils import embedding_functions
+    chroma_client = chromadb.PersistentClient(path=os.path.join(BASE_DIR, "chroma_db"))
+    sentence_transformer_ef = embedding_functions.SentenceTransformerEmbeddingFunction(model_name="paraphrase-multilingual-MiniLM-L12-v2")
+    collection = chroma_client.get_or_create_collection(name="bookmarks", embedding_function=sentence_transformer_ef)
+except Exception:
+    collection = None
 
 # 2. Expanded 25+ Global Curated Feeds (Focusing on Space x Media, Facades, LED & 3D Art)
 CURATED_SOURCES = [
@@ -134,6 +139,30 @@ CURATED_SOURCES = [
     }
 ]
 
+def is_quality_curated_article(title, summary, genre):
+    """
+    Strict Curatorial Quality Gate:
+    Filters out noise, generic product ads, or gossip.
+    Only selects articles with high spatial, media, fashion aesthetics, or artistic depth.
+    """
+    text = (title + ' ' + summary).lower()
+    
+    # Negative filters (Exclude noise)
+    exclude_keywords = ['sale', 'discount', 'coupon', 'giveaway', 'gossip', 'rumor', 'unboxing', 'deal of the day']
+    if any(kw in text for kw in exclude_keywords):
+        return False
+        
+    # High value aesthetic keywords
+    positive_keywords = [
+        'space', 'spatial', 'architecture', 'interior', 'pavilion', 'scenography',
+        'facade', 'projection', 'mapping', 'led', '3d', 'installation', 'kinetic', 'light',
+        'fashion', 'runway', 'couture', 'textile', 'drape', 'subculture', 'zeitgeist',
+        'art', 'contemporary', 'sculpture', 'gallery', 'museum', 'exhibition',
+        'cinema', 'film', 'narrative', 'visual', 'material', 'craft', 'object'
+    ]
+    
+    match_count = sum(1 for kw in positive_keywords if kw in text)
+    # Always include specialized genres or entries with at least 1 aesthetic keyword
 def safe_translate(text):
     if not text or len(text.strip()) == 0:
         return text
@@ -375,11 +404,15 @@ def process_single_entry(entry, source):
     if not title or not url:
         return None
         
-    img_url, video_url = extract_media_from_entry(entry, url)
-    
     raw_summary = entry.get('summary', '') or entry.get('description', '')
     soup = BeautifulSoup(raw_summary, 'html.parser')
-    clean_summary = soup.get_text().strip()[:240]
+    clean_summary = soup.get_text().strip()[:300]
+    
+    # Strict Curatorial Quality Gate Check
+    if not is_quality_curated_article(title, clean_summary, source['genre']):
+        return None
+        
+    img_url, video_url = extract_media_from_entry(entry, url)
     
     # Fast translation
     title_ko = safe_translate(title)

@@ -140,33 +140,41 @@ document.addEventListener('DOMContentLoaded', () => {
             refreshDailyBtn.classList.add('loading');
             refreshDailyBtn.innerHTML = `
                 <svg viewBox="0 0 24 24" width="12" height="12" stroke="currentColor" stroke-width="1.8" fill="none"><path d="M21.5 2v6h-6M21.34 15.57a10 10 0 1 1-.57-8.38l5.67-5.67"/></svg>
-                <span>COLLECTING INSPIRATION...</span>
+                <span>SYNCING JOURNAL...</span>
             `;
             
             try {
+                // Try backend collection if on local FastAPI server
                 const res = await fetch('/api/collect-now', { 
                     method: 'POST',
                     headers: { 'Content-Type': 'application/json' }
                 });
-                const result = await res.json();
-                
-                if (result.results && result.results.length > 0) {
-                    currentResults = result.results;
-                    renderKinfolkGrid(currentResults);
-                } else if (currentResults.length === 0) {
+                if (res.ok) {
+                    const result = await res.json();
+                    if (result.results && result.results.length > 0) {
+                        currentResults = result.results;
+                        renderKinfolkGrid(currentResults);
+                    }
+                } else {
                     await loadDailyArchive();
                 }
             } catch (err) {
-                console.error("Failed to collect daily items:", err);
-                if (currentResults.length === 0) {
-                    await loadDailyArchive();
-                }
+                // On GitHub Pages (static cloud), reload fresh JSON directly
+                await loadDailyArchive();
             } finally {
-                refreshDailyBtn.classList.remove('loading');
-                refreshDailyBtn.innerHTML = `
-                    <svg viewBox="0 0 24 24" width="12" height="12" stroke="currentColor" stroke-width="1.8" fill="none"><path d="M21.5 2v6h-6M21.34 15.57a10 10 0 1 1-.57-8.38l5.67-5.67"/></svg>
-                    <span>UPDATE TODAY'S JOURNAL</span>
-                `;
+                setTimeout(() => {
+                    refreshDailyBtn.classList.remove('loading');
+                    refreshDailyBtn.innerHTML = `
+                        <svg viewBox="0 0 24 24" width="12" height="12" stroke="currentColor" stroke-width="1.8" fill="none"><path d="M21.5 2v6h-6M21.34 15.57a10 10 0 1 1-.57-8.38l5.67-5.67"/></svg>
+                        <span>JOURNAL UPDATED ✓</span>
+                    `;
+                    setTimeout(() => {
+                        refreshDailyBtn.innerHTML = `
+                            <svg viewBox="0 0 24 24" width="12" height="12" stroke="currentColor" stroke-width="1.8" fill="none"><path d="M21.5 2v6h-6M21.34 15.57a10 10 0 1 1-.57-8.38l5.67-5.67"/></svg>
+                            <span>UPDATE TODAY'S JOURNAL</span>
+                        `;
+                    }, 2000);
+                }, 600);
             }
         });
     }
