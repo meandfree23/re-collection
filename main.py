@@ -4,18 +4,24 @@ from fastapi import FastAPI, Request
 from fastapi.responses import HTMLResponse
 from fastapi.staticfiles import StaticFiles
 from fastapi.templating import Jinja2Templates
-import chromadb
-from chromadb.utils import embedding_functions
-from duckduckgo_search import DDGS
+try:
+    from duckduckgo_search import DDGS
+except ImportError:
+    DDGS = None
+
+try:
+    import chromadb
+    from chromadb.utils import embedding_functions
+    chroma_client = chromadb.PersistentClient(path="./chroma_db")
+    sentence_transformer_ef = embedding_functions.SentenceTransformerEmbeddingFunction(model_name="paraphrase-multilingual-MiniLM-L12-v2")
+    collection = chroma_client.get_or_create_collection(name="bookmarks", embedding_function=sentence_transformer_ef)
+except Exception:
+    collection = None
+
 from deep_translator import GoogleTranslator
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
 app = FastAPI()
-
-# Setup ChromaDB
-chroma_client = chromadb.PersistentClient(path="./chroma_db")
-sentence_transformer_ef = embedding_functions.SentenceTransformerEmbeddingFunction(model_name="paraphrase-multilingual-MiniLM-L12-v2")
-collection = chroma_client.get_or_create_collection(name="bookmarks", embedding_function=sentence_transformer_ef)
 
 # Thread pool for fast translations
 translator_pool = ThreadPoolExecutor(max_workers=20)
