@@ -214,17 +214,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Refresh Daily Button with Infinite Real-Time Curated Generation
     if (refreshDailyBtn) {
-        refreshDailyBtn.addEventListener('click', async () => {
-            if (refreshDailyBtn.classList.contains('loading')) return;
-
-            refreshDailyBtn.classList.add('loading');
-            refreshDailyBtn.innerHTML = `
-                <svg class="spin-icon" viewBox="0 0 24 24" width="12" height="12" stroke="currentColor" stroke-width="1.8" fill="none"><path d="M21.5 2v6h-6M21.34 15.57a10 10 0 1 1-.57-8.38l5.67-5.67"/></svg>
-                <span>COLLECTING 25 GLOBAL FEEDS...</span>
-            `;
-            
-            resultsContainer.style.opacity = '0.35';
-
+        refreshDailyBtn.addEventListener('click', () => {
             // Generate 3 unique infinite masterpiece editions
             const newBatch = [
                 generateInfiniteMasterpiece(),
@@ -232,31 +222,30 @@ document.addEventListener('DOMContentLoaded', () => {
                 generateInfiniteMasterpiece()
             ];
 
-            setTimeout(() => {
-                // Prepend new batch to current results
-                currentResults = [...newBatch, ...currentResults];
-                
-                // Save to local storage for infinite persistence
-                try {
-                    localStorage.setItem('recollection_custom_archive', JSON.stringify(currentResults));
-                } catch (e) {}
+            // Prepend new batch to current results
+            currentResults = [...newBatch, ...currentResults];
+            
+            // Save to local storage for infinite persistence
+            try {
+                localStorage.setItem('recollection_custom_archive', JSON.stringify(currentResults));
+            } catch (e) {}
 
-                resultsContainer.style.opacity = '1';
-                renderKinfolkGrid(currentResults);
-                
-                refreshDailyBtn.classList.remove('loading');
+            // Instant Render
+            renderKinfolkGrid(currentResults);
+            
+            // Show immediate success feedback on button
+            refreshDailyBtn.classList.remove('loading');
+            refreshDailyBtn.innerHTML = `
+                <svg viewBox="0 0 24 24" width="12" height="12" stroke="currentColor" stroke-width="1.8" fill="none"><path d="M20 6L9 17l-5-5"/></svg>
+                <span>+3 NEW EDITIONS ADDED ✓ (${currentResults.length})</span>
+            `;
+            
+            setTimeout(() => {
                 refreshDailyBtn.innerHTML = `
-                    <svg viewBox="0 0 24 24" width="12" height="12" stroke="currentColor" stroke-width="1.8" fill="none"><path d="M20 6L9 17l-5-5"/></svg>
-                    <span>+3 NEW EDITIONS COLLECTED ✓ (${currentResults.length} TOTAL)</span>
+                    <svg viewBox="0 0 24 24" width="12" height="12" stroke="currentColor" stroke-width="1.8" fill="none"><path d="M21.5 2v6h-6M21.34 15.57a10 10 0 1 1-.57-8.38l5.67-5.67"/></svg>
+                    <span>UPDATE TODAY'S JOURNAL</span>
                 `;
-                
-                setTimeout(() => {
-                    refreshDailyBtn.innerHTML = `
-                        <svg viewBox="0 0 24 24" width="12" height="12" stroke="currentColor" stroke-width="1.8" fill="none"><path d="M21.5 2v6h-6M21.34 15.57a10 10 0 1 1-.57-8.38l5.67-5.67"/></svg>
-                        <span>UPDATE TODAY'S JOURNAL</span>
-                    `;
-                }, 3000);
-            }, 600);
+            }, 1800);
         });
     }
 
