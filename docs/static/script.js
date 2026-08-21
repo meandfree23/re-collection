@@ -139,42 +139,41 @@ document.addEventListener('DOMContentLoaded', () => {
 
             refreshDailyBtn.classList.add('loading');
             refreshDailyBtn.innerHTML = `
-                <svg viewBox="0 0 24 24" width="12" height="12" stroke="currentColor" stroke-width="1.8" fill="none"><path d="M21.5 2v6h-6M21.34 15.57a10 10 0 1 1-.57-8.38l5.67-5.67"/></svg>
-                <span>SYNCING JOURNAL...</span>
+                <svg class="spin-icon" viewBox="0 0 24 24" width="12" height="12" stroke="currentColor" stroke-width="1.8" fill="none"><path d="M21.5 2v6h-6M21.34 15.57a10 10 0 1 1-.57-8.38l5.67-5.67"/></svg>
+                <span>SYNCING ARCHIVE...</span>
             `;
             
+            // Show subtle refresh state in container
+            resultsContainer.style.opacity = '0.5';
+            
             try {
-                // Try backend collection if on local FastAPI server
-                const res = await fetch('/api/collect-now', { 
-                    method: 'POST',
-                    headers: { 'Content-Type': 'application/json' }
-                });
+                // Fetch fresh static JSON with absolute cache buster
+                const res = await fetch('data/daily_archive.json?cache_bust=' + Date.now());
                 if (res.ok) {
-                    const result = await res.json();
-                    if (result.results && result.results.length > 0) {
-                        currentResults = result.results;
-                        renderKinfolkGrid(currentResults);
+                    const data = await res.json();
+                    const items = Array.isArray(data) ? data : (data.results || []);
+                    if (items && items.length > 0) {
+                        currentResults = items;
                     }
-                } else {
-                    await loadDailyArchive();
                 }
             } catch (err) {
-                // On GitHub Pages (static cloud), reload fresh JSON directly
-                await loadDailyArchive();
+                console.log("Reloading fallback archive:", err);
             } finally {
                 setTimeout(() => {
+                    resultsContainer.style.opacity = '1';
+                    renderKinfolkGrid(currentResults);
                     refreshDailyBtn.classList.remove('loading');
                     refreshDailyBtn.innerHTML = `
-                        <svg viewBox="0 0 24 24" width="12" height="12" stroke="currentColor" stroke-width="1.8" fill="none"><path d="M21.5 2v6h-6M21.34 15.57a10 10 0 1 1-.57-8.38l5.67-5.67"/></svg>
-                        <span>JOURNAL UPDATED ✓</span>
+                        <svg viewBox="0 0 24 24" width="12" height="12" stroke="currentColor" stroke-width="1.8" fill="none"><path d="M20 6L9 17l-5-5"/></svg>
+                        <span>${currentResults.length} EDITIONS SYNCED ✓</span>
                     `;
                     setTimeout(() => {
                         refreshDailyBtn.innerHTML = `
                             <svg viewBox="0 0 24 24" width="12" height="12" stroke="currentColor" stroke-width="1.8" fill="none"><path d="M21.5 2v6h-6M21.34 15.57a10 10 0 1 1-.57-8.38l5.67-5.67"/></svg>
                             <span>UPDATE TODAY'S JOURNAL</span>
                         `;
-                    }, 2000);
-                }, 600);
+                    }, 2500);
+                }, 400);
             }
         });
     }
