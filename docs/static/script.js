@@ -269,27 +269,9 @@ document.addEventListener('DOMContentLoaded', () => {
     async function loadDailyArchive() {
         let loadedItems = null;
 
-        // 1. Try fetching static archive JSON first
-        const jsonUrls = [
-            'data/daily_archive.json?t=' + Date.now(),
-            './data/daily_archive.json?t=' + Date.now(),
-            'https://meandfree23.github.io/re-collection/data/daily_archive.json'
-        ];
-
-        for (const url of jsonUrls) {
-            try {
-                const res = await fetch(url);
-                if (res.ok) {
-                    const data = await res.json();
-                    const items = Array.isArray(data) ? data : (data.results || []);
-                    if (items && items.length > 0) {
-                        loadedItems = items;
-                        break;
-                    }
-                }
-            } catch (err) {
-                console.log("Archive url check:", url, err);
-            }
+        // 1. Instant Zero-Latency Render via Preloaded Global Archive
+        if (window.PRELOADED_ARCHIVE && Array.isArray(window.PRELOADED_ARCHIVE) && window.PRELOADED_ARCHIVE.length > 0) {
+            loadedItems = [...window.PRELOADED_ARCHIVE];
         }
 
         // 2. Merge with any local custom items
@@ -316,15 +298,30 @@ document.addEventListener('DOMContentLoaded', () => {
         if (loadedItems && loadedItems.length > 0) {
             currentResults = loadedItems;
             renderKinfolkGrid(currentResults);
-        } else {
-            // Fallback default sample if network is totally blocked
-            currentResults = [
-                generateInfiniteMasterpiece(),
-                generateInfiniteMasterpiece(),
-                generateInfiniteMasterpiece()
-            ];
-            renderKinfolkGrid(currentResults);
+            return;
         }
+
+        // 3. Fallback async fetch
+        try {
+            const res = await fetch('data/daily_archive.json');
+            if (res.ok) {
+                const data = await res.json();
+                const items = Array.isArray(data) ? data : (data.results || []);
+                if (items && items.length > 0) {
+                    currentResults = items;
+                    renderKinfolkGrid(currentResults);
+                    return;
+                }
+            }
+        } catch (err) {}
+
+        // 4. Default Sample Render
+        currentResults = [
+            generateInfiniteMasterpiece(),
+            generateInfiniteMasterpiece(),
+            generateInfiniteMasterpiece()
+        ];
+        renderKinfolkGrid(currentResults);
     }
 
     // Modal Tab Switching
