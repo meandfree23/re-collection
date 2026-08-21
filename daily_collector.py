@@ -9,16 +9,7 @@ from deep_translator import GoogleTranslator
 import concurrent.futures
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-
-# Optional ChromaDB for local vector semantic search
-try:
-    import chromadb
-    from chromadb.utils import embedding_functions
-    chroma_client = chromadb.PersistentClient(path=os.path.join(BASE_DIR, "chroma_db"))
-    sentence_transformer_ef = embedding_functions.SentenceTransformerEmbeddingFunction(model_name="paraphrase-multilingual-MiniLM-L12-v2")
-    collection = chroma_client.get_or_create_collection(name="bookmarks", embedding_function=sentence_transformer_ef)
-except Exception:
-    collection = None
+collection = None
 
 # 2. Expanded 25+ Global Curated Feeds (Focusing on Space x Media, Facades, LED & 3D Art)
 CURATED_SOURCES = [
