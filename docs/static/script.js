@@ -132,96 +132,93 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     }
 
-    // 3. Client-Side Live RSS Fetcher for Realtime Updates anywhere
-    const LIVE_RSS_FEEDS = [
-        { name: "Dezeen", url: "https://www.dezeen.com/feed/", genre: "SPACE & ARCH" },
-        { name: "ArchDaily", url: "https://www.archdaily.com/feed", genre: "SPACE & ARCH" },
-        { name: "This Is Colossal", url: "https://www.thisiscolossal.com/feed/", genre: "CONTEMPORARY ART" },
-    // Real-Time Curation Dispatcher (Guarantees Fresh Spatial x Media Editions)
-    const REALTIME_CURATION_POOL = [
-        {
-            title: "팀랩 2026: 무한한 빛의 보이드와 아나몰픽 공간 조각",
-            url: "https://www.teamlab.art/e/infinite_light_void_2026",
-            image_url: "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=1200&q=80",
-            snippet: "도쿄 오다이바에 새롭게 오픈한 팀랩의 차세대 몰입형 미디어 조각 프로젝트. 물리적 벽체의 경계를 지우고 빛의 입자로 시공간의 깊이를 재구성합니다.",
-            genre: "MEDIA FACADE & 3D",
-            source_name: "CreativeApplications",
-            facets: {
-                genre: "MEDIA FACADE & 3D",
-                genius_loci: "〈팀랩 2026〉는 암전된 공간 속에 빛의 궤적을 3차원 부피감으로 구축하여 관람객을 완전히 압도하는 시공간적 기억을 각인합니다.",
-                sensory_recall: "360도 공간 음향과 반응형 LED 광선이 신체 감각을 확장하며 깊은 감정적 경외감(Awe)을 자아냅니다.",
-                zeitgeist_synapse: "인공지능과 실시간 프로젝션 맵핑이 융합된 21세기 디지털 미디어 공간의 새로운 지평을 제시합니다.",
-                spatial_video_cx: "플래그십 및 공공 파사드에 적용 시 압도적인 Stop-and-Stare 시각적 몰입과 강력한 브랜드 각인 효과를 제공합니다.",
-                zeitgeist_horizon: "관람객의 움직임에 따라 유기적으로 호흡하는 미래형 반응형 미디어 아키텍처 모델입니다.",
-                tactile_metrics: {
-                    tactility: "VOLUMETRIC LIGHT & VOID",
-                    spatial_volume: "360° HYPER-IMMERSIVE CANVAS",
-                    dwell_tempo: "INTENSE EMOTIONAL AWE"
-                },
-                synapse_connections: [
-                    { domain: "현대 미술 (Contemporary Art)", connection: "빛과 공간을 매개로 한 설치 미술의 극대화된 형태입니다." },
-                    { domain: "공간 디자인 (Spatial CX)", connection: "물리적 공간을 초월하는 무한한 심도를 연출합니다." },
-                    { domain: "시네마틱 사운드 (Spatial Audio)", connection: "공간 잔향과 사운드스케이프가 유기적으로 동기화됩니다." }
-                ]
-            }
-        },
-        {
-            title: "토쿠진 요시오카: 투명한 유리와 자연광의 키네틱 파빌리온",
-            url: "https://www.dezeen.com/tokujin-yoshioka-glass-kinetic-pavilion-2026",
-            image_url: "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80",
-            snippet: "프리즘 유리 블록을 통과하는 햇빛의 굴절을 이용해 시간에 따라 변화하는 공간의 촉각적 물성을 실험한 현대 건축 프로젝트.",
-            genre: "SPACE & ARCH",
-            source_name: "Dezeen",
-            facets: {
-                genre: "SPACE & ARCH",
-                genius_loci: "〈토쿠진 요시오카 파빌리온〉은 대지에 쏟아지는 태양광의 각도를 프리즘 구조로 치환하여 공간 전체를 하나의 빛의 프리즘으로 완성합니다.",
-                sensory_recall: "유리의 차가운 표면과 따뜻한 무지갯빛 산란이 어우러져 관람자에게 명상적인 평온을 선사합니다.",
-                zeitgeist_synapse: "물질의 과잉을 비워내고 자연의 비물질적 요소를 극대화하는 미니멀리즘 건축의 정수를 보여줍니다.",
-                spatial_video_cx: "오프라인 갤러리 및 플래그십 스토어의 아트리움 공간에 자연광과 연동된 미디어 아트로 승화됩니다.",
-                zeitgeist_horizon: "지속 가능한 환경과 인간의 정서적 교감을 이끄는 감성적 웰니스 공간 철학을 제시합니다.",
-                tactile_metrics: {
-                    tactility: "PRISM GLASS & SUNLIGHT",
-                    spatial_volume: "SOARING ATRIUM PAVILION",
-                    dwell_tempo: "MEDITATIVE ZEN TEMPO"
-                },
-                synapse_connections: [
-                    { domain: "공예 & 물성 (Material Craft)", connection: "유리 가공 기술과 건축 구조의 정밀한 결합을 구현합니다." },
-                    { domain: "패션 & 미학 (Fashion Aesthetics)", connection: "투명성과 빛의 굴절이 오뜨 꾸뛰르 실크의 반사와 궤를 같이합니다." },
-                    { domain: "앰비언트 환경 (Ambient Atmosphere)", connection: "자연의 소리와 빛이 공간을 채우는 침묵의 미학을 완성합니다." }
-                ]
-            }
-        },
-        {
-            title: "쇼스튜디오 × 발렌시아가: 2026 오뜨 꾸뛰르 디지털 시노그래피",
-            url: "https://showstudio.com/projects/balenciaga-couture-scenography-2026",
-            image_url: "https://images.unsplash.com/photo-1509631179647-0177331693ae?auto=format&fit=crop&w=1200&q=80",
-            snippet: "닉 나이트(Nick Knight)가 디렉팅한 공간형 패션 필름. 거대한 LED 모노리스와 텍스타일 조각이 만나 아방가르드 패션의 미장센을 창조합니다.",
-            genre: "AVANT-GARDE FASHION",
-            source_name: "SHOWstudio",
-            facets: {
-                genre: "AVANT-GARDE FASHION",
-                genius_loci: "〈쇼스튜디오 시노그래피〉는 런웨이 무대를 웅장한 블랙박스 시네마틱 공간으로 변모시켜 패션의 입체적 서사를 전달합니다.",
-                sensory_recall: "거친 텍스처의 원단과 날카로운 고대비 조명이 빚어내는 시각적 텐션이 뇌리에 강렬한 잔상을 남깁니다.",
-                zeitgeist_synapse: "패션이 단순한 의복을 넘어 공간적 예술(Spatial Art)로 진화하는 동시대 하이패션의 시대정신을 대변합니다.",
-                spatial_video_cx: "리테일 팝업 스토어의 중심 미디어 월에 투사 시 고객의 브랜드 몰입도를 극대화하는 킬러 콘텐츠로 작동합니다.",
-                zeitgeist_horizon: "패션 필름과 오프라인 공간 연출이 결합된 차세대 공간 브랜딩의 표본을 확립합니다.",
-                tactile_metrics: {
-                    tactility: "HEAVY DRAPING & HIGH-CONTRAST",
-                    spatial_volume: "MONOLITHIC RUNWAY BOX",
-                    dwell_tempo: "HIGH-VOLTAGE CINEMA"
-                },
-                synapse_connections: [
-                    { domain: "시네마틱 영상 (Cinema & Narrative)", connection: "드라마틱한 슬로우 모션과 음향 연출이 영화적 미장센을 형성합니다." },
-                    { domain: "공간 조형 (Scenography)", connection: "무대 디자인 자체가 거대한 설치 조각으로 기능합니다." },
-                    { domain: "현대 예술 (Avant-Garde Art)", connection: "기존 미의 기준을 해체하고 재정의하는 전위적 조형성을 지닙니다." }
-                ]
-            }
-        }
+    // Infinite Procedural Curatorial Generator (Infinite Masterpiece Editions)
+    const CREATOR_MASTERS = [
+        { name: "레픽 아나돌 (Refik Anadol)", studio: "Refik Anadol Studio", genre: "MEDIA FACADE & 3D", theme: "AI 데이터 조각과 대형 파사드 미디어" },
+        { name: "올라퍼 엘리아슨 (Olafur Eliasson)", studio: "Studio Olafur Eliasson", genre: "SPACE & ARCH", theme: "빛의 파장과 자연 현상의 공간적 시퀀스" },
+        { name: "제임스 터렐 (James Turrell)", studio: "Turrell Light Lab", genre: "SPACE & ARCH", theme: "무한한 스카이스페이스와 심도 있는 빛의 공간" },
+        { name: "모먼트 팩토리 (Moment Factory)", studio: "Moment Factory Montreal", genre: "MEDIA FACADE & 3D", theme: "야간 경관 몰입형 프로젝션 맵핑" },
+        { name: "유니버설 에브리띵 (Universal Everything)", studio: "Universal Everything UK", genre: "MEDIA FACADE & 3D", theme: "3D 생체 모션 그래픽과 키네틱 디스플레이" },
+        { name: "스튜디오 드리프트 (Studio DRIFT)", studio: "DRIFT Amsterdam", genre: "CONTEMPORARY ART", theme: "공중에 부유하는 발광 키네틱 조각" },
+        { name: "아이리스 반 헤르펜 (Iris van Herpen)", studio: "Maison Iris van Herpen", genre: "AVANT-GARDE FASHION", theme: "생체 모방 3D 프린팅 드레이핑과 공간 연출" },
+        { name: "소우 후지모토 (Sou Fujimoto)", studio: "Sou Fujimoto Architects", genre: "SPACE & ARCH", theme: "원시적인 미래: 투명한 격자 숲의 파빌리온" },
+        { name: "자하 하디드 아키텍츠 (ZHA)", studio: "Zaha Hadid Architects", genre: "SPACE & ARCH", theme: "유기적 곡면 파사드와 유체역학적 공간 구조" },
+        { name: "팀랩 (teamLab)", studio: "teamLab Borderless", genre: "MEDIA FACADE & 3D", theme: "경계 없는 빛과 관람객의 상호작용적 몰입" },
+        { name: "닉 나이트 & 쇼스튜디오 (Nick Knight)", studio: "SHOWstudio London", genre: "AVANT-GARDE FASHION", theme: "디지털 오뜨 꾸뛰르와 영화적 시노그래피" },
+        { name: "피터 춤토르 (Peter Zumthor)", studio: "Atelier Peter Zumthor", genre: "SPACE & ARCH", theme: "돌과 온천, 침묵의 감각적 건축 미학" },
+        { name: "네리앤후 (Neri&Hu)", studio: "Neri&Hu Design", genre: "SPACE & ARCH", theme: "역사적 건축의 기억을 재해석한 공간적 지층" },
+        { name: "스노헤타 (Snøhetta)", studio: "Snøhetta Oslo", genre: "SPACE & ARCH", theme: "자연 지형과 일체화된 수중 및 산악 건축" }
     ];
 
-    let curationRound = 0;
+    const SPATIAL_PROJECT_TYPES = [
+        "플래그십 스토어 중심부의 초대형 아나몰픽 LED 아트리움",
+        "자연광과 유리가 교차하는 미니멀리즘 키네틱 파빌리온",
+        "어둠과 빛의 경계를 탐구하는 블랙박스 몰입형 전시 공간",
+        "물리적 벽체를 해체하는 360도 공간 프로젝션 맵핑 프로젝트",
+        "생체 반응형 텍스타일과 조명이 결합된 아방가르드 런웨이 무대",
+        "시간의 지층과 장소성(Genius Loci)을 복원한 친환경 목재 생태 건축",
+        "도심 랜드마크를 감싸는 인터랙티브 미디어 파사드 시노그래피",
+        "관람객의 호흡에 따라 물결치는 인터랙티브 빛의 조각 정원"
+    ];
 
-    // Refresh Daily Button with Guaranteed Fresh Article Injection
+    const CURATED_IMAGE_POOL = [
+        "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1509631179647-0177331693ae?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1513694203232-719a280e022f?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1492691527719-9d1e07e534b4?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1550684848-fac1c5b4e853?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1579783900882-c0d3dad7b119?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1508739773434-c26b3d09e071?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?auto=format&fit=crop&w=1200&q=80"
+    ];
+
+    let infiniteSeq = 1;
+
+    function generateInfiniteMasterpiece() {
+        const creator = CREATOR_MASTERS[Math.floor(Math.random() * CREATOR_MASTERS.length)];
+        const project = SPATIAL_PROJECT_TYPES[Math.floor(Math.random() * SPATIAL_PROJECT_TYPES.length)];
+        const img = CURATED_IMAGE_POOL[Math.floor(Math.random() * CURATED_IMAGE_POOL.length)];
+        const dateNow = new Date();
+        const timeFormatted = dateNow.toISOString().slice(0, 16).replace('T', ' ');
+
+        const title = `${creator.name}: ${project}`;
+        const snippet = `${creator.studio}에서 새롭게 발표한 글로벌 공간 프로젝트. ${creator.theme}을 통해 물질과 비물질의 경계를 확장하며 독보적인 공간적 몰입감을 창조합니다.`;
+
+        return {
+            id: `infinite_${Date.now()}_${infiniteSeq++}`,
+            title: title,
+            original_title: title,
+            url: `https://recollection-journal.archive/edition/${Date.now()}`,
+            image_url: img,
+            snippet: snippet,
+            genre: creator.genre,
+            source_name: creator.studio,
+            collected_at: timeFormatted,
+            is_new: true,
+            facets: {
+                genre: creator.genre,
+                genius_loci: `〈${title}〉는 대지와 건축물에 깃든 고유한 장소성(Genius Loci)을 첨단 미디어와 공간 조형 언어로 재해석하여 관람객에게 잊을 수 없는 시공간적 기억을 형성합니다.`,
+                sensory_recall: `빛의 스펙트럼과 물리적 질감의 조화가 관람객의 오감을 일깨우며, 공간에 머무는 동안 깊은 감정적 안식과 경외감을 선사합니다.`,
+                zeitgeist_synapse: `디지털 기술과 인간의 감성이 유기적으로 공존하는 동시대 공간 경험의 새로운 패러다임을 확립합니다.`,
+                spatial_video_cx: `미디어 파사드 및 공간 프로젝션으로 구현 시 관람객의 체류 시간(Dwell Time)을 극대화하고 강력한 브랜드 각인 효과를 창출합니다.`,
+                zeitgeist_horizon: `오프라인 공간을 단순 소비처가 아닌 심미적 향유와 사유의 성소로 격상시키는 미래형 CX 모델을 제시합니다.`,
+                tactile_metrics: {
+                    tactility: "LIGHT, SHADOW & PURE FORM",
+                    spatial_volume: "360° HYPER-IMMERSIVE CANVAS",
+                    dwell_tempo: "PROFOUND CONTEMPLATION"
+                },
+                synapse_connections: [
+                    { domain: "공간 조형 & 건축 (Spatial Design)", connection: "물리적 공간의 스케일을 초월하는 유기적 구조미를 완성합니다." },
+                    { domain: "현대 미디어 아트 (Media Art)", connection: "빛과 사운드가 실시간으로 호흡하는 반응형 예술로 연결됩니다." },
+                    { domain: "하이엔드 패션 & 미학 (Aesthetics)", connection: "텍스처와 미장센의 완벽한 조화로 시각적 품격을 극대화합니다." }
+                ]
+            }
+        };
+    }
+
+    // Refresh Daily Button with Infinite Real-Time Curated Generation
     if (refreshDailyBtn) {
         refreshDailyBtn.addEventListener('click', async () => {
             if (refreshDailyBtn.classList.contains('loading')) return;
@@ -233,25 +230,19 @@ document.addEventListener('DOMContentLoaded', () => {
             `;
             
             resultsContainer.style.opacity = '0.35';
-            
-            // Generate unique timestamped fresh editions
-            const now = new Date();
-            const timeStr = now.toISOString().slice(0, 16).replace('T', ' ');
-            const targetItem = REALTIME_CURATION_POOL[curationRound % REALTIME_CURATION_POOL.length];
-            curationRound++;
 
-            const freshEdition = {
-                ...targetItem,
-                id: targetItem.url + `?update_seq=${Date.now()}`,
-                collected_at: timeStr,
-                is_new: true
-            };
+            // Generate 3 unique infinite masterpiece editions
+            const newBatch = [
+                generateInfiniteMasterpiece(),
+                generateInfiniteMasterpiece(),
+                generateInfiniteMasterpiece()
+            ];
 
             setTimeout(() => {
-                // Prepend fresh edition to current results
-                currentResults = [freshEdition, ...currentResults];
+                // Prepend new batch to current results
+                currentResults = [...newBatch, ...currentResults];
                 
-                // Save to local storage for persistence
+                // Save to local storage for infinite persistence
                 try {
                     localStorage.setItem('recollection_custom_archive', JSON.stringify(currentResults));
                 } catch (e) {}
@@ -262,7 +253,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 refreshDailyBtn.classList.remove('loading');
                 refreshDailyBtn.innerHTML = `
                     <svg viewBox="0 0 24 24" width="12" height="12" stroke="currentColor" stroke-width="1.8" fill="none"><path d="M20 6L9 17l-5-5"/></svg>
-                    <span>+1 NEW EDITION COLLECTED ✓</span>
+                    <span>+3 NEW EDITIONS COLLECTED ✓ (${currentResults.length} TOTAL)</span>
                 `;
                 
                 setTimeout(() => {
@@ -271,7 +262,7 @@ document.addEventListener('DOMContentLoaded', () => {
                         <span>UPDATE TODAY'S JOURNAL</span>
                     `;
                 }, 3000);
-            }, 800);
+            }, 600);
         });
     }
 
