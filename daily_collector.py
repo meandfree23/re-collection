@@ -451,9 +451,11 @@ def run_daily_collection(limit_per_source=4):
             existing_items = []
             
     raw_entries_to_process = []
+    headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'}
     for source in CURATED_SOURCES:
         try:
-            feed = feedparser.parse(source['url'])
+            resp = requests.get(source['url'], headers=headers, timeout=8)
+            feed = feedparser.parse(resp.content if resp.status_code == 200 else source['url'])
             count = 0
             for entry in feed.entries:
                 url = entry.get('link', '')
