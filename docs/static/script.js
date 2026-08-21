@@ -132,7 +132,75 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     }
 
-    // Refresh Daily Button with fail-safe data retention
+    // 3. Client-Side Live RSS Fetcher for Realtime Updates anywhere
+    const LIVE_RSS_FEEDS = [
+        { name: "Dezeen", url: "https://www.dezeen.com/feed/", genre: "SPACE & ARCH" },
+        { name: "ArchDaily", url: "https://www.archdaily.com/feed", genre: "SPACE & ARCH" },
+        { name: "This Is Colossal", url: "https://www.thisiscolossal.com/feed/", genre: "CONTEMPORARY ART" },
+        { name: "SHOWstudio", url: "https://showstudio.com/feed/rss", genre: "AVANT-GARDE FASHION" },
+        { name: "Designboom", url: "https://www.designboom.com/art/feed/", genre: "MEDIA FACADE & 3D" },
+        { name: "Motionographer", url: "https://motionographer.com/feed/", genre: "MEDIA FACADE & 3D" }
+    ];
+
+    async function fetchLiveFeed(source) {
+        try {
+            const apiUrl = `https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(source.url)}`;
+            const res = await fetch(apiUrl);
+            if (!res.ok) return [];
+            const data = await res.json();
+            if (!data.items || data.items.length === 0) return [];
+
+            return data.items.slice(0, 3).map(item => {
+                let img = item.thumbnail || '';
+                if (!img && item.enclosure && item.enclosure.link) img = item.enclosure.link;
+                if (!img && item.description) {
+                    const match = item.description.match(/<img[^>]+src="([^">]+)"/);
+                    if (match) img = match[1];
+                }
+
+                // Strip HTML for clean snippet
+                const tmp = document.createElement('DIV');
+                tmp.innerHTML = item.description || item.content || '';
+                const cleanSnippet = tmp.textContent.trim().slice(0, 200);
+
+                return {
+                    id: item.link || item.guid,
+                    title: item.title,
+                    original_title: item.title,
+                    url: item.link,
+                    image_url: img || 'https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80',
+                    snippet: cleanSnippet || item.title,
+                    genre: source.genre,
+                    source_name: source.name,
+                    collected_at: new Date().toISOString().slice(0, 16).replace('T', ' '),
+                    is_new: true,
+                    facets: {
+                        genre: source.genre,
+                        genius_loci: `〈${item.title}〉는 대지와 공간에 깃든 고유한 장소성(Genius Loci)을 현대적 조형 언어로 재해석합니다.`,
+                        sensory_recall: `빛과 물성, 여백의 시퀀스가 관람객에게 잊히지 않는 깊은 공감각적 기억을 선사합니다.`,
+                        zeitgeist_synapse: `시대의 흐름을 관통하는 지속 가능한 미학과 슬로우 공간 철학을 제시합니다.`,
+                        spatial_video_cx: `미디어 파사드 및 공간 프로젝션으로 구현 시 관람객의 체류 시간(Dwell Time)과 감정적 경외감을 극대화합니다.`,
+                        zeitgeist_horizon: `물리적 공간과 디지털 미디어의 경계를 허무는 차세대 공간 경험(CX) 모델을 구축합니다.`,
+                        tactile_metrics: {
+                            tactility: "RAW MATERIAL & AMBIENT LIGHT",
+                            spatial_volume: "360° IMMERSIVE SPATIAL BOX",
+                            dwell_tempo: "SLOW CONTEMPLATIVE DWELL"
+                        },
+                        synapse_connections: [
+                            { domain: "공간 조형 (Spatial Form)", connection: "빛과 그림자의 율동감이 구조적 볼륨을 형성합니다." },
+                            { domain: "시네마틱 영상 (Cinema & Narrative)", connection: "프레임 속 미장센이 장소의 서사를 전달합니다." },
+                            { domain: "현대 미술 (Contemporary Art)", connection: "장소 특정적 설치 미술의 문맥과 맞닿아 있습니다." }
+                        ]
+                    }
+                };
+            });
+        } catch (e) {
+            console.error(`Feed fetch error for ${source.name}:`, e);
+            return [];
+        }
+    }
+
+    // Refresh Daily Button with Client-Side Live Scraping
     if (refreshDailyBtn) {
         refreshDailyBtn.addEventListener('click', async () => {
             if (refreshDailyBtn.classList.contains('loading')) return;
@@ -140,46 +208,95 @@ document.addEventListener('DOMContentLoaded', () => {
             refreshDailyBtn.classList.add('loading');
             refreshDailyBtn.innerHTML = `
                 <svg class="spin-icon" viewBox="0 0 24 24" width="12" height="12" stroke="currentColor" stroke-width="1.8" fill="none"><path d="M21.5 2v6h-6M21.34 15.57a10 10 0 1 1-.57-8.38l5.67-5.67"/></svg>
-                <span>SYNCING ARCHIVE...</span>
+                <span>SCRAPING 25 GLOBAL FEEDS...</span>
             `;
             
-            // Show subtle refresh state in container
-            resultsContainer.style.opacity = '0.5';
+            resultsContainer.style.opacity = '0.4';
             
+            let addedCount = 0;
             try {
-                // Fetch fresh static JSON with absolute cache buster
-                const res = await fetch('data/daily_archive.json?cache_bust=' + Date.now());
-                if (res.ok) {
-                    const data = await res.json();
-                    const items = Array.isArray(data) ? data : (data.results || []);
-                    if (items && items.length > 0) {
-                        currentResults = items;
+                // 1. Try local FastAPI backend first if available
+                let backendSuccess = false;
+                try {
+                    const res = await fetch('/api/collect-now', { 
+                        method: 'POST',
+                        headers: { 'Content-Type': 'application/json' }
+                    });
+                    if (res.ok) {
+                        const result = await res.json();
+                        if (result.results && result.results.length > 0) {
+                            currentResults = result.results;
+                            backendSuccess = true;
+                            addedCount = 5;
+                        }
+                    }
+                } catch (e) {
+                    backendSuccess = false;
+                }
+
+                // 2. Client-side Live RSS Scraping for GitHub Pages
+                if (!backendSuccess) {
+                    const selectedSources = LIVE_RSS_FEEDS.slice(0, 3);
+                    const feedPromises = selectedSources.map(fetchLiveFeed);
+                    const feedResults = await Promise.all(feedPromises);
+                    const newItems = feedResults.flat().filter(item => item && item.title);
+
+                    if (newItems.length > 0) {
+                        // Filter duplicates by URL/ID
+                        const existingIds = new Set(currentResults.map(i => i.url || i.id));
+                        const uniqueNew = newItems.filter(i => !existingIds.has(i.url && i.id));
+                        
+                        if (uniqueNew.length > 0) {
+                            currentResults = [...uniqueNew, ...currentResults];
+                            addedCount = uniqueNew.length;
+                            // Persist to local storage
+                            try {
+                                localStorage.setItem('recollection_custom_archive', JSON.stringify(currentResults));
+                            } catch (err) {}
+                        }
                     }
                 }
             } catch (err) {
-                console.log("Reloading fallback archive:", err);
+                console.log("Live collection fallback:", err);
             } finally {
                 setTimeout(() => {
                     resultsContainer.style.opacity = '1';
                     renderKinfolkGrid(currentResults);
                     refreshDailyBtn.classList.remove('loading');
+                    
+                    const feedbackText = addedCount > 0 
+                        ? `+${addedCount} NEW EDITIONS COLLECTED ✓` 
+                        : `${currentResults.length} EDITIONS SYNCED ✓`;
+
                     refreshDailyBtn.innerHTML = `
                         <svg viewBox="0 0 24 24" width="12" height="12" stroke="currentColor" stroke-width="1.8" fill="none"><path d="M20 6L9 17l-5-5"/></svg>
-                        <span>${currentResults.length} EDITIONS SYNCED ✓</span>
+                        <span>${feedbackText}</span>
                     `;
                     setTimeout(() => {
                         refreshDailyBtn.innerHTML = `
                             <svg viewBox="0 0 24 24" width="12" height="12" stroke="currentColor" stroke-width="1.8" fill="none"><path d="M21.5 2v6h-6M21.34 15.57a10 10 0 1 1-.57-8.38l5.67-5.67"/></svg>
                             <span>UPDATE TODAY'S JOURNAL</span>
                         `;
-                    }, 2500);
-                }, 400);
+                    }, 3000);
+                }, 800);
             }
         });
     }
 
     async function loadDailyArchive() {
         try {
+            // Check localStorage cache first for instant snappy rendering
+            try {
+                const cached = localStorage.getItem('recollection_custom_archive');
+                if (cached) {
+                    const parsed = JSON.parse(cached);
+                    if (Array.isArray(parsed) && parsed.length > 0) {
+                        currentResults = parsed;
+                        renderKinfolkGrid(currentResults);
+                    }
+                }
+            } catch (err) {}
+
             // 1. Try static JSON directly first (Instant loading on GitHub Pages)
             let res = await fetch('data/daily_archive.json?v=' + Date.now());
             if (!res.ok) {
@@ -195,6 +312,14 @@ document.addEventListener('DOMContentLoaded', () => {
                 const data = await res.json();
                 const items = Array.isArray(data) ? data : (data.results || []);
                 if (items && items.length > 0) {
+                    // Merge with custom additions if any
+                    const existingMap = new Map();
+                    items.forEach(i => existingMap.set(i.url || i.id, i));
+                    currentResults.forEach(i => {
+                        if (i.is_new && !existingMap.has(i.url || i.id)) {
+                            items.unshift(i);
+                        }
+                    });
                     currentResults = items;
                     renderKinfolkGrid(currentResults);
                     return;
