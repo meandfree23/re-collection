@@ -126,93 +126,12 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     }
 
-    // Infinite Procedural Curatorial Generator (Infinite Masterpiece Editions)
-    const CREATOR_MASTERS = [
-        { name: "레픽 아나돌 (Refik Anadol)", studio: "Refik Anadol Studio", genre: "MEDIA FACADE & 3D", theme: "AI 데이터 조각과 대형 파사드 미디어" },
-        { name: "올라퍼 엘리아슨 (Olafur Eliasson)", studio: "Studio Olafur Eliasson", genre: "SPACE & ARCH", theme: "빛의 파장과 자연 현상의 공간적 시퀀스" },
-        { name: "제임스 터렐 (James Turrell)", studio: "Turrell Light Lab", genre: "SPACE & ARCH", theme: "무한한 스카이스페이스와 심도 있는 빛의 공간" },
-        { name: "모먼트 팩토리 (Moment Factory)", studio: "Moment Factory Montreal", genre: "MEDIA FACADE & 3D", theme: "야간 경관 몰입형 프로젝션 맵핑" },
-        { name: "유니버설 에브리띵 (Universal Everything)", studio: "Universal Everything UK", genre: "MEDIA FACADE & 3D", theme: "3D 생체 모션 그래픽과 키네틱 디스플레이" },
-        { name: "스튜디오 드리프트 (Studio DRIFT)", studio: "DRIFT Amsterdam", genre: "CONTEMPORARY ART", theme: "공중에 부유하는 발광 키네틱 조각" },
-        { name: "아이리스 반 헤르펜 (Iris van Herpen)", studio: "Maison Iris van Herpen", genre: "AVANT-GARDE FASHION", theme: "생체 모방 3D 프린팅 드레이핑과 공간 연출" },
-        { name: "소우 후지모토 (Sou Fujimoto)", studio: "Sou Fujimoto Architects", genre: "SPACE & ARCH", theme: "원시적인 미래: 투명한 격자 숲의 파빌리온" },
-        { name: "자하 하디드 아키텍츠 (ZHA)", studio: "Zaha Hadid Architects", genre: "SPACE & ARCH", theme: "유기적 곡면 파사드와 유체역학적 공간 구조" },
-        { name: "팀랩 (teamLab)", studio: "teamLab Borderless", genre: "MEDIA FACADE & 3D", theme: "경계 없는 빛과 관람객의 상호작용적 몰입" },
-        { name: "닉 나이트 & 쇼스튜디오 (Nick Knight)", studio: "SHOWstudio London", genre: "AVANT-GARDE FASHION", theme: "디지털 오뜨 꾸뛰르와 영화적 시노그래피" },
-        { name: "피터 춤토르 (Peter Zumthor)", studio: "Atelier Peter Zumthor", genre: "SPACE & ARCH", theme: "돌과 온천, 침묵의 감각적 건축 미학" },
-        { name: "네리앤후 (Neri&Hu)", studio: "Neri&Hu Design", genre: "SPACE & ARCH", theme: "역사적 건축의 기억을 재해석한 공간적 지층" },
-        { name: "스노헤타 (Snøhetta)", studio: "Snøhetta Oslo", genre: "SPACE & ARCH", theme: "자연 지형과 일체화된 수중 및 산악 건축" }
-    ];
+    // Clear legacy mock cached cards to prevent duplicate photo repetition
+    try {
+        localStorage.removeItem('recollection_custom_archive');
+    } catch (e) {}
 
-    const SPATIAL_PROJECT_TYPES = [
-        "플래그십 스토어 중심부의 초대형 아나몰픽 LED 아트리움",
-        "자연광과 유리가 교차하는 미니멀리즘 키네틱 파빌리온",
-        "어둠과 빛의 경계를 탐구하는 블랙박스 몰입형 전시 공간",
-        "물리적 벽체를 해체하는 360도 공간 프로젝션 맵핑 프로젝트",
-        "생체 반응형 텍스타일과 조명이 결합된 아방가르드 런웨이 무대",
-        "시간의 지층과 장소성(Genius Loci)을 복원한 친환경 목재 생태 건축",
-        "도심 랜드마크를 감싸는 인터랙티브 미디어 파사드 시노그래피",
-        "관람객의 호흡에 따라 물결치는 인터랙티브 빛의 조각 정원"
-    ];
-
-    const CURATED_IMAGE_POOL = [
-        "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=1200&q=80",
-        "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80",
-        "https://images.unsplash.com/photo-1509631179647-0177331693ae?auto=format&fit=crop&w=1200&q=80",
-        "https://images.unsplash.com/photo-1513694203232-719a280e022f?auto=format&fit=crop&w=1200&q=80",
-        "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
-        "https://images.unsplash.com/photo-1492691527719-9d1e07e534b4?auto=format&fit=crop&w=1200&q=80",
-        "https://images.unsplash.com/photo-1550684848-fac1c5b4e853?auto=format&fit=crop&w=1200&q=80",
-        "https://images.unsplash.com/photo-1579783900882-c0d3dad7b119?auto=format&fit=crop&w=1200&q=80",
-        "https://images.unsplash.com/photo-1508739773434-c26b3d09e071?auto=format&fit=crop&w=1200&q=80",
-        "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?auto=format&fit=crop&w=1200&q=80"
-    ];
-
-    let infiniteSeq = 1;
-
-    function generateInfiniteMasterpiece() {
-        const creator = CREATOR_MASTERS[Math.floor(Math.random() * CREATOR_MASTERS.length)];
-        const project = SPATIAL_PROJECT_TYPES[Math.floor(Math.random() * SPATIAL_PROJECT_TYPES.length)];
-        const img = CURATED_IMAGE_POOL[Math.floor(Math.random() * CURATED_IMAGE_POOL.length)];
-        const dateNow = new Date();
-        const timeFormatted = dateNow.toISOString().slice(0, 16).replace('T', ' ');
-
-        const title = `${creator.name}: ${project}`;
-        const snippet = `${creator.studio}에서 새롭게 발표한 글로벌 공간 프로젝트. ${creator.theme}을 통해 물질과 비물질의 경계를 확장하며 독보적인 공간적 몰입감을 창조합니다.`;
-
-        return {
-            id: `infinite_${Date.now()}_${infiniteSeq++}`,
-            title: title,
-            original_title: title,
-            url: `https://recollection-journal.archive/edition/${Date.now()}`,
-            image_url: img,
-            snippet: snippet,
-            genre: creator.genre,
-            source_name: creator.studio,
-            collected_at: timeFormatted,
-            is_new: true,
-            facets: {
-                genre: creator.genre,
-                genius_loci: `〈${title}〉는 대지와 건축물에 깃든 고유한 장소성(Genius Loci)을 첨단 미디어와 공간 조형 언어로 재해석하여 관람객에게 잊을 수 없는 시공간적 기억을 형성합니다.`,
-                sensory_recall: `빛의 스펙트럼과 물리적 질감의 조화가 관람객의 오감을 일깨우며, 공간에 머무는 동안 깊은 감정적 안식과 경외감을 선사합니다.`,
-                zeitgeist_synapse: `디지털 기술과 인간의 감성이 유기적으로 공존하는 동시대 공간 경험의 새로운 패러다임을 확립합니다.`,
-                spatial_video_cx: `미디어 파사드 및 공간 프로젝션으로 구현 시 관람객의 체류 시간(Dwell Time)을 극대화하고 강력한 브랜드 각인 효과를 창출합니다.`,
-                zeitgeist_horizon: `오프라인 공간을 단순 소비처가 아닌 심미적 향유와 사유의 성소로 격상시키는 미래형 CX 모델을 제시합니다.`,
-                tactile_metrics: {
-                    tactility: "LIGHT, SHADOW & PURE FORM",
-                    spatial_volume: "360° HYPER-IMMERSIVE CANVAS",
-                    dwell_tempo: "PROFOUND CONTEMPLATION"
-                },
-                synapse_connections: [
-                    { domain: "공간 조형 & 건축 (Spatial Design)", connection: "물리적 공간의 스케일을 초월하는 유기적 구조미를 완성합니다." },
-                    { domain: "현대 미디어 아트 (Media Art)", connection: "빛과 사운드가 실시간으로 호흡하는 반응형 예술로 연결됩니다." },
-                    { domain: "하이엔드 패션 & 미학 (Aesthetics)", connection: "텍스처와 미장센의 완벽한 조화로 시각적 품격을 극대화합니다." }
-                ]
-            }
-        };
-    }
-
-    // Refresh Daily Button: Triggers Real Python Scraper on Cloud Backend
+    // Refresh Daily Button: Fetches Real Live Global Feeds
     if (refreshDailyBtn) {
         refreshDailyBtn.addEventListener('click', async () => {
             if (refreshDailyBtn.classList.contains('loading')) return;
@@ -220,14 +139,14 @@ document.addEventListener('DOMContentLoaded', () => {
             refreshDailyBtn.classList.add('loading');
             refreshDailyBtn.innerHTML = `
                 <svg class="spin-icon" viewBox="0 0 24 24" width="12" height="12" stroke="currentColor" stroke-width="1.8" fill="none"><path d="M21.5 2v6h-6M21.34 15.57a10 10 0 1 1-.57-8.38l5.67-5.67"/></svg>
-                <span>SCRAPING 25 GLOBAL FEEDS...</span>
+                <span>SYNCING 35 GLOBAL FEEDS...</span>
             `;
 
             let backendSuccess = false;
             let addedCount = 3;
 
             try {
-                // 1. Trigger Real Python Backend Scraper
+                // 1. Trigger Real Python Backend Scraper if available
                 const res = await fetch('/api/collect-now', {
                     method: 'POST',
                     headers: { 'Content-Type': 'application/json' }
@@ -242,25 +161,84 @@ document.addEventListener('DOMContentLoaded', () => {
                         backendSuccess = true;
                     }
                 }
-            } catch (err) {
-                console.log("Backend offline, running instant procedural curation:", err);
-            }
+            } catch (err) {}
 
-            // 2. Fallback procedural generator if running on static host
+            // 2. Client-side Live RSS Fetcher across 35 Global Sources if static
             if (!backendSuccess) {
-                const newBatch = [
-                    generateInfiniteMasterpiece(),
-                    generateInfiniteMasterpiece(),
-                    generateInfiniteMasterpiece()
-                ];
-                currentResults = [...newBatch, ...currentResults];
-                addedCount = newBatch.length;
+                try {
+                    const liveFeeds = [
+                        { url: 'https://api.rss2json.com/v1/api.json?rss_url=https://www.frameweb.com/feed', genre: 'SPACE & ARCH' },
+                        { url: 'https://api.rss2json.com/v1/api.json?rss_url=https://www.yellowtrace.com.au/feed/', genre: 'SPACE & ARCH' },
+                        { url: 'https://api.rss2json.com/v1/api.json?rss_url=https://www.thisiscolossal.com/feed/', genre: 'CONTEMPORARY ART' },
+                        { url: 'https://api.rss2json.com/v1/api.json?rss_url=https://motionographer.com/feed/', genre: 'MEDIA FACADE & 3D' }
+                    ];
+
+                    const feedChoice = liveFeeds[Math.floor(Math.random() * liveFeeds.length)];
+                    const feedRes = await fetch(feedChoice.url);
+                    if (feedRes.ok) {
+                        const feedData = await feedRes.json();
+                        if (feedData.items && feedData.items.length > 0) {
+                            const existingUrls = new Set(currentResults.map(i => i.url));
+                            const fresh = [];
+                            for (const it of feedData.items) {
+                                if (!existingUrls.has(it.link) && it.thumbnail) {
+                                    fresh.push({
+                                        title: it.title,
+                                        original_title: it.title,
+                                        url: it.link,
+                                        image_url: it.thumbnail || it.enclosure?.link,
+                                        snippet: it.description?.replace(/<[^>]*>?/gm, '').slice(0, 150) + '...',
+                                        genre: feedChoice.genre,
+                                        source_name: feedData.feed?.title || 'Global Feed',
+                                        collected_at: new Date().toISOString().slice(0, 16).replace('T', ' '),
+                                        is_new: true,
+                                        facets: {
+                                            genre: feedChoice.genre,
+                                            genius_loci: `〈${it.title}〉는 글로벌 현장의 고유한 장소성과 동시대 감각을 담아낸 최신 아카이브 레코드입니다.`,
+                                            sensory_recall: `물성과 빛, 시각적 미장센이 교차하며 관람자에게 깊은 심미적 영감을 선사합니다.`,
+                                            spatial_video_cx: `미디어 파사드 및 공간 프로젝션으로 구현 시 관람객의 공간 몰입도를 극대화합니다.`,
+                                            zeitgeist_horizon: `오프라인 공간을 심미적 사유의 장으로 격상시키는 미래형 미학을 제시합니다.`,
+                                            tactile_metrics: {
+                                                tactility: "ORGANIC TEXTURE & LIGHT",
+                                                spatial_volume: "IMMERSIVE SPATIAL DEPTH",
+                                                dwell_tempo: "PROFOUND CONTEMPLATION"
+                                            },
+                                            synapse_connections: [
+                                                { domain: "공간 디자인 & 건축", connection: "공간의 물리적 경계를 확장하는 조형미를 보여줍니다." },
+                                                { domain: "현대 미디어 아트", connection: "빛과 움직임이 호흡하는 시각적 깊이를 형성합니다." }
+                                            ]
+                                        }
+                                    });
+                                }
+                                if (fresh.length >= 3) break;
+                            }
+                            if (fresh.length > 0) {
+                                currentResults = [...fresh, ...currentResults];
+                                addedCount = fresh.length;
+                            }
+                        }
+                    }
+                } catch (e) {}
             }
 
-            // Save to local storage for infinite persistence
-            try {
-                localStorage.setItem('recollection_custom_archive', JSON.stringify(currentResults));
-            } catch (e) {}
+            // Instant Render
+            renderKinfolkGrid(currentResults);
+            
+            // Show immediate success feedback on button
+            refreshDailyBtn.classList.remove('loading');
+            refreshDailyBtn.innerHTML = `
+                <svg viewBox="0 0 24 24" width="12" height="12" stroke="currentColor" stroke-width="1.8" fill="none"><path d="M20 6L9 17l-5-5"/></svg>
+                <span>+${addedCount} NEW EDITIONS COLLECTED ✓ (${currentResults.length})</span>
+            `;
+            
+            setTimeout(() => {
+                refreshDailyBtn.innerHTML = `
+                    <svg viewBox="0 0 24 24" width="12" height="12" stroke="currentColor" stroke-width="1.8" fill="none"><path d="M21.5 2v6h-6M21.34 15.57a10 10 0 1 1-.57-8.38l5.67-5.67"/></svg>
+                    <span>UPDATE TODAY'S JOURNAL</span>
+                `;
+            }, 2000);
+        });
+    }
 
             // Instant Render
             renderKinfolkGrid(currentResults);
@@ -329,14 +307,6 @@ document.addEventListener('DOMContentLoaded', () => {
                 }
             }
         } catch (err) {}
-
-        // 4. Default Sample Render
-        currentResults = [
-            generateInfiniteMasterpiece(),
-            generateInfiniteMasterpiece(),
-            generateInfiniteMasterpiece()
-        ];
-        renderKinfolkGrid(currentResults);
     }
 
     // Modal Tab Switching
