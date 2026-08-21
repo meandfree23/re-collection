@@ -1,0 +1,743 @@
+:root {
+    --bg-paper: #fbf9f5;
+    --bg-paper-sub: #f3f0e8;
+    --bg-card: #ffffff;
+    --border-hairline: rgba(0, 0, 0, 0.08);
+    --border-subtle: rgba(0, 0, 0, 0.12);
+    --border-focus: #1c1917;
+
+    --text-main: #1c1917;
+    --text-serif: #292524;
+    --text-muted: #78716c;
+    --text-faint: #a8a29e;
+    --accent-sand: #8c7851;
+
+    --font-serif: 'Noto Serif KR', serif;
+    --font-editorial: 'Cormorant Garamond', Georgia, serif;
+    --font-sans: 'Plus Jakarta Sans', -apple-system, sans-serif;
+
+    --transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: var(--bg-paper);
+    color: var(--text-main);
+    font-family: var(--font-sans);
+    min-height: 100vh;
+    line-height: 1.65;
+    -webkit-font-smoothing: antialiased;
+}
+
+.kinfolk-wrapper {
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 3.5rem 2.5rem 6rem 2.5rem;
+}
+
+/* ==========================================================================
+   Kinfolk Journal Header
+   ========================================================================== */
+.kinfolk-header {
+    text-align: center;
+    padding-bottom: 2.8rem;
+    margin-bottom: 3.5rem;
+    border-bottom: 1px solid var(--border-hairline);
+}
+
+.header-top-meta {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.8rem;
+    font-size: 0.72rem;
+    letter-spacing: 0.18em;
+    color: var(--text-muted);
+    text-transform: uppercase;
+    margin-bottom: 1.8rem;
+    font-weight: 500;
+}
+
+.meta-divider {
+    color: var(--text-faint);
+}
+
+.header-main-title {
+    margin-bottom: 2.5rem;
+}
+
+.kinfolk-logo {
+    font-family: var(--font-editorial);
+    font-size: 3.4rem;
+    font-weight: 600;
+    letter-spacing: 0.14em;
+    color: var(--text-main);
+    line-height: 1.1;
+    margin-bottom: 0.6rem;
+}
+
+.kinfolk-sub {
+    font-family: var(--font-serif);
+    font-size: 1rem;
+    font-style: italic;
+    color: var(--text-muted);
+    letter-spacing: 0.05em;
+}
+
+.header-action-bar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 2.8rem;
+    padding-top: 1.5rem;
+    border-top: 1px solid var(--border-subtle);
+    gap: 1rem;
+}
+
+.spatial-filter-bar {
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
+    flex-wrap: wrap;
+}
+
+.spatial-filter-btn {
+    background: transparent;
+    border: 1px solid var(--border-subtle);
+    color: var(--text-muted);
+    font-family: var(--font-sans);
+    font-size: 0.72rem;
+    font-weight: 500;
+    letter-spacing: 0.08em;
+    padding: 0.4rem 0.85rem;
+    border-radius: 2px;
+    cursor: pointer;
+    transition: var(--transition);
+}
+
+.spatial-filter-btn:hover {
+    color: var(--text-main);
+    border-color: var(--text-main);
+}
+
+.spatial-filter-btn.active {
+    background: var(--text-main);
+    color: #ffffff;
+    border-color: var(--text-main);
+}
+
+.header-btn-group {
+    display: flex;
+    align-items: center;
+    gap: 0.8rem;
+}
+
+.kinfolk-audio-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    background: var(--bg-paper);
+    border: 1px solid var(--border-subtle);
+    color: var(--text-main);
+    font-family: var(--font-sans);
+    font-size: 0.75rem;
+    font-weight: 500;
+    letter-spacing: 0.06em;
+    padding: 0.55rem 1rem;
+    border-radius: 50px;
+    cursor: pointer;
+    transition: var(--transition);
+}
+
+.kinfolk-audio-btn:hover {
+    background: var(--text-main);
+    color: #ffffff;
+}
+
+.kinfolk-audio-btn.playing {
+    background: #1c1917;
+    color: #fbf9f5;
+    border-color: #1c1917;
+    animation: pulse 2s infinite;
+}
+
+/* Card Memory Insight Box (Experience & Memory Interpretation) */
+.card-memory-box {
+    margin-top: 1rem;
+    padding-top: 0.9rem;
+    border-top: 1px dashed rgba(28, 25, 23, 0.12);
+}
+
+.card-memory-label {
+    display: block;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    font-size: 0.65rem;
+    font-weight: 600;
+    letter-spacing: 0.12em;
+    color: var(--text-muted);
+    text-transform: uppercase;
+    margin-bottom: 0.35rem;
+}
+
+.card-memory-text {
+    font-family: 'Noto Serif KR', serif;
+    font-size: 0.84rem;
+    line-height: 1.6;
+    color: #44403c;
+    font-weight: 400;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+
+/* Card Source & Prompt Footer */
+.card-footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 1rem;
+    padding-top: 0.6rem;
+}
+
+.collection-note {
+    font-size: 0.7rem;
+    letter-spacing: 0.14em;
+    color: var(--text-muted);
+    text-transform: uppercase;
+}
+
+.kinfolk-update-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.45rem;
+    background: transparent;
+    border: 1px solid var(--border-subtle);
+    color: var(--text-main);
+    padding: 0.4rem 0.9rem;
+    border-radius: 20px;
+    font-size: 0.7rem;
+    font-weight: 600;
+    letter-spacing: 0.12em;
+    cursor: pointer;
+    transition: var(--transition);
+    text-transform: uppercase;
+}
+
+.kinfolk-update-btn:hover {
+    background: var(--text-main);
+    color: var(--bg-paper);
+    border-color: var(--text-main);
+}
+
+.kinfolk-update-btn.loading svg {
+    animation: spin 0.8s linear infinite;
+}
+
+/* ==========================================================================
+   Kinfolk Editorial Grid
+   ========================================================================== */
+.kinfolk-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(360px, 1fr));
+    gap: 4rem 2.8rem;
+}
+
+.kinfolk-card {
+    display: flex;
+    flex-direction: column;
+    cursor: pointer;
+    transition: var(--transition);
+    background: transparent;
+}
+
+.kinfolk-card:hover .card-media-box img {
+    transform: scale(1.025);
+}
+
+.kinfolk-card:hover .card-title {
+    color: var(--accent-sand);
+}
+
+.card-media-box {
+    position: relative;
+    width: 100%;
+    aspect-ratio: 4 / 3;
+    background: #f0ebe1;
+    overflow: hidden;
+}
+
+.film-badge {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background: rgba(28, 25, 23, 0.85);
+    color: #fbf9f5;
+    font-size: 0.65rem;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    font-weight: 600;
+    letter-spacing: 0.1em;
+    padding: 3px 7px;
+    border-radius: 2px;
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    backdrop-filter: blur(4px);
+    z-index: 2;
+}
+
+.card-img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+    transition: transform 0.8s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.kinfolk-card:hover .card-img {
+    transform: scale(1.03);
+}
+
+/* Modal Video Player */
+.modal-video-box {
+    position: relative;
+    width: 100%;
+    aspect-ratio: 16 / 9;
+    background: #1c1917;
+    overflow: hidden;
+}
+
+.modal-video-box iframe {
+    width: 100%;
+    height: 100%;
+    border: none;
+}
+
+
+/* Clean Typography Cover (Kinfolk Style) */
+.simple-text-cover {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: var(--bg-paper-sub);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem;
+    text-align: center;
+    border: 1px solid var(--border-hairline);
+    box-sizing: border-box;
+}
+
+.text-cover-badge {
+    font-size: 0.65rem;
+    font-weight: 600;
+    letter-spacing: 0.2em;
+    color: var(--text-muted);
+    text-transform: uppercase;
+    margin-bottom: 1rem;
+}
+
+.text-cover-title {
+    font-family: var(--font-serif);
+    font-size: 1.05rem;
+    font-weight: 500;
+    color: var(--text-serif);
+    line-height: 1.5;
+    max-height: 3.2em;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    word-break: keep-all;
+}
+
+.card-meta-line {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 0.7rem;
+    letter-spacing: 0.14em;
+    color: var(--text-muted);
+    text-transform: uppercase;
+    margin-bottom: 0.6rem;
+    font-weight: 500;
+}
+
+.card-title {
+    font-family: var(--font-serif);
+    font-size: 1.25rem;
+    font-weight: 500;
+    color: var(--text-serif);
+    line-height: 1.45;
+    margin-bottom: 0.7rem;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    word-break: keep-all;
+    transition: color 0.25s;
+}
+
+.card-snippet {
+    font-size: 0.9rem;
+    color: var(--text-muted);
+    line-height: 1.7;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    word-break: keep-all;
+}
+
+.card-source-tag {
+    font-size: 0.72rem;
+    color: var(--text-faint);
+    margin-top: 1rem;
+    letter-spacing: 0.05em;
+    text-transform: lowercase;
+}
+
+/* ==========================================================================
+   Loading State
+   ========================================================================== */
+.loading-state {
+    grid-column: 1 / -1;
+    text-align: center;
+    padding: 8rem 0;
+    color: var(--text-muted);
+    font-size: 0.92rem;
+    font-family: var(--font-serif);
+}
+
+.loading-spinner {
+    width: 26px;
+    height: 26px;
+    border: 1.5px solid var(--border-subtle);
+    border-top-color: var(--text-main);
+    border-radius: 50%;
+    animation: spin 0.8s linear infinite;
+    margin: 0 auto 1.4rem auto;
+}
+
+/* ==========================================================================
+   Kinfolk Minimalist Modal Dossier
+   ========================================================================== */
+.modal-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background: rgba(28, 25, 23, 0.45);
+    backdrop-filter: blur(8px);
+    z-index: 1000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 2rem;
+    animation: fadeIn 0.25s ease;
+}
+
+.dossier-card {
+    background: var(--bg-paper);
+    border: 1px solid var(--border-subtle);
+    border-radius: 4px;
+    width: 100%;
+    max-width: 960px;
+    max-height: 88vh;
+    overflow-y: auto;
+    position: relative;
+    box-shadow: 0 20px 50px rgba(0, 0, 0, 0.12);
+}
+
+.modal-close-btn {
+    position: absolute;
+    top: 1.5rem;
+    right: 1.5rem;
+    background: transparent;
+    border: none;
+    color: var(--text-muted);
+    font-size: 1.8rem;
+    line-height: 1;
+    cursor: pointer;
+    transition: var(--transition);
+}
+
+.modal-close-btn:hover {
+    color: var(--text-main);
+}
+
+.dossier-layout {
+    display: grid;
+    grid-template-columns: 360px 1fr;
+    min-height: 520px;
+}
+
+.dossier-visual-panel {
+    background: var(--bg-paper-sub);
+    border-right: 1px solid var(--border-hairline);
+    padding: 2.2rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.dossier-image-box {
+    position: relative;
+    width: 100%;
+    height: 240px;
+    background: #eae6dd;
+    overflow: hidden;
+    border-radius: 2px;
+}
+
+.dossier-image-box img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.dossier-spec {
+    font-size: 0.82rem;
+    margin-top: 1.5rem;
+}
+
+.spec-row {
+    display: flex;
+    justify-content: space-between;
+    padding: 0.6rem 0;
+    border-bottom: 1px solid var(--border-hairline);
+}
+
+.spec-label {
+    color: var(--text-muted);
+    font-size: 0.7rem;
+    letter-spacing: 0.12em;
+    font-weight: 500;
+}
+
+.spec-val {
+    color: var(--text-main);
+    font-weight: 600;
+}
+
+.visit-source-btn {
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+    background: #ffffff;
+    border: 1px solid var(--border-subtle);
+    color: var(--text-main);
+    text-decoration: none;
+    font-size: 0.72rem;
+    font-weight: 600;
+    letter-spacing: 0.12em;
+    padding: 0.8rem 0;
+    border-radius: 2px;
+    margin-top: 1.5rem;
+    transition: var(--transition);
+}
+
+.visit-source-btn:hover {
+    background: var(--text-main);
+    color: var(--bg-paper);
+    border-color: var(--text-main);
+}
+
+.dossier-content-panel {
+    padding: 2.8rem 3rem;
+    display: flex;
+    flex-direction: column;
+    background: #ffffff;
+}
+
+.dossier-title {
+    font-family: var(--font-serif);
+    font-size: 1.55rem;
+    font-weight: 500;
+    color: var(--text-serif);
+    line-height: 1.4;
+    margin-bottom: 1.8rem;
+    word-break: keep-all;
+}
+
+.analysis-tabs-nav {
+    display: flex;
+    gap: 1.8rem;
+    border-bottom: 1px solid var(--border-hairline);
+    padding-bottom: 0.6rem;
+    margin-bottom: 1.8rem;
+}
+
+.analysis-tab-btn {
+    background: transparent;
+    border: none;
+    color: var(--text-muted);
+    font-size: 0.88rem;
+    font-family: var(--font-serif);
+    font-weight: 400;
+    cursor: pointer;
+    padding-bottom: 0.4rem;
+    transition: var(--transition);
+}
+
+.analysis-tab-btn.active {
+    color: var(--text-main);
+    font-weight: 600;
+    border-bottom: 1.5px solid var(--text-main);
+}
+
+.tab-pane {
+    display: none;
+    animation: fadeIn 0.25s ease;
+}
+
+.tab-pane.active {
+    display: block;
+}
+
+.facet-label {
+    font-size: 0.72rem;
+    font-weight: 600;
+    letter-spacing: 0.12em;
+    color: var(--accent-sand);
+    text-transform: uppercase;
+    margin-bottom: 0.6rem;
+}
+
+.facet-text {
+    font-family: var(--font-serif);
+    font-size: 0.98rem;
+    line-height: 1.85;
+    color: var(--text-serif);
+    word-break: keep-all;
+}
+
+.synapse-cards-list {
+    display: flex;
+    flex-direction: column;
+    gap: 0.9rem;
+    margin-top: 0.8rem;
+}
+
+.synapse-card {
+    background: var(--bg-paper);
+    border: 1px solid var(--border-hairline);
+    border-radius: 2px;
+    padding: 1rem 1.2rem;
+    display: flex;
+    align-items: flex-start;
+    gap: 0.9rem;
+}
+
+.synapse-domain-badge {
+    background: #ffffff;
+    border: 1px solid var(--border-subtle);
+    color: var(--text-main);
+    font-size: 0.68rem;
+    font-weight: 600;
+    padding: 0.2rem 0.55rem;
+    border-radius: 2px;
+    white-space: nowrap;
+}
+
+.synapse-connection-text {
+    font-family: var(--font-serif);
+    font-size: 0.92rem;
+    line-height: 1.65;
+    color: var(--text-serif);
+}
+
+.archive-raw-snippet {
+    background: var(--bg-paper);
+    border: 1px solid var(--border-hairline);
+    border-radius: 2px;
+    padding: 1.4rem;
+    font-size: 0.92rem;
+    line-height: 1.8;
+    color: var(--text-muted);
+    max-height: 280px;
+    overflow-y: auto;
+    word-break: keep-all;
+}
+
+.kinfolk-footer {
+    text-align: center;
+    padding: 4rem 0 2rem 0;
+    font-size: 0.72rem;
+    letter-spacing: 0.14em;
+    color: var(--text-faint);
+    border-top: 1px solid var(--border-hairline);
+    margin-top: 6rem;
+    text-transform: uppercase;
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; transform: translateY(6px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes spin {
+    to { transform: rotate(360deg); }
+}
+
+@media (max-width: 900px) {
+    .kinfolk-wrapper {
+        padding: 2rem 1.5rem 3rem 1.5rem;
+    }
+    .kinfolk-grid {
+        grid-template-columns: 1fr;
+        gap: 3rem;
+    }
+    .dossier-layout {
+        grid-template-columns: 1fr;
+    }
+    .dossier-visual-panel {
+        border-right: none;
+        border-bottom: 1px solid var(--border-hairline);
+        padding: 1.5rem;
+    }
+    .dossier-content-panel {
+        padding: 1.5rem;
+    }
+    .header-action-bar {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 1rem;
+    }
+    .analysis-tabs-nav {
+        overflow-x: auto;
+        white-space: nowrap;
+        padding-bottom: 0.5rem;
+        -webkit-overflow-scrolling: touch;
+    }
+}
+
+@media (min-width: 601px) and (max-width: 1024px) {
+    .kinfolk-grid {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 2.5rem;
+    }
+}
+
+@media (max-width: 480px) {
+    .kinfolk-logo {
+        font-size: 2.2rem;
+        letter-spacing: 0.12em;
+    }
+    .kinfolk-sub {
+        font-size: 0.85rem;
+    }
+    .card-title {
+        font-size: 1.15rem;
+    }
+}
+

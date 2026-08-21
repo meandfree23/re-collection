@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RE:COLLECTION — A Daily Journal of Space & Memory</title>
+    <!-- Kinfolk Typography Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;0,700;1,400&family=Noto+Serif+KR:wght@300;400;500;600&family=Plus+Jakarta+Sans:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/static/style.css?v=9">
+</head>
+<body>
+    <div class="kinfolk-wrapper">
+        <!-- Pure Kinfolk Journal Header -->
+        <header class="kinfolk-header">
+            <div class="header-top-meta">
+                <span class="meta-issue" id="current-issue-text">VOLUME 01 — DAILY CURATION</span>
+                <span class="meta-divider">|</span>
+                <span class="meta-date" id="current-date-display">AUG 14, 2026</span>
+            </div>
+
+            <div class="header-main-title">
+                <h1 class="kinfolk-logo">RE:COLLECTION</h1>
+                <p class="kinfolk-sub">A Curated Daily Journal on Space, Memory & Senses</p>
+            </div>
+
+            <div class="header-action-bar">
+                <span class="collection-note">DAILY EDITIONS ON CONTEMPORARY LIVING & SPATIAL POETRY</span>
+                <button id="refresh-daily-btn" class="kinfolk-update-btn">
+                    <svg viewBox="0 0 24 24" width="12" height="12" stroke="currentColor" stroke-width="1.8" fill="none"><path d="M21.5 2v6h-6M21.34 15.57a10 10 0 1 1-.57-8.38l5.67-5.67"/></svg>
+                    <span>UPDATE TODAY'S JOURNAL</span>
+                </button>
+            </div>
+        </header>
+
+        <!-- Main Kinfolk Journal Feed Grid -->
+        <main class="kinfolk-main">
+            <div id="results-container" class="kinfolk-grid">
+                <div class="loading-state">
+                    <div class="loading-spinner"></div>
+                    <p>오늘의 공간과 기억을 정리하고 있습니다...</p>
+                </div>
+            </div>
+        </main>
+
+        <!-- Kinfolk Minimalist Dossier Modal -->
+        <div id="dossier-modal" class="modal-overlay" style="display: none;">
+            <div class="dossier-card">
+                <button id="modal-close-btn" class="modal-close-btn">&times;</button>
+                
+                <div class="dossier-layout">
+                    <!-- Left: Artwork Visual & Ambient Video Film -->
+                    <div class="dossier-visual-panel">
+                        <div class="dossier-image-box" id="modal-image-wrapper">
+                            <!-- Image View -->
+                            <img id="modal-image" src="" alt="Article Visual" onerror="this.style.display='none'; document.getElementById('modal-text-cover').style.display='flex';">
+                            <!-- Text Cover Fallback -->
+                            <div id="modal-text-cover" class="simple-text-cover" style="display: none;">
+                                <span class="text-cover-badge" id="modal-cover-genre">SPACE & ARCH</span>
+                                <span class="text-cover-title" id="modal-cover-title">TITLE</span>
+                            </div>
+                            <!-- Ambient Video Player (if available) -->
+                            <div id="modal-video-box" class="modal-video-box" style="display: none;">
+                                <iframe id="modal-video-frame" src="" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+                            </div>
+                        </div>
+
+                        <div class="dossier-spec">
+                            <div class="spec-row">
+                                <span class="spec-label">DOMAIN</span>
+                                <span class="spec-val" id="modal-genre">SPACE & ARCH</span>
+                            </div>
+                            <div class="spec-row">
+                                <span class="spec-label">MEDIA TYPE</span>
+                                <span class="spec-val" id="modal-media-type">SPATIAL VISUAL</span>
+                            </div>
+                            <div class="spec-row">
+                                <span class="spec-label">TACTILITY</span>
+                                <span class="spec-val" id="modal-metric-tactility">RAW STONE, LINEN & LIGHT</span>
+                            </div>
+                            <div class="spec-row">
+                                <span class="spec-label">SPATIAL VOLUME</span>
+                                <span class="spec-val" id="modal-metric-volume">360° IMMERSIVE BOX CANVAS</span>
+                            </div>
+                            <div class="spec-row">
+                                <span class="spec-label">SOURCE</span>
+                                <span class="spec-val text-truncate" id="modal-source-domain">source.com</span>
+                            </div>
+                            <a id="modal-source-link" href="#" target="_blank" rel="noopener noreferrer" class="visit-source-btn">
+                                <span>ORIGINAL ARTICLE ↗</span>
+                            </a>
+                        </div>
+                    </div>
+
+                    <!-- Right: Deep Spatial Memory Console (3 Core Layers) -->
+                    <div class="dossier-content-panel">
+                        <div class="dossier-title-area">
+                            <h2 class="dossier-title" id="modal-title">작품 및 아카이브 제목</h2>
+                        </div>
+
+                        <!-- 4 Spatial Memory & CX Tabs -->
+                        <div class="analysis-tabs-nav">
+                            <button class="analysis-tab-btn active" data-tab="tab-genius-loci">
+                                공간성과 장소의 지층
+                            </button>
+                            <button class="analysis-tab-btn" data-tab="tab-sensory-recall">
+                                감각과 기억의 각인
+                            </button>
+                            <button class="analysis-tab-btn" data-tab="tab-video-cx">
+                                오프라인 공간 영상 CX
+                            </button>
+                            <button class="analysis-tab-btn" data-tab="tab-zeitgeist">
+                                시대정신 & 시냅스
+                            </button>
+                            <button class="analysis-tab-btn" data-tab="tab-archive">
+                                원문 기록
+                            </button>
+                        </div>
+
+                        <!-- Tab Contents -->
+                        <div class="analysis-tab-contents">
+                            <!-- Tab 1: Genius Loci (공간성과 장소의 지층) -->
+                            <div class="tab-pane active" id="tab-genius-loci">
+                                <div class="facet-block">
+                                    <h4 class="facet-label">GENIUS LOCI — 장소에 깃든 시간의 기억과 건축적 시퀀스</h4>
+                                    <p class="facet-text" id="modal-facet-genius-loci">
+                                        공간성과 장소의 기억 분석 내용이 여기에 표시됩니다.
+                                    </p>
+                                </div>
+                            </div>
+
+                            <!-- Tab 2: Sensory Recall (감각과 기억의 각인) -->
+                            <div class="tab-pane" id="tab-sensory-recall">
+                                <div class="facet-block">
+                                    <h4 class="facet-label">SENSORY RECALL — 빛, 원초적 물성(Materiality), 정적의 여운</h4>
+                                    <p class="facet-text" id="modal-facet-sensory-recall">
+                                        감각적 기억과 공감각적 분위기가 여기에 표시됩니다.
+                                    </p>
+                                </div>
+                            </div>
+
+                            <!-- Tab 3: Offline Video CX & Spatial Horizon (오프라인 공간 영상 CX 및 미래 관점) -->
+                            <div class="tab-pane" id="tab-video-cx">
+                                <div class="facet-block">
+                                    <h4 class="facet-label">OFFLINE SPATIAL CX — 플래그십·전시·파사드 영상 전개 전략</h4>
+                                    <p class="facet-text" id="modal-facet-video-cx">
+                                        오프라인 공간 영상 전개 및 소비자 경험(CX) 전략이 표시됩니다.
+                                    </p>
+                                </div>
+                                <div class="facet-block" style="margin-top: 1.5rem;">
+                                    <h4 class="facet-label">ZEITGEIST HORIZON — 시대를 앞서 나가는 미래 미학 관점</h4>
+                                    <p class="facet-text" id="modal-facet-horizon">
+                                        시대정신 미래 관점이 표시됩니다.
+                                    </p>
+                                </div>
+                            </div>
+
+                            <!-- Tab 4: Zeitgeist & Synapse (시대정신과 시냅스) -->
+                            <div class="tab-pane" id="tab-zeitgeist">
+                                <div class="facet-block">
+                                    <h4 class="facet-label">ZEITGEIST DISCOURSE — 동시대를 관통하는 미학적 태도</h4>
+                                    <p class="facet-text" id="modal-facet-zeitgeist">
+                                        시대정신 분석 내용이 여기에 표시됩니다.
+                                    </p>
+                                </div>
+                                <div class="facet-block" style="margin-top: 1.5rem;">
+                                    <h4 class="facet-label">CROSS-DOMAIN SYNAPSE — 타 예술 장르와의 창의적 연결고리</h4>
+                                    <div class="synapse-cards-list" id="modal-synapse-list">
+                                        <!-- Dynamic Synapse Connections -->
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- Tab 5: Raw Extract -->
+                            <div class="tab-pane" id="tab-archive">
+                                <div class="facet-block">
+                                    <h4 class="facet-label">CURATED RECORD — 한글 요약 및 발췌</h4>
+                                    <div class="archive-raw-snippet" id="modal-facet-archive">
+                                        원문 발췌 내용이 들어갑니다.
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <footer class="kinfolk-footer">
+            <p>RE:COLLECTION — A Curated Daily Journal on Space, Memory & Senses.</p>
+        </footer>
+    </div>
+
+    <script src="/static/script.js?v=10"></script>
+</body>
+</html>

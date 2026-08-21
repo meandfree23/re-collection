@@ -1,0 +1,37 @@
+name: Daily Curated Journal Update & Deploy
+
+on:
+  schedule:
+    # Every day at 00:30 UTC (09:30 KST)
+    - cron: '30 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-and-deploy:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install Dependencies
+        run: |
+          pip install feedparser beautifulsoup4 requests deep-translator
+
+      - name: Run Daily Collector
+        run: |
+          python daily_collector.py
+          cp data/daily_archive.json docs/data/daily_archive.json
+
+      - name: Commit and Push Updates
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/daily_archive.json docs/data/daily_archive.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update: Daily Curated Spatial Journal [skip ci]" && git push)
