@@ -1,4 +1,4 @@
-let currentResults = [];
+let currentResults = (window.PRELOADED_ARCHIVE && Array.isArray(window.PRELOADED_ARCHIVE)) ? [...window.PRELOADED_ARCHIVE] : [];
 
 document.addEventListener('DOMContentLoaded', () => {
     const resultsContainer = document.getElementById('results-container');
@@ -6,25 +6,19 @@ document.addEventListener('DOMContentLoaded', () => {
     const currentDateDisplay = document.getElementById('current-date-display');
     const currentIssueText = document.getElementById('current-issue-text');
 
-    // Modal elements
-    const dossierModal = document.getElementById('dossier-modal');
-    const modalCloseBtn = document.getElementById('modal-close-btn');
-    const analysisTabBtns = document.querySelectorAll('.analysis-tab-btn');
-    const tabPanes = document.querySelectorAll('.tab-pane');
-
-    // Display formatted date (e.g. AUG 14, 2026)
-    const now = new Date();
-    const months = ["JAN", "FEB", "MAR", "APR", "MAY", "JUN", "JUL", "AUG", "SEP", "OCT", "NOV", "DEC"];
-    const formattedDate = `${months[now.getMonth()]} ${now.getDate()}, ${now.getFullYear()}`;
-    if (currentDateDisplay) {
-        currentDateDisplay.textContent = formattedDate;
-    }
-    if (currentIssueText) {
-        currentIssueText.textContent = `ISSUE ${String(now.getMonth() + 1).padStart(2, '0')}.${String(now.getDate()).padStart(2, '0')} — DAILY CURATION`;
-    }
-
-    // Initial Load: Fetch Daily Curated Journal Feed
-    loadDailyArchive();
+    // Restore cached custom editions if any
+    try {
+        const cached = localStorage.getItem('recollection_custom_archive');
+        if (cached) {
+            const parsed = JSON.parse(cached);
+            if (Array.isArray(parsed) && parsed.length > 0) {
+                currentResults = parsed;
+                if (resultsContainer) {
+                    renderKinfolkGrid(currentResults);
+                }
+            }
+        }
+    } catch (e) {}
 
     // 1. Ambient Audio Generator (Web Audio API Ambient Engine)
     let audioCtx = null;
