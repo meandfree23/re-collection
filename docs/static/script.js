@@ -173,20 +173,52 @@ document.addEventListener('DOMContentLoaded', () => {
 
     async function loadDailyArchive() {
         try {
-            const res = await fetch('/api/daily');
-            const data = await res.json();
-            if (data.results && data.results.length > 0) {
-                currentResults = data.results;
-                renderKinfolkGrid(currentResults);
-            } else if (currentResults.length === 0) {
+            // 1. Try static JSON directly first (Instant loading on GitHub Pages)
+            let res = await fetch('data/daily_archive.json?v=' + Date.now());
+            if (!res.ok) {
+                // 2. Try relative path from root
+                res = await fetch('./data/daily_archive.json?v=' + Date.now());
+            }
+            if (!res.ok) {
+                // 3. Try FastAPI endpoint if on local server
+                res = await fetch('/api/daily');
+            }
+            
+            if (res.ok) {
+                const data = await res.json();
+                const items = Array.isArray(data) ? data : (data.results || []);
+                if (items && items.length > 0) {
+                    currentResults = items;
+                    renderKinfolkGrid(currentResults);
+                    return;
+                }
+            }
+            
+            if (currentResults.length === 0) {
                 resultsContainer.innerHTML = `
                     <div class="loading-state">
-                        <p>아직 수집된 아카이브가 없습니다. 상단의 [UPDATE TODAY'S JOURNAL]을 눌러보세요.</p>
+                        <p>아직 수집된 아카이브가 없습니다.</p>
                     </div>
                 `;
             }
         } catch (e) {
             console.error("Could not load daily archive:", e);
+            // Final fallback attempt
+            try {
+                const fallbackRes = await fetch('data/daily_archive.json');
+                if (fallbackRes.ok) {
+                    const fallbackData = await fallbackRes.json();
+                    const items = Array.isArray(fallbackData) ? fallbackData : (fallbackData.results || []);
+                    if (items && items.length > 0) {
+                        currentResults = items;
+                        renderKinfolkGrid(currentResults);
+                        return;
+                    }
+                }
+            } catch (err2) {
+                console.error("Fallback load failed:", err2);
+            }
+            
             if (currentResults.length === 0) {
                 resultsContainer.innerHTML = `
                     <div class="loading-state" style="color: #ef4444;">
