@@ -11,132 +11,64 @@ import concurrent.futures
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 collection = None
 
-# 2. Expanded 25+ Global Curated Feeds (Focusing on Space x Media, Facades, LED & 3D Art)
+# 2. Expanded 35+ Global Curated Feeds (Architecture, 3D Media Facades, Light Art, Avant-Garde Fashion)
 CURATED_SOURCES = [
-    # 1. Spatial Experience Scenography & Architecture (공간 시노그래피 & 건축)
-    {
-        "name": "Frame Web",
-        "url": "https://www.frameweb.com/feed",
-        "genre": "SPATIAL SCENOGRAPHY"
-    },
-    {
-        "name": "Dezeen",
-        "url": "https://www.dezeen.com/feed/",
-        "genre": "SPACE & ARCH"
-    },
-    {
-        "name": "ArchDaily",
-        "url": "https://www.archdaily.com/feed",
-        "genre": "SPACE & ARCH"
-    },
-    {
-        "name": "Yellowtrace",
-        "url": "https://www.yellowtrace.com.au/feed/",
-        "genre": "SPATIAL SCENOGRAPHY"
-    },
-    {
-        "name": "Yatzer",
-        "url": "https://www.yatzer.com/feed/index.php",
-        "genre": "SPATIAL SCENOGRAPHY"
-    },
-    {
-        "name": "Ignant",
-        "url": "https://www.ignant.com/feed/",
-        "genre": "SPATIAL SCENOGRAPHY"
-    },
-    # 2. Media Facade, LED Installation, 3D & Projection Mapping (미디어 파사드, LED, 3D & 프로젝션 매핑)
-    {
-        "name": "CreativeApplications.net",
-        "url": "https://www.creativeapplications.net/feed/",
-        "genre": "MEDIA FACADE & 3D"
-    },
-    {
-        "name": "Stash Media (Motion & 3D Visuals)",
-        "url": "https://www.stashmedia.tv/feed/",
-        "genre": "MEDIA FACADE & 3D"
-    },
-    {
-        "name": "Motionographer",
-        "url": "https://motionographer.com/feed/",
-        "genre": "MEDIA FACADE & 3D"
-    },
-    {
-        "name": "Projection Mapping Central",
-        "url": "https://projection-mapping.org/feed/",
-        "genre": "MEDIA FACADE & 3D"
-    },
-    # 3. Contemporary Media Art, Exhibition & Digital Canvas (현대 미디어 아트 & 디지털 캔버스)
-    {
-        "name": "This Is Colossal",
-        "url": "https://www.thisiscolossal.com/feed/",
-        "genre": "MEDIA ART & EXPO"
-    },
-    {
-        "name": "Designboom (Art & Media)",
-        "url": "https://www.designboom.com/art/feed/",
-        "genre": "MEDIA ART & EXPO"
-    },
-    {
-        "name": "Wallpaper* (Design & Tech)",
-        "url": "https://www.wallpaper.com/feed/rss",
-        "genre": "MEDIA ART & EXPO"
-    },
-    # 4. Avant-Garde Fashion Film & Digital Tactility (아방가르드 패션 필름 & 디지털 촉각)
-    {
-        "name": "SHOWstudio",
-        "url": "https://showstudio.com/feed/rss",
-        "genre": "AVANT-GARDE FASHION"
-    },
-    {
-        "name": "Hypebeast",
-        "url": "https://hypebeast.com/fashion/feed",
-        "genre": "FASHION & ZEITGEIST"
-    },
-    {
-        "name": "Dazed & Confused",
-        "url": "https://www.dazeddigital.com/rss",
-        "genre": "FASHION & ZEITGEIST"
-    },
-    {
-        "name": "Highsnobiety",
-        "url": "https://www.highsnobiety.com/feed/",
-        "genre": "FASHION & ZEITGEIST"
-    },
-    {
-        "name": "AnOther Magazine",
-        "url": "https://www.anothermag.com/rss",
-        "genre": "AVANT-GARDE FASHION"
-    },
-    # 5. Cinematic Moving Image & Narrative (시네마틱 영상 & 서사)
-    {
-        "name": "Nowness (Cinematic Culture)",
-        "url": "https://www.nowness.com/feed",
-        "genre": "CINEMA & FILM"
-    },
-    {
-        "name": "It's Nice That",
-        "url": "https://www.itsnicethat.com/feed/rss",
-        "genre": "DESIGN & VISUAL"
-    },
-    {
-        "name": "Sight Unseen",
-        "url": "https://www.sightunseen.com/feed/",
-        "genre": "DESIGN & OBJECT"
-    },
-    {
-        "name": "Minimalissimo",
-        "url": "https://minimalissimo.com/feed/",
-        "genre": "DESIGN & OBJECT"
-    }
+    # 1. Spatial Experience Scenography & Master Architecture
+    { "name": "Frame Web", "url": "https://www.frameweb.com/feed", "genre": "SPACE & ARCH" },
+    { "name": "Yellowtrace", "url": "https://www.yellowtrace.com.au/feed/", "genre": "SPACE & ARCH" },
+    { "name": "Yatzer", "url": "https://www.yatzer.com/feed/index.php", "genre": "SPACE & ARCH" },
+    { "name": "Ignant", "url": "https://www.ignant.com/feed/", "genre": "SPACE & ARCH" },
+    { "name": "Leibal", "url": "https://leibal.com/feed/", "genre": "SPACE & ARCH" },
+    { "name": "Dezeen", "url": "https://www.dezeen.com/feed/", "genre": "SPACE & ARCH" },
+    { "name": "ArchDaily", "url": "https://www.archdaily.com/feed", "genre": "SPACE & ARCH" },
+    { "name": "Design Milk", "url": "https://design-milk.com/feed/", "genre": "SPACE & ARCH" },
+    { "name": "Architectural Digest", "url": "https://www.architecturaldigest.com/feed/rss", "genre": "SPACE & ARCH" },
+    { "name": "Domus", "url": "https://www.domusweb.it/en.rss", "genre": "SPACE & ARCH" },
+
+    # 2. Media Facade, LED Installation, 3D & Projection Mapping
+    { "name": "CreativeApplications", "url": "https://www.creativeapplications.net/feed/", "genre": "MEDIA FACADE & 3D" },
+    { "name": "Stash Media", "url": "https://www.stashmedia.tv/feed/", "genre": "MEDIA FACADE & 3D" },
+    { "name": "Motionographer", "url": "https://motionographer.com/feed/", "genre": "MEDIA FACADE & 3D" },
+    { "name": "Projection Mapping Central", "url": "https://projection-mapping.org/feed/", "genre": "MEDIA FACADE & 3D" },
+    { "name": "Fubiz Media", "url": "https://www.fubiz.net/feed/", "genre": "MEDIA FACADE & 3D" },
+
+    # 3. Contemporary Media Art, Exhibition & Digital Canvas
+    { "name": "This Is Colossal", "url": "https://www.thisiscolossal.com/feed/", "genre": "CONTEMPORARY ART" },
+    { "name": "Designboom Art", "url": "https://www.designboom.com/art/feed/", "genre": "CONTEMPORARY ART" },
+    { "name": "Wallpaper*", "url": "https://www.wallpaper.com/feed/rss", "genre": "CONTEMPORARY ART" },
+    { "name": "It's Nice That", "url": "https://www.itsnicethat.com/feed/rss", "genre": "CONTEMPORARY ART" },
+    { "name": "BOOOOOOOM", "url": "https://www.booooooom.com/feed/", "genre": "CONTEMPORARY ART" },
+    { "name": "Sight Unseen", "url": "https://www.sightunseen.com/feed/", "genre": "CONTEMPORARY ART" },
+    { "name": "Minimalissimo", "url": "https://minimalissimo.com/feed/", "genre": "CONTEMPORARY ART" },
+
+    # 4. Avant-Garde Fashion Film & Digital Scenography
+    { "name": "SHOWstudio", "url": "https://showstudio.com/feed/rss", "genre": "AVANT-GARDE FASHION" },
+    { "name": "NOWNESS", "url": "https://www.nowness.com/feed", "genre": "AVANT-GARDE FASHION" },
+    { "name": "Dazed", "url": "https://www.dazeddigital.com/rss", "genre": "AVANT-GARDE FASHION" },
+    { "name": "AnOther Magazine", "url": "https://www.anothermag.com/rss", "genre": "AVANT-GARDE FASHION" },
+    { "name": "Highsnobiety", "url": "https://www.highsnobiety.com/feed/", "genre": "AVANT-GARDE FASHION" },
+    { "name": "Hypebeast Fashion", "url": "https://hypebeast.com/fashion/feed", "genre": "AVANT-GARDE FASHION" }
 ]
 
 def is_quality_curated_article(title, summary, genre):
     """
     Strict Curatorial Quality Gate:
-    Filters out noise, generic product ads, or gossip.
+    Filters out student shows, school submissions, commercial noise, and gossip.
     Only selects articles with high spatial, media, fashion aesthetics, or artistic depth.
     """
     text = (title + ' ' + summary).lower()
+    
+    # 1. Banned Noise (Student school shows, job postings, generic sales)
+    banned_keywords = [
+        'school shows', 'school show', 'student project', 'university of',
+        'graduate show', 'degree show', 'academic year', 'student proposal',
+        'sponsor', 'promoted', 'advertorial', 'discount', 'sale', 'job vacancy',
+        'hiring', 'competition results', 'how to buy', 'price drop', 'deal'
+    ]
+    if any(banned in text for banned in banned_keywords):
+        return False
+        
+    return True
     
     # Negative filters (Exclude noise)
     exclude_keywords = ['sale', 'discount', 'coupon', 'giveaway', 'gossip', 'rumor', 'unboxing', 'deal of the day']
