@@ -340,6 +340,11 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     // Modal Tab Switching
+    const analysisTabBtns = document.querySelectorAll('.analysis-tab-btn');
+    const tabPanes = document.querySelectorAll('.tab-pane');
+    const modalCloseBtn = document.getElementById('modal-close-btn');
+    const dossierModal = document.getElementById('dossier-modal');
+
     analysisTabBtns.forEach(btn => {
         btn.addEventListener('click', () => {
             analysisTabBtns.forEach(b => b.classList.remove('active'));
@@ -374,6 +379,9 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Render Kinfolk Editorial Grid
     function renderKinfolkGrid(items) {
+        const resultsContainer = document.getElementById('results-container');
+        if (!resultsContainer) return;
+
         if (!items || items.length === 0) {
             resultsContainer.innerHTML = `
                 <div class="loading-state">
@@ -398,6 +406,12 @@ document.addEventListener('DOMContentLoaded', () => {
             const newBadge = item.is_new ? `
                 <div class="film-badge" style="background: #111; color: #f59e0b; border: 1px solid #f59e0b; left: 12px; right: auto;">
                     <span>★ NEW EDITION</span>
+                </div>
+            ` : '';
+
+            const filmBadge = hasVideo ? `
+                <div class="film-badge">
+                    <span>FILM</span>
                 </div>
             ` : '';
 
