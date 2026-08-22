@@ -363,19 +363,66 @@ def process_single_entry(entry, source):
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 ARCHIVE_FILE = os.path.join(BASE_DIR, "data", "daily_archive.json")
 
+def calculate_taste_score(item):
+    """
+    Evaluates curatorial alignment with RE:COLLECTION Aesthetic Taste DNA:
+    High Priority: Spatial Scenography, 3D Media Facades, Kinetic Light Art, Avant-Garde Fashion.
+    """
+    text = (item.get('title', '') + ' ' + item.get('snippet', '') + ' ' + item.get('genre', '')).lower()
+    score = 10.0
+    
+    # Genre Base Multiplier
+    genre = item.get('genre', '')
+    if 'MEDIA' in genre or '3D' in genre or 'FACADE' in genre:
+        score += 8.0
+    elif 'SCENOGRAPHY' in genre or 'SPACE' in genre:
+        score += 6.0
+    elif 'FASHION' in genre:
+        score += 5.0
+    elif 'CONTEMPORARY' in genre or 'ART' in genre:
+        score += 5.0
+        
+    # High-Taste Keyword Boosters
+    taste_keywords = [
+        'installation', 'facade', 'projection mapping', 'kinetic', 'light sculpture',
+        'scenography', 'immersive', 'tactile', 'material', 'void', 'atmosphere',
+        'monument', 'anamorphic', 'spatial sound', 'haute couture', 'cinematic',
+        'genius loci', 'sensory', 'pavilion', 'museum', 'exhibition', 'sculpture'
+    ]
+    for kw in taste_keywords:
+        if kw in text:
+            score += 2.0
+            
+    # Source Prestige
+    source = item.get('source_name', '')
+    if source in ['Frame Web', 'Yellowtrace', 'Yatzer', 'Ignant', 'SHOWstudio', 'This Is Colossal', 'CreativeApplications', 'Stash Media']:
+        score += 4.0
+
+    return score
+
 def run_daily_collection(limit_per_source=4):
-    print(f"[{datetime.now().strftime('%Y-%m-%d %H:%M:%S')}] Starting Fast Cumulative Scraping...")
+    print(f"[{datetime.now().strftime('%Y-%m-%d %H:%M:%S')}] Starting Taste-Driven Curatorial Scraping...")
     
     os.makedirs(os.path.join(BASE_DIR, "data"), exist_ok=True)
     
     existing_items = []
-    existing_urls = set()
+    seen_urls = set()
+    seen_titles = []
+    seen_images = set()
+
     if os.path.exists(ARCHIVE_FILE):
         try:
             with open(ARCHIVE_FILE, "r", encoding="utf-8") as f:
                 existing_items = json.load(f)
                 if isinstance(existing_items, list):
-                    existing_urls = {item['url'] for item in existing_items if isinstance(item, dict) and 'url' in item}
+                    for it in existing_items:
+                        if isinstance(it, dict):
+                            u = it.get('url', '').strip()
+                            t = re.sub(r'[^\w\s]', '', it.get('title', '').lower())
+                            img = it.get('image_url', '').strip()
+                            if u: seen_urls.add(u)
+                            if t: seen_titles.append(t)
+                            if img: seen_images.add(img)
                 else:
                     existing_items = []
         except Exception as e:
@@ -384,14 +431,15 @@ def run_daily_collection(limit_per_source=4):
             
     raw_entries_to_process = []
     headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'}
+    
     for source in CURATED_SOURCES:
         try:
             resp = requests.get(source['url'], headers=headers, timeout=8)
             feed = feedparser.parse(resp.content if resp.status_code == 200 else source['url'])
             count = 0
             for entry in feed.entries:
-                url = entry.get('link', '')
-                if url and url in existing_urls:
+                url = entry.get('link', '').strip()
+                if url and url in seen_urls:
                     continue # Already collected!
                     
                 raw_entries_to_process.append((entry, source))
@@ -410,18 +458,40 @@ def run_daily_collection(limit_per_source=4):
                 try:
                     res = future.result()
                     if res:
+                        # Semantic Deduplication Check
+                        u = res.get('url', '').strip()
+                        t = re.sub(r'[^\w\s]', '', res.get('title', '').lower())
+                        img = res.get('image_url', '').strip()
+                        
+                        if u in seen_urls: continue
+                        if img and img in seen_images: continue
+                        
+                        from difflib import SequenceMatcher
+                        is_dup = False
+                        for prev_t in seen_titles:
+                            if SequenceMatcher(None, t, prev_t).ratio() > 0.70:
+                                is_dup = True
+                                break
+                        if is_dup: continue
+                        
+                        seen_urls.add(u)
+                        seen_titles.append(t)
+                        if img: seen_images.add(img)
+                        
                         new_collected_items.append(res)
                 except Exception as e:
                     print(f"Entry process error: {e}")
 
+    # Sort new items by curatorial taste score
+    new_collected_items.sort(key=calculate_taste_score, reverse=True)
+
     # Accumulate: Newest at top, existing below
     combined_archive = new_collected_items + existing_items
     
-    # If no new items and existing_items exist, retain all existing items
     if not combined_archive and existing_items:
         combined_archive = existing_items
         
-    combined_archive = combined_archive[:150] # Keep up to 150 cumulative items
+    combined_archive = combined_archive[:140] # Keep up to 140 pristine items
 
     try:
         with open(ARCHIVE_FILE, "w", encoding="utf-8") as f:
@@ -429,7 +499,7 @@ def run_daily_collection(limit_per_source=4):
     except Exception as e:
         print(f"Error saving archive: {e}")
 
-    print(f"[{datetime.now().strftime('%Y-%m-%d %H:%M:%S')}] Scraping Complete. Added {len(new_collected_items)} new items. Total {len(combined_archive)} items preserved.")
+    print(f"[{datetime.now().strftime('%Y-%m-%d %H:%M:%S')}] Taste-Driven Scraping Complete. Added {len(new_collected_items)} new unique items. Total {len(combined_archive)} pristine items preserved.")
     return combined_archive
 
 if __name__ == '__main__':
