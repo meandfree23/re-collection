@@ -28,15 +28,14 @@ jobs:
           pip install --upgrade pip
           pip install feedparser beautifulsoup4 requests deep-translator
 
-      - name: Execute Daily Curated Scraping
+      - name: Execute Daily Curated Scraping & Compile Pages
         run: |
           python daily_collector.py
-          mkdir -p docs/data
-          cp data/daily_archive.json docs/data/daily_archive.json
+          python build_pages.py
 
-      - name: Commit and Push Updated Journal
+      - name: Commit and Push Updated Journal (Triggers Pages Build)
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/daily_archive.json docs/data/daily_archive.json
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update: 24/7 Daily Curated Spatial & Media Journal [skip ci]" && git push origin master)
+          git add -A
+          git diff --staged --quiet || (git commit -m "Auto-update: Daily Curated Spatial & Media Journal ($GITHUB_RUN_NUMBER)" && git push origin master)
