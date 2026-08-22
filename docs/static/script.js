@@ -240,25 +240,6 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     }
 
-            // Instant Render
-            renderKinfolkGrid(currentResults);
-            
-            // Show immediate success feedback on button
-            refreshDailyBtn.classList.remove('loading');
-            refreshDailyBtn.innerHTML = `
-                <svg viewBox="0 0 24 24" width="12" height="12" stroke="currentColor" stroke-width="1.8" fill="none"><path d="M20 6L9 17l-5-5"/></svg>
-                <span>+${addedCount} NEW EDITIONS COLLECTED ✓ (${currentResults.length})</span>
-            `;
-            
-            setTimeout(() => {
-                refreshDailyBtn.innerHTML = `
-                    <svg viewBox="0 0 24 24" width="12" height="12" stroke="currentColor" stroke-width="1.8" fill="none"><path d="M21.5 2v6h-6M21.34 15.57a10 10 0 1 1-.57-8.38l5.67-5.67"/></svg>
-                    <span>UPDATE TODAY'S JOURNAL</span>
-                `;
-            }, 2000);
-        });
-    }
-
     async function loadDailyArchive() {
         let loadedItems = null;
 

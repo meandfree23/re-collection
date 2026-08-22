@@ -63,29 +63,13 @@ def is_quality_curated_article(title, summary, genre):
         'school shows', 'school show', 'student project', 'university of',
         'graduate show', 'degree show', 'academic year', 'student proposal',
         'sponsor', 'promoted', 'advertorial', 'discount', 'sale', 'job vacancy',
-        'hiring', 'competition results', 'how to buy', 'price drop', 'deal'
+        'hiring', 'competition results', 'how to buy', 'price drop', 'deal',
+        'coupon', 'giveaway', 'gossip', 'rumor', 'unboxing', 'deal of the day'
     ]
     if any(banned in text for banned in banned_keywords):
         return False
         
     return True
-    
-    # Negative filters (Exclude noise)
-    exclude_keywords = ['sale', 'discount', 'coupon', 'giveaway', 'gossip', 'rumor', 'unboxing', 'deal of the day']
-    if any(kw in text for kw in exclude_keywords):
-        return False
-        
-    # High value aesthetic keywords
-    positive_keywords = [
-        'space', 'spatial', 'architecture', 'interior', 'pavilion', 'scenography',
-        'facade', 'projection', 'mapping', 'led', '3d', 'installation', 'kinetic', 'light',
-        'fashion', 'runway', 'couture', 'textile', 'drape', 'subculture', 'zeitgeist',
-        'art', 'contemporary', 'sculpture', 'gallery', 'museum', 'exhibition',
-        'cinema', 'film', 'narrative', 'visual', 'material', 'craft', 'object'
-    ]
-    
-    match_count = sum(1 for kw in positive_keywords if kw in text)
-    # Always include specialized genres or entries with at least 1 aesthetic keyword
 def safe_translate(text):
     if not text or len(text.strip()) == 0:
         return text
