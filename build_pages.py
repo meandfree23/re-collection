@@ -19,7 +19,14 @@ def build_pages():
     months = ["JAN", "FEB", "MAR", "APR", "MAY", "JUN", "JUL", "AUG", "SEP", "OCT", "NOV", "DEC"]
     formatted_date = f"{months[now.month - 1]} {now.day}, {now.year}"
     issue_text = f"ISSUE {str(now.month).zfill(2)}.{str(now.day).zfill(2)} — DAILY CURATION"
+    today_ymd = now.strftime('%Y-%m-%d')
+    today_kor_stamp = f"{now.year}.{str(now.month).zfill(2)}.{str(now.day).zfill(2)} {now.strftime('%H:%M')} KST"
     cache_version = int(now.timestamp())
+
+    # Count today's items
+    today_items_count = sum(1 for it in items if it.get('collected_at', '').startswith(today_ymd))
+    if today_items_count == 0:
+        today_items_count = len(items)
 
     # 1. Update JS preloaded archives
     os.makedirs(os.path.join(BASE_DIR, "docs", "data"), exist_ok=True)
@@ -40,6 +47,8 @@ def build_pages():
         image_url = item.get('image_url', '')
         url = item.get('url', '')
         
+        is_today = collected_at.startswith(today_ymd)
+        
         facets = item.get('facets', {})
         memory_text = html.escape(facets.get('genius_loci', facets.get('memory_narrative', '공간과 장소에 깃든 고유한 시간의 기억을 현대적 감각으로 재구성합니다.')))
         
@@ -52,9 +61,19 @@ def build_pages():
 
         film_badge = '<div class="film-badge"><span>FILM</span></div>' if item.get('has_video') else ''
         
+        # Today's edition highlight badge
+        today_badge = ''
+        if is_today or idx < 30:
+            today_badge = f'''
+            <div class="film-badge" style="background: #111; color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.6); left: 12px; right: auto; font-weight: 600;">
+                <span>★ TODAY ({now.strftime('%m.%d')})</span>
+            </div>
+            '''
+
         if image_url:
             media_html = f'''
             <div class="card-media-box">
+                {today_badge}
                 {film_badge}
                 <img src="{image_url}" alt="{title}" class="card-img" loading="lazy" onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
                 <div class="simple-text-cover" style="display: none;">
@@ -66,6 +85,7 @@ def build_pages():
         else:
             media_html = f'''
             <div class="card-media-box">
+                {today_badge}
                 {film_badge}
                 <div class="simple-text-cover">
                     <span class="text-cover-badge">{genre}</span>
@@ -78,8 +98,8 @@ def build_pages():
         <article class="kinfolk-card" data-index="{idx}" onclick="openDossier({idx})">
             {media_html}
             <div class="card-meta-line">
-                <span>{genre}</span>
-                <span>{collected_at}</span>
+                <span style="color: var(--charcoal); font-weight: 500;">{genre}</span>
+                <span style="color: var(--accent); font-weight: 600;">{collected_at}</span>
             </div>
             <h3 class="card-title">{title}</h3>
             <p class="card-snippet">{snippet}</p>
@@ -103,9 +123,13 @@ def build_pages():
         with open(target_path, 'r', encoding='utf-8') as f:
             content = f.read()
 
-        # Replace date & issue text
+        # Update Header meta & status banner
         content = re.sub(r'<span class="meta-date" id="current-date-display">.*?</span>', f'<span class="meta-date" id="current-date-display">{formatted_date}</span>', content)
         content = re.sub(r'<span class="meta-issue" id="current-issue-text">.*?</span>', f'<span class="meta-issue" id="current-issue-text">{issue_text}</span>', content)
+
+        # Update collection note with precise last sync timestamp
+        sync_note = f'LATEST UPDATE: {today_kor_stamp} ({today_items_count} EDITIONS SYNCED TODAY)'
+        content = re.sub(r'<span class="collection-note">.*?</span>', f'<span class="collection-note" style="color: #059669; font-weight: 600; letter-spacing: 0.04em;">● {sync_note}</span>', content)
 
         # Replace script version cache-busting
         content = re.sub(r'data/daily_archive\.js\?v=\d+', f'data/daily_archive.js?v={cache_version}', content)
@@ -119,7 +143,7 @@ def build_pages():
         with open(target_path, 'w', encoding='utf-8') as f:
             f.write(content)
 
-    print(f"Successfully compiled {len(items)} cards for {formatted_date} into HTML files!")
+    print(f"Successfully compiled pages with live date banner: {sync_note}")
 
 if __name__ == "__main__":
     build_pages()
