@@ -3,9 +3,27 @@ import html
 import os
 import re
 from datetime import datetime
+from urllib.parse import urlparse
+from difflib import SequenceMatcher
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 ARCHIVE_FILE = os.path.join(BASE_DIR, "data", "daily_archive.json")
+
+def normalize_img_key(url):
+    if not url or not isinstance(url, str): return ''
+    try:
+        p = urlparse(url.strip())
+        path = p.path.lower().rstrip('/')
+        filename = path.split('/')[-1] if path else ''
+        if len(filename) > 6 and any(ext in filename for ext in ['.jpg', '.jpeg', '.png', '.webp', '.gif']):
+            return f"{p.netloc}:{filename}"
+        return f"{p.netloc}{path}"
+    except Exception:
+        return url.strip().lower()
+
+def normalize_title_key(title):
+    if not title: return ''
+    return re.sub(r'[^\w\s]', '', title.lower()).strip()
 
 def build_pages():
     if not os.path.exists(ARCHIVE_FILE):
@@ -14,6 +32,44 @@ def build_pages():
 
     with open(ARCHIVE_FILE, "r", encoding="utf-8") as f:
         items = json.load(f)
+
+    # 1. Strict Deduplication Filter on all items before compilation
+    pristine_items = []
+    seen_img_keys = set()
+    seen_urls = set()
+    seen_titles = []
+
+    for item in items:
+        url = item.get('url', '').strip().split('?')[0].rstrip('/')
+        img = item.get('image_url', '').strip()
+        title = item.get('title', '').strip()
+
+        img_key = normalize_img_key(img)
+        if img_key and img_key in seen_img_keys:
+            continue
+
+        if url and url in seen_urls:
+            continue
+
+        t_key = normalize_title_key(title)
+        is_dup = False
+        for prev_t in seen_titles:
+            if SequenceMatcher(None, t_key, prev_t).ratio() > 0.55:
+                is_dup = True
+                break
+        if is_dup:
+            continue
+
+        if img_key: seen_img_keys.add(img_key)
+        if url: seen_urls.add(url)
+        if t_key: seen_titles.append(t_key)
+        pristine_items.append(item)
+
+    items = pristine_items[:140]
+
+    # Save back pristine JSON
+    with open(ARCHIVE_FILE, "w", encoding="utf-8") as f:
+        json.dump(items, f, ensure_ascii=False, indent=2)
 
     now = datetime.now()
     months = ["JAN", "FEB", "MAR", "APR", "MAY", "JUN", "JUL", "AUG", "SEP", "OCT", "NOV", "DEC"]
@@ -28,7 +84,7 @@ def build_pages():
     if today_items_count == 0:
         today_items_count = len(items)
 
-    # 1. Update JS preloaded archives
+    # 2. Update JS preloaded archives
     os.makedirs(os.path.join(BASE_DIR, "docs", "data"), exist_ok=True)
     os.makedirs(os.path.join(BASE_DIR, "static", "data"), exist_ok=True)
     js_content = 'window.PRELOADED_ARCHIVE = ' + json.dumps(items, ensure_ascii=False) + ';'
@@ -37,7 +93,7 @@ def build_pages():
     with open(os.path.join(BASE_DIR, "static", "data", "daily_archive.js"), "w", encoding="utf-8") as f:
         f.write(js_content)
 
-    # 2. Compile pre-rendered cards HTML
+    # 3. Compile pre-rendered cards HTML
     cards_html = []
     for idx, item in enumerate(items):
         title = html.escape(item.get('title', '아카이브 레코드'))
@@ -54,14 +110,12 @@ def build_pages():
         
         domain = 'archive.org'
         try:
-            from urllib.parse import urlparse
             domain = urlparse(url).netloc.replace('www.', '')
         except Exception:
             pass
 
         film_badge = '<div class="film-badge"><span>FILM</span></div>' if item.get('has_video') else ''
         
-        # Today's edition highlight badge
         today_badge = ''
         if is_today or idx < 30:
             today_badge = f'''
@@ -123,19 +177,15 @@ def build_pages():
         with open(target_path, 'r', encoding='utf-8') as f:
             content = f.read()
 
-        # Update Header meta & status banner
         content = re.sub(r'<span class="meta-date" id="current-date-display">.*?</span>', f'<span class="meta-date" id="current-date-display">{formatted_date}</span>', content)
         content = re.sub(r'<span class="meta-issue" id="current-issue-text">.*?</span>', f'<span class="meta-issue" id="current-issue-text">{issue_text}</span>', content)
 
-        # Update collection note with precise last sync timestamp
         sync_note = f'LATEST UPDATE: {today_kor_stamp} ({today_items_count} EDITIONS SYNCED TODAY)'
         content = re.sub(r'<span class="collection-note">.*?</span>', f'<span class="collection-note" style="color: #059669; font-weight: 600; letter-spacing: 0.04em;">● {sync_note}</span>', content)
 
-        # Replace script version cache-busting
         content = re.sub(r'data/daily_archive\.js\?v=\d+', f'data/daily_archive.js?v={cache_version}', content)
         content = re.sub(r'static/script\.js\?v=\d+', f'static/script.js?v={cache_version}', content)
 
-        # Replace pre-rendered grid
         pattern = r'<div id="results-container" class="kinfolk-grid">.*?</div>\s*</main>'
         replacement = f'<div id="results-container" class="kinfolk-grid">\n{full_grid_html}\n            </div>\n        </main>'
         content = re.sub(pattern, replacement, content, flags=re.DOTALL)
@@ -143,7 +193,7 @@ def build_pages():
         with open(target_path, 'w', encoding='utf-8') as f:
             f.write(content)
 
-    print(f"Successfully compiled pages with live date banner: {sync_note}")
+    print(f"Successfully compiled {len(items)} pristine cards for {formatted_date} (Strict Thumbnail Deduplication applied)!")
 
 if __name__ == "__main__":
     build_pages()

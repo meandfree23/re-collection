@@ -1,6 +1,8 @@
 import os
 import json
 import time
+import re
+from urllib.parse import urlparse
 import requests
 import feedparser
 from bs4 import BeautifulSoup
@@ -74,8 +76,10 @@ def safe_translate(text):
     if not text or len(text.strip()) == 0:
         return text
     try:
-        # Limit translation chunk to 1000 chars for reliability
-        return GoogleTranslator(source='auto', target='ko').translate(text[:1000])
+        translated = GoogleTranslator(source='auto', target='ko').translate(text[:1000])
+        if not translated or 'Error 500' in translated or 'Server Error' in translated or 'Too Many Requests' in translated:
+            return text
+        return translated
     except Exception as e:
         print(f"[Translator Error]: {e}")
         return text
@@ -384,15 +388,37 @@ def calculate_taste_score(item):
 
     return score
 
+def normalize_image_key(url):
+    """
+    Extracts canonical image identifier ignoring protocol, query params, and resize variations.
+    """
+    if not url or not isinstance(url, str):
+        return ''
+    try:
+        from urllib.parse import urlparse
+        p = urlparse(url.strip())
+        path = p.path.lower().rstrip('/')
+        filename = path.split('/')[-1] if path else ''
+        # If filename has meaningful length, use it as strong canonical signature
+        if len(filename) > 6 and any(ext in filename for ext in ['.jpg', '.jpeg', '.png', '.webp', '.gif']):
+            return f"{p.netloc}:{filename}"
+        return f"{p.netloc}{path}"
+    except Exception:
+        return url.strip().lower()
+
+def normalize_title_key(title):
+    if not title: return ''
+    return re.sub(r'[^\w\s]', '', title.lower()).strip()
+
 def run_daily_collection(limit_per_source=4):
-    print(f"[{datetime.now().strftime('%Y-%m-%d %H:%M:%S')}] Starting Taste-Driven Curatorial Scraping...")
+    print(f"[{datetime.now().strftime('%Y-%m-%d %H:%M:%S')}] Starting Strict Taste-Driven Scraping (Strict Thumbnail Deduplication)...")
     
     os.makedirs(os.path.join(BASE_DIR, "data"), exist_ok=True)
     
     existing_items = []
     seen_urls = set()
     seen_titles = []
-    seen_images = set()
+    seen_img_keys = set()
 
     if os.path.exists(ARCHIVE_FILE):
         try:
@@ -401,12 +427,12 @@ def run_daily_collection(limit_per_source=4):
                 if isinstance(existing_items, list):
                     for it in existing_items:
                         if isinstance(it, dict):
-                            u = it.get('url', '').strip()
-                            t = re.sub(r'[^\w\s]', '', it.get('title', '').lower())
-                            img = it.get('image_url', '').strip()
+                            u = it.get('url', '').strip().split('?')[0].rstrip('/')
+                            t = normalize_title_key(it.get('title', ''))
+                            img = normalize_image_key(it.get('image_url', ''))
                             if u: seen_urls.add(u)
                             if t: seen_titles.append(t)
-                            if img: seen_images.add(img)
+                            if img: seen_img_keys.add(img)
                 else:
                     existing_items = []
         except Exception as e:
@@ -422,7 +448,7 @@ def run_daily_collection(limit_per_source=4):
             feed = feedparser.parse(resp.content if resp.status_code == 200 else source['url'])
             count = 0
             for entry in feed.entries:
-                url = entry.get('link', '').strip()
+                url = entry.get('link', '').strip().split('?')[0].rstrip('/')
                 if url and url in seen_urls:
                     continue # Already collected!
                     
@@ -442,25 +468,32 @@ def run_daily_collection(limit_per_source=4):
                 try:
                     res = future.result()
                     if res:
-                        # Semantic Deduplication Check
-                        u = res.get('url', '').strip()
-                        t = re.sub(r'[^\w\s]', '', res.get('title', '').lower())
-                        img = res.get('image_url', '').strip()
-                        
-                        if u in seen_urls: continue
-                        if img and img in seen_images: continue
-                        
+                        # 1. Strict Thumbnail Deduplication (Primary Gate)
+                        img_key = normalize_image_key(res.get('image_url', ''))
+                        if img_key and img_key in seen_img_keys:
+                            print(f"[BLOCKED DUP THUMBNAIL]: {res.get('title', '')[:30]}...")
+                            continue
+
+                        # 2. Canonical URL Deduplication
+                        u = res.get('url', '').strip().split('?')[0].rstrip('/')
+                        if u in seen_urls:
+                            continue
+
+                        # 3. Strict Title & Semantic Deduplication (Threshold > 0.55)
+                        t = normalize_title_key(res.get('title', ''))
                         from difflib import SequenceMatcher
-                        is_dup = False
+                        is_title_dup = False
                         for prev_t in seen_titles:
-                            if SequenceMatcher(None, t, prev_t).ratio() > 0.70:
-                                is_dup = True
+                            if SequenceMatcher(None, t, prev_t).ratio() > 0.55:
+                                is_title_dup = True
+                                print(f"[BLOCKED DUP TITLE]: {res.get('title', '')[:30]}...")
                                 break
-                        if is_dup: continue
+                        if is_title_dup:
+                            continue
                         
-                        seen_urls.add(u)
-                        seen_titles.append(t)
-                        if img: seen_images.add(img)
+                        if img_key: seen_img_keys.add(img_key)
+                        if u: seen_urls.add(u)
+                        if t: seen_titles.append(t)
                         
                         new_collected_items.append(res)
                 except Exception as e:
