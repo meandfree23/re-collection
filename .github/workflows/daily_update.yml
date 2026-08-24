@@ -2,8 +2,13 @@ name: Daily Curated Spatial Journal Auto-Update
 
 on:
   schedule:
-    # Runs every day at 00:30 UTC (09:30 KST)
+    # Runs 3 times a day:
+    # 1. Early Morning 06:30 KST (21:30 UTC)
+    - cron: '30 21 * * *'
+    # 2. Morning 09:30 KST (00:30 UTC)
     - cron: '30 0 * * *'
+    # 3. Afternoon 14:30 KST (05:30 UTC)
+    - cron: '30 5 * * *'
   workflow_dispatch:
 
 permissions:
