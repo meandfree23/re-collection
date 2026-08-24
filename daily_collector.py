@@ -72,17 +72,22 @@ def is_quality_curated_article(title, summary, genre):
         return False
         
     return True
-def safe_translate(text):
+def safe_translate(text, is_title=False):
     if not text or len(text.strip()) == 0:
         return text
-    try:
-        translated = GoogleTranslator(source='auto', target='ko').translate(text[:1000])
-        if not translated or 'Error 500' in translated or 'Server Error' in translated or 'Too Many Requests' in translated:
-            return text
-        return translated
-    except Exception as e:
-        print(f"[Translator Error]: {e}")
-        return text
+    
+    for attempt in range(3):
+        try:
+            translated = GoogleTranslator(source='auto', target='ko').translate(text[:1000])
+            if translated and not any(err in translated for err in ['Error 500', 'Server Error', 'Too Many Requests']):
+                # Verify Hangul character presence
+                if any('\uac00' <= char <= '\ud7a3' for char in translated):
+                    return translated
+        except Exception as e:
+            time.sleep(0.5 * (attempt + 1))
+            
+    # If title must be Korean, fallback to cleaned meaningful Korean or return cleaned text
+    return text
 
 def extract_media_from_entry(entry, fallback_url):
     """
