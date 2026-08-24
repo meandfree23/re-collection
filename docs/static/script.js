@@ -76,6 +76,20 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     });
 
+    // Nested Concept Synapse Flywheel Nodes
+    const synapseBtns = document.querySelectorAll('.synapse-node-btn');
+    synapseBtns.forEach(btn => {
+        btn.addEventListener('click', () => {
+            const query = btn.getAttribute('data-query') || '';
+            if (sensorySearchInput) {
+                sensorySearchInput.value = query;
+                synapseBtns.forEach(b => b.classList.remove('active'));
+                btn.classList.add('active');
+                performAIIntelligenceSearch();
+            }
+        });
+    });
+
     // 1. Ambient Audio Generator (Web Audio API Ambient Engine)
     let audioCtx = null;
     let isPlayingAudio = false;

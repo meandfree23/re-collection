@@ -177,6 +177,64 @@ body {
     border-color: var(--text-main);
 }
 
+/* ==========================================================================
+   Nested Concept & Circulatory Flywheel Synapses
+   ========================================================================== */
+.nested-flywheel-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.6rem;
+    margin-top: 0.4rem;
+}
+
+.nested-flywheel-label {
+    font-size: 0.68rem;
+    letter-spacing: 0.16em;
+    color: var(--text-muted);
+    font-weight: 600;
+    text-transform: uppercase;
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+}
+
+.nested-synapse-tags {
+    display: flex;
+    gap: 0.45rem;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.synapse-node-btn {
+    padding: 0.35rem 0.85rem;
+    background: rgba(243, 240, 232, 0.7);
+    border: 1px dashed rgba(140, 120, 81, 0.4);
+    border-radius: 6px;
+    font-size: 0.73rem;
+    font-family: var(--font-sans);
+    color: var(--accent-sand);
+    cursor: pointer;
+    transition: var(--transition);
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+}
+
+.synapse-node-btn:hover, .synapse-node-btn.active {
+    background: var(--accent-sand);
+    color: #ffffff;
+    border-style: solid;
+    border-color: var(--accent-sand);
+    transform: translateY(-1px);
+    box-shadow: 0 4px 12px rgba(140, 120, 81, 0.2);
+}
+
+.synapse-node-btn .cross-sym {
+    opacity: 0.6;
+    font-size: 0.65rem;
+}
+
 .spatial-filter-bar {
     display: flex;
     align-items: center;
