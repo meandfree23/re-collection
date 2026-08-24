@@ -92,10 +92,89 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin-top: 2.8rem;
+    margin-top: 2.2rem;
     padding-top: 1.5rem;
     border-top: 1px solid var(--border-subtle);
     gap: 1rem;
+    flex-wrap: wrap;
+}
+
+/* ==========================================================================
+   AI-Native Sensory Search & Intelligence Filter Chips
+   ========================================================================== */
+.ai-search-section {
+    margin-top: 2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1.2rem;
+}
+
+.ai-search-box {
+    position: relative;
+    width: 100%;
+    max-width: 680px;
+}
+
+.ai-search-input {
+    width: 100%;
+    padding: 0.95rem 3rem 0.95rem 1.4rem;
+    background: #ffffff;
+    border: 1px solid var(--border-subtle);
+    border-radius: 9999px;
+    font-family: var(--font-sans);
+    font-size: 0.92rem;
+    color: var(--text-main);
+    letter-spacing: 0.02em;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.03);
+    transition: var(--transition);
+    outline: none;
+}
+
+.ai-search-input:focus {
+    border-color: var(--border-focus);
+    box-shadow: 0 6px 24px rgba(0, 0, 0, 0.08);
+}
+
+.ai-search-input::placeholder {
+    color: var(--text-faint);
+    font-style: italic;
+}
+
+.ai-search-icon {
+    position: absolute;
+    right: 1.2rem;
+    top: 50%;
+    transform: translateY(-50%);
+    color: var(--text-muted);
+    pointer-events: none;
+}
+
+.taste-filter-chips {
+    display: flex;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.taste-chip {
+    padding: 0.4rem 0.9rem;
+    background: transparent;
+    border: 1px solid var(--border-subtle);
+    border-radius: 9999px;
+    font-size: 0.75rem;
+    font-weight: 500;
+    color: var(--text-muted);
+    cursor: pointer;
+    transition: var(--transition);
+    font-family: var(--font-sans);
+    letter-spacing: 0.04em;
+}
+
+.taste-chip:hover, .taste-chip.active {
+    background: var(--text-main);
+    color: #ffffff;
+    border-color: var(--text-main);
 }
 
 .spatial-filter-bar {

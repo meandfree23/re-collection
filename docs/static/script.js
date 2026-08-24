@@ -20,6 +20,62 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     } catch (e) {}
 
+    // AI-Native Sensory Search & Taste Filtering
+    const sensorySearchInput = document.getElementById('ai-sensory-search');
+    const tasteChips = document.querySelectorAll('.taste-chip');
+    let activeGenreFilter = 'ALL';
+
+    function performAIIntelligenceSearch() {
+        const query = (sensorySearchInput ? sensorySearchInput.value : '').toLowerCase().trim();
+        
+        let filtered = currentResults;
+
+        // 1. Genre / Taste Chip Filter
+        if (activeGenreFilter !== 'ALL') {
+            filtered = filtered.filter(item => {
+                const g = (item.genre || '').toUpperCase();
+                return g.includes(activeGenreFilter.toUpperCase());
+            });
+        }
+
+        // 2. Sensory Semantic Keyword Multi-vector Search
+        if (query) {
+            filtered = filtered.filter(item => {
+                const title = (item.title || '').toLowerCase();
+                const snippet = (item.snippet || '').toLowerCase();
+                const genre = (item.genre || '').toLowerCase();
+                const source = (item.source_name || '').toLowerCase();
+                
+                const facets = item.facets || {};
+                const loci = (facets.genius_loci || '').toLowerCase();
+                const sensory = (facets.sensory_recall || '').toLowerCase();
+                const videoCx = (facets.spatial_video_cx || '').toLowerCase();
+                const zeitgeist = (facets.zeitgeist_horizon || '').toLowerCase();
+
+                const corpus = `${title} ${snippet} ${genre} ${source} ${loci} ${sensory} ${videoCx} ${zeitgeist}`;
+                
+                // Split query into terms for flexible multi-match
+                const terms = query.split(/\s+/);
+                return terms.every(term => corpus.includes(term));
+            });
+        }
+
+        renderKinfolkGrid(filtered);
+    }
+
+    if (sensorySearchInput) {
+        sensorySearchInput.addEventListener('input', performAIIntelligenceSearch);
+    }
+
+    tasteChips.forEach(chip => {
+        chip.addEventListener('click', () => {
+            tasteChips.forEach(c => c.classList.remove('active'));
+            chip.classList.add('active');
+            activeGenreFilter = chip.getAttribute('data-filter') || 'ALL';
+            performAIIntelligenceSearch();
+        });
+    });
+
     // 1. Ambient Audio Generator (Web Audio API Ambient Engine)
     let audioCtx = null;
     let isPlayingAudio = false;
