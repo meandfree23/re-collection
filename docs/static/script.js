@@ -40,7 +40,10 @@ document.addEventListener('DOMContentLoaded', () => {
 
         // 2. Sensory Semantic Keyword Multi-vector Search
         if (query) {
-            filtered = filtered.filter(item => {
+            const terms = query.split(/\s+/).filter(t => t.length > 0);
+            
+            const scoredItems = [];
+            filtered.forEach(item => {
                 const title = (item.title || '').toLowerCase();
                 const snippet = (item.snippet || '').toLowerCase();
                 const genre = (item.genre || '').toLowerCase();
@@ -54,10 +57,22 @@ document.addEventListener('DOMContentLoaded', () => {
 
                 const corpus = `${title} ${snippet} ${genre} ${source} ${loci} ${sensory} ${videoCx} ${zeitgeist}`;
                 
-                // Split query into terms for flexible multi-match
-                const terms = query.split(/\s+/);
-                return terms.every(term => corpus.includes(term));
+                let matchScore = 0;
+                terms.forEach(term => {
+                    if (title.includes(term)) matchScore += 5;
+                    if (genre.includes(term)) matchScore += 4;
+                    if (loci.includes(term) || sensory.includes(term)) matchScore += 3;
+                    if (corpus.includes(term)) matchScore += 2;
+                });
+
+                if (matchScore > 0) {
+                    scoredItems.push({ item, score: matchScore });
+                }
             });
+
+            // Sort by relevance match score
+            scoredItems.sort((a, b) => b.score - a.score);
+            filtered = scoredItems.map(si => si.item);
         }
 
         renderKinfolkGrid(filtered);
