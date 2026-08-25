@@ -76,17 +76,24 @@ def safe_translate(text, is_title=False):
     if not text or len(text.strip()) == 0:
         return text
     
-    for attempt in range(3):
+    # Clean text from HTML artifacts or common noisy prefixes
+    clean_text = text.replace('\n', ' ').strip()
+    
+    for attempt in range(5):
         try:
-            translated = GoogleTranslator(source='auto', target='ko').translate(text[:1000])
-            if translated and not any(err in translated for err in ['Error 500', 'Server Error', 'Too Many Requests']):
-                # Verify Hangul character presence
-                if any('\uac00' <= char <= '\ud7a3' for char in translated):
+            translated = GoogleTranslator(source='auto', target='ko').translate(clean_text[:1000])
+            if translated and not any(err in translated for err in ['Error 500', 'Server Error', 'Too Many Requests', 'Service Unavailable']):
+                # Strict verification: Hangul character MUST be present
+                hangul_count = len(re.findall(r'[\uac00-\ud7a3]', translated))
+                if hangul_count > 0 and (hangul_count / max(1, len(translated)) >= 0.15 or len(clean_text) < 10):
                     return translated
         except Exception as e:
-            time.sleep(0.5 * (attempt + 1))
+            time.sleep(0.6 * (attempt + 1))
             
-    # If title must be Korean, fallback to cleaned meaningful Korean or return cleaned text
+    # If translation completely fails for a title, do NOT return raw English.
+    # Return None so that untranslated English articles are never saved to the archive!
+    if is_title:
+        return None
     return text
 
 def extract_media_from_entry(entry, fallback_url):
@@ -330,9 +337,15 @@ def process_single_entry(entry, source):
         
     img_url, video_url = extract_media_from_entry(entry, url)
     
-    # Fast translation
-    title_ko = safe_translate(title)
+    # Strict 100% Hangul translation gate
+    title_ko = safe_translate(title, is_title=True)
+    if not title_ko:
+        print(f"[BLOCKED UNTRANSLATED ENGLISH]: {title[:50]}...")
+        return None
+
     snippet_ko = safe_translate(clean_summary) if clean_summary else title_ko
+    if not snippet_ko:
+        snippet_ko = title_ko
     
     facets = design_insights(title_ko, snippet_ko, source['genre'])
     
