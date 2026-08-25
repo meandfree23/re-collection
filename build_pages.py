@@ -181,7 +181,7 @@ def build_pages():
         content = re.sub(r'<span class="meta-issue" id="current-issue-text">.*?</span>', f'<span class="meta-issue" id="current-issue-text">{issue_text}</span>', content)
 
         sync_note = f'LATEST UPDATE: {today_kor_stamp} ({today_items_count} EDITIONS SYNCED TODAY)'
-        content = re.sub(r'<span class="collection-note">.*?</span>', f'<span class="collection-note" style="color: #059669; font-weight: 600; letter-spacing: 0.04em;">● {sync_note}</span>', content)
+        content = re.sub(r'<span class="collection-note"[^>]*>.*?</span>', f'<span class="collection-note" style="color: #059669; font-weight: 600; letter-spacing: 0.04em;">● {sync_note}</span>', content)
 
         content = re.sub(r'data/daily_archive\.js\?v=\d+', f'data/daily_archive.js?v={cache_version}', content)
         content = re.sub(r'static/script\.js\?v=\d+', f'static/script.js?v={cache_version}', content)
