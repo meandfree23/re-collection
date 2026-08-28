@@ -428,15 +428,48 @@ def normalize_title_key(title):
     if not title: return ''
     return re.sub(r'[^\w\s]', '', title.lower()).strip()
 
+FINGERPRINTS_FILE = os.path.join(BASE_DIR, "data", "persistent_fingerprints.json")
+
+def load_persistent_fingerprints():
+    ledger = {'urls': set(), 'images': set(), 'titles': set()}
+    if os.path.exists(FINGERPRINTS_FILE):
+        try:
+            with open(FINGERPRINTS_FILE, 'r', encoding='utf-8') as f:
+                data = json.load(f)
+                ledger['urls'] = set(data.get('urls', []))
+                ledger['images'] = set(data.get('images', []))
+                ledger['titles'] = set(data.get('titles', []))
+        except Exception as e:
+            print(f"Error loading fingerprints: {e}")
+    return ledger
+
+def save_persistent_fingerprints(ledger):
+    try:
+        data = {
+            'version': '1.0',
+            'last_updated': datetime.now().strftime('%Y-%m-%d %H:%M:%S'),
+            'total_unique_urls': len(ledger['urls']),
+            'total_unique_images': len(ledger['images']),
+            'total_unique_titles': len(ledger['titles']),
+            'urls': sorted(list(ledger['urls'])),
+            'images': sorted(list(ledger['images'])),
+            'titles': sorted(list(ledger['titles']))
+        }
+        with open(FINGERPRINTS_FILE, 'w', encoding='utf-8') as f:
+            json.dump(data, f, ensure_ascii=False, indent=2)
+    except Exception as e:
+        print(f"Error saving fingerprints: {e}")
+
 def run_daily_collection(limit_per_source=4):
-    print(f"[{datetime.now().strftime('%Y-%m-%d %H:%M:%S')}] Starting Strict Taste-Driven Scraping (Strict Thumbnail Deduplication)...")
+    print(f"[{datetime.now().strftime('%Y-%m-%d %H:%M:%S')}] Starting Strict Taste-Driven Scraping with Persistent Global Ledger...")
     
     os.makedirs(os.path.join(BASE_DIR, "data"), exist_ok=True)
+    ledger = load_persistent_fingerprints()
     
     existing_items = []
-    seen_urls = set()
-    seen_titles = []
-    seen_img_keys = set()
+    seen_urls = set(ledger['urls'])
+    seen_titles = list(ledger['titles'])
+    seen_img_keys = set(ledger['images'])
 
     if os.path.exists(ARCHIVE_FILE):
         try:
@@ -449,7 +482,7 @@ def run_daily_collection(limit_per_source=4):
                             t = normalize_title_key(it.get('title', ''))
                             img = normalize_image_key(it.get('image_url', ''))
                             if u: seen_urls.add(u)
-                            if t: seen_titles.append(t)
+                            if t and t not in seen_titles: seen_titles.append(t)
                             if img: seen_img_keys.add(img)
                 else:
                     existing_items = []
@@ -468,7 +501,7 @@ def run_daily_collection(limit_per_source=4):
             for entry in feed.entries:
                 url = entry.get('link', '').strip().split('?')[0].rstrip('/')
                 if url and url in seen_urls:
-                    continue # Already collected!
+                    continue # Already in persistent ledger!
                     
                 raw_entries_to_process.append((entry, source))
                 count += 1
@@ -489,7 +522,7 @@ def run_daily_collection(limit_per_source=4):
                         # 1. Strict Thumbnail Deduplication (Primary Gate)
                         img_key = normalize_image_key(res.get('image_url', ''))
                         if img_key and img_key in seen_img_keys:
-                            print(f"[BLOCKED DUP THUMBNAIL]: {res.get('title', '')[:30]}...")
+                            print(f"[PERMANENT LEDGER BLOCKED DUP THUMBNAIL]: {res.get('title', '')[:30]}...")
                             continue
 
                         # 2. Canonical URL Deduplication
@@ -497,25 +530,37 @@ def run_daily_collection(limit_per_source=4):
                         if u in seen_urls:
                             continue
 
-                        # 3. Strict Title & Semantic Deduplication (Threshold > 0.55)
+                        # 3. Strict Title & Semantic Deduplication (Threshold > 0.50)
                         t = normalize_title_key(res.get('title', ''))
+                        ot = normalize_title_key(res.get('original_title', ''))
                         from difflib import SequenceMatcher
                         is_title_dup = False
                         for prev_t in seen_titles:
-                            if SequenceMatcher(None, t, prev_t).ratio() > 0.55:
+                            if SequenceMatcher(None, t, prev_t).ratio() > 0.50 or (ot and SequenceMatcher(None, ot, prev_t).ratio() > 0.50):
                                 is_title_dup = True
-                                print(f"[BLOCKED DUP TITLE]: {res.get('title', '')[:30]}...")
+                                print(f"[PERMANENT LEDGER BLOCKED DUP TITLE]: {res.get('title', '')[:30]}...")
                                 break
                         if is_title_dup:
                             continue
                         
-                        if img_key: seen_img_keys.add(img_key)
-                        if u: seen_urls.add(u)
-                        if t: seen_titles.append(t)
+                        if img_key:
+                            seen_img_keys.add(img_key)
+                            ledger['images'].add(img_key)
+                        if u:
+                            seen_urls.add(u)
+                            ledger['urls'].add(u)
+                        if t:
+                            seen_titles.append(t)
+                            ledger['titles'].add(t)
+                        if ot:
+                            ledger['titles'].add(ot)
                         
                         new_collected_items.append(res)
                 except Exception as e:
                     print(f"Entry process error: {e}")
+
+    # Save updated ledger
+    save_persistent_fingerprints(ledger)
 
     # Sort new items by curatorial taste score
     new_collected_items.sort(key=calculate_taste_score, reverse=True)

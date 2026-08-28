@@ -25,6 +25,8 @@ def normalize_title_key(title):
     if not title: return ''
     return re.sub(r'[^\w\s]', '', title.lower()).strip()
 
+FINGERPRINTS_FILE = os.path.join(BASE_DIR, "data", "persistent_fingerprints.json")
+
 def build_pages():
     if not os.path.exists(ARCHIVE_FILE):
         print(f"Archive file not found at {ARCHIVE_FILE}")
@@ -33,7 +35,7 @@ def build_pages():
     with open(ARCHIVE_FILE, "r", encoding="utf-8") as f:
         items = json.load(f)
 
-    # 1. Strict Deduplication Filter on all items before compilation
+    # 1. Strict Self-Healing Deduplication Filter on all items before compilation
     pristine_items = []
     seen_img_keys = set()
     seen_urls = set()
@@ -43,6 +45,7 @@ def build_pages():
         url = item.get('url', '').strip().split('?')[0].rstrip('/')
         img = item.get('image_url', '').strip()
         title = item.get('title', '').strip()
+        orig_title = item.get('original_title', '').strip()
 
         img_key = normalize_img_key(img)
         if img_key and img_key in seen_img_keys:
@@ -52,9 +55,10 @@ def build_pages():
             continue
 
         t_key = normalize_title_key(title)
+        ot_key = normalize_title_key(orig_title)
         is_dup = False
         for prev_t in seen_titles:
-            if SequenceMatcher(None, t_key, prev_t).ratio() > 0.55:
+            if (t_key and SequenceMatcher(None, t_key, prev_t).ratio() > 0.50) or (ot_key and SequenceMatcher(None, ot_key, prev_t).ratio() > 0.50):
                 is_dup = True
                 break
         if is_dup:
@@ -63,6 +67,7 @@ def build_pages():
         if img_key: seen_img_keys.add(img_key)
         if url: seen_urls.add(url)
         if t_key: seen_titles.append(t_key)
+        if ot_key: seen_titles.append(ot_key)
         pristine_items.append(item)
 
     items = pristine_items[:140]
@@ -70,6 +75,30 @@ def build_pages():
     # Save back pristine JSON
     with open(ARCHIVE_FILE, "w", encoding="utf-8") as f:
         json.dump(items, f, ensure_ascii=False, indent=2)
+
+    # Update Global Fingerprint Ledger
+    ledger = {'urls': set(seen_urls), 'images': set(seen_img_keys), 'titles': set(seen_titles)}
+    if os.path.exists(FINGERPRINTS_FILE):
+        try:
+            with open(FINGERPRINTS_FILE, 'r', encoding='utf-8') as f:
+                old_f = json.load(f)
+                ledger['urls'].update(old_f.get('urls', []))
+                ledger['images'].update(old_f.get('images', []))
+                ledger['titles'].update(old_f.get('titles', []))
+        except Exception:
+            pass
+
+    with open(FINGERPRINTS_FILE, 'w', encoding='utf-8') as f:
+        json.dump({
+            'version': '1.0',
+            'last_updated': datetime.now().strftime('%Y-%m-%d %H:%M:%S'),
+            'total_unique_urls': len(ledger['urls']),
+            'total_unique_images': len(ledger['images']),
+            'total_unique_titles': len(ledger['titles']),
+            'urls': sorted(list(ledger['urls'])),
+            'images': sorted(list(ledger['images'])),
+            'titles': sorted(list(ledger['titles']))
+        }, f, ensure_ascii=False, indent=2)
 
     from datetime import timezone, timedelta
     KST = timezone(timedelta(hours=9))
