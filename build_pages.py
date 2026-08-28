@@ -86,14 +86,63 @@ def build_pages():
     if today_items_count == 0:
         today_items_count = len(items)
 
-    # 2. Update JS preloaded archives
+    # 2. Update JS preloaded archives & Daily Partition JS
     os.makedirs(os.path.join(BASE_DIR, "docs", "data"), exist_ok=True)
     os.makedirs(os.path.join(BASE_DIR, "static", "data"), exist_ok=True)
+    os.makedirs(os.path.join(BASE_DIR, "docs", "data", "daily"), exist_ok=True)
+    os.makedirs(os.path.join(BASE_DIR, "static", "data", "daily"), exist_ok=True)
+
     js_content = 'window.PRELOADED_ARCHIVE = ' + json.dumps(items, ensure_ascii=False) + ';'
     with open(os.path.join(BASE_DIR, "docs", "data", "daily_archive.js"), "w", encoding="utf-8") as f:
         f.write(js_content)
     with open(os.path.join(BASE_DIR, "static", "data", "daily_archive.js"), "w", encoding="utf-8") as f:
         f.write(js_content)
+
+    # Process all daily partitions
+    daily_dir = os.path.join(BASE_DIR, "data", "daily")
+    manifest_file = os.path.join(BASE_DIR, "data", "manifest.json")
+    
+    daily_dates = sorted([f.replace('.json', '') for f in os.listdir(daily_dir) if f.endswith('.json')], reverse=True)
+    if not daily_dates:
+        daily_dates = [today_ymd]
+
+    manifest = {
+        "latest_date": daily_dates[0],
+        "dates": daily_dates,
+        "total_issues": len(daily_dates)
+    }
+    with open(manifest_file, "w", encoding="utf-8") as f:
+        json.dump(manifest, f, ensure_ascii=False, indent=2)
+
+    manifest_js = 'window.MANIFEST_DATA = ' + json.dumps(manifest, ensure_ascii=False) + ';'
+    with open(os.path.join(BASE_DIR, "docs", "data", "manifest.js"), "w", encoding="utf-8") as f:
+        f.write(manifest_js)
+    with open(os.path.join(BASE_DIR, "static", "data", "manifest.js"), "w", encoding="utf-8") as f:
+        f.write(manifest_js)
+
+    for d in daily_dates:
+        df_path = os.path.join(daily_dir, f"{d}.json")
+        try:
+            with open(df_path, "r", encoding="utf-8") as f:
+                d_items = json.load(f)
+            clean_d = d.replace('-', '_')
+            d_js = f"window.DAILY_ISSUE_{clean_d} = " + json.dumps(d_items, ensure_ascii=False) + ";"
+            with open(os.path.join(BASE_DIR, "docs", "data", "daily", f"{d}.js"), "w", encoding="utf-8") as f:
+                f.write(d_js)
+            with open(os.path.join(BASE_DIR, "static", "data", "daily", f"{d}.js"), "w", encoding="utf-8") as f:
+                f.write(d_js)
+        except Exception as e:
+            print(f"Error compiling daily {d}: {e}")
+
+    # Build Issue Date Switcher HTML
+    date_chips_html = []
+    for d in daily_dates:
+        is_active = (d == daily_dates[0])
+        active_cls = "active" if is_active else ""
+        label = f"★ {d[5:].replace('-', '.')} 오늘" if is_active else f"{d[5:].replace('-', '.')} 호"
+        chip = f'<button class="issue-date-chip {active_cls}" data-date="{d}">{label}</button>'
+        date_chips_html.append(chip)
+    issue_switcher_html = '\n'.join(date_chips_html)
 
     # 3. Compile pre-rendered cards HTML
     cards_html = []
@@ -116,26 +165,15 @@ def build_pages():
         except Exception:
             pass
 
-        film_badge = '<div class="film-badge"><span>FILM</span></div>' if item.get('has_video') else ''
-        
-        today_badge = ''
-        if is_today or idx < 30:
-            today_badge = f'''
-            <div class="film-badge" style="background: #111; color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.6); left: 12px; right: auto; font-weight: 600;">
-                <span>★ TODAY ({now.strftime('%m.%d')})</span>
-            </div>
-            '''
+        today_badge = '<span class="kinfolk-today-badge">★ TODAY</span>' if is_today else ''
+        film_badge = '<div class="film-badge"><svg viewBox="0 0 24 24" width="10" height="10" stroke="currentColor" stroke-width="2" fill="none"><polygon points="5 3 19 12 5 21 5 3"/></svg> CINEMATIC FILM</div>' if item.get('has_video') else ''
 
         if image_url:
             media_html = f'''
             <div class="card-media-box">
                 {today_badge}
                 {film_badge}
-                <img src="{image_url}" alt="{title}" class="card-img" loading="lazy" onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
-                <div class="simple-text-cover" style="display: none;">
-                    <span class="text-cover-badge">{genre}</span>
-                    <span class="text-cover-title">{title}</span>
-                </div>
+                <img src="{image_url}" alt="{title}" class="card-image" loading="lazy" onerror="this.parentElement.innerHTML='<div class=\\'simple-text-cover\\'><span class=\\'text-cover-badge\\'>{genre}</span><span class=\\'text-cover-title\\'>{title}</span></div>'">
             </div>
             '''
         else:
@@ -186,7 +224,12 @@ def build_pages():
         content = re.sub(r'<span class="collection-note"[^>]*>.*?</span>', f'<span class="collection-note" style="color: #059669; font-weight: 600; letter-spacing: 0.04em;">● {sync_note}</span>', content)
 
         content = re.sub(r'data/daily_archive\.js\?v=\d+', f'data/daily_archive.js?v={cache_version}', content)
+        content = re.sub(r'data/manifest\.js\?v=\d+', f'data/manifest.js?v={cache_version}', content)
         content = re.sub(r'static/script\.js\?v=\d+', f'static/script.js?v={cache_version}', content)
+
+        # Inject Issue Date Switcher
+        if '<div class="issue-date-switcher"' in content:
+            content = re.sub(r'<div class="issue-date-switcher"[^>]*>.*?</div>', f'<div class="issue-date-switcher">\n{issue_switcher_html}\n</div>', content, flags=re.DOTALL)
 
         pattern = r'<div id="results-container" class="kinfolk-grid">.*?</div>\s*</main>'
         replacement = f'<div id="results-container" class="kinfolk-grid">\n{full_grid_html}\n            </div>\n        </main>'
@@ -195,7 +238,7 @@ def build_pages():
         with open(target_path, 'w', encoding='utf-8') as f:
             f.write(content)
 
-    print(f"Successfully compiled {len(items)} pristine cards for {formatted_date} (Strict Thumbnail Deduplication applied)!")
+    print(f"Successfully compiled {len(items)} pristine cards for {formatted_date} with {len(daily_dates)} daily partition archives!")
 
 if __name__ == "__main__":
     build_pages()

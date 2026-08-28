@@ -58,8 +58,73 @@ body {
     letter-spacing: 0.18em;
     color: var(--text-muted);
     text-transform: uppercase;
-    margin-bottom: 1.8rem;
+    margin-bottom: 1.2rem;
     font-weight: 500;
+}
+
+/* ==========================================================================
+   Creative Insight Style: Issue Date Switcher
+   ========================================================================== */
+.issue-date-switcher {
+    display: flex;
+    justify-content: center;
+    gap: 0.5rem;
+    margin-bottom: 2rem;
+    flex-wrap: wrap;
+}
+
+.issue-date-chip {
+    padding: 0.35rem 0.9rem;
+    background: #ffffff;
+    border: 1px solid var(--border-subtle);
+    border-radius: 9999px;
+    font-size: 0.75rem;
+    font-family: var(--font-sans);
+    font-weight: 600;
+    color: var(--text-muted);
+    cursor: pointer;
+    transition: var(--transition);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.02);
+}
+
+.issue-date-chip:hover {
+    border-color: var(--border-focus);
+    color: var(--text-main);
+    transform: translateY(-1px);
+}
+
+.issue-date-chip.active {
+    background: var(--text-main);
+    color: #ffffff;
+    border-color: var(--text-main);
+    box-shadow: 0 4px 12px rgba(28, 25, 23, 0.15);
+}
+
+.curator-zeitgeist-box {
+    max-width: 680px;
+    margin: 1.5rem auto 0 auto;
+    padding: 1rem 1.4rem;
+    background: rgba(243, 240, 232, 0.55);
+    border: 1px solid var(--border-hairline);
+    border-radius: 8px;
+    text-align: center;
+}
+
+.zeitgeist-tag {
+    display: inline-block;
+    font-size: 0.65rem;
+    letter-spacing: 0.16em;
+    font-weight: 700;
+    color: var(--accent-sand);
+    margin-bottom: 0.35rem;
+}
+
+.zeitgeist-quote {
+    font-family: var(--font-serif);
+    font-size: 0.88rem;
+    font-style: italic;
+    color: var(--text-serif);
+    line-height: 1.6;
 }
 
 .meta-divider {
@@ -67,7 +132,7 @@ body {
 }
 
 .header-main-title {
-    margin-bottom: 2.5rem;
+    margin-bottom: 2.2rem;
 }
 
 .kinfolk-logo {

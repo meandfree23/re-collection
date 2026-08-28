@@ -6,19 +6,50 @@ document.addEventListener('DOMContentLoaded', () => {
     const currentDateDisplay = document.getElementById('current-date-display');
     const currentIssueText = document.getElementById('current-issue-text');
 
-    // Restore cached custom editions if any
-    try {
-        const cached = localStorage.getItem('recollection_custom_archive');
-        if (cached) {
-            const parsed = JSON.parse(cached);
-            if (Array.isArray(parsed) && parsed.length > 0) {
-                currentResults = parsed;
-                if (resultsContainer) {
-                    renderKinfolkGrid(currentResults);
-                }
+    // Issue Date Switcher (Creative Insight Daily Partition Architecture)
+    const issueDateChips = document.querySelectorAll('.issue-date-chip');
+    let activeDateFilter = issueDateChips.length > 0 ? (issueDateChips[0].getAttribute('data-date') || 'ALL') : 'ALL';
+
+    function switchDailyIssue(targetDate) {
+        activeDateFilter = targetDate;
+        issueDateChips.forEach(chip => {
+            if (chip.getAttribute('data-date') === targetDate) {
+                chip.classList.add('active');
+            } else {
+                chip.classList.remove('active');
             }
+        });
+
+        if (targetDate === 'ALL') {
+            currentResults = (window.PRELOADED_ARCHIVE && Array.isArray(window.PRELOADED_ARCHIVE)) ? [...window.PRELOADED_ARCHIVE] : [];
+            performAIIntelligenceSearch();
+            return;
         }
-    } catch (e) {}
+
+        const cleanDateVar = 'DAILY_ISSUE_' + targetDate.replace(/-/g, '_');
+        if (window[cleanDateVar] && Array.isArray(window[cleanDateVar])) {
+            currentResults = [...window[cleanDateVar]];
+            performAIIntelligenceSearch();
+        } else {
+            // Dynamically load partition JS
+            const script = document.createElement('script');
+            script.src = `data/daily/${targetDate}.js?v=${Date.now()}`;
+            script.onload = () => {
+                if (window[cleanDateVar] && Array.isArray(window[cleanDateVar])) {
+                    currentResults = [...window[cleanDateVar]];
+                    performAIIntelligenceSearch();
+                }
+            };
+            document.body.appendChild(script);
+        }
+    }
+
+    issueDateChips.forEach(chip => {
+        chip.addEventListener('click', () => {
+            const date = chip.getAttribute('data-date') || 'ALL';
+            switchDailyIssue(date);
+        });
+    });
 
     // AI-Native Sensory Search & Taste Filtering
     const sensorySearchInput = document.getElementById('ai-sensory-search');

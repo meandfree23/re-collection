@@ -520,13 +520,57 @@ def run_daily_collection(limit_per_source=4):
     # Sort new items by curatorial taste score
     new_collected_items.sort(key=calculate_taste_score, reverse=True)
 
-    # Accumulate: Newest at top, existing below
+    KST = timezone(timedelta(hours=9))
+    today_str = datetime.now(KST).strftime('%Y-%m-%d')
+    daily_dir = os.path.join(BASE_DIR, "data", "daily")
+    os.makedirs(daily_dir, exist_ok=True)
+    today_file = os.path.join(daily_dir, f"{today_str}.json")
+    manifest_file = os.path.join(BASE_DIR, "data", "manifest.json")
+
+    # Load today's existing items if any
+    today_existing = []
+    if os.path.exists(today_file):
+        try:
+            with open(today_file, "r", encoding="utf-8") as f:
+                today_existing = json.load(f)
+        except Exception:
+            today_existing = []
+
+    today_all = new_collected_items + today_existing
+    today_all = today_all[:100]
+
+    # Save today's partition
+    with open(today_file, "w", encoding="utf-8") as f:
+        json.dump(today_all, f, ensure_ascii=False, indent=2)
+
+    # Accumulate into master archive
     combined_archive = new_collected_items + existing_items
-    
     if not combined_archive and existing_items:
         combined_archive = existing_items
-        
-    combined_archive = combined_archive[:140] # Keep up to 140 pristine items
+    combined_archive = combined_archive[:140]
+
+    # Update Manifest
+    manifest_dates = [today_str]
+    if os.path.exists(manifest_file):
+        try:
+            with open(manifest_file, "r", encoding="utf-8") as f:
+                mf = json.load(f)
+                manifest_dates = mf.get('dates', [])
+                if today_str not in manifest_dates:
+                    manifest_dates.insert(0, today_str)
+        except Exception:
+            manifest_dates = [today_str]
+
+    # Scan daily folder for all dates
+    disk_dates = sorted([f.replace('.json', '') for f in os.listdir(daily_dir) if f.endswith('.json')], reverse=True)
+    manifest = {
+        "latest_date": disk_dates[0] if disk_dates else today_str,
+        "dates": disk_dates,
+        "total_issues": len(disk_dates)
+    }
+
+    with open(manifest_file, "w", encoding="utf-8") as f:
+        json.dump(manifest, f, ensure_ascii=False, indent=2)
 
     try:
         with open(ARCHIVE_FILE, "w", encoding="utf-8") as f:
@@ -534,7 +578,7 @@ def run_daily_collection(limit_per_source=4):
     except Exception as e:
         print(f"Error saving archive: {e}")
 
-    print(f"[{datetime.now().strftime('%Y-%m-%d %H:%M:%S')}] Taste-Driven Scraping Complete. Added {len(new_collected_items)} new unique items. Total {len(combined_archive)} pristine items preserved.")
+    print(f"[{datetime.now(KST).strftime('%Y-%m-%d %H:%M:%S')}] Taste-Driven Scraping Complete. Added {len(new_collected_items)} new unique items to daily/{today_str}.json (Total Master: {len(combined_archive)} items).")
     return combined_archive
 
 if __name__ == '__main__':
