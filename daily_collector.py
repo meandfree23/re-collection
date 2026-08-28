@@ -6,7 +6,7 @@ from urllib.parse import urlparse
 import requests
 import feedparser
 from bs4 import BeautifulSoup
-from datetime import datetime
+from datetime import datetime, timezone, timedelta
 from deep_translator import GoogleTranslator
 import concurrent.futures
 
@@ -360,7 +360,7 @@ def process_single_entry(entry, source):
         "snippet": snippet_ko,
         "genre": source['genre'],
         "source_name": source['name'],
-        "collected_at": datetime.now().strftime("%Y-%m-%d %H:%M"),
+        "collected_at": datetime.now(timezone(timedelta(hours=9))).strftime("%Y-%m-%d %H:%M"),
         "facets": facets
     }
     

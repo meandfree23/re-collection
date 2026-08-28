@@ -71,7 +71,9 @@ def build_pages():
     with open(ARCHIVE_FILE, "w", encoding="utf-8") as f:
         json.dump(items, f, ensure_ascii=False, indent=2)
 
-    now = datetime.now()
+    from datetime import timezone, timedelta
+    KST = timezone(timedelta(hours=9))
+    now = datetime.now(KST)
     months = ["JAN", "FEB", "MAR", "APR", "MAY", "JUN", "JUL", "AUG", "SEP", "OCT", "NOV", "DEC"]
     formatted_date = f"{months[now.month - 1]} {now.day}, {now.year}"
     issue_text = f"ISSUE {str(now.month).zfill(2)}.{str(now.day).zfill(2)} — DAILY CURATION"

@@ -2,21 +2,28 @@ name: Daily Curated Spatial Journal Auto-Update
 
 on:
   schedule:
-    # Runs 3 times a day:
-    # 1. Early Morning 06:30 KST (21:30 UTC)
-    - cron: '30 21 * * *'
+    # Runs 4 times a day to prevent cron delay:
+    # 1. Early Morning 06:00 KST (21:00 UTC)
+    - cron: '0 21 * * *'
     # 2. Morning 09:30 KST (00:30 UTC)
     - cron: '30 0 * * *'
-    # 3. Afternoon 14:30 KST (05:30 UTC)
-    - cron: '30 5 * * *'
+    # 3. Afternoon 13:30 KST (04:30 UTC)
+    - cron: '30 4 * * *'
+    # 4. Evening 18:30 KST (09:30 UTC)
+    - cron: '30 9 * * *'
   workflow_dispatch:
 
 permissions:
   contents: write
 
+env:
+  TZ: 'Asia/Seoul'
+
 jobs:
   daily-curation:
     runs-on: ubuntu-latest
+    env:
+      TZ: 'Asia/Seoul'
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
