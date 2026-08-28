@@ -2,15 +2,15 @@ name: Daily Curated Spatial Journal Auto-Update
 
 on:
   schedule:
-    # Runs 4 times a day to prevent cron delay:
-    # 1. Early Morning 06:00 KST (21:00 UTC)
-    - cron: '0 21 * * *'
-    # 2. Morning 09:30 KST (00:30 UTC)
-    - cron: '30 0 * * *'
-    # 3. Afternoon 13:30 KST (04:30 UTC)
-    - cron: '30 4 * * *'
-    # 4. Evening 18:30 KST (09:30 UTC)
-    - cron: '30 9 * * *'
+    # Off-Peak Morning & Daytime Schedule (Avoiding :00 and :30 minute traffic jams):
+    # 1. Early Dawn 06:18 KST (21:18 UTC) — Fresh daily feed ready before waking up
+    - cron: '18 21 * * *'
+    # 2. Morning Start 08:43 KST (23:43 UTC) — Morning supplement before work starts
+    - cron: '43 23 * * *'
+    # 3. Mid-day Refresh 11:27 KST (02:27 UTC) — European morning releases
+    - cron: '27 2 * * *'
+    # 4. Late Afternoon 17:14 KST (08:14 UTC) — Evening wrap-up
+    - cron: '14 8 * * *'
   workflow_dispatch:
 
 permissions:
