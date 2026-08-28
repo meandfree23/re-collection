@@ -1,1 +1,1 @@
-window.MANIFEST_DATA = {"latest_date": "2026-08-28", "dates": ["2026-08-28", "2026-08-27"], "total_issues": 2};
+window.MANIFEST_DATA = {"latest_date": "2026-08-28", "dates": ["2026-08-28", "2026-08-27", "2026-08-26"], "total_issues": 3};
