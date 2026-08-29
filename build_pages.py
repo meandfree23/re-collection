@@ -218,23 +218,21 @@ def build_pages():
             '''
 
         card = f'''
-        <article class="kinfolk-card" data-index="{idx}" onclick="openDossier({idx})">
-            {media_html}
-            <div class="card-meta-line">
-                <span style="color: var(--charcoal); font-weight: 500;">{genre}</span>
-                <span style="color: var(--accent); font-weight: 600;">{collected_at}</span>
-            </div>
-            <h3 class="card-title">{title}</h3>
-            <p class="card-snippet">{snippet}</p>
-            <div class="card-memory-box">
-                <span class="card-memory-label">MEMORY & EXPERIENCE ESSAY</span>
-                <p class="card-memory-text">{memory_text}</p>
-            </div>
-            <div class="card-footer">
-                <span class="card-source-tag">{domain}</span>
-                <span class="view-prompt" style="font-size: 0.72rem; color: var(--text-muted); font-family: 'Plus Jakarta Sans', sans-serif;">READ DOSSIER ↗</span>
-            </div>
-        </article>
+        <a href="{url}" target="_blank" rel="noopener noreferrer" class="kinfolk-card-link">
+            <article class="kinfolk-card">
+                {media_html}
+                <div class="card-meta-line">
+                    <span class="card-genre-badge">{genre}</span>
+                    <span class="card-date-text">{collected_at}</span>
+                </div>
+                <h3 class="card-title">{title}</h3>
+                <p class="card-snippet">{snippet}</p>
+                <div class="card-footer">
+                    <span class="card-source-tag">{domain}</span>
+                    <span class="view-prompt">VIEW ORIGINAL ↗</span>
+                </div>
+            </article>
+        </a>
         '''
         cards_html.append(card)
 

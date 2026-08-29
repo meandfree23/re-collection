@@ -447,30 +447,54 @@ body {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(360px, 1fr));
     gap: 4rem 2.8rem;
+.kinfolk-card-link {
+    text-decoration: none;
+    color: inherit;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
 }
 
 .kinfolk-card {
     display: flex;
     flex-direction: column;
+    height: 100%;
     cursor: pointer;
     transition: var(--transition);
-    background: transparent;
+    background: #ffffff;
+    border: 1px solid var(--border-subtle);
+    border-radius: 8px;
+    padding: 1.2rem;
+    box-sizing: border-box;
+}
+
+.kinfolk-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 12px 30px rgba(0, 0, 0, 0.06);
+    border-color: var(--border-focus);
 }
 
 .kinfolk-card:hover .card-media-box img {
-    transform: scale(1.025);
+    transform: scale(1.03);
 }
 
 .kinfolk-card:hover .card-title {
     color: var(--accent-sand);
 }
 
+.kinfolk-card:hover .view-prompt {
+    color: var(--text-main);
+    transform: translateX(3px);
+}
+
 .card-media-box {
     position: relative;
     width: 100%;
-    aspect-ratio: 4 / 3;
+    aspect-ratio: 16 / 10;
     background: #f0ebe1;
     overflow: hidden;
+    border-radius: 4px;
+    margin-bottom: 1.2rem;
 }
 
 .film-badge {
