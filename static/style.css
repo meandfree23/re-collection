@@ -599,11 +599,11 @@ body {
 
 .card-title {
     font-family: var(--font-serif);
-    font-size: 1.25rem;
-    font-weight: 500;
+    font-size: 1.22rem;
+    font-weight: 600;
     color: var(--text-serif);
-    line-height: 1.45;
-    margin-bottom: 0.7rem;
+    line-height: 1.4;
+    margin-bottom: 0.75rem;
     display: -webkit-box;
     -webkit-line-clamp: 2;
     -webkit-box-orient: vertical;
@@ -613,22 +613,41 @@ body {
 }
 
 .card-snippet {
-    font-size: 0.9rem;
-    color: var(--text-muted);
-    line-height: 1.7;
+    font-size: 0.86rem;
+    color: #44403c;
+    line-height: 1.65;
     display: -webkit-box;
-    -webkit-line-clamp: 2;
+    -webkit-line-clamp: 4;
     -webkit-box-orient: vertical;
     overflow: hidden;
     word-break: keep-all;
+    margin-bottom: 1.2rem;
+    flex-grow: 1;
+}
+
+.card-footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 0.8rem;
+    border-top: 1px solid var(--border-hairline);
+    margin-top: auto;
 }
 
 .card-source-tag {
     font-size: 0.72rem;
     color: var(--text-faint);
-    margin-top: 1rem;
-    letter-spacing: 0.05em;
+    letter-spacing: 0.04em;
     text-transform: lowercase;
+}
+
+.view-prompt {
+    font-size: 0.72rem;
+    font-weight: 600;
+    color: var(--text-muted);
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    letter-spacing: 0.06em;
+    transition: var(--transition);
 }
 
 /* ==========================================================================
