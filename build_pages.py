@@ -27,7 +27,12 @@ def normalize_title_key(title):
 
 FINGERPRINTS_FILE = os.path.join(BASE_DIR, "data", "persistent_fingerprints.json")
 
+from self_heal_guardian import run_self_healing_guardian
+
 def build_pages():
+    # Automatically execute 5-layer Self-Healing Guardian prior to compilation
+    run_self_healing_guardian()
+
     if not os.path.exists(ARCHIVE_FILE):
         print(f"Archive file not found at {ARCHIVE_FILE}")
         return

@@ -40,9 +40,16 @@ jobs:
           pip install --upgrade pip
           pip install feedparser beautifulsoup4 requests deep-translator
 
-      - name: Execute Daily Curated Scraping & Compile Pages
+      - name: Execute Daily Curated Scraping
         run: |
           python daily_collector.py
+
+      - name: Run 5-Layer Self-Healing Guardian (Zero-Defect Gate)
+        run: |
+          python self_heal_guardian.py
+
+      - name: Compile Pages & Generate Static Partitions
+        run: |
           python build_pages.py
 
       - name: Commit and Push Updated Journal (Triggers Pages Build)
