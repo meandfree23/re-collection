@@ -43,27 +43,32 @@ CURATED_SOURCES = [
     { "name": "Sight Unseen", "url": "https://www.sightunseen.com/feed/", "genre": "CONTEMPORARY ART" },
     { "name": "Minimalissimo", "url": "https://minimalissimo.com/feed/", "genre": "CONTEMPORARY ART" },
 
-    # 4. Avant-Garde Fashion Film & Digital Scenography
+    # 4. Avant-Garde Fashion Film & High-Couture Scenography
     { "name": "SHOWstudio", "url": "https://showstudio.com/feed/rss", "genre": "AVANT-GARDE FASHION" },
     { "name": "NOWNESS", "url": "https://www.nowness.com/feed", "genre": "AVANT-GARDE FASHION" },
     { "name": "Dazed", "url": "https://www.dazeddigital.com/rss", "genre": "AVANT-GARDE FASHION" },
-    { "name": "AnOther Magazine", "url": "https://www.anothermag.com/rss", "genre": "AVANT-GARDE FASHION" },
-    { "name": "Highsnobiety", "url": "https://www.highsnobiety.com/feed/", "genre": "AVANT-GARDE FASHION" },
-    { "name": "Hypebeast Fashion", "url": "https://hypebeast.com/fashion/feed", "genre": "AVANT-GARDE FASHION" }
+    { "name": "AnOther Magazine", "url": "https://www.anothermag.com/rss", "genre": "AVANT-GARDE FASHION" }
 ]
 
 def is_quality_curated_article(title, summary, genre):
     """
     Strict Curatorial Quality Gate:
-    Filters out student shows, school submissions, commercial noise, and gossip.
-    Only selects articles with high spatial, media, fashion aesthetics, or artistic depth.
+    1. Filters out commercial sneaker/shoes drops, streetwear retail news, student shows, sales.
+    2. Enforces Spatial Scenography, 3D Media Facades, Kinetic Light Art, and High-Art Aesthetics.
     """
     text = (title + ' ' + summary).lower()
     
-    # 1. Banned Noise (Student school shows, job postings, generic sales)
+    # Banned Noise (Commercial sneakers, apparel drops, student shows, job postings, generic sales)
     banned_keywords = [
+        # Commercial footwear & streetwear retail drops
+        'sneakers', 'sneaker', 'shoes', 'shoe', '스니커즈', '신발', '삼바', '에어포스', 'samba', 'air force',
+        'footwear', 'apparel drop', 'colorway', 'streetwear drop', 'dress shoes', 'clog', 'mule', 'slides',
+        'adidas', 'nike', 'asics', 'puma', 'new balance', 'salomon', 'reebok', 'jordan brand',
+        'street luxe', 'court culture', 'ostrich leather',
+        # Student & academic noise
         'school shows', 'school show', 'student project', 'university of',
         'graduate show', 'degree show', 'academic year', 'student proposal',
+        # Commercial retail noise
         'sponsor', 'promoted', 'advertorial', 'discount', 'sale', 'job vacancy',
         'hiring', 'competition results', 'how to buy', 'price drop', 'deal',
         'coupon', 'giveaway', 'gossip', 'rumor', 'unboxing', 'deal of the day'

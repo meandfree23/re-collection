@@ -31,6 +31,18 @@ NOISE_PATTERNS = [
     r'<[^>]+>'
 ]
 
+BANNED_COMMERCIAL_KEYWORDS = [
+    'sneakers', 'sneaker', 'shoes', 'shoe', '스니커즈', '신발', '삼바', '에어포스', 'samba', 'air force',
+    'footwear', 'apparel drop', 'colorway', 'streetwear drop', 'dress shoes', 'clog', 'mule', 'slides',
+    'adidas', 'nike', 'asics', 'puma', 'new balance', 'salomon', 'reebok', 'jordan brand',
+    'street luxe', 'court culture', 'ostrich leather', '스니커', '운동화', '농구화',
+    'school shows', 'school show', 'student project', 'sponsor', 'advertorial', 'discount', 'sale'
+]
+
+def is_banned_commercial_noise(title, original_title, snippet):
+    text = f"{title} {original_title} {snippet}".lower()
+    return any(banned in text for banned in BANNED_COMMERCIAL_KEYWORDS)
+
 def normalize_img_key(url):
     if not url or not isinstance(url, str): return ''
     try:
@@ -163,6 +175,10 @@ def run_self_healing_guardian():
                 img_k = normalize_img_key(img)
                 t_k = normalize_title_key(t)
                 ot_k = normalize_title_key(ot)
+
+                # Filter out commercial sneaker/shoes noise
+                if is_banned_commercial_noise(t, ot, it.get('snippet', '')):
+                    continue
 
                 if u and u in g_seen_urls:
                     total_cross_dups += 1
