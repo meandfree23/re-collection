@@ -491,10 +491,14 @@ body {
     position: relative;
     width: 100%;
     aspect-ratio: 16 / 10;
-    background: #f0ebe1;
+    background: #f2eee5;
     overflow: hidden;
     border-radius: 4px;
     margin-bottom: 1.2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid rgba(0, 0, 0, 0.05);
 }
 
 .film-badge {
@@ -516,16 +520,18 @@ body {
     z-index: 2;
 }
 
+.card-image,
 .card-img {
     width: 100%;
     height: 100%;
-    object-fit: cover;
+    object-fit: contain;
     display: block;
-    transition: transform 0.8s cubic-bezier(0.16, 1, 0.3, 1);
+    transition: transform 0.6s cubic-bezier(0.16, 1, 0.3, 1);
 }
 
+.kinfolk-card:hover .card-image,
 .kinfolk-card:hover .card-img {
-    transform: scale(1.03);
+    transform: scale(1.02);
 }
 
 /* Modal Video Player */
