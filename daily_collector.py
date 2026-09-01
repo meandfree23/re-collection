@@ -58,20 +58,23 @@ def is_quality_curated_article(title, summary, genre):
     """
     text = (title + ' ' + summary).lower()
     
-    # Banned Noise (Commercial sneakers, apparel drops, student shows, job postings, generic sales)
+    # Banned Noise (Commercial sneakers, horoscopes, gossip, student shows, sales)
     banned_keywords = [
         # Commercial footwear & streetwear retail drops
         'sneakers', 'sneaker', 'shoes', 'shoe', '스니커즈', '신발', '삼바', '에어포스', 'samba', 'air force',
         'footwear', 'apparel drop', 'colorway', 'streetwear drop', 'dress shoes', 'clog', 'mule', 'slides',
         'adidas', 'nike', 'asics', 'puma', 'new balance', 'salomon', 'reebok', 'jordan brand',
-        'street luxe', 'court culture', 'ostrich leather',
+        'street luxe', 'court culture', 'ostrich leather', '스니커', '운동화', '농구화',
+        # Horoscopes, Celebrity Gossip, Entertainment
+        '운세', 'horoscope', 'horoscopes', 'met gala', '카니발', 'carnival', 'gossip', 'rumor',
+        'celebrity', 'red carpet', 'dating', 'box office', 'movie review',
         # Student & academic noise
         'school shows', 'school show', 'student project', 'university of',
         'graduate show', 'degree show', 'academic year', 'student proposal',
         # Commercial retail noise
         'sponsor', 'promoted', 'advertorial', 'discount', 'sale', 'job vacancy',
         'hiring', 'competition results', 'how to buy', 'price drop', 'deal',
-        'coupon', 'giveaway', 'gossip', 'rumor', 'unboxing', 'deal of the day'
+        'coupon', 'giveaway', 'unboxing', 'deal of the day'
     ]
     if any(banned in text for banned in banned_keywords):
         return False

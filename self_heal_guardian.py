@@ -36,6 +36,7 @@ BANNED_COMMERCIAL_KEYWORDS = [
     'footwear', 'apparel drop', 'colorway', 'streetwear drop', 'dress shoes', 'clog', 'mule', 'slides',
     'adidas', 'nike', 'asics', 'puma', 'new balance', 'salomon', 'reebok', 'jordan brand',
     'street luxe', 'court culture', 'ostrich leather', '스니커', '운동화', '농구화',
+    '운세', 'horoscope', 'horoscopes', 'met gala', '카니발', 'carnival', 'gossip', 'rumor',
     'school shows', 'school show', 'student project', 'sponsor', 'advertorial', 'discount', 'sale'
 ]
 
