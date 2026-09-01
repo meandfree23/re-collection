@@ -168,12 +168,13 @@ def build_pages():
         except Exception as e:
             print(f"Error compiling daily {d}: {e}")
 
-    # Build Issue Date Switcher HTML
+    # Build Issue Date Switcher HTML (Strict KST Date Matching)
     date_chips_html = []
     for d in daily_dates:
         is_active = (d == daily_dates[0])
+        is_today = (d == today_ymd)
         active_cls = "active" if is_active else ""
-        label = f"★ {d[5:].replace('-', '.')} 오늘" if is_active else f"{d[5:].replace('-', '.')} 호"
+        label = f"★ {d[5:].replace('-', '.')} 오늘" if is_today else f"{d[5:].replace('-', '.')} 호"
         chip = f'<button class="issue-date-chip {active_cls}" data-date="{d}">{label}</button>'
         date_chips_html.append(chip)
     issue_switcher_html = '\n'.join(date_chips_html)

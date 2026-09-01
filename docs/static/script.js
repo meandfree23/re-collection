@@ -6,8 +6,42 @@ document.addEventListener('DOMContentLoaded', () => {
     const currentDateDisplay = document.getElementById('current-date-display');
     const currentIssueText = document.getElementById('current-issue-text');
 
+    // Dynamic KST Real-Time Site Time Engine
+    function syncRealtimeKstSiteTime() {
+        const now = new Date();
+        const kstOptions = { timeZone: 'Asia/Seoul', year: 'numeric', month: '2-digit', day: '2-digit' };
+        const formatter = new Intl.DateTimeFormat('en-CA', kstOptions); // returns YYYY-MM-DD
+        const todayKst = formatter.format(now); // e.g. "2026-09-02"
+
+        const monthNames = ["JAN", "FEB", "MAR", "APR", "MAY", "JUN", "JUL", "AUG", "SEP", "OCT", "NOV", "DEC"];
+        const kstMonth = parseInt(todayKst.split('-')[1], 10);
+        const kstDay = parseInt(todayKst.split('-')[2], 10);
+        const kstYear = todayKst.split('-')[0];
+
+        if (currentDateDisplay) {
+            currentDateDisplay.innerText = `${monthNames[kstMonth - 1]} ${kstDay}, ${kstYear}`;
+        }
+        if (currentIssueText) {
+            currentIssueText.innerText = `ISSUE ${String(kstMonth).padStart(2, '0')}.${String(kstDay).padStart(2, '0')} — DAILY CURATION`;
+        }
+
+        // Dynamically update date chips to accurately reflect today
+        issueDateChips.forEach(chip => {
+            const chipDate = chip.getAttribute('data-date');
+            if (!chipDate) return;
+            const mmDd = chipDate.substring(5).replace('-', '.');
+            if (chipDate === todayKst) {
+                chip.innerText = `★ ${mmDd} 오늘`;
+            } else {
+                chip.innerText = `${mmDd} 호`;
+            }
+        });
+    }
+
     // Issue Date Switcher (Creative Insight Daily Partition Architecture)
     const issueDateChips = document.querySelectorAll('.issue-date-chip');
+    syncRealtimeKstSiteTime();
+
     let activeDateFilter = issueDateChips.length > 0 ? (issueDateChips[0].getAttribute('data-date') || 'ALL') : 'ALL';
 
     function switchDailyIssue(targetDate) {
