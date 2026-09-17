@@ -49,6 +49,11 @@ PROPER_NOUN_STOPWORDS = {
     "The", "This", "That", "With", "From", "For", "And", "New", "How", "Why",
     "What", "Are", "Was", "Its", "His", "Her", "Their", "Our", "You", "Your",
     "Now", "See", "Read", "Watch", "Not", "But", "All", "Can", "Has", "Have",
+    "Say", "Hello", "Size", "Free", "Program", "Under", "Years", "Living",
+    "Apartment", "Is", "Open", "Best", "Buy", "Dreams", "Director", "World",
+    "Design", "House", "School", "Jobs", "Old", "Own", "Into", "Only", "More",
+    "Most", "Than", "When", "Where", "While", "After", "Before", "Between",
+    "Through", "About", "Onto", "Legend", "Life", "Portfolio", "Roster",
 }
 
 
@@ -81,8 +86,17 @@ def match_keywords(text):
 
 
 def extract_proper_nouns(original_title):
-    words = re.findall(r"\b[A-Z][a-zA-Z]{2,}\b", original_title or "")
-    return [w for w in words if w not in PROPER_NOUN_STOPWORDS]
+    # Require 2-4 consecutive capitalized words: real names/places/studios
+    # ("Keiji Ashizawa", "Buenos Aires Architecture Biennial") instead of single
+    # generic capitalized headline words ("London", "Design", "Buy").
+    phrases = re.findall(r"\b[A-Z][a-zA-Z]{1,}(?:\s+[A-Z][a-zA-Z]{1,}){1,3}\b", original_title or "")
+    out = []
+    for phrase in phrases:
+        words = phrase.split()
+        if any(w in PROPER_NOUN_STOPWORDS for w in words):
+            continue
+        out.append(phrase)
+    return out
 
 
 def build_report():
