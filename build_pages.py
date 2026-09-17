@@ -310,6 +310,7 @@ def build_pages():
         content = re.sub(r'data/daily_archive\.js\?v=\d+', f'data/daily_archive.js?v={cache_version}', content)
         content = re.sub(r'data/manifest\.js\?v=\d+', f'data/manifest.js?v={cache_version}', content)
         content = re.sub(r'static/script\.js\?v=\d+', f'static/script.js?v={cache_version}', content)
+        content = re.sub(r'static/style\.css\?v=\d+', f'static/style.css?v={cache_version}', content)
 
         # Inject Issue Date Switcher
         if '<div class="issue-date-switcher"' in content:
