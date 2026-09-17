@@ -243,6 +243,29 @@ def build_pages():
         cards_html.append(card)
 
     full_grid_html = '\n'.join(cards_html)
+    # 6. Load Weekly Zeitgeist Report (Phase 3: free keyword-frequency engine, zero paid API)
+    zeitgeist_file = os.path.join(BASE_DIR, "data", "zeitgeist_latest.json")
+    zeitgeist_inner_html = '<span class="zeitgeist-report-tag">🧭 WEEKLY ZEITGEIST REPORT — 데이터 수집 중 (7일치 데이터가 쌓이면 자동 생성됩니다)</span>'
+    if os.path.exists(zeitgeist_file):
+        try:
+            with open(zeitgeist_file, 'r', encoding='utf-8') as zf:
+                zg = json.load(zf)
+            chips = []
+            for theme in zg.get('themes', [])[:6]:
+                chips.append(f'<span class="zeitgeist-chip">{html.escape(theme.get("keyword", ""))} <b>{theme.get("count", 0)}</b></span>')
+            chips_html = '\n                    '.join(chips) if chips else '<span class="zeitgeist-chip">데이터 수집 중</span>'
+            names = zg.get('notable_names', [])
+            names_html = ''
+            if names:
+                names_html = f'<p class="zeitgeist-report-names">주목할 이름: {html.escape(", ".join(names[:6]))}</p>'
+            zeitgeist_inner_html = (
+                f'<span class="zeitgeist-report-tag">🧭 이번 주 시대정신 리포트 · {html.escape(zg.get("period", ""))} · {zg.get("total_articles", 0)}건 분석</span>\n'
+                f'                    <div class="zeitgeist-chip-row">\n                    {chips_html}\n                    </div>\n'
+                f'                    {names_html}'
+            )
+        except Exception as e:
+            print(f"Zeitgeist report load error: {e}")
+
 
     for target_path in [os.path.join(BASE_DIR, 'docs', 'index.html'), os.path.join(BASE_DIR, 'templates', 'index.html')]:
         if not os.path.exists(target_path):
@@ -267,6 +290,10 @@ def build_pages():
         pattern = r'<div id="results-container" class="kinfolk-grid">.*?</div>\s*</main>'
         replacement = f'<div id="results-container" class="kinfolk-grid">\n{full_grid_html}\n            </div>\n        </main>'
         content = re.sub(pattern, replacement, content, flags=re.DOTALL)
+        # Inject Weekly Zeitgeist Report content into the placeholder markers
+        zeitgeist_pattern = r'<!-- ZEITGEIST_REPORT_START -->.*?<!-- ZEITGEIST_REPORT_END -->'
+        zeitgeist_replacement = f'<!-- ZEITGEIST_REPORT_START -->\n                    {zeitgeist_inner_html}\n                    <!-- ZEITGEIST_REPORT_END -->'
+        content = re.sub(zeitgeist_pattern, zeitgeist_replacement, content, flags=re.DOTALL)
 
         with open(target_path, 'w', encoding='utf-8') as f:
             f.write(content)
