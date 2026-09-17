@@ -16,16 +16,15 @@ collection = None
 # 2. Expanded 35+ Global Curated Feeds (Architecture, 3D Media Facades, Light Art, Avant-Garde Fashion)
 CURATED_SOURCES = [
     # 1. Spatial Experience Scenography & Master Architecture
-    { "name": "Frame Web", "url": "https://www.frameweb.com/feed", "genre": "SPACE & ARCH" },
     { "name": "Yellowtrace", "url": "https://www.yellowtrace.com.au/feed/", "genre": "SPACE & ARCH" },
-    { "name": "Yatzer", "url": "https://www.yatzer.com/feed/index.php", "genre": "SPACE & ARCH" },
+    { "name": "Yatzer", "url": "https://www.yatzer.com/rss.xml", "genre": "SPACE & ARCH" },
     { "name": "Ignant", "url": "https://www.ignant.com/feed/", "genre": "SPACE & ARCH" },
     { "name": "Leibal", "url": "https://leibal.com/feed/", "genre": "SPACE & ARCH" },
     { "name": "Dezeen", "url": "https://www.dezeen.com/feed/", "genre": "SPACE & ARCH" },
     { "name": "ArchDaily", "url": "https://www.archdaily.com/feed", "genre": "SPACE & ARCH" },
     { "name": "Design Milk", "url": "https://design-milk.com/feed/", "genre": "SPACE & ARCH" },
     { "name": "Architectural Digest", "url": "https://www.architecturaldigest.com/feed/rss", "genre": "SPACE & ARCH" },
-    { "name": "Domus", "url": "https://www.domusweb.it/en.rss", "genre": "SPACE & ARCH" },
+    { "name": "Metropolis Magazine", "url": "https://metropolismag.com/feed/", "genre": "SPACE & ARCH" },
 
     # 2. Media Facade, LED Installation, 3D & Projection Mapping
     { "name": "CreativeApplications", "url": "https://www.creativeapplications.net/feed/", "genre": "MEDIA FACADE & 3D" },
@@ -34,20 +33,24 @@ CURATED_SOURCES = [
     { "name": "Projection Mapping Central", "url": "https://projection-mapping.org/feed/", "genre": "MEDIA FACADE & 3D" },
     { "name": "Fubiz Media", "url": "https://www.fubiz.net/feed/", "genre": "MEDIA FACADE & 3D" },
 
-    # 3. Contemporary Media Art, Exhibition & Digital Canvas
+    # 3. Contemporary Media Art, Exhibition & Critical Research Voices
     { "name": "This Is Colossal", "url": "https://www.thisiscolossal.com/feed/", "genre": "CONTEMPORARY ART" },
     { "name": "Designboom Art", "url": "https://www.designboom.com/art/feed/", "genre": "CONTEMPORARY ART" },
     { "name": "Wallpaper*", "url": "https://www.wallpaper.com/feed/rss", "genre": "CONTEMPORARY ART" },
-    { "name": "It's Nice That", "url": "https://www.itsnicethat.com/feed/rss", "genre": "CONTEMPORARY ART" },
+    { "name": "It's Nice That", "url": "https://feeds.feedburner.com/itsnicethat/SlXC", "genre": "CONTEMPORARY ART" },
     { "name": "BOOOOOOOM", "url": "https://www.booooooom.com/feed/", "genre": "CONTEMPORARY ART" },
     { "name": "Sight Unseen", "url": "https://www.sightunseen.com/feed/", "genre": "CONTEMPORARY ART" },
     { "name": "Minimalissimo", "url": "https://minimalissimo.com/feed/", "genre": "CONTEMPORARY ART" },
+    { "name": "Hyperallergic", "url": "https://hyperallergic.com/feed/", "genre": "CONTEMPORARY ART" },
+    { "name": "Elephant", "url": "https://elephant.art/feed/", "genre": "CONTEMPORARY ART" },
+    { "name": "Juxtapoz", "url": "https://www.juxtapoz.com/feed", "genre": "CONTEMPORARY ART" },
+    { "name": "Creative Boom", "url": "https://www.creativeboom.com/feed/", "genre": "CONTEMPORARY ART" },
+    { "name": "Cool Hunting", "url": "https://coolhunting.com/feed", "genre": "CONTEMPORARY ART" },
 
     # 4. Avant-Garde Fashion Film & High-Couture Scenography
-    { "name": "SHOWstudio", "url": "https://showstudio.com/feed/rss", "genre": "AVANT-GARDE FASHION" },
-    { "name": "NOWNESS", "url": "https://www.nowness.com/feed", "genre": "AVANT-GARDE FASHION" },
+    { "name": "NOWNESS", "url": "https://www.nowness.com/rss", "genre": "AVANT-GARDE FASHION" },
     { "name": "Dazed", "url": "https://www.dazeddigital.com/rss", "genre": "AVANT-GARDE FASHION" },
-    { "name": "AnOther Magazine", "url": "https://www.anothermag.com/rss", "genre": "AVANT-GARDE FASHION" }
+    { "name": "AnOther Magazine", "url": "https://www.anothermag.com/Feed", "genre": "AVANT-GARDE FASHION" }
 ]
 
 def is_quality_curated_article(title, summary, genre):
@@ -416,6 +419,27 @@ def clean_boilerplate_and_synthesize_insight(title_ko, original_title, raw_summa
     clean = clean.strip()
     return clean
 
+def fetch_full_article_text(url):
+    """
+    Fetches the live article page and extracts real body paragraphs.
+    Used only when the RSS feed's own summary is too thin to build a
+    genuine, source-grounded insight (avoids falling back to generic templates).
+    """
+    try:
+        headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'}
+        res = requests.get(url, headers=headers, timeout=6)
+        if res.status_code != 200:
+            return ''
+        soup = BeautifulSoup(res.text, 'html.parser')
+        for tag in soup(['script', 'style', 'nav', 'footer', 'header', 'aside', 'form', 'figcaption']):
+            tag.extract()
+        paragraphs = [p.get_text(' ', strip=True) for p in soup.find_all('p')]
+        paragraphs = [p for p in paragraphs if len(p) > 40 and 'cookie' not in p.lower()]
+        return ' '.join(paragraphs[:6])[:1500]
+    except Exception:
+        return ''
+
+
 def process_single_entry(entry, source):
     title = entry.get('title', '')
     url = entry.get('link', '')
@@ -425,6 +449,15 @@ def process_single_entry(entry, source):
     raw_summary = entry.get('summary', '') or entry.get('description', '')
     soup = BeautifulSoup(raw_summary, 'html.parser')
     clean_summary = soup.get_text().strip()
+
+    # If the RSS feed only gives a thin/short blurb, pull the real article body
+    # so the insight below is grounded in actual reporting instead of a generic template.
+    plain_len = len(re.sub(r'\s+', ' ', clean_summary).strip())
+    sentence_count = len(re.findall(r'[.?!](?:\s|$)', clean_summary))
+    if plain_len < 120 or sentence_count < 2:
+        full_article_text = fetch_full_article_text(url)
+        if len(full_article_text) > plain_len:
+            clean_summary = full_article_text
     
     # Strict Curatorial Quality Gate Check
     if not is_quality_curated_article(title, clean_summary, source['genre']):
