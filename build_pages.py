@@ -243,24 +243,52 @@ def build_pages():
         cards_html.append(card)
 
     full_grid_html = '\n'.join(cards_html)
-    # 6. Load Weekly Zeitgeist Report (Phase 3: free keyword-frequency engine, zero paid API)
+    # 6. Load Weekly Zeitgeist Report (Phase 3: free keyword-frequency + week-over-week trend engine)
     zeitgeist_file = os.path.join(BASE_DIR, "data", "zeitgeist_latest.json")
     zeitgeist_inner_html = '<span class="zeitgeist-report-tag">🧭 WEEKLY ZEITGEIST REPORT — 데이터 수집 중 (7일치 데이터가 쌓이면 자동 생성됩니다)</span>'
     if os.path.exists(zeitgeist_file):
         try:
             with open(zeitgeist_file, 'r', encoding='utf-8') as zf:
                 zg = json.load(zf)
+            themes = zg.get('themes', [])[:6]
             chips = []
-            for theme in zg.get('themes', [])[:6]:
-                chips.append(f'<span class="zeitgeist-chip">{html.escape(theme.get("keyword", ""))} <b>{theme.get("count", 0)}</b></span>')
+            for theme in themes:
+                trend = theme.get('trend', 'steady')
+                badge = {'rising': ' 🔥', 'new': ' 🆕', 'falling': ' 📉'}.get(trend, '')
+                chips.append(
+                    f'<span class="zeitgeist-chip zeitgeist-chip-{trend}">'
+                    f'{html.escape(theme.get("keyword", ""))} <b>{theme.get("count", 0)}</b>{badge}</span>'
+                )
             chips_html = '\n                    '.join(chips) if chips else '<span class="zeitgeist-chip">데이터 수집 중</span>'
+
             names = zg.get('notable_names', [])
             names_html = ''
             if names:
                 names_html = f'<p class="zeitgeist-report-names">주목할 이름: {html.escape(", ".join(names[:6]))}</p>'
+
+            # Representative thumbnail: pick the top-ranked theme's first item with an image.
+            thumb_html = ''
+            for theme in themes:
+                for thumb_item in theme.get('items', []):
+                    if thumb_item.get('image_url'):
+                        t_title = thumb_item.get('title', '')
+                        t_short = t_title[:44] + ('…' if len(t_title) > 44 else '')
+                        thumb_html = (
+                            f'<a href="{thumb_item.get("url", "#")}" target="_blank" rel="noopener noreferrer" class="zeitgeist-thumb-link">'
+                            f'<img src="{thumb_item.get("image_url", "")}" class="zeitgeist-thumb" alt="{html.escape(t_title)}" loading="lazy">'
+                            f'<span class="zeitgeist-thumb-caption">🔎 {html.escape(theme.get("keyword", ""))} 대표작 · {html.escape(t_short)}</span>'
+                            f'</a>'
+                        )
+                        break
+                if thumb_html:
+                    break
+
             zeitgeist_inner_html = (
                 f'<span class="zeitgeist-report-tag">🧭 이번 주 시대정신 리포트 · {html.escape(zg.get("period", ""))} · {zg.get("total_articles", 0)}건 분석</span>\n'
+                f'                    <div class="zeitgeist-report-body">\n'
                 f'                    <div class="zeitgeist-chip-row">\n                    {chips_html}\n                    </div>\n'
+                f'                    {thumb_html}\n'
+                f'                    </div>\n'
                 f'                    {names_html}'
             )
         except Exception as e:
