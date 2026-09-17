@@ -131,7 +131,7 @@ def heal_two_sentence_insight(title_ko, original_title, raw_snippet, genre):
     elif len(valid_sentences) == 1:
         s1 = valid_sentences[0]
         if not s1.endswith('.'): s1 += '.'
-        return f"{s1} 관람객에게 공간과 예술의 새로운 영감을 선사하는 프로젝트입니다."
+        return s1
 
     # 5. Genre fallback
     if 'MEDIA' in genre or '3D' in genre:
