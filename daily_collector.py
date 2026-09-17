@@ -534,7 +534,7 @@ def calculate_taste_score(item):
             
     # Source Prestige
     source = item.get('source_name', '')
-    if source in ['Frame Web', 'Yellowtrace', 'Yatzer', 'Ignant', 'SHOWstudio', 'This Is Colossal', 'CreativeApplications', 'Stash Media']:
+    if source in ['Yellowtrace', 'Yatzer', 'Ignant', 'This Is Colossal', 'CreativeApplications', 'Stash Media', 'Hyperallergic', 'Elephant', 'Metropolis Magazine']:
         score += 4.0
 
     return score
