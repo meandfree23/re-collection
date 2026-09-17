@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-09-17 22:20 KST",
-  "period": "2026.09.10 - 2026.09.17",
-  "total_articles": 75,
+  "generated_at": "2026-09-18 02:20 KST",
+  "period": "2026.09.11 - 2026.09.18",
+  "total_articles": 33,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 34
+      "count": 14
     },
     {
       "genre": "동시대 미술",
-      "count": 26
+      "count": 12
     },
     {
       "genre": "아방가르드 패션",
-      "count": 9
+      "count": 4
     },
     {
       "genre": "미디어 파사드·3D",
-      "count": 6
+      "count": 3
     }
   ],
   "themes": [
     {
       "keyword": "박물관·전시",
-      "count": 6,
+      "count": 5,
       "items": [
         {
           "title": "Svenskt Tenn은 스웨덴의 선구적인 20세기 금속 디자이너인 Anna Petrus를 기념합니다.",
@@ -52,30 +52,6 @@
       ]
     },
     {
-      "keyword": "가구 디자인",
-      "count": 3,
-      "items": [
-        {
-          "title": "한지하우스 전시는 한국의 전통 종이 공예를 기념합니다.",
-          "url": "https://www.dezeen.com/2026/09/11/hanji-house-exhibition-maison-et-objet/",
-          "image_url": "https://static.dezeen.com/uploads/2026/09/Square-_dezeen_2364_col_0-852x852.jpg",
-          "source_name": "Dezeen"
-        },
-        {
-          "title": "해리슨 포드의 집: 할리우드 전설의 사생활 사진 10장",
-          "url": "https://www.architecturaldigest.com/story/harrison-ford-at-home-photos-of-the-hollywood-heartthrobs-life-off-set",
-          "image_url": "https://media.architecturaldigest.com/photos/6aa300c04844ad4a76627577/master/pass/GettyImages-1091752816.jpg",
-          "source_name": "Architectural Digest"
-        },
-        {
-          "title": "Max Radford Gallery와 Christopher Farr의 전시회에 현대적인 가구와 아카이브 러그 디자인이 한자리에 모였습니다.",
-          "url": "https://www.wallpaper.com/design-interiors/max-radford-christopher-farr-london-design-festival-2026",
-          "image_url": "https://cdn.mos.cms.futurecdn.net/aYEM9FxrjYhZ4hhY9PVesW-1280-80.jpg",
-          "source_name": "Wallpaper*"
-        }
-      ]
-    },
-    {
       "keyword": "사진",
       "count": 2,
       "items": [
@@ -90,24 +66,6 @@
           "url": "https://www.booooooom.com/2026/09/11/photographer-spotlight-raphael-gaultier/",
           "image_url": "https://cdn.booooooom.com/wp-content/uploads/2026/08/Gaultier1.jpg",
           "source_name": "BOOOOOOOM"
-        }
-      ]
-    },
-    {
-      "keyword": "텍스타일·직물",
-      "count": 2,
-      "items": [
-        {
-          "title": "Dazed 매거진 구매",
-          "url": "https://www.dazeddigital.com/magazine?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=buy-dazed-magazine",
-          "image_url": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/1/1451824.jpg",
-          "source_name": "Dazed"
-        },
-        {
-          "title": "빛을 흡수하는 직물은 유타의 하얀 소금 평원에 기념비적인 검은 사각형을 만듭니다.",
-          "url": "https://www.designboom.com/art/light-absorbing-fabric-monumental-black-square-utah-white-salt-flats-gregory-orekhov-shadow-of-light/",
-          "image_url": "https://www.designboom.com/wp-content/dbsub/443085/2026-08-13/gregory-orekhov-lays-a-monumental-black-square-on-utahs-bonneville-salt-flats-2-6a7d8cd57f0cf.jpg",
-          "source_name": "Designboom Art"
         }
       ]
     }
