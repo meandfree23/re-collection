@@ -447,6 +447,7 @@ body {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(360px, 1fr));
     gap: 4rem 2.8rem;
+}
 .kinfolk-card-link {
     text-decoration: none;
     color: inherit;
