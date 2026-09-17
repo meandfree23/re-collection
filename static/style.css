@@ -1043,3 +1043,55 @@ body {
     font-size: 0.72rem;
     color: var(--text-faint);
 }
+
+/* === Zeitgeist Report v2: trend badges + representative thumbnail === */
+.zeitgeist-chip-rising {
+    border-color: #dc2626;
+    background: rgba(220, 38, 38, 0.06);
+}
+.zeitgeist-chip-rising b { color: #dc2626; }
+
+.zeitgeist-chip-new {
+    border-color: #2563eb;
+    background: rgba(37, 99, 235, 0.06);
+}
+.zeitgeist-chip-new b { color: #2563eb; }
+
+.zeitgeist-chip-falling {
+    opacity: 0.65;
+}
+
+.zeitgeist-report-body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.7rem;
+}
+
+.zeitgeist-thumb-link {
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
+    margin-top: 0.3rem;
+    text-decoration: none;
+    background: #ffffff;
+    border: 1px solid var(--border-hairline);
+    border-radius: 8px;
+    padding: 0.35rem 0.7rem 0.35rem 0.35rem;
+    max-width: 420px;
+}
+
+.zeitgeist-thumb {
+    width: 44px;
+    height: 44px;
+    object-fit: cover;
+    border-radius: 6px;
+    flex-shrink: 0;
+}
+
+.zeitgeist-thumb-caption {
+    font-size: 0.7rem;
+    color: var(--text-main);
+    text-align: left;
+    line-height: 1.35;
+}
