@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18 02:20 KST",
+  "generated_at": "2026-09-18 07:36 KST",
   "period": "2026.09.11 - 2026.09.18",
   "total_articles": 33,
   "genre_breakdown": [
@@ -22,8 +22,30 @@
   ],
   "themes": [
     {
+      "keyword": "사진",
+      "count": 2,
+      "previous_count": 3,
+      "trend": "steady",
+      "items": [
+        {
+          "title": "Jesse Glazzard가 런던 ICA에 도착하면서 그의 부드럽고 더러운 10년을 맞이해보세요.",
+          "url": "https://www.wallpaper.com/art/photography/as-jesse-glazzard-arrives-at-londons-ica-step-into-his-tender-dirty-decade",
+          "image_url": "https://cdn.mos.cms.futurecdn.net/3LVDzjTURLiskWhZ5Kfi9K-1280-80.jpg",
+          "source_name": "Wallpaper*"
+        },
+        {
+          "title": "사진작가 스포트라이트: Raphaël Gaultier",
+          "url": "https://www.booooooom.com/2026/09/11/photographer-spotlight-raphael-gaultier/",
+          "image_url": "https://cdn.booooooom.com/wp-content/uploads/2026/08/Gaultier1.jpg",
+          "source_name": "BOOOOOOOM"
+        }
+      ]
+    },
+    {
       "keyword": "박물관·전시",
       "count": 5,
+      "previous_count": 12,
+      "trend": "falling",
       "items": [
         {
           "title": "Svenskt Tenn은 스웨덴의 선구적인 20세기 금속 디자이너인 Anna Petrus를 기념합니다.",
@@ -50,25 +72,8 @@
           "source_name": "Designboom Art"
         }
       ]
-    },
-    {
-      "keyword": "사진",
-      "count": 2,
-      "items": [
-        {
-          "title": "Jesse Glazzard가 런던 ICA에 도착하면서 그의 부드럽고 더러운 10년을 맞이해보세요.",
-          "url": "https://www.wallpaper.com/art/photography/as-jesse-glazzard-arrives-at-londons-ica-step-into-his-tender-dirty-decade",
-          "image_url": "https://cdn.mos.cms.futurecdn.net/3LVDzjTURLiskWhZ5Kfi9K-1280-80.jpg",
-          "source_name": "Wallpaper*"
-        },
-        {
-          "title": "사진작가 스포트라이트: Raphaël Gaultier",
-          "url": "https://www.booooooom.com/2026/09/11/photographer-spotlight-raphael-gaultier/",
-          "image_url": "https://cdn.booooooom.com/wp-content/uploads/2026/08/Gaultier1.jpg",
-          "source_name": "BOOOOOOOM"
-        }
-      ]
     }
   ],
-  "notable_names": []
+  "notable_names": [],
+  "has_comparison": true
 }
