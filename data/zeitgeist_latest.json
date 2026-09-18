@@ -1,79 +1,18 @@
 {
-  "generated_at": "2026-09-18 22:03 KST",
-  "period": "2026.09.11 - 2026.09.18",
-  "total_articles": 33,
+  "generated_at": "2026-09-19 01:44 KST",
+  "period": "2026.09.12 - 2026.09.19",
+  "total_articles": 8,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 14
-    },
-    {
-      "genre": "동시대 미술",
-      "count": 12
-    },
-    {
-      "genre": "아방가르드 패션",
       "count": 4
     },
     {
-      "genre": "미디어 파사드·3D",
-      "count": 3
+      "genre": "동시대 미술",
+      "count": 4
     }
   ],
-  "themes": [
-    {
-      "keyword": "사진",
-      "count": 2,
-      "previous_count": 3,
-      "trend": "steady",
-      "items": [
-        {
-          "title": "Jesse Glazzard가 런던 ICA에 도착하면서 그의 부드럽고 더러운 10년을 맞이해보세요.",
-          "url": "https://www.wallpaper.com/art/photography/as-jesse-glazzard-arrives-at-londons-ica-step-into-his-tender-dirty-decade",
-          "image_url": "https://cdn.mos.cms.futurecdn.net/3LVDzjTURLiskWhZ5Kfi9K-1280-80.jpg",
-          "source_name": "Wallpaper*"
-        },
-        {
-          "title": "사진작가 스포트라이트: Raphaël Gaultier",
-          "url": "https://www.booooooom.com/2026/09/11/photographer-spotlight-raphael-gaultier/",
-          "image_url": "https://cdn.booooooom.com/wp-content/uploads/2026/08/Gaultier1.jpg",
-          "source_name": "BOOOOOOOM"
-        }
-      ]
-    },
-    {
-      "keyword": "박물관·전시",
-      "count": 5,
-      "previous_count": 12,
-      "trend": "falling",
-      "items": [
-        {
-          "title": "Svenskt Tenn은 스웨덴의 선구적인 20세기 금속 디자이너인 Anna Petrus를 기념합니다.",
-          "url": "https://www.wallpaper.com/design-interiors/anna-petrus-svenskt-tenn",
-          "image_url": "https://cdn.mos.cms.futurecdn.net/cPioRhP7DhBN4Gev8TrzeG-1280-80.jpg",
-          "source_name": "Wallpaper*"
-        },
-        {
-          "title": "조지아 오키프(Georgia O'Keeffe)는 디트로이트 예술 연구소(Detroit Institute of Arts)에서 열린 랜드마크적인 새로운 쇼가 건축에 매료되었음을 증명합니다.",
-          "url": "https://www.wallpaper.com/art/exhibitions-shows/georgia-okeeffe-architecture-detroit-institute-of-arts",
-          "image_url": "https://cdn.mos.cms.futurecdn.net/Mtzo2qCpvnZVawEgH9WwGX-1280-80.jpg",
-          "source_name": "Wallpaper*"
-        },
-        {
-          "title": "한지하우스 전시는 한국의 전통 종이 공예를 기념합니다.",
-          "url": "https://www.dezeen.com/2026/09/11/hanji-house-exhibition-maison-et-objet/",
-          "image_url": "https://static.dezeen.com/uploads/2026/09/Square-_dezeen_2364_col_0-852x852.jpg",
-          "source_name": "Dezeen"
-        },
-        {
-          "title": "두바이 갤러리는 개방형 흰색 전시실과 숨겨진 벽돌 톤의 박물관 공간을 결합합니다.",
-          "url": "https://www.designboom.com/art/dubai-gallery-open-white-exhibition-halls-concealed-brick-toned-museum-room-gary-tatintsian-mast/",
-          "image_url": "https://www.designboom.com/wp-content/dbsub/450104/2026-09-09/gary-tatintsian-gallery-in-dubai-pairs-white-halls-with-a-brick-toned-museum-room-7-6aa1a3c6e53ec.jpg",
-          "source_name": "Designboom Art"
-        }
-      ]
-    }
-  ],
+  "themes": [],
   "notable_names": [],
   "has_comparison": true
 }
