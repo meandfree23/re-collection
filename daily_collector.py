@@ -82,7 +82,9 @@ def is_quality_curated_article(title, summary, genre):
     if any(banned in text for banned in banned_keywords):
         return False
         
-    return Truedef safe_translate(text, is_title=False):
+    return True
+
+def safe_translate(text, is_title=False):
     if not text or len(text.strip()) == 0:
         return text
     
@@ -687,7 +689,8 @@ def run_daily_collection(limit_per_source=4):
                         # 3. Strict Title & Semantic Deduplication (Threshold > 0.50)
                         t = normalize_title_key(res.get('title', ''))
                         ot = normalize_title_key(res.get('original_title', ''))
-                        from difflib import SequenceMatcher                        is_title_dup = False
+                        from difflib import SequenceMatcher
+                        is_title_dup = False
                         # 2026-09-21 FIX: threshold was 0.50, far too loose once the
                         # permanent ledger accumulates 1000+ historical titles -- short,
                         # template-like design/architecture headlines routinely share
