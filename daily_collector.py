@@ -82,27 +82,48 @@ def is_quality_curated_article(title, summary, genre):
     if any(banned in text for banned in banned_keywords):
         return False
         
-    return True
-def safe_translate(text, is_title=False):
+    return Truedef safe_translate(text, is_title=False):
     if not text or len(text.strip()) == 0:
         return text
     
     # Clean text from HTML artifacts or common noisy prefixes
     clean_text = text.replace('\n', ' ').strip()
-    
-    for attempt in range(5):
-        try:
-            translated = GoogleTranslator(source='auto', target='ko').translate(clean_text[:1000])
-            if translated and not any(err in translated for err in ['Error 500', 'Server Error', 'Too Many Requests', 'Service Unavailable']):
-                # Strict verification: Hangul character MUST be present
-                hangul_count = len(re.findall(r'[\uac00-\ud7a3]', translated))
-                if hangul_count > 0 and (hangul_count / max(1, len(translated)) >= 0.15 or len(clean_text) < 10):
+
+    def _looks_korean(translated, source_len):
+        if not translated:
+            return False
+        if any(err in translated for err in ['Error 500', 'Server Error', 'Too Many Requests', 'Service Unavailable']):
+            return False
+        hangul_count = len(re.findall(r'[\uac00-\ud7a3]', translated))
+        return hangul_count > 0 and (hangul_count / max(1, len(translated)) >= 0.15 or source_len < 10)
+
+    # 2026-09-21 FIX: GitHub Actions runner IPs are frequently rate-limited/blocked by
+    # Google Translate's unofficial free endpoint, which silently made every single
+    # title fail translation (100% [BLOCKED UNTRANSLATED ENGLISH]) since 2026-09-13 and
+    # froze the entire daily archive despite the workflow reporting "success". Try a
+    # second, independent free backend (MyMemory) before giving up, so a single
+    # provider's outage/throttling can no longer stall the whole pipeline.
+    translation_backends = [('google', lambda t: GoogleTranslator(source='auto', target='ko').translate(t))]
+    try:
+        from deep_translator import MyMemoryTranslator
+        translation_backends.append(('mymemory', lambda t: MyMemoryTranslator(source='en-GB', target='ko-KR').translate(t)))
+    except Exception:
+        pass
+
+    for backend_name, translate_fn in translation_backends:
+        attempts = 3 if backend_name == 'google' else 2
+        for attempt in range(attempts):
+            try:
+                translated = translate_fn(clean_text[:1000])
+                if _looks_korean(translated, len(clean_text)):
                     return translated
-        except Exception as e:
-            time.sleep(0.6 * (attempt + 1))
-            
-    # If translation completely fails for a title, do NOT return raw English.
-    # Return None so that untranslated English articles are never saved to the archive!
+            except Exception as e:
+                print(f"[TRANSLATE FAIL:{backend_name} attempt {attempt+1}] {e}")
+                time.sleep(0.6 * (attempt + 1))
+
+    # If translation completely fails for a title across every backend, do NOT return
+    # raw English. Return None so that untranslated English articles are never saved
+    # to the archive! (Should now only trigger if ALL free backends are down.)
     if is_title:
         return None
     return text
@@ -666,10 +687,16 @@ def run_daily_collection(limit_per_source=4):
                         # 3. Strict Title & Semantic Deduplication (Threshold > 0.50)
                         t = normalize_title_key(res.get('title', ''))
                         ot = normalize_title_key(res.get('original_title', ''))
-                        from difflib import SequenceMatcher
-                        is_title_dup = False
+                        from difflib import SequenceMatcher                        is_title_dup = False
+                        # 2026-09-21 FIX: threshold was 0.50, far too loose once the
+                        # permanent ledger accumulates 1000+ historical titles -- short,
+                        # template-like design/architecture headlines routinely share
+                        # >50% character overlap by chance, so this was compounding into
+                        # a second silent-stall risk once translation (the primary bug)
+                        # is fixed. Raised to 0.82 to only catch genuine near-duplicates.
+                        TITLE_DUP_THRESHOLD = 0.82
                         for prev_t in seen_titles:
-                            if SequenceMatcher(None, t, prev_t).ratio() > 0.50 or (ot and SequenceMatcher(None, ot, prev_t).ratio() > 0.50):
+                            if SequenceMatcher(None, t, prev_t).ratio() > TITLE_DUP_THRESHOLD or (ot and SequenceMatcher(None, ot, prev_t).ratio() > TITLE_DUP_THRESHOLD):
                                 is_title_dup = True
                                 print(f"[PERMANENT LEDGER BLOCKED DUP TITLE]: {res.get('title', '')[:30]}...")
                                 break
