@@ -1,187 +1,22 @@
 {
-  "generated_at": "2026-09-20 15:40 KST",
-  "period": "2026.09.09 - 2026.09.20",
-  "total_articles": 141,
+  "generated_at": "2026-09-21 07:54 KST",
+  "period": "2026.09.14 - 2026.09.21",
+  "total_articles": 41,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 71
+      "count": 19
     },
     {
       "genre": "동시대 미술",
-      "count": 45
-    },
-    {
-      "genre": "아방가르드 패션",
       "count": 17
     },
     {
       "genre": "미디어 파사드·3D",
-      "count": 8
+      "count": 5
     }
   ],
-  "themes": [
-    {
-      "keyword": "박물관·전시",
-      "count": 12,
-      "previous_count": 0,
-      "trend": "steady",
-      "items": [
-        {
-          "title": "BIG의 첫 완공 미술관, 쑤저우 현대미술관이 문을 열다",
-          "url": "https://www.archdaily.com/1184463/suzhou-museum-of-contemporary-art-opens-as-bigs-first-completed-art-museum",
-          "image_url": "https://images.adsttc.com/media/images/6a98/d856/cc78/e301/8820/ddac/medium_jpg/the-suzhou-museum-of-contemporary-art-opens-to-the-public-marking-bigs-first-completed-art-museum_23.jpg?1788401771",
-          "source_name": "ArchDaily"
-        },
-        {
-          "title": "조지 루카스의 '이야기 미술관', 로스앤젤레스에 마침내 개관한다",
-          "url": "https://www.archdaily.com/1184508/first-look-at-the-completed-lucas-museum-of-narrative-art-opening-september-22-2026",
-          "image_url": "https://images.adsttc.com/media/images/6a99/bc4b/1fe7/3101/8863/0356/medium_jpg/lucas-museum-of-narrative-art_1.jpg?1788460169",
-          "source_name": "ArchDaily"
-        },
-        {
-          "title": "Svenskt Tenn은 스웨덴의 선구적인 20세기 금속 디자이너인 Anna Petrus를 기념합니다.",
-          "url": "https://www.wallpaper.com/design-interiors/anna-petrus-svenskt-tenn",
-          "image_url": "https://cdn.mos.cms.futurecdn.net/cPioRhP7DhBN4Gev8TrzeG-1280-80.jpg",
-          "source_name": "Wallpaper*"
-        }
-      ]
-    },
-    {
-      "keyword": "가구 디자인",
-      "count": 7,
-      "previous_count": 0,
-      "trend": "steady",
-      "items": [
-        {
-          "title": "한지하우스 전시는 한국의 전통 종이 공예를 기념합니다.",
-          "url": "https://www.dezeen.com/2026/09/11/hanji-house-exhibition-maison-et-objet/",
-          "image_url": "https://static.dezeen.com/uploads/2026/09/Square-_dezeen_2364_col_0-852x852.jpg",
-          "source_name": "Dezeen"
-        },
-        {
-          "title": "Max Radford Gallery와 Christopher Farr의 전시회에 현대적인 가구와 아카이브 러그 디자인이 한자리에 모였습니다.",
-          "url": "https://www.wallpaper.com/design-interiors/max-radford-christopher-farr-london-design-festival-2026",
-          "image_url": "https://cdn.mos.cms.futurecdn.net/aYEM9FxrjYhZ4hhY9PVesW-1280-80.jpg",
-          "source_name": "Wallpaper*"
-        },
-        {
-          "title": "해리슨 포드의 집: 할리우드 전설의 사생활 사진 10장",
-          "url": "https://www.architecturaldigest.com/story/harrison-ford-at-home-photos-of-the-hollywood-heartthrobs-life-off-set",
-          "image_url": "https://media.architecturaldigest.com/photos/6aa300c04844ad4a76627577/master/pass/GettyImages-1091752816.jpg",
-          "source_name": "Architectural Digest"
-        }
-      ]
-    },
-    {
-      "keyword": "파빌리온·정원",
-      "count": 5,
-      "previous_count": 0,
-      "trend": "steady",
-      "items": [
-        {
-          "title": "BIG의 첫 완공 미술관, 쑤저우 현대미술관이 문을 열다",
-          "url": "https://www.archdaily.com/1184463/suzhou-museum-of-contemporary-art-opens-as-bigs-first-completed-art-museum",
-          "image_url": "https://images.adsttc.com/media/images/6a98/d856/cc78/e301/8820/ddac/medium_jpg/the-suzhou-museum-of-contemporary-art-opens-to-the-public-marking-bigs-first-completed-art-museum_23.jpg?1788401771",
-          "source_name": "ArchDaily"
-        },
-        {
-          "title": "외부 내부와 사물의 본질, 뉴욕의 뷰티 리테일 재고",
-          "url": "https://design-milk.com/outside-in-nature-of-things-soho-fog-architecture/",
-          "image_url": "https://design-milk.com/images/2026/09/CH_Outside_In_NYC_Store_FragranceGallery-1500x1013.jpeg",
-          "source_name": "Design Milk"
-        },
-        {
-          "title": "신록 키오스크 / Haus of hu",
-          "url": "https://www.archdaily.com/1183814/verdure-kiosk-haus-of-hu",
-          "image_url": "https://images.adsttc.com/media/images/6a89/8c22/4253/0500/01ca/0163/large_jpg/3.jpg?1787399432",
-          "source_name": "ArchDaily"
-        }
-      ]
-    },
-    {
-      "keyword": "빛과 조명",
-      "count": 5,
-      "previous_count": 0,
-      "trend": "steady",
-      "items": [
-        {
-          "title": "빛을 흡수하는 직물은 유타의 하얀 소금 평원에 기념비적인 검은 사각형을 만듭니다.",
-          "url": "https://www.designboom.com/art/light-absorbing-fabric-monumental-black-square-utah-white-salt-flats-gregory-orekhov-shadow-of-light/",
-          "image_url": "https://www.designboom.com/wp-content/dbsub/443085/2026-08-13/gregory-orekhov-lays-a-monumental-black-square-on-utahs-bonneville-salt-flats-2-6a7d8cd57f0cf.jpg",
-          "source_name": "Designboom Art"
-        },
-        {
-          "title": "Hollis+Morris는 보퍼트 조명으로 얼음 아래를 봅니다.",
-          "url": "https://design-milk.com/hollis-morris-beaufort-lighting-collection/",
-          "image_url": "https://design-milk.com/images/2026/08/hollis-morris-beaufort-tablelamp-R5-calico-1500x922.jpg",
-          "source_name": "Design Milk"
-        },
-        {
-          "title": "2,977개의 조명이 9/11 테러 이후 25년 만에 뉴욕 항구의 쌍둥이 빌딩을 재현했습니다.",
-          "url": "https://www.designboom.com/art/lights-twin-towers-new-york-harbor-25-years-after-9-11/",
-          "image_url": "https://www.designboom.com/wp-content/uploads/2026/09/lights-twin-towers-new-york-harbor-25-years-after-9-11-designboom-7.jpg",
-          "source_name": "Designboom Art"
-        }
-      ]
-    },
-    {
-      "keyword": "목재 건축",
-      "count": 4,
-      "previous_count": 0,
-      "trend": "steady",
-      "items": [
-        {
-          "title": "Anam Design Studio, East Sussex 주택에 클럽 같은 다이닝룸 추가",
-          "url": "https://www.dezeen.com/2026/09/09/east-sussex-house-anam-design-studio/",
-          "image_url": "https://static.dezeen.com/uploads/2026/09/east-sussex-house-anam-design-studio_dezeen_2364_sq_0-852x852.jpg",
-          "source_name": "Dezeen"
-        },
-        {
-          "title": "Hollis+Morris는 보퍼트 조명으로 얼음 아래를 봅니다.",
-          "url": "https://design-milk.com/hollis-morris-beaufort-lighting-collection/",
-          "image_url": "https://design-milk.com/images/2026/08/hollis-morris-beaufort-tablelamp-R5-calico-1500x922.jpg",
-          "source_name": "Design Milk"
-        },
-        {
-          "title": "Stefano Boeri Architetti, 이비자에서 저렴한 목재 주택 건설 경쟁에서 승리",
-          "url": "https://www.archdaily.com/1184832/stefano-boeri-architetti-wins-competition-for-timber-affordable-housing-in-ibiza",
-          "image_url": "https://images.adsttc.com/media/images/6aa1/b781/43f9/c501/88fd/1a62/large_jpg/stefano-boeri-architetti-wins-competition-for-timber-affordable-housing-in-ibiza_1.jpg?1788983188",
-          "source_name": "ArchDaily"
-        }
-      ]
-    },
-    {
-      "keyword": "사진",
-      "count": 3,
-      "previous_count": 0,
-      "trend": "steady",
-      "items": [
-        {
-          "title": "사진작가 스포트라이트: Raphaël Gaultier",
-          "url": "https://www.booooooom.com/2026/09/11/photographer-spotlight-raphael-gaultier/",
-          "image_url": "https://cdn.booooooom.com/wp-content/uploads/2026/08/Gaultier1.jpg",
-          "source_name": "BOOOOOOOM"
-        },
-        {
-          "title": "Jesse Glazzard가 런던 ICA에 도착하면서 그의 부드럽고 더러운 10년을 맞이해보세요.",
-          "url": "https://www.wallpaper.com/art/photography/as-jesse-glazzard-arrives-at-londons-ica-step-into-his-tender-dirty-decade",
-          "image_url": "https://cdn.mos.cms.futurecdn.net/3LVDzjTURLiskWhZ5Kfi9K-1280-80.jpg",
-          "source_name": "Wallpaper*"
-        },
-        {
-          "title": "사진작가 Kwame Dapaa는 어둡고 왜곡된 동화를 창조하고 있습니다.",
-          "url": "https://www.dazeddigital.com/art-photography/article/70775/1/photographer-kwame-dapaa-interview-dark-distorted-fairy-tales-mpb-dazed-club?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=photographer-kwame-dapaa-is-creating-dark-distorted-fairy-tales",
-          "image_url": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/0/1450900.jpg",
-          "source_name": "Dazed"
-        }
-      ]
-    }
-  ],
-  "notable_names": [
-    "East Sussex",
-    "Anab Jain"
-  ],
-  "has_comparison": false,
-  "agent_note": "RE:COLLECTION 큐레이터 에이전트가 2026-09-20 실제 아카이브 데이터를 직접 읽어 생성한 리포트입니다. 이전의 자동 keyword-frequency 엔진은 data/daily/*.json 일별 파티션이 2026-09-14부터 계속 비어있던 버그로 인해 themes/notable_names가 항상 빈 배열로 나왔습니다 (근본 원인: RSS 전역 중복 제거 원장이 소스별 최신 4건을 모두 이미 수집된 것으로 차단해 신규 수집이 0건씩 반복됨). 에이전트는 이를 발견해 실제 아카이브 141건을 직접 분석해 이 리포트를 대신 생성했습니다."
+  "themes": [],
+  "notable_names": [],
+  "has_comparison": true
 }
