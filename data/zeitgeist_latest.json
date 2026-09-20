@@ -1,22 +1,69 @@
 {
-  "generated_at": "2026-09-21 07:54 KST",
+  "generated_at": "2026-09-21 08:22 KST",
   "period": "2026.09.14 - 2026.09.21",
-  "total_articles": 41,
+  "total_articles": 74,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 19
+      "count": 34
     },
     {
       "genre": "동시대 미술",
-      "count": 17
+      "count": 34
     },
     {
       "genre": "미디어 파사드·3D",
-      "count": 5
+      "count": 6
     }
   ],
-  "themes": [],
+  "themes": [
+    {
+      "keyword": "콘크리트 물성",
+      "count": 3,
+      "previous_count": 2,
+      "trend": "steady",
+      "items": [
+        {
+          "title": "IF_DO는 헤이스팅스의 방치된 건물을 \"진정으로 환영하는\" 커뮤니티 센터로 탈바꿈시킵니다.",
+          "url": "https://www.dezeen.com/2026/09/19/if-do-eagle-house/",
+          "image_url": "https://static.dezeen.com/uploads/2026/09/eagle-house-ifdo-hastings-architecture-uk-adaptive-reuse_dezeen_2364_sq-852x852.jpg",
+          "source_name": "Dezeen"
+        },
+        {
+          "title": "존 윌슨이 콘크리트에 관심을 갖도록 설득할 수 있습니까?",
+          "url": "https://www.architecturaldigest.com/story/john-wilson-the-history-of-concrete",
+          "image_url": "https://media.architecturaldigest.com/photos/6aac235cfeb22b4ecd305d69/master/pass/20260910_ArchDigest_JohnWilson_s1_0070.jpg",
+          "source_name": "Architectural Digest"
+        },
+        {
+          "title": "말레이시아의 콴탄 옥상에서 한국의 거리 문화를 만나는 주저워크",
+          "url": "https://www.yatzer.com/jibungae-kbbq-kuantan-malaysia-jujurwork",
+          "image_url": "https://media.yatzer.com/10-Jibungae-KBBQ-JUJURWORK-Malaysia-photo-Patrick-Teow-yatzer-1400x1050.jpg",
+          "source_name": "Yatzer"
+        }
+      ]
+    },
+    {
+      "keyword": "레스토랑·호스피탈리티",
+      "count": 2,
+      "previous_count": 3,
+      "trend": "steady",
+      "items": [
+        {
+          "title": "킹디 타워/헨",
+          "url": "https://www.archdaily.com/1036942/kingdee-tower-henn",
+          "image_url": "https://images.adsttc.com/media/images/693b/a143/e123/2a00/01c3/8774/large_jpg/HENN_Kingdee_01_Exterior__TianFangfang.jpg?1765515645",
+          "source_name": "ArchDaily"
+        },
+        {
+          "title": "프라하에 서울의 시각적 에너지를 불어넣는 김치",
+          "url": "https://design-milk.com/the-kimchi-restaurant-soa-architekti-prague/",
+          "image_url": "https://design-milk.com/images/2026/09/soa-the-kimchi-studio-flusser-04-e1789667924282-1500x1000.jpg",
+          "source_name": "Design Milk"
+        }
+      ]
+    }
+  ],
   "notable_names": [],
   "has_comparison": true
 }
