@@ -1,22 +1,74 @@
 {
-  "generated_at": "2026-09-21 17:13 KST",
-  "period": "2026.09.14 - 2026.09.21",
-  "total_articles": 81,
+  "generated_at": "2026-09-22 00:11 KST",
+  "period": "2026.09.15 - 2026.09.22",
+  "total_articles": 112,
   "genre_breakdown": [
     {
       "genre": "동시대 미술",
-      "count": 42
+      "count": 58
     },
     {
       "genre": "공간·건축",
-      "count": 37
+      "count": 48
     },
     {
       "genre": "미디어 파사드·3D",
-      "count": 2
+      "count": 6
     }
   ],
   "themes": [
+    {
+      "keyword": "콘크리트 물성",
+      "count": 4,
+      "previous_count": 1,
+      "trend": "rising",
+      "items": [
+        {
+          "title": "말레이시아의 콴탄 옥상에서 한국의 거리 문화를 만나는 주저워크",
+          "url": "https://www.yatzer.com/jibungae-kbbq-kuantan-malaysia-jujurwork",
+          "image_url": "https://media.yatzer.com/10-Jibungae-KBBQ-JUJURWORK-Malaysia-photo-Patrick-Teow-yatzer-1400x1050.jpg",
+          "source_name": "Yatzer"
+        },
+        {
+          "title": "'브루탈리스트 아시아' 는 동양에 대한 콘크리트의 간과된 영향력에 대한 풍부한 그림의 여정입니다.",
+          "url": "https://www.wallpaper.com/architecture/brutalist-asia-book",
+          "image_url": "https://cdn.mos.cms.futurecdn.net/MDEdbotHzGdWjfcfDcm6Ed-1920-80.jpg",
+          "source_name": "Wallpaper*"
+        },
+        {
+          "title": "“길을 잃는 것은 이상하게도 도움이 됩니다” – 존 윌슨과 함께 영화를 만드는 방법",
+          "url": "https://www.itsnicethat.com/features/john-wilson-history-of-concrete-film-spotlight-210926",
+          "image_url": "https://admin.itsnicethat.com/images/Mh_o2tmEJ6065nihZWaikK3pswI=/282065/width-1440/John_Wilson_History_of_Concrete_courtesy_of_Magnolia_Pictures_itsnicetha_NuLdgdf.jpg",
+          "source_name": "It's Nice That"
+        },
+        {
+          "title": "SOCO 에스튜디오의 카사 이리아르테 (Casa Iriarte) 는 좁은 라스팔마스 플롯을 적응 가능한 콘크리트 주택으로 재구성합니다.",
+          "url": "https://www.yatzer.com/casa-iriarte-soco-estudio-las-palmas-de-gran-canaria",
+          "image_url": "https://media.yatzer.com/7-Casa-Iriarte-Gran-Canaria-SOCO-Estudio-photo-Simone-Marcolin-yatzer-1400x1867.jpg",
+          "source_name": "Yatzer"
+        }
+      ]
+    },
+    {
+      "keyword": "설치 미술",
+      "count": 2,
+      "previous_count": 0,
+      "trend": "new",
+      "items": [
+        {
+          "title": "다시 한 번, 느낌으로",
+          "url": "https://elephant.art/once-more-with-feeling/",
+          "image_url": "https://elephant.art/wp-content/uploads/2026/08/Yale-Class-Photo-scaled.jpg",
+          "source_name": "Elephant"
+        },
+        {
+          "title": "야마다 코헤이: 뉴욕 Gr 갤러리에서 내 스크린 테스트 (설치 이미지로 업데이트됨)",
+          "url": "https://www.juxtapoz.com/news/painting/kohei-yamada-my-screen-tests-gr-gallery-new-york/",
+          "image_url": "https://www.juxtapoz.com/media/k2/items/cache/feb6fd8d21b05a9d2a007a4aa38955a2_L.jpg",
+          "source_name": "Juxtapoz"
+        }
+      ]
+    },
     {
       "keyword": "사진",
       "count": 4,
@@ -50,29 +102,9 @@
       ]
     },
     {
-      "keyword": "설치 미술",
-      "count": 2,
-      "previous_count": 1,
-      "trend": "steady",
-      "items": [
-        {
-          "title": "다시 한 번, 느낌으로",
-          "url": "https://elephant.art/once-more-with-feeling/",
-          "image_url": "https://elephant.art/wp-content/uploads/2026/08/Yale-Class-Photo-scaled.jpg",
-          "source_name": "Elephant"
-        },
-        {
-          "title": "야마다 코헤이: 뉴욕 Gr 갤러리에서 내 스크린 테스트 (설치 이미지로 업데이트됨)",
-          "url": "https://www.juxtapoz.com/news/painting/kohei-yamada-my-screen-tests-gr-gallery-new-york/",
-          "image_url": "https://www.juxtapoz.com/media/k2/items/cache/feb6fd8d21b05a9d2a007a4aa38955a2_L.jpg",
-          "source_name": "Juxtapoz"
-        }
-      ]
-    },
-    {
       "keyword": "레스토랑·호스피탈리티",
       "count": 2,
-      "previous_count": 3,
+      "previous_count": 2,
       "trend": "steady",
       "items": [
         {
@@ -90,74 +122,10 @@
       ]
     },
     {
-      "keyword": "박물관·전시",
-      "count": 7,
-      "previous_count": 13,
-      "trend": "falling",
-      "items": [
-        {
-          "title": "크리스 \"데이즈\" 엘리스 \"오키드 레인 온 더 언더그라운드\" @ PPOW 갤러리, 뉴욕",
-          "url": "https://www.juxtapoz.com/news/graffiti/chris-daze-ellis-orchid-rain-on-the-underground-ppow-gallery-nyc/",
-          "image_url": "https://www.juxtapoz.com/media/k2/items/cache/6ea52af46917f156ac0499123960e4de_L.jpg",
-          "source_name": "Juxtapoz"
-        },
-        {
-          "title": "이사벨 + 헬렌이 The Conran Shop에서 키네틱 모델로 \"움직임에 대한 집착\" 을 선보입니다.",
-          "url": "https://www.dezeen.com/2026/09/21/isabel-helen-showcase-their-obsession-with-movement-with-kinetic-models-at-the-conran-shop/",
-          "image_url": "https://static.dezeen.com/uploads/2026/09/motion-sickness-isabel-helen_dezeen_2364_sq_0-852x852.jpg",
-          "source_name": "Dezeen"
-        },
-        {
-          "title": "리언 블랙은 울워스 저택을 자신의 박물관으로 바꿀 계획입니다. 책이 공개됩니다.",
-          "url": "https://hyperallergic.com/leon-black-plans-to-turn-woolworth-mansion-into-his-own-museum-book-reveals/",
-          "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/09/GettyImages-2283423496.jpg",
-          "source_name": "Hyperallergic"
-        },
-        {
-          "title": "좌식 스팽글: 사진작가 Debby Besford가 스케이트 챔피언을 국내 환경에 배치하는 이유",
-          "url": "https://www.creativeboom.com/news/sequins-in-sitting-rooms-why-photographer-debby-besford-is-placing-roller-skating-champions-in-domestic-settings/",
-          "image_url": "https://media.creativeboom.com/6db3717a-100e-4a01-89a3-54b21887d1ed/conversions/8aca32ae0e949805a6ce6c69d4e27b33f5e56768-medium.webp",
-          "source_name": "Creative Boom"
-        }
-      ]
-    },
-    {
-      "keyword": "빛과 조명",
-      "count": 4,
-      "previous_count": 7,
-      "trend": "falling",
-      "items": [
-        {
-          "title": "야간 조명부터 피시 테이블까지, 뉴욕 최고의 디자인 위크",
-          "url": "https://www.sightunseen.com/2026/05/the-best-of-new-york-design-week-from-nightlights-to-fish-tables/",
-          "image_url": "https://www.sightunseen.com/wordpress/wp-content/uploads/2026/05/AstraeusDevin_ChelsieStarleyPhotography-728x570.jpg",
-          "source_name": "Sight Unseen"
-        },
-        {
-          "title": "데이비드 폼파의 실리아",
-          "url": "https://minimalissimo.com/articles/cilia-by-david-pompa",
-          "image_url": "https://minimalissimo.com/api/media/file/cilia-by-david-pompa-featured-3x2-v20260915-1200x630.jpg",
-          "source_name": "Minimalissimo"
-        },
-        {
-          "title": "Ane Lykke의 조각 빛",
-          "url": "https://minimalissimo.com/articles/ane-lykkes-sculptural-light",
-          "image_url": "https://minimalissimo.com/api/media/file/ane-lykkes-sculptural-light-website-centered-1-v20260915-1200x630.jpg",
-          "source_name": "Minimalissimo"
-        },
-        {
-          "title": "루카 바타글리아는 변화하는 움직임에 대한 인식을 통해 회전목마를 바라본다.",
-          "url": "https://www.designboom.com/art/luca-battaglia-ghostly-glow-disappearing-carousels-long-exposure-photography/",
-          "image_url": "https://www.designboom.com/wp-content/uploads/2026/09/luca-battaglia-ghostly-glow-disappearing-carousels-long-exposure-photography-designboom-09.jpg",
-          "source_name": "Designboom Art"
-        }
-      ]
-    },
-    {
       "keyword": "팝업·플래그십",
       "count": 2,
-      "previous_count": 4,
-      "trend": "falling",
+      "previous_count": 3,
+      "trend": "steady",
       "items": [
         {
           "title": "라네즈, 스킨케어를 4층짜리 경험으로 바꾸다",
@@ -172,8 +140,42 @@
           "source_name": "Dezeen"
         }
       ]
+    },
+    {
+      "keyword": "박물관·전시",
+      "count": 9,
+      "previous_count": 12,
+      "trend": "falling",
+      "items": [
+        {
+          "title": "Taryn Simon의 탐정 이야기에서 아무도 책임지지 않습니다.",
+          "url": "https://hyperallergic.com/no-one-is-accountable-in-taryn-simons-detective-story/",
+          "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/09/The-windows-exploded.jpg",
+          "source_name": "Hyperallergic"
+        },
+        {
+          "title": "두 전시회에서 Jaume Plensa의 기념비적 인 조각품은 규모와 재료를 결합합니다.",
+          "url": "https://www.thisiscolossal.com/2026/09/jaume-plensa-beyond-silence/",
+          "image_url": "https://www.thisiscolossal.com/wp-content/uploads/2026/09/plensa-10-1.jpg",
+          "source_name": "This Is Colossal"
+        },
+        {
+          "title": "크리스 \"데이즈\" 엘리스 \"오키드 레인 온 더 언더그라운드\" @ PPOW 갤러리, 뉴욕",
+          "url": "https://www.juxtapoz.com/news/graffiti/chris-daze-ellis-orchid-rain-on-the-underground-ppow-gallery-nyc/",
+          "image_url": "https://www.juxtapoz.com/media/k2/items/cache/6ea52af46917f156ac0499123960e4de_L.jpg",
+          "source_name": "Juxtapoz"
+        },
+        {
+          "title": "이사벨 + 헬렌이 The Conran Shop에서 키네틱 모델로 \"움직임에 대한 집착\" 을 선보입니다.",
+          "url": "https://www.dezeen.com/2026/09/21/isabel-helen-showcase-their-obsession-with-movement-with-kinetic-models-at-the-conran-shop/",
+          "image_url": "https://static.dezeen.com/uploads/2026/09/motion-sickness-isabel-helen_dezeen_2364_sq_0-852x852.jpg",
+          "source_name": "Dezeen"
+        }
+      ]
     }
   ],
-  "notable_names": [],
+  "notable_names": [
+    "Taryn Simon"
+  ],
   "has_comparison": true
 }
