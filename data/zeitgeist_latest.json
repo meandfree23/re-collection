@@ -1,112 +1,40 @@
 {
-  "generated_at": "2026-09-21 10:48 KST",
+  "generated_at": "2026-09-21 17:13 KST",
   "period": "2026.09.14 - 2026.09.21",
-  "total_articles": 87,
+  "total_articles": 81,
   "genre_breakdown": [
     {
-      "genre": "공간·건축",
-      "count": 41
+      "genre": "동시대 미술",
+      "count": 42
     },
     {
-      "genre": "동시대 미술",
-      "count": 40
+      "genre": "공간·건축",
+      "count": 37
     },
     {
       "genre": "미디어 파사드·3D",
-      "count": 6
+      "count": 2
     }
   ],
   "themes": [
     {
-      "keyword": "콘크리트 물성",
+      "keyword": "사진",
       "count": 4,
-      "previous_count": 2,
-      "trend": "rising",
-      "items": [
-        {
-          "title": "SOCO 에스튜디오의 카사 이리아르테 (Casa Iriarte) 는 좁은 라스팔마스 플롯을 적응 가능한 콘크리트 주택으로 재구성합니다.",
-          "url": "https://www.yatzer.com/casa-iriarte-soco-estudio-las-palmas-de-gran-canaria",
-          "image_url": "https://media.yatzer.com/7-Casa-Iriarte-Gran-Canaria-SOCO-Estudio-photo-Simone-Marcolin-yatzer-1400x1867.jpg",
-          "source_name": "Yatzer"
-        },
-        {
-          "title": "IF_DO는 헤이스팅스의 방치된 건물을 \"진정으로 환영하는\" 커뮤니티 센터로 탈바꿈시킵니다.",
-          "url": "https://www.dezeen.com/2026/09/19/if-do-eagle-house/",
-          "image_url": "https://static.dezeen.com/uploads/2026/09/eagle-house-ifdo-hastings-architecture-uk-adaptive-reuse_dezeen_2364_sq-852x852.jpg",
-          "source_name": "Dezeen"
-        },
-        {
-          "title": "존 윌슨이 콘크리트에 관심을 갖도록 설득할 수 있습니까?",
-          "url": "https://www.architecturaldigest.com/story/john-wilson-the-history-of-concrete",
-          "image_url": "https://media.architecturaldigest.com/photos/6aac235cfeb22b4ecd305d69/master/pass/20260910_ArchDigest_JohnWilson_s1_0070.jpg",
-          "source_name": "Architectural Digest"
-        },
-        {
-          "title": "말레이시아의 콴탄 옥상에서 한국의 거리 문화를 만나는 주저워크",
-          "url": "https://www.yatzer.com/jibungae-kbbq-kuantan-malaysia-jujurwork",
-          "image_url": "https://media.yatzer.com/10-Jibungae-KBBQ-JUJURWORK-Malaysia-photo-Patrick-Teow-yatzer-1400x1050.jpg",
-          "source_name": "Yatzer"
-        }
-      ]
-    },
-    {
-      "keyword": "레스토랑·호스피탈리티",
-      "count": 2,
-      "previous_count": 3,
+      "previous_count": 4,
       "trend": "steady",
       "items": [
         {
-          "title": "프라하에 서울의 시각적 에너지를 불어넣는 김치",
-          "url": "https://design-milk.com/the-kimchi-restaurant-soa-architekti-prague/",
-          "image_url": "https://design-milk.com/images/2026/09/soa-the-kimchi-studio-flusser-04-e1789667924282-1500x1000.jpg",
-          "source_name": "Design Milk"
+          "title": "다시 한 번, 느낌으로",
+          "url": "https://elephant.art/once-more-with-feeling/",
+          "image_url": "https://elephant.art/wp-content/uploads/2026/08/Yale-Class-Photo-scaled.jpg",
+          "source_name": "Elephant"
         },
         {
-          "title": "킹디 타워/헨",
-          "url": "https://www.archdaily.com/1036942/kingdee-tower-henn",
-          "image_url": "https://images.adsttc.com/media/images/693b/a143/e123/2a00/01c3/8774/large_jpg/HENN_Kingdee_01_Exterior__TianFangfang.jpg?1765515645",
-          "source_name": "ArchDaily"
-        }
-      ]
-    },
-    {
-      "keyword": "박물관·전시",
-      "count": 6,
-      "previous_count": 13,
-      "trend": "falling",
-      "items": [
-        {
-          "title": "리언 블랙은 울워스 저택을 자신의 박물관으로 바꿀 계획입니다. 책이 공개됩니다.",
-          "url": "https://hyperallergic.com/leon-black-plans-to-turn-woolworth-mansion-into-his-own-museum-book-reveals/",
-          "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/09/GettyImages-2283423496.jpg",
-          "source_name": "Hyperallergic"
+          "title": "빈첸초 팔리우카에서 남티롤의 벙커와 함께하는 2차 세계대전 역사 사진 촬영",
+          "url": "https://www.thisiscolossal.com/2026/09/vincenzio-pagliuca-photography-bunker-book/",
+          "image_url": "https://www.thisiscolossal.com/wp-content/uploads/2026/09/pagliuca-6.jpg",
+          "source_name": "This Is Colossal"
         },
-        {
-          "title": "좌식 스팽글: 사진작가 Debby Besford가 스케이트 챔피언을 국내 환경에 배치하는 이유",
-          "url": "https://www.creativeboom.com/news/sequins-in-sitting-rooms-why-photographer-debby-besford-is-placing-roller-skating-champions-in-domestic-settings/",
-          "image_url": "https://media.creativeboom.com/6db3717a-100e-4a01-89a3-54b21887d1ed/conversions/8aca32ae0e949805a6ce6c69d4e27b33f5e56768-medium.webp",
-          "source_name": "Creative Boom"
-        },
-        {
-          "title": "토지로 나이프 갤러리 도쿄 \"하나레\"/L/O (KATATA YOSHISHITO DESIGN)",
-          "url": "https://www.archdaily.com/1185211/tojiro-knife-gallery-tokyo-hanare-l-o-katata-yoshishito-design",
-          "image_url": "https://images.adsttc.com/media/images/6aaa/749b/4f64/5201/8803/147a/large_jpg/tojiro-knife-gallery-tokyo-hanare-l-o-katata-yoshishito-design_1.jpg?1789555894",
-          "source_name": "ArchDaily"
-        },
-        {
-          "title": "야마다 코헤이: 뉴욕 Gr 갤러리에서 내 스크린 테스트 (설치 이미지로 업데이트됨)",
-          "url": "https://www.juxtapoz.com/news/painting/kohei-yamada-my-screen-tests-gr-gallery-new-york/",
-          "image_url": "https://www.juxtapoz.com/media/k2/items/cache/feb6fd8d21b05a9d2a007a4aa38955a2_L.jpg",
-          "source_name": "Juxtapoz"
-        }
-      ]
-    },
-    {
-      "keyword": "사진",
-      "count": 2,
-      "previous_count": 4,
-      "trend": "falling",
-      "items": [
         {
           "title": "좌식 스팽글: 사진작가 Debby Besford가 스케이트 챔피언을 국내 환경에 배치하는 이유",
           "url": "https://www.creativeboom.com/news/sequins-in-sitting-rooms-why-photographer-debby-besford-is-placing-roller-skating-champions-in-domestic-settings/",
@@ -118,6 +46,130 @@
           "url": "https://www.designboom.com/art/luca-battaglia-ghostly-glow-disappearing-carousels-long-exposure-photography/",
           "image_url": "https://www.designboom.com/wp-content/uploads/2026/09/luca-battaglia-ghostly-glow-disappearing-carousels-long-exposure-photography-designboom-09.jpg",
           "source_name": "Designboom Art"
+        }
+      ]
+    },
+    {
+      "keyword": "설치 미술",
+      "count": 2,
+      "previous_count": 1,
+      "trend": "steady",
+      "items": [
+        {
+          "title": "다시 한 번, 느낌으로",
+          "url": "https://elephant.art/once-more-with-feeling/",
+          "image_url": "https://elephant.art/wp-content/uploads/2026/08/Yale-Class-Photo-scaled.jpg",
+          "source_name": "Elephant"
+        },
+        {
+          "title": "야마다 코헤이: 뉴욕 Gr 갤러리에서 내 스크린 테스트 (설치 이미지로 업데이트됨)",
+          "url": "https://www.juxtapoz.com/news/painting/kohei-yamada-my-screen-tests-gr-gallery-new-york/",
+          "image_url": "https://www.juxtapoz.com/media/k2/items/cache/feb6fd8d21b05a9d2a007a4aa38955a2_L.jpg",
+          "source_name": "Juxtapoz"
+        }
+      ]
+    },
+    {
+      "keyword": "레스토랑·호스피탈리티",
+      "count": 2,
+      "previous_count": 3,
+      "trend": "steady",
+      "items": [
+        {
+          "title": "라쿠 비치 클럽: 푸켓의 코코넛 섬에 위치한 스튜디오 기관차의 리비에라 반사 휴양지",
+          "url": "https://www.yatzer.com/laku-beach-club-thailand-studio-locomotive",
+          "image_url": "https://media.yatzer.com/4-Laku-Beach-Club-Thailand-Studio-Locomotive-photo-Pichan-Sujaritsatit-yatzer-1400x933.jpg",
+          "source_name": "Yatzer"
+        },
+        {
+          "title": "프라하에 서울의 시각적 에너지를 불어넣는 김치",
+          "url": "https://design-milk.com/the-kimchi-restaurant-soa-architekti-prague/",
+          "image_url": "https://design-milk.com/images/2026/09/soa-the-kimchi-studio-flusser-04-e1789667924282-1500x1000.jpg",
+          "source_name": "Design Milk"
+        }
+      ]
+    },
+    {
+      "keyword": "박물관·전시",
+      "count": 7,
+      "previous_count": 13,
+      "trend": "falling",
+      "items": [
+        {
+          "title": "크리스 \"데이즈\" 엘리스 \"오키드 레인 온 더 언더그라운드\" @ PPOW 갤러리, 뉴욕",
+          "url": "https://www.juxtapoz.com/news/graffiti/chris-daze-ellis-orchid-rain-on-the-underground-ppow-gallery-nyc/",
+          "image_url": "https://www.juxtapoz.com/media/k2/items/cache/6ea52af46917f156ac0499123960e4de_L.jpg",
+          "source_name": "Juxtapoz"
+        },
+        {
+          "title": "이사벨 + 헬렌이 The Conran Shop에서 키네틱 모델로 \"움직임에 대한 집착\" 을 선보입니다.",
+          "url": "https://www.dezeen.com/2026/09/21/isabel-helen-showcase-their-obsession-with-movement-with-kinetic-models-at-the-conran-shop/",
+          "image_url": "https://static.dezeen.com/uploads/2026/09/motion-sickness-isabel-helen_dezeen_2364_sq_0-852x852.jpg",
+          "source_name": "Dezeen"
+        },
+        {
+          "title": "리언 블랙은 울워스 저택을 자신의 박물관으로 바꿀 계획입니다. 책이 공개됩니다.",
+          "url": "https://hyperallergic.com/leon-black-plans-to-turn-woolworth-mansion-into-his-own-museum-book-reveals/",
+          "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/09/GettyImages-2283423496.jpg",
+          "source_name": "Hyperallergic"
+        },
+        {
+          "title": "좌식 스팽글: 사진작가 Debby Besford가 스케이트 챔피언을 국내 환경에 배치하는 이유",
+          "url": "https://www.creativeboom.com/news/sequins-in-sitting-rooms-why-photographer-debby-besford-is-placing-roller-skating-champions-in-domestic-settings/",
+          "image_url": "https://media.creativeboom.com/6db3717a-100e-4a01-89a3-54b21887d1ed/conversions/8aca32ae0e949805a6ce6c69d4e27b33f5e56768-medium.webp",
+          "source_name": "Creative Boom"
+        }
+      ]
+    },
+    {
+      "keyword": "빛과 조명",
+      "count": 4,
+      "previous_count": 7,
+      "trend": "falling",
+      "items": [
+        {
+          "title": "야간 조명부터 피시 테이블까지, 뉴욕 최고의 디자인 위크",
+          "url": "https://www.sightunseen.com/2026/05/the-best-of-new-york-design-week-from-nightlights-to-fish-tables/",
+          "image_url": "https://www.sightunseen.com/wordpress/wp-content/uploads/2026/05/AstraeusDevin_ChelsieStarleyPhotography-728x570.jpg",
+          "source_name": "Sight Unseen"
+        },
+        {
+          "title": "데이비드 폼파의 실리아",
+          "url": "https://minimalissimo.com/articles/cilia-by-david-pompa",
+          "image_url": "https://minimalissimo.com/api/media/file/cilia-by-david-pompa-featured-3x2-v20260915-1200x630.jpg",
+          "source_name": "Minimalissimo"
+        },
+        {
+          "title": "Ane Lykke의 조각 빛",
+          "url": "https://minimalissimo.com/articles/ane-lykkes-sculptural-light",
+          "image_url": "https://minimalissimo.com/api/media/file/ane-lykkes-sculptural-light-website-centered-1-v20260915-1200x630.jpg",
+          "source_name": "Minimalissimo"
+        },
+        {
+          "title": "루카 바타글리아는 변화하는 움직임에 대한 인식을 통해 회전목마를 바라본다.",
+          "url": "https://www.designboom.com/art/luca-battaglia-ghostly-glow-disappearing-carousels-long-exposure-photography/",
+          "image_url": "https://www.designboom.com/wp-content/uploads/2026/09/luca-battaglia-ghostly-glow-disappearing-carousels-long-exposure-photography-designboom-09.jpg",
+          "source_name": "Designboom Art"
+        }
+      ]
+    },
+    {
+      "keyword": "팝업·플래그십",
+      "count": 2,
+      "previous_count": 4,
+      "trend": "falling",
+      "items": [
+        {
+          "title": "라네즈, 스킨케어를 4층짜리 경험으로 바꾸다",
+          "url": "https://design-milk.com/laneige-seoul-flagship-playlab/",
+          "image_url": "https://design-milk.com/images/2026/09/Laneige-Seoul-Flagship.png",
+          "source_name": "Design Milk"
+        },
+        {
+          "title": "뉴욕의 빅토리아 야쿠샤 공예 조각 주얼리 부티크",
+          "url": "https://www.dezeen.com/2026/09/19/guzema-jewellery-boutique-soho-new-york-victoria-yakusha-studio/",
+          "image_url": "https://static.dezeen.com/uploads/2026/09/guzema-soho-boutique_victoria-yakusha-studio_dezeen_sq1ex-852x852.jpg",
+          "source_name": "Dezeen"
         }
       ]
     }
