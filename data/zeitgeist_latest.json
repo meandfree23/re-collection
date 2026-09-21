@@ -1,22 +1,54 @@
 {
-  "generated_at": "2026-09-22 00:11 KST",
+  "generated_at": "2026-09-22 03:24 KST",
   "period": "2026.09.15 - 2026.09.22",
-  "total_articles": 112,
+  "total_articles": 141,
   "genre_breakdown": [
     {
       "genre": "동시대 미술",
-      "count": 58
+      "count": 80
     },
     {
       "genre": "공간·건축",
-      "count": 48
+      "count": 54
     },
     {
       "genre": "미디어 파사드·3D",
-      "count": 6
+      "count": 7
     }
   ],
   "themes": [
+    {
+      "keyword": "박물관·전시",
+      "count": 16,
+      "previous_count": 12,
+      "trend": "rising",
+      "items": [
+        {
+          "title": "모나리자 옆에서 그림을 그렸다가 체포된 독일인 듀오",
+          "url": "https://hyperallergic.com/german-duo-arrested-after-hanging-paintings-next-to-mona-lisa/",
+          "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/09/GettyImages-1318837531.jpg",
+          "source_name": "Hyperallergic"
+        },
+        {
+          "title": "프랫 맨해튼 갤러리 (Pratt Manhattan Gallery) 의 새로운 쇼를 통해 인간이 아닌 물체와 인간의 몸이 어떻게 존재하는지 알아보세요.",
+          "url": "https://hyperallergic.com/new-show-at-pratt-manhattan-gallery-explores-how-human-bodies-exist-with-non-human-objects/",
+          "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/09/Dinkins.jpg",
+          "source_name": "Hyperallergic"
+        },
+        {
+          "title": "댄서들은 테이트 모던 (Tate Modern) 의 바닥에서 옷을 꺼내 옴므 플리세 이세이 미야케 (Homme Plissé Issey Miy",
+          "url": "https://www.dezeen.com/2026/09/21/tate-modern-issey-miyake-performance/",
+          "image_url": "https://static.dezeen.com/uploads/2026/09/dezeen_2364_col_sq2-852x852.jpg",
+          "source_name": "Dezeen"
+        },
+        {
+          "title": "밀라노의 패션, 예술, 역사, 페이스트리 8층에 걸쳐 펼쳐지는 프라다 갤러리아",
+          "url": "https://www.designboom.com/art/prada-galleria-eight-floors-fashion-art-history-pastry-milan/",
+          "image_url": "https://www.designboom.com/wp-content/uploads/2026/09/prada-galleria-eight-floors-fashion-art-history-pastry-milan-designboom-8.jpg",
+          "source_name": "Designboom Art"
+        }
+      ]
+    },
     {
       "keyword": "콘크리트 물성",
       "count": 4,
@@ -102,6 +134,26 @@
       ]
     },
     {
+      "keyword": "미니멀리즘",
+      "count": 2,
+      "previous_count": 1,
+      "trend": "steady",
+      "items": [
+        {
+          "title": "빅토리아 야쿠샤 (Victoria Yakusha) 는 벨벳 상자에 들어가는 듯한 미니멀한 주얼리 매장을 디자인합니다.",
+          "url": "https://www.wallpaper.com/design-interiors/interior-design/victoria-yakusha-guzema-jewellery-store-nyc",
+          "image_url": "https://cdn.mos.cms.futurecdn.net/mugzeXZJbKFP3mf2xDkaEW-1920-80.jpg",
+          "source_name": "Wallpaper*"
+        },
+        {
+          "title": "정글",
+          "url": "https://leibal.com/interiors/jungle/",
+          "image_url": "https://leibal.com/wp-content/uploads/2026/09/leibal_jungle_mil-studios_01.jpg",
+          "source_name": "Leibal"
+        }
+      ]
+    },
+    {
       "keyword": "레스토랑·호스피탈리티",
       "count": 2,
       "previous_count": 2,
@@ -120,61 +172,11 @@
           "source_name": "Design Milk"
         }
       ]
-    },
-    {
-      "keyword": "팝업·플래그십",
-      "count": 2,
-      "previous_count": 3,
-      "trend": "steady",
-      "items": [
-        {
-          "title": "라네즈, 스킨케어를 4층짜리 경험으로 바꾸다",
-          "url": "https://design-milk.com/laneige-seoul-flagship-playlab/",
-          "image_url": "https://design-milk.com/images/2026/09/Laneige-Seoul-Flagship.png",
-          "source_name": "Design Milk"
-        },
-        {
-          "title": "뉴욕의 빅토리아 야쿠샤 공예 조각 주얼리 부티크",
-          "url": "https://www.dezeen.com/2026/09/19/guzema-jewellery-boutique-soho-new-york-victoria-yakusha-studio/",
-          "image_url": "https://static.dezeen.com/uploads/2026/09/guzema-soho-boutique_victoria-yakusha-studio_dezeen_sq1ex-852x852.jpg",
-          "source_name": "Dezeen"
-        }
-      ]
-    },
-    {
-      "keyword": "박물관·전시",
-      "count": 9,
-      "previous_count": 12,
-      "trend": "falling",
-      "items": [
-        {
-          "title": "Taryn Simon의 탐정 이야기에서 아무도 책임지지 않습니다.",
-          "url": "https://hyperallergic.com/no-one-is-accountable-in-taryn-simons-detective-story/",
-          "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/09/The-windows-exploded.jpg",
-          "source_name": "Hyperallergic"
-        },
-        {
-          "title": "두 전시회에서 Jaume Plensa의 기념비적 인 조각품은 규모와 재료를 결합합니다.",
-          "url": "https://www.thisiscolossal.com/2026/09/jaume-plensa-beyond-silence/",
-          "image_url": "https://www.thisiscolossal.com/wp-content/uploads/2026/09/plensa-10-1.jpg",
-          "source_name": "This Is Colossal"
-        },
-        {
-          "title": "크리스 \"데이즈\" 엘리스 \"오키드 레인 온 더 언더그라운드\" @ PPOW 갤러리, 뉴욕",
-          "url": "https://www.juxtapoz.com/news/graffiti/chris-daze-ellis-orchid-rain-on-the-underground-ppow-gallery-nyc/",
-          "image_url": "https://www.juxtapoz.com/media/k2/items/cache/6ea52af46917f156ac0499123960e4de_L.jpg",
-          "source_name": "Juxtapoz"
-        },
-        {
-          "title": "이사벨 + 헬렌이 The Conran Shop에서 키네틱 모델로 \"움직임에 대한 집착\" 을 선보입니다.",
-          "url": "https://www.dezeen.com/2026/09/21/isabel-helen-showcase-their-obsession-with-movement-with-kinetic-models-at-the-conran-shop/",
-          "image_url": "https://static.dezeen.com/uploads/2026/09/motion-sickness-isabel-helen_dezeen_2364_sq_0-852x852.jpg",
-          "source_name": "Dezeen"
-        }
-      ]
     }
   ],
   "notable_names": [
+    "Issey Miyake",
+    "Victoria Yakusha",
     "Taryn Simon"
   ],
   "has_comparison": true
