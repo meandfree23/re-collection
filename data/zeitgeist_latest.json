@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-09-21 08:22 KST",
+  "generated_at": "2026-09-21 09:34 KST",
   "period": "2026.09.14 - 2026.09.21",
-  "total_articles": 74,
+  "total_articles": 76,
   "genre_breakdown": [
     {
-      "genre": "공간·건축",
-      "count": 34
+      "genre": "동시대 미술",
+      "count": 40
     },
     {
-      "genre": "동시대 미술",
-      "count": 34
+      "genre": "공간·건축",
+      "count": 30
     },
     {
       "genre": "미디어 파사드·3D",
@@ -17,6 +17,32 @@
     }
   ],
   "themes": [
+    {
+      "keyword": "사진",
+      "count": 3,
+      "previous_count": 4,
+      "trend": "steady",
+      "items": [
+        {
+          "title": "좌식 스팽글: 사진작가 Debby Besford가 스케이트 챔피언을 국내 환경에 배치하는 이유",
+          "url": "https://www.creativeboom.com/news/sequins-in-sitting-rooms-why-photographer-debby-besford-is-placing-roller-skating-champions-in-domestic-settings/",
+          "image_url": "https://media.creativeboom.com/6db3717a-100e-4a01-89a3-54b21887d1ed/conversions/8aca32ae0e949805a6ce6c69d4e27b33f5e56768-medium.webp",
+          "source_name": "Creative Boom"
+        },
+        {
+          "title": "루카 바타글리아는 변화하는 움직임에 대한 인식을 통해 회전목마를 바라본다.",
+          "url": "https://www.designboom.com/art/luca-battaglia-ghostly-glow-disappearing-carousels-long-exposure-photography/",
+          "image_url": "https://www.designboom.com/wp-content/uploads/2026/09/luca-battaglia-ghostly-glow-disappearing-carousels-long-exposure-photography-designboom-09.jpg",
+          "source_name": "Designboom Art"
+        },
+        {
+          "title": "빈첸초 팔리우카에서 남티롤의 벙커와 함께하는 2차 세계대전 역사 사진 촬영",
+          "url": "https://www.thisiscolossal.com/2026/09/vincenzio-pagliuca-photography-bunker-book/",
+          "image_url": "https://www.thisiscolossal.com/wp-content/uploads/2026/09/pagliuca-6.jpg",
+          "source_name": "This Is Colossal"
+        }
+      ]
+    },
     {
       "keyword": "콘크리트 물성",
       "count": 3,
@@ -44,22 +70,34 @@
       ]
     },
     {
-      "keyword": "레스토랑·호스피탈리티",
-      "count": 2,
-      "previous_count": 3,
-      "trend": "steady",
+      "keyword": "박물관·전시",
+      "count": 6,
+      "previous_count": 13,
+      "trend": "falling",
       "items": [
         {
-          "title": "킹디 타워/헨",
-          "url": "https://www.archdaily.com/1036942/kingdee-tower-henn",
-          "image_url": "https://images.adsttc.com/media/images/693b/a143/e123/2a00/01c3/8774/large_jpg/HENN_Kingdee_01_Exterior__TianFangfang.jpg?1765515645",
+          "title": "리언 블랙은 울워스 저택을 자신의 박물관으로 바꿀 계획입니다. 책이 공개됩니다.",
+          "url": "https://hyperallergic.com/leon-black-plans-to-turn-woolworth-mansion-into-his-own-museum-book-reveals/",
+          "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/09/GettyImages-2283423496.jpg",
+          "source_name": "Hyperallergic"
+        },
+        {
+          "title": "좌식 스팽글: 사진작가 Debby Besford가 스케이트 챔피언을 국내 환경에 배치하는 이유",
+          "url": "https://www.creativeboom.com/news/sequins-in-sitting-rooms-why-photographer-debby-besford-is-placing-roller-skating-champions-in-domestic-settings/",
+          "image_url": "https://media.creativeboom.com/6db3717a-100e-4a01-89a3-54b21887d1ed/conversions/8aca32ae0e949805a6ce6c69d4e27b33f5e56768-medium.webp",
+          "source_name": "Creative Boom"
+        },
+        {
+          "title": "토지로 나이프 갤러리 도쿄 \"하나레\"/L/O (KATATA YOSHISHITO DESIGN)",
+          "url": "https://www.archdaily.com/1185211/tojiro-knife-gallery-tokyo-hanare-l-o-katata-yoshishito-design",
+          "image_url": "https://images.adsttc.com/media/images/6aaa/749b/4f64/5201/8803/147a/large_jpg/tojiro-knife-gallery-tokyo-hanare-l-o-katata-yoshishito-design_1.jpg?1789555894",
           "source_name": "ArchDaily"
         },
         {
-          "title": "프라하에 서울의 시각적 에너지를 불어넣는 김치",
-          "url": "https://design-milk.com/the-kimchi-restaurant-soa-architekti-prague/",
-          "image_url": "https://design-milk.com/images/2026/09/soa-the-kimchi-studio-flusser-04-e1789667924282-1500x1000.jpg",
-          "source_name": "Design Milk"
+          "title": "야마다 코헤이: 뉴욕 Gr 갤러리에서 내 스크린 테스트 (설치 이미지로 업데이트됨)",
+          "url": "https://www.juxtapoz.com/news/painting/kohei-yamada-my-screen-tests-gr-gallery-new-york/",
+          "image_url": "https://www.juxtapoz.com/media/k2/items/cache/feb6fd8d21b05a9d2a007a4aa38955a2_L.jpg",
+          "source_name": "Juxtapoz"
         }
       ]
     }
