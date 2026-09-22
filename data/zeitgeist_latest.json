@@ -1,28 +1,34 @@
 {
-  "generated_at": "2026-09-22 09:18 KST",
+  "generated_at": "2026-09-22 10:17 KST",
   "period": "2026.09.15 - 2026.09.22",
-  "total_articles": 145,
+  "total_articles": 154,
   "genre_breakdown": [
     {
       "genre": "동시대 미술",
-      "count": 80
+      "count": 86
     },
     {
       "genre": "공간·건축",
-      "count": 58
+      "count": 60
     },
     {
       "genre": "미디어 파사드·3D",
-      "count": 7
+      "count": 8
     }
   ],
   "themes": [
     {
       "keyword": "박물관·전시",
-      "count": 16,
+      "count": 17,
       "previous_count": 12,
       "trend": "rising",
       "items": [
+        {
+          "title": "친가 삼손 \"우쿠푸텔와\" @ 화이트 큐브 갤러리, 뉴욕",
+          "url": "https://www.juxtapoz.com/news/painting/cinga-samson-ukuphuthelwa-white-cube-gallery-nyc/",
+          "image_url": "https://www.juxtapoz.com/media/k2/items/cache/effdf65bcd6feba6cfff85ca501fc434_L.jpg",
+          "source_name": "Juxtapoz"
+        },
         {
           "title": "모나리자 옆에서 그림을 그렸다가 체포된 독일인 듀오",
           "url": "https://hyperallergic.com/german-duo-arrested-after-hanging-paintings-next-to-mona-lisa/",
@@ -40,18 +46,12 @@
           "url": "https://www.dezeen.com/2026/09/21/tate-modern-issey-miyake-performance/",
           "image_url": "https://static.dezeen.com/uploads/2026/09/dezeen_2364_col_sq2-852x852.jpg",
           "source_name": "Dezeen"
-        },
-        {
-          "title": "밀라노의 패션, 예술, 역사, 페이스트리 8층에 걸쳐 펼쳐지는 프라다 갤러리아",
-          "url": "https://www.designboom.com/art/prada-galleria-eight-floors-fashion-art-history-pastry-milan/",
-          "image_url": "https://www.designboom.com/wp-content/uploads/2026/09/prada-galleria-eight-floors-fashion-art-history-pastry-milan-designboom-8.jpg",
-          "source_name": "Designboom Art"
         }
       ]
     },
     {
       "keyword": "콘크리트 물성",
-      "count": 4,
+      "count": 3,
       "previous_count": 1,
       "trend": "rising",
       "items": [
@@ -66,12 +66,6 @@
           "url": "https://www.wallpaper.com/architecture/brutalist-asia-book",
           "image_url": "https://cdn.mos.cms.futurecdn.net/MDEdbotHzGdWjfcfDcm6Ed-1920-80.jpg",
           "source_name": "Wallpaper*"
-        },
-        {
-          "title": "“길을 잃는 것은 이상하게도 도움이 됩니다” – 존 윌슨과 함께 영화를 만드는 방법",
-          "url": "https://www.itsnicethat.com/features/john-wilson-history-of-concrete-film-spotlight-210926",
-          "image_url": "https://admin.itsnicethat.com/images/Mh_o2tmEJ6065nihZWaikK3pswI=/282065/width-1440/John_Wilson_History_of_Concrete_courtesy_of_Magnolia_Pictures_itsnicetha_NuLdgdf.jpg",
-          "source_name": "It's Nice That"
         },
         {
           "title": "SOCO 에스튜디오의 카사 이리아르테 (Casa Iriarte) 는 좁은 라스팔마스 플롯을 적응 가능한 콘크리트 주택으로 재구성합니다.",
@@ -175,6 +169,7 @@
     }
   ],
   "notable_names": [
+    "US Market",
     "Issey Miyake",
     "Victoria Yakusha",
     "Taryn Simon"
