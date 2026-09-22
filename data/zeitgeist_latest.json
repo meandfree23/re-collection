@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-09-23 02:17 KST",
+  "generated_at": "2026-09-23 08:44 KST",
   "period": "2026.09.16 - 2026.09.23",
-  "total_articles": 180,
+  "total_articles": 193,
   "genre_breakdown": [
     {
       "genre": "동시대 미술",
-      "count": 108
+      "count": 118
     },
     {
       "genre": "공간·건축",
-      "count": 61
+      "count": 64
     },
     {
       "genre": "미디어 파사드·3D",
@@ -23,10 +23,22 @@
   "themes": [
     {
       "keyword": "박물관·전시",
-      "count": 16,
+      "count": 18,
       "previous_count": 9,
       "trend": "rising",
       "items": [
+        {
+          "title": "Duo, MoMA 외부에서 시위 중인 Oust Leon Black에게 전화",
+          "url": "https://hyperallergic.com/duo-calls-to-oust-leon-black-in-protest-outside-moma/",
+          "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/09/DSC03014--1-.jpg",
+          "source_name": "Hyperallergic"
+        },
+        {
+          "title": "이 비밀 브루클린 아카이브에는 다양한 디자인 희귀성이 포함되어 있습니다. 특별한 발견 10가지를 소개합니다",
+          "url": "https://www.wallpaper.com/design-interiors/furniture/this-secret-brooklyn-archive-contains-a-trove-of-design-rarities-here-are-10-exceptional-finds",
+          "image_url": "https://cdn.mos.cms.futurecdn.net/WruWsn8LRmsePyrZAtPXEe-1920-80.jpg",
+          "source_name": "Wallpaper*"
+        },
         {
           "title": "유대인 박물관의 \"모던함과 호화로움: 비너 베르크슈테트의 여성들\"",
           "url": "https://hyperallergic.com/modernity-and-opulence-women-of-the-wiener-werkstatte-at-the-jewish-museum/",
@@ -38,27 +50,21 @@
           "url": "https://www.juxtapoz.com/news/painting/sophia-huitema-prussian-blue-harper-s-apartment/",
           "image_url": "https://www.juxtapoz.com/media/k2/items/cache/97776c38dce98abea2513551eb017d69_L.jpg",
           "source_name": "Juxtapoz"
-        },
-        {
-          "title": "스튜디오 블랙번은 선덜랜드에 컬처 하우스의 정체성을 담은 새로운 '거실' 을 제공합니다.",
-          "url": "https://www.creativeboom.com/work/studio-blackburn-gives-sunderland-a-new-living-room-with-its-identity-for-culture-house/",
-          "image_url": "https://media.creativeboom.com/71ba7011-193a-4457-a20d-887ff449389a/conversions/f89205222c9d61203705d5e2e278570c61be6b66-medium.webp",
-          "source_name": "Creative Boom"
-        },
-        {
-          "title": "냇 미드의 '프랭클린' @ 뉴욕 헤세 플라토",
-          "url": "https://www.juxtapoz.com/news/painting/nat-meade-s-franklin-hesse-flatow-nyc/",
-          "image_url": "https://www.juxtapoz.com/media/k2/items/cache/80d14d9b0bfb84f3d3cbbc67f445d2dd_L.jpg",
-          "source_name": "Juxtapoz"
         }
       ]
     },
     {
       "keyword": "사진",
-      "count": 6,
+      "count": 7,
       "previous_count": 3,
       "trend": "rising",
       "items": [
+        {
+          "title": "버닝맨 2026의 독특한 건축물",
+          "url": "https://www.dezeen.com/2026/09/22/quirky-architecture-burning-man-2026/",
+          "image_url": "https://static.dezeen.com/uploads/2026/09/burning-man-2026-gurpreet-chawla_dezeen_2364_sq-852x852.jpg",
+          "source_name": "Dezeen"
+        },
         {
           "title": "프랑스, 여행 테마 전시회로 사진 200주년 기념",
           "url": "https://www.thisiscolossal.com/2026/09/grandpalaisrmn-200-year-photography-exhibition/",
@@ -76,12 +82,6 @@
           "url": "https://elephant.art/once-more-with-feeling/",
           "image_url": "https://elephant.art/wp-content/uploads/2026/08/Yale-Class-Photo-scaled.jpg",
           "source_name": "Elephant"
-        },
-        {
-          "title": "빈첸초 팔리우카에서 남티롤의 벙커와 함께하는 2차 세계대전 역사 사진 촬영",
-          "url": "https://www.thisiscolossal.com/2026/09/vincenzio-pagliuca-photography-bunker-book/",
-          "image_url": "https://www.thisiscolossal.com/wp-content/uploads/2026/09/pagliuca-6.jpg",
-          "source_name": "This Is Colossal"
         }
       ]
     },
