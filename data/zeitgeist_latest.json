@@ -1,28 +1,44 @@
 {
-  "generated_at": "2026-09-22 10:17 KST",
+  "generated_at": "2026-09-22 11:08 KST",
   "period": "2026.09.15 - 2026.09.22",
-  "total_articles": 154,
+  "total_articles": 153,
   "genre_breakdown": [
     {
       "genre": "동시대 미술",
-      "count": 86
+      "count": 92
     },
     {
       "genre": "공간·건축",
-      "count": 60
+      "count": 50
     },
     {
       "genre": "미디어 파사드·3D",
       "count": 8
+    },
+    {
+      "genre": "아방가르드 패션",
+      "count": 3
     }
   ],
   "themes": [
     {
       "keyword": "박물관·전시",
-      "count": 17,
+      "count": 18,
       "previous_count": 12,
       "trend": "rising",
       "items": [
+        {
+          "title": "프랑스, 여행 테마 전시회로 사진 200주년 기념",
+          "url": "https://www.thisiscolossal.com/2026/09/grandpalaisrmn-200-year-photography-exhibition/",
+          "image_url": "https://www.thisiscolossal.com/wp-content/uploads/2026/09/bicentennial-5.jpeg",
+          "source_name": "This Is Colossal"
+        },
+        {
+          "title": "나오미 벡위드 (Naomi Beckwith) 는 도큐멘타 16에서 프로 팔레스타인 시위를 \"두려워하지 않는다\" 고 말합니다.",
+          "url": "https://hyperallergic.com/naomi-beckwith-says-shes-not-afraid-of-pro-palestine-protest-at-documenta-16/",
+          "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/09/GettyImages-2218445286.jpg",
+          "source_name": "Hyperallergic"
+        },
         {
           "title": "친가 삼손 \"우쿠푸텔와\" @ 화이트 큐브 갤러리, 뉴욕",
           "url": "https://www.juxtapoz.com/news/painting/cinga-samson-ukuphuthelwa-white-cube-gallery-nyc/",
@@ -34,44 +50,38 @@
           "url": "https://hyperallergic.com/german-duo-arrested-after-hanging-paintings-next-to-mona-lisa/",
           "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/09/GettyImages-1318837531.jpg",
           "source_name": "Hyperallergic"
-        },
-        {
-          "title": "프랫 맨해튼 갤러리 (Pratt Manhattan Gallery) 의 새로운 쇼를 통해 인간이 아닌 물체와 인간의 몸이 어떻게 존재하는지 알아보세요.",
-          "url": "https://hyperallergic.com/new-show-at-pratt-manhattan-gallery-explores-how-human-bodies-exist-with-non-human-objects/",
-          "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/09/Dinkins.jpg",
-          "source_name": "Hyperallergic"
-        },
-        {
-          "title": "댄서들은 테이트 모던 (Tate Modern) 의 바닥에서 옷을 꺼내 옴므 플리세 이세이 미야케 (Homme Plissé Issey Miy",
-          "url": "https://www.dezeen.com/2026/09/21/tate-modern-issey-miyake-performance/",
-          "image_url": "https://static.dezeen.com/uploads/2026/09/dezeen_2364_col_sq2-852x852.jpg",
-          "source_name": "Dezeen"
         }
       ]
     },
     {
-      "keyword": "콘크리트 물성",
-      "count": 3,
-      "previous_count": 1,
+      "keyword": "사진",
+      "count": 6,
+      "previous_count": 4,
       "trend": "rising",
       "items": [
         {
-          "title": "말레이시아의 콴탄 옥상에서 한국의 거리 문화를 만나는 주저워크",
-          "url": "https://www.yatzer.com/jibungae-kbbq-kuantan-malaysia-jujurwork",
-          "image_url": "https://media.yatzer.com/10-Jibungae-KBBQ-JUJURWORK-Malaysia-photo-Patrick-Teow-yatzer-1400x1050.jpg",
-          "source_name": "Yatzer"
+          "title": "프랑스, 여행 테마 전시회로 사진 200주년 기념",
+          "url": "https://www.thisiscolossal.com/2026/09/grandpalaisrmn-200-year-photography-exhibition/",
+          "image_url": "https://www.thisiscolossal.com/wp-content/uploads/2026/09/bicentennial-5.jpeg",
+          "source_name": "This Is Colossal"
         },
         {
-          "title": "'브루탈리스트 아시아' 는 동양에 대한 콘크리트의 간과된 영향력에 대한 풍부한 그림의 여정입니다.",
-          "url": "https://www.wallpaper.com/architecture/brutalist-asia-book",
-          "image_url": "https://cdn.mos.cms.futurecdn.net/MDEdbotHzGdWjfcfDcm6Ed-1920-80.jpg",
-          "source_name": "Wallpaper*"
+          "title": "'못생긴 자의 미학' 을 받아들인 사진작가 넬슨 가리도가 73세의 나이로 세상을 떠납니다.",
+          "url": "https://hyperallergic.com/photographer-nelson-garrido-who-embraced-an-aesthetics-of-the-ugly-dies-at-73/",
+          "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/09/garridoft.jpg",
+          "source_name": "Hyperallergic"
         },
         {
-          "title": "SOCO 에스튜디오의 카사 이리아르테 (Casa Iriarte) 는 좁은 라스팔마스 플롯을 적응 가능한 콘크리트 주택으로 재구성합니다.",
-          "url": "https://www.yatzer.com/casa-iriarte-soco-estudio-las-palmas-de-gran-canaria",
-          "image_url": "https://media.yatzer.com/7-Casa-Iriarte-Gran-Canaria-SOCO-Estudio-photo-Simone-Marcolin-yatzer-1400x1867.jpg",
-          "source_name": "Yatzer"
+          "title": "다시 한 번, 느낌으로",
+          "url": "https://elephant.art/once-more-with-feeling/",
+          "image_url": "https://elephant.art/wp-content/uploads/2026/08/Yale-Class-Photo-scaled.jpg",
+          "source_name": "Elephant"
+        },
+        {
+          "title": "빈첸초 팔리우카에서 남티롤의 벙커와 함께하는 2차 세계대전 역사 사진 촬영",
+          "url": "https://www.thisiscolossal.com/2026/09/vincenzio-pagliuca-photography-bunker-book/",
+          "image_url": "https://www.thisiscolossal.com/wp-content/uploads/2026/09/pagliuca-6.jpg",
+          "source_name": "This Is Colossal"
         }
       ]
     },
@@ -96,34 +106,22 @@
       ]
     },
     {
-      "keyword": "사진",
-      "count": 4,
-      "previous_count": 4,
+      "keyword": "콘크리트 물성",
+      "count": 2,
+      "previous_count": 1,
       "trend": "steady",
       "items": [
         {
-          "title": "다시 한 번, 느낌으로",
-          "url": "https://elephant.art/once-more-with-feeling/",
-          "image_url": "https://elephant.art/wp-content/uploads/2026/08/Yale-Class-Photo-scaled.jpg",
-          "source_name": "Elephant"
+          "title": "“길을 잃는 것은 이상하게도 도움이 됩니다” – 존 윌슨과 함께 영화를 만드는 방법",
+          "url": "https://www.itsnicethat.com/features/john-wilson-history-of-concrete-film-spotlight-210926",
+          "image_url": "https://admin.itsnicethat.com/images/Mh_o2tmEJ6065nihZWaikK3pswI=/282065/width-1440/John_Wilson_History_of_Concrete_courtesy_of_Magnolia_Pictures_itsnicetha_NuLdgdf.jpg",
+          "source_name": "It's Nice That"
         },
         {
-          "title": "빈첸초 팔리우카에서 남티롤의 벙커와 함께하는 2차 세계대전 역사 사진 촬영",
-          "url": "https://www.thisiscolossal.com/2026/09/vincenzio-pagliuca-photography-bunker-book/",
-          "image_url": "https://www.thisiscolossal.com/wp-content/uploads/2026/09/pagliuca-6.jpg",
-          "source_name": "This Is Colossal"
-        },
-        {
-          "title": "좌식 스팽글: 사진작가 Debby Besford가 스케이트 챔피언을 국내 환경에 배치하는 이유",
-          "url": "https://www.creativeboom.com/news/sequins-in-sitting-rooms-why-photographer-debby-besford-is-placing-roller-skating-champions-in-domestic-settings/",
-          "image_url": "https://media.creativeboom.com/6db3717a-100e-4a01-89a3-54b21887d1ed/conversions/8aca32ae0e949805a6ce6c69d4e27b33f5e56768-medium.webp",
-          "source_name": "Creative Boom"
-        },
-        {
-          "title": "루카 바타글리아는 변화하는 움직임에 대한 인식을 통해 회전목마를 바라본다.",
-          "url": "https://www.designboom.com/art/luca-battaglia-ghostly-glow-disappearing-carousels-long-exposure-photography/",
-          "image_url": "https://www.designboom.com/wp-content/uploads/2026/09/luca-battaglia-ghostly-glow-disappearing-carousels-long-exposure-photography-designboom-09.jpg",
-          "source_name": "Designboom Art"
+          "title": "SOCO 에스튜디오의 카사 이리아르테 (Casa Iriarte) 는 좁은 라스팔마스 플롯을 적응 가능한 콘크리트 주택으로 재구성합니다.",
+          "url": "https://www.yatzer.com/casa-iriarte-soco-estudio-las-palmas-de-gran-canaria",
+          "image_url": "https://media.yatzer.com/7-Casa-Iriarte-Gran-Canaria-SOCO-Estudio-photo-Simone-Marcolin-yatzer-1400x1867.jpg",
+          "source_name": "Yatzer"
         }
       ]
     },
@@ -171,8 +169,7 @@
   "notable_names": [
     "US Market",
     "Issey Miyake",
-    "Victoria Yakusha",
-    "Taryn Simon"
+    "Victoria Yakusha"
   ],
   "has_comparison": true
 }
