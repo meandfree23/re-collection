@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-09-22 22:30 KST",
-  "period": "2026.09.15 - 2026.09.22",
-  "total_articles": 158,
+  "generated_at": "2026-09-23 02:17 KST",
+  "period": "2026.09.16 - 2026.09.23",
+  "total_articles": 180,
   "genre_breakdown": [
     {
       "genre": "동시대 미술",
-      "count": 94
+      "count": 108
     },
     {
       "genre": "공간·건축",
-      "count": 55
+      "count": 61
     },
     {
       "genre": "미디어 파사드·3D",
-      "count": 6
+      "count": 8
     },
     {
       "genre": "아방가르드 패션",
@@ -23,10 +23,16 @@
   "themes": [
     {
       "keyword": "박물관·전시",
-      "count": 15,
-      "previous_count": 12,
+      "count": 16,
+      "previous_count": 9,
       "trend": "rising",
       "items": [
+        {
+          "title": "유대인 박물관의 \"모던함과 호화로움: 비너 베르크슈테트의 여성들\"",
+          "url": "https://hyperallergic.com/modernity-and-opulence-women-of-the-wiener-werkstatte-at-the-jewish-museum/",
+          "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/09/KI-13744-12_1-Facebook_Instagram---3000px-W--72dpi--jpg.jpg",
+          "source_name": "Hyperallergic"
+        },
         {
           "title": "소피아 후이테마 \"프로이센 블루\" @ 하퍼스 아파트",
           "url": "https://www.juxtapoz.com/news/painting/sophia-huitema-prussian-blue-harper-s-apartment/",
@@ -44,19 +50,13 @@
           "url": "https://www.juxtapoz.com/news/painting/nat-meade-s-franklin-hesse-flatow-nyc/",
           "image_url": "https://www.juxtapoz.com/media/k2/items/cache/80d14d9b0bfb84f3d3cbbc67f445d2dd_L.jpg",
           "source_name": "Juxtapoz"
-        },
-        {
-          "title": "가브리엘 리처드슨의 카메라 롤: 아스펜 에어 페스티벌",
-          "url": "https://elephant.art/gabrielle-richardsons-camera-roll-aspen-air-festival/",
-          "image_url": "https://elephant.art/wp-content/uploads/2026/08/IMG_5869-Large.jpeg",
-          "source_name": "Elephant"
         }
       ]
     },
     {
       "keyword": "사진",
       "count": 6,
-      "previous_count": 4,
+      "previous_count": 3,
       "trend": "rising",
       "items": [
         {
@@ -86,10 +86,36 @@
       ]
     },
     {
-      "keyword": "콘크리트 물성",
-      "count": 5,
+      "keyword": "런웨이·쇼",
+      "count": 3,
       "previous_count": 1,
       "trend": "rising",
+      "items": [
+        {
+          "title": "밀라노 패션 위크에서 프라다는 치마를 입고 연마합니다.",
+          "url": "https://www.wallpaper.com/fashion-beauty/prada-ss-2027-womenswear-show-review-milan-fashion-week",
+          "image_url": "https://cdn.mos.cms.futurecdn.net/j5rzTaFFwrX5sbGmznpaUJ-1920-80.jpg",
+          "source_name": "Wallpaper*"
+        },
+        {
+          "title": "2027년 런던 패션 위크 S/S 최고의 쇼",
+          "url": "https://www.wallpaper.com/fashion-beauty/the-best-shows-london-fashion-week-ss-2027-review-round-up",
+          "image_url": "https://cdn.mos.cms.futurecdn.net/9Pbp3qwDNthJuL5Yro4ijL-1920-80.jpg",
+          "source_name": "Wallpaper*"
+        },
+        {
+          "title": "저게 엄마야! 디 펫사가 SS27에게 모성애를 느끼고 있어",
+          "url": "https://www.dazeddigital.com/fashion/article/71016/1/di-petsa-is-feeling-maternal-for-ss27-london-fashion-week-lfw?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=that-s-mother-di-petsa-is-feeling-maternal-for-ss27",
+          "image_url": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/4/1454965.jpg",
+          "source_name": "Dazed"
+        }
+      ]
+    },
+    {
+      "keyword": "콘크리트 물성",
+      "count": 5,
+      "previous_count": 0,
+      "trend": "new",
       "items": [
         {
           "title": "앤더슨 벨 (Andersson Bell) 의 플래그십 도쿄 스토어는 대조적으로 아름다움을 위한 케이스를 만듭니다.",
@@ -146,7 +172,7 @@
     {
       "keyword": "빛과 조명",
       "count": 5,
-      "previous_count": 6,
+      "previous_count": 4,
       "trend": "steady",
       "items": [
         {
@@ -172,32 +198,6 @@
           "url": "https://minimalissimo.com/articles/ane-lykkes-sculptural-light",
           "image_url": "https://minimalissimo.com/api/media/file/ane-lykkes-sculptural-light-website-centered-1-v20260915-1200x630.jpg",
           "source_name": "Minimalissimo"
-        }
-      ]
-    },
-    {
-      "keyword": "팝업·플래그십",
-      "count": 3,
-      "previous_count": 3,
-      "trend": "steady",
-      "items": [
-        {
-          "title": "앤더슨 벨 (Andersson Bell) 의 플래그십 도쿄 스토어는 대조적으로 아름다움을 위한 케이스를 만듭니다.",
-          "url": "https://www.yatzer.com/adsb-andersson-bell-tokyo",
-          "image_url": "https://media.yatzer.com/27-ADSB-Andersson-Bell-Tokyo-by-I-IN-photo-Tomooki-Kengaku-yatzer-1400x934.jpg",
-          "source_name": "Yatzer"
-        },
-        {
-          "title": "라네즈, 스킨케어를 4층짜리 경험으로 바꾸다",
-          "url": "https://design-milk.com/laneige-seoul-flagship-playlab/",
-          "image_url": "https://design-milk.com/images/2026/09/Laneige-Seoul-Flagship.png",
-          "source_name": "Design Milk"
-        },
-        {
-          "title": "뉴욕의 빅토리아 야쿠샤 공예 조각 주얼리 부티크",
-          "url": "https://www.dezeen.com/2026/09/19/guzema-jewellery-boutique-soho-new-york-victoria-yakusha-studio/",
-          "image_url": "https://static.dezeen.com/uploads/2026/09/guzema-soho-boutique_victoria-yakusha-studio_dezeen_sq1ex-852x852.jpg",
-          "source_name": "Dezeen"
         }
       ]
     }
