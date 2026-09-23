@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-09-23 17:01 KST",
+  "generated_at": "2026-09-23 22:43 KST",
   "period": "2026.09.16 - 2026.09.23",
-  "total_articles": 217,
+  "total_articles": 224,
   "genre_breakdown": [
     {
       "genre": "동시대 미술",
-      "count": 132
+      "count": 136
     },
     {
       "genre": "공간·건축",
-      "count": 66
+      "count": 68
     },
     {
       "genre": "아방가르드 패션",
-      "count": 11
+      "count": 12
     },
     {
       "genre": "미디어 파사드·3D",
@@ -23,10 +23,22 @@
   "themes": [
     {
       "keyword": "박물관·전시",
-      "count": 20,
+      "count": 22,
       "previous_count": 9,
       "trend": "rising",
       "items": [
+        {
+          "title": "500년 동안 타로가 살아남은 방법",
+          "url": "https://hyperallergic.com/how-tarot-survived-for-500-years/",
+          "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/09/alcove.png",
+          "source_name": "Hyperallergic"
+        },
+        {
+          "title": "올 가을 미국 전역에서 볼 수 있는 공공 작품 10선",
+          "url": "https://hyperallergic.com/10-public-artworks-to-see-across-the-us-this-fall/",
+          "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/09/20260918_173149.jpg",
+          "source_name": "Hyperallergic"
+        },
         {
           "title": "카리모쿠는 도쿄 쇼룸을 \"상상의 일본 여관\" 으로 바꿉니다.",
           "url": "https://www.dezeen.com/2026/09/23/karimoku-commons-tokyo-showroom-mas-imaginary-japanese-inn/",
@@ -38,27 +50,21 @@
           "url": "https://www.nowness.com/story/the-last-tastemaker-stephen-bayley",
           "image_url": "https://img.nowness.com/nowness-frontend/uZunvkPdQjqIEgdvwRSt_THE%20LASTE%20TASTEMAKER_MASTER.00_06_45_23.Still023%20(2).jpg",
           "source_name": "NOWNESS"
-        },
-        {
-          "title": "Duo, MoMA 외부에서 시위 중인 Oust Leon Black에게 전화",
-          "url": "https://hyperallergic.com/duo-calls-to-oust-leon-black-in-protest-outside-moma/",
-          "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/09/DSC03014--1-.jpg",
-          "source_name": "Hyperallergic"
-        },
-        {
-          "title": "이 비밀 브루클린 아카이브에는 다양한 디자인 희귀성이 포함되어 있습니다. 특별한 발견 10가지를 소개합니다",
-          "url": "https://www.wallpaper.com/design-interiors/furniture/this-secret-brooklyn-archive-contains-a-trove-of-design-rarities-here-are-10-exceptional-finds",
-          "image_url": "https://cdn.mos.cms.futurecdn.net/WruWsn8LRmsePyrZAtPXEe-1920-80.jpg",
-          "source_name": "Wallpaper*"
         }
       ]
     },
     {
       "keyword": "사진",
-      "count": 7,
+      "count": 8,
       "previous_count": 3,
       "trend": "rising",
       "items": [
+        {
+          "title": "조 하트 (Joe Hart) 는 루차 리브레 (lucha libre) 의 초현실적이고 끔찍한 에너지를 포착하여 용감하게 행동에 가까워집니다.",
+          "url": "https://www.itsnicethat.com/articles/joe-hart-aspirantes-photography-project-230926",
+          "image_url": "https://admin.itsnicethat.com/images/o1rGN6-tn8_dYV0_HbgycHMb_tY=/281914/width-1440/joe-hart-photography-itsnicethat-11.jpg",
+          "source_name": "It's Nice That"
+        },
         {
           "title": "버닝맨 2026의 독특한 건축물",
           "url": "https://www.dezeen.com/2026/09/22/quirky-architecture-burning-man-2026/",
@@ -76,12 +82,6 @@
           "url": "https://hyperallergic.com/photographer-nelson-garrido-who-embraced-an-aesthetics-of-the-ugly-dies-at-73/",
           "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/09/garridoft.jpg",
           "source_name": "Hyperallergic"
-        },
-        {
-          "title": "다시 한 번, 느낌으로",
-          "url": "https://elephant.art/once-more-with-feeling/",
-          "image_url": "https://elephant.art/wp-content/uploads/2026/08/Yale-Class-Photo-scaled.jpg",
-          "source_name": "Elephant"
         }
       ]
     },
