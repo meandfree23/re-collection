@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-09-23 22:43 KST",
-  "period": "2026.09.16 - 2026.09.23",
-  "total_articles": 224,
+  "generated_at": "2026-09-24 02:31 KST",
+  "period": "2026.09.17 - 2026.09.24",
+  "total_articles": 241,
   "genre_breakdown": [
     {
       "genre": "동시대 미술",
-      "count": 136
+      "count": 146
     },
     {
       "genre": "공간·건축",
-      "count": 68
+      "count": 73
     },
     {
       "genre": "아방가르드 패션",
@@ -17,14 +17,14 @@
     },
     {
       "genre": "미디어 파사드·3D",
-      "count": 8
+      "count": 10
     }
   ],
   "themes": [
     {
       "keyword": "박물관·전시",
       "count": 22,
-      "previous_count": 9,
+      "previous_count": 6,
       "trend": "rising",
       "items": [
         {
@@ -55,10 +55,16 @@
     },
     {
       "keyword": "사진",
-      "count": 8,
-      "previous_count": 3,
+      "count": 9,
+      "previous_count": 2,
       "trend": "rising",
       "items": [
+        {
+          "title": "린다 매카트니 (Linda McCartney) 의 뮤직 포토그래피: 특별한 퍼스트 룩",
+          "url": "https://www.wallpaper.com/art/photography/linda-mccartney-the-art-of-the-album-wrensilva-los-angeles-review",
+          "image_url": "https://cdn.mos.cms.futurecdn.net/Yi67m7Kx2NxixoJLGquykh-1920-80.jpg",
+          "source_name": "Wallpaper*"
+        },
         {
           "title": "조 하트 (Joe Hart) 는 루차 리브레 (lucha libre) 의 초현실적이고 끔찍한 에너지를 포착하여 용감하게 행동에 가까워집니다.",
           "url": "https://www.itsnicethat.com/articles/joe-hart-aspirantes-photography-project-230926",
@@ -76,20 +82,104 @@
           "url": "https://www.thisiscolossal.com/2026/09/grandpalaisrmn-200-year-photography-exhibition/",
           "image_url": "https://www.thisiscolossal.com/wp-content/uploads/2026/09/bicentennial-5.jpeg",
           "source_name": "This Is Colossal"
+        }
+      ]
+    },
+    {
+      "keyword": "빛과 조명",
+      "count": 6,
+      "previous_count": 1,
+      "trend": "rising",
+      "items": [
+        {
+          "title": "페데리코 스테파노비치 (Federico Stefanovich) 는 1920년대 멕시코시티 건물의 스튜디오를 개조하여 그의 조명을 선보입니다.",
+          "url": "https://www.dezeen.com/2026/09/23/nama-studio-federico-stefanovich-studio-1920s-mexico-building/",
+          "image_url": "https://static.dezeen.com/uploads/2026/09/stefanovich-studio-nama-mexico-city-lighting_dezeen_2364_sq-852x852.jpg",
+          "source_name": "Dezeen"
         },
         {
-          "title": "'못생긴 자의 미학' 을 받아들인 사진작가 넬슨 가리도가 73세의 나이로 세상을 떠납니다.",
-          "url": "https://hyperallergic.com/photographer-nelson-garrido-who-embraced-an-aesthetics-of-the-ugly-dies-at-73/",
-          "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/09/garridoft.jpg",
-          "source_name": "Hyperallergic"
+          "title": "디자이너가 Jean Royère의 Liane 조명 기구를 충분히 활용하지 못하는 이유",
+          "url": "https://www.architecturaldigest.com/story/jean-royère-liane-light-fixtures",
+          "image_url": "https://media.architecturaldigest.com/photos/6aa9439ce7e4af91ffeb0960/master/pass/AD1026_OBJECT_LESSON_2%20copy.jpg",
+          "source_name": "Architectural Digest"
+        },
+        {
+          "title": "야간 조명부터 피시 테이블까지, 뉴욕 최고의 디자인 위크",
+          "url": "https://www.sightunseen.com/2026/05/the-best-of-new-york-design-week-from-nightlights-to-fish-tables/",
+          "image_url": "https://www.sightunseen.com/wordpress/wp-content/uploads/2026/05/AstraeusDevin_ChelsieStarleyPhotography-728x570.jpg",
+          "source_name": "Sight Unseen"
+        },
+        {
+          "title": "데이비드 폼파의 실리아",
+          "url": "https://minimalissimo.com/articles/cilia-by-david-pompa",
+          "image_url": "https://minimalissimo.com/api/media/file/cilia-by-david-pompa-featured-3x2-v20260915-1200x630.jpg",
+          "source_name": "Minimalissimo"
+        }
+      ]
+    },
+    {
+      "keyword": "팝업·플래그십",
+      "count": 3,
+      "previous_count": 1,
+      "trend": "rising",
+      "items": [
+        {
+          "title": "앤더슨 벨 (Andersson Bell) 의 플래그십 도쿄 스토어는 대조적으로 아름다움을 위한 케이스를 만듭니다.",
+          "url": "https://www.yatzer.com/adsb-andersson-bell-tokyo",
+          "image_url": "https://media.yatzer.com/27-ADSB-Andersson-Bell-Tokyo-by-I-IN-photo-Tomooki-Kengaku-yatzer-1400x934.jpg",
+          "source_name": "Yatzer"
+        },
+        {
+          "title": "라네즈, 스킨케어를 4층짜리 경험으로 바꾸다",
+          "url": "https://design-milk.com/laneige-seoul-flagship-playlab/",
+          "image_url": "https://design-milk.com/images/2026/09/Laneige-Seoul-Flagship.png",
+          "source_name": "Design Milk"
+        },
+        {
+          "title": "뉴욕의 빅토리아 야쿠샤 공예 조각 주얼리 부티크",
+          "url": "https://www.dezeen.com/2026/09/19/guzema-jewellery-boutique-soho-new-york-victoria-yakusha-studio/",
+          "image_url": "https://static.dezeen.com/uploads/2026/09/guzema-soho-boutique_victoria-yakusha-studio_dezeen_sq1ex-852x852.jpg",
+          "source_name": "Dezeen"
+        }
+      ]
+    },
+    {
+      "keyword": "콘크리트 물성",
+      "count": 6,
+      "previous_count": 0,
+      "trend": "new",
+      "items": [
+        {
+          "title": "존 윌슨의 ‘콘크리트의 역사’ 는 평범한 것 외에는 아무 것도 아니다",
+          "url": "https://www.thisiscolossal.com/2026/09/john-wilson-the-history-of-concrete-movie/",
+          "image_url": "https://www.thisiscolossal.com/wp-content/uploads/2026/09/concrete-2.jpeg",
+          "source_name": "This Is Colossal"
+        },
+        {
+          "title": "앤더슨 벨 (Andersson Bell) 의 플래그십 도쿄 스토어는 대조적으로 아름다움을 위한 케이스를 만듭니다.",
+          "url": "https://www.yatzer.com/adsb-andersson-bell-tokyo",
+          "image_url": "https://media.yatzer.com/27-ADSB-Andersson-Bell-Tokyo-by-I-IN-photo-Tomooki-Kengaku-yatzer-1400x934.jpg",
+          "source_name": "Yatzer"
+        },
+        {
+          "title": "말레이시아의 콴탄 옥상에서 한국의 거리 문화를 만나는 주저워크",
+          "url": "https://www.yatzer.com/jibungae-kbbq-kuantan-malaysia-jujurwork",
+          "image_url": "https://media.yatzer.com/10-Jibungae-KBBQ-JUJURWORK-Malaysia-photo-Patrick-Teow-yatzer-1400x1050.jpg",
+          "source_name": "Yatzer"
+        },
+        {
+          "title": "'브루탈리스트 아시아' 는 동양에 대한 콘크리트의 간과된 영향력에 대한 풍부한 그림의 여정입니다.",
+          "url": "https://www.wallpaper.com/architecture/brutalist-asia-book",
+          "image_url": "https://cdn.mos.cms.futurecdn.net/MDEdbotHzGdWjfcfDcm6Ed-1920-80.jpg",
+          "source_name": "Wallpaper*"
         }
       ]
     },
     {
       "keyword": "런웨이·쇼",
       "count": 5,
-      "previous_count": 1,
-      "trend": "rising",
+      "previous_count": 0,
+      "trend": "new",
       "items": [
         {
           "title": "리자 킨 (Liza Keane) 은 런던 패션 위크 (London Fashion Week) 의 어둡고 폭풍우가 몰아",
@@ -116,99 +206,10 @@
           "source_name": "Wallpaper*"
         }
       ]
-    },
-    {
-      "keyword": "콘크리트 물성",
-      "count": 5,
-      "previous_count": 0,
-      "trend": "new",
-      "items": [
-        {
-          "title": "앤더슨 벨 (Andersson Bell) 의 플래그십 도쿄 스토어는 대조적으로 아름다움을 위한 케이스를 만듭니다.",
-          "url": "https://www.yatzer.com/adsb-andersson-bell-tokyo",
-          "image_url": "https://media.yatzer.com/27-ADSB-Andersson-Bell-Tokyo-by-I-IN-photo-Tomooki-Kengaku-yatzer-1400x934.jpg",
-          "source_name": "Yatzer"
-        },
-        {
-          "title": "말레이시아의 콴탄 옥상에서 한국의 거리 문화를 만나는 주저워크",
-          "url": "https://www.yatzer.com/jibungae-kbbq-kuantan-malaysia-jujurwork",
-          "image_url": "https://media.yatzer.com/10-Jibungae-KBBQ-JUJURWORK-Malaysia-photo-Patrick-Teow-yatzer-1400x1050.jpg",
-          "source_name": "Yatzer"
-        },
-        {
-          "title": "'브루탈리스트 아시아' 는 동양에 대한 콘크리트의 간과된 영향력에 대한 풍부한 그림의 여정입니다.",
-          "url": "https://www.wallpaper.com/architecture/brutalist-asia-book",
-          "image_url": "https://cdn.mos.cms.futurecdn.net/MDEdbotHzGdWjfcfDcm6Ed-1920-80.jpg",
-          "source_name": "Wallpaper*"
-        },
-        {
-          "title": "“길을 잃는 것은 이상하게도 도움이 됩니다” – 존 윌슨과 함께 영화를 만드는 방법",
-          "url": "https://www.itsnicethat.com/features/john-wilson-history-of-concrete-film-spotlight-210926",
-          "image_url": "https://admin.itsnicethat.com/images/Mh_o2tmEJ6065nihZWaikK3pswI=/282065/width-1440/John_Wilson_History_of_Concrete_courtesy_of_Magnolia_Pictures_itsnicetha_NuLdgdf.jpg",
-          "source_name": "It's Nice That"
-        }
-      ]
-    },
-    {
-      "keyword": "설치 미술",
-      "count": 3,
-      "previous_count": 0,
-      "trend": "new",
-      "items": [
-        {
-          "title": "안경점이 예술품으로 바뀐 설치는 놀라운 교대 시간에 바이오 트래킹 기술을 풍자합니다.",
-          "url": "https://www.designboom.com/art/opticians-shop-turned-art-installation-satirizes-bio-tracking-tech-at-uncanny-shifts/",
-          "image_url": "https://www.designboom.com/wp-content/uploads/2026/09/uncanny-shifts-designboom-08.jpg",
-          "source_name": "Designboom Art"
-        },
-        {
-          "title": "다시 한 번, 느낌으로",
-          "url": "https://elephant.art/once-more-with-feeling/",
-          "image_url": "https://elephant.art/wp-content/uploads/2026/08/Yale-Class-Photo-scaled.jpg",
-          "source_name": "Elephant"
-        },
-        {
-          "title": "야마다 코헤이: 뉴욕 Gr 갤러리에서 내 스크린 테스트 (설치 이미지로 업데이트됨)",
-          "url": "https://www.juxtapoz.com/news/painting/kohei-yamada-my-screen-tests-gr-gallery-new-york/",
-          "image_url": "https://www.juxtapoz.com/media/k2/items/cache/feb6fd8d21b05a9d2a007a4aa38955a2_L.jpg",
-          "source_name": "Juxtapoz"
-        }
-      ]
-    },
-    {
-      "keyword": "빛과 조명",
-      "count": 5,
-      "previous_count": 4,
-      "trend": "steady",
-      "items": [
-        {
-          "title": "디자이너가 Jean Royère의 Liane 조명 기구를 충분히 활용하지 못하는 이유",
-          "url": "https://www.architecturaldigest.com/story/jean-royère-liane-light-fixtures",
-          "image_url": "https://media.architecturaldigest.com/photos/6aa9439ce7e4af91ffeb0960/master/pass/AD1026_OBJECT_LESSON_2%20copy.jpg",
-          "source_name": "Architectural Digest"
-        },
-        {
-          "title": "야간 조명부터 피시 테이블까지, 뉴욕 최고의 디자인 위크",
-          "url": "https://www.sightunseen.com/2026/05/the-best-of-new-york-design-week-from-nightlights-to-fish-tables/",
-          "image_url": "https://www.sightunseen.com/wordpress/wp-content/uploads/2026/05/AstraeusDevin_ChelsieStarleyPhotography-728x570.jpg",
-          "source_name": "Sight Unseen"
-        },
-        {
-          "title": "데이비드 폼파의 실리아",
-          "url": "https://minimalissimo.com/articles/cilia-by-david-pompa",
-          "image_url": "https://minimalissimo.com/api/media/file/cilia-by-david-pompa-featured-3x2-v20260915-1200x630.jpg",
-          "source_name": "Minimalissimo"
-        },
-        {
-          "title": "Ane Lykke의 조각 빛",
-          "url": "https://minimalissimo.com/articles/ane-lykkes-sculptural-light",
-          "image_url": "https://minimalissimo.com/api/media/file/ane-lykkes-sculptural-light-website-centered-1-v20260915-1200x630.jpg",
-          "source_name": "Minimalissimo"
-        }
-      ]
     }
   ],
   "notable_names": [
+    "John Wilson",
     "London Fashion Week",
     "DeafCity Hub",
     "Taryn Simon"
