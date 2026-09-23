@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-23 08:44 KST",
+  "generated_at": "2026-09-23 10:00 KST",
   "period": "2026.09.16 - 2026.09.23",
-  "total_articles": 193,
+  "total_articles": 202,
   "genre_breakdown": [
     {
       "genre": "동시대 미술",
-      "count": 118
+      "count": 123
     },
     {
       "genre": "공간·건축",
@@ -17,16 +17,22 @@
     },
     {
       "genre": "아방가르드 패션",
-      "count": 3
+      "count": 7
     }
   ],
   "themes": [
     {
       "keyword": "박물관·전시",
-      "count": 18,
+      "count": 19,
       "previous_count": 9,
       "trend": "rising",
       "items": [
+        {
+          "title": "최후의 시식자",
+          "url": "https://www.nowness.com/story/the-last-tastemaker-stephen-bayley",
+          "image_url": "https://img.nowness.com/nowness-frontend/uZunvkPdQjqIEgdvwRSt_THE%20LASTE%20TASTEMAKER_MASTER.00_06_45_23.Still023%20(2).jpg",
+          "source_name": "NOWNESS"
+        },
         {
           "title": "Duo, MoMA 외부에서 시위 중인 Oust Leon Black에게 전화",
           "url": "https://hyperallergic.com/duo-calls-to-oust-leon-black-in-protest-outside-moma/",
@@ -44,12 +50,6 @@
           "url": "https://hyperallergic.com/modernity-and-opulence-women-of-the-wiener-werkstatte-at-the-jewish-museum/",
           "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/09/KI-13744-12_1-Facebook_Instagram---3000px-W--72dpi--jpg.jpg",
           "source_name": "Hyperallergic"
-        },
-        {
-          "title": "소피아 후이테마 \"프로이센 블루\" @ 하퍼스 아파트",
-          "url": "https://www.juxtapoz.com/news/painting/sophia-huitema-prussian-blue-harper-s-apartment/",
-          "image_url": "https://www.juxtapoz.com/media/k2/items/cache/97776c38dce98abea2513551eb017d69_L.jpg",
-          "source_name": "Juxtapoz"
         }
       ]
     },
@@ -87,15 +87,21 @@
     },
     {
       "keyword": "런웨이·쇼",
-      "count": 3,
+      "count": 4,
       "previous_count": 1,
       "trend": "rising",
       "items": [
         {
-          "title": "밀라노 패션 위크에서 프라다는 치마를 입고 연마합니다.",
-          "url": "https://www.wallpaper.com/fashion-beauty/prada-ss-2027-womenswear-show-review-milan-fashion-week",
-          "image_url": "https://cdn.mos.cms.futurecdn.net/j5rzTaFFwrX5sbGmznpaUJ-1920-80.jpg",
-          "source_name": "Wallpaper*"
+          "title": "리자 킨 (Liza Keane) 은 런던 패션 위크 (London Fashion Week) 의 어둡고 폭풍우가 몰아",
+          "url": "https://www.dazeddigital.com/fashion/article/71003/1/liza-keane-ss27-london-fashion-week-lfw-newgen-rising-designer?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=liza-keane-is-london-fashion-week-s-dark-and-stormy-saviour",
+          "image_url": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/5/1455105.jpg",
+          "source_name": "Dazed"
+        },
+        {
+          "title": "주변 스커트: Prada는 바지가 SS27을 위해 나왔다고 말합니다.",
+          "url": "https://www.dazeddigital.com/fashion/article/71026/1/prada-skirt-milan-fashion-week-mfw-ss27-trend-report?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=skirting-around-prada-says-trousers-are-out-for-ss27",
+          "image_url": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/5/1455211.jpg",
+          "source_name": "Dazed"
         },
         {
           "title": "2027년 런던 패션 위크 S/S 최고의 쇼",
@@ -203,6 +209,8 @@
     }
   ],
   "notable_names": [
+    "DeafCity Hub",
+    "London Fashion Week",
     "Taryn Simon"
   ],
   "has_comparison": true
