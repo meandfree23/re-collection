@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-09-24 02:31 KST",
+  "generated_at": "2026-09-24 08:51 KST",
   "period": "2026.09.17 - 2026.09.24",
-  "total_articles": 241,
+  "total_articles": 255,
   "genre_breakdown": [
     {
       "genre": "동시대 미술",
-      "count": 146
+      "count": 151
     },
     {
       "genre": "공간·건축",
-      "count": 73
+      "count": 78
     },
     {
       "genre": "아방가르드 패션",
-      "count": 12
+      "count": 16
     },
     {
       "genre": "미디어 파사드·3D",
@@ -23,10 +23,16 @@
   "themes": [
     {
       "keyword": "박물관·전시",
-      "count": 22,
+      "count": 23,
       "previous_count": 6,
       "trend": "rising",
       "items": [
+        {
+          "title": "예술 작가 여러분! Dazed Club에 가입하여 Renée Levi와 인터뷰할 기회를 잡으세요.",
+          "url": "https://www.dazeddigital.com/art-photography/article/71023/1/art-writers-apply-to-interview-rene-levi-for-dazed-hayward-gallery?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=art-writers-join-dazed-club-for-your-chance-to-interview-renee-levi-for-us",
+          "image_url": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/5/1455453.jpg",
+          "source_name": "Dazed"
+        },
         {
           "title": "500년 동안 타로가 살아남은 방법",
           "url": "https://hyperallergic.com/how-tarot-survived-for-500-years/",
@@ -44,12 +50,6 @@
           "url": "https://www.dezeen.com/2026/09/23/karimoku-commons-tokyo-showroom-mas-imaginary-japanese-inn/",
           "image_url": "https://static.dezeen.com/uploads/2026/09/oyado-mas-karimoku-commons-tokyo_dezeen_2364_col_sq-1-852x852.jpg",
           "source_name": "Dezeen"
-        },
-        {
-          "title": "최후의 시식자",
-          "url": "https://www.nowness.com/story/the-last-tastemaker-stephen-bayley",
-          "image_url": "https://img.nowness.com/nowness-frontend/uZunvkPdQjqIEgdvwRSt_THE%20LASTE%20TASTEMAKER_MASTER.00_06_45_23.Still023%20(2).jpg",
-          "source_name": "NOWNESS"
         }
       ]
     },
@@ -87,10 +87,16 @@
     },
     {
       "keyword": "빛과 조명",
-      "count": 6,
+      "count": 7,
       "previous_count": 1,
       "trend": "rising",
       "items": [
+        {
+          "title": "카를로 나손의 ‘로터스' 램프를 되찾은 구비",
+          "url": "https://www.wallpaper.com/design-interiors/lighting/lotus-lamp-carl-nason-gubi",
+          "image_url": "https://cdn.mos.cms.futurecdn.net/Wh7rQS9AzyRN9FoVo2S3ee-1920-80.png",
+          "source_name": "Wallpaper*"
+        },
         {
           "title": "페데리코 스테파노비치 (Federico Stefanovich) 는 1920년대 멕시코시티 건물의 스튜디오를 개조하여 그의 조명을 선보입니다.",
           "url": "https://www.dezeen.com/2026/09/23/nama-studio-federico-stefanovich-studio-1920s-mexico-building/",
@@ -108,12 +114,6 @@
           "url": "https://www.sightunseen.com/2026/05/the-best-of-new-york-design-week-from-nightlights-to-fish-tables/",
           "image_url": "https://www.sightunseen.com/wordpress/wp-content/uploads/2026/05/AstraeusDevin_ChelsieStarleyPhotography-728x570.jpg",
           "source_name": "Sight Unseen"
-        },
-        {
-          "title": "데이비드 폼파의 실리아",
-          "url": "https://minimalissimo.com/articles/cilia-by-david-pompa",
-          "image_url": "https://minimalissimo.com/api/media/file/cilia-by-david-pompa-featured-3x2-v20260915-1200x630.jpg",
-          "source_name": "Minimalissimo"
         }
       ]
     },
@@ -140,6 +140,38 @@
           "url": "https://www.dezeen.com/2026/09/19/guzema-jewellery-boutique-soho-new-york-victoria-yakusha-studio/",
           "image_url": "https://static.dezeen.com/uploads/2026/09/guzema-soho-boutique_victoria-yakusha-studio_dezeen_sq1ex-852x852.jpg",
           "source_name": "Dezeen"
+        }
+      ]
+    },
+    {
+      "keyword": "런웨이·쇼",
+      "count": 6,
+      "previous_count": 0,
+      "trend": "new",
+      "items": [
+        {
+          "title": "디젤 SS27: 글렌 마틴스의 립 스매킹 런웨이 난교 백스테이지 사진",
+          "url": "https://www.dazeddigital.com/fashion/article/71033/1/diesel-ss27-milan-fashion-week-mfw-glenn-martens-final-show?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=diesel-ss27-backstage-photos-from-glenn-martens-lip-smacking-runway-orgy",
+          "image_url": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/5/1455471.jpg",
+          "source_name": "Dazed"
+        },
+        {
+          "title": "리자 킨 (Liza Keane) 은 런던 패션 위크 (London Fashion Week) 의 어둡고 폭풍우가 몰아",
+          "url": "https://www.dazeddigital.com/fashion/article/71003/1/liza-keane-ss27-london-fashion-week-lfw-newgen-rising-designer?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=liza-keane-is-london-fashion-week-s-dark-and-stormy-saviour",
+          "image_url": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/5/1455105.jpg",
+          "source_name": "Dazed"
+        },
+        {
+          "title": "Central Cee는 Burberry SS27에서 런웨이로 데뷔했습니다.",
+          "url": "https://www.dazeddigital.com/fashion/article/71017/1/burberry-ss27-central-cee-london-fashion-week-lfw-daniel-lee?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=central-cee-made-his-runway-debut-at-burberry-ss27",
+          "image_url": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/5/1455060.jpg",
+          "source_name": "Dazed"
+        },
+        {
+          "title": "주변 스커트: Prada는 바지가 SS27을 위해 나왔다고 말합니다.",
+          "url": "https://www.dazeddigital.com/fashion/article/71026/1/prada-skirt-milan-fashion-week-mfw-ss27-trend-report?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=skirting-around-prada-says-trousers-are-out-for-ss27",
+          "image_url": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/5/1455211.jpg",
+          "source_name": "Dazed"
         }
       ]
     },
@@ -171,38 +203,6 @@
           "title": "'브루탈리스트 아시아' 는 동양에 대한 콘크리트의 간과된 영향력에 대한 풍부한 그림의 여정입니다.",
           "url": "https://www.wallpaper.com/architecture/brutalist-asia-book",
           "image_url": "https://cdn.mos.cms.futurecdn.net/MDEdbotHzGdWjfcfDcm6Ed-1920-80.jpg",
-          "source_name": "Wallpaper*"
-        }
-      ]
-    },
-    {
-      "keyword": "런웨이·쇼",
-      "count": 5,
-      "previous_count": 0,
-      "trend": "new",
-      "items": [
-        {
-          "title": "리자 킨 (Liza Keane) 은 런던 패션 위크 (London Fashion Week) 의 어둡고 폭풍우가 몰아",
-          "url": "https://www.dazeddigital.com/fashion/article/71003/1/liza-keane-ss27-london-fashion-week-lfw-newgen-rising-designer?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=liza-keane-is-london-fashion-week-s-dark-and-stormy-saviour",
-          "image_url": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/5/1455105.jpg",
-          "source_name": "Dazed"
-        },
-        {
-          "title": "Central Cee는 Burberry SS27에서 런웨이로 데뷔했습니다.",
-          "url": "https://www.dazeddigital.com/fashion/article/71017/1/burberry-ss27-central-cee-london-fashion-week-lfw-daniel-lee?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=central-cee-made-his-runway-debut-at-burberry-ss27",
-          "image_url": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/5/1455060.jpg",
-          "source_name": "Dazed"
-        },
-        {
-          "title": "주변 스커트: Prada는 바지가 SS27을 위해 나왔다고 말합니다.",
-          "url": "https://www.dazeddigital.com/fashion/article/71026/1/prada-skirt-milan-fashion-week-mfw-ss27-trend-report?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=skirting-around-prada-says-trousers-are-out-for-ss27",
-          "image_url": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/5/1455211.jpg",
-          "source_name": "Dazed"
-        },
-        {
-          "title": "2027년 런던 패션 위크 S/S 최고의 쇼",
-          "url": "https://www.wallpaper.com/fashion-beauty/the-best-shows-london-fashion-week-ss-2027-review-round-up",
-          "image_url": "https://cdn.mos.cms.futurecdn.net/9Pbp3qwDNthJuL5Yro4ijL-1920-80.jpg",
           "source_name": "Wallpaper*"
         }
       ]
