@@ -1,32 +1,38 @@
 {
-  "generated_at": "2026-09-23 10:00 KST",
+  "generated_at": "2026-09-23 10:57 KST",
   "period": "2026.09.16 - 2026.09.23",
-  "total_articles": 202,
+  "total_articles": 208,
   "genre_breakdown": [
     {
       "genre": "동시대 미술",
-      "count": 123
+      "count": 127
     },
     {
       "genre": "공간·건축",
       "count": 64
     },
     {
-      "genre": "미디어 파사드·3D",
-      "count": 8
+      "genre": "아방가르드 패션",
+      "count": 9
     },
     {
-      "genre": "아방가르드 패션",
-      "count": 7
+      "genre": "미디어 파사드·3D",
+      "count": 8
     }
   ],
   "themes": [
     {
       "keyword": "박물관·전시",
-      "count": 19,
+      "count": 20,
       "previous_count": 9,
       "trend": "rising",
       "items": [
+        {
+          "title": "올 가을 미국 전역에서 볼 수 있는 공공 작품 10선",
+          "url": "https://hyperallergic.com/10-public-artworks-to-see-across-the-us-this-fall/",
+          "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/09/20260918_173149.jpg",
+          "source_name": "Hyperallergic"
+        },
         {
           "title": "최후의 시식자",
           "url": "https://www.nowness.com/story/the-last-tastemaker-stephen-bayley",
@@ -44,12 +50,6 @@
           "url": "https://www.wallpaper.com/design-interiors/furniture/this-secret-brooklyn-archive-contains-a-trove-of-design-rarities-here-are-10-exceptional-finds",
           "image_url": "https://cdn.mos.cms.futurecdn.net/WruWsn8LRmsePyrZAtPXEe-1920-80.jpg",
           "source_name": "Wallpaper*"
-        },
-        {
-          "title": "유대인 박물관의 \"모던함과 호화로움: 비너 베르크슈테트의 여성들\"",
-          "url": "https://hyperallergic.com/modernity-and-opulence-women-of-the-wiener-werkstatte-at-the-jewish-museum/",
-          "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/09/KI-13744-12_1-Facebook_Instagram---3000px-W--72dpi--jpg.jpg",
-          "source_name": "Hyperallergic"
         }
       ]
     },
@@ -87,32 +87,32 @@
     },
     {
       "keyword": "런웨이·쇼",
-      "count": 4,
+      "count": 6,
       "previous_count": 1,
       "trend": "rising",
       "items": [
         {
-          "title": "리자 킨 (Liza Keane) 은 런던 패션 위크 (London Fashion Week) 의 어둡고 폭풍우가 몰아",
-          "url": "https://www.dazeddigital.com/fashion/article/71003/1/liza-keane-ss27-london-fashion-week-lfw-newgen-rising-designer?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=liza-keane-is-london-fashion-week-s-dark-and-stormy-saviour",
-          "image_url": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/5/1455105.jpg",
+          "title": "밀라노 패션 위크에서 프라다는 치마를 입고 연마합니다.",
+          "url": "https://www.wallpaper.com/fashion-beauty/prada-ss-2027-womenswear-show-review-milan-fashion-week",
+          "image_url": "https://cdn.mos.cms.futurecdn.net/j5rzTaFFwrX5sbGmznpaUJ-1920-80.jpg",
+          "source_name": "Wallpaper*"
+        },
+        {
+          "title": "Amiri와 Dazed Media의 런던 패션 위크 기념 사진",
+          "url": "https://www.dazeddigital.com/fashion/article/71012/1/pictures-from-amiri-and-dazed-medias-london-fashion-week-celebration-ss27?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=pictures-from-amiri-and-dazed-medias-london-fashion-week-celebration",
+          "image_url": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/4/1454879.jpg",
+          "source_name": "Dazed"
+        },
+        {
+          "title": "Central Cee는 Burberry SS27에서 런웨이로 데뷔했습니다.",
+          "url": "https://www.dazeddigital.com/fashion/article/71017/1/burberry-ss27-central-cee-london-fashion-week-lfw-daniel-lee?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=central-cee-made-his-runway-debut-at-burberry-ss27",
+          "image_url": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/5/1455060.jpg",
           "source_name": "Dazed"
         },
         {
           "title": "주변 스커트: Prada는 바지가 SS27을 위해 나왔다고 말합니다.",
           "url": "https://www.dazeddigital.com/fashion/article/71026/1/prada-skirt-milan-fashion-week-mfw-ss27-trend-report?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=skirting-around-prada-says-trousers-are-out-for-ss27",
           "image_url": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/5/1455211.jpg",
-          "source_name": "Dazed"
-        },
-        {
-          "title": "2027년 런던 패션 위크 S/S 최고의 쇼",
-          "url": "https://www.wallpaper.com/fashion-beauty/the-best-shows-london-fashion-week-ss-2027-review-round-up",
-          "image_url": "https://cdn.mos.cms.futurecdn.net/9Pbp3qwDNthJuL5Yro4ijL-1920-80.jpg",
-          "source_name": "Wallpaper*"
-        },
-        {
-          "title": "저게 엄마야! 디 펫사가 SS27에게 모성애를 느끼고 있어",
-          "url": "https://www.dazeddigital.com/fashion/article/71016/1/di-petsa-is-feeling-maternal-for-ss27-london-fashion-week-lfw?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=that-s-mother-di-petsa-is-feeling-maternal-for-ss27",
-          "image_url": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/4/1454965.jpg",
           "source_name": "Dazed"
         }
       ]
@@ -209,8 +209,8 @@
     }
   ],
   "notable_names": [
-    "DeafCity Hub",
     "London Fashion Week",
+    "DeafCity Hub",
     "Taryn Simon"
   ],
   "has_comparison": true
