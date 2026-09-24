@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-24 09:58 KST",
+  "generated_at": "2026-09-24 10:48 KST",
   "period": "2026.09.17 - 2026.09.24",
-  "total_articles": 263,
+  "total_articles": 267,
   "genre_breakdown": [
     {
       "genre": "동시대 미술",
@@ -9,15 +9,15 @@
     },
     {
       "genre": "공간·건축",
-      "count": 79
+      "count": 81
     },
     {
       "genre": "아방가르드 패션",
-      "count": 21
+      "count": 22
     },
     {
       "genre": "미디어 파사드·3D",
-      "count": 10
+      "count": 11
     }
   ],
   "themes": [
@@ -55,10 +55,16 @@
     },
     {
       "keyword": "사진",
-      "count": 9,
+      "count": 10,
       "previous_count": 2,
       "trend": "rising",
       "items": [
+        {
+          "title": "블랙 로데오의 화려한 세계를 담은 사진",
+          "url": "https://www.dazeddigital.com/art-photography/article/71022/1/ivan-mcclellan-photography-black-rodeo-eight-seconds-legacy-motion?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=photos-that-capture-the-glamorous-world-of-black-rodeo",
+          "image_url": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/4/1454069.jpg",
+          "source_name": "Dazed"
+        },
         {
           "title": "린다 매카트니 (Linda McCartney) 의 뮤직 포토그래피: 특별한 퍼스트 룩",
           "url": "https://www.wallpaper.com/art/photography/linda-mccartney-the-art-of-the-album-wrensilva-los-angeles-review",
@@ -76,12 +82,6 @@
           "url": "https://www.dezeen.com/2026/09/22/quirky-architecture-burning-man-2026/",
           "image_url": "https://static.dezeen.com/uploads/2026/09/burning-man-2026-gurpreet-chawla_dezeen_2364_sq-852x852.jpg",
           "source_name": "Dezeen"
-        },
-        {
-          "title": "프랑스, 여행 테마 전시회로 사진 200주년 기념",
-          "url": "https://www.thisiscolossal.com/2026/09/grandpalaisrmn-200-year-photography-exhibition/",
-          "image_url": "https://www.thisiscolossal.com/wp-content/uploads/2026/09/bicentennial-5.jpeg",
-          "source_name": "This Is Colossal"
         }
       ]
     },
