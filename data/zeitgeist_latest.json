@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-09-24 22:39 KST",
-  "period": "2026.09.17 - 2026.09.24",
-  "total_articles": 288,
+  "generated_at": "2026-09-25 02:35 KST",
+  "period": "2026.09.18 - 2026.09.25",
+  "total_articles": 302,
   "genre_breakdown": [
     {
       "genre": "동시대 미술",
-      "count": 165
+      "count": 173
     },
     {
       "genre": "공간·건축",
-      "count": 90
+      "count": 95
     },
     {
       "genre": "아방가르드 패션",
-      "count": 22
+      "count": 23
     },
     {
       "genre": "미디어 파사드·3D",
@@ -24,7 +24,7 @@
     {
       "keyword": "박물관·전시",
       "count": 27,
-      "previous_count": 6,
+      "previous_count": 5,
       "trend": "rising",
       "items": [
         {
@@ -86,10 +86,74 @@
       ]
     },
     {
+      "keyword": "콘크리트 물성",
+      "count": 8,
+      "previous_count": 0,
+      "trend": "new",
+      "items": [
+        {
+          "title": "Herzog & de Meuron은 Mass-timber Massachusetts 학교 건물의 기초를 재사용합니다.",
+          "url": "https://www.dezeen.com/2026/09/24/herzog-de-meuron-mass-timber-massachusetts-school-amherst/",
+          "image_url": "https://static.dezeen.com/uploads/2026/09/herzog-de-meuron-amherst-student-center_dezeen_2364_sq-852x852.jpg",
+          "source_name": "Dezeen"
+        },
+        {
+          "title": "르네 레비는 헤이워드 갤러리의 잔혹한 외관에 형광색 그림을 그립니다.",
+          "url": "https://www.designboom.com/art/renee-levi-transforms-hayward-gallery-facade-in-audemars-piguet-contemporary-commission/",
+          "image_url": "https://www.designboom.com/wp-content/uploads/2026/09/renee-levi-transforms-hayward-gallery-facade-in-audemars-piguet-contemporary-commission-designboom-100.jpeg",
+          "source_name": "Designboom Art"
+        },
+        {
+          "title": "존 윌슨의 ‘콘크리트의 역사’ 는 평범한 것 외에는 아무 것도 아니다",
+          "url": "https://www.thisiscolossal.com/2026/09/john-wilson-the-history-of-concrete-movie/",
+          "image_url": "https://www.thisiscolossal.com/wp-content/uploads/2026/09/concrete-2.jpeg",
+          "source_name": "This Is Colossal"
+        },
+        {
+          "title": "앤더슨 벨 (Andersson Bell) 의 플래그십 도쿄 스토어는 대조적으로 아름다움을 위한 케이스를 만듭니다.",
+          "url": "https://www.yatzer.com/adsb-andersson-bell-tokyo",
+          "image_url": "https://media.yatzer.com/27-ADSB-Andersson-Bell-Tokyo-by-I-IN-photo-Tomooki-Kengaku-yatzer-1400x934.jpg",
+          "source_name": "Yatzer"
+        }
+      ]
+    },
+    {
+      "keyword": "런웨이·쇼",
+      "count": 7,
+      "previous_count": 0,
+      "trend": "new",
+      "items": [
+        {
+          "title": "Dazed가 YMC와 함께 티셔츠를 출시했을 때 일어난 일입니다.",
+          "url": "https://www.dazeddigital.com/fashion/article/71035/1/here-s-what-happened-when-dazed-launched-a-t-shirt-with-ymc?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=here-s-what-happened-when-dazed-launched-a-t-shirt-with-ymc",
+          "image_url": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/5/1455557.jpg",
+          "source_name": "Dazed"
+        },
+        {
+          "title": "디젤 SS27: 글렌 마틴스의 립 스매킹 런웨이 난교 백스테이지 사진",
+          "url": "https://www.dazeddigital.com/fashion/article/71033/1/diesel-ss27-milan-fashion-week-mfw-glenn-martens-final-show?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=diesel-ss27-backstage-photos-from-glenn-martens-lip-smacking-runway-orgy",
+          "image_url": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/5/1455471.jpg",
+          "source_name": "Dazed"
+        },
+        {
+          "title": "리자 킨 (Liza Keane) 은 런던 패션 위크 (London Fashion Week) 의 어둡고 폭풍우가 몰아",
+          "url": "https://www.dazeddigital.com/fashion/article/71003/1/liza-keane-ss27-london-fashion-week-lfw-newgen-rising-designer?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=liza-keane-is-london-fashion-week-s-dark-and-stormy-saviour",
+          "image_url": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/5/1455105.jpg",
+          "source_name": "Dazed"
+        },
+        {
+          "title": "Central Cee는 Burberry SS27에서 런웨이로 데뷔했습니다.",
+          "url": "https://www.dazeddigital.com/fashion/article/71017/1/burberry-ss27-central-cee-london-fashion-week-lfw-daniel-lee?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=central-cee-made-his-runway-debut-at-burberry-ss27",
+          "image_url": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/5/1455060.jpg",
+          "source_name": "Dazed"
+        }
+      ]
+    },
+    {
       "keyword": "빛과 조명",
       "count": 7,
-      "previous_count": 1,
-      "trend": "rising",
+      "previous_count": 0,
+      "trend": "new",
       "items": [
         {
           "title": "카를로 나손의 ‘로터스' 램프를 되찾은 구비",
@@ -118,92 +182,34 @@
       ]
     },
     {
-      "keyword": "팝업·플래그십",
-      "count": 3,
-      "previous_count": 1,
-      "trend": "rising",
-      "items": [
-        {
-          "title": "앤더슨 벨 (Andersson Bell) 의 플래그십 도쿄 스토어는 대조적으로 아름다움을 위한 케이스를 만듭니다.",
-          "url": "https://www.yatzer.com/adsb-andersson-bell-tokyo",
-          "image_url": "https://media.yatzer.com/27-ADSB-Andersson-Bell-Tokyo-by-I-IN-photo-Tomooki-Kengaku-yatzer-1400x934.jpg",
-          "source_name": "Yatzer"
-        },
-        {
-          "title": "라네즈, 스킨케어를 4층짜리 경험으로 바꾸다",
-          "url": "https://design-milk.com/laneige-seoul-flagship-playlab/",
-          "image_url": "https://design-milk.com/images/2026/09/Laneige-Seoul-Flagship.png",
-          "source_name": "Design Milk"
-        },
-        {
-          "title": "뉴욕의 빅토리아 야쿠샤 공예 조각 주얼리 부티크",
-          "url": "https://www.dezeen.com/2026/09/19/guzema-jewellery-boutique-soho-new-york-victoria-yakusha-studio/",
-          "image_url": "https://static.dezeen.com/uploads/2026/09/guzema-soho-boutique_victoria-yakusha-studio_dezeen_sq1ex-852x852.jpg",
-          "source_name": "Dezeen"
-        }
-      ]
-    },
-    {
-      "keyword": "콘크리트 물성",
-      "count": 7,
+      "keyword": "설치 미술",
+      "count": 4,
       "previous_count": 0,
       "trend": "new",
       "items": [
         {
-          "title": "르네 레비는 헤이워드 갤러리의 잔혹한 외관에 형광색 그림을 그립니다.",
-          "url": "https://www.designboom.com/art/renee-levi-transforms-hayward-gallery-facade-in-audemars-piguet-contemporary-commission/",
-          "image_url": "https://www.designboom.com/wp-content/uploads/2026/09/renee-levi-transforms-hayward-gallery-facade-in-audemars-piguet-contemporary-commission-designboom-100.jpeg",
+          "title": "버려진 도로 표지판은 정어리 해안에 있는 기념비적인 토지 예술 시설로 변신합니다.",
+          "url": "https://www.designboom.com/art/discarded-road-signs-monumental-land-art-installation-sardinian-shore-urban-pixel-chapter-i-last-wave-scoobafish-maurizio-sergiusti/",
+          "image_url": "https://www.designboom.com/wp-content/dbsub/468226/2026-09-22/the-last-wave-transforms-discarded-road-signs-into-monumental-land-art-in-sardinia-1-6ab2d4aa1ad8c.jpg",
           "source_name": "Designboom Art"
         },
         {
-          "title": "존 윌슨의 ‘콘크리트의 역사’ 는 평범한 것 외에는 아무 것도 아니다",
-          "url": "https://www.thisiscolossal.com/2026/09/john-wilson-the-history-of-concrete-movie/",
-          "image_url": "https://www.thisiscolossal.com/wp-content/uploads/2026/09/concrete-2.jpeg",
-          "source_name": "This Is Colossal"
+          "title": "안경점이 예술품으로 바뀐 설치는 놀라운 교대 시간에 바이오 트래킹 기술을 풍자합니다.",
+          "url": "https://www.designboom.com/art/opticians-shop-turned-art-installation-satirizes-bio-tracking-tech-at-uncanny-shifts/",
+          "image_url": "https://www.designboom.com/wp-content/uploads/2026/09/uncanny-shifts-designboom-08.jpg",
+          "source_name": "Designboom Art"
         },
         {
-          "title": "앤더슨 벨 (Andersson Bell) 의 플래그십 도쿄 스토어는 대조적으로 아름다움을 위한 케이스를 만듭니다.",
-          "url": "https://www.yatzer.com/adsb-andersson-bell-tokyo",
-          "image_url": "https://media.yatzer.com/27-ADSB-Andersson-Bell-Tokyo-by-I-IN-photo-Tomooki-Kengaku-yatzer-1400x934.jpg",
-          "source_name": "Yatzer"
+          "title": "다시 한 번, 느낌으로",
+          "url": "https://elephant.art/once-more-with-feeling/",
+          "image_url": "https://elephant.art/wp-content/uploads/2026/08/Yale-Class-Photo-scaled.jpg",
+          "source_name": "Elephant"
         },
         {
-          "title": "말레이시아의 콴탄 옥상에서 한국의 거리 문화를 만나는 주저워크",
-          "url": "https://www.yatzer.com/jibungae-kbbq-kuantan-malaysia-jujurwork",
-          "image_url": "https://media.yatzer.com/10-Jibungae-KBBQ-JUJURWORK-Malaysia-photo-Patrick-Teow-yatzer-1400x1050.jpg",
-          "source_name": "Yatzer"
-        }
-      ]
-    },
-    {
-      "keyword": "런웨이·쇼",
-      "count": 6,
-      "previous_count": 0,
-      "trend": "new",
-      "items": [
-        {
-          "title": "디젤 SS27: 글렌 마틴스의 립 스매킹 런웨이 난교 백스테이지 사진",
-          "url": "https://www.dazeddigital.com/fashion/article/71033/1/diesel-ss27-milan-fashion-week-mfw-glenn-martens-final-show?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=diesel-ss27-backstage-photos-from-glenn-martens-lip-smacking-runway-orgy",
-          "image_url": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/5/1455471.jpg",
-          "source_name": "Dazed"
-        },
-        {
-          "title": "리자 킨 (Liza Keane) 은 런던 패션 위크 (London Fashion Week) 의 어둡고 폭풍우가 몰아",
-          "url": "https://www.dazeddigital.com/fashion/article/71003/1/liza-keane-ss27-london-fashion-week-lfw-newgen-rising-designer?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=liza-keane-is-london-fashion-week-s-dark-and-stormy-saviour",
-          "image_url": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/5/1455105.jpg",
-          "source_name": "Dazed"
-        },
-        {
-          "title": "Central Cee는 Burberry SS27에서 런웨이로 데뷔했습니다.",
-          "url": "https://www.dazeddigital.com/fashion/article/71017/1/burberry-ss27-central-cee-london-fashion-week-lfw-daniel-lee?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=central-cee-made-his-runway-debut-at-burberry-ss27",
-          "image_url": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/5/1455060.jpg",
-          "source_name": "Dazed"
-        },
-        {
-          "title": "주변 스커트: Prada는 바지가 SS27을 위해 나왔다고 말합니다.",
-          "url": "https://www.dazeddigital.com/fashion/article/71026/1/prada-skirt-milan-fashion-week-mfw-ss27-trend-report?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=skirting-around-prada-says-trousers-are-out-for-ss27",
-          "image_url": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/5/1455211.jpg",
-          "source_name": "Dazed"
+          "title": "야마다 코헤이: 뉴욕 Gr 갤러리에서 내 스크린 테스트 (설치 이미지로 업데이트됨)",
+          "url": "https://www.juxtapoz.com/news/painting/kohei-yamada-my-screen-tests-gr-gallery-new-york/",
+          "image_url": "https://www.juxtapoz.com/media/k2/items/cache/feb6fd8d21b05a9d2a007a4aa38955a2_L.jpg",
+          "source_name": "Juxtapoz"
         }
       ]
     }
