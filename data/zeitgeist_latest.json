@@ -1,32 +1,38 @@
 {
-  "generated_at": "2026-09-25 22:50 KST",
-  "period": "2026.09.18 - 2026.09.25",
-  "total_articles": 340,
+  "generated_at": "2026-09-26 02:37 KST",
+  "period": "2026.09.19 - 2026.09.26",
+  "total_articles": 351,
   "genre_breakdown": [
     {
       "genre": "동시대 미술",
-      "count": 190
+      "count": 194
     },
     {
       "genre": "공간·건축",
-      "count": 106
+      "count": 110
     },
     {
       "genre": "아방가르드 패션",
-      "count": 30
+      "count": 32
     },
     {
       "genre": "미디어 파사드·3D",
-      "count": 14
+      "count": 15
     }
   ],
   "themes": [
     {
       "keyword": "박물관·전시",
-      "count": 28,
-      "previous_count": 5,
+      "count": 29,
+      "previous_count": 1,
       "trend": "rising",
       "items": [
+        {
+          "title": "델라웨어 미술관에서 빛 너머로 리사 브래들리 만나기",
+          "url": "https://hyperallergic.com/lisa-bradley-moves-beyond-luminosity-at-the-delaware-art-museum/",
+          "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/09/Lisa-Bradley-Hyperallergic-ad-1.jpg",
+          "source_name": "Hyperallergic"
+        },
         {
           "title": "독립적인 20세기, 아트페어의 Mise en Abyme",
           "url": "https://hyperallergic.com/independent-20th-century-the-mise-en-abyme-of-art-fairs/",
@@ -44,20 +50,14 @@
           "url": "https://www.archdaily.com/1185683/fondation-beyeler-expands-with-three-new-buildings-by-peter-zumthor",
           "image_url": "https://images.adsttc.com/media/images/6ab4/eb83/e78f/b301/883c/f4e4/large_jpg/fondation-beyeler-expands-with-three-new-buildings-by-peter-zumthor_1.jpg?1790241695",
           "source_name": "ArchDaily"
-        },
-        {
-          "title": "르네 레비는 헤이워드 갤러리의 잔혹한 외관에 형광색 그림을 그립니다.",
-          "url": "https://www.designboom.com/art/renee-levi-transforms-hayward-gallery-facade-in-audemars-piguet-contemporary-commission/",
-          "image_url": "https://www.designboom.com/wp-content/uploads/2026/09/renee-levi-transforms-hayward-gallery-facade-in-audemars-piguet-contemporary-commission-designboom-100.jpeg",
-          "source_name": "Designboom Art"
         }
       ]
     },
     {
       "keyword": "사진",
       "count": 11,
-      "previous_count": 2,
-      "trend": "rising",
+      "previous_count": 0,
+      "trend": "new",
       "items": [
         {
           "title": "이미지로 가득 찬 세상에서 사진이 무엇을 말할 수 있습니까?",
@@ -86,28 +86,34 @@
       ]
     },
     {
-      "keyword": "가구 디자인",
-      "count": 3,
-      "previous_count": 1,
-      "trend": "rising",
+      "keyword": "빛과 조명",
+      "count": 9,
+      "previous_count": 0,
+      "trend": "new",
       "items": [
         {
-          "title": "오프컷 소재로 제작된 런던 디자인 페스티벌의 정통한 작품 7선",
-          "url": "https://www.dezeen.com/2026/09/24/furniture-products-london-design-festival-material-offcuts/",
-          "image_url": "https://static.dezeen.com/uploads/2026/09/dagwood-bench-1-852x852.jpg",
-          "source_name": "Dezeen"
+          "title": "새로운 MTG 트레일러의 유닛 모션 디자인 파단 현실",
+          "url": "https://www.stashmedia.tv/unit-motion-design-fractures-reality-in-new-mtg-trailer/",
+          "image_url": "http://www.stashmedia.tv/wp-content/uploads/Magic-The-Gathering-Fractured-Reality-trailer-by-Unit-Motion-Design-STASH-MAGAZINE5-1920x1080.jpg",
+          "source_name": "Stash Media"
         },
         {
-          "title": "카리모쿠는 도쿄 쇼룸을 \"상상의 일본 여관\" 으로 바꿉니다.",
-          "url": "https://www.dezeen.com/2026/09/23/karimoku-commons-tokyo-showroom-mas-imaginary-japanese-inn/",
-          "image_url": "https://static.dezeen.com/uploads/2026/09/oyado-mas-karimoku-commons-tokyo_dezeen_2364_col_sq-1-852x852.jpg",
-          "source_name": "Dezeen"
+          "title": "전태영 마리아의 디지털 일러스트레이션에서 탄생한 환상적인 식물들",
+          "url": "https://www.thisiscolossal.com/2026/09/taehyoung-maria-jeon-folium-botanical-illustration-book/",
+          "image_url": "https://www.thisiscolossal.com/wp-content/uploads/2026/09/Plant-196.jpeg",
+          "source_name": "This Is Colossal"
         },
         {
-          "title": "AIM2 가구 시스템",
-          "url": "https://minimalissimo.com/articles/aim2-furniture-system",
-          "image_url": "https://minimalissimo.com/api/media/file/aim2-furniture-system-featured-v20260920-1200x630.jpg",
-          "source_name": "Minimalissimo"
+          "title": "카를로 나손의 ‘로터스' 램프를 되찾은 구비",
+          "url": "https://www.wallpaper.com/design-interiors/lighting/lotus-lamp-carl-nason-gubi",
+          "image_url": "https://cdn.mos.cms.futurecdn.net/Wh7rQS9AzyRN9FoVo2S3ee-1920-80.png",
+          "source_name": "Wallpaper*"
+        },
+        {
+          "title": "페데리코 스테파노비치 (Federico Stefanovich) 는 1920년대 멕시코시티 건물의 스튜디오를 개조하여 그의 조명을 선보입니다.",
+          "url": "https://www.dezeen.com/2026/09/23/nama-studio-federico-stefanovich-studio-1920s-mexico-building/",
+          "image_url": "https://static.dezeen.com/uploads/2026/09/stefanovich-studio-nama-mexico-city-lighting_dezeen_2364_sq-852x852.jpg",
+          "source_name": "Dezeen"
         }
       ]
     },
@@ -144,38 +150,6 @@
       ]
     },
     {
-      "keyword": "빛과 조명",
-      "count": 8,
-      "previous_count": 0,
-      "trend": "new",
-      "items": [
-        {
-          "title": "전태영 마리아의 디지털 일러스트레이션에서 탄생한 환상적인 식물들",
-          "url": "https://www.thisiscolossal.com/2026/09/taehyoung-maria-jeon-folium-botanical-illustration-book/",
-          "image_url": "https://www.thisiscolossal.com/wp-content/uploads/2026/09/Plant-196.jpeg",
-          "source_name": "This Is Colossal"
-        },
-        {
-          "title": "카를로 나손의 ‘로터스' 램프를 되찾은 구비",
-          "url": "https://www.wallpaper.com/design-interiors/lighting/lotus-lamp-carl-nason-gubi",
-          "image_url": "https://cdn.mos.cms.futurecdn.net/Wh7rQS9AzyRN9FoVo2S3ee-1920-80.png",
-          "source_name": "Wallpaper*"
-        },
-        {
-          "title": "페데리코 스테파노비치 (Federico Stefanovich) 는 1920년대 멕시코시티 건물의 스튜디오를 개조하여 그의 조명을 선보입니다.",
-          "url": "https://www.dezeen.com/2026/09/23/nama-studio-federico-stefanovich-studio-1920s-mexico-building/",
-          "image_url": "https://static.dezeen.com/uploads/2026/09/stefanovich-studio-nama-mexico-city-lighting_dezeen_2364_sq-852x852.jpg",
-          "source_name": "Dezeen"
-        },
-        {
-          "title": "디자이너가 Jean Royère의 Liane 조명 기구를 충분히 활용하지 못하는 이유",
-          "url": "https://www.architecturaldigest.com/story/jean-royère-liane-light-fixtures",
-          "image_url": "https://media.architecturaldigest.com/photos/6aa9439ce7e4af91ffeb0960/master/pass/AD1026_OBJECT_LESSON_2%20copy.jpg",
-          "source_name": "Architectural Digest"
-        }
-      ]
-    },
-    {
       "keyword": "런웨이·쇼",
       "count": 7,
       "previous_count": 0,
@@ -204,6 +178,38 @@
           "url": "https://www.dazeddigital.com/fashion/article/71017/1/burberry-ss27-central-cee-london-fashion-week-lfw-daniel-lee?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=central-cee-made-his-runway-debut-at-burberry-ss27",
           "image_url": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/5/1455060.jpg",
           "source_name": "Dazed"
+        }
+      ]
+    },
+    {
+      "keyword": "설치 미술",
+      "count": 5,
+      "previous_count": 0,
+      "trend": "new",
+      "items": [
+        {
+          "title": "Lexus와 MSCHF의 설치는 자동차 예술에 생소한 트위스트를 추가합니다",
+          "url": "https://www.wallpaper.com/transportation/an-installation-from-lexus-and-mschf-adds-an-unfamiliar-twist-to-automotive-art",
+          "image_url": "https://cdn.mos.cms.futurecdn.net/ABQnc34sNDWiEhzc7XUAbZ-1920-80.jpg",
+          "source_name": "Wallpaper*"
+        },
+        {
+          "title": "버려진 도로 표지판은 정어리 해안에 있는 기념비적인 토지 예술 시설로 변신합니다.",
+          "url": "https://www.designboom.com/art/discarded-road-signs-monumental-land-art-installation-sardinian-shore-urban-pixel-chapter-i-last-wave-scoobafish-maurizio-sergiusti/",
+          "image_url": "https://www.designboom.com/wp-content/dbsub/468226/2026-09-22/the-last-wave-transforms-discarded-road-signs-into-monumental-land-art-in-sardinia-1-6ab2d4aa1ad8c.jpg",
+          "source_name": "Designboom Art"
+        },
+        {
+          "title": "안경점이 예술품으로 바뀐 설치는 놀라운 교대 시간에 바이오 트래킹 기술을 풍자합니다.",
+          "url": "https://www.designboom.com/art/opticians-shop-turned-art-installation-satirizes-bio-tracking-tech-at-uncanny-shifts/",
+          "image_url": "https://www.designboom.com/wp-content/uploads/2026/09/uncanny-shifts-designboom-08.jpg",
+          "source_name": "Designboom Art"
+        },
+        {
+          "title": "다시 한 번, 느낌으로",
+          "url": "https://elephant.art/once-more-with-feeling/",
+          "image_url": "https://elephant.art/wp-content/uploads/2026/08/Yale-Class-Photo-scaled.jpg",
+          "source_name": "Elephant"
         }
       ]
     }
