@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-09-25 11:04 KST",
+  "generated_at": "2026-09-25 17:11 KST",
   "period": "2026.09.18 - 2026.09.25",
-  "total_articles": 321,
+  "total_articles": 324,
   "genre_breakdown": [
     {
       "genre": "동시대 미술",
-      "count": 180
+      "count": 182
     },
     {
       "genre": "공간·건축",
-      "count": 99
+      "count": 100
     },
     {
       "genre": "아방가르드 패션",
@@ -82,6 +82,32 @@
           "url": "https://www.itsnicethat.com/articles/joe-hart-aspirantes-photography-project-230926",
           "image_url": "https://admin.itsnicethat.com/images/o1rGN6-tn8_dYV0_HbgycHMb_tY=/281914/width-1440/joe-hart-photography-itsnicethat-11.jpg",
           "source_name": "It's Nice That"
+        }
+      ]
+    },
+    {
+      "keyword": "가구 디자인",
+      "count": 3,
+      "previous_count": 1,
+      "trend": "rising",
+      "items": [
+        {
+          "title": "오프컷 소재로 제작된 런던 디자인 페스티벌의 정통한 작품 7선",
+          "url": "https://www.dezeen.com/2026/09/24/furniture-products-london-design-festival-material-offcuts/",
+          "image_url": "https://static.dezeen.com/uploads/2026/09/dagwood-bench-1-852x852.jpg",
+          "source_name": "Dezeen"
+        },
+        {
+          "title": "카리모쿠는 도쿄 쇼룸을 \"상상의 일본 여관\" 으로 바꿉니다.",
+          "url": "https://www.dezeen.com/2026/09/23/karimoku-commons-tokyo-showroom-mas-imaginary-japanese-inn/",
+          "image_url": "https://static.dezeen.com/uploads/2026/09/oyado-mas-karimoku-commons-tokyo_dezeen_2364_col_sq-1-852x852.jpg",
+          "source_name": "Dezeen"
+        },
+        {
+          "title": "AIM2 가구 시스템",
+          "url": "https://minimalissimo.com/articles/aim2-furniture-system",
+          "image_url": "https://minimalissimo.com/api/media/file/aim2-furniture-system-featured-v20260920-1200x630.jpg",
+          "source_name": "Minimalissimo"
         }
       ]
     },
@@ -178,38 +204,6 @@
           "url": "https://www.dazeddigital.com/fashion/article/71017/1/burberry-ss27-central-cee-london-fashion-week-lfw-daniel-lee?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=central-cee-made-his-runway-debut-at-burberry-ss27",
           "image_url": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/5/1455060.jpg",
           "source_name": "Dazed"
-        }
-      ]
-    },
-    {
-      "keyword": "설치 미술",
-      "count": 4,
-      "previous_count": 0,
-      "trend": "new",
-      "items": [
-        {
-          "title": "버려진 도로 표지판은 정어리 해안에 있는 기념비적인 토지 예술 시설로 변신합니다.",
-          "url": "https://www.designboom.com/art/discarded-road-signs-monumental-land-art-installation-sardinian-shore-urban-pixel-chapter-i-last-wave-scoobafish-maurizio-sergiusti/",
-          "image_url": "https://www.designboom.com/wp-content/dbsub/468226/2026-09-22/the-last-wave-transforms-discarded-road-signs-into-monumental-land-art-in-sardinia-1-6ab2d4aa1ad8c.jpg",
-          "source_name": "Designboom Art"
-        },
-        {
-          "title": "안경점이 예술품으로 바뀐 설치는 놀라운 교대 시간에 바이오 트래킹 기술을 풍자합니다.",
-          "url": "https://www.designboom.com/art/opticians-shop-turned-art-installation-satirizes-bio-tracking-tech-at-uncanny-shifts/",
-          "image_url": "https://www.designboom.com/wp-content/uploads/2026/09/uncanny-shifts-designboom-08.jpg",
-          "source_name": "Designboom Art"
-        },
-        {
-          "title": "다시 한 번, 느낌으로",
-          "url": "https://elephant.art/once-more-with-feeling/",
-          "image_url": "https://elephant.art/wp-content/uploads/2026/08/Yale-Class-Photo-scaled.jpg",
-          "source_name": "Elephant"
-        },
-        {
-          "title": "야마다 코헤이: 뉴욕 Gr 갤러리에서 내 스크린 테스트 (설치 이미지로 업데이트됨)",
-          "url": "https://www.juxtapoz.com/news/painting/kohei-yamada-my-screen-tests-gr-gallery-new-york/",
-          "image_url": "https://www.juxtapoz.com/media/k2/items/cache/feb6fd8d21b05a9d2a007a4aa38955a2_L.jpg",
-          "source_name": "Juxtapoz"
         }
       ]
     }
