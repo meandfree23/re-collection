@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-09-25 02:35 KST",
+  "generated_at": "2026-09-25 09:02 KST",
   "period": "2026.09.18 - 2026.09.25",
-  "total_articles": 302,
+  "total_articles": 314,
   "genre_breakdown": [
     {
       "genre": "동시대 미술",
-      "count": 173
+      "count": 180
     },
     {
       "genre": "공간·건축",
-      "count": 95
+      "count": 98
     },
     {
       "genre": "아방가르드 패션",
-      "count": 23
+      "count": 25
     },
     {
       "genre": "미디어 파사드·3D",
@@ -23,10 +23,16 @@
   "themes": [
     {
       "keyword": "박물관·전시",
-      "count": 27,
+      "count": 28,
       "previous_count": 5,
       "trend": "rising",
       "items": [
+        {
+          "title": "독립적인 20세기, 아트페어의 Mise en Abyme",
+          "url": "https://hyperallergic.com/independent-20th-century-the-mise-en-abyme-of-art-fairs/",
+          "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/09/ind6-1.jpg",
+          "source_name": "Hyperallergic"
+        },
         {
           "title": "피터 줌터 (Peter Zumthor), 스위스 박물관을 위한 \"놀랍도록 표현력이 뛰어난\" 3채의 건물 공개",
           "url": "https://www.dezeen.com/2026/09/24/fondation-beyeler-peter-zumthor-switzerland/",
@@ -44,12 +50,6 @@
           "url": "https://www.designboom.com/art/renee-levi-transforms-hayward-gallery-facade-in-audemars-piguet-contemporary-commission/",
           "image_url": "https://www.designboom.com/wp-content/uploads/2026/09/renee-levi-transforms-hayward-gallery-facade-in-audemars-piguet-contemporary-commission-designboom-100.jpeg",
           "source_name": "Designboom Art"
-        },
-        {
-          "title": "밀라노의 프라다 갤러리아 (Prada Galleria) 는 8층에 걸쳐 과거와 현재를 직조합니다.",
-          "url": "https://www.wallpaper.com/fashion-beauty/prada-galleria-opens-in-milan",
-          "image_url": "https://cdn.mos.cms.futurecdn.net/XKecMtw7CxV6HguBtHhq4m-1920-80.jpg",
-          "source_name": "Wallpaper*"
         }
       ]
     },
@@ -87,10 +87,16 @@
     },
     {
       "keyword": "콘크리트 물성",
-      "count": 8,
+      "count": 9,
       "previous_count": 0,
       "trend": "new",
       "items": [
+        {
+          "title": "에스튜디오 제로는 음파 후 분홍색 멕시코 공동 생활 단지를 형성합니다",
+          "url": "https://www.dezeen.com/2026/09/24/estudio-zero-amplitude-pink-coliving-oaxaca/",
+          "image_url": "https://static.dezeen.com/uploads/2026/08/amplitude-coliving-estudio-zero-oaxaca-pink-coliving_dezeen_2364_sq-852x852.jpg",
+          "source_name": "Dezeen"
+        },
         {
           "title": "Herzog & de Meuron은 Mass-timber Massachusetts 학교 건물의 기초를 재사용합니다.",
           "url": "https://www.dezeen.com/2026/09/24/herzog-de-meuron-mass-timber-massachusetts-school-amherst/",
@@ -108,12 +114,38 @@
           "url": "https://www.thisiscolossal.com/2026/09/john-wilson-the-history-of-concrete-movie/",
           "image_url": "https://www.thisiscolossal.com/wp-content/uploads/2026/09/concrete-2.jpeg",
           "source_name": "This Is Colossal"
+        }
+      ]
+    },
+    {
+      "keyword": "빛과 조명",
+      "count": 8,
+      "previous_count": 0,
+      "trend": "new",
+      "items": [
+        {
+          "title": "전태영 마리아의 디지털 일러스트레이션에서 탄생한 환상적인 식물들",
+          "url": "https://www.thisiscolossal.com/2026/09/taehyoung-maria-jeon-folium-botanical-illustration-book/",
+          "image_url": "https://www.thisiscolossal.com/wp-content/uploads/2026/09/Plant-196.jpeg",
+          "source_name": "This Is Colossal"
         },
         {
-          "title": "앤더슨 벨 (Andersson Bell) 의 플래그십 도쿄 스토어는 대조적으로 아름다움을 위한 케이스를 만듭니다.",
-          "url": "https://www.yatzer.com/adsb-andersson-bell-tokyo",
-          "image_url": "https://media.yatzer.com/27-ADSB-Andersson-Bell-Tokyo-by-I-IN-photo-Tomooki-Kengaku-yatzer-1400x934.jpg",
-          "source_name": "Yatzer"
+          "title": "카를로 나손의 ‘로터스' 램프를 되찾은 구비",
+          "url": "https://www.wallpaper.com/design-interiors/lighting/lotus-lamp-carl-nason-gubi",
+          "image_url": "https://cdn.mos.cms.futurecdn.net/Wh7rQS9AzyRN9FoVo2S3ee-1920-80.png",
+          "source_name": "Wallpaper*"
+        },
+        {
+          "title": "페데리코 스테파노비치 (Federico Stefanovich) 는 1920년대 멕시코시티 건물의 스튜디오를 개조하여 그의 조명을 선보입니다.",
+          "url": "https://www.dezeen.com/2026/09/23/nama-studio-federico-stefanovich-studio-1920s-mexico-building/",
+          "image_url": "https://static.dezeen.com/uploads/2026/09/stefanovich-studio-nama-mexico-city-lighting_dezeen_2364_sq-852x852.jpg",
+          "source_name": "Dezeen"
+        },
+        {
+          "title": "디자이너가 Jean Royère의 Liane 조명 기구를 충분히 활용하지 못하는 이유",
+          "url": "https://www.architecturaldigest.com/story/jean-royère-liane-light-fixtures",
+          "image_url": "https://media.architecturaldigest.com/photos/6aa9439ce7e4af91ffeb0960/master/pass/AD1026_OBJECT_LESSON_2%20copy.jpg",
+          "source_name": "Architectural Digest"
         }
       ]
     },
@@ -146,38 +178,6 @@
           "url": "https://www.dazeddigital.com/fashion/article/71017/1/burberry-ss27-central-cee-london-fashion-week-lfw-daniel-lee?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=central-cee-made-his-runway-debut-at-burberry-ss27",
           "image_url": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/5/1455060.jpg",
           "source_name": "Dazed"
-        }
-      ]
-    },
-    {
-      "keyword": "빛과 조명",
-      "count": 7,
-      "previous_count": 0,
-      "trend": "new",
-      "items": [
-        {
-          "title": "카를로 나손의 ‘로터스' 램프를 되찾은 구비",
-          "url": "https://www.wallpaper.com/design-interiors/lighting/lotus-lamp-carl-nason-gubi",
-          "image_url": "https://cdn.mos.cms.futurecdn.net/Wh7rQS9AzyRN9FoVo2S3ee-1920-80.png",
-          "source_name": "Wallpaper*"
-        },
-        {
-          "title": "페데리코 스테파노비치 (Federico Stefanovich) 는 1920년대 멕시코시티 건물의 스튜디오를 개조하여 그의 조명을 선보입니다.",
-          "url": "https://www.dezeen.com/2026/09/23/nama-studio-federico-stefanovich-studio-1920s-mexico-building/",
-          "image_url": "https://static.dezeen.com/uploads/2026/09/stefanovich-studio-nama-mexico-city-lighting_dezeen_2364_sq-852x852.jpg",
-          "source_name": "Dezeen"
-        },
-        {
-          "title": "디자이너가 Jean Royère의 Liane 조명 기구를 충분히 활용하지 못하는 이유",
-          "url": "https://www.architecturaldigest.com/story/jean-royère-liane-light-fixtures",
-          "image_url": "https://media.architecturaldigest.com/photos/6aa9439ce7e4af91ffeb0960/master/pass/AD1026_OBJECT_LESSON_2%20copy.jpg",
-          "source_name": "Architectural Digest"
-        },
-        {
-          "title": "야간 조명부터 피시 테이블까지, 뉴욕 최고의 디자인 위크",
-          "url": "https://www.sightunseen.com/2026/05/the-best-of-new-york-design-week-from-nightlights-to-fish-tables/",
-          "image_url": "https://www.sightunseen.com/wordpress/wp-content/uploads/2026/05/AstraeusDevin_ChelsieStarleyPhotography-728x570.jpg",
-          "source_name": "Sight Unseen"
         }
       ]
     },
