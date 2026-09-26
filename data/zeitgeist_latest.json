@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-09-26 02:37 KST",
+  "generated_at": "2026-09-26 09:05 KST",
   "period": "2026.09.19 - 2026.09.26",
-  "total_articles": 351,
+  "total_articles": 368,
   "genre_breakdown": [
     {
       "genre": "동시대 미술",
-      "count": 194
+      "count": 203
     },
     {
       "genre": "공간·건축",
-      "count": 110
+      "count": 118
     },
     {
       "genre": "아방가르드 패션",
@@ -23,42 +23,74 @@
   "themes": [
     {
       "keyword": "박물관·전시",
-      "count": 29,
+      "count": 33,
       "previous_count": 1,
       "trend": "rising",
       "items": [
         {
-          "title": "델라웨어 미술관에서 빛 너머로 리사 브래들리 만나기",
-          "url": "https://hyperallergic.com/lisa-bradley-moves-beyond-luminosity-at-the-delaware-art-museum/",
-          "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/09/Lisa-Bradley-Hyperallergic-ad-1.jpg",
+          "title": "팝의 왕 아서 자파",
+          "url": "https://hyperallergic.com/arthur-jafa-king-of-pop/",
+          "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/09/IMG_5141.jpg",
           "source_name": "Hyperallergic"
         },
         {
-          "title": "독립적인 20세기, 아트페어의 Mise en Abyme",
-          "url": "https://hyperallergic.com/independent-20th-century-the-mise-en-abyme-of-art-fairs/",
-          "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/09/ind6-1.jpg",
-          "source_name": "Hyperallergic"
+          "title": "새로운 비트라 디자인 박물관 (Vitra Design Museum) 쇼에서 제프리 바와 (Geoffrey Bawa) 를 만나보세요",
+          "url": "https://www.wallpaper.com/architecture/architecture-events/geoffrey-bawa-exhibition-vitra-design-museum",
+          "image_url": "https://cdn.mos.cms.futurecdn.net/rTK5pexAP3VLqCLFeGQp8M-1920-80.jpg",
+          "source_name": "Wallpaper*"
         },
         {
-          "title": "피터 줌터 (Peter Zumthor), 스위스 박물관을 위한 \"놀랍도록 표현력이 뛰어난\" 3채의 건물 공개",
-          "url": "https://www.dezeen.com/2026/09/24/fondation-beyeler-peter-zumthor-switzerland/",
-          "image_url": "https://static.dezeen.com/uploads/2026/09/fondation-beyeler-peter-zumthor-switzerland_dezeen_2364_sq_0-852x852.jpg",
+          "title": "뎀나는 ‘전형적인 구찌‘ 2학년 쇼를 위해 상점을 엽니다",
+          "url": "https://www.wallpaper.com/fashion-beauty/gucci-ss-2027-demna-show-review-milan-fashion-week",
+          "image_url": "https://cdn.mos.cms.futurecdn.net/tUo35ofPMM5iBAoyMJnX5D-1920-80.jpg",
+          "source_name": "Wallpaper*"
+        },
+        {
+          "title": "예술가는 어떻게 사는가? 테크니컬러 디테일로 새롭게 선보이는 전시회",
+          "url": "https://www.sightunseen.com/2026/09/how-does-an-artist-live-a-new-exhibition-shows-us-in-technicolor-detail/",
+          "image_url": "https://www.sightunseen.com/wordpress/wp-content/uploads/2026/09/09172026_RB_Lynda_Keeler_3-728x582.jpg",
+          "source_name": "Sight Unseen"
+        }
+      ]
+    },
+    {
+      "keyword": "미니멀리즘",
+      "count": 3,
+      "previous_count": 1,
+      "trend": "rising",
+      "items": [
+        {
+          "title": "Fabrizio Corneli, 안경 브랜드 Lindberg를 위한 극적인 설치물 제작",
+          "url": "https://www.dezeen.com/2026/09/25/fabrizio-corneli-installation-glasses-brand-lindberg/",
+          "image_url": "https://static.dezeen.com/uploads/2026/09/lindberg_dezeen_2364_col_4-852x852.jpg",
           "source_name": "Dezeen"
         },
         {
-          "title": "Fondation Beyeler, Peter Zumthor의 세 개의 새로운 건물로 확장",
-          "url": "https://www.archdaily.com/1185683/fondation-beyeler-expands-with-three-new-buildings-by-peter-zumthor",
-          "image_url": "https://images.adsttc.com/media/images/6ab4/eb83/e78f/b301/883c/f4e4/large_jpg/fondation-beyeler-expands-with-three-new-buildings-by-peter-zumthor_1.jpg?1790241695",
-          "source_name": "ArchDaily"
+          "title": "제니트",
+          "url": "https://leibal.com/lighting/zenit/",
+          "image_url": "https://leibal.com/wp-content/uploads/2026/09/leibal-zenit-controforma-2.jpg",
+          "source_name": "Leibal"
+        },
+        {
+          "title": "정글",
+          "url": "https://leibal.com/interiors/jungle/",
+          "image_url": "https://leibal.com/wp-content/uploads/2026/09/leibal_jungle_mil-studios_01.jpg",
+          "source_name": "Leibal"
         }
       ]
     },
     {
       "keyword": "사진",
-      "count": 11,
+      "count": 12,
       "previous_count": 0,
       "trend": "new",
       "items": [
+        {
+          "title": "비하인드 스토리: 제프 존슨의 최신 SeaVees 콜랩",
+          "url": "https://coolhunting.com/design/behind-the-scenes-with-jeff-johnsons-latest-seavees-collab/",
+          "image_url": "https://coolhunting.com/wp-content/uploads/2026/09/Mens_Beyond-and-Back_Desert_Tan_Lifestyle_010-cropped-768x577.jpg",
+          "source_name": "Cool Hunting"
+        },
         {
           "title": "이미지로 가득 찬 세상에서 사진이 무엇을 말할 수 있습니까?",
           "url": "https://hyperallergic.com/what-can-photographs-say-in-a-world-full-of-images/",
@@ -76,12 +108,38 @@
           "url": "https://www.wallpaper.com/art/photography/linda-mccartney-the-art-of-the-album-wrensilva-los-angeles-review",
           "image_url": "https://cdn.mos.cms.futurecdn.net/Yi67m7Kx2NxixoJLGquykh-1920-80.jpg",
           "source_name": "Wallpaper*"
+        }
+      ]
+    },
+    {
+      "keyword": "콘크리트 물성",
+      "count": 10,
+      "previous_count": 0,
+      "trend": "new",
+      "items": [
+        {
+          "title": "런던의 에일즈베리 저택의 콘크리트 잔해에서 해리엇 메나 힐은 공동체를 보존합니다.",
+          "url": "https://www.thisiscolossal.com/2026/09/harriet-mena-hill-aylesbury-estate-paintings/",
+          "image_url": "https://www.thisiscolossal.com/wp-content/uploads/2026/09/hill-9.jpg",
+          "source_name": "This Is Colossal"
         },
         {
-          "title": "조 하트 (Joe Hart) 는 루차 리브레 (lucha libre) 의 초현실적이고 끔찍한 에너지를 포착하여 용감하게 행동에 가까워집니다.",
-          "url": "https://www.itsnicethat.com/articles/joe-hart-aspirantes-photography-project-230926",
-          "image_url": "https://admin.itsnicethat.com/images/o1rGN6-tn8_dYV0_HbgycHMb_tY=/281914/width-1440/joe-hart-photography-itsnicethat-11.jpg",
-          "source_name": "It's Nice That"
+          "title": "에스튜디오 제로는 음파 후 분홍색 멕시코 공동 생활 단지를 형성합니다",
+          "url": "https://www.dezeen.com/2026/09/24/estudio-zero-amplitude-pink-coliving-oaxaca/",
+          "image_url": "https://static.dezeen.com/uploads/2026/08/amplitude-coliving-estudio-zero-oaxaca-pink-coliving_dezeen_2364_sq-852x852.jpg",
+          "source_name": "Dezeen"
+        },
+        {
+          "title": "Herzog & de Meuron은 Mass-timber Massachusetts 학교 건물의 기초를 재사용합니다.",
+          "url": "https://www.dezeen.com/2026/09/24/herzog-de-meuron-mass-timber-massachusetts-school-amherst/",
+          "image_url": "https://static.dezeen.com/uploads/2026/09/herzog-de-meuron-amherst-student-center_dezeen_2364_sq-852x852.jpg",
+          "source_name": "Dezeen"
+        },
+        {
+          "title": "르네 레비는 헤이워드 갤러리의 잔혹한 외관에 형광색 그림을 그립니다.",
+          "url": "https://www.designboom.com/art/renee-levi-transforms-hayward-gallery-facade-in-audemars-piguet-contemporary-commission/",
+          "image_url": "https://www.designboom.com/wp-content/uploads/2026/09/renee-levi-transforms-hayward-gallery-facade-in-audemars-piguet-contemporary-commission-designboom-100.jpeg",
+          "source_name": "Designboom Art"
         }
       ]
     },
@@ -118,43 +176,17 @@
       ]
     },
     {
-      "keyword": "콘크리트 물성",
-      "count": 9,
-      "previous_count": 0,
-      "trend": "new",
-      "items": [
-        {
-          "title": "에스튜디오 제로는 음파 후 분홍색 멕시코 공동 생활 단지를 형성합니다",
-          "url": "https://www.dezeen.com/2026/09/24/estudio-zero-amplitude-pink-coliving-oaxaca/",
-          "image_url": "https://static.dezeen.com/uploads/2026/08/amplitude-coliving-estudio-zero-oaxaca-pink-coliving_dezeen_2364_sq-852x852.jpg",
-          "source_name": "Dezeen"
-        },
-        {
-          "title": "Herzog & de Meuron은 Mass-timber Massachusetts 학교 건물의 기초를 재사용합니다.",
-          "url": "https://www.dezeen.com/2026/09/24/herzog-de-meuron-mass-timber-massachusetts-school-amherst/",
-          "image_url": "https://static.dezeen.com/uploads/2026/09/herzog-de-meuron-amherst-student-center_dezeen_2364_sq-852x852.jpg",
-          "source_name": "Dezeen"
-        },
-        {
-          "title": "르네 레비는 헤이워드 갤러리의 잔혹한 외관에 형광색 그림을 그립니다.",
-          "url": "https://www.designboom.com/art/renee-levi-transforms-hayward-gallery-facade-in-audemars-piguet-contemporary-commission/",
-          "image_url": "https://www.designboom.com/wp-content/uploads/2026/09/renee-levi-transforms-hayward-gallery-facade-in-audemars-piguet-contemporary-commission-designboom-100.jpeg",
-          "source_name": "Designboom Art"
-        },
-        {
-          "title": "존 윌슨의 ‘콘크리트의 역사’ 는 평범한 것 외에는 아무 것도 아니다",
-          "url": "https://www.thisiscolossal.com/2026/09/john-wilson-the-history-of-concrete-movie/",
-          "image_url": "https://www.thisiscolossal.com/wp-content/uploads/2026/09/concrete-2.jpeg",
-          "source_name": "This Is Colossal"
-        }
-      ]
-    },
-    {
       "keyword": "런웨이·쇼",
-      "count": 7,
+      "count": 8,
       "previous_count": 0,
       "trend": "new",
       "items": [
+        {
+          "title": "뎀나는 ‘전형적인 구찌‘ 2학년 쇼를 위해 상점을 엽니다",
+          "url": "https://www.wallpaper.com/fashion-beauty/gucci-ss-2027-demna-show-review-milan-fashion-week",
+          "image_url": "https://cdn.mos.cms.futurecdn.net/tUo35ofPMM5iBAoyMJnX5D-1920-80.jpg",
+          "source_name": "Wallpaper*"
+        },
         {
           "title": "Dazed가 YMC와 함께 티셔츠를 출시했을 때 일어난 일입니다.",
           "url": "https://www.dazeddigital.com/fashion/article/71035/1/here-s-what-happened-when-dazed-launched-a-t-shirt-with-ymc?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=here-s-what-happened-when-dazed-launched-a-t-shirt-with-ymc",
@@ -172,44 +204,6 @@
           "url": "https://www.dazeddigital.com/fashion/article/71003/1/liza-keane-ss27-london-fashion-week-lfw-newgen-rising-designer?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=liza-keane-is-london-fashion-week-s-dark-and-stormy-saviour",
           "image_url": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/5/1455105.jpg",
           "source_name": "Dazed"
-        },
-        {
-          "title": "Central Cee는 Burberry SS27에서 런웨이로 데뷔했습니다.",
-          "url": "https://www.dazeddigital.com/fashion/article/71017/1/burberry-ss27-central-cee-london-fashion-week-lfw-daniel-lee?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=central-cee-made-his-runway-debut-at-burberry-ss27",
-          "image_url": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/5/1455060.jpg",
-          "source_name": "Dazed"
-        }
-      ]
-    },
-    {
-      "keyword": "설치 미술",
-      "count": 5,
-      "previous_count": 0,
-      "trend": "new",
-      "items": [
-        {
-          "title": "Lexus와 MSCHF의 설치는 자동차 예술에 생소한 트위스트를 추가합니다",
-          "url": "https://www.wallpaper.com/transportation/an-installation-from-lexus-and-mschf-adds-an-unfamiliar-twist-to-automotive-art",
-          "image_url": "https://cdn.mos.cms.futurecdn.net/ABQnc34sNDWiEhzc7XUAbZ-1920-80.jpg",
-          "source_name": "Wallpaper*"
-        },
-        {
-          "title": "버려진 도로 표지판은 정어리 해안에 있는 기념비적인 토지 예술 시설로 변신합니다.",
-          "url": "https://www.designboom.com/art/discarded-road-signs-monumental-land-art-installation-sardinian-shore-urban-pixel-chapter-i-last-wave-scoobafish-maurizio-sergiusti/",
-          "image_url": "https://www.designboom.com/wp-content/dbsub/468226/2026-09-22/the-last-wave-transforms-discarded-road-signs-into-monumental-land-art-in-sardinia-1-6ab2d4aa1ad8c.jpg",
-          "source_name": "Designboom Art"
-        },
-        {
-          "title": "안경점이 예술품으로 바뀐 설치는 놀라운 교대 시간에 바이오 트래킹 기술을 풍자합니다.",
-          "url": "https://www.designboom.com/art/opticians-shop-turned-art-installation-satirizes-bio-tracking-tech-at-uncanny-shifts/",
-          "image_url": "https://www.designboom.com/wp-content/uploads/2026/09/uncanny-shifts-designboom-08.jpg",
-          "source_name": "Designboom Art"
-        },
-        {
-          "title": "다시 한 번, 느낌으로",
-          "url": "https://elephant.art/once-more-with-feeling/",
-          "image_url": "https://elephant.art/wp-content/uploads/2026/08/Yale-Class-Photo-scaled.jpg",
-          "source_name": "Elephant"
         }
       ]
     }
