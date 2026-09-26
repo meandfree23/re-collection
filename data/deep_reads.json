@@ -31884,5 +31884,35 @@
   "read_at": "2026-09-26 21:09",
   "depth_raw": 2,
   "depth_v": 2
+ },
+ "leibal.com/interiors/serene-nook": {
+  "title_ko": "문 대신 회랑을 품은 베이징의 미니멀 아파트 리노베이션",
+  "summary_ko": "중국 베이징의 패러렐 스트럭처와 에르벤이 아파트 리노베이션 프로젝트 '고용한 누크'를 통해 출입구 복도를 산책로 형식의 드레스룸으로 바꿨다. 고정된 방 구분을 없애고 피벗 도어와 회전문 구조를 적용해 공간을 유연하게 연결하며, 목재 베니어와 트래버틴 두 가지 재료로만 전체 실내를 마감했다.",
+  "lens": "문을 없애고 복도를 순환형 드레스룸으로 바꿔 공간의 밀도를 높인다.",
+  "why_now": "칸막이로 공간을 나누던 전형적인 평면에서 벗어나, 동선과 수납을 일체화하는 주거 설계 방식이 주목받는다.",
+  "mechanism": "여닫이문 대신 피벗 도어를 연속 배치해 다이닝룸과 리빙룸을 하나의 축으로 연결하거나 분리한다.",
+  "sensory": "석재와 목재 베니어 두 가지 재료가 몰딩 없이 이어져 시각적 잡음을 지우고 차분한 물성을 만든다.",
+  "transfer": "공간을 가벽으로 나누는 대신 회전식 스크린이나 피벗 도어를 세워 숏의 깊이감을 조절하는 세트에 적용한다.",
+  "keywords": [
+   "공간디자인",
+   "아파트리노베이션",
+   "피벗도어",
+   "트래버틴",
+   "베이징"
+  ],
+  "evidence": "turns the entry hallway into a promenade style walk-in closet, folding storage into circulation instead of sealing it behind a door",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "full",
+  "v": 1,
+  "url": "https://leibal.com/interiors/serene-nook/",
+  "original_title": "Serene Nook",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 1960,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-09-26 22:11",
+  "depth_raw": 3,
+  "depth_v": 2
  }
 }
