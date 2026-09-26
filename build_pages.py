@@ -67,7 +67,7 @@ def apply_deep(item, deep_map):
     out['title'] = d.get('title_ko', item.get('title', ''))
     out['snippet'] = d.get('summary_ko', item.get('snippet', ''))
     out['deep'] = {k: d.get(k) for k in ('lens', 'why_now', 'mechanism', 'sensory', 'transfer',
-                                         'keywords', 'evidence', 'kind', 'depth', 'grounding')}
+                                         'keywords', 'evidence', 'kind', 'depth', 'grounding', 'depth_reason')}
     return out
 
 
@@ -87,6 +87,8 @@ def render_deep_block(item):
     if item.get('original_title'):
         orig = f'<p class="rc-orig">원제 · {html.escape(item.get("original_title", ""))}</p>'
     thin = '<p class="rc-thin">원문 정보가 적어 해석을 절제했습니다.</p>' if dp.get('grounding') == 'thin' else ''
+    if dp.get('depth'):
+        thin += f'<p class="rc-score">가치 점수 {int(dp["depth"])}/5' + (f' · {html.escape(dp["depth_reason"])}' if dp.get('depth_reason') else '') + '</p>'
     return (
         f'<div class="rc-lens"><span class="rc-lens-label">큐레이터의 시선</span><p>{html.escape(dp["lens"])}</p></div>'
         f'<div class="rc-kws">{kws}</div>'
@@ -323,6 +325,8 @@ def build_pages():
 
         dp = item.get('deep') or {}
         kind_html = f'<span class="rc-kind">{html.escape(dp.get("kind", ""))}</span>' if dp.get('kind') else ''
+        if int(dp.get('depth') or 0) >= 5:
+            kind_html = '<span class="rc-pick">★ 편집장 픽</span>' + kind_html
         deep_html = render_deep_block(item)
         url_attr = html.escape(url, quote=True)
         card = f'''

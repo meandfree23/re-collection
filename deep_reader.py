@@ -42,6 +42,18 @@ CACHE_FILE = os.path.join(DATA_DIR, "deep_reads.json")
 NOTES_FILE = os.path.join(DATA_DIR, "daily_notes.json")
 FAIL_FILE = os.path.join(DATA_DIR, "deep_failures.json")
 MAX_FAILS = 3  # 같은 항목이 3번 실패하면(안전 필터 차단 등) 더 이상 재시도하지 않음
+DEPTH_VERSION = 2  # 가치 점수 기준 버전 (2 = 2026-09-26 엄격 기준)
+MAX_RESCORE = int(os.environ.get("DEEP_MAX_RESCORE", "20"))  # 한 번 실행에서 재채점할 최대 묶음 수(묶음당 20건)
+
+DEPTH_RUBRIC = """가치 점수(depth) 엄격 기준 — 후하게 주지 말 것. 애매하면 낮은 쪽.
+5 = 드물다(하루 1~3건, 전체의 10% 안팎). 구체적인 작업(프로젝트·전시·작품·필름·컬렉션)이고, 원문이 충분하며,
+    선례와 분명히 다른 기법·재료·구조·연출 발상이 있고, 감독이 내일 콘티에 옮길 수 있는 장치가 선명하다. 셋 다 충족해야 5.
+4 = 구체적인 작업이고 원문이 충분하며 눈여겨볼 장치가 하나 이상 있지만, 선례가 뚜렷하거나 적용 범위가 좁다. (약 25%)
+3 = 평범한 소개. 정보는 있으나 해석·적용 여지가 적다. 대부분의 기사가 여기. (약 40%)
+2 = 제품 출시, 셀럽·부동산 주거 소개, 브랜드 홍보성, 공모·수상자 발표, 행사 공지, 라운드업 중 한두 가지 흥미 요소만 있는 것. (약 20%)
+1 = 뉴스레터·팟캐스트 묶음, 광고성, 원문 확인이 거의 안 되는 것. (약 5%)
+상한: grounding이 thin이면 최대 2, partial이면 최대 3. 종류가 리스트·라운드업/행사·공모/뉴스·이슈면 최대 3.
+제품·오브제/브랜드·캠페인은 기법이 정말 새롭지 않으면 최대 3. '유명한 건축가·브랜드'라는 이유만으로 올리지 않는다."""
 
 KST = timezone(timedelta(hours=9))
 VERSION = 1
@@ -284,7 +296,9 @@ ITEM_SYSTEM = """당신은 한국어 데일리 저널 RE:COLLECTION의 수석 �
 8. lens는 지시문('확인해야 한다', '주목하라')이 아니라 관찰과 해석이 담긴 단언입니다.
    좋은 예: '종이를 강철처럼, 강철을 종이처럼 다뤄 두 재료의 무게감을 맞바꾼다.'
    나쁜 예: '재료의 경계를 허무는 새로운 시도에 주목해야 한다.'
-9. transfer는 감독이 내일 콘티에 바로 쓸 수 있을 만큼 구체적으로: 무엇을, 어떤 샷/조명/재료/동선으로."""
+9. transfer는 감독이 내일 콘티에 바로 쓸 수 있을 만큼 구체적으로: 무엇을, 어떤 샷/조명/재료/동선으로.
+
+""" + DEPTH_RUBRIC
 
 ITEM_SCHEMA = {
     "type": "OBJECT",
@@ -299,7 +313,7 @@ ITEM_SCHEMA = {
         "keywords": {"type": "ARRAY", "items": {"type": "STRING"}, "description": "한국어 키워드 3~5개, 각 2~8자"},
         "evidence": {"type": "STRING", "description": "원문에서 그대로 옮긴 짧은 구절(원어 그대로, 30단어 이내). 없으면 빈 문자열."},
         "kind": {"type": "STRING", "enum": ["프로젝트", "전시", "작가·인터뷰", "제품·오브제", "브랜드·캠페인", "영상·필름", "런웨이·컬렉션", "뉴스·이슈", "리스트·라운드업", "행사·공모"]},
-        "depth": {"type": "INTEGER", "description": "저널 가치 1~5. 5=구체적 작업과 깊은 원문, 3=평범한 소개, 1=홍보·잡담·목록"},
+        "depth": {"type": "INTEGER", "description": "가치 점수 1~5. 시스템 지침의 엄격 기준을 따를 것. 대부분 3, 5는 드물다."},
         "grounding": {"type": "STRING", "enum": ["full", "partial", "thin"]},
     },
     "required": ["title_ko", "summary_ko", "lens", "why_now", "mechanism", "sensory", "transfer",
@@ -384,6 +398,32 @@ def clean_item(d):
     return d
 
 
+CAP3_KINDS = {"리스트·라운드업", "행사·공모", "뉴스·이슈"}
+CAP3_SOFT_KINDS = {"제품·오브제", "브랜드·캠페인"}
+
+
+def cap_depth(d, soft_ok=False):
+    """모델이 준 점수에 기계적 상한을 적용한다."""
+    try:
+        v = max(1, min(5, int(d.get("depth", 3))))
+    except Exception:
+        v = 3
+    g = d.get("grounding")
+    if g == "thin":
+        v = min(v, 2)
+    elif g == "partial":
+        v = min(v, 3)
+    if d.get("kind") in CAP3_KINDS:
+        v = min(v, 3)
+    if d.get("kind") in CAP3_SOFT_KINDS and not soft_ok:
+        v = min(v, 3)
+    if d.get("source_chars", 9999) < 600:
+        v = min(v, 2)
+    if d.get("cliche_hits"):
+        v = min(v, 4)
+    return v
+
+
 def read_one(item):
     body, meta, status = fetch_article(item.get("url", ""))
     prompt = build_item_prompt(item, body, meta, status)
@@ -404,10 +444,90 @@ def read_one(item):
                 "cliche_hits": hits,
                 "read_at": datetime.now(KST).strftime("%Y-%m-%d %H:%M"),
             })
+            d["depth_raw"] = d.get("depth")
+            d["depth"] = cap_depth(d)
+            d["depth_v"] = DEPTH_VERSION
             return d
         last_err = err
         prompt += f"\n\n[이전 출력 문제: {err}. 모든 필드를 자연스러운 한국어로 다시 작성하세요.]"
     raise RuntimeError(f"invalid output: {last_err}")
+
+
+RESCORE_SYSTEM = """당신은 RE:COLLECTION의 편집장입니다. 이미 읽고 정리한 기사 카드들을 보고 가치 점수를 다시 매깁니다.
+같은 날 실린 카드들이므로 서로 비교해 상대적으로도 판단하되, 아래 절대 기준을 반드시 지킵니다.
+""" + DEPTH_RUBRIC + """
+reason은 왜 그 점수인지 한국어 한 문장(25~60자), 구체적으로. '~다'로 끝냅니다. 카드 번호('5번 카드')는 쓰지 말고 필요하면 작업 이름으로 부릅니다."""
+
+RESCORE_SCHEMA = {
+    "type": "OBJECT",
+    "properties": {
+        "scores": {
+            "type": "ARRAY",
+            "items": {
+                "type": "OBJECT",
+                "properties": {
+                    "i": {"type": "INTEGER"},
+                    "depth": {"type": "INTEGER"},
+                    "reason": {"type": "STRING"},
+                    "novel_device": {"type": "BOOLEAN", "description": "제품·브랜드라도 기법이 정말 새로우면 true"},
+                },
+                "required": ["i", "depth", "reason", "novel_device"],
+            },
+        }
+    },
+    "required": ["scores"],
+}
+
+
+def rescore_pass(cache, by_date):
+    """depth_v가 낮은 캐시 항목을 날짜별 20건 묶음으로 엄격 기준 재채점."""
+    batches = 0
+    changed = 0
+    for d, items in by_date:
+        if batches >= MAX_RESCORE or time_left() < 60:
+            break
+        keys = []
+        for it in items:
+            k = url_key(it.get("url", ""))
+            c = cache.get(k)
+            if c and c.get("depth_v", 1) < DEPTH_VERSION and k not in keys:
+                keys.append(k)
+        for start in range(0, len(keys), 20):
+            if batches >= MAX_RESCORE or time_left() < 60:
+                break
+            chunk = keys[start:start + 20]
+            lines = []
+            for n, k in enumerate(chunk, 1):
+                c = cache[k]
+                lines.append(
+                    f"{n}. [{c.get('kind', '')}·원문{c.get('source_chars', 0)}자·{c.get('grounding', '')}] {c.get('title_ko', '')}\n"
+                    f"   설명: {c.get('summary_ko', '')}\n   시선: {c.get('lens', '')}\n   작동: {c.get('mechanism', '')}\n   적용: {c.get('transfer', '')}")
+            prompt = f"날짜: {d}\n카드 {len(chunk)}개:\n" + "\n".join(lines)
+            try:
+                res, model = gemini_json(RESCORE_SYSTEM, prompt, RESCORE_SCHEMA, temperature=0.2)
+            except TimeoutError:
+                return batches, changed
+            except Exception as e:
+                log(f"RESCORE FAIL {d}: {str(e)[:90]}")
+                if "exhausted" in str(e):
+                    return batches, changed
+                continue
+            batches += 1
+            got = {s.get("i"): s for s in res.get("scores", []) if isinstance(s, dict)}
+            for n, k in enumerate(chunk, 1):
+                s2 = got.get(n)
+                if not s2:
+                    continue
+                c = cache[k]
+                old = c.get("depth")
+                c["depth_raw"] = s2.get("depth")
+                c["depth"] = cap_depth({**c, "depth": s2.get("depth", 3)}, soft_ok=bool(s2.get("novel_device")))
+                c["depth_reason"] = re.sub(r"\s+", " ", str(s2.get("reason", ""))).strip()
+                c["depth_v"] = DEPTH_VERSION
+                if c["depth"] != old:
+                    changed += 1
+            log(f"RESCORE {d} +{len(chunk)} ({model})")
+    return batches, changed
 
 
 # ---------------------------------------------------------------------------
@@ -525,7 +645,7 @@ def main():
             except Exception as e:
                 fail += 1
                 log(f"FAIL {str(e)[:90]} :: {it.get('original_title', '')[:60]}")
-                if "exhausted" not in str(e) and "budget" not in str(e):
+                if "exhausted" not in str(e) and "budget" not in str(e) and "HTTP 429" not in str(e):
                     fk = url_key(it.get("url", ""))
                     fails[fk] = {"n": fails.get(fk, {}).get("n", 0) + 1, "last": str(e)[:120]}
                 if "exhausted" in str(e):
@@ -536,6 +656,13 @@ def main():
     save_json(CACHE_FILE, cache)
     save_json(FAIL_FILE, fails)
     log(f"항목 읽기 완료: 성공 {done}, 실패 {fail}, 호출 {POOL.calls}")
+
+    # 가치 점수 재채점 (엄격 기준 v2)
+    if MAX_RESCORE > 0 and time_left() > 90:
+        b, ch = rescore_pass(cache, by_date)
+        save_json(CACHE_FILE, cache)
+        left = sum(1 for v in cache.values() if v.get("depth_v", 1) < DEPTH_VERSION)
+        log(f"재채점 묶음 {b}개, 점수 변경 {ch}건, 남은 재채점 대상 {left}건")
 
     # 날짜 노트: 오늘은 새 항목이 3개 이상 늘면 다시 쓰고, 과거 날짜는 없을 때만 쓴다.
     today = datetime.now(KST).strftime("%Y-%m-%d")
