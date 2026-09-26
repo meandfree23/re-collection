@@ -40,6 +40,8 @@ DAILY_DIR = os.path.join(DATA_DIR, "daily")
 ARCHIVE_FILE = os.path.join(DATA_DIR, "daily_archive.json")
 CACHE_FILE = os.path.join(DATA_DIR, "deep_reads.json")
 NOTES_FILE = os.path.join(DATA_DIR, "daily_notes.json")
+FAIL_FILE = os.path.join(DATA_DIR, "deep_failures.json")
+MAX_FAILS = 3  # 같은 항목이 3번 실패하면(안전 필터 차단 등) 더 이상 재시도하지 않음
 
 KST = timezone(timedelta(hours=9))
 VERSION = 1
@@ -50,6 +52,8 @@ MAX_ITEMS = int(os.environ.get("DEEP_MAX_ITEMS", "60"))
 TIME_BUDGET = int(os.environ.get("DEEP_TIME_BUDGET", "1500"))
 CONCURRENCY = int(os.environ.get("DEEP_CONCURRENCY", "4"))
 MAX_NOTES = int(os.environ.get("DEEP_MAX_NOTES", "6"))
+REWRITE_NOTES = os.environ.get("DEEP_REWRITE_NOTES", "") == "1"
+NOTE_VERSION = 2
 ONLY_DATES = [d.strip() for d in os.environ.get("DEEP_ONLY_DATES", "").split(",") if d.strip()]
 KEYS = [k.strip() for k in os.environ.get("GEMINI_API_KEY", "").split(",") if k.strip()]
 
@@ -306,7 +310,12 @@ NOTE_SYSTEM = """당신은 한국어 데일리 저널 RE:COLLECTION의 편집장
 그날 실린 항목들의 큐레이터 메모를 읽고, 서로 다른 기사 사이를 잇는 흐름을 찾아 '오늘의 편집 노트'를 씁니다.
 규칙: 제공된 항목 정보 밖의 사실을 지어내지 않습니다. 상투어(‘새로운 영감’, ‘공감각’, ‘경계를 허문다’, ‘시대정신’) 금지.
 항목 이름을 구체적으로 부르며 연결합니다. 짧고 단단한 한국어 문장, '~다'로 끝나는 평서체.
-깊이 점수가 높은 항목을 중심에 두고, 홍보성·목록형 항목은 흐름의 근거로 쓰지 않습니다."""
+깊이 점수가 높은 항목을 중심에 두고, 홍보성·목록형 항목은 흐름의 근거로 쓰지 않습니다.
+헤드라인 규칙: 그날 항목에서 나온 구체적인 이미지·사물·장면을 두 개 이상 붙여 씁니다.
+  좋은 예(형식만 참고, 단어를 가져오지 말 것): '물에 잠긴 계단과 소금으로 지은 벽'  /  '새벽 세탁소의 형광등, 사막의 거울'
+  금지 단어(헤드라인·흐름 이름): 물성, 서사, 공간의, 감각, 재구성, 해체, 변주, 본질, 층위, 지형, 기록, 시선, 실체.
+흐름 이름도 추상어 대신 구체적인 공통점으로 짓습니다(예: '버려진 건물의 두 번째 쓰임', '손이 남긴 자국').
+편집 노트는 '이번 호는 ~에 주목한다' 같은 상투적 첫 문장 없이, 가장 강한 항목의 구체적 장면으로 바로 시작합니다."""
 
 NOTE_SCHEMA = {
     "type": "OBJECT",
@@ -435,7 +444,7 @@ def collect_items():
 # ---------------------------------------------------------------------------
 # 5. 날짜별 편집 노트
 # ---------------------------------------------------------------------------
-def make_note(date, items, cache):
+def make_note(date, items, cache, recent_headlines=None):
     rows = []
     for it in items:
         d = cache.get(url_key(it.get("url", "")))
@@ -447,7 +456,9 @@ def make_note(date, items, cache):
     for i, (it, d) in enumerate(rows, 1):
         lines.append(f"{i}. [{d.get('kind', '')}·깊이{d.get('depth', 3)}] {d['title_ko']} — {d['lens']} (키워드: {', '.join(d.get('keywords', []))})")
     prompt = f"날짜: {date}\n오늘 실린 항목 {len(rows)}개:\n" + "\n".join(lines)
-    note, model = gemini_json(NOTE_SYSTEM, prompt, NOTE_SCHEMA, temperature=0.6)
+    if recent_headlines:
+        prompt += "\n\n최근 다른 날의 헤드라인(표현을 반복하지 말 것):\n- " + "\n- ".join(recent_headlines[:8])
+    note, model = gemini_json(NOTE_SYSTEM, prompt, NOTE_SCHEMA, temperature=0.75)
     threads = []
     for t in note.get("threads", [])[:3]:
         refs = [r for r in (t.get("refs") or []) if isinstance(r, int) and 1 <= r <= len(rows)]
@@ -462,6 +473,7 @@ def make_note(date, items, cache):
         "editorial": re.sub(r"\s+", " ", note.get("editorial", "")).strip(),
         "threads": threads,
         "based_on": len(rows),
+        "v": NOTE_VERSION,
         "model": model,
         "written_at": datetime.now(KST).strftime("%Y-%m-%d %H:%M"),
     }
@@ -476,6 +488,7 @@ def main():
     POOL = Pool()
     cache = load_json(CACHE_FILE, {})
     notes = load_json(NOTES_FILE, {})
+    fails = load_json(FAIL_FILE, {})
     by_date = collect_items()
 
     todo, seen = [], set()
@@ -487,6 +500,8 @@ def main():
             seen.add(k)
             c = cache.get(k)
             if c and c.get("v", 0) >= VERSION:
+                continue
+            if fails.get(k, {}).get("n", 0) >= MAX_FAILS:
                 continue
             todo.append(it)
     log(f"대기 {len(todo)}건 / 캐시 {len(cache)}건 / 이번 실행 최대 {MAX_ITEMS}건")
@@ -510,12 +525,16 @@ def main():
             except Exception as e:
                 fail += 1
                 log(f"FAIL {str(e)[:90]} :: {it.get('original_title', '')[:60]}")
+                if "exhausted" not in str(e) and "budget" not in str(e):
+                    fk = url_key(it.get("url", ""))
+                    fails[fk] = {"n": fails.get(fk, {}).get("n", 0) + 1, "last": str(e)[:120]}
                 if "exhausted" in str(e):
                     stop = True
             if stop:
                 for g in futs:
                     g.cancel()
     save_json(CACHE_FILE, cache)
+    save_json(FAIL_FILE, fails)
     log(f"항목 읽기 완료: 성공 {done}, 실패 {fail}, 호출 {POOL.calls}")
 
     # 날짜 노트: 오늘은 새 항목이 3개 이상 늘면 다시 쓰고, 과거 날짜는 없을 때만 쓴다.
@@ -528,12 +547,15 @@ def main():
         if read_n < 4:
             continue
         old = notes.get(d)
+        if old and REWRITE_NOTES and old.get("v", 0) < NOTE_VERSION:
+            old = None
         if old:
             grown = min(read_n, 24) - old.get("based_on", 0)
             if d != today or grown < 3:
                 continue
         try:
-            notes[d] = make_note(d, items, cache)
+            recent = [notes[x]["headline"] for x in sorted(notes, reverse=True) if x != d and notes[x].get("headline")]
+            notes[d] = make_note(d, items, cache, recent)
             made += 1
             log(f"NOTE {d}: {notes[d]['headline']}")
             save_json(NOTES_FILE, notes)
