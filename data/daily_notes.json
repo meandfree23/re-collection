@@ -1163,5 +1163,44 @@
   "v": 2,
   "model": "gemini-3.5-flash-lite",
   "written_at": "2026-09-26 17:37"
+ },
+ "2026-09-27": {
+  "date": "2026-09-27",
+  "headline": "안데스의 벽화와 분리된 블록의 회랑",
+  "editorial": "페루 안데스의 신화적 형상을 옮긴 벽화는 벽면의 결함과 작가의 형상을 즉흥적으로 결합한다. 브라질 카라이바의 빌라 마레보는 독립된 두 블록을 회랑으로 이어 거주자가 이동하며 밀도를 체감하게 만든다. 세넥의 호숫가 오두막은 파편화된 수변 반도에서 하나의 건축 언어로 풍경의 맥락을 회복한다.",
+  "threads": [
+   {
+    "name": "벽면과 블록의 연결",
+    "note": "벽면의 물리적 결함이나 분리된 건축 블록을 하나로 엮는 조형 방식을 다룬다.",
+    "items": [
+     {
+      "title": "페루 안데스의 신화적 형상을 유럽 도심 벽화로 옮기는 방식",
+      "url": "https://www.designboom.com/art/masks-spirits-mythical-figures-peruvian-heritage-wesr-murals-europe/"
+     },
+     {
+      "title": "브라질 카라이바의 빌라 마레보, 분리된 두 블록을 잇는 회랑의 미학",
+      "url": "https://www.archdaily.com/1185857/vila-marebo-frederico-zanelato-arquitetos"
+     }
+    ]
+   },
+   {
+    "name": "건축 언어와 풍경",
+    "note": "파편화된 주변 환경 속에서 일관된 언어나 색채로 공간의 연속성을 확보한다.",
+    "items": [
+     {
+      "title": "세넥의 호숫가 오두막, 파편화된 풍경을 잇는 단일한 건축 언어",
+      "url": "https://www.archdaily.com/1183944/cabins-at-the-tip-sunny-lakes-senec-er-atelier"
+     },
+     {
+      "title": "밀라노 20세기 아파트, 테라 레드와 말차 그린의 경계로 연결하다",
+      "url": "https://www.archdaily.com/1185433/imbriani-renovation-of-two-apartments-in-milan-crch-studio"
+     }
+    ]
+   }
+  ],
+  "based_on": 5,
+  "v": 2,
+  "model": "gemini-3.5-flash-lite",
+  "written_at": "2026-09-27 08:48"
  }
 }
