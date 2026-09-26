@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-09-26 09:05 KST",
+  "generated_at": "2026-09-26 10:01 KST",
   "period": "2026.09.19 - 2026.09.26",
-  "total_articles": 368,
+  "total_articles": 376,
   "genre_breakdown": [
     {
       "genre": "동시대 미술",
-      "count": 203
+      "count": 204
     },
     {
       "genre": "공간·건축",
-      "count": 118
+      "count": 121
     },
     {
       "genre": "아방가르드 패션",
-      "count": 32
+      "count": 36
     },
     {
       "genre": "미디어 파사드·3D",
@@ -23,10 +23,16 @@
   "themes": [
     {
       "keyword": "박물관·전시",
-      "count": 33,
+      "count": 34,
       "previous_count": 1,
       "trend": "rising",
       "items": [
+        {
+          "title": "제시 버터필드 (Jesse Butterfield) 가 베일드 바운더리 (A Veiled Boundary) 전시회에서 종이와",
+          "url": "https://www.dezeen.com/2026/09/25/jesse-butterfield-a-veiled-boundary/",
+          "image_url": "https://static.dezeen.com/uploads/2026/09/jesse-butterfield-a-veiled-boundary-exhibition_dezeen_2364_col_5-852x852.jpg",
+          "source_name": "Dezeen"
+        },
         {
           "title": "팝의 왕 아서 자파",
           "url": "https://hyperallergic.com/arthur-jafa-king-of-pop/",
@@ -44,12 +50,6 @@
           "url": "https://www.wallpaper.com/fashion-beauty/gucci-ss-2027-demna-show-review-milan-fashion-week",
           "image_url": "https://cdn.mos.cms.futurecdn.net/tUo35ofPMM5iBAoyMJnX5D-1920-80.jpg",
           "source_name": "Wallpaper*"
-        },
-        {
-          "title": "예술가는 어떻게 사는가? 테크니컬러 디테일로 새롭게 선보이는 전시회",
-          "url": "https://www.sightunseen.com/2026/09/how-does-an-artist-live-a-new-exhibition-shows-us-in-technicolor-detail/",
-          "image_url": "https://www.sightunseen.com/wordpress/wp-content/uploads/2026/09/09172026_RB_Lynda_Keeler_3-728x582.jpg",
-          "source_name": "Sight Unseen"
         }
       ]
     },
@@ -112,6 +112,38 @@
       ]
     },
     {
+      "keyword": "빛과 조명",
+      "count": 10,
+      "previous_count": 0,
+      "trend": "new",
+      "items": [
+        {
+          "title": "제시 버터필드 (Jesse Butterfield) 가 베일드 바운더리 (A Veiled Boundary) 전시회에서 종이와",
+          "url": "https://www.dezeen.com/2026/09/25/jesse-butterfield-a-veiled-boundary/",
+          "image_url": "https://static.dezeen.com/uploads/2026/09/jesse-butterfield-a-veiled-boundary-exhibition_dezeen_2364_col_5-852x852.jpg",
+          "source_name": "Dezeen"
+        },
+        {
+          "title": "새로운 MTG 트레일러의 유닛 모션 디자인 파단 현실",
+          "url": "https://www.stashmedia.tv/unit-motion-design-fractures-reality-in-new-mtg-trailer/",
+          "image_url": "http://www.stashmedia.tv/wp-content/uploads/Magic-The-Gathering-Fractured-Reality-trailer-by-Unit-Motion-Design-STASH-MAGAZINE5-1920x1080.jpg",
+          "source_name": "Stash Media"
+        },
+        {
+          "title": "전태영 마리아의 디지털 일러스트레이션에서 탄생한 환상적인 식물들",
+          "url": "https://www.thisiscolossal.com/2026/09/taehyoung-maria-jeon-folium-botanical-illustration-book/",
+          "image_url": "https://www.thisiscolossal.com/wp-content/uploads/2026/09/Plant-196.jpeg",
+          "source_name": "This Is Colossal"
+        },
+        {
+          "title": "카를로 나손의 ‘로터스' 램프를 되찾은 구비",
+          "url": "https://www.wallpaper.com/design-interiors/lighting/lotus-lamp-carl-nason-gubi",
+          "image_url": "https://cdn.mos.cms.futurecdn.net/Wh7rQS9AzyRN9FoVo2S3ee-1920-80.png",
+          "source_name": "Wallpaper*"
+        }
+      ]
+    },
+    {
       "keyword": "콘크리트 물성",
       "count": 10,
       "previous_count": 0,
@@ -140,38 +172,6 @@
           "url": "https://www.designboom.com/art/renee-levi-transforms-hayward-gallery-facade-in-audemars-piguet-contemporary-commission/",
           "image_url": "https://www.designboom.com/wp-content/uploads/2026/09/renee-levi-transforms-hayward-gallery-facade-in-audemars-piguet-contemporary-commission-designboom-100.jpeg",
           "source_name": "Designboom Art"
-        }
-      ]
-    },
-    {
-      "keyword": "빛과 조명",
-      "count": 9,
-      "previous_count": 0,
-      "trend": "new",
-      "items": [
-        {
-          "title": "새로운 MTG 트레일러의 유닛 모션 디자인 파단 현실",
-          "url": "https://www.stashmedia.tv/unit-motion-design-fractures-reality-in-new-mtg-trailer/",
-          "image_url": "http://www.stashmedia.tv/wp-content/uploads/Magic-The-Gathering-Fractured-Reality-trailer-by-Unit-Motion-Design-STASH-MAGAZINE5-1920x1080.jpg",
-          "source_name": "Stash Media"
-        },
-        {
-          "title": "전태영 마리아의 디지털 일러스트레이션에서 탄생한 환상적인 식물들",
-          "url": "https://www.thisiscolossal.com/2026/09/taehyoung-maria-jeon-folium-botanical-illustration-book/",
-          "image_url": "https://www.thisiscolossal.com/wp-content/uploads/2026/09/Plant-196.jpeg",
-          "source_name": "This Is Colossal"
-        },
-        {
-          "title": "카를로 나손의 ‘로터스' 램프를 되찾은 구비",
-          "url": "https://www.wallpaper.com/design-interiors/lighting/lotus-lamp-carl-nason-gubi",
-          "image_url": "https://cdn.mos.cms.futurecdn.net/Wh7rQS9AzyRN9FoVo2S3ee-1920-80.png",
-          "source_name": "Wallpaper*"
-        },
-        {
-          "title": "페데리코 스테파노비치 (Federico Stefanovich) 는 1920년대 멕시코시티 건물의 스튜디오를 개조하여 그의 조명을 선보입니다.",
-          "url": "https://www.dezeen.com/2026/09/23/nama-studio-federico-stefanovich-studio-1920s-mexico-building/",
-          "image_url": "https://static.dezeen.com/uploads/2026/09/stefanovich-studio-nama-mexico-city-lighting_dezeen_2364_sq-852x852.jpg",
-          "source_name": "Dezeen"
         }
       ]
     },
