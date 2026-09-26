@@ -1187,3 +1187,11 @@ a.view-prompt { text-decoration: none; }
 .kinfolk-card .card-date-text { margin-left: auto; white-space: nowrap; }
 
 .kinfolk-card .card-meta-line { justify-content: flex-start; }
+
+/* 가치 점수 v2: 편집장 픽 + 점수 근거 */
+.rc-pick {
+    font-size: 0.64rem; font-weight: 600; letter-spacing: 0.06em; color: #fff; background: var(--text-main);
+    border-radius: 999px; padding: 0.1rem 0.55rem; margin-left: 0.45rem; white-space: nowrap; font-family: var(--font-sans);
+}
+.kinfolk-card[data-depth="5"] { border-color: rgba(28, 25, 23, 0.45); }
+.rc-score { font-size: 0.72rem; color: var(--text-muted); margin-top: 0.5rem; line-height: 1.55; word-break: keep-all; }
