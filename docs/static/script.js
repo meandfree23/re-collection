@@ -564,7 +564,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
             const dp = item.deep || {};
             const hrefSafe = escapeHtml(targetUrl);
-            const kindHtml = dp.kind ? `<span class="rc-kind">${escapeHtml(dp.kind)}</span>` : '';
+            const kindHtml = (parseInt(dp.depth || 0, 10) >= 5 ? '<span class="rc-pick">★ 편집장 픽</span>' : '') + (dp.kind ? `<span class="rc-kind">${escapeHtml(dp.kind)}</span>` : '');
             let deepHtml = '';
             if (dp.lens) {
                 const rows = [['왜 지금', dp.why_now], ['작동 방식', dp.mechanism], ['감각과 물성', dp.sensory], ['연출로 가져갈 것', dp.transfer]]
@@ -572,7 +572,8 @@ document.addEventListener('DOMContentLoaded', () => {
                 const kws = (dp.keywords || []).slice(0, 5).map(k => `<span class="rc-kw">#${escapeHtml(k)}</span>`).join('');
                 const ev = dp.evidence ? `<blockquote class="rc-evidence">“${escapeHtml(dp.evidence)}”<cite>원문 인용 · ${escapeHtml(item.source_name || '')}</cite></blockquote>` : '';
                 const orig = item.original_title ? `<p class="rc-orig">원제 · ${escapeHtml(item.original_title)}</p>` : '';
-                const thin = dp.grounding === 'thin' ? '<p class="rc-thin">원문 정보가 적어 해석을 절제했습니다.</p>' : '';
+                let thin = dp.grounding === 'thin' ? '<p class="rc-thin">원문 정보가 적어 해석을 절제했습니다.</p>' : '';
+                if (dp.depth) thin += `<p class="rc-score">가치 점수 ${parseInt(dp.depth, 10)}/5${dp.depth_reason ? ' · ' + escapeHtml(dp.depth_reason) : ''}</p>`;
                 deepHtml = `
                         <div class="rc-lens"><span class="rc-lens-label">큐레이터의 시선</span><p>${escapeHtml(dp.lens)}</p></div>
                         <div class="rc-kws">${kws}</div>
