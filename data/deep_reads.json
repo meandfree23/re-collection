@@ -31914,5 +31914,63 @@
   "read_at": "2026-09-26 22:11",
   "depth_raw": 3,
   "depth_v": 2
+ },
+ "archdaily.com/1183944/cabins-at-the-tip-sunny-lakes-senec-er-atelier": {
+  "title_ko": "세넥의 호숫가 오두막, 파편화된 풍경을 잇는 단일한 건축 언어",
+  "summary_ko": "슬로바키아 세넥의 써니 레이크 반도 끝자락에 위치한 두 개의 레크리에이션 건물을 설계했다. 건축가 ER 아틀리에는 서로 다른 시대와 양식의 건축물이 혼재된 현장에서, 두 구조물을 하나의 건축적·조경적 구성으로 통합하여 수변 공간의 질서를 재정의했다.",
+  "lens": "무질서한 건축이 뒤섞인 수변 반도에서 개별 건물 대신 전체 부지를 관통하는 하나의 언어를 택해 풍경의 맥락을 회복한다.",
+  "why_now": "개별 건축물의 조형미를 넘어, 주변 환경과의 관계를 설정하고 물리적 경계를 통합하는 단지 계획의 중요성이 커지고 있다.",
+  "mechanism": "두 건물을 별개의 객체가 아닌 단일한 조경 구성 요소로 배치하여 반도 끝의 공공 영역과 호수 사이의 관계를 강화한다.",
+  "sensory": "호숫가 수평선과 어우러지는 낮은 매스감과 반도의 지형을 따라 흐르는 외부 공간의 연속성이 강조된다.",
+  "transfer": "불규칙한 주변 환경을 배경으로 촬영할 때, 개별 피사체에 집중하기보다 전체를 아우르는 조경적 프레임을 설정하여 시각적 질서를 확보한다.",
+  "keywords": [
+   "수변건축",
+   "단지계획",
+   "건축조경",
+   "슬로바키아"
+  ],
+  "evidence": "The project of two recreational buildings at the tip of Sunny Lakes in Senec approaches two separate structures as a single architectural and landscape composition.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "partial",
+  "v": 1,
+  "url": "https://www.archdaily.com/1183944/cabins-at-the-tip-sunny-lakes-senec-er-atelier",
+  "original_title": "Cabins at the Tip, Sunny Lakes, Senec / ER Atelier",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 1863,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-09-27 01:47",
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "archdaily.com/1185433/imbriani-renovation-of-two-apartments-in-milan-crch-studio": {
+  "title_ko": "밀라노 20세기 아파트, 테라 레드와 말차 그린의 경계로 연결하다",
+  "summary_ko": "코아치 스튜디오(co.arch studio)가 이탈리아 밀라노 보비사 지구에 위치한 100제곱미터 규모의 20세기 초반 아파트 두 채를 리노베이션했다. 두 집을 나누고 잇는 공통의 임계값은 테라 레드와 말차 그린이라는 대비되는 색채를 통해 두 개의 서로 다른 주거 정체성을 드러낸다.",
+  "lens": "색채의 대조를 경계면의 물리적 장치로 삼아 두 공간의 독립성과 연속성을 동시에 확보한다.",
+  "why_now": "소형 주거 공간에서 물리적 벽을 대신해 색채와 문턱으로 영역을 구획하는 방식은 공간의 효용을 높이는 실용적 해법이다.",
+  "mechanism": "두 아파트를 분리하고 연결하는 공간적 장치인 임계값에 테라 레드와 말차 그린이라는 두 가지 색채 대조를 적용해 시각적 경계를 만든다.",
+  "sensory": "테라 레드의 묵직한 붉은 기운과 말차 그린의 차분한 녹색 톤이 문턱과 벽면을 가로지르며 공간마다 선명한 대비를 만든다.",
+  "transfer": "공간을 분할할 때 가벽 대신 두 가지 원색의 대비를 문턱과 진입로에 적용해 시선이 자연스럽게 이동하도록 유도한다.",
+  "keywords": [
+   "밀라노",
+   "아파트리노베이션",
+   "색채대비",
+   "공간기획"
+  ],
+  "evidence": "This threshold became the conceptual starting point of the intervention: a spatial device that separates and connects two distinct domestic identities, expressed immediately through two contrasting chromatic atmospheres—terra red and matcha green.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "partial",
+  "v": 1,
+  "url": "https://www.archdaily.com/1185433/imbriani-renovation-of-two-apartments-in-milan-crch-studio",
+  "original_title": "Imbriani – Renovation of Two Apartments in Milan / co.arch studio",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 1298,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-09-27 01:48",
+  "depth_raw": 3,
+  "depth_v": 2
  }
 }

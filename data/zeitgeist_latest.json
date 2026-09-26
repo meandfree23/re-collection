@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-26 22:11 KST",
-  "period": "2026.09.19 - 2026.09.26",
-  "total_articles": 385,
+  "generated_at": "2026-09-27 01:47 KST",
+  "period": "2026.09.20 - 2026.09.27",
+  "total_articles": 387,
   "genre_breakdown": [
     {
       "genre": "동시대 미술",
@@ -9,7 +9,7 @@
     },
     {
       "genre": "공간·건축",
-      "count": 126
+      "count": 128
     },
     {
       "genre": "아방가르드 패션",
@@ -24,8 +24,8 @@
     {
       "keyword": "박물관·전시",
       "count": 34,
-      "previous_count": 1,
-      "trend": "rising",
+      "previous_count": 0,
+      "trend": "new",
       "items": [
         {
           "title": "제시 버터필드 (Jesse Butterfield) 가 베일드 바운더리 (A Veiled Boundary) 전시회에서 종이와",
@@ -50,32 +50,6 @@
           "url": "https://www.wallpaper.com/fashion-beauty/gucci-ss-2027-demna-show-review-milan-fashion-week",
           "image_url": "https://cdn.mos.cms.futurecdn.net/tUo35ofPMM5iBAoyMJnX5D-1920-80.jpg",
           "source_name": "Wallpaper*"
-        }
-      ]
-    },
-    {
-      "keyword": "미니멀리즘",
-      "count": 3,
-      "previous_count": 1,
-      "trend": "rising",
-      "items": [
-        {
-          "title": "Fabrizio Corneli, 안경 브랜드 Lindberg를 위한 극적인 설치물 제작",
-          "url": "https://www.dezeen.com/2026/09/25/fabrizio-corneli-installation-glasses-brand-lindberg/",
-          "image_url": "https://static.dezeen.com/uploads/2026/09/lindberg_dezeen_2364_col_4-852x852.jpg",
-          "source_name": "Dezeen"
-        },
-        {
-          "title": "제니트",
-          "url": "https://leibal.com/lighting/zenit/",
-          "image_url": "https://leibal.com/wp-content/uploads/2026/09/leibal-zenit-controforma-2.jpg",
-          "source_name": "Leibal"
-        },
-        {
-          "title": "정글",
-          "url": "https://leibal.com/interiors/jungle/",
-          "image_url": "https://leibal.com/wp-content/uploads/2026/09/leibal_jungle_mil-studios_01.jpg",
-          "source_name": "Leibal"
         }
       ]
     },
@@ -206,6 +180,38 @@
           "source_name": "Dazed"
         }
       ]
+    },
+    {
+      "keyword": "리노베이션·재생",
+      "count": 6,
+      "previous_count": 0,
+      "trend": "new",
+      "items": [
+        {
+          "title": "임브리아니 – 밀라노의 두 아파트 리노베이션/co.arch 스튜디오",
+          "url": "https://www.archdaily.com/1185433/imbriani-renovation-of-two-apartments-in-milan-crch-studio",
+          "image_url": "https://images.adsttc.com/media/images/6ab0/f9ce/066f/0900/0145/7880/large_jpg/VIA_IMBRIANI_04b.jpg?1789983241",
+          "source_name": "ArchDaily"
+        },
+        {
+          "title": "고요한 구석",
+          "url": "https://leibal.com/interiors/serene-nook/",
+          "image_url": "https://leibal.com/wp-content/uploads/2026/09/leibal-serene-nook-parallel-structure-erben-25.jpg",
+          "source_name": "Leibal"
+        },
+        {
+          "title": "Polysmiths의 런던 주택 리노베이션은 \"빛을 주 재료로\" 사용합니다.",
+          "url": "https://www.dezeen.com/2026/09/25/polysmiths-pine-house/",
+          "image_url": "https://static.dezeen.com/uploads/2026/09/polysmiths-pine-house-renovation-london-sq_dezeen_2364_col_1-852x852.jpg",
+          "source_name": "Dezeen"
+        },
+        {
+          "title": "아르치프레시 레지던스/부치 쿠엔틴",
+          "url": "https://www.archdaily.com/1185107/arcipressi",
+          "image_url": "https://images.adsttc.com/media/images/6aa8/f4fa/a74d/1200/0125/ebc3/large_jpg/fv-036-24-013.jpg?1789457862",
+          "source_name": "ArchDaily"
+        }
+      ]
     }
   ],
   "notable_names": [
@@ -216,5 +222,5 @@
     "DeafCity Hub",
     "Taryn Simon"
   ],
-  "has_comparison": true
+  "has_comparison": false
 }
