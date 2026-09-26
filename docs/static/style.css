@@ -1097,3 +1097,94 @@ body {
     line-height: 1.35;
 }
 
+
+/* === Deep Read: 큐레이터의 시선 / 깊이 읽기 / 편집 노트 (deep_reader.py) === */
+.kinfolk-card { cursor: default; }
+.rc-media-link, .rc-title-link { color: inherit; text-decoration: none; display: block; }
+.rc-title-link:hover .card-title { color: var(--accent-sand); }
+.kinfolk-card .card-title { -webkit-line-clamp: 3; }
+.kinfolk-card.rc-has-deep .card-snippet { -webkit-line-clamp: 5; flex-grow: 0; margin-bottom: 1rem; }
+.rc-kind {
+    font-size: 0.66rem; letter-spacing: 0.08em; color: var(--accent-sand);
+    border: 1px solid rgba(140, 120, 81, 0.35); border-radius: 999px; padding: 0.08rem 0.5rem; margin-left: 0.45rem;
+    font-family: var(--font-sans); white-space: nowrap;
+}
+.rc-lens {
+    border-left: 2px solid var(--accent-sand);
+    background: linear-gradient(90deg, rgba(140, 120, 81, 0.07), rgba(140, 120, 81, 0));
+    padding: 0.7rem 0.9rem 0.75rem 0.9rem; margin: 0 0 0.8rem 0; border-radius: 0 4px 4px 0;
+}
+.rc-lens-label {
+    display: block; font-family: var(--font-sans); font-size: 0.64rem; font-weight: 600;
+    letter-spacing: 0.16em; color: var(--accent-sand); margin-bottom: 0.3rem;
+}
+.rc-lens p {
+    font-family: var(--font-serif); font-size: 0.95rem; line-height: 1.6; color: var(--text-serif);
+    font-weight: 500; word-break: keep-all;
+}
+.rc-kws { display: flex; flex-wrap: wrap; gap: 0.35rem; margin-bottom: 0.8rem; }
+.rc-kw {
+    font-size: 0.7rem; color: var(--text-muted); background: var(--bg-paper-sub);
+    padding: 0.14rem 0.5rem; border-radius: 3px; word-break: keep-all;
+}
+.rc-deep { margin-bottom: 1rem; border-top: 1px dashed var(--border-hairline); padding-top: 0.6rem; }
+.rc-deep summary {
+    cursor: pointer; list-style: none; font-family: var(--font-sans); font-size: 0.72rem; font-weight: 600;
+    letter-spacing: 0.12em; color: var(--text-muted); user-select: none;
+}
+.rc-deep summary::-webkit-details-marker { display: none; }
+.rc-deep summary::before { content: '＋ '; }
+.rc-deep[open] summary::before { content: '－ '; }
+.rc-deep summary:hover { color: var(--text-main); }
+.rc-deep dl { margin-top: 0.8rem; }
+.rc-deep dt {
+    font-family: var(--font-sans); font-size: 0.66rem; font-weight: 600; letter-spacing: 0.1em;
+    color: var(--accent-sand); margin-top: 0.7rem;
+}
+.rc-deep dd { font-size: 0.86rem; line-height: 1.7; color: #3f3a36; margin: 0.15rem 0 0 0; word-break: keep-all; }
+.rc-evidence {
+    margin: 0.9rem 0 0.4rem 0; padding: 0.6rem 0.8rem; background: var(--bg-paper);
+    font-family: var(--font-editorial); font-style: italic; font-size: 0.98rem; line-height: 1.5; color: var(--text-serif);
+    border-radius: 3px;
+}
+.rc-evidence cite {
+    display: block; font-style: normal; font-family: var(--font-sans); font-size: 0.66rem;
+    color: var(--text-faint); margin-top: 0.35rem; letter-spacing: 0.04em;
+}
+.rc-orig { font-size: 0.72rem; color: var(--text-faint); margin-top: 0.4rem; line-height: 1.5; }
+.rc-thin { font-size: 0.7rem; color: var(--text-faint); margin-top: 0.3rem; }
+a.view-prompt { text-decoration: none; }
+
+.rc-daily-note {
+    max-width: 1080px; margin: 0 auto 3.2rem auto; padding: 2rem 2.2rem;
+    background: #fff; border: 1px solid var(--border-subtle); border-radius: 8px;
+}
+.rc-daily-note[hidden] { display: none; }
+.rc-note-tag {
+    font-family: var(--font-sans); font-size: 0.68rem; font-weight: 600; letter-spacing: 0.16em; color: var(--accent-sand);
+}
+.rc-note-headline {
+    font-family: var(--font-serif); font-size: 1.7rem; font-weight: 600; line-height: 1.4;
+    color: var(--text-serif); margin: 0.6rem 0 0.9rem 0; word-break: keep-all;
+}
+.rc-note-body { font-size: 0.98rem; line-height: 1.85; color: #3f3a36; word-break: keep-all; max-width: 820px; }
+.rc-threads { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 1.2rem; margin-top: 1.5rem; }
+.rc-thread { border-top: 1px solid var(--border-focus); padding-top: 0.8rem; }
+.rc-thread h4 { font-family: var(--font-serif); font-size: 1.02rem; font-weight: 600; color: var(--text-serif); margin-bottom: 0.35rem; }
+.rc-thread p { font-size: 0.85rem; line-height: 1.65; color: #57534e; word-break: keep-all; }
+.rc-thread-links { display: flex; flex-direction: column; gap: 0.3rem; margin-top: 0.6rem; }
+.rc-thread-links a {
+    font-size: 0.78rem; color: var(--text-muted); text-decoration: none; line-height: 1.45;
+    border-bottom: 1px solid transparent; align-self: flex-start;
+}
+.rc-thread-links a::before { content: '→ '; color: var(--accent-sand); }
+.rc-thread-links a:hover { color: var(--text-main); border-bottom-color: var(--border-subtle); }
+@media (max-width: 600px) {
+    .rc-daily-note { padding: 1.4rem 1.2rem; }
+    .rc-note-headline { font-size: 1.35rem; }
+}
+.kinfolk-card .card-meta-line { flex-wrap: wrap; row-gap: 0.35rem; align-items: center; }
+.kinfolk-card .card-genre-badge { white-space: nowrap; }
+.kinfolk-card .card-date-text { margin-left: auto; white-space: nowrap; }
+
+.kinfolk-card .card-meta-line { justify-content: flex-start; }
