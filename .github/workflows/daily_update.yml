@@ -56,6 +56,17 @@ jobs:
         run: |
           python zeitgeist_engine.py
 
+      - name: Deep Read (원문 정독 + 한국어 헤드라인/설명 + 큐레이터 인사이트, free Gemini flash-lite)
+        continue-on-error: true
+        timeout-minutes: 30
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          DEEP_MAX_ITEMS: '80'
+          DEEP_TIME_BUDGET: '1500'
+          DEEP_MAX_NOTES: '4'
+        run: |
+          python deep_reader.py
+
       - name: Compile Pages & Generate Static Partitions
         run: |
           python build_pages.py
