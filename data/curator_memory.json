@@ -2,7 +2,7 @@
   "version": "1.0",
   "purpose": "RE:COLLECTION 큐레이터 에이전트의 지속 기억 저장소. 매일 실행마다 이 파일을 읽고, 새로 학습한 내용을 추가합니다. 사용자가 언제든 질문하면 이 파일을 근거로 답합니다.",
   "created_at": "2026-09-20",
-  "last_updated": "2026-09-20",
+  "last_updated": "2026-09-26",
   "taste_profile": {
     "dominant_genres": "SPACE & ARCH(공간·건축)가 전체의 약 50%로 가장 비중이 크고, CONTEMPORARY ART(동시대 미술)가 그 뒤를 잇는다. MEDIA FACADE & 3D와 AVANT-GARDE FASHION은 소량이지만 꾸준히 유지되어야 하는 시그니처 카테고리다.",
     "recurring_material_language": [
@@ -40,17 +40,28 @@
       "side_effect": "이로 인해 zeitgeist_engine.py가 읽는 data/daily/*.json 일별 파티션도 비어있어 주간 시대정신 리포트(zeitgeist_latest.json)가 몇 주째 themes: [], notable_names: [] 로 비어 있었음.",
       "agent_action_taken": "2026-09-20, 큐레이터 에이전트가 실시간 리서치(WebSearch + 원문 직접 확인)로 검증된 신규 항목 2건(쑤저우 현대미술관/BIG, 루카스 내러티브 아트 뮤지엄/MAD)을 직접 작성해 추가하고, 실제 아카이브 데이터를 직접 읽어 zeitgeist_latest.json을 재생성함.",
       "still_open": "daily_collector.py의 limit_per_source 상향 또는 원장 만료 로직 도입은 아직 적용하지 않음 (Python 스크립트 자체 수정은 이번 세션 범위 밖, 다음 에이전트 실행에서 매일 신선도를 스스로 점검하고 필요시 보강하는 방식으로 대응)."
+    },
+    {
+      "date": "2026-09-26",
+      "finding": "카드의 헤드라인·설명이 기계번역(MyMemory/Google) 그대로라 오역('주류로 전송할까요')과 영어 원문 잔존(9/21~9/26 약 47건), 뉴스레터 문구('받은 편지함으로 바로...') 혼입이 반복됨. facets(genius_loci 등)는 장르별 고정 템플릿이고 화면에도 표시되지 않았음.",
+      "agent_action_taken": "deep_reader.py 신설: 각 항목의 원문 본문을 직접 읽고(표준 라이브러리 파서) 무료 Gemini flash-lite 3종 회전으로 title_ko/summary_ko + 큐레이터의 시선(lens)·왜 지금·작동 방식·감각과 물성·연출로 가져갈 것·원문 인용·kind·depth·grounding 생성. 날짜별 '편집 노트'(headline/editorial/threads)도 생성. 결과는 data/deep_reads.json(URL 키)·data/daily_notes.json에 캐시되고 build_pages.py가 렌더링 시점에만 덮어씌움(원본 data/daily/*.json과 self_heal_guardian 중복제거는 그대로). GitHub Actions에 Deep Read 단계 추가(secret GEMINI_API_KEY = open claw bot 프로젝트 무료 키, 실행당 최대 80건). 전체 1,040건 백필.",
+      "still_open": "depth 점수가 후하게 나오는 경향(5점 비중 높음) — 필요하면 기준 보정. 원문 접근이 막힌 소스는 grounding=thin으로 표시되고 해석을 절제함."
     }
   ],
   "editorial_decisions": [
     {
       "date": "2026-09-20",
       "decision": "장르별 고정 템플릿 facets(모든 항목에 동일했던 archive_note 등)를 신규 항목부터는 실제 원문을 읽고 작성한 고유 텍스트로 대체. archive_note에 '큐레이터 에이전트 실시간 리서치' 표기를 남겨 기존 자동수집 레코드와 구분되도록 함."
+    },
+    {
+      "date": "2026-09-26",
+      "decision": "모든 카드의 헤드라인과 설명을 원문 정독 기반 한국어로 통일(직역 금지, '~다' 평서체, 고유명사 첫 등장만 원어 병기). 상투어(새로운 영감/공감각적 경험/경계를 허문다/시대정신을 투영 등) 금지. 인사이트는 사실 근거를 붙인 해석으로, 독자(감독·CD)가 콘티에 바로 옮길 수 있게 '연출로 가져갈 것'을 필수로 둠. 하루 호는 depth 높은 순으로 펼치고 상단에 편집 노트를 둠."
     }
   ],
   "open_questions_for_next_run": [
     "매일 실제로 새 항목이 추가되는지 data/daily/{today}.json 를 먼저 확인하고, 비어있으면 반드시 실제 리서치로 보강할 것.",
     "주 1회 이상 zeitgeist_latest.json을 실제 아카이브 기준으로 재검증할 것.",
-    "사용자가 대화 중에 특정 주제/건축가/트렌드를 언급하면 이 메모리 파일의 taste_profile과 open_questions에 반영해 다음 실행에 이어갈 것."
+    "사용자가 대화 중에 특정 주제/건축가/트렌드를 언급하면 이 메모리 파일의 taste_profile과 open_questions에 반영해 다음 실행에 이어갈 것.",
+    "deep_reads.json의 cliche_hits/grounding=thin 비율을 주기적으로 점검하고, 반복되는 약점이 있으면 deep_reader.py 프롬프트를 보정할 것."
   ]
 }
