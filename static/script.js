@@ -44,8 +44,39 @@ document.addEventListener('DOMContentLoaded', () => {
 
     let activeDateFilter = issueDateChips.length > 0 ? (issueDateChips[0].getAttribute('data-date') || 'ALL') : 'ALL';
 
+    // 오늘의 편집 노트 (deep_reader.py → data/daily_notes.js)
+    function renderDailyNote(targetDate) {
+        const box = document.getElementById('rc-daily-note');
+        if (!box) return;
+        const notes = window.DAILY_NOTES || {};
+        const note = notes[targetDate];
+        if (!note || !note.headline) {
+            box.hidden = true;
+            box.innerHTML = '';
+            return;
+        }
+        const threads = (note.threads || []).slice(0, 3).map(t => `
+            <div class="rc-thread"><h4>${escapeHtml(t.name || '')}</h4>
+            <p>${escapeHtml(t.note || '')}</p>
+            <div class="rc-thread-links">${(t.items || []).slice(0, 5).map(x => `<a href="${escapeHtml(x.url || '#')}" target="_blank" rel="noopener noreferrer">${escapeHtml(x.title || '')}</a>`).join('')}</div></div>`).join('');
+        box.innerHTML = `
+            <span class="rc-note-tag">EDITOR'S NOTE · ${escapeHtml(targetDate.substring(5).replace('-', '.'))} 호 · ${note.based_on || 0}개 항목을 읽고</span>
+            <h2 class="rc-note-headline">${escapeHtml(note.headline)}</h2>
+            <p class="rc-note-body">${escapeHtml(note.editorial || '')}</p>
+            <div class="rc-threads">${threads}</div>`;
+        box.hidden = false;
+    }
+
+    // 하루 호 안에서는 깊이(depth)가 높은 항목부터 (같으면 원래 순서 유지)
+    function sortByDepth(arr) {
+        return arr.map((it, i) => ({ it, i }))
+            .sort((a, b) => ((b.it.deep && b.it.deep.depth) || 0) - ((a.it.deep && a.it.deep.depth) || 0) || a.i - b.i)
+            .map(x => x.it);
+    }
+
     function switchDailyIssue(targetDate) {
         activeDateFilter = targetDate;
+        renderDailyNote(targetDate);
         issueDateChips.forEach(chip => {
             if (chip.getAttribute('data-date') === targetDate) {
                 chip.classList.add('active');
@@ -62,7 +93,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
         const cleanDateVar = 'DAILY_ISSUE_' + targetDate.replace(/-/g, '_');
         if (window[cleanDateVar] && Array.isArray(window[cleanDateVar])) {
-            currentResults = [...window[cleanDateVar]];
+            currentResults = sortByDepth([...window[cleanDateVar]]);
             performAIIntelligenceSearch();
         } else {
             // Dynamically load partition JS
@@ -70,12 +101,17 @@ document.addEventListener('DOMContentLoaded', () => {
             script.src = `data/daily/${targetDate}.js?v=${Date.now()}`;
             script.onload = () => {
                 if (window[cleanDateVar] && Array.isArray(window[cleanDateVar])) {
-                    currentResults = [...window[cleanDateVar]];
+                    currentResults = sortByDepth([...window[cleanDateVar]]);
                     performAIIntelligenceSearch();
                 }
             };
             document.body.appendChild(script);
         }
+    }
+
+    // 철 로드 시 가장 최신 호를 깊이 순으로 펼친다
+    if (activeDateFilter && activeDateFilter !== 'ALL') {
+        setTimeout(() => switchDailyIssue(activeDateFilter), 0);
     }
 
     issueDateChips.forEach(chip => {
@@ -119,14 +155,17 @@ document.addEventListener('DOMContentLoaded', () => {
                 const sensory = (facets.sensory_recall || '').toLowerCase();
                 const videoCx = (facets.spatial_video_cx || '').toLowerCase();
                 const zeitgeist = (facets.zeitgeist_horizon || '').toLowerCase();
+                const dp = item.deep || {};
+                const deepText = [dp.lens, dp.why_now, dp.mechanism, dp.sensory, dp.transfer, (dp.keywords || []).join(' '), dp.kind, item.original_title].join(' ').toLowerCase();
 
-                const corpus = `${title} ${snippet} ${genre} ${source} ${loci} ${sensory} ${videoCx} ${zeitgeist}`;
+                const corpus = `${title} ${snippet} ${genre} ${source} ${loci} ${sensory} ${videoCx} ${zeitgeist} ${deepText}`;
                 
                 let matchScore = 0;
                 terms.forEach(term => {
                     if (title.includes(term)) matchScore += 5;
                     if (genre.includes(term)) matchScore += 4;
                     if (loci.includes(term) || sensory.includes(term)) matchScore += 3;
+                    if (deepText.includes(term)) matchScore += 4;
                     if (corpus.includes(term)) matchScore += 2;
                 });
 
@@ -523,22 +562,40 @@ document.addEventListener('DOMContentLoaded', () => {
                 </div>
             `;
 
+            const dp = item.deep || {};
+            const hrefSafe = escapeHtml(targetUrl);
+            const kindHtml = dp.kind ? `<span class="rc-kind">${escapeHtml(dp.kind)}</span>` : '';
+            let deepHtml = '';
+            if (dp.lens) {
+                const rows = [['왜 지금', dp.why_now], ['작동 방식', dp.mechanism], ['감각과 물성', dp.sensory], ['연출로 가져갈 것', dp.transfer]]
+                    .filter(r => r[1]).map(r => `<dt>${r[0]}</dt><dd>${escapeHtml(r[1])}</dd>`).join('');
+                const kws = (dp.keywords || []).slice(0, 5).map(k => `<span class="rc-kw">#${escapeHtml(k)}</span>`).join('');
+                const ev = dp.evidence ? `<blockquote class="rc-evidence">“${escapeHtml(dp.evidence)}”<cite>원문 인용 · ${escapeHtml(item.source_name || '')}</cite></blockquote>` : '';
+                const orig = item.original_title ? `<p class="rc-orig">원제 · ${escapeHtml(item.original_title)}</p>` : '';
+                const thin = dp.grounding === 'thin' ? '<p class="rc-thin">원문 정보가 적어 해석을 절제했습니다.</p>' : '';
+                deepHtml = `
+                        <div class="rc-lens"><span class="rc-lens-label">큐레이터의 시선</span><p>${escapeHtml(dp.lens)}</p></div>
+                        <div class="rc-kws">${kws}</div>
+                        <details class="rc-deep"><summary>깊이 읽기</summary><dl>${rows}</dl>${ev}${orig}${thin}</details>`;
+            }
+
             return `
-                <a href="${targetUrl}" target="_blank" rel="noopener noreferrer" class="kinfolk-card-link">
-                    <article class="kinfolk-card">
-                        ${mediaHtml}
+                <div class="kinfolk-card-link">
+                    <article class="kinfolk-card${deepHtml ? ' rc-has-deep' : ''}" data-depth="${parseInt(dp.depth || 0, 10)}">
+                        <a href="${hrefSafe}" target="_blank" rel="noopener noreferrer" class="rc-media-link">${mediaHtml}</a>
                         <div class="card-meta-line">
-                            <span class="card-genre-badge">${escapeHtml(item.genre || 'SPACE & EXPERIENCE')}</span>
+                            <span class="card-genre-badge">${escapeHtml(item.genre || 'SPACE & EXPERIENCE')}</span>${kindHtml}
                             <span class="card-date-text">${collectedAtSafe}</span>
                         </div>
-                        <h3 class="card-title">${titleSafe}</h3>
+                        <a href="${hrefSafe}" target="_blank" rel="noopener noreferrer" class="rc-title-link"><h3 class="card-title">${titleSafe}</h3></a>
                         <p class="card-snippet">${snippetSafe}</p>
+                        ${deepHtml}
                         <div class="card-footer">
                             <span class="card-source-tag">${sourceHost}</span>
-                            <span class="view-prompt">VIEW ORIGINAL ↗</span>
+                            <a href="${hrefSafe}" target="_blank" rel="noopener noreferrer" class="view-prompt">원문 보기 ↗</a>
                         </div>
                     </article>
-                </a>
+                </div>
             `;
         }).join('');
     }
