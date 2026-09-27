@@ -1196,3 +1196,15 @@ a.view-prompt { text-decoration: none; }
 }
 .kinfolk-card[data-depth="5"] { border-color: rgba(28, 25, 23, 0.45); }
 .rc-score { font-size: 0.72rem; color: var(--text-muted); margin-top: 0.5rem; line-height: 1.55; word-break: keep-all; }
+
+/* 리서치 v2: 계보·맥락 / 리서치 노트 / 참고한 자료 */
+.rc-sub { display: block; font-family: var(--font-sans); font-size: 0.66rem; font-weight: 600; letter-spacing: 0.1em; color: var(--accent-sand); margin: 0.9rem 0 0.35rem 0; }
+.rc-findings ul, .rc-sources ul { list-style: none; padding: 0; margin: 0; }
+.rc-findings li { font-size: 0.84rem; line-height: 1.65; color: #3f3a36; padding-left: 0.9rem; position: relative; margin-bottom: 0.3rem; word-break: keep-all; }
+.rc-findings li::before { content: '·'; position: absolute; left: 0.2rem; color: var(--accent-sand); font-weight: 700; }
+.rc-src-ref { font-size: 0.7rem; color: var(--text-faint); text-decoration: none; white-space: nowrap; }
+.rc-src-ref:hover { color: var(--text-main); }
+.rc-sources li { font-size: 0.76rem; line-height: 1.5; margin-bottom: 0.25rem; display: flex; gap: 0.45rem; align-items: baseline; }
+.rc-sources li span { flex: none; font-size: 0.64rem; color: var(--text-faint); border: 1px solid var(--border-hairline); border-radius: 3px; padding: 0 0.3rem; }
+.rc-sources li a { color: var(--text-muted); text-decoration: none; border-bottom: 1px solid var(--border-hairline); }
+.rc-sources li a:hover { color: var(--text-main); }
