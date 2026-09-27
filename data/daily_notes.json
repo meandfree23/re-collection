@@ -1273,5 +1273,44 @@
   "v": 3,
   "model": "gemini-3.1-flash-lite",
   "written_at": "2026-09-27 17:50"
+ },
+ "2026-09-28": {
+  "date": "2026-09-28",
+  "headline": "녹슨 철강 구조물과 반사되는 황금빛 공기 조형물",
+  "editorial": "라바르 먼로는 버려진 의상과 목재를 모아 바하마의 준카누 축제를 베네치아로 소환하며 사라지는 전통을 되살린다. 비이디 파빌리온은 방치된 후면 공간을 단단한 철강과 콘크리트 물성으로 채워 일상의 중심으로 바꾸고, 플라스틱 판타스틱은 유연한 공기압 구조체로 도시의 풍경을 표면에 그대로 반사한다. 이들의 작업은 잊힌 사물과 방치된 장소에 새로운 쓰임과 표정을 부여한다.",
+  "threads": [
+   {
+    "name": "방치된 공간의 물리적 변환",
+    "note": "버려진 뒷마당과 후면 공간을 단단한 철강과 콘크리트 구조체로 채워 일상의 중심 무대로 바꾼다.",
+    "items": [
+     {
+      "title": "죽어있던 모퉁이 뒷마당을 되살리는 아르헨티나의 식사 공간, 비이디 파빌리온",
+      "url": "https://www.archdaily.com/1185865/vyd-pavilion-enne-arquitectura"
+     },
+     {
+      "title": "그늘을 삶의 공간으로 삼은 멕시코의 카사 타오",
+      "url": "https://minimalissimo.com/articles/casa-tao-by-hw-studio"
+     }
+    ]
+   },
+   {
+    "name": "기존 구조와 재료의 물성 치환",
+    "note": "고정된 아카이브와 단단한 귀금속의 상징을 유연한 형태와 모듈형 구조로 치환한다.",
+    "items": [
+     {
+      "title": "스톤 아일랜드의 살아있는 아카이브, 윌로 페론이 설계한 런던 셀프리지 팝업",
+      "url": "https://www.wallpaper.com/fashion-beauty/fashion-beauty-events/stone-island-selfridges-corner-shop-willo-perron"
+     },
+     {
+      "title": "뉴욕의 도심을 관통하는 거대한 황금빛 공기 조형물",
+      "url": "https://www.archdaily.com/1185203/auruboros-urban-memory-and-collective-dream-plastique-fantastique"
+     }
+    ]
+   }
+  ],
+  "based_on": 24,
+  "v": 3,
+  "model": "gemini-3.5-flash-lite",
+  "written_at": "2026-09-28 02:19"
  }
 }

@@ -1,32 +1,38 @@
 {
-  "generated_at": "2026-09-27 23:01 KST",
-  "period": "2026.09.20 - 2026.09.27",
-  "total_articles": 485,
+  "generated_at": "2026-09-28 02:18 KST",
+  "period": "2026.09.21 - 2026.09.28",
+  "total_articles": 429,
   "genre_breakdown": [
     {
       "genre": "동시대 미술",
-      "count": 260
+      "count": 230
     },
     {
       "genre": "공간·건축",
-      "count": 155
+      "count": 127
     },
     {
       "genre": "아방가르드 패션",
-      "count": 48
+      "count": 52
     },
     {
       "genre": "미디어 파사드·3D",
-      "count": 22
+      "count": 20
     }
   ],
   "themes": [
     {
       "keyword": "박물관·전시",
-      "count": 44,
-      "previous_count": 0,
-      "trend": "new",
+      "count": 38,
+      "previous_count": 7,
+      "trend": "rising",
       "items": [
+        {
+          "title": "A Love Beyond What We Name Us: Rodrigo Ramírez Rodríguez at Murmurs Gallery",
+          "url": "https://elephant.art/rodrigo-ramirez-rodriguez/",
+          "image_url": "https://elephant.art/wp-content/uploads/2026/07/zine-option-1-scaled.jpg",
+          "source_name": "Elephant"
+        },
         {
           "title": "캐서린 오피와 함께하는 노르웨이 로드 트립",
           "url": "https://elephant.art/a-norwegian-road-trip-with-catherine-opie/",
@@ -44,20 +50,14 @@
           "url": "https://www.juxtapoz.com/news/painting/molly-bounds-the-light-that-loses-the-night-that-wins-mrs-gallery-maspeth-ny/",
           "image_url": "https://www.juxtapoz.com/media/k2/items/cache/7bac6ecdec7150ac8a0c3053192d4431_L.jpg",
           "source_name": "Juxtapoz"
-        },
-        {
-          "title": "디자인 애호가를 위한 홍콩 여행 가이드: 인사이더의 볼거리, 숙박, 먹거리, 쇼핑",
-          "url": "https://www.architecturaldigest.com/story/design-lovers-guide-to-hong-kong",
-          "image_url": "https://media.architecturaldigest.com/photos/6ab14cb51e80f4009c9e3f80/master/pass/M+%20building_5.jpg",
-          "source_name": "Architectural Digest"
         }
       ]
     },
     {
       "keyword": "사진",
-      "count": 17,
-      "previous_count": 0,
-      "trend": "new",
+      "count": 13,
+      "previous_count": 4,
+      "trend": "rising",
       "items": [
         {
           "title": "다양하고 극적인 행동으로 2026년 올해의 조류 사진작가 선정 대회",
@@ -86,43 +86,17 @@
       ]
     },
     {
-      "keyword": "빛과 조명",
-      "count": 12,
-      "previous_count": 0,
-      "trend": "new",
-      "items": [
-        {
-          "title": "수레지던스",
-          "url": "https://leibal.com/interiors/su-residence/",
-          "image_url": "https://leibal.com/wp-content/uploads/2026/09/leibal-su-residence-zouhe-space-design-14.jpg",
-          "source_name": "Leibal"
-        },
-        {
-          "title": "로맨스와 멋진 디자인이 어우러진 파리 최고의 에어비앤비 14곳 (2026년)",
-          "url": "https://www.architecturaldigest.com/story/most-stylish-airbnbs-in-paris",
-          "image_url": "https://media.architecturaldigest.com/photos/6a19f8085cd17cd8fbc1dbf8/master/pass/imgi_122_0cb7ad77-7cc2-43d9-98be-23d9cd24b6b0.jpg",
-          "source_name": "Architectural Digest"
-        },
-        {
-          "title": "제시 버터필드 (Jesse Butterfield) 가 베일드 바운더리 (A Veiled Boundary) 전시회에서 종이와",
-          "url": "https://www.dezeen.com/2026/09/25/jesse-butterfield-a-veiled-boundary/",
-          "image_url": "https://static.dezeen.com/uploads/2026/09/jesse-butterfield-a-veiled-boundary-exhibition_dezeen_2364_col_5-852x852.jpg",
-          "source_name": "Dezeen"
-        },
-        {
-          "title": "새로운 MTG 트레일러의 유닛 모션 디자인 파단 현실",
-          "url": "https://www.stashmedia.tv/unit-motion-design-fractures-reality-in-new-mtg-trailer/",
-          "image_url": "http://www.stashmedia.tv/wp-content/uploads/Magic-The-Gathering-Fractured-Reality-trailer-by-Unit-Motion-Design-STASH-MAGAZINE5-1920x1080.jpg",
-          "source_name": "Stash Media"
-        }
-      ]
-    },
-    {
       "keyword": "콘크리트 물성",
       "count": 10,
-      "previous_count": 0,
-      "trend": "new",
+      "previous_count": 1,
+      "trend": "rising",
       "items": [
+        {
+          "title": "VitrA 타일별 메타코드 타일",
+          "url": "https://www.dezeen.com/2026/09/24/metacode-vitra-tiles-dezeen-showroom/",
+          "image_url": "https://static.dezeen.com/uploads/2026/09/metacode-vitra-tiles-design_dezeen_2364_sq-852x852.jpg",
+          "source_name": "Dezeen"
+        },
         {
           "title": "런던의 에일즈베리 저택의 콘크리트 잔해에서 해리엇 메나 힐은 공동체를 보존합니다.",
           "url": "https://www.thisiscolossal.com/2026/09/harriet-mena-hill-aylesbury-estate-paintings/",
@@ -140,20 +114,46 @@
           "url": "https://www.dezeen.com/2026/09/24/herzog-de-meuron-mass-timber-massachusetts-school-amherst/",
           "image_url": "https://static.dezeen.com/uploads/2026/09/herzog-de-meuron-amherst-student-center_dezeen_2364_sq-852x852.jpg",
           "source_name": "Dezeen"
+        }
+      ]
+    },
+    {
+      "keyword": "빛과 조명",
+      "count": 10,
+      "previous_count": 4,
+      "trend": "rising",
+      "items": [
+        {
+          "title": "피벗 램프",
+          "url": "https://minimalissimo.com/articles/pivot-lamp",
+          "image_url": "https://minimalissimo.com/api/media/file/website-50-1200x630.jpg",
+          "source_name": "Minimalissimo"
         },
         {
-          "title": "르네 레비는 헤이워드 갤러리의 잔혹한 외관에 형광색 그림을 그립니다.",
-          "url": "https://www.designboom.com/art/renee-levi-transforms-hayward-gallery-facade-in-audemars-piguet-contemporary-commission/",
-          "image_url": "https://www.designboom.com/wp-content/uploads/2026/09/renee-levi-transforms-hayward-gallery-facade-in-audemars-piguet-contemporary-commission-designboom-100.jpeg",
-          "source_name": "Designboom Art"
+          "title": "​비디오 아트 비전: Doug Aitken의 빛의 풍경 - 오픈 하우스",
+          "url": "https://www.nowness.com/series/video-art-visions/doug-aitken-lightscape-open-house",
+          "image_url": "https://img.nowness.com/nowness-frontend/UspySIHVSK2DCOOunSTA_LIGHTSCAPE%20-%20OPEN%20HOUSE%20STILL%2019.jpg",
+          "source_name": "NOWNESS"
+        },
+        {
+          "title": "수레지던스",
+          "url": "https://leibal.com/interiors/su-residence/",
+          "image_url": "https://leibal.com/wp-content/uploads/2026/09/leibal-su-residence-zouhe-space-design-14.jpg",
+          "source_name": "Leibal"
+        },
+        {
+          "title": "로맨스와 멋진 디자인이 어우러진 파리 최고의 에어비앤비 14곳 (2026년)",
+          "url": "https://www.architecturaldigest.com/story/most-stylish-airbnbs-in-paris",
+          "image_url": "https://media.architecturaldigest.com/photos/6a19f8085cd17cd8fbc1dbf8/master/pass/imgi_122_0cb7ad77-7cc2-43d9-98be-23d9cd24b6b0.jpg",
+          "source_name": "Architectural Digest"
         }
       ]
     },
     {
       "keyword": "설치 미술",
-      "count": 9,
-      "previous_count": 0,
-      "trend": "new",
+      "count": 7,
+      "previous_count": 2,
+      "trend": "rising",
       "items": [
         {
           "title": "비디오 게임 설치",
@@ -182,41 +182,35 @@
       ]
     },
     {
-      "keyword": "리노베이션·재생",
-      "count": 8,
-      "previous_count": 0,
-      "trend": "new",
+      "keyword": "목재 건축",
+      "count": 3,
+      "previous_count": 1,
+      "trend": "rising",
       "items": [
         {
-          "title": "Residência em Campos do Jordão / Gil Mello Arquitetura",
-          "url": "https://www.archdaily.com/1185725/residencia-em-campos-do-jordao-gil-mello-arquitetura",
-          "image_url": "https://images.adsttc.com/media/images/6ab5/7dc0/e944/b300/0137/38eb/large_jpg/ok_02.jpg?1790279273",
-          "source_name": "ArchDaily"
+          "title": "극적인 샤레드 목재 외관을 갖춘 8개의 건물",
+          "url": "https://www.dezeen.com/2026/09/27/buildings-dramatic-charred-timber-facades/",
+          "image_url": "https://static.dezeen.com/uploads/2026/09/copeland-road-gresford-architects-london-residential-architecture_dezeen_2364_sq-1704x1704-1-852x852.jpg",
+          "source_name": "Dezeen"
         },
         {
-          "title": "하우스 MG",
-          "url": "https://leibal.com/interiors/house-mg/",
-          "image_url": "https://leibal.com/wp-content/uploads/2026/09/leibal-house-mg-anna-thurow-4.jpg",
-          "source_name": "Leibal"
+          "title": "Polysmiths의 런던 주택 리노베이션은 \"빛을 주 재료로\" 사용합니다.",
+          "url": "https://www.dezeen.com/2026/09/25/polysmiths-pine-house/",
+          "image_url": "https://static.dezeen.com/uploads/2026/09/polysmiths-pine-house-renovation-london-sq_dezeen_2364_col_1-852x852.jpg",
+          "source_name": "Dezeen"
         },
         {
-          "title": "임브리아니 – 밀라노의 두 아파트 리노베이션/co.arch 스튜디오",
-          "url": "https://www.archdaily.com/1185433/imbriani-renovation-of-two-apartments-in-milan-crch-studio",
-          "image_url": "https://images.adsttc.com/media/images/6ab0/f9ce/066f/0900/0145/7880/large_jpg/VIA_IMBRIANI_04b.jpg?1789983241",
-          "source_name": "ArchDaily"
-        },
-        {
-          "title": "고요한 구석",
-          "url": "https://leibal.com/interiors/serene-nook/",
-          "image_url": "https://leibal.com/wp-content/uploads/2026/09/leibal-serene-nook-parallel-structure-erben-25.jpg",
-          "source_name": "Leibal"
+          "title": "Herzog & de Meuron은 Mass-timber Massachusetts 학교 건물의 기초를 재사용합니다.",
+          "url": "https://www.dezeen.com/2026/09/24/herzog-de-meuron-mass-timber-massachusetts-school-amherst/",
+          "image_url": "https://static.dezeen.com/uploads/2026/09/herzog-de-meuron-amherst-student-center_dezeen_2364_sq-852x852.jpg",
+          "source_name": "Dezeen"
         }
       ]
     }
   ],
   "notable_names": [
-    "Dezeen Awards",
     "NOWNESS Shorts",
+    "Dezeen Awards",
     "Meryll Rogge",
     "Hong Kong",
     "Peter Zumthor",
@@ -225,5 +219,5 @@
     "DeafCity Hub",
     "Taryn Simon"
   ],
-  "has_comparison": false
+  "has_comparison": true
 }

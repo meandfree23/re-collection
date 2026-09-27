@@ -80844,5 +80844,230 @@
   },
   "depth_raw": 3,
   "depth_v": 2
+ },
+ "archdaily.com/1185203/auruboros-urban-memory-and-collective-dream-plastique-fantastique": {
+  "title_ko": "뉴욕의 도심을 관통하는 거대한 황금빛 공기 조형물",
+  "summary_ko": "플라스틱 판타스틱(Plastique Fantastique)과 불가리가 협업한 아우로보로스(auruBOROS)는 우로보로스의 형상을 차용한 300제곱미터 규모의 임시 도시 유기체다. 이 프로젝트는 뉴욕에서 건축과 공공 공간, 집단적 경험을 하나의 흐름으로 연결하며 2026년에 선보였다.",
+  "lens": "단단한 귀금속의 상징을 유연한 공기압 구조체로 치환해 도시의 풍경을 표면에 그대로 반사한다.",
+  "why_now": "영구적인 구축물 대신 공기압을 활용한 임시 설치 미술이 도시 공간의 물리적 경계를 유연하게 재편하는 대안으로 주목받고 있다.",
+  "mechanism": "내부 공기압으로 형태를 유지하는 대형 코일 구조체가 건물과 보행로 사이를 유기적으로 연결하며 동선을 확장한다.",
+  "sensory": "거대한 황금빛 막이 주변의 빛과 빌딩 숲을 표면에 왜곡하며 반사해 시각적인 긴장감을 만든다.",
+  "transfer": "공간 연출 시 가벼운 공기압 조형물을 활용해 기존 건축물의 하중 부담 없이 도심 한복판에 일시적인 황금빛 랜드마크를 구축할 수 있다.",
+  "context": "베를린을 기반으로 활동하는 마르코 카네바치(Marco Canevacci)와 예나 영(Yena Young)이 이끄는 플라스틱 판타스틱은 공기압을 활용한 임시 건축 작업을 선보여 왔다.",
+  "findings": [
+   {
+    "text": "아우로보로스 프로젝트는 베를린 기반의 아티스트 그룹 플라스틱 판타스틱이 불가리의 세르펜티 모티프를 재해석해 뉴욕 하이라인에 공개한 공공 미술 프로젝트다.",
+    "s": 4,
+    "quote": "베를린 기반의 아티스트 그룹 플라스틱 판타스틱(Plastique Fantastique)이 불가리의 세르펜티(Serpenti) 모티프를 재해석한 공공 미술 프로젝트 '아우로보로스(auruBOROS)'를 뉴욕 하이라인에 공개했다."
+   }
+  ],
+  "keywords": [
+   "공기압 구조체",
+   "플라스틱 판타스틱",
+   "임시 설치",
+   "공공 공간"
+  ],
+  "evidence": "auruBOROS transforms the ancient image of the Ouroboros into a temporary urban organism that moves through New York City, connecting architecture, public space, and collective experience.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "구체적인 임시 공공 미술 작업이며 시각적 장치가 뚜렷하나 원문 정보가 다소 간결하다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1185203/auruboros-urban-memory-and-collective-dream-plastique-fantastique",
+  "original_title": "auruBOROS - Urban Memory and Collective Dream / Plastique Fantastique",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 1175,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-09-28 02:18",
+  "research": {
+   "entities": [
+    "Plastique Fantastique",
+    "Bulgari",
+    "Marco Canevacci",
+    "Yena Young",
+    "auruBOROS"
+   ],
+   "questions": [
+    "Plastique Fantastique이 추구하는 임시 설치 건축(Temporary Installations)의 주요 철학은 무엇인가요?",
+    "auruBOROS 프로젝트가 뉴욕이라는 도시 환경에서 어떤 방식으로 공공성과 집단적 경험을 구현하고자 했나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Plastique Fantastique",
+     "url": "https://en.wikipedia.org/wiki/Plastique%20Fantastique"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Bulgari",
+     "url": "https://en.wikipedia.org/wiki/Bulgari"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "하이 주얼리의 변주, 대담한 커팅과 실루엣으로 정의하는 현대적 조형미",
+     "url": "https://www.wallpaper.com/watches-jewellery/high-jewellery-a-w-2026"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "뉴욕 하이라인을 점유한 불가리의 거대한 공기 조형물, 아우로보로스",
+     "url": "https://design-milk.com/bvlgari-auruboros-high-line-new-york/"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "제네바 시계의 날 2026, 독립 브랜드와 대형 하우스의 공존",
+     "url": "https://www.wallpaper.com/watches-jewellery/geneva-watch-days-2026-highlights"
+    }
+   ],
+   "used": [
+    4
+   ],
+   "chars": 3428
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "archdaily.com/1185028/house-of-people-dinelljohansson": {
+  "title_ko": "스웨덴 폴크스 후스의 복원, 근대 건축의 원형을 보존하는 태도",
+  "summary_ko": "스웨덴의 폴크스 후스(Folkets Hus)가 디넬요한손(DinellJohansson)의 설계로 리노베이션을 마쳤다. 원 건축가인 코쿰 루트링거 쇠데르스트룀(Kockum Luttinger Söderström)의 설계를 바탕으로 스벤 마르켈리우스(Sven Markelius)가 완성한 건물의 고유한 특징을 유지하며 실내를 재구성했다.",
+  "lens": "기존 건축의 원형을 훼손하지 않고 최소한의 개입으로 시대적 건축 언어를 보존하는 리노베이션의 태도를 보여준다.",
+  "why_now": "과거의 건축 유산을 철거 대신 보존하고 재해석하는 방식이 도시 재생의 핵심적인 과제로 부상하고 있다.",
+  "mechanism": "원래 건물의 독특한 공간 구성과 마감재를 그대로 살리면서 현대적인 기능 요구를 수용하는 신중한 개입 방식을 취한다.",
+  "sensory": "스벤 마르켈리우스 특유의 절제된 근대주의적 미감과 세월의 층위가 쌓인 공간의 질감이 조화를 이룬다.",
+  "transfer": "역사적 건축물을 다룰 때 기존 구조의 비례와 재료를 유지하면서 조명과 가구 배치를 통해 현대적 동선을 확보하는 전략을 참고할 수 있다.",
+  "context": "스벤 마르켈리우스는 스톡홀름의 근대적 도시 계획을 주도한 건축가로, 이번 프로젝트는 그가 남긴 유산을 존중하는 방향으로 진행되었다. 원문은 건축가들의 신중한 접근법을 강조하며 기존 건축물의 가치를 재발견하는 데 집중한다.",
+  "findings": [
+   {
+    "text": "스벤 마르켈리우스는 스톡홀름의 전후 도시 계획과 근대적 교외 지역 개발에 중요한 역할을 한 스웨덴의 근대 건축가이다.",
+    "s": 1,
+    "quote": "Sven Gottfrid Markelius (25 October 1889 – 24 February 1972) was a Swedish modernist architect. Markelius played an important role in the post-war urban planning of Stockholm"
+   }
+  ],
+  "keywords": [
+   "리노베이션",
+   "근대건축",
+   "스웨덴",
+   "보존",
+   "건축디자인"
+  ],
+  "evidence": "DinellJohansson won the competition for the interior design and sought to tread lightly, taking great care with Sven Markelius' masterful and wonderfully distinctive building.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "건축적 복원의 태도는 명확하나 구체적인 설계 기법이나 재료의 상세한 변화 양상을 확인할 수 있는 자료가 제한적이다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1185028/house-of-people-dinelljohansson",
+  "original_title": "House of People / DinellJohansson",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 1113,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-09-28 02:18",
+  "research": {
+   "entities": [
+    "DinellJohansson",
+    "Sven Markelius",
+    "Folkets Hus"
+   ],
+   "questions": [
+    "DinellJohansson은 Folkets Hus 리노베이션 과정에서 어떤 디자인 원칙을 적용했는가?",
+    "원 건축가인 Sven Markelius와 Kockum Luttinger Söderström의 원래 건축적 특징은 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Sven Markelius",
+     "url": "https://en.wikipedia.org/wiki/Sven%20Markelius"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 265
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "dazeddigital.com/fashion/article/71046/1/ferragamo-ss27-milan-fashion-week-mfw-maximilian-davis-fetish-latex": {
+  "title_ko": "페라가모 SS27: 1940년대 실루엣과 라텍스가 빚어낸 페티시즘의 변주",
+  "summary_ko": "막시밀리안 데이비스가 이끄는 페라가모의 SS27 컬렉션은 1940년대 워크웨어 실루엣을 현대적으로 재해석했다. 라텍스, 가죽, 파이톤 등 광택 있는 소재를 사용하여 1940년대의 절제된 구조에 페티시즘적 요소를 결합했다. 견고한 어깨 라인과 허리를 강조한 재킷 드레스부터 투명한 라텍스 트렌치코트까지, 시대적 복식 규범을 동시대적 감각으로 뒤틀었다.",
+  "lens": "1940년대의 경직된 신체 규범을 라텍스라는 가변적이고 관능적인 물성으로 치환해, 복식의 구조와 신체 태도 사이의 긴장감을 드러낸다.",
+  "why_now": "과거의 정형화된 실루엣이 현대의 소재와 결합하여 어떻게 새로운 신체적 해석을 끌어낼 수 있는지 보여주는 사례다.",
+  "mechanism": "1940년대의 넓은 어깨와 잘록한 허리라는 전형적인 구조를 유지하되, 이를 라텍스와 시어 소재로 재구성하여 의복이 신체에 가하는 압박과 관능을 시각화했다.",
+  "sensory": "라텍스의 차가운 광택과 피부에 밀착되는 질감이 1940년대의 딱딱한 테일러링과 대비되며, 시퀸 드레스가 반사하는 작은 빛의 파편들이 공간을 채운다.",
+  "transfer": "광택 있는 라텍스 소재를 정통 테일러링 재킷에 적용하여 실루엣의 무게감은 유지하되 질감의 이질성을 극대화하는 연출을 시도할 수 있다.",
+  "context": "막시밀리안 데이비스는 2022년 3월 페라가모의 크리에이티브 디렉터로 부임한 이후, 브랜드의 헤리티지인 가죽 공예와 테일러링을 현대적 감각으로 재해석해왔다. 1940년대의 구조적 미학을 페티시즘적 소재와 결합한 이번 시도는 그의 이전 작업들보다 한층 과감한 물성 실험으로 평가된다.",
+  "findings": [
+   {
+    "text": "막시밀리안 데이비스는 2022년 3월부터 페라가모의 크리에이티브 디렉터로 활동 중이다.",
+    "s": 2,
+    "quote": "British fashion designer who has been the creative director of Ferragamo since March 2022."
+   },
+   {
+    "text": "페라가모는 1927년 살바토레 페라가모가 피렌체에 설립한 이탈리아 럭셔리 브랜드이다.",
+    "s": 1,
+    "quote": "The company was founded in 1927 by Salvatore Ferragamo in Florence."
+   }
+  ],
+  "keywords": [
+   "페라가모",
+   "막시밀리안데이비스",
+   "라텍스",
+   "테일러링",
+   "페티시즘"
+  ],
+  "evidence": "Fabrications imbue the collection with flashes of fetishism through clinical shades of translucent rubber, leather shirting, or ties rendered in glossy python",
+  "kind": "런웨이·컬렉션",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "1940년대 실루엣과 라텍스라는 소재의 대비를 통해 복식 구조를 재해석한 구체적인 연출 의도가 드러난다.",
+  "v": 2,
+  "url": "https://www.dazeddigital.com/fashion/article/71046/1/ferragamo-ss27-milan-fashion-week-mfw-maximilian-davis-fetish-latex?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=in-pictures-flashes-of-fetishism-at-ferragamo-ss27",
+  "original_title": "In pictures: Flashes of fetishism at Ferragamo SS27",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 3019,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-09-28 02:19",
+  "research": {
+   "entities": [
+    "Ferragamo",
+    "Maximilian Davis",
+    "Anok Yai",
+    "Mona Tougaard",
+    "Paloma Elsesser"
+   ],
+   "questions": [
+    "1940년대 패션 실루엣이 현대적인 페티시즘 요소와 결합하여 어떻게 재해석되었는가?",
+    "막시밀리안 데이비스가 페라가모 컬렉션에서 라텍스와 같은 소재를 사용하여 의도한 미학적 메시지는 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Salvatore Ferragamo (company)",
+     "url": "https://en.wikipedia.org/wiki/Salvatore%20Ferragamo%20%28company%29"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Maximilian Davis",
+     "url": "https://en.wikipedia.org/wiki/Maximilian%20Davis"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 1450
+  },
+  "depth_raw": 4,
+  "depth_v": 2
  }
 }
