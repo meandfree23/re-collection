@@ -48297,5 +48297,412 @@
   },
   "depth_raw": 3,
   "depth_v": 2
+ },
+ "stashmedia.tv/blinkink-signs-australian-director-radheya-jang-for-worldwide-representation": {
+  "title_ko": "블링크, 애니메이션 감독 라데야 장 영입으로 상업 영상의 외연 확장",
+  "summary_ko": "제작 스튜디오 블링크(Blinkink)가 라데야 장(Radheya Jang) 감독을 전속 감독으로 영입했다. 장 감독은 강박장애를 다룬 애니메이션 '트레이딩 카드(Trading Cards)' 등 국제 영화제에서 수상한 단편 작업으로 인지도를 쌓아왔다. 지난 2년간 블링크와 협업하며 다이슨(Dyson), 워터에이드(WaterAid)의 상업 및 문화 프로젝트에 시각적 서사를 입혔다.",
+  "lens": "강박장애와 같은 내밀한 심리 상태를 초현실적인 시각 언어로 치환해 상업 광고의 서사 구조를 재편한다.",
+  "why_now": "기술 중심의 가전 브랜드가 제품의 사양보다 감독 고유의 조형적 서사를 앞세워 브랜드 인상을 구축하는 흐름이 뚜렷하다.",
+  "mechanism": "시간 여행과 타로 등 비선형적 소재를 활용해 복잡한 개념을 시각적으로 압축하고, 애니메이션의 유연한 연출로 브랜드 메시지를 전달한다.",
+  "sensory": "환각적인 비주얼과 절제된 움직임이 결합되어, 인물의 심리적 무게감을 시각적 질감으로 구현한다.",
+  "transfer": "광고의 기술적 설명을 나열하는 대신, 감독의 필름에서 보이는 초현실적 은유를 차용해 제품의 기능을 서사적 장치로 전환한다.",
+  "context": "라데야 장은 호주 출신으로 현재 런던을 기반으로 활동하며, 다이슨과 같은 기술 기업의 캠페인에 참여해왔다. 블링크는 애니메이션과 실사, 인형극 등 다양한 매체를 다루는 스튜디오로, 장 감독의 영입은 스튜디오의 상업적 포트폴리오를 다변화하는 전략적 행보이다.",
+  "findings": [
+   {
+    "text": "애니메이션 '트레이딩 카드'는 강박장애를 겪는 인물의 심리와 유년 시절의 순수함이 마모되는 과정을 다룬 다크 판타지 작품이다.",
+    "s": 1,
+    "quote": "An exploration of identity, mental health and the erosion of childhood innocence, Trading Cards is a dark fantasy animated film about the weight of living with Obsessive-compulsive disorder."
+   },
+   {
+    "text": "라데야 장은 강박장애에 대한 오해를 바로잡기 위해 환각적인 비주얼과 시간 여행, 타로 카드를 활용한다.",
+    "s": 1,
+    "quote": "Jang, who lives with OCD, aims to clear up misconceptions about the condition through trippy visuals, time travel, and tarot."
+   }
+  ],
+  "keywords": [
+   "라데야장",
+   "블링크",
+   "애니메이션",
+   "상업광고",
+   "서사구조"
+  ],
+  "evidence": "Radheya has worked with Blinkink for the past two years, injecting his visually inventive storytelling style to collaborations with brands like Dyson and WaterAid",
+  "kind": "뉴스·이슈",
+  "depth": 3,
+  "grounding": "full",
+  "v": 2,
+  "url": "https://www.stashmedia.tv/blinkink-signs-australian-director-radheya-jang-for-worldwide-representation/",
+  "original_title": "Blinkink Signs Australian Director Radheya Jang for Worldwide Representation",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 4312,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-09-27 10:22",
+  "research": {
+   "entities": [
+    "Radheya Jang",
+    "Blinkink",
+    "Dyson",
+    "WaterAid"
+   ],
+   "questions": [
+    "Radheya Jang 감독의 대표작인 애니메이션 단편 'Trading Cards'는 어떤 내용을 다루고 있는가?",
+    "프로덕션 스튜디오 Blinkink와 Radheya Jang 감독은 지난 2년동안 구체적으로 어떤 상업 및 문화적 프로젝트를 함께 진행했는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Radheya Jang",
+     "url": "https://www.radheya.net/"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Dyson (company)",
+     "url": "https://en.wikipedia.org/wiki/Dyson%20%28company%29"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "WaterAid",
+     "url": "https://en.wikipedia.org/wiki/WaterAid"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "다이슨의 성패를 가른 가전 혁신의 기록, 진공청소기부터 공기청정 헤드폰까지",
+     "url": "https://www.dezeen.com/2026/09/12/dyson-products-roundup/"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "다이슨 카메라젯의 궤적을 쫓는 윌 도른의 속도감 넘치는 영상 연출",
+     "url": "https://www.stashmedia.tv/will-dohrn-love-song-brush-up-on-the-dyson-camerajet/"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "카메라와 제트 분사로 칫솔의 오랜 공식을 다시 쓰다",
+     "url": "https://www.dezeen.com/2026/09/04/dyson-toothbrush-camerajet-interview/"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3
+   ],
+   "chars": 2826
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "elephant.art/a-norwegian-road-trip-with-catherine-opie": {
+  "title_ko": "캐서린 오피가 노르웨이 북부에서 포착한 산의 초상",
+  "summary_ko": "사진가 캐서린 오피가 2024년 노르웨이 북부 하이랜드와 피오르를 3주간 횡단하며 촬영한 사진전이다. 풍경을 정복의 대상이 아닌 교감의 상대로 바라보며, 산의 에너지와 질감을 담은 53점의 사진과 30점의 세라믹 조각을 선보인다. 전시와 함께 케이트 쿠나스가 연출한 다큐멘터리 영상이 오피의 작업 과정을 기록한다.",
+  "lens": "풍경을 수평적 배경이 아닌 수직적 인물로 재해석하여, 사진가의 시선이 대상을 포착하는 것이 아니라 대상과 시간을 공유하는 과정임을 증명한다.",
+  "why_now": "디지털 보정이 일상화된 시대에, 빛의 변화를 기다리는 물리적 시간을 통해 풍경 사진의 관습적 정복 서사를 해체한다.",
+  "mechanism": "수평적 파노라마 대신 수직적 프레임을 선택하여 산을 인물처럼 배치하고, 안개가 걷히거나 저녁 그림자가 지는 순간까지 며칠을 기다려 산의 고유한 윤곽을 드러낸다.",
+  "sensory": "전시장 벽면을 사파이어와 아주르 색조로 채워 북극의 차가운 빛을 재현하며, 산의 거친 질감과 겨울 하늘의 미묘한 색 변화가 시각적 긴장감을 만든다.",
+  "transfer": "광고나 영상 작업 시, 대상의 전체를 담으려 하지 말고 특정 시간대에 그림자가 만드는 단면과 텍스처에 집중하여 인물 사진을 찍듯 풍경을 프레이밍한다.",
+  "context": "인물 사진으로 명성을 얻은 캐서린 오피는 이번 작업에서 풍경을 사진가의 초상적 관점으로 접근하며 기존 장르의 관습을 비튼다. 전시가 열리는 포모(PoMo) 미술관은 1911년 우체국으로 지어진 건물로, 이번 전시는 공간의 역사성과 작가의 새로운 시도를 연결한다.",
+  "findings": [
+   {
+    "text": "캐서린 오피는 2024년 노르웨이 겨울 풍경을 3주간 횡단하며 53점의 사진과 30점의 세라믹 조각을 제작했다.",
+    "s": 1,
+    "quote": "Mountains Don’t Know Their Names brings together a new body of work developed during a three-week road trip through the Norwegian winter landscape in 2024. The exhibition presents 53 photographs from the series Norwegian"
+   },
+   {
+    "text": "조각 작업은 켄 프라이스의 작업 방식과 연결된 콜로라도 앤더슨 랜치 아트 센터에서의 레지던시를 통해 발전했다.",
+    "s": 1,
+    "quote": "Many of the works were developed during her residency at Anderson Ranch Arts Center in Colorado, a place closely connected to Ken Price, who worked there in the 1970s"
+   }
+  ],
+  "keywords": [
+   "캐서린 오피",
+   "풍경사진",
+   "노르웨이",
+   "포모미술관",
+   "초상"
+  ],
+  "evidence": "The idea of conquering is not in this show",
+  "kind": "전시",
+  "depth": 5,
+  "grounding": "full",
+  "v": 2,
+  "url": "https://elephant.art/a-norwegian-road-trip-with-catherine-opie/",
+  "original_title": "A Norwegian Road Trip With Catherine Opie",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 7093,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-09-27 10:22",
+  "research": {
+   "entities": [
+    "Catherine Opie",
+    "PoMo",
+    "Peder Lund",
+    "Derek Jarman",
+    "François Jullien"
+   ],
+   "questions": [
+    "캐서린 오피가 노르웨이 풍경 사진을 통해 기존의 풍경 사진 장르가 가진 '정복'의 개념을 어떻게 해체하고 있나요?",
+    "작가가 언급한 '기다림을 통한 초월'이라는 개념이 이번 전시의 사진 작업 방식과 결과물에 어떻게 반영되었나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Catherine Opie",
+     "url": "https://pomo.no/en/whats-on/catherine-opie"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Catherine Opie",
+     "url": "https://en.wikipedia.org/wiki/Catherine%20Opie"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Derek Jarman",
+     "url": "https://en.wikipedia.org/wiki/Derek%20Jarman"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 4566
+  },
+  "depth_raw": 5,
+  "depth_v": 2
+ },
+ "motionographer.com/news/motion-plus-design-new-york": {
+  "title_ko": "모션 플러스 디자인 뉴욕, 제작의 공정을 기록하는 20년의 기록",
+  "summary_ko": "모션그래퍼 창립 20주년을 기념하는 컨퍼런스 '모션 플러스 디자인'이 브루클린 룰렛에서 개최된다. 메디 하디, 사드 무사지, 발레 뒤아멜 등 모션 디자인 분야 실무자들이 연사로 참여해 제작 기술과 공정을 공유한다. 행사는 강연과 더불어 네트워킹 파티로 구성되어 업계 종사자 간의 실무적 담론을 응집한다.",
+  "lens": "화려한 결과물보다 제작자의 공정 자체에 집중해 온 매체가 뉴욕이라는 거점에서 실무적 담론을 어떻게 응집하는지 확인한다.",
+  "why_now": "기술의 급격한 발전 속에서도 창작의 본질적 가치를 재확인하고, 변화하는 시장 속에서 스튜디오가 실무적 전략을 교환하는 자리가 필요하다.",
+  "mechanism": "강연자와 청중 사이의 물리적 거리를 좁히는 룰렛의 공간 구조를 활용해, 1대1 대화가 가능한 밀도 높은 네트워킹 환경을 조성한다.",
+  "sensory": "브루클린 현장의 거친 질감과 강연자들의 구체적인 제작 타임라인이 겹쳐지는 현장감, 그리고 기술적 성취가 담긴 모션 그래픽 필름의 시각적 밀도.",
+  "transfer": "콘티 작업 시 화려한 최종 결과물보다 파이프라인의 핵심인 '공정의 효율성'을 강조하는 샷 구성에 집중한다.",
+  "context": "모션그래퍼는 지난 20년간 모션 디자인의 기술적 깊이를 탐구하며 업계의 실무 담론을 주도해 왔다. 이번 행사는 창작의 본질을 지키며 시장의 이동을 선제적으로 포착하려는 매체의 전략적 행보와 맞닿아 있다.",
+  "findings": [
+   {
+    "text": "모션그래퍼는 창립 20주년을 맞아 뉴욕 브루클린의 룰렛에서 컨퍼런스를 개최한다.",
+    "s": 4,
+    "quote": "모션 그래픽 매체 모션그래퍼가 창립 20주년을 맞아 뉴욕 브루클린의 룰렛에서 컨퍼런스를 개최한다."
+   },
+   {
+    "text": "런웨이AI는 비디오 생성 AI 모델 연구와 기술 개발을 전문으로 하는 미국 기업이다.",
+    "s": 3,
+    "quote": "Runway AI, Inc. (also known as Runway and RunwayML) is an American company headquartered in New York City that specializes in generative artificial intelligence research and technologies."
+   }
+  ],
+  "keywords": [
+   "모션그래퍼",
+   "모션디자인",
+   "컨퍼런스",
+   "브루클린",
+   "제작공정"
+  ],
+  "evidence": "This is the film Motion Plus Design opens with on Saturday, September 26, at Roulette in Brooklyn: the speakers, one by one, and the people standing behind the day.",
+  "kind": "행사·공모",
+  "depth": 3,
+  "grounding": "full",
+  "v": 2,
+  "url": "https://motionographer.com/news/motion-plus-design-new-york/",
+  "original_title": "Motion Plus Design New York",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 1074,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-09-27 10:23",
+  "research": {
+   "entities": [
+    "Motion Plus Design",
+    "Motionographer",
+    "Vallée Duhamel",
+    "Render Network",
+    "Runway"
+   ],
+   "questions": [
+    "Motion Plus Design 컨퍼런스가 모션 그래픽 업계에서 가지는 위상과 주요 특징은 무엇인가요?",
+    "이번 행사에서 언급된 연사들이 모션 디자인 분야에서 어떤 영향력을 가진 인물들인가요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Motion Plus Design New York 2026",
+     "url": "https://www.eventbrite.com/e/motion-plus-design-new-york-2026-tickets-1997860810465?discount=MOTIONOGRAPHER"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Wii MotionPlus",
+     "url": "https://en.wikipedia.org/wiki/Wii%20MotionPlus"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Runway (company)",
+     "url": "https://en.wikipedia.org/wiki/Runway%20%28company%29"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "모션그래퍼 20주년, 뉴욕에서 재확인하는 모션 디자인의 실무적 깊이",
+     "url": "https://motionographer.com/2026/09/24/motionographers-20th-celebrations-continue-this-saturday-theres-still-time-to-join-us/"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "디젤 SS27, 글렌 마틴스가 퇴임하며 남긴 도발적인 마지막 퍼포먼스",
+     "url": "https://www.dazeddigital.com/fashion/article/71033/1/diesel-ss27-milan-fashion-week-mfw-glenn-martens-final-show?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=diesel-ss27-backstage-photos-from-glenn-martens-lip-smacking-runway-orgy"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "창작의 가치는 변하지 않았다, 시장이 이동하는 신호를 읽는 법",
+     "url": "https://motionographer.com/news/who-moved-my-work-tim-thompson-on-revthinks-the-weekly-briefing/"
+    }
+   ],
+   "used": [
+    1,
+    3,
+    4,
+    6
+   ],
+   "chars": 2354
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "yellowtrace.com.au/projekt-v-arhitektura-treehouse-apartment-sarajevo-interior-architecture": {
+  "title_ko": "사라예보의 일상 속으로, 건축적 사유를 심는 트리하우스 아파트",
+  "summary_ko": "프로젝트 V 아키텍처(Project V Architecture)가 사라예보의 오스트리아-헝가리 시대 건물 내부를 100제곱미터 규모로 재설계했다. 공간의 중심에는 현지 가문비나무로 제작한 트리하우스 구조물을 배치하고, 체리나무 베니어판을 바닥부터 가구까지 연속적으로 연결해 일상과 건축이 맞닿은 환경을 구현했다.",
+  "lens": "가구와 건축 사이의 스케일을 다루는 트리하우스는 아이들에게 공간의 물리적 구조를 놀이로 체득하게 하는 교육적 장치다.",
+  "why_now": "공공 건축에만 국한되었던 보스니아의 건축적 경험을 가정 내부로 끌어들여, 지역 재료와 공예를 일상의 일부로 복원하려는 시도다.",
+  "mechanism": "체리나무 베니어판을 바닥 경계에서 시작해 주방과 수납장으로 치솟게 설계한 '거주 가능한 걸레받이'가 공간의 수평적 연속성을 확보하며 기능을 통합한다.",
+  "sensory": "가문비나무의 거친 질감과 체리나무의 매끄러운 결이 대비를 이루며, 린넨 커튼이 빛의 투과율을 조절해 공간의 개방감을 물리적으로 제어한다.",
+  "transfer": "공간의 높낮이가 다른 다층 구조물을 실내에 배치해 동선을 입체적으로 분리하고, 벽면의 마감재를 가구의 일부로 연장해 시각적 노이즈를 최소화하는 레이아웃을 적용한다.",
+  "context": "프로젝트 V 아키텍처는 이전 작업인 젬랴(Zemlja) 아파트에서부터 보스니아의 지역 재료와 제작 방식을 현대적 인테리어에 녹여내는 작업을 지속해왔다.",
+  "findings": [],
+  "keywords": [
+   "보스니아건축",
+   "목재가구",
+   "공간설계",
+   "트리하우스",
+   "프로젝트V"
+  ],
+  "evidence": "Project V Architecture’s 100-square-metre retrofit sits inside an Austro-Hungarian-era courtyard block in Sarajevo",
+  "kind": "프로젝트",
+  "depth": 5,
+  "grounding": "full",
+  "v": 2,
+  "url": "https://www.yellowtrace.com.au/projekt-v-arhitektura-treehouse-apartment-sarajevo-interior-architecture/",
+  "original_title": "This Sarajevo Apartment is Teaching its Children What Architecture Is For.",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 3477,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-09-27 10:23",
+  "research": {
+   "entities": [
+    "Project V Architecture",
+    "Krivaja Homes",
+    "Zanat",
+    "Artisan",
+    "Sarajevo"
+   ],
+   "questions": [
+    "보스니아 헤르체고비나의 현대 건축에서 지역 목재와 전통 공예를 활용하는 것이 왜 중요한 사회적 의미를 갖는가?",
+    "Treehouse Apartment의 디자인 요소인 '거주 가능한 걸레받이(inhabitable skirting board)'는 공간의 기능성과 미학을 어떻게 통합하고 있는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "SHANTANU STARICK.",
+     "url": "https://www.shantanustarick.com/"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 1096
+  },
+  "depth_raw": 5,
+  "depth_v": 2
+ },
+ "elephant.art/its-systemic-collapse-as-poetry-oda-iselin-sonderland-on-the-matrician": {
+  "title_ko": "오다 이셀린 손더랜드: 생태적 붕괴를 시적 서사로 치환하는 법",
+  "summary_ko": "오다 이셀린 손더랜드(Oda Iselin Sønderland)의 전시 '더 매트리션(The Matrician)'은 수채화, 자연물에서 채취한 오브제, 퍼포먼스를 결합해 가상의 생명체와 그들의 종말을 다룬다. 작가는 과학적 사실에 기반한 물리적 한계 안에서 생태계의 순환과 붕괴를 시각화하며, 박물관적 전시 방식을 통해 역사가 기록되고 왜곡되는 과정을 탐구한다.",
+  "lens": "박물관의 전시 문법을 차용해 가상의 생명체를 실존하는 유물처럼 배치함으로써, 종말의 서사를 관찰 가능한 과학적 사실로 둔갑시킨다.",
+  "why_now": "기후 위기와 생태적 붕괴라는 무거운 주제를 거대 담론이 아닌, 개별 생명체의 죽음과 그 잔해라는 미시적이고 구체적인 서사로 전환한다.",
+  "mechanism": "자연물에 붕사 결정을 증식시키는 화학적 과정과 수채화의 미세한 점묘 기법을 결합해, 입자 단위의 물리적 현상을 생명체의 형상으로 구현한다.",
+  "sensory": "빛에 부유하는 먼지 같은 미세한 점들이 화면을 채우고, 뼈와 수정이 뒤섞인 오브제들이 차가운 전시대 위에서 박제된 생명력을 드러낸다.",
+  "transfer": "가상의 생명체를 설계할 때 현재의 물리 법칙을 엄격히 적용해 리얼리티를 확보하고, 특정 오브제의 생성 과정을 영상의 타임랩스로 활용해 서사의 설득력을 높인다.",
+  "context": "오슬로 국립예술대학(Oslo National Academy of the Arts)에서 그래픽 디자인과 일러스트레이션을 전공한 작가는 만화의 구조적 서사와 히로시게의 원근법적 깊이에서 조형적 영감을 얻는다. 전시가 열리는 '개더링(Gathering)'은 앞서 유닛 모션 디자인이 매직: 더 개더링 프로젝트를 선보였던 공간이기도 하다.",
+  "findings": [
+   {
+    "text": "오슬로 국립예술대학은 시각 예술, 디자인, 공연 예술 교육을 제공하는 노르웨이의 고등 교육 기관이다.",
+    "s": 1,
+    "quote": "The Oslo National Academy of the Arts (Norwegian: Kunsthøgskolen i Oslo, KHiO) is a tertiary institution in Oslo, Norway, that provides education in visual arts, design and performing arts."
+   }
+  ],
+  "keywords": [
+   "생태적붕괴",
+   "수채화",
+   "오브제",
+   "박물관학",
+   "시적서사"
+  ],
+  "evidence": "It’s systemic collapse as poetry.",
+  "kind": "전시",
+  "depth": 4,
+  "grounding": "full",
+  "v": 2,
+  "url": "https://elephant.art/its-systemic-collapse-as-poetry-oda-iselin-sonderland-on-the-matrician/",
+  "original_title": "“It’s Systemic Collapse as Poetry”: Oda Iselin Sønderland on The Matrician",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 7095,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-09-27 10:23",
+  "research": {
+   "entities": [
+    "Oda Iselin Sønderland",
+    "Olivier Schrauwen",
+    "Utagawa Hiroshige",
+    "Oslo National Academy of the Arts",
+    "Gathering"
+   ],
+   "questions": [
+    "오다 이셀린 손더랜드의 작품에서 나타나는 일본 시각 문화의 영향은 구체적으로 어떤 조형적 특징으로 드러나는가?",
+    "작가가 언급한 '과학적 한계 내에서의 상상력'이 생태적 붕괴를 다루는 예술적 서사에 어떤 방식으로 기여하는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Oslo National Academy of the Arts",
+     "url": "https://en.wikipedia.org/wiki/Oslo%20National%20Academy%20of%20the%20Arts"
+    },
+    {
+     "n": 2,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "유닛 모션 디자인, 매직: 더 개더링의 서사를 스테인드글라스로 재구성하다",
+     "url": "https://www.stashmedia.tv/unit-motion-design-fractures-reality-in-new-mtg-trailer/"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 817
+  },
+  "depth_raw": 4,
+  "depth_v": 2
  }
 }
