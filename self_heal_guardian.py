@@ -14,6 +14,7 @@ MANIFEST_FILE = os.path.join(DATA_DIR, "manifest.json")
 FINGERPRINTS_FILE = os.path.join(DATA_DIR, "persistent_fingerprints.json")
 
 KST = timezone(timedelta(hours=9))
+TITLE_DUP_THRESHOLD = 0.82
 translator = GoogleTranslator(source='auto', target='ko')
 
 NOISE_PATTERNS = [
@@ -189,8 +190,10 @@ def run_self_healing_guardian():
                     continue
 
                 is_dup_t = False
+                # 2026-09-27 FIX: 0.50은 아카이브가 1,000건을 넘자 거의 모든 신규 항목을 '비슷한 제목'으로 오판해
+                # 지웠다(예: 'Victoria Harbour Residence' vs 'Greenwich Residence'). 수집기와 같은 0.82로 맞춘다.
                 for prev_t in g_seen_titles:
-                    if (t_k and SequenceMatcher(None, t_k, prev_t).ratio() > 0.50) or (ot_k and SequenceMatcher(None, ot_k, prev_t).ratio() > 0.50):
+                    if (t_k and SequenceMatcher(None, t_k, prev_t).ratio() > TITLE_DUP_THRESHOLD) or (ot_k and SequenceMatcher(None, ot_k, prev_t).ratio() > TITLE_DUP_THRESHOLD):
                         is_dup_t = True
                         break
                 if is_dup_t:

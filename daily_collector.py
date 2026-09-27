@@ -491,8 +491,10 @@ def process_single_entry(entry, source):
     # Strict 100% Hangul translation gate
     title_ko = safe_translate(title, is_title=True)
     if not title_ko:
-        print(f"[BLOCKED UNTRANSLATED ENGLISH]: {title[:50]}...")
-        return None
+        # 2026-09-27: 번역 실패(GitHub IP 차단)로 항목을 버리지 않는다. deep_reader.py가 원문을 읽고
+        # 한국어 헤드라인·설명을 새로 쓰므로, 여기서는 원제를 임시로 둔다.
+        print(f"[KEEP UNTRANSLATED → deep_reader가 한국어화]: {title[:50]}...")
+        title_ko = title
 
     # Synthesize clean 2-sentence curatorial insight (Zero RSS boilerplate noise)
     snippet_ko = clean_boilerplate_and_synthesize_insight(
@@ -616,7 +618,7 @@ def save_persistent_fingerprints(ledger):
     except Exception as e:
         print(f"Error saving fingerprints: {e}")
 
-def run_daily_collection(limit_per_source=4):
+def run_daily_collection(limit_per_source=6):
     print(f"[{datetime.now().strftime('%Y-%m-%d %H:%M:%S')}] Starting Strict Taste-Driven Scraping with Persistent Global Ledger...")
     
     os.makedirs(os.path.join(BASE_DIR, "data"), exist_ok=True)

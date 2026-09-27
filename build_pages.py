@@ -167,7 +167,7 @@ def build_pages():
         ot_key = normalize_title_key(orig_title)
         is_dup = False
         for prev_t in seen_titles:
-            if (t_key and SequenceMatcher(None, t_key, prev_t).ratio() > 0.50) or (ot_key and SequenceMatcher(None, ot_key, prev_t).ratio() > 0.50):
+            if (t_key and SequenceMatcher(None, t_key, prev_t).ratio() > 0.82) or (ot_key and SequenceMatcher(None, ot_key, prev_t).ratio() > 0.82):
                 is_dup = True
                 break
         if is_dup:
