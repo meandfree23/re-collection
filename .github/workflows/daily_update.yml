@@ -20,6 +20,11 @@ on:
 permissions:
   contents: write
 
+# 실행이 겹치면 뒤 실행이 기다린다(동시 push 충돌 방지)
+concurrency:
+  group: re-collection-daily
+  cancel-in-progress: false
+
 env:
   TZ: 'Asia/Seoul'
 
@@ -76,4 +81,35 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add -A
-          git diff --staged --quiet || (git commit -m "Auto-update: Daily Curated Spatial & Media Journal ($GITHUB_RUN_NUMBER)" && git push origin master)
+          if git diff --staged --quiet; then echo "변경 없음"; exit 0; fi
+          git commit -m "Auto-update: Daily Curated Spatial & Media Journal ($GITHUB_RUN_NUMBER)"
+          # 실행 중에 다른 커밋이 들어왔으면 그 위에 얹어서 올린다
+          for i in 1 2 3; do
+            git push origin master && exit 0
+            git pull --rebase -X theirs origin master || { git rebase --abort; exit 1; }
+          done
+          exit 1
+
+      - name: Run Summary (자가 진단)
+        if: always()
+        run: |
+          python - <<'PY' >> "$GITHUB_STEP_SUMMARY"
+          import json, os, glob
+          from datetime import datetime, timezone, timedelta
+          today = datetime.now(timezone(timedelta(hours=9))).strftime('%Y-%m-%d')
+          deep = json.load(open('data/deep_reads.json', encoding='utf-8')) if os.path.exists('data/deep_reads.json') else {}
+          import deep_reader as dr
+          rows = []
+          for fp in sorted(glob.glob('data/daily/*.json'), reverse=True)[:7]:
+              items = json.load(open(fp, encoding='utf-8'))
+              ks = [dr.url_key(x.get('url', '')) for x in items]
+              ready = sum(1 for k in ks if k in deep)
+              researched = sum(1 for k in ks if (deep.get(k) or {}).get('v', 0) >= dr.VERSION)
+              rows.append(f"| {os.path.basename(fp)[:-5]} | {len(items)} | {ready} | {researched} |")
+          pending = sum(1 for v in deep.values() if v.get('v', 0) < dr.VERSION)
+          print(f"### RE:COLLECTION 실행 요약 ({today})")
+          print("| 호 | 수집 | 정독 완료 | 리서치 v2 |")
+          print("|---|---|---|---|")
+          print("\n".join(rows))
+          print(f"\n리서치 v2 업그레이드 대기: {pending}건")
+          PY
