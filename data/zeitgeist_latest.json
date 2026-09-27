@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-09-27 10:22 KST",
+  "generated_at": "2026-09-27 10:59 KST",
   "period": "2026.09.20 - 2026.09.27",
-  "total_articles": 449,
+  "total_articles": 474,
   "genre_breakdown": [
     {
       "genre": "동시대 미술",
-      "count": 235
+      "count": 248
     },
     {
       "genre": "공간·건축",
-      "count": 150
+      "count": 159
     },
     {
       "genre": "아방가르드 패션",
-      "count": 42
+      "count": 45
     },
     {
       "genre": "미디어 파사드·3D",
@@ -23,10 +23,16 @@
   "themes": [
     {
       "keyword": "박물관·전시",
-      "count": 41,
+      "count": 42,
       "previous_count": 0,
       "trend": "new",
       "items": [
+        {
+          "title": "A Love Beyond What We Name Us: Rodrigo Ramírez Rodríguez at Murmurs Gallery",
+          "url": "https://elephant.art/rodrigo-ramirez-rodriguez/",
+          "image_url": "https://elephant.art/wp-content/uploads/2026/07/zine-option-1-scaled.jpg",
+          "source_name": "Elephant"
+        },
         {
           "title": "A Norwegian Road Trip With Catherine Opie",
           "url": "https://elephant.art/a-norwegian-road-trip-with-catherine-opie/",
@@ -44,12 +50,6 @@
           "url": "https://www.juxtapoz.com/news/painting/molly-bounds-the-light-that-loses-the-night-that-wins-mrs-gallery-maspeth-ny/",
           "image_url": "https://www.juxtapoz.com/media/k2/items/cache/7bac6ecdec7150ac8a0c3053192d4431_L.jpg",
           "source_name": "Juxtapoz"
-        },
-        {
-          "title": "디자인 애호가를 위한 홍콩 여행 가이드: 인사이더의 볼거리, 숙박, 먹거리, 쇼핑",
-          "url": "https://www.architecturaldigest.com/story/design-lovers-guide-to-hong-kong",
-          "image_url": "https://media.architecturaldigest.com/photos/6ab14cb51e80f4009c9e3f80/master/pass/M+%20building_5.jpg",
-          "source_name": "Architectural Digest"
         }
       ]
     },
@@ -87,10 +87,16 @@
     },
     {
       "keyword": "빛과 조명",
-      "count": 12,
+      "count": 13,
       "previous_count": 0,
       "trend": "new",
       "items": [
+        {
+          "title": "피벗 램프",
+          "url": "https://minimalissimo.com/articles/pivot-lamp",
+          "image_url": "https://minimalissimo.com/api/media/file/website-50-1200x630.jpg",
+          "source_name": "Minimalissimo"
+        },
         {
           "title": "수레지던스",
           "url": "https://leibal.com/interiors/su-residence/",
@@ -108,21 +114,27 @@
           "url": "https://www.dezeen.com/2026/09/25/jesse-butterfield-a-veiled-boundary/",
           "image_url": "https://static.dezeen.com/uploads/2026/09/jesse-butterfield-a-veiled-boundary-exhibition_dezeen_2364_col_5-852x852.jpg",
           "source_name": "Dezeen"
-        },
-        {
-          "title": "새로운 MTG 트레일러의 유닛 모션 디자인 파단 현실",
-          "url": "https://www.stashmedia.tv/unit-motion-design-fractures-reality-in-new-mtg-trailer/",
-          "image_url": "http://www.stashmedia.tv/wp-content/uploads/Magic-The-Gathering-Fractured-Reality-trailer-by-Unit-Motion-Design-STASH-MAGAZINE5-1920x1080.jpg",
-          "source_name": "Stash Media"
         }
       ]
     },
     {
       "keyword": "콘크리트 물성",
-      "count": 10,
+      "count": 12,
       "previous_count": 0,
       "trend": "new",
       "items": [
+        {
+          "title": "VitrA 타일별 메타코드 타일",
+          "url": "https://www.dezeen.com/2026/09/24/metacode-vitra-tiles-dezeen-showroom/",
+          "image_url": "https://static.dezeen.com/uploads/2026/09/metacode-vitra-tiles-design_dezeen_2364_sq-852x852.jpg",
+          "source_name": "Dezeen"
+        },
+        {
+          "title": "비야누벨바그",
+          "url": "https://leibal.com/interiors/villa-nouvelle-vague/",
+          "image_url": "https://leibal.com/wp-content/uploads/2026/09/leibal-villa-nouvelle-vague-magalie-munters-architecture-9.jpg",
+          "source_name": "Leibal"
+        },
         {
           "title": "런던의 에일즈베리 저택의 콘크리트 잔해에서 해리엇 메나 힐은 공동체를 보존합니다.",
           "url": "https://www.thisiscolossal.com/2026/09/harriet-mena-hill-aylesbury-estate-paintings/",
@@ -134,27 +146,21 @@
           "url": "https://www.dezeen.com/2026/09/24/estudio-zero-amplitude-pink-coliving-oaxaca/",
           "image_url": "https://static.dezeen.com/uploads/2026/08/amplitude-coliving-estudio-zero-oaxaca-pink-coliving_dezeen_2364_sq-852x852.jpg",
           "source_name": "Dezeen"
-        },
-        {
-          "title": "Herzog & de Meuron은 Mass-timber Massachusetts 학교 건물의 기초를 재사용합니다.",
-          "url": "https://www.dezeen.com/2026/09/24/herzog-de-meuron-mass-timber-massachusetts-school-amherst/",
-          "image_url": "https://static.dezeen.com/uploads/2026/09/herzog-de-meuron-amherst-student-center_dezeen_2364_sq-852x852.jpg",
-          "source_name": "Dezeen"
-        },
-        {
-          "title": "르네 레비는 헤이워드 갤러리의 잔혹한 외관에 형광색 그림을 그립니다.",
-          "url": "https://www.designboom.com/art/renee-levi-transforms-hayward-gallery-facade-in-audemars-piguet-contemporary-commission/",
-          "image_url": "https://www.designboom.com/wp-content/uploads/2026/09/renee-levi-transforms-hayward-gallery-facade-in-audemars-piguet-contemporary-commission-designboom-100.jpeg",
-          "source_name": "Designboom Art"
         }
       ]
     },
     {
       "keyword": "런웨이·쇼",
-      "count": 8,
+      "count": 9,
       "previous_count": 0,
       "trend": "new",
       "items": [
+        {
+          "title": "밀라노 패션 위크에서 프라다는 치마를 입고 연마합니다.",
+          "url": "https://www.wallpaper.com/fashion-beauty/prada-ss-2027-womenswear-show-review-milan-fashion-week",
+          "image_url": "https://cdn.mos.cms.futurecdn.net/j5rzTaFFwrX5sbGmznpaUJ-1920-80.jpg",
+          "source_name": "Wallpaper*"
+        },
         {
           "title": "뎀나는 ‘전형적인 구찌‘ 2학년 쇼를 위해 상점을 엽니다",
           "url": "https://www.wallpaper.com/fashion-beauty/gucci-ss-2027-demna-show-review-milan-fashion-week",
@@ -171,12 +177,6 @@
           "title": "디젤 SS27: 글렌 마틴스의 립 스매킹 런웨이 난교 백스테이지 사진",
           "url": "https://www.dazeddigital.com/fashion/article/71033/1/diesel-ss27-milan-fashion-week-mfw-glenn-martens-final-show?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=diesel-ss27-backstage-photos-from-glenn-martens-lip-smacking-runway-orgy",
           "image_url": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/5/1455471.jpg",
-          "source_name": "Dazed"
-        },
-        {
-          "title": "리자 킨 (Liza Keane) 은 런던 패션 위크 (London Fashion Week) 의 어둡고 폭풍우가 몰아",
-          "url": "https://www.dazeddigital.com/fashion/article/71003/1/liza-keane-ss27-london-fashion-week-lfw-newgen-rising-designer?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=liza-keane-is-london-fashion-week-s-dark-and-stormy-saviour",
-          "image_url": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/5/1455105.jpg",
           "source_name": "Dazed"
         }
       ]
@@ -215,8 +215,8 @@
     }
   ],
   "notable_names": [
-    "Dezeen Awards",
     "NOWNESS Shorts",
+    "Dezeen Awards",
     "Hong Kong",
     "Peter Zumthor",
     "John Wilson",
