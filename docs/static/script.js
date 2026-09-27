@@ -1,627 +1,185 @@
-let currentResults = (window.PRELOADED_ARCHIVE && Array.isArray(window.PRELOADED_ARCHIVE)) ? [...window.PRELOADED_ARCHIVE] : [];
+/* RE:COLLECTION — 미니멀 리더 (2026-09-27)
+ * 데이터: window.MANIFEST_DATA, window.DAILY_NOTES, data/daily/{date}.js (window.DAILY_ISSUE_yyyy_mm_dd)
+ * 마크업은 build_pages.py 의 card_html / note_html / pending_html 과 같다.
+ */
+(function () {
+  'use strict';
 
-document.addEventListener('DOMContentLoaded', () => {
-    const resultsContainer = document.getElementById('results-container');
-    const refreshDailyBtn = document.getElementById('refresh-daily-btn');
-    const currentDateDisplay = document.getElementById('current-date-display');
-    const currentIssueText = document.getElementById('current-issue-text');
+  var GENRE_KO = { 'SPACE & ARCH': '공간·건축', 'CONTEMPORARY ART': '동시대 미술', 'MEDIA FACADE & 3D': '미디어·3D', 'AVANT-GARDE FASHION': '패션' };
+  var WEEK = ['일', '월', '화', '수', '목', '금', '토'];
+  var manifest = window.MANIFEST_DATA || { dates: [], counts: {} };
+  var dates = (manifest.dates || []).slice();
+  var notes = window.DAILY_NOTES || {};
 
-    // Dynamic KST Real-Time Site Time Engine
-    function syncRealtimeKstSiteTime() {
-        const now = new Date();
-        const kstOptions = { timeZone: 'Asia/Seoul', year: 'numeric', month: '2-digit', day: '2-digit' };
-        const formatter = new Intl.DateTimeFormat('en-CA', kstOptions); // returns YYYY-MM-DD
-        const todayKst = formatter.format(now); // e.g. "2026-09-02"
+  var grid = document.getElementById('results-container');
+  var emptyEl = document.getElementById('rc-empty');
+  var pendingWrap = document.getElementById('rc-pending-wrap');
+  var noteEl = document.getElementById('rc-daily-note');
+  var countEl = document.getElementById('rc-count');
+  var labelEl = document.getElementById('rc-issue-label');
+  var selectEl = document.getElementById('rc-issue-select');
+  var prevBtn = document.getElementById('rc-prev');
+  var nextBtn = document.getElementById('rc-next');
+  var searchEl = document.getElementById('rc-search');
+  var filterBtns = Array.prototype.slice.call(document.querySelectorAll('.rc-filters button'));
 
-        const monthNames = ["JAN", "FEB", "MAR", "APR", "MAY", "JUN", "JUL", "AUG", "SEP", "OCT", "NOV", "DEC"];
-        const kstMonth = parseInt(todayKst.split('-')[1], 10);
-        const kstDay = parseInt(todayKst.split('-')[2], 10);
-        const kstYear = todayKst.split('-')[0];
+  var state = { date: grid ? grid.getAttribute('data-date') : dates[0], items: null, filter: 'ALL', q: '' };
 
-        if (currentDateDisplay) {
-            currentDateDisplay.innerText = `${monthNames[kstMonth - 1]} ${kstDay}, ${kstYear}`;
-        }
-        if (currentIssueText) {
-            currentIssueText.innerText = `ISSUE ${String(kstMonth).padStart(2, '0')}.${String(kstDay).padStart(2, '0')} — DAILY CURATION`;
-        }
+  function esc(s) {
+    return String(s == null ? '' : s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;').replace(/'/g, '&#39;');
+  }
+  function koreanDate(ymd) {
+    var p = (ymd || '').split('-');
+    if (p.length !== 3) return ymd;
+    var d = new Date(+p[0], +p[1] - 1, +p[2]);
+    return (+p[1]) + '월 ' + (+p[2]) + '일 ' + WEEK[d.getDay()] + '요일';
+  }
+  function depthOf(it) { return parseInt(((it.deep || {}).depth) || 0, 10); }
 
-        // Dynamically update date chips to accurately reflect today
-        issueDateChips.forEach(chip => {
-            const chipDate = chip.getAttribute('data-date');
-            if (!chipDate) return;
-            const mmDd = chipDate.substring(5).replace('-', '.');
-            if (chipDate === todayKst) {
-                chip.innerText = `★ ${mmDd} 오늘`;
-            } else {
-                chip.innerText = `${mmDd} 호`;
-            }
-        });
+  function cardHtml(it) {
+    var dp = it.deep || {};
+    var url = it.url || '#';
+    var pick = depthOf(it) >= 5;
+    var media = it.image_url ? '<a class="rc-card-media" href="' + esc(url) + '" target="_blank" rel="noopener noreferrer" tabindex="-1"><img src="' + esc(it.image_url) + '" alt="" loading="lazy" onerror="this.parentElement.classList.add(\'is-empty\');this.remove()"></a>' : '';
+    var rows = [['왜 지금', dp.why_now], ['작동 방식', dp.mechanism], ['감각과 물성', dp.sensory], ['계보·맥락', dp.context], ['연출로 가져갈 것', dp.transfer]]
+      .filter(function (r) { return r[1]; }).map(function (r) { return '<dt>' + r[0] + '</dt><dd>' + esc(r[1]) + '</dd>'; }).join('');
+    var srcs = dp.sources || [];
+    var map = {}; srcs.forEach(function (x) { map[x.n] = x; });
+    var findings = (dp.findings || []).length ? '<ul class="rc-findings">' + dp.findings.map(function (f) {
+      var s = map[f.s] || {};
+      return '<li>' + esc(f.text) + ' <a href="' + esc(s.url || '#') + '" target="_blank" rel="noopener noreferrer">' + esc(s.type || '출처') + '</a></li>';
+    }).join('') + '</ul>' : '';
+    var evidence = dp.evidence ? '<blockquote class="rc-quote">' + esc(dp.evidence) + '</blockquote>' : '';
+    var sources = srcs.length ? '<ul class="rc-sources">' + srcs.map(function (x) {
+      return '<li><span>' + esc(x.type) + '</span><a href="' + esc(x.url) + '" target="_blank" rel="noopener noreferrer">' + esc(x.title) + '</a></li>';
+    }).join('') + '</ul>' : '';
+    var foot = [];
+    if (it.original_title) foot.push('원제 ' + esc(it.original_title));
+    if (dp.depth) foot.push('가치 ' + parseInt(dp.depth, 10) + '/5' + (dp.depth_reason ? ' · ' + esc(dp.depth_reason) : ''));
+    if ((dp.keywords || []).length) foot.push(dp.keywords.slice(0, 5).map(function (k) { return '#' + esc(k); }).join(' '));
+    if (dp.grounding === 'thin') foot.push('원문 정보가 적어 해석을 절제했습니다.');
+    var deep = '';
+    if (dp.lens) {
+      deep = '<p class="rc-card-lens">' + esc(dp.lens) + '</p>' +
+        '<details class="rc-card-deep"><summary>깊이 읽기' + (srcs.length ? '<span>자료 ' + srcs.length + '</span>' : '') + '</summary>' +
+        '<dl>' + rows + '</dl>' + findings + evidence + sources +
+        '<div class="rc-card-foot">' + foot.map(function (x) { return '<p>' + x + '</p>'; }).join('') + '</div></details>';
     }
+    var meta = '<span>' + esc(GENRE_KO[it.genre] || it.genre || '') + '</span><span>' + esc(it.source_name || '') + '</span>' + (pick ? '<span class="rc-pick">편집장 픽</span>' : '');
+    return '<article class="rc-card' + (pick ? ' is-pick' : '') + '" data-genre="' + esc(it.genre || '') + '" data-depth="' + depthOf(it) + '">' +
+      media + '<div class="rc-card-body"><p class="rc-card-meta">' + meta + '</p>' +
+      '<h3 class="rc-card-title"><a href="' + esc(url) + '" target="_blank" rel="noopener noreferrer">' + esc(it.title) + '</a></h3>' +
+      '<p class="rc-card-summary">' + esc(it.snippet) + '</p>' + deep + '</div></article>';
+  }
 
-    // Issue Date Switcher (Creative Insight Daily Partition Architecture)
-    const issueDateChips = document.querySelectorAll('.issue-date-chip');
-    syncRealtimeKstSiteTime();
+  function pendingHtml(list) {
+    if (!list.length) return '';
+    return '<details class="rc-pending"><summary>정독 대기 ' + list.length + '건</summary>' +
+      '<p>원문을 읽고 한국어로 정리하는 중입니다. 그전에는 원문으로 먼저 보실 수 있어요.</p><ul>' +
+      list.map(function (it) {
+        return '<li><a href="' + esc(it.url || '#') + '" target="_blank" rel="noopener noreferrer">' + esc(it.original_title || it.title) + '</a><span>' + esc(it.source_name || '') + '</span></li>';
+      }).join('') + '</ul></details>';
+  }
 
-    let activeDateFilter = issueDateChips.length > 0 ? (issueDateChips[0].getAttribute('data-date') || 'ALL') : 'ALL';
+  function noteHtml(note, ymd) {
+    if (!note || !note.headline) return '';
+    var threads = (note.threads || []).slice(0, 3).map(function (t) {
+      var links = (t.items || []).slice(0, 4).map(function (x) { return '<a href="' + esc(x.url || '#') + '" target="_blank" rel="noopener noreferrer">' + esc(x.title) + '</a>'; }).join('');
+      return '<li><strong>' + esc(t.name) + '</strong><p>' + esc(t.note) + '</p><div>' + links + '</div></li>';
+    }).join('');
+    return '<p class="rc-kicker">편집 노트 · ' + esc(koreanDate(ymd)) + '</p><h2 class="rc-note-title">' + esc(note.headline) + '</h2>' +
+      '<p class="rc-note-body">' + esc(note.editorial || '') + '</p><ol class="rc-threads">' + threads + '</ol>';
+  }
 
-    // 오늘의 편집 노트 (deep_reader.py → data/daily_notes.js)
-    function renderDailyNote(targetDate) {
-        const box = document.getElementById('rc-daily-note');
-        if (!box) return;
-        const notes = window.DAILY_NOTES || {};
-        const note = notes[targetDate];
-        if (!note || !note.headline) {
-            box.hidden = true;
-            box.innerHTML = '';
-            return;
-        }
-        const threads = (note.threads || []).slice(0, 3).map(t => `
-            <div class="rc-thread"><h4>${escapeHtml(t.name || '')}</h4>
-            <p>${escapeHtml(t.note || '')}</p>
-            <div class="rc-thread-links">${(t.items || []).slice(0, 5).map(x => `<a href="${escapeHtml(x.url || '#')}" target="_blank" rel="noopener noreferrer">${escapeHtml(x.title || '')}</a>`).join('')}</div></div>`).join('');
-        box.innerHTML = `
-            <span class="rc-note-tag">EDITOR'S NOTE · ${escapeHtml(targetDate.substring(5).replace('-', '.'))} 호 · ${note.based_on || 0}개 항목을 읽고</span>
-            <h2 class="rc-note-headline">${escapeHtml(note.headline)}</h2>
-            <p class="rc-note-body">${escapeHtml(note.editorial || '')}</p>
-            <div class="rc-threads">${threads}</div>`;
-        box.hidden = false;
-    }
+  function matches(it) {
+    if (state.filter === 'PICK' && depthOf(it) < 5) return false;
+    if (state.filter !== 'ALL' && state.filter !== 'PICK' && it.genre !== state.filter) return false;
+    if (!state.q) return true;
+    var dp = it.deep || {};
+    var hay = [it.title, it.snippet, it.original_title, it.source_name, dp.lens, dp.why_now, dp.mechanism, dp.sensory, dp.context, dp.transfer, (dp.keywords || []).join(' ')].join(' ').toLowerCase();
+    return state.q.split(/\s+/).every(function (w) { return hay.indexOf(w) >= 0; });
+  }
 
-    // 하루 호 안에서는 깊이(depth)가 높은 항목부터 (같으면 원래 순서 유지)
-    function sortByDepth(arr) {
-        return arr.map((it, i) => ({ it, i }))
-            .sort((a, b) => ((b.it.deep && b.it.deep.depth) || 0) - ((a.it.deep && a.it.deep.depth) || 0) || a.i - b.i)
-            .map(x => x.it);
-    }
+  function render() {
+    if (!state.items) return;
+    var ready = state.items.filter(function (x) { return x.deep; })
+      .map(function (it, i) { return { it: it, i: i }; })
+      .sort(function (a, b) { return depthOf(b.it) - depthOf(a.it) || a.i - b.i; })
+      .map(function (x) { return x.it; });
+    var shown = ready.filter(matches);
+    grid.innerHTML = shown.map(cardHtml).join('');
+    grid.setAttribute('data-date', state.date);
+    emptyEl.hidden = shown.length > 0;
+    countEl.textContent = (state.filter === 'ALL' && !state.q) ? ready.length + '편' : shown.length + ' / ' + ready.length + '편';
+    pendingWrap.innerHTML = (state.filter === 'ALL' && !state.q) ? pendingHtml(state.items.filter(function (x) { return !x.deep; })) : '';
+  }
 
-    function switchDailyIssue(targetDate) {
-        activeDateFilter = targetDate;
-        renderDailyNote(targetDate);
-        issueDateChips.forEach(chip => {
-            if (chip.getAttribute('data-date') === targetDate) {
-                chip.classList.add('active');
-            } else {
-                chip.classList.remove('active');
-            }
-        });
+  function renderHeader() {
+    var note = noteHtml(notes[state.date], state.date);
+    noteEl.innerHTML = note;
+    noteEl.hidden = !note;
+    labelEl.textContent = koreanDate(state.date);
+    if (selectEl.value !== state.date) selectEl.value = state.date;
+    var idx = dates.indexOf(state.date);
+    prevBtn.disabled = idx < 0 || idx >= dates.length - 1;   // 더 오래된 호
+    nextBtn.disabled = idx <= 0;                              // 더 최근 호
+  }
 
-        if (targetDate === 'ALL') {
-            currentResults = (window.PRELOADED_ARCHIVE && Array.isArray(window.PRELOADED_ARCHIVE)) ? [...window.PRELOADED_ARCHIVE] : [];
-            performAIIntelligenceSearch();
-            return;
-        }
+  function loadIssue(ymd, cb) {
+    var v = 'DAILY_ISSUE_' + ymd.replace(/-/g, '_');
+    if (Array.isArray(window[v])) { cb(window[v]); return; }
+    var s = document.createElement('script');
+    s.src = 'data/daily/' + ymd + '.js?v=' + (manifest.built_at || '').replace(/\D/g, '');
+    s.onload = function () { cb(Array.isArray(window[v]) ? window[v] : []); };
+    s.onerror = function () { cb([]); };
+    document.body.appendChild(s);
+  }
 
-        const cleanDateVar = 'DAILY_ISSUE_' + targetDate.replace(/-/g, '_');
-        if (window[cleanDateVar] && Array.isArray(window[cleanDateVar])) {
-            currentResults = sortByDepth([...window[cleanDateVar]]);
-            performAIIntelligenceSearch();
-        } else {
-            // Dynamically load partition JS
-            const script = document.createElement('script');
-            script.src = `data/daily/${targetDate}.js?v=${Date.now()}`;
-            script.onload = () => {
-                if (window[cleanDateVar] && Array.isArray(window[cleanDateVar])) {
-                    currentResults = sortByDepth([...window[cleanDateVar]]);
-                    performAIIntelligenceSearch();
-                }
-            };
-            document.body.appendChild(script);
-        }
-    }
-
-    // 철 로드 시 가장 최신 호를 깊이 순으로 펼친다
-    if (activeDateFilter && activeDateFilter !== 'ALL') {
-        setTimeout(() => switchDailyIssue(activeDateFilter), 0);
-    }
-
-    issueDateChips.forEach(chip => {
-        chip.addEventListener('click', () => {
-            const date = chip.getAttribute('data-date') || 'ALL';
-            switchDailyIssue(date);
-        });
+  function go(ymd, opts) {
+    if (!ymd || dates.indexOf(ymd) < 0) return;
+    state.date = ymd;
+    renderHeader();
+    if (!(opts && opts.keepHash)) history.replaceState(null, '', '#' + ymd);
+    grid.setAttribute('aria-busy', 'true');
+    loadIssue(ymd, function (items) {
+      if (state.date !== ymd) return;
+      state.items = items;
+      grid.removeAttribute('aria-busy');
+      render();
+      if (!(opts && opts.initial)) window.scrollTo({ top: 0, behavior: 'smooth' });
     });
+  }
 
-    // AI-Native Sensory Search & Taste Filtering
-    const sensorySearchInput = document.getElementById('ai-sensory-search');
-    const tasteChips = document.querySelectorAll('.taste-chip');
-    let activeGenreFilter = 'ALL';
+  // 호 이동
+  prevBtn.addEventListener('click', function () { var i = dates.indexOf(state.date); if (i < dates.length - 1) go(dates[i + 1]); });
+  nextBtn.addEventListener('click', function () { var i = dates.indexOf(state.date); if (i > 0) go(dates[i - 1]); });
+  selectEl.addEventListener('change', function () { go(selectEl.value); });
+  document.addEventListener('keydown', function (e) {
+    if (e.target && /INPUT|SELECT|TEXTAREA/.test(e.target.tagName)) return;
+    if (e.key === 'ArrowLeft') prevBtn.click();
+    if (e.key === 'ArrowRight') nextBtn.click();
+  });
 
-    function performAIIntelligenceSearch() {
-        const query = (sensorySearchInput ? sensorySearchInput.value : '').toLowerCase().trim();
-        
-        let filtered = currentResults;
-
-        // 1. Genre / Taste Chip Filter
-        if (activeGenreFilter !== 'ALL') {
-            filtered = filtered.filter(item => {
-                const g = (item.genre || '').toUpperCase();
-                return g.includes(activeGenreFilter.toUpperCase());
-            });
-        }
-
-        // 2. Sensory Semantic Keyword Multi-vector Search
-        if (query) {
-            const terms = query.split(/\s+/).filter(t => t.length > 0);
-            
-            const scoredItems = [];
-            filtered.forEach(item => {
-                const title = (item.title || '').toLowerCase();
-                const snippet = (item.snippet || '').toLowerCase();
-                const genre = (item.genre || '').toLowerCase();
-                const source = (item.source_name || '').toLowerCase();
-                
-                const facets = item.facets || {};
-                const loci = (facets.genius_loci || '').toLowerCase();
-                const sensory = (facets.sensory_recall || '').toLowerCase();
-                const videoCx = (facets.spatial_video_cx || '').toLowerCase();
-                const zeitgeist = (facets.zeitgeist_horizon || '').toLowerCase();
-                const dp = item.deep || {};
-                const deepText = [dp.lens, dp.why_now, dp.mechanism, dp.sensory, dp.transfer, (dp.keywords || []).join(' '), dp.kind, item.original_title].join(' ').toLowerCase();
-
-                const corpus = `${title} ${snippet} ${genre} ${source} ${loci} ${sensory} ${videoCx} ${zeitgeist} ${deepText}`;
-                
-                let matchScore = 0;
-                terms.forEach(term => {
-                    if (title.includes(term)) matchScore += 5;
-                    if (genre.includes(term)) matchScore += 4;
-                    if (loci.includes(term) || sensory.includes(term)) matchScore += 3;
-                    if (deepText.includes(term)) matchScore += 4;
-                    if (corpus.includes(term)) matchScore += 2;
-                });
-
-                if (matchScore > 0) {
-                    scoredItems.push({ item, score: matchScore });
-                }
-            });
-
-            // Sort by relevance match score
-            scoredItems.sort((a, b) => b.score - a.score);
-            filtered = scoredItems.map(si => si.item);
-        }
-
-        renderKinfolkGrid(filtered);
-    }
-
-    if (sensorySearchInput) {
-        sensorySearchInput.addEventListener('input', performAIIntelligenceSearch);
-    }
-
-    tasteChips.forEach(chip => {
-        chip.addEventListener('click', () => {
-            tasteChips.forEach(c => c.classList.remove('active'));
-            chip.classList.add('active');
-            activeGenreFilter = chip.getAttribute('data-filter') || 'ALL';
-            performAIIntelligenceSearch();
-        });
+  // 분류·검색
+  filterBtns.forEach(function (b) {
+    b.addEventListener('click', function () {
+      filterBtns.forEach(function (x) { x.classList.toggle('is-on', x === b); });
+      state.filter = b.getAttribute('data-filter') || 'ALL';
+      render();
     });
+  });
+  var t;
+  searchEl.addEventListener('input', function () {
+    clearTimeout(t);
+    t = setTimeout(function () { state.q = searchEl.value.trim().toLowerCase(); render(); }, 120);
+  });
 
-    // Nested Concept Synapse Flywheel Nodes
-    const synapseBtns = document.querySelectorAll('.synapse-node-btn');
-    synapseBtns.forEach(btn => {
-        btn.addEventListener('click', () => {
-            const query = btn.getAttribute('data-query') || '';
-            if (sensorySearchInput) {
-                sensorySearchInput.value = query;
-                synapseBtns.forEach(b => b.classList.remove('active'));
-                btn.classList.add('active');
-                performAIIntelligenceSearch();
-            }
-        });
-    });
-
-    // 1. Ambient Audio Generator (Web Audio API Ambient Engine)
-    let audioCtx = null;
-    let isPlayingAudio = false;
-    let noiseNode = null;
-    let gainNode = null;
-
-    const audioBtn = document.getElementById('ambient-audio-btn');
-    if (audioBtn) {
-        audioBtn.addEventListener('click', toggleAmbientAudio);
-    }
-
-    function toggleAmbientAudio() {
-        if (!isPlayingAudio) {
-            startAmbientAudio();
-            audioBtn.classList.add('playing');
-            audioBtn.querySelector('span').textContent = 'AMBIENCE ON 🔊';
-        } else {
-            stopAmbientAudio();
-            audioBtn.classList.remove('playing');
-            audioBtn.querySelector('span').textContent = 'AMBIENCE SOUND';
-        }
-    }
-
-    function startAmbientAudio() {
-        if (!audioCtx) {
-            audioCtx = new (window.AudioContext || window.webkitAudioContext)();
-        }
-        if (audioCtx.state === 'suspended') {
-            audioCtx.resume();
-        }
-
-        const bufferSize = 2 * audioCtx.sampleRate;
-        const noiseBuffer = audioCtx.createBuffer(1, bufferSize, audioCtx.sampleRate);
-        const output = noiseBuffer.getChannelData(0);
-        let b0 = 0, b1 = 0, b2 = 0, b3 = 0, b4 = 0, b5 = 0, b6 = 0;
-
-        for (let i = 0; i < bufferSize; i++) {
-            const white = Math.random() * 2 - 1;
-            b0 = 0.99886 * b0 + white * 0.0555179;
-            b1 = 0.99332 * b1 + white * 0.0750759;
-            b2 = 0.96900 * b2 + white * 0.1538520;
-            b3 = 0.86650 * b3 + white * 0.3104856;
-            b4 = 0.55000 * b4 + white * 0.5329522;
-            b5 = -0.7616 * b5 - white * 0.0168980;
-            output[i] = (b0 + b1 + b2 + b3 + b4 + b5 + b6 + white * 0.5362) * 0.015;
-            b6 = white * 0.115926;
-        }
-
-        noiseNode = audioCtx.createBufferSource();
-        noiseNode.buffer = noiseBuffer;
-        noiseNode.loop = true;
-
-        gainNode = audioCtx.createGain();
-        gainNode.gain.setValueAtTime(0.01, audioCtx.currentTime);
-        gainNode.gain.exponentialRampToValueAtTime(0.08, audioCtx.currentTime + 2);
-
-        const filterNode = audioCtx.createBiquadFilter();
-        filterNode.type = 'lowpass';
-        filterNode.frequency.value = 450;
-
-        noiseNode.connect(filterNode);
-        filterNode.connect(gainNode);
-        gainNode.connect(audioCtx.destination);
-
-        noiseNode.start();
-        isPlayingAudio = true;
-    }
-
-    function stopAmbientAudio() {
-        if (gainNode && audioCtx) {
-            gainNode.gain.exponentialRampToValueAtTime(0.001, audioCtx.currentTime + 1);
-            setTimeout(() => {
-                if (noiseNode) {
-                    noiseNode.stop();
-                    noiseNode.disconnect();
-                }
-                isPlayingAudio = false;
-            }, 1000);
-        }
-    }
-
-    // 2. Spatial Filter Handlers
-    const filterBtns = document.querySelectorAll('.spatial-filter-btn');
-    filterBtns.forEach(btn => {
-        btn.addEventListener('click', (e) => {
-            filterBtns.forEach(b => b.classList.remove('active'));
-            e.target.classList.add('active');
-
-            const filterKey = e.target.getAttribute('data-filter');
-            filterGrid(filterKey);
-        });
-    });
-
-    function filterGrid(filterKey) {
-        if (filterKey === 'all') {
-            renderKinfolkGrid(currentResults);
-        } else {
-            const filtered = currentResults.filter(item => {
-                const genre = (item.genre || '').toUpperCase();
-                const title = (item.title || '').toUpperCase();
-                return genre.includes(filterKey) || title.includes(filterKey);
-            });
-            renderKinfolkGrid(filtered);
-        }
-    }
-
-    // Clear legacy mock cached cards to prevent duplicate photo repetition
-    try {
-        localStorage.removeItem('recollection_custom_archive');
-    } catch (e) {}
-
-    // Refresh Daily Button: Fetches Real Live Global Feeds
-    if (refreshDailyBtn) {
-        refreshDailyBtn.addEventListener('click', async () => {
-            if (refreshDailyBtn.classList.contains('loading')) return;
-
-            refreshDailyBtn.classList.add('loading');
-            refreshDailyBtn.innerHTML = `
-                <svg class="spin-icon" viewBox="0 0 24 24" width="12" height="12" stroke="currentColor" stroke-width="1.8" fill="none"><path d="M21.5 2v6h-6M21.34 15.57a10 10 0 1 1-.57-8.38l5.67-5.67"/></svg>
-                <span>SYNCING 35 GLOBAL FEEDS...</span>
-            `;
-
-            let backendSuccess = false;
-            let addedCount = 3;
-
-            try {
-                // 1. Trigger Real Python Backend Scraper if available
-                const res = await fetch('/api/collect-now', {
-                    method: 'POST',
-                    headers: { 'Content-Type': 'application/json' }
-                });
-
-                if (res.ok) {
-                    const result = await res.json();
-                    if (result.results && result.results.length > 0) {
-                        const previousCount = currentResults.length;
-                        currentResults = result.results;
-                        addedCount = Math.max(1, currentResults.length - previousCount);
-                        backendSuccess = true;
-                    }
-                }
-            } catch (err) {}
-
-            // 2. Client-side Live RSS Fetcher across 35 Global Sources if static
-            if (!backendSuccess) {
-                try {
-                    const liveFeeds = [
-                        { url: 'https://api.rss2json.com/v1/api.json?rss_url=https://www.frameweb.com/feed', genre: 'SPACE & ARCH' },
-                        { url: 'https://api.rss2json.com/v1/api.json?rss_url=https://www.yellowtrace.com.au/feed/', genre: 'SPACE & ARCH' },
-                        { url: 'https://api.rss2json.com/v1/api.json?rss_url=https://www.thisiscolossal.com/feed/', genre: 'CONTEMPORARY ART' },
-                        { url: 'https://api.rss2json.com/v1/api.json?rss_url=https://motionographer.com/feed/', genre: 'MEDIA FACADE & 3D' }
-                    ];
-
-                    const feedChoice = liveFeeds[Math.floor(Math.random() * liveFeeds.length)];
-                    const feedRes = await fetch(feedChoice.url);
-                    if (feedRes.ok) {
-                        const feedData = await feedRes.json();
-                        if (feedData.items && feedData.items.length > 0) {
-                            const existingUrls = new Set(currentResults.map(i => i.url));
-                            const fresh = [];
-                            for (const it of feedData.items) {
-                                if (!existingUrls.has(it.link) && it.thumbnail) {
-                                    fresh.push({
-                                        title: it.title,
-                                        original_title: it.title,
-                                        url: it.link,
-                                        image_url: it.thumbnail || it.enclosure?.link,
-                                        snippet: it.description?.replace(/<[^>]*>?/gm, '').slice(0, 150) + '...',
-                                        genre: feedChoice.genre,
-                                        source_name: feedData.feed?.title || 'Global Feed',
-                                        collected_at: new Date().toISOString().slice(0, 16).replace('T', ' '),
-                                        is_new: true,
-                                        facets: {
-                                            genre: feedChoice.genre,
-                                            genius_loci: `〈${it.title}〉는 글로벌 현장의 고유한 장소성과 동시대 감각을 담아낸 최신 아카이브 레코드입니다.`,
-                                            sensory_recall: `물성과 빛, 시각적 미장센이 교차하며 관람자에게 깊은 심미적 영감을 선사합니다.`,
-                                            spatial_video_cx: `미디어 파사드 및 공간 프로젝션으로 구현 시 관람객의 공간 몰입도를 극대화합니다.`,
-                                            zeitgeist_horizon: `오프라인 공간을 심미적 사유의 장으로 격상시키는 미래형 미학을 제시합니다.`,
-                                            tactile_metrics: {
-                                                tactility: "ORGANIC TEXTURE & LIGHT",
-                                                spatial_volume: "IMMERSIVE SPATIAL DEPTH",
-                                                dwell_tempo: "PROFOUND CONTEMPLATION"
-                                            },
-                                            synapse_connections: [
-                                                { domain: "공간 디자인 & 건축", connection: "공간의 물리적 경계를 확장하는 조형미를 보여줍니다." },
-                                                { domain: "현대 미디어 아트", connection: "빛과 움직임이 호흡하는 시각적 깊이를 형성합니다." }
-                                            ]
-                                        }
-                                    });
-                                }
-                                if (fresh.length >= 3) break;
-                            }
-                            if (fresh.length > 0) {
-                                currentResults = [...fresh, ...currentResults];
-                                addedCount = fresh.length;
-                            }
-                        }
-                    }
-                } catch (e) {}
-            }
-
-            // Instant Render
-            renderKinfolkGrid(currentResults);
-            
-            // Show immediate success feedback on button
-            refreshDailyBtn.classList.remove('loading');
-            refreshDailyBtn.innerHTML = `
-                <svg viewBox="0 0 24 24" width="12" height="12" stroke="currentColor" stroke-width="1.8" fill="none"><path d="M20 6L9 17l-5-5"/></svg>
-                <span>+${addedCount} NEW EDITIONS COLLECTED ✓ (${currentResults.length})</span>
-            `;
-            
-            setTimeout(() => {
-                refreshDailyBtn.innerHTML = `
-                    <svg viewBox="0 0 24 24" width="12" height="12" stroke="currentColor" stroke-width="1.8" fill="none"><path d="M21.5 2v6h-6M21.34 15.57a10 10 0 1 1-.57-8.38l5.67-5.67"/></svg>
-                    <span>UPDATE TODAY'S JOURNAL</span>
-                `;
-            }, 2000);
-        });
-    }
-
-    async function loadDailyArchive() {
-        let loadedItems = null;
-
-        // 1. Instant Zero-Latency Render via Preloaded Global Archive
-        if (window.PRELOADED_ARCHIVE && Array.isArray(window.PRELOADED_ARCHIVE) && window.PRELOADED_ARCHIVE.length > 0) {
-            loadedItems = [...window.PRELOADED_ARCHIVE];
-        }
-
-        // 2. Merge with any local custom items
-        try {
-            const cached = localStorage.getItem('recollection_custom_archive');
-            if (cached) {
-                const parsed = JSON.parse(cached);
-                if (Array.isArray(parsed) && parsed.length > 0) {
-                    if (!loadedItems) {
-                        loadedItems = parsed;
-                    } else {
-                        const existingMap = new Map();
-                        loadedItems.forEach(i => existingMap.set(i.url || i.id, i));
-                        parsed.forEach(i => {
-                            if (i.is_new && !existingMap.has(i.url || i.id)) {
-                                loadedItems.unshift(i);
-                            }
-                        });
-                    }
-                }
-            }
-        } catch (e) {}
-
-        if (loadedItems && loadedItems.length > 0) {
-            currentResults = loadedItems;
-            renderKinfolkGrid(currentResults);
-            return;
-        }
-
-        // 3. Fallback async fetch
-        try {
-            const res = await fetch('data/daily_archive.json');
-            if (res.ok) {
-                const data = await res.json();
-                const items = Array.isArray(data) ? data : (data.results || []);
-                if (items && items.length > 0) {
-                    currentResults = items;
-                    renderKinfolkGrid(currentResults);
-                    return;
-                }
-            }
-        } catch (err) {}
-    }
-
-    // Modal Tab Switching
-    const analysisTabBtns = document.querySelectorAll('.analysis-tab-btn');
-    const tabPanes = document.querySelectorAll('.tab-pane');
-    const modalCloseBtn = document.getElementById('modal-close-btn');
-    const dossierModal = document.getElementById('dossier-modal');
-
-    analysisTabBtns.forEach(btn => {
-        btn.addEventListener('click', () => {
-            analysisTabBtns.forEach(b => b.classList.remove('active'));
-            tabPanes.forEach(pane => pane.classList.remove('active'));
-
-            btn.classList.add('active');
-            const targetTabId = btn.getAttribute('data-tab');
-            const targetPane = document.getElementById(targetTabId);
-            if (targetPane) targetPane.classList.add('active');
-        });
-    });
-
-    // Modal Close
-    if (modalCloseBtn) modalCloseBtn.addEventListener('click', closeModal);
-    if (dossierModal) {
-        dossierModal.addEventListener('click', (e) => {
-            if (e.target === dossierModal) closeModal();
-        });
-    }
-    document.addEventListener('keydown', (e) => {
-        if (e.key === 'Escape') closeModal();
-    });
-
-    function closeModal() {
-        if (dossierModal) {
-            dossierModal.style.display = 'none';
-            document.body.style.overflow = '';
-            const videoFrameEl = document.getElementById('modal-video-frame');
-            if (videoFrameEl) videoFrameEl.src = '';
-        }
-    }
-
-    // Render Kinfolk Editorial Grid (Direct External Link Cards)
-    function renderKinfolkGrid(items) {
-        const resultsContainer = document.getElementById('results-container');
-        if (!resultsContainer) return;
-
-        if (!items || items.length === 0) {
-            resultsContainer.innerHTML = `
-                <div class="loading-state">
-                    <p>표시할 아카이브가 없습니다.</p>
-                </div>
-            `;
-            return;
-        }
-
-        resultsContainer.innerHTML = items.map((item, idx) => {
-            const hasImg = item.image_url && item.image_url.trim().length > 0;
-            const hasVideo = item.has_video || (item.video_url && item.video_url.trim().length > 0);
-            const sourceHost = getDomainName(item.url);
-            const titleSafe = escapeHtml(item.title || '아카이브 레코드');
-            const snippetSafe = escapeHtml(item.snippet || '');
-            const targetUrl = item.url || '#';
-            const collectedAtSafe = escapeHtml(item.collected_at || '');
-
-            const filmBadge = hasVideo ? `
-                <div class="film-badge">
-                    <svg viewBox="0 0 24 24" width="10" height="10" stroke="currentColor" stroke-width="2" fill="none"><polygon points="5 3 19 12 5 21 5 3"/></svg>
-                    <span>CINEMATIC FILM</span>
-                </div>
-            ` : '';
-
-            const mediaHtml = hasImg ? `
-                <div class="card-media-box">
-                    ${filmBadge}
-                    <img src="${item.image_url}" alt="${titleSafe}" class="card-image" loading="lazy" onerror="this.parentElement.innerHTML='<div class=\\'simple-text-cover\\'><span class=\\'text-cover-badge\\'>${escapeHtml(item.genre || 'ARCHIVE')}</span><span class=\\'text-cover-title\\'>${titleSafe}</span></div>'">
-                </div>
-            ` : `
-                <div class="card-media-box">
-                    ${filmBadge}
-                    <div class="simple-text-cover">
-                        <span class="text-cover-badge">${escapeHtml(item.genre || 'ARCHIVE')}</span>
-                        <span class="text-cover-title">${titleSafe}</span>
-                    </div>
-                </div>
-            `;
-
-            const dp = item.deep || {};
-            const hrefSafe = escapeHtml(targetUrl);
-            const kindHtml = (parseInt(dp.depth || 0, 10) >= 5 ? '<span class="rc-pick">★ 편집장 픽</span>' : '') + (dp.kind ? `<span class="rc-kind">${escapeHtml(dp.kind)}</span>` : '');
-            let deepHtml = '';
-            if (dp.lens) {
-                const rows = [['왜 지금', dp.why_now], ['작동 방식', dp.mechanism], ['감각과 물성', dp.sensory], ['계보·맥락', dp.context], ['연출로 가져갈 것', dp.transfer]]
-                    .filter(r => r[1]).map(r => `<dt>${r[0]}</dt><dd>${escapeHtml(r[1])}</dd>`).join('');
-                const kws = (dp.keywords || []).slice(0, 5).map(k => `<span class="rc-kw">#${escapeHtml(k)}</span>`).join('');
-                const ev = dp.evidence ? `<blockquote class="rc-evidence">“${escapeHtml(dp.evidence)}”<cite>원문 인용 · ${escapeHtml(item.source_name || '')}</cite></blockquote>` : '';
-                const orig = item.original_title ? `<p class="rc-orig">원제 · ${escapeHtml(item.original_title)}</p>` : '';
-                let thin = dp.grounding === 'thin' ? '<p class="rc-thin">원문 정보가 적어 해석을 절제했습니다.</p>' : '';
-                if (dp.depth) thin += `<p class="rc-score">가치 점수 ${parseInt(dp.depth, 10)}/5${dp.depth_reason ? ' · ' + escapeHtml(dp.depth_reason) : ''}</p>`;
-                const srcs = dp.sources || [];
-                const srcMap = {}; srcs.forEach(x => { srcMap[x.n] = x; });
-                const fnd = (dp.findings || []).length ? `<div class="rc-findings"><span class="rc-sub">리서치 노트</span><ul>${dp.findings.map(f => `<li>${escapeHtml(f.text)} <a href="${escapeHtml((srcMap[f.s] || {}).url || '#')}" target="_blank" rel="noopener noreferrer" class="rc-src-ref">[${escapeHtml((srcMap[f.s] || {}).type || '출처')}]</a></li>`).join('')}</ul></div>` : '';
-                const srcHtml = srcs.length ? `<div class="rc-sources"><span class="rc-sub">참고한 자료</span><ul>${srcs.map(x => `<li><span>${escapeHtml(x.type)}</span><a href="${escapeHtml(x.url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(x.title)}</a></li>`).join('')}</ul></div>` : '';
-                deepHtml = `
-                        <div class="rc-lens"><span class="rc-lens-label">큐레이터의 시선</span><p>${escapeHtml(dp.lens)}</p></div>
-                        <div class="rc-kws">${kws}</div>
-                        <details class="rc-deep"><summary>깊이 읽기${srcs.length ? ' · 원문 외 자료 ' + srcs.length + '곳' : ''}</summary><dl>${rows}</dl>${fnd}${ev}${srcHtml}${orig}${thin}</details>`;
-            }
-
-            return `
-                <div class="kinfolk-card-link">
-                    <article class="kinfolk-card${deepHtml ? ' rc-has-deep' : ''}" data-depth="${parseInt(dp.depth || 0, 10)}">
-                        <a href="${hrefSafe}" target="_blank" rel="noopener noreferrer" class="rc-media-link">${mediaHtml}</a>
-                        <div class="card-meta-line">
-                            <span class="card-genre-badge">${escapeHtml(item.genre || 'SPACE & EXPERIENCE')}</span>${kindHtml}
-                            <span class="card-date-text">${collectedAtSafe}</span>
-                        </div>
-                        <a href="${hrefSafe}" target="_blank" rel="noopener noreferrer" class="rc-title-link"><h3 class="card-title">${titleSafe}</h3></a>
-                        <p class="card-snippet">${snippetSafe}</p>
-                        ${deepHtml}
-                        <div class="card-footer">
-                            <span class="card-source-tag">${sourceHost}</span>
-                            <a href="${hrefSafe}" target="_blank" rel="noopener noreferrer" class="view-prompt">원문 보기 ↗</a>
-                        </div>
-                    </article>
-                </div>
-            `;
-        }).join('');
-    }
-
-    function getDomainName(url) {
-        try {
-            const parsed = new URL(url);
-            return parsed.hostname.replace('www.', '');
-        } catch {
-            return 'archive.org';
-        }
-    }
-
-    function escapeHtml(text) {
-        if (!text) return '';
-        return String(text)
-            .replace(/&/g, '&amp;')
-            .replace(/</g, '&lt;')
-            .replace(/>/g, '&gt;')
-            .replace(/"/g, '&quot;')
-            .replace(/'/g, '&#039;');
-    }
-});
-
+  // 첫 진입: 주소의 #날짜가 있으면 그 호, 없으면 미리 렌더된 최신 호를 그대로 두고 데이터만 받아 둔다
+  var hash = (location.hash || '').replace('#', '');
+  if (hash && dates.indexOf(hash) >= 0 && hash !== state.date) {
+    go(hash, { initial: true, keepHash: true });
+  } else {
+    renderHeader();
+    loadIssue(state.date, function (items) { state.items = items; });
+  }
+})();
