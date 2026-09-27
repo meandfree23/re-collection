@@ -1,16 +1,46 @@
+"""
+RE:COLLECTION 페이지 빌더 (2026-09-27 미니멀 개편)
+
+- 원본 수집 데이터(data/daily/*.json, data/daily_archive.json)는 그대로 두고,
+  깊이 읽기 결과(data/deep_reads.json)를 렌더링용 사본에만 덮어씌운다.
+- index.html은 정규식 패치가 아니라 이 파일의 템플릿에서 매번 통째로 생성한다.
+- 셀프힐링 가디언은 워크플로의 별도 단계에서 한 번만 돈다(여기서 다시 돌리지 않음).
+"""
 import json
 import html
 import os
 import re
-from datetime import datetime
+from datetime import datetime, timezone, timedelta
 from urllib.parse import urlparse
 from difflib import SequenceMatcher
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-ARCHIVE_FILE = os.path.join(BASE_DIR, "data", "daily_archive.json")
+DATA_DIR = os.path.join(BASE_DIR, "data")
+DAILY_DIR = os.path.join(DATA_DIR, "daily")
+ARCHIVE_FILE = os.path.join(DATA_DIR, "daily_archive.json")
+FINGERPRINTS_FILE = os.path.join(DATA_DIR, "persistent_fingerprints.json")
+DEEP_FILE = os.path.join(DATA_DIR, "deep_reads.json")
+NOTES_FILE = os.path.join(DATA_DIR, "daily_notes.json")
+ZEITGEIST_FILE = os.path.join(DATA_DIR, "zeitgeist_latest.json")
+MANIFEST_FILE = os.path.join(DATA_DIR, "manifest.json")
+KST = timezone(timedelta(hours=9))
+
+GENRE_KO = {
+    "SPACE & ARCH": "공간·건축",
+    "CONTEMPORARY ART": "동시대 미술",
+    "MEDIA FACADE & 3D": "미디어·3D",
+    "AVANT-GARDE FASHION": "패션",
+}
+WEEKDAY_KO = ["월", "화", "수", "목", "금", "토", "일"]
+
+
+def esc(s):
+    return html.escape(str(s or ""), quote=True)
+
 
 def normalize_img_key(url):
-    if not url or not isinstance(url, str): return ''
+    if not url or not isinstance(url, str):
+        return ''
     try:
         p = urlparse(url.strip())
         path = p.path.lower().rstrip('/')
@@ -21,17 +51,15 @@ def normalize_img_key(url):
     except Exception:
         return url.strip().lower()
 
-def normalize_title_key(title):
-    if not title: return ''
-    return re.sub(r'[^\w\s]', '', title.lower()).strip()
 
-FINGERPRINTS_FILE = os.path.join(BASE_DIR, "data", "persistent_fingerprints.json")
-DEEP_FILE = os.path.join(BASE_DIR, "data", "deep_reads.json")
-NOTES_FILE = os.path.join(BASE_DIR, "data", "daily_notes.json")
+def normalize_title_key(title):
+    if not title:
+        return ''
+    return re.sub(r'[^\w\s]', '', title.lower()).strip()
 
 
 def deep_url_key(u):
-    # deep_reader.url_key 와 동일한 규칙 (쿼리스트링/www/끝 슬래시 제거)
+    # deep_reader.url_key 와 동일한 규칙
     if not u:
         return ''
     try:
@@ -41,24 +69,34 @@ def deep_url_key(u):
         return u.strip().split('?')[0].rstrip('/')
 
 
-def load_deep_reads():
+def load_json(path, default):
     try:
-        with open(DEEP_FILE, 'r', encoding='utf-8') as f:
+        with open(path, 'r', encoding='utf-8') as f:
             return json.load(f)
     except Exception:
-        return {}
+        return default
 
 
-def load_daily_notes():
+def write_text(rel_paths, text):
+    for rel in rel_paths:
+        p = os.path.join(BASE_DIR, rel)
+        os.makedirs(os.path.dirname(p), exist_ok=True)
+        with open(p, 'w', encoding='utf-8') as f:
+            f.write(text)
+
+
+def korean_date(ymd):
     try:
-        with open(NOTES_FILE, 'r', encoding='utf-8') as f:
-            return json.load(f)
+        d = datetime.strptime(ymd, '%Y-%m-%d')
+        return f"{d.month}월 {d.day}일 {WEEKDAY_KO[d.weekday()]}요일"
     except Exception:
-        return {}
+        return ymd
 
 
+# ---------------------------------------------------------------------------
+# 깊이 읽기 덮어쓰기
+# ---------------------------------------------------------------------------
 def apply_deep(item, deep_map):
-    """원본 수집 데이터는 그대로 두고, 렌더링용 사본에만 깊이 읽기 결과를 덮어씌운다."""
     d = deep_map.get(deep_url_key(item.get('url', '')))
     if not d or not d.get('title_ko'):
         return item
@@ -71,402 +109,260 @@ def apply_deep(item, deep_map):
     rs = d.get('research') or {}
     used = set(rs.get('used') or [])
     srcs = [x for x in (rs.get('sources') or []) if x.get('n') in used]
-    out['deep']['sources'] = [{'n': x['n'], 'type': x.get('type', ''), 'title': x.get('title', ''), 'url': x.get('url', '')} for x in srcs]
-    out['deep']['findings'] = [f for f in (d.get('findings') or []) if f.get('s') in used or f.get('s') in {x['n'] for x in srcs}]
+    out['deep']['sources'] = [{'n': x['n'], 'type': x.get('type', ''), 'title': x.get('title', ''), 'url': x.get('url', '')}
+                              for x in srcs]
+    ok = {x['n'] for x in srcs}
+    out['deep']['findings'] = [f for f in (d.get('findings') or []) if f.get('s') in ok]
+    out.pop('facets', None)  # 옛 장르 템플릿 문구는 화면에 쓰지 않으므로 용량만 차지
     return out
 
 
-def render_deep_block(item):
-    dp = item.get('deep') or {}
-    if not dp.get('lens'):
-        return ''
-    kws = ''.join(f'<span class="rc-kw">#{html.escape(k)}</span>' for k in (dp.get('keywords') or [])[:5])
-    rows = []
-    for label, key in (('왜 지금', 'why_now'), ('작동 방식', 'mechanism'), ('감각과 물성', 'sensory'), ('계보·맥락', 'context'), ('연출로 가져갈 것', 'transfer')):
-        if dp.get(key):
-            rows.append(f'<dt>{label}</dt><dd>{html.escape(dp[key])}</dd>')
+def depth_of(it):
+    return int(((it.get('deep') or {}).get('depth')) or 0)
+
+
+# ---------------------------------------------------------------------------
+# HTML 조각 (static/script.js 의 렌더러와 같은 마크업)
+# ---------------------------------------------------------------------------
+def card_html(it):
+    dp = it.get('deep') or {}
+    url = it.get('url', '#')
+    genre = GENRE_KO.get(it.get('genre', ''), it.get('genre', ''))
+    pick = depth_of(it) >= 5
+    media = ''
+    if it.get('image_url'):
+        media = (f'<a class="rc-card-media" href="{esc(url)}" target="_blank" rel="noopener noreferrer" tabindex="-1">'
+                 f'<img src="{esc(it["image_url"])}" alt="" loading="lazy" '
+                 f'onerror="this.parentElement.classList.add(\'is-empty\');this.remove()"></a>')
+    rows = ''.join(f'<dt>{label}</dt><dd>{esc(dp.get(key))}</dd>'
+                   for label, key in (('왜 지금', 'why_now'), ('작동 방식', 'mechanism'), ('감각과 물성', 'sensory'),
+                                      ('계보·맥락', 'context'), ('연출로 가져갈 것', 'transfer')) if dp.get(key))
     srcmap = {x['n']: x for x in (dp.get('sources') or [])}
-    fnd = ''
+    findings = ''
     if dp.get('findings'):
-        li = ''.join(
-            f'<li>{html.escape(f["text"])} <a href="{html.escape(srcmap.get(f["s"], {}).get("url", "#"), quote=True)}" target="_blank" rel="noopener noreferrer" class="rc-src-ref">[{html.escape(srcmap.get(f["s"], {}).get("type", "출처"))}]</a></li>'
-            for f in dp['findings'])
-        fnd = f'<div class="rc-findings"><span class="rc-sub">리서치 노트</span><ul>{li}</ul></div>'
-    srcs_html = ''
+        findings = '<ul class="rc-findings">' + ''.join(
+            f'<li>{esc(f.get("text"))} <a href="{esc(srcmap.get(f.get("s"), {}).get("url", "#"))}" target="_blank" '
+            f'rel="noopener noreferrer">{esc(srcmap.get(f.get("s"), {}).get("type", "출처"))}</a></li>'
+            for f in dp['findings']) + '</ul>'
+    evidence = f'<blockquote class="rc-quote">{esc(dp.get("evidence"))}</blockquote>' if dp.get('evidence') else ''
+    sources = ''
     if srcmap:
-        li2 = ''.join(f'<li><span>{html.escape(x["type"])}</span><a href="{html.escape(x["url"], quote=True)}" target="_blank" rel="noopener noreferrer">{html.escape(x["title"])}</a></li>' for x in srcmap.values())
-        srcs_html = f'<div class="rc-sources"><span class="rc-sub">참고한 자료</span><ul>{li2}</ul></div>'
-    ev = ''
-    if dp.get('evidence'):
-        ev = f'<blockquote class="rc-evidence">“{html.escape(dp["evidence"])}”<cite>원문 인용 · {html.escape(item.get("source_name", ""))}</cite></blockquote>'
-    orig = ''
-    if item.get('original_title'):
-        orig = f'<p class="rc-orig">원제 · {html.escape(item.get("original_title", ""))}</p>'
-    thin = '<p class="rc-thin">원문 정보가 적어 해석을 절제했습니다.</p>' if dp.get('grounding') == 'thin' else ''
+        sources = '<ul class="rc-sources">' + ''.join(
+            f'<li><span>{esc(x.get("type"))}</span><a href="{esc(x.get("url"))}" target="_blank" rel="noopener noreferrer">'
+            f'{esc(x.get("title"))}</a></li>' for x in srcmap.values()) + '</ul>'
+    foot = []
+    if it.get('original_title'):
+        foot.append(f'원제 {esc(it.get("original_title"))}')
     if dp.get('depth'):
-        thin += f'<p class="rc-score">가치 점수 {int(dp["depth"])}/5' + (f' · {html.escape(dp["depth_reason"])}' if dp.get('depth_reason') else '') + '</p>'
-    return (
-        f'<div class="rc-lens"><span class="rc-lens-label">큐레이터의 시선</span><p>{html.escape(dp["lens"])}</p></div>'
-        f'<div class="rc-kws">{kws}</div>'
-        f'<details class="rc-deep"><summary>깊이 읽기{f" · 원문 외 자료 {len(srcmap)}곳" if srcmap else ""}</summary><dl>{"".join(rows)}</dl>{fnd}{ev}{srcs_html}{orig}{thin}</details>'
-    )
+        foot.append(f'가치 {int(dp["depth"])}/5' + (f' · {esc(dp.get("depth_reason"))}' if dp.get('depth_reason') else ''))
+    if dp.get('keywords'):
+        foot.append(' '.join(f'#{esc(k)}' for k in dp['keywords'][:5]))
+    if dp.get('grounding') == 'thin':
+        foot.append('원문 정보가 적어 해석을 절제했습니다.')
+    foot_html = ''.join(f'<p>{x}</p>' for x in foot)
+    deep = ''
+    if dp.get('lens'):
+        extra = f'<span>자료 {len(srcmap)}</span>' if srcmap else ''
+        deep = (f'<p class="rc-card-lens">{esc(dp.get("lens"))}</p>'
+                f'<details class="rc-card-deep"><summary>깊이 읽기{extra}</summary>'
+                f'<dl>{rows}</dl>{findings}{evidence}{sources}<div class="rc-card-foot">{foot_html}</div></details>')
+    meta = f'<span>{esc(genre)}</span><span>{esc(it.get("source_name", ""))}</span>'
+    if pick:
+        meta += '<span class="rc-pick">편집장 픽</span>'
+    return (f'<article class="rc-card{" is-pick" if pick else ""}" data-genre="{esc(it.get("genre", ""))}" data-depth="{depth_of(it)}">'
+            f'{media}<div class="rc-card-body"><p class="rc-card-meta">{meta}</p>'
+            f'<h3 class="rc-card-title"><a href="{esc(url)}" target="_blank" rel="noopener noreferrer">{esc(it.get("title"))}</a></h3>'
+            f'<p class="rc-card-summary">{esc(it.get("snippet"))}</p>{deep}</div></article>')
 
 
-def render_daily_note(note):
+def pending_html(items):
+    if not items:
+        return ''
+    li = ''.join(f'<li><a href="{esc(it.get("url", "#"))}" target="_blank" rel="noopener noreferrer">'
+                 f'{esc(it.get("original_title") or it.get("title"))}</a><span>{esc(it.get("source_name", ""))}</span></li>'
+                 for it in items)
+    return (f'<details class="rc-pending"><summary>정독 대기 {len(items)}건</summary>'
+            f'<p>원문을 읽고 한국어로 정리하는 중입니다. 그전에는 원문으로 먼저 보실 수 있어요.</p><ul>{li}</ul></details>')
+
+
+def note_html(note, ymd):
     if not note or not note.get('headline'):
         return ''
-    d = note.get('date', '')
-    threads = []
-    for t in note.get('threads', [])[:3]:
-        links = ''.join(
-            f'<a href="{html.escape(x.get("url", "#"))}" target="_blank" rel="noopener noreferrer">{html.escape(x.get("title", ""))}</a>'
-            for x in t.get('items', [])[:5])
-        threads.append(
-            f'<div class="rc-thread"><h4>{html.escape(t.get("name", ""))}</h4>'
-            f'<p>{html.escape(t.get("note", ""))}</p><div class="rc-thread-links">{links}</div></div>')
-    return (
-        f'<span class="rc-note-tag">EDITOR\'S NOTE · {html.escape(d[5:].replace("-", "."))} 호 · {note.get("based_on", 0)}개 항목을 읽고</span>'
-        f'<h2 class="rc-note-headline">{html.escape(note["headline"])}</h2>'
-        f'<p class="rc-note-body">{html.escape(note.get("editorial", ""))}</p>'
-        f'<div class="rc-threads">{"".join(threads)}</div>'
-    )
+    threads = ''
+    for t in (note.get('threads') or [])[:3]:
+        links = ''.join(f'<a href="{esc(x.get("url", "#"))}" target="_blank" rel="noopener noreferrer">{esc(x.get("title"))}</a>'
+                        for x in (t.get('items') or [])[:4])
+        threads += f'<li><strong>{esc(t.get("name"))}</strong><p>{esc(t.get("note"))}</p><div>{links}</div></li>'
+    return (f'<p class="rc-kicker">편집 노트 · {esc(korean_date(ymd))}</p>'
+            f'<h2 class="rc-note-title">{esc(note["headline"])}</h2>'
+            f'<p class="rc-note-body">{esc(note.get("editorial"))}</p>'
+            f'<ol class="rc-threads">{threads}</ol>')
 
-from self_heal_guardian import run_self_healing_guardian
+
+def zeitgeist_line(zg):
+    themes = [t.get('keyword') for t in (zg.get('themes') or [])[:5] if t.get('keyword')]
+    if not themes:
+        return ''
+    return f'<p>이번 주 자주 등장한 주제 · {esc(" · ".join(themes))}</p>'
+
+
+PAGE = """<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>RE:COLLECTION — 공간과 기억의 데일리 저널</title>
+<meta name="description" content="공간·미술·미디어·패션을 매일 원문부터 깊이 읽는 한국어 큐레이션 저널">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@400;500;600&display=swap" rel="stylesheet">
+<link href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css" rel="stylesheet">
+<link rel="stylesheet" href="static/style.css?v={{V}}">
+</head>
+<body>
+<div class="rc">
+  <header class="rc-head">
+    <a class="rc-logo" href="./">RE:COLLECTION</a>
+    <p class="rc-sub">공간 · 미술 · 미디어 · 패션을 매일 원문부터 읽습니다</p>
+    <nav class="rc-issue" aria-label="호 이동">
+      <button type="button" id="rc-prev" aria-label="이전 호">&#8249;</button>
+      <label class="rc-issue-current">
+        <span id="rc-issue-label">{{ISSUE_LABEL}}</span>
+        <select id="rc-issue-select" aria-label="호 선택">{{OPTIONS}}</select>
+      </label>
+      <button type="button" id="rc-next" aria-label="다음 호">&#8250;</button>
+    </nav>
+  </header>
+
+  <section class="rc-note" id="rc-daily-note"{{NOTE_HIDDEN}}>{{NOTE}}</section>
+
+  <div class="rc-bar">
+    <div class="rc-filters" role="tablist" aria-label="분류">
+      <button type="button" data-filter="ALL" class="is-on">전체</button>
+      <button type="button" data-filter="SPACE & ARCH">공간·건축</button>
+      <button type="button" data-filter="CONTEMPORARY ART">동시대 미술</button>
+      <button type="button" data-filter="MEDIA FACADE & 3D">미디어·3D</button>
+      <button type="button" data-filter="AVANT-GARDE FASHION">패션</button>
+      <button type="button" data-filter="PICK">편집장 픽</button>
+    </div>
+    <input id="rc-search" type="search" placeholder="이 호에서 검색" aria-label="이 호에서 검색" autocomplete="off">
+    <span class="rc-count" id="rc-count">{{COUNT}}</span>
+  </div>
+
+  <main class="rc-main">
+    <div id="results-container" class="rc-grid" data-date="{{DATE}}">{{CARDS}}</div>
+    <p class="rc-empty" id="rc-empty" hidden>조건에 맞는 글이 없습니다.</p>
+    <div id="rc-pending-wrap">{{PENDING}}</div>
+  </main>
+
+  <footer class="rc-foot">
+    {{ZEITGEIST}}
+    <p>마지막 업데이트 {{STAMP}} · 전체 {{ISSUES}}개 호</p>
+    <p class="rc-foot-logo">RE:COLLECTION</p>
+  </footer>
+</div>
+<script src="data/manifest.js?v={{V}}"></script>
+<script src="data/daily_notes.js?v={{V}}"></script>
+<script src="static/script.js?v={{V}}"></script>
+</body>
+</html>
+"""
+
 
 def build_pages():
-    # Automatically execute 5-layer Self-Healing Guardian prior to compilation
-    run_self_healing_guardian()
-
-    if not os.path.exists(ARCHIVE_FILE):
-        print(f"Archive file not found at {ARCHIVE_FILE}")
+    items = load_json(ARCHIVE_FILE, [])
+    if not isinstance(items, list):
+        print(f"Archive file not usable at {ARCHIVE_FILE}")
         return
 
-    with open(ARCHIVE_FILE, "r", encoding="utf-8") as f:
-        items = json.load(f)
-
-    # 1. Strict Self-Healing Deduplication Filter on all items before compilation
-    pristine_items = []
-    seen_img_keys = set()
-    seen_urls = set()
-    seen_titles = []
-
-    for item in items:
-        url = item.get('url', '').strip().split('?')[0].rstrip('/')
-        img = item.get('image_url', '').strip()
-        title = item.get('title', '').strip()
-        orig_title = item.get('original_title', '').strip()
-
-        img_key = normalize_img_key(img)
-        if img_key and img_key in seen_img_keys:
+    # 1. 아카이브 중복 제거 (0.82 기준) + 지문 원장 갱신
+    pristine, seen_img, seen_url, seen_t = [], set(), set(), []
+    for it in items:
+        url = it.get('url', '').strip().split('?')[0].rstrip('/')
+        img_key = normalize_img_key(it.get('image_url', '').strip())
+        t_key = normalize_title_key(it.get('title', '').strip())
+        ot_key = normalize_title_key(it.get('original_title', '').strip())
+        if (img_key and img_key in seen_img) or (url and url in seen_url):
             continue
-
-        if url and url in seen_urls:
+        if any((t_key and SequenceMatcher(None, t_key, p).ratio() > 0.82) or
+               (ot_key and SequenceMatcher(None, ot_key, p).ratio() > 0.82) for p in seen_t):
             continue
-
-        t_key = normalize_title_key(title)
-        ot_key = normalize_title_key(orig_title)
-        is_dup = False
-        for prev_t in seen_titles:
-            if (t_key and SequenceMatcher(None, t_key, prev_t).ratio() > 0.82) or (ot_key and SequenceMatcher(None, ot_key, prev_t).ratio() > 0.82):
-                is_dup = True
-                break
-        if is_dup:
-            continue
-
-        if img_key: seen_img_keys.add(img_key)
-        if url: seen_urls.add(url)
-        if t_key: seen_titles.append(t_key)
-        if ot_key: seen_titles.append(ot_key)
-        pristine_items.append(item)
-
-    items = pristine_items[:140]
-
-    # Save back pristine JSON
-    with open(ARCHIVE_FILE, "w", encoding="utf-8") as f:
+        if img_key:
+            seen_img.add(img_key)
+        if url:
+            seen_url.add(url)
+        if t_key:
+            seen_t.append(t_key)
+        if ot_key:
+            seen_t.append(ot_key)
+        pristine.append(it)
+    items = pristine[:140]
+    with open(ARCHIVE_FILE, 'w', encoding='utf-8') as f:
         json.dump(items, f, ensure_ascii=False, indent=2)
 
-    # Update Global Fingerprint Ledger
-    ledger = {'urls': set(seen_urls), 'images': set(seen_img_keys), 'titles': set(seen_titles)}
-    if os.path.exists(FINGERPRINTS_FILE):
-        try:
-            with open(FINGERPRINTS_FILE, 'r', encoding='utf-8') as f:
-                old_f = json.load(f)
-                ledger['urls'].update(old_f.get('urls', []))
-                ledger['images'].update(old_f.get('images', []))
-                ledger['titles'].update(old_f.get('titles', []))
-        except Exception:
-            pass
-
+    ledger = {'urls': set(seen_url), 'images': set(seen_img), 'titles': set(seen_t)}
+    old = load_json(FINGERPRINTS_FILE, {})
+    for k in ledger:
+        ledger[k].update(old.get(k, []))
     with open(FINGERPRINTS_FILE, 'w', encoding='utf-8') as f:
-        json.dump({
-            'version': '1.0',
-            'last_updated': datetime.now().strftime('%Y-%m-%d %H:%M:%S'),
-            'total_unique_urls': len(ledger['urls']),
-            'total_unique_images': len(ledger['images']),
-            'total_unique_titles': len(ledger['titles']),
-            'urls': sorted(list(ledger['urls'])),
-            'images': sorted(list(ledger['images'])),
-            'titles': sorted(list(ledger['titles']))
-        }, f, ensure_ascii=False, indent=2)
+        json.dump({'version': '1.0', 'last_updated': datetime.now().strftime('%Y-%m-%d %H:%M:%S'),
+                   'total_unique_urls': len(ledger['urls']), 'total_unique_images': len(ledger['images']),
+                   'total_unique_titles': len(ledger['titles']),
+                   'urls': sorted(ledger['urls']), 'images': sorted(ledger['images']), 'titles': sorted(ledger['titles'])},
+                  f, ensure_ascii=False, indent=2)
 
-    from datetime import timezone, timedelta
-    KST = timezone(timedelta(hours=9))
     now = datetime.now(KST)
-    months = ["JAN", "FEB", "MAR", "APR", "MAY", "JUN", "JUL", "AUG", "SEP", "OCT", "NOV", "DEC"]
-    formatted_date = f"{months[now.month - 1]} {now.day}, {now.year}"
-    issue_text = f"ISSUE {str(now.month).zfill(2)}.{str(now.day).zfill(2)} — DAILY CURATION"
-    today_ymd = now.strftime('%Y-%m-%d')
-    today_kor_stamp = f"{now.year}.{str(now.month).zfill(2)}.{str(now.day).zfill(2)} {now.strftime('%H:%M')} KST"
-    cache_version = int(now.timestamp())
+    version = int(now.timestamp())
+    deep_map = load_json(DEEP_FILE, {})
+    notes = load_json(NOTES_FILE, {})
 
-    # Count today's items
-    today_items_count = sum(1 for it in items if it.get('collected_at', '').startswith(today_ymd))
-    if today_items_count == 0:
-        today_items_count = len(items)
+    # 2. 데이터 스크립트
+    archive_view = [apply_deep(it, deep_map) for it in items]
+    js = 'window.PRELOADED_ARCHIVE = ' + json.dumps(archive_view, ensure_ascii=False) + ';'
+    write_text(['docs/data/daily_archive.js', 'static/data/daily_archive.js'], js)
 
-    # 2. Update JS preloaded archives & Daily Partition JS
-    os.makedirs(os.path.join(BASE_DIR, "docs", "data"), exist_ok=True)
-    os.makedirs(os.path.join(BASE_DIR, "static", "data"), exist_ok=True)
-    os.makedirs(os.path.join(BASE_DIR, "docs", "data", "daily"), exist_ok=True)
-    os.makedirs(os.path.join(BASE_DIR, "static", "data", "daily"), exist_ok=True)
-
-    # 깊이 읽기 결과를 렌더링용 사본에 덮어씌운다 (data/*.json 원본은 그대로)
-    deep_map = load_deep_reads()
-    daily_notes = load_daily_notes()
-    items = [apply_deep(it, deep_map) for it in items]
-    print(f"Deep reads applied: {sum(1 for it in items if it.get('deep'))}/{len(items)} archive items")
-
-    js_content = 'window.PRELOADED_ARCHIVE = ' + json.dumps(items, ensure_ascii=False) + ';'
-    with open(os.path.join(BASE_DIR, "docs", "data", "daily_archive.js"), "w", encoding="utf-8") as f:
-        f.write(js_content)
-    with open(os.path.join(BASE_DIR, "static", "data", "daily_archive.js"), "w", encoding="utf-8") as f:
-        f.write(js_content)
-
-    # Process all daily partitions
-    daily_dir = os.path.join(BASE_DIR, "data", "daily")
-    manifest_file = os.path.join(BASE_DIR, "data", "manifest.json")
-    
-    daily_dates = sorted([f.replace('.json', '') for f in os.listdir(daily_dir) if f.endswith('.json')], reverse=True)
-    if not daily_dates:
-        daily_dates = [today_ymd]
-
-    manifest = {
-        "latest_date": daily_dates[0],
-        "dates": daily_dates,
-        "total_issues": len(daily_dates)
-    }
-    with open(manifest_file, "w", encoding="utf-8") as f:
+    dates = sorted([f[:-5] for f in os.listdir(DAILY_DIR) if f.endswith('.json')], reverse=True)
+    counts, issues = {}, {}
+    for d in dates:
+        d_items = [apply_deep(x, deep_map) for x in load_json(os.path.join(DAILY_DIR, f'{d}.json'), [])]
+        issues[d] = d_items
+        counts[d] = {'n': len(d_items), 'deep': sum(1 for x in d_items if x.get('deep'))}
+        write_text([f'docs/data/daily/{d}.js', f'static/data/daily/{d}.js'],
+                   f"window.DAILY_ISSUE_{d.replace('-', '_')} = " + json.dumps(d_items, ensure_ascii=False) + ';')
+    non_empty = [d for d in dates if counts[d]['n'] > 0]
+    latest = non_empty[0] if non_empty else (dates[0] if dates else now.strftime('%Y-%m-%d'))
+    manifest = {'latest_date': latest, 'dates': non_empty, 'counts': counts, 'total_issues': len(non_empty),
+                'built_at': now.strftime('%Y-%m-%d %H:%M')}
+    with open(MANIFEST_FILE, 'w', encoding='utf-8') as f:
         json.dump(manifest, f, ensure_ascii=False, indent=2)
+    write_text(['docs/data/manifest.js', 'static/data/manifest.js'],
+               'window.MANIFEST_DATA = ' + json.dumps(manifest, ensure_ascii=False) + ';')
+    write_text(['docs/data/daily_notes.js', 'static/data/daily_notes.js'],
+               'window.DAILY_NOTES = ' + json.dumps(notes, ensure_ascii=False) + ';')
 
-    manifest_js = 'window.MANIFEST_DATA = ' + json.dumps(manifest, ensure_ascii=False) + ';'
-    with open(os.path.join(BASE_DIR, "docs", "data", "manifest.js"), "w", encoding="utf-8") as f:
-        f.write(manifest_js)
-    with open(os.path.join(BASE_DIR, "static", "data", "manifest.js"), "w", encoding="utf-8") as f:
-        f.write(manifest_js)
+    # 3. 최신 호 미리 렌더링 (깊이 순, 정독 대기는 아래 목록으로)
+    cur = issues.get(latest, [])
+    ready = sorted([x for x in cur if x.get('deep')], key=lambda x: -depth_of(x))
+    pending = [x for x in cur if not x.get('deep')]
+    options = ''.join(f'<option value="{d}"{" selected" if d == latest else ""}>{esc(korean_date(d))} · {counts[d]["n"]}건</option>'
+                      for d in non_empty)
+    note = note_html(notes.get(latest), latest)
+    page = (PAGE.replace('{{V}}', str(version))
+            .replace('{{ISSUE_LABEL}}', esc(korean_date(latest)))
+            .replace('{{OPTIONS}}', options)
+            .replace('{{NOTE_HIDDEN}}', '' if note else ' hidden')
+            .replace('{{NOTE}}', note)
+            .replace('{{COUNT}}', f'{len(ready)}편')
+            .replace('{{DATE}}', latest)
+            .replace('{{CARDS}}', ''.join(card_html(x) for x in ready))
+            .replace('{{PENDING}}', pending_html(pending))
+            .replace('{{ZEITGEIST}}', zeitgeist_line(load_json(ZEITGEIST_FILE, {})))
+            .replace('{{STAMP}}', now.strftime('%Y.%m.%d %H:%M KST'))
+            .replace('{{ISSUES}}', str(len(non_empty))))
+    write_text(['docs/index.html', 'templates/index.html'], page)
+    print(f"Built {latest}: {len(ready)} cards, {len(pending)} pending, {len(non_empty)} issues, archive {len(items)}")
 
-    notes_js = 'window.DAILY_NOTES = ' + json.dumps(daily_notes, ensure_ascii=False) + ';'
-    for base in ('docs', 'static'):
-        with open(os.path.join(BASE_DIR, base, "data", "daily_notes.js"), "w", encoding="utf-8") as f:
-            f.write(notes_js)
-
-    for d in daily_dates:
-        df_path = os.path.join(daily_dir, f"{d}.json")
-        try:
-            with open(df_path, "r", encoding="utf-8") as f:
-                d_items = json.load(f)
-            d_items = [apply_deep(x, deep_map) for x in d_items]
-            clean_d = d.replace('-', '_')
-            d_js = f"window.DAILY_ISSUE_{clean_d} = " + json.dumps(d_items, ensure_ascii=False) + ";"
-            with open(os.path.join(BASE_DIR, "docs", "data", "daily", f"{d}.js"), "w", encoding="utf-8") as f:
-                f.write(d_js)
-            with open(os.path.join(BASE_DIR, "static", "data", "daily", f"{d}.js"), "w", encoding="utf-8") as f:
-                f.write(d_js)
-        except Exception as e:
-            print(f"Error compiling daily {d}: {e}")
-
-    # Build Issue Date Switcher HTML (Strict KST Date Matching)
-    date_chips_html = []
-    for d in daily_dates:
-        is_active = (d == daily_dates[0])
-        is_today = (d == today_ymd)
-        active_cls = "active" if is_active else ""
-        label = f"★ {d[5:].replace('-', '.')} 오늘" if is_today else f"{d[5:].replace('-', '.')} 호"
-        chip = f'<button class="issue-date-chip {active_cls}" data-date="{d}">{label}</button>'
-        date_chips_html.append(chip)
-    issue_switcher_html = '\n'.join(date_chips_html)
-
-    # 3. Compile pre-rendered cards HTML
-    cards_html = []
-    for idx, item in enumerate(items):
-        title = html.escape(item.get('title', '아카이브 레코드'))
-        snippet = html.escape(item.get('snippet', ''))
-        genre = html.escape(item.get('genre', 'SPACE & ARCH'))
-        collected_at = html.escape(item.get('collected_at', ''))
-        image_url = item.get('image_url', '')
-        url = item.get('url', '')
-        
-        is_today = collected_at.startswith(today_ymd)
-        
-        facets = item.get('facets', {})
-        memory_text = html.escape(facets.get('genius_loci', facets.get('memory_narrative', '공간과 장소에 깃든 고유한 시간의 기억을 현대적 감각으로 재구성합니다.')))
-        
-        domain = 'archive.org'
-        try:
-            domain = urlparse(url).netloc.replace('www.', '')
-        except Exception:
-            pass
-
-        today_badge = '<span class="kinfolk-today-badge">★ TODAY</span>' if is_today else ''
-        film_badge = '<div class="film-badge"><svg viewBox="0 0 24 24" width="10" height="10" stroke="currentColor" stroke-width="2" fill="none"><polygon points="5 3 19 12 5 21 5 3"/></svg> CINEMATIC FILM</div>' if item.get('has_video') else ''
-
-        if image_url:
-            media_html = f'''
-            <div class="card-media-box">
-                {today_badge}
-                {film_badge}
-                <img src="{image_url}" alt="{title}" class="card-image" loading="lazy" onerror="this.parentElement.innerHTML='<div class=\\'simple-text-cover\\'><span class=\\'text-cover-badge\\'>{genre}</span><span class=\\'text-cover-title\\'>{title}</span></div>'">
-            </div>
-            '''
-        else:
-            media_html = f'''
-            <div class="card-media-box">
-                {today_badge}
-                {film_badge}
-                <div class="simple-text-cover">
-                    <span class="text-cover-badge">{genre}</span>
-                    <span class="text-cover-title">{title}</span>
-                </div>
-            </div>
-            '''
-
-        dp = item.get('deep') or {}
-        kind_html = f'<span class="rc-kind">{html.escape(dp.get("kind", ""))}</span>' if dp.get('kind') else ''
-        if int(dp.get('depth') or 0) >= 5:
-            kind_html = '<span class="rc-pick">★ 편집장 픽</span>' + kind_html
-        deep_html = render_deep_block(item)
-        url_attr = html.escape(url, quote=True)
-        card = f'''
-        <div class="kinfolk-card-link">
-            <article class="kinfolk-card{' rc-has-deep' if deep_html else ''}" data-depth="{int(dp.get('depth') or 0)}">
-                <a href="{url_attr}" target="_blank" rel="noopener noreferrer" class="rc-media-link">{media_html}</a>
-                <div class="card-meta-line">
-                    <span class="card-genre-badge">{genre}</span>{kind_html}
-                    <span class="card-date-text">{collected_at}</span>
-                </div>
-                <a href="{url_attr}" target="_blank" rel="noopener noreferrer" class="rc-title-link"><h3 class="card-title">{title}</h3></a>
-                <p class="card-snippet">{snippet}</p>
-                {deep_html}
-                <div class="card-footer">
-                    <span class="card-source-tag">{domain}</span>
-                    <a href="{url_attr}" target="_blank" rel="noopener noreferrer" class="view-prompt">원문 보기 ↗</a>
-                </div>
-            </article>
-        </div>
-        '''
-        cards_html.append(card)
-
-    full_grid_html = '\n'.join(cards_html)
-    # 6. Load Weekly Zeitgeist Report (Phase 3: free keyword-frequency + week-over-week trend engine)
-    zeitgeist_file = os.path.join(BASE_DIR, "data", "zeitgeist_latest.json")
-    zeitgeist_inner_html = '<span class="zeitgeist-report-tag">🧭 WEEKLY ZEITGEIST REPORT — 데이터 수집 중 (7일치 데이터가 쌓이면 자동 생성됩니다)</span>'
-    if os.path.exists(zeitgeist_file):
-        try:
-            with open(zeitgeist_file, 'r', encoding='utf-8') as zf:
-                zg = json.load(zf)
-            themes = zg.get('themes', [])[:6]
-            chips = []
-            for theme in themes:
-                trend = theme.get('trend', 'steady')
-                badge = {'rising': ' 🔥', 'new': ' 🆕', 'falling': ' 📉'}.get(trend, '')
-                chips.append(
-                    f'<span class="zeitgeist-chip zeitgeist-chip-{trend}">'
-                    f'{html.escape(theme.get("keyword", ""))} <b>{theme.get("count", 0)}</b>{badge}</span>'
-                )
-            chips_html = '\n                    '.join(chips) if chips else '<span class="zeitgeist-chip">데이터 수집 중</span>'
-
-            names = zg.get('notable_names', [])
-            names_html = ''
-            if names:
-                names_html = f'<p class="zeitgeist-report-names">주목할 이름: {html.escape(", ".join(names[:6]))}</p>'
-
-            # Representative thumbnail: pick the top-ranked theme's first item with an image.
-            thumb_html = ''
-            for theme in themes:
-                for thumb_item in theme.get('items', []):
-                    if thumb_item.get('image_url'):
-                        t_title = (deep_map.get(deep_url_key(thumb_item.get('url', ''))) or {}).get('title_ko') or thumb_item.get('title', '')
-                        t_short = t_title[:44] + ('…' if len(t_title) > 44 else '')
-                        thumb_html = (
-                            f'<a href="{thumb_item.get("url", "#")}" target="_blank" rel="noopener noreferrer" class="zeitgeist-thumb-link">'
-                            f'<img src="{thumb_item.get("image_url", "")}" class="zeitgeist-thumb" alt="{html.escape(t_title)}" loading="lazy">'
-                            f'<span class="zeitgeist-thumb-caption">🔎 {html.escape(theme.get("keyword", ""))} 대표작 · {html.escape(t_short)}</span>'
-                            f'</a>'
-                        )
-                        break
-                if thumb_html:
-                    break
-
-            zeitgeist_inner_html = (
-                f'<span class="zeitgeist-report-tag">🧭 이번 주 시대정신 리포트 · {html.escape(zg.get("period", ""))} · {zg.get("total_articles", 0)}건 분석</span>\n'
-                f'                    <div class="zeitgeist-report-body">\n'
-                f'                    <div class="zeitgeist-chip-row">\n                    {chips_html}\n                    </div>\n'
-                f'                    {thumb_html}\n'
-                f'                    </div>\n'
-                f'                    {names_html}'
-            )
-        except Exception as e:
-            print(f"Zeitgeist report load error: {e}")
-
-
-    for target_path in [os.path.join(BASE_DIR, 'docs', 'index.html'), os.path.join(BASE_DIR, 'templates', 'index.html')]:
-        if not os.path.exists(target_path):
-            continue
-        with open(target_path, 'r', encoding='utf-8') as f:
-            content = f.read()
-
-        content = re.sub(r'<span class="meta-date" id="current-date-display">.*?</span>', f'<span class="meta-date" id="current-date-display">{formatted_date}</span>', content)
-        content = re.sub(r'<span class="meta-issue" id="current-issue-text">.*?</span>', f'<span class="meta-issue" id="current-issue-text">{issue_text}</span>', content)
-
-        sync_note = f'LATEST UPDATE: {today_kor_stamp} ({today_items_count} EDITIONS SYNCED TODAY)'
-        content = re.sub(r'<span class="collection-note"[^>]*>.*?</span>', f'<span class="collection-note" style="color: #059669; font-weight: 600; letter-spacing: 0.04em;">● {sync_note}</span>', content)
-
-        content = re.sub(r'data/daily_archive\.js\?v=\d+', f'data/daily_archive.js?v={cache_version}', content)
-        content = re.sub(r'data/manifest\.js\?v=\d+', f'data/manifest.js?v={cache_version}', content)
-        if 'data/daily_notes.js' not in content:
-            content = content.replace('<script src="data/manifest.js', '<script src="data/daily_notes.js?v=0"></script>\n    <script src="data/manifest.js', 1)
-        content = re.sub(r'data/daily_notes\.js\?v=\d+', f'data/daily_notes.js?v={cache_version}', content)
-
-        # 오늘의 편집 노트 (가장 최신 호)
-        latest_note = daily_notes.get(daily_dates[0]) if daily_dates else None
-        note_html = render_daily_note(latest_note)
-        note_block = f'<!-- DAILY_NOTE_START --><section id="rc-daily-note" class="rc-daily-note"{"" if note_html else " hidden"}>{note_html}</section><!-- DAILY_NOTE_END -->'
-        if '<!-- DAILY_NOTE_START -->' in content:
-            content = re.sub(r'<!-- DAILY_NOTE_START -->.*?<!-- DAILY_NOTE_END -->', lambda m: note_block, content, flags=re.DOTALL)
-        else:
-            content = content.replace('<main class="kinfolk-main">', '<main class="kinfolk-main">\n            ' + note_block, 1)
-        if latest_note and latest_note.get('headline'):
-            content = re.sub(r'<p class="zeitgeist-quote">.*?</p>',
-                             lambda m: f'<p class="zeitgeist-quote">"{html.escape(latest_note["headline"])}"</p>',
-                             content, count=1, flags=re.DOTALL)
-        content = re.sub(r'static/script\.js\?v=\d+', f'static/script.js?v={cache_version}', content)
-        content = re.sub(r'static/style\.css\?v=\d+', f'static/style.css?v={cache_version}', content)
-
-        # Inject Issue Date Switcher
-        if '<div class="issue-date-switcher"' in content:
-            content = re.sub(r'<div class="issue-date-switcher"[^>]*>.*?</div>', f'<div class="issue-date-switcher">\n{issue_switcher_html}\n</div>', content, flags=re.DOTALL)
-
-        pattern = r'<div id="results-container" class="kinfolk-grid">.*?</div>\s*</main>'
-        replacement = f'<div id="results-container" class="kinfolk-grid">\n{full_grid_html}\n            </div>\n        </main>'
-        content = re.sub(pattern, lambda m: replacement, content, flags=re.DOTALL)
-        # Inject Weekly Zeitgeist Report content into the placeholder markers
-        zeitgeist_pattern = r'<!-- ZEITGEIST_REPORT_START -->.*?<!-- ZEITGEIST_REPORT_END -->'
-        zeitgeist_replacement = f'<!-- ZEITGEIST_REPORT_START -->\n                    {zeitgeist_inner_html}\n                    <!-- ZEITGEIST_REPORT_END -->'
-        content = re.sub(zeitgeist_pattern, lambda m: zeitgeist_replacement, content, flags=re.DOTALL)
-
-        with open(target_path, 'w', encoding='utf-8') as f:
-            f.write(content)
-
-    print(f"Successfully compiled {len(items)} pristine cards for {formatted_date} with {len(daily_dates)} daily partition archives!")
 
 if __name__ == "__main__":
     build_pages()

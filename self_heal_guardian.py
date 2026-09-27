@@ -200,8 +200,12 @@ def run_self_healing_guardian():
                     total_cross_dups += 1
                     continue
 
-                it['title'] = heal_hangul_text(t, ot)
-                it['snippet'] = heal_two_sentence_insight(it['title'], ot, it.get('snippet', ''), it.get('genre', 'SPACE'))
+                # 2026-09-27: 이미 한 번 다듬은 항목은 다시 번역하지 않는다(실행마다 수백 건 재번역 → 8분+, 구글 차단 유발).
+                # 한국어 제목·설명은 deep_reader가 원문을 읽고 새로 쓰므로 여기서는 새 항목만 가볍게 정리한다.
+                if not it.get('healed'):
+                    it['title'] = heal_hangul_text(t, ot)
+                    it['snippet'] = heal_two_sentence_insight(it['title'], ot, it.get('snippet', ''), it.get('genre', 'SPACE'))
+                    it['healed'] = True
 
                 if u: g_seen_urls.add(u)
                 if img_k: g_seen_img_keys.add(img_k)
