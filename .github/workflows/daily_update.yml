@@ -65,12 +65,14 @@ jobs:
 
       - name: Deep Read (원문 정독 + 외부 리서치 + 한국어 헤드라인/설명 + 큐레이터 인사이트, free Gemini flash-lite)
         continue-on-error: true
-        timeout-minutes: 30
+        timeout-minutes: 55
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }},${{ secrets.GEMINI_API_KEY_2 }}
-          DEEP_MAX_ITEMS: '120'
-          DEEP_TIME_BUDGET: '1500'
-          DEEP_MAX_NOTES: '4'
+          DEEP_MAX_ITEMS: '400'
+          DEEP_TIME_BUDGET: '3000'
+          DEEP_MAX_NOTES: '30'
+          DEEP_MAX_RESCORE: '30'
+          DEEP_CONCURRENCY: '5'
         run: |
           python deep_reader.py
 
