@@ -81069,5 +81069,307 @@
   },
   "depth_raw": 4,
   "depth_v": 2
+ },
+ "stashmedia.tv/dog-rabbit-nail-the-socials-for-dog-judo-series": {
+  "title_ko": "수작업의 반란: 런던 도그 앤 래빗의 도그 유도 신작",
+  "summary_ko": "런던의 스튜디오 도그 앤 래빗의 앤드루 켈레허와 데이브 앤더슨이 컬트 히트 애니메이션 도그 유도의 새로운 에피소드를 공개했다. 이들은 실제 개의 사진을 포토샵으로 잘라내고 애프터 이펙트로 움직이는 방식을 고수하며, 최근에는 블렌더에서 제작한 3D 요소를 결합해 2D와 3D 캐릭터를 혼합하고 있다. AI를 배제하고 두 세대 동안 다듬어온 수작업 워크플로우를 통해 독특한 질감을 만들어낸다.",
+  "lens": "AI가 범람하는 시대에 포토샵과 실사 사진을 잘라 붙이는 수공예적 결합이 오히려 가장 선명한 차별점이 된다.",
+  "why_now": "자동화된 생성형 AI 애니메이션이 넘쳐나는 동시대에, 20년 이상 연마해 온 로우테크 수작업 공정이 지닌 고유한 물성과 위트가 더욱 희소한 가치를 지닌다.",
+  "mechanism": "실제 개의 사진을 포토샵에서 해체한 뒤 애프터 이펙트로 모션을 부여하고, 블렌더에서 제작한 3D 요소를 애프터 이펙트 내부로 가져와 2D 캐릭터와 혼합한다.",
+  "sensory": "디지털의 매끄러움 대신 종이나 실물 사진을 오려 붙인 듯한 거친 콜라주 질감과 키치한 수공예적 움직임이 화면을 채운다.",
+  "transfer": "광고나 영상 콘티에서 3디 프로그램의 매끈한 렌더링 대신 2디 실사 소스를 콜라주하여 아날로그적인 수작업 질감과 위트 있는 모션을 구현할 때 참고한다.",
+  "context": "도그 앤 래빗의 도그 유도 시리즈는 2004년 버진 미디어의 카메라 폰 광고 캠페인으로 시작되어 대중적 호응을 얻은 후 스튜디오가 지식재산권을 이어받아 지속해 온 작업이다.",
+  "findings": [],
+  "keywords": [
+   "도그앤래빗",
+   "애프터이펙트",
+   "콜라주애니메이션",
+   "수작업"
+  ],
+  "evidence": "We chop up our real photographs of dogs in Photoshop and make them move in After Effects.",
+  "kind": "영상·필름",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "오랜 역사를 지닌 독창적인 수작업 애니메이션의 워크플로우를 보여주나, 단편적인 시리즈의 에피소드 소개에 가깝다.",
+  "v": 2,
+  "url": "https://www.stashmedia.tv/dog-rabbit-nail-the-socials-for-dog-judo-series/",
+  "original_title": "Dog & Rabbit Nail The Socials for Dog Judo Series",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 3072,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-09-28 08:54",
+  "research": {
+   "entities": [
+    "Dog & Rabbit",
+    "Dog Judo",
+    "Andrew Kelleher",
+    "Dave Anderson",
+    "Virgin Media"
+   ],
+   "questions": [
+    "Dog & Rabbit 스튜디오가 2004년부터 이어온 'Dog Judo' 시리즈의 제작 방식과 그들이 고수하는 '아날로그적 접근'의 특징은 무엇인가?",
+    "최신 애니메이션 제작 환경에서 AI를 배제하고 Photoshop과 After Effects를 활용하여 수작업 느낌을 구현하는 그들만의 워크플로우는 어떻게 구성되는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Virgin Media",
+     "url": "https://en.wikipedia.org/wiki/Virgin%20Media"
+    }
+   ],
+   "used": [],
+   "chars": 1206
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "archdaily.com/1185872/office-101-casa-andina-caliza-arquitectura": {
+  "title_ko": "메델린의 기억을 품은 차고, 칼리사 아키텍투라의 오피스 101",
+  "summary_ko": "콜롬비아 메델린 라우렐레스 지역의 전통 주거 건축물 내 차고를 사무 공간으로 재구성한 프로젝트다. 인쇄소로 쓰이던 공간을 건축 사무소를 위한 코워킹 스페이스로 탈바꿈하며 기존 구조를 보존하는 적응형 재사용 방식을 택했다.",
+  "lens": "기존 차고의 골조를 유지하며 새로운 업무 동선을 삽입해 주거 건축의 역사와 현대적 업무 기능을 한 공간에 중첩시킨다.",
+  "why_now": "도시의 주거지가 상업적 용도로 전환되는 과정에서, 기존 건물의 물리적 기억을 지우지 않고 활용하는 재생 건축의 흐름을 보여준다.",
+  "mechanism": "벽체를 허물기보다 기존 창고와 자재 보관 구역의 구조를 살려 새로운 업무 데스크와 회의 공간을 배치하는 방식으로 내부를 구획한다.",
+  "sensory": "기존 주거 건축의 견고한 벽체와 새로 도입된 목재 가구의 질감이 대비되며, 차고가 가진 낮은 천장고와 깊은 심도가 아늑한 집중 환경을 조성한다.",
+  "transfer": "철거 대신 기존 가벽의 위치를 유지하며 조명 라인만 재설계해 공간의 성격을 바꾸는 연출을 제안한다.",
+  "context": "메델린 라우렐레스 지역의 전통 주거 건축물을 기반으로, 주거에서 인쇄소, 다시 사무실로 변모해온 건물의 시간적 층위를 보존하는 데 집중했다.",
+  "findings": [],
+  "keywords": [
+   "적응형재사용",
+   "재생건축",
+   "오피스인테리어",
+   "메델린",
+   "칼리사아키텍투라"
+  ],
+  "evidence": "The project rehabilitates the house's former garage under the premise of adaptive reuse rather than a tabula rasa",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "기존 차고를 사무 공간으로 변모시킨 구체적인 재생 전략을 담고 있으나, 공간 상세 기술이 부족하여 3점을 부여함.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1185872/office-101-casa-andina-caliza-arquitectura",
+  "original_title": "Office 101 Casa Andina / Caliza Arquitectura",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 1323,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-09-28 08:54",
+  "research": {
+   "entities": [
+    "Caliza Arquitectura",
+    "Mariana Vélez"
+   ],
+   "questions": [
+    "메델린의 라우렐레스 지역이 가진 건축적 특징과 주거용 건물이 상업 공간으로 변화하는 도시적 맥락은 무엇인가?",
+    "적응형 재사용(Adaptive Reuse) 관점에서 기존 차고 공간을 창의적인 업무 공간으로 변모시킬 때 고려해야 할 핵심 요소는 무엇인가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "archdaily.com/1185824/jordnara-cafe-and-phomi-showroom-ady-putra-architect-design-firm": {
+  "title_ko": "자카르타의 두 상가를 잇는 층위의 공간, 요르드내라 카페와 포미 쇼룸",
+  "summary_ko": "인도네시아 자카르타 판타이 인다 카푹에 위치한 요르드내라 카페는 아디 푸트라 아키텍트가 기존 상가 두 채를 통합하여 완성한 400㎡ 규모의 상업 공간이다. 빛과 재료의 물성을 강조하여 방문객에게 차분한 휴식과 연결의 경험을 제공하며, 카페 기능과 포미 쇼룸을 하나의 층위로 엮어냈다.",
+  "lens": "두 개의 기존 건물을 하나로 통합하며 빛과 재료의 질감을 통해 공간의 리듬을 조절하는 방식이 핵심이다.",
+  "why_now": "상업 공간이 단순한 소비를 넘어 사용자의 일상적 속도를 늦추는 완충 지대로서 기능해야 한다는 요구를 반영한다.",
+  "mechanism": "기존 상가의 구조를 계층화하여 빛이 유입되는 동선과 재료의 물성이 드러나는 면을 배치함으로써 공간의 깊이감을 형성한다.",
+  "sensory": "건축 자재의 본연의 질감이 드러나는 표면과 조명 설계가 어우러져 시각적 차분함과 촉각적 따뜻함을 동시에 전달한다.",
+  "transfer": "기존 건물을 병합할 때 벽체 대신 조명과 재료의 톤을 일치시켜 시각적 연속성을 확보하는 연출을 적용할 수 있다.",
+  "context": "아디 푸트라 아키텍트가 기존 상업용 건물을 재해석하여 빛과 물성에 집중한 공간 경험을 구축한 사례이다.",
+  "findings": [],
+  "keywords": [
+   "공간 통합",
+   "상업 건축",
+   "물성 설계",
+   "자카르타",
+   "아디 푸트라"
+  ],
+  "evidence": "transforms two existing shophouses into a layered spatial experience where light, tactility, and material connection define the rhythm of everyday life.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "기존 상가 통합의 구체적 구조적 해결책이나 재료의 상세 정보가 부족하여 일반적인 공간 설계 사례로 분류한다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1185824/jordnara-cafe-and-phomi-showroom-ady-putra-architect-design-firm",
+  "original_title": "Jordnära Cafe & PHOMI Showroom / Ady Putra Architect Design Firm",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 1217,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-09-28 08:54",
+  "research": {
+   "entities": [
+    "Ady Putra Architect",
+    "PHOMI Indonesia",
+    "Pantai Indah Kapuk",
+    "Jakarta"
+   ],
+   "questions": [
+    "Jordnära Cafe & PHOMI Showroom 프로젝트에서 기존 두 개의 상가 건물을 어떻게 하나의 공간으로 통합했는가?",
+    "설계를 맡은 Ady Putra Architect는 이 공간에서 빛과 재료의 물성을 어떻게 활용했는가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "nowness.com/series/they-call-me/starr-andrews": {
+  "title_ko": "피겨 스케이팅의 새로운 궤적, 스타 앤드루스가 그리는 움직임",
+  "summary_ko": "미국의 피겨 스케이팅 선수 스타 앤드루스(Starr Andrews)를 다룬 영상이다. 그는 2022년 스케이트 캐나다 인터내셔널 은메달을 획득하며 피겨 스케이팅 싱글 종목에서 그랑프리 메달을 딴 최초의 흑인 미국 여성 선수로 기록되었다.",
+  "lens": "전통적인 스포츠의 문법 안에서 독자적인 정체성을 구축하며 새로운 세대의 기준점이 된 스케이터의 움직임을 관찰한다.",
+  "why_now": "스포츠와 예술의 경계에서 신체적 수행 능력을 넘어 서사를 가진 개인의 등장이 주목받는 시대적 흐름을 반영한다.",
+  "mechanism": "빙판 위에서의 회전과 활주라는 물리적 동작을 통해 인물의 내면적 서사를 시각적으로 구체화한다.",
+  "sensory": "얼음 위를 가르는 날카로운 스케이트 날의 마찰음과 차가운 빙판의 질감이 선명한 대비를 이룬다.",
+  "transfer": "역동적인 인물의 움직임을 촬영할 때, 인물의 시선이 머무는 궤적을 따라 카메라를 밀착시켜 속도감을 연출한다.",
+  "context": "스타 앤드루스는 2001년생 미국 피겨 스케이팅 선수로, 2026년부터는 다니일 파크만(Daniil Parkman)과 페어 종목으로 전향하여 활동 중이다.",
+  "findings": [
+   {
+    "text": "스타 앤드루스는 피겨 스케이팅 싱글 종목에서 그랑프리 메달을 획득한 최초의 흑인 미국 여성이다.",
+    "s": 1,
+    "quote": "She is the first Black American woman to win a Grand Prix medal in the singles discipline."
+   }
+  ],
+  "keywords": [
+   "스타앤드루스",
+   "피겨스케이팅",
+   "퍼포먼스",
+   "서사"
+  ],
+  "evidence": "Starr Andrews is an American figure skater.",
+  "kind": "영상·필름",
+  "depth": 2,
+  "grounding": "thin",
+  "depth_reason": "원문 본문이 부재하여 영상의 구체적인 연출 기법을 분석할 수 없으며, 인물 정보 위주로만 기술하였다.",
+  "v": 2,
+  "url": "https://www.nowness.com/series/they-call-me/starr-andrews",
+  "original_title": "​They Call Me… Starr Andrews",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 0,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-09-28 08:54",
+  "research": {
+   "entities": [
+    "Starr Andrews"
+   ],
+   "questions": [
+    "스타 앤드류스는 누구인가요?",
+    "이 영상은 어떤 배경에서 제작되었나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Starr Andrews",
+     "url": "https://en.wikipedia.org/wiki/Starr%20Andrews"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 522
+  },
+  "depth_raw": 2,
+  "depth_v": 2
+ },
+ "anothermag.com/fashion-beauty/17510/demna-gucci-spring-summer-27-review-ss27-milan-fashion-week": {
+  "title_ko": "가상의 신전과 매장 사이, 뎀나가 재정의한 구찌의 다중적 유산",
+  "summary_ko": "구찌(Gucci)의 크리에이티브 디렉터 뎀나가 2027 봄/여름 컬렉션을 가상의 매장 공간에서 공개했다. 이번 컬렉션은 반항적인 귀족과 속물, 괴짜 등 세대와 계층에 따라 달라지는 구찌의 다양한 스테레오타입을 무대에 올렸다. 뎀나는 단일한 브랜드 정체성 대신 각기 다른 판타지와 욕망이 공존하는 다층적인 리테일 비전을 제시했다.",
+  "lens": "단일한 브랜드 정체성을 거부하고 세대별기억의 조각들을 런웨이의 매장 동선 속으로 파헤쳐 넣는다.",
+  "why_now": "단 하나의 실루엣이나 이념으로 브랜드를 규정하던 전통적인 그룹싱킹에서 벗어나, 세대와 문화적 배경에 따라 갈라지는 브랜드의 다중적 의미를 수면 위로 끌어올린다.",
+  "mechanism": "카라라 대리석 선반이 놓인 가상의 매장 공간을 배경으로 삼고, 쇼핑객처럼 지나치는 모델들의 동선과 비대칭적인 의상 레이어링을 통해 환상을 현실로 전환한다.",
+  "sensory": "발목이 드러나는 날카로운 테일러링과 악어가죽 안감을 댄 면 후디, 묵직한 시어링 코트의 부피감이 매장 조명 아래에서 교차한다.",
+  "transfer": "광고나 공간 연출 콘티에서 단일한 무드 대신 서로 다른 시대와 계층의 인물 군상을 한 프레임 안에 무작위로 교차시켜 시각적 긴장감을 만든다.",
+  "context": "뎀나는 2025년 3월 구찌의 크리에이티브 디렉터로 임명되었으며, 이전에는 발렌시아가(Balenciaga)의 크리에이티브 디렉터이자 베트멍(Vetements)의 공동 창립자로 활동했다.",
+  "findings": [
+   {
+    "text": "데미나는 2025년 3월부터 구찌의 크리에이티브 디렉터를 맡고 있다.",
+    "s": 1,
+    "quote": "Stefano Cantino has been CEO of Gucci since October 2024 and Demna creative director since March 2025."
+   },
+   {
+    "text": "구찌는 1921년 피렌체에서 구찌오 구찌에 의해 설립되었다.",
+    "s": 1,
+    "quote": "Gucci was founded in 1921 by Guccio Gucci in Florence."
+   }
+  ],
+  "keywords": [
+   "구찌",
+   "뎀나",
+   "리테일",
+   "스테레오타입",
+   "컬렉션"
+  ],
+  "evidence": "Demna decided to stage his third Gucci show – and, in his view, his first fully realised one – in a craven temple, to the sordid topic of coin.",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "구찌의 다중적 유산과 리테일 개념을 패션쇼의 구체적인 연출과 세대적 관점으로 예리하게 분석했다.",
+  "v": 2,
+  "url": "https://www.anothermag.com/fashion-beauty/17510/demna-gucci-spring-summer-27-review-ss27-milan-fashion-week?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=demna-s-gucci-is-selling-a-dream",
+  "original_title": "Demna’s Gucci Is Selling a Dream",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 6818,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-09-28 08:54",
+  "research": {
+   "entities": [
+    "Gucci",
+    "Demna",
+    "Yves Saint Laurent",
+    "Pierre Bergé",
+    "Guccio Gucci"
+   ],
+   "questions": [
+    "뎀나(Demna)가 구찌(Gucci)의 크리에이티브 디렉터로서 추구하는 새로운 리테일 컨셉과 브랜드 전략은 무엇인가?",
+    "패션 하우스가 정의하는 '브랜드 아이덴티티'가 세대와 문화적 배경에 따라 어떻게 다르게 해석될 수 있는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Gucci",
+     "url": "https://en.wikipedia.org/wiki/Gucci"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Demna (designer)",
+     "url": "https://en.wikipedia.org/wiki/Demna%20%28designer%29"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "구찌 에센스 클래식 더플, 130년 전 호텔 포터의 기억을 입다",
+     "url": "https://www.anothermag.com/fashion-beauty/17500/another-loves-gucci-duffle-bag?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=another-loves-a-duffle-with-baggage"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "구찌의 신전, 부서진 부르주아를 소환하다",
+     "url": "https://www.wallpaper.com/fashion-beauty/gucci-ss-2027-demna-show-review-milan-fashion-week"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "트랙슈트와 노나 사이, 뎀나가 밀라노에서 뒤섞은 구찌의 기억",
+     "url": "https://www.dazeddigital.com/fashion/article/71042/1/demna-hits-shuffle-on-gucci-stereotypes-for-ss27-milan-fashion-week?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=from-rappers-to-nonnas-demna-hits-shuffle-on-gucci-stereotypes-for-ss27"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 1974
+  },
+  "depth_raw": 4,
+  "depth_v": 2
  }
 }
