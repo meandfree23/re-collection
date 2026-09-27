@@ -11,6 +11,8 @@ on:
     - cron: '43 23 * * *'
     # 4. Mid-day Refresh 11:27 KST (02:27 UTC) — European morning releases
     - cron: '27 2 * * *'
+    # 4b. 16:10 KST (07:10 UTC) — Gemini 무료 한도 초기화(16:00 KST) 직후, 정독 대기분 먼저 처리
+    - cron: '10 7 * * *'
     # 5. Late Afternoon 17:14 KST (08:14 UTC) — Evening wrap-up
     - cron: '14 8 * * *'
     # 6. Night Wrap 21:30 KST (12:30 UTC) — Global night digest
