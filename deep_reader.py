@@ -327,9 +327,10 @@ ITEM_SCHEMA = {
         "kind": {"type": "STRING", "enum": ["프로젝트", "전시", "작가·인터뷰", "제품·오브제", "브랜드·캠페인", "영상·필름", "런웨이·컬렉션", "뉴스·이슈", "리스트·라운드업", "행사·공모"]},
         "depth": {"type": "INTEGER", "description": "가치 점수 1~5. 시스템 지침의 엄격 기준을 따를 것. 대부분 3, 5는 드물다."},
         "grounding": {"type": "STRING", "enum": ["full", "partial", "thin"]},
+        "depth_reason": {"type": "STRING", "description": "왜 그 가치 점수인지 한국어 한 문장(25~60자), 구체적으로, '~다'로 끝냄"},
     },
     "required": ["title_ko", "summary_ko", "lens", "why_now", "mechanism", "sensory", "transfer",
-                 "context", "findings", "sources_used", "keywords", "evidence", "kind", "depth", "grounding"],
+                 "context", "findings", "sources_used", "keywords", "evidence", "kind", "depth", "grounding", "depth_reason"],
 }
 
 NOTE_SYSTEM = """당신은 한국어 데일리 저널 RE:COLLECTION의 편집장입니다.
@@ -491,7 +492,7 @@ def valid_item(d):
 
 
 def clean_item(d):
-    for k in ("title_ko", "summary_ko", "lens", "why_now", "mechanism", "sensory", "transfer", "evidence"):
+    for k in ("title_ko", "summary_ko", "lens", "why_now", "mechanism", "sensory", "transfer", "evidence", "depth_reason"):
         v = d.get(k, "")
         v = re.sub(r"\s+", " ", str(v)).strip()
         d[k] = v
@@ -624,7 +625,7 @@ def rescore_pass(cache, by_date):
         for it in items:
             k = url_key(it.get("url", ""))
             c = cache.get(k)
-            if c and c.get("depth_v", 1) < DEPTH_VERSION and k not in keys:
+            if c and (c.get("depth_v", 1) < DEPTH_VERSION or not c.get("depth_reason")) and k not in keys:
                 keys.append(k)
         for start in range(0, len(keys), 20):
             if batches >= MAX_RESCORE or time_left() < 60:
@@ -759,7 +760,8 @@ def main():
             if fails.get(k, {}).get("n", 0) >= MAX_FAILS:
                 continue
             todo.append(it)
-    log(f"대기 {len(todo)}건 / 캐시 {len(cache)}건 / 이번 실행 최대 {MAX_ITEMS}건")
+    todo.sort(key=lambda it: 0 if url_key(it.get("url", "")) not in cache else 1)  # 안정 정렬: 날짜 순서 유지
+    log(f"대기 {len(todo)}건(미정독 {sum(1 for it in todo if url_key(it.get('url', '')) not in cache)}) / 캐시 {len(cache)}건 / 이번 실행 최대 {MAX_ITEMS}건")
     todo = todo[:MAX_ITEMS]
 
     done = fail = 0
@@ -796,7 +798,7 @@ def main():
     if MAX_RESCORE > 0 and time_left() > 90:
         b, ch = rescore_pass(cache, by_date)
         save_json(CACHE_FILE, cache)
-        left = sum(1 for v in cache.values() if v.get("depth_v", 1) < DEPTH_VERSION)
+        left = sum(1 for v in cache.values() if v.get("depth_v", 1) < DEPTH_VERSION or not v.get("depth_reason"))
         log(f"재채점 묶음 {b}개, 점수 변경 {ch}건, 남은 재채점 대상 {left}건")
 
     # 날짜 노트: 오늘은 새 항목이 3개 이상 늘면 다시 쓰고, 과거 날짜는 없을 때만 쓴다.
@@ -806,7 +808,7 @@ def main():
         if made >= MAX_NOTES or time_left() < 60:
             break
         read_n = sum(1 for it in items if url_key(it.get("url", "")) in cache)
-        if read_n < 4:
+        if read_n < 3:
             continue
         old = notes.get(d)
         if old and REWRITE_NOTES and old.get("v", 0) < NOTE_VERSION:
