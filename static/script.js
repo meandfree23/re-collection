@@ -567,17 +567,21 @@ document.addEventListener('DOMContentLoaded', () => {
             const kindHtml = (parseInt(dp.depth || 0, 10) >= 5 ? '<span class="rc-pick">★ 편집장 픽</span>' : '') + (dp.kind ? `<span class="rc-kind">${escapeHtml(dp.kind)}</span>` : '');
             let deepHtml = '';
             if (dp.lens) {
-                const rows = [['왜 지금', dp.why_now], ['작동 방식', dp.mechanism], ['감각과 물성', dp.sensory], ['연출로 가져갈 것', dp.transfer]]
+                const rows = [['왜 지금', dp.why_now], ['작동 방식', dp.mechanism], ['감각과 물성', dp.sensory], ['계보·맥락', dp.context], ['연출로 가져갈 것', dp.transfer]]
                     .filter(r => r[1]).map(r => `<dt>${r[0]}</dt><dd>${escapeHtml(r[1])}</dd>`).join('');
                 const kws = (dp.keywords || []).slice(0, 5).map(k => `<span class="rc-kw">#${escapeHtml(k)}</span>`).join('');
                 const ev = dp.evidence ? `<blockquote class="rc-evidence">“${escapeHtml(dp.evidence)}”<cite>원문 인용 · ${escapeHtml(item.source_name || '')}</cite></blockquote>` : '';
                 const orig = item.original_title ? `<p class="rc-orig">원제 · ${escapeHtml(item.original_title)}</p>` : '';
                 let thin = dp.grounding === 'thin' ? '<p class="rc-thin">원문 정보가 적어 해석을 절제했습니다.</p>' : '';
                 if (dp.depth) thin += `<p class="rc-score">가치 점수 ${parseInt(dp.depth, 10)}/5${dp.depth_reason ? ' · ' + escapeHtml(dp.depth_reason) : ''}</p>`;
+                const srcs = dp.sources || [];
+                const srcMap = {}; srcs.forEach(x => { srcMap[x.n] = x; });
+                const fnd = (dp.findings || []).length ? `<div class="rc-findings"><span class="rc-sub">리서치 노트</span><ul>${dp.findings.map(f => `<li>${escapeHtml(f.text)} <a href="${escapeHtml((srcMap[f.s] || {}).url || '#')}" target="_blank" rel="noopener noreferrer" class="rc-src-ref">[${escapeHtml((srcMap[f.s] || {}).type || '출처')}]</a></li>`).join('')}</ul></div>` : '';
+                const srcHtml = srcs.length ? `<div class="rc-sources"><span class="rc-sub">참고한 자료</span><ul>${srcs.map(x => `<li><span>${escapeHtml(x.type)}</span><a href="${escapeHtml(x.url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(x.title)}</a></li>`).join('')}</ul></div>` : '';
                 deepHtml = `
                         <div class="rc-lens"><span class="rc-lens-label">큐레이터의 시선</span><p>${escapeHtml(dp.lens)}</p></div>
                         <div class="rc-kws">${kws}</div>
-                        <details class="rc-deep"><summary>깊이 읽기</summary><dl>${rows}</dl>${ev}${orig}${thin}</details>`;
+                        <details class="rc-deep"><summary>깊이 읽기${srcs.length ? ' · 원문 외 자료 ' + srcs.length + '곳' : ''}</summary><dl>${rows}</dl>${fnd}${ev}${srcHtml}${orig}${thin}</details>`;
             }
 
             return `
