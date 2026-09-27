@@ -34,6 +34,8 @@ from urllib.parse import urlparse
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime, timezone, timedelta
 
+import research_kit as rk
+
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 DATA_DIR = os.path.join(BASE_DIR, "data")
 DAILY_DIR = os.path.join(DATA_DIR, "daily")
@@ -53,10 +55,11 @@ DEPTH_RUBRIC = """가치 점수(depth) 엄격 기준 — 후하게 주지 말 �
 2 = 제품 출시, 셀럽·부동산 주거 소개, 브랜드 홍보성, 공모·수상자 발표, 행사 공지, 라운드업 중 한두 가지 흥미 요소만 있는 것. (약 20%)
 1 = 뉴스레터·팟캐스트 묶음, 광고성, 원문 확인이 거의 안 되는 것. (약 5%)
 상한: grounding이 thin이면 최대 2, partial이면 최대 3. 종류가 리스트·라운드업/행사·공모/뉴스·이슈면 최대 3.
-제품·오브제/브랜드·캠페인은 기법이 정말 새롭지 않으면 최대 3. '유명한 건축가·브랜드'라는 이유만으로 올리지 않는다."""
+제품·오브제/브랜드·캠페인은 기법이 정말 새롭지 않으면 최대 3. '유명한 건축가·브랜드'라는 이유만으로 올리지 않는다.
+원문이 짧아도 리서치 자료(공식 페이지·위키백과·과거 기사)로 작업과 맥락이 확인되면 그만큼 인정한다. 반대로 자료가 없으면 해석을 부풀리지 않는다."""
 
 KST = timezone(timedelta(hours=9))
-VERSION = 1
+VERSION = 2  # 2 = 외부 리서치(공식 페이지·위키백과·과거 아카이브) 반영
 MODELS = ["gemini-3.5-flash-lite", "gemini-3.1-flash-lite", "gemini-3.1-flash-lite-preview"]
 MODEL_MIN_INTERVAL = 4.3  # 15 RPM 무료 한도 안쪽
 
@@ -65,7 +68,7 @@ TIME_BUDGET = int(os.environ.get("DEEP_TIME_BUDGET", "1500"))
 CONCURRENCY = int(os.environ.get("DEEP_CONCURRENCY", "4"))
 MAX_NOTES = int(os.environ.get("DEEP_MAX_NOTES", "6"))
 REWRITE_NOTES = os.environ.get("DEEP_REWRITE_NOTES", "") == "1"
-NOTE_VERSION = 2
+NOTE_VERSION = 3
 ONLY_DATES = [d.strip() for d in os.environ.get("DEEP_ONLY_DATES", "").split(",") if d.strip()]
 KEYS = [k.strip() for k in os.environ.get("GEMINI_API_KEY", "").split(",") if k.strip()]
 
@@ -284,7 +287,8 @@ ITEM_SYSTEM = """당신은 한국어 데일리 저널 RE:COLLECTION의 수석 �
 독자: 광고·영상 감독, 크리에이티브 디렉터, 공간 디자이너. 이들은 '무엇이 새로운가'와 '어떻게 작동하는가'를 원합니다.
 
 반드시 지킬 것
-1. 사실은 제공된 원문과 RSS 요약에서만 가져옵니다. 원문에 없는 수치·이름·연도·장소를 만들지 않습니다.
+1. 사실은 제공된 원문·RSS 요약·[리서치 자료]에서만 가져옵니다. 자료에 없는 수치·이름·연도·장소를 만들지 않습니다. 당신의 기억은 자료가 아닙니다.
+   [리서치 자료]는 원문 속 인물·작업과 같은 대상임이 분명할 때만 씁니다(동명이인·다른 작품 주의). 쓴 자료 번호는 sources_used에 넣습니다.
 2. 모든 출력은 자연스러운 한국어입니다. 번역투(‘~하는 것이다’, ‘~를 통해’ 남발, ‘~에 있어서’) 금지. 영어 문장을 그대로 두지 않습니다.
    고유명사는 한국어로 적고, 처음 등장할 때만 괄호로 원어를 붙입니다. 예: 장 누벨(Jean Nouvel)
 3. 상투어 금지: ‘새로운 영감’, ‘공감각적 경험’, ‘경계를 허문다’, ‘시대정신을 투영’, ‘압도적 몰입감’, ‘깊은 울림’, ‘새로운 지평’.
@@ -310,6 +314,14 @@ ITEM_SCHEMA = {
         "mechanism": {"type": "STRING", "description": "작동 방식: 재료·빛·구조·동선·편집 등 구체 장치가 어떻게 효과를 만드는지 1~2문장."},
         "sensory": {"type": "STRING", "description": "감각과 물성: 현장/화면에서 실제로 느껴질 질감·빛·소리·스케일 1~2문장."},
         "transfer": {"type": "STRING", "description": "연출로 가져갈 것: 광고·영상·공간 연출에 옮길 수 있는 구체적 아이디어 1~2문장."},
+        "context": {"type": "STRING", "description": "계보·맥락(자료에 적힌 사실만, 추측·일반론 금지): 리서치 자료에 근거해 작가·스튜디오의 이전 작업, 기관 배경, 선례, RE:COLLECTION 과거 기사와의 연결을 2~3문장. 자료가 없으면 원문 범위에서 1문장."},
+        "findings": {"type": "ARRAY", "items": {"type": "OBJECT", "properties": {
+            "text": {"type": "STRING", "description": "원문 밖 자료에서 새로 확인한 사실 한 문장(한국어). quote의 내용을 그대로 옮긴 것이어야 하며 숫자·연도·범위를 바꾸지 말 것."},
+            "s": {"type": "INTEGER", "description": "근거 자료 번호(S1이면 1)"},
+            "quote": {"type": "STRING", "description": "그 자료 본문에서 글자 그대로 복사한 근거 구절(원어, 8~30단어). 번역·요약 금지."}},
+            "required": ["text", "s", "quote"]},
+            "description": "리서치 노트: 원문 밖 자료에서 확인한 사실 0~4개. 자료가 없거나 무관하면 빈 배열."},
+        "sources_used": {"type": "ARRAY", "items": {"type": "INTEGER"}, "description": "실제로 사용한 리서치 자료 번호"},
         "keywords": {"type": "ARRAY", "items": {"type": "STRING"}, "description": "한국어 키워드 3~5개, 각 2~8자"},
         "evidence": {"type": "STRING", "description": "원문에서 그대로 옮긴 짧은 구절(원어 그대로, 30단어 이내). 없으면 빈 문자열."},
         "kind": {"type": "STRING", "enum": ["프로젝트", "전시", "작가·인터뷰", "제품·오브제", "브랜드·캠페인", "영상·필름", "런웨이·컬렉션", "뉴스·이슈", "리스트·라운드업", "행사·공모"]},
@@ -317,7 +329,7 @@ ITEM_SCHEMA = {
         "grounding": {"type": "STRING", "enum": ["full", "partial", "thin"]},
     },
     "required": ["title_ko", "summary_ko", "lens", "why_now", "mechanism", "sensory", "transfer",
-                 "keywords", "evidence", "kind", "depth", "grounding"],
+                 "context", "findings", "sources_used", "keywords", "evidence", "kind", "depth", "grounding"],
 }
 
 NOTE_SYSTEM = """당신은 한국어 데일리 저널 RE:COLLECTION의 편집장입니다.
@@ -352,6 +364,99 @@ NOTE_SCHEMA = {
     },
     "required": ["headline", "editorial", "threads"],
 }
+
+
+PLAN_SYSTEM = """당신은 RE:COLLECTION의 리서처입니다. 기사 본문을 읽고, 더 깊이 이해하려면 무엇을 찾아봐야 할지 정합니다.
+- entities: 기사 핵심 인물·스튜디오·브랜드·기관·작품·장소(원어 표기 그대로) 최대 5개.
+  wiki에는 영어 위키백과에서 찾을 검색어(정확한 고유명)를 넣되, 문서가 있을 법한 인물·스튜디오·기관·브랜드·작품·특정 건물만.
+  도시·국가·지역·일반 개념(Paris, Murano, Brazil, glass 등)은 절대 넣지 말고 빈 문자열.
+- primary_links: 아래 링크 후보 중 작가·스튜디오·기관·브랜드의 공식 페이지나 프로젝트 원 출처일 가능성이 높은 번호 최대 3개. 쇼핑·광고·무관한 링크 제외.
+- questions: 이 기사를 깊이 이해하기 위해 확인할 질문 2개(한국어)."""
+
+PLAN_SCHEMA = {
+    "type": "OBJECT",
+    "properties": {
+        "entities": {"type": "ARRAY", "items": {"type": "OBJECT", "properties": {
+            "name": {"type": "STRING"},
+            "type": {"type": "STRING", "enum": ["인물", "스튜디오", "브랜드", "기관", "작품", "장소", "기타"]},
+            "wiki": {"type": "STRING"}}, "required": ["name", "type", "wiki"]}},
+        "primary_links": {"type": "ARRAY", "items": {"type": "INTEGER"}},
+        "questions": {"type": "ARRAY", "items": {"type": "STRING"}},
+    },
+    "required": ["entities", "primary_links", "questions"],
+}
+
+ARCHIVE_SNAPSHOT = {}
+
+
+def gather_research(item, body, meta, links):
+    """계획 → 공식 페이지·위키백과·과거 아카이브 수집. 반환 (sources 목록, entities, questions)."""
+    cands = rk.candidate_links(item.get("url", ""), links)
+    link_lines = "\n".join(f"{i}. {c['text'] or '(텍스트 없음)'} — {c['url']}" for i, c in enumerate(cands, 1)) or "(없음)"
+    plan_prompt = (f"원제: {item.get('original_title', '')}\n출처: {item.get('source_name', '')}\n"
+                   f"본문(앞부분):\n{(body or meta.get('og:description', '') or item.get('snippet', ''))[:3500]}\n\n"
+                   f"[본문 속 링크 후보]\n{link_lines}")
+    try:
+        plan, _ = gemini_json(PLAN_SYSTEM, plan_prompt, PLAN_SCHEMA, temperature=0.2)
+    except TimeoutError:
+        raise
+    except Exception:
+        plan = {"entities": [], "primary_links": [], "questions": []}
+    ents = [e for e in plan.get("entities", []) if isinstance(e, dict) and e.get("name")][:5]
+    for e in ents:
+        if e.get("type") in ("장소", "기타") and not re.search(r"(museum|gallery|house|tower|building|pavilion|church|hall|centre|center|palace|station)", e.get("wiki", ""), re.I):
+            e["wiki"] = ""
+    sources = []
+    # 1) 공식 페이지 / 1차 출처
+    for n in (plan.get("primary_links") or [])[:3]:
+        if isinstance(n, int) and 1 <= n <= len(cands):
+            c = cands[n - 1]
+            txt, m2, _, st = rk.fetch_page(c["url"], limit=2600)
+            txt = txt or m2.get("og:description", "")
+            if st == "ok" and len(txt) >= 150:
+                sources.append({"type": "공식·1차", "title": (m2.get("og:title") or c["text"] or c["host"])[:90],
+                                "url": c["url"], "text": txt[:2600]})
+    # 2) 위키백과
+    wiki_done = 0
+    for e in ents:
+        if wiki_done >= 2:
+            break
+        q = (e.get("wiki") or "").strip()
+        if not q:
+            continue
+        w = rk.wiki_intro(q)
+        if w and not any(s_["url"] == w["url"] for s_ in sources):
+            sources.append({"type": "위키백과", "title": w["title"], "url": w["url"], "text": w["text"]})
+            wiki_done += 1
+    # 3) RE:COLLECTION 과거 기사
+    names = [e["name"] for e in ents]
+    specific = [e["name"] for e in ents if e.get("type") in ("인물", "스튜디오", "브랜드", "기관", "작품")]
+    for mtc in rk.archive_matches(specific, ARCHIVE_SNAPSHOT, url_key(item.get("url", "")), url_key):
+        sources.append({"type": "RE:COLLECTION 과거 기사", "title": mtc["title"], "url": mtc["url"],
+                        "text": f"{mtc['summary']} / 큐레이터의 시선: {mtc['lens']} (공통 대상: {mtc['match']})"})
+    return sources, names, [q for q in plan.get("questions", []) if isinstance(q, str)][:2]
+
+
+def _norm(t):
+    t = (t or "").lower()
+    t = re.sub(r"[\u2018\u2019\u201c\u201d\"'`]", "", t)
+    t = re.sub(r"[^\w\s]", " ", t)
+    return re.sub(r"\s+", " ", t).strip()
+
+
+def quote_found(quote, text):
+    q = _norm(quote)
+    if len(q) < 25:
+        return False
+    tn = _norm(text)
+    if q in tn:
+        return True
+    words = q.split()
+    # 앞뒤가 조금 잘려도 인정: 8단어 연속 일치
+    for i in range(0, max(1, len(words) - 7)):
+        if " ".join(words[i:i + 8]) in tn:
+            return True
+    return False
 
 
 def build_item_prompt(item, body, meta, status):
@@ -417,7 +522,8 @@ def cap_depth(d, soft_ok=False):
         v = min(v, 3)
     if d.get("kind") in CAP3_SOFT_KINDS and not soft_ok:
         v = min(v, 3)
-    if d.get("source_chars", 9999) < 600:
+    research_chars = ((d.get("research") or {}).get("chars") or 0) if (d.get("research") or {}).get("used") else 0
+    if d.get("source_chars", 9999) + research_chars < 600:
         v = min(v, 2)
     if d.get("cliche_hits"):
         v = min(v, 4)
@@ -425,8 +531,16 @@ def cap_depth(d, soft_ok=False):
 
 
 def read_one(item):
-    body, meta, status = fetch_article(item.get("url", ""))
+    body, meta, links, status = rk.fetch_page(item.get("url", ""))
+    sources, entities, questions = gather_research(item, body, meta, links)
     prompt = build_item_prompt(item, body, meta, status)
+    if sources:
+        blocks = [f"[S{i}] ({s_['type']}) {s_['title']} — {s_['url']}\n{s_['text']}" for i, s_ in enumerate(sources, 1)]
+        prompt += "\n[리서치 자료]\n" + "\n\n".join(blocks)
+    else:
+        prompt += "\n[리서치 자료]\n(추가 자료를 찾지 못함. context는 원문 범위에서만 짧게, findings는 빈 배열)"
+    if questions:
+        prompt += "\n\n[리서처가 던진 질문 — 자료로 답할 수 있는 만큼만 반영]\n- " + "\n- ".join(questions)
     last_err = None
     for _ in range(2):
         d, model = gemini_json(ITEM_SYSTEM, prompt, ITEM_SCHEMA)
@@ -444,6 +558,26 @@ def read_one(item):
                 "cliche_hits": hits,
                 "read_at": datetime.now(KST).strftime("%Y-%m-%d %H:%M"),
             })
+            used = sorted({n for n in (d.get("sources_used") or []) if isinstance(n, int) and 1 <= n <= len(sources)}
+                          | {f.get("s") for f in (d.get("findings") or []) if isinstance(f, dict) and isinstance(f.get("s"), int) and 1 <= f.get("s") <= len(sources)})
+            verified = []
+            for f in (d.get("findings") or []):
+                if not (isinstance(f, dict) and f.get("text") and isinstance(f.get("s"), int) and 1 <= f.get("s") <= len(sources)):
+                    continue
+                if not quote_found(f.get("quote", ""), sources[f["s"] - 1]["text"]):
+                    continue  # 근거 구절이 자료에 실제로 없으면 버린다
+                verified.append({"text": re.sub(r"\s+", " ", str(f.get("text", ""))).strip(), "s": f["s"],
+                                 "quote": re.sub(r"\s+", " ", str(f.get("quote", ""))).strip()[:220]})
+            d["findings"] = verified[:4]
+            d["context"] = re.sub(r"\s+", " ", str(d.get("context", ""))).strip()
+            d["research"] = {
+                "entities": entities,
+                "questions": questions,
+                "sources": [{"n": i, "type": s_["type"], "title": s_["title"], "url": s_["url"]} for i, s_ in enumerate(sources, 1)],
+                "used": used,
+                "chars": sum(len(s_["text"]) for s_ in sources),
+            }
+            d.pop("sources_used", None)
             d["depth_raw"] = d.get("depth")
             d["depth"] = cap_depth(d)
             d["depth_v"] = DEPTH_VERSION
@@ -607,6 +741,7 @@ def main():
         return
     POOL = Pool()
     cache = load_json(CACHE_FILE, {})
+    ARCHIVE_SNAPSHOT.update({k: dict(v) for k, v in cache.items() if isinstance(v, dict)})
     notes = load_json(NOTES_FILE, {})
     fails = load_json(FAIL_FILE, {})
     by_date = collect_items()
@@ -676,6 +811,11 @@ def main():
         old = notes.get(d)
         if old and REWRITE_NOTES and old.get("v", 0) < NOTE_VERSION:
             old = None
+        if old and old.get("v", 0) < NOTE_VERSION:
+            ks = [url_key(it.get("url", "")) for it in items]
+            v2 = sum(1 for k in ks if (cache.get(k) or {}).get("v", 0) >= VERSION)
+            if ks and v2 / len(ks) >= 0.8:
+                old = None
         if old:
             grown = min(read_n, 24) - old.get("based_on", 0)
             if d != today or grown < 3:

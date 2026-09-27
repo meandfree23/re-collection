@@ -66,8 +66,13 @@ def apply_deep(item, deep_map):
     out['title_mt'] = item.get('title', '')
     out['title'] = d.get('title_ko', item.get('title', ''))
     out['snippet'] = d.get('summary_ko', item.get('snippet', ''))
-    out['deep'] = {k: d.get(k) for k in ('lens', 'why_now', 'mechanism', 'sensory', 'transfer',
+    out['deep'] = {k: d.get(k) for k in ('lens', 'why_now', 'mechanism', 'sensory', 'transfer', 'context',
                                          'keywords', 'evidence', 'kind', 'depth', 'grounding', 'depth_reason')}
+    rs = d.get('research') or {}
+    used = set(rs.get('used') or [])
+    srcs = [x for x in (rs.get('sources') or []) if x.get('n') in used]
+    out['deep']['sources'] = [{'n': x['n'], 'type': x.get('type', ''), 'title': x.get('title', ''), 'url': x.get('url', '')} for x in srcs]
+    out['deep']['findings'] = [f for f in (d.get('findings') or []) if f.get('s') in used or f.get('s') in {x['n'] for x in srcs}]
     return out
 
 
@@ -77,9 +82,20 @@ def render_deep_block(item):
         return ''
     kws = ''.join(f'<span class="rc-kw">#{html.escape(k)}</span>' for k in (dp.get('keywords') or [])[:5])
     rows = []
-    for label, key in (('왜 지금', 'why_now'), ('작동 방식', 'mechanism'), ('감각과 물성', 'sensory'), ('연출로 가져갈 것', 'transfer')):
+    for label, key in (('왜 지금', 'why_now'), ('작동 방식', 'mechanism'), ('감각과 물성', 'sensory'), ('계보·맥락', 'context'), ('연출로 가져갈 것', 'transfer')):
         if dp.get(key):
             rows.append(f'<dt>{label}</dt><dd>{html.escape(dp[key])}</dd>')
+    srcmap = {x['n']: x for x in (dp.get('sources') or [])}
+    fnd = ''
+    if dp.get('findings'):
+        li = ''.join(
+            f'<li>{html.escape(f["text"])} <a href="{html.escape(srcmap.get(f["s"], {}).get("url", "#"), quote=True)}" target="_blank" rel="noopener noreferrer" class="rc-src-ref">[{html.escape(srcmap.get(f["s"], {}).get("type", "출처"))}]</a></li>'
+            for f in dp['findings'])
+        fnd = f'<div class="rc-findings"><span class="rc-sub">리서치 노트</span><ul>{li}</ul></div>'
+    srcs_html = ''
+    if srcmap:
+        li2 = ''.join(f'<li><span>{html.escape(x["type"])}</span><a href="{html.escape(x["url"], quote=True)}" target="_blank" rel="noopener noreferrer">{html.escape(x["title"])}</a></li>' for x in srcmap.values())
+        srcs_html = f'<div class="rc-sources"><span class="rc-sub">참고한 자료</span><ul>{li2}</ul></div>'
     ev = ''
     if dp.get('evidence'):
         ev = f'<blockquote class="rc-evidence">“{html.escape(dp["evidence"])}”<cite>원문 인용 · {html.escape(item.get("source_name", ""))}</cite></blockquote>'
@@ -92,7 +108,7 @@ def render_deep_block(item):
     return (
         f'<div class="rc-lens"><span class="rc-lens-label">큐레이터의 시선</span><p>{html.escape(dp["lens"])}</p></div>'
         f'<div class="rc-kws">{kws}</div>'
-        f'<details class="rc-deep"><summary>깊이 읽기</summary><dl>{"".join(rows)}</dl>{ev}{orig}{thin}</details>'
+        f'<details class="rc-deep"><summary>깊이 읽기{f" · 원문 외 자료 {len(srcmap)}곳" if srcmap else ""}</summary><dl>{"".join(rows)}</dl>{fnd}{ev}{srcs_html}{orig}{thin}</details>'
     )
 
 
