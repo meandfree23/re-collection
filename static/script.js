@@ -174,6 +174,11 @@
     t = setTimeout(function () { state.q = searchEl.value.trim().toLowerCase(); render(); }, 120);
   });
 
+  window.addEventListener('hashchange', function () {
+    var h = (location.hash || '').replace('#', '');
+    if (h && h !== state.date && dates.indexOf(h) >= 0) go(h, { keepHash: true });
+  });
+
   // 첫 진입: 주소의 #날짜가 있으면 그 호, 없으면 미리 렌더된 최신 호를 그대로 두고 데이터만 받아 둔다
   var hash = (location.hash || '').replace('#', '');
   if (hash && dates.indexOf(hash) >= 0 && hash !== state.date) {
