@@ -88037,5 +88037,1039 @@
   },
   "depth_raw": 3,
   "depth_v": 2
+ },
+ "motionographer.com/2026/09/28/dear-upstairs-neighbors-how-connie-he-taught-a-machine-to-see-the-way-she-draws": {
+  "title_ko": "코니 허의 애니메이션 'Dear Upstairs Neighbors': 생성형 AI를 악기처럼 다루는 법",
+  "summary_ko": "픽사 출신 감독 코니 허는 층간소음으로 고통받던 자신의 경험을 6분짜리 단편 애니메이션으로 옮겼다. 구글 딥마인드와 협업해 자체 컨셉 아트로 파인튜닝한 Veo와 Imagen 모델을 활용했으며, AI를 단순한 자동화 도구가 아닌 작가의 화풍을 학습하고 조정하는 악기로 다뤘다.",
+  "lens": "생성형 AI를 창작의 주체가 아닌, 작가의 고유한 필치와 시각적 패턴을 재현하도록 정밀하게 튜닝하는 '악기'로 전유했다.",
+  "why_now": "기술이 예술을 대체한다는 담론에서 벗어나, 기존의 CG 파이프라인과 결합해 작가의 의도를 정밀하게 제어하는 워크플로우를 실증했기 때문이다.",
+  "mechanism": "약 12개의 컨셉 아트 레이어와 수백 장의 이미지를 파인튜닝 데이터로 사용했다. 전체 샷을 생성하는 대신, 특정 영역을 조절하는 '국소적 정교화' 도구를 개발해 애니메이터가 프레임 단위로 개입할 수 있게 했다.",
+  "sensory": "잭슨 폴록의 추상 표현주의에서 영감을 받은 거친 붓터치와 지그재그 선이 화면을 채운다. 층간소음이 환각으로 변주되는 과정에서 나타나는 불규칙하고 역동적인 형태가 시각적 긴장감을 만든다.",
+  "transfer": "콘티 단계에서 스토리의 리듬을 완벽히 고정한 뒤, AI 모델에는 특정 씬의 카메라 앵글과 오브젝트의 지면 접점 패턴만을 학습시켜 일관성을 유지한다. 생성된 영상의 특정 영역만 수정하는 레이어드 편집 방식을 도입해 수정 비용을 줄인다.",
+  "context": "코니 허는 픽사에서 '인사이드 아웃 2' 작업에 참여했으며, '러브, 데스 + 로봇' 시즌 1의 CG 제너럴리스트로 활동했다. 이번 프로젝트는 구글 딥마인드의 영상 생성 모델인 Veo와 이미지 모델 Imagen을 실제 애니메이션 제작 환경에 적용한 사례다.",
+  "findings": [
+   {
+    "text": "애니메이터들은 생성형 AI 모델을 커스텀 아트워크로 파인튜닝하여 샷마다 일관된 시각적 스타일을 유지했다.",
+    "s": 1,
+    "quote": "Animators fine-tuned AI models with custom artwork, teaching them unique visual styles for consistent shots."
+   },
+   {
+    "text": "국소적 정교화 도구를 통해 아티스트는 영상의 특정 영역을 수정하며 완성도를 높였다.",
+    "s": 1,
+    "quote": "Localized refinement tools allowed artists to edit specific video regions, iterating toward perfection."
+   }
+  ],
+  "keywords": [
+   "생성형AI",
+   "애니메이션",
+   "코니허",
+   "구글딥마인드",
+   "워크플로우"
+  ],
+  "evidence": "The model absorbed the low, two-point perspective they had used throughout their concept art without anyone flagging it as a rule.",
+  "kind": "프로젝트",
+  "depth": 5,
+  "grounding": "full",
+  "depth_reason": "생성형 AI를 기존 CG 파이프라인과 결합한 구체적인 워크플로우와 작가의 제작 철학이 명확히 드러나 실무 적용 가치가 매우 높다.",
+  "v": 2,
+  "url": "https://motionographer.com/2026/09/28/dear-upstairs-neighbors-how-connie-he-taught-a-machine-to-see-the-way-she-draws/",
+  "original_title": "Dear Upstairs Neighbors: How Connie He Taught a Machine to See the Way She Draws.",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 9000,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-09-29 01:51",
+  "research": {
+   "entities": [
+    "Connie He",
+    "Google DeepMind",
+    "Dear Upstairs Neighbors",
+    "Veo",
+    "Imagen"
+   ],
+   "questions": [
+    "애니메이션 제작 과정에서 생성형 AI 모델을 특정 작가의 화풍으로 파인튜닝하는 기술적 원리는 무엇인가?",
+    "예술가와 AI 연구자가 협업할 때 발생하는 언어적, 기술적 간극을 줄이기 위해 어떤 소통 방식이 필요한가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "How animators and AI researchers made ‘Dear Upstairs Neighbors’",
+     "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/dear-upstairs-neighbors/"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Google DeepMind",
+     "url": "https://en.wikipedia.org/wiki/Google%20DeepMind"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 4000
+  },
+  "depth_raw": 5,
+  "depth_v": 2
+ },
+ "archdaily.com/1185927/ai-x-gaudi-architecture-competition-plus-ai-course": {
+  "title_ko": "기계학습으로 재해석하는 가우디의 기하학: AIxGaudi 공모전",
+  "summary_ko": "건축 교육 플랫폼 아카데미닷에이아이(Archademy.ai)가 안토니 가우디 재단과 협력하여 'AIxGaudi' 공모전을 개최한다. 참가자는 콤피유아이(ComfyUI)와 플럭스(Flux.2) 등 생성형 인공지능 도구를 활용해 가우디의 기하학적 실험 정신을 현대 건축 프로젝트로 구현한다.",
+  "lens": "가우디가 3차원 모형으로 구현했던 자연의 유기적 형태와 구조적 실험을 기계학습 모델의 잠재 공간에서 재구성하는 시도다.",
+  "why_now": "가우디 서거 100주년이자 바르셀로나가 2026년 세계 건축 수도로 지정된 시점에 맞춰, 그의 비정형 건축 논리를 데이터 기반 생성 프로세스로 치환하려는 움직임이다.",
+  "mechanism": "콤피유아이와 플럭스 같은 생성형 도구를 활용해 가우디 특유의 자연 모방 기하학과 구조적 복잡성을 프롬프트와 가중치 제어로 설계 프로세스에 통합한다.",
+  "sensory": "파편화된 세라믹을 활용한 트렌카디스(trencadís) 기법처럼, AI가 생성하는 비정형 곡면과 복잡한 패턴이 디지털 환경에서 어떻게 질감으로 변환될지 관건이다.",
+  "transfer": "이미지 생성 모델의 시드(seed)와 가중치 제어를 통해, 건축적 초기 매스 모델에서 디테일한 장식적 패턴까지 생성 단계별로 제어하는 워크플로우를 구축할 수 있다.",
+  "context": "가우디는 도면보다 3차원 모형을 선호하며 자연의 형태를 구조로 치환하는 데 집중했다. 이번 공모전은 그의 작업 방식을 현대의 기계학습 기술로 옮겨와 기술 교육과 실무 설계를 결합하는 새로운 교육 형식을 제시한다.",
+  "findings": [
+   {
+    "text": "가우디는 도면 대신 3차원 모형을 제작하여 형태를 구상했다.",
+    "s": 1,
+    "quote": "Gaudí rarely drew detailed plans, preferring to create three-dimensional scale models and mold the details as he conceived them."
+   },
+   {
+    "text": "가우디는 폐세라믹을 활용한 트렌카디스 기법을 선보였다.",
+    "s": 1,
+    "quote": "He introduced new techniques in the treatment of materials, such as trencadís which used waste ceramic pieces."
+   }
+  ],
+  "keywords": [
+   "생성형AI",
+   "안토니가우디",
+   "디지털건축",
+   "기하학",
+   "콤피유아이"
+  ],
+  "evidence": "The competition translates the master's spirit of formal and technical experimentation into the era of machine learning",
+  "kind": "행사·공모",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "건축가의 방법론을 생성형 AI 워크플로우로 전이하려는 시도는 흥미로우나, 공모전의 구체적인 평가 기준이나 기술적 구현 방식이 원문에 상세히 기술되지 않았다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1185927/ai-x-gaudi-architecture-competition-plus-ai-course",
+  "original_title": "AI x Gaudi: Architecture Competition + AI Course",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 1720,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-09-29 01:51",
+  "research": {
+   "entities": [
+    "Antoni Gaudí",
+    "Archademy.ai",
+    "Antoni Gaudí Foundation",
+    "ComfyUI",
+    "Flux.1"
+   ],
+   "questions": [
+    "AIxGaudi 공모전이 가우디의 건축 철학을 현대의 생성형 AI 기술과 어떻게 결합하고자 하는가?",
+    "가우디 서거 100주년과 2026년 바르셀로나 세계 건축 수도 지정이 이번 프로젝트에 어떤 의미를 갖는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Antoni Gaudí",
+     "url": "https://en.wikipedia.org/wiki/Antoni%20Gaud%C3%AD"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 1400
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "archdaily.com/1029387/koto-niwa-cabin-koto": {
+  "title_ko": "고토(Koto)의 니와(Niwa) 캐빈: 플랫팩으로 구현한 375평방피트의 정밀한 휴식",
+  "summary_ko": "고토가 미국에 완공한 니와 캐빈은 플랫팩 모듈러 건축의 새로운 진화다. 375평방피트(약 10.5평) 규모의 이 공간은 스칸디나비아와 일본의 디자인 철학을 결합해 자연과 연결된 정적인 안식처를 지향한다. 패널화된 구조로 운송과 조립 효율을 극대화했다.",
+  "lens": "단순한 조립식 건축을 넘어, 패널화된 구조가 어떻게 원격지에서 고도의 미학적 완성도를 유지하는지 보여주는 사례다.",
+  "why_now": "운송 효율과 현장 조립의 편의성을 극대화하면서도 건축적 무결성을 잃지 않는 모듈러 설계에 대한 수요가 늘고 있다.",
+  "mechanism": "패널화된 시스템을 도입하여 운송 부피를 줄이고, 현장에서는 정밀한 조립만으로 구조적 완성도를 확보하도록 설계했다.",
+  "sensory": "스칸디나비아와 일본의 미학을 반영한 간결한 조형미가 주변 자연환경과 대비를 이루며 정적인 질감을 전달한다.",
+  "transfer": "공간의 모듈을 패널 단위로 해체하여 운송 효율을 높이는 방식은 이동형 팝업 스토어나 임시 전시 공간 연출에 직접 적용할 수 있다.",
+  "context": "고토는 지속 가능한 모듈러 디자인을 꾸준히 탐구해 온 스튜디오로, 이번 니와 컬렉션은 기존의 모듈러 건축을 더 접근하기 쉬운 방식으로 재해석한 결과물이다.",
+  "findings": [],
+  "keywords": [
+   "모듈러건축",
+   "플랫팩",
+   "니와캐빈",
+   "고토",
+   "지속가능성"
+  ],
+  "evidence": "The result is a cabin that arrives in a panelised form, allowing for effortless shipping and assembly",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "모듈러 건축의 효율적 운송과 조립이라는 구체적 해결책을 제시했으나, 상세한 평면도나 내부 상세 재료 정보가 부족하다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1029387/koto-niwa-cabin-koto",
+  "original_title": "Koto Niwa Cabin / Koto",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 1819,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-09-29 01:51",
+  "research": {
+   "entities": [
+    "Koto",
+    "Koto Niwa Cabin",
+    "Ryan Wu"
+   ],
+   "questions": [
+    "Koto의 Niwa 컬렉션이 지향하는 모듈러 건축의 핵심적인 지속가능성 전략은 무엇인가요?",
+    "스칸디나비아와 일본의 디자인 철학이 Niwa 캐빈의 공간 구성과 미학에 어떻게 결합되었나요?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "archdaily.com/1185906/story-space-two-places-for-storytelling": {
+  "title_ko": "노리치 대학교, 2026 고등학교 건축 디자인 경진대회 개최",
+  "summary_ko": "노리치 대학교 건축미술학교가 2026년 고등학교 건축 디자인 경진대회를 개최한다. 이번 경진대회는 빛과 공간, 재료를 활용해 사람들을 위한 역동적이고 기능적인 야외 공연 및 모임 공간의 디자인을 모집한다. 최근 몇 년간 변화한 모임 방식을 반영하여 지역사회 구축을 위한 야외 공간의 해법을 모색한다.",
+  "lens": "변화한 일상의 모임 방식을 야외 공간의 물리적 구성으로 풀어내는 고등학교 건축 경진대회다.",
+  "why_now": "야외 공연 및 모임 공간은 지역사회 구축을 위한 필수적인 요소로 자리 잡았다.",
+  "mechanism": "빛과 공간, 재료의 구성을 조율하여 사람들의 문제를 해결하는 야외 공간을 구축한다.",
+  "sensory": "야외 환경에서 빛의 변화와 재료의 물성이 어우러지는 개방된 모임 공간의 스케일이다.",
+  "transfer": "야외 군중 신을 연출할 때 건축적 구조물과 자연광이 만들어내는 동선과 시각적 경계를 콘티에 활용한다.",
+  "context": "미국 버몬트주 노스필드에 위치한 사립 대학인 노리치 대학교에서 주관하는 디자인 공모 프로그램이다.",
+  "findings": [],
+  "keywords": [
+   "노리치대학교",
+   "건축디자인",
+   "야외공간",
+   "공모전"
+  ],
+  "evidence": "Norwich University School of Architecture and Art is proud to announce the 2026 High School Architecture Design Competition.",
+  "kind": "행사·공모",
+  "depth": 2,
+  "grounding": "thin",
+  "depth_reason": "대학 주최의 고등학교 디자인 경진대회 공고문으로 일반적인 행사 안내에 해당한다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1185906/story-space-two-places-for-storytelling",
+  "original_title": "Story Space: Two Places for Storytelling",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 1397,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-09-29 01:53",
+  "research": {
+   "entities": [
+    "Norwich University"
+   ],
+   "questions": [
+    "Norwich University에서 주최하는 2026 고등학교 건축 디자인 대회의 주요 과제는 무엇인가요?",
+    "야외 공연 및 모임 공간 디자인에서 빛, 공간, 재료의 역할은 어떻게 정의되나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Norwich University",
+     "url": "https://en.wikipedia.org/wiki/Norwich%20University"
+    }
+   ],
+   "used": [],
+   "chars": 1400
+  },
+  "depth_raw": 2,
+  "depth_v": 2
+ },
+ "wallpaper.com/design-interiors/design-events/helsinki-design-week-2026-best-finnish-design": {
+  "title_ko": "헬싱키 디자인 위크가 증명하는 일상과 도시를 잇는 디자인의 힘",
+  "summary_ko": "헬싱키 디자인 위크는 디자인이 일상에 스며들어 도시의 주거 환경을 개선하는 방식을 보여준다. 교차 적층 목재(CLT)로 지은 여름 별장부터 99% 재사용을 실천한 팝업 공간까지, 핀란드의 디자인 커뮤니티는 도시 전략과 창의적 산업을 결합해 미래를 설계한다. 이는 단순한 전시를 넘어 디자인이 사회적 도구로 작동하는 실천적 사례를 제시한다.",
+  "lens": "디자인을 장식적 결과물이 아닌, 도시의 전략적 발전과 일상의 물리적 환경을 개선하는 실천적 도구로 다룬다.",
+  "why_now": "기술과 공예를 결합하고, 장기적 전략을 실행에 옮기는 핀란드의 방식은 불확실한 시대에 디자인이 가져야 할 태도를 보여준다.",
+  "mechanism": "최소한의 재료로 최대 공간을 확보하는 미네스트로네 워크숍의 목재 파빌리온처럼, 구조적 효율과 재료의 물성을 극대화하여 공간의 가치를 높인다.",
+  "sensory": "교차 적층 목재의 매끄러운 질감과 빛이 시간에 따라 변하며 공간에 깊이를 더하고, 재사용된 자재들이 층층이 쌓여 시간의 궤적을 드러낸다.",
+  "transfer": "공간 연출 시 구조체 자체를 마감재로 사용하여 재료의 물성을 강조하고, 99% 재사용 원칙을 적용해 폐기물을 최소화하는 순환형 세트 제작 방식을 도입한다.",
+  "context": "유하니 팔라스마는 '피부의 감각'을 통해 건축이 감각 전체를 다뤄야 함을 강조해 온 이론가로, 이번 컬렉션 기증은 그의 철학을 잇는 행보다. 스튜디오 조안나 라야이스토는 지속 가능성과 인간 행동에 대한 이해를 바탕으로 상업 인테리어의 순환성을 실험한다.",
+  "findings": [
+   {
+    "text": "비요른 벡스트룀은 1960년대부터 전통적인 금세공을 넘어 조각에 가까운 독창적인 스타일을 구축했다.",
+    "s": 5,
+    "quote": "In the 1960s Weckström found his own, a totally new style which is closer to sculpture than traditional goldsmithing."
+   }
+  ],
+  "keywords": [
+   "헬싱키디자인위크",
+   "교차적층목재",
+   "순환디자인",
+   "유하니팔라스마",
+   "공간전략"
+  ],
+  "evidence": "The real strength of Helsinki Design Week is its confident and relaxed demonstration of how design spills into everyday life",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "도시 전략과 구체적인 건축 사례를 결합해 디자인의 실천적 역할을 깊이 있게 분석했다.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/design-interiors/design-events/helsinki-design-week-2026-best-finnish-design",
+  "original_title": "12 uplifting design projects from Finland",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 9000,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-09-29 01:54",
+  "research": {
+   "entities": [
+    "Helsinki Design Week",
+    "Studio Joanna Laajisto",
+    "Juhani Pallasmaa",
+    "Björn Weckström",
+    "JKMM Architects"
+   ],
+   "questions": [
+    "헬싱키 디자인 위크가 도시의 전략적 발전과 창의적 섹터 성장에 어떻게 기여하고 있나요?",
+    "스튜디오 조안나 라야이스토가 실내 디자인 분야에서 실천하는 순환성(circularity)과 재사용의 구체적인 방식은 무엇인가요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Weekly - Helsinki Design Week",
+     "url": "https://helsinkidesignweek.com/?lang=en"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "KAINUU",
+     "url": "https://kainuuhouses.com/en/"
+    },
+    {
+     "n": 3,
+     "type": "공식·1차",
+     "title": "Studio Joanna Laajisto",
+     "url": "https://joannalaajisto.com/"
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "Juhani Pallasmaa",
+     "url": "https://en.wikipedia.org/wiki/Juhani%20Pallasmaa"
+    },
+    {
+     "n": 5,
+     "type": "위키백과",
+     "title": "Björn Weckström",
+     "url": "https://en.wikipedia.org/wiki/Bj%C3%B6rn%20Weckstr%C3%B6m"
+    }
+   ],
+   "used": [
+    2,
+    3,
+    4,
+    5
+   ],
+   "chars": 5381
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "hyperallergic.com/arthur-jafas-elegy-to-america": {
+  "title_ko": "아서 자파가 뉴 뮤지엄에서 펼치는 40년의 시적 탐구",
+  "summary_ko": "아서 자파(Arthur Jafa)가 뉴 뮤지엄(New Museum)에서 자신의 40년 작업을 집대성한 최대 규모의 설문 조사를 선보인다. 전시장은 비디오 아트, 개념적 조각, 사진으로 구성되어 흑인 문화, 종교, 정치적 폭력, 대중문화를 관통하는 그의 시각적 언어를 드러낸다.",
+  "lens": "비디오 아트의 문법을 넘어 조각과 사진으로 확장된 자파의 작업이 미국적 폭력과 대중문화의 이면을 어떻게 파편화하여 재구성하는지 관찰한다.",
+  "why_now": "디지털 바이럴과 인종적 폭력이 뒤섞인 동시대 미국 사회의 복잡성을 자파는 더욱 독자적이고 거친 방식으로 시각화한다.",
+  "mechanism": "영상, 조각, 사진이라는 서로 다른 매체를 밀도 높게 배치하여 관람객이 흑인 문화와 정치적 서사를 다층적으로 경험하도록 유도한다.",
+  "sensory": "영상 속 대중문화의 파편화된 소리와 흑인 음악의 리듬이 전시장 전체를 채우며, 조각과 사진의 정적인 물성이 긴장감을 조성한다.",
+  "transfer": "영상 편집 시 특정 서사를 직설적으로 전달하기보다 상징적 이미지를 파편적으로 나열하여 관객이 스스로 의미를 채우게 하는 연출법을 참고한다.",
+  "context": "이번 전시는 자파의 비디오 아트뿐만 아니라 조각과 사진을 포함해 40년간의 작업을 총망라한 뉴 뮤지엄의 대규모 기획이다.",
+  "findings": [],
+  "keywords": [
+   "아서자파",
+   "뉴뮤지엄",
+   "비디오아트",
+   "개념조각"
+  ],
+  "evidence": "Arthur Jafa's recently opened survey at the New Museum is the largest exhibition of his work to date.",
+  "kind": "전시",
+  "depth": 2,
+  "grounding": "thin",
+  "depth_reason": "전시의 규모와 주제는 명확하나 구체적인 작품의 기법이나 연출 방식에 대한 상세한 묘사가 부족하다.",
+  "v": 2,
+  "url": "https://hyperallergic.com/arthur-jafas-elegy-to-america/",
+  "original_title": "Arthur Jafa’s Elegy to America",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 4884,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-09-29 01:56",
+  "research": {
+   "entities": [],
+   "questions": [],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "archdaily.com/1185903/zanine-caldas-creating-worlds": {
+  "title_ko": "호세 자닌 칼다스의 세계: 목재의 물성과 장인 정신의 재발견",
+  "summary_ko": "상파울루 토미 오타케 하우스 스튜디오에서 2026년 11월 7일까지 호세 자닌 칼다스의 회고전이 열린다. 전시는 그의 가구 디자인, 건축 도면, 모형을 통해 합판 연구부터 폐목재를 활용한 '항의 가구'까지 이르는 작업 궤적을 네 개 섹션으로 조명한다. 토미 오타케의 옛 작업실이라는 장소성을 활용해 두 예술가가 공유한 실험적 태도와 제작 과정을 나란히 배치했다.",
+  "lens": "버려진 통나무를 가구로 전환한 자닌 칼다스의 작업은 재료의 생애 주기를 건축적 언어로 치환하는 방식이다.",
+  "why_now": "산업화된 목재 생산 방식에서 벗어나 재료 본연의 질감과 현장 중심의 수공예를 강조하는 그의 태도는 지속 가능한 디자인을 고민하는 현재의 흐름과 맞닿아 있다.",
+  "mechanism": "전시된 가구와 모형은 현장의 지형과 가용 재료, 목수들의 숙련된 손기술이 어떻게 건축의 형태를 결정하는지 증명하며 제작 과정 그 자체를 하나의 서사로 구성한다.",
+  "sensory": "합판의 매끄러운 질감과 폐목재의 거친 단면이 대비를 이루며, 작가가 직접 다룬 원목의 무게감과 목공 도구가 남긴 흔적이 전시장 곳곳에 배어 있다.",
+  "transfer": "공간 연출 시 재료의 기원과 가공 흔적을 숨기지 않고 드러내어, 제작자의 노동과 시간이 축적된 사물의 서사를 시각적으로 강조할 수 있다.",
+  "context": "호세 자닌 칼다스는 오스카 니마이어와 루시우 코스타가 인정한 브라질의 독보적인 자학 건축가이자 디자이너다. 이번 전시는 일본계 브라질 추상 미술가 토미 오타케의 아틀리에에서 열리며, 두 인물의 공통분모인 '제작의 행위'와 끊임없는 실험 정신을 연결한다.",
+  "findings": [
+   {
+    "text": "호세 자닌 칼다스는 브라질의 독학 건축가이자 조경가, 조각가, 가구 디자이너로 활동했다.",
+    "s": 1,
+    "quote": "José Zanine Caldas (April 25, 1919 – December 20, 2001) was a Brazilian self-taught architect, landscaper, sculptor, and furniture designer."
+   },
+   {
+    "text": "그의 작업은 전통적인 수공예와 현대적 기술의 독특한 결합으로 평가받는다.",
+    "s": 1,
+    "quote": "His works, which drew the admiration of fellow architects Oscar Niemeyer and Lucio Costa, are a unique synthesis of traditional handicraft and modern techniques."
+   },
+   {
+    "text": "토미 오타케는 브라질 비공식 추상주의를 대표하는 시각 예술가였다.",
+    "s": 2,
+    "quote": "She was one of the main representatives of informal abstractionism in Brazil."
+   }
+  ],
+  "keywords": [
+   "호세자닌칼다스",
+   "브라질모더니즘",
+   "목재디자인",
+   "토미오타케",
+   "수공예"
+  ],
+  "evidence": "Zanine designed based on the site, available materials, and the craftsmanship of artisans and carpenters.",
+  "kind": "전시",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "작가의 작업 철학을 재료와 제작 과정이라는 구체적 장치로 분석하여 전시의 맥락을 명확히 전달한다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1185903/zanine-caldas-creating-worlds",
+  "original_title": "Zanine Caldas – Creating Worlds",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 1755,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-09-29 01:56",
+  "research": {
+   "entities": [
+    "Zanine Caldas",
+    "Tomie Ohtake",
+    "Casa-ateliê Tomie Ohtake",
+    "Móveis Artísticos Z"
+   ],
+   "questions": [
+    "호세 자닌 칼다스(José Zanine Caldas)의 가구 디자인과 건축 철학이 브라질 모더니즘에 미친 영향은 무엇인가요?",
+    "토미 오타케(Tomie Ohtake)의 자택이자 아틀리에였던 장소에서 두 예술가의 작업이 어떻게 교감하고 있나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Zanine Caldas",
+     "url": "https://en.wikipedia.org/wiki/Zanine%20Caldas"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Tomie Ohtake",
+     "url": "https://en.wikipedia.org/wiki/Tomie%20Ohtake"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 561
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "dezeen.com/2026/09/28/v-flex-vitra-tiles-dezeen-showroom": {
+  "title_ko": "설치 공정을 단축하는 비트라 타일의 V-플렉스 시스템",
+  "summary_ko": "비트라 타일(VitrA Tiles)이 선보인 V-플렉스(V-Flex)는 타일 설치 과정을 간소화하고 시공 속도를 높이는 시스템이다. 복잡한 공정 없이 효율적인 설치를 지원하도록 설계되었다.",
+  "lens": "타일 시공의 물리적 복잡성을 줄여 마감의 균일함을 유지하는 공학적 접근이다.",
+  "why_now": "건축 현장에서 공기 단축과 시공 정밀도가 동시에 요구되는 흐름을 반영한다.",
+  "mechanism": "설치 단계를 단순화하는 시스템 구조를 통해 현장 작업자의 숙련도에 따른 오차를 최소화한다.",
+  "sensory": "타일 간의 결합이 매끄럽게 이루어져 시각적으로 정돈된 면을 형성한다.",
+  "transfer": "공간 디자인 시 타일 마감의 수평과 수직 정렬을 위한 가이드라인으로 활용할 수 있다.",
+  "context": "비트라(VitrA)는 스위스 가구 브랜드 비트라(Vitra)와는 다른 주체이나, 비트라 디자인 뮤지엄 등 건축과 디자인의 접점을 탐구하는 비트라의 행보와 맥락을 같이 한다.",
+  "findings": [],
+  "keywords": [
+   "비트라타일",
+   "타일설치",
+   "공간마감",
+   "시공효율"
+  ],
+  "evidence": "V-Flex system provides fast and simple installation options.",
+  "kind": "제품·오브제",
+  "depth": 2,
+  "grounding": "thin",
+  "depth_reason": "원문 내용이 매우 제한적이며 구체적인 기술적 사양을 확인할 수 없어 정보 전달 수준에 그친다.",
+  "v": 2,
+  "url": "https://www.dezeen.com/2026/09/28/v-flex-vitra-tiles-dezeen-showroom/",
+  "original_title": "V-Flex by VitrA Tiles",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 0,
+  "fetch": "fetch_error:HTTPError",
+  "cliche_hits": [],
+  "read_at": "2026-09-29 01:57",
+  "research": {
+   "entities": [
+    "VitrA",
+    "V-Flex"
+   ],
+   "questions": [
+    "V-Flex 시스템이 기존 타일 설치 방식과 비교해 어떤 기술적 차별점을 가지고 있나요?",
+    "V-Flex 시스템을 통해 얻을 수 있는 시공 효율성과 내구성의 이점은 무엇인가요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Vitra (furniture)",
+     "url": "https://en.wikipedia.org/wiki/Vitra%20%28furniture%29"
+    },
+    {
+     "n": 2,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "열대 모더니즘의 거장, 비트라 디자인 뮤지엄에서 재회하다",
+     "url": "https://www.wallpaper.com/architecture/architecture-events/geoffrey-bawa-exhibition-vitra-design-museum"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "날을 분리해 영구적으로 연마하는 호를(Horl)의 정밀 가위와 샤프너",
+     "url": "https://www.wallpaper.com/tech/horl-scissors-and-sharpeners-review"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "캠퍼와 비트라 디자인 뮤지엄, 20년의 협업을 잇는 아카이브의 재구성",
+     "url": "https://www.fubiz.net/2026/07/01/camper-for-vitra-design-museum-at-art-basel-2026/"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 979
+  },
+  "depth_raw": 2,
+  "depth_v": 2
+ },
+ "dezeen.com/2026/09/28/dezeen-awards-2026-public-vote-open": {
+  "title_ko": "디진 어워즈 2026, 최종 수상작 선정을 위한 대중 투표 시작",
+  "summary_ko": "영국 기반의 건축·디자인 매체 디진(Dezeen)이 주관하는 디진 어워즈 2026의 대중 투표가 시작되었다. 3주간 진행되는 이번 투표는 건축 부문 최종 후보 152개 프로젝트를 포함한 올해의 혁신적인 작업들을 대상으로 한다. 전 세계 독자들이 참여하여 각 분야의 최종 수상작을 결정하는 과정에 직접적인 의견을 반영한다.",
+  "lens": "글로벌 매체가 주관하는 어워즈의 대중 투표는 동시대 창작자들이 지향하는 가치와 대중이 체감하는 미적 기준의 합의점을 보여준다.",
+  "why_now": "디자인의 미래 방향성을 논의하는 마스터 심사위원단의 평가와 대중의 투표 결과가 교차하는 시점이다.",
+  "mechanism": "19개 아키타이프로 분류된 후보작들을 대중이 직접 검토하며 전문가 심사와는 다른 관점의 선호도를 데이터로 축적한다.",
+  "sensory": "전 세계 152개 프로젝트가 제시하는 각기 다른 재료의 물성과 공간의 빛, 구조적 형태가 디지털 플랫폼을 통해 시각적으로 펼쳐진다.",
+  "transfer": "특정 프로젝트의 공간 연출이나 시각적 장치가 대중에게 어떻게 소구되는지 확인하여 향후 기획의 레퍼런스로 활용한다.",
+  "context": "디진은 런던에 본사를 둔 온라인 디자인 매체로 매년 어워즈를 통해 글로벌 디자인 트렌드를 정의한다. 2026년 어워즈는 인공지능과 전통 공예의 접점을 탐구하는 등 기술과 제작 기법의 변화를 주요 화두로 삼고 있다.",
+  "findings": [
+   {
+    "text": "디진은 런던에 기반을 둔 온라인 건축 및 디자인 매체이다.",
+    "s": 1,
+    "quote": "Dezeen is an online architecture, interiors and design magazine based in London"
+   },
+   {
+    "text": "디진 어워즈 2026 건축 부문에는 19개 범주에 걸쳐 152개 프로젝트가 최종 후보로 올랐다.",
+    "s": 3,
+    "quote": "19개 아키타이프에 걸쳐 전 세계의 혁신적인 건축 작업들이 최종 수상 자격을 두고 경쟁한다."
+   }
+  ],
+  "keywords": [
+   "디진어워즈",
+   "건축트렌드",
+   "공간디자인",
+   "글로벌디자인"
+  ],
+  "evidence": "Dezeen Awards 2026 public vote is now open",
+  "kind": "행사·공모",
+  "depth": 2,
+  "grounding": "thin",
+  "depth_reason": "원문 본문이 수집되지 않아 행사 공지 수준의 정보만 확인 가능하며 구체적인 프로젝트 분석이 부족하다.",
+  "v": 2,
+  "url": "https://www.dezeen.com/2026/09/28/dezeen-awards-2026-public-vote-open/",
+  "original_title": "Dezeen Awards 2026 public vote is now open",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 0,
+  "fetch": "fetch_error:HTTPError",
+  "cliche_hits": [],
+  "read_at": "2026-09-29 01:58",
+  "research": {
+   "entities": [
+    "Dezeen",
+    "Dezeen Awards"
+   ],
+   "questions": [
+    "Dezeen Awards의 심사 기준과 대중 투표가 최종 결과에 미치는 영향은 무엇인가요?",
+    "올해 Dezeen Awards에 출품된 주요 프로젝트 카테고리와 주목할 만한 트렌드는 무엇인가요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Dezeen",
+     "url": "https://en.wikipedia.org/wiki/Dezeen"
+    },
+    {
+     "n": 2,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "디진 어워즈 2026 마스터 심사위원단이 던진 질문",
+     "url": "https://www.dezeen.com/2026/09/24/dezeen-awards-2026-trimble-master-jury-video/"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "디진 어워드 2026 건축 부문 최종 후보 152선 공개",
+     "url": "https://www.dezeen.com/2026/09/21/dezeen-awards-2026-architecture-shortlist/"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "런던 디자인 페스티벌 2026, 기술과 공예의 교차점을 기록하다",
+     "url": "https://www.dezeen.com/2026/09/11/dezeen-dispatch-ldf-2026/"
+    }
+   ],
+   "used": [
+    1,
+    3
+   ],
+   "chars": 877
+  },
+  "depth_raw": 2,
+  "depth_v": 2
+ },
+ "archdaily.com/1185754/community-center-gamlitz-gangoly-and-kristiner-architects": {
+  "title_ko": "오스트리아 감리츠 커뮤니티 센터, 공동체를 덮는 거대한 지붕의 미학",
+  "summary_ko": "오스트리아 감리츠에 위치한 750제곱미터 규모의 커뮤니티 센터는 갱골리 & 크리스티너 아키텍츠가 설계했다. 건축가는 공동체의 상징으로 거대한 지붕을 선택하여 사람들을 하나의 공간 아래로 모으는 문화적 거점을 구축했다.",
+  "lens": "공동체라는 추상적 개념을 거대한 지붕이라는 단일한 물리적 덮개로 시각화하여 공간의 결속력을 높였다.",
+  "why_now": "파편화된 도시 환경에서 단일한 지붕 아래 모이는 건축적 장치가 공동체 의식을 회복하는 물리적 대안으로 주목받는다.",
+  "mechanism": "건물 전체를 아우르는 거대한 지붕 구조를 통해 내부와 외부 공간을 하나의 경계 내로 통합하며, 사용자들의 동선을 중심부로 자연스럽게 유도한다.",
+  "sensory": "지붕 아래 형성된 그늘과 개방적인 평면은 빛의 유입을 조절하며, 재료의 질감이 드러나는 천장 면이 공간의 깊이감을 더한다.",
+  "transfer": "광고나 영상 연출 시, 광각 렌즈를 활용해 지붕의 전체적인 실루엣을 강조하고 인물들이 하나의 지붕 아래 모이는 구도를 설정하여 응집력을 표현하라.",
+  "context": "갱골리 & 크리스티너 아키텍츠는 이번 프로젝트에서 지붕을 공동체 공간 형성의 핵심 요소로 활용하며 지역 문화의 거점을 마련했다.",
+  "findings": [],
+  "keywords": [
+   "공동체건축",
+   "지붕구조",
+   "오스트리아건축",
+   "커뮤니티센터"
+  ],
+  "evidence": "There is no better symbol of community than a large roof that brings us all together.",
+  "kind": "프로젝트",
+  "depth": 2,
+  "grounding": "thin",
+  "depth_reason": "공동체 건축의 상징성을 지붕으로 해석한 설계 의도는 명확하나, 세부적인 공간 배치나 재료 기법에 대한 정보가 부족하다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1185754/community-center-gamlitz-gangoly-and-kristiner-architects",
+  "original_title": "Community Center Gamlitz / Gangoly & Kristiner Architects",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 1192,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-09-29 01:58",
+  "research": {
+   "entities": [
+    "Gangoly & Kristiner Architects",
+    "Irene Kristiner",
+    "Dominik Troppan",
+    "Alexander Freydl"
+   ],
+   "questions": [
+    "Gangoly & Kristiner Architects가 추구하는 건축 철학에서 '지붕'이 공동체 공간을 형성하는 데 어떤 상징적 의미를 갖는가?",
+    "Gamlitz 커뮤니티 센터의 설계가 지역 사회의 문화적 활동을 촉진하기 위해 어떤 공간적 배치를 취하고 있는가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "dezeen.com/2026/09/28/farshid-moussavi-2026-soane-medal": {
+  "title_ko": "파시드 무사비, 2026년 건축 소안 메달 수상",
+  "summary_ko": "영국계 이란인 건축가 파시드 무사비가 건축, 교육, 저술을 통해 건축에 기여한 공로로 2026년 소안 메달을 수상했다. 그는 파시드 무사비 아키텍처를 설립하고 하버드대학교 디자인대학원 교수이자 건축가로 활동하고 있다.",
+  "lens": "공간과 재료의 독창적 결합을 파고드는 엄격한 건축 실천의 기록.",
+  "why_now": "동시대 건축이 사회적 감수성과 재료의 실험을 동시에 요구하는 시점에서, 이론과 실무를 병행해 온 그의 궤적이 지닌 무게감이 재조명된다.",
+  "mechanism": "런던 스튜디오를 기반으로 문화 센터부터 주거 프로젝트까지 공간과 재료의 실험을 구조적으로 통합한다.",
+  "sensory": "금속과 석재, 콘크리트 등 정제된 재료의 물성이 도심 속 공공 공간과 문화 시설에서 또렷하게 드러난다.",
+  "transfer": "공간 디자인 콘티에서 구조물과 마감재의 이질적인 조합을 통해 시각적 긴장감을 연출하는 데 참고한다.",
+  "context": "파시드 무사비는 포린 오피스 아키텍츠의 공동 설립자였으며 2011년 파시드 무사비 아키텍처를 설립했다. 클리블랜드 현대미술관과 휴스턴 이스마일리 센터 등의 프로젝트를 수행했다.",
+  "findings": [
+   {
+    "text": "Farshid Moussavi is a British architect, educator, and author.",
+    "s": 1,
+    "quote": "Farshid Moussavi (born 1965) is a British architect, educator, and author."
+   },
+   {
+    "text": "She is the founder of Farshid Moussavi Architecture (FMA) and a professor in Practice of Architecture at Harvard University Graduate School of Design.",
+    "s": 1,
+    "quote": "She is the founder of Farshid Moussavi Architecture (FMA) and a professor in Practice of Architecture at Harvard University Graduate School of Design."
+   }
+  ],
+  "keywords": [
+   "파시드무사비",
+   "소안메달",
+   "건축이론",
+   "공간설계"
+  ],
+  "evidence": "Farshid Moussavi wins 2026 Soane Medal for architecture",
+  "kind": "뉴스·이슈",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "건축가 수상 소식을 다룬 뉴스이나 원문 본문이 없어 제한적인 정보만 전달한다.",
+  "v": 2,
+  "url": "https://www.dezeen.com/2026/09/28/farshid-moussavi-2026-soane-medal/",
+  "original_title": "Farshid Moussavi wins 2026 Soane Medal for architecture",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 0,
+  "fetch": "fetch_error:HTTPError",
+  "cliche_hits": [],
+  "read_at": "2026-09-29 01:58",
+  "research": {
+   "entities": [
+    "Farshid Moussavi",
+    "Farshid Moussavi Architects",
+    "Soane Medal"
+   ],
+   "questions": [
+    "소안 훈장(Soane Medal)은 어떤 기준과 가치를 바탕으로 수상자를 선정하는가?",
+    "파시드 무사비가 건축 이론과 실무에서 강조하는 '지속적이고 엄격한' 건축 철학의 핵심은 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Farshid Moussavi",
+     "url": "https://en.wikipedia.org/wiki/Farshid%20Moussavi"
+    },
+    {
+     "n": 2,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "타마라 드 렘피카의 아르데코를 입은 빅토리아 베컴 뉴욕 플래그십",
+     "url": "https://www.wallpaper.com/fashion-beauty/victoria-beckham-new-york-soho-store"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 1668
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "archdaily.com/1185885/pavilia-farm-clubhouses-snohetta": {
+  "title_ko": "스뇌헤타가 완성한 홍콩의 녹색 폐, 파빌리아 팜 클럽하우스",
+  "summary_ko": "스뇌헤타(Snøhetta)가 홍콩 타이와이 주거 단지 내 네 개의 클럽하우스를 설계하며 파빌리아 팜 프로젝트를 마무리했다. 마지막으로 완공된 스카이 하우스를 포함해, 이 공간들은 고밀도 도시 환경 속에서 자연과 웰빙, 공동체 의식을 결합한 녹색 거점이자 도시 농장 역할을 수행한다.",
+  "lens": "고밀도 도시의 수직적 주거 단지를 관통하는 녹지축을 형성하여, 건축물이 어떻게 거주자의 일상에 생태적 쉼표를 찍는지 보여준다.",
+  "why_now": "세계에서 가장 인구 밀도가 높은 도시 중 하나인 홍콩에서, 건축이 주거의 기능적 측면을 넘어 어떻게 생태적 지속가능성을 구현할 수 있는지 증명한다.",
+  "mechanism": "단지 내 분산된 네 개의 클럽하우스를 유기적으로 연결하여 도시의 녹색 폐를 조성하고, 이를 도시 농장과 결합해 거주자의 공동체적 소유감을 강화한다.",
+  "sensory": "고층 빌딩 숲 사이로 펼쳐지는 녹색 식재의 질감과, 도시의 소음을 차단하고 정적인 웰빙 경험을 유도하는 수평적 공간 구성이 돋보인다.",
+  "transfer": "도심 속 고층 프로젝트에서 녹지를 단순히 시각적 요소로 두지 않고, 거주자의 동선과 결합된 커뮤니티 거점으로 배치하는 공간 전략을 참고할 만하다.",
+  "context": "노르웨이 오슬로에 기반을 둔 스뇌헤타는 이번 프로젝트에서 홍콩의 신세계개발(New World Development)과 협력하여 대규모 주거 단지의 공공성을 확장했다. 이는 스뇌헤타가 추구해온 자연과 건축의 통합적 접근이 고밀도 도시 맥락에서 실현된 사례다.",
+  "findings": [
+   {
+    "text": "스뇌헤타는 노르웨이 오슬로에 설립된 글로벌 건축 사무소다.",
+    "s": 1,
+    "quote": "Snøhetta AS (Norwegian pronunciation: [ˈsnø̀ːˌhɛtːɑ]) is a global architectural firm, founded in Oslo, Norway."
+   },
+   {
+    "text": "신세계개발은 1970년에 설립되어 홍콩과 중국 본토에서 부동산 및 인프라 사업을 운영하는 기업이다.",
+    "s": 2,
+    "quote": "New World Development Company Limited (NWD) is a Hong Kong–based company focused on property, hotels, infrastructure and services and department stores. It was established on 29 May 1970"
+   }
+  ],
+  "keywords": [
+   "스뇌헤타",
+   "홍콩건축",
+   "도시농장",
+   "커뮤니티센터",
+   "지속가능성"
+  ],
+  "evidence": "the four clubhouses create a vibrant green lung and urban farm amidst one of the world's most densely populated cities.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "구체적인 프로젝트의 완공 소식을 다루나, 세부적인 설계 기법이나 재료의 상세한 기술적 설명이 부족하다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1185885/pavilia-farm-clubhouses-snohetta",
+  "original_title": "Pavilia Farm Clubhouses / Snøhetta",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 1138,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-09-29 01:58",
+  "research": {
+   "entities": [
+    "Snøhetta",
+    "New World Development Ltd",
+    "Ronald Lu & Partners",
+    "Pavilia Farm",
+    "Tai Wai"
+   ],
+   "questions": [
+    "스노헤타(Snøhetta)가 파빌리아 팜 클럽하우스 디자인에서 자연과 웰빙을 구현하기 위해 적용한 핵심 건축적 특징은 무엇인가?",
+    "홍콩 타이와이(Tai Wai)의 고밀도 도시 환경 속에서 이 프로젝트가 지역 사회와 생태계에 미친 영향은 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Snøhetta (company)",
+     "url": "https://en.wikipedia.org/wiki/Sn%C3%B8hetta%20%28company%29"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "New World Development",
+     "url": "https://en.wikipedia.org/wiki/New%20World%20Development"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 825
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "itsnicethat.com/articles/made-for-business-today-at-apple-panel-series-sponsored-content-280926": {
+  "title_ko": "애플과 잇츠 나이스 댓이 여는 크리에이티브 비즈니스 토크 시리즈",
+  "summary_ko": "애플의 투데이 앳 애플과 미디어 플랫폼 잇츠 나이스 댓이 협력하여 크리에이티브 비즈니스 토크 시리즈 메이드 포 비즈니스를 개최한다. 로스앤젤레스에서 열리는 이번 행사에는 마우스워시 스튜디오의 아브라함 캄피요, 디자이너 라미샤 사타, 제임스 junk 등이 참여해 창작에서 비즈니스로 전환하는 과정의 실무를 다룬다.",
+  "lens": "개인의 실험적 창작이 지속 가능한 브랜드로 확장되는 구체적인 경로를 해부한다.",
+  "why_now": "디지털 생태계와 아날로그 기법을 결합해 독자적인 비주얼 세계를 구축한 1인 창작자와 스튜디오 창립자들의 실무 전략을 직접 확인할 수 있는 자리다.",
+  "mechanism": "아이패드 스케치나 스크린샷 같은 작은 조각들을 모아 하나의 거대한 비주얼 시스템으로 확장하는 작업 과정을 공개한다.",
+  "sensory": "맥북 프로, 아이맥, 아이폰, 아이패드 등 애플 생태계 안에서 아날로그 기법과 디지털 도구가 맞물리며 만들어지는 정교한 비주얼 질감을 보여준다.",
+  "transfer": "개인 작업의 아이디어를 초기 스케치 단계에서부터 완성된 브랜드 월드로 확장하는 워크플로우를 콘티에 적용한다.",
+  "context": "잇츠 나이스 댓은 2007년부터 글로벌 창조 커뮤니티를 지원해 온 미디어 플랫폼이며, 이번 행사는 투데이 앳 애플 프로그램의 일환으로 진행된다.",
+  "findings": [
+   {
+    "text": "아브라함 카필로는 마우스워시 스튜디오의 파트너 겸 크리에이티브 디렉터로 활동하고 있다.",
+    "s": 2,
+    "quote": "Abraham Campillo is the partner and creative director of Mouthwash Studio, a design studio centered on new ideas and defining experiences."
+   },
+   {
+    "text": "라미샤 사타는 전통적인 핸드메이드 및 아날로그 기법과 디지털 도구를 결합해 비주얼 세계를 만든다.",
+    "s": 2,
+    "quote": "Ramisha Sattar is a Pakistani American creative director and designer. She crafts visual worlds, merging traditional handmade and analog techniques with digital tools."
+   },
+   {
+    "text": "제임스 잔크는 브랜딩, 소셜 디자인, 타이포그래피, 콘텐츠, 크리에이티브 교육 분야에서 다학제적 실천을 이어가는 디자이너다.",
+    "s": 2,
+    "quote": "James Junk is an LA-based designer, art director, and educator building a multidisciplinary practice across branding, social design, type, content, and creative education."
+   },
+   {
+    "text": "잇츠 나이스 댓은 2007년부터 글로벌 창조 커뮤니티를 지원하는 미디어 플랫폼으로 활동해 왔다.",
+    "s": 2,
+    "quote": "It’s Nice That is a media platform on a mission to inspire the global creative community. Since 2007, it has championed creative talent, connected creative thinkers, and explored visual culture."
+   }
+  ],
+  "keywords": [
+   "크리에이티브 비즈니스",
+   "투데이 앳 애플",
+   "스튜디오 운영",
+   "디자인 워크플로우"
+  ],
+  "evidence": "In collaboration with us at It’s Nice That, Today at Apple – Apple’s free in-store, educational programme showing what’s possible with Apple products and services – is hosting a new event series called Made in Business.",
+  "kind": "행사·공모",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "브랜드와 미디어가 협력하는 대담 프로그램으로 정보 전달 중심의 행사 소개에 가깝다.",
+  "v": 2,
+  "url": "https://www.itsnicethat.com/articles/made-for-business-today-at-apple-panel-series-sponsored-content-280926",
+  "original_title": "Made for Business in LA: Today at Apple and It’s Nice That’s panel series begins!",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 5747,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-09-29 02:00",
+  "research": {
+   "entities": [
+    "Apple",
+    "It's Nice That",
+    "Mouthwash Studio",
+    "Abraham Campillo",
+    "Ramisha Sattar"
+   ],
+   "questions": [
+    "창작자가 1인 기업에서 스튜디오로 성장할 때 겪는 핵심적인 운영상의 변화와 도전 과제는 무엇인가요?",
+    "디지털 도구와 아날로그 기법을 결합한 창작 방식이 현대 비즈니스 환경에서 어떤 경쟁력을 갖게 하나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Today at Apple - Apple",
+     "url": "https://www.apple.com/today/"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Talk: Fueling Creativity and Business as an Entrepreneur - Apple",
+     "url": "http://apple.com/today/event/talk-business-entrepreneur-100726/?sn=R050&cid=remm-us-taa-thegrove-made-for-business"
+    },
+    {
+     "n": 3,
+     "type": "공식·1차",
+     "title": "Talk: Fueling Creativity and Business as an Entrepreneur - Apple",
+     "url": "https://www.apple.com/today/event/talk-business-entrepreneur-100726/7498494712006213632/?sn=R050&cid=remm-us-taa-thegrove-made-for-business"
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "Apple Inc.",
+     "url": "https://en.wikipedia.org/wiki/Apple%20Inc."
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "애플 아이폰 듀오, 접이식 스마트폰의 주류 진입을 견인할 것인가",
+     "url": "https://www.dezeen.com/2026/09/25/iphone-duo-folding-smartphones-washington-triumphal-arch-dezeen-weekly/"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "애플, 런던 배터시 발전소에 600석 규모 음악 공연장 조성",
+     "url": "https://www.dezeen.com/2026/09/23/apple-music-hall-battersea-power-station/"
+    },
+    {
+     "n": 7,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "세라믹의 물성을 세 번 구워 완성한 애플 워치 시리즈 12",
+     "url": "https://coolhunting.com/tech/apple-watch-series-12-returns-to-ceramic-fired-three-times-over/"
+    }
+   ],
+   "used": [
+    2
+   ],
+   "chars": 7547
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "creativeboom.com/insight/acts-and-deeds-the-mclaren-rebrand": {
+  "title_ko": "맥라렌의 리브랜딩, 왜 팬들은 '샤넬화'를 우려하는가",
+  "summary_ko": "맥라렌의 전 글로벌 브랜드 책임자가 최근 공개된 브랜드 정체성 개편을 비평한다. 그는 리브랜딩이 럭셔리 산업의 관습적인 시각 언어를 차용하며 브랜드 고유의 엔지니어링 중심 문화를 희석할 수 있다고 지적한다. 맥라렌의 가치는 정적인 고급스러움이 아닌, 레이싱 현장에서 축적된 성취와 팬덤의 열광에서 비롯된다는 점을 강조한다.",
+  "lens": "브랜드의 시각적 언어가 산업의 문법을 맹목적으로 따를 때, 그 기업이 쌓아온 고유한 서사와 엔지니어링의 실체가 어떻게 휘발되는지를 관찰한다.",
+  "why_now": "디지털 환경에서 브랜드의 일관성을 확보하려는 시도가 종종 범용적인 럭셔리 미학으로 귀결되는 동시대 디자인의 획일화를 보여준다.",
+  "mechanism": "기존 레이싱 헤리티지의 핵심인 '성능'과 '엔지니어링'을 제거하고, 패션·호텔업계의 절제된 타이포그래피와 색채 시스템을 이식하여 브랜드의 물리적 무게감을 거세한다.",
+  "sensory": "절제된 산세리프 서체와 정제된 아트 디렉션이 주는 차갑고 정적인 느낌이, 맥라렌이 가진 거친 기계적 질감과 대비되어 이질감을 유발한다.",
+  "transfer": "브랜드의 정체성을 시각화할 때 타 업계의 성공적인 럭셔리 문법을 차용하는 것이 오히려 브랜드의 고유한 서사를 지우는 '표피적 치장'이 될 수 있음을 경계해야 한다.",
+  "context": "맥라렌은 1960년대부터 레이싱 팀의 성취를 기반으로 로드카를 제작해 온 기업으로, 엔지니어링의 한계를 돌파하는 과정 자체가 브랜드의 서사로 작용해 왔다.",
+  "findings": [],
+  "keywords": [
+   "브랜드아이덴티티",
+   "맥라렌",
+   "럭셔리디자인",
+   "리브랜딩",
+   "시각언어"
+  ],
+  "evidence": "The enthusiast reaction to all this is not positive. My feeling is that the objections aren't simply about change. They suggest an anxiety that the change is a signifier of something more fundamental happening.",
+  "kind": "뉴스·이슈",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "전직 브랜드 책임자의 내부 시각을 통해 리브랜딩의 전략적 오류를 구체적으로 분석하고 있어 통찰이 돋보인다.",
+  "v": 2,
+  "url": "https://www.creativeboom.com/insight/acts-and-deeds-the-mclaren-rebrand/",
+  "original_title": "I helped shape McLaren's brand. Here's what worries me about the refresh",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 9000,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-09-29 02:00",
+  "research": {
+   "entities": [],
+   "questions": [],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "dazeddigital.com/art-photography/article/71055/1/these-photos-explore-what-it-means-to-be-present-what-holds-us-exhibition-apple": {
+  "title_ko": "아이폰 18 프로로 포착한 연결의 감각, 사진전 'What Holds Us'",
+  "summary_ko": "사진가 알렉스 프레이거, 잭 데이비슨, 지미 친이 아이폰 18 프로로 촬영한 사진전 'What Holds Us'가 뉴욕에서 열린다. 큐레이터 캐시 라이언은 분열된 시대에 인간을 지탱하는 본질적인 연결을 탐구하고자 했다. 작가들은 축제 후의 적막, 자연의 거대한 스케일, 점토를 통한 신체적 접촉을 통해 현대의 존재 방식을 시각화한다.",
+  "lens": "기술적 도구인 아이폰을 매개로 파편화된 현대인의 고립과 그 사이를 잇는 물리적, 감각적 연결고리를 포착한다.",
+  "why_now": "디지털 기술이 일상을 잠식하는 시대에, 역설적으로 가장 개인적인 기기로 인간 존재의 근원을 확인하려는 시도다.",
+  "mechanism": "알렉스 프레이거는 정적인 잔상을 통해 심리적 공허를, 지미 친은 광각과 접사로 자연의 경외감을, 잭 데이비슨은 점토와 신체를 결합해 촉각적 실재감을 강조한다.",
+  "sensory": "축제 후 흩어진 색종이의 건조한 질감, 빙하의 복잡한 표면 패턴, 피부 주름 사이로 스며든 점토의 눅눅한 물성이 대조를 이룬다.",
+  "transfer": "공간 연출 시 인물과 사물의 관계를 맺는 매개체로 점토와 같은 원초적 재료를 활용해, 디지털 환경에서 상실된 촉각적 몰입감을 재현할 수 있다.",
+  "context": "큐레이터 캐시 라이언은 뉴욕타임스 매거진 사진 국장 출신으로 아이폰 사진의 예술적 가능성을 지속적으로 조명해왔다. 참여 작가 알렉스 프레이거는 현실과 연출의 경계를 다루며, 지미 친은 등반가로서 극한 환경의 스케일을 기록하는 데 특화되어 있다.",
+  "findings": [
+   {
+    "text": "알렉스 프레이거는 현실과 인위성의 경계를 흐리는 대규모 사진 작업으로 잘 알려져 있다.",
+    "s": 1,
+    "quote": "Prager is best known for making large-scale photographic works that distort the boundaries between reality and artifice, often centered around the human condition."
+   },
+   {
+    "text": "지미 친은 내셔널 지오그래픽 등 주요 매체에서 등반과 원정을 기록해왔으며 2019년 사진가들이 뽑은 사진가상을 수상했다.",
+    "s": 2,
+    "quote": "Chin's work documenting expeditions and climbs has been featured in numerous publications... In 2019, Chin was awarded the National Geographic Photographer's Photographer Award by his peers."
+   }
+  ],
+  "keywords": [
+   "아이폰사진",
+   "잭데이비슨",
+   "알렉스프레이거",
+   "지미친",
+   "디지털시대"
+  ],
+  "evidence": "In a time of distraction and chaos, what holds us?",
+  "kind": "전시",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "아이폰이라는 도구의 특수성과 세 작가의 시각적 언어를 주제 의식과 결합해 구체적으로 분석했다.",
+  "v": 2,
+  "url": "https://www.dazeddigital.com/art-photography/article/71055/1/these-photos-explore-what-it-means-to-be-present-what-holds-us-exhibition-apple?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=these-photos-explore-what-it-means-to-be-present-in-2026",
+  "original_title": "These photos explore what it means to be present in 2026",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 4097,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-09-29 02:02",
+  "research": {
+   "entities": [
+    "Kathy Ryan",
+    "Alex Prager",
+    "Jack Davison",
+    "Jimmy Chin",
+    "The New York Times Magazine"
+   ],
+   "questions": [
+    "아이폰 카메라 기술이 현대 사진 예술가들의 작업 방식과 시각적 표현에 어떤 변화를 가져왔는가?",
+    "전시의 주제인 'What Holds Us(무엇이 우리를 지탱하는가)'를 통해 작가들이 현대인의 고립과 연결을 어떻게 해석했는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Alex Prager",
+     "url": "https://en.wikipedia.org/wiki/Alex%20Prager"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Jimmy Chin",
+     "url": "https://en.wikipedia.org/wiki/Jimmy%20Chin"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 1841
+  },
+  "depth_raw": 4,
+  "depth_v": 2
  }
 }
