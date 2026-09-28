@@ -31,7 +31,7 @@ import threading
 from html.parser import HTMLParser
 from urllib import request, error
 from urllib.parse import urlparse
-from concurrent.futures import ThreadPoolExecutor, as_completed
+from concurrent.futures import ThreadPoolExecutor, as_completed, CancelledError
 from datetime import datetime, timezone, timedelta
 
 import research_kit as rk
@@ -779,12 +779,16 @@ def main():
                     save_json(CACHE_FILE, cache)
             except TimeoutError:
                 stop = True
+            except CancelledError:
+                # 한도 소진·시간 초과로 취소된 작업은 실패가 아니다(다음 실행에서 다시 읽음)
+                continue
             except Exception as e:
                 fail += 1
                 log(f"FAIL {str(e)[:90]} :: {it.get('original_title', '')[:60]}")
-                if "exhausted" not in str(e) and "budget" not in str(e) and "HTTP 429" not in str(e):
+                msg = str(e) or type(e).__name__
+                if msg and not any(x in msg for x in ("exhausted", "budget", "HTTP 429", "HTTP 5", "Timeout", "timed out", "Cancelled")):
                     fk = url_key(it.get("url", ""))
-                    fails[fk] = {"n": fails.get(fk, {}).get("n", 0) + 1, "last": str(e)[:120]}
+                    fails[fk] = {"n": fails.get(fk, {}).get("n", 0) + 1, "last": msg[:120]}
                 if "exhausted" in str(e):
                     stop = True
             if stop:
