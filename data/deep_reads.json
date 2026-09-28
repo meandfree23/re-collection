@@ -81371,5 +81371,296 @@
   },
   "depth_raw": 4,
   "depth_v": 2
+ },
+ "nowness.com/series/dancing-about-architecture/liminal-naafia-naahemaa": {
+  "title_ko": "아크라의 미완성 건축물과 신체, 그 경계의 기록 '리미날'",
+  "summary_ko": "비주얼 아티스트 나피아(Naafia) 감독이 연출한 단편 영화 '리미날(Liminal)'은 가나 아크라의 미완성된 브루탈리즘 건축물을 배경으로 한다. 영상은 사용과 포기 사이를 부유하는 공간의 상태와 완결되지 못한 사업의 잔해를 신체의 움직임으로 포착한다.",
+  "lens": "건축물의 물리적 미완성과 그 안을 점유하는 신체의 움직임을 동기화하여, 고정된 공간을 유동적인 기억의 장소로 전환한다.",
+  "why_now": "도시 개발의 중단으로 방치된 공간이 지닌 시간적 틈새를 예술적 관점에서 재발견하려는 움직임이 늘고 있다.",
+  "mechanism": "미완성된 거친 콘크리트 구조물의 수직적 동선과 인물의 불규칙한 신체 동작을 교차 편집하여 공간의 정체성을 드러낸다.",
+  "sensory": "브루탈리즘 특유의 차갑고 거친 콘크리트 질감과 그 사이를 파고드는 날카로운 빛의 대비가 공간의 긴장감을 조성한다.",
+  "transfer": "미완성된 건축 현장을 로케이션으로 활용할 때, 인물의 동선을 구조물의 축과 일치시키지 않고 오히려 어긋나게 배치하여 불안정한 심리를 시각화한다.",
+  "context": "나우니스(NOWNESS)는 2010년 제퍼슨 핵(Jefferson Hack)이 설립한 디지털 영상 채널로, 장소의 역사와 신체의 움직임을 결합한 실험적 영상 기록물을 꾸준히 선보여 왔다. 본 프로젝트는 공간의 사회적 맥락을 예술적 언어로 치환하는 나우니스의 기존 시리즈들과 궤를 같이한다.",
+  "findings": [
+   {
+    "text": "나우니스는 2010년 제퍼슨 핵에 의해 설립된 디지털 영상 채널이다.",
+    "s": 1,
+    "quote": "Nowness (stylized NOWNESS) is a digital video channel that was launched in 2010 by its founder Jefferson Hack"
+   }
+  ],
+  "keywords": [
+   "브루탈리즘",
+   "공간 미학",
+   "나우니스",
+   "아크라",
+   "미완성 건축"
+  ],
+  "evidence": "Liminal is a short film shot in an unfinished brutalist building in Accra",
+  "kind": "영상·필름",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "원문의 정보가 제한적이나, 나우니스의 영상 문법과 건축적 배경을 바탕으로 공간과 신체의 관계를 분석했다.",
+  "v": 2,
+  "url": "https://www.nowness.com/series/dancing-about-architecture/liminal-naafia-naahemaa",
+  "original_title": "​Dancing About Architecture: Liminal",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 0,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-09-28 10:12",
+  "research": {
+   "entities": [
+    "NOWNESS",
+    "Liminal"
+   ],
+   "questions": [
+    "'Liminal'이라는 제목이 영상의 시각적, 공간적 연출과 어떤 연관성을 갖는가?",
+    "NOWNESS가 추구하는 예술적 영상미와 'Dancing About Architecture' 시리즈의 기획 의도는 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Nowness",
+     "url": "https://en.wikipedia.org/wiki/Nowness"
+    },
+    {
+     "n": 2,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "단테의 지옥에서 건져 올린 시각과 소리의 연대기",
+     "url": "https://www.nowness.com/series/sound-vision/opera-omnia-valentin-noujaim-space-afrika"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "기억의 무게와 선택의 후회를 다루는 단편 영화 Pressed to Fit",
+     "url": "https://www.nowness.com/series/nowness-shorts/pressed-to-fit-sara-silkin"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "지워져 가는 칼라쉬의 풍경, 알리나의 초상",
+     "url": "https://www.nowness.com/series/portrait-of-a-place/alina-kalasha-pakistan"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "chars": 945
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "nowness.com/series/poetic-license/youve-already-gone-sam-mandich-jade-joan": {
+  "title_ko": "신체에 남겨진 상실의 무게를 추적하는 단편 영화",
+  "summary_ko": "나우니스(NOWNESS)에서 공개된 샘 맨디치 감독의 단편 영화 'You’ve Already Gone'은 슬픔과 비탄이 신체에 남기는 감각적 흔적을 탐구한다. 감독은 상실이라는 감정을 자유롭게 움직이는 신체의 물리적 무게로 시각화하여 경험의 축적 과정을 반영한다.",
+  "lens": "눈에 보이지 않는 비탄의 감정을 자유롭게 움직이는 신체의 물리적 무게로 환산한다.",
+  "why_now": "디지털 매체 속에서 내면의 심리 상태를 신체 움직임이라는 원초적 물성으로 시각화하려는 시도가 이어지고 있다.",
+  "mechanism": "슬픔에 잠긴 신체의 움직임과 정지 상태의 대비를 통해 비탄의 감각이 어떻게 육체에 누적되는지 전달한다.",
+  "sensory": "화면을 채우는 신체의 제한된 움직임과 무거운 동선이 관람자에게 서서히 압박감을 전달한다.",
+  "transfer": "내면의 상실감이나 감정적 고립을 대사 없이 배우의 신체 움직임과 호흡만으로 숏에 담을 때 참고한다.",
+  "context": "디지털 비디오 채널 나우니스는 동시대 예술가 및 감독들과 협업하여 신체와 감정, 장소성을 다룬 실험적인 단편 영상 작업을 꾸준히 선보여 왔다.",
+  "findings": [
+   {
+    "text": "Nowness는 2010년 제퍼슨 해크가 LVMH의 브랜드로 출시한 디지털 비디오 채널이다.",
+    "s": 1,
+    "quote": "Nowness (stylized NOWNESS) is a digital video channel that was launched in 2010 by its founder Jefferson Hack as a brand of LVMH Moët Hennessy Louis Vuitton SE."
+   }
+  ],
+  "keywords": [
+   "단편영화",
+   "신체",
+   "슬픔",
+   "나우니스"
+  ],
+  "evidence": "Poetic License: You 've Already Gone 단편 영화' You 've Already Gone' 의 감독 샘 맨디치 (Sam Mandich) 는 슬픔과 비탄의 감각에 서식함으로써 신체가 어떻게 경험을 저장하는지 반영합니다.",
+  "kind": "영상·필름",
+  "depth": 2,
+  "grounding": "thin",
+  "depth_reason": "원문 본문이 없는 메타 정보 기반의 단신이라 구체적 연출 분석에 한계가 있다.",
+  "v": 2,
+  "url": "https://www.nowness.com/series/poetic-license/youve-already-gone-sam-mandich-jade-joan",
+  "original_title": "​Poetic License: You’ve Already Gone",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 0,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-09-28 10:12",
+  "research": {
+   "entities": [
+    "NOWNESS"
+   ],
+   "questions": [
+    "NOWNESS에서 제작한 'Poetic License: You’ve Already Gone' 영상의 주요 주제와 예술적 의도는 무엇인가?",
+    "이 영상 작품이 전달하고자 하는 시각적 언어와 서사적 특징은 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Nowness",
+     "url": "https://en.wikipedia.org/wiki/Nowness"
+    },
+    {
+     "n": 2,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "단테의 지옥에서 건져 올린 시각과 소리의 연대기",
+     "url": "https://www.nowness.com/series/sound-vision/opera-omnia-valentin-noujaim-space-afrika"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "기억의 무게와 선택의 후회를 다루는 단편 영화 Pressed to Fit",
+     "url": "https://www.nowness.com/series/nowness-shorts/pressed-to-fit-sara-silkin"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "지워져 가는 칼라쉬의 풍경, 알리나의 초상",
+     "url": "https://www.nowness.com/series/portrait-of-a-place/alina-kalasha-pakistan"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 945
+  },
+  "depth_raw": 2,
+  "depth_v": 2
+ },
+ "minimalissimo.com/articles/UtilKGTWallDrawerSystem": {
+  "title_ko": "KGT 벽면 서랍 시스템: 수납을 건축의 그리드로 치환하다",
+  "summary_ko": "KGT 벽면 서랍 시스템은 수납을 가구가 아닌 건축적 구조로 접근한다. 벽걸이 프레임 내에 매달린 알루미늄 모듈은 정밀한 간격과 그리드를 형성하며, 각 서랍은 독립적인 용기로 분리되어 필요에 따라 이동과 재배치가 가능하다.",
+  "lens": "수납을 벽면의 부속물이 아닌, 공간의 리듬과 밀도를 조절하는 건축적 그리드로 재정의했다.",
+  "why_now": "가구의 고정된 기능을 해체하고, 사용자가 필요한 만큼의 볼륨을 벽면에 배치하는 유연한 공간 구성 방식이 주목받는다.",
+  "mechanism": "벽면 프레임에 매달린 알루미늄 모듈 사이의 음수 공간(negative space)을 활용해 벽면에 시각적 호흡을 부여하고, 서랍을 분리형 박스로 설계해 수납의 이동성을 확보했다.",
+  "sensory": "알루미늄의 차갑고 정제된 질감과 날카로운 모서리가 만드는 선명한 그림자가 벽면의 깊이감을 더한다.",
+  "transfer": "영상의 배경이나 공간 연출 시, 고정된 수납장 대신 모듈을 불규칙하게 배치하여 벽면의 수직·수평 리듬을 강조하는 레이아웃을 시도할 것.",
+  "context": "수납을 가구가 아닌 건축의 언어로 해석하여, 공간의 구조적 질서를 우선시하는 미니멀리즘 가구의 계보를 잇는다.",
+  "findings": [],
+  "keywords": [
+   "모듈러 가구",
+   "알루미늄",
+   "공간 디자인",
+   "벽면 시스템"
+  ],
+  "evidence": "The KGT Wall Drawer System by approaches storage as architecture rather than furniture.",
+  "kind": "제품·오브제",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "수납을 건축적 관점에서 해석한 시도는 명확하나, 기술적 구현 방식이나 구체적인 프로젝트 사례가 제한적이다.",
+  "v": 2,
+  "url": "https://minimalissimo.com/articles/UtilKGTWallDrawerSystem",
+  "original_title": "KGT Wall Drawer System",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 1573,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-09-28 10:12",
+  "research": {
+   "entities": [
+    "KGT Wall Drawer System"
+   ],
+   "questions": [
+    "KGT Wall Drawer System의 모듈형 알루미늄 구조가 기존 수납 가구와 차별화되는 건축적 특징은 무엇인가?",
+    "이 시스템에서 강조하는 '이동 가능한 수납(portable storage)' 개념이 사용자의 공간 활용 방식에 어떤 변화를 주는가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "minimalissimo.com/articles/IsseyMiyakeAppleiPhonePocket": {
+  "title_ko": "이세이 미야케와 애플의 조우, 기술을 의복의 일부로 다루는 아이폰 포켓",
+  "summary_ko": "이세이 미야케(Issey Miyake)의 주름 기법을 적용한 아이폰 포켓은 스마트폰을 별도의 도구가 아닌 신체의 연장선으로 재정의한다. 이 프로젝트는 하드웨어와 액세서리라는 경계를 허물고, 일상적 움직임에 자연스럽게 녹아드는 직물 형태의 휴대 방식을 제안한다.",
+  "lens": "기술을 주머니에 넣는 대상이 아닌, 입는 실루엣의 일부로 치환하여 디지털 기기의 물리적 점유 방식을 바꾼다.",
+  "why_now": "스마트폰이 신체와 밀착된 도구로 자리 잡은 시대에, 기기를 보호하는 케이스를 넘어 의복의 물성으로 통합하려는 시도다.",
+  "mechanism": "이세이 미야케 고유의 주름 구조가 기기 크기에 따라 확장과 수축을 반복하며, 별도의 하드웨어 없이 직물 자체의 형태만으로 기기를 고정한다.",
+  "sensory": "신체 움직임에 따라 유연하게 반응하는 부드러운 촉감과 가벼운 무게감이 특징이며, 시각적으로는 불필요한 장식을 배제하여 실루엣에 매끄럽게 안착한다.",
+  "transfer": "액세서리를 촬영할 때 기기 자체를 강조하기보다 모델의 착장과 함께 움직이는 하나의 텍스처로 연출하여 기술과 신체의 결합을 시각화한다.",
+  "context": "이세이 미야케는 기술 중심의 의복 디자인과 '플리츠 플리즈(Pleats, Please)' 라인으로 유명하다. 애플은 아이폰 듀오와 애플 워치 시리즈 12 등에서 보듯 하드웨어의 미니멀리즘과 소재의 정밀한 가공을 지속적으로 탐구해왔다.",
+  "findings": [
+   {
+    "text": "이세이 미야케는 기술 중심적인 의복 디자인으로 잘 알려진 일본의 패션 디자이너다.",
+    "s": 1,
+    "quote": "He was known for his technology-driven clothing designs, notably the Pleats, Please line"
+   }
+  ],
+  "keywords": [
+   "이세이미야케",
+   "애플",
+   "웨어러블",
+   "미니멀리즘",
+   "플리츠"
+  ],
+  "evidence": "Rather than designing another accessory, the collaboration reframes the iPhone as something to be worn",
+  "kind": "제품·오브제",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "패션과 기술의 결합을 단순한 협업을 넘어 구조적 관점에서 재해석한 점이 명확하다.",
+  "v": 2,
+  "url": "https://minimalissimo.com/articles/IsseyMiyakeAppleiPhonePocket",
+  "original_title": "Issey Miyake × Apple iPhone Pocket",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 1294,
+  "fetch": "ok",
+  "cliche_hits": [
+   "경계를 허"
+  ],
+  "read_at": "2026-09-28 10:12",
+  "research": {
+   "entities": [
+    "Issey Miyake",
+    "Apple",
+    "iPhone Pocket"
+   ],
+   "questions": [
+    "Issey Miyake와 Apple의 협업 제품인 iPhone Pocket은 어떤 디자인 철학을 바탕으로 제작되었는가?",
+    "iPhone Pocket은 기존의 스마트폰 케이스와 비교하여 착용 방식과 형태 면에서 어떤 차별점을 가지는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Issey Miyake",
+     "url": "https://en.wikipedia.org/wiki/Issey%20Miyake"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Apple Inc.",
+     "url": "https://en.wikipedia.org/wiki/Apple%20Inc."
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "애플 아이폰 듀오, 접이식 스마트폰의 주류 진입을 견인할 것인가",
+     "url": "https://www.dezeen.com/2026/09/25/iphone-duo-folding-smartphones-washington-triumphal-arch-dezeen-weekly/"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "애플, 런던 배터시 발전소에 600석 규모 음악 공연장 조성",
+     "url": "https://www.dezeen.com/2026/09/23/apple-music-hall-battersea-power-station/"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "세라믹의 물성을 세 번 구워 완성한 애플 워치 시리즈 12",
+     "url": "https://coolhunting.com/tech/apple-watch-series-12-returns-to-ceramic-fired-three-times-over/"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 2404
+  },
+  "depth_raw": 4,
+  "depth_v": 2
  }
 }
