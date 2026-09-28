@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-09-29 01:50 KST",
+  "generated_at": "2026-09-29 04:55 KST",
   "period": "2026.09.22 - 2026.09.29",
-  "total_articles": 445,
+  "total_articles": 456,
   "genre_breakdown": [
     {
       "genre": "동시대 미술",
-      "count": 217
+      "count": 223
     },
     {
       "genre": "공간·건축",
-      "count": 139
+      "count": 143
     },
     {
       "genre": "아방가르드 패션",
-      "count": 69
+      "count": 70
     },
     {
       "genre": "미디어 파사드·3D",
@@ -23,10 +23,22 @@
   "themes": [
     {
       "keyword": "박물관·전시",
-      "count": 38,
+      "count": 40,
       "previous_count": 15,
       "trend": "rising",
       "items": [
+        {
+          "title": "켄지 시오카바가 사랑을 위해 해냈습니다",
+          "url": "https://hyperallergic.com/kenzi-shiokava-did-it-for-the-love-of-it/",
+          "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/09/62367A9C-588F-424B-BFA3-3295F755F9F4.jpg",
+          "source_name": "Hyperallergic"
+        },
+        {
+          "title": "현지인 5명이 알려주는 애틀랜타의 맛집과 음료",
+          "url": "https://www.wallpaper.com/travel/travel-events/where-to-eat-and-drink-atlanta-georgia-usa",
+          "image_url": "https://cdn.mos.cms.futurecdn.net/wH9M5AKrgDmuyRPwcU35pS-1920-80.jpg",
+          "source_name": "Wallpaper*"
+        },
         {
           "title": "휘트니 박물관 노조, 로이 리히텐슈타인 소령 쇼 앞두고 파업 날짜 설정",
           "url": "https://hyperallergic.com/whitney-museum-union-sets-strike-date-ahead-of-major-roy-lichtenstein-show/",
@@ -38,27 +50,21 @@
           "url": "https://hyperallergic.com/a-broomstick-in-a-mans-world/",
           "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/09/Emily-Mae-Smith1200.jpg",
           "source_name": "Hyperallergic"
-        },
-        {
-          "title": "자닌 칼다스 – 세상 만들기",
-          "url": "https://www.archdaily.com/1185903/zanine-caldas-creating-worlds",
-          "image_url": "https://images.adsttc.com/media/images/6aba/6b34/5c4d/8600/0165/6c7c/large_jpg/260917EEO_tomie_casa_061.jpg?1790602140",
-          "source_name": "ArchDaily"
-        },
-        {
-          "title": "제3회 아다나 아치 페스트",
-          "url": "https://www.archdaily.com/1185898/3rd-adana-arch-fest",
-          "image_url": "https://images.adsttc.com/media/images/6aba/6ad9/5c4d/8600/0165/6c5d/large_jpg/260907_AMF_insula_kare_poster_2.jpg?1790601952",
-          "source_name": "ArchDaily"
         }
       ]
     },
     {
       "keyword": "사진",
-      "count": 13,
+      "count": 14,
       "previous_count": 6,
       "trend": "rising",
       "items": [
+        {
+          "title": "사진작가 크세니아 미하일로바의 '빅 체리'",
+          "url": "https://www.booooooom.com/2026/09/28/big-cherry-by-photographer-ksenia-mikhailova/",
+          "image_url": "https://cdn.booooooom.com/wp-content/uploads/2026/08/Mikhailova1.jpg",
+          "source_name": "BOOOOOOOM"
+        },
         {
           "title": "사진: 90년대 열광적인 장면의 진짜 이야기는 사랑에 관한 것입니다.",
           "url": "https://www.dazeddigital.com/art-photography/article/71049/1/vinca-petersen-no-system-unseen-free-parties-rave-culture-90s-edward-enninful?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=in-pictures-the-real-story-of-the-90s-rave-scene-is-about-love",
@@ -76,12 +82,6 @@
           "url": "https://www.thisiscolossal.com/2026/09/bird-photographer-of-the-year-winners-2026/",
           "image_url": "https://www.thisiscolossal.com/wp-content/uploads/2026/09/bpoty-2.jpg",
           "source_name": "This Is Colossal"
-        },
-        {
-          "title": "캐서린 오피와 함께하는 노르웨이 로드 트립",
-          "url": "https://elephant.art/a-norwegian-road-trip-with-catherine-opie/",
-          "image_url": "https://elephant.art/wp-content/uploads/2026/08/03_-Catherine-Opie-MDKTN_-PoMo-scaled.jpg",
-          "source_name": "Elephant"
         }
       ]
     },
@@ -119,10 +119,16 @@
     },
     {
       "keyword": "런웨이·쇼",
-      "count": 9,
+      "count": 10,
       "previous_count": 2,
       "trend": "rising",
       "items": [
+        {
+          "title": "밀라노 패션 위크 SS27에서 놓친 모든 것",
+          "url": "https://www.dazeddigital.com/fashion/article/71061/1/everything-you-missed-from-milan-fashion-week-ss27-highlights-round-up?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=everything-you-missed-from-milan-fashion-week-ss27",
+          "image_url": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/5/1455977.jpg",
+          "source_name": "Dazed"
+        },
         {
           "title": "밀라노 패션 위크 S/S 2027 최고의 쇼였습니다.",
           "url": "https://www.wallpaper.com/fashion-beauty/best-shows-milan-fashion-week-ss-2027-review-round-up",
@@ -139,12 +145,6 @@
           "title": "밀라노 패션 위크에서 프라다는 치마를 입고 연마합니다.",
           "url": "https://www.wallpaper.com/fashion-beauty/prada-ss-2027-womenswear-show-review-milan-fashion-week",
           "image_url": "https://cdn.mos.cms.futurecdn.net/j5rzTaFFwrX5sbGmznpaUJ-1920-80.jpg",
-          "source_name": "Wallpaper*"
-        },
-        {
-          "title": "뎀나는 ‘전형적인 구찌‘ 2학년 쇼를 위해 상점을 엽니다",
-          "url": "https://www.wallpaper.com/fashion-beauty/gucci-ss-2027-demna-show-review-milan-fashion-week",
-          "image_url": "https://cdn.mos.cms.futurecdn.net/tUo35ofPMM5iBAoyMJnX5D-1920-80.jpg",
           "source_name": "Wallpaper*"
         }
       ]
@@ -217,6 +217,7 @@
   "notable_names": [
     "Dezeen Awards",
     "NOWNESS Shorts",
+    "Milan Fashion Week",
     "Arthur Jafa",
     "VitrA Tiles",
     "Video Art Visions",
