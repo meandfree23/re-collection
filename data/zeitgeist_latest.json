@@ -1,62 +1,94 @@
 {
-  "generated_at": "2026-09-28 17:58 KST",
-  "period": "2026.09.21 - 2026.09.28",
-  "total_articles": 471,
+  "generated_at": "2026-09-29 00:30 KST",
+  "period": "2026.09.22 - 2026.09.29",
+  "total_articles": 432,
   "genre_breakdown": [
     {
       "genre": "동시대 미술",
-      "count": 248
+      "count": 214
     },
     {
       "genre": "공간·건축",
-      "count": 139
+      "count": 133
     },
     {
       "genre": "아방가르드 패션",
-      "count": 63
+      "count": 67
     },
     {
       "genre": "미디어 파사드·3D",
-      "count": 21
+      "count": 18
     }
   ],
   "themes": [
     {
       "keyword": "박물관·전시",
-      "count": 38,
-      "previous_count": 7,
+      "count": 34,
+      "previous_count": 15,
       "trend": "rising",
       "items": [
         {
-          "title": "A Love Beyond What We Name Us: Rodrigo Ramírez Rodríguez at Murmurs Gallery",
-          "url": "https://elephant.art/rodrigo-ramirez-rodriguez/",
-          "image_url": "https://elephant.art/wp-content/uploads/2026/07/zine-option-1-scaled.jpg",
-          "source_name": "Elephant"
+          "title": "Arthur Jafa’s Elegy to America",
+          "url": "https://hyperallergic.com/arthur-jafas-elegy-to-america/",
+          "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/09/IMG_5125.JPG",
+          "source_name": "Hyperallergic"
         },
         {
-          "title": "캐서린 오피와 함께하는 노르웨이 로드 트립",
-          "url": "https://elephant.art/a-norwegian-road-trip-with-catherine-opie/",
-          "image_url": "https://elephant.art/wp-content/uploads/2026/08/03_-Catherine-Opie-MDKTN_-PoMo-scaled.jpg",
-          "source_name": "Elephant"
+          "title": "뉴욕시 박물관, 뉴 액티비즘 센터 개관",
+          "url": "https://hyperallergic.com/museum-of-the-city-of-new-york-inaugurates-new-activism-center/",
+          "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/09/20260922_122837.jpg",
+          "source_name": "Hyperallergic"
         },
         {
-          "title": "“It’s Systemic Collapse as Poetry”: Oda Iselin Sønderland on The Matrician",
-          "url": "https://elephant.art/its-systemic-collapse-as-poetry-oda-iselin-sonderland-on-the-matrician/",
-          "image_url": "https://elephant.art/wp-content/uploads/2026/07/OH_1151d-24-scaled.jpg",
-          "source_name": "Elephant"
+          "title": "디자인 판타지에서 모더니즘 건축에 이르기까지 ’미래의 집' 속으로 들어가세요.",
+          "url": "https://www.wallpaper.com/architecture/architecture-events/home-of-the-future-exhibition-lacma-usa",
+          "image_url": "https://cdn.mos.cms.futurecdn.net/JpwvNYAUNYJZbiDaAa2kcN-1920-80.jpg",
+          "source_name": "Wallpaper*"
         },
         {
-          "title": "Molly Bounds \"The Light That Loses, The Night That Wins\" @ Mrs Gallery, Maspeth, NY",
-          "url": "https://www.juxtapoz.com/news/painting/molly-bounds-the-light-that-loses-the-night-that-wins-mrs-gallery-maspeth-ny/",
-          "image_url": "https://www.juxtapoz.com/media/k2/items/cache/7bac6ecdec7150ac8a0c3053192d4431_L.jpg",
-          "source_name": "Juxtapoz"
+          "title": "이 사진은 2026년에 존재한다는 것이 무엇을 의미하는지 탐구합니다.",
+          "url": "https://www.dazeddigital.com/art-photography/article/71055/1/these-photos-explore-what-it-means-to-be-present-what-holds-us-exhibition-apple?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=these-photos-explore-what-it-means-to-be-present-in-2026",
+          "image_url": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/5/1455891.jpg",
+          "source_name": "Dazed"
+        }
+      ]
+    },
+    {
+      "keyword": "빛과 조명",
+      "count": 13,
+      "previous_count": 5,
+      "trend": "rising",
+      "items": [
+        {
+          "title": "애틀랜타에서 Slayyter의 BE $ T 팬을 만나보세요",
+          "url": "https://www.dazeddigital.com/fashion/article/71043/1/slayyyter-fans-atlanta-street-style-worst-girl-in-the-world-tour?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=meet-slayyyter-s-bet-dressed-fans-in-atlanta",
+          "image_url": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/5/1455693.jpg",
+          "source_name": "Dazed"
+        },
+        {
+          "title": "절정의 데이비드 보위의 모습을 담은 사진",
+          "url": "https://www.anothermag.com/art-photography/17509/david-bowie-photographs-venice-immersive-unseen-unheard?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=unseen-photos-of-david-bowie-at-his-peak",
+          "image_url": "https://images-prod.anothermag.com/786/azure/another-prod/470/8/478264.jpg",
+          "source_name": "AnOther Magazine"
+        },
+        {
+          "title": "사람을 최우선으로 하는 Kashef Chowdhury의 6가지 시민 프로젝트",
+          "url": "https://www.dezeen.com/2026/09/28/kashef-chowdhury-book-roundup/",
+          "image_url": "https://static.dezeen.com/uploads/2026/09/kashef-chowdhury-meditations-in-entropy-roundup_dezeen_2364_col_6-852x852.jpg",
+          "source_name": "Dezeen"
+        },
+        {
+          "title": "하트 오브 글래스: 베네치아가 다시 한 번 유리 제조 세계의 중심이 된 이유",
+          "url": "https://www.creativeboom.com/news/venices-heart-of-glass/",
+          "image_url": "https://media.creativeboom.com/cb5c7778-9ef3-4b87-a030-8a6213bcd3d2/conversions/3516c586bb2f986714a0ba0a4b4bbc35dbf21c60-medium.webp",
+          "source_name": "Creative Boom"
         }
       ]
     },
     {
       "keyword": "사진",
-      "count": 14,
-      "previous_count": 4,
+      "count": 12,
+      "previous_count": 6,
       "trend": "rising",
       "items": [
         {
@@ -86,73 +118,73 @@
       ]
     },
     {
-      "keyword": "빛과 조명",
-      "count": 12,
-      "previous_count": 4,
+      "keyword": "런웨이·쇼",
+      "count": 9,
+      "previous_count": 2,
       "trend": "rising",
       "items": [
         {
-          "title": "사람을 최우선으로 하는 Kashef Chowdhury의 6가지 시민 프로젝트",
-          "url": "https://www.dezeen.com/2026/09/28/kashef-chowdhury-book-roundup/",
-          "image_url": "https://static.dezeen.com/uploads/2026/09/kashef-chowdhury-meditations-in-entropy-roundup_dezeen_2364_col_6-852x852.jpg",
-          "source_name": "Dezeen"
+          "title": "밀라노 패션 위크 S/S 2027 최고의 쇼였습니다.",
+          "url": "https://www.wallpaper.com/fashion-beauty/best-shows-milan-fashion-week-ss-2027-review-round-up",
+          "image_url": "https://cdn.mos.cms.futurecdn.net/mnr67RwSqCUwWJCkT5ARRe-1920-80.jpg",
+          "source_name": "Wallpaper*"
         },
         {
-          "title": "하트 오브 글래스: 베네치아가 다시 한 번 유리 제조 세계의 중심이 된 이유",
-          "url": "https://www.creativeboom.com/news/venices-heart-of-glass/",
-          "image_url": "https://media.creativeboom.com/cb5c7778-9ef3-4b87-a030-8a6213bcd3d2/conversions/3516c586bb2f986714a0ba0a4b4bbc35dbf21c60-medium.webp",
-          "source_name": "Creative Boom"
+          "title": "구찌의 새로운 사운드 시대를 이끄는 음악의 거장 로키를 만나보세요",
+          "url": "https://www.dazeddigital.com/fashion/article/71044/1/loki-gucci-ss27-milan-fashion-week-mfw-demna-music-director?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=meet-loki-the-musical-maestro-behind-gucci-s-new-era-of-sound",
+          "image_url": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/5/1455881.jpeg",
+          "source_name": "Dazed"
         },
         {
-          "title": "피벗 램프",
-          "url": "https://minimalissimo.com/articles/pivot-lamp",
-          "image_url": "https://minimalissimo.com/api/media/file/website-50-1200x630.jpg",
-          "source_name": "Minimalissimo"
+          "title": "밀라노 패션 위크에서 프라다는 치마를 입고 연마합니다.",
+          "url": "https://www.wallpaper.com/fashion-beauty/prada-ss-2027-womenswear-show-review-milan-fashion-week",
+          "image_url": "https://cdn.mos.cms.futurecdn.net/j5rzTaFFwrX5sbGmznpaUJ-1920-80.jpg",
+          "source_name": "Wallpaper*"
         },
         {
-          "title": "​비디오 아트 비전: Doug Aitken의 빛의 풍경 - 오픈 하우스",
-          "url": "https://www.nowness.com/series/video-art-visions/doug-aitken-lightscape-open-house",
-          "image_url": "https://img.nowness.com/nowness-frontend/UspySIHVSK2DCOOunSTA_LIGHTSCAPE%20-%20OPEN%20HOUSE%20STILL%2019.jpg",
-          "source_name": "NOWNESS"
+          "title": "뎀나는 ‘전형적인 구찌‘ 2학년 쇼를 위해 상점을 엽니다",
+          "url": "https://www.wallpaper.com/fashion-beauty/gucci-ss-2027-demna-show-review-milan-fashion-week",
+          "image_url": "https://cdn.mos.cms.futurecdn.net/tUo35ofPMM5iBAoyMJnX5D-1920-80.jpg",
+          "source_name": "Wallpaper*"
         }
       ]
     },
     {
-      "keyword": "콘크리트 물성",
-      "count": 10,
+      "keyword": "가구 디자인",
+      "count": 7,
       "previous_count": 1,
       "trend": "rising",
       "items": [
         {
-          "title": "VitrA 타일별 메타코드 타일",
-          "url": "https://www.dezeen.com/2026/09/24/metacode-vitra-tiles-dezeen-showroom/",
-          "image_url": "https://static.dezeen.com/uploads/2026/09/metacode-vitra-tiles-design_dezeen_2364_sq-852x852.jpg",
-          "source_name": "Dezeen"
+          "title": "KGT 벽면 서랍 시스템",
+          "url": "https://minimalissimo.com/articles/UtilKGTWallDrawerSystem",
+          "image_url": "https://minimalissimo.com/api/media/file/kgt-wall-drawers-1200x630.png",
+          "source_name": "Minimalissimo"
         },
         {
-          "title": "런던의 에일즈베리 저택의 콘크리트 잔해에서 해리엇 메나 힐은 공동체를 보존합니다.",
-          "url": "https://www.thisiscolossal.com/2026/09/harriet-mena-hill-aylesbury-estate-paintings/",
-          "image_url": "https://www.thisiscolossal.com/wp-content/uploads/2026/09/hill-9.jpg",
-          "source_name": "This Is Colossal"
+          "title": "광학 왜곡을 대기 가구로 바꾸는 루카 리치",
+          "url": "https://www.yatzer.com/luca-ricci-plisse-block-milan",
+          "image_url": "https://media.yatzer.com/15-Plisse-Block-Luca-Ricci-render-yatzer-1400x1750.jpg",
+          "source_name": "Yatzer"
         },
         {
-          "title": "에스튜디오 제로는 음파 후 분홍색 멕시코 공동 생활 단지를 형성합니다",
-          "url": "https://www.dezeen.com/2026/09/24/estudio-zero-amplitude-pink-coliving-oaxaca/",
-          "image_url": "https://static.dezeen.com/uploads/2026/08/amplitude-coliving-estudio-zero-oaxaca-pink-coliving_dezeen_2364_sq-852x852.jpg",
-          "source_name": "Dezeen"
+          "title": "건초로 뒤집는 의자",
+          "url": "https://minimalissimo.com/articles/backflip-chair-by-hay",
+          "image_url": "https://minimalissimo.com/api/media/file/backflip-chair-by-hay-featured-v20260920-1200x630.jpg",
+          "source_name": "Minimalissimo"
         },
         {
-          "title": "Herzog & de Meuron은 Mass-timber Massachusetts 학교 건물의 기초를 재사용합니다.",
-          "url": "https://www.dezeen.com/2026/09/24/herzog-de-meuron-mass-timber-massachusetts-school-amherst/",
-          "image_url": "https://static.dezeen.com/uploads/2026/09/herzog-de-meuron-amherst-student-center_dezeen_2364_sq-852x852.jpg",
-          "source_name": "Dezeen"
+          "title": "아즈키메 체어",
+          "url": "https://minimalissimo.com/articles/azukime-chair",
+          "image_url": "https://minimalissimo.com/api/media/file/website-20-1200x630.jpg",
+          "source_name": "Minimalissimo"
         }
       ]
     },
     {
       "keyword": "설치 미술",
-      "count": 7,
-      "previous_count": 2,
+      "count": 6,
+      "previous_count": 3,
       "trend": "rising",
       "items": [
         {
@@ -180,53 +212,18 @@
           "source_name": "Dezeen"
         }
       ]
-    },
-    {
-      "keyword": "목재 건축",
-      "count": 4,
-      "previous_count": 1,
-      "trend": "rising",
-      "items": [
-        {
-          "title": "제프 닐 (Zeph Neil) 은 카르미나티 (Carminati) 의 전동 스카이라인 미니멀 프레임 (Minimal Frames) 목재 창문에 프렌치 리비에라 (French Riviera) 저택",
-          "url": "https://www.dezeen.com/2026/09/28/caramanti-skyline-minimal-frames-drive-villa-ramatuelle/",
-          "image_url": "https://static.dezeen.com/uploads/2026/09/carminati-skyline-drive-minimal-frames-villa-ramatuelle_dezeen_2364_sq-1-852x852.jpg",
-          "source_name": "Dezeen"
-        },
-        {
-          "title": "극적인 샤레드 목재 외관을 갖춘 8개의 건물",
-          "url": "https://www.dezeen.com/2026/09/27/buildings-dramatic-charred-timber-facades/",
-          "image_url": "https://static.dezeen.com/uploads/2026/09/copeland-road-gresford-architects-london-residential-architecture_dezeen_2364_sq-1704x1704-1-852x852.jpg",
-          "source_name": "Dezeen"
-        },
-        {
-          "title": "Polysmiths의 런던 주택 리노베이션은 \"빛을 주 재료로\" 사용합니다.",
-          "url": "https://www.dezeen.com/2026/09/25/polysmiths-pine-house/",
-          "image_url": "https://static.dezeen.com/uploads/2026/09/polysmiths-pine-house-renovation-london-sq_dezeen_2364_col_1-852x852.jpg",
-          "source_name": "Dezeen"
-        },
-        {
-          "title": "Herzog & de Meuron은 Mass-timber Massachusetts 학교 건물의 기초를 재사용합니다.",
-          "url": "https://www.dezeen.com/2026/09/24/herzog-de-meuron-mass-timber-massachusetts-school-amherst/",
-          "image_url": "https://static.dezeen.com/uploads/2026/09/herzog-de-meuron-amherst-student-center_dezeen_2364_sq-852x852.jpg",
-          "source_name": "Dezeen"
-        }
-      ]
     }
   ],
   "notable_names": [
-    "NOWNESS Shorts",
     "Dezeen Awards",
+    "NOWNESS Shorts",
+    "Arthur Jafa",
+    "VitrA Tiles",
     "Video Art Visions",
     "Craft Work",
     "They Call Me",
     "Meryll Rogge",
-    "Hong Kong",
-    "Peter Zumthor",
-    "John Wilson",
-    "London Fashion Week",
-    "DeafCity Hub",
-    "Taryn Simon"
+    "Peter Zumthor"
   ],
   "has_comparison": true
 }

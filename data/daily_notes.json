@@ -1326,5 +1326,44 @@
   "v": 3,
   "model": "gemini-3.5-flash-lite",
   "written_at": "2026-09-28 02:19"
+ },
+ "2026-09-29": {
+  "date": "2026-09-29",
+  "headline": "수만 개의 분자로 짠 만다라와 이방인이 그린 미국 식탁의 풍경",
+  "editorial": "뮤 판은 수만 개의 점을 찍어 거대한 우주를 작은 화면 안으로 불러들인다. 조야 체르카스키는 낯선 이방인의 시선으로 미국 일상의 의례를 포착해 캔버스 위에 해학적으로 옮긴다. 이처럼 치밀한 조형적 집요함과 낯선 시각은 우리가 당연하게 받아들이던 세계를 다시 보게 만든다. 꼼꼼하게 채워진 화면과 날카로운 관찰력이 만나는 지점에서 일상은 정교한 예술로 변모한다.",
+  "threads": [
+   {
+    "name": "작은 단위로 세계를 엮기",
+    "note": "거시적인 대상을 미시적인 조각이나 파편들로 분해하여 새로운 전체를 구성하는 방식이다.",
+    "items": [
+     {
+      "title": "뮤 판의 미시적 우주, 분자 단위로 직조한 아크릴 만다라",
+      "url": "https://www.thisiscolossal.com/2026/09/mu-pan-acrylic-paintings-drawings-mandalas/"
+     },
+     {
+      "title": "조야 체르카스키: 미국적 일상의 의례를 관통하는 이방인의 유머",
+      "url": "https://www.wallpaper.com/art/exhibitions-shows/zoya-cherkassky-makes-sense-of-american-life-with-rich-diverse-paintings-in-new-york"
+     }
+    ]
+   },
+   {
+    "name": "물리적 신체와 구조의 결합",
+    "note": "디지털 환경에 저항하며 신체적 감각과 유기적인 형태를 일상의 사물에 투영하는 시도들이다.",
+    "items": [
+     {
+      "title": "하이퍼 디지털 시대의 반작용, 신체에 새기는 생체 형태 문신",
+      "url": "https://www.dazeddigital.com/beauty/article/70980/1/biomorphic-tattoos-botanical-style-technological-times-hyper-digital-nature?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=biomorphic-tattoos-the-natural-trend-for-our-hyper-digital-times"
+     },
+     {
+      "title": "꽃잎의 겹침으로 구현한 작업 의자 실로라",
+      "url": "https://www.dezeen.com/2026/09/28/silora-task-chair-ito-design-narbutas-dezeen-showroom/"
+     }
+    ]
+   }
+  ],
+  "based_on": 13,
+  "v": 3,
+  "model": "gemini-3.1-flash-lite",
+  "written_at": "2026-09-29 00:43"
  }
 }
