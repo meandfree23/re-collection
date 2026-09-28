@@ -86320,5 +86320,163 @@
   },
   "depth_raw": 3,
   "depth_v": 2
+ },
+ "nowness.com/series/portrait-of-a-place/un-canto-por-el-desierto-comcaac-sonora-mexico-enrique-m-rizo": {
+  "title_ko": "소노란 사막의 기록, 콤카악 공동체의 노래를 담은 영상 초상",
+  "summary_ko": "엔리케 M. 리조 감독의 단편 영화 '운 칸토 포르 엘 데시에르토(Un Canto por el Desierto)'는 멕시코 소노란 해안에 거주하는 원주민 콤카악(Comcaac) 공동체를 조명한다. 나우니스(NOWNESS)의 '장소의 초상(Portrait of a Place)' 시리즈 일환으로 제작된 이 작품은 공동체 여성들이 모여 노래하는 과정을 통해 그들의 삶과 풍경을 기록한다.",
+  "lens": "사라져가는 토착 문화의 지리적 고립과 외부 압력을 한 공동체의 일상적 동선과 소리에 투영해 기록한다.",
+  "why_now": "기후 변화와 정치적 압력으로 소멸 위기에 처한 토착 공동체의 삶을 영상이라는 매체로 보존하려는 시도가 지속되고 있다.",
+  "mechanism": "공동체 구성원들이 함께 모이는 행위를 중심축으로 삼아, 그들의 목소리와 거친 사막의 풍경을 교차 편집하여 장소성을 구축한다.",
+  "sensory": "소노란 해안의 건조한 바람 소리와 원주민들의 낮은 노래가 겹쳐지며, 황량한 사막의 지형적 스케일이 화면에 밀도 있게 전달된다.",
+  "transfer": "특정 장소의 정체성을 담을 때 인물의 군무나 집단적 의례를 롱테이크로 촬영하여 공간의 물리적 무게감을 화면에 안착시킨다.",
+  "context": "나우니스의 '장소의 초상' 시리즈는 파키스탄 칼라쉬족의 삶을 다룬 이전 사례처럼, 물리적·정치적으로 고립된 공동체를 영상 기록물로 재구성하는 기획을 이어오고 있다.",
+  "findings": [
+   {
+    "text": "나우니스의 '장소의 초상' 시리즈는 특정 장소에 거주하는 소수 민족의 삶을 조명한다.",
+    "s": 4,
+    "quote": "나우니스(NOWNESS)의 '장소의 초상(Portrait of a Place)' 시리즈는 파키스탄 힌두쿠시 산맥에 거주하는 소수 민족 칼라쉬(Kalash)족의 삶을 조명한다."
+   }
+  ],
+  "keywords": [
+   "콤카악",
+   "소노란사막",
+   "영상인류학",
+   "장소의초상",
+   "나우니스"
+  ],
+  "evidence": "Un Canto por el Desierto",
+  "kind": "영상·필름",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "원문 정보가 제한적이나 시리즈의 맥락과 기획 의도가 확인되어 해당 분야의 기록적 가치를 반영함.",
+  "v": 2,
+  "url": "https://www.nowness.com/series/portrait-of-a-place/un-canto-por-el-desierto-comcaac-sonora-mexico-enrique-m-rizo",
+  "original_title": "​Portrait of a Place: Un Canto por el Desierto",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 0,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-09-28 11:06",
+  "research": {
+   "entities": [
+    "NOWNESS"
+   ],
+   "questions": [
+    "Un Canto por el Desierto는 어떤 배경에서 제작된 영상 작품인가요?",
+    "Portrait of a Place 시리즈는 어떤 기획 의도로 제작되었나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Nowness",
+     "url": "https://en.wikipedia.org/wiki/Nowness"
+    },
+    {
+     "n": 2,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "단테의 지옥에서 건져 올린 시각과 소리의 연대기",
+     "url": "https://www.nowness.com/series/sound-vision/opera-omnia-valentin-noujaim-space-afrika"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "기억의 무게와 선택의 후회를 다루는 단편 영화 Pressed to Fit",
+     "url": "https://www.nowness.com/series/nowness-shorts/pressed-to-fit-sara-silkin"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "지워져 가는 칼라쉬의 풍경, 알리나의 초상",
+     "url": "https://www.nowness.com/series/portrait-of-a-place/alina-kalasha-pakistan"
+    }
+   ],
+   "used": [
+    1,
+    4
+   ],
+   "chars": 945
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "nowness.com/series/nowness-shorts/turning-13-stella-blackmon": {
+  "title_ko": "오자크의 십 대, 스텔라 블랙몬이 포착한 불안과 성장의 기록",
+  "summary_ko": "나우니스(NOWNESS)가 공개한 단편 영화 '터닝 13(Turning 13)'은 스텔라 블랙몬 감독이 연출했다. 오자크 지역을 배경으로 13세 청소년이 겪는 정체성의 혼란과 모든 것이 자신을 중심으로 일어나는 듯한 유년기 특유의 심리적 상태를 시각화한다.",
+  "lens": "10대라는 과도기적 시간을 특정 지역의 풍경과 결합해 성장의 불안을 감각적으로 시각화한다.",
+  "why_now": "디지털 플랫폼을 통해 유년기와 청소년기 사이의 미묘한 심리적 변곡점을 영상 언어로 기록하는 작업이 지속되고 있다.",
+  "mechanism": "오자크의 지리적 배경을 활용해 인물이 느끼는 고립감과 외부 세계와의 마찰을 숏의 호흡으로 구현한다.",
+  "sensory": "13세가 느끼는 세상의 무게감과 그 나이대의 모호한 감각적 질감을 영상의 톤앤매너로 전달한다.",
+  "transfer": "인물의 심리적 상태를 풍경의 스케일과 대비시켜 연출할 때, 인물 중심의 타이트 샷과 광활한 로케이션 샷을 교차 배치한다.",
+  "context": "나우니스는 제퍼슨 핵이 설립한 디지털 영상 채널로, 시각 예술과 사운드를 결합한 실험적 단편 시리즈를 지속적으로 선보인다. 본 작업은 사라 실킨의 'Pressed to Fit'처럼 신체와 감정의 변화를 다루는 나우니스의 기존 영상 문법과 맥을 같이 한다.",
+  "findings": [
+   {
+    "text": "나우니스는 2010년 제퍼슨 핵이 설립한 디지털 영상 채널이다.",
+    "s": 1,
+    "quote": "Nowness (stylized NOWNESS) is a digital video channel that was launched in 2010 by its founder Jefferson Hack"
+   }
+  ],
+  "keywords": [
+   "스텔라블랙몬",
+   "나우니스",
+   "10대",
+   "성장",
+   "단편영화"
+  ],
+  "evidence": "Turning 13, Stella Blackmon, Ozarks, teenage transition",
+  "kind": "영상·필름",
+  "depth": 2,
+  "grounding": "partial",
+  "depth_reason": "원문 정보가 제한적이며 구체적인 영상 기법보다는 주제 의식 위주로 서술되어 있어 점수를 낮게 책정했다.",
+  "v": 2,
+  "url": "https://www.nowness.com/series/nowness-shorts/turning-13-stella-blackmon",
+  "original_title": "​NOWNESS Shorts: Turning 13",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 0,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-09-28 11:06",
+  "research": {
+   "entities": [
+    "NOWNESS"
+   ],
+   "questions": [
+    "NOWNESS Shorts의 'Turning 13' 프로젝트가 다루는 주제는 무엇인가요?",
+    "이 단편 영상 시리즈의 기획 의도와 제작 배경은 무엇인가요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Nowness",
+     "url": "https://en.wikipedia.org/wiki/Nowness"
+    },
+    {
+     "n": 2,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "단테의 지옥에서 건져 올린 시각과 소리의 연대기",
+     "url": "https://www.nowness.com/series/sound-vision/opera-omnia-valentin-noujaim-space-afrika"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "기억의 무게와 선택의 후회를 다루는 단편 영화 Pressed to Fit",
+     "url": "https://www.nowness.com/series/nowness-shorts/pressed-to-fit-sara-silkin"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "지워져 가는 칼라쉬의 풍경, 알리나의 초상",
+     "url": "https://www.nowness.com/series/portrait-of-a-place/alina-kalasha-pakistan"
+    }
+   ],
+   "used": [
+    1,
+    3
+   ],
+   "chars": 945
+  },
+  "depth_raw": 2,
+  "depth_v": 2
  }
 }
