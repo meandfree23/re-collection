@@ -93003,5 +93003,2486 @@
   },
   "depth_raw": 3,
   "depth_v": 2
+ },
+ "leibal.com/interiors/argumosa-street-apartment": {
+  "title_ko": "마드리드 아르구모사 아파트: 거울 도어로 재구성한 주거의 유연성",
+  "summary_ko": "스페인 마드리드의 1970년대 다세대 주택을 건축 스튜디오 마이오(MAIO)가 리노베이션했다. 기존의 폐쇄적인 벽체와 복도를 모두 철거하고, 그 자리에 전고(full-height) 거울 도어를 배치해 공간을 구획했다. 가구 중심의 가변적 평면을 통해 거주자는 필요에 따라 공간의 경계를 확장하거나 분리한다.",
+  "lens": "고정된 벽체를 거울로 마감된 이동식 가구로 대체하여, 시각적 깊이와 물리적 유연성을 동시에 확보한 공간 전략이다.",
+  "why_now": "주거 공간의 경직된 용도를 해체하고, 가구의 배치만으로 기능적 변화를 수용하는 유연한 평면 구성이 중요해지는 시점이다.",
+  "mechanism": "벽체 대신 배치된 전고 거울 도어는 인접 공간을 반사하여 시각적 경계를 지우고, 도어의 개폐 여부에 따라 공간의 밀도와 이미지를 실시간으로 바꾼다.",
+  "sensory": "거울에 반사된 파편화된 실내 풍경이 겹쳐지며, 보는 이의 위치와 시선 각도에 따라 공간의 깊이감이 끊임없이 변하는 몰입감을 준다.",
+  "transfer": "공간 내 시선이 닿는 곳에 거울 소재의 이동식 패널을 배치하여, 물리적 벽 없이도 시각적으로 공간을 확장하거나 분리하는 연출을 시도한다.",
+  "context": "마이오는 시간에 따른 변화와 가변성을 수용하는 공간 시스템을 연구하는 바르셀로나 기반의 스튜디오다. 이들은 이전부터 다양한 전시와 프로젝트를 통해 일상의 복잡성을 건축적 언어로 풀어내는 작업을 지속해 왔다.",
+  "findings": [
+   {
+    "text": "마이오는 시간에 따른 변화와 가변성을 허용하는 공간 시스템을 연구하는 바르셀로나 기반의 건축 사무소다.",
+    "s": 1,
+    "quote": "MAIO is an architectural office based in Barcelona that works on spatial systems that allow variation and change through time."
+   }
+  ],
+  "keywords": [
+   "마이오",
+   "가변적평면",
+   "공간리노베이션",
+   "거울인테리어"
+  ],
+  "evidence": "MAIO stripped the apartment down to a single continuous volume and shifted the structuring role once held by walls onto the furniture.",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "고정된 벽체를 가변적 가구로 대체하여 공간의 물리적, 시각적 구조를 완전히 재편한 구체적인 사례다.",
+  "v": 2,
+  "url": "https://leibal.com/interiors/argumosa-street-apartment/",
+  "original_title": "Argumosa Street Apartment",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 1916,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-09-29 23:10",
+  "research": {
+   "entities": [
+    "MAIO",
+    "Argumosa Street"
+   ],
+   "questions": [
+    "마요(MAIO) 스튜디오는 1970년대 스페인 아파트의 전형적인 구조적 한계를 극복하기 위해 어떤 공간 전략을 사용했는가?",
+    "거울 패널로 마감된 전고(full-height) 도어가 공간의 시각적 확장과 기능적 유연성에 어떻게 기여하는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "MAIO – Architectural Office based in Barcelona",
+     "url": "https://www.maio-architects.com/"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 2600
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "dezeen.com/2026/09/29/knekt-floor-lamp-hegren-dezeen-showroom": {
+  "title_ko": "헤그렌의 크넥트 플로어 램프, 휴식 공간의 동선을 고려한 조명 설계",
+  "summary_ko": "헤그렌(Hegren)이 선보인 크넥트(Knekt) 플로어 램프는 안락의자 주변의 휴식 환경에 최적화된 조명이다. 현대 주거 공간의 동선과 사용자의 안락한 자세를 고려해 설계되었다.",
+  "lens": "가구와 조명의 물리적 결합을 통해 휴식 공간의 점유 면적을 최소화하고 빛의 도달 범위를 최적화한다.",
+  "why_now": "주거 공간의 밀도가 높아지며 가구와 조명이 통합된 다기능 오브제의 수요가 증가하고 있다.",
+  "mechanism": "안락의자 옆에 밀착 가능한 구조로 설계되어 별도의 보조 테이블 없이도 빛을 사용자의 독서나 휴식 영역으로 직접 전달한다.",
+  "sensory": "금속 소재의 간결한 프레임이 공간의 시각적 소음을 줄이고 조명 헤드의 각도 조절을 통해 빛의 밀도를 제어한다.",
+  "transfer": "공간 연출 시 조명을 독립적인 오브제가 아닌 가구의 연장선으로 배치하여 동선의 흐름을 방해하지 않는 레이아웃을 구성한다.",
+  "context": "헤그렌은 현대적 주거 환경에 적합한 기능적 조명 디자인을 지속적으로 실험하고 있다.",
+  "findings": [],
+  "keywords": [
+   "조명디자인",
+   "헤그렌",
+   "공간설계",
+   "플로어램프"
+  ],
+  "evidence": "Knekt floor lamp by Hegren",
+  "kind": "제품·오브제",
+  "depth": 2,
+  "grounding": "thin",
+  "depth_reason": "원문 정보가 제한적이라 디자인의 구체적인 구조적 장치나 미학적 철학을 상세히 분석하기에 한계가 있다.",
+  "v": 2,
+  "url": "https://www.dezeen.com/2026/09/29/knekt-floor-lamp-hegren-dezeen-showroom/",
+  "original_title": "Knekt floor lamp by Hegren",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 0,
+  "fetch": "fetch_error:HTTPError",
+  "cliche_hits": [],
+  "read_at": "2026-09-29 23:10",
+  "research": {
+   "entities": [
+    "Hegren",
+    "Knekt"
+   ],
+   "questions": [
+    "Knekt 램프의 구조적 특징과 안락의자 사용 환경을 고려한 설계 의도는 무엇인가?",
+    "Hegren 스튜디오가 추구하는 조명 디자인의 미학적 철학은 무엇인가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 2,
+  "depth_v": 2
+ },
+ "elephant.art/alison-knowles-maker-of-multiples": {
+  "title_ko": "우연과 일상을 조율하는 플럭서스 거장, 앨리슨 놀스의 회고전",
+  "summary_ko": "뉴욕 그레이 아트 뮤지엄에서 열린 앨리슨 놀스의 회고전은 1960년부터 2022년까지 이어진 그의 실험적인 예술 세계를 조명한다. 일상적인 행동과 사물을 악보로 삼은 이벤트 스코어와 컴퓨터로 시를 생성하는 기계 작업 등을 통해 작가는 관객과 예술 사이의 연결을 만든다.",
+  "lens": "완성된 결과물 대신 우연과 규칙이 작동하는 과정 그 자체를 전시장 안으로 들여온다.",
+  "why_now": "디지털 자동화와 AI가 생성하는 결과물이 넘쳐나는 시대에, 1960년대부터 우연성을 예술의 장치로 삼아온 선구자의 태도가 지닌 가치를 되짚게 한다.",
+  "mechanism": "컴퓨터 알고리즘이 네 가지 목록에서 무작위로 단어를 조합해 시를 출력하는 기계 장치가 전시장 한쪽에서 실시간으로 작동하며 관객의 시선을 붙든다.",
+  "sensory": "전시장 바닥에 구불구불하게 쌓여가는 긴 종이 스크롤과 노란빛의 화면 인쇄물들이 시간의 누적과 물성을 시각적으로 체감하게 만든다.",
+  "transfer": "영상의 편집이나 공간의 동선을 고정하지 않고, 우발적인 규칙이나 스크립트를 부여해 현장의 즉흥성을 유도하는 장치로 활용한다.",
+  "context": "미국 작가 앨리슨 놀스는 플럭서스의 유일한 여성 공동 창립자로서 일상적인 재료와 퍼포먼스를 결합하는 작업을 이어왔다.",
+  "findings": [
+   {
+    "text": "앨리슨 놀스는 플럭서스 운동의 유일한 여성 공동 창립자였다.",
+    "s": 1,
+    "quote": "While Knowles is often recognized as the only woman who was a founding member of Fluxus"
+   },
+   {
+    "text": "이번 회고전은 캘리포니아 대학교 버클리 미술관 및 태평양 영화 보관소에서 조직되었다.",
+    "s": 1,
+    "quote": "Organized by the Berkeley Art Museum and Pacific Film Archive (BAMPFA)"
+   }
+  ],
+  "keywords": [
+   "플럭서스",
+   "이벤트스코어",
+   "동시대미술",
+   "미디어아트"
+  ],
+  "evidence": "The machine has something of a mouth and every minute, feeds out a few inches of paper from a long scroll",
+  "kind": "전시",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "플럭서스 거장의 방대한 아카이브와 구체적인 작동 장치를 다루나 선례와 연결되는 범위가 뚜렷하다.",
+  "v": 2,
+  "url": "https://elephant.art/alison-knowles-maker-of-multiples/",
+  "original_title": "Alison Knowles, Maker of Multiples",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 9000,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-09-29 23:10",
+  "research": {
+   "entities": [
+    "Alison Knowles",
+    "Fluxus",
+    "George Maciunas",
+    "Grey Art Museum",
+    "The Identical Lunch"
+   ],
+   "questions": [
+    "앨리슨 놀스의 '이벤트 스코어(Event Score)' 개념은 현대 예술에서 어떤 의미를 가지나요?",
+    "플럭서스 운동 내에서 앨리슨 놀스가 일상적인 소재와 음식을 예술로 승화시킨 방식은 어떤 특징이 있나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "by Alison Knowles: A Retrospective (1960–2022) at the Grey Art…",
+     "url": "https://greyartmuseum.nyu.edu/exhibitions/by-alison-knowles-a-retrospective-1960-2022"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Alison Knowles",
+     "url": "https://en.wikipedia.org/wiki/Alison%20Knowles"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Fluxus",
+     "url": "https://en.wikipedia.org/wiki/Fluxus"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3
+   ],
+   "chars": 5400
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "hyperallergic.com/whitney-museum-workers-declare-strike": {
+  "title_ko": "미술관의 거대한 기계 장치 속에서 흔들리는 노동과 기억의 풍경",
+  "summary_ko": "뉴욕 휘트니 미술관의 노조가 공정한 계약을 요구하며 파업을 예고한 가운데, 모마 PS1에서는 테레사 마골레스가 폭력의 현장에서 수집한 물을 가습기로 분사하며 보이지 않는 인류애를 은유한다. 가을 시즌을 맞이한 뉴욕 미술계는 대형 전시와 제도적 갈등이 교차하는 복잡한 단면을 드러낸다.",
+  "lens": "화려한 블록버스터 전시 이면에 가려진 미술관 노동자의 파업과 사회적 폭력의 잔향을 예리하게 대치시킨다.",
+  "why_now": "가을 대형 아트 페어와 블록버스터 전시가 집중되는 시기에 미술관 내부의 노동 문제와 동시대 예술의 정치적 발화가 동시에 수면 위로 떠올랐다.",
+  "mechanism": "테레사 마골레스는 폭력 현장에서 채집한 수분을 가습기를 통해 공간 전체에 미세한 안개 형태로 배출하여 관람객이 무심히 지나치게 만든다.",
+  "sensory": "전시장 내부로 스며드는 습기와 보이지 않는 수증기의 질감이 관람객의 호흡 속으로 직접 스며든다.",
+  "transfer": "공간 연출 시 화려한 메인 무대 대신 보조 설비나 유지보수 구역처럼 보이는 공간에 미세한 수증기나 음향 장치를 숨겨 관람객의 감각을 교란하는 숏으로 활용한다.",
+  "context": "테레사 마골레스는 멕시코 쿨리아칸 출신의 개념미술가로, 모르그와 폭력의 현장에서 수집한 물질을 통해 죽음의 사회적 원인과 남겨진 이들의 기억을 다뤄왔다.",
+  "findings": [
+   {
+    "text": "테레사 마골레스는 멕시코 쿨리아칸 출신으로 시각 예술을 통해 죽음의 사회적 원인과 결과를 연구한다.",
+    "s": 2,
+    "quote": "Teresa Margolles (born 1963 in Culiacán) is a Mexican conceptual artist, photographer, videographer, and performance artist. As an artist she researches the social causes and consequences of death."
+   }
+  ],
+  "keywords": [
+   "테레사마골레스",
+   "휘트니미술관",
+   "모마PS1",
+   "미술관노동",
+   "개념미술"
+  ],
+  "evidence": "Teresa Margolles’s solo exhibition at MoMA PS1, where she co-opts the language of minimalism to honor the lives disrupted or destroyed by borders, capitalism, and state brutality.",
+  "kind": "뉴스·이슈",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "여러 미술계 이슈를 다룬 뉴스레터 형태의 기사로 정보 전달에 집중하여 평범한 수준의 깊이를 가진다.",
+  "v": 2,
+  "url": "https://hyperallergic.com/whitney-museum-workers-declare-strike/",
+  "original_title": "Whitney Museum Workers Declare Strike",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 5853,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-09-29 23:10",
+  "research": {
+   "entities": [
+    "Whitney Museum of American Art",
+    "Teresa Margolles",
+    "MoMA PS1",
+    "Kenzi Shiokava",
+    "Roy Lichtenstein"
+   ],
+   "questions": [
+    "휘트니 미술관 노조가 파업을 결의하게 된 핵심적인 노동 조건과 요구 사항은 무엇인가?",
+    "테레사 마골레스의 작품이 미니멀리즘 형식을 빌려 사회적 폭력과 경계의 문제를 어떻게 시각화하고 있는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Whitney Museum of American Art",
+     "url": "https://en.wikipedia.org/wiki/Whitney%20Museum%20of%20American%20Art"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Teresa Margolles",
+     "url": "https://en.wikipedia.org/wiki/Teresa%20Margolles"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "모마 PS1에서 열린 제20회 뉴욕 아트 북 페어의 현장",
+     "url": "https://hyperallergic.com/no-one-is-reading-except-at-the-new-york-art-book-fair/"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "브루어 빌딩과 아모리 쇼가 드러낸 뉴욕 아트페어의 풍경",
+     "url": "https://hyperallergic.com/should-you-sit-out-the-armory-show/"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "뉴욕 아모리 위크, 도시의 빈틈을 점유하는 동시대 미술의 풍경",
+     "url": "https://hyperallergic.com/armory-week-is-here/"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 3107
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "motionographer.com/2026/09/29/the-studio-that-refused-to-be-one-thing": {
+  "title_ko": "토닉 DNA: 40년의 서사를 잇는 애니메이션 스튜디오의 리프레시",
+  "summary_ko": "몬트리올의 애니메이션 스튜디오 토닉 DNA(Tonic DNA)가 새로운 웹사이트와 함께 브랜드 리프레시를 단행했다. 40년 역사를 지닌 이 스튜디오는 전통적인 2D 애니메이션부터 IMAX, 3D, 그리고 최근의 AI 파이프라인까지 기술 변화를 수용하며, 감독 중심의 제작 모델을 공고히 하고 있다.",
+  "lens": "기술의 도구적 변화를 수용하되, 서사를 구축하는 작가의 태도를 고수하며 40년의 생명력을 증명한다.",
+  "why_now": "기술적 변곡점마다 애니메이션의 본질을 재정의하며, 제작 모델의 유연성을 유지하는 스튜디오의 생존 전략은 급변하는 미디어 환경에 시사점을 준다.",
+  "mechanism": "사전 제작 단계에 긴 시간을 할애해 설계도와 서사를 완벽히 조율하고, 이후 제작 과정에서 기술적 변수를 최소화하여 일관된 시각적 완성도를 구현한다.",
+  "sensory": "유리 위 유화 기법의 질감부터 3D 환경에 덧입힌 수작업 브러시 스트로크까지, 디지털 환경에서도 손맛이 느껴지는 촉각적 깊이를 유지한다.",
+  "transfer": "작업의 기술적 외피를 바꿀 때, 기존의 파이프라인을 파괴하기보다 감독의 비전을 중심으로 기술을 재배치하는 하이브리드 워크플로우를 도입한다.",
+  "context": "토닉 DNA는 2000년 아카데미 단편 애니메이션상을 수상한 알렉산드르 페트로프(Aleksandr Petrov)의 IMAX 필름 제작을 기점으로 기술 혁신을 거듭해 왔다. 2017년 현재의 사명으로 변경하며 기존의 단일 비전 체제에서 다수 감독 중심의 스튜디오 모델로 전환했다.",
+  "findings": [
+   {
+    "text": "알렉산드르 페트로프가 감독한 1999년작 '노인과 바다'는 유리 위에 유화를 그리는 기법으로 제작되었으며 아카데미 단편 애니메이션상을 수상했다.",
+    "s": 1,
+    "quote": "The Old Man and the Sea (Russian: Старик и море) is a 1999 paint-on-glass-animated short film directed by Russian animator Aleksandr Petrov... The film won many awards, including the Academy Award for Best Animated Short"
+   }
+  ],
+  "keywords": [
+   "토닉DNA",
+   "애니메이션",
+   "리프레시",
+   "파이프라인",
+   "몬트리올"
+  ],
+  "evidence": "It is the refusal to let animation stand still. That’s been part of the studio from the beginning.",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "스튜디오의 역사적 맥락과 기술적 전환의 논리를 실무적 관점에서 구체적으로 분석했기 때문이다.",
+  "v": 2,
+  "url": "https://motionographer.com/2026/09/29/the-studio-that-refused-to-be-one-thing/",
+  "original_title": "STUDIO STORIES: Tonic DNA, The Studio That Refused to Be One Thing",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 9000,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-09-29 23:10",
+  "research": {
+   "entities": [
+    "Tonic DNA",
+    "Stefanie Bitton",
+    "The Old Man and the Sea",
+    "Alexander Petrov",
+    "Motionographer"
+   ],
+   "questions": [
+    "Tonic DNA는 40년의 역사 동안 어떻게 전통 애니메이션에서 디지털, AI 파이프라인까지 성공적으로 전환할 수 있었는가?",
+    "스튜디오의 파트너 Stefanie Bitton이 강조한 '리프렌시(refresh)'와 '리브랜드(rebrand)'의 구체적인 경영학적 차이는 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "The Old Man and the Sea (1999 film)",
+     "url": "https://en.wikipedia.org/wiki/The%20Old%20Man%20and%20the%20Sea%20%281999%20film%29"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Aleksandr Petrov (animator)",
+     "url": "https://en.wikipedia.org/wiki/Aleksandr%20Petrov%20%28animator%29"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "모션그래퍼 20주년, 뉴욕에서 재확인하는 모션 디자인의 실무적 깊이",
+     "url": "https://motionographer.com/2026/09/24/motionographers-20th-celebrations-continue-this-saturday-theres-still-time-to-join-us/"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "창작의 가치는 변하지 않았다, 시장이 이동하는 신호를 읽는 법",
+     "url": "https://motionographer.com/news/who-moved-my-work-tim-thompson-on-revthinks-the-weekly-briefing/"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "모션그래퍼 20주년, 브루클린 룰렛에서 확인하는 모션 디자인의 오늘",
+     "url": "https://motionographer.com/2026/09/18/motionographer-turns-20-with-motion-plus-design-new-york-20-seats-for-20-years/"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 1801
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "leibal.com/interiors/saint-germain-apartment": {
+  "title_ko": "파리 생제르맹의 다락방, 돌과 빛으로 빚은 압축과 이완의 서사",
+  "summary_ko": "건축 스튜디오 디테르 콜레(Diettert Collet)가 파리 생제르맹데프레의 하우스만 양식 건물 최상층에 390제곱피트 규모의 아파트를 완성했다. 과거 하인들이 사용하던 서비스 공간을 재구성하며, 어두운 입구에서 밝은 거실로 이어지는 동선에 트래버틴과 유리 블록을 배치해 공간의 밀도를 조절했다.",
+  "lens": "통로의 물리적 두께를 의도적으로 과장해, 좁은 복도를 단순히 지나가는 곳이 아닌 거대한 돌덩이를 깎아 만든 통로로 치환한다.",
+  "why_now": "공간의 경계를 문으로 나누는 대신, 재료의 질감 변화와 천장 높이 차이로 공간감을 정의하는 미니멀리즘의 새로운 변주를 보여준다.",
+  "mechanism": "트래버틴으로 감싼 복도가 공간 사이를 물리적으로 압축하고, 천장 높이가 11.5피트에 달하는 거실로 진입하며 해방감을 극대화한다.",
+  "sensory": "트래버틴의 단단한 물성과 유리 블록을 투과하는 부드러운 빛, 그리고 그 사이를 채우는 나무와 직물의 온기가 대비를 이룬다.",
+  "transfer": "공간의 깊이감을 강조하고 싶다면, 문턱을 없애는 대신 바닥재나 천장 높이의 단차를 활용해 시각적 연결성을 유지하며 동선을 분리한다.",
+  "context": "디테르 콜레는 파리 하우스만 양식 건물의 전형적인 다락방 구조를 활용해, 과거 서비스 공간이 가졌던 제약을 공간의 리듬을 만드는 장치로 전환했다.",
+  "findings": [],
+  "keywords": [
+   "공간 압축",
+   "트래버틴",
+   "하우스만",
+   "동선 설계",
+   "빛의 시퀀스"
+  ],
+  "evidence": "A narrow passage linking the kitchen to the living room was thickened well beyond what the floor plan required and clad floor to ceiling in travertine",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "하우스만 양식의 다락방을 해석하는 명확한 건축적 장치와 재료 활용법이 구체적으로 제시되어 있다.",
+  "v": 2,
+  "url": "https://leibal.com/interiors/saint-germain-apartment/",
+  "original_title": "Saint-Germain Apartment",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 1999,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-09-29 23:10",
+  "research": {
+   "entities": [
+    "Diettert Collet",
+    "Emma Collet",
+    "Thomas Diettert",
+    "Saint-Germain-des-Prés"
+   ],
+   "questions": [
+    "하우스만 양식 건물의 다락방(service rooms) 구조가 어떻게 390제곱피트의 소형 아파트(pied-à-terre) 인테리어에 활용되었는가?",
+    "트래버틴과 유리 블록 등의 재료가 공간의 압축과 이완이라는 건축적 개념을 어떻게 시각적·물리적으로 구현하는가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "dezeen.com/2026/09/29/stanton-williams-winchester-college": {
+  "title_ko": "640년 역사의 윈체스터 칼리지, 스탠튼 윌리엄스가 설계한 현대적 기숙사",
+  "summary_ko": "건축 스튜디오 스탠튼 윌리엄스가 윈체스터 칼리지 내 여학생을 위한 기숙사 두 채를 완공했다. 640년 된 유적지의 기존 건축 어휘를 참조한 벽돌 외관이 특징이며, 안뜰을 중심으로 공동체 문화를 형성하는 배치를 취한다.",
+  "lens": "역사적 유산이 겹겹이 쌓인 장소에서 벽돌이라는 물성을 통해 현대적 기숙사가 어떻게 기존 맥락과 물리적 대화를 나누는지 보여준다.",
+  "why_now": "오랜 전통을 지닌 교육 시설이 시대 변화에 맞춰 여학생을 수용하는 과정에서, 기존의 중세적 공간 구조를 현대적 주거로 어떻게 재해석하는지 보여주는 사례다.",
+  "mechanism": "건물 외벽에 사용된 벽돌은 유적지의 기존 재료와 연속성을 확보하며, 안뜰을 감싸는 배치는 학생들의 사적인 생활과 공동체적 교류를 자연스럽게 잇는 동선으로 작동한다.",
+  "sensory": "오랜 시간 축적된 석조와 벽돌의 거친 질감이 빛에 따라 변화하며, 안뜰을 통해 유입되는 정적인 공기와 그림자가 공간의 깊이를 만든다.",
+  "transfer": "역사적 맥락이 강한 장소에 신축할 때, 기존 건물의 재료를 차용하되 비례를 현대적으로 정제하여 이질감을 줄이는 파사드 구성 방식을 참고할 수 있다.",
+  "context": "스탠튼 윌리엄스는 런던을 기반으로 킹스크로스의 그래너리 빌딩 재개발과 같이 역사적 자산을 현대적으로 재생하는 작업에 강점을 보인다. 윈체스터 칼리지는 1382년 설립된 이후 중세 건축물을 중심으로 운영되어 왔으며, 이번 기숙사 설계는 학교의 오랜 전통과 변화하는 교육 환경 사이의 접점을 마련하는 작업이다.",
+  "findings": [
+   {
+    "text": "스탠튼 윌리엄스는 런던 이슬링턴에 기반을 둔 건축 사무소다.",
+    "s": 1,
+    "quote": "Stanton Williams is a British architectural firm based in Islington, London."
+   },
+   {
+    "text": "윈체스터 칼리지는 1382년 윌리엄 오브 위컴이 설립한 영국의 사립 기숙 학교다.",
+    "s": 2,
+    "quote": "It was founded by William of Wykeham in 1382 as a feeder school for New College, Oxford, and has operated continuously on its present site ever since."
+   }
+  ],
+  "keywords": [
+   "스탠튼윌리엄스",
+   "윈체스터칼리지",
+   "벽돌건축",
+   "캠퍼스설계",
+   "역사적맥락"
+  ],
+  "evidence": "Stanton Williams designs boarding houses to support the culture of Winchester College",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "건축적 의도와 맥락은 확인되나, 원문 본문 부재로 상세한 공간 내부 구조나 세부 설계 기법에 대한 정보가 제한적이다.",
+  "v": 2,
+  "url": "https://www.dezeen.com/2026/09/29/stanton-williams-winchester-college/",
+  "original_title": "Stanton Williams designs boarding houses to \"support the culture\" of Winchester College",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 0,
+  "fetch": "fetch_error:HTTPError",
+  "cliche_hits": [],
+  "read_at": "2026-09-29 23:11",
+  "research": {
+   "entities": [
+    "Stanton Williams",
+    "Winchester College"
+   ],
+   "questions": [
+    "윈체스터 칼리지의 역사적 건축 양식과 스탠튼 윌리엄스의 현대적 설계가 어떻게 조화를 이루고 있는가?",
+    "640년 된 유적지라는 맥락에서 기숙사 설계가 학생들의 공동체 문화 형성에 어떤 영향을 미치는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Stanton Williams",
+     "url": "https://en.wikipedia.org/wiki/Stanton%20Williams"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Winchester College",
+     "url": "https://en.wikipedia.org/wiki/Winchester%20College"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 1911
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "dezeen.com/2026/09/29/formafantasma-officina-profumo-farmaceutica-di-santa-maria-novella": {
+  "title_ko": "800년 역사의 향수 브랜드를 재설계하는 포르마판타스마",
+  "summary_ko": "디자인 스튜디오 포르마판타스마가 세계에서 가장 오래된 약국인 산타 마리아 노벨라의 신임 크리에이티브 디렉터로 임명되었다. 이들은 1221년부터 축적된 지식과 재료의 역사를 현대적 관점에서 재해석하는 작업에 집중한다. 오랜 전통을 박제된 유물이 아닌 살아있는 재료와 지식의 전승 과정으로 다룬다.",
+  "lens": "역사의 시간을 정적인 유물이 아닌 재료의 물성과 지식의 전승이라는 동적인 과정으로 치환한다.",
+  "why_now": "과거의 유산을 단순 복제하는 방식을 넘어, 유래 깊은 브랜드의 원료와 역사를 동시대적 조형 언어로 해체하고 재구성하는 태도가 요구된다.",
+  "mechanism": "오랜 세월 동안 축적된 허브와 약초의 물성을 현대적 시각 언어와 공간 경험으로 번역하여 브랜드의 정체성을 재정립한다.",
+  "sensory": "800년의 세월이 깃든 식물성 원료의 무게감과 현대적인 디자인 구조물이 맞닿아 만들어내는 고요하고 밀도 높은 긴장감.",
+  "transfer": "역사적인 아카이브나 전통 소재를 다룰 때, 표면적인 레트로풍 재현을 걷어내고 재료의 물성 자체를 현대적 앵글로 포착해 콘티에 반영할 것.",
+  "context": "포르마판타스마의 시모네 파레신과 안드레아 트리마르키는 역사적 브랜드인 산타 마리아 노벨라와 손잡고 브랜드의 지식과 재료의 역사를 현대적 관점에서 재해석하는 작업을 맡았다.",
+  "findings": [
+   {
+    "text": "800년 역사를 지닌 세계에서 가장 오래된 약국 산타 마리아 노벨라가 포르마판타스마의 시모네 파레신과 안드레아 트리마르키를 신임 크리에이티브 디렉터로 영입했다.",
+    "s": 1,
+    "quote": "800년 역사를 지닌 세계에서 가장 오래된 약국 산타 마리아 노벨라(Officina Profumo-Farmaceutica di Santa Maria Novella)가 포르마판타스마의 시모네 파레신과 안드레아 트리마르키를 신임 크리에이티브 디렉터로 영입했다."
+   }
+  ],
+  "keywords": [
+   "포르마판타스마",
+   "산타마리아노벨라",
+   "크리에이티브디렉터",
+   "브랜드리뉴얼",
+   "재료연구"
+  ],
+  "evidence": "Formafantasma named creative directors of 800-year-old apothecary and perfumery",
+  "kind": "브랜드·캠페인",
+  "depth": 2,
+  "grounding": "partial",
+  "depth_reason": "유서 깊은 브랜드의 크리에이티브 디렉터 임명 소식이나 구체적인 디자인 산물이 아직 공개되지 않았다.",
+  "v": 2,
+  "url": "https://www.dezeen.com/2026/09/29/formafantasma-officina-profumo-farmaceutica-di-santa-maria-novella/",
+  "original_title": "Formafantasma named creative directors of 800-year-old apothecary and perfumery",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 0,
+  "fetch": "fetch_error:HTTPError",
+  "cliche_hits": [],
+  "read_at": "2026-09-29 23:11",
+  "research": {
+   "entities": [
+    "Formafantasma"
+   ],
+   "questions": [
+    "Formafantasma는 어떤 디자인 스튜디오이며 역사적인 브랜드와 어떤 협업을 진행해 왔는가?",
+    "800년 역사의 향수 및 약국 브랜드의 정체성과 Formafantasma의 디자인 철학이 어떻게 결합되는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "포르마판타스마, 800년 역사의 산타 마리아 노벨라를 재맥락화하다",
+     "url": "https://www.wallpaper.com/fashion-beauty/fragrance/formafantasma-creative-directors-santa-maria-novella"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 321
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "dezeen.com/2026/09/29/capri-comfort-armchairs-piergiorgio-cazzaniga-andreu-world-dezeen-showroom": {
+  "title_ko": "피에르조르조 카치니가의 카프리 컴포트, 미니멀리즘의 확장",
+  "summary_ko": "피에르조르조 카치니가(Piergiorgio Cazzaniga)가 안드레우 월드(Andreu World)를 위해 디자인한 카프리 컴포트(Capri Comfort) 체어는 기존 카프리 컬렉션의 미니멀한 조형미를 유지하면서 장시간 착석을 고려한 기능성을 더했다. 이 의자는 사무 공간과 휴식 공간을 아우르는 이그제큐티브 체어로 설계되었다.",
+  "lens": "단순한 선의 반복이 아닌, 신체 곡선과 맞닿는 면적을 최적화해 미니멀리즘이 기능적 안락함으로 치환되는 과정을 보여준다.",
+  "why_now": "업무와 휴식의 경계가 모호해진 현대적 사무 환경에서, 시각적 소음을 줄인 미니멀한 디자인에 실용성을 결합한 가구 수요가 증가하고 있다.",
+  "mechanism": "등받이와 좌판의 각도를 조정하고 쿠션감을 보강하여 사용자의 체중을 고르게 분산하는 구조를 채택했다.",
+  "sensory": "매끄러운 마감의 프레임과 대비되는 부드러운 패브릭의 질감이 시각적인 정돈감과 신체적인 편안함을 동시에 전달한다.",
+  "transfer": "공간의 시각적 복잡도를 낮추어야 하는 미니멀 인테리어 촬영 시, 형태가 절제된 가구를 배치해 공간의 깊이감을 확보하는 샷을 구성할 수 있다.",
+  "context": "안드레우 월드는 목재 가공 기술을 바탕으로 간결한 형태와 내구성을 결합하는 디자인 철학을 고수한다.",
+  "findings": [],
+  "keywords": [
+   "미니멀리즘",
+   "이그제큐티브체어",
+   "안드레우월드",
+   "사무가구"
+  ],
+  "evidence": "Capri Comfort is a minimalist executive chair",
+  "kind": "제품·오브제",
+  "depth": 2,
+  "grounding": "thin",
+  "depth_reason": "제품 정보가 제한적이며 단순한 신제품 출시 소식에 해당한다.",
+  "v": 2,
+  "url": "https://www.dezeen.com/2026/09/29/capri-comfort-armchairs-piergiorgio-cazzaniga-andreu-world-dezeen-showroom/",
+  "original_title": "Capri Comfort chair by Piergiorgio Cazzaniga for Andreu World",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 0,
+  "fetch": "fetch_error:HTTPError",
+  "cliche_hits": [],
+  "read_at": "2026-09-29 23:11",
+  "research": {
+   "entities": [
+    "Piergiorgio Cazzaniga",
+    "Andreu World",
+    "Capri Comfort"
+   ],
+   "questions": [
+    "Piergiorgio Cazzaniga가 디자인한 의자들의 공통적인 미학적 특징은 무엇인가요?",
+    "Andreu World 브랜드가 추구하는 가구 디자인의 철학은 무엇인가요?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 2,
+  "depth_v": 2
+ },
+ "dezeen.com/2026/09/29/african-futures-institute-headquarters-lesley-lokko-ghana": {
+  "title_ko": "아크라의 타일 창고, 아프리카 미래 연구소를 위한 유연한 공공 인프라로",
+  "summary_ko": "가나계 스코틀랜드 건축가 레슬리 로코가 설립한 아프리카 미래 연구소가 아크라 오수 지역의 기존 타일 창고를 개조해 첫 영구 본부를 마련했다. 프레드 스와트와 협업한 이 공간은 교육과 연구, 전시가 결합된 공공 인프라로 작동하며 환경 반응성과 공간의 유연성에 중점을 두었다.",
+  "lens": "고정된 기념비 대신 시간과 용도에 따라 기능을 바꾸며 도시의 기억을 갱신하는 유연한 공간의 구조화.",
+  "why_now": "건축 교육이 물리적 교실을 넘어 지역사회와 소통하는 공공 플랫폼으로 확장되는 동시대적 흐름을 보여준다.",
+  "mechanism": "기존 창고의 골격과 타일이라는 물성을 유지하면서, 내부 가변성을 극대화해 교육과 전시가 공존하는 다목적 공간으로 재구성했다.",
+  "sensory": "창고 특유의 높은 층고와 거친 질감이 남은 벽면이 빛의 유입에 따라 변화하며, 개방된 동선이 연구와 공공 행사를 매끄럽게 연결한다.",
+  "transfer": "기존 산업 시설의 뼈대를 보존하되, 가변형 가구와 파티션을 활용해 하나의 공간이 연구실과 전시장을 오가도록 연출하는 동선을 설계한다.",
+  "context": "레슬리 로코는 2015년 요하네스버그 대학에 대학원 건축 학교를 설립한 이후, 2021년 아크라에서 아프리카 미래 연구소를 열어 건축 교육의 새로운 거점을 구축해 왔다. 본 프로젝트는 기존 건물을 부수지 않고 재조립하여 도시의 물리적 자산을 새롭게 작동시키는 로코의 건축적 방법론을 잇는다.",
+  "findings": [
+   {
+    "text": "레슬리 로코는 2021년 가나 아크라로 돌아와 대학원 수준의 건축 교육과 공공 행사를 위한 아프리카 미래 연구소를 설립했다.",
+    "s": 1,
+    "quote": "She returned to Accra, Ghana, in 2021 and established the African Futures Institute, a postgraduate school of architecture and public events platform."
+   }
+  ],
+  "keywords": [
+   "아프리카미래연구소",
+   "레슬리로코",
+   "아크라건축",
+   "리노베이션",
+   "공공인프라"
+  ],
+  "evidence": "The African Futures Institute headquarters in Osu, Accra, is a converted tile warehouse that prioritises environmental responsiveness and spatial flexibility.",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "구체적인 리노베이션 전략과 공간의 공공적 기능을 확인했으며, 건축가의 철학이 공간에 투영된 방식이 명확하다.",
+  "v": 2,
+  "url": "https://www.dezeen.com/2026/09/29/african-futures-institute-headquarters-lesley-lokko-ghana/",
+  "original_title": "Renovated warehouse becomes permanent home of African Futures Institute in Ghana",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 0,
+  "fetch": "fetch_error:HTTPError",
+  "cliche_hits": [],
+  "read_at": "2026-09-29 23:11",
+  "research": {
+   "entities": [
+    "African Futures Institute",
+    "Lesley Lokko",
+    "Fred Swart"
+   ],
+   "questions": [
+    "아프리카 미래 연구소(African Futures Institute)는 건축 교육에서 어떤 철학을 가지고 운영되는가?",
+    "가나 아크라의 기존 타일 창고를 건축 학교 본부로 리노베이션할 때 중점을 둔 공간적 특징은 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Lesley Lokko",
+     "url": "https://en.wikipedia.org/wiki/Lesley%20Lokko"
+    },
+    {
+     "n": 2,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "기존 구조의 해부와 재조립, 도시를 갱신하는 네 가지 건축적 작법",
+     "url": "https://www.archdaily.com/1185678/a-new-initiative-for-the-right-to-housing-in-europe-and-two-competition-shortlists-this-weeks-review"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "타일 창고의 변모, 가나 아크라에 자리 잡은 아프리카선물연구소 영구 본부",
+     "url": "https://www.wallpaper.com/architecture/the-african-futures-institute-headquarters-accra-ghana"
+    }
+   ],
+   "used": [
+    1,
+    3
+   ],
+   "chars": 1364
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "dezeen.com/2026/09/29/vietnam-national-stadium-rach-chiec": {
+  "title_ko": "파퓰러스가 설계한 7만 석 규모의 베트남 국립 경기장 디자인",
+  "summary_ko": "건축 스튜디오 파퓰러스가 호치민시의 라치 chiếc(Rach Chiec) 스타디움 디자인을 공개했다. 이 건축물은 완공 시 7만 석을 수용하는 베트남의 새로운 국립 경기장으로 자리 잡는다. 본문 수집에 실패하여 메타 정보와 과거 자료를 바탕으로 작성했다.",
+  "lens": "대형 스포츠 아레나 설계에서 축적된 도시적 스케일과 군중 동선의 제어 방식을 읽는다.",
+  "why_now": "대형 스포츠 시설은 도시의 새로운 랜드마크이자 대규모 군중을 수용하는 복합 인프라로 기능한다.",
+  "mechanism": "파퓰러스는 대형 경기장 설계에서 검증된 형태적 기획력과 구조적 모듈을 적용한다.",
+  "sensory": "7만 석의 관중석이 만들어내는 거대한 스케일과 경기장 외관의 기하학적 매스가 시각적 압도감을 형성한다.",
+  "transfer": "대규모 군중이 이동하는 공간을 연출할 때 관중석의 단차와 거대한 외관 구조물의 매스감을 숏의 배경으로 활용한다.",
+  "context": "건축 스튜디오 파퓰러스는 대형 스포츠 아레나를 다수 설계한 경험을 지닌다.",
+  "findings": [],
+  "keywords": [
+   "파퓰러스",
+   "국립경기장",
+   "호치민",
+   "스포츠아레나"
+  ],
+  "evidence": "",
+  "kind": "프로젝트",
+  "depth": 2,
+  "grounding": "thin",
+  "depth_reason": "원문 본문을 가져오지 못하고 메타 정보에만 의존하여 세부 기법이나 지속 가능성 요소가 확인되지 않는다.",
+  "v": 2,
+  "url": "https://www.dezeen.com/2026/09/29/vietnam-national-stadium-rach-chiec/",
+  "original_title": "Populous reveals design for 70,000-seat Vietnamese national stadium",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 0,
+  "fetch": "fetch_error:HTTPError",
+  "cliche_hits": [],
+  "read_at": "2026-09-29 23:11",
+  "research": {
+   "entities": [
+    "Populous",
+    "Rach Chiec stadium"
+   ],
+   "questions": [
+    "호치민 국립 경기장(Rach Chiec 스타디움) 프로젝트의 완공 목표 시점은 언제인가요?",
+    "Populous가 디자인한 Rach Chiec 스타디움의 주요 특징과 지속 가능성 요소는 무엇인가요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "필라델피아를 위한 새로운 경기장 디자인",
+     "url": "https://www.dezeen.com/2026/09/08/76ers-arena-philadelphia-populous-moody-nolan/"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 217
+  },
+  "depth_raw": 2,
+  "depth_v": 2
+ },
+ "archdaily.com/1185817/the-house-of-continum-squelette-design": {
+  "title_ko": "자연의 터 위에 스며든 미니멀 브루탈리즘, 하우스 오브 컨티뉴엄",
+  "summary_ko": "인도 체클라에 완공된 스켈레트 디자인의 주거 공간으로, 1200제곱미터 규모의 대지에 자리 잡았다. 미니멀 브루탈리즘과 바이오필릭 디자인을 바탕으로 주변 생태계와 공명하는 투과성 파빌리온 형태로 구현되었다.",
+  "lens": "자연을 억누르지 않고 대지의 결에 스며드는 투과성 파빌리온의 구조를 제시한다.",
+  "why_now": "건축이 자연을 압도하는 방식에서 벗어나 지역 고유의 생태적 맥락과 결합하는 태도가 주목받는 시점이다.",
+  "mechanism": "비판적 지역주의를 바탕으로 건축물이 풍경을 압도하지 않고 지형과 스며들도록 공간 구문을 재구성했다.",
+  "sensory": "거친 노출 콘크리트의 물성과 주변의 자연 생태계가 맞닿으며 차분하고 묵직한 공기가 공간을 채운다.",
+  "transfer": "자연광과 주변 지형을 인위적으로 가리지 않고 공간 내부로 끌어들이는 개방형 파빌리온 동선으로 활용한다.",
+  "context": "인도 체클라에 위치한 1200제곱미터 규모의 주거 프로젝트로 스켈레트 디자인이 설계를 맡았다.",
+  "findings": [],
+  "keywords": [
+   "브루탈리즘",
+   "파빌리온",
+   "생태건축",
+   "공간구문"
+  ],
+  "evidence": "An Autopoietic Intervention in Minimal Brutalism – The House of Continuum reimagines the spatial syntax of co-living with nature",
+  "kind": "프로젝트",
+  "depth": 2,
+  "grounding": "thin",
+  "depth_reason": "원문 정보가 짧아 구체적 재료나 상세한 작동 방식의 확인이 제한되어 평범한 소개 수준에 머문다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1185817/the-house-of-continum-squelette-design",
+  "original_title": "The House of Continum / Squelette Design",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 1499,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-09-29 23:11",
+  "research": {
+   "entities": [
+    "Squelette Design",
+    "ALA Landscape",
+    "SETU INFRASTRUCTURE"
+   ],
+   "questions": [
+    "스켈레톤 디자인(Squelette Design)이 이 주택 설계에서 추구한 미니멀 브루탈리즘의 구체적인 특징은 무엇인가?",
+    "자연과의 공존을 강조하는 바이오필릭 디자인과 비판적 지역주의가 하우스 오브 컨티뉴엄(The House of Continuum) 프로젝트에 어떻게 적용되었는가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "archdaily.com/1185724/next-practices-live-in-mexico": {
+  "title_ko": "멕시코 디자인 하우스에서 열리는 제6회 넥스트 프랙티스 어워즈",
+  "summary_ko": "아크데일리가 멕시코 디자인 위크 기간 동안 제6회 넥스트 프랙티스 어워즈 출범식을 개최한다. 멕시코시티의 데자인 하우스에서 열리는 이 행사에서는 2026년 수상자 3명과 멕시코 출신 역대 수상자 2명이 라이브 대담을 진행하며 건축의 사회적, 환경적 실천 방안을 논의한다.",
+  "lens": "건축가의 도구와 지식이 어떻게 환경적 실현으로 이어지는지 증명한다.",
+  "why_now": "동시대 건축이 직면한 환경적, 문화적 현실 속에서 신진 실천가들이 확장하는 사회적 역량을 포착해야 한다.",
+  "mechanism": "역대 수상자와 신진 수상자들이 무대에 마주 앉아 실무에서 다루는 구체적 도구와 지식의 실체를 발화하는 방식으로 작동한다.",
+  "sensory": "1970년대풍의 공간 구조를 지닌 멕시코시티의 데자인 하우스 내부에서 건축가들의 목소리와 대담의 현장이 공간의 질감과 만난다.",
+  "transfer": "공간 디자인이나 다큐멘터리 인터뷰 씬에서 인물들의 대화 밀도를 높이기 위해 70년대 건축물 내부의 깊이 있는 원근감을 배경으로 활용한다.",
+  "context": "아크데일리가 주관하는 넥스트 프랙티스 어워즈는 건축의 변화를 이끄는 실천 방안을 조명하며, 이번 행사는 멕시코 디자인 위크의 핵심 플랫폼인 데자인 하우스에서 진행된다.",
+  "findings": [
+   {
+    "text": "데자인 하우스는 페르난도 잭슨이 설계한 1970년대풍의 건축물이다.",
+    "s": 2,
+    "quote": "En esta ocasión, la casa elegida es una obra de Fernando Jackson, con un marcado estilo de los años 70"
+   }
+  ],
+  "keywords": [
+   "건축",
+   "멕시코",
+   "디자인위크",
+   "어워즈"
+  ],
+  "evidence": "ArchDaily invites you to the launch of the 6th edition of its Next Practices Awards.",
+  "kind": "행사·공모",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "행사 출범식 안내 공지로서 정보는 명확하나 구체적 작업의 상세 내용보다는 대담 개요 위주다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1185724/next-practices-live-in-mexico",
+  "original_title": "Next Practices Live in Mexico",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 1165,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-09-29 23:11",
+  "research": {
+   "entities": [
+    "ArchDaily",
+    "Design Week Mexico",
+    "Cesantoni"
+   ],
+   "questions": [
+    "ArchDaily의 Next Practices Awards는 어떤 기준으로 건축가를 선정하며, 이 상이 건축계에서 갖는 의미는 무엇인가요?",
+    "Design Week Mexico는 멕시코시티의 건축 및 디자인 생태계에 어떤 영향을 미치고 있나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Design Week Mexico 2026",
+     "url": "https://designweekmexico.com/?utm_medium=website&utm_source=archdaily.com"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Design House - Design Week Mexico",
+     "url": "https://designweekmexico.com/programa/design-house/?utm_medium=website&utm_source=archdaily.com"
+    },
+    {
+     "n": 3,
+     "type": "공식·1차",
+     "title": "Pisos y recubrimientos de porcelanato | Cesantoni ",
+     "url": "https://www.cesantoni.com.mx/?utm_medium=website&utm_source=archdaily.com"
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "ArchDaily",
+     "url": "https://en.wikipedia.org/wiki/ArchDaily"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "백송의 밀도 속에 심은 140제곱미터의 여름 거처",
+     "url": "https://www.archdaily.com/1185721/a-house-with-one-hundred-pines-luis-barandiaran"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "유토피아와 디스토피아 사이, 기후 전환을 상상하는 법",
+     "url": "https://www.archdaily.com/1185529/between-burning-forests-and-utopian-cities-designing-the-climate-transition"
+    },
+    {
+     "n": 7,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "백만 제곱미터의 생태 축: 마드리드 푸에르타 데 마드리드 도시 계획 공모",
+     "url": "https://www.archdaily.com/1184822/jury-led-design-competition-for-sustainable-and-innovative-urban-planning-proposals-for-the-puerta-de-madrid-area-in-leganes-madrid"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "chars": 5596
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "archdaily.com/1185668/modular-house-with-a-sloping-facade-papundekl-architects": {
+  "title_ko": "기울어진 외관으로 숲을 품은 체코의 단층 모듈러 주택",
+  "summary_ko": "파푼데클 아키텍츠(Papundekl Architects)가 체코 남보헤미아 마을에 설계한 단층 주택이다. 마을 길을 향해서는 지역 농촌 유산을 존중하고, 숲과 개울을 향해서는 대형 유리창을 전면 개방해 실내외의 경계를 허문다. 자전거 타기와 자연 친화적 삶을 원하는 60대 부부를 위해 지어졌다.",
+  "lens": "기울어진 면을 통해 숲의 수직성을 실내의 수평적 시야로 변환하는 건축적 장치다.",
+  "why_now": "도심을 떠나 자연 속에서 일상을 보내려는 시니어 세대의 주거 요구와 모듈러 공법의 효율성이 만나는 방식을 보여준다.",
+  "mechanism": "마을 도로 쪽은 폐쇄적인 외관으로 지역 유산을 존중하고, 반대편 숲과 개울 쪽에는 기울어진 외관과 대형 유리창을 도입해 시선을 자연으로 유도한다.",
+  "sensory": "마을의 소박한 농촌 풍경에서 완전히 돌아서면, 시시각각 변하는 숲의 풍광과 개울의 물소리가 거실 내부로 깊숙이 스며든다.",
+  "transfer": "도로 쪽은 벽체로 시선을 차단하고 반대쪽은 사선으로 개방하는 뷰 프레임 연출을 공간 디자인에 적용할 수 있다.",
+  "context": "체코 보헤미아 지역에 위치한 이 단층 주택은 파푼데클 아키텍츠가 설계했으며, 기울어진 외관과 대형 유리창을 도입해 인접한 숲의 풍경을 실내로 적극적으로 끌어들이는 구조를 취한다.",
+  "findings": [
+   {
+    "text": "체코 보헤미아 지역에 위치한 이 단층 주택은 파푼데클 아키텍츠(Papundekl Architects)가 설계했다.",
+    "s": 1,
+    "quote": "체코 보헤미아 지역에 위치한 이 단층 주택은 파푼데클 아키텍츠(Papundekl Architects)가 설계했다."
+   },
+   {
+    "text": "기울어진 외관과 대형 유리창을 도입해 인접한 숲의 풍경을 실내로 적극적으로 끌어들이는 구조를 취한다.",
+    "s": 1,
+    "quote": "기울어진 외관과 대형 유리창을 도입해 인접한 숲의 풍경을 실내로 적극적으로 끌어들이는 구조를 취한다."
+   }
+  ],
+  "keywords": [
+   "모듈러주택",
+   "파푼데클아키텍츠",
+   "체코건축",
+   "주거공간"
+  ],
+  "evidence": "This single-story family home in a South Bohemian village navigates a dual context: it respects local rural heritage on one side while completely opening up to nature on the other.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "구체적인 모듈러 주택 프로젝트이나 정보가 간결하여 평범한 소개 수준에 머문다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1185668/modular-house-with-a-sloping-facade-papundekl-architects",
+  "original_title": "Modular House with a Sloping Facade / Papundekl Architects",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 1147,
+  "fetch": "ok",
+  "cliche_hits": [
+   "경계를 허"
+  ],
+  "read_at": "2026-09-29 23:12",
+  "research": {
+   "entities": [
+    "Papundekl Architects",
+    "Jan Bárta",
+    "Šimon Bierhanzl",
+    "AGB Bautechnik"
+   ],
+   "questions": [
+    "남보헤미아 마을에 지어진 이 모듈러 주택의 경사형 파사드가 주변 자연경관 및 지역 전통과 어떻게 조화를 이루고 있는가?",
+    "60대 부부의 라이프스타일을 고려하여 실내와 야외를 연결하는 공간 설계는 구체적으로 어떻게 적용되었는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "파푼데클 아키텍츠가 설계한 체코 남부 보헤미아의 기울어진 모듈러 주택",
+     "url": "https://www.dezeen.com/2026/08/29/modular-home-with-sloping-facade-papundekl-architects/"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 207
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "archdaily.com/1185868/danish-architecture-center-celebrates-urbanist-jan-gehls-90th-birthday-with-a-calendar-of-activities-and-an-exhibition": {
+  "title_ko": "얀 겔의 90년, 자동차 도시를 밀어내고 인간의 눈높이를 되찾다",
+  "summary_ko": "덴마크 건축 센터가 도시주의자 얀 겔의 90세 생일을 맞아 인간 중심의 도시 설계를 조명하는 전시 ‘Cities for People’을 개최한다. 1960년대부터 공공 공간과 보행자 중심의 도시 연구를 개척해 온 그의 12가지 품질 기준과 대표작 ‘건물 사이의 삶’을 바탕으로 안전하고 지속 가능한 도시의 조건을 탐구한다.",
+  "lens": "자동차가 지배하던 1960년대 도시의 틈새에서 보행자의 신체와 생물학적 본능을 복원한다.",
+  "why_now": "세계 인구의 70퍼센트가 도시에 거주하게 될 미래를 앞두고, 고립과 정신 건강의 위기 속에서 인간 스케일의 공공 공간이 지닌 생물학적·사회적 가치를 다시 묻는 시점이다.",
+  "mechanism": "건물과 도로를 먼저 그리는 방식에서 벗어나, 사람이 머물고 걷고 만나는 일상의 행동과 본능을 출발점으로 삼아 안전과 안도감을 주는 물리적 환경을 구축한다.",
+  "sensory": "바람과 추위를 막아주는 은신처 같은 공간에서 차가운 아스팔트 대신 보행자의 시선과 호흡에 맞춘 안전한 밀도와 속도감을 체감한다.",
+  "transfer": "공간이나 세트 디자인에서 광활한 부감 샷 대신 인물이 머무는 벤치나 바람을 피하는 모서리 등 신체적 안도감을 주는 1인칭 시점의 동선을 설계에 반영한다.",
+  "context": "덴마크 건축가이자 연구자인 얀 겔은 1965년 심리학자인 아내 잉그리드 겔과 함께 이탈리아에서 사람들이 공공 공간을 이용하는 방식을 기록하며 보행자 중심 도시 설계의 기틀을 다졌다. 2000년 겔 스튜디오를 설립하고 1971년 저서 ‘건물 사이의 삶’을 출간한 이후 세계 각국의 도시 계획에 지대한 영향을 미쳐왔다.",
+  "findings": [
+   {
+    "text": "1965년 얀 겔과 심리학자인 아내 잉그리드는 이탈리아에서 사람들이 공공 공간을 이용하는 방식을 6개월 동안 체계적으로 기록하며 연구를 시작했다.",
+    "s": 1,
+    "quote": "In 1965 my wife, Ingrid, who is a psychologist, and I began observing how people use urban spaces. We spent six months in Italy, where we systematically recorded how people moved, where they sat down, what they avoided, "
+   }
+  ],
+  "keywords": [
+   "얀 겔",
+   "덴마크 건축 센터",
+   "보행자 중심 도시",
+   "도시 설계",
+   "공공 공간"
+  ],
+  "evidence": "A good city is one that takes people as its starting point.",
+  "kind": "전시",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "구체적인 아카이브와 전시 프로그램이 선명하지만 보행자 중심 도시라는 개념 자체가 이미 널리 알려져 있어 적용 범위가 다소 제한적이다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1185868/danish-architecture-center-celebrates-urbanist-jan-gehls-90th-birthday-with-a-calendar-of-activities-and-an-exhibition",
+  "original_title": "Danish Architecture Center Celebrates Urbanist Jan Gehl's 90th Birthday with a Calendar of Activities and an Exhibition",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 6738,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-09-29 23:12",
+  "research": {
+   "entities": [
+    "Jan Gehl",
+    "Danish Architecture Center",
+    "Gehl Studio",
+    "Life Between Buildings",
+    "Jane Jacobs"
+   ],
+   "questions": [
+    "얀 겔(Jan Gehl)이 주장하는 '사람 중심의 도시 설계'를 위한 12가지 품질 기준은 무엇인가요?",
+    "1960년대 당시 도시 계획의 패러다임이 자동차 중심에서 사람 중심으로 변화하게 된 결정적인 계기는 무엇인가요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Jan Gehl: Good Cities Should Feel Like One Big Hug - Danish Architecture Center - DAC",
+     "url": "https://dac.dk/en/magazine/jan-gehl-good-cities-should-feel-like-one-big-hug?utm_medium=website&utm_source=archdaily.com"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Cities for People - Danish Architecture Center - DAC",
+     "url": "https://dac.dk/en/exhibitions/cities-for-people?utm_medium=website&utm_source=archdaily.com"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Jan Gehl",
+     "url": "https://en.wikipedia.org/wiki/Jan%20Gehl"
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "Gehl Company",
+     "url": "https://en.wikipedia.org/wiki/Gehl%20Company"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3
+   ],
+   "chars": 5766
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "archdaily.com/1185838/building-on-volcanic-ground-architectures-response-to-volcanic-landscapes": {
+  "title_ko": "화산의 땅 위에 세우는 집: 불안정한 지형과 건축의 방식",
+  "summary_ko": "화산 지형은 용암이 굳어 새로운 땅이 되고 화산재가 남는 지질학적 변화를 직접 보여준다. 이러한 고립되고 거친 지형은 여전히 주거와 휴식 공간을 끌어들이며, 일상을 변화하는 자연 속에 놓이게 만든다.",
+  "lens": "변화하는 지각 위에 일상을 고정하는 방식에 대한 관찰.",
+  "why_now": "예측 불가능한 자연환경 속에서 인간의 거처가 지니는 지리학적 의미를 되짚어 보게 한다.",
+  "mechanism": "활동 중인 화산 주변의 지형적 특성과 재료의 물성을 고려해 건축물의 입지와 구조를 결정한다.",
+  "sensory": "굳은 용암의 단단한 질감과 오랜 시간 남은 화산재의 거친 입자가 공간의 감각을 지배한다.",
+  "transfer": "불안정한 지형 위에 놓인 구조물의 고립감을 시각적 로케이션 설정에 활용한다.",
+  "context": "원문은 화산 지형의 지질학적 특성과 그곳에 지어지는 건축물의 양상을 다룬다.",
+  "findings": [],
+  "keywords": [
+   "화산지형",
+   "건축구조",
+   "지질학적변화",
+   "자연환경"
+  ],
+  "evidence": "Building on Volcanic Ground: Architecture's Response to Volcanic Landscapes",
+  "kind": "프로젝트",
+  "depth": 2,
+  "grounding": "thin",
+  "depth_reason": "원문의 내용이 짧은 개요 수준이라 구체적인 공법이나 사례 파악이 어렵다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1185838/building-on-volcanic-ground-architectures-response-to-volcanic-landscapes",
+  "original_title": "Building on Volcanic Ground: Architecture's Response to Volcanic Landscapes",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 884,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-09-29 23:12",
+  "research": {
+   "entities": [],
+   "questions": [
+    "화산 지형의 특수한 지질학적 환경에서 건축물이 구조적 안전성을 확보하기 위해 사용하는 주요 공법은 무엇인가?",
+    "화산 지역에 지어진 대표적인 현대 건축물과 그들이 자연재해에 대응한 방식은 어떤 것이 있는가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 2,
+  "depth_v": 2
+ },
+ "wallpaper.com/art/galleries/gaming-inspires-chanels-first-gateway-commission-on-show-at-dib-bangkok": {
+  "title_ko": "방콕 DiB 미술관에 구현된 비디오 게임, 샤넬 게이트웨이 커미션",
+  "summary_ko": "방콕의 신생 미술관 DiB에서 열린 ‘Giving Life’ 전시의 일환으로 나윈 누통의 ‘Project 147’이 공개되었다. 관람객은 각자 아바타를 생성하여 거대 스크린 속 애니메이션 세계를 탐험하며 역사와 자아에 관한 질문을 마주한다. 이는 샤넬 컬처 펀드가 동남아시아 기관과 맺은 첫 주요 파트너십이다.",
+  "lens": "비디오 게임을 트로이 목마로 삼아 관람객을 전시장으로 유인하고, 그 안에서 실존적 질문을 던지며 예술과 대중의 간극을 좁힌다.",
+  "why_now": "디지털 게임의 시각 언어가 전 세계적 공용어가 된 시점에서, 이를 미술관이라는 물리적 공간으로 가져와 공동의 서사를 구축하려는 시도다.",
+  "mechanism": "관람객이 직접 생성한 아바타가 매일 갱신되는 거대 스크린 속 서사에 투입된다. 게임의 참여적 구조를 빌려 관람객이 전시의 능동적 구성원이 되도록 설계했다.",
+  "sensory": "폐철강 창고를 개조한 7,000제곱미터 규모의 공간은 산업적 골조가 그대로 드러나며, 기하학적 동선이 주는 차가운 질감과 게임 속 애니메이션의 화려한 색채가 대비를 이룬다.",
+  "transfer": "전시나 브랜드 공간 연출 시, 관람객의 실시간 데이터를 아바타화하여 대형 스크린에 투사하는 인터랙티브 층을 구성해 보라. 관람객의 참여가 곧 전시의 서사가 되는 구조를 만들 수 있다.",
+  "context": "DiB 미술관은 33세의 퍼랏 오사타누그라가 설립한 사립 미술관으로, 쿨라팟 얀트라사스트가 설계를 맡아 기존 창고의 산업적 맥락을 보존했다. 샤넬은 1920년대 가브리엘 샤넬의 예술 후원 전통을 이어받아 전 세계 15개국에서 50여 개의 프로젝트를 지원하고 있다.",
+  "findings": [
+   {
+    "text": "DiB 미술관은 라마 4세 도로와 수쿰윗 소이 40 사이의 주요 통로에 위치한다.",
+    "s": 1,
+    "quote": "The museum is located between the main throughways of Rama IV Road and Sukhumvit Soi 40."
+   },
+   {
+    "text": "샤넬은 1910년 코코 샤넬이 파리에서 설립한 앵글로-프랑스 럭셔리 패션 하우스이다.",
+    "s": 2,
+    "quote": "Chanel is an Anglo-French luxury fashion house founded in 1910 by Coco Chanel in Paris."
+   }
+  ],
+  "keywords": [
+   "나윈누통",
+   "DiB방콕",
+   "샤넬컬처펀드",
+   "인터랙티브아트",
+   "미술관건축"
+  ],
+  "evidence": "Nawin Nuthong's Project 147, the first Chanel Gateway Commission, sends a small child through a series of animated vignettes in pursuit of a single question: what is history?",
+  "kind": "프로젝트",
+  "depth": 5,
+  "grounding": "full",
+  "depth_reason": "비디오 게임을 예술적 매체로 전유한 구체적 방식과 미술관 건축의 맥락, 샤넬의 후원 철학이 유기적으로 결합된 사례다.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/art/galleries/gaming-inspires-chanels-first-gateway-commission-on-show-at-dib-bangkok",
+  "original_title": "Gaming inspires Chanel’s first Gateway Commission, on show at DiB Bangkok",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 5650,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-09-29 23:12",
+  "research": {
+   "entities": [
+    "Nawin Nuthong",
+    "Chanel",
+    "Miwako Tezuka",
+    "Yana Peel",
+    "Montien Boonma"
+   ],
+   "questions": [
+    "방콕의 신생 미술관 DiB에서 열린 샤넬의 첫 번째 게이트웨이 커미션 프로젝트 'Project 147'의 구체적인 관람객 참여 방식과 비디오 게임 요소를 활용한 예술적 의도는 무엇인가?",
+    "샤넬 컬처 펀드와 DiB 미술관의 파트너십이 동남아시아 현대미술계와 태국 문화 예술 생태계에 미치는 영향은 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "DiB museum of contemporary art",
+     "url": "https://dibbangkok.org/"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Chanel",
+     "url": "https://en.wikipedia.org/wiki/Chanel"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "무지개빛 스펙트럼으로 직조한 동시대 미술의 물성과 색채",
+     "url": "https://www.thisiscolossal.com/2026/02/rainbow-dreams-color-light-book/"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "합판과 레고로 재현한 캉봉가의 샤넬 오트 쿠튀르",
+     "url": "https://www.designboom.com/art/tom-sachs-handmade-31-rue-cambon-plywood-chanel-couture-flagship-new-york/"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "코코 샤넬의 성소, 31번지 캉봉 거리와 리츠 호텔의 미학",
+     "url": "https://www.architecturaldigest.com/story/coco-chanel-at-home-photos"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 2324
+  },
+  "depth_raw": 5,
+  "depth_v": 2
+ },
+ "wallpaper.com/watches-jewellery/joy-bc-exhibition-elisabetta-cipriani-gallery-london": {
+  "title_ko": "조이 본필드-콜롬바라: 유물과 신체를 잇는 금속의 서사",
+  "summary_ko": "런던 엘리자베타 치프리아니 갤러리에서 조이 본필드-콜롬바라의 첫 개인전 ‘Between Ruin and Root’가 열린다. 작가는 금속 주얼리와 조각의 경계를 허무는 20여 점의 작품을 통해 고대 문명과 현대적 서사를 연결한다. 옻칠과 금속 주조 등 다학제적 기법을 결합하여 신체와 감정을 기록하는 오브제를 선보인다.",
+  "lens": "주얼리를 신체에 머무는 조각으로 정의하고, 금속이라는 고정된 재료에 비선형적 시간관을 투영해 유물과 현재의 감각을 잇는다.",
+  "why_now": "선형적 시간관에서 벗어나 과거와 현재를 교차시키는 안데스 우주관적 접근은, 파편화된 현대의 서사를 재조합하는 새로운 조형 문법을 제시한다.",
+  "mechanism": "검게 그을린 은과 금으로 세팅된 다이아몬드를 조합해 파편화된 흉상을 연출하고, 옻칠 기법으로 금속 표면에 깊이 있는 질감을 부여하여 고대의 흔적을 재현한다.",
+  "sensory": "차가운 금속의 무게감과 옻칠 특유의 매끄럽고 깊은 광택이 대비되며, 신체에 닿았을 때 느껴지는 금속의 서늘한 감각이 오브제의 조각적 성격을 강조한다.",
+  "transfer": "금속 오브제 촬영 시, 조명을 낮게 배치해 옻칠의 깊은 어둠과 금속의 하이라이트가 극명하게 대비되는 콘트라스트를 연출하고, 인물 신체 위에서 오브제가 부유하는 듯한 앵글을 활용한다.",
+  "context": "글래스고 예술학교와 왕립예술대학을 거친 작가는 이탈리아와 일본의 장인들과 협업하며 금속 주조와 옻칠을 익혔다. 왕립예술대학 출신인 아멜리아 크로스나 올리버 스티프가 패션과 회화, 가구의 경계를 확장했듯, 본필드-콜롬바라는 주얼리를 매개로 조각과 신체 사이의 관계를 탐구한다.",
+  "findings": [
+   {
+    "text": "조이 본필드-콜롬바라의 작업은 감정적이며 사회적, 정치적 의미를 담고 있다.",
+    "s": 1,
+    "quote": "The work is emotive, socially and politically loaded."
+   },
+   {
+    "text": "작가는 2014년부터 2022년까지 눈물을 주제로 한 연작을 진행하며 취약함을 드러내는 힘을 탐구했다.",
+    "s": 2,
+    "quote": "By transforming an ethereal liquid tear into a hard stone sapphire, I am putting emphasis on the strength it takes to show one’s vulnerabilities."
+   }
+  ],
+  "keywords": [
+   "조이 본필드-콜롬바라",
+   "금속 조각",
+   "옻칠 기법",
+   "비선형적 시간",
+   "엘리자베타 치프리아니"
+  ],
+  "evidence": "My pieces oscillate between jewellery, sculpture and talisman",
+  "kind": "전시",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "작가의 철학적 배경과 구체적인 제작 기법이 명확히 제시되었으며, 주얼리를 조각으로 치환하는 연출적 장치가 뚜렷하다.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/watches-jewellery/joy-bc-exhibition-elisabetta-cipriani-gallery-london",
+  "original_title": "Joy BC’s jewellery is ‘a love letter to materiality, storytelling and craft’, on show in London",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 2341,
+  "fetch": "ok",
+  "cliche_hits": [
+   "경계를 허"
+  ],
+  "read_at": "2026-09-29 23:12",
+  "research": {
+   "entities": [
+    "Joy Bonfield-Colombara",
+    "Elisabetta Cipriani Gallery",
+    "Glasgow School of Art",
+    "Royal College of Art"
+   ],
+   "questions": [
+    "조이 본필드-콜롬바라가 사용하는 일본의 우루시(Urushi) 옻칠 기법은 금속 주얼리 제작에 어떻게 결합되는가?",
+    "작가가 언급한 '안데스 우주관(Andean Cosmovision)'과 같은 비선형적 시간관이 그녀의 주얼리 디자인 철학에 어떤 영향을 미쳤는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "JOY BC - Joy Bonfield – Colombara",
+     "url": "https://joybc.co.uk/"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Precious Tears - JOY BC",
+     "url": "https://joybc.co.uk/category/work/precious-tears"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Glasgow School of Art",
+     "url": "https://en.wikipedia.org/wiki/Glasgow%20School%20of%20Art"
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "Royal College of Art",
+     "url": "https://en.wikipedia.org/wiki/Royal%20College%20of%20Art"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "아멜리아 크로스: 테일러링과 회화 사이, 꿰맨 회화의 감각",
+     "url": "https://www.wallpaper.com/art/exhibitions-shows/amelia-cross-rules-for-disappearance-incubator-london-interview"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "올리버 스티프, 비비안 웨스트우드 데드스탁으로 직조한 패션 가구",
+     "url": "https://www.dezeen.com/2026/09/07/oliver-stiff-fashion-furniture-chairs/"
+    },
+    {
+     "n": 7,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "유귀미가 기록한 서울, 도시의 에너지와 정적 사이를 유영하는 시선",
+     "url": "https://www.wallpaper.com/travel/locals-guide-seoul-guimi-you"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "chars": 5537
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "itsnicethat.com/articles/nomka-enkhee-art-illustration-discover-290926": {
+  "title_ko": "일상의 이음새를 비트는 필기체적 드로잉, 놈카 엔키",
+  "summary_ko": "밀워키 기반의 예술가 놈카 엔키(Nomka Enkhee)는 몽골에서 익힌 필기체의 유려한 흐름을 차용해 일상 사물을 기발한 캐릭터로 변주한다. 그는 드로잉을 넘어 출판사 이.에스.알 북스(e.s.r books)를 통해 가구와 전시 공간까지 매체를 확장하며 사물의 조각적 잠재력을 탐구한다.",
+  "lens": "필기체의 유연한 연결성을 드로잉의 구조로 치환해, 고정된 사물의 형태를 허물고 그 사이에 숨은 비일상적 서사를 끄집어낸다.",
+  "why_now": "디지털 환경에서 잊힌 필기체의 물리적 리듬을 시각적 언어로 복원해, 규격화된 일상 사물에 생동감을 부여하는 방식이 유효하다.",
+  "mechanism": "필기체의 획이 이어지듯 형태를 변형하고, 드릴이나 망치 같은 일상 도구를 인체와 결합해 사물의 고유한 기능을 전복하는 방식을 취한다.",
+  "sensory": "단순하고 거친 선으로 묘사된 캐릭터들이 벽돌이나 공구와 뒤섞이며 건조하면서도 유머러스한 물성을 드러낸다.",
+  "transfer": "콘티 작업 시 피사체의 고유 기능을 해체하고, 필기체의 곡선적 흐름을 따라 서로 다른 사물을 연결하는 몽타주 기법을 시도할 수 있다.",
+  "context": "놈카 엔키는 멤피스 그룹(Memphis Group)의 나탈리 뒤 파스키에(Nathalie Du Pasquier)와 샹탈 아커만(Chantal Akerman)의 작업에서 영감을 받는다. 이는 사물을 고정된 기능체로 보지 않고 조각적 가능성을 지닌 유기적 대상으로 해석하는 태도와 맞닿아 있다.",
+  "findings": [
+   {
+    "text": "나탈리 뒤 파스키에는 멤피스 그룹의 창립 멤버로서 초기에는 가구, 직물, 의류 디자인에 주력했다.",
+    "s": 1,
+    "quote": "Nathalie Du Pasquier (born 1957) is a Milan-based artist and designer mostly known for her work as a founding member of the Memphis Group. Her early body of work includes furniture, textiles, clothing designs and jewelry"
+   },
+   {
+    "text": "샹탈 아커만은 2022년 사이트 앤 사운드 선정 역사상 가장 위대한 영화 1위에 오른 '잔느 딜망'의 감독이다.",
+    "s": 2,
+    "quote": "The second of these was ranked the greatest film of all time in Sight & Sound magazine's 2022 \"Greatest Films of All Time\" critics poll, making her the first woman to top the poll."
+   }
+  ],
+  "keywords": [
+   "놈카 엔키",
+   "필기체",
+   "오브제",
+   "조각적 드로잉",
+   "비일상"
+  ],
+  "evidence": "Nomka’s characters morph and glide between different physicalities – one moment they’re a person, the next they’re made out of a stack of bricks!",
+  "kind": "작가·인터뷰",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "필기체와 드로잉의 연결 고리를 분석했으나, 실제 작업의 구체적인 조형적 실험 사례가 보충되면 더 깊은 분석이 가능하다.",
+  "v": 2,
+  "url": "https://www.itsnicethat.com/articles/nomka-enkhee-art-illustration-discover-290926",
+  "original_title": "Nomka Enkhee’s whimsical cartoons are made up of mundane objects inspired by cursive handwriting",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 3881,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-09-29 23:12",
+  "research": {
+   "entities": [
+    "Nomka Enkhee",
+    "e.s.r books",
+    "Nathalie Du Pasquier",
+    "Chantal Akerman",
+    "Memphis Group"
+   ],
+   "questions": [
+    "Nomka Enkhee의 드로잉 스타일에서 필기체(cursive handwriting)의 기능적 특성이 어떻게 시각적으로 구현되는가?",
+    "e.s.r books가 지향하는 '책은 조각이다'라는 철학이 Nomka Enkhee의 일상적 사물에 대한 관점과 어떻게 연결되는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Nathalie Du Pasquier",
+     "url": "https://en.wikipedia.org/wiki/Nathalie%20Du%20Pasquier"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Chantal Akerman",
+     "url": "https://en.wikipedia.org/wiki/Chantal%20Akerman"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "페이 투굿의 '페이스 앤 피겨스', 산업용 타일에 새긴 수공예적 신체",
+     "url": "https://www.wallpaper.com/design-interiors/faye-toogood-mutina-tiles-faces-and-figures"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "미켈레 데 루키가 설계한 요트, 마젤라노 27M의 조각적 인테리어",
+     "url": "https://www.wallpaper.com/design-interiors/azimut-magellano-27m-superyacht-michele-de-lucchi-amdl-circle"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 1453
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "wallpaper.com/tech/polaroid-mod": {
+  "title_ko": "폴라로이드 모드, 다이얼로 제어하는 네 가지 아날로그 변주",
+  "summary_ko": "폴라로이드가 새롭게 선보인 인스턴트 카메라 모드는 1972년 SX-70부터 이어진 아날로그 폼팩터를 계승하면서도, 촬영 모드를 다이얼로 직접 선택하는 직관적인 인터페이스를 도입했다. 스플릿 샷, 모션 프리즈, 이중 노출, 장노출 등 네 가지 모드를 통해 인화 과정의 예측 불가능성을 창의적인 도구로 활용한다.",
+  "lens": "디지털 메뉴를 배제하고 촬영 모드를 물리 다이얼로 배치해, 인화라는 결과물에 도달하기 전의 실험적 과정을 신체적 조작으로 치환했다.",
+  "why_now": "속도와 완벽함을 요구하는 디지털 환경에서, 의도된 불확실성과 물리적 인화라는 아날로그의 가치가 역설적인 창의성으로 기능한다.",
+  "mechanism": "내장된 4단계 물리 다이얼은 메뉴 진입 없이 즉각적인 모드 전환을 지원하며, 플래시와 셔터 속도 조합으로 다중 노출과 빛의 궤적을 제어한다.",
+  "sensory": "손끝에 닿는 다이얼의 기계적 저항감과 셔터가 작동한 뒤 물리적 필름이 출력되는 과정에서 발생하는 고유한 질감과 기다림의 시간이 핵심이다.",
+  "transfer": "콘티 작업 시, 화면 전환 없이 하나의 숏 안에서 다중 노출이나 모션 블러를 구현하는 물리적 장치로 활용하여 현장감 있는 실험적 연출을 시도할 수 있다.",
+  "context": "폴라로이드는 1972년 SX-70 출시 이후 인스턴트 사진의 표준을 정립해 왔으며, 이번 모드 모델은 기존 제너레이션 3 라인업의 포인트 앤 슛 편리함에 창의적 조작성을 더한 확장판이다.",
+  "findings": [
+   {
+    "text": "폴라로이드 모드는 네 가지 창의적 모드를 탑재한 인스턴트 카메라다.",
+    "s": 1,
+    "quote": "Four creative modes. One easy-to-use dial. The camera for real analog creativity is in early release"
+   }
+  ],
+  "keywords": [
+   "폴라로이드",
+   "아날로그",
+   "인스턴트 카메라",
+   "물리 다이얼",
+   "다중 노출"
+  ],
+  "evidence": "four dedicated creative modes to dial in",
+  "kind": "제품·오브제",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "기존 라인업의 연장선에 있는 제품이나, 물리 다이얼을 통한 조작성 강화라는 명확한 설계 의도가 확인된다.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/tech/polaroid-mod",
+  "original_title": "The new Polaroid Mod instant camera wants to shake up your point-and-shoot game",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 2698,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-09-29 23:12",
+  "research": {
+   "entities": [
+    "Polaroid",
+    "SX-70",
+    "Stine Bauer Dahlberg",
+    "Jonathan Bell"
+   ],
+   "questions": [
+    "폴라로이드 모드(Mod) 카메라에 새로 도입된 4가지 촬영 모드는 구체적으로 어떻게 작동하는가?",
+    "새로운 폴라로이드 모드는 기존 폴라로이드 즉석 카메라 라인업과 비교해 디자인과 기능 면에서 어떤 차별점을 가지는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Polaroid UK | Official Online Store",
+     "url": "https://polaroid.pxf.io/c/221109/2008335/24813?subId1=wallpaper-us-2474282017982352643&sharedId=wallpaper-us&u=https%3A%2F%2Fwww.polaroid.com%2Fen_gb"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Polaroid UK | Official Online Store",
+     "url": "https://polaroid.pxf.io/c/221109/2008335/24813?subId1=wallpaper-us-1233171865424694405&sharedId=wallpaper-us&u=https%3A%2F%2Fwww.polaroid.com%2Fen_gb"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Polaroid SX-70",
+     "url": "https://en.wikipedia.org/wiki/Polaroid%20SX-70"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "알루미늄의 빛과 효율, 루메의 가장 가벼운 카라반 레인저",
+     "url": "https://www.wallpaper.com/transportation/lume-ranger-caravan"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "글로벌 디자인의 향방을 가르는 기준, iF 디자인 어워드 2027",
+     "url": "https://design-milk.com/what-the-if-design-award-reveals-about-where-global-design-is-heading-next/"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "스피도 아이큐, 수영의 궤적을 시각화하는 데이터 웨어러블",
+     "url": "https://www.wallpaper.com/tech/speedo-iq-is-a-new-system-that-brings-tracking-and-metrics-to-the-world-of-serious-swimming"
+    }
+   ],
+   "used": [
+    1,
+    3
+   ],
+   "chars": 4093
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "minimalissimo.com/articles/mori-house-by-aires-mateus-ma-co": {
+  "title_ko": "콘크리트의 부드러운 일상, 마운트 마사의 모리 하우스",
+  "summary_ko": "마누엘 아이레스 마테우스와 멜버른의 MA+Co가 협업한 모리 하우스는 호주 모닝턴 반도에 위치한다. 십자형 평면을 따라 배치된 파빌리온들은 안뜰과 정원을 중심으로 연결되며, 현장 타설 콘크리트를 주재료로 사용하여 육중한 물성을 일상 공간으로 끌어들였다.",
+  "lens": "육중한 콘크리트 벽체를 십자형으로 교차시켜, 거대한 구조물 대신 거주자의 동선을 따라 리듬감 있게 열리고 닫히는 공간을 구축했다.",
+  "why_now": "무거운 재료를 사용하면서도 공백과 안뜰을 통해 공간의 밀도를 조절하는 방식은, 밀집된 도심 주거에서 조망과 프라이버시를 동시에 확보하는 대안이 된다.",
+  "mechanism": "복도를 없애고 파빌리온 사이를 직접 연결해 거주자의 움직임이 곧 공간의 전개가 되도록 설계했다. 천장의 슬림한 개구부는 콘크리트 매스 내부 깊숙이 빛을 끌어들이는 채광 장치로 작동한다.",
+  "sensory": "거친 현장 타설 콘크리트의 질감과 부드러운 목재, 스테인리스 스틸의 대비가 시각적 긴장감을 만든다. 중앙의 조형적인 콘크리트 계단은 옥상 전망대로 이어지며 포트 필립 베이의 풍경을 수직으로 확장한다.",
+  "transfer": "콘크리트 벽을 단순히 구획 용도로 쓰지 않고, 빛이 닿는 각도에 따라 질감이 변하는 스크린으로 활용해 숏의 깊이감을 더하라.",
+  "context": "포르투갈 건축 사무소 아이레스 마테우스는 절제된 조형미를 바탕으로 현장 타설 콘크리트의 물성을 강조하는 작업을 이어왔다. 모리 하우스는 일본의 정적인 공간 구성과 호주 해안의 지형적 특성을 결합해 기존의 콘크리트 주택이 가진 무거운 이미지를 일상적인 영역으로 전환했다.",
+  "findings": [
+   {
+    "text": "모리 하우스는 십자형 평면으로 나뉜 네 개의 파빌리온이 복도 없이 서로 연결되는 구조를 가진다.",
+    "s": 1,
+    "quote": "십자형 평면으로 나뉜 네 개의 파빌리온은 복도 없이 서로 연결되며, 현장 타설 콘크리트와 목재만을 사용해 공간의 물성을 강조한다."
+   }
+  ],
+  "keywords": [
+   "아이레스마테우스",
+   "콘크리트주택",
+   "공간구성",
+   "모닝턴반도"
+  ],
+  "evidence": "Its cross-shaped plan creates a measured rhythm of enclosure and release, with each space maintaining a direct relationship with the landscape.",
+  "kind": "프로젝트",
+  "depth": 5,
+  "grounding": "full",
+  "depth_reason": "건축적 장치인 십자형 평면과 채광 방식이 명확하며, 재료의 물성을 일상으로 끌어들인 해석이 구체적이다.",
+  "v": 2,
+  "url": "https://minimalissimo.com/articles/mori-house-by-aires-mateus-ma-co",
+  "original_title": "Mori House by Aires Mateus & MA+Co",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 1470,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-09-29 23:12",
+  "research": {
+   "entities": [
+    "Aires Mateus",
+    "Manuel Aires Mateus",
+    "MA+Co",
+    "Mori House"
+   ],
+   "questions": [
+    "Aires Mateus의 건축 철학에서 콘크리트라는 재료가 가지는 상징적 의미는 무엇인가?",
+    "Mori House의 설계에 반영된 일본적 공간 구성 방식과 호주 해안 지형의 조화는 어떻게 이루어졌는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "세 문화의 교차점, 모닝턴 반도의 콘크리트 파빌리온 모리 하우스",
+     "url": "https://www.yellowtrace.com.au/aires-mateus-ma-co-mori-house-mount-martha-mornington-peninsula-architecture/"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 326
+  },
+  "depth_raw": 5,
+  "depth_v": 2
+ },
+ "itsnicethat.com/features/ones-to-watch-talent-showcase-launch-2026-290926": {
+  "title_ko": "잇츠 나이스 댓이 선정한 2026년 주목할 신진 크리에이터 72인",
+  "summary_ko": "미디어 플랫폼 잇츠 나이스 댓(It’s Nice That)이 전 세계 16개국에서 활동하는 신진 크리에이터 72인을 선정해 발표했다. 그래픽 디자인, 일러스트레이션, 애니메이션, 영화, 사진 등 다양한 분야의 신예를 망라하며, 전년 대비 두 배 늘어난 지원자 중 시각적 완성도와 독창적인 기획력을 기준으로 엄선했다.",
+  "lens": "동시대 비주얼 문법의 최전선을 보여주는 72인의 포트폴리오를 통해 차세대 크리에이티브의 지향점을 확인할 수 있다.",
+  "why_now": "산업 전반에서 신선한 시각적 언어를 찾는 수요가 급증하는 가운데, 검증된 신예를 발굴하는 큐레이션은 실무자에게 유효한 데이터베이스가 된다.",
+  "mechanism": "분야별 필터링 기능을 갖춘 아카이브 디렉토리를 통해, 개별 작업자의 포트폴리오를 시각적 스타일과 매체별로 즉각 대조할 수 있도록 구성했다.",
+  "sensory": "디지털 환경에서 구현된 다채로운 색감과 레이아웃, 영상의 움직임이 강조된 포트폴리오들이 시각적 자극을 제공한다.",
+  "transfer": "광고나 영상 프로젝트의 협업 대상을 찾을 때, 이들의 포트폴리오를 스타일별 레퍼런스 리스트로 활용해 제작물의 톤앤매너를 구체화할 수 있다.",
+  "context": "잇츠 나이스 댓은 애플과 협력해 크리에이티브 비즈니스 토크 시리즈를 여는 등 창작자와 업계의 연결을 지속적으로 시도해 왔다. 이번 발표는 이전의 비즈니스 실무 중심 행보와 맞물려, 신진 작가들이 실무 현장에 진입하는 가교 역할을 수행한다.",
+  "findings": [
+   {
+    "text": "잇츠 나이스 댓은 애플과 협력하여 크리에이티브 비즈니스 토크 시리즈인 메이드 포 비즈니스를 개최한다.",
+    "s": 1,
+    "quote": "애플의 투데이 앳 애플과 미디어 플랫폼 잇츠 나이스 댓이 협력하여 크리에이티브 비즈니스 토크 시리즈 메이드 포 비즈니스를 개최한다."
+   }
+  ],
+  "keywords": [
+   "신진 크리에이터",
+   "잇츠나이스댓",
+   "포트폴리오",
+   "비주얼디자인"
+  ],
+  "evidence": "We were so impressed by the visual standard, original thinking, innovative ideation and keen creative eyes behind all of this year’s projects and portfolios.",
+  "kind": "리스트·라운드업",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "신진 작가 리스트를 제공하는 정보성 기사로, 실무적 활용도는 높으나 분석적 깊이는 제한적이다.",
+  "v": 2,
+  "url": "https://www.itsnicethat.com/features/ones-to-watch-talent-showcase-launch-2026-290926",
+  "original_title": "The next generation of creative talent: Introducing It’s Nice That’s Ones to Watch 2026",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 2432,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-09-29 23:12",
+  "research": {
+   "entities": [
+    "It's Nice That",
+    "Nomka Enkhee",
+    "Horah Inc"
+   ],
+   "questions": [
+    "It's Nice That의 'Ones to Watch 2026'에 선정된 72명의 크리에이터는 어떤 기준으로 선발되었는가?",
+    "이번 'Ones to Watch 2026'에 참여한 16개국의 신진 크리에이터들이 보여주는 주요 창작 트렌드는 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "애플과 잇츠 나이스 댓이 여는 크리에이티브 비즈니스 토크 시리즈",
+     "url": "https://www.itsnicethat.com/articles/made-for-business-today-at-apple-panel-series-sponsored-content-280926"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 254
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "archdaily.com/1185957/farshid-moussavi-receives-the-2026-soane-medal": {
+  "title_ko": "파시드 무사비, 건축과 이론의 실천으로 2026 소안 메달 수상",
+  "summary_ko": "이란 태생의 건축가이자 교육자인 파시드 무사비가 건축 실무와 이론에 기여한 공로로 2026년 소안 메달 수상자로 선정되었다. 런던 로열 아카데미에서 메달 수여와 함께 공개 강연이 진행될 예정이며, 이 상은 건축과 사회의 역할을 조명해온 이들에게 수여된다.",
+  "lens": "재료와 공간의 구조적 실험을 이론과 실무로 증명해온 건축가의 궤적.",
+  "why_now": "존 소안 뮤지엄이 수여하는 이 상은 동시대 건축의 사회적 역할과 비판적 실천을 조명하는 중요한 지표다.",
+  "mechanism": "문화 시설부터 주거 단지, 리테일 인테리어까지 영역을 확장하며 재료와 프로그램의 관계를 해부한다.",
+  "sensory": "몬펠리에의 집합 주택과 클리블랜드 현대미술관에서 드러나는 기하학적 매스의 물성.",
+  "transfer": "공간을 관통하는 동선과 프로그램의 배치를 통해 건축적 내러티브를 시각화하는 방식.",
+  "context": "파시드 무사비는 2011년 파시드 무사비 아키텍처를 설립했고 하버드대학교 디자인대학원 교수이자 저술가로 활동하고 있다.",
+  "findings": [],
+  "keywords": [
+   "소안메달",
+   "파시드무사비",
+   "건축이론",
+   "공간실천"
+  ],
+  "evidence": "Farshid Moussavi has been awarded the 2026 Soane Medal for her contributions to architectural practice, history, and theory.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "건축가의 주요 수상 소식과 실천적 궤적을 명확히 전달하나 새로운 기법의 상세 분석은 제한적이다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1185957/farshid-moussavi-receives-the-2026-soane-medal",
+  "original_title": "Farshid Moussavi Receives the 2026 Soane Medal",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 3732,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-09-29 23:12",
+  "research": {
+   "entities": [
+    "Farshid Moussavi",
+    "Farshid Moussavi Architecture",
+    "Sir John Soane's Museum",
+    "Ismaili Center Houston",
+    "Renée Gailhoustet"
+   ],
+   "questions": [
+    "파시드 무사비가 수상한 2026 손 메달(Soane Medal)은 건축 분야에서 어떤 역사적, 사회적 의미를 갖는가?",
+    "파시드 무사비의 주요 건축 프로젝트와 이론적 저술은 현대 건축과 도시 주거 환경에 어떤 영향을 미쳤는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Sir John Soane's Museum",
+     "url": "https://www.soane.org/?utm_medium=website&utm_source=archdaily.com"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Harrods Toys Department, London | FARSHID MOUSSAVI OBE RA RIBA",
+     "url": "https://www.farshidmoussavi.com/fmaprojects/harrods-toys-department-london/?utm_medium=website&utm_source=archdaily.com"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Farshid Moussavi",
+     "url": "https://en.wikipedia.org/wiki/Farshid%20Moussavi"
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "Sir John Soane's Museum",
+     "url": "https://en.wikipedia.org/wiki/Sir%20John%20Soane%27s%20Museum"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "타마라 드 렘피카의 아르데코를 입은 빅토리아 베컴 뉴욕 플래그십",
+     "url": "https://www.wallpaper.com/fashion-beauty/victoria-beckham-new-york-soho-store"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "파시드 무사비, 2026년 건축 소안 메달 수상",
+     "url": "https://www.dezeen.com/2026/09/28/farshid-moussavi-2026-soane-medal/"
+    }
+   ],
+   "used": [
+    6
+   ],
+   "chars": 7068
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "itsnicethat.com/articles/horah-inc-graphic-design-discover-290926": {
+  "title_ko": "오라 인크: 빈티지 카툰과 레트로 타이포그래피로 구축하는 다층적 시각 언어",
+  "summary_ko": "오라 인크(Horah Inc)는 4인조 다학제 크리에이티브 스튜디오로, 빈티지 애니메이션과 60~80년대 포스터에서 영감을 얻어 그래픽 디자인과 모션 작업을 수행한다. 이들은 미르치(Mirchi) 럼의 브랜딩에서 원재료의 특징을 픽토그램으로 시각화하고, 온 러닝(On Running)의 트레이딩 카드 프로젝트에서는 포켓몬과 디지몬의 수집형 카드 형식을 차용해 선수들의 퍼포먼스를 재구성했다.",
+  "lens": "빈티지한 미감을 현대의 디지털 텍스처와 결합하여, 익숙한 레퍼런스를 새로운 정보 전달 체계로 치환하는 감각이 돋보인다.",
+  "why_now": "디지털 매체 속에서 아날로그적 질감과 향수를 찾는 흐름을 넘어, 이를 정보 디자인의 구조적 기법으로 활용하는 스튜디오의 태도가 유효하다.",
+  "mechanism": "미르치 프로젝트에서는 블록 형태의 인쇄 기법과 픽토그램을 사용해 향신료의 속성을 시각화했고, 온 러닝 작업에서는 사진과 타이포그래피의 레이어링, 반사 재질을 활용해 수집형 카드의 물성을 구현했다.",
+  "sensory": "색감이 뚜렷한 블록 형태의 그래픽과 아날로그적인 인쇄 질감, 그리고 카드의 반사광이 어우러져 시각적인 밀도를 높인다.",
+  "transfer": "광고나 영상 콘티 제작 시, 특정 브랜드의 정체성을 픽토그램화하거나 인물 데이터를 트레이딩 카드 형태의 레이아웃으로 구조화하여 정보의 가독성과 재미를 동시에 확보할 수 있다.",
+  "context": "오라 인크는 데프톤즈(Deftones)와 원오트릭스 포인트 네버(Oneohtrix Point Never) 같은 음악적 레퍼런스를 창작의 원천으로 삼는다. 이는 하드코어 음악 씬의 미학이 디지털 네이티브 세대의 디자인 언어로 확장되는 최근의 흐름과 궤를 같이한다.",
+  "findings": [
+   {
+    "text": "데프톤즈는 1988년 캘리포니아 새크라멘토에서 결성된 얼터너티브 메탈 밴드다.",
+    "s": 1,
+    "quote": "Deftones is an American alternative metal band formed in Sacramento, California, in 1988."
+   },
+   {
+    "text": "원오트릭스 포인트 네버는 2013년 워프 레코즈와 계약한 이후 평단의 호평을 받는 앨범들을 발표했다.",
+    "s": 2,
+    "quote": "He signed with Warp Records in 2013, and has since released studio albums on the label to critical praise."
+   }
+  ],
+  "keywords": [
+   "오라 인크",
+   "그래픽 디자인",
+   "레트로 미학",
+   "시각 정체성"
+  ],
+  "evidence": "Horah Inc really wears its inspirations on its sleeve, that’s why you’ll see vintage-styled cartoons, warm colours and retro typography referenced across its wide-ranging portfolio.",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "스튜디오의 구체적인 작업물과 그에 담긴 시각적 방법론을 명확하게 분석하여 실무적 적용 가능성이 높다.",
+  "v": 2,
+  "url": "https://www.itsnicethat.com/articles/horah-inc-graphic-design-discover-290926",
+  "original_title": "Horah Inc lets its love for Pokémon and typography soar in identities for spiced rum, trading cards and book design",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 3609,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-09-29 23:12",
+  "research": {
+   "entities": [
+    "Horah Inc",
+    "Deftones",
+    "Oneohtrix Point Never",
+    "Stereolab",
+    "Wim Crouwel"
+   ],
+   "questions": [
+    "Horah Inc 스튜디오가 포켓몬과 디지몬의 어떤 시각적 요소를 'On Running'의 트레이딩 카드 프로젝트에 녹여내었나요?",
+    "Wim Crouwel의 타이포그래피 스타일이 'Dehors Dedans Partout'의 30주년 북 디자인에 어떻게 구체적으로 반영되었나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Deftones",
+     "url": "https://en.wikipedia.org/wiki/Deftones"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Oneohtrix Point Never",
+     "url": "https://en.wikipedia.org/wiki/Oneohtrix%20Point%20Never"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "하드코어 페스티벌 아웃브레이크가 증명한 얼터너티브 패션의 다층적 진화",
+     "url": "https://www.dazeddigital.com/fashion/article/70874/1/outbreak-festival-2026-photos-of-alternative-fashion-fans-hardcore-punk?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=photos-of-the-alt-fashion-fans-at-hardcore-festival-outbreak"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3
+   ],
+   "chars": 2715
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "coolhunting.com/buy/mushroom-chips-six-pack": {
+  "title_ko": "일상의 틈을 메우는 여덟 가지 사물들",
+  "summary_ko": "쿠보기 타타미의 휴대용 매트부터 하우스 오브 에러의 자수 후드까지, 일상의 감각을 정교하게 다듬는 여덟 가지 오브제를 소개한다. 니콘의 Z5IIC 카메라와 아크테릭스·빔즈 협업 컬렉션 등 기술적 성능과 미학적 완성도를 결합한 제품들이 포함된다. 이들은 각자의 영역에서 기능적 편의를 넘어 사용자의 태도와 환경에 개입한다.",
+  "lens": "사물은 단순한 도구가 아니라 사용자가 시간을 대하는 방식을 규정하는 물리적 장치로 작동한다.",
+  "why_now": "디지털 과잉 시대에 물리적 접촉과 수공예적 디테일이 주는 감각적 신뢰가 다시금 중요해지고 있다.",
+  "mechanism": "17시간 동안 80만 번의 자수를 놓은 후드처럼, 과도한 공정의 투입은 제품에 고유한 물성과 서사를 부여하여 단순 소비재 이상의 가치를 만든다.",
+  "sensory": "타타미 특유의 거친 질감, 24.5 메가픽셀 센서가 포착하는 깊이감, 바오밥 오일이 입술 위에서 미끄러지는 매끄러운 감각이 대비를 이룬다.",
+  "transfer": "영상 촬영 시 소품으로 타타미 매트를 배치해 인물의 시선을 강제로 낮추거나, 고성능 장비의 인터페이스를 캐주얼 모드로 전환하여 연출의 호흡을 조절할 수 있다.",
+  "context": "1740년에 설립된 쿠보기 타타미는 전통 공예를 현대적 라이프스타일 제품으로 이식하고 있다. 니콘은 Z5IIC를 통해 플래그십 Z9의 엔진을 보급형 바디에 이식하며 기술의 대중화를 시도한다.",
+  "findings": [
+   {
+    "text": "니콘은 1917년 일본광학공업주식회사로 설립되어 광학 기기를 제조해왔으며, 2010년대 이후 헬스케어 및 디지털 제조 분야로 영역을 확장했다.",
+    "s": 1,
+    "quote": "Founded on July 25, 1917 as Nippon Kōgaku Kōgyō Kabushikigaisha... Since the 2010s, Nikon has expanded beyond its traditional imaging and precision-equipment businesses into healthcare, industrial technologies and digita"
+   },
+   {
+    "text": "벨킨은 캘리포니아에 본사를 둔 기업으로 무선 충전기, 파워 뱅크 등 모바일 연결 장치를 생산한다.",
+    "s": 2,
+    "quote": "Belkin International, Inc., is an American consumer electronics company headquartered in El Segundo, California. It produces mobile and computer connectivity devices and peripherals for consumer and commercial use."
+   }
+  ],
+  "keywords": [
+   "오브제",
+   "공예",
+   "인터페이스",
+   "물성",
+   "라이프스타일"
+  ],
+  "evidence": "The “C” in the new Nikon Z5IIC stands for “casual” and incorporates scene modes for the first time in any Nikon full-frame camera.",
+  "kind": "리스트·라운드업",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "다양한 제품군을 나열하는 라운드업 형태이나, 각 사물의 기능적 특징과 맥락을 선명하게 짚어내고 있다.",
+  "v": 2,
+  "url": "https://coolhunting.com/buy/mushroom-chips-six-pack/",
+  "original_title": "Mushroom Chips (six pack)",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 9000,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-09-29 23:13",
+  "research": {
+   "entities": [
+    "Popadelics",
+    "Kuboki Tatami",
+    "Nikon",
+    "Belkin"
+   ],
+   "questions": [
+    "쿠보기 타타미(Kuboki Tatami)는 어떤 역사와 전통을 가지고 타타미 제품을 현대에 맞게 재해석하고 있는가?",
+    "니콘의 새로운 풀프레임 미러리스 카메라 Z5IIC는 기존 보급형 모델과 비교하여 어떤 차별점을 가지는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Nikon",
+     "url": "https://en.wikipedia.org/wiki/Nikon"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Belkin",
+     "url": "https://en.wikipedia.org/wiki/Belkin"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "일상의 기록을 위한 풀프레임, 니콘 Z5IIC와 빔즈 협업 25주년 컬렉션",
+     "url": "https://coolhunting.com/buy/z5iic-camera/"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "기술과 일상을 잇는 여덟 가지 오브제: 벨킨부터 보치까지",
+     "url": "https://coolhunting.com/buy/boostcharge-pro-magnetic-charging-power-bank-10k-cable/"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "현미경으로 포착한 생명의 리듬, 제16회 니콘 스몰 월드 인 모션",
+     "url": "https://www.thisiscolossal.com/2026/09/2026-nikon-small-world-in-motion-video-competition/"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "chars": 2625
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "dazeddigital.com/art-photography/article/71059/1/john-yuyi-nude-aeroplane-bathroom-selfies-mode-zine-nudes": {
+  "title_ko": "구름 위 비행기 화장실, 존 유이의 누드 아카이브",
+  "summary_ko": "사진가 존 유이가 비행기 화장실에서 촬영한 누드 셀카 아카이브를 담은 두 번째 진 에어로플레인 모드 2를 출간했다. 장시간 비행의 단절감과 고립 속에서 소품을 배제하고 아이폰 0.5배압 초광각 렌즈의 왜곡과 화장실 내부 구조를 활용해 신체를 기록했다.",
+  "lens": "시속 500마일의 밀폐된 비행기 화장실을 사적인 스튜디오로 삼아 신체와 디지털 정체성의 긴장을 포착한다.",
+  "why_now": "아이폰 울트라 와이드 렌즈가 보편화된 시기, 제한된 공간과 규격화된 프레임 안에서 신체를 변형하고 기록하는 태도는 모바일 시대의 셀프 포트레이트 형식을 새롭게 환기한다.",
+  "mechanism": "형광등 빛이 내리쬐는 좁은 화장실 내부에서 거울 반사와 0.5배율 광각 렌즈의 왜곡을 활용해 신체의 특정 부위를 강조하거나 가린다.",
+  "sensory": "임상적인 형광등 빛 아래 차가운 기내 화장실의 금속성과 좁은 공간에서 오는 극단적인 밀폐감이 화면을 지배한다.",
+  "transfer": "광각 스마트폰 렌즈를 활용해 좁은 공간에서 인체의 비대칭성과 공간의 왜곡을 극대화하는 1인칭 시퀀스 샷에 적용한다.",
+  "context": "타이베이 출신 시각 예술가 존 유이는 소셜 미디어와 포스트 인터넷 시대의 디지털 정체성을 탐구해 왔으며, 초기에는 임시 타투를 활용한 신체 작업에서 출발해 일상의 비일상적 순간들을 아카이브로 구축했다.",
+  "findings": [
+   {
+    "text": "존 유이는 타이베이와 뉴욕을 오가며 활동하는 대만 출신의 시각 예술가다.",
+    "s": 1,
+    "quote": "Chiang Yu-yi... is a Taiwanese visual artist. Her practice explores aspects of the social media, photography, and the post internet. She lives and works in Taipei and New York City."
+   }
+  ],
+  "keywords": [
+   "존유이",
+   "비행기화장실",
+   "셀프포트레이트",
+   "디지털정체성"
+  ],
+  "evidence": "Aeroplane Mode 2, the second zine formed from the archive of in-flight nudes she's accumulated over the years",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "비행기 화장실이라는 극단적 환경 속 누드 아카이브라는 주제를 구체적 매체와 형식으로 풀어냈으나 선례의 확장성 면에서는 보통 수준이다.",
+  "v": 2,
+  "url": "https://www.dazeddigital.com/art-photography/article/71059/1/john-yuyi-nude-aeroplane-bathroom-selfies-mode-zine-nudes?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=john-yuyi-s-new-zine-chronicles-her-nude-aeroplane-selfies",
+  "original_title": "John Yuyi’s new zine chronicles her nude aeroplane selfies",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 6028,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-09-29 23:13",
+  "research": {
+   "entities": [
+    "John Yuyi",
+    "Gucci",
+    "Burberry",
+    "Kenzo"
+   ],
+   "questions": [
+    "존 유이(John Yuyi)가 비행기 화장실에서 누드 셀카를 찍는 행위는 작가의 예술적 맥락에서 어떤 의미를 갖는가?",
+    "작가가 언급한 '디지털 정체성'과 '현대 소비주의'를 탐구하는 작업 방식은 초기 타투 프로젝트와 어떻게 연결되는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "John Yuyi",
+     "url": "https://en.wikipedia.org/wiki/John%20Yuyi"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Gucci",
+     "url": "https://en.wikipedia.org/wiki/Gucci"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "구찌 에센스 클래식 더플, 130년 전 호텔 포터의 기억을 입다",
+     "url": "https://www.anothermag.com/fashion-beauty/17500/another-loves-gucci-duffle-bag?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=another-loves-a-duffle-with-baggage"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "구찌의 신전, 부서진 부르주아를 소환하다",
+     "url": "https://www.wallpaper.com/fashion-beauty/gucci-ss-2027-demna-show-review-milan-fashion-week"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "트랙슈트와 노나 사이, 뎀나가 밀라노에서 뒤섞은 구찌의 기억",
+     "url": "https://www.dazeddigital.com/fashion/article/71042/1/demna-hits-shuffle-on-gucci-stereotypes-for-ss27-milan-fashion-week?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=from-rappers-to-nonnas-demna-hits-shuffle-on-gucci-stereotypes-for-ss27"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 1930
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "creativeboom.com/insight/louise-french-quit-london-cycled-the-andes-and-came-home-an-illustrator": {
+  "title_ko": "안데스의 고산 지대를 자전거로 횡단하며 자기 의심을 지워낸 일러스트레이터",
+  "summary_ko": "런던을 떠나 남미 안데스산맥을 자전거로 횡단한 일러스트레이터 루이스 프렌치가 여행을 통해 개인 작업의 한계를 극복하고 실행력을 얻은 과정을 조명한다. 고산을 오르며 익힌 멈추지 않는 태도는 현장 라이브 드로잉과 독립 출판 도전의 밑거름이 된다.",
+  "lens": "거친 고산 지대의 물리적 한계를 뚫고 나간 페달링이 창작의 장벽을 부수는 실행력으로 전환된다.",
+  "why_now": "자동화 도구와 불안이 가득한 창작 환경 속에서 아날로그 현장 작업과 완주의 가치가 다시 주목받는다.",
+  "mechanism": "자전거 여행 중 체득한 전진의 호흡을 작업에 이식해 완벽주의를 버리고 끝까지 마무리하는 태도로 작동한다.",
+  "sensory": "해발 5,000미터의 구름 속 캠프와 폭신한 눈보라, 2미터 대형 벽면에 포스카 펜으로 거침없이 채워지는 선의 물성을 남긴다.",
+  "transfer": "콘티나 시안 작업 중 막히는 순간에 멈추지 않고 끝까지 밀어붙이는 물리적 실행 단계의 연출 태도로 가져간다.",
+  "context": "맨체스터 기반의 아티스트 루이스 프렌치는 남미 여행 이후 칠레 파타고니아와 콜롬비아의 기억을 담은 시리즈 프린트를 완성했다.",
+  "findings": [],
+  "keywords": [
+   "일러스트레이션",
+   "자전거여행",
+   "라이브드로잉",
+   "실행력"
+  ],
+  "evidence": "When I was pushing my bike up that mountain, there was no option to stop because it was hard. You just had to keep going until you were at the top.",
+  "kind": "작가·인터뷰",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "아티스트의 개인적 경험과 작업 태도의 변화를 구체적으로 다루나 선례적 확장성이 다소 제한적이다.",
+  "v": 2,
+  "url": "https://www.creativeboom.com/insight/louise-french-quit-london-cycled-the-andes-and-came-home-an-illustrator/",
+  "original_title": "Louise French quit London, cycled the Andes, and came home an illustrator who gets things done",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 9000,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-09-29 23:13",
+  "research": {
+   "entities": [
+    "Louise French",
+    "Ralph Steadman",
+    "Creative Boom",
+    "Flight Club Darts"
+   ],
+   "questions": [
+    "루이스 프렌치는 안데스 산맥 자전거 여행을 통해 자신의 일러스트 작업에 대한 자기 의심을 어떻게 극복했는가?",
+    "런던에서 맨체스터로 이주하고 남미 여행을 감행한 그녀의 경험은 그녀의 일러스트레이션 스타일에 어떤 구체적인 변화를 가져왔는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Ralph Steadman",
+     "url": "https://en.wikipedia.org/wiki/Ralph%20Steadman"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Creative Boom",
+     "url": "https://en.wikipedia.org/wiki/Creative%20Boom"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "AI가 밀어낸 자리에서 싹트는 6만 명의 수작업 애니메이션",
+     "url": "https://www.creativeboom.com/work/ester-pazur-on-being-a-pessimist-the-power-of-stop-motion-and-why-handmade-art-still-matters/"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "시간대와 마우스에 반응하는 크리에이티브 붐의 눈 마스코트",
+     "url": "https://www.creativeboom.com/news/the-eyes-have-it-how-we-brought-creative-booms-mascot-to-life-in-different-time-zones/"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "잠수 탄 클라이언트 앞에서 주도권을 쥐는 실무 대응법",
+     "url": "https://www.creativeboom.com/dear-boom/are-you-getting-ghosted-more-than-ever-youre-not-alone/"
+    }
+   ],
+   "used": [
+    2
+   ],
+   "chars": 1483
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "dazeddigital.com/fashion/article/71062/1/julie-kegels-ss27-paris-fashion-week-pfw-lvmh-prize": {
+  "title_ko": "중력과 낙하의 물성으로 빚어낸 줄리 케겔스의 SS27",
+  "summary_ko": "벨기에 디자이너 줄리 케겔스가 LVMH 프라이즈 수상 이후 첫 무대인 2027 봄·여름 파리 패션위크에서 중력과 낙하를 주제로 한 컬렉션을 선보였다. 데님 케이프와 가죽 시프트 드레스처럼 땅으로 당겨지는 무거운 소재와 오간자 가운처럼 공중으로 뜨는 가벼운 소재를 대조했다. 뉴턴의 중력 발견에서 착안해 추락과 압박의 감정을 의복의 구조로 시각화했다.",
+  "lens": "무거움과 가벼움의 물리적 대조를 통해 수상 이후의 압박감을 옷의 낙하 궤도로 시각화한다.",
+  "why_now": "LVMH 프라이즈 수상으로 막대한 자금과 멘토링을 얻은 신진 디자이너가 급증한 책임감과 기대 속에서 브랜드의 정체성을 재정립하는 분기점이다.",
+  "mechanism": "데님과 가죽 등 중력에 짓눌린 무거운 소재와 오간자, 찢어진 시퀸 브라 등의 요소를 대비해 아래로 쏠리는 낙하의 순간을 구조적으로 연출했다.",
+  "sensory": "단단한 가죽과 데님이 몸을 아래로 끌어내리는 무게감 속에서 얇은 오간자가 공기의 흐름에 따라 가볍게 흔들리며 시각적 이질감을 만든다.",
+  "transfer": "상반된 무게감을 지닌 두 가지 소재를 한 프레임 안에 배치해 인물의 심리적 압박감을 시각적 낙하 운동으로 치환하는 샷 구성에 활용한다.",
+  "context": "벨기에 출신의 디자이너 줄리 케겔스는 2026년 9월 4일 제니퍼 로렌스가 시상한 LVMH 프라이즈에서 우승하여 40만 유로의 상금과 2만 유로 상당의 노나 소스(Nona Source) 직물 수당을 받았다.",
+  "findings": [],
+  "keywords": [
+   "줄리 케겔스",
+   "LVMH프라이즈",
+   "파리패션위크",
+   "아방가르드패션"
+  ],
+  "evidence": "The collection, called Apple of the Day after Newton’s gravitational epiphany, was about falling in all its various forms",
+  "kind": "런웨이·컬렉션",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "수상 직후의 압박감을 중력과 낙하라는 명확한 개념과 소재의 대비로 풀어낸 구체적인 컬렉션이다.",
+  "v": 2,
+  "url": "https://www.dazeddigital.com/fashion/article/71062/1/julie-kegels-ss27-paris-fashion-week-pfw-lvmh-prize?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=in-pictures-julie-kegels-ss27-wasn-t-bowed-by-the-weight-of-expectation",
+  "original_title": "In pictures: Julie Kegels SS27 wasn’t bowed by the weight of expectation",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 2398,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-09-29 23:13",
+  "research": {
+   "entities": [
+    "Julie Kegels",
+    "LVMH Prize",
+    "Jennifer Lawrence",
+    "Nona Source",
+    "Paris Fashion Week"
+   ],
+   "questions": [
+    "줄리 케겔스(Julie Kegels)의 SS27 컬렉션이 중력과 낙하라는 개념을 어떻게 시각적으로 풀어냈는가?",
+    "LVMH 프라이즈 수상 이후 줄리 케겔스의 브랜드 운영과 디자인 방향성에 어떤 변화가 있었는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "LVMH Prize",
+     "url": "https://en.wikipedia.org/wiki/LVMH%20Prize"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Jennifer Lawrence",
+     "url": "https://en.wikipedia.org/wiki/Jennifer%20Lawrence"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "눈물의 질감과 색채로 직조한 폴린 뒤장쿠르의 2027 봄·여름 컬렉션",
+     "url": "https://www.anothermag.com/fashion-beauty/17497/pauline-dujancourt-show-review-spring-summer-2027-ss27-dsm?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=pauline-dujancourt-imagines-emotions-in-textures-and-colours"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 2148
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "dazeddigital.com/film-tv/article/71014/1/extra-geography-galaxie-clear-marni-duggan-molly-manners-new-film-interview-2026": {
+  "title_ko": "우정과 소외의 경계에서 흔들리는 십대들의 초상",
+  "summary_ko": "영화 엑스트라 지오그래피(Extra Geography)는 영국 노스요크셔의 기숙학교를 배경으로 두 여학생 플릭과 민나가 겪는 집착과 균열을 그린다. 원작 소설가 로즈 트레메인(Rose Tremain)의 단편을 바탕으로 몰리 매너스(Molly Manners)가 연출했으며 신예 갈락시 클리어와 마니 더건이 주연을 맡았다. 이들은 눈에 먼저 들어오는 사람과 사랑에 빠지겠다는 내기 끝에 지리 교사 델라비뉴를 유혹하며 관계의 파국을 맞이한다.",
+  "lens": "단짝 친구라는 이름 아래 작동하는 권력 다툼과 신체적 밀착을 섬세한 제스처로 포착한다.",
+  "why_now": "영국식 청소년물은 대개 어둡고 무거운 드라마로 기울지만, 이 작품은 유머와 파도를 오가는 십대의 심리를 날것 그대로 드러낸다.",
+  "mechanism": "손을 맞잡거나 새끼손가락을 걸고 연쇄적으로 대칭을 이루는 손동작으로 두 인물의 공생 관계를 시각화한다.",
+  "sensory": "불안을 억누르기 위해 교복 차림으로 주먹을 꽉 쥐거나 몸을 굳히는 신체적 긴장감이 화면 전체를 지배한다.",
+  "transfer": "인물 사이의 균열을 대사 없이 손을 잡는 방식과 시선의 방향만으로 인물의 권력 이동을 포착하는 샷으로 구성한다.",
+  "context": "연출을 맡은 몰리 매너스는 넷플릭스 시리즈 원데이(One Day) 연출을 마친 직후 이 작품으로 장편 영화에 데뷔했으며, 각본은석세션(Succession)의 미리엄 배티(Miriam Battye)가 맡았다.",
+  "findings": [],
+  "keywords": [
+   "여성 우정",
+   "청소년기",
+   "기숙학교",
+   "영화 연출",
+   "신체 언어"
+  ],
+  "evidence": "a sharp, hilarious coming-of-age comedy about the friction between two best friends at an all-girls boarding school in North Yorkshire.",
+  "kind": "영상·필름",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "독특한 신체 제스처와 우정의 파국이라는 주제를 선명하게 다루나 보도자료 기반의 인터뷰 중심 기사다.",
+  "v": 2,
+  "url": "https://www.dazeddigital.com/film-tv/article/71014/1/extra-geography-galaxie-clear-marni-duggan-molly-manners-new-film-interview-2026?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=extra-geography-a-teen-comedy-about-the-messiness-of-female-friendship",
+  "original_title": "Extra Geography: A teen comedy about the messiness of female friendship",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 8312,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-09-29 23:13",
+  "research": {
+   "entities": [
+    "Extra Geography",
+    "Molly Manners",
+    "Miriam Battye",
+    "Rose Tremain",
+    "Alice Englert"
+   ],
+   "questions": [
+    "영화 엑스트라 지오그래피(Extra Geography)는 어떤 배경과 원작을 바탕으로 제작되었는가?",
+    "감독 몰리 매너스와 각본가 미리엄 배티는 이 작품에서 여성 우정과 청소년기를 어떻게 그려내고 있는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Rose Tremain",
+     "url": "https://en.wikipedia.org/wiki/Rose%20Tremain"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Alice Englert",
+     "url": "https://en.wikipedia.org/wiki/Alice%20Englert"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 890
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "dazeddigital.com/fashion/article/71065/1/hodkova-ss27-paris-fashion-week-pfw-sea-inspired-show-ocean": {
+  "title_ko": "바다를 향한 항해: 호드코바의 SS27 컬렉션이 직조한 어부의 디테일",
+  "summary_ko": "엘렌 호다코바 라르손은 파리 패션위크 첫날 바다에서 영감을 받은 SS27 컬렉션을 선보였다. 런웨이에 소금을 깔고 눈꺼풀에 눈을 그려 넣은 메이크업으로 살아 움직이는 선수상을 연출했다. 왁스 천, 밧줄 매듭, 어망 등 바다의 거친 요소를 의상 디테일로 변주시켰다.",
+  "lens": "눈꺼풀에 그려진 눈과 바다 소금이 깔린 바닥으로 무생물의 선수상을 생명체로 치환한다.",
+  "why_now": "흔한 해양 테마의 낭만성에서 벗어나 어부와 밧줄 등 거친 바다의 실재를 의상 물성으로 직조한다.",
+  "mechanism": "모델이 고개를 숙일 때만 보이는 눈꺼풀 메이크업과 청동색 대신 왁스 처리한 뻣뻣한 원단으로 시각적 착시를 유도한다.",
+  "sensory": "런웨이 바닥에 깔린 바다 소금의 질감과 밧줄을 엮어 만든 굵은 보울라인 매듭의 입체적인 부피감.",
+  "transfer": "영상의 오프닝 시퀀스에서 피사체의 시선을 아래로 유도해 숨겨진 분장이나 질감을 극적으로 드러내는 숏으로 활용한다.",
+  "context": "스웨덴 디자이너 엘렌 호다코바 라르손은 숟가락이나 책 등 일상 오브제를 꾸뛰르로 전환하는 독창적인 작업 방식을 이어왔다.",
+  "findings": [],
+  "keywords": [
+   "호다코바",
+   "SS27",
+   "바다",
+   "착시",
+   "물성"
+  ],
+  "evidence": "Each model had a pair of eerie, gormless eyes painted on their eyelids. They looked down at the ground as they walked, giving us a full view of the surreal, cartoonish illusion.",
+  "kind": "런웨이·컬렉션",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "바다라는 주제를 뻔하지 않은 재료와 메이크업 연출로 풀어낸 구체적인 컬렉션이다.",
+  "v": 2,
+  "url": "https://www.dazeddigital.com/fashion/article/71065/1/hodkova-ss27-paris-fashion-week-pfw-sea-inspired-show-ocean?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=it-s-plain-sailing-at-hodkova-s-ss27-sea-inspired-show",
+  "original_title": "It’s plain sailing at Hodkova’s SS27 sea-inspired show",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 2707,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-09-29 23:13",
+  "research": {
+   "entities": [
+    "Ellen Hodakova Larsson",
+    "Hodakova"
+   ],
+   "questions": [
+    "Hodakova의 SS27 컬렉션은 바다와 항해를 어떻게 의상 디테일에 녹여내었는가?",
+    "이번 쇼에서 모델들의 눈꺼풀 메이크업과 배의 선수상(figurehead) 콘셉트는 어떤 의미를 담고 있는가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "anothermag.com/art-photography/17516/mark-leckey-interview-bottega-veneta-soundtrack-fiorucci-made-me-hardcore": {
+  "title_ko": "마크 레키가 소환한 90년대 레이브, 보테가 베네타의 사운드트랙이 되다",
+  "summary_ko": "영국 아티스트 마크 레키는 루이스 트로터의 보테가 베네타 2027 봄/여름 쇼 사운드트랙을 총괄했다. 자신의 대표작인 비디오 아카이브 필름의 감각을 확장해 20세기 후반 댄스 서브컬처의 낙관과 에너지를 밀라노 캣워크에 이식했다.",
+  "lens": "90년대 레이브의 파편을 믹스해 패션쇼를 하나의 주술적 해방구로 전환한다.",
+  "why_now": "디지털 시대에 서브컬처가 길을 잃은 시점에서, 과거 클럽 신의 유산이 지닌 원초적 활기를 동시대 하이패션 무대로 불러낸다.",
+  "mechanism": "피치 조절된 셔리 베이시의 보컬과 모델의 구두 소리에 동기화된 테크노 비트를 겹쳐 공간 전체의 긴장감을 조율한다.",
+  "sensory": "화이트 큐브 공간에 울려 퍼지는 갱스오브 정글의 저주파 비트와 일리야 골드만 구빈이 찌그러뜨린 골판지 박스 세트가 충돌한다.",
+  "transfer": "러프한 비트의 변주와 모델의 보폭에 맞춘 사운드 싱크로율 조정을 통해 영상 속 공간감을 극대화하는 사운드 디자인 장치로 활용한다.",
+  "context": "북부 잉글랜드 출신인 마크 레키와 루이스 트로터는 90년대 댄스 음악 신을 공유하며 이번 컬렉션에서 세 번째 협업을 진행했다. 레키는 1999년 작 비디오 작업인 Fiorucci Made Me Hardcore를 통해 영국의 디스코와 레이브 문화를 아카이빙한 바 있다.",
+  "findings": [
+   {
+    "text": "마크 레키는 1964년생 영국의 동시대 아티스트로 향수와 불안을 주제로 한 페이크 오브젝트와 비디오 작업을 선보여왔다.",
+    "s": 1,
+    "quote": "Mark Leckey (born 1964) is a British contemporary artist. His found object art and video pieces, which incorporate themes of nostalgia and anxiety"
+   },
+   {
+    "text": "마크 레키는 2008년 작품 Industrial Light and Magic으로 터너상을 수상했다.",
+    "s": 1,
+    "quote": "In particular, he is known for Fiorucci Made Me Hardcore (1968? 1999) and Industrial Light and Magic (2008), for which he won the 2008 Turner Prize."
+   },
+   {
+    "text": "루이스 트로터는 2024년부터 보테가 베네타의 크리에이티브 디렉터로 합류해 하우스를 이끌고 있다.",
+    "s": 2,
+    "quote": "Bartolomeo Rongone has been CEO of Bottega Veneta since 2019, and Louise Trotter creative director since 2024."
+   }
+  ],
+  "keywords": [
+   "마크 레키",
+   "보테가 베네타",
+   "루이스 트로터",
+   "서브컬처",
+   "사운드스케이프"
+  ],
+  "evidence": "Mark Leckey curated the soundtrack for Louise Trotter’s latest Bottega Veneta show, drawing on his iconic video work Fiorucci Made Me Hardcore",
+  "kind": "브랜드·캠페인",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "동시대 작가와 디렉터의 자전적 서브컬처 경험이 음악과 공간 연출로 직접 구체화된 협업 사례다.",
+  "v": 2,
+  "url": "https://www.anothermag.com/art-photography/17516/mark-leckey-interview-bottega-veneta-soundtrack-fiorucci-made-me-hardcore?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=bottega-veneta-made-mark-leckey-hardcore",
+  "original_title": "Bottega Veneta Made Mark Leckey Hardcore",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 4384,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-09-29 23:13",
+  "research": {
+   "entities": [
+    "Mark Leckey",
+    "Bottega Veneta",
+    "Fiorucci Made Me Hardcore",
+    "Louise Trotter",
+    "Florian Hecker"
+   ],
+   "questions": [
+    "마크 레키의 작품 'Fiorucci Made Me Hardcore'가 영국 서브컬처 역사에서 가지는 예술적 의미는 무엇인가?",
+    "루이즈 트로터와 마크 레키가 공유하는 북부 잉글랜드 출신의 배경과 90년대 댄스 음악 경험이 이번 보테가 베네타 쇼의 연출에 어떤 영향을 미쳤는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Mark Leckey",
+     "url": "https://en.wikipedia.org/wiki/Mark%20Leckey"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Bottega Veneta",
+     "url": "https://en.wikipedia.org/wiki/Bottega%20Veneta"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "소리를 눈으로 보게 하는 사운드 아티스트 플로리안 헤커의 보테가 베네타 쇼룸",
+     "url": "https://www.wallpaper.com/fashion-beauty/bottega-veneta-sound-artist-florian-hecker-ss-2027-show"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "가죽과 실크의 물성을 전복하는 보테가 베네타의 여름",
+     "url": "https://www.anothermag.com/fashion-beauty/17511/bottega-veneta-louise-trotter-spring-summer-2027-ss27-review?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=louise-trotter-s-bottega-veneta-is-in-full-bloom"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "chars": 1874
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "dazeddigital.com/music/article/71063/1/don-t-call-it-k-pop-the-future-faces-of-east-asian-music": {
+  "title_ko": "케이팝을 넘어선 동아시아의 새로운 음향, 마진스 유나이티드",
+  "summary_ko": "런던에서 열린 음악 축제 '마진스 유나이티드(Margins United)'는 동아시아 디아스포라 음악 레이블 이스턴 마진스(Eastern Margins)가 기획했다. 이브(Yves), F5ve 등 아티스트들은 기존 아이돌 중심의 정제된 미학에서 벗어나 실험적인 하이퍼팝과 클라우드 랩을 결합한 새로운 음악적 흐름을 선보였다.",
+  "lens": "정형화된 아이돌의 틀을 깨고 불완전하고 날 것 그대로의 서사를 전면으로 내세워 동아시아 음악의 미래를 제시한다.",
+  "why_now": "기존 케이팝의 상업적 문법이 아닌, 디아스포라 아티스트들이 주도하는 디지털 맥시멀리즘과 실험적 사운드가 서구 음악계의 새로운 대안으로 부상하고 있다.",
+  "mechanism": "하이퍼팝의 과감한 사운드 프로세싱과 일본 애니메이션 OST의 귀여운 감성을 결합해 디지털 미학의 최대치를 구현한다.",
+  "sensory": "글로우 스틱의 빛과 메이드 복장, 클라우드 랩의 몽환적이고 날카로운 전자음이 뒤섞여 혼종적인 축제의 분위기를 자아낸다.",
+  "transfer": "뮤직비디오나 공간 연출 시, 정제된 아이돌의 미장센 대신 서로 다른 하위문화의 복식과 소품을 충돌시켜 의도적인 불협화음을 시각화한다.",
+  "context": "이스턴 마진스는 2018년 설립 이후 동아시아 음악의 서브컬처를 발굴해왔다. 이브는 그룹 이달의 소녀(Loona) 활동을 거쳐 2024년 솔로 EP 'Loop'를 발매하며 실험적인 음악 세계로 전향했다.",
+  "findings": [
+   {
+    "text": "이브는 2024년 5월 29일 EP 'Loop'를 발매하며 솔로 아티스트로 데뷔했다.",
+    "s": 1,
+    "quote": "She made her debut as a solo artist on May 29, 2024, with the release of the extended play (EP) Loop."
+   }
+  ],
+  "keywords": [
+   "이스턴마진스",
+   "이브",
+   "하이퍼팝",
+   "동아시아음악",
+   "서브컬처"
+  ],
+  "evidence": "This is certainly not your average idol gig.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "동아시아 음악의 새로운 흐름을 조명했으나, 구체적인 기법보다 현장 분위기 묘사에 치중되어 있다.",
+  "v": 2,
+  "url": "https://www.dazeddigital.com/music/article/71063/1/don-t-call-it-k-pop-the-future-faces-of-east-asian-music?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=don-t-call-it-k-pop-the-future-faces-of-east-asian-music",
+  "original_title": "Don’t call it K-pop: The future faces of East Asian music",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 4470,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-09-29 23:13",
+  "research": {
+   "entities": [
+    "Eastern Margins",
+    "Yves",
+    "F5ve",
+    "Loona",
+    "The Deep"
+   ],
+   "questions": [
+    "동아시아 디아스포라 음악 레이블인 Eastern Margins는 어떤 배경으로 설립되었는가?",
+    "기사에서 언급된 아시아 언더그라운드 음악과 기존 K-pop의 차별점은 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Yves (singer)",
+     "url": "https://en.wikipedia.org/wiki/Yves%20%28singer%29"
+    },
+    {
+     "n": 2,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "렉시 리와 이브가 말하는 동시대 아시아 팝의 지각변동",
+     "url": "https://www.dazeddigital.com/music/article/70900/1/lexie-liu-meets-yves-china-k-pop-korea-interview-2026-bts-grammys?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=asian-artists-are-now-influencing-the-west-lexie-liu-meets-yves"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 531
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "anothermag.com/art-photography/17514/turner-prize-2026-middlesbrough-institute-of-modern-art-guide": {
+  "title_ko": "터너상 2026: 미들즈브러에서 마주하는 동시대의 파편들",
+  "summary_ko": "영국 현대미술의 지표인 터너상 2026 전시가 미들즈브러 현대미술관에서 열린다. 시메온 바클레이, 키라 프레이예, 마르그리트 위모, 타노아 사스라쿠 네 명의 작가는 비계, 말벌 독, 원유 등 이질적인 재료를 활용해 자원 추출, 산업 유산, 존재의 고통을 다룬다. 전시는 12월 최종 수상자 발표를 앞두고 동시대의 혼란스러운 단면을 조명한다.",
+  "lens": "고정된 조각이 아닌, 산업 폐기물과 유기적 형상을 결합해 생태계와 권력 구조의 위태로운 균형을 시각화한다.",
+  "why_now": "산업화 시대의 유산과 포스트휴먼적 생태 담론이 교차하는 지점에서 현재의 불안을 감각적으로 드러낸다.",
+  "mechanism": "비계 구조물, 안개, 조명 등 연극적 장치를 배치해 관람객이 작품의 서사 속으로 걸어 들어가도록 동선을 설계한다.",
+  "sensory": "말벌 독과 증기, 금속 프레임의 차가운 질감과 함께 들려오는 신체적 신음 소리가 공간의 밀도를 높인다.",
+  "transfer": "공간 연출 시 거울 벽면에 불연속적인 조각을 배치하고 안개를 분사해, 관객의 실루엣이 작품의 일부처럼 중첩되는 몽환적인 숏을 구성한다.",
+  "context": "터너상은 1984년부터 영국 시각 예술가에게 수여되는 권위 있는 상으로, 매년 런던과 영국 내 주요 도시를 순회하며 열린다. 이번 전시가 열리는 미들즈브러 현대미술관은 2014년부터 티사이드 대학교의 일부로 운영되고 있다.",
+  "findings": [
+   {
+    "text": "터너상은 1984년 시작된 이래 영국에서 가장 대중적으로 알려진 미술상으로 자리 잡았다.",
+    "s": 1,
+    "quote": "Since its beginnings in 1984 it has become the UK's most publicised art award."
+   },
+   {
+    "text": "미들즈브러 현대미술관은 2007년 1월 27일 공식 개관했다.",
+    "s": 2,
+    "quote": "The gallery was formally launched on Sunday, 27 January 2007"
+   }
+  ],
+  "keywords": [
+   "터너상",
+   "미들즈브러",
+   "조각설치",
+   "포스트휴먼",
+   "산업유산"
+  ],
+  "evidence": "four urgent visions of the present",
+  "kind": "전시",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "네 작가의 작업 방식을 재료와 공간 장치 중심으로 구체적으로 분석하여 연출적 통찰을 제공한다.",
+  "v": 2,
+  "url": "https://www.anothermag.com/art-photography/17514/turner-prize-2026-middlesbrough-institute-of-modern-art-guide?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=a-guide-to-the-turner-prize-2026",
+  "original_title": "A Guide to the Turner Prize 2026",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 6486,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-09-29 23:13",
+  "research": {
+   "entities": [
+    "Turner Prize",
+    "Middlesbrough Institute of Modern Art",
+    "Marguerite Humeau",
+    "Simeon Barclay",
+    "Tanoa Sasraku"
+   ],
+   "questions": [
+    "2026년 터너상 후보로 선정된 아티스트들의 주요 작품 특징은 무엇인가요?",
+    "미들즈브러 현대미술관(MIMA)에서 개최된 이번 터너상 전시의 핵심 주제는 무엇인가요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Turner Prize",
+     "url": "https://en.wikipedia.org/wiki/Turner%20Prize"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Middlesbrough Institute of Modern Art",
+     "url": "https://en.wikipedia.org/wiki/Middlesbrough%20Institute%20of%20Modern%20Art"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "포스트휴먼의 풍경: 기술과 생태가 얽히는 전시 '시머'",
+     "url": "https://hyperallergic.com/shimmer-dreaming-the-posthuman/"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "로르 프로보스트: 빛과 어둠 사이, 양자적 상태로 변모하는 설치 미술",
+     "url": "https://elephant.art/laure-prouvost-translates-the-invisible/"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 2009
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "dazeddigital.com/beauty/article/45610/1/masturbation-coach-sex-tips-orgasm-self-love": {
+  "title_ko": "자위 코치가 제안하는 감각 확장과 신체 탐구의 기술",
+  "summary_ko": "플레이보이 설문조사 결과 Z세대의 상당수가 최근 홀로 성생활을 가지지 않은 것으로 나타난 가운데, 공인 성 과학 신체 작업자 수 서덜랜드가 솔로 섹스를 더 풍부하게 만드는 열 가지 방법을 소개한다. 자위 코치는 오르가즘에만 집착하는 고정관념을 깨고 호흡과 신체 전체의 감각을 일깨우는 역할을 한다.",
+  "lens": "오르가즘이라는 결과 대신 속도와 호흡이라는 물리적 변수에 집중한다.",
+  "why_now": "디지털 콘텐츠 범람 속에서 성적 경험이 시각적 자극 위주로 소비되는 동안, 신체 내부의 촉각적 감수성을 회복하려는 대안적 접근이 주목받고 있다.",
+  "mechanism": "속도를 50퍼센트 낮추거나 서서 자세를 바꾸는 등 작은 물리적 변주를 통해 감각의 무감각화를 방지한다.",
+  "sensory": "입을 열어 호흡을 깊게 하고 신체 전반으로 퍼지는 파문 같은 촉각적 자극을 시각화한다.",
+  "transfer": "감정이나 긴장 상태를 연출할 때 인물의 속도와 호흡을 의도적으로 늦추는 디테일로 응용할 수 있다.",
+  "context": "데이즈드가 2019년에 보도한 기사로, 현대인의 신체 소외 현상과 대안적 치유에 대한 관심을 반영한다.",
+  "findings": [],
+  "keywords": [
+   "자위코치",
+   "신체작업",
+   "촉각감수성",
+   "호흡"
+  ],
+  "evidence": "When you find a particularly pleasurable sensation, try slowing down your touch by 50 per cent.",
+  "kind": "작가·인터뷰",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "성 건강 전문가의 구체적인 감각 탐구 팁을 담고 있으나 일반 인터뷰 형태의 가벼운 읽을거리에 가깝다.",
+  "v": 2,
+  "url": "https://www.dazeddigital.com/beauty/article/45610/1/masturbation-coach-sex-tips-orgasm-self-love?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=how-to-get-off-according-to-a-legit-masturbation-coach",
+  "original_title": "How to get off, according to a legit masturbation coach",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 4644,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-09-29 23:14",
+  "research": {
+   "entities": [
+    "Sue Sutherland"
+   ],
+   "questions": [
+    "자위 코치(Masturbation coach)는 구체적으로 어떤 세부 프로그램을 통해 내담자를 돕는가?",
+    "성 과학적 신체 작업(Sexological bodywork)이란 현대 성 건강 및 심리 치료에서 어떤 역할을 하는가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
  }
 }
