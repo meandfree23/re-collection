@@ -92230,5 +92230,778 @@
   },
   "depth_raw": 4,
   "depth_v": 2
+ },
+ "dezeen.com/2026/09/29/city-girls-lamps-london": {
+  "title_ko": "런던 디자인 듀오 시티 걸스의 버려진 사물을 엮은 조명 작업",
+  "summary_ko": "런던을 기반으로 활동하는 디자인 듀오 시티 걸스(City Girls)는 이베이, 페이스북 마켓플레이스, 길거리에서 수집한 레이스, 코트 행거, 스케일 모델 등 버려진 재료를 활용해 조명을 제작한다. 이들은 의상을 겹쳐 입듯 사물을 무심하게 배치하여 일회용 조명 형태를 구성한다.",
+  "lens": "사물의 기능을 제거하고 옷을 겹쳐 입듯 재료를 층층이 쌓아 조명이라는 새로운 용도를 부여한다.",
+  "why_now": "대량 생산된 오브제와 폐기물을 조합해 기존의 맥락을 해체하고 재구성하는 방식이 디자인 영역에서 주목받고 있다.",
+  "mechanism": "코트 행거와 같은 구조적 재료에 레이스 등 부드러운 질감을 덧대어 사물의 무게감과 밀도를 조정한다.",
+  "sensory": "레이스 사이로 투과되는 빛의 산란과 금속 행거의 차가운 선이 대비를 이룬다.",
+  "transfer": "광고 연출 시 버려진 일상 사물을 레이어링하여 빛의 굴절을 제어하는 조명 장치로 활용할 수 있다.",
+  "context": "시티 걸스는 두 명의 디자이너가 결성한 듀오로, 버려진 재료를 수집해 새로운 형태의 조명으로 변환하는 작업을 진행한다.",
+  "findings": [],
+  "keywords": [
+   "시티걸스",
+   "업사이클링",
+   "조명디자인",
+   "오브제"
+  ],
+  "evidence": "City Girls lamps are designed to look like outfits casually thrown together",
+  "kind": "제품·오브제",
+  "depth": 2,
+  "grounding": "thin",
+  "depth_reason": "원문 정보가 제한적이며 구체적인 제작 기법이나 맥락 확인이 어려워 정보 전달 위주로 작성함.",
+  "v": 2,
+  "url": "https://www.dezeen.com/2026/09/29/city-girls-lamps-london/",
+  "original_title": "City Girls lamps are designed to look like outfits casually thrown together",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 0,
+  "fetch": "fetch_error:HTTPError",
+  "cliche_hits": [],
+  "read_at": "2026-09-29 17:57",
+  "research": {
+   "entities": [
+    "City Girls"
+   ],
+   "questions": [
+    "City Girls는 어떤 배경을 가진 디자인 듀오인가요?",
+    "회수된 재료를 사용하여 조명을 제작하는 구체적인 과정은 무엇인가요?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 2,
+  "depth_v": 2
+ },
+ "dezeen.com/2026/09/29/fisher-paykel-professional-style-appliances": {
+  "title_ko": "가정 주방으로 들어온 상업용 주방의 정밀함",
+  "summary_ko": "뉴질랜드 가전 브랜드 피셔앤파켈(Fisher & Paykel)이 레스토랑 주방의 견고함과 정밀함을 가정용으로 구현한 프로페셔널 스타일 가전 라인업을 선보인다. 이번 제품군은 브랜드가 제시하는 세 가지 독창적인 디자인 스타일 중 하나로 구성된다.",
+  "lens": "상업용 주방의 금속성과 정밀함을 주거 공간으로 옮겨오는 방식.",
+  "why_now": "주거 공간과 상업 공간의 경계가 흐려지면서 집 안에서도 전문가 수준의 도구를 사용하려는 수요가 늘고 있다.",
+  "mechanism": "견고한 소재와 정밀한 제어 기술을 통해 상업용 주방의 물리적 성능을 가정용 규격에 맞춰 작동시킨다.",
+  "sensory": "차가운 스테인리스 스틸의 질감과 단단한 금속 다이얼의 조작감이 주방에 무게감을 더한다.",
+  "transfer": "하이엔드 주방 공간을 연출하는 장면에서 금속 소재의 가전과 물리적 조작 장치를 전경에 배치한다.",
+  "context": "1934년에 설립된 뉴질랜드의 가전 브랜드 피셔앤파켈은 혁신적인 디자인과 사용성을 바탕으로 글로벌 시장에서 가전 제품을 선보여 왔다.",
+  "findings": [
+   {
+    "text": "피셔앤파켈은 1934년에 설립되었으며 뉴질랜드 오클랜드에 본사를 두고 있다.",
+    "s": 1,
+    "quote": "The company was founded in 1934 and is based in Auckland, New Zealand."
+   }
+  ],
+  "keywords": [
+   "피셔앤파켈",
+   "프로페셔널가전",
+   "주방디자인",
+   "하이엔드"
+  ],
+  "evidence": "Fisher & Paykel's Professional Style appliances bring restaurant feel to the home kitchen",
+  "kind": "제품·오브제",
+  "depth": 2,
+  "grounding": "thin",
+  "depth_reason": "원문 본문이 수집되지 않고 메터 정보와 홍보성 요약만 존재하여 제품의 구체적인 기법을 파악하기 어렵다.",
+  "v": 2,
+  "url": "https://www.dezeen.com/2026/09/29/fisher-paykel-professional-style-appliances/",
+  "original_title": "Fisher & Paykel's Professional Style appliances bring restaurant feel to the home kitchen",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 0,
+  "fetch": "fetch_error:HTTPError",
+  "cliche_hits": [],
+  "read_at": "2026-09-29 17:57",
+  "research": {
+   "entities": [
+    "Fisher & Paykel"
+   ],
+   "questions": [
+    "Fisher & Paykel의 Professional Style 가전 제품군이 일반 가정용 제품과 차별화되는 기술적 특징은 무엇인가?",
+    "Fisher & Paykel이 추구하는 세 가지 제품 디자인 스타일은 각각 어떤 철학을 담고 있는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Fisher & Paykel",
+     "url": "https://en.wikipedia.org/wiki/Fisher%20%26%20Paykel"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 1218
+  },
+  "depth_raw": 2,
+  "depth_v": 2
+ },
+ "archdaily.com/1185580/brick-on-sticks-retail-store": {
+  "title_ko": "밀집된 상업 지구의 침묵: 닷봇 스튜디오의 벽돌 소매점",
+  "summary_ko": "인도 벵갈루루 돔룰-인디라나가르의 좁은 상업 지구에 닷봇 스튜디오가 설계한 지상 4층 규모의 소매점 건물이 완공되었다. 40×60피트의 협소한 대지 위에서 거대한 부피감이나 과시 대신 구조와 재료의 정밀한 조율을 택했다. 보행자 인도에 위치한 두 그루의 기존 가로수가 건물의 자연스러운 전면 무대를 형성한다.",
+  "lens": "협소한 대지에서 물량 공세 대신 구조체와 가로수의 결합으로 도시적 침묵을 연출한다.",
+  "why_now": "무분별한 규모 경쟁이 만연한 상업 건축 환경에서 물리적 타협을 정교한 재료 배분과 비례로 돌파하는 태도를 보여준다.",
+  "mechanism": "인도에 인접한 기존 가로수의 수관이 건물의 전면 시각 프레임을 형성하며, G+3 구조체가 주변의 밀집된 상업 가로 속에서 거리를 두도록 설계되었다.",
+  "sensory": "거리의 보행자 시점에서 가로수 잎 사이로 스며드는 빛과 빈틈없는 벽돌의 물성이 대조를 이룬다.",
+  "transfer": "도심 속 협소 공간에서 파사드 전면의 물리적 장갑을 걷어내고 전면 가로수나 구조적 여백을 레이어로 활용하는 샷 연출에 적용할 수 있다.",
+  "context": "인도 벵갈루루의 밀집된 상업 가로인 돔룰-인디라나가르 지역에 위치하며, 닷봇 스튜디오가 설계하고 타트바 스페이스와 디자인 아카데미가 엔지니어링 및 컨설팅을 맡았다.",
+  "findings": [],
+  "keywords": [
+   "상업건축",
+   "파사드",
+   "도시맥락",
+   "벽돌구조"
+  ],
+  "evidence": "Along the dense commercial fabric of Domlur-Indiranagar, a G+3 structure on a modest 40×60 plot announces itself quietly, almost evasively.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "협소 대지 상업 건물의 미니멀한 접근을 보여주나 현장 세부 정보가 제한적이다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1185580/brick-on-sticks-retail-store",
+  "original_title": "Brick on Sticks Retail Store / DOT BOT STUDIO",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 1460,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-09-29 17:57",
+  "research": {
+   "entities": [
+    "DOT BOT STUDIO",
+    "Italica tiles",
+    "Jaquar",
+    "Saint Gobain India"
+   ],
+   "questions": [
+    "DOT BOT STUDIO가 추구하는 건축적 철학인 'Brick on Sticks'의 구조적 의미는 무엇인가?",
+    "벵갈루루의 상업 지구인 Domlur-Indiranagar의 도시적 맥락이 이 건물의 설계에 어떤 영향을 미쳤는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Internet bot",
+     "url": "https://en.wikipedia.org/wiki/Internet%20bot"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Jaquar",
+     "url": "https://en.wikipedia.org/wiki/Jaquar"
+    }
+   ],
+   "used": [],
+   "chars": 2502
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "dezeen.com/2026/09/29/five-architecture-courses-dezeen-courses": {
+  "title_ko": "건축 교육의 변화: 재료 연구부터 인공지능 설계까지",
+  "summary_ko": "건축 전문 매체 디진(Dezeen)이 최근 주목한 5가지 건축 교육 과정을 소개한다. 해당 프로그램들은 특정 재료에 대한 심도 있는 이해와 인공지능을 활용한 설계 기술 습득을 강조하며 실무 역량 강화를 목표로 한다.",
+  "lens": "건축 교육이 전통적인 제도 중심 설계에서 벗어나 재료의 물리적 속성과 인공지능의 생성적 가능성을 결합하는 방향으로 이동한다.",
+  "why_now": "디지털 설계 도구의 고도화와 지속 가능한 재료에 대한 실무적 요구가 교육 과정에 직접 반영되고 있다.",
+  "mechanism": "재료 연구 과정은 물리적 샘플링과 실험을 통해 구조적 한계를 파악하며, 인공지능 교육은 데이터 기반의 설계 최적화와 반복적 프로세스를 통합한다.",
+  "sensory": "디지털 가상 환경과 실제 재료의 질감이 대비되는 학습 환경이 조성된다.",
+  "transfer": "공간 설계 시 AI를 활용해 형태의 변주를 빠르게 생성하고, 이를 실제 재료의 물성으로 검증하는 워크플로우를 도입한다.",
+  "context": "본 내용은 건축 전문 매체 디진이 운영하는 교육 프로그램 리스트를 기반으로 한다.",
+  "findings": [],
+  "keywords": [
+   "건축교육",
+   "AI설계",
+   "재료연구",
+   "디지털건축"
+  ],
+  "evidence": "Five architecture courses recently featured on Dezeen Courses",
+  "kind": "리스트·라운드업",
+  "depth": 2,
+  "grounding": "thin",
+  "depth_reason": "원문 본문을 확보하지 못한 리스트 형태의 정보로, 구체적인 교육 과정의 상세 내용이나 방법론이 부족하다.",
+  "v": 2,
+  "url": "https://www.dezeen.com/2026/09/29/five-architecture-courses-dezeen-courses/",
+  "original_title": "Five architecture courses recently featured on Dezeen Courses",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 0,
+  "fetch": "fetch_error:HTTPError",
+  "cliche_hits": [],
+  "read_at": "2026-09-29 17:58",
+  "research": {
+   "entities": [],
+   "questions": [
+    "최근 건축 교육 과정에서 강조되는 주요 트렌드는 무엇인가요?",
+    "건축 AI 교육 프로그램은 전통적인 설계 교육과 어떻게 다른가요?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 2,
+  "depth_v": 2
+ },
+ "dezeen.com/2026/09/29/jiashan-dayun-landison-manor-hotel": {
+  "title_ko": "360미터의 선형 동선, 철거된 마을 부지를 잇는 다윤 랜디슨 매너",
+  "summary_ko": "중국 HB 아키텍츠와 네이처 타임스 아트는 철거된 마을 부지에 360미터 길이의 고가 산책로로 연결된 다윤 랜디슨 매너를 완공했다. 길쭉한 대지 형태를 따라 건물을 배치하고 산책로를 통해 전체 시설을 하나로 묶어 공간적 통합을 꾀했다.",
+  "lens": "단절된 부지의 길쭉한 형상을 고가 산책로라는 단일 축으로 관통하여 거대한 호텔 단지에 연속적인 리듬을 부여한다.",
+  "why_now": "대규모 개발에서 지형의 물리적 한계를 극복하고 보행 동선을 구조화하는 방식이 공간의 경험을 결정짓는 핵심 요소로 부상하고 있다.",
+  "mechanism": "360미터에 달하는 고가 산책로는 호텔 내 개별 건물을 물리적으로 연결하며, 이용자가 단지 전체를 조망하며 이동하도록 동선을 수직 및 수평으로 확장한다.",
+  "sensory": "높은 위치에서 내려다보는 시야와 지면에서 떨어진 산책로의 부유감이 철거된 마을의 기존 지형과 대비를 이룬다.",
+  "transfer": "긴 대지에 여러 동을 배치할 때, 건물 사이를 잇는 고가 산책로를 메인 동선으로 설정하여 이용자의 시선을 고정하고 정체성을 강화하는 연출이 가능하다.",
+  "context": "철거된 마을 부지라는 장소성을 보존하기 위해 기존의 길쭉한 대지 형상을 건축적 설계의 출발점으로 삼았다.",
+  "findings": [],
+  "keywords": [
+   "공간설계",
+   "호텔건축",
+   "선형동선",
+   "장소성"
+  ],
+  "evidence": "Raised walkway ties together 360‑metre-long hotel",
+  "kind": "프로젝트",
+  "depth": 2,
+  "grounding": "thin",
+  "depth_reason": "원문 본문을 확인하지 못해 프로젝트의 세부 기법과 건축적 의도를 충분히 분석할 수 없으므로 낮은 점수를 부여한다.",
+  "v": 2,
+  "url": "https://www.dezeen.com/2026/09/29/jiashan-dayun-landison-manor-hotel/",
+  "original_title": "Raised walkway ties together 360‑metre-long hotel",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 0,
+  "fetch": "fetch_error:HTTPError",
+  "cliche_hits": [],
+  "read_at": "2026-09-29 17:58",
+  "research": {
+   "entities": [
+    "HB Architects",
+    "Nature Times Art",
+    "Dayun Landison Manor"
+   ],
+   "questions": [
+    "다윤 랜디슨 매너의 360m 통로가 호텔의 전체적인 공간 구성과 동선에 어떤 영향을 미치나요?",
+    "철거된 마을 부지를 활용한 건축적 맥락이 호텔 디자인에 어떻게 반영되었나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Teeple Architects",
+     "url": "https://en.wikipedia.org/wiki/Teeple%20Architects"
+    }
+   ],
+   "used": [],
+   "chars": 1216
+  },
+  "depth_raw": 2,
+  "depth_v": 2
+ },
+ "archdaily.com/1185828/casa-piva-be-architecture": {
+  "title_ko": "안으로 닫힌 안뜰로 교외의 소음을 지우는 집, 카사 피바",
+  "summary_ko": "오스트레일리아 말번 이스트의 조용한 골목길에 자리 잡은 카사 피바는 비이에이키텍처가 설계했다. 집을 둘러싼 일련의 내향적 안뜰은 이웃과의 접촉을 차단하며 높은 사생활과 친밀한 공간감을 만든다.",
+  "lens": "외부로 열리는 창 대신 내향적인 안뜰을 겹겹이 두어 도심 속 고치를 완성한다.",
+  "why_now": "개방성이 강조되던 교외 주거지에서 완전히 내부로 시선을 거두어들이는 역설적인 프라이버시 전략이다.",
+  "mechanism": "집 주변을 감싸는 중정들이 이웃과의 접경지대에 완충지대를 만들어 시선과 소음을 동시에 차단한다.",
+  "sensory": "외부와 단절된 안뜰을 통해 유입되는 은은한 자연광과 고요한 공기가 실내 전체를 채운다.",
+  "transfer": "공간 배경을 차단하고 특정 피사체나 인물에만 시선을 집중시키는 은둔형 로케이션 셋업으로 활용한다.",
+  "context": "비이에이키텍처가 오스트레일리아 말번 이스트에 완공한 주거 프로젝트다.",
+  "findings": [],
+  "keywords": [
+   "비이에이키텍처",
+   "내향적중정",
+   "말번이스트",
+   "주거건축"
+  ],
+  "evidence": "Casa Piva is discreetly sited off a quiet suburban laneway in Malvern East. Its prevailing sense of privacy and intimacy is created through a series of inwardly oriented courtyards",
+  "kind": "프로젝트",
+  "depth": 2,
+  "grounding": "thin",
+  "depth_reason": "원문의 정보가 짧고 기본적인 프로젝트 소개에 머물러 있어 깊이 있는 분석에 한계가 있다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1185828/casa-piva-be-architecture",
+  "original_title": "Casa Piva / B.E Architecture",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 884,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-09-29 17:58",
+  "research": {
+   "entities": [
+    "B.E Architecture"
+   ],
+   "questions": [
+    "B.E Architecture가 추구하는 건축 철학에서 '내향적 중정(inwardly oriented courtyards)'은 어떤 공간적 의미를 갖는가?",
+    "말번 이스트(Malvern East) 지역의 주거 환경적 특성이 Casa Piva의 설계 방식에 어떤 영향을 미쳤는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Architecture",
+     "url": "https://en.wikipedia.org/wiki/Architecture"
+    }
+   ],
+   "used": [],
+   "chars": 1400
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "archdaily.com/1185755/aranya-youyi-bay-community-regeneration-genarchitects": {
+  "title_ko": "호텔과 광장을 엮어 만든 해변의 소규모 커뮤니티 재생",
+  "summary_ko": "중국 친황다오 아라냐의 유이 베이 커뮤니티 재생 프로젝트로 젠아키텍츠(genarchitects)가 설계를 맡았다. 호텔, 아파트, 상업 공간이 어우러진 1,046제곱미터 규모의 공공 공간이다. 건물과 광장 사이를 이동하며 활기찬 분위기에서 차분한 분위기로 점진적인 전환을 경험하도록 구성했다.",
+  "lens": "광장과 안뜰의 밀도를 조율해 공적 공간에서 사적 공간으로 자연스럽게 스며드는 동선을 만든다.",
+  "why_now": "대규모 개발 중심의 도시 재생에서 벗어나 기존 건축물과 광장의 관계를 미세하게 조정하는 소규모 커뮤니티 재생 방식이 주목받는다.",
+  "mechanism": "호텔과 아파트가 각자의 안뜰을 감싸는 동시에 다양한 규모와 분위기의 광장을 형성하여 공간의 성격을 바꾼다.",
+  "sensory": "건물 사이를 걸을 때 광장의 활기찬 공기와 안뜰의 고요한 공기가 교차하며 시각적·공간적 완급 조절을 느낄 수 있다.",
+  "transfer": "공간을 이동할 때 카메라의 움직임과 시선의 높낮이를 인위적이지 않게 자연스럽게 전환하는 롱테이크 시퀀스 설계에 적용한다.",
+  "context": "젠아키텍츠가 설계를 맡고 에이콤(AECOM)이 조경 개발에 참여하여 호텔, 아파트, 상업 공간이 결합된 복합 공공 공간을 완성했다.",
+  "findings": [
+   {
+    "text": "에이콤은 텍사스주 댈러스에 본사를 둔 미국의 다국적 인프라 컨설팅 기업이다.",
+    "s": 1,
+    "quote": "AECOM is an American multinational infrastructure consulting firm headquartered in Dallas, Texas."
+   }
+  ],
+  "keywords": [
+   "커뮤니티재생",
+   "공공공간",
+   "젠아키텍츠",
+   "광장디자인",
+   "건축재생"
+  ],
+  "evidence": "Youyi Bay is a micro-community in Aranya, Qinhuangdao, comprising a hotel, apartments, and commercial spaces.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "구체적인 커뮤니티 재생 프로젝트이나 원문 분량이 짧아 세부 설계 기법 확인이 제한적이다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1185755/aranya-youyi-bay-community-regeneration-genarchitects",
+  "original_title": "Aranya Youyi Bay Community Regeneration / genarchitects",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 1819,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-09-29 17:58",
+  "research": {
+   "entities": [
+    "genarchitects",
+    "Aranya",
+    "Aecom"
+   ],
+   "questions": [
+    "아라냐(Aranya) 지역의 커뮤니티 재생 프로젝트가 추구하는 공간적 가치는 무엇인가요?",
+    "genarchitects가 설계한 유이 베이(Youyi Bay)의 공간 구성이 사용자 경험에 어떤 변화를 주었나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "AECOM",
+     "url": "https://en.wikipedia.org/wiki/AECOM"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 440
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "designboom.com/art/designboom-listens-frankey-songs-creative-world-interview": {
+  "title_ko": "일상의 사물을 재해석하는 프랭키의 창작 리듬과 음악적 단서",
+  "summary_ko": "암스테르담 기반의 아티스트 프랭키(Frankey)는 산업 디자인을 바탕으로 예술과 엔지니어링을 결합해 일상적 사물을 변형하는 작업을 수행한다. 그는 아레사 프랭클린부터 버스타 라임즈에 이르는 폭넓은 음악적 취향을 작업 과정의 동력으로 삼는다. 이번 인터뷰에서는 그가 프로젝트를 시작할 때의 의식과 몰입을 돕는 음악적 선곡을 통해 그의 창작 세계를 조명한다.",
+  "lens": "사물의 기능을 비틀어 낯선 조형성을 끌어내는 프랭키의 작업은, 리듬의 변주가 뚜렷한 재즈와 힙합의 구조적 특징과 맞닿아 있다.",
+  "why_now": "작업 과정의 배경음악을 단순한 소음이 아닌 창작의 기폭제이자 태도로 규정하는 시각은, 고정된 카테고리에 머물지 않는 동시대 크리에이터들의 유연한 작업 방식을 보여준다.",
+  "mechanism": "프랭키는 제임스 브라운의 펑크(Funk)로 작업의 예열을 마치고, 듀크 엘링턴과 존 콜트레인의 재즈로 미세한 디테일에 집중하는 등 음악의 템포와 장르를 창작 단계에 따라 전략적으로 배치한다.",
+  "sensory": "교량 지지대를 코뿔소 형상으로 바꾸거나 창문에서 풍선껌이 터져 나오는 듯한 시각적 장치는, 그가 선호하는 음악의 리듬감처럼 일상의 질서를 경쾌하게 무너뜨리는 스케일을 지닌다.",
+  "transfer": "콘티 작업 시 특정 장르의 음악을 루프 재생하여 씬의 호흡을 조절할 것. 긴박한 전환이 필요한 시퀀스에는 제이 지(Jay-Z)의 곡을, 정적인 공간의 밀도를 높이는 샷에는 재즈의 선율을 배치해 분위기를 고착시킨다.",
+  "context": "델프트 공과대학교(TU Delft)에서 산업 디자인을 전공한 프랭키는 공학적 정밀함과 예술적 유희를 결합한다. 그는 듀크 엘링턴과 같은 재즈 거장의 음악에서 영감을 얻으며, 이는 신체를 조각의 연장선으로 해석했던 아트 스미스처럼 유기적인 형태와 리듬감을 작업에 투영하는 방식과 맥을 같이 한다.",
+  "findings": [
+   {
+    "text": "델프트 공과대학교는 유럽의 선도적인 공과대학 중 하나로, 건축 및 공학 분야에서 세계적인 수준의 교육과 연구를 제공한다.",
+    "s": 1,
+    "quote": "It is considered one of the leading technical universities in Europe and is consistently ranked as one of the best schools for architecture and engineering in the world."
+   },
+   {
+    "text": "아레사 프랭클린은 '소울의 여왕'으로 불리며 7,500만 장 이상의 음반 판매고를 올린 전설적인 싱어송라이터이다.",
+    "s": 2,
+    "quote": "Regarded as the \"Queen of Soul\", she was twice named by Rolling Stone magazine as the greatest singer of all time. Franklin is one of the best-selling music artists, with more than 75 million records sold worldwide."
+   }
+  ],
+  "keywords": [
+   "프랭키",
+   "창작 과정",
+   "음악적 영감",
+   "산업 디자인",
+   "조형적 변주"
+  ],
+  "evidence": "Frankey, the Amsterdam-based artist and designer whose work finds the extraordinary in the everyday.",
+  "kind": "작가·인터뷰",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "아티스트의 창작 태도와 음악적 연결 고리를 구체적인 곡명과 함께 제시했으나, 작업물의 물리적 구현 방식에 대한 심층적 정보는 제한적이다.",
+  "v": 2,
+  "url": "https://www.designboom.com/art/designboom-listens-frankey-songs-creative-world-interview/",
+  "original_title": "designboom listens: frankey on the songs that shape his creative world",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 3575,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-09-29 17:58",
+  "research": {
+   "entities": [
+    "Frankey",
+    "Delft University of Technology",
+    "Aretha Franklin",
+    "James Brown",
+    "Duke Ellington"
+   ],
+   "questions": [
+    "Frankey가 일상적인 사물을 예술 작품으로 변형하는 과정에서 음악이 구체적으로 어떤 영감을 주는지 궁금합니다.",
+    "산업 디자인을 전공한 Frankey가 예술과 엔지니어링의 경계를 넘나드는 독창적인 작업 방식을 어떻게 구축했는지 알고 싶습니다."
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Delft University of Technology",
+     "url": "https://en.wikipedia.org/wiki/Delft%20University%20of%20Technology"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Aretha Franklin",
+     "url": "https://en.wikipedia.org/wiki/Aretha%20Franklin"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "신체를 조각하는 주얼리, 아트 스미스가 남긴 모더니즘의 궤적",
+     "url": "https://www.wallpaper.com/watches-jewellery/discover-art-smith-the-legendary-modernist-jewellery-designer"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3
+   ],
+   "chars": 3066
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "wallpaper.com/design-interiors/design-events/currents-design-festival-berlin": {
+  "title_ko": "베를린의 첫 디자인 페스티벌 '커런츠'가 드러낸 도시의 물성",
+  "summary_ko": "베를린에서 열린 신생 디자인 페스티벌 커런츠(Currents)가 방치된 아파트와 산업 공간을 무대로 실험적인 작품들을 선보였다. 보시 파운드리와 콘스탄틴 그리치치 등 베를린 기반 크리에이터들이 참여해 가구, 유리 공예, 프로토타입을 공개했다. 이번 행사는 도시의 새로운 디자인 지형도를 가감 없이 드러냈다.",
+  "lens": "도시의 유휴 공간을 무삼해 보존하며 실험적 물성의 프로토타입을 가감 없이 드러낸다.",
+  "why_now": "베를린이 파티와 정치를 넘어 동시대 디자인의 거점으로 도약하는 전환점을 포착한다.",
+  "mechanism": "버려진 블라인드 공장과 우체국 건물의 거친 콘크리트 구조물 사이에 정교한 유리와 금속 가구를 배치해 대비를 만든다.",
+  "sensory": "19세기 공장의 낡은 벽돌 벽과 차가운 알루미늄 시트, 뜨거운 용융 유리가 부딪히는 거친 질감이 시각을 압도한다.",
+  "transfer": "공간 배경으로 낡은 산업 단지를 선택하고, 인공조명을 낮춰 금속과 유리의 반사광을 극대화하는 숏을 구성한다.",
+  "context": "콘스탄틴 그리치치(Konstantin Grcic)는 런던 왕립예술대학에서 디자인을 공부한 뒤 베를린에 사무소를 두고 가구와 산업 디자인을 전개해왔다. 그의 제자인 파스칼 하이에(Pascal Hien)는 베를린예술대학교를 졸업하고 가구와 개념 디자인 작업을 이어오고 있다.",
+  "findings": [
+   {
+    "text": "콘스탄틴 그리치치는 목공예를 배운 뒤 런던 왕립예술대학에서 디자인을 전공했다.",
+    "s": 2,
+    "quote": "Konstantin Grcic (*1965) was trained as a cabinet maker at The John Makepeace School for Craftsmen in Wood before studying Design at the Royal College of Art in London."
+   },
+   {
+    "text": "파스칼 하이에능 2014년에 베를린예술대학교를 졸업했다.",
+    "s": 3,
+    "quote": "Pascal Hien graduated from the UDK Berlin in 2014, after which he received a design scholarship at the Fabrica Research Centre in Italy."
+   }
+  ],
+  "keywords": [
+   "커런츠페스티벌",
+   "베를린디자인",
+   "콘스탄틴그리치치",
+   "파스칼하이에",
+   "산업유산공간"
+  ],
+  "evidence": "new design festival Currents is attempting to highlight the burgeoning creative scene happening within its city limits",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "베를린의 신생 페스티벌과 구체적인 디자이너들의 작업 장치가 풍부하게 드러난다.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/design-interiors/design-events/currents-design-festival-berlin",
+  "original_title": "The best of Berlin’s design scene came out for the inaugural Currents festival",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 6562,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-09-29 17:58",
+  "research": {
+   "entities": [
+    "Currents",
+    "The Bocci Foundry",
+    "Konstantin Grcic",
+    "Pascal Hien",
+    "Tecta"
+   ],
+   "questions": [
+    "베를린의 신생 디자인 페스티벌 Currents가 도시의 디자인 신에 미친 영향은 무엇인가?",
+    "콘스탄틴 그리치치와 파스칼 하이에 등 베를린 기반 디자이너들의 최신 작업이 지니는 공통적인 디자인 철학은 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "CURRENTS",
+     "url": "http://currentsberlin.com"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Konstantin Grcic Design",
+     "url": "https://konstantin-grcic.com/"
+    },
+    {
+     "n": 3,
+     "type": "공식·1차",
+     "title": "Tecta : Pascal Hien",
+     "url": "https://www.tecta.de/en/gestalter/pascal-hien/"
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "Konstantin Grcic",
+     "url": "https://en.wikipedia.org/wiki/Konstantin%20Grcic"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "chars": 5785
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "creativeboom.com/news/faith-in-nature-turns-a-90s-rave-anthem-into-bees-r-good-for-its-first-ever-tv-ad": {
+  "title_ko": "독립 브랜드 페이스 인 네이처의 첫 TV 광고: 90년대 레이브 명곡의 재해석",
+  "summary_ko": "퍼스널 케어 브랜드 페이스 인 네이처(Faith In Nature)가 채널 4(Channel 4)의 B Corp 경쟁 우승으로 얻은 첫 TV 광고를 공개했다. 더 셰이먼(The Shamen)의 90년대 레이브 곡을 개사한 'Bees R Good'을 배경으로, 직원과 지인들이 직접 제작한 골판지 의상을 입고 출연하는 DIY 방식을 택했다.",
+  "lens": "디지털 그래픽 대신 버려진 상자와 수작업 의상을 선택해 브랜드의 지속가능성 철학을 물리적 실체로 증명한다.",
+  "why_now": "매끄러운 CGI 광고가 범람하는 시대에, 조악하지만 진정성 있는 수작업의 질감이 오히려 대중에게 브랜드의 정직함을 각인시킨다.",
+  "mechanism": "배달용 박스와 폐기물을 활용한 의상과 소품을 사용하여 제작 과정 자체가 브랜드의 친환경 가치를 시각적으로 대변하게 한다.",
+  "sensory": "골판지의 거친 질감과 인위적이지 않은 사람들의 투박한 움직임이 화면 전반에 인간적인 온기를 전달한다.",
+  "transfer": "광고 제작 시 화려한 CG 대신 브랜드의 핵심 가치를 담은 소재를 직접 제작하여 출연진에게 입히는 방식으로 현장감을 극대화한다.",
+  "context": "페이스 인 네이처는 52년간 독립성을 유지해온 브랜드로, 이번 광고는 대기업의 전유물이었던 TV 매체를 수제작 감성으로 재해석했다. 더 셰이먼은 1992년 'Ebeneezer Goode'로 상업적 성공을 거둔 스코틀랜드의 밴드다.",
+  "findings": [
+   {
+    "text": "더 셰이먼은 1990년대 초 영국 싱글 차트에서 정상을 차지한 전자 댄스 음악 그룹이다.",
+    "s": 1,
+    "quote": "The Shamen ( SHAY-men) were a Scottish psychedelic band, formed in 1985 in Aberdeen, who became a chart-topping electronic dance music act on the UK Singles Chart by the early 1990s."
+   },
+   {
+    "text": "채널 4는 공공 소유지만 광고 수익으로 운영되는 영국의 지상파 방송사다.",
+    "s": 2,
+    "quote": "It is publicly owned but, unlike the BBC, it receives no public funding and is funded entirely by its commercial activities, including advertising."
+   }
+  ],
+  "keywords": [
+   "페이스인네이처",
+   "DIY광고",
+   "지속가능성",
+   "레이브",
+   "수작업"
+  ],
+  "evidence": "The costumes and props were built by hand from delivery boxes and materials rescued from skips, and there's no use of CGI anywhere.",
+  "kind": "브랜드·캠페인",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "브랜드 철학을 제작 공정에 투영하여 시각적 일관성을 확보한 점이 돋보인다.",
+  "v": 2,
+  "url": "https://www.creativeboom.com/news/faith-in-nature-turns-a-90s-rave-anthem-into-bees-r-good-for-its-first-ever-tv-ad/",
+  "original_title": "Faith In Nature turns a '90s rave anthem into 'Bees R Good' for its first-ever TV ad",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 7428,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-09-29 17:58",
+  "research": {
+   "entities": [
+    "Faith In Nature",
+    "The Shamen",
+    "Channel 4",
+    "Blink Productions",
+    "Ebeneezer Goode"
+   ],
+   "questions": [
+    "Faith In Nature가 Channel 4의 B Corp 경쟁에서 우승하여 얻은 광고 기회의 의미는 무엇인가?",
+    "독립 브랜드인 Faith In Nature가 대형 광고 제작사 대신 DIY 방식을 선택한 브랜드 철학적 이유는 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "The Shamen",
+     "url": "https://en.wikipedia.org/wiki/The%20Shamen"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Channel 4",
+     "url": "https://en.wikipedia.org/wiki/Channel%204"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 1717
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "wallpaper.com/architecture/residential/puerto-escondido-home-casa-copycha-anonimous-mexico": {
+  "title_ko": "카사 카피차: 멕시코 해안의 거친 콘크리트와 팔라파 지붕이 빚는 휴식",
+  "summary_ko": "멕시코 푸에르토 에스콘디도에 위치한 카사 카피차는 건축 스튜디오 아노니머스가 설계한 개인 주택이다. 수도원과 아시엔다의 공간 구성을 현대적으로 재해석하여, 노출 콘크리트 기단 위에 거대한 팔라파 지붕을 얹었다. 중앙 안뜰을 중심으로 실내외를 유기적으로 연결하며 멕시코 태평양 연안의 자연을 일상으로 끌어들인다.",
+  "lens": "무거운 콘크리트 기단과 가벼운 팜 리프 지붕의 대비를 통해, 지역의 전통적인 건축 어휘를 21세기의 휴양 주거로 치환한다.",
+  "why_now": "기후 위기 시대에 지역 고유의 재료와 자연 환기 시스템을 현대 건축에 이식하려는 시도가 주거 설계의 핵심으로 떠오르고 있다.",
+  "mechanism": "약간 낮게 설계된 중앙 안뜰은 대지의 지형을 자연스럽게 극복하며, 입구에서 주거 공간으로 이어지는 동선을 매끄럽게 유도한다. 20m 길이의 팔라파 지붕은 파로타 목재 구조와 지역 야자수를 결합해 거대한 그늘을 형성한다.",
+  "sensory": "파도 소리가 일상의 배경음이 되도록 공간을 배치했으며, 실내외를 가로지르는 포르티코를 통해 여름 비와 바람, 강렬한 햇빛을 온몸으로 감각하게 한다.",
+  "transfer": "공간의 중심에 외부와 연결된 안뜰을 배치하여 시각적 개방감을 확보하고, 수직적 이동 동선을 따라 자연광이 떨어지는 틈을 만들어 깊이감을 더한다.",
+  "context": "아노니머스는 멕시코의 지역적 맥락을 현대적 감각으로 재해석하는 작업을 지속해 왔다. 이는 과거 RE:COLLECTION에서 다룬 빌라 엔소의 사례처럼, 재료의 연속성을 통해 공간을 하나의 덩어리로 읽히게 만드는 접근 방식과 궤를 같이한다.",
+  "findings": [],
+  "keywords": [
+   "아노니머스",
+   "푸에르토에스콘디도",
+   "팔라파",
+   "노출콘크리트",
+   "멕시코건축"
+  ],
+  "evidence": "The strategies of opposites - between closing and opening, heaviness and lightness, movement and pause - create a profound connection with the place",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "지역 전통 양식과 현대적 주거 요구를 재료의 대비로 풀어낸 설계 의도가 구체적으로 드러나 있다.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/architecture/residential/puerto-escondido-home-casa-copycha-anonimous-mexico",
+  "original_title": "A family's Puerto Escondido home on a sandy beach nods to monasteries and haciendas",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 3381,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-09-29 17:58",
+  "research": {
+   "entities": [
+    "Anonimous",
+    "Puerto Escondido",
+    "Ellie Stathaki"
+   ],
+   "questions": [
+    "Anonimous 스튜디오가 설계한 Casa Copycha의 건축적 특징과 지역 전통 양식의 결합 방식은 무엇인가?",
+    "푸에르토 에스콘디도의 기후 환경이 Casa Copycha의 자재 선택과 공간 배치에 어떤 영향을 미쳤는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "스페인 소토그란데의 모놀리식 빌라, 빛과 원의 기하학으로 빚다",
+     "url": "https://www.wallpaper.com/architecture/residential/villa-enso-ark-architects-sotogrande-spain"
+    }
+   ],
+   "used": [],
+   "chars": 278
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "dazeddigital.com/life-culture/article/71057/1/is-ai-replacing-booksellers-books-reading-recommendations-taste-ai": {
+  "title_ko": "알고리즘이 고른 책장, 그리고 사라지는 서점의 대화",
+  "summary_ko": "런던의 한 서점에서 일하는 나탈리 비크로프트는 최근 챗봇이 추천한 도서 목록을 들고 찾아오는 손님들이 늘었다고 전한다. 효율적인 독서 추천을 제공하는 AI는 독립서점의 고유한 정체성과 사서가 주는 인간적 교감을 위협하고 있다. 알고리즘 기반 추천은 상업적으로 검증된 베스트셀러만을 반복 재생산하며 독서 문화의 다양성을 훼손한다.",
+  "lens": "효율적인 챗봇 추천은 독서의 문턱을 낮추지만, 획일화된 알고리즘을 통해 개인의 취향을 길들인다.",
+  "why_now": "영국 성인의 59%가 생성형 AI를 사용할 정도로 일상에 깊숙이 파고든 지금, 독서와 사서의 역할까지 자동화하려는 시도가 늘고 있다.",
+  "mechanism": "LLM은 사용자의 질의에 즉각적으로 반응해 인기 도서 목록을 나열하지만, 소규모 출판물이나 비주류 작가의 책은 철저히 배제한다.",
+  "sensory": "휴대폰 화면을 바쁘게 두드리는 손길과 베스트셀러 중심의 매끄러운 추천 목록이 서점의 아날로그적 온기를 대체한다.",
+  "transfer": "인물의 취향과 갈등을 연출할 때, 효율적인 디지털 기기와 투박한 아날로그 사물의 대비를 쇼트 구성에 활용한다.",
+  "context": "영국 과학혁신기술부의 공공 참여 조사에 따르면 영국 성인의 59%가 생성형 AI를 사용하며, 특히 런던과 고학력층에서 채택률이 높다.",
+  "findings": [
+   {
+    "text": "영국 성인의 59%가 생성형 AI를 사용하며, 런던과 고학력층에서 채택률이 가장 높다.",
+    "s": 1,
+    "quote": "Nearly six in ten UK adults used generative AI during the previous three months, according to the Department for Science, Innovation and Technology’s (DSIT) first Public Engagement Survey."
+   }
+  ],
+  "keywords": [
+   "독립서점",
+   "생성형AI",
+   "도서추천",
+   "알고리즘"
+  ],
+  "evidence": "Seeing AI-generated reading lists on my customer’s phones – and knowing that nearly six in ten UK adults use AI – has left me wondering: is browsing dead?",
+  "kind": "뉴스·이슈",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "AI가 독립서점과 사서의 역할을 대체하는 현상을 현장감 있게 다뤘으나 전형적인 논평 수준에 머문다.",
+  "v": 2,
+  "url": "https://www.dazeddigital.com/life-culture/article/71057/1/is-ai-replacing-booksellers-books-reading-recommendations-taste-ai?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=is-ai-replacing-booksellers",
+  "original_title": "Is AI replacing booksellers?",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 7001,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-09-29 17:58",
+  "research": {
+   "entities": [
+    "ChatGPT",
+    "Min Jin Lee",
+    "Maggie O'Farrell",
+    "Percival Everett",
+    "Sally Rooney"
+   ],
+   "questions": [
+    "AI 챗봇의 도서 추천이 독립서점과 사서의 역할에 미치는 영향은 무엇인가?",
+    "알고리즘 기반의 도서 추천 시스템이 다양성과 소규모 출판물에 미치는 편향은 어떻게 나타나는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Nearly six in ten UK adults now use generative AI, survey finds | Digital Watch Observator",
+     "url": "https://dig.watch/updates/uk-generative-ai-use-survey"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Syndicated content in Sun-Times special section included AI-generated misinformation",
+     "url": "https://chicago.suntimes.com/news/2025/05/20/syndicated-content-sunday-print-sun-times-ai-misinformation"
+    },
+    {
+     "n": 3,
+     "type": "공식·1차",
+     "title": "How AI is reshaping book discovery — and the act of reading itself",
+     "url": "https://www.koreajoongangdaily.com/lifestyle/how-ai-is-reshaping-book-discovery-and-the-act-of-reading-itself/12609341"
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "ChatGPT",
+     "url": "https://en.wikipedia.org/wiki/ChatGPT"
+    },
+    {
+     "n": 5,
+     "type": "위키백과",
+     "title": "Min Jin Lee",
+     "url": "https://en.wikipedia.org/wiki/Min%20Jin%20Lee"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "성형외과의 새로운 변수: AI 시뮬레이션이 재편하는 미적 기준과 환자의 기대치",
+     "url": "https://www.dazeddigital.com/beauty/article/71038/1/how-ai-is-already-shaping-the-future-cosmetic-surgery-industry?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=ai-is-already-shaping-the-future-of-plastic-surgery"
+    },
+    {
+     "n": 7,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "로널드 잭슨, 상상 속 각본을 캔버스 위로 캐스팅하다",
+     "url": "https://www.thisiscolossal.com/2026/09/ronald-jackson-portraits-an-american-fiction/"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 10299
+  },
+  "depth_raw": 3,
+  "depth_v": 2
  }
 }

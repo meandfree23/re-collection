@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-09-29 11:49 KST",
+  "generated_at": "2026-09-29 17:57 KST",
   "period": "2026.09.22 - 2026.09.29",
-  "total_articles": 464,
+  "total_articles": 476,
   "genre_breakdown": [
     {
       "genre": "동시대 미술",
-      "count": 228
+      "count": 232
     },
     {
       "genre": "공간·건축",
-      "count": 146
+      "count": 153
     },
     {
       "genre": "아방가르드 패션",
-      "count": 70
+      "count": 71
     },
     {
       "genre": "미디어 파사드·3D",
@@ -54,6 +54,38 @@
       ]
     },
     {
+      "keyword": "빛과 조명",
+      "count": 14,
+      "previous_count": 5,
+      "trend": "rising",
+      "items": [
+        {
+          "title": "City Girls 램프는 캐주얼하게 함께 던져진 의상처럼 보이도록 설계되었습니다.",
+          "url": "https://www.dezeen.com/2026/09/29/city-girls-lamps-london/",
+          "image_url": "https://static.dezeen.com/uploads/2026/09/city-girls-lamps-london-reclaimed-materials-sq-852x852.jpg",
+          "source_name": "Dezeen"
+        },
+        {
+          "title": "애틀랜타에서 Slayyter의 BE $ T 팬을 만나보세요",
+          "url": "https://www.dazeddigital.com/fashion/article/71043/1/slayyyter-fans-atlanta-street-style-worst-girl-in-the-world-tour?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=meet-slayyyter-s-bet-dressed-fans-in-atlanta",
+          "image_url": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/5/1455693.jpg",
+          "source_name": "Dazed"
+        },
+        {
+          "title": "절정의 데이비드 보위의 모습을 담은 사진",
+          "url": "https://www.anothermag.com/art-photography/17509/david-bowie-photographs-venice-immersive-unseen-unheard?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=unseen-photos-of-david-bowie-at-his-peak",
+          "image_url": "https://images-prod.anothermag.com/786/azure/another-prod/470/8/478264.jpg",
+          "source_name": "AnOther Magazine"
+        },
+        {
+          "title": "사람을 최우선으로 하는 Kashef Chowdhury의 6가지 시민 프로젝트",
+          "url": "https://www.dezeen.com/2026/09/28/kashef-chowdhury-book-roundup/",
+          "image_url": "https://static.dezeen.com/uploads/2026/09/kashef-chowdhury-meditations-in-entropy-roundup_dezeen_2364_col_6-852x852.jpg",
+          "source_name": "Dezeen"
+        }
+      ]
+    },
+    {
       "keyword": "사진",
       "count": 14,
       "previous_count": 6,
@@ -82,38 +114,6 @@
           "url": "https://www.thisiscolossal.com/2026/09/bird-photographer-of-the-year-winners-2026/",
           "image_url": "https://www.thisiscolossal.com/wp-content/uploads/2026/09/bpoty-2.jpg",
           "source_name": "This Is Colossal"
-        }
-      ]
-    },
-    {
-      "keyword": "빛과 조명",
-      "count": 13,
-      "previous_count": 5,
-      "trend": "rising",
-      "items": [
-        {
-          "title": "애틀랜타에서 Slayyter의 BE $ T 팬을 만나보세요",
-          "url": "https://www.dazeddigital.com/fashion/article/71043/1/slayyyter-fans-atlanta-street-style-worst-girl-in-the-world-tour?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=meet-slayyyter-s-bet-dressed-fans-in-atlanta",
-          "image_url": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/5/1455693.jpg",
-          "source_name": "Dazed"
-        },
-        {
-          "title": "절정의 데이비드 보위의 모습을 담은 사진",
-          "url": "https://www.anothermag.com/art-photography/17509/david-bowie-photographs-venice-immersive-unseen-unheard?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=unseen-photos-of-david-bowie-at-his-peak",
-          "image_url": "https://images-prod.anothermag.com/786/azure/another-prod/470/8/478264.jpg",
-          "source_name": "AnOther Magazine"
-        },
-        {
-          "title": "사람을 최우선으로 하는 Kashef Chowdhury의 6가지 시민 프로젝트",
-          "url": "https://www.dezeen.com/2026/09/28/kashef-chowdhury-book-roundup/",
-          "image_url": "https://static.dezeen.com/uploads/2026/09/kashef-chowdhury-meditations-in-entropy-roundup_dezeen_2364_col_6-852x852.jpg",
-          "source_name": "Dezeen"
-        },
-        {
-          "title": "하트 오브 글래스: 베네치아가 다시 한 번 유리 제조 세계의 중심이 된 이유",
-          "url": "https://www.creativeboom.com/news/venices-heart-of-glass/",
-          "image_url": "https://media.creativeboom.com/cb5c7778-9ef3-4b87-a030-8a6213bcd3d2/conversions/3516c586bb2f986714a0ba0a4b4bbc35dbf21c60-medium.webp",
-          "source_name": "Creative Boom"
         }
       ]
     },
