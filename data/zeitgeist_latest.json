@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-09-29 23:57 KST",
-  "period": "2026.09.22 - 2026.09.29",
-  "total_articles": 494,
+  "generated_at": "2026-09-30 03:21 KST",
+  "period": "2026.09.23 - 2026.09.30",
+  "total_articles": 449,
   "genre_breakdown": [
     {
       "genre": "동시대 미술",
-      "count": 239
+      "count": 206
     },
     {
       "genre": "공간·건축",
-      "count": 156
+      "count": 152
     },
     {
       "genre": "아방가르드 패션",
-      "count": 78
+      "count": 70
     },
     {
       "genre": "미디어 파사드·3D",
@@ -23,8 +23,8 @@
   "themes": [
     {
       "keyword": "박물관·전시",
-      "count": 43,
-      "previous_count": 15,
+      "count": 36,
+      "previous_count": 22,
       "trend": "rising",
       "items": [
         {
@@ -55,8 +55,8 @@
     },
     {
       "keyword": "사진",
-      "count": 16,
-      "previous_count": 6,
+      "count": 14,
+      "previous_count": 8,
       "trend": "rising",
       "items": [
         {
@@ -118,43 +118,17 @@
       ]
     },
     {
-      "keyword": "런웨이·쇼",
-      "count": 8,
-      "previous_count": 2,
-      "trend": "rising",
-      "items": [
-        {
-          "title": "밀라노 패션 위크 SS27에서 놓친 모든 것",
-          "url": "https://www.dazeddigital.com/fashion/article/71061/1/everything-you-missed-from-milan-fashion-week-ss27-highlights-round-up?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=everything-you-missed-from-milan-fashion-week-ss27",
-          "image_url": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/5/1455977.jpg",
-          "source_name": "Dazed"
-        },
-        {
-          "title": "밀라노 패션 위크에서 프라다는 치마를 입고 연마합니다.",
-          "url": "https://www.wallpaper.com/fashion-beauty/prada-ss-2027-womenswear-show-review-milan-fashion-week",
-          "image_url": "https://cdn.mos.cms.futurecdn.net/j5rzTaFFwrX5sbGmznpaUJ-1920-80.jpg",
-          "source_name": "Wallpaper*"
-        },
-        {
-          "title": "뎀나는 ‘전형적인 구찌‘ 2학년 쇼를 위해 상점을 엽니다",
-          "url": "https://www.wallpaper.com/fashion-beauty/gucci-ss-2027-demna-show-review-milan-fashion-week",
-          "image_url": "https://cdn.mos.cms.futurecdn.net/tUo35ofPMM5iBAoyMJnX5D-1920-80.jpg",
-          "source_name": "Wallpaper*"
-        },
-        {
-          "title": "Dazed가 YMC와 함께 티셔츠를 출시했을 때 일어난 일입니다.",
-          "url": "https://www.dazeddigital.com/fashion/article/71035/1/here-s-what-happened-when-dazed-launched-a-t-shirt-with-ymc?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=here-s-what-happened-when-dazed-launched-a-t-shirt-with-ymc",
-          "image_url": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/5/1455557.jpg",
-          "source_name": "Dazed"
-        }
-      ]
-    },
-    {
       "keyword": "콘크리트 물성",
-      "count": 7,
+      "count": 8,
       "previous_count": 5,
       "trend": "rising",
       "items": [
+        {
+          "title": "더 템플/스쿨리 모겐센",
+          "url": "https://www.archdaily.com/1183988/the-temple-skuli-mogensen",
+          "image_url": "https://images.adsttc.com/media/images/6a8e/7684/4253/0500/01ca/0c64/large_jpg/entrance__1_.jpg?1787721450",
+          "source_name": "ArchDaily"
+        },
         {
           "title": "모리 하우스 바이 아이레스 마테우스 & 매사추세츠 + 코",
           "url": "https://minimalissimo.com/articles/mori-house-by-aires-mateus-ma-co",
@@ -172,19 +146,45 @@
           "url": "https://www.thisiscolossal.com/2026/09/harriet-mena-hill-aylesbury-estate-paintings/",
           "image_url": "https://www.thisiscolossal.com/wp-content/uploads/2026/09/hill-9.jpg",
           "source_name": "This Is Colossal"
+        }
+      ]
+    },
+    {
+      "keyword": "리노베이션·재생",
+      "count": 7,
+      "previous_count": 1,
+      "trend": "rising",
+      "items": [
+        {
+          "title": "Residência em Campos do Jordão / Gil Mello Arquitetura",
+          "url": "https://www.archdaily.com/1185725/residencia-em-campos-do-jordao-gil-mello-arquitetura",
+          "image_url": "https://images.adsttc.com/media/images/6ab5/7dc0/e944/b300/0137/38eb/large_jpg/ok_02.jpg?1790279273",
+          "source_name": "ArchDaily"
         },
         {
-          "title": "에스튜디오 제로는 음파 후 분홍색 멕시코 공동 생활 단지를 형성합니다",
-          "url": "https://www.dezeen.com/2026/09/24/estudio-zero-amplitude-pink-coliving-oaxaca/",
-          "image_url": "https://static.dezeen.com/uploads/2026/08/amplitude-coliving-estudio-zero-oaxaca-pink-coliving_dezeen_2364_sq-852x852.jpg",
-          "source_name": "Dezeen"
+          "title": "하우스 MG",
+          "url": "https://leibal.com/interiors/house-mg/",
+          "image_url": "https://leibal.com/wp-content/uploads/2026/09/leibal-house-mg-anna-thurow-4.jpg",
+          "source_name": "Leibal"
+        },
+        {
+          "title": "임브리아니 – 밀라노의 두 아파트 리노베이션/co.arch 스튜디오",
+          "url": "https://www.archdaily.com/1185433/imbriani-renovation-of-two-apartments-in-milan-crch-studio",
+          "image_url": "https://images.adsttc.com/media/images/6ab0/f9ce/066f/0900/0145/7880/large_jpg/VIA_IMBRIANI_04b.jpg?1789983241",
+          "source_name": "ArchDaily"
+        },
+        {
+          "title": "고요한 구석",
+          "url": "https://leibal.com/interiors/serene-nook/",
+          "image_url": "https://leibal.com/wp-content/uploads/2026/09/leibal-serene-nook-parallel-structure-erben-25.jpg",
+          "source_name": "Leibal"
         }
       ]
     },
     {
       "keyword": "가구 디자인",
-      "count": 7,
-      "previous_count": 1,
+      "count": 6,
+      "previous_count": 2,
       "trend": "rising",
       "items": [
         {
@@ -216,7 +216,8 @@
   ],
   "notable_names": [
     "NOWNESS Shorts",
-    "African Futures Institute",
+    "VitrA Tiles",
+    "Milan Fashion Week",
     "Arthur Jafa",
     "Video Art Visions",
     "Craft Work",

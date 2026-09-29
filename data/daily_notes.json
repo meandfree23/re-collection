@@ -1373,5 +1373,52 @@
   "v": 3,
   "model": "gemini-3.1-flash-lite",
   "written_at": "2026-09-29 04:59"
+ },
+ "2026-09-30": {
+  "date": "2026-09-30",
+  "headline": "산성 용액의 강철 의자와 스프레이 페인트의 긁힌 필름",
+  "editorial": "안토니아 피셔의 슬픔을 짊어지다에서 산성 에칭으로 부식된 강철 의자는 기억의 소멸을 물질로 번역한다. HBO 다큐멘터리 U.S. Against the World의 수제 그래픽은 스프레이 페인트와 긁힌 필름으로 거친 저항의 정체성을 시각화한다. 글라슈테 트래시 클럭은 정밀 공학의 유산과 쓰레기를 충돌시켜 시간의 엄격함과 우연성 사이의 간극을 드러낸다. 이들은 서로 다른 사물의 물리적 충돌과 부식을 통해 단단한 역사와 감정을 구체적인 형태로 붙들어 맨다.",
+  "threads": [
+   {
+    "name": "물리적 충돌과 부식의 흔적",
+    "note": "부식된 강철과 쓰레기, 긁힌 필름을 통해 사물에 남겨진 시간의 물리적 충돌을 보여준다.",
+    "items": [
+     {
+      "title": "HBO 다큐멘터리 'U.S. Against the World'의 수제 그래픽 언어",
+      "url": "https://motionographer.com/quickie/u-s-against-the-world-good-secrets/"
+     },
+     {
+      "title": "정밀함의 성지에서 탄생한 쓰레기 시계, 글라슈테 트래시 클럭",
+      "url": "https://www.thisiscolossal.com/2026/09/niklas-roy-glashutte-trash-clock-mechanical-sculpture/"
+     },
+     {
+      "title": "산성 에칭으로 기억을 지우고 새긴 강철 의자, 안토니아 피셔의 '슬픔을 짊어지다'",
+      "url": "https://leibal.com/furniture/carrying-grief/"
+     }
+    ]
+   },
+   {
+    "name": "공간의 물성과 구조적 전복",
+    "note": "고정된 건축과 일상의 사물을 변형하여 새로운 형태와 감각을 도출한다.",
+    "items": [
+     {
+      "title": "유체처럼 휘어지는 알루미늄 슈퍼요트, 로시나비 엠와이 히드",
+      "url": "https://www.wallpaper.com/transportation/rossinavi-unveils-m-y-heed-an-aluminium-superyacht-with-interiors-by-achille-salvagni"
+     },
+     {
+      "title": "밀라노 패션 위크 S/S 2027: 관습을 해체하고 재조합하는 방식",
+      "url": "https://www.wallpaper.com/fashion-beauty/best-shows-milan-fashion-week-ss-2027-review-round-up"
+     },
+     {
+      "title": "호주 로열 조지 호텔의 마구간, 로마식 목욕탕의 원형으로 재탄생하다",
+      "url": "https://www.dezeen.com/2026/09/28/rezen-alchemy-saunas/"
+     }
+    ]
+   }
+  ],
+  "based_on": 21,
+  "v": 3,
+  "model": "gemini-3.5-flash-lite",
+  "written_at": "2026-09-30 03:21"
  }
 }
