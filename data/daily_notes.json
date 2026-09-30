@@ -1420,5 +1420,52 @@
   "v": 3,
   "model": "gemini-3.1-flash-lite",
   "written_at": "2026-09-30 09:37"
+ },
+ "2026-10-01": {
+  "date": "2026-10-01",
+  "headline": "솔란지의 비물질적 건축과 에디 피르민의 쇠사슬 섞인 도자기",
+  "editorial": "솔란지는 음악을 흑인 여성의 정체성을 보호하는 비물질적 건축물로 세우며, 고정된 형태 너머의 공간을 사유하게 한다. 이는 에디 피르민이 고결한 도자기에 식민의 쇠사슬을 겹쳐 자본의 폭력을 드러내는 방식과 맞닿아 있다. 두 창작자는 보이지 않는 역사를 물질에 각인하거나 소리라는 비물질적 재료로 구축하며, 우리가 딛고 선 세계의 단단한 벽을 다시 보게 한다. 이처럼 정체성과 역사는 일정한 장소에 머물지 않고, 끊임없이 재배치되는 기억의 연쇄로 드러난다.",
+  "threads": [
+   {
+    "name": "보이지 않는 힘의 건축",
+    "note": "비물질적 가치나 역사를 물리적 공간과 오브제에 구축하여 정체성을 드러내는 시도들이다.",
+    "items": [
+     {
+      "title": "솔란지, 앨범 'A Seat at the Table'로 구축한 비물질적 건축",
+      "url": "https://www.dazeddigital.com/music/article/71078/1/solange-a-seat-at-the-table-ten-year-anniversary-2026-album-black-womanhood?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=how-solange-s-a-seat-at-the-table-shaped-a-generation"
+     },
+     {
+      "title": "명품 모노그램과 쇠사슬로 심문하는 식민의 역사",
+      "url": "https://www.thisiscolossal.com/2026/09/eddy-firmin-sculptures-installation-colonization-knowledge/"
+     },
+     {
+      "title": "요한나 헤드바, 소멸을 향해 흐르는 시간과 물질의 기록",
+      "url": "https://hyperallergic.com/the-agony-and-ecstasy-of-johanna-hedva/"
+     }
+    ]
+   },
+   {
+    "name": "기록된 시간의 궤적",
+    "note": "과거의 자료나 데이터가 현재의 창작자에게 어떤 방식으로 해석되고 재구성되는지를 보여준다.",
+    "items": [
+     {
+      "title": "가을의 문턱에서 읽는 15세기 비스콘티-스포르차 타로의 시각적 궤적",
+      "url": "https://hyperallergic.com/hyperallergics-art-tarotscope-for-the-fall-equinox/"
+     },
+     {
+      "title": "뉴욕 현대미술관, 데이터의 이면과 인공지능이 재구성한 기억의 풍경",
+      "url": "https://www.dezeen.com/2026/09/30/moma-information-design-exhibition-full-disclosure/"
+     },
+     {
+      "title": "장 슐룸베르거의 스케치 1만 점, 미래의 창작자를 위해 열린다",
+      "url": "https://www.wallpaper.com/watches-jewellery/like-stepping-into-the-mind-of-a-genius-jean-schlumberger-sketches-and-artefacts-are-being-preserved-by-tiffany-and-co-and-the-musee-des-arts-decoratifs"
+     }
+    ]
+   }
+  ],
+  "based_on": 16,
+  "v": 3,
+  "model": "gemini-3.1-flash-lite-preview",
+  "written_at": "2026-10-01 03:12"
  }
 }
