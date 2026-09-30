@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-30 10:36 KST",
+  "generated_at": "2026-09-30 11:32 KST",
   "period": "2026.09.23 - 2026.09.30",
-  "total_articles": 477,
+  "total_articles": 478,
   "genre_breakdown": [
     {
       "genre": "동시대 미술",
@@ -9,7 +9,7 @@
     },
     {
       "genre": "공간·건축",
-      "count": 168
+      "count": 169
     },
     {
       "genre": "아방가르드 패션",
@@ -118,6 +118,38 @@
       ]
     },
     {
+      "keyword": "가구 디자인",
+      "count": 8,
+      "previous_count": 2,
+      "trend": "rising",
+      "items": [
+        {
+          "title": "엘리슨 스튜디오 (Ellison Studios) 는 집안에서 가장 작은 공공 공간을 최고의 가구로 제공합니다.",
+          "url": "https://www.yellowtrace.com.au/ellison-studios-the-new-bedroom-collection/",
+          "image_url": "https://assets.yellowtrace.com.au/wp-content/uploads/2026/09/16135225/Yellowtrace-260827ELLISON-STUDIOSMELT-BED-26TONDO0526-08_opt90.jpg",
+          "source_name": "Yellowtrace"
+        },
+        {
+          "title": "브루클린의 넓은 숙소에서 즐기는 합판 웨인스코팅 - 쿠키커터 벽에 담긴 개성과 따뜻함",
+          "url": "https://www.architecturaldigest.com/story/somerset-house-brooklyn-apartment-design",
+          "image_url": "https://media.architecturaldigest.com/photos/6ab3eb7c1a03aff39d502dad/master/pass/Livingroom36840006%20copy.jpg",
+          "source_name": "Architectural Digest"
+        },
+        {
+          "title": "KGT 벽면 서랍 시스템",
+          "url": "https://minimalissimo.com/articles/UtilKGTWallDrawerSystem",
+          "image_url": "https://minimalissimo.com/api/media/file/kgt-wall-drawers-1200x630.png",
+          "source_name": "Minimalissimo"
+        },
+        {
+          "title": "광학 왜곡을 대기 가구로 바꾸는 루카 리치",
+          "url": "https://www.yatzer.com/luca-ricci-plisse-block-milan",
+          "image_url": "https://media.yatzer.com/15-Plisse-Block-Luca-Ricci-render-yatzer-1400x1750.jpg",
+          "source_name": "Yatzer"
+        }
+      ]
+    },
+    {
       "keyword": "콘크리트 물성",
       "count": 8,
       "previous_count": 5,
@@ -146,38 +178,6 @@
           "url": "https://www.thisiscolossal.com/2026/09/harriet-mena-hill-aylesbury-estate-paintings/",
           "image_url": "https://www.thisiscolossal.com/wp-content/uploads/2026/09/hill-9.jpg",
           "source_name": "This Is Colossal"
-        }
-      ]
-    },
-    {
-      "keyword": "가구 디자인",
-      "count": 7,
-      "previous_count": 2,
-      "trend": "rising",
-      "items": [
-        {
-          "title": "브루클린의 넓은 숙소에서 즐기는 합판 웨인스코팅 - 쿠키커터 벽에 담긴 개성과 따뜻함",
-          "url": "https://www.architecturaldigest.com/story/somerset-house-brooklyn-apartment-design",
-          "image_url": "https://media.architecturaldigest.com/photos/6ab3eb7c1a03aff39d502dad/master/pass/Livingroom36840006%20copy.jpg",
-          "source_name": "Architectural Digest"
-        },
-        {
-          "title": "KGT 벽면 서랍 시스템",
-          "url": "https://minimalissimo.com/articles/UtilKGTWallDrawerSystem",
-          "image_url": "https://minimalissimo.com/api/media/file/kgt-wall-drawers-1200x630.png",
-          "source_name": "Minimalissimo"
-        },
-        {
-          "title": "광학 왜곡을 대기 가구로 바꾸는 루카 리치",
-          "url": "https://www.yatzer.com/luca-ricci-plisse-block-milan",
-          "image_url": "https://media.yatzer.com/15-Plisse-Block-Luca-Ricci-render-yatzer-1400x1750.jpg",
-          "source_name": "Yatzer"
-        },
-        {
-          "title": "건초로 뒤집는 의자",
-          "url": "https://minimalissimo.com/articles/backflip-chair-by-hay",
-          "image_url": "https://minimalissimo.com/api/media/file/backflip-chair-by-hay-featured-v20260920-1200x630.jpg",
-          "source_name": "Minimalissimo"
         }
       ]
     },

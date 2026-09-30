@@ -98385,5 +98385,57 @@
   },
   "depth_raw": 3,
   "depth_v": 2
+ },
+ "yellowtrace.com.au/ellison-studios-the-new-bedroom-collection": {
+  "title_ko": "침실을 위한 대담한 가구, 엘리슨 스튜디오의 더 뉴 베드룸",
+  "summary_ko": "가장 사적이어서 소홀해지기 쉬운 침실을 무대로 조각 같은 침대, 수납장, 좌석을 하나의 일관된 철학으로 묶어낸 가구 컬렉션이다. 풍성한 곡선과 촉각적인 패브릭, 그리고 이를 지탱하는 단단한 목재 구조가 특징이다.",
+  "lens": "폭신한 패브릭의 볼륨감과 단단한 목재 프레임을 교차해 침실 가구의 안일함을 걷어낸다.",
+  "why_now": "침실을 대충 채우던 임시방편에서 벗어나 공간 전체를 하나의 완결된 감각으로 조율하려는 시도가 늘고 있다.",
+  "mechanism": "손으로 주름을 잡은 멜트 침대와 그림자 라인을 더한 놋테 수납장이 부드러운 유기적 형태와 리드미컬한 곡선을 만든다.",
+  "sensory": "오후 4시에서 해질녘 사이의 빛을 머금은 버터 컬러 패브릭과 고광택 래커 마감이 공간에 깊은 음영을 드리운다.",
+  "transfer": "세트 촬영이나 공간 연출 시, 부드러운 질감의 패브릭 오브제 뒤에 어두운 호두나무 프레임을 배치해 시각적 긴장감을 만든다.",
+  "context": "엘리슨 스튜디오(Ellison Studios)는 70년대와 80년대의 관능적이고 과감한 미감을 현대적 주거 공간에 녹여내는 작업을 이어왔다.",
+  "findings": [],
+  "keywords": [
+   "침실가구",
+   "엘리슨스튜디오",
+   "목재구조",
+   "패브릭볼륨"
+  ],
+  "evidence": "The New Bedroom brings together sculptural beds, bedside tables, storage, seating and occasional pieces under a single argument",
+  "kind": "제품·오브제",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "침실 가구 컬렉션의 구체적 조형 장치와 소재를 잘 보여주나 프로모션 성격의 보도자료다.",
+  "v": 2,
+  "url": "https://www.yellowtrace.com.au/ellison-studios-the-new-bedroom-collection/",
+  "original_title": "Ellison Studios Gives The Least Public Room In The House Its Best Furniture Yet.",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 3270,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-09-30 11:32",
+  "research": {
+   "entities": [
+    "Ellison Studios",
+    "Yellowtrace"
+   ],
+   "questions": [
+    "Ellison Studios가 추구하는 'The New Bedroom' 컬렉션의 디자인 철학은 무엇인가요?",
+    "침실 가구 디자인에서 '구조적 형태'와 '부드러운 소재'의 조화가 어떤 시각적 효과를 만들어내나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Ellison Studios Archives",
+     "url": "https://ytr.ac/us6cR"
+    }
+   ],
+   "used": [],
+   "chars": 776
+  },
+  "depth_raw": 3,
+  "depth_v": 2
  }
 }
