@@ -98437,5 +98437,916 @@
   },
   "depth_raw": 3,
   "depth_v": 2
+ },
+ "dezeen.com/2026/09/30/snohetta-sky-house-pavilia-farm-hong-kong": {
+  "title_ko": "고밀도 도시 홍콩에 자연을 심은 스뇌헤타의 마지막 클럽하우스",
+  "summary_ko": "건축 스튜디오 스뇌헤타가 홍콩 타이와이의 주거 개발 단지인 파빌리아 팜의 마지막 클럽하우스인 스카이 하우스를 완성했다. 이 공간은 터널링 놀이터와 로프 클라이밍 타워, 피트니스 센터를 품고 있다. 고밀도 도시 환경 속에서 자연과 웰빙, 공동체 의식을 결합한 녹색 거점 역할을 수행한다.",
+  "lens": "고밀도 도시의 수직적 주거 단지를 관통하는 녹지축을 형성해, 건축물이 어떻게 일상에 생태적 쉼표를 찍는지 보여준다.",
+  "why_now": "고밀도 주거 환경에서 자연과 공동체 공간이 도시민의 일상에 어떻게 녹아들 수 있는지 보여주는 완결된 사례다.",
+  "mechanism": "기복이 심한 지형 형태의 놀이터와 수직적 로프 클라이밍 타워를 배치해 거주자의 신체적 활동과 동선을 유기적으로 연결한다.",
+  "sensory": "금속 타워 구조물과 대조되는 자연적인 지형의 곡선, 그 사이를 오가는 사람들의 움직임이 시각적 리듬을 만든다.",
+  "transfer": "도심 속 수직 공간을 연출할 때 인공적인 구조물과 생태적 요소를 결합해 입체적인 동선을 짜는 콘티에 활용할 수 있다.",
+  "context": "노르웨이 오슬로에 본사를 둔 글로벌 건축사사무소 스뇌헤타는 홍콩 타이와이의 파빌리아 팜 프로젝트를 통해 네 개의 클럽하우스를 설계하며 작업을 마무리했다.",
+  "findings": [
+   {
+    "text": "스뇌헤타는 노르웨이 오슬로에 설립된 글로벌 건축사사무소다.",
+    "s": 1,
+    "quote": "Snøhetta AS is a global architectural firm, founded in Oslo, Norway."
+   },
+   {
+    "text": "스뇌헤타는 홍콩 타이와이 주거 단지 내 네 개의 클럽하우스를 설계하며 파빌리아 팜 프로젝트를 마무리했다.",
+    "s": 2,
+    "quote": "스뇌헤타(Snøhetta)가 홍콩 타이와이 주거 단지 내 네 개의 클럽하우스를 설계하며 파빌리아 팜 프로젝트를 마무리했다."
+   }
+  ],
+  "keywords": [
+   "스뇌헤타",
+   "클럽하우스",
+   "도시농장",
+   "홍콩건축",
+   "놀이터"
+  ],
+  "evidence": "Snøhetta designs Hong Kong clubhouse with undulating playground and rope-climbing tower",
+  "kind": "프로젝트",
+  "depth": 2,
+  "grounding": "partial",
+  "depth_reason": "원문 본문이 없으나 이전 기사와 메타 정보로 프로젝트의 성격이 확인되는 평범한 소개다.",
+  "v": 2,
+  "url": "https://www.dezeen.com/2026/09/30/snohetta-sky-house-pavilia-farm-hong-kong/",
+  "original_title": "Snøhetta designs Hong Kong clubhouse with undulating playground and rope-climbing tower",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 0,
+  "fetch": "fetch_error:HTTPError",
+  "cliche_hits": [],
+  "read_at": "2026-09-30 17:59",
+  "research": {
+   "entities": [
+    "Snøhetta",
+    "Tai Wai",
+    "Pavilia Farm",
+    "Sky House"
+   ],
+   "questions": [
+    "스뇌헤타가 디자인한 스카이 하우스 클럽하우스의 전체적인 건축적 특징은 무엇인가요?",
+    "파빌리아 팜 주거 개발 프로젝트에서 스뇌헤타가 맡은 역할과 디자인 철학은 무엇인가요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Snøhetta (company)",
+     "url": "https://en.wikipedia.org/wiki/Sn%C3%B8hetta%20%28company%29"
+    },
+    {
+     "n": 2,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "스뇌헤타가 완성한 홍콩의 녹색 폐, 파빌리아 팜 클럽하우스",
+     "url": "https://www.archdaily.com/1185885/pavilia-farm-clubhouses-snohetta"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 368
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "archdaily.com/1185930/rio-house": {
+  "title_ko": "기존 수영장을 축으로 삼아 불규칙한 대지를 재편한 리오 하우스",
+  "summary_ko": "아르헨티나 필라르에 위치한 리오 하우스는 철거된 이전 주거지의 흔적인 수영장을 보존하며 시작된 250㎡ 규모의 주택이다. 브라카몬테예르바는 불규칙한 대지 형태를 수용하기 위해 기존 수영장을 설계의 중심축으로 삼아 새로운 공간을 배치했다.",
+  "lens": "대지의 불규칙한 경계를 부정하지 않고, 남겨진 수영장의 기하학적 형태를 주거 동선의 중심점으로 삼아 공간의 위계를 설정했다.",
+  "why_now": "기존 구조물의 흔적을 완전히 지우지 않고 새로운 건축의 물리적 토대로 삼는 재생적 설계 방식이 주거 건축에서 더욱 중요해지고 있다.",
+  "mechanism": "철거 후 남은 수영장의 위치를 고정된 좌표로 설정하고, 그 주변으로 주거 공간을 유기적으로 배치해 대지의 부정형을 공간의 개성으로 전환했다.",
+  "sensory": "수영장의 수평적 수면과 주변 공간의 각진 벽면이 대비되며 시각적인 긴장감을 형성한다.",
+  "transfer": "불규칙한 부지를 마주할 때, 현장에 남은 기존 오브제나 구조물을 삭제 대상이 아닌 레이아웃의 첫 번째 기준으로 활용해 공간의 서사를 구축할 수 있다.",
+  "context": "브라카몬테예르바는 아르헨티나 필라르를 중심으로 대지 내 기존 요소와 조화를 이루는 주거 프로젝트를 수행한다.",
+  "findings": [],
+  "keywords": [
+   "주거건축",
+   "대지조건",
+   "재생건축",
+   "공간배치",
+   "아르헨티나"
+  ],
+  "evidence": "a pre-existing swimming pool became the only remaining trace preserved after the demolition of a former dwelling.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "기존 수영장을 보존하여 대지 조건을 극복한 설계 의도는 명확하나, 세부적인 재료나 공간 구성의 구체적인 작동 방식에 대한 정보가 부족하다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1185930/rio-house",
+  "original_title": "Rio house / bracamonteyerba",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 893,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-09-30 17:59",
+  "research": {
+   "entities": [
+    "bracamonteyerba",
+    "Javier Bracamonte",
+    "Gonzalo Yerba"
+   ],
+   "questions": [
+    "불규칙한 형태의 대지 조건이 건축 설계 과정에서 어떤 공간적 제약과 기회로 작용했는가?",
+    "기존에 존재하던 수영장을 보존하면서 새로운 주거 공간을 배치할 때 고려한 건축적 의도는 무엇인가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "dezeen.com/2026/09/30/norman-foster-dezeen-awards-2026-party-keynote": {
+  "title_ko": "노먼 포스터, 디진 어워즈 2026 파티서 기조연설",
+  "summary_ko": "영국 건축가 노먼 포스터(Norman Foster)가 디진 어워즈 2026(Dezeen Awards 2026) 파티에서 건축의 미래를 주제로 기조연설을 진행한다. 그는 연설을 통해 자신의 주요 작품 세계와 철학을 조명할 예정이다.",
+  "lens": "하이테크 건축의 거장이 바라보는 당대 공간의 미래를 확인하는 자리다.",
+  "why_now": "글로벌 디자인 매체가 주관하는 행사의 기조연설은 당대 크리에이티브 지형도의 기준점을 제시한다.",
+  "mechanism": "자신의 방대한 포트폴리오 속 주요 구조물과 실무 경험을 교차하여 미래 건축의 실천적 방향을 역설한다.",
+  "sensory": "런던을 기반으로 전 세계 스튜디오를 이끄는 거장의 목소리를 통해 메가 스케일 건축의 철학적 깊이를 체감한다.",
+  "transfer": "거대한 도시 인프라와 하이테크 구조물을 기획할 때 거시적 관점과 지속 가능성을 콘티와 공간 연출에 대입한다.",
+  "context": "포스터 앤 파트너스(Foster and Partners)는 1967년 노먼 포스터가 설립한 이후 하이테크 건축과 모더니즘 디자인을 바탕으로 대규모 프로젝트를 수행해 왔다.",
+  "findings": [
+   {
+    "text": "Foster and Partners (styled as Foster + Partners) is a British international architecture firm, which is headquartered in London, England.",
+    "s": 1,
+    "quote": "Foster and Partners (styled as Foster + Partners) is a British international architecture firm, which is headquartered in London, England."
+   },
+   {
+    "text": "It was founded in 1967 by British architect and designer Norman Foster.",
+    "s": 1,
+    "quote": "It was founded in 1967 by British architect and designer Norman Foster."
+   }
+  ],
+  "keywords": [
+   "노먼포스터",
+   "디진어워즈",
+   "하이테크건축",
+   "건축미래"
+  ],
+  "evidence": "Norman Foster to give keynote speech at Dezeen Awards 2026 party",
+  "kind": "행사·공모",
+  "depth": 2,
+  "grounding": "thin",
+  "depth_reason": "행사 개최 안내 공지 성격의 단신 기사이므로 정보와 맥락이 제한적이다.",
+  "v": 2,
+  "url": "https://www.dezeen.com/2026/09/30/norman-foster-dezeen-awards-2026-party-keynote/",
+  "original_title": "Norman Foster to give keynote speech at Dezeen Awards 2026 party",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 0,
+  "fetch": "fetch_error:HTTPError",
+  "cliche_hits": [],
+  "read_at": "2026-09-30 17:59",
+  "research": {
+   "entities": [
+    "Norman Foster",
+    "Foster + Partners",
+    "Dezeen Awards"
+   ],
+   "questions": [
+    "노먼 포스터가 최근 건축의 미래에 대해 강조하고 있는 핵심 가치는 무엇인가?",
+    "Dezeen Awards가 건축계에서 가지는 위상과 이번 기조연설이 갖는 의미는 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Foster and Partners",
+     "url": "https://en.wikipedia.org/wiki/Foster%20and%20Partners"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Dezeen",
+     "url": "https://en.wikipedia.org/wiki/Dezeen"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "디진 어워즈 2026 마스터 심사위원단이 던진 질문",
+     "url": "https://www.dezeen.com/2026/09/24/dezeen-awards-2026-trimble-master-jury-video/"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "디진 어워드 2026 건축 부문 최종 후보 152선 공개",
+     "url": "https://www.dezeen.com/2026/09/21/dezeen-awards-2026-architecture-shortlist/"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "디진 어워즈 2026 유럽·중동·아프리카 지역 쇼케이스 50선",
+     "url": "https://www.dezeen.com/2026/09/09/emea-regional-showcases-dezeen-awards/"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 2101
+  },
+  "depth_raw": 2,
+  "depth_v": 2
+ },
+ "dezeen.com/2026/09/30/recyclable-wildflower-timber-installation-buildfest-2026": {
+  "title_ko": "빌드페스트 2026: 대학생들이 제안하는 목재 프로토타입과 야생화 설치물",
+  "summary_ko": "미국 리하이 대학교와 시라큐스 대학교 학생들이 빌드페스트 2026에서 목재를 활용한 설치 작업을 공개했다. 이들은 재활용 가능한 소재를 적용한 야생화 설치물 등을 통해 건축적 프로토타입을 실험했다.",
+  "lens": "재료의 생애주기를 고려한 목재 구조물로 건축의 일시성과 순환 가능성을 탐구한다.",
+  "why_now": "지속 가능한 건축을 위해 구조재의 재사용과 해체 가능성을 실험하는 학술적 시도가 늘고 있다.",
+  "mechanism": "맞춤형 디자인을 적용한 목재 부재를 조립하여 구조적 안정성을 확보하고, 추후 해체와 재활용이 용이한 접합 방식을 택했다.",
+  "sensory": "목재 특유의 결이 살아있는 질감과 야생화의 유기적인 곡선이 대조를 이루며 공간의 밀도를 높인다.",
+  "transfer": "가설 건축물을 설계할 때 나사나 볼트 대신 부재를 끼워 맞추는 결구 방식을 활용해 폐기물을 최소화하는 동선을 구성한다.",
+  "context": "리하이 대학교와 시라큐스 대학교는 모두 미국 내 연구 중심 대학으로, 건축 및 공학 분야에서 실무 중심의 프로토타입 연구를 수행해 왔다.",
+  "findings": [
+   {
+    "text": "리하이 대학교는 1865년 사업가 에이사 패커가 설립한 미국 펜실베이니아주 베들레헴 소재의 사립 연구 중심 대학이다.",
+    "s": 1,
+    "quote": "Lehigh University (LU) is a private research university in Bethlehem, Pennsylvania, United States. The university was established in 1865 by businessman Asa Packer."
+   },
+   {
+    "text": "시라큐스 대학교는 뉴욕주 시라큐스에 위치하며 1870년에 설립된 사립 연구 중심 대학으로 다양한 건축 양식이 혼재된 캠퍼스를 보유하고 있다.",
+    "s": 2,
+    "quote": "Syracuse University (informally 'Cuse or SU) is a private research university in Syracuse, New York, United States. It was established in 1870"
+   }
+  ],
+  "keywords": [
+   "목재건축",
+   "빌드페스트",
+   "재활용",
+   "프로토타입",
+   "지속가능성"
+  ],
+  "evidence": "Recyclable Wildflower installation among timber prototypes at BuildFest 2026",
+  "kind": "프로젝트",
+  "depth": 2,
+  "grounding": "thin",
+  "depth_reason": "원문 본문이 확인되지 않아 프로젝트의 구체적인 구조적 장치나 교육적 배경을 충분히 설명하기 어렵다.",
+  "v": 2,
+  "url": "https://www.dezeen.com/2026/09/30/recyclable-wildflower-timber-installation-buildfest-2026/",
+  "original_title": "Recyclable Wildflower installation among timber prototypes at BuildFest 2026",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 0,
+  "fetch": "fetch_error:HTTPError",
+  "cliche_hits": [],
+  "read_at": "2026-09-30 17:59",
+  "research": {
+   "entities": [
+    "Lehigh University",
+    "Syracuse University",
+    "BuildFest"
+   ],
+   "questions": [
+    "BuildFest 2026에서 선보인 Wildflowers 설치물의 구체적인 구조와 재활용 방식은 무엇인가요?",
+    "Lehigh University와 Syracuse University 학생들이 협업하게 된 배경과 이 프로젝트의 교육적 목표는 무엇인가요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Lehigh University",
+     "url": "https://en.wikipedia.org/wiki/Lehigh%20University"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Syracuse University",
+     "url": "https://en.wikipedia.org/wiki/Syracuse%20University"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 1634
+  },
+  "depth_raw": 2,
+  "depth_v": 2
+ },
+ "wallpaper.com/design-interiors/hello-klean-skin-filter-launch": {
+  "title_ko": "수도꼭지에 심은 미니멀 정수 공학, 헬로 클린의 스킨 필터",
+  "summary_ko": "영국의 수질 여과 기업 헬로 클린이 욕실 세면대 수전용 스킨 필터를 공개했다. 칼슘 기반 스케일 억제제와 티타늄 기반 매체, 활성탄소섬유의 삼중 여과 방식을 적용해 경수와 잔류 염소를 줄인다. 유량 측정 센서와 교체 시기를 알리는 스마트 리필 라이트를 탑재했다.",
+  "lens": "욕실 수전이라는 일상적 접점에 정수 기술을 결합해 피부 관리의 기준을 재정의한다.",
+  "why_now": "보습 제품을 바꾸는 데 집중하던 뷰티 루머의 시선이 물의 물리적 조건 자체로 이동하고 있다.",
+  "mechanism": "칼슘 기반 스케일 억제제와 결정질 티타늄, 활성탄소섬유를 결합한 삼중 구조가 금속 물질과 염소를 차단한다.",
+  "sensory": "매끄러운 블랙과 크롬 마감의 금속 실루엣이 단일 레버 수전에 일체감 있게 결합한다.",
+  "transfer": "욕실 공간을 배경으로 한 미니멀한 제품 컷에서 유량 센서와 LED 라이트의 직관적인 작동 방식을 클로즈업 샷으로 담아낸다.",
+  "context": "헬로 클린은 2019년 샤워기 필터를 시작으로 모발과 두피를 보호하는 수질 솔루션을 선보여 왔다.",
+  "findings": [],
+  "keywords": [
+   "수질여과",
+   "스킨필터",
+   "욕실디자인",
+   "헬로클린"
+  ],
+  "evidence": "With this in mind, the brand now launches the Skin Filter, focusing this time on the bathroom sink to offer multi-stage filtration enhanced with microbubble cleansing technology as well as intelligent water tracking.",
+  "kind": "제품·오브제",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "일상적 수전 가전에 정밀 여과 기술과 스마트 센서를 결합한 실용적인 제품 출시다.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/design-interiors/hello-klean-skin-filter-launch",
+  "original_title": "Beauty starts from water: Hello Klean introduces a water-tap filter",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 3295,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-09-30 17:59",
+  "research": {
+   "entities": [
+    "Hello Klean",
+    "Karlee Zhang",
+    "Wallpaper*",
+    "Rosa Bertoli"
+   ],
+   "questions": [
+    "Hello Klean의 Skin Filter는 기존 샤워 필터 제품과 어떤 기술적 차이가 있는가?",
+    "경수와 잔류 염소가 피부와 모발 건강에 미치는 영향은 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Hello Klean | Beauty Solutions for your water",
+     "url": "https://go.redirectingat.com?id=92X1650074&xcust=wallpaper_us_9491659267007257648&xs=1&url=https%3A%2F%2Fhelloklean.com%2F&sref=https%3A%2F%2Fwww.wallpaper.com"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Wallpaper (magazine)",
+     "url": "https://en.wikipedia.org/wiki/Wallpaper%20%28magazine%29"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "홍콩 전후 공공 주거의 격자를 베스널 그린에 이식하다",
+     "url": "https://www.wallpaper.com/travel/bakery-hoko-london-cafe-review"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "에스 데블린의 16페이지 콘서티나 커버, 월페이퍼 30주년의 기록",
+     "url": "https://www.wallpaper.com/design-interiors/es-devlin-16-page-concertina-cover-for-october-2026-wallpaper"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "월페이퍼 30주년, 17인의 크리에이터가 빚어낸 케이크의 형상들",
+     "url": "https://www.wallpaper.com/art/wallpaper-30-birthday-cakes"
+    }
+   ],
+   "used": [],
+   "chars": 3746
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "wallpaper.com/architecture/residential/hilltop-cottage-new-brunswick-canada": {
+  "title_ko": "맥케이-라이언스 스위트애플이 설계한 캐나다 뉴브런즈윅의 힐탑 코티지",
+  "summary_ko": "맥케이-라이언스 스위트애플 아키텍츠가 캐나다 뉴브런즈윅에 완공한 힐탑 코티지는 건축주의 약속이 깃든 장소를 기리는 파빌리온 형태의 주택이다. 현지산 들돌과 삼나무를 주재료로 사용했으며, 스코틀랜드와 아일랜드의 전통 주거 양식을 현대적으로 재해석했다.",
+  "lens": "단순함이라는 목표를 위해 과잉 설계를 덜어내고, 찰스 무어의 ‘집 안의 집’ 개념을 빌려 폐쇄적인 보호와 개방적인 조망을 동시에 구현했다.",
+  "why_now": "복잡한 기교 대신 지역적 재료와 역사적 원형을 현대적 타이폴로지로 치환하는 미니멀리즘의 실천이 돋보인다.",
+  "mechanism": "중앙 집중식 평면과 연속된 코너 창을 활용해 내부의 안락함과 외부 풍경의 확장성을 동시에 확보했다. 슬라이딩 목재 도어와 깊은 처마는 물리적 경계를 유연하게 조절하는 장치로 작동한다.",
+  "sensory": "삼나무 특유의 향과 질감이 실내를 채우고, 천창을 통해 들어오는 빛이 육중한 석조 벽체와 대비되며 공간의 깊이를 만든다.",
+  "transfer": "공간의 개방감을 극대화할 때 모서리 창을 프레임 없이 연결하고, 깊은 처마를 활용해 실내외의 시각적 연속성을 확보하는 연출을 적용할 수 있다.",
+  "context": "맥케이-라이언스 스위트애플 아키텍츠는 문화, 학술, 주거 프로젝트 전반에서 지역성과 현대적 건축 언어의 조화를 추구한다. 이번 프로젝트는 찰스 무어의 1962년작 오린다 하우스의 공간 구조를 참조하여, 내부의 보호받는 느낌과 외부 조망의 개방감을 절묘하게 결합했다.",
+  "findings": [
+   {
+    "text": "맥케이-라이언스 스위트애플 아키텍츠는 지역 및 국제적으로 문화, 학술, 주거 프로젝트를 수행하며 건축, 인테리어, 도시 디자인 서비스를 제공한다.",
+    "s": 1,
+    "quote": "The practice works locally and internationally on cultural, academic and residential projects, providing full architectural, interior design and urban design services."
+   },
+   {
+    "text": "찰스 무어는 1991년 미국건축가협회(AIA) 금메달을 수상한 건축가이자 교육자로, 포스트모더니즘의 아버지로 불린다.",
+    "s": 2,
+    "quote": "Charles Willard Moore (October 31, 1925 – December 16, 1993) was an American architect, educator, writer, Fellow of the American Institute of Architects, and winner of the AIA Gold Medal in 1991. He is often labeled as t"
+   }
+  ],
+  "keywords": [
+   "건축",
+   "공간 디자인",
+   "맥케이라이언스스위트애플",
+   "주거 건축"
+  ],
+  "evidence": "The centralised plan creates a grounded sense of protection, while carefully placed openings offer expansive views of the landscape.",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "건축적 참조 대상과 공간 구성 원리가 명확하며, 재료와 기법이 구체적으로 제시되어 설계적 맥락이 충분하다.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/architecture/residential/hilltop-cottage-new-brunswick-canada",
+  "original_title": "Peek inside this New Brunswick home, where cottage and cabin collide",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 2857,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-09-30 17:59",
+  "research": {
+   "entities": [
+    "MacKay-Lyons Sweetapple Architects",
+    "Charles Moore",
+    "Orinda House",
+    "Hilltop Cottage",
+    "Tianna Williams"
+   ],
+   "questions": [
+    "MacKay-Lyons Sweetapple Architects는 캐나다 동부의 지역적 특성을 건축에 어떻게 반영하는가?",
+    "찰스 무어의 오린다 하우스(Orinda House)가 지닌 '집 안의 집' 개념은 힐탑 코티지에 어떻게 적용되었는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "MacKay-Lyons Sweetapple Architects",
+     "url": "https://www.mlsarchitects.ca/"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Charles Moore (architect)",
+     "url": "https://en.wikipedia.org/wiki/Charles%20Moore%20%28architect%29"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 582
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "creativeboom.com/work/derekerics-identity-for-an-olive-oil-brand-swaps-tuscan-cliches-for-attitude-and-colour": {
+  "title_ko": "토스카나의 진부함을 버리고 유연함을 짜내다, 올리브 오일 브랜드 드즐",
+  "summary_ko": "런던 브랜딩 에이전시 데릭앤에릭이 레시피 개발자 나탈리아 루딘의 올리브 오일 브랜드 드즐을 위한 비주얼 아이덴티티를 완성했다. 전통적인 유리병과 토스카나 풍경 대신 흘러내리는 형태의 워드마크와 감귤류 색상을 조합한 스퀴즈 용기를 도입해 차별화를 꾀했다.",
+  "lens": "유리병의 권위를 벗어던진 스퀴즈 용기와 유기적 서체로 식품 패키지의 고정관념을 전복한다.",
+  "why_now": "프리미엄 식재료에 대한 대중적 관심이 높아진 시대에 전통적 산지 이미지를 답습하는 대신 위트 있는 태도로 차별화를 꾀하는 브랜딩이 주목받는다.",
+  "mechanism": "타이포그래피 전문 스튜디오 드라마와 협업한 워드마크는 노즐에서 흘러나오는 오일의 유동성을 두 개의 Z를 포개어 시각화했다.",
+  "sensory": "깊은 나뭇잎 녹색과 강렬한 주황 및 노란색의 대비, 플래시 조명 아래 거칠고 입자감 있는 필름 사진으로 장난스럽고 역동적인 분위기를 만든다.",
+  "transfer": "제품 패키지나 소품에 직관적인 기능성을 부여할 때 전형적인 소재 대신 이질적인 형태와 대담한 원색 조합을 배치한다.",
+  "context": "런던의 브랜딩 에이전시 데릭앤에릭(Derek&Eric)이 타이포그래피 전문 스튜디오 드라마(Studio Drama)와 협력하여 작업했다.",
+  "findings": [
+   {
+    "text": "스튜디오 드라마는 아이덴티티를 날카롭게 다듬고 시스템 전반에 확장되는 서체를 디자인한다.",
+    "s": 1,
+    "quote": "We design type that sharpens identities, scales across systems, solves real business challenges, and makes every word unmistakably yours."
+   }
+  ],
+  "keywords": [
+   "브랜딩",
+   "패키지디자인",
+   "타이포그래피",
+   "스퀴즈용기",
+   "시각예술"
+  ],
+  "evidence": "Drzzl, a new olive oil brand, is brought to life with zingy colours and a wiggly wordmark.",
+  "kind": "제품·오브제",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "신생 올리브 오일 브랜드의 구체적인 패키지 전략과 시각적 장치를 다루나 적용 범위가 제품 카테고리에 한정된다.",
+  "v": 2,
+  "url": "https://www.creativeboom.com/work/derekerics-identity-for-an-olive-oil-brand-swaps-tuscan-cliches-for-attitude-and-colour/",
+  "original_title": "Derek&Eric's olive oil identity swaps Tuscan cliches for attitude and colour",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 8847,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-09-30 17:59",
+  "research": {
+   "entities": [
+    "Derek&Eric",
+    "Studio Drama",
+    "Natalia Rudin"
+   ],
+   "questions": [
+    "드즐(Drzzl) 올리브오일의 패키지 디자인이 기존 토스카나 지역의 전통적 브랜딩 방식과 차별화되는 핵심 요소는 무엇인가?",
+    "런던의 브랜딩 에이전시 데릭앤에릭(Derek&Eric)은 타겟 소비자의 성향을 시각 디자인에 어떻게 반영했는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Studio DRAMA",
+     "url": "https://studio-drama.com/"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 429
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "itsnicethat.com/articles/emily-klaebe-graphic-design-discover-300926": {
+  "title_ko": "타이포그래피로 구축하는 소우주: 에밀리 클라베의 서체 디자인",
+  "summary_ko": "포틀랜드 기반의 그래픽 디자이너 에밀리 클라베는 지하철 타일, 달팽이 껍질, 막대 사탕 등 일상적 사물에서 서체의 조형적 원리를 추출한다. 그는 서체를 단순한 문자 체계가 아닌, 색상과 재료를 결합해 특정한 분위기와 문화를 대변하는 소우주로 설계한다.",
+  "lens": "글자를 단순히 읽히는 기호가 아니라, 특정 재료와 질감이 결합된 물리적 세계의 파편으로 치환하여 타이포그래피의 외연을 확장한다.",
+  "why_now": "디지털 환경에서 서체가 브랜드의 정체성을 넘어 하나의 독립된 세계관을 구축하는 핵심 요소로 자리 잡고 있다.",
+  "mechanism": "킥드럼 서체는 70년대 기하학적 그리드에 막대 사탕이나 달팽이 껍질의 유기적 곡선을 결합했고, 미시브 비즈는 자수 기법의 그리드 체계에 맞춰 세리프의 획을 구슬 형태로 재구성했다.",
+  "sensory": "미시브 세리프의 드라마틱한 플레어와 끈적한 볼 터미널에서 아르누보 양식의 장식적 질감이 느껴지며, 미시브 비즈는 실제 비즈 공예의 규칙적인 리듬감을 시각화한다.",
+  "transfer": "자막이나 타이틀 디자인 시, 서체를 단순 폰트로 보지 말고 특정 오브제(비즈, 금속 등)의 물리적 속성을 그리드에 대입해 텍스트에 질감을 입히는 방식으로 활용한다.",
+  "context": "에밀리 클라베는 오더 타입 파운드리에서 디자인 리드를 역임했으며, 레터폼 아카이브의 타입 웨스트 프로그램을 통해 서체 시스템을 체계화했다. 현재 킨드 타입 파운드리를 통해 실험적인 서체군을 선보이며 그래픽 디자인과 타이포그래피의 접점을 탐구하고 있다.",
+  "findings": [
+   {
+    "text": "에밀리 클라베는 2022년 레터폼 아카이브의 타입 웨스트 프로그램을 수료하며 서체 패밀리 디자인을 전문적으로 익혔다.",
+    "s": 1,
+    "quote": "Emily completed San Francisco’s Type West postgraduate certificate program at the Letterform Archive in designing comprehensive type families."
+   },
+   {
+    "text": "에밀리 클라베는 2023년 포틀랜드 주립대학교에서 트래비스 코첼과 함께 서체 디자인 기초 과정을 공동 강의했다.",
+    "s": 1,
+    "quote": "in 2023 she co-taught a course focused on the foundations of typeface design at Portland State University with Travis Kochel."
+   }
+  ],
+  "keywords": [
+   "타이포그래피",
+   "서체 디자인",
+   "에밀리 클라베",
+   "그래픽 디자인",
+   "월드 빌딩"
+  ],
+  "evidence": "Emily Klaebe thinks of type as “the ambassador of sentiments and culture”.",
+  "kind": "작가·인터뷰",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "서체를 물리적 사물과 연결해 세계관을 구축하는 구체적인 방법론을 제시하고 있어 디자인 실무에 적용할 통찰이 명확하다.",
+  "v": 2,
+  "url": "https://www.itsnicethat.com/articles/emily-klaebe-graphic-design-discover-300926",
+  "original_title": "Swirls, beads and Art Nouveau roots: Emily Klaebe on type design as world building",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 3377,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-09-30 17:59",
+  "research": {
+   "entities": [
+    "Emily Klaebe",
+    "Portland State University",
+    "Art Nouveau"
+   ],
+   "questions": [
+    "Emily Klaebe의 대표적인 타이페이스인 Kickdrum과 Missive Serif는 각각 어떤 디자인 철학을 반영하고 있는가?",
+    "타이포그래피를 통한 월드 빌딩(world building)이라는 개념이 실제 브랜드 아이덴티티나 그래픽 디자인 프로젝트에서 어떻게 구현되는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Emily Klaebe",
+     "url": "https://emilyklaebe.com/"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Portland State University",
+     "url": "https://en.wikipedia.org/wiki/Portland%20State%20University"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 1790
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "creativeboom.com/work/this-packaging-for-ready-made-dinners-can-teach-you-to-cook-better": {
+  "title_ko": "요리 상자를 요리 교실로 바꾸는 스튜디오 센터의 리프 브랜딩",
+  "summary_ko": "뉴욕 스튜디오 센터가 파인 다이닝 셰프 다니엘 흄의 새로운 밀키트 브랜드 리프의 브랜딩을 맡아 저녁 식사 상자를 요리 교육 도구로 재구성했다. 제품 패키지는 강렬한 타이포그래피와 교육 교재에서 영감을 받은 12가지 색상 체계를 적용하고, 신선한 식재료의 역할을 강조하는 디자인을 선보인다.",
+  "lens": "밀키트 포장을 단순한 유통 수단이 아닌 요리 감각을 깨우는 교육 교재로 탈바꿈시킨다.",
+  "why_now": "물가 상승으로 가정 내 요리가 늘어나는 시대에, 편의성과 품질의 양립을 디자인 전략으로 돌파한다.",
+  "mechanism": "곡선 베이스 위에 얹힌 굵은 워드마크와 맛별로 지정된 12가지 색상 팔레트가 상자의 전후면에서 요리 지침과 식재료 정보를 직관적으로 전달한다.",
+  "sensory": "에어브러시로 가공되지 않은 날것 그대로의 음식 사진과 물기가 남아 있는 신선한 식재료가 강렬한 대비를 이룬다.",
+  "transfer": "정보 전달용 그래픽을 패키지 전면에 크게 배치하고 마스코트의 손글씨 팁을 활용해 튜토리얼 성격을 부여한다.",
+  "context": "뉴욕 브루클린에 기반을 둔 디자인 회사 센터(Center)는 유니크한 시각 언어로 식음료 브랜드의 정체성을 구축해 왔다. (S1) 스위스 출신의 셰프 다니엘 흄은 일레븐 매디슨 파크를 거치며 식물성 기반 파인 다이닝을 이끌어왔다. (S2)",
+  "findings": [
+   {
+    "text": "센터는 뉴욕 브루클린에 기반을 둔 브랜드 디자인 회사다.",
+    "s": 1,
+    "quote": "Center is a brand design company based in Brooklyn New York."
+   },
+   {
+    "text": "다니엘 흄은 2017년 일레븐 매디슨 파크를 세계 50대 레스토랑 1위에 올렸다.",
+    "s": 2,
+    "quote": "In 2017, Eleven Madison Park became number 1 on the World's 50 Best Restaurants."
+   }
+  ],
+  "keywords": [
+   "밀키트",
+   "브랜딩",
+   "타이포그래피",
+   "패키지디자인"
+  ],
+  "evidence": "Center's identity for Riff, chef Daniel Humm's new meal kits, turns the dinner box into a cookery lesson.",
+  "kind": "브랜드·캠페인",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "밀키트 패키지를 교육적 도구로 해석한 디자인 전략이 흥미로우나 일반적인 브랜드 리뉴얼 범주를 크게 벗어나지 않는다.",
+  "v": 2,
+  "url": "https://www.creativeboom.com/work/this-packaging-for-ready-made-dinners-can-teach-you-to-cook-better/",
+  "original_title": "This packaging for ready-made dinners can teach you to cook better",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 9000,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-09-30 17:59",
+  "research": {
+   "entities": [
+    "Daniel Humm",
+    "Eleven Madison Park",
+    "Center",
+    "Riff"
+   ],
+   "questions": [
+    "다니엘 흄이 추구하는 '식물성 기반 파인 다이닝' 철학이 어떻게 대중적인 밀키트 브랜드인 Riff에 녹아들었는가?",
+    "Center 스튜디오가 디자인한 패키지의 타이포그래피와 색상 시스템이 소비자에게 요리 교육적 경험을 제공하는 구체적인 방식은 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Center",
+     "url": "https://center.design/"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Daniel Humm",
+     "url": "https://en.wikipedia.org/wiki/Daniel%20Humm"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "100명의 청소년과 함께하는 공공 예술, 2027 빔 캠프 프로젝트 오픈콜",
+     "url": "https://www.archdaily.com/1185803/2027-beam-camp-project-open-call"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "엘 무세오 델 바리오, 대관 행사 내용 검증 부실로 공식 사과",
+     "url": "https://hyperallergic.com/el-museo-del-barrio-apologizes-for-renting-space-for-9-11-conspiracy-event/"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "보르도 뒤낭 보건소: 단절된 진료실을 넘어 협업을 설계하는 의료 공간",
+     "url": "https://www.archdaily.com/1185369/multidisciplinary-health-center-bordeaux-dunant-bartolo-plus-contre"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 1840
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "itsnicethat.com/articles/sveinung-sudbos-illustration-publication-project-300926": {
+  "title_ko": "맛의 감각을 해체하다: 태국 요리책 뱅 쿡 북의 콜라주 실험",
+  "summary_ko": "노르웨이 일러스트레이터 스베이눙 수드뵈(Sveinung Sudbø)가 태국 현지에서 맛본 감각을 기록한 요리책 '뱅 쿡 북(Bang Cook Book)'을 출간했다. 그는 요리 과정과 유사한 콜라주 기법을 활용해 맛의 복합적인 풍미를 시각화했다. 그래픽 디자이너 율리 엘리제 하우게(Julie Elise Hauge)와 협업하여 완성한 이 책은 정형화된 음식 묘사에서 벗어나 맛의 기억과 순간적인 감각을 강렬한 색채로 재구성한다.",
+  "lens": "요리의 재료를 층층이 쌓고 섞는 조리 과정을 종이를 찢고 겹치는 콜라주 기법으로 치환하여 맛의 구조를 시각화했다.",
+  "why_now": "디지털로 정제된 음식 이미지가 범람하는 시대에, 작가는 손으로 찢은 종이의 거친 질감과 원색의 안료를 통해 인간만이 재현할 수 있는 날것의 감각을 복원한다.",
+  "mechanism": "아쿠아렐 파스텔로 현장에서 즉흥적으로 스케치한 뒤, 이를 종이 콜라주로 재조합하여 맛의 폭발적인 감각을 카무플라주 패턴이나 만화경 같은 복잡한 구성으로 구현했다.",
+  "sensory": "손으로 직접 찢어 만든 종이의 불규칙한 단면과 포화도 높은 색채가 층을 이루며, 거리의 소음과 향신료의 강렬함이 섞인 태국의 공기를 시각적 질감으로 치환한다.",
+  "transfer": "영상을 편집할 때 레이어별로 컷을 찢어 중첩시키거나, 채도가 다른 색면을 빠르게 교차 편집하여 미각적 경험을 시각적 리듬으로 변환하는 연출에 활용할 수 있다.",
+  "context": "작가는 앙리 마티스(Henri Matisse)의 컷아웃 기법에서 영감을 얻어 수작업의 질감을 강조했다. 이는 일상의 사물을 유희의 대상으로 치환하는 최근의 아트 북 경향과 궤를 같이하며, 시각 예술로서의 요리 기록이라는 새로운 장르를 탐구한다.",
+  "findings": [
+   {
+    "text": "앙리 마티스는 말년에 건강 악화로 그림을 그리기 어려워지자 종이를 오려 붙이는 콜라주 기법으로 중요한 작품들을 남겼다.",
+    "s": 1,
+    "quote": "When ill health in his final years prevented him from painting, he created an important body of work in the medium of cut paper collage."
+   }
+  ],
+  "keywords": [
+   "콜라주",
+   "뱅 쿡 북",
+   "스베이눙 수드뵈",
+   "시각화",
+   "태국 요리"
+  ],
+  "evidence": "it has some of the same qualities as cooking a dish – you start with each element individually, then layer them, and mix them together",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "요리 과정을 콜라주 기법의 물리적 공정과 연결한 논리가 명확하며, 시각적 재현의 방법론을 구체적으로 제시한다.",
+  "v": 2,
+  "url": "https://www.itsnicethat.com/articles/sveinung-sudbos-illustration-publication-project-300926",
+  "original_title": "What does flavour feel like? This Thai recipe book uses hand-ripped collage and vivid pigments to figure it out",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 4785,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-09-30 17:59",
+  "research": {
+   "entities": [
+    "Sveinung Sudbø",
+    "Julie Elise Hauge",
+    "Studio Trikken",
+    "Henri Matisse"
+   ],
+   "questions": [
+    "콜라주 기법이 요리의 맛과 감각을 시각적으로 표현하는 데 어떤 예술적 강점을 가지는가?",
+    "태국 음식의 복합적인 풍미를 시각화하기 위해 작가가 선택한 색채와 질감의 상징적 의미는 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Henri Matisse",
+     "url": "https://en.wikipedia.org/wiki/Henri%20Matisse"
+    },
+    {
+     "n": 2,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "바나나라는 캔버스: 100인의 예술가가 탐구한 형태와 유희의 기록",
+     "url": "https://www.itsnicethat.com/articles/studio-trikken-banana-art-book-publication-project-160926"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 1647
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "dazeddigital.com/fashion/article/71077/1/saint-laurent-ss27-paris-fashion-week-pfw-anthony-vaccarello-exit-ysl": {
+  "title_ko": "황금빛 과잉과 샹들리에의 장막: 안토니 바카렐로의 생로랑 SS27",
+  "summary_ko": "벨기에 디자이너 안토니 바카렐로(Anthony Vaccarello)가 파리 패션위크에서 생로랑(Saint Laurent) 부임 10주년을 기념하는 SS27 컬렉션을 선보였다. 에펠탑을 배경으로 세 개의 거대한 샹들리에를 설치했으며, 59벌 중 49벌을 황금빛으로 채운 뒤 마지막 10벌을 검은색으로 대조했다. 샤를로트 갱스부르의 라이브 공연과 함께 디자이너가 아들에게 열쇠를 건네는 제스처가 더해지며 하차설을 증폭시켰다.",
+  "lens": "황금빛 과잉과 장례식 같은 검은색의 대비로 한 시대의 마감을 무대 위 연출로 증명한다.",
+  "why_now": "디자이너의 10주년과 맞물려 인터넷 상에서 하차설이 확산되는 시점에 열려, 패션쇼 형식을 거대한 퇴임식의 은유로 확장했다.",
+  "mechanism": "에펠탑의 형상을 그대로 본뜬 삼단 샹들리에 세 개를 런웨이 상공에 매달아 에펠탑과 시각적 공명을 일으켰고, 피날레에서 샹들리에의 빛과 에펠탑의 점등을 동기화했다.",
+  "sensory": "샤를로트 갱스부르의 벨벳 같은 목소리와 색소폰 연주가 흐르는 가운데, 49벌의 의상이 뿜어내는 금속성 광채와 거울처럼 반사되는 런웨이 바닥이 시각적 압도감을 만든다.",
+  "transfer": "공간의 중심에 거대한 조명 오브제를 반복 배치하고, 피날레에서 인물들을 양쪽 날개로 정렬해 군중 속으로 사라지는 이동 동선을 연출에 활용한다.",
+  "context": "안토니 바카렐로는 2016년 9월 생로랑의 크리에이티브 디렉터로 임명되어 브랜드의 황금기를 이끌어왔다.",
+  "findings": [],
+  "keywords": [
+   "생로랑",
+   "안토니 바카렐로",
+   "SS27",
+   "파리패션위크"
+  ],
+  "evidence": "With a funereal soundtrack, golden garments and half the world’s celebrities sitting front row, everything about the creative director’s PFW show pointed to a swan song",
+  "kind": "런웨이·컬렉션",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "구체적인 무대 장치와 퇴임 은유라는 명확한 연출적 서사가 있으나 런웨이 리뷰 보도에 국한된다.",
+  "v": 2,
+  "url": "https://www.dazeddigital.com/fashion/article/71077/1/saint-laurent-ss27-paris-fashion-week-pfw-anthony-vaccarello-exit-ysl?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=saint-laurent-ss27-did-anthony-vaccarello-just-bid-farewell-to-ysl",
+  "original_title": "Saint Laurent SS27: Did Anthony Vaccarello just bid farewell to YSL?",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 5682,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-09-30 17:59",
+  "research": {
+   "entities": [
+    "Anthony Vaccarello",
+    "Saint Laurent",
+    "Yves Saint Laurent",
+    "Charlotte"
+   ],
+   "questions": [
+    "앤서니 바카렐로가 생로랑을 정말로 떠나는지에 대한 공식 입장이 발표되었나요?",
+    "이번 SS27 컬렉션에서 생로랑이 에펠탑과 샹제리제를 활용한 연출의 숨겨진 의미는 무엇인가요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Anthony Vaccarello",
+     "url": "https://en.wikipedia.org/wiki/Anthony%20Vaccarello"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Yves Saint Laurent (designer)",
+     "url": "https://en.wikipedia.org/wiki/Yves%20Saint%20Laurent%20%28designer%29"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "로즈 유니악이 구현한 런던 아파트, 시대를 가로지르는 물성의 대화",
+     "url": "https://www.wallpaper.com/design-interiors/interior-design/rose-uniacke-west-london-apartment"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "욕망과 반발의 사이를 그리는 화가 샬럿 폭스의 캔버스",
+     "url": "https://www.creativeboom.com/work/charlotte-fox-on-painting-the-space-between-desire-repulsion-connection-and-fantasy/"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "틱톡 밈과 초기 웹 낙관주의로 구축한 자라 라르손의 비주얼 월드",
+     "url": "https://www.itsnicethat.com/articles/zara-larsson-gary-grimes-culture-column-210926"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 1737
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "creativeboom.com/work/why-publishing-firm-studio-playground-asked-a-kidswear-brand-to-design-its-team-uniform": {
+  "title_ko": "유연한 워크웨어를 향한 시도, 스튜디오 플레이그라운드의 에브리데이 유니폼",
+  "summary_ko": "스튜디오 플레이그라운드(Studio Playground)가 리투아니아의 아동복 브랜드 옥속스 클럽(Oxox Club)과 협업해 한정판 워크웨어 '에브리데이 유니폼'을 출시했다. 움직임이 자유로운 아동복의 설계 방식을 성인용 워크웨어에 적용하여, 전시와 출판 행사 등 현장 업무에 최적화된 기능성과 유희적 디테일을 결합했다.",
+  "lens": "성인용 워크웨어에 아동복의 활동성을 이식하여, 업무 공간의 긴장감을 덜어내는 실용적 대안을 제시한다.",
+  "why_now": "복잡한 선택을 줄여 뇌의 에너지를 보존하려는 유니폼의 본질에, 경직된 비즈니스 룩 대신 유연한 움직임을 결합해 창의적 생산성을 높이려는 흐름이다.",
+  "mechanism": "박시한 재킷과 드로스트링 팬츠로 활동 범위를 확보하고, 스페인산 재활용 면 소재를 사용하여 현장 업무의 물리적 요구를 충족한다.",
+  "sensory": "회색 능직(twill)의 차분한 질감 위로 코발트 블루 포인트 버튼과 자수가 대비를 이루며, 넉넉한 핏이 만드는 여유로운 실루엣이 돋보인다.",
+  "transfer": "포켓의 크기를 인쇄물 규격에 맞춰 설계하고, 단추 하나만 원색으로 배치하여 전체의 톤을 유지하면서도 시각적 리듬을 만드는 연출을 시도할 수 있다.",
+  "context": "스튜디오 플레이그라운드는 스웨덴과 리투아니아를 거점으로 활동하는 전략 스튜디오이자 독립 출판사로, 이번 협업은 2025년 코펜하겐의 3데이즈오브디자인(3daysofdesign) 행사에서 시작되었다.",
+  "findings": [],
+  "keywords": [
+   "워크웨어",
+   "스튜디오 플레이그라운드",
+   "유니폼 디자인",
+   "기능성 의류",
+   "디자인 협업"
+  ],
+  "evidence": "The collaboration began in 2025 with a chat at the creative festival 3daysofdesign in Copenhagen, Denmark.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "실제 업무 환경의 필요에 기반해 아동복의 구조를 워크웨어로 치환한 아이디어가 명확하나, 기술적 혁신보다는 디자인적 접근에 가깝다.",
+  "v": 2,
+  "url": "https://www.creativeboom.com/work/why-publishing-firm-studio-playground-asked-a-kidswear-brand-to-design-its-team-uniform/",
+  "original_title": "Why Studio Playground asked a kidswear brand to design its team uniform",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 8042,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-09-30 17:59",
+  "research": {
+   "entities": [
+    "Studio Playground",
+    "Oxox Club",
+    "3daysofdesign",
+    "Jacobo Campos"
+   ],
+   "questions": [
+    "키즈웨어 브랜드인 Oxox Club이 성인용 워크웨어 유니폼 제작 과정에서 어떻게 아동복의 실용성과 디자인 요소를 접목했는가?",
+    "Studio Playground가 브랜드의 정체성과 이벤트 활동성을 위해 'Everyday Uniform'이라는 제한판 유니폼 컬렉션을 기획한 배경은 무엇인가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "archdaily.com/1186022/path-hendre-bloem-interior-design": {
+  "title_ko": "남아프리카 카루의 건조한 대지 위에 세운 70㎡의 소형 휴양지, PATH 하우스",
+  "summary_ko": "남아프리카공화국 프린스 앨버트 외곽 카루 지역에 위치한 PATH 하우스는 건축과 풍경, 물질성 사이의 관계를 탐구하는 110㎡ 규모의 주택이다. 앙드레 블룸 인테리어 디자인이 설계했으며, 내부 면적 70㎡를 두 층으로 구성해 환경 영향을 최소화하면서 주변 자연환경과 긴밀하게 연결되도록 계획했다.",
+  "lens": "건조한 카루의 풍경을 압도하지 않고, 최소한의 점유로 주변 지형과 물리적·시각적 연속성을 확보하는 소형 건축의 전형이다.",
+  "why_now": "기후 위기 시대에 환경 발자국을 줄이기 위해 주거의 물리적 면적을 극단적으로 압축하면서도 공간의 질을 유지하려는 시도가 늘고 있다.",
+  "mechanism": "내부 면적 70㎡를 수직으로 분할하여 대지 점유 면적을 최소화하고, 주변 환경과 시각적으로 맞닿는 개구부 배치를 통해 실제보다 넓은 공간감을 구현한다.",
+  "sensory": "거친 카루의 대지 질감과 대비되는 정제된 내부 마감, 그리고 창을 통해 들어오는 건조하고 강렬한 햇빛이 실내에 깊은 그림자를 드리운다.",
+  "transfer": "좁은 공간을 설계할 때 수직 동선을 활용해 공간을 층별로 분리하고, 창의 위치를 조절해 외부 풍경을 실내의 일부처럼 끌어들이는 프레임 연출을 적용한다.",
+  "context": "앙드레 블룸 인테리어 디자인이 남아프리카공화국 카루의 지리적 특성을 반영하여 환경 영향을 최소화하는 방향으로 설계한 주거 프로젝트다.",
+  "findings": [],
+  "keywords": [
+   "소형주택",
+   "지속가능성",
+   "카루",
+   "공간설계"
+  ],
+  "evidence": "PATH is a one-bedroom retreat that explores the relationship between architecture, landscape, materiality, and scale.",
+  "kind": "프로젝트",
+  "depth": 2,
+  "grounding": "thin",
+  "depth_reason": "소형 주택의 환경적 접근은 명확하나, 구체적인 지속 가능성 전략이나 상세한 설계 기법이 원문에 충분히 드러나지 않았다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1186022/path-hendre-bloem-interior-design",
+  "original_title": "PATH House / Hendre Bloem Interior Design",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 1239,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-09-30 17:59",
+  "research": {
+   "entities": [
+    "Hendre Bloem Interior Design",
+    "Dokter and Misses",
+    "PATH House"
+   ],
+   "questions": [
+    "남아프리카 공화국 카루(Karoo) 지역의 기후와 환경적 특성이 PATH House의 건축 설계에 어떤 영향을 미쳤는가?",
+    "110m² 규모의 소형 주택에서 환경 영향을 최소화하기 위해 적용된 구체적인 지속 가능성 전략은 무엇인가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
  }
 }
