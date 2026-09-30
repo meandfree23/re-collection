@@ -98297,5 +98297,93 @@
   },
   "depth_raw": 4,
   "depth_v": 2
+ },
+ "hyperallergic.com/kehinde-wiley-requests-to-buy-back-painting-removed-by-state-department": {
+  "title_ko": "케힌데 와일리, 도미니카공화국 대사관서 철거된 자신의 회화 환수 요청",
+  "summary_ko": "케힌데 와일리(Kehinde Wiley)가 지난 8월 도미니카공화국 주재 미국 대사관에서 철거된 자신의 작품 'Siamesas 1960 이후의 젊은 예술가들(2015)'을 재구매하겠다는 의사를 도널드 트럼프(Donald Trump) 대통령에게 서신으로 전달했다. 미국 국무부는 해당 작품을 '폭력적이고 인종차별적인 묘사'가 담겼다는 이유로 철거했다.",
+  "lens": "정치적 검열로 공간에서 배제된 예술품이 작가의 환수 요청을 통해 다시 한번 공적 담론의 중심부로 강제 소환되는 과정이다.",
+  "why_now": "공공기관의 예술품 검열과 철거가 동시대 미술 현장에서 정치적 갈등과 맞물려 어떻게 작동하는지 보여주는 상징적인 사례다.",
+  "mechanism": "작가는 특정 장소와 맥락을 위해 제작한 작품이 그 장소에서 부정당할 때, 구매를 통해 물리적 소유권을 회수함으로써 작품의 서사를 보존하고자 한다.",
+  "sensory": "도미니카공화국 현지 젊은 예술가들과의 협업으로 완성된 이 작품은 지역적 맥락과 인물 중심의 자연주의적 화풍이 결합된 시각적 밀도를 지닌다.",
+  "transfer": "공간의 성격과 배치된 미술품이 정치적 논란으로 제거될 경우, 이를 대체할 오브제나 공간 연출의 대안을 고민하는 기획자들에게 중요한 선례가 된다.",
+  "context": "케힌데 와일리는 고전 회화의 구도를 빌려 흑인 인물을 영웅적으로 묘사하는 작업으로 유명하며, 2017년 버락 오바마 전 대통령의 공식 초상화를 제작했다. 이번 철거는 공공 공간 내 예술품의 정치적 검열이라는 맥락에서 과거 케네디 센터 철거 논란과 같은 정부 주도의 문화적 갈등 사례와 궤를 같이한다.",
+  "findings": [
+   {
+    "text": "케힌데 와일리는 뉴욕에 기반을 둔 미국인 초상화가로, 고전 거장들의 회화를 참조하여 흑인 인물을 자연주의적으로 묘사하는 작업으로 알려져 있다.",
+    "s": 1,
+    "quote": "He is known for his naturalistic paintings of Black subjects that reference the work of Old Master paintings."
+   },
+   {
+    "text": "2017년, 와일리는 스미소니언 국립 초상화 박물관을 위해 버락 오바마 전 미국 대통령의 초상화를 제작하는 의뢰를 받았다.",
+    "s": 1,
+    "quote": "In 2017, Wiley was commissioned to paint former U.S. President Barack Obama's portrait for the National Portrait Gallery of the Smithsonian Institution."
+   }
+  ],
+  "keywords": [
+   "케힌데와일리",
+   "예술검열",
+   "공공미술",
+   "국무부"
+  ],
+  "evidence": "Citing the artist's \"violent and racist words and depictions,\" the US State Department took down the painting",
+  "kind": "뉴스·이슈",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "예술가의 작품 철거 대응과 정치적 검열의 맥락을 다루었으나, 작업 자체의 구체적 조형 분석보다는 사건의 전개에 집중되어 있다.",
+  "v": 2,
+  "url": "https://hyperallergic.com/kehinde-wiley-requests-to-buy-back-painting-removed-by-state-department/",
+  "original_title": "Kehinde Wiley Requests to Buy Back Painting Removed by State Department",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 2237,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-09-30 10:37",
+  "research": {
+   "entities": [
+    "Kehinde Wiley",
+    "Sean Kelly Gallery",
+    "Donald Trump",
+    "Young Artists After Siamesas 1960"
+   ],
+   "questions": [
+    "미국 국무부는 어떠한 근거로 케하인드 와일리의 작품을 도미니카공화국 대사관에서 철거했는가?",
+    "케하인드 와일리가 도미니카공화국 현지에서 젊은 예술가들과 협업하여 제작한 이 작품의 예술적 배경은 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Kehinde Wiley",
+     "url": "https://en.wikipedia.org/wiki/Kehinde%20Wiley"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Donald Trump",
+     "url": "https://en.wikipedia.org/wiki/Donald%20Trump"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "워싱턴 DC 케네디 센터 철거 위기와 모더니즘 건축 보존 갈등",
+     "url": "https://www.dezeen.com/2026/08/27/demolish-kennedy-center-financial-structural-death-spiral/"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "돌리 파튼: 인위적인 외형으로 증명한 가장 진실한 태도",
+     "url": "https://www.dazeddigital.com/music/article/70864/1/5-iconic-dolly-parton-life-lessons-best-quotes?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=5-iconic-life-lessons-from-dolly-parton"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "chars": 2508
+  },
+  "depth_raw": 3,
+  "depth_v": 2
  }
 }
