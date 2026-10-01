@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-10-01 11:36 KST",
+  "generated_at": "2026-10-01 18:23 KST",
   "period": "2026.09.24 - 2026.10.01",
-  "total_articles": 493,
+  "total_articles": 506,
   "genre_breakdown": [
     {
       "genre": "동시대 미술",
-      "count": 214
+      "count": 219
     },
     {
       "genre": "공간·건축",
-      "count": 184
+      "count": 188
     },
     {
       "genre": "아방가르드 패션",
-      "count": 72
+      "count": 76
     },
     {
       "genre": "미디어 파사드·3D",
@@ -23,10 +23,22 @@
   "themes": [
     {
       "keyword": "박물관·전시",
-      "count": 46,
+      "count": 48,
       "previous_count": 27,
       "trend": "rising",
       "items": [
+        {
+          "title": "새롭게 단장한 겐트 디자인 박물관에 들러보세요. ‘접점‘ 과도 같은 공간입니다.",
+          "url": "https://www.wallpaper.com/architecture/public-buildings/ghent-design-museum-belgium",
+          "image_url": "https://cdn.mos.cms.futurecdn.net/s3j9UhZq8hX57tyceVT2XN-1920-80.jpg",
+          "source_name": "Wallpaper*"
+        },
+        {
+          "title": "제7회 파텍 필립 워치 아트 그랜드 전시회가 밀라노에서 막을 열었습니다.",
+          "url": "https://www.wallpaper.com/watches-jewellery/the-seventh-edition-of-the-patek-philippe-watch-art-grand-exhibition-has-just-opened-in-milan",
+          "image_url": "https://cdn.mos.cms.futurecdn.net/k2BbAFZrjCtL2XXTqDyQmb-1920-80.png",
+          "source_name": "Wallpaper*"
+        },
         {
           "title": "밀워키 미술관, 데이비드 드레이크의 후손에게 항아리 두 개 돌려주기",
           "url": "https://hyperallergic.com/milwaukee-art-museum-returns-two-jars-to-david-drakes-descendants/",
@@ -38,18 +50,6 @@
           "url": "https://hyperallergic.com/a-new-exhibition-explores-edmonia-lewiss-montana-connection/",
           "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/09/rendering_harvey_auriea_edmoniatriumphalis_2026_courtesy-of-the-artist.jpg",
           "source_name": "Hyperallergic"
-        },
-        {
-          "title": "뉴욕 스튜디오 스쿨에서 페인트칠만 하는 것은 아닙니다.",
-          "url": "https://hyperallergic.com/paint-isnt-just-paint-at-the-new-york-studio-school/",
-          "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/09/Tears-of-No-Return--180x230-cm--Oil-on-Canvas--2020--Bendix-Harms.jpg",
-          "source_name": "Hyperallergic"
-        },
-        {
-          "title": "'30년에 걸쳐 관행이 진화하는 방법': 디자인 박물관의 에스 데블린 (Es Devlin) 은 친밀하면서도 광범위합니다.",
-          "url": "https://www.wallpaper.com/design-interiors/design-events/es-devlin-design-museum-london",
-          "image_url": "https://cdn.mos.cms.futurecdn.net/ivM8GGrrNzyGJzZP3qcywk-1920-80.jpg",
-          "source_name": "Wallpaper*"
         }
       ]
     },

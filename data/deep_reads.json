@@ -104194,5 +104194,948 @@
   },
   "depth_raw": 3,
   "depth_v": 2
+ },
+ "dezeen.com/2026/10/01/freckle-phone-sends-kids-outside": {
+  "title_ko": "부모의 감시에서 벗어나 야외 탐험을 돕는 어린이용 인공지능 휴대폰",
+  "summary_ko": "스타트업 주근깨가 부모의 제한과 감시로부터 벗어나도록 탐험을 중심으로 설계한 어린이용 인공지능 휴대폰을 공개했다. 디자인 스튜디오 바디샵과 함께 개발했으며 7세부터 13세 사이의 어린이를 대상으로 제작되었다.",
+  "lens": "통제 중심의 기기에서 벗어나 아이들의 자율적인 야외 활동을 유도하는 도구다.",
+  "why_now": "디지털 기기의 과도한 몰입에 대응하여 아동의 물리적 야외 활동과 현실 세계 교감을 회복하려는 시도가 늘어난다.",
+  "mechanism": "탐험을 중심으로 설계된 인터페이스와 인공지능 기능을 통해 불필요한 감시 요소를 줄이고 외부 활동을 유도한다.",
+  "sensory": "어린이의 신체 스케일에 맞춘 형태와 가벼운 질감으로 야외 이동 시 부담을 낮춘다.",
+  "transfer": "아동용 기기나 야외 공간을 다루는 영상에서 통제와 감시가 아닌 자율적 탐색을 강조하는 소품 연출에 활용한다.",
+  "context": "스타트업 주근깨가 디자인 스튜디오 바디샵과 협력하여 7세에서 13세 아동을 대상으로 개발했다.",
+  "findings": [],
+  "keywords": [
+   "어린이휴대폰",
+   "야외활동",
+   "바디샵",
+   "인공지능",
+   "디자인"
+  ],
+  "evidence": "Freckle phone aims to send kids outside to play and engage with the world",
+  "kind": "제품·오브제",
+  "depth": 2,
+  "grounding": "thin",
+  "depth_reason": "원문 본문이 수집되지 않고 메타 정보만 남아 있어 상세한 기법과 작동 방식을 확인하기 어렵다.",
+  "v": 2,
+  "url": "https://www.dezeen.com/2026/10/01/freckle-phone-sends-kids-outside/",
+  "original_title": "Freckle phone aims to send kids outside to play and engage with the world",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 0,
+  "fetch": "fetch_error:HTTPError",
+  "cliche_hits": [],
+  "read_at": "2026-10-01 18:23",
+  "research": {
+   "entities": [
+    "주근깨",
+    "Body Shop"
+   ],
+   "questions": [
+    "주근깨 폰은 일반 스마트폰과 비교하여 어린이의 야외 활동을 유도하기 위해 어떤 차별화된 기능을 제공하나요?",
+    "디자인 스튜디오 Body Shop은 주근깨 폰의 디자인 과정에서 어떤 철학을 반영했나요?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 2,
+  "depth_v": 2
+ },
+ "archdaily.com/1185996/house-around-the-corner-in-kugahara-some-plus-tezzo-nishizawa-architects": {
+  "title_ko": "도쿄 구가하라, 이웃을 향해 정원을 열어둔 사선형 주거",
+  "summary_ko": "도쿄 오타구 구가하라의 모퉁이 대지에 지어진 102㎡ 규모의 주택이다. 기존 가족 소유 부지를 분할해 남서쪽 끝에 배치했으며, 폐쇄적인 벽을 세우는 도쿄의 주택 관습에서 벗어나 이웃을 향해 정원을 개방했다. 내부 그리드와 파사드 각도를 어긋나게 설계해 시선이 거리에서 거리로 자연스럽게 흐르도록 유도했다.",
+  "lens": "닫힌 벽 대신 삼각형의 완충 지대를 배치해 이웃과 시선을 공유하며 도시의 밀도를 재해석한다.",
+  "why_now": "도심 내 사유지가 파편화되는 과정에서 폐쇄적인 주거가 아닌, 주변 환경과 시각적·물리적 관계를 맺는 새로운 배치 방식이 요구된다.",
+  "mechanism": "내부 구조 그리드와 외벽 파사드의 각도를 의도적으로 틀어 발생하는 삼각형 영역이 거주자와 외부 거리 사이의 시각적 완충 장치로 작동한다.",
+  "sensory": "두 개의 박공지붕 파사드가 교차하는 모퉁이에서 빛과 공기가 정원을 통해 내부로 깊숙이 스며든다.",
+  "transfer": "공간의 모퉁이에서 시선을 사선으로 유도하는 삼각형 배치를 활용해, 좁은 대지에서도 답답하지 않은 개방감을 연출하는 샷으로 구성한다.",
+  "context": "테조 니시자와와 소타로 미야타케가 협업하여 도쿄의 전형적인 주거 밀집 지역 내 새로운 배치 대안을 제시했다.",
+  "findings": [],
+  "keywords": [
+   "도쿄주거",
+   "테조니시자와",
+   "사선배치",
+   "공간밀도"
+  ],
+  "evidence": "the design opens a garden toward the adjacent properties — bringing light and air into the block's interior.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "대지의 제약을 극복한 배치 아이디어가 명확하며, 도쿄 주거 건축의 관습을 비판적으로 수용해 구체적인 공간 장치를 제안했다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1185996/house-around-the-corner-in-kugahara-some-plus-tezzo-nishizawa-architects",
+  "original_title": "House Around the Corner in Kugahara / some ( ) + Tezzo Nishizawa Architects",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 1354,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-01 18:23",
+  "research": {
+   "entities": [
+    "Tezzo Nishizawa Architects",
+    "some ( )",
+    "Sotaro Miyatake",
+    "Tezzo Nishizawa"
+   ],
+   "questions": [
+    "도쿄의 일반적인 주택 설계 관습과 달리 이 프로젝트가 이웃을 향해 정원을 개방한 건축적 의도는 무엇인가?",
+    "내부 그리드와 파사드 사이의 각도가 만들어내는 삼각형 중간 영역이 거주 공간의 시각적 경험에 어떤 영향을 주는가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "archdaily.com/1185955/lixue-primary-school-of-kewai-group-temp-architects": {
+  "title_ko": "도시의 소음을 걷어내는 켜, 선전 리쉐 초등학교의 입체적 캠퍼스",
+  "summary_ko": "선전 롱강구에 위치한 리쉐 초등학교는 2021년 롱강구 신규 캠퍼스 조성 계획의 일환으로 설계되었다. 번화한 도로와 고밀도 주거지 사이에 자리 잡은 이 학교는 도시의 소음과 밀도에 대응하며 학습 공간을 구축했다. 보풍건축(temp architects)은 복합적인 도시 환경 속에서 학생들에게 정온한 학습 환경을 제공하는 데 집중했다.",
+  "lens": "고밀도 도시의 소음을 차단하기 위해 건물 자체를 거대한 방음벽이자 필터로 활용하는 입체적 공간 배치다.",
+  "why_now": "도심 내 학교 부지가 좁아지고 주변 환경이 복잡해짐에 따라, 외부 환경을 차단하면서도 내부의 개방감을 확보하는 적층형 캠퍼스 설계가 대안으로 떠오른다.",
+  "mechanism": "건물 매스를 도로변에 배치하여 소음을 1차적으로 차단하고, 내부 중정을 통해 빛과 공기를 순환시키는 켜 구조를 적용했다.",
+  "sensory": "도로의 소란함과 대비되는 교내 중정의 정적인 공기 흐름, 그리고 층마다 엇갈려 배치된 테라스가 만드는 깊은 그림자와 빛의 대비가 두드러진다.",
+  "transfer": "도로변 소음이 심한 로케이션 촬영 시, 피사체 뒤로 깊은 복도나 층층이 쌓인 테라스를 배치해 소음 차단과 동시에 시각적 깊이감을 만드는 연출을 참고한다.",
+  "context": "이 프로젝트는 2021년 선전 롱강구에서 추진한 '신규 캠퍼스 조성 계획'의 일환으로, 도시 인프라와 교육 시설을 유기적으로 연결하려는 시도 중 하나다.",
+  "findings": [],
+  "keywords": [
+   "학교건축",
+   "도시설계",
+   "보풍건축",
+   "선전",
+   "캠퍼스"
+  ],
+  "evidence": "Located at the intersection of Banlan Boulevard and Huancheng Road, the site lies between a noisy urban environment and high-density communities.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "원문 내 구체적인 설계 전략 정보가 부족하여 프로젝트의 맥락과 기본 정보 위주로 정리했다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1185955/lixue-primary-school-of-kewai-group-temp-architects",
+  "original_title": "Lixue Primary School of KeWai Group / temp architects",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 1961,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-01 18:23",
+  "research": {
+   "entities": [
+    "temp architects",
+    "Shanghai Baoye Group"
+   ],
+   "questions": [
+    "선전시 롱강구의 'New Campus Action Plan'은 어떤 배경과 목적으로 추진된 프로젝트인가?",
+    "temp architects가 디자인한 리쉐 초등학교(Lixue Primary School)의 공간적 특징과 도시 환경에 대응한 방식은 무엇인가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "archdaily.com/1185922/simpsons-bay-house-dock4-architects": {
+  "title_ko": "태즈매니아 브루니 섬, 농업용 창고의 질감을 빌려온 심슨 베이 하우스",
+  "summary_ko": "독포 아키텍츠(Dock4 Architects)와 자일스 뉴스태드(Giles Newstead)가 호주 태즈매니아 브루니 섬에 170㎡ 규모의 심슨 베이 하우스를 완공했다. 이들은 신축 자재를 나열하는 대신 주변의 농업용 창고와 해안 구조물에서 발견한 재료를 재사용하고 적응시키는 방식으로 건축을 완성했다.",
+  "lens": "새로운 재료를 덧씌우기보다 현지의 투박한 창고가 가진 실용적인 구축 방식을 빌려와 풍경 속에 주택을 조용히 안착시킨다.",
+  "why_now": "신축 중심의 관습적 건축에서 벗어나 기존 자원과 지역적 맥락을 건축의 출발점으로 삼는 재사용의 미학이 주목받고 있다.",
+  "mechanism": "브루니 섬의 농업용 창고에서 추출한 단순한 형태와 재료 팔레트를 적용해 거주 공간을 기능적이고 익숙한 구조로 치환했다.",
+  "sensory": "거친 질감의 외장재가 숲의 색감과 섞이며, 인위적인 광택 대신 주변 해안 구조물의 낡고 편안한 물성을 드러낸다.",
+  "transfer": "공간 연출 시 세련된 마감재를 배제하고, 현장의 거친 건축 자재를 그대로 노출해 장소의 고유한 서사를 영상의 배경으로 활용하라.",
+  "context": "독포 아키텍츠는 지역의 기존 자재를 건축의 형태를 결정짓는 핵심 요소로 삼는 적응적 재사용 방식을 고수한다.",
+  "findings": [],
+  "keywords": [
+   "독포아키텍츠",
+   "재사용건축",
+   "태즈매니아",
+   "브루니섬",
+   "실용주의"
+  ],
+  "evidence": "Rather than beginning with a conventional new-build material palette, the architects allowed the available materials to shape the architecture.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "지역적 맥락과 재사용 철학은 명확하나, 구체적인 구축 기법이나 재료의 상세한 활용 방식에 대한 정보가 부족하다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1185922/simpsons-bay-house-dock4-architects",
+  "original_title": "Simpsons Bay House / Dock4 Architects",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 1252,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-01 18:23",
+  "research": {
+   "entities": [
+    "Dock4 Architects",
+    "Bruny Island"
+   ],
+   "questions": [
+    "Dock4 Architects가 추구하는 재사용과 적응 중심의 건축 철학은 무엇인가?",
+    "브루니 섬의 농업용 창고와 해안 구조물이 이 주택의 디자인 언어에 어떤 영향을 미쳤는가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "wallpaper.com/architecture/public-buildings/ghent-design-museum-belgium": {
+  "title_ko": "도시의 쓰레기를 쌓아 올린 겐트 디자인 박물관의 변신",
+  "summary_ko": "영국 건축가 카모디 그로어케와 현지 아타마가 벨기에 겐트 디자인 박물관을 확장 및 개조했다. 도시 건설 폐기물로 만든 라임 경화 벽돌을 사용해 신축 날개를 세우고 역사적 건물을 순환 동선으로 연결했다.",
+  "lens": "도시의 쓰레기를 골재 삼아 박물관을 세워 과거와 현재의 물성을 겹친다.",
+  "why_now": "건축이 완결된 산물이 아니라 시민들이 개조하고 사용하며 변형하는 유연한 기반으로 작동하는 방식을 보여준다.",
+  "mechanism": "도시 건설 폐기물을 재활용해 만든 라임 경화 벽돌과 3D 프린팅된 재활용 알루미늄 문을 조합하여 탄소 배출을 줄이고 자재의 물성을 날것 그대로 드러낸다.",
+  "sensory": "거친 회색조의 재활용 벽돌 벽과 목구조가 어우러져 매끄러운 마감 대신 가공되지 않은 물질의 결이 그대로 전해진다.",
+  "transfer": "현장감을 부여하는 공간 시퀀스를 만들 때 매끈한 마감재 대신 지역에서 수거한 폐기물이나 거친 질감의 블록을 그대로 노출하는 세트를 구성한다.",
+  "context": "카모디 그로어케는 윈더미어 제티 박물관 등 역사적 맥락과 재료의 물성을 강조하는 적응형 재사용 프로젝트를 진행해 왔다.",
+  "findings": [
+   {
+    "text": "신축 날개는 벨기에에서 가장 높은 공공 목구조 건축물로 5층 규모다.",
+    "s": 2,
+    "quote": "Topping off Design Museum Gent, April 2025"
+   }
+  ],
+  "keywords": [
+   "재사용건축",
+   "폐기물벽돌",
+   "목구조",
+   "도시순환"
+  ],
+  "evidence": "a building built with bricks made from Ghent’s municipal construction rubbish",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "도시 폐기물을 건축 자재로 전환한 구체적 공법과 명확한 공간 철학이 돋보인다.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/architecture/public-buildings/ghent-design-museum-belgium",
+  "original_title": "Step inside the revamped Ghent Design Museum, a ‘touchpoint' for coming together",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 5197,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-01 18:23",
+  "research": {
+   "entities": [
+    "Design Museum Gent",
+    "Carmody Groarke",
+    "BC Materials",
+    "Atama",
+    "Re-st"
+   ],
+   "questions": [
+    "겐트 디자인 뮤지엄의 리노베이션 과정에서 폐기물을 활용한 건축 자재(lime-cured bricks 등)가 어떻게 지속 가능성이라는 가치를 구현했는가?",
+    "앤디 그로크가 언급한 '포스트모던 반사실적 고고학 프로젝트'로서의 건축은 박물관의 기능과 시민 참여에 어떤 변화를 가져왔는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Design for everyone",
+     "url": "https://designmuseumgent.be/en/design-everyone"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Carmody Groarke ",
+     "url": "https://carmodygroarke.com/"
+    },
+    {
+     "n": 3,
+     "type": "공식·1차",
+     "title": "atama.website",
+     "url": "https://atama.website/en/"
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "Design Museum Gent",
+     "url": "https://en.wikipedia.org/wiki/Design%20Museum%20Gent"
+    }
+   ],
+   "used": [
+    2,
+    3,
+    4
+   ],
+   "chars": 6149
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "wallpaper.com/watches-jewellery/the-seventh-edition-of-the-patek-philippe-watch-art-grand-exhibition-has-just-opened-in-milan": {
+  "title_ko": "파텍 필립, 밀라노의 파라초 델레 신틸레에서 펼치는 187년 시계 공예의 기록",
+  "summary_ko": "파텍 필립(Patek Philippe)이 밀라노의 파라초 델레 신틸레(Palazzo delle Scintille)에서 제7회 워치 아트 그랜드 전시회를 개최한다. 2,900제곱미터 규모의 공간에 500여 점의 시계와 아카이브를 배치하고, 이탈리아 지역색을 입힌 25점의 지역 한정판을 공개하며 브랜드의 기술적 유산을 선보인다.",
+  "lens": "역사적 건축물의 타원형 돔 아래, 시계의 미세 기계 장치와 거대한 공간 스케일을 대비시켜 정밀함의 가치를 극대화한다.",
+  "why_now": "디지털 경험이 범람하는 시대에, 브랜드는 물리적 아카이브와 수공예의 실체를 직접 대면하게 함으로써 기술적 신뢰를 구축한다.",
+  "mechanism": "2,028개의 유리 방울로 제네바의 제트 도(Jet d'Eau)를 재현한 9미터 높이의 설치물과 이탈리아 지도를 형상화한 탁상시계 등, 공간 전체를 브랜드의 서사를 담은 거대한 기계 장치처럼 연출한다.",
+  "sensory": "에나멜링, 목재 마르케트리, 보석 세팅 등 정교한 질감이 돋보이는 다이얼과 30밀리초 만에 날짜를 전환하는 기계식 무브먼트의 짧고 정확한 작동음이 대비를 이룬다.",
+  "transfer": "공간의 역사성을 활용한 전시 구성 시, 특정 지역의 모티프를 정밀한 공예품으로 치환해 배치하고, 핵심 기술의 작동 원리를 시각화한 별도 연구 섹션을 마련해 관람객의 이해를 돕는다.",
+  "context": "파텍 필립은 2012년 두바이를 시작으로 뮌헨, 런던, 뉴욕, 싱가포르, 도쿄 등 세계 주요 도시에서 순회 전시를 이어왔다. 1839년 설립된 이래 제네바에서 독립적인 가족 경영 체제를 유지하며 2001년 설립한 자체 박물관의 소장품을 전시의 핵심 자산으로 활용한다.",
+  "findings": [
+   {
+    "text": "파텍 필립은 1839년 설립 이후 제네바에서 독립적인 가족 경영을 유지하는 마지막 시계 제조사다.",
+    "s": 4,
+    "quote": "Established in 1839, it is named after two of its founders, Antoni Patek and Adrien Philippe. Since 1932, the company has been owned by the Stern family in Switzerland and remains the last family-owned independent watch "
+   },
+   {
+    "text": "2026년 밀라노 전시는 10월 2일부터 18일까지 시티오벌(CityOval)에서 진행된다.",
+    "s": 2,
+    "quote": "We are pleased to announce that our next \"Watch Art\" Grand Exhibition will be held in the historic CityOval building, formerly Palazzo delle Scintille, located at Piazza Sei Febbraio, from October 2nd to 18th, 2026"
+   },
+   {
+    "text": "파텍 필립 박물관은 500년 역사를 아우르는 시계 컬렉션과 8,000권 이상의 기록물을 소장하고 있다.",
+    "s": 3,
+    "quote": "The Patek Philippe Museum houses one of the world's most significant and prestigious watch collections, spanning over 500 years. It also showcases an extensive overview of our creations since 1839, alongside a library of"
+   }
+  ],
+  "keywords": [
+   "파텍필립",
+   "시계공예",
+   "밀라노전시",
+   "파라초델레신틸레",
+   "기계식시계"
+  ],
+  "evidence": "This year’s installment, open 2-18 October, is the largest yet, and occupies 2,900 square metres within the art deco Palazzo delle Scintille",
+  "kind": "전시",
+  "depth": 5,
+  "grounding": "full",
+  "depth_reason": "브랜드의 역사적 맥락과 전시 공간의 건축적 특징, 세부 공예 기법까지 구체적으로 연결하여 전시의 기획 의도를 명확히 분석했다.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/watches-jewellery/the-seventh-edition-of-the-patek-philippe-watch-art-grand-exhibition-has-just-opened-in-milan",
+  "original_title": "The seventh edition of the Patek Philippe Watch Art Grand Exhibition has just opened in Milan",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 5974,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-01 18:23",
+  "research": {
+   "entities": [
+    "Patek Philippe",
+    "Palazzo delle Scintille",
+    "Paolo Vietti-Violi",
+    "Patek Philippe Museum"
+   ],
+   "questions": [
+    "파텍 필립의 'Watch Art Grand Exhibition'은 브랜드의 역사와 기술력을 홍보하기 위해 어떤 방식으로 전시를 구성하나요?",
+    "파텍 필립이 이번 밀라노 전시를 위해 선보인 시계들에 적용된 전통 공예 기법과 이탈리아 문화적 요소는 무엇인가요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Patek Philippe Watch Art Grand Exhibitions",
+     "url": "https://www.patek.com/en/manufacture/inside-patek-philippe/watch-art-grand-exhibitions"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "\"Watch Art\" Grand Exhibition Milan 2026",
+     "url": "https://www.patek.com/en/manufacture/inside-patek-philippe/watch-art-grand-exhibitions/milan"
+    },
+    {
+     "n": 3,
+     "type": "공식·1차",
+     "title": "The Patek Philippe Museum",
+     "url": "https://www.patek.com/en/museum/the-patek-philippe-museum"
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "Patek Philippe",
+     "url": "https://en.wikipedia.org/wiki/Patek%20Philippe"
+    },
+    {
+     "n": 5,
+     "type": "위키백과",
+     "title": "Paolo Vietti-Violi",
+     "url": "https://en.wikipedia.org/wiki/Paolo%20Vietti-Violi"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "chars": 5273
+  },
+  "depth_raw": 5,
+  "depth_v": 2
+ },
+ "wallpaper.com/entertaining/damien-hirst-dom-perignon-collaboration": {
+  "title_ko": "데미안 허스트와 돔 페리뇽, 기하학적 반복으로 빚어낸 2026 한정판",
+  "summary_ko": "영국 작가 데미안 허스트가 돔 페리뇽의 2026년 한정판 라벨 디자인을 맡았다. 그는 자신의 2001년 작 '만화경(Kaleidoscope)' 연작에서 착안해, 돔 페리뇽의 상징인 방패형 라벨을 나비 날개처럼 대칭적으로 재해석했다. 빈티지 2018은 깊은 청색으로, 로제 빈티지 2010은 부드러운 분홍색으로 각각의 와인 성격을 투영한다.",
+  "lens": "대칭 구조의 기하학적 반복을 통해 와인 블렌딩의 조화와 예술적 변주를 하나의 시각적 언어로 일치시킨다.",
+  "why_now": "예술가의 개별적 조형 언어를 브랜드의 상징적 아이덴티티에 이식하여, 제품을 넘어선 수집 가치를 지닌 오브제로 전환한다.",
+  "mechanism": "만화경 연작의 핵심인 대칭성을 방패형 라벨 중앙에 배치해 나비의 날개짓을 연상시키며, 최소한의 색채 사용으로 와인의 복합적인 캐릭터를 시각화한다.",
+  "sensory": "깊은 청색과 부드러운 분홍색의 대비를 통해 와인이 가진 각각의 온도와 깊이를 시각적으로 감각하게 한다.",
+  "transfer": "라벨의 대칭 구조를 활용한 샷 구성 시, 중앙 분할 구도를 통해 정물화적인 긴장감을 연출하고, 색채의 톤 변화로 와인의 빈티지 차이를 암시하는 미장센을 구축한다.",
+  "context": "돔 페리뇽은 2005년 카를 라거펠트와 첫 협업을 시작으로 제프 쿤스, 레이디 가가 등 다양한 분야의 창작자와 파트너십을 이어왔다. 데미안 허스트는 1990년대 영국 현대 미술을 주도한 YBA의 핵심 인물로, 죽음과 반복을 주제로 한 작업을 지속해 왔다.",
+  "findings": [
+   {
+    "text": "데미안 허스트는 1990년대 영국 미술계를 지배했던 YBA 그룹의 일원이었다.",
+    "s": 2,
+    "quote": "He was one of the Young British Artists (YBAs) who dominated the art scene in the UK during the 1990s."
+   }
+  ],
+  "keywords": [
+   "데미안허스트",
+   "돔페리뇽",
+   "만화경",
+   "패키지디자인",
+   "대칭구조"
+  ],
+  "evidence": "Dom Pérignon’s iconic shield is symmetrical down the centre and so it jumped out at me like a butterfly and became my starting point.",
+  "kind": "제품·오브제",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "예술가의 기존 연작을 브랜드 아이덴티티에 성공적으로 접목했으나, 제작 기법의 혁신보다는 협업의 미학적 해석에 치중함.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/entertaining/damien-hirst-dom-perignon-collaboration",
+  "original_title": "Discover Damien Hirst’s limited-edition bottles for Dom Pérignon, a twist on the artist’s Kaleidoscope series",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 3868,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-01 18:23",
+  "research": {
+   "entities": [
+    "Damien Hirst",
+    "Dom Pérignon",
+    "Karl Lagerfeld",
+    "Newport Street Gallery",
+    "Jack White"
+   ],
+   "questions": [
+    "댐엔 허스트의 카이레이도스코프(Kaleidoscope) 연작은 어떤 특징을 가지고 있으며, 돔 페리뇽의 방패형 라벨과는 어떻게 시각적으로 연결되는가?",
+    "돔 페리뇽은 2005년 카를 라거펠트를 시작으로 다양한 현대 미술가 및 대중문화 아이콘들과 협업해 온 역사 속에서 이번 댐엔 허스트와의 협업이 갖는 미학적 의미는 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Dom Pérignon - Vintage only",
+     "url": "https://www.domperignon.com/en-gb"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Damien Hirst",
+     "url": "https://en.wikipedia.org/wiki/Damien%20Hirst"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Dom Pérignon",
+     "url": "https://en.wikipedia.org/wiki/Dom%20P%C3%A9rignon"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "태린 사이먼, 구겐하임에서 시스템의 불투명성을 기록하다",
+     "url": "https://hyperallergic.com/taryn-simons-evidence-as-spectacle/"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "에드워드 에닌풀이 소환하는 1990년대의 날것과 진정성",
+     "url": "https://www.dazeddigital.com/fashion/article/70894/1/edward-enninful-the-90s-art-and-fashion-exhibition-tate-britain-kate-moss?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=edward-enninful-on-the-90s-if-there-were-phones-we-d-all-be-cancelled"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 2623
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "dazeddigital.com/art-photography/article/71081/1/elle-perez-devotions-aperture-photo-book-photography-interview": {
+  "title_ko": "사진집 데보션스, 사적 아카이브를 물질화하다",
+  "summary_ko": "미국 작가 엘르 페레스(Elle Pérez)가 첫 번째 단행본인 데보션스(Devotions)를 통해 지난 20년간의 작업과 스튜디오 아카이브를 공개했다. 어퍼처(Aperture)가 출판한 이 책은 제록스 프린트와 개인 메모 등 사적인 부산물을 사진과 나란히 배치해 창작 과정을 물질화한다. 가족과 연인 간의 친밀함과 취약성을 다루며 사진의 환영적 본질을 탐구한다.",
+  "lens": "스튜디오 벽면의 연구 자료를 제본된 페이지로 옮겨 작가의 내면 풍경을 물성으로 직조한다.",
+  "why_now": "사진 매체의 환영성을 탐구하면서 공식 서사에 균열을 내는 아카이브의 중요성이 대두되는 시점이다.",
+  "mechanism": "제록스 프린트와 개인 메모를 최종 사진 작업과 병치해 스튜디오의 혼돈을 지면 위로 끌어들인다.",
+  "sensory": "거친 제록스 인쇄물의 질감과 날것의 메모가 사진과 교차하며 작가의 사유 과정을 시각화한다.",
+  "transfer": "콘티 작업 시 최종 결과물과 함께 레퍼런스 바인더의 메모와 스크랩을 프레임 안에 물리적 소품으로 배치한다.",
+  "context": "미국 사진가 엘르 페레스는 2019년 휘트니 비엔날레에 참여했으며 하버드대학교 미술·영화·시각연구소 조교수로 재직 중이다.",
+  "findings": [
+   {
+    "text": "엘르 페레스는 1989년에 태어난 미국의 사진가이다.",
+    "s": 1,
+    "quote": "Elle Pérez (born 1989) is an American photographer whose work explores gender identity, intimacy, vulnerability, and the relationship between seeing and love."
+   },
+   {
+    "text": "어퍼처 재단은 1952년에 앤설 애덤스 등을 포함한 예술가와 기획자들이 설립한 비영리 예술 기관이다.",
+    "s": 2,
+    "quote": "Aperture Foundation is a nonprofit arts institution, founded in 1952 by Ansel Adams, Minor White, Barbara Morgan, Dorothea Lange, Nancy Newhall, Beaumont Newhall, Ernest Louie, Melton Ferris, and Dody Warren."
+   }
+  ],
+  "keywords": [
+   "엘르페레스",
+   "사진집",
+   "아카이브",
+   "스튜디오",
+   "물성"
+  ],
+  "evidence": "Devotions, the first monograph from Elle Pérez, speaks to it all.",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "작가 작업의 형식적 특징과 아카이브의 구조를 구체적으로 다루며 선례가 뚜렷하여 깊이 있는 분석이 가능하다.",
+  "v": 2,
+  "url": "https://www.dazeddigital.com/art-photography/article/71081/1/elle-perez-devotions-aperture-photo-book-photography-interview?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=inside-the-radical-mind-and-work-of-artist-elle-perez",
+  "original_title": "Inside the radical mind and work of artist Elle Pérez",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 7680,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-01 18:23",
+  "research": {
+   "entities": [
+    "Elle Pérez",
+    "Aperture"
+   ],
+   "questions": [
+    "Elle Pérez의 첫 모노그래프인 'Devotions'는 어떤 주제와 형식적 특징을 담고 있는가?",
+    "작가에게 스튜디오 공간은 작업 과정에서 어떤 의미와 역할을 가지는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Elle Pérez",
+     "url": "https://en.wikipedia.org/wiki/Elle%20P%C3%A9rez"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Aperture Foundation",
+     "url": "https://en.wikipedia.org/wiki/Aperture%20Foundation"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 1289
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "creativeboom.com/work/ellie-campbell-turns-club-nights-into-hand-painted-gloriously-wonky-animations": {
+  "title_ko": "엘리 캠벨, 클럽의 밤을 프레임 단위로 해체하고 다시 그리다",
+  "summary_ko": "엘리 캠벨(Ellie Campbell)은 실제 클럽 영상을 로토스코핑 기법으로 재해석하여 수작업 애니메이션으로 구현한다. 초당 25프레임의 영상을 일일이 출력해 붓으로 덧입히는 반복적인 과정을 거치며, 의도적으로 왜곡된 인체와 불완전한 중간 프레임을 삽입해 클럽의 몽롱한 분위기를 시각화한다.",
+  "lens": "디지털 영상의 속도감을 수작업의 노동으로 제동 걸어, 클럽 현장의 흐릿하고 기괴한 잔상을 물리적인 질감으로 고착시킨다.",
+  "why_now": "기술적 완벽함이 당연해진 영상 환경에서, 의도적인 불완전함과 노동 집약적인 수작업이 주는 인간적인 질감이 역설적인 생동감을 만든다.",
+  "mechanism": "실사 영상을 낱장으로 출력한 뒤 붓으로 덧칠하는 로토스코핑 기법을 사용하며, 원본의 윤곽을 남기거나 우스꽝스러운 눈을 그려 넣어 영상의 매끄러움을 의도적으로 파괴한다.",
+  "sensory": "붓질의 흔적이 겹쳐진 거친 질감과 프레임마다 미세하게 엇갈리는 인체의 움직임이 환각적인 시각 경험을 유도한다.",
+  "transfer": "클럽 신을 연출할 때, 매끄러운 컷 편집 대신 로토스코핑 기법을 활용해 특정 인물의 동작을 과장하거나 배경을 뭉개는 방식으로 현장의 취기를 시각적으로 재현할 수 있다.",
+  "context": "러프버러 대학교(Loughborough University)에서 순수 미술을 전공하며 회화와 터치디자이너(TouchDesigner)를 결합한 몰입형 설치 작업을 발전시켰다. 고향인 웨스턴슈퍼메어에서 열린 뱅크시(Banksy)의 디즈멀랜드(Dismaland)를 경험하며 예술적 영감을 얻었다.",
+  "findings": [
+   {
+    "text": "디즈멀랜드는 2015년 웨스턴슈퍼메어에서 뱅크시가 기획한 임시 예술 프로젝트다.",
+    "s": 1,
+    "quote": "Dismaland was a temporary art project organised by street artist Banksy in the seaside resort of Weston-super-Mare in Somerset, England."
+   },
+   {
+    "text": "러프버러 대학교는 1909년 설립되었으며 1966년 종합대학으로 승격되었다.",
+    "s": 2,
+    "quote": "Loughborough University (abbreviated as Luff or Lboro for alumni) is a public research university in the market town of Loughborough, Leicestershire, England. It has been a university since 1966, but it dates back to 190"
+   }
+  ],
+  "keywords": [
+   "로토스코핑",
+   "수작업 애니메이션",
+   "클럽 문화",
+   "혼합 매체",
+   "디지털 아트"
+  ],
+  "evidence": "Her hand-painted rotoscope animations take real footage and pull it apart, exaggerating bodies and gestures into familiar scenes",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "실제 영상 소스를 수작업으로 해체하고 재구성하는 구체적인 제작 공정과 미학적 의도가 명확하게 드러나 있다.",
+  "v": 2,
+  "url": "https://www.creativeboom.com/work/ellie-campbell-turns-club-nights-into-hand-painted-gloriously-wonky-animations/",
+  "original_title": "Ellie Campbell turns club nights into hand-painted, gloriously wonky animations",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 8539,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-01 18:23",
+  "research": {
+   "entities": [
+    "Ellie Campbell",
+    "Dismaland",
+    "Loughborough University",
+    "TouchDesigner"
+   ],
+   "questions": [
+    "로토스코핑(rotoscoping) 기법을 활용한 수작업 애니메이션의 제작 과정과 그 미학적 특징은 무엇인가요?",
+    "엘리 캠벨이 언급한 '전통적인 프로세스와 디지털 세계의 결합'은 구체적으로 어떤 기술적 시도를 의미하나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Dismaland",
+     "url": "https://en.wikipedia.org/wiki/Dismaland"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Loughborough University",
+     "url": "https://en.wikipedia.org/wiki/Loughborough%20University"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 1705
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "anothermag.com/design-living/17487/what-to-watch-film-cinema-october-2026": {
+  "title_ko": "이창동과 마리 크로이처가 파헤치는 계급과 침묵의 실체",
+  "summary_ko": "안어스 매거진이 주목한 10월의 화제작으로 이창동 감독의 신작 Possible Love와 마리 크로이처 감독의 Gentle Monster를 조명한다. Possible Love는 해고 노동자 다큐를 찍는 영화감독이 시골 여행에서 겪는 계급적 긴장을 다루며, Gentle Monster는 남편의 아동 성착취물 소지 스캔들에 직면한 콘서트 피아니스트의 혼란을 추적한다.",
+  "lens": "거장들의 신작은 윤리적 균열과 계급의 민낯을 가차 없이 전면에 세운다.",
+  "why_now": "동시대 영화계는 사적인 스캔들과 자본주의적 폭력이 개인의 내면을 어떻게 잠식하는지 날카롭게 해부한다.",
+  "mechanism": "내러티브의 명확한 인과관계를 거부하고 인물들 간의 미세한 권력 역학 변화와 침묵, 시선의 체계를 팽팽하게 유지한다.",
+  "sensory": "불안정한 피아노 선율과 닫힌 공간 속에서 증폭되는 슬픔, 인물들의 메마른 시선이 화면을 무겁게 짓누른다.",
+  "transfer": "인물들 사이의 미묘한 권력 이동을 포착하기 위해 대사 대신 공간을 배회하는 카메라의 거리감을 활용한다.",
+  "context": "이창동 감독은 일곱 번째 장편 영화인 Possible Love로 인간의 권력 관계와 자본주의 비판을 이어간다.",
+  "findings": [
+   {
+    "text": "이창동 감독은 1954년에 태어난 대한민국의 영화 감독이자 시나리오 작가이며 소설가이다.",
+    "s": 1,
+    "quote": "Lee Chang-dong (Korean: 이창동; born July 4, 1954) is a South Korean film director, screenwriter, and novelist."
+   },
+   {
+    "text": "레아 세두는 프랑스의 배우로 수많은 작품에 출연하며 여러 상을 받았다.",
+    "s": 2,
+    "quote": "Léa Hélène Seydoux-Fornier de Clausonne (French: [lea sɛdu] ; born 1 July 1985) is a French actress."
+   }
+  ],
+  "keywords": [
+   "이창동",
+   "마리크로이처",
+   "계급갈등",
+   "윤리적딜레마"
+  ],
+  "evidence": "This month brings a bumper crop of releases including a major new film from Korean master Lee Chang-dong and a chilling drama starring Léa Seydoux",
+  "kind": "영상·필름",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "구체적인 신작 영화들의 줄거리와 연출적 특징을 다루고 있으나 여러 작품을 묶어 소개하는 리뷰 모음 형태다.",
+  "v": 2,
+  "url": "https://www.anothermag.com/design-living/17487/what-to-watch-film-cinema-october-2026?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=the-films-we-re-talking-about-this-october",
+  "original_title": "The Films We’re Talking About This October",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 5924,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-01 18:23",
+  "research": {
+   "entities": [
+    "Lee Chang-dong",
+    "Léa Seydoux",
+    "Marie Kreutzer",
+    "Cho Yeo-jong",
+    "Sul Kyung-gu"
+   ],
+   "questions": [
+    "이창동 감독의 신작 'Possible Love'는 어떤 줄거리와 주제를 담고 있는가?",
+    "마리 크로이처 감독의 영화 'Gentle Monster'는 실제 오스트리아의 어떤 사건에서 영감을 받았는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Lee Chang-dong",
+     "url": "https://en.wikipedia.org/wiki/Lee%20Chang-dong"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Léa Seydoux",
+     "url": "https://en.wikipedia.org/wiki/L%C3%A9a%20Seydoux"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 2663
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "dazeddigital.com/art-photography/article/71074/1/the-wildest-sexiest-gay-club-night-of-the-90s-flesh-idea-books-peter-j-walsh": {
+  "title_ko": "90년대 맨체스터의 해방구, 클럽 플레시가 기록한 급진적 신체와 연대",
+  "summary_ko": "1991년 맨체스터의 클럽 ‘더 하시엔다(The Haçienda)’에서 시작된 ‘플레시(Flesh)’는 억압적인 영국 사회 속 LGBTQ 커뮤니티의 거점이 되었다. 사진가 피터 J. 월시(Peter J. Walsh)는 당시의 열기와 패션 쇼, 무대 뒤의 준비 과정을 카메라에 담았다. 이 사진들은 최근 이데아 북스(IDEA Books)를 통해 포토북으로 출간되어 90년대 초반의 해방적인 클럽 문화를 증언한다.",
+  "lens": "카메라 플래시를 배제한 채 클럽의 현장 조명만으로 포착한, 자기 검열 없는 인물들의 원초적인 에너지가 핵심이다.",
+  "why_now": "디지털 기록이 일상화된 오늘날, 타인의 시선을 의식하지 않는 90년대 클럽 신의 무방비한 해방감은 동시대 시각 문화에 강렬한 대비를 제공한다.",
+  "mechanism": "캐논 F-1(Canon F-1)과 광각 렌즈를 사용하여 인물의 표정과 군중의 움직임을 자연스럽게 포착했다. 인위적인 조명 대신 클럽의 가용 광원을 활용해 공간의 밀도와 현장감을 살렸다.",
+  "sensory": "땀과 열기가 뒤섞인 좁은 공간의 습도, 화려한 의상과 대비되는 거친 입자의 사진 질감이 느껴진다. 무대 뒤에서 분장을 마친 인물들의 긴장감과 무대 위로 오르기 직전의 들뜬 공기가 교차한다.",
+  "transfer": "광각 렌즈로 인물과 배경의 거리감을 좁혀 현장감을 극대화하고, 인위적인 조명 세팅을 최소화하여 인물의 자연스러운 움직임을 담아내는 연출에 활용한다.",
+  "context": "플레시는 1991년 폴 콘스(Paul Cons)와 루시 셰어(Lucy Scher)가 설립했다. 당시 맨체스터의 정치적 억압에 맞선 섹션 28(Section 28) 반대 시위의 에너지가 클럽 문화로 전이된 사례다.",
+  "findings": [
+   {
+    "text": "클럽 플레시는 1991년 폴 콘스와 루시 셰어에 의해 설립되었다.",
+    "s": 2,
+    "quote": "This is a book of FLESH, the legendary queer night founded in 1991 by Paul Cons and the late Lucy Scher."
+   },
+   {
+    "text": "플레시는 매달 마지막 수요일에 하시엔다 클럽에서 열렸으며 볼룸, 거품 목욕, 뷰티 페이지런트 등으로 변모했다.",
+    "s": 2,
+    "quote": "on the last Wednesday of every month, The Haçienda would undergo a transformation, morphing into a ballroom, a bubble bath, a beauty pageant in the buff."
+   }
+  ],
+  "keywords": [
+   "플레시",
+   "더하시엔다",
+   "LGBTQ",
+   "90년대클럽",
+   "피터J월시"
+  ],
+  "evidence": "The transformation you’d see as people were getting ready to take part in these fashion shows – coming in dressed in caps and a T-shirt, then changing into these amazing costumes – was really interesting to me",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "90년대 서브컬처의 사회적 맥락과 사진적 기법이 구체적으로 결합되어 있으며, 당시 클럽의 공간적 특성을 잘 드러낸다.",
+  "v": 2,
+  "url": "https://www.dazeddigital.com/art-photography/article/71074/1/the-wildest-sexiest-gay-club-night-of-the-90s-flesh-idea-books-peter-j-walsh?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=in-pictures-the-wildest-sexiest-gay-club-night-of-the-90s",
+  "original_title": "In pictures: The wildest, sexiest gay club night of the 90s",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 6058,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-01 18:23",
+  "research": {
+   "entities": [
+    "The Haçienda",
+    "Peter J Walsh",
+    "IDEA Books",
+    "Section 28"
+   ],
+   "questions": [
+    "1990년대 초반 영국 맨체스터의 사회적 분위기와 LGBTQ 커뮤니티가 겪었던 억압은 구체적으로 어떠했는가?",
+    "클럽 나이트 'Flesh'가 당시 영국 클럽 문화와 LGBTQ 인권 운동의 역사에서 갖는 상징적 의미는 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Flesh",
+     "url": "https://www.ideanow.online/pages/flesh?srsltid=AU7gw4VR8W5xyD12_VX4xPEsBATd-dXSolWlJfqfWaxXvw8gdV6yAnn9"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "FLESH Peter J Walsh",
+     "url": "https://www.ideanow.online/products/flesh-peter-j-walsh?variant=57488463626615&srsltid=AU7gw4U3TLlOjaum0zpfzRmQEjty_msrmbWbxRkZI9BGEmNVauR70MSd"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 1182
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "wallpaper.com/design-interiors/lighting/louis-poulsen-piano-lamp-poul-henningsen": {
+  "title_ko": "음표의 선율을 닮은 조명, 루이스 폴센의 PH 1/1 피아노 램프 재발행",
+  "summary_ko": "루이스 폴센이 1931년 폴 헤닝센이 설계한 'PH 피아노' 램프를 현대적 감각으로 재발행한다. 악보의 음표와 높은음자리표에서 영감을 얻은 곡선형 스템과 테라코타 색상의 3중 오팔 글라스 갓이 특징이다. 2026년 12월까지 한정 기간 판매하며, 베이스에는 헤닝센의 이니셜이 금색으로 각인된다.",
+  "lens": "음악적 곡선을 물리적 스템으로 치환해 조명에 동적인 리듬감을 부여하고, 로그 나선형 갓으로 빛의 층위를 조절하는 조형적 정교함이 돋보인다.",
+  "why_now": "디자인 헤리티지를 현대적 기능성과 결합해 공간의 밀도를 높이는 오브제 소비가 지속되는 흐름 속에 있다.",
+  "mechanism": "구부러진 스템 끝의 원형 추는 빛의 방향을 정밀하게 조정하는 무게중심 장치로 작동하며, 4중 레이어 오팔 글라스는 빛을 굴절시켜 눈부심을 차단한다.",
+  "sensory": "테라코타 색상의 유리는 촛불처럼 따뜻하고 부드러운 질감의 빛을 투과하며, 헤어라인 마감된 황동 프레임은 시간이 지날수록 깊은 색감을 더한다.",
+  "transfer": "공간 연출 시 조명의 스템 곡선을 강조하는 로우 앵글 샷을 활용해 조형미를 부각하고, 빛이 닿는 피사체의 질감을 부드럽게 강조하는 조명 보조 장치로 배치한다.",
+  "context": "폴 헤닝센은 1925년부터 루이스 폴센과 협업하며 빛의 반사와 확산을 연구한 PH 램프 시리즈를 구축해 왔다. 이번 재발행은 1930년대 그가 음악적 영감을 조명에 투영했던 초기 작업의 연장선에 있다.",
+  "findings": [
+   {
+    "text": "폴 헤닝센은 1894년 덴마크에서 태어나 루이스 폴센과 평생에 걸친 협업 관계를 유지하며 눈부심 없는 조명 설계를 발전시켰다.",
+    "s": 3,
+    "quote": "His light fixtures were manufactured by Danish lighting manufacturer Louis Poulsen, a company with which Henningsen would build a lifelong working relationship."
+   },
+   {
+    "text": "루이스 폴센은 1874년 설립된 덴마크의 조명 제조사로 스칸디나비아를 비롯해 일본과 미국 등 전 세계에 진출해 있다.",
+    "s": 2,
+    "quote": "Louis Poulsen is a Danish lighting manufacturer that was founded in 1874. Their key sales regions are Scandinavia, Europe, Japan and United States."
+   }
+  ],
+  "keywords": [
+   "루이스폴센",
+   "폴헤닝센",
+   "PH램프",
+   "조명디자인",
+   "오브제"
+  ],
+  "evidence": "Its swirling stem, inspired by the flag of musical notes and the twirl of treble clefs, manages to steal the limelight from the famous tiered glass pendant.",
+  "kind": "제품·오브제",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "역사적 디자인의 재발행을 넘어, 악보라는 구체적 모티프가 조명 기능과 결합하는 기계적 장치를 명확히 분석했기 때문이다.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/design-interiors/lighting/louis-poulsen-piano-lamp-poul-henningsen",
+  "original_title": "Louis Poulsen reissues a 1930s hit, the clef-shaped ‘PH Piano’ lamp",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 3539,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-01 18:23",
+  "research": {
+   "entities": [
+    "Louis Poulsen",
+    "Poul Henningsen",
+    "PH lamp",
+    "PH Grand Piano"
+   ],
+   "questions": [
+    "폴 헤닝센의 PH 램프 시스템이 빛을 분산시키는 로그 나선형 원리는 무엇인가요?",
+    "1930년대 디자인된 PH 피아노 램프가 현대적인 인테리어 환경에서 어떻게 재해석되었나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Designer Lamps | Modern & Timeless Lamps | Louis Poulsen",
+     "url": "http://louispoulsen.com"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Louis Poulsen",
+     "url": "https://en.wikipedia.org/wiki/Louis%20Poulsen"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Poul Henningsen",
+     "url": "https://en.wikipedia.org/wiki/Poul%20Henningsen"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "일상의 밀도를 높이는 사물들: 2026년 남성을 위한 큐레이션",
+     "url": "https://www.architecturaldigest.com/story/best-gifts-for-men"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "합판 웨인스코팅으로 구축한 브루클린 주거의 온기",
+     "url": "https://www.architecturaldigest.com/story/somerset-house-brooklyn-apartment-design"
+    }
+   ],
+   "used": [
+    2,
+    3
+   ],
+   "chars": 1831
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "dazeddigital.com/art-photography/article/71056/1/entering-kaws-time-machine": {
+  "title_ko": "카우스, 앤디 워홀의 캔버스를 가로질러 아티스트 에디션으로",
+  "summary_ko": "그래피티 아티스트로 활동하던 브라이언 도넬리(Brian Donnelly), 즉 카우스(KAWS)가 90년대 뉴저지 버스 정류장에서 앤디 워홀의 앱솔루트 보드카 광고 위에 낙서했던 과거를 지나 협업의 주인공이 되었다. 그는 스튜디오 아카이브와 기억을 결합해 직접 디자인한 앱솔루트 카우스 아티스트 에디션 병을 선보이며, 과거의 거리 작업과 현재의 예술적 성취를 연결한다.",
+  "lens": "거리의 낙서가 상업적 캔버스를 점유하는 방식은 예술의 권위를 해체하고, 대중과 직접 대화하려는 작가의 일관된 태도를 드러낸다.",
+  "why_now": "예술의 배타성을 지적하며 대중적 접점에 가치를 두는 카우스의 방식은, 소수에게만 허락된 예술의 문턱을 낮추려는 동시대적 흐름과 맞닿아 있다.",
+  "mechanism": "작가는 애니메이션 작업 시절의 스와치와 아카이브를 참조해, 익숙한 도상인 쳠(CHUM) 피규어를 보틀 디자인에 배치하여 시각적 친숙함과 의외성을 동시에 확보한다.",
+  "sensory": "카우스가 말하는 작업실은 과거와 미래가 공존하는 타임머신이다. 캔버스 위로 층층이 쌓인 기억과 감각은 밀도 높은 색채와 정교한 도상으로 구현된다.",
+  "transfer": "콘티 작업 시 특정 오브제를 시간의 층위로 해석하라. 과거의 흔적을 현재의 프레임 속에 중첩시켜 시각적 서사를 구축하는 연출이 가능하다.",
+  "context": "앤디 워홀은 팝 아트의 선구자로서 광고와 소비 문화를 예술의 영역으로 끌어들였다. 앱솔루트 보드카는 워홀을 시작으로 500여 명의 아티스트와 협업하며 예술과 상업의 경계를 지워왔다.",
+  "findings": [
+   {
+    "text": "앤디 워홀은 팝 아트 운동의 주요 인물로, 광고와 소비주의, 대중 매체 및 유명인 문화를 예술적 탐구 대상으로 삼았다.",
+    "s": 1,
+    "quote": "A leading figure in the pop art movement, his work explores the relationship between advertising, consumerism, mass media, and celebrity culture."
+   },
+   {
+    "text": "앱솔루트 보드카는 1977년 스웨덴에서 출시된 브랜드로, 현재 페르노리카 그룹의 일부다.",
+    "s": 2,
+    "quote": "Absolut Vodka is a Swedish brand of vodka developed and launched by Vin & Sprit in 1977, and since 2008 a part of the French group Pernod Ricard."
+   }
+  ],
+  "keywords": [
+   "카우스",
+   "팝아트",
+   "앱솔루트",
+   "그래피티",
+   "앤디워홀"
+  ],
+  "evidence": "In the mid-90s, KAWS painted over Andy Warhol’s iconic Absolut Vodka collaboration on a bus shelter – now the American artist has an Absolut Artist Edition bottle of his own",
+  "kind": "브랜드·캠페인",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "작가의 과거와 현재를 잇는 서사는 흥미로우나, 협업 자체는 브랜드 홍보의 범주를 크게 벗어나지 않는다.",
+  "v": 2,
+  "url": "https://www.dazeddigital.com/art-photography/article/71056/1/entering-kaws-time-machine?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=step-into-kaws-time-machine",
+  "original_title": "Step into KAWS’ time machine",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 7452,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-01 18:23",
+  "research": {
+   "entities": [
+    "KAWS",
+    "Andy Warhol",
+    "Absolut Vodka",
+    "School of Visual Arts",
+    "Ed Ruscha"
+   ],
+   "questions": [
+    "KAWS가 그래피티 아티스트에서 현대 미술가로 성장하는 과정에서 애니메이션 경력이 어떤 영향을 미쳤는가?",
+    "Absolut Vodka의 아티스트 협업 프로젝트가 현대 미술 시장과 대중 문화에 어떤 역사적 의미를 갖는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Andy Warhol",
+     "url": "https://en.wikipedia.org/wiki/Andy%20Warhol"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Absolut Vodka",
+     "url": "https://en.wikipedia.org/wiki/Absolut%20Vodka"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "야마다 코헤이, 뉴욕에서 펼치는 앤디 워홀과 팝 아트의 변주",
+     "url": "https://www.juxtapoz.com/news/painting/kohei-yamada-my-screen-tests-gr-gallery-new-york/"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "세탁소와 슈퍼마켓을 캔버스로 옮긴 일러스트레이터 클라라 비엘",
+     "url": "https://www.creativeboom.com/work/clara-biel-paints-laundromats-pool-halls-and-supermarkets-to-remind-us-to-slow-down/"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "무한을 향한 반복의 기록, 야요이 쿠사마를 기리며",
+     "url": "https://www.wallpaper.com/art/yayoi-kusama-obituary-japan"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 2471
+  },
+  "depth_raw": 3,
+  "depth_v": 2
  }
 }
