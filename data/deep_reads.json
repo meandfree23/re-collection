@@ -104032,5 +104032,167 @@
   },
   "depth_raw": 3,
   "depth_v": 2
+ },
+ "design-milk.com/bahrain-bay-apartment": {
+  "title_ko": "바레인 베이의 풍경을 곡선으로 재해석한 프라이빗 레지던스",
+  "summary_ko": "건축가 모하메드 알카리(Mohamed Alqari)가 바레인 베이의 포시즌스 프라이빗 레지던스를 휴양을 위한 공간으로 재구성했다. 겐슬러(Gensler)가 설계한 직선 위주의 현대적 골격에 파도와 해변의 색감을 반영한 곡선 가구와 질감 있는 소재를 더해 공간에 리듬감을 부여했다.",
+  "lens": "직선적인 고층 빌딩의 내부를 유기적인 곡선과 수집된 예술품으로 채워, 도시적 환경을 개인적인 휴식처로 전환하는 감각적 변주를 보여준다.",
+  "why_now": "규격화된 현대적 주거 공간에서 거주자의 개성과 정서적 유대감을 이끌어내는 맞춤형 인테리어의 중요성이 커지고 있다.",
+  "mechanism": "건물의 직선 구조에 대응해 둥근 좌석, 곡선 거울, 유기적 형태의 러그를 배치하고, 물에 닳은 조약돌을 형상화한 모그(Mogg)의 마테라(Matera) 다이닝 테이블을 중심에 두어 공간의 유연함을 극대화했다.",
+  "sensory": "월넛 패널의 따뜻한 질감과 모래색 베이지가 공간의 바탕을 이루고, 그 위로 터키석, 짙은 파랑, 숲의 녹색 등 바다의 색감이 가구와 예술품을 통해 점진적으로 드러난다.",
+  "transfer": "직선 위주의 공간에 곡선 가구를 배치할 때, 세트 제품 대신 각기 다른 출처의 조형적 오브제를 섞어 갤러리 같은 동선을 유도하고 시각적 발견을 극대화하라.",
+  "context": "모하메드 알카리가 설립한 크리에이티브 디자인(Qreative Design)은 바레인을 기반으로 럭셔리와 기능성을 결합한 주거 및 상업 프로젝트를 수행해 왔다. 본 프로젝트의 기반이 된 건물은 세계 최대 규모의 건축사무소인 겐슬러가 설계한 현대적 셸(shell) 구조를 취하고 있다.",
+  "findings": [
+   {
+    "text": "크리에이티브 디자인 스튜디오는 2017년 바레인의 건축가이자 인테리어 디자이너 모하메드 알카리가 설립했다.",
+    "s": 2,
+    "quote": "Qreative Design Studio was founded in 2017 by Bahraini architect and interior designer Mohamed Alqari."
+   },
+   {
+    "text": "겐슬러는 2023년 말 기준 전 세계 17개국 53개 도시에서 사무소를 운영하는 글로벌 건축 디자인 기업이다.",
+    "s": 4,
+    "quote": "As of late 2023, Gensler operated offices in 53 cities in 17 countries worldwide, working for clients in over 100 countries."
+   }
+  ],
+  "keywords": [
+   "바레인베이",
+   "모하메드알카리",
+   "공간디자인",
+   "유기적형태",
+   "주거인테리어"
+  ],
+  "evidence": "The project interprets the colors and atmosphere of the sea, sunlight, sand, and horizon through materiality, artwork, and form",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "건축적 셸과 인테리어의 대비를 통해 공간의 리듬을 만드는 구체적인 가구 배치와 재료 활용 방식이 명확히 제시됨.",
+  "v": 2,
+  "url": "https://design-milk.com/bahrain-bay-apartment/",
+  "original_title": "A Bahrain Bay Apartment Finds Its Rhythm in Art and Curves",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 5814,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-01 11:36",
+  "research": {
+   "entities": [
+    "Mohamed Alqari",
+    "Gensler",
+    "Qreative Design",
+    "Mogg",
+    "Jamal Al Yousif"
+   ],
+   "questions": [
+    "Mohamed Alqari가 바레인 베이 아파트의 인테리어 디자인에서 곡선을 활용해 공간의 분위기를 어떻게 변화시켰는가?",
+    "이 아파트의 디자인 컨셉인 '해변의 색감과 분위기'를 구현하기 위해 어떤 소재와 예술적 요소가 사용되었는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Gensler | Creating a Better World Through the Power of Design",
+     "url": "https://www.gensler.com/"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Design | Qreative Design",
+     "url": "https://www.qreativedesign.com/"
+    },
+    {
+     "n": 3,
+     "type": "공식·1차",
+     "title": "Mogg,",
+     "url": "https://www.mogg.it/"
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "Gensler",
+     "url": "https://en.wikipedia.org/wiki/Gensler"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "후쿠오카의 새로운 관문, 오마(OMA)가 설계한 텐진 비즈니스 센터 II",
+     "url": "https://www.archdaily.com/1184460/tenjin-business-center-ii-oma"
+    }
+   ],
+   "used": [
+    2,
+    3,
+    4
+   ],
+   "chars": 6463
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "design-milk.com/baker-mckenzie-warsaw-office": {
+  "title_ko": "바르소 타워 꼭대기에 펼쳐진 일본과 뉴욕의 미학적 교차로",
+  "summary_ko": "건축 스튜디오 빗 크리에이티브(Bit Creative)가 바르샤바 바르소 타워 상층부에 베이커 맥켄지(Baker McKenzie)의 새 사무소를 설계했다. 일본의 절제된 비례감과 뉴욕의 도시 에너지를 결합해 정형화된 법률 사무소의 틀을 깼다. 브레치아 루나레 대리석과 천연 섬유 벽지를 사용해 촉각적 풍요를 더했다.",
+  "lens": "법률 사무소의 경직된 문법을 지우고, 대리석과 벽지의 물성으로 일본과 뉴욕의 긴장감을 맞춘다.",
+  "why_now": "천편일률적인 오피스 인테리어를 벗어나 지역성과 브랜드 정체성을 물리적 공간에 벼려내는 시도가 늘고 있다.",
+  "mechanism": "벽면과 천장이 하나로 이어지는 모놀리식 표면을 만들어 폴란드 작가들의 미술품을 위한 캔버스로 활용한다.",
+  "sensory": "중앙의 분재 영감 조형물과 브레치아 루나레 대리석 리셉션 데스크가 공간의 무게 중심을 잡는다.",
+  "transfer": "미술관처럼 벽면과 천장을 일체화한 모놀리식 면을 만들어 회화나 조각을 걸고 극적인 조명을 떨어뜨리는 씬에 활용한다.",
+  "context": "폴란드를 기반으로 공간과 비즈니스의 조화를 추구해 온 빗 크리에이티브가 다국적 로펌 베이커 맥켄지의 새 업무 공간을 구축했다.",
+  "findings": [],
+  "keywords": [
+   "오피스인테리어",
+   "바르소타워",
+   "빗크리에이티브",
+   "재료의물성"
+  ],
+  "evidence": "The 43,055-square-foot workplace sits on the top three floors of Varso Tower in Warsaw, where the distinct aesthetics intertwine throughout the interior in a subtle dialogue rather than through overwrought decoration.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "구체적인 오피스 프로젝트의 공간 구성과 재료를 다뤘으나 새로운 기법보다는 정교한 디자인 적용에 가깝다.",
+  "v": 2,
+  "url": "https://design-milk.com/baker-mckenzie-warsaw-office/",
+  "original_title": "A Warsaw Law Office Finds Common Ground Between Japan and New York",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 5196,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-01 11:38",
+  "research": {
+   "entities": [
+    "Baker McKenzie",
+    "Bit Creative",
+    "Varso Tower",
+    "Agata Bogacka",
+    "Xawery Wolski"
+   ],
+   "questions": [
+    "바르소 타워에 위치한 Baker McKenzie 사무소는 일본의 미학과 뉴욕의 도시 에너지를 인테리어 디자인에 어떻게 조화롭게 녹여냈는가?",
+    "Bit Creative가 이 프로젝트에서 활용한 주요 자재와 폴란드 현대 미술 작품들이 공간의 분위기에 어떤 영향을 미쳤는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Baker McKenzie – Local strength, global excellence",
+     "url": "https://www.bakermckenzie.com/en/"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "HOME | bitcreative",
+     "url": "https://www.bitcreative.info/"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Baker McKenzie",
+     "url": "https://en.wikipedia.org/wiki/Baker%20McKenzie"
+    }
+   ],
+   "used": [],
+   "chars": 2763
+  },
+  "depth_raw": 3,
+  "depth_v": 2
  }
 }
