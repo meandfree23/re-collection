@@ -107592,5 +107592,723 @@
   },
   "depth_raw": 4,
   "depth_v": 2
+ },
+ "dezeen.com/2026/10/01/rael-san-fratello-san-francisco-exhibition-yerba-buena-broom-roof": {
+  "title_ko": "바이오 플라스틱과 재활용 빗자루로 구축한 라엘 산 프라텔로 회고전",
+  "summary_ko": "미국 예르바 부에나 예술 센터에서 열린 디자인 스튜디오 라엘 산 프라텔로의 중간 경력 회고전이다. 바이오 기반 열가소성 플라스틱과 재활용 빗자루 머리를 재료로 삼은 구조물들을 선보였다. 급진적 상상력을 주제로 삼아 대안적인 물질성과 구축 방식을 탐구한다.",
+  "lens": "일상의 사물을 해체해 새로운 건축적 골격과 물성으로 재조립한다.",
+  "why_now": "기후 위기 시대에 비정형적이고 버려진 재료를 건축 구조로 전환하는 실험이 주목받는 시점이다.",
+  "mechanism": "재활용 빗자루 머리와 바이오 플라스틱이라는 이질적인 재료를 결합해 독특한 표면 질감과 자립식 구조를 형성한다.",
+  "sensory": "거친 플라스틱 섬유와 생분해성 소재가 만들어내는 낯선 촉각적 대비와 입체적인 그림자가 공간을 채운다.",
+  "transfer": "공간 세트 디자인에서 기존 마감재 대신 일상용품을 대량 집적해 새로운 패턴과 벽면을 구축하는 레퍼런스로 활용한다.",
+  "context": "샌프란시스코 예르바 부에나 예술 센터에서 진행된 이번 전시는 라엘 산 프라텔로의 중기적 디자인 궤적을 조명한다.",
+  "findings": [
+   {
+    "text": "예르바 부에나 예술 센터는 미국 캘리포니아주 샌프란시스코에 위치한 다학제적 현대 미술 센터이다.",
+    "s": 1,
+    "quote": "Yerba Buena Center for the Arts (YBCA) is a multi-disciplinary contemporary arts center in San Francisco, California, United States."
+   }
+  ],
+  "keywords": [
+   "라엘산프라텔로",
+   "바이오플라스틱",
+   "회고전",
+   "재활용소재"
+  ],
+  "evidence": "San Francisco exhibition explores the \"radical imagination\" of Rael San Fratello",
+  "kind": "전시",
+  "depth": 2,
+  "grounding": "thin",
+  "depth_reason": "원문 본문이 수집되지 않고 메타 정보와 RSS 요약만 남아 있어 구체적 작동 방식에 한계가 있다.",
+  "v": 2,
+  "url": "https://www.dezeen.com/2026/10/01/rael-san-fratello-san-francisco-exhibition-yerba-buena-broom-roof/",
+  "original_title": "San Francisco exhibition explores the \"radical imagination\" of Rael San Fratello",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 0,
+  "fetch": "fetch_error:HTTPError",
+  "cliche_hits": [],
+  "read_at": "2026-10-02 00:32",
+  "research": {
+   "entities": [
+    "Yerba Buena Center for the Arts",
+    "Rael San Fratello"
+   ],
+   "questions": [
+    "라엘 산 프라텔로의 이번 회고전에서 다루는 주요 디자인 철학은 무엇인가요?",
+    "바이오 기반 열가소성 플라스틱과 재활용 소재를 활용한 구조물이 제작된 배경은 무엇인가요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Yerba Buena Center for the Arts",
+     "url": "https://en.wikipedia.org/wiki/Yerba%20Buena%20Center%20for%20the%20Arts"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 576
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "dezeen.com/2026/10/01/higher-education-cedric-price-owen-hopkins-opinion": {
+  "title_ko": "변화하는 고등 교육, 대학 캠퍼스 공간의 재구성을 요구하다",
+  "summary_ko": "오웬 홉킨스(Owen Hopkins)는 영국 대학이 직면한 위기 속에서 물리적 인프라인 캠퍼스 공간의 근본적인 재고가 필요하다고 주장한다. 대학이 교육 방식의 변화에 발맞춰 기존의 강의실 중심 구조를 넘어선 새로운 공간 전략을 수립해야 한다는 지적이다.",
+  "lens": "대학 캠퍼스를 고정된 강의실의 집합이 아닌, 유동적인 지식 생산과 교류가 일어나는 가변적 플랫폼으로 재정의한다.",
+  "why_now": "디지털 전환과 교육 모델의 변화로 인해 전통적인 대학 공간이 가진 물리적 한계가 명확해진 시점이다.",
+  "mechanism": "강의실 중심의 경직된 동선과 폐쇄적 공간 구조를 해체하고, 학생들의 활동이 중심이 되는 개방형 스튜디오와 유연한 공유 공간으로 전환한다.",
+  "sensory": "고정된 좌석이 사라진 스튜디오의 소음과 활동성, 그리고 빛이 깊숙이 들어오는 개방형 구조를 통해 지식의 흐름을 시각화한다.",
+  "transfer": "공간 설계 시 고정된 벽체 대신 이동식 파티션과 다목적 가구를 배치하여, 프로젝트의 성격에 따라 공간의 밀도와 성격을 실시간으로 조정하는 연출을 시도한다.",
+  "context": "디진(Dezeen)은 런던 기반의 건축 디자인 매체로, 동시대 건축과 공간의 변화상을 지속적으로 관찰하고 기록한다. 본 기사는 대학이라는 특정 공간의 위기와 그에 대응하는 건축적 해법을 논의하며, 디진이 다루어 온 건축 담론의 연장선에 있다.",
+  "findings": [],
+  "keywords": [
+   "대학 캠퍼스",
+   "교육 공간",
+   "공간 전략",
+   "건축 담론"
+  ],
+  "evidence": "Reinventing higher education requires architecture to reinvent itself too",
+  "kind": "뉴스·이슈",
+  "depth": 2,
+  "grounding": "thin",
+  "depth_reason": "원문 본문이 수집되지 않아 오웬 홉킨스의 구체적인 논리와 건축적 대안을 심도 있게 분석하는 데 한계가 있다.",
+  "v": 2,
+  "url": "https://www.dezeen.com/2026/10/01/higher-education-cedric-price-owen-hopkins-opinion/",
+  "original_title": "\"Reinventing higher education requires architecture to reinvent itself too\"",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 0,
+  "fetch": "fetch_error:HTTPError",
+  "cliche_hits": [],
+  "read_at": "2026-10-02 00:32",
+  "research": {
+   "entities": [
+    "Owen Hopkins",
+    "Dezeen"
+   ],
+   "questions": [
+    "현재 영국 대학들이 겪고 있는 물리적 인프라와 관련된 주요 위기는 무엇인가?",
+    "대학 교육의 변화가 캠퍼스 건축 설계 방식에 구체적으로 어떤 영향을 미쳐야 하는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Dezeen",
+     "url": "https://en.wikipedia.org/wiki/Dezeen"
+    },
+    {
+     "n": 2,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "디진 어워즈 2026 마스터 심사위원단이 던진 질문",
+     "url": "https://www.dezeen.com/2026/09/24/dezeen-awards-2026-trimble-master-jury-video/"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "디진 어워드 2026 건축 부문 최종 후보 152선 공개",
+     "url": "https://www.dezeen.com/2026/09/21/dezeen-awards-2026-architecture-shortlist/"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "런던 디자인 페스티벌 2026, 기술과 공예의 교차점을 기록하다",
+     "url": "https://www.dezeen.com/2026/09/11/dezeen-dispatch-ldf-2026/"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 877
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "wallpaper.com/travel/restaurants/skywalker-grill-lucas-museum-restaurant-review": {
+  "title_ko": "우주선의 곡선과 체리 목재의 온기, 스카이워커 그릴",
+  "summary_ko": "영화감독 조지 루카스와 멜로디 홉슨이 설립한 루카스 내러티브 미술관 최상층에 스카이워커 그릴이 문을 열었다. 록웰 그룹의 로스앤젤레스 오피스가 설계를 맡아 미드센추리 모더니즘과 시각적 스토리텔링을 결합한 공간을 완성했다. 은빛 금박을 입힌 바와 체리 목재 패널이 미래지향적인 건축 외피와 대조를 이룬다.",
+  "lens": "우주선 같은 곡면 건축 안에 체리 목재의 온기를 짜넣어 영화적 공간을 재현한다.",
+  "why_now": "마 얀송이 설계한 신축 박물관의 완공과 맞물려, 전시장 관람 이후의 경험을 미식과 공간 디자인으로 확장하는 새로운 문화적 거점이 탄생했다.",
+  "mechanism": "지역 제작자가 수작업으로 마감한 체리 목재 패널과 녹색 가죽 벤치 부스를 구불구불한 목재 실내 분할 벽으로 연결해 지속적인 움직임과 시각적 리듬을 만든다.",
+  "sensory": "은빛 금박 바의 차가운 광택과 이음새 없이 맞물린 체리 목재의 결이 대조를 이루며, 탁 트인 로스앤젤레스 도시 전경과 파티오로 시선을 확장한다.",
+  "transfer": "세트나 공간 디자인에서 미래지향적인 외피와 아날로그적 목재 질감을 충돌시켜 시각적 긴장감을 만드는 연출에 적용한다.",
+  "context": "조지 루카스와 멜로디 홉슨이 로스앤젤레스 익스포지션 파크에 설립한 루카스 내러티브 아트 박물관 최상층에 위치한다. 록웰 그룹의 데이비드 록웰은 조지 루카스의 북캘리포니아 작업장인 스카이워커 목장의 따뜻한 물성을 실내로 끌어들였다.",
+  "findings": [],
+  "keywords": [
+   "스카이워커그릴",
+   "루카스미술관",
+   "록웰그룹",
+   "체리목재",
+   "미드센추리모더니즘"
+  ],
+  "evidence": "Designed by Rockwell Group’s Los Angeles office, the restaurant features a generous open floor plan, defined by green-hued leather and velvet banquettes tucked into undulating timber room dividers.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "세계적인 건축가와 디자이너가 협업한 구체적인 공간 프로젝트이나, 전형적인 레스토랑 인테리어 소개의 범주를 크게 벗어나지 않는다.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/travel/restaurants/skywalker-grill-lucas-museum-restaurant-review",
+  "original_title": "At Skywalker Grill, the Lucas Museum’s futuristic restaurant, the force – and the drinks –are strong",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 3861,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-02 00:32",
+  "research": {
+   "entities": [
+    "George Lucas",
+    "Lucas Museum of Narrative Art",
+    "Ma Yansong",
+    "Rockwell Group",
+    "Skywalker Ranch"
+   ],
+   "questions": [
+    "조지 루카스의 시각 예술 철학이 루카스 서사예술 박물관과 스카이워커 그릴의 공간 디자인에 어떻게 반영되었는가?",
+    "록웰 그룹은 로스앤젤레스에 위치한 이 미래지향적인 레스토랑의 공간 구성에서 미드센추리 모더니즘을 어떻게 재해석했는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Skywalker Grill - Lucas Museum of Narrative Art",
+     "url": "https://lucasmuseum.org/skywalker-grill"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Rhubarb Hospitality Collection",
+     "url": "https://rhubarbhospitality.com/"
+    },
+    {
+     "n": 3,
+     "type": "공식·1차",
+     "title": "Lucas Museum of Narrative Art",
+     "url": "https://lucasmuseum.org/"
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "George Lucas",
+     "url": "https://en.wikipedia.org/wiki/George%20Lucas"
+    },
+    {
+     "n": 5,
+     "type": "위키백과",
+     "title": "Lucas Museum of Narrative Art",
+     "url": "https://en.wikipedia.org/wiki/Lucas%20Museum%20of%20Narrative%20Art"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "목수였던 배우 해리슨 포드, 그가 직접 지은 집과 가구의 기록",
+     "url": "https://www.architecturaldigest.com/story/harrison-ford-at-home-photos-of-the-hollywood-heartthrobs-life-off-set"
+    },
+    {
+     "n": 7,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "지상에서 띄워 올린 유기체의 형상, 마 얀송의 루카스 내러티브 미술관 완공",
+     "url": "https://www.archdaily.com/1184508/first-look-at-the-completed-lucas-museum-of-narrative-art-opening-september-22-2026"
+    },
+    {
+     "n": 8,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "조지 루카스의 서사 박물관, 타셴의 두 권짜리 기록으로 엮이다",
+     "url": "https://www.wallpaper.com/art/lucas-museum-of-narrative-art-taschen-book-review"
+    }
+   ],
+   "used": [
+    1,
+    3,
+    5,
+    7
+   ],
+   "chars": 6901
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "motionographer.com/quickie/transit-metallux-studio": {
+  "title_ko": "18세기 금성 일면 통과를 소환한 AI 필름 '트랜짓'",
+  "summary_ko": "님 샤피라, 타미르 아비도르, 세피 히르쉬가 제작한 2분 분량의 AI 필름 트랜짓은 1761년 금성 수송 265주년을 기념한다. 이 영화는 에드먼드 핼리의 예측과 7년 전쟁 속에서도 협력한 과학자들의 여정을 미드저니, 구글 비오 등의 AI 도구로 재구성한다. 20세기 정치가 윈스턴 처칠의 목소리를 연상시키는 내레이션을 얹어 과학과 협업의 의미를 묻는다.",
+  "lens": "미드저니와 런웨이 등의 AI 도구로 18세기 천문 관측의 역사적 순간을 동시대적 감각으로 재조립한다.",
+  "why_now": "기술적 성취와 갈등이 교차하는 시대에 과거의 과학적 연대 사례를 환기하며 집단적 협업의 가능성을 묻는다.",
+  "mechanism": "미드저니, 구글 비오, 런웨이, 클링 등의 이미지 및 비디오 생성 도구를 조합해 18세기 천문대와 항해를 시각화하고, 윈스턴 처칠을 연상시키는 보이스오버를 겹친다.",
+  "sensory": "거친 질감의 AI 합성 영상과 중후한 기록적 내레이션이 맞물려 세기를 건너뛴 듯한 환영을 만든다.",
+  "transfer": "역사적 기록물을 현대의 멀티모달 AI 툴킷으로 재해석해 시대극 콘티를 구성하는 레퍼런스로 활용한다.",
+  "context": "에드먼드 핼리는 17th세기 말 핼리 핼리의 주기 등을 계산하며 천문학과 물리학의 기틀을 다진 영국의 천문학자다.",
+  "findings": [
+   {
+    "text": "에드먼드 핼리는 영국의 천문학자이자 수학자, 물리학자였다.",
+    "s": 1,
+    "quote": "Edmond (or Edmund) Halley (; 8 November [O.S. 29 October] 1656 – 25 January 1742 [O.S. 14 January 1741]) was an English astronomer, mathematician and physicist."
+   },
+   {
+    "text": "미드저니는 자연어 프롬프트에서 이미지를 생성하는 생성형 AI 프로그램이다.",
+    "s": 2,
+    "quote": "Midjourney is a generative AI program and service created and hosted by the San Francisco–based independent research lab Midjourney, Inc."
+   }
+  ],
+  "keywords": [
+   "AI필름",
+   "금성일면통과",
+   "생성형AI",
+   "역사재구성"
+  ],
+  "evidence": "TRANSIT is a two-minute AI film created to mark the 265th anniversary of the 1761 transit of Venus.",
+  "kind": "영상·필름",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "역사적 사건을 동시대 AI 툴로 구현한 흥미로운 시도이나 숏폼 영상의 범주를 크게 벗어나지 않는다.",
+  "v": 2,
+  "url": "https://motionographer.com/quickie/transit-metallux-studio/",
+  "original_title": "TRANSIT | Metallux Studio",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 1679,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-02 00:32",
+  "research": {
+   "entities": [
+    "Metallux Studio",
+    "Edmond Halley",
+    "Nim Shapira",
+    "Midjourney",
+    "Runway"
+   ],
+   "questions": [
+    "에드먼드 핼리의 금성 일면 통과 예측과 전 세계 과학자들의 협력 과정은 역사적으로 어떻게 기록되어 있는가?",
+    "AI 생성 도구를 활용하여 18세기 역사적 사건을 시각화할 때 연출적 의도와 기술적 한계는 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Edmond Halley",
+     "url": "https://en.wikipedia.org/wiki/Edmond%20Halley"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Midjourney",
+     "url": "https://en.wikipedia.org/wiki/Midjourney"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "디젤 SS27, 글렌 마틴스가 퇴임하며 남긴 도발적인 마지막 퍼포먼스",
+     "url": "https://www.dazeddigital.com/fashion/article/71033/1/diesel-ss27-milan-fashion-week-mfw-glenn-martens-final-show?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=diesel-ss27-backstage-photos-from-glenn-martens-lip-smacking-runway-orgy"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "학교로 돌아간 버버리 SS27, 데이비드 보위의 사운드트랙과 센트럴 씨의 런웨이",
+     "url": "https://www.dazeddigital.com/fashion/article/71017/1/burberry-ss27-central-cee-london-fashion-week-lfw-daniel-lee?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=central-cee-made-his-runway-debut-at-burberry-ss27"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "모션그래퍼 20주년, 브루클린 룰렛에서 확인하는 모션 디자인의 오늘",
+     "url": "https://motionographer.com/2026/09/18/motionographer-turns-20-with-motion-plus-design-new-york-20-seats-for-20-years/"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 2723
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "archdaily.com/1185924/kromme-rijn-college-eva-architecten": {
+  "title_ko": "유산과 증축의 공존: 네덜란드 크롬메 라인 칼리지 리노베이션",
+  "summary_ko": "네덜란드 위트레흐트에 위치한 크롬메 라인 칼리지는 피에트 딩에만스의 1950년대 후반 학교 건물을 에바 아키텍튼이 리노베이션하고 증축한 프로젝트다. 지역 주민들의 노력으로 철거 위기를 넘긴 기존 건물은 지역 사회의 결정에 따라 크롬메 라인 칼리지를 수용하기 위한 공간으로 재탄생했다.",
+  "lens": "오래된 건물의 구조적 유산을 보존하면서 새로운 기능을 결합하는 방식.",
+  "why_now": "방치된 건축 자산을 철거하지 않고 교육 시설로 되살려 지속 가능성을 실천하는 흐름을 보여준다.",
+  "mechanism": "기존의 건축적 틀을 유지한 상태에서 새로운 매스를 확장하여 공간의 용도를 재편한다.",
+  "sensory": "1950년대 모더니즘 건축의 골조와 현대적인 증축 부분이 만나 만들어내는 시대별 질감의 대비.",
+  "transfer": "공간 연출 시 과거 건물의 원형을 남긴 벽면에 현대적인 조명을 설치해 시간의 층위를 드러낸다.",
+  "context": "위트레흐트 출신의 건축가 피에트 딩에만스가 설계한 기존 건물을 에바 아키텍튼이 개보수했다.",
+  "findings": [],
+  "keywords": [
+   "건축리노베이션",
+   "학교건축",
+   "공간재생",
+   "네덜란드건축"
+  ],
+  "evidence": "The existing building at Rubenslaan 91 was constructed between 1956 and 1958 as a ULO secondary school.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "과거 건축물의 보존과 리노베이션 과정을 담았으나 세부적인 설계 기법이나 도면 정보가 부족하다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1185924/kromme-rijn-college-eva-architecten",
+  "original_title": "Kromme Rijn College / EVA architecten",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 1727,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-02 00:32",
+  "research": {
+   "entities": [
+    "EVA architecten",
+    "Piet Dingemans"
+   ],
+   "questions": [
+    "Kromme Rijn College 리노베이션 프로젝트에서 원 건축물인 Piet Dingemans의 디자인 유산은 어떻게 보존되었는가?",
+    "지역 주민들이 20년간 방치된 학교 건물의 철거를 막고 리노베이션하게 된 구체적인 과정은 무엇인가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "anothermag.com/fashion-beauty/17530/courreges-drew-henry-spring-summer-2027-review-paris-fashion-week": {
+  "title_ko": "쿠레주의 백색 상자를 부수고 찢어낸 드류 헨리의 데뷔",
+  "summary_ko": "드류 헨리는 파리 패션위크에서 쿠레주의 새로운 크리에이티브 디렉터로 데뷔하며 1960년대 스페이스 에이지 아카이브를 해체하고 재조립했다. 장 바르테의 아카이브 모자와 낡은 고고 부츠, 가죽과 데님을 섞어 엄격한 백색의 고정관념을 깨고 인간적인 흔적을 불어넣었다.",
+  "lens": "완벽한 백색의 아카이브를 찢고 낡은 흔적을 더해 미래주의에 생명력을 불어넣는다.",
+  "why_now": "엄격한 과거의 미감에 갇힌 역사적 하우스를 해체하고 유머와 인간적인 결을 불어넣는 새로운 세대의 접근법을 보여준다.",
+  "mechanism": "데님을 절제된 모드 자켓으로 재단하고 트위드 코트의 소매를 뜯어내며, 긁히고 벗겨진 고고 부츠와 아카이브 모자를 충돌시킨다.",
+  "sensory": "수술실처럼 정제된 백색 타워 공간에서 낡고 해진 빈티지 가죽과 텍스처, 춤추듯 자유로운 실루엣이 대조를 이룬다.",
+  "transfer": "광고 콘티나 뮤직비디오 의상에서 정교하게 다듬어진 의상에 일부러 거친 스티치와 마모된 질감을 더해 서사를 부여하는 장치로 쓴다.",
+  "context": "남아프리카공화국 출신 디자이너 드류 헨리가 피비 파일로와 버버리 등을 거쳐 파리 패션위크에서 쿠레주의 크리에이티브 디렉터로 데뷔했다. 쿠레주의 창립자 앙드레 쿠레주와 코클린 쿠레주가 구축했던 1960년대 스페이스 에이지 유산과 장 바르테의 모자 아카이브를 현대적으로 해체하고 변형했다.",
+  "findings": [
+   {
+    "text": "남아프리카공화국 출신 디자이너 드류 헨리가 파리 패션위크에서 쿠레주의 새로운 크리에이티브 디렉터로 데뷔했다.",
+    "s": 2,
+    "quote": "남아프리카공화국 출신 디자이너 드류 헨리가 파리 패션위크에서 쿠레주의 새로운 크리에이티브 디렉터로 데뷔했다."
+   },
+   {
+    "text": "장 바르테(Jean Barthet)는 1950년대부터 할리우드와 프랑스 영화 스타들의 모자를 제작하며 버킷 햇, 필박스 햇, 페도라 등 1960년대를 풍신한 모자 스타일을 정립한 프랑스의 밀리너다.",
+    "s": 1,
+    "quote": "Jean Barthet (1920–2000) was a French milliner who first rose to prominence in the 1950s as hat maker to Hollywood and French film stars"
+   }
+  ],
+  "keywords": [
+   "드류헨리",
+   "쿠레주",
+   "스페이스에이지",
+   "아카이브해체",
+   "파리패션위크"
+  ],
+  "evidence": "Breaking out of the white box was a stated aim by Henry – said as a model walked past in tight navy stirrup trousers",
+  "kind": "런웨이·컬렉션",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "구체적인 디자이너의 아카이브 해체 방식과 아카이브 모자 활용이 명확하게 드러나는 데뷔 컬렉션이다.",
+  "v": 2,
+  "url": "https://www.anothermag.com/fashion-beauty/17530/courreges-drew-henry-spring-summer-2027-review-paris-fashion-week?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=drew-henry-is-breaking-out-and-tearing-up-at-courreges",
+  "original_title": "Drew Henry Is Breaking Out and Tearing Up at Courrèges",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 3790,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-02 00:32",
+  "research": {
+   "entities": [
+    "Courrèges",
+    "Drew Henry",
+    "André Courrèges",
+    "Coqueline Courrèges",
+    "Jean Barthet"
+   ],
+   "questions": [
+    "드류 헨리(Drew Henry)가 쿠레주(Courrèges)의 크리에이티브 디렉터로 부임한 이후 시도한 디자인적 변화와 아카이브 활용 방식의 핵심은 무엇인가?",
+    "쿠레주의 역사에서 앙드레 쿠레주와 코클린 쿠레주가 브랜드의 초기 정체성과 모노그램에 기여한 바는 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Jean Barthet",
+     "url": "https://en.wikipedia.org/wiki/Jean%20Barthet"
+    },
+    {
+     "n": 2,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "쿠레주 SS27: 드류 헨리가 재해석한 스페이스 에이지 아카이브",
+     "url": "https://www.dazeddigital.com/fashion/article/71093/1/courreges-ss27-drew-henry-hat-pfw-paris-fashion-week?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=courreges-ss27-drew-henry-throws-his-hat-in-the-ring"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 813
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "thisiscolossal.com/2026/10/world-of-wearableart-2026-glo-fashion-performance": {
+  "title_ko": "뉴질랜드 웨어러블 아트, 신체와 서사를 엮는 조형적 실험 GLO!",
+  "summary_ko": "뉴질랜드에서 매년 열리는 웨어러블 아트 월드(World of WearableArt)는 패션과 공연 예술을 결합한 멀티미디어 경연이다. 올해는 GLO!를 주제로 카일라 크리스텐슨의 꽃을 형상화한 의상 'Sacred Nightfall'이 대상을 받았다. 이 행사는 10월 4일까지 웰링턴 TBS 아레나에서 열린다.",
+  "lens": "의복을 신체에 입히는 도구가 아닌, 공간 속에서 서사를 발산하는 조형물로 전환하여 무대 위 퍼포먼스와 결합한다.",
+  "why_now": "기술과 전통, 자연의 모티프를 정교한 수공예로 구현하며 동시대 패션이 나아갈 수 있는 극단적인 조형성을 보여준다.",
+  "mechanism": "무대 조명과 공중 안무, 라이브 음악을 결합해 의상의 질감과 움직임을 극대화하는 아레나 연출 방식을 취한다.",
+  "sensory": "꽃의 유기적인 곡선과 곤충의 금속성 광택이 무대 위 조명을 반사하며 관객의 시선을 압도한다.",
+  "transfer": "의상의 형태를 강조하기 위해 배경을 단순화하고, 특정 광원을 활용해 의상의 질감과 반사율을 극대화하는 조명 설계를 제안한다.",
+  "context": "1987년 시작된 이 대회는 매년 전 세계 디자이너의 실험적인 의상을 무대에 올리며 뉴질랜드 최대의 공연 예술 행사로 자리 잡았다. 이전부터 축적된 수상작들은 디지털 아카이브를 통해 보존되며 웨어러블 아트의 계보를 형성하고 있다.",
+  "findings": [
+   {
+    "text": "2026년 행사 주제인 GLO!는 상상력이 폭발하는 에너지와 고전압 엔터테인먼트를 결합한 형태를 지향한다.",
+    "s": 1,
+    "quote": "The 2026 WOW Show: GLO! is a surge of energy you feel. An awe-inspiring collision of the world's leading wearable art competition and high voltage entertainment, where imagination runs riot."
+   },
+   {
+    "text": "대회는 의상 전시뿐만 아니라 셰프가 참여하는 미식 경험과 연계하여 다감각적인 축제로 기획된다.",
+    "s": 1,
+    "quote": "Don't miss this multi-sensory hosted dining experience featuring chef-crafted dishes, live food stations, garment displays, and performance with WOW factor."
+   }
+  ],
+  "keywords": [
+   "웨어러블아트",
+   "조형예술",
+   "퍼포먼스",
+   "뉴질랜드"
+  ],
+  "evidence": "Avant-garde style, technology, and performance converge in a fantastical, joyous competition every year in New Zealand.",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "패션과 공연 예술을 결합한 구체적인 연출 장치와 행사 성격이 명확하게 확인된다.",
+  "v": 2,
+  "url": "https://www.thisiscolossal.com/2026/10/world-of-wearableart-2026-glo-fashion-performance/",
+  "original_title": "World of WearableArt’s ‘GLO!’ Is a Celebration of Culture, Nature, and Whimsy",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 1466,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-02 00:32",
+  "research": {
+   "entities": [
+    "World of WearableArt",
+    "Kayla Christensen",
+    "Ashish Dhaka",
+    "Katherine Bertram"
+   ],
+   "questions": [
+    "World of WearableArt 대회의 심사 기준과 예술적 지향점은 무엇인가요?",
+    "올해의 테마인 'GLO!'가 반영하고 있는 문화적, 자연적 요소는 구체적으로 어떤 의미를 담고 있나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "World of WearableArt | WOW",
+     "url": "https://www.worldofwearableart.com/"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 2541
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "wallpaper.com/tech/new-over-ear-headphones-autumn-2026": {
+  "title_ko": "가을의 청각적 몰입을 설계하는 7가지 오버이어 헤드폰의 물성",
+  "summary_ko": "가을 시즌을 겨냥한 오버이어 헤드폰 7종이 출시되었다. Nothing, Bose, Technics 등 각 브랜드는 고해상도 오디오를 위한 다중 드라이버 구조, 캐시미어와 같은 이질적 소재의 결합, 그리고 실리콘 배플과 같은 물리적 차폐 기술을 통해 청취 경험을 재정의한다. 기술적 정밀함과 패션적 문법이 결합된 이번 라인업은 하이엔드 오디오 시장의 새로운 기준을 제시한다.",
+  "lens": "기술적 스펙을 넘어, 헤드폰이라는 장치를 신체에 닿는 패션 오브제이자 공간을 차단하는 정밀한 건축적 도구로 해석한다.",
+  "why_now": "개인화된 청취 환경이 중요해짐에 따라, 음향 기술뿐만 아니라 착용 시의 촉각적 질감과 물리적 차폐 성능이 제품의 가치를 결정하는 핵심 요소로 부상했다.",
+  "mechanism": "실리콘 배플과 10개의 마이크 시스템을 활용한 물리적·소프트웨어적 차폐, 그리고 금속과 캐시미어 등 상반된 물성을 조합하여 공진을 억제하고 착용감을 극대화한다.",
+  "sensory": "귀를 감싸는 캐시미어의 부드러운 촉감과 금속 프레임의 차가운 질감이 대비되며, 소음이 제거된 공간에서 들리는 선명한 음향의 해상도가 강조된다.",
+  "transfer": "영상 촬영 시 소품으로 헤드폰을 활용할 때, 단순히 모델의 머리에 씌우는 것을 넘어 금속의 광택과 패브릭의 질감이 조명에 어떻게 반응하는지 클로즈업 샷으로 포착하여 재질의 대비를 강조한다.",
+  "context": "Nothing은 과거 미니멀한 디자인 언어로 주목받았으며, Thom Browne은 뉴욕 패션 위크를 통해 건축적 패턴을 강조해 온 브랜드다. Technics는 1965년부터 오디오 장비를 생산해 온 전통적인 브랜드로, 이번 모델에서 기존의 기계적 미학을 계승하면서 새로운 컬러웨이를 도입했다.",
+  "findings": [
+   {
+    "text": "Nothing Headphone (1) Pro는 3개의 드라이버를 사용하여 저음, 보컬, 악기 소리를 분리하여 재생한다.",
+    "s": 1,
+    "quote": "Each is engineered to handle part of the frequency range, working together to unlock deeper bass, sharper vocals and richer textures."
+   },
+   {
+    "text": "Thom Browne과 Bose의 협업 제품은 헤드밴드와 이어 쿠션에 헤더 그레이 캐시미어를 사용했다.",
+    "s": 2,
+    "quote": "From the headband to the ear cushions and carrying case, his signature heather grey cashmere brings the comfort and refinement of tailored luxury to the listening experience."
+   },
+   {
+    "text": "Technics는 1965년 마쓰시타 전기(현 파나소닉)에 의해 설립된 일본의 오디오 브랜드다.",
+    "s": 4,
+    "quote": "Technics (テクニクス, Tekunikusu) is a Japanese audio brand established by Matsushita Electric (now Panasonic) in 1965."
+   }
+  ],
+  "keywords": [
+   "오버이어 헤드폰",
+   "물성",
+   "차폐",
+   "디자인 혁신",
+   "하이엔드 오디오"
+  ],
+  "evidence": "New headphones from Nothing, Sony, Bose, Technics and more showcase the latest in design innovation and technological upgrades",
+  "kind": "제품·오브제",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "기술적 사양과 소재의 조합을 구체적으로 다루며 제품 간의 디자인적 차별점을 명확히 분석했다.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/tech/new-over-ear-headphones-autumn-2026",
+  "original_title": "Seven over-ear headphones to kick off your autumnal listening sessions",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 5448,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-02 00:32",
+  "research": {
+   "entities": [
+    "Nothing",
+    "Thom Browne",
+    "Bose",
+    "Technics",
+    "FiiO"
+   ],
+   "questions": [
+    "최근 출시된 하이엔드 오버이어 헤드폰들이 음질 향상을 위해 채택하고 있는 최신 드라이버 기술과 소재의 특징은 무엇인가요?",
+    "패션 브랜드와 오디오 제조사의 협업이 제품의 디자인적 요소와 사용자 경험에 어떤 차별점을 만들어내나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Headphone (1) Pro",
+     "url": "https://www.awin1.com/awclick.php?awinmid=48013&awinaffid=103504&clickref=wallpaper-us-3540838778917762360&p=https%3A%2F%2Fnothing.tech%2Fproducts%2Fheadphone-1-pro"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Bose × Thomas Browne Collaboration | Limited-edition Headphones",
+     "url": "https://www.anrdoezrs.net/links/6361382/type/dlg/sid/wallpaper-us-8712249782590718099/https://www.bose.co.uk/bose-x-thom-browne"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Thom Browne",
+     "url": "https://en.wikipedia.org/wiki/Thom%20Browne"
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "Technics (brand)",
+     "url": "https://en.wikipedia.org/wiki/Technics%20%28brand%29"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "부재의 미학: 예술이 스스로를 지울 때 드러나는 것들",
+     "url": "https://www.designboom.com/art/nothing-absence-spectacle/"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "구조적 실루엣과 귀환, 2027 S/S 뉴욕 패션 위크의 주요 흐름",
+     "url": "https://www.wallpaper.com/fashion-beauty/new-york-fashion-week-ss-2027-schedule-best-moments"
+    },
+    {
+     "n": 7,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "리카르도 루에바노스: 도쿄에서 마주하는 불가능과 희망의 물리적 궤적",
+     "url": "https://www.designboom.com/art/broken-ladders-bird-sculptures-hidden-faces-ricardo-luevano-tokyo-exhibition-the-sky-promised-nothing/"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    4
+   ],
+   "chars": 5941
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "archdaily.com/1185940/a-new-lens-on-modern-heritage-archdaily-partners-with-the-world-monuments-fund": {
+  "title_ko": "아크데일리와 세계기념물기금의 협업: 현대 건축 유산을 바라보는 새로운 기준",
+  "summary_ko": "건축 플랫폼 아크데일리(ArchDaily)가 세계기념물기금(World Monuments Fund)과 파트너십을 맺고 현대 건축 유산의 보존 가치를 재정의한다. 단순히 건물의 물리적 노후도가 아닌, 역사적·문화적 맥락을 바탕으로 보존 대상을 선정하는 기준을 탐구한다.",
+  "lens": "건물의 수명이 아닌 서사의 깊이로 유산을 판별하는 새로운 평가 체계에 주목한다.",
+  "why_now": "건축의 가치를 완공된 상태가 아닌, 시간의 흐름에 따른 적응과 유지관리의 서사로 전환하려는 동시대적 움직임이 반영되었다.",
+  "mechanism": "역사적 보존과 현대적 활용 사이의 균형을 맞추기 위해, 아크데일리의 디지털 아카이빙 역량과 세계기념물기금의 현장 보존 전문성을 결합한다.",
+  "sensory": "시간이 켜켜이 쌓인 재료의 노화와 그를 지탱하는 보수 작업의 흔적이 드러나는 구체적인 질감을 다룬다.",
+  "transfer": "콘티 작업 시 건물의 외형보다 수십 년간 축적된 유지관리의 노동과 변화의 시퀀스를 중심 서사로 배치한다.",
+  "context": "아크데일리는 전 세계 건축 뉴스와 프로젝트를 아카이빙하는 플랫폼이며, 세계기념물기금은 1965년 설립된 이후 현장 조사와 교육을 통해 역사적 건축물을 관리해 왔다. 두 기관의 협력은 기존의 건축 담론을 보존과 생태적 전환의 영역으로 확장하려는 시도다.",
+  "findings": [
+   {
+    "text": "아크데일리는 건축 뉴스, 프로젝트, 제품, 인터뷰 등을 다루며 전 세계 건축가와 디자이너를 대상으로 운영되는 플랫폼이다.",
+    "s": 1,
+    "quote": "ArchDaily is a website covering architectural news, projects, products, events, interviews and competitions, opinion pieces, among others, catering to architects, designers and other interested parties."
+   },
+   {
+    "text": "세계기념물기금은 1965년에 설립된 비영리 단체로, 현장 조사와 옹호 활동을 통해 전 세계 역사적 건축물과 문화유산을 보존한다.",
+    "s": 2,
+    "quote": "World Monuments Fund (WMF) is a private, international, non-profit organization dedicated to the preservation of historic architecture and cultural heritage sites around the world through fieldwork, advocacy, grantmaking"
+   }
+  ],
+  "keywords": [
+   "건축보존",
+   "현대유산",
+   "아크데일리",
+   "세계기념물기금"
+  ],
+  "evidence": "A New Lens on Modern Heritage",
+  "kind": "뉴스·이슈",
+  "depth": 2,
+  "grounding": "thin",
+  "depth_reason": "원문 본문을 확보하지 못한 상태로, 두 기관의 배경 정보와 협업의 일반적 맥락을 바탕으로 작성하여 깊이가 제한적이다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1185940/a-new-lens-on-modern-heritage-archdaily-partners-with-the-world-monuments-fund",
+  "original_title": "A New Lens on Modern Heritage: ArchDaily Partners with World Monuments Fund",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 0,
+  "fetch": "fetch_error:TimeoutError",
+  "cliche_hits": [],
+  "read_at": "2026-10-02 00:33",
+  "research": {
+   "entities": [
+    "ArchDaily",
+    "World Monuments Fund"
+   ],
+   "questions": [
+    "ArchDaily와 World Monuments Fund의 파트너십은 현대 건축 유산 보존에 어떤 구체적인 기여를 하는가?",
+    "현대 건물이 역사적·문화적 가치를 인정받아 보존 대상이 되기 위한 기준은 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "ArchDaily",
+     "url": "https://en.wikipedia.org/wiki/ArchDaily"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "World Monuments Fund",
+     "url": "https://en.wikipedia.org/wiki/World%20Monuments%20Fund"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "백송의 밀도 속에 심은 140제곱미터의 여름 거처",
+     "url": "https://www.archdaily.com/1185721/a-house-with-one-hundred-pines-luis-barandiaran"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "유토피아와 디스토피아 사이, 기후 전환을 상상하는 법",
+     "url": "https://www.archdaily.com/1185529/between-burning-forests-and-utopian-cities-designing-the-climate-transition"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "백만 제곱미터의 생태 축: 마드리드 푸에르타 데 마드리드 도시 계획 공모",
+     "url": "https://www.archdaily.com/1184822/jury-led-design-competition-for-sustainable-and-innovative-urban-planning-proposals-for-the-puerta-de-madrid-area-in-leganes-madrid"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 1593
+  },
+  "depth_raw": 2,
+  "depth_v": 2
  }
 }

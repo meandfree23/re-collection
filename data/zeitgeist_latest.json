@@ -1,32 +1,44 @@
 {
-  "generated_at": "2026-10-01 23:37 KST",
-  "period": "2026.09.24 - 2026.10.01",
-  "total_articles": 537,
+  "generated_at": "2026-10-02 00:32 KST",
+  "period": "2026.09.25 - 2026.10.02",
+  "total_articles": 494,
   "genre_breakdown": [
     {
       "genre": "동시대 미술",
-      "count": 227
+      "count": 205
     },
     {
       "genre": "공간·건축",
-      "count": 201
+      "count": 189
     },
     {
       "genre": "아방가르드 패션",
-      "count": 86
+      "count": 79
     },
     {
       "genre": "미디어 파사드·3D",
-      "count": 23
+      "count": 21
     }
   ],
   "themes": [
     {
       "keyword": "박물관·전시",
-      "count": 52,
-      "previous_count": 27,
+      "count": 53,
+      "previous_count": 28,
       "trend": "rising",
       "items": [
+        {
+          "title": "스카이워커 그릴 (Skywalker Grill) 에서는 루카스 박물관 (Lucas Museum) 의 미래형 레스토랑인 포스 (force) 와 음료가 강렬합니다.",
+          "url": "https://www.wallpaper.com/travel/restaurants/skywalker-grill-lucas-museum-restaurant-review",
+          "image_url": "https://cdn.mos.cms.futurecdn.net/iNru9aTYbgsSpWmanBPSYS-1920-80.jpg",
+          "source_name": "Wallpaper*"
+        },
+        {
+          "title": "라엘 산 프라텔로의 \"급진적 상상력\" 을 탐구하는 샌프란시스코 전시회",
+          "url": "https://www.dezeen.com/2026/10/01/rael-san-fratello-san-francisco-exhibition-yerba-buena-broom-roof/",
+          "image_url": "https://static.dezeen.com/uploads/2026/10/rafael-san-fratello-exhibition-san-francisco_dezeen_2364_sq-852x852.jpg",
+          "source_name": "Dezeen"
+        },
         {
           "title": "화이트 브릭 확장은 디자인 박물관 겐트 개편을 정의합니다",
           "url": "https://www.dezeen.com/2026/10/01/carmody-groarke-design-museum-gent/",
@@ -38,25 +50,13 @@
           "url": "https://www.dezeen.com/2026/10/01/cf-moller-mind-museum/",
           "image_url": "https://static.dezeen.com/uploads/2026/09/mind-museum-cf-moller-architecture-adaptive-reuse-public-leisure_dezeen_2364_sq-852x852.jpg",
           "source_name": "Dezeen"
-        },
-        {
-          "title": "데이비드 치퍼필드 아키텍츠 (David Chipperfield Architects) 는 단편 영화에서 \"가장 중요한 프로젝트\" 두 가지를 기념합니다.",
-          "url": "https://www.dezeen.com/2026/10/01/david-chipperfield-hepworth-turner-contemporary/",
-          "image_url": "https://static.dezeen.com/uploads/2026/10/david-chipperfield-short-film-turner-contemporary-hepworth-wakefield_dezeen_1704_sq-852x852.jpg",
-          "source_name": "Dezeen"
-        },
-        {
-          "title": "몬트리올 미술관에서 치하루 시오타의 영혼이 떨린다",
-          "url": "https://coolhunting.com/culture/chiharu-shiotas-soul-trembles-at-the-montreal-museum-of-fine-arts/",
-          "image_url": "https://coolhunting.com/wp-content/uploads/2026/09/SHI_0077_1920935-768x512.jpg",
-          "source_name": "Cool Hunting"
         }
       ]
     },
     {
       "keyword": "빛과 조명",
-      "count": 14,
-      "previous_count": 7,
+      "count": 13,
+      "previous_count": 8,
       "trend": "rising",
       "items": [
         {
@@ -119,8 +119,8 @@
     },
     {
       "keyword": "가구 디자인",
-      "count": 9,
-      "previous_count": 2,
+      "count": 8,
+      "previous_count": 3,
       "trend": "rising",
       "items": [
         {
@@ -151,8 +151,8 @@
     },
     {
       "keyword": "해변·리조트 건축",
-      "count": 9,
-      "previous_count": 1,
+      "count": 8,
+      "previous_count": 2,
       "trend": "rising",
       "items": [
         {
@@ -183,8 +183,8 @@
     },
     {
       "keyword": "리노베이션·재생",
-      "count": 9,
-      "previous_count": 3,
+      "count": 8,
+      "previous_count": 4,
       "trend": "rising",
       "items": [
         {
@@ -217,6 +217,7 @@
   "notable_names": [
     "Dezeen Awards",
     "NOWNESS Shorts",
+    "Lucas Museum",
     "Private View",
     "Artist Spotlight",
     "Saint Laurent",
@@ -225,8 +226,7 @@
     "VitrA Tiles",
     "Milan Fashion Week",
     "Arthur Jafa",
-    "Video Art Visions",
-    "Craft Work"
+    "Video Art Visions"
   ],
   "has_comparison": true
 }

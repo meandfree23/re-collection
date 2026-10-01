@@ -1459,5 +1459,44 @@
   "v": 3,
   "model": "gemini-3.1-flash-lite-preview",
   "written_at": "2026-10-01 09:44"
+ },
+ "2026-10-02": {
+  "date": "2026-10-02",
+  "headline": "부서진 백색 상자와 체리 목재의 온기, 무대 위로 솟은 의복",
+  "editorial": "쿠레주의 백색 상자를 찢어낸 드류 헨리의 데뷔는 완벽한 아카이브에 낡은 흔적을 더하며 시작된다. 스카이워커 그릴은 우주선 같은 곡선 건축에 체리 목재의 온기를 짜넣어 영화적 공간을 완성한다. 뉴질랜드 웨어러블 아트 GLO!는 의복을 신체에 입히는 도구가 아니라 무대 위에서 서사를 발산하는 조형물로 전환한다.",
+  "threads": [
+   {
+    "name": "찢어진 상자와 무대의 조형물",
+    "note": "기존의 완벽한 백색 아카이브를 부수거나 의복을 무대 위 조형적 퍼포먼스로 확장한다.",
+    "items": [
+     {
+      "title": "뉴질랜드 웨어러블 아트, 신체와 서사를 엮는 조형적 실험 GLO!",
+      "url": "https://www.thisiscolossal.com/2026/10/world-of-wearableart-2026-glo-fashion-performance/"
+     },
+     {
+      "title": "쿠레주의 백색 상자를 부수고 찢어낸 드류 헨리의 데뷔",
+      "url": "https://www.anothermag.com/fashion-beauty/17530/courreges-drew-henry-spring-summer-2027-review-paris-fashion-week?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=drew-henry-is-breaking-out-and-tearing-up-at-courreges"
+     }
+    ]
+   },
+   {
+    "name": "곡선 건축과 목재의 온기",
+    "note": "우주선의 곡선과 체리 목재를 결합해 영화적이고 감각적인 공간을 재현한다.",
+    "items": [
+     {
+      "title": "우주선의 곡선과 체리 목재의 온기, 스카이워커 그릴",
+      "url": "https://www.wallpaper.com/travel/restaurants/skywalker-grill-lucas-museum-restaurant-review"
+     },
+     {
+      "title": "유산과 증축의 공존: 네덜란드 크롬메 라인 칼리지 리노베이션",
+      "url": "https://www.archdaily.com/1185924/kromme-rijn-college-eva-architecten"
+     }
+    ]
+   }
+  ],
+  "based_on": 9,
+  "v": 3,
+  "model": "gemini-3.5-flash-lite",
+  "written_at": "2026-10-02 00:33"
  }
 }
