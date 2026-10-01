@@ -103960,5 +103960,77 @@
   },
   "depth_raw": 4,
   "depth_v": 2
+ },
+ "archdaily.com/1186049/cfp-dublin-ireland-livable-towns-cities-regions-2027": {
+  "title_ko": "기후변화와 도시 전환을 다루는 더블린 국제 학술대회 2027",
+  "summary_ko": "아일랜드 유니버시티 칼리지 더블린과 비영리 학술 단체 암프스가 기후변화와 도시 전환을 주제로 한 2027년 국제 컨퍼런스의 논문 초록을 모집한다. 건축, 도시 계획, 공중보건 등 다양한 분야가 모여 역사적 지구와 현대적 재생 지역이 공존하는 더블린의 도시 환경을 탐구한다.",
+  "lens": "역사적 건축과 현대 도시 재생이 교차하는 더블린에서 도시의 지속가능성을 학제간 시각으로 해부한다.",
+  "why_now": "기후위기와 사회적 갈등 속에서 도시와 지역이 직면한 구조적 전환을 다각도로 진단하는 논의가 시급하다.",
+  "mechanism": "건축, 도시계획, 지속가능성, 공중보건 분야의 연구자들이 모여 각기 다른 전문 지식을 하나의 공간에서 교차시키는 학제간 구조로 작동한다.",
+  "sensory": "조지아풍 건축물과 모더니즘 주거 단지, 항만 재개발 구역이 공존하는 더블린의 실제 도시 경관이 현장 배경이 된다.",
+  "transfer": "도시 공간의 역사적 층위와 사회적 갈등 요소를 다큐멘터리나 공간 연출의 서사적 배경으로 활용할 수 있다.",
+  "context": "유니버시티 칼리지 더블린과 영국에 기반을 둔 비영리 학술 연구 조직 암프스가 공동으로 행사를 주관한다.",
+  "findings": [
+   {
+    "text": "유니버시티 칼리지 더블린은 3만 8천 명 이상의 학생이 재학 중인 아일랜드에서 가장 큰 공립 연구 대학이다.",
+    "s": 1,
+    "quote": "With more than 38,000 students, it is Ireland's largest university."
+   },
+   {
+    "text": "암프스는 2011년에 설립된 비영리 학술 연구 조직이며 영국에 기반을 두고 있다.",
+    "s": 2,
+    "quote": "Architecture Media Politics Society (AMPS) is a nonprofit academic research organisation. ... It is based the United Kingdom."
+   }
+  ],
+  "keywords": [
+   "도시재생",
+   "지속가능성",
+   "도시계획",
+   "건축학술대회"
+  ],
+  "evidence": "Organised by University College Dublin and AMPS this conference explores how towns, cities and regions can respond to climate change, social challenges and urban transformation.",
+  "kind": "행사·공모",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "행사 공모 안내문으로 기본적인 학술 행사의 취지와 배경을 충실히 담고 있다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1186049/cfp-dublin-ireland-livable-towns-cities-regions-2027",
+  "original_title": "CFP: Dublin, Ireland – Livable Towns, Cities, Regions 2027",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 1176,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-01 10:36",
+  "research": {
+   "entities": [
+    "University College Dublin",
+    "AMPS"
+   ],
+   "questions": [
+    "AMPS가 주관하는 'Livable Towns, Cities, Regions' 컨퍼런스의 주요 연구 주제와 학술적 지향점은 무엇인가?",
+    "더블린의 도시 재생 사례가 현대 도시 계획 및 지속가능성 논의에서 갖는 건축적, 사회적 의미는 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "University College Dublin",
+     "url": "https://en.wikipedia.org/wiki/University%20College%20Dublin"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Architecture Media Politics Society",
+     "url": "https://en.wikipedia.org/wiki/Architecture%20Media%20Politics%20Society"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 2004
+  },
+  "depth_raw": 3,
+  "depth_v": 2
  }
 }
