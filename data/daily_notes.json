@@ -1510,5 +1510,44 @@
   "v": 3,
   "model": "gemini-3.1-flash-lite",
   "written_at": "2026-10-02 03:43"
+ },
+ "2026-10-03": {
+  "date": "2026-10-03",
+  "headline": "거미줄과 원주민의 대지, 석조 타워가 품은 침묵의 길목",
+  "editorial": "케이트 렌쇼 루이스는 스크린 프린팅의 거친 질감으로 노동의 기계적 반복을 시각화하고, 토마스 사라세노는 거미줄과 원주민의 대지 지식을 동시대 미술 구조물로 환치한다. 콜렉티프 마그마는 수백 년 된 석조 유산들 사이에서 현대적 구조물을 일상의 길목에 안착시킨다. 이처럼 오늘 호는 생태와 노동의 현장에서 길어 올린 구체적 구조물들의 조우를 기록한다.",
+  "threads": [
+   {
+    "name": "생태와 노동의 구조물",
+    "note": "자연의 생태 지식과 수작업의 피로감을 동시대 구조물로 옮긴다.",
+    "items": [
+     {
+      "title": "케이트 렌쇼 루이스의 '바쁜 몸', 수작업 인쇄로 복원한 노동의 기계",
+      "url": "https://motionographer.com/news/busy-bodies-hand-drawn-printmaking-vimeo/"
+     },
+     {
+      "title": "토마스 사라세노, 거미줄과 원주민의 땅에서 길어 올린 조상의 미래",
+      "url": "https://www.thisiscolossal.com/2026/10/tomas-saraceno-ancestral-futures-salinas-grandes/"
+     }
+    ]
+   },
+   {
+    "name": "유산과 길목의 건축",
+    "note": "오래된 석조 유산과 풍경 속에 새로운 건축적 결을 더한다.",
+    "items": [
+     {
+      "title": "이탈리아 루나노의 풍경을 잇는 석조 타워, 콜렉티프 마그마의 '돌이 속삭이는 것'",
+      "url": "https://www.archdaily.com/1185637/what-the-stones-whisper-collectif-magma"
+     },
+     {
+      "title": "철거 대신 보존을 택한 멤프레마고그 호숫가 샬레 리노베이션",
+      "url": "https://www.archdaily.com/1186038/chalet-des-huarts-atelier-maa-architecture-plus"
+     }
+    ]
+   }
+  ],
+  "based_on": 15,
+  "v": 3,
+  "model": "gemini-3.5-flash-lite",
+  "written_at": "2026-10-03 03:11"
  }
 }
