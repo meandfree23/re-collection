@@ -109507,5 +109507,1224 @@
   },
   "depth_raw": 4,
   "depth_v": 2
+ },
+ "motionographer.com/news/machines-learning-october-2026-film-festivals": {
+  "title_ko": "기계의 학습과 인간의 거울, 앤서니 코이트라의 단편 애니메이션 머신 러닝",
+  "summary_ko": "브루클린 기반의 제작자 앤서니 코이트라가 2년간 1인 제작한 단편 애니메이션 '머신 러닝'이 10월 뉴욕 인디 쇼츠 어워드 등 주요 영화제에서 상영된다. 공장 노동자의 폭력적인 행동을 학습한 로봇들이 결국 그에게 반격한다는 내용을 담고 있으며, 언리얼 엔진을 활용해 제작되었다.",
+  "lens": "기계의 지능을 추상적 개념이 아닌 거대한 괴수 로봇이라는 물리적 실체로 치환해, 인간의 악습이 기술에 투영되는 과정을 시각화했다.",
+  "why_now": "자동화와 인공지능을 향한 막연한 공포를 노동과 권력의 문제로 구체화하여, 기술의 윤리적 책임이라는 시의적 질문을 던진다.",
+  "mechanism": "언리얼 엔진의 실시간 렌더링 환경에서 메타휴먼을 포함한 캐릭터를 구현하고, 로봇의 움직임에 반복과 리듬을 부여해 기계적 반란의 서사를 구축했다.",
+  "sensory": "금속의 육중한 질감, 튀는 불꽃, 자욱한 연기, 번개 등 촉각적인 요소가 강조된 공장 환경에서 로봇의 기계적인 움직임이 생생하게 전달된다.",
+  "transfer": "추상적인 AI의 위험성을 다룰 때, 이를 거대한 메카닉이나 괴수 형태의 물리적 대상으로 치환하여 관객이 직관적으로 위협을 체감하게 하는 연출을 고려한다.",
+  "context": "인도 출신으로 현재 브루클린에서 활동하는 앤서니 코이트라는 로봇과 외계인 등 장르적 소재를 통해 권력과 노동의 문제를 탐구해왔다. 이번 작품은 그가 실시간 애니메이션 도구를 직접 개발하며 쌓아온 기술적 기반을 바탕으로 제작한 첫 오리지널 단편이다.",
+  "findings": [
+   {
+    "text": "앤서니 코이트라는 언리얼 엔진의 메타휴먼을 활용하여 캐릭터를 구현하고 이를 자신만의 스타일로 재해석했다.",
+    "s": 1,
+    "quote": "what if the human character was a MetaHuman? Could I even stylize a MetaHuman as much as I wanted?"
+   },
+   {
+    "text": "로봇의 움직임은 기계적인 반복과 리듬을 통해 반란의 서사를 구성하는 핵심 장치로 사용되었다.",
+    "s": 1,
+    "quote": "The choreography of mechanical movement was especially important: repetition, rhythm, and inevitably, rebellion."
+   }
+  ],
+  "keywords": [
+   "언리얼엔진",
+   "메타휴먼",
+   "디지털애니메이션",
+   "AI윤리",
+   "메카닉디자인"
+  ],
+  "evidence": "The machines in this story don’t become violent because they are evil, they’re just reflecting the behavior modeled for them",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "1인 제작 시스템에서 언리얼 엔진을 활용한 공정의 구체성과 로봇의 움직임을 서사적 장치로 치환한 연출 의도가 명확하다.",
+  "v": 2,
+  "url": "https://motionographer.com/news/machines-learning-october-2026-film-festivals/",
+  "original_title": "Solo-Made Short Machines Learning Premieres at October Film Festivals",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 2180,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-02 09:58",
+  "research": {
+   "entities": [
+    "Anthony Koithra",
+    "Machines Learning",
+    "Locodrome",
+    "Unreal Engine",
+    "San Jose International Short Film Festival"
+   ],
+   "questions": [
+    "언리얼 엔진을 활용한 1인 애니메이션 제작 방식이 기존의 전통적인 애니메이션 제작 공정과 어떻게 다른가요?",
+    "기계 학습과 AI 윤리에 대한 감독의 철학이 작품 속 로봇의 행동 양식에 어떻게 투영되었나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Machines Learning — Locodrome",
+     "url": "https://www.locodrome.com/machines-learning"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 2600
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "hyperallergic.com/the-overlooked-black-architect-who-shaped-a-landmark-smithsonian-museum": {
+  "title_ko": "스타 시스템 너머의 건축: 제이 맥스 본드 주니어와 국립 아프리카계 미국인 역사 문화 박물관",
+  "summary_ko": "스미스소니언 국립 아프리카계 미국인 역사 문화 박물관의 설계팀이었던 제이 맥스 본드 주니어(J. Max Bond Jr.)의 건축 철학을 조명한다. 그는 영웅적 개인을 숭배하는 건축계의 스타 시스템을 비판하며, 건축을 장기간의 협업과 민주적인 과정으로 정의했다. 박물관 개관 10주년을 맞아 그가 박물관 건립을 위해 기울인 노력과 건축적 유산을 재평가한다.",
+  "lens": "건축을 단일한 천재의 결과물이 아닌, 소외된 이들을 위한 집단적 서사와 민주적 기능의 산물로 재정의한다.",
+  "why_now": "스타 건축가 중심의 서사가 붕괴하는 시점에, 건축의 사회적 가치와 협업의 본질을 되묻는 중요한 계기가 된다.",
+  "mechanism": "건축을 단기적인 시각적 성취가 아닌, 수십 년에 걸친 인큐베이션 과정으로 보고 거주자의 효용을 최우선하는 기능적 구조를 설계한다.",
+  "sensory": "화려한 파사드 뒤에 숨겨진 집단적 투쟁의 역사를 읽어내며, 건물 전체가 하나의 거대한 민주적 기록 보관소로서 기능하는 스케일을 체감한다.",
+  "transfer": "공간이나 영상 프로젝트 기획 시, 단일 작가의 개성을 강조하기보다 프로젝트를 둘러싼 다층적인 협업 과정과 사회적 맥락을 서사의 중심에 배치한다.",
+  "context": "본드는 2009년 사망 전까지 흑인 건축가로서 인종적 장벽을 넘어 경력을 쌓았으며, 건축을 통한 자유와 민주주의의 실현을 평생의 과업으로 삼았다. 그는 이후 필립 프리론(Philip Freelon), 데이비드 아자예(David Adjaye)와 함께 박물관 설계팀을 구성했으나, 사후 그의 기여는 스타 시스템에 가려져 왔다.",
+  "findings": [
+   {
+    "text": "제이 맥스 본드 주니어는 전후 시기 건축을 통해 자유를 옹호하고 흑인 역사와 모더니즘을 변모시킨 저명한 건축가다.",
+    "s": 1,
+    "quote": "The first biography of a preeminent postwar architect who championed the cause of freedom through architecture and transformed Black history and modernism"
+   },
+   {
+    "text": "본드는 튀니지 방문 당시 북아프리카의 건축 양식을 접하며 건축에 대한 관심을 키웠다.",
+    "s": 2,
+    "quote": "He developed an interest in architecture based on experiences ranging from viewing a staircase at a dormitory at the Tuskegee Institute to views of North African construction styles on a visit to Tunisia."
+   },
+   {
+    "text": "데이비드 아자예는 2021년 로열 골드 메달을 수상한 최초의 아프리카계 건축가다.",
+    "s": 3,
+    "quote": "He received the 2021 Royal Gold Medal, making him the first African recipient and one of the youngest recipients."
+   }
+  ],
+  "keywords": [
+   "제이맥스본드",
+   "건축철학",
+   "민주적설계",
+   "스타시스템",
+   "박물관건축"
+  ],
+  "evidence": "We as architects should question whether or not the ‘Star System’ serves our interests as a group",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "건축가의 철학적 태도와 산업적 관행을 비판적으로 분석하여 프로젝트의 본질을 깊이 있게 다루었다.",
+  "v": 2,
+  "url": "https://hyperallergic.com/the-overlooked-black-architect-who-shaped-a-landmark-smithsonian-museum/",
+  "original_title": "The Overlooked Black Architect Who Shaped a Landmark Smithsonian Museum",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 4563,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-02 09:59",
+  "research": {
+   "entities": [
+    "J. Max Bond Jr.",
+    "Philip Freelon",
+    "David Adjaye",
+    "National Museum of African American History and Culture",
+    "Smithsonian Institution"
+   ],
+   "questions": [
+    "J. Max Bond Jr.가 건축계의 '스타 시스템'을 비판하고 협업과 민주적 설계를 강조했던 구체적인 철학적 배경은 무엇인가?",
+    "국립 아프리카계 미국인 역사 문화 박물관의 설계 과정에서 J. Max Bond Jr.가 기여한 핵심적인 역할과 그가 남긴 건축적 유산은 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Max Bond",
+     "url": "https://press.princeton.edu/books/hardcover/9780691220666/max-bond?ref=hyperallergic.com"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "J. Max Bond Jr.",
+     "url": "https://en.wikipedia.org/wiki/J.%20Max%20Bond%20Jr."
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "David Adjaye",
+     "url": "https://en.wikipedia.org/wiki/David%20Adjaye"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3
+   ],
+   "chars": 1050
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "hyperallergic.com/artists-honor-immigrants-in-monuments-across-new-jersey": {
+  "title_ko": "뉴저지 공공예술이 이민자와 노동의 기억을 조각하는 방식",
+  "summary_ko": "미국 뉴저지주 전역에서 미셸 안젤라 오르티스, 챗 트라비에소, 임마누엘 오니 등 작가들이 이민자와 노동자의 기여를 기리는 공공 기념비를 설치했다. 이 작업들은 1,000명이 넘는 지역 사회 관계자들과의 협의를 거쳐 북부, 중부, 남부의 지역별 인구 특성을 반영하여 세워졌다. 10월 16일에는 럿거스 대학교 지머리 미술관에서 관련 심포지엄이 개최된다.",
+  "lens": "지역 공동체의 서사를 공공 기념비의 구조물과 동선 속에 정교하게 각인한다.",
+  "why_now": "이민자를 향한 배제와 갈등이 고조되는 시기에 공공 예술이 집단적 기억과 기념의 공간을 어떻게 확보하는지 보여준다.",
+  "mechanism": "북부, 중부, 남부로 나뉜 전략적 입지에 지역 거주민의 구체적인 노동과 이주 경험을 반영한 조형물을 설치했다.",
+  "sensory": "야외 공간에 놓인 기념비의 스케일과 지역민의 목소리가 결합해 일상적인 도시 풍경에 역사적 무게감을 더한다.",
+  "transfer": "실제 장소의 인구 통계와 커뮤니티 인터뷰를 바탕으로 서사이 미치는 공간적 배치를 기획할 때 적용할 수 있다.",
+  "context": "이번 프로젝트는 멜론 재단 모뉴먼츠 프로젝트의 지원을 받는 뉴저지 기념비 투어 및 노동 프로젝트의 일환으로 진행되었다. 럿거스 대학교 지머리 미술관은 이 프로젝트의 파트너로서 관련 패널과 워크숍을 주관한다.",
+  "findings": [
+   {
+    "text": "뉴저지 기념비 투어 및 노동 프로젝트는 멜론 재단 모뉴먼츠 프로젝트의 지원으로 진행된다.",
+    "s": 1,
+    "quote": "New Jersey Monuments to Migration and Labor (NJMML), a Mellon Foundation Monuments Project"
+   },
+   {
+    "text": "지머리 미술관은 럿거스 대학교 캠퍼스 내에 위치하며 러시아 비공식 미술과 미국 미술 등을 소장하고 있다.",
+    "s": 2,
+    "quote": "The Jane Voorhees Zimmerli Art Museum (known popularly as the Zimmerli Art Museum) is located on the Voorhees Mall of the campus of Rutgers University in New Brunswick, New Jersey."
+   },
+   {
+    "text": "럿거스 대학교는 1766년에 설립된 미국에서 여덟 번째로 오래된 대학이다.",
+    "s": 3,
+    "quote": "Chartered in 1766, Rutgers was originally called Queen's College and was affiliated with the Dutch Reformed Church. It is the eighth-oldest college in the United States"
+   }
+  ],
+  "keywords": [
+   "공공예술",
+   "이민자",
+   "노동",
+   "기념비",
+   "뉴저지"
+  ],
+  "evidence": "Monumental outdoor commissions by artists Michelle Angela Ortiz, Chat Travieso, and Immanuel Oni were inaugurated across the state this summer through the New Jersey Monuments to Migration and Labor (NJMML) project.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "지역 커뮤니티와 연계된 공공 미술 프로젝트의 사회적 맥락을 충실히 담았다.",
+  "v": 2,
+  "url": "https://hyperallergic.com/artists-honor-immigrants-in-monuments-across-new-jersey/",
+  "original_title": "Artists Honor Immigrants in Monuments Across New Jersey",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 2298,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-02 09:59",
+  "research": {
+   "entities": [
+    "Michelle Angela Ortiz",
+    "Chat Travieso",
+    "Immanuel Oni",
+    "Zimmerli Art Museum",
+    "Rutgers University"
+   ],
+   "questions": [
+    "NJMML 프로젝트가 뉴저지의 각 지역별 이민자 커뮤니티의 특수성을 어떻게 예술 작품에 반영했는가?",
+    "공공 예술 기념비가 이민자와 노동자의 서사를 기록하고 기념하는 방식은 사회적 담론에 어떤 영향을 미치는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "New Jersey Monuments to Migration and Labor Conference",
+     "url": "https://www.rutgers.edu/event/new-jersey-monuments-migration-and-labor-conference?ref=hyperallergic.com"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Zimmerli Art Museum at Rutgers University",
+     "url": "https://en.wikipedia.org/wiki/Zimmerli%20Art%20Museum%20at%20Rutgers%20University"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Rutgers University",
+     "url": "https://en.wikipedia.org/wiki/Rutgers%20University"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "토미 캐럴의 초상화가 포착하는 일상 속 감정의 단면",
+     "url": "https://www.booooooom.com/2026/09/23/artist-spotlight-tommy-carroll/"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3
+   ],
+   "chars": 3050
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "yellowtrace.com.au/farrell-wray-architects-gallery-for-a-tree-marcellin-college-flyover": {
+  "title_ko": "나무를 비켜선 타원형 콘크리트 플라이오버",
+  "summary_ko": "호주 불린의 마르셀린 칼리지에서 파렐 레이 아키텍츠가 기존 유칼립투스 나무를 보존하며 주니어와 시니어 건물을 연결하는 91제곱미터 규모의 플라이오버를 설계했다. 나무 뿌리 손상을 막기 위해 네 개의 기둥 위치를 현장 스캔에 맞춰 유연하게 조정하고 기초를 수작업으로 파냈다. 사각형 콘크리트 볼륨 중앙에 타원형 보를 두어 학생들이 나무를 직접 보고 만질 수 있게 구성했다.",
+  "lens": "콘크리트 매스 속에 타원형 보이드와 생태적 장애물을 밀착시켜 긴장감을 만든다.",
+  "why_now": "건축 설계 과정에서 자연물을 단순한 조경이 아닌 비협상적인 중심 축으로 삼는 태도가 공공 및 교육 시설에서 실현 가능한 방식을 보여준다.",
+  "mechanism": "수작업으로 판 기초와 질량형 보 구조를 적용해 네 개의 철골 기둥 위치를 뿌리 손상 없이 유연하게 이동시켰다.",
+  "sensory": "거친 질감의 콘크리트 벽체 사이로 타원형 빈 공간이 뚫려 있으며, 원형 천창을 통해 시시각각 변화하는 햇빛이 실내로 떨어진다.",
+  "transfer": "공간 내 장애물이나 기둥을 피해야 할 때, 강제적인 차단 대신 중심축으로 삼아 타원형 보이드와 시선 라인을 유도하는 연출로 활용한다.",
+  "context": "파렐 레이 아키텍츠는 2013년부터 2015년까지 브레이브룩의 캐롤린 치숍 칼리지에서도 플라이오버 프로젝트를 진행한 바 있다.",
+  "findings": [
+   {
+    "text": "마르셀린 칼리지는 호주 빅토리아주 불린에 위치한 가톨릭 사립 남자 고등학교다.",
+    "s": 1,
+    "quote": "Marcellin College is a Catholic secondary boys' college in Bulleen, Victoria, Australia."
+   },
+   {
+    "text": "엘스워스 켈리는 하드에지 페인팅과 색면 회화, 미니멀ism과 연관된 미국의 화가이자 조각가다.",
+    "s": 2,
+    "quote": "Ellsworth Kelly (May 31, 1923 – December 27, 2015) was an American painter, sculptor, and printmaker associated with hard-edge painting, Color field painting and minimalism."
+   }
+  ],
+  "keywords": [
+   "콘크리트",
+   "플라이오버",
+   "타원형",
+   "미니멀리즘",
+   "조경건축"
+  ],
+  "evidence": "The 91-square-metre flyover connects the college’s senior learning building... to its junior school wing... spanning an existing open-air walkway.",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "실제 나무를 보존하기 위해 적용한 구체적인 공학적 방식과 미니멀리즘 미술 참조점이 명확하다.",
+  "v": 2,
+  "url": "https://www.yellowtrace.com.au/farrell-wray-architects-gallery-for-a-tree-marcellin-college-flyover/",
+  "original_title": "Farrell Wray Architects Build a Concrete Gallery Around a Tree They Refused to Touch.",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 3664,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-02 09:59",
+  "research": {
+   "entities": [
+    "Farrell Wray Architects",
+    "Marcellin College",
+    "Ellsworth Kelly",
+    "Ted Stamm",
+    "Robert Mangold"
+   ],
+   "questions": [
+    "마르셀린 칼리지(Marcellin College)의 플라이오버 프로젝트에서 나무의 생존을 보호하기 위해 구체적으로 어떤 공학적 설계 방식이 적용되었는가?",
+    "파렐 레이 아키텍츠(Farrell Wray Architects)가 이 프로젝트의 영감으로 언급한 미니멀리즘 작가들의 조형 언어가 건축물에 어떻게 반영되었는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Marcellin College, Bulleen",
+     "url": "https://en.wikipedia.org/wiki/Marcellin%20College%2C%20Bulleen"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Ellsworth Kelly",
+     "url": "https://en.wikipedia.org/wiki/Ellsworth%20Kelly"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "도로 표지판의 비어있는 중심을 응시하다, 우니예마바시 우도의 ‘No Vehicles’",
+     "url": "https://elephant.art/signs-symbols-and-the-shape-of-the-world-in-unyimeabasi-udohs-no-vehicles/"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 1382
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "design-milk.com/laila-gohar-highland-park": {
+  "title_ko": "맛을 시각적 기억으로 치환하는 라일라 고하르의 위스키 패키지 디자인",
+  "summary_ko": "아티스트 라일라 고하르(Laila Gohar)가 하이랜드 파크(Highland Park)의 17년산 싱글 몰트 위스키 'Between You and I' 두 번째 에디션의 시각 정체성을 설계했다. 고하르는 위스키의 풍미에서 연상되는 이집트 유물, 안달루시아 안뜰, 화산 지대 등 개인적 기억을 실리아 괴츠(Silja Goetz)의 일러스트와 결합해 패키지에 담았다.",
+  "lens": "미각적 경험을 고고학적 유물과 풍경의 이미지로 번역하여, 위스키를 마시는 행위를 기억의 탐색 과정으로 확장한다.",
+  "why_now": "제품의 정보를 나열하는 대신 감각적 연상을 유도하는 서사 중심의 패키지 디자인이 브랜드의 가치를 높이는 핵심 전략으로 자리 잡았다.",
+  "mechanism": "위스키의 오렌지 꽃, 가죽, 바닐라 향을 특정 장소와 사물로 치환하고 이를 겹겹이 쌓인 레이어드 일러스트로 시각화하여 정보 전달의 방식을 은유로 전환했다.",
+  "sensory": "가죽의 질감, 태양광이 내리쬐는 안뜰의 빛, 화산 지대의 밤하늘 등 향에서 파생된 이질적인 풍경들이 층을 이루며 시각적 깊이를 만든다.",
+  "transfer": "콘티 작업 시 제품의 물리적 속성을 직접 보여주는 대신, 해당 제품이 연상시키는 특정 시간대나 장소의 기억을 콜라주 기법으로 구성해 시각적 은유를 강화한다.",
+  "context": "라일라 고하르는 음식과 시각적 스토리텔링을 결합해 프라다, 에르메스 등과 협업하며 미식의 예술적 확장을 시도해 온 아티스트다. 하이랜드 파크는 스코틀랜드 오크니 제도에 위치한 북단 증류소로, 이번 협업을 통해 기존 위스키 브랜딩의 관습을 탈피하고자 했다.",
+  "findings": [
+   {
+    "text": "라일라 고하르는 음식과 시각적 스토리텔링을 통해 패션, 디자인, 미식 브랜드와 협업하는 아티스트다.",
+    "s": 1,
+    "quote": "She is also known for her high profile collaborations, and has become a go-to person for fashion, design, gastronomic, and luxury partners who are interested in engaging new audiences using food and visual storytelling."
+   },
+   {
+    "text": "하이랜드 파크는 스코틀랜드 오크니 제도의 커크월에 위치한 최북단 싱글 몰트 위스키 증류소다.",
+    "s": 3,
+    "quote": "Highland Park distillery is an Island single malt Scotch whisky distillery located in Kirkwall on the Orkney Islands, Scotland. It is the northernmost single malt Scotch whisky distillery."
+   }
+  ],
+  "keywords": [
+   "라일라 고하르",
+   "하이랜드 파크",
+   "패키지 디자인",
+   "시각적 서사",
+   "싱글 몰트"
+  ],
+  "evidence": "What does a flavor look like?",
+  "kind": "제품·오브제",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "위스키의 맛을 감각적 기억으로 치환하여 패키지 디자인의 서사적 깊이를 더한 구체적인 사례를 담고 있다.",
+  "v": 2,
+  "url": "https://design-milk.com/laila-gohar-highland-park/",
+  "original_title": "Laila Gohar Turns Whisky Tasting Into a Visual Experience",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 4040,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-02 09:59",
+  "research": {
+   "entities": [
+    "Laila Gohar",
+    "Highland Park",
+    "Marc Watson",
+    "Silja Goetz"
+   ],
+   "questions": [
+    "라일라 고하르와 하이랜드 파크의 협업 제품인 'Between You and I' 제2차 에디션의 패키지 디자인은 어떤 시각적 요소를 담고 있나요?",
+    "하이랜드 파크의 마스터 위스키 메이커인 마크 왓슨은 이번 17년산 싱글 몰트 위스키의 풍미를 개발할 때 어떤 영감을 받았나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Laila Gohar",
+     "url": "https://lailagohar.com/"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Laila Gohar",
+     "url": "https://en.wikipedia.org/wiki/Laila%20Gohar"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Highland Park distillery",
+     "url": "https://en.wikipedia.org/wiki/Highland%20Park%20distillery"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3
+   ],
+   "chars": 2460
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "hyperallergic.com/cyra-levenson-to-lead-yaddo-artist-residency": {
+  "title_ko": "미술관의 세대교체와 예술가 레지던시의 새로운 리더십",
+  "summary_ko": "뉴욕 사라토가 스프링스의 야도(Yaddo)가 구겐하임 미술관의 시라 레벤슨을 차기 회장으로 선임했다. 한편 뉴욕 현대미술관(MoMA)의 앤 템킨은 큐레이터직에서 물러나 100주년 기념 프로그램 자문역을 맡으며, 로즈 비 심슨은 산타페 시장상을 수상했다.",
+  "lens": "기관의 리더십 교체는 단순히 인물의 이동이 아니라, 미술관이 소장품을 재해석하고 공적 가치를 정의하는 방식을 바꾸는 동력이다.",
+  "why_now": "미술관의 경영진과 큐레이터 이동은 기관의 100주년 기념 기획과 소장품 정책의 대전환을 예고한다.",
+  "mechanism": "기존의 권위적인 큐레이팅에서 벗어나, 작가가 직접 자신의 작업을 재해석하는 공동 큐레이팅 방식을 도입하여 전시의 서사를 다층적으로 구성한다.",
+  "sensory": "영상과 설치 미술이 결합된 공간에서 소비 문화의 파편들이 교차하며, 익숙한 이미지의 이면을 들추는 시각적 긴장감을 조성한다.",
+  "transfer": "기존의 고정된 서사를 뒤집기 위해, 작가나 외부 기획자를 초빙하여 기존 소장품을 완전히 새로운 관점에서 재배치하는 큐레이팅 전략을 활용한다.",
+  "context": "야도는 1913년 국가 역사 유적지로 지정된 예술가 공동체로, 82개의 퓰리처상 수상자를 배출하며 예술가의 창작 환경을 보호해 왔다. 모마는 과거 사라 미켈슨의 퍼포먼스 등을 통해 미술관 공간의 메타적 활용을 실험해 온 기관이다.",
+  "findings": [
+   {
+    "text": "야도는 뉴욕 사라토가 스프링스에 위치한 400에이커 규모의 예술가 공동체다.",
+    "s": 1,
+    "quote": "Yaddo is an artists' community located on a 400-acre (160-hectare) estate in Saratoga Springs, New York."
+   },
+   {
+    "text": "로즈 비 심슨은 세라믹, 금속, 패션 등 다양한 매체를 다루는 예술가다.",
+    "s": 2,
+    "quote": "Rose B. Simpson (born 1983) of Tewa of Khaʼpʼoe Ówîngeh (Santa Clara Pueblo) and Euro-American ancestry is a mixed-media artist and sculptor who works in ceramic, metal, fashion, painting, music, performance, and install"
+   }
+  ],
+  "keywords": [
+   "야도",
+   "모마",
+   "큐레이팅",
+   "로즈비심슨",
+   "미술관경영"
+  ],
+  "evidence": "Artists have a unique ability to see what doesn't yet exist and to metabolize what is happening in the world",
+  "kind": "뉴스·이슈",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "미술관의 인사이동과 기관의 역사적 맥락을 연결하여 정보의 신뢰도를 확보했으나, 개별 작업의 구체적 연출 기법은 다루지 않음.",
+  "v": 2,
+  "url": "https://hyperallergic.com/cyra-levenson-to-lead-yaddo-artist-residency/",
+  "original_title": "Cyra Levenson to Lead Yaddo Artist Residency",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 5047,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-02 09:59",
+  "research": {
+   "entities": [
+    "Yaddo",
+    "Rose B. Simpson",
+    "Ann Temkin",
+    "Museum of Modern Art",
+    "Raven Chacon"
+   ],
+   "questions": [
+    "Yaddo 레지던시가 지난 100년간 예술가들에게 어떤 역할을 해왔으며, 새로운 리더십 하에서 어떤 변화가 예상되는가?",
+    "미술관의 큐레이터나 경영진 교체가 현대 미술계의 전시 기획 및 소장품 정책에 어떤 영향을 미치는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Yaddo",
+     "url": "https://en.wikipedia.org/wiki/Yaddo"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Rose B. Simpson",
+     "url": "https://en.wikipedia.org/wiki/Rose%20B.%20Simpson"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "맨해튼 크라운 빌딩의 재탄생, 아만 뉴욕이 선보이는 7개의 프라이빗 홈",
+     "url": "https://www.wallpaper.com/travel/hotels/aman-new-york-homes"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "역사의 권력 구조를 비추는 거울, 모건 라이브러리의 타로 전시",
+     "url": "https://hyperallergic.com/how-tarot-survived-for-500-years/"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "사라 미켈슨의 무용 연대기, 미술관을 점유하는 자기 참조적 궤적",
+     "url": "https://hyperallergic.com/sarah-michelsons-delicate-fetish-play/"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "chars": 2767
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "hyperallergic.com/fall-of-freedom-returns-with-hundreds-of-anti-trump-art-actions": {
+  "title_ko": "자유의 몰락: 수백 개의 예술 행동으로 반격하는 문화계",
+  "summary_ko": "예술 및 행동주의 이니셔티브인 자유의 몰락(Fall of Freedom)이 미국 전역에서 수백 건의 행사를 개최하며 두 번째 해를 맞이한다. 드레드 스콧(Dread Scott), 로라 라이코비치(Laura Raicovich) 등의 문화 노동자가 조직한 이번 행사에는 공공 미술, 콘서트, 연극 프로덕션이 포함된다. 예술가들은 트럼프 행정부의 검열과 문화예술 탄압에 맞서 창작을 저항과 생존의 전략으로 내세운다.",
+  "lens": "예술을 행정부 탄압에 맞서는 생존 전략이자 집단적 저항의 무기로 전면 배치한다.",
+  "why_now": "트럼프 행정부의 연방 예산 삭감 위협과 표현의 자유 검열이 고조되는 시점에서, 예술가들은 연대하여 공공 영역에서의 발언권을 지키려 한다.",
+  "mechanism": "할렘 스튜디오 미술관(Studio Museum in Harlem)에서 열리는 흑인 여성들의 독백극과 아칸소주 리틀록의 진(zine) 제작 워크숍 등 현장 참여형 프로덕션을 통해 관객과 직접 결속한다.",
+  "sensory": "뉴욕 극장 워크숍(New York Theatre Workshop) 무대에 울려 퍼지는 마크 앤소니 톰슨(Marc Anthony Thompson)의 라이브 사운드 디자인과 60분간 이어지는 밀도 높은 솔로 퍼포먼스의 현장성.",
+  "transfer": "공연이나 영상 연출 시, 정치적 메시지를 담은 텍스트를 단발성 구호가 아닌 40여 명의 목소리가 겹치는 다중 독백 구조의 사운드스케이프로 설계한다.",
+  "context": "공동 기획자인 로라 라이코비치는 문화 기관의 대안적 인프라 구축을 연구해 온 기획자이며, 드레드 스콧은 1989년 성조기 관련 퍼포먼스로 수정헌법 제1조 논쟁의 중심에 섰던 작가다. 이들은 이전부터 검열과 표현의 자유 문제를 다루며 예술의 정치적 실천을 이어왔다.",
+  "findings": [
+   {
+    "text": "로라 라이코비치는 문화 기관과 예술계의 검열 및 항의를 다룬 저서 문화 파업: 항의 시대의 예술과 미술관을 집필했다.",
+    "s": 1,
+    "quote": "Laura Raicovich is a New York City based writer and curator. She is known for her book, Culture Strike: Art and Museums in an Age of Protest (Verso 2021) which addresses how museums and cultural institutions can become b"
+   },
+   {
+    "text": "드레드 스콧은 미국 성조기의 전시 방식을 다룬 초기 작업으로 연방 성조기 모독 금지법 위헌 판결을 이끌어낸 대법원 소송의 피고인이었다.",
+    "s": 3,
+    "quote": "His first major work, What Is the Proper Way to Display a U.S. Flag (1989), was at the center of a controversy regarding whether his piece resulted in desecration of the American flag. Scott would later be one of the def"
+   }
+  ],
+  "keywords": [
+   "자유의몰락",
+   "행동주의",
+   "정치적미술",
+   "퍼포먼스",
+   "검열저항"
+  ],
+  "evidence": "Public artworks and zine-making workshops are on this year’s line-up, uniting artists and cultural organizations against an increasingly authoritarian administration.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "미술계의 정치적 저항 운동을 다룬 시의성 있는 프로젝트이나 선례가 명확해 전형적인 범주에 머문다.",
+  "v": 2,
+  "url": "https://hyperallergic.com/fall-of-freedom-returns-with-hundreds-of-anti-trump-art-actions/",
+  "original_title": "Fall of Freedom Returns With Hundreds of Anti-Trump Art Actions",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 4108,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-02 09:59",
+  "research": {
+   "entities": [
+    "Dread Scott",
+    "Lynn Nottage",
+    "Laura Raicovich",
+    "National Black Theatre",
+    "Studio Museum in Harlem"
+   ],
+   "questions": [
+    "Fall of Freedom 운동이 예술을 저항의 수단으로 활용하는 구체적인 방식은 무엇인가?",
+    "트럼프 행정부의 문화 정책이 미국 내 예술 기관 및 예술가들에게 어떤 실질적인 위협을 가하고 있는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "About — Laura Raicovich",
+     "url": "https://lauraraicovich.com/about?ref=hyperallergic.com"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "NYTW / In Honor of Jean-Michel Basquiat",
+     "url": "https://www.nytw.org/show/basquiat/?ref=hyperallergic.com"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Dread Scott",
+     "url": "https://en.wikipedia.org/wiki/Dread%20Scott"
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "Lynn Nottage",
+     "url": "https://en.wikipedia.org/wiki/Lynn%20Nottage"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "헤수스 힐라리오-레예스의 클럽과 스튜디오: 재난의 언어로 구축한 집단적 신체성",
+     "url": "https://elephant.art/jesus-hilario-reyes-on-freakability-techno-and-collective-embodiment/"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "데리안 파의 회화, 비늘과 모피로 빚어낸 여성성의 변태",
+     "url": "https://hyperallergic.com/a-vision-of-rebirth-raw-and-sumptuous/"
+    },
+    {
+     "n": 7,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "가을의 예술 지형도: 순환과 소멸을 마주하는 동시대 미술의 풍경",
+     "url": "https://hyperallergic.com/the-art-tarot-predicts-a-fateful-fall/"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "chars": 7406
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "architecturaldigest.com/story/lorenzo-castillo-new-home-in-oviedo-spain": {
+  "title_ko": "스페인의 인테리어 거장 로렌초 카스티요가 완성한 마드리드와 오비예도의 아파트 합병 공간",
+  "summary_ko": "스페인 인테리어 디자이너 로렌초 카스티요가 오비예도의 20세기 초 프랑스풍 건물에 위치한 두 개의 아파트를 하나의 공간으로 결합했다. 얀센(Maison Jansen)의 가구와 안토니 레드마일의 예술품을 배치하고, 캄포 데 산 프란시스코 공원을 조망하는 침실에는 핑크와 초콜릿 브라운 등의 차분한 색채를 적용했다. 공간의 동선과 색상은 빛의 유입량과 거주자의 심리적 안정에 맞춰 세밀하게 설계되었다.",
+  "lens": "빛이 드는 방향에 따라 채도를 반대로 뒤집어, 어두운 방에는 짙은 색을 채워 심박수를 낮춘다.",
+  "why_now": "디자이너들이 공간의 대대적인 신축 대신 기존 건물의 역사적 레이아웃과 채광 조건을 역이용하는 리노베이션 방식을 재조명하고 있다.",
+  "mechanism": "빛이 적게 드는 침실 측면에는 핑크와 초콜릿 브라운 같은 짙은 색채를 쓰고, 채광이 풍부한 후면에는 버터와 크림색을 배치하여 빛의 편차를 시각적으로 중화한다.",
+  "sensory": "브러시 처리된 금속 스크린과 파티나 처리된 골드 톤이 공간 전체에 은은한 온기와 깊은 질감을 부여한다.",
+  "transfer": "공간의 채광 방향과 실제 일조량이 반대일 때, 어두운 구역에 딥 톤을 사용하여 오히려 아늑하고 밀도 있는 톤을 연출하는 세트로 구성한다.",
+  "context": "1968년 마드리드에서 태어난 로렌초 카스티요는 스페인 디자인 경연 프로그램 '데코마스터즈(DecoMasters)'에 출연하고 인테리어 역사 교육자로 활동하며 경력의 정점에 서 있다. 이번 오비예도 아파트는 얀센(Maison Jansen)과 가브리엘라 크레스피(Gabriella Crespi) 같은 20세기 거장들의 빈티지 오브제를 집대성한 공간이다.",
+  "findings": [
+   {
+    "text": "메종 얀센은 1880년 네덜란드 출신의 잔 헨리 얀센이 파리에 설립한 세계 최초의 글로벌 디자인 회사이다.",
+    "s": 1,
+    "quote": "Maison Jansen (French: [mɛzɔ̃ ʒɑ̃sɑ̃]; English: House of Jansen) was a Paris-based interior decoration office founded in 1880 by Dutch-born Jean-Henri Jansen. Jansen is considered the first truly global design firm"
+   },
+   {
+    "text": "가브리엘라 크레스피는 가구 디자인, 주얼리, 조소를 아우르며 2천여 개의 작품을 남긴 이탈리아의 아티스트 겸 디자이너이다.",
+    "s": 2,
+    "quote": "Gabriella Crespi (17 February 1922 – 14 February 2017) was an Italian artist-designer whose work spanned furniture design, jewelry and sculpture. Transforming objects by adding changes in their function, Crespi developed"
+   }
+  ],
+  "keywords": [
+   "로렌초 카스티요",
+   "인테리어 디자인",
+   "오비예도",
+   "메종 얀센",
+   "공간 리노베이션"
+  ],
+  "evidence": "Color sets the tone in Castillo's new retreat he shares with his partner Alfonso and their dog Tana in Oviedo",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "유명 디자이너의 신규 주거 공간과 색채 배치 원리가 상세히 담겼으나 일반적인 인테리어 소개 기사의 범위를 크게 벗어나지 않는다.",
+  "v": 2,
+  "url": "https://www.architecturaldigest.com/story/lorenzo-castillo-new-home-in-oviedo-spain",
+  "original_title": "For His New Home in Spain Designer Lorenzo Castillo Combines Two Elegant Apartments to Become “The Right One”",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 9000,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-02 10:00",
+  "research": {
+   "entities": [
+    "Lorenzo Castillo",
+    "Jansen",
+    "Gabriella Crespi",
+    "Anthony Redmile",
+    "DecoMasters"
+   ],
+   "questions": [
+    "로렌조 카스티요가 언급한 '할리우드 리젠시' 스타일의 특징과 그의 인테리어 철학은 어떻게 연결되는가?",
+    "아스투리아스 지역의 전통 건축 요소인 '유리 갤러리'가 현대적인 주거 공간에서 어떤 기능적, 미학적 역할을 하는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Maison Jansen",
+     "url": "https://en.wikipedia.org/wiki/Maison%20Jansen"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Gabriella Crespi",
+     "url": "https://en.wikipedia.org/wiki/Gabriella%20Crespi"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "알루미늄 스킨과 2천 장의 타일로 60년 역사를 증폭한 호텔",
+     "url": "https://www.yellowtrace.com.au/hannes-peer-architecture-aurora-hotel-merano-accommodation/"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 1258
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "archdaily.com/1186176/casa-votupoca-arkitito-arquitetura": {
+  "title_ko": "6미터 폭의 좁은 대지에서 수직성과 빛으로 확장한 주택, 카사 보투포카",
+  "summary_ko": "브라질 빌라 이포주카에 완성된 카사 보투포카는 아르키티토 아르키테투라가 설계한 150제곱미터 규모의 주택이다. 6 곱하기 30미터의 협소하고 긴 대지 조건을 극복하기 위해 자연광과 식생, 수직적 공간감을 활용해 물리적 한계를 넘어선다.",
+  "lens": "폭 6미터의 길쭉한 한계를 수직 개방과 빛의 유입으로 돌파한다.",
+  "why_now": "도시 내 협소 주거지가 늘어나는 상황에서 물리적 제약을 공간적 확장성으로 치환하는 방식을 보여준다.",
+  "mechanism": "좁고 긴 대지 양측의 제약을 수직적인 볼륨 구성과 자연광 유입을 통해 실내 전체로 분산시킨다.",
+  "sensory": "한정된 면적 안에서 빛이 수직으로 떨어지며 식생의 그림자가 실내 벽면에 입체적인 결을 만든다.",
+  "transfer": "폭이 좁고 깊은 스튜디오 세트나 공간 디자인에서 수직 단면을 쪼개어 깊이감을 확장하는 앵글 구성으로 활용한다.",
+  "context": "아르키티토 아르키테투라(ARKITITO Arquitetura)가 브라질 빌라 이포주카에 완공한 프로젝트다.",
+  "findings": [],
+  "keywords": [
+   "협소주택",
+   "아르키티토",
+   "수직공간",
+   "자연광",
+   "브라질건축"
+  ],
+  "evidence": "On a narrow, elongated lot measuring just 6 x 30 meters, this residence explores natural light, integration with vegetation, and verticality",
+  "kind": "프로젝트",
+  "depth": 2,
+  "grounding": "thin",
+  "depth_reason": "협소 대지 극복 전략에 대한 기본 정보는 있으나 상세한 도면이나 구체적 기법의 설명이 부족하다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1186176/casa-votupoca-arkitito-arquitetura",
+  "original_title": "Casa Votupoca / ARKITITO Arquitetura",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 851,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-02 10:00",
+  "research": {
+   "entities": [
+    "ARKITITO Arquitetura",
+    "Casa Votupoca"
+   ],
+   "questions": [
+    "6x30미터의 좁고 긴 대지 조건을 극복하기 위해 ARKITITO Arquitetura가 적용한 공간 설계 전략은 무엇인가?",
+    "이 주택에서 자연광과 식생을 실내 공간으로 끌어들이기 위해 사용된 건축적 장치는 무엇인가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "dazeddigital.com/music/article/71088/1/the-nominees-for-the-uk-music-video-awards-2026-have-been-announced": {
+  "title_ko": "영국 뮤직비디오 어워드 2026 후보작 발표, 찰리 XCX 9개 부문 노미네이트",
+  "summary_ko": "런던 캠든 라운드하우스에서 열리는 제19회 영국 뮤직비디오 어워드가 후보작을 공개했다. 찰리 XCX가 9개 부문에 이름을 올렸고, 로맹 가브라스가 연출한 '스톰'이 안무와 연기 부문 등에서 주목받았다. 데이즈드가 파트너로 참여하는 최고 스타일링 부문에는 로살리아와 찰리 XCX 등의 작업이 후보에 올랐다.",
+  "lens": "장르의 경계를 부수는 음악과 날것의 안무가 시각적 스타일링과 만나 구축하는 동시대 비주얼의 기준점.",
+  "why_now": "뮤직비디오가 단순한 음원 홍보 수단을 넘어 독창적인 미장센과 안무를 실험하는 독립적인 매체로 자리 잡았음을 보여준다.",
+  "mechanism": "로맹 가브라스의 연출작처럼 격렬한 안무와 바이럴 퍼포먼스를 결합해 단일 영상 내에서 시각적 몰입을 극대화한다.",
+  "sensory": "캠든 라운드하우스의 거대한 공간감과 화면 속을 가득 채우는 과감한 스타일링의 질감이 충돌한다.",
+  "transfer": "뮤직비디오나 패션 필름 콘티 작성 시, 단일 숏에서 신체 움직임과 의상 텍스처가 충돌하는 순간을 포착해 서사의 핵심으로 배치한다.",
+  "context": "2008년 시작된 영국 뮤직비디오 어워드는 음악 영상 분야의 기술적 성취와 창의성을 조명해 왔다. 찰리 XCX는 실험적인 사운드와 비주얼 정체성을 확장하며 이번 어워드 다수 부문의 후보로 올랐다.",
+  "findings": [
+   {
+    "text": "영국 뮤직비디오 어워드는 2008년에 시작된 음악 비디오와 음악 영상 매체의 창의성과 기술적 탁월함, 혁신을 기념하는 연례 행사이다.",
+    "s": 1,
+    "quote": "The UK Music Video Awards is an annual celebration of creativity, technical excellence and innovation in music video and moving image for music. The awards began in 2008."
+   },
+   {
+    "text": "찰리 XCX는 2015년부터 영국의 PC 뮤직 집단과 협업하며 실험적인 사운드와 이미지를 발전시켰다.",
+    "s": 2,
+    "quote": "She began working alongside producers associated with the UK collective PC Music in 2015, developing a more experimental sound and image."
+   }
+  ],
+  "keywords": [
+   "UKMVA",
+   "뮤직비디오",
+   "스타일링",
+   "찰리XCX"
+  ],
+  "evidence": "Taking place November 4th at London’s iconic Camden Roundhouse venue, the UK MVAs have just announced the nominations for their 19th edition",
+  "kind": "뉴스·이슈",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "어워드 후보작 발표라는 행사 소식이지만 주요 아티스트와 동시대 비주얼 트렌드를 확인하기에 충분하다.",
+  "v": 2,
+  "url": "https://www.dazeddigital.com/music/article/71088/1/the-nominees-for-the-uk-music-video-awards-2026-have-been-announced?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=the-nominees-for-the-uk-music-video-awards-2026-have-been-announced",
+  "original_title": "The nominees for the UK Music Video Awards 2026 have been announced",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 3802,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-02 10:00",
+  "research": {
+   "entities": [
+    "UK Music Video Awards",
+    "Charli xcx",
+    "Romain Gavras",
+    "Kneecap",
+    "Roundhouse"
+   ],
+   "questions": [
+    "UK Music Video Awards는 어떤 기준으로 음악 비디오의 예술적 성취를 평가하며, 주요 시상 부문은 어떻게 구성되어 있나요?",
+    "최근 음악 비디오 산업에서 'Best Styling'이나 'Best Production Design'과 같은 기술적, 시각적 요소가 갖는 중요성은 무엇인가요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "UK Music Video Awards",
+     "url": "https://en.wikipedia.org/wiki/UK%20Music%20Video%20Awards"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Charli XCX",
+     "url": "https://en.wikipedia.org/wiki/Charli%20XCX"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "찰리 XCX와 팬덤 '엔젤스': 훼손된 티셔츠로 재구성하는 동시대의 유니폼",
+     "url": "https://www.dazeddigital.com/music/article/71032/1/meet-charli-xcx-s-most-dedicated-nyc-angels?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=in-pictures-charli-xcx-s-most-dedicated-nyc-angels"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "일본 서브컬처와 그런지 감각으로 구축한 엠파스의 비주얼 아카이브",
+     "url": "https://www.dazeddigital.com/fashion/article/70890/1/empath-charli-xcx-la-label-sexy-wardrobe-staples-on-the-rise?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=empath-is-the-charli-xcx-approved-label-giving-wardrobe-staples-a-sexy-edge"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "로맹 가브라스와 서킨이 그려낸 바이코누르의 디스토피아",
+     "url": "https://www.nowness.com/series/video-art-visions/romain-gavras-surkin-baikonur-gener8ion"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 3031
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "motionographer.com/news/ai-animation-ip-and-the-next-phase-of-creative-production": {
+  "title_ko": "생성형 AI 시대, 상업 제작 스튜디오가 구축해야 할 데이터 보안 인프라",
+  "summary_ko": "생성형 AI가 실험 단계를 넘어 상업적 애니메이션 제작 현장에 도입되고 있다. 그러나 기업의 미공개 캠페인, 캐릭터, 독점 디자인 등 지적재산권이 포함된 자산을 플랫폼에 업로드할 때 발생하는 데이터 보안 문제가 핵심 과제로 떠올랐다. 단순한 이미지 생성을 넘어 자산 소유권과 보안이 결합된 전문 제작 환경 구축이 시급하다.",
+  "lens": "AI 제작의 다음 단계는 이미지 품질이 아니라, 클라이언트의 자산과 제작 이력을 안전하게 관리하는 인프라의 투명성에 달려 있다.",
+  "why_now": "AI가 메인스트림 제작 공정에 편입되면서, 창작 역량만큼이나 지적재산권 보안을 관리하는 기술적 체계가 스튜디오의 경쟁력을 좌우하기 때문이다.",
+  "mechanism": "제작 워크플로우 내에서 데이터가 어떻게 사용되는지 추적하고, 프로젝트 구조와 승인 이력을 자산에 직접 연결하여 외부 유출을 차단하는 통제된 환경을 조성한다.",
+  "sensory": "보안 설정이 강화된 환경에서는 데이터가 외부 모델 학습에 활용되지 않음을 보장하며, 프로젝트의 모든 버전과 피드백이 하나의 작업 공간에 고립되어 안전하게 유지된다.",
+  "transfer": "광고나 영상 제작 시, 생성형 AI 플랫폼 도입 전 '모델 학습 제외' 계약을 확인하고, 프로젝트별로 권한 관리와 승인 이력이 기록되는 독립된 워크스페이스를 구성해야 한다.",
+  "context": "존 드레이퍼(Jon Draper)가 설립한 AIAnimation.com은 기획부터 스토리보드, 편집까지 전 과정을 하나의 공간에서 관리하며 데이터 거버넌스를 자산에 부착하는 방식을 제안한다. 이는 기존 생성형 AI가 단순 챗봇 형태의 인터페이스에 머물던 것과 달리, 전문 제작 파이프라인과의 연동을 지향한다.",
+  "findings": [
+   {
+    "text": "AIAnimation.com은 제작 전 과정에서 프로젝트 구조와 피드백을 연동하고, 자산에 권한과 승인 이력을 부착하는 관리 체계를 제공한다.",
+    "s": 1,
+    "quote": "Governance travels with the asset. Attach rights, likeness evidence and approval history to the production record."
+   },
+   {
+    "text": "스튜디오용 워크스페이스는 팀 접근 권한과 프로젝트별 사용 내역을 투명하게 관리할 수 있도록 설계되었다.",
+    "s": 1,
+    "quote": "Choose Studio when you want a shared workspace with team access and a shared credit balance."
+   }
+  ],
+  "keywords": [
+   "AI애니메이션",
+   "지적재산권",
+   "데이터보안",
+   "워크플로우"
+  ],
+  "evidence": "As generative animation moves into serious commercial production, creative capability and IP security can no longer be treated as separate conversations.",
+  "kind": "뉴스·이슈",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "상업적 제작 환경에서의 보안 이슈를 구체적으로 짚었으나, 기술적 실체보다는 정책적 제언에 무게가 실려 있다.",
+  "v": 2,
+  "url": "https://motionographer.com/news/ai-animation-ip-and-the-next-phase-of-creative-production/",
+  "original_title": "AI Animation, IP and the Next Phase of Creative Production",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 2311,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-02 10:00",
+  "research": {
+   "entities": [
+    "Jon Draper",
+    "Synima",
+    "AIAnimation.com"
+   ],
+   "questions": [
+    "생성형 AI 플랫폼들이 기업 고객의 자산을 보호하기 위해 제공하는 보안 계약과 데이터 처리 방식의 차이점은 무엇인가?",
+    "애니메이션 및 상업 제작 스튜디오에서 지적재산권(IP) 침해나 데이터 유출 위험을 방지하기 위해 구축해야 할 인프라의 핵심 요소는 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "AIAnimation.com | AI Production for Creators & Teams",
+     "url": "https://aianimation.com/"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 2600
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "architecturaldigest.com/story/how-to-style-a-nursery": {
+  "title_ko": "시간을 견디는 아이 방, 네이트 버커스의 주거 디자인 전략",
+  "summary_ko": "인테리어 디자이너 네이트 버커스와 AD 프로 디렉토리 디자이너들이 아이 방 디자인의 지속 가능성을 다룬다. 유행을 타는 유아용 가구 대신 오래 쓸 수 있는 가구 형태와 톤을 갖춘 목재를 선택하고, 집 전체의 맥락을 연결하는 방식을 제안한다.",
+  "lens": "단기 임대 같은 유아용 인테리어를 거부하고, 집 전체의 흐름과 시간의 무게를 견디는 가구와 재료로 아이 방의 기초를 다진다.",
+  "why_now": "아이가 자라면서 쉽게 폐기되는 일회성 유아용 인테리어 대신, 주거 공간 전체의 맥락과 연결되는 장기적 관점의 가구 배치가 주목받고 있다.",
+  "mechanism": "묵직한 초콜릿 엘름 같은 무거운 목재 톤을 통일하고, 과감한 패턴 뒤에는 차분한 마감을 배치해 시각적 균형을 만든다.",
+  "sensory": "깊이 있는 초콜릿 색상의 목재 질감과 조각적인 펜던트 조명이 만들어내는 은은한 빛이 공간의 무게감을 잡는다.",
+  "transfer": "세트장에 아동용 가구를 배치할 때 유아틱한 소품을 배제하고, 집 전체의 톤앤매너와 이어지는 빈티지 질감의 목재 수납장을 배치해 성숙한 공간감을 연출한다.",
+  "context": "인테리어 디자이너 네이트 버커스는 시카고 기반의 디자인 회사 네이트 버커스 어소시에이츠를 운영하며 방송과 제품 라인업을 통해 주거 공간의 개인적인 서사를 강조해 왔다.",
+  "findings": [
+   {
+    "text": "네이트 버커스는 미국 일리노이주 시카고에 본사를 둔 인테리어 디자인 회사 네이트 버커스 어소시에이츠를 운영한다.",
+    "s": 3,
+    "quote": "He runs the Chicago interior design firm Nate Berkus Associates"
+   },
+   {
+    "text": "에이미 스톰 앤 컴퍼니는 2004년에 설립된 일리노이주의 인테리어 디자인 회사다.",
+    "s": 2,
+    "quote": "Established in 2004, Amy Storm & Company has grown over the last two decades from a one-woman show to a full-fledged interior design firm."
+   }
+  ],
+  "keywords": [
+   "주거디자인",
+   "네이트버커스",
+   "목재가구",
+   "공간배치",
+   "인테리어"
+  ],
+  "evidence": "Most nurseries are designed for a short lease. The crib gets a few years, the glider eventually meets its inevitable end with the Salvation Army, and the chintz wallpaper that once felt so apropos quickly feels dated.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "구체적인 가구 선택과 디자인 원칙을 제시했으나 전형적인 라이프스타일 팁의 범위를 크게 벗어나지 않는다.",
+  "v": 2,
+  "url": "https://www.architecturaldigest.com/story/how-to-style-a-nursery",
+  "original_title": "How to Style a Nursery, According to Nate Berkus and AD Pro Designers (2026)",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 5016,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-02 10:00",
+  "research": {
+   "entities": [
+    "Nate Berkus",
+    "Babyletto",
+    "Architectural Digest",
+    "HW Interiors",
+    "Amy Storm & Company"
+   ],
+   "questions": [
+    "네이트 버커스가 제안하는 '지속 가능한 아이 방 디자인'의 핵심 철학은 무엇인가요?",
+    "아이 방을 꾸밀 때 집 전체의 인테리어 흐름과 조화를 이루기 위해 고려해야 할 디자인 요소는 무엇인가요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "HW Interiors",
+     "url": "https://hwinteriors.net/?utm_source=google&utm_medium=wix-smart-campaign&utm_campaign=google-ads-campaign-1-2025-5-20-bc22f667&gad_source=1&gad_campaignid=22584644611&gbraid=0AAAAA_srjjE_HJ0Lm05GN_aBw5b4QBhF9&gclid=CjwKCAjwifjVBhBKEiwAYx4K9JtJy0FhLf1lfcNP6RyOwAC58ALUUxGOMy-xl7hmJ-iGMYueHea3ZxoCQ9AQAvD_BwE"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Amy Storm & Company | Illinois Interior Design Firm",
+     "url": "https://amystormandco.com/"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Nate Berkus",
+     "url": "https://en.wikipedia.org/wiki/Nate%20Berkus"
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "Architectural Digest",
+     "url": "https://en.wikipedia.org/wiki/Architectural%20Digest"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "코트를 떠난 챔피언의 공간, 세레나 윌리엄스의 주거 포트폴리오",
+     "url": "https://www.architecturaldigest.com/story/where-does-serena-williams-live"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "지속 가능한 주거 리노베이션을 위한 세 가지 건축적 전략",
+     "url": "https://www.architecturaldigest.com/story/the-ideas-defining-home-renovations-today-according-to-top-architects"
+    },
+    {
+     "n": 7,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "목수였던 배우 해리슨 포드, 그가 직접 지은 집과 가구의 기록",
+     "url": "https://www.architecturaldigest.com/story/harrison-ford-at-home-photos-of-the-hollywood-heartthrobs-life-off-set"
+    }
+   ],
+   "used": [
+    2,
+    3,
+    4
+   ],
+   "chars": 3698
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "dazeddigital.com/fashion/article/71094/1/balenciaga-ss27-paris-fashion-week-pfw-pierpaolo-piccioli": {
+  "title_ko": "피에르파올로 피치올리의 발렌시아가, 오트 쿠튀르의 문법을 일상으로 옮기다",
+  "summary_ko": "피에르파올로 피치올리(Pierpaolo Piccioli)가 파리 테니스 클럽 드 파리에서 발렌시아가(Balenciaga) SS27 컬렉션을 선보였다. 오드 프랑주(Aude Franjou)의 거대한 섬유 조각을 배경으로, 쿠튀르 컬렉션의 정교한 재단과 구조적 기법을 기성복 라인에 이식했다. 튜더 스타일의 어깨선과 코쿤 칼라 등 고전적 형식을 일상복의 맥락에서 재해석했다.",
+  "lens": "쿠튀르의 공예적 밀도를 기성복의 반복적 패턴에 이식해, 일상복이 지닌 원형의 무게감을 재정의한다.",
+  "why_now": "럭셔리 산업이 브랜드의 헤리티지를 단순히 소비하는 것을 넘어, 하이엔드 제작 방식을 일상의 옷장에 침투시키는 방식으로 전략을 선회하고 있다.",
+  "mechanism": "흰색으로 비워낸 공간 중앙에 배치된 유기적 형태의 섬유 조각이 시각적 중심을 잡고, 그 주변을 모델들이 행진하며 옷의 구조적 실루엣을 강조한다.",
+  "sensory": "마 섬유를 꼬아 만든 조각의 거친 질감과 대비되는, 왕실 파랑과 선명한 진홍색 의상의 매끄러운 색채 대비가 공간을 채운다.",
+  "transfer": "공간의 색을 극도로 절제한 뒤, 유기적인 형태의 오브제 하나를 중앙에 배치하여 의상의 색감과 구조를 극대화하는 연출 기법을 활용한다.",
+  "context": "피치올리는 2025년 5월 발렌시아가의 크리에이티브 디렉터로 임명되었다. 이번 컬렉션은 파리 디자인 위크에서 7월의 기둥을 장식했던 오드 프랑주의 작업을 무대 중앙으로 가져오며 예술과 패션의 접점을 확장했다.",
+  "findings": [
+   {
+    "text": "피에르파올로 피치올리는 2025년 5월 발렌시아가의 크리에이티브 디렉터로 선임되었다.",
+    "s": 2,
+    "quote": "He was named creative director of Balenciaga in May 2025."
+   },
+   {
+    "text": "발렌시아가는 1919년 크리스토발 발렌시아가에 의해 설립되었으며, 2001년부터 케링 그룹의 소유다.",
+    "s": 1,
+    "quote": "The brand was originally founded in San Sebastián in 1919 by the Spanish couturier Cristóbal Balenciaga. Since 2001, it is owned by the French luxury goods company Kering."
+   }
+  ],
+  "keywords": [
+   "발렌시아가",
+   "피에르파올로피치올리",
+   "오트쿠튀르",
+   "섬유조각",
+   "SS27"
+  ],
+  "evidence": "Techniques originating in the 55th Balenciaga Couture Collection are applied to a spectrum of ready-to-wear clothing for both women and men",
+  "kind": "런웨이·컬렉션",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "쿠튀르 기법을 기성복으로 전이시키는 구체적인 방법론과 예술적 협업의 맥락이 명확하게 제시됨.",
+  "v": 2,
+  "url": "https://www.dazeddigital.com/fashion/article/71094/1/balenciaga-ss27-paris-fashion-week-pfw-pierpaolo-piccioli?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=balenciaga-is-stealth-selling-couture-to-its-ready-to-wear-customers",
+  "original_title": "Balenciaga is stealth-selling couture to its ready-to-wear customers",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 3743,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-02 10:00",
+  "research": {
+   "entities": [
+    "Balenciaga",
+    "Pierpaolo Piccioli",
+    "Aude Franjou",
+    "Dior",
+    "Margiela"
+   ],
+   "questions": [
+    "발렌시아가는 오트 쿠튀르 기법을 어떻게 기성복(ready-to-wear) 라인에 접목했는가?",
+    "오드 프랑주(Aude Franjou)의 설치 미술 작업이 이번 SS27 컬렉션 테마에 어떤 영향을 주었는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Balenciaga",
+     "url": "https://en.wikipedia.org/wiki/Balenciaga"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Pierpaolo Piccioli",
+     "url": "https://en.wikipedia.org/wiki/Pierpaolo%20Piccioli"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "구찌의 신전, 부서진 부르주아를 소환하다",
+     "url": "https://www.wallpaper.com/fashion-beauty/gucci-ss-2027-demna-show-review-milan-fashion-week"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "유쾌한 혼돈의 런던: SS27 스트리트 스타일에 담긴 풍자와 하위문화",
+     "url": "https://www.dazeddigital.com/fashion/article/71037/1/from-maga-puns-to-princess-diana-the-best-street-style-from-lfw-ss27?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=from-maga-puns-to-princess-diana-the-best-street-style-from-lfw-ss27"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "사라 미켈슨의 무용 연대기, 미술관을 점유하는 자기 참조적 궤적",
+     "url": "https://hyperallergic.com/sarah-michelsons-delicate-fetish-play/"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 2053
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "architecturaldigest.com/story/happy-menocal-bedford-new-york-1700s-farmhouse": {
+  "title_ko": "일회용 라자냐 트레이와 18세기 농가가 만난 숲속 아틀리에",
+  "summary_ko": "뉴욕 베드포드의 18세기 농가를 매입한 아티스트 해피 메노칼은 건축가와 협력해 구조적 결함을 보완하면서 공간의 역사적 흔적을 살렸다. 그는 알루미늄 라자냐 트레이로 만든 샹들리에와 직접 그린 벽화 등을 통해 일상적 재료를 독창적인 인테리어 요소로 전환했다.",
+  "lens": "하찮은 일회용품을 정교한 공예 장식으로 탈바꿈시켜 공간에 해학을 불어넣는다.",
+  "why_now": "디자인의 완벽함과 매끄러움이 지배하는 시대에, 손때 묻은 유별난 물성과 공예적 즉흥성이 지니는 가치가 다시 주목받는다.",
+  "mechanism": "알루미늄 라자냐 트레이를 잘게 잘라 잎사귀 모양으로 펴고 엮은 뒤 전등에 훌라 스커트처럼 겹겹이 늘어뜨려 독특한 금속적 질감을 만들어냈다.",
+  "sensory": "1960년대 온실이었던 식당 공간에는 숲의 초록빛이 스며들고, 낡은 목조 보와 리넨 벽화가 어우러져 곤충의 시각에서 숲을 올려다보는 듯한 몰입감을 준다.",
+  "transfer": "뮤직비디오나 공간 세트에서 저렴한 산업용 일회용품을 가공해 화려한 샹들리에나 조형물로 연출하는 미술 감독의 소품 디자인에 활용한다.",
+  "context": "해피 메노칼 스튜디오는 아리스토크라시 전통과 중세 모티브를 차용해 재치 있는 문위기의 청첩장과 문구를 제작해 왔다.",
+  "findings": [],
+  "keywords": [
+   "해피 메노칼",
+   "공간 리노베이션",
+   "업사이클링",
+   "인테리어 디자인"
+  ],
+  "evidence": "cut the trays into leaves, flattened, bunched, and draped over utilitarian hanging lamps “like a hula skirt,” Menocal says.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "아티스트의 독특한 인테리어 방식과 재료 활용을 흥미롭게 보여주나 일반적인 주거 공간 소개에 가깝다.",
+  "v": 2,
+  "url": "https://www.architecturaldigest.com/story/happy-menocal-bedford-new-york-1700s-farmhouse",
+  "original_title": "In This Artist’s 1700s Farmhouse Surrounded By Old-Growth Forest, the Chandeliers Are Made of Disposable Lasagna Trays",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 5179,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-02 10:00",
+  "research": {
+   "entities": [
+    "Happy Menocal",
+    "Paperless Post",
+    "Schumacher",
+    "Katharine Barnwell",
+    "Rebecca Gardner"
+   ],
+   "questions": [
+    "해피 메노칼(Happy Menocal)의 스튜디오는 아리스토크라시 전통과 중세 모티브를 어떻게 현대적 문맥으로 재해석하는가?",
+    "18세기 농가 건물의 역사적 구조를 보존하면서 현대적인 주거 공간으로 리노베이션할 때 직면한 주요 건축적 과제는 무엇이었는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Paperless Post",
+     "url": "https://en.wikipedia.org/wiki/Paperless%20Post"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "E. F. Schumacher",
+     "url": "https://en.wikipedia.org/wiki/E.%20F.%20Schumacher"
+    }
+   ],
+   "used": [],
+   "chars": 892
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "archdaily.com/1186138/casa-cinco-7-qbo3-arquitectos": {
+  "title_ko": "코스타리카의 열대 언덕 위에 세운 기하학적 주택, 카사 싱코 7",
+  "summary_ko": "큐비오스리 아키텍토스(QBO3 Arquitectos)가 코스타리카 노사라의 열대 언덕 위에 연면적 600제곱미터 규모의 주택 카사 싱코 7을 완공했다. 이 프로젝트는 높은 지형 조건과 정밀한 기하학적 배치를 결합하여 먼 수평선과 주변 풍경을 건축의 핵심 요소로 끌어들인다.",
+  "lens": "원거리 수평선을 단순한 배경이 아니라 공간 배치의 주된 생성기로 작동시킨다.",
+  "why_now": "자연 지형과 인공적 기하학을 정밀하게 교차시켜 주변 풍경을 공간 내부로 적극적으로 편입하는 설계 방식이다.",
+  "mechanism": "높은 언덕의 지형적 이점을 활용해 시선을 멀리 확장하고 정밀한 기하학적 연산을 통해 건물의 각 면을 배치했다.",
+  "sensory": "열대 풍경의 초록빛 시각적 밀도와 언덕 위에서 내려다보는 트인 수평선이 대비를 이룬다.",
+  "transfer": "영상 속 배경이나 스튜디오 공간을 구성할 때 멀리 떨어진 수평선을 프레임 안으로 깊게 끌어들이는 구도로 활용한다.",
+  "context": "큐비오스리 아키텍토스가 코스타리카 노사라 지역의 열대 풍경 속에서 완공한 주거 프로젝트다.",
+  "findings": [],
+  "keywords": [
+   "열대건축",
+   "지형설계",
+   "주거공간",
+   "수평선",
+   "기하학"
+  ],
+  "evidence": "Casa Cinco 7 by QBO3 Arquitectos emerges from the encounter between a privileged site, a distant horizon, and a precise geometric operation.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "구체적인 주거 프로젝트이나 원문 정보가 짧아 기법의 세부 사항 확인이 제한적이다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1186138/casa-cinco-7-qbo3-arquitectos",
+  "original_title": "Casa Cinco 7 / QBO3 Arquitectos",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 1082,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-02 10:01",
+  "research": {
+   "entities": [
+    "QBO3 Arquitectos",
+    "Nosara",
+    "Costa Rica"
+   ],
+   "questions": [
+    "QBO3 Arquitectos는 코스타리카 노사라의 지형적 특성을 건축에 어떻게 반영했는가?",
+    "Casa Cinco 7 프로젝트에서 사용된 주요 지속 가능한 건축 자재와 기법은 무엇인가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
  }
 }

@@ -1,55 +1,55 @@
 {
-  "generated_at": "2026-10-02 03:42 KST",
+  "generated_at": "2026-10-02 09:58 KST",
   "period": "2026.09.25 - 2026.10.02",
-  "total_articles": 511,
+  "total_articles": 526,
   "genre_breakdown": [
     {
       "genre": "동시대 미술",
-      "count": 210
+      "count": 214
     },
     {
       "genre": "공간·건축",
-      "count": 194
+      "count": 201
     },
     {
       "genre": "아방가르드 패션",
-      "count": 82
+      "count": 84
     },
     {
       "genre": "미디어 파사드·3D",
-      "count": 25
+      "count": 27
     }
   ],
   "themes": [
     {
       "keyword": "박물관·전시",
-      "count": 56,
+      "count": 59,
       "previous_count": 28,
       "trend": "rising",
       "items": [
+        {
+          "title": "스미스소니언 박물관의 랜드마크를 형성한 간과된 흑인 건축가",
+          "url": "https://hyperallergic.com/the-overlooked-black-architect-who-shaped-a-landmark-smithsonian-museum/",
+          "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/10/GettyImages-605483026.jpg",
+          "source_name": "Hyperallergic"
+        },
+        {
+          "title": "패럴 레이 (Farrell Wray) 건축가는 만지기를 거부한 나무 주변에 콘크리트 갤러리를 짓습니다.",
+          "url": "https://www.yellowtrace.com.au/farrell-wray-architects-gallery-for-a-tree-marcellin-college-flyover/",
+          "image_url": "https://assets.yellowtrace.com.au/wp-content/uploads/2026/09/09175139/Yellowtrace-Farrell-Wray-Architects-Gallery-For-a-Tree-Marcellin-Flyover-Photo-Peter-Clarke-06_opt80.jpg",
+          "source_name": "Yellowtrace"
+        },
+        {
+          "title": "수백 가지의 반트럼프 예술 활동으로 자유의 몰락이 돌아옵니다",
+          "url": "https://hyperallergic.com/fall-of-freedom-returns-with-hundreds-of-anti-trump-art-actions/",
+          "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/10/BillieHolidaysPhiladelphiaWalkingTour-AttucksHotel-November222025.jpg",
+          "source_name": "Hyperallergic"
+        },
         {
           "title": "바이외 태피스트리가 현실이 되다 | Hocus Pocus Studio",
           "url": "https://motionographer.com/news/bayeux-tapestry-comes-to-life-hocus-pocus-studio/",
           "image_url": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/BayeuxTapestry-Poster-Frame.png?fit=700%2C394&quality=80&ssl=1",
           "source_name": "Motionographer"
-        },
-        {
-          "title": "Alice Neel의 McCarthy-Era 시험 도면 경매로 이동",
-          "url": "https://hyperallergic.com/alice-neels-mccarthy-era-trial-drawings-go-to-auction/",
-          "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/09/Lot-90_Alice-Neel--Judge-Medina---Trial-Scene.jpg",
-          "source_name": "Hyperallergic"
-        },
-        {
-          "title": "아파트 1956",
-          "url": "https://leibal.com/interiors/apartment-1956/",
-          "image_url": "http://leibal.com/wp-content/uploads/2026/09/leibal-apartment-1956-nidus-11.jpg",
-          "source_name": "Leibal"
-        },
-        {
-          "title": "스카이워커 그릴 (Skywalker Grill) 에서는 루카스 박물관 (Lucas Museum) 의 미래형 레스토랑인 포스 (force) 와 음료가 강렬합니다.",
-          "url": "https://www.wallpaper.com/travel/restaurants/skywalker-grill-lucas-museum-restaurant-review",
-          "image_url": "https://cdn.mos.cms.futurecdn.net/iNru9aTYbgsSpWmanBPSYS-1920-80.jpg",
-          "source_name": "Wallpaper*"
         }
       ]
     },
