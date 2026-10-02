@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-10-02 11:42 KST",
+  "generated_at": "2026-10-02 17:56 KST",
   "period": "2026.09.25 - 2026.10.02",
-  "total_articles": 527,
+  "total_articles": 541,
   "genre_breakdown": [
     {
       "genre": "동시대 미술",
-      "count": 215
+      "count": 222
     },
     {
       "genre": "공간·건축",
-      "count": 201
+      "count": 208
     },
     {
       "genre": "아방가르드 패션",
@@ -23,10 +23,16 @@
   "themes": [
     {
       "keyword": "박물관·전시",
-      "count": 59,
+      "count": 60,
       "previous_count": 28,
       "trend": "rising",
       "items": [
+        {
+          "title": "너무 귀여워요! 루브르 렌즈 전시회는 고대부터 오늘날까지 행복의 예술을 풀어냅니다.",
+          "url": "https://www.designboom.com/art/louvre-lens-exhibition-cuteness-art-history-pink-toys-kawaii/",
+          "image_url": "https://www.designboom.com/wp-content/uploads/2026/10/louvre-lens-exhibition-so-cute-art-of-happiness-france-designboom-1.jpg",
+          "source_name": "Designboom Art"
+        },
         {
           "title": "스미스소니언 박물관의 랜드마크를 형성한 간과된 흑인 건축가",
           "url": "https://hyperallergic.com/the-overlooked-black-architect-who-shaped-a-landmark-smithsonian-museum/",
@@ -44,12 +50,6 @@
           "url": "https://hyperallergic.com/fall-of-freedom-returns-with-hundreds-of-anti-trump-art-actions/",
           "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/10/BillieHolidaysPhiladelphiaWalkingTour-AttucksHotel-November222025.jpg",
           "source_name": "Hyperallergic"
-        },
-        {
-          "title": "바이외 태피스트리가 현실이 되다 | Hocus Pocus Studio",
-          "url": "https://motionographer.com/news/bayeux-tapestry-comes-to-life-hocus-pocus-studio/",
-          "image_url": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/BayeuxTapestry-Poster-Frame.png?fit=700%2C394&quality=80&ssl=1",
-          "source_name": "Motionographer"
         }
       ]
     },
@@ -118,43 +118,17 @@
       ]
     },
     {
-      "keyword": "가구 디자인",
-      "count": 8,
-      "previous_count": 3,
-      "trend": "rising",
-      "items": [
-        {
-          "title": "9월부터 데진이 가장 좋아하는 가구와 조명",
-          "url": "https://www.dezeen.com/2026/10/01/dezeens-favourite-furniture-and-lighting-from-september/",
-          "image_url": "https://static.dezeen.com/uploads/2026/09/gubi-lotus-lamp-852x852.jpg",
-          "source_name": "Dezeen"
-        },
-        {
-          "title": "엘리슨 스튜디오 (Ellison Studios) 는 집안에서 가장 작은 공공 공간을 최고의 가구로 제공합니다.",
-          "url": "https://www.yellowtrace.com.au/ellison-studios-the-new-bedroom-collection/",
-          "image_url": "https://assets.yellowtrace.com.au/wp-content/uploads/2026/09/16135225/Yellowtrace-260827ELLISON-STUDIOSMELT-BED-26TONDO0526-08_opt90.jpg",
-          "source_name": "Yellowtrace"
-        },
-        {
-          "title": "브루클린의 넓은 숙소에서 즐기는 합판 웨인스코팅 - 쿠키커터 벽에 담긴 개성과 따뜻함",
-          "url": "https://www.architecturaldigest.com/story/somerset-house-brooklyn-apartment-design",
-          "image_url": "https://media.architecturaldigest.com/photos/6ab3eb7c1a03aff39d502dad/master/pass/Livingroom36840006%20copy.jpg",
-          "source_name": "Architectural Digest"
-        },
-        {
-          "title": "KGT 벽면 서랍 시스템",
-          "url": "https://minimalissimo.com/articles/UtilKGTWallDrawerSystem",
-          "image_url": "https://minimalissimo.com/api/media/file/kgt-wall-drawers-1200x630.png",
-          "source_name": "Minimalissimo"
-        }
-      ]
-    },
-    {
       "keyword": "해변·리조트 건축",
-      "count": 8,
+      "count": 9,
       "previous_count": 2,
       "trend": "rising",
       "items": [
+        {
+          "title": "Kriskadecor는 다채로운 체인 외관으로 디즈니의 그래픽 유산에 고개를 끄덕입니다.",
+          "url": "https://www.dezeen.com/2026/10/02/kriskadecor-disneys-graphic-heritage-chain-facade/",
+          "image_url": "https://static.dezeen.com/uploads/2026/09/Kriskadecor_dezeen_2364_col_0-852x852.jpg",
+          "source_name": "Dezeen"
+        },
         {
           "title": "집에서 즐기는 줄리 앤드류스: 그녀가 가장 좋아하는 장소 몇 군데에서 찍은 영국 전설 사진 10장",
           "url": "https://www.architecturaldigest.com/story/julie-andrews-at-home-photos-of-the-british-legend-in-a-few-of-her-favorite-places",
@@ -172,12 +146,38 @@
           "url": "https://www.archdaily.com/1186107/jqy-house-andre-becker",
           "image_url": "https://images.adsttc.com/media/images/6abd/6524/122d/aa00/0196/fd2d/large_jpg/37-23629-abpa-juquei-0128-web.jpg?1790797256",
           "source_name": "ArchDaily"
+        }
+      ]
+    },
+    {
+      "keyword": "가구 디자인",
+      "count": 9,
+      "previous_count": 3,
+      "trend": "rising",
+      "items": [
+        {
+          "title": "비실라 노하 (Bisila Noha) 의 도자기는 문화, 지역 사회 및 페미니즘에 의해 알려집니다.",
+          "url": "https://www.wallpaper.com/design-interiors/bisila-noha-tacchini-prize-winner-2026",
+          "image_url": "https://cdn.mos.cms.futurecdn.net/LpsRDN5noudZk8h5ThuphJ-1920-80.png",
+          "source_name": "Wallpaper*"
         },
         {
-          "title": "카사말로닉",
-          "url": "https://leibal.com/interiors/casa-malonic/",
-          "image_url": "https://leibal.com/wp-content/uploads/2026/09/leibal-casa-malonic-hw-studio-10.jpg",
-          "source_name": "Leibal"
+          "title": "9월부터 데진이 가장 좋아하는 가구와 조명",
+          "url": "https://www.dezeen.com/2026/10/01/dezeens-favourite-furniture-and-lighting-from-september/",
+          "image_url": "https://static.dezeen.com/uploads/2026/09/gubi-lotus-lamp-852x852.jpg",
+          "source_name": "Dezeen"
+        },
+        {
+          "title": "엘리슨 스튜디오 (Ellison Studios) 는 집안에서 가장 작은 공공 공간을 최고의 가구로 제공합니다.",
+          "url": "https://www.yellowtrace.com.au/ellison-studios-the-new-bedroom-collection/",
+          "image_url": "https://assets.yellowtrace.com.au/wp-content/uploads/2026/09/16135225/Yellowtrace-260827ELLISON-STUDIOSMELT-BED-26TONDO0526-08_opt90.jpg",
+          "source_name": "Yellowtrace"
+        },
+        {
+          "title": "브루클린의 넓은 숙소에서 즐기는 합판 웨인스코팅 - 쿠키커터 벽에 담긴 개성과 따뜻함",
+          "url": "https://www.architecturaldigest.com/story/somerset-house-brooklyn-apartment-design",
+          "image_url": "https://media.architecturaldigest.com/photos/6ab3eb7c1a03aff39d502dad/master/pass/Livingroom36840006%20copy.jpg",
+          "source_name": "Architectural Digest"
         }
       ]
     },
