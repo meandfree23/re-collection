@@ -116807,5 +116807,206 @@
   },
   "depth_raw": 4,
   "depth_v": 2
+ },
+ "archdaily.com/1184972/fruit-stand-in-fridhemsplan-dinelljohansson": {
+  "title_ko": "스톡홀름 프리드헴스플란의 과일 가판대, 일상의 리듬을 담는 최소한의 건축",
+  "summary_ko": "건축 사무소 디넬요한손(DinellJohansson)이 스톡홀름 프리드헴스플란에 과일 가판대를 설계했다. 16년간 같은 자리에서 과일을 판매해 온 상인 가즈멘드 리카이(Gazmend Likaj)를 위해 도시의 공공성을 고려한 상업 공간을 구현했다.",
+  "lens": "도시의 일상적 풍경을 구성하는 가판대를 단순한 가설물이 아닌, 특정 장소의 시간과 상인의 활동을 존중하는 영구적 건축 언어로 치환했다.",
+  "why_now": "대규모 개발이 아닌, 도시의 구석에서 오랫동안 쌓여온 시간과 상업적 활동을 건축적으로 고착화하는 방식이 주목받는다.",
+  "mechanism": "도시의 복잡한 보행 흐름 속에서 상인의 작업 반경을 최적화하고, 가판대의 물리적 형태를 통해 상업적 정체성을 명확히 드러낸다.",
+  "sensory": "스톡홀름 도심의 차가운 보도블록과 대비되는 가판대의 질감과, 과일의 색채가 도시의 무채색 배경 속에서 시각적 활기를 만든다.",
+  "transfer": "가설물 설계 시, 판매자의 동선과 물품의 적재 방식을 반영해 파사드의 개폐 방식을 결정하고, 조명으로 야간의 상업적 존재감을 확보한다.",
+  "context": "디넬요한손은 이전 작업인 폴크스 후스 리노베이션에서 기존 건축의 원형을 보존하는 태도를 보였다. 이번 프로젝트는 이러한 세심한 맥락 파악 능력을 소규모 상업 공간으로 확장한 결과다.",
+  "findings": [
+   {
+    "text": "디넬요한손은 스웨덴 폴크스 후스의 리노베이션을 통해 근대 건축의 원형을 보존하는 설계를 수행했다.",
+    "s": 1,
+    "quote": "스웨덴의 폴크스 후스(Folkets Hus)가 디넬요한손(DinellJohansson)의 설계로 리노베이션을 마쳤다."
+   }
+  ],
+  "keywords": [
+   "상업건축",
+   "도시풍경",
+   "디넬요한손",
+   "공공공간"
+  ],
+  "evidence": "DinellJohansson designed a fruit kiosk in central Stockholm, at Fridhemsplan.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "원문의 물리적 정보가 부족하나, 작가의 이전 맥락을 통해 건축적 태도를 유추할 수 있다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1184972/fruit-stand-in-fridhemsplan-dinelljohansson",
+  "original_title": "Fruit Stand in Fridhemsplan / DinellJohansson",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 916,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-03 21:35",
+  "research": {
+   "entities": [
+    "DinellJohansson",
+    "Victor Johansson",
+    "Kalle Dinell",
+    "Morten Johansson",
+    "Fridhemsplan"
+   ],
+   "questions": [
+    "DinellJohansson이 디자인한 Fridhemsplan 과일 가판대의 주요 건축적 특징과 사용된 재료는 무엇인가?",
+    "스톡홀름의 공공장소에 위치한 이 임시 상업 건축물이 도시 환경과 상인에게 기여하는 바는 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "스웨덴 폴크스 후스의 복원, 근대 건축의 원형을 보존하는 태도",
+     "url": "https://www.archdaily.com/1185028/house-of-people-dinelljohansson"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 284
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "dezeen.com/2026/10/03/data-centre-architecture-this-week": {
+  "title_ko": "AI 가속화에 따른 데이터 센터의 물리적 확장과 도시적 과제",
+  "summary_ko": "인공지능 기술의 급격한 확산으로 미국 전역에서 대규모 데이터 센터 건설이 가속화되고 있다. 이러한 시설의 물리적 팽창은 지역 사회와의 공존 방식과 환경적 영향에 관한 새로운 도시적 의문을 제기한다.",
+  "lens": "데이터 센터를 단순한 서버 보관소가 아닌, 도시의 에너지와 공간을 점유하는 거대한 인프라 건축물로 조명한다.",
+  "why_now": "AI 연산 수요 폭증으로 인해 데이터 센터의 입지 선정과 건축 규모가 도시 계획의 핵심 변수로 떠올랐다.",
+  "mechanism": "막대한 전력 소모와 냉각 시스템을 필요로 하는 설비 특성상, 기계적 효율성을 극대화한 폐쇄적 구조와 거대한 매스가 주변 환경과 물리적으로 결합한다.",
+  "sensory": "거대한 외벽이 만드는 압도적 스케일과 냉각 팬이 지속적으로 발생하는 저주파 소음, 인공적인 조명이 지배하는 차가운 질감을 동반한다.",
+  "transfer": "데이터 센터의 폐쇄성을 활용한 미스터리한 공간 연출이나, 거대한 매스를 강조하는 로우 앵글의 정적인 샷을 통해 기계적 위압감을 표현한다.",
+  "context": "AI 인프라 수요가 건축 설계의 패러다임을 효율성 중심의 대규모 시설로 전환하고 있다.",
+  "findings": [],
+  "keywords": [
+   "데이터센터",
+   "인프라건축",
+   "AI인프라",
+   "도시공간"
+  ],
+  "evidence": "AI가 데이터 센터에 대한 수요를 증가시킴에 따라 미국 전역에 방대한 시설이 건설되고 있어 사람들에게 의문을 제기합니다.",
+  "kind": "뉴스·이슈",
+  "depth": 2,
+  "grounding": "thin",
+  "depth_reason": "원문 본문을 확보하지 못해 일반적인 현상 기술에 머물렀으며 구체적인 설계 사례가 부족하다.",
+  "v": 2,
+  "url": "https://www.dezeen.com/2026/10/03/data-centre-architecture-this-week/",
+  "original_title": "This week we looked at the future of data-centre design",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 0,
+  "fetch": "fetch_error:HTTPError",
+  "cliche_hits": [],
+  "read_at": "2026-10-03 21:35",
+  "research": {
+   "entities": [
+    "AI"
+   ],
+   "questions": [
+    "AI 기술 발전이 미국 내 데이터 센터 수요 급증에 구체적으로 어떤 영향을 미치고 있는가?",
+    "확대되는 데이터 센터 건설이 지역 사회와 환경에 미치는 영향은 무엇인가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 2,
+  "depth_v": 2
+ },
+ "hyperallergic.com/between-worlds": {
+  "title_ko": "일상의 틈새에서 발견하는 개인적 서사와 역사의 잔상",
+  "summary_ko": "뉴욕의 일상을 관통하는 저자의 시선은 ISCP에서의 경험과 에드워드 사이드의 다큐멘터리 상영회, 그리고 데이브 더 포터의 작품 반환 소식을 교차시킨다. 도시의 소음과 개인적 기억이 얽힌 파편들은 에르메스 매장 쇼윈도에 비친 자신의 모습과 아들의 얼굴을 통해 현재라는 지점으로 수렴한다.",
+  "lens": "일상의 사소한 파편들을 거대한 역사적 맥락과 연결해, 개인의 정체성이 어떻게 도시라는 공간에서 재구성되는지 포착한다.",
+  "why_now": "개인의 일상과 거대 담론이 충돌하는 지점을 기록하는 방식은 동시대 미술 현장에서 파편화된 서사를 통합하는 새로운 관찰법으로 작동한다.",
+  "mechanism": "도시의 소음, 익명의 타인, 영화적 서사를 병렬 배치하여 독자로 하여금 파편화된 정보들 사이에서 스스로 의미를 연결하게 만든다.",
+  "sensory": "쏟아지는 빗속의 소음과 에스프레소의 쓴맛, 쇼윈도 유리에 맺힌 차가운 반사광 등 도시 특유의 감각적 대비를 선명하게 드러낸다.",
+  "transfer": "도시의 일상적인 샷 사이에 역사적 사건이나 개인적 기억을 암시하는 오브제 컷을 삽입하여, 서사의 층위를 입체적으로 구축하는 편집 전략을 취한다.",
+  "context": "ISCP는 1901년 지어진 공장 건물을 활용해 국제 레지던시를 운영하며, 에드워드 사이드는 포스트콜로니얼 연구의 선구자로 팔레스타인과 미국의 경계에서 지적 담론을 형성했다. 이는 저자가 개인적 기억과 사회적 이슈를 연결하는 지적 토대가 된다.",
+  "findings": [
+   {
+    "text": "ISCP는 1901년 완공된 공장 건물을 사용하며, 세계 최초로 에어컨이 설치된 건물이라는 기록을 보유하고 있다.",
+    "s": 1,
+    "quote": "ISCP's programs are currently housed in a former factory built in 1901, which was the world's first air-conditioned building."
+   },
+   {
+    "text": "에드워드 사이드는 컬럼비아 대학교 영문과 교수로서 포스트콜로니얼 연구의 토대를 닦은 인물이다.",
+    "s": 2,
+    "quote": "As a professor of literature at Columbia University, he was among the founders of post-colonial studies."
+   }
+  ],
+  "keywords": [
+   "서사",
+   "정체성",
+   "도시",
+   "기억",
+   "에드워드 사이드"
+  ],
+  "evidence": "I see Jerusalem, Haifa, and Nazareth. I see New York, and I see René's face.",
+  "kind": "뉴스·이슈",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "개인적 일상과 예술적 사건을 연결하는 시선은 날카로우나, 구체적인 예술적 기법보다는 에세이적 서술에 치중되어 있다.",
+  "v": 2,
+  "url": "https://hyperallergic.com/between-worlds/",
+  "original_title": "Between Worlds",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 7426,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-03 21:36",
+  "research": {
+   "entities": [
+    "International Studio & Curatorial Program",
+    "Edward Said",
+    "Dave the Potter",
+    "Milwaukee Art Museum",
+    "Hermès"
+   ],
+   "questions": [
+    "에드워드 사이드의 다큐멘터리 'Between Worlds'가 다루는 핵심 주제와 작가의 개인적 서사가 어떻게 연결되는가?",
+    "데이브 더 포터(Dave the Potter)의 작품 반환 사례가 현대 미술관의 윤리적 책임과 역사적 정의 실현에 어떤 의미를 갖는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "International Studio & Curatorial Program",
+     "url": "https://en.wikipedia.org/wiki/International%20Studio%20%26%20Curatorial%20Program"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Edward Said",
+     "url": "https://en.wikipedia.org/wiki/Edward%20Said"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "뉴욕 미술계의 이면, 파업과 폐쇄가 드러내는 제도적 균열",
+     "url": "https://hyperallergic.com/the-cathedral-of-joy/"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "하이 주얼리의 변주, 대담한 커팅과 실루엣으로 정의하는 현대적 조형미",
+     "url": "https://www.wallpaper.com/watches-jewellery/high-jewellery-a-w-2026"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "넥서스 스튜디오, 다학제적 아티스트 데빈 크레인 영입하며 시각 언어 확장",
+     "url": "https://www.stashmedia.tv/nexus-studios-signs-director-artist-devin-crane-to-commercial-roster/"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 3357
+  },
+  "depth_raw": 3,
+  "depth_v": 2
  }
 }
