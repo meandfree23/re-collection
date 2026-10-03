@@ -1513,41 +1513,45 @@
  },
  "2026-10-03": {
   "date": "2026-10-03",
-  "headline": "거미줄과 원주민의 대지, 석조 타워가 품은 침묵의 길목",
-  "editorial": "케이트 렌쇼 루이스는 스크린 프린팅의 거친 질감으로 노동의 기계적 반복을 시각화하고, 토마스 사라세노는 거미줄과 원주민의 대지 지식을 동시대 미술 구조물로 환치한다. 콜렉티프 마그마는 수백 년 된 석조 유산들 사이에서 현대적 구조물을 일상의 길목에 안착시킨다. 이처럼 오늘 호는 생태와 노동의 현장에서 길어 올린 구체적 구조물들의 조우를 기록한다.",
+  "headline": "거미줄과 흙벽, 수작업 인쇄의 피로한 마찰",
+  "editorial": "토마스 사라세노는 거미줄의 생태 네트워크와 원주민의 대지를 미술의 구조물로 옮겨온다. 케이트 렌쇼 루이스는 수작업 스크린 인쇄로 자동화된 노동의 기계적 반복을 화면 위에 재현한다. 야곱센 아키텍투라는 브라질 원시림의 지형을 깎지 않고 세 개의 콘크리트와 흙벽 볼륨으로 엮어낸다.",
   "threads": [
    {
-    "name": "생태와 노동의 구조물",
-    "note": "자연의 생태 지식과 수작업의 피로감을 동시대 구조물로 옮긴다.",
+    "name": "노동과 손의 흔적",
+    "note": "기계적 자동화에 맞서는 신체적 반복과 드로잉의 마찰을 다룬다.",
     "items": [
      {
       "title": "케이트 렌쇼 루이스의 '바쁜 몸', 수작업 인쇄로 복원한 노동의 기계",
       "url": "https://motionographer.com/news/busy-bodies-hand-drawn-printmaking-vimeo/"
      },
      {
-      "title": "토마스 사라세노, 거미줄과 원주민의 땅에서 길어 올린 조상의 미래",
-      "url": "https://www.thisiscolossal.com/2026/10/tomas-saraceno-ancestral-futures-salinas-grandes/"
+      "title": "가이아 알라리, 오일 파스텔과 목탄으로 빚어낸 유동적인 애니메이션 루프",
+      "url": "https://www.thisiscolossal.com/2026/10/gaia-alari-animation/"
      }
     ]
    },
    {
-    "name": "유산과 길목의 건축",
-    "note": "오래된 석조 유산과 풍경 속에 새로운 건축적 결을 더한다.",
+    "name": "대지와 지형의 건축",
+    "note": "자연의 결을 거스르지 않고 대지 위에 볼륨을 세우거나 생태적 지식을 구조물로 환치한다.",
     "items": [
      {
-      "title": "이탈리아 루나노의 풍경을 잇는 석조 타워, 콜렉티프 마그마의 '돌이 속삭이는 것'",
-      "url": "https://www.archdaily.com/1185637/what-the-stones-whisper-collectif-magma"
+      "title": "토마스 사라세노, 거미줄과 원주민의 땅에서 길어 올린 조상의 미래",
+      "url": "https://www.thisiscolossal.com/2026/10/tomas-saraceno-ancestral-futures-salinas-grandes/"
      },
      {
-      "title": "철거 대신 보존을 택한 멤프레마고그 호숫가 샬레 리노베이션",
-      "url": "https://www.archdaily.com/1186038/chalet-des-huarts-atelier-maa-architecture-plus"
+      "title": "브라질 원시림 능선에 놓인 세 개의 콘크리트와 흙벽 볼륨, AMS 하우스",
+      "url": "https://www.archdaily.com/1034312/ams-house-jacobsen-arquitetura"
+     },
+     {
+      "title": "카브레이라 하우스: 포르투갈 민델루의 규제와 풍경을 잇는 방식",
+      "url": "https://www.archdaily.com/1186032/cabreira-house-are-architects-studio"
      }
     ]
    }
   ],
-  "based_on": 15,
+  "based_on": 24,
   "v": 3,
   "model": "gemini-3.5-flash-lite",
-  "written_at": "2026-10-03 03:11"
+  "written_at": "2026-10-03 09:43"
  }
 }
