@@ -116581,5 +116581,231 @@
   },
   "depth_raw": 5,
   "depth_v": 2
+ },
+ "archdaily.com/1186023/under-the-drying-nets-multi-architecture": {
+  "title_ko": "그물 아래의 풍경: 난하이 수변 생태를 재해석한 파빌리온",
+  "summary_ko": "중국 포산시 난하이에서 진행된 '어업과 농업의 오두막 2.0' 프로젝트의 일환으로 멀티 아키텍처가 설계한 180㎡ 규모의 파빌리온이다. 난하이의 전통적인 뽕나무-제방-물고기 연못 생태계에서 어부들이 그물을 말리던 일상적 행위를 건축적 구조로 치환했다. 그물은 단순한 도구를 넘어 공간의 경계를 규정하고 빛을 투과시키는 주요 재료로 사용된다.",
+  "lens": "어업 도구인 그물을 수직 구조물에 매달아 수변 공간의 투명한 막으로 전환하고, 노동의 풍경을 건축적 경험으로 치환한다.",
+  "why_now": "산업적 도구가 풍경의 일부가 되는 과정을 통해 지역의 생태적 맥락을 공간에 이식하려는 시도가 돋보인다.",
+  "mechanism": "그물을 여러 층으로 겹쳐 배치하여 빛의 산란을 유도하고, 구조물 내부로 들어오는 시선과 빛의 강도를 조절한다.",
+  "sensory": "그물망 사이로 쏟아지는 부드러운 빛과 수변에서 불어오는 바람에 따라 미세하게 흔들리는 그물의 질감이 공간의 깊이를 만든다.",
+  "transfer": "투명한 소재를 겹쳐 공간의 밀도를 조절하는 레이어링 기법을 활용해, 정적인 구조물에 유동적인 빛의 궤적을 연출한다.",
+  "context": "난하이 지역의 순환적 생산 방식인 뽕나무-제방-물고기 연못 시스템을 건축적 언어로 재해석하여 지역성을 드러낸 작업이다.",
+  "findings": [],
+  "keywords": [
+   "파빌리온",
+   "난하이",
+   "생태건축",
+   "공간설계"
+  ],
+  "evidence": "fishing nets serve not only as tools for the catch but also as familiar, natural elements of daily labor when hung out to dry.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "지역 고유의 생태적 맥락을 건축적 장치로 치환한 점은 흥미로우나, 구조적 상세나 재료의 구체적인 결합 방식에 대한 설명이 부족하다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1186023/under-the-drying-nets-multi-architecture",
+  "original_title": "Under the Drying Nets / Multi-Architecture",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 1938,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-03 17:35",
+  "research": {
+   "entities": [
+    "Multi-Architecture",
+    "Art Field Nanhai",
+    "iStructure"
+   ],
+   "questions": [
+    "난하이 지역의 '뽕나무-제방-물고기 연못(mulberry-dike-fish-pond)' 생태 시스템은 어떤 방식으로 운영되는가?",
+    "이 파빌리온 프로젝트가 'Fishing and Farming Cabanas 2.0' 전시 섹션에서 가지는 건축적 의미는 무엇인가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "archdaily.com/1022179/foundations-house-holger-cuadrado": {
+  "title_ko": "에콰도르 로하의 파운데이션 하우스, 좁은 대지를 구조의 원칙으로 채우다",
+  "summary_ko": "에콰도르 로하의 7.60m x 13.50m 대지에 세워진 파운데이션 하우스는 건축의 구조적 원칙과 공간의 유연성을 탐구한다. 해발 2,060미터 안데스 산맥의 지형적 조건을 배경으로 하며, 262제곱미터 규모의 면적에 구조적 명확성을 설계의 핵심 요소로 녹여냈다.",
+  "lens": "좁은 대지라는 제약을 구조적 골격의 노출과 유연한 내부 평면으로 돌파하며 건축물의 본질을 드러낸다.",
+  "why_now": "대규모 개발보다 제한된 대지 내에서 구조적 논리를 통해 공간 효율을 극대화하는 방식이 필요한 시점이다.",
+  "mechanism": "건축 구조를 정의하는 기둥과 보의 배치를 통해 내부 공간을 구획하고, 고정된 벽체 대신 유연한 평면 운용을 가능하게 하는 구조적 장치를 도입했다.",
+  "sensory": "안데스 산맥의 고지대가 주는 서늘한 공기와 대비되는, 명확한 구조체들이 만드는 수직적이고 수평적인 선의 질감을 느낄 수 있다.",
+  "transfer": "좁은 공간을 촬영할 때 구조적 프레임(기둥, 보)을 화면의 전경으로 활용하여 공간의 깊이감을 만드는 샷을 구성할 수 있다.",
+  "context": "에콰도르 로하 지역의 지리적 맥락 안에서 구조적 원칙을 건축의 정의로 삼는 홀거 쿠아드라도의 설계 철학을 보여주는 프로젝트다.",
+  "findings": [],
+  "keywords": [
+   "구조적 원칙",
+   "공간 유연성",
+   "에콰도르 건축",
+   "안데스 주거"
+  ],
+  "evidence": "this project seeks to reflect on issues related to the structural principle in the definition of architecture and spatial flexibility as a design resource.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "구조와 유연성에 대한 설계 의도는 명확하나, 구체적인 내부 평면도나 재료의 상세한 운용 방식에 대한 정보가 부족하다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1022179/foundations-house-holger-cuadrado",
+  "original_title": "Foundations House / Holger Cuadrado",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 1227,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-03 17:35",
+  "research": {
+   "entities": [
+    "Holger Cuadrado",
+    "Loja",
+    "Ecuador"
+   ],
+   "questions": [
+    "Holger Cuadrado 건축가가 정의한 구조적 원칙과 공간적 유연성은 이 주택에서 어떻게 구현되었나요?",
+    "에콰도르 로하 지역의 기후 및 지형적 특성이 Foundations House의 설계에 어떤 영향을 미쳤나요?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "wallpaper.com/architecture/office/elsley-house-soda-london-workspace-uk": {
+  "title_ko": "런던 아르데코 빌딩에 심은 현대적 화로의 미학",
+  "summary_ko": "건축 스튜디오 소다(SODA)가 런던 웨스트엔드의 1920년대 아르데코 건물인 엘슬리 하우스를 미니멀한 업무 공간으로 탈바꿈시켰다. 건물 이름의 유래가 된 19세기 금속 공예가 토마스 엘슬리의 역사적 배경에서 착안해, 오피스 내 티포인트를 공간의 중심인 '화로'로 설정해 소통을 유도한다. 이와 함께 파스텔톤의 마하람 커튼으로 감싼 요가실과 패턴 타일 중정을 배치해 웰니스 기능을 더했다.",
+  "lens": "건물의 역사적 장인 정신을 현대식 탕비실이라는 물리적 화로로 치환해 소통의 중심을 재정의한다.",
+  "why_now": "무균질한 공유 오피스 디자인에서 벗어나, 지역의 역사와 재료의 물성을 바탕으로 고유한 서사를 지닌 업무 공간을 구축하려는 시도가 주목받고 있다.",
+  "mechanism": "솔리드 서피스 주방과 푸른빛이 감도는 목재 테이블을 중앙에 배치해 커뮤니티의 결속력을 높이고, 단단한 금속 프레임과 부드러운 볼스터 쿠션을 대비시켰다.",
+  "sensory": "오렌지빛 페과 색상의 따뜻한 마하람 패브릭이 요가실을 감싸고, 1920년대 아르데코 파사드의 기하학적 패턴이 실내 표면과 타일에 은은하게 반복된다.",
+  "transfer": "오피스 공간 연출 시 대형 라운지 대신 탕비실을 시각적·물리적 중심점으로 설정하고, 금속 프레임과 패브릭의 물성 대비를 통해 아늑함을 조율하는 장치로 쓴다.",
+  "context": "건축 스튜디오 소다는 런던을 기반으로 역사적 건물의 유산을 현대적 감각의 미니멀리즘으로 재해석하는 작업들을 이어오고 있다.",
+  "findings": [],
+  "keywords": [
+   "오피스인테리어",
+   "아르데코",
+   "소다",
+   "런던건축"
+  ],
+  "evidence": "This idea of introducing the 'hearth' as the conceptual core of the design is not arbitrary – nor simply adhering to modern trends",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "역사적 인물의 서사를 현대적 오피스 프로그램으로 치환한 공간 디자인을 구체적으로 보여준다.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/architecture/office/elsley-house-soda-london-workspace-uk",
+  "original_title": "A London workspace built around the warmth of the ‘hearth’ – not just for the reasons you’d think",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 3158,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-03 17:35",
+  "research": {
+   "entities": [
+    "SODA",
+    "Great Portland Estates",
+    "Thomas Elsley",
+    "Elsley House",
+    "Maharam"
+   ],
+   "questions": [
+    "건물 이름의 유래가 된 토마스 엘슬리(Thomas Elsley)의 금속 공예와 벽난로 디자인이 현대적인 오피스 인테리어에 어떻게 구체적으로 반영되었는가?",
+    "SODA가 추구하는 '가정의 화로(hearth)' 개념이 현대적인 업무 공간에서 사회적 상호작용을 촉진하기 위해 어떤 공간적 장치로 구현되었는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Great Portland Estates",
+     "url": "https://en.wikipedia.org/wiki/Great%20Portland%20Estates"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Maharam",
+     "url": "https://en.wikipedia.org/wiki/Maharam"
+    }
+   ],
+   "used": [],
+   "chars": 657
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "wallpaper.com/architecture/residential/west-london-extension-brown-urbanism-kitchen-bee-uk": {
+  "title_ko": "웨스트 런던의 낡은 부속 공간, 아치형 개구부로 빛과 흐름을 얻다",
+  "summary_ko": "키친 비(Kitchen Bee)와 브라운 어바니즘(Brown Urbanism)이 런던 일링의 테라스 하우스 후면을 증축했다. 기존의 어두운 부속 공간(lean-to)을 철거하고, 거실과 주방을 두 개의 아치형 개구부로 연결하여 전면부터 후면까지의 시야와 채광을 확보했다. 좁은 면적 내에 수납과 유틸리티 기능을 통합하여 효율적인 주거 환경을 구현했다.",
+  "lens": "두 개의 아치형 개구부를 거실과 주방 사이에 배치해 시각적 연결성을 확보하고, 노출 서까래로 천장의 리듬감을 만들어 공간의 깊이를 확장한다.",
+  "why_now": "한정된 예산과 면적을 가진 도시 주거에서, 구조적 변경 없이도 공간의 흐름을 개선하는 실용적인 증축 모델을 제시한다.",
+  "mechanism": "주방 내 키 큰 장에 유틸리티 기능을 집약하고, 경사 지붕 아래에 노출 서까래를 설치해 채광을 분산시키며 공간의 연속성을 강조한다.",
+  "sensory": "지붕 창을 통해 들어오는 빛이 노출 서까래를 통과하며 실내에 부드러운 그림자를 드리우고, 아치형 개구부를 통해 전면과 후면의 시야가 끊김 없이 연결된다.",
+  "transfer": "공간을 물리적으로 분리하는 대신, 아치형 개구부와 같은 투과성 있는 구조를 활용해 시각적 개방감을 극대화하고 빛의 흐름을 유도하는 샷을 설계한다.",
+  "context": "브라운 어바니즘은 39m²의 좁은 공간을 효율적으로 활용한 '트라이앵글 하우스(Triangle House)' 등 소규모 주거의 공간 최적화 작업으로 알려져 있다. 이번 프로젝트는 키친 비의 주방 설계 전문성과 결합하여 기능적 수납과 건축적 증축을 동시에 해결했다.",
+  "findings": [
+   {
+    "text": "브라운 어바니즘은 39m² 면적의 트라이앵글 하우스를 통해 좁은 평면에서도 높은 볼륨감을 확보하는 작업을 선보인 바 있다.",
+    "s": 2,
+    "quote": "Small in plan but generous in volume; private to the street yet open within. A prototypical “work-home”, not only a workplace and not only a home, but a hybrid of both."
+   },
+   {
+    "text": "키친 비는 미오코 후지사키가 이끄는 주방 설계 전문 스튜디오로, 주거의 스타일에 맞춘 독립적 설계를 제공한다.",
+    "s": 1,
+    "quote": "Kitchen Bee Design Ltd. is an interior design studio specialising in kitchen designs. It’s led by Mioko Fujisaki, who has over fifteen years’ experience in planning and designing kitchens"
+   }
+  ],
+  "keywords": [
+   "주거 증축",
+   "공간 최적화",
+   "아치형 개구부",
+   "노출 서까래"
+  ],
+  "evidence": "the chosen option favoured the double route approach which carefully divides the lounge and kitchen/dining spaces via two mirrored arched openings",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "제한된 면적을 극복하기 위한 구체적인 구조적 장치와 협업의 맥락이 명확히 제시되어 있다.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/architecture/residential/west-london-extension-brown-urbanism-kitchen-bee-uk",
+  "original_title": "A West London extension thinks big, bringing light and flow to a neglected period lean-to",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 3445,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-03 17:35",
+  "research": {
+   "entities": [
+    "Brown Urbanism",
+    "Kitchen Bee",
+    "Armony Cucine"
+   ],
+   "questions": [
+    "Ealing Return 프로젝트에서 기존의 어두운 lean-to 구조를 어떻게 채광이 풍부하고 개방적인 공간으로 탈바꿈시켰는가?",
+    "Kitchen Bee와 Brown Urbanism의 협업 과정에서 예산과 한정된 면적을 극복하기 위해 사용된 핵심 디자인 전략은 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Independent Kitchen Designer | Kitchen Bee Designs London",
+     "url": "https://www.kitchenbeedesign.com/"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "BROWN URBANISM",
+     "url": "https://www.brownurbanism.com/"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 5200
+  },
+  "depth_raw": 4,
+  "depth_v": 2
  }
 }
