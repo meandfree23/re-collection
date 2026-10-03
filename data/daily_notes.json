@@ -1553,5 +1553,34 @@
   "v": 3,
   "model": "gemini-3.5-flash-lite",
   "written_at": "2026-10-03 09:43"
+ },
+ "2026-10-04": {
+  "date": "2026-10-04",
+  "headline": "거친 돌의 조각과 크림의 유연한 드레이핑",
+  "editorial": "릭 오웬스 SS27은 돌의 조각적 의복으로 신체 위에 신화적 긴장을 구축한다. 이와 맞물려 오톨링거 SS27은 크림의 질감을 실크 비스코스의 드레이핑으로 치환하여 옷을 신체 보호의 층위로 펼쳐낸다. 로에베 SS27은 헤비 레더와 초경량 시폰의 대비로 런웨이의 긴장감을 이어간다.",
+  "threads": [
+   {
+    "name": "극단적 질감의 의복",
+    "note": "돌과 크림, 레더와 시폰처럼 서로 다른 물질의 감각을 신체 위에 구현한다.",
+    "items": [
+     {
+      "title": "릭 오웬스 SS27: 돌의 물성과 신화적 상징으로 빚은 조각적 의복",
+      "url": "https://www.dazeddigital.com/fashion/article/71100/1/rick-owens-ss27-paris-fashion-week-pfw-stone?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=fashion-gets-stoned-at-rick-owens-ss27"
+     },
+     {
+      "title": "오톨링거 SS27: 피부에 닿는 자신감, 보습의 물성을 입다",
+      "url": "https://www.dazeddigital.com/fashion/article/71109/1/ottolinger-ss27-wants-you-to-stay-moisturised-paris-fashion-week?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=ottolinger-ss27-wants-you-to-stay-moisturised"
+     },
+     {
+      "title": "파리 패션위크 로에베 SS27 런웨이에 선 캣츠아이와 하드코어 실루엣",
+      "url": "https://www.dazeddigital.com/fashion/article/71104/1/pinky-up-katseye-s-numbers-drop-to-two-at-loewe-ss27-paris-fashion-week?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=pinky-up-katseye-s-numbers-drop-to-two-at-loewe-ss27"
+     }
+    ]
+   }
+  ],
+  "based_on": 9,
+  "v": 3,
+  "model": "gemini-3.5-flash-lite",
+  "written_at": "2026-10-04 01:49"
  }
 }
