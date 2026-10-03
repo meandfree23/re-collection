@@ -116336,5 +116336,74 @@
   },
   "depth_raw": 3,
   "depth_v": 2
+ },
+ "hyperallergic.com/new-poster-exhibition-showcases-the-importance-and-impact-of-indigenous-designers": {
+  "title_ko": "식민주의적 서사를 해체하는 인디언 포스터 디자인 전",
+  "summary_ko": "브라이언 존슨이 기획한 전시 ‘Designed to Be Red’가 뉴욕 포스터 하우스에서 열린다. 이 전시는 100년이 넘는 원주민 그래픽 역사를 조명하며 저항 예술부터 대중문화 오마주까지 다섯 개 섹션으로 구성된다. 관람객은 강렬한 시각 매체를 통해 원주민을 공예품이나 박물관 디오라마에 가두는 시선에 도전한다.",
+  "lens": "원주민 디자이너의 시각 언어로 식민주의적 디자인 서사를 정면으로 해체한다.",
+  "why_now": "원주민을 과거의 존재나 민족지학적 오브제로 한정하는 박물관 디오라마의 시선에 맞서며 동시대 디자인 실천의 스펙트럼을 넓힌다.",
+  "mechanism": "가장 문제적인 대중 매체를 다루는 ‘추출적 마케팅’ 섹션을 물리적으로 격리하고 관람객을 다시 ‘원주민의 기쁨’ 섹션으로 유도하는 공간 동선을 설계했다.",
+  "sensory": "동물 가죽에 새겨진 텍스트와 1990년대 인구 조사 캠페인의 강렬한 색채가 100년의 시각적 역사 속에서 거친 질감으로 충돌한다.",
+  "transfer": "공간 연출에서 논란이 되는 시각 자료를 특정 구역으로 격리하고 동선을 꺾어 관람객의 반성적 인식을 유도하는 공간 기획으로 적용한다.",
+  "context": "뉴욕 맨해튼 23세가에 위치한 포스터 하우스는 미국 최초의 포스터 전용 미술관이다.",
+  "findings": [
+   {
+    "text": "포스터 하우스는 미국 최초의 포스터 전용 미술관이다.",
+    "s": 1,
+    "quote": "Poster House is the first museum in the United States dedicated exclusively to posters."
+   }
+  ],
+  "keywords": [
+   "포스터디자인",
+   "원주민예술",
+   "포스터하우스",
+   "시각역사"
+  ],
+  "evidence": "Designed to Be Red: Native American & Indigenous Poster Works, which is currently on view at Poster House",
+  "kind": "전시",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "원주민 디자이너의 100년 역사를 다섯 개 섹션과 독특한 동선으로 풀어낸 구체적인 기획 전시 사례다.",
+  "v": 2,
+  "url": "https://hyperallergic.com/new-poster-exhibition-showcases-the-importance-and-impact-of-indigenous-designers/",
+  "original_title": "New Poster Exhibition Showcases the Importance and Impact of Indigenous Designers",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 3644,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-03 10:33",
+  "research": {
+   "entities": [
+    "Brian Johnson",
+    "Poster House",
+    "Kent Monkman",
+    "Jeffrey Gibson",
+    "Designed to Be Red"
+   ],
+   "questions": [
+    "원주민 디자이너들이 기존의 식민주의적 디자인 서사를 어떻게 재구성하고 도전하고 있는가?",
+    "전시의 'Extractive Marketing' 섹션이 관람객에게 원주민에 대한 고정관념을 비판적으로 성찰하게 만드는 방식은 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Poster House",
+     "url": "https://en.wikipedia.org/wiki/Poster%20House"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Kent Monkman",
+     "url": "https://en.wikipedia.org/wiki/Kent%20Monkman"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 856
+  },
+  "depth_raw": 4,
+  "depth_v": 2
  }
 }

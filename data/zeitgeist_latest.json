@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-03 09:42 KST",
+  "generated_at": "2026-10-03 10:33 KST",
   "period": "2026.09.26 - 2026.10.03",
-  "total_articles": 558,
+  "total_articles": 559,
   "genre_breakdown": [
     {
       "genre": "동시대 미술",
-      "count": 220
+      "count": 221
     },
     {
       "genre": "공간·건축",
@@ -23,10 +23,16 @@
   "themes": [
     {
       "keyword": "박물관·전시",
-      "count": 60,
+      "count": 61,
       "previous_count": 34,
       "trend": "rising",
       "items": [
+        {
+          "title": "토착 디자이너의 중요성과 영향력을 보여주는 새로운 포스터 전시회",
+          "url": "https://hyperallergic.com/new-poster-exhibition-showcases-the-importance-and-impact-of-indigenous-designers/",
+          "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/09/PH_HA_D2BR_Announcement-Image_1.jpg",
+          "source_name": "Hyperallergic"
+        },
         {
           "title": "마이아 루스 리 (Maia Ruth Lee) 가 인터벌을 구현하도록 우리를 초대합니다",
           "url": "https://hyperallergic.com/maia-ruth-lee-invites-us-to-embody-the-interval/",
@@ -44,12 +50,6 @@
           "url": "https://hyperallergic.com/british-museum-to-provide-bayeux-tapestry-audio-tour-after-lawsuit/",
           "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/10/GettyImages-2293975919.jpg",
           "source_name": "Hyperallergic"
-        },
-        {
-          "title": "신세계그룹, 프리즈 서울 2026에서 폴콕스 작품 336점 전시",
-          "url": "https://www.dezeen.com/2026/10/02/shinsegae-groups-336-paul-cox-artworks-frieze-seoul-2026/",
-          "image_url": "https://static.dezeen.com/uploads/2026/09/Paul-Cox_dezeen_2364_col_0-1-852x852.jpg",
-          "source_name": "Dezeen"
         }
       ]
     },
