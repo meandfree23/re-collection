@@ -116405,5 +116405,181 @@
   },
   "depth_raw": 4,
   "depth_v": 2
+ },
+ "design-milk.com/suzie-de-rohan-willner-friday-five": {
+  "title_ko": "수지 드 로한 윌너, 직조와 콘크리트 사이에서 발견한 순환의 미학",
+  "summary_ko": "토스트(Toast) CEO 수지 드 로한 윌너는 애니 앨버스, 루스 아사와 등 예술가들의 작업에서 재료의 본질을 탐구하는 태도를 배운다. 그녀는 이 철학을 바탕으로 브랜드의 순환 프로젝트인 토스트 리뉴드(Toast Renewed)를 이끌며, 손상된 의류를 수선하고 재창조하여 폐기물을 새로운 구성 요소로 전환한다.",
+  "lens": "재료의 물성을 강요하지 않고 그 잠재력을 기다리는 태도가 어떻게 상업적 생산과 예술적 수선 사이의 간극을 메우는지를 보여준다.",
+  "why_now": "대량 생산의 시대에 수선과 재생을 단순한 복구가 아닌 디자인의 시작점으로 삼는 순환적 실천이 브랜드의 핵심 경쟁력이 되었다.",
+  "mechanism": "재료의 고유한 성질을 먼저 묻는 애니 앨버스의 실험적 접근을 토스트의 의류 수선 과정에 대입한다. 손상된 부위를 가리는 대신 자수와 퀼팅으로 강조하는 시각적 수선 기법을 통해 재료의 수명을 연장한다.",
+  "sensory": "루스 아사와의 와이어 조각이 가진 강철의 견고함과 형태의 가벼움이 대비되는 긴장감, 그리고 토스트 컬렉션에서 느껴지는 수공예적 질감이 공존한다.",
+  "transfer": "광고 연출 시 의류의 손상 부위를 클로즈업하여 자수나 덧댐 기법을 디테일하게 촬영하고, 이를 통해 재료의 서사를 구축하는 방식을 제안한다.",
+  "context": "수지 드 로한 윌너는 윌리엄 미첼을 의붓아버지로 두며 브루탈리즘 건축의 촉각적 미학을 체득했다. 이는 토스트가 추구하는 수공예적 가치와 재료에 대한 깊은 존중의 배경이 되었다.",
+  "findings": [
+   {
+    "text": "애니 앨버스는 바우하우스에서 직조를 탐구하며 전통적인 공예를 예술의 영역으로 격상시켰다.",
+    "s": 2,
+    "quote": "A leading textile artist of the 20th century, she is credited with blurring the lines between traditional craft and art."
+   },
+   {
+    "text": "루스 아사와는 멕시코 여행 중 배운 철사 뜨개질 기법을 활용해 유기적인 형태의 조각을 완성했다.",
+    "s": 3,
+    "quote": "It was during her second trip to Mexico in 1947 that she learned the knitted-wire loop technique from a Mexican teacher, which she used to make the sculptures for which she is most famous"
+   }
+  ],
+  "keywords": [
+   "순환 디자인",
+   "수공예",
+   "재료 실험",
+   "지속 가능성"
+  ],
+  "evidence": "She asked what the material wanted to do before asking how it should look.",
+  "kind": "작가·인터뷰",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "CEO의 철학이 브랜드의 구체적인 순환 프로젝트와 예술가들의 기법으로 어떻게 연결되는지 명확히 설명한다.",
+  "v": 2,
+  "url": "https://design-milk.com/suzie-de-rohan-willner-friday-five/",
+  "original_title": "Suzie de Rohan Willner on Anni Albers, the Glass House, William Mitchell + More",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 6632,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-03 11:30",
+  "research": {
+   "entities": [
+    "Suzie de Rohan Willner",
+    "Anni Albers",
+    "Ruth Asawa",
+    "Philip Johnson",
+    "Isamu Noguchi"
+   ],
+   "questions": [
+    "Suzie de Rohan Willner가 이끄는 브랜드 Toast는 지속 가능성과 수공예적 가치를 어떻게 실현하고 있는가?",
+    "인터뷰에서 언급된 예술가들과 건축(The Glass House)이 Suzie de Rohan Willner의 디자인 철학에 구체적으로 어떤 영향을 미쳤는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "TOAST | Womenswear, Menswear and Functional Homeware",
+     "url": "https://us.toa.st/"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Anni Albers",
+     "url": "https://en.wikipedia.org/wiki/Anni%20Albers"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Ruth Asawa",
+     "url": "https://en.wikipedia.org/wiki/Ruth%20Asawa"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "무티나와 조셉 알버스, 색채의 진동을 타일에 새기다",
+     "url": "https://www.sightunseen.com/2026/05/spotlight-two-perfect-tile-series-for-transforming-your-kitchen-bath-patio-or-any-surface-that-could-use-a-bit-of-zhuzh/"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "유리, 철, 그리고 기억의 공간: 도예가 선샤인 태커의 허드슨 밸리 집",
+     "url": "https://www.architecturaldigest.com/story/artist-sunshine-thacker-builds-her-dream-house-in-the-woods"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3
+   ],
+   "chars": 5285
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "designboom.com/art/color-shifting-light-sculpture-la-philharmonic-walt-disney-concert-hall-grimanesa-amoros": {
+  "title_ko": "월트 디즈니 콘서트 홀을 채우는 빛의 불꽃, 그리마네사 아모로스의 '래디언스'",
+  "summary_ko": "예술가 그리마네사 아모로스가 로스앤젤레스 필하모닉의 의뢰로 월트 디즈니 콘서트 홀에 조명 설치 작업 '래디언스'를 선보였다. 알렉산더 스크랴빈의 '프로메테우스: 불의 시' 연주에 맞춰 18.29미터 규모의 LED 튜브 조각이 오케스트라 상공에서 불꽃처럼 점멸하며 건축 공간과 하나의 시스템으로 동기화된다.",
+  "lens": "독립된 오브제가 아닌, 연주자의 호흡과 건축의 조명을 하나의 빛 환경으로 통합하여 공간 전체를 하나의 거대한 악기로 변모시킨다.",
+  "why_now": "음악의 서사와 조명의 물리적 움직임을 초 단위로 동기화하여, 디지털 조명이 공연의 보조적 수단을 넘어 서사적 주체로 기능하는 방식을 제시한다.",
+  "mechanism": "색 변환이 가능한 LED 튜브를 반사 재질의 프레임에 고정하고, 공연장의 기존 조명 시스템과 통합 제어하여 연주 흐름에 반응하는 6단계의 동기화 시퀀스를 구현한다.",
+  "sensory": "금속성 반사 재질 위로 흐르는 유연한 LED 빛의 궤적은 차가운 건축물 내부에서 살아 움직이는 불꽃의 질감을 형성하며 공간의 스케일을 압도한다.",
+  "transfer": "공간 내 조명 제어 시스템을 외부 조형물의 시퀀스와 통합하여, 카메라의 피사체가 아닌 공간 전체가 연주자의 리듬에 반응하는 실시간 인터랙티브 조명 연출에 활용한다.",
+  "context": "그리마네사 아모로스는 2002년부터 빛을 건축적 규모의 언어로 다루어 온 작가로, 페루의 문화적 유산과 생태를 빛이라는 매개로 번역한다. 이번 작업은 2011년 베니스 비엔날레 등에서 선보인 대규모 설치 작업의 연장선에 있으며, 월트 디즈니 콘서트 홀의 건축적 특성을 활용한 사이트 리스폰시브 작업의 정점을 보여준다.",
+  "findings": [
+   {
+    "text": "그리마네사 아모로스는 2001년 아이슬란드에서 오로라를 목격한 이후 빛을 주요 매체로 활용하기 시작했다.",
+    "s": 2,
+    "quote": "She began working with light as her medium after a 2001 trip to Iceland, where she saw the aurora borealis."
+   },
+   {
+    "text": "그녀의 작업은 단순히 공간을 점유하는 것이 아니라 빛으로 공간을 그려내어 관객과 환경을 하나의 경험으로 통합한다.",
+    "s": 1,
+    "quote": "In this sense, her sculptures do not simply occupy space; they draw space with light, merging the viewer, the surrounding environment, and the illuminated form into a single experience."
+   }
+  ],
+  "keywords": [
+   "그리마네사 아모로스",
+   "빛 설치 미술",
+   "월트 디즈니 콘서트 홀",
+   "동기화 조명",
+   "공연 예술"
+  ],
+  "evidence": "A lighting sequence written specifically for the work controls its changing illumination.",
+  "kind": "프로젝트",
+  "depth": 5,
+  "grounding": "full",
+  "depth_reason": "음악과 조명 시스템을 초 단위로 통합하여 건축 공간 자체를 공연의 일부로 재편하는 구체적인 기술적, 예술적 장치를 갖추고 있다.",
+  "v": 2,
+  "url": "https://www.designboom.com/art/color-shifting-light-sculpture-la-philharmonic-walt-disney-concert-hall-grimanesa-amoros/",
+  "original_title": "color-shifting light sculpture suspends above orchestra at walt disney concert hall",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 5108,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-03 11:30",
+  "research": {
+   "entities": [
+    "Grimanesa Amorós",
+    "Walt Disney Concert Hall",
+    "Los Angeles Philharmonic",
+    "Prometheus: The Poem of Fire"
+   ],
+   "questions": [
+    "그리마네사 아모로스가 빛을 재료와 언어로 활용하여 건축적 규모의 설치 미술을 구현하는 방식은 무엇인가?",
+    "알렉산더 스크랴빈의 '프로메테우스: 불의 시'와 설치 미술 'RADIANCE'가 음악적, 시각적으로 어떻게 상호작용하도록 설계되었는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Light Artist - Light Installations | Grimanesa Amorós",
+     "url": "https://www.grimanesaamoros.com/"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Grimanesa Amorós",
+     "url": "https://en.wikipedia.org/wiki/Grimanesa%20Amor%C3%B3s"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Walt Disney Concert Hall",
+     "url": "https://en.wikipedia.org/wiki/Walt%20Disney%20Concert%20Hall"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3
+   ],
+   "chars": 4722
+  },
+  "depth_raw": 5,
+  "depth_v": 2
  }
 }
