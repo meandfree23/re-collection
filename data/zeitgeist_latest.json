@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-10-04 01:48 KST",
+  "generated_at": "2026-10-04 08:58 KST",
   "period": "2026.09.27 - 2026.10.04",
-  "total_articles": 477,
+  "total_articles": 485,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 198
+      "count": 203
     },
     {
       "genre": "동시대 미술",
-      "count": 174
+      "count": 175
     },
     {
       "genre": "아방가르드 패션",
-      "count": 83
+      "count": 85
     },
     {
       "genre": "미디어 파사드·3D",
@@ -151,10 +151,16 @@
     },
     {
       "keyword": "런웨이·쇼",
-      "count": 7,
+      "count": 8,
       "previous_count": 8,
       "trend": "steady",
       "items": [
+        {
+          "title": "셀린느 SS27에서 파리 패션 위크가 열리고 있습니다",
+          "url": "https://www.dazeddigital.com/fashion/article/71108/1/paris-fashion-week-is-burning-at-celine-ss27?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=paris-fashion-week-is-burning-at-celine-ss27",
+          "image_url": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/6/1456840.jpg",
+          "source_name": "Dazed"
+        },
         {
           "title": "Loewe의 최신 쇼는 Casper Mueller Kneer가 디자인한 ‘경기장‘ 에서 열립니다.",
           "url": "https://www.wallpaper.com/fashion-beauty/loewes-latest-show-will-take-place-in-a-casper-mueller-kneer-designed-arena",
@@ -171,12 +177,6 @@
           "title": "발렌시아가는 기성복 고객에게 스텔스 쿠튀르를 판매하고 있습니다.",
           "url": "https://www.dazeddigital.com/fashion/article/71094/1/balenciaga-ss27-paris-fashion-week-pfw-pierpaolo-piccioli?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=balenciaga-is-stealth-selling-couture-to-its-ready-to-wear-customers",
           "image_url": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/6/1456612.jpg",
-          "source_name": "Dazed"
-        },
-        {
-          "title": "Glenn Martens가 Margiela SS27에서 Raf Simons에게 꽃을 선물합니다.",
-          "url": "https://www.dazeddigital.com/fashion/article/71076/1/maison-margiela-ss27-paris-fashion-week-pfw-glenn-martens-dior-raf-simons?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=glenn-martens-gives-raf-simons-his-flowers-at-margiela-ss27",
-          "image_url": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/6/1456248.jpg",
           "source_name": "Dazed"
         }
       ]
@@ -215,6 +215,7 @@
     }
   ],
   "notable_names": [
+    "Rick Owens",
     "Busy Bodies",
     "Private View",
     "Saint Laurent",

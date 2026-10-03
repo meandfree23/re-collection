@@ -1556,13 +1556,17 @@
  },
  "2026-10-04": {
   "date": "2026-10-04",
-  "headline": "거친 돌의 조각과 크림의 유연한 드레이핑",
-  "editorial": "릭 오웬스 SS27은 돌의 조각적 의복으로 신체 위에 신화적 긴장을 구축한다. 이와 맞물려 오톨링거 SS27은 크림의 질감을 실크 비스코스의 드레이핑으로 치환하여 옷을 신체 보호의 층위로 펼쳐낸다. 로에베 SS27은 헤비 레더와 초경량 시폰의 대비로 런웨이의 긴장감을 이어간다.",
+  "headline": "산업 폐기물의 웨빙 스트랩과 3D 프린팅 콘크리트 덩어리",
+  "editorial": "릭 오웬스는 산업용 웨빙 스트랩과 돌의 물성을 구조적 의상으로 빚어내며 강렬한 인상을 남긴다. 마티아스 호홀라는 3D 프린팅의 비정형성을 활용해 바로크적 조각을 콘크리트 덩어리로 구현한다. 이처럼 가공되지 않은 물질과 단단한 구조물이 신체와 건축의 경계에서 어떻게 맞물리는지 살펴본다.",
   "threads": [
    {
-    "name": "극단적 질감의 의복",
-    "note": "돌과 크림, 레더와 시폰처럼 서로 다른 물질의 감각을 신체 위에 구현한다.",
+    "name": "구조적 의상과 물성",
+    "note": "산업용 소재와 거친 질감을 신체 위에 구축하는 방식을 다룬다.",
     "items": [
+     {
+      "title": "릭 오웬스, 산업 폐기물로 빚어낸 기념비적 오트 쿠튀르",
+      "url": "https://www.anothermag.com/fashion-beauty/17539/rick-owens-spring-summer-2027-ss27-womenswear-review?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=rick-owens-couture-state-of-mind"
+     },
      {
       "title": "릭 오웬스 SS27: 돌의 물성과 신화적 상징으로 빚은 조각적 의복",
       "url": "https://www.dazeddigital.com/fashion/article/71100/1/rick-owens-ss27-paris-fashion-week-pfw-stone?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=fashion-gets-stoned-at-rick-owens-ss27"
@@ -1576,11 +1580,29 @@
       "url": "https://www.dazeddigital.com/fashion/article/71104/1/pinky-up-katseye-s-numbers-drop-to-two-at-loewe-ss27-paris-fashion-week?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=pinky-up-katseye-s-numbers-drop-to-two-at-loewe-ss27"
      }
     ]
+   },
+   {
+    "name": "콘크리트와 건축적 형태",
+    "note": "콘크리트와 지형의 결을 활용해 공간을 정렬하는 건축 프로젝트들이다.",
+    "items": [
+     {
+      "title": "마티아스 호홀라, 3D 프린팅 콘크리트로 재현한 바로크의 알레고리",
+      "url": "https://www.designboom.com/art/3d-printed-concrete-sculptures-classical-fragments-sci-fi-forms-frieze-sculpture-matyas-chochola/"
+     },
+     {
+      "title": "몬테 알보 하우스: 알렌테주 전통을 이식한 단층의 풍경",
+      "url": "https://www.archdaily.com/1034708/monte-alvo-house-noz-arquitectura"
+     },
+     {
+      "title": "아시아 콘크리트의 자생적 진화: 브루탈리스트 아시아가 기록한 10개의 기념비",
+      "url": "https://www.dezeen.com/2026/10/03/brutalist-asia-book-roundup/"
+     }
+    ]
    }
   ],
-  "based_on": 9,
+  "based_on": 17,
   "v": 3,
   "model": "gemini-3.5-flash-lite",
-  "written_at": "2026-10-04 01:49"
+  "written_at": "2026-10-04 08:59"
  }
 }
