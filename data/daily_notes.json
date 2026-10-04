@@ -1556,12 +1556,12 @@
  },
  "2026-10-04": {
   "date": "2026-10-04",
-  "headline": "산업 폐기물의 웨빙 스트랩과 3D 프린팅 콘크리트 덩어리",
-  "editorial": "릭 오웬스는 산업용 웨빙 스트랩과 돌의 물성을 구조적 의상으로 빚어내며 강렬한 인상을 남긴다. 마티아스 호홀라는 3D 프린팅의 비정형성을 활용해 바로크적 조각을 콘크리트 덩어리로 구현한다. 이처럼 가공되지 않은 물질과 단단한 구조물이 신체와 건축의 경계에서 어떻게 맞물리는지 살펴본다.",
+  "headline": "산업용 웨빙 스트랩과 3D 프린팅 콘크리트 덩어리",
+  "editorial": "릭 오웬스의 산업용 웨빙 스트랩과 마티아스 호홀라의 3D 프린팅 콘크리트 덩어리는 거친 물질성을 고유한 구조로 세우는 태도를 보여준다. 로에베의 헤비 레더와 초경량 시폰 조합 역시 극단적인 재료의 대비로 런웨이에 긴장을 불어넣는다. 이처럼 단단한 구조물과 날것의 재료는 도시와 의복 속에서 저마다의 방식으로 단단한 뼈대를 이룬다.",
   "threads": [
    {
-    "name": "구조적 의상과 물성",
-    "note": "산업용 소재와 거친 질감을 신체 위에 구축하는 방식을 다룬다.",
+    "name": "거친 재료의 구조적 전환",
+    "note": "산업 폐기물과 콘크리트처럼 다루기 힘든 재료를 의복과 건축의 뼈대로 탈바꿈시킨다.",
     "items": [
      {
       "title": "릭 오웬스, 산업 폐기물로 빚어낸 기념비적 오트 쿠튀르",
@@ -1572,6 +1572,16 @@
       "url": "https://www.dazeddigital.com/fashion/article/71100/1/rick-owens-ss27-paris-fashion-week-pfw-stone?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=fashion-gets-stoned-at-rick-owens-ss27"
      },
      {
+      "title": "마티아스 호홀라, 3D 프린팅 콘크리트로 재현한 바로크의 알레고리",
+      "url": "https://www.designboom.com/art/3d-printed-concrete-sculptures-classical-fragments-sci-fi-forms-frieze-sculpture-matyas-chochola/"
+     }
+    ]
+   },
+   {
+    "name": "극단적 물성의 대비",
+    "note": "헤비 레더와 초경량 시폰, 또는 크림의 밀착된 질감을 통해 의복의 신체적 긴장감을 만든다.",
+    "items": [
+     {
       "title": "오톨링거 SS27: 피부에 닿는 자신감, 보습의 물성을 입다",
       "url": "https://www.dazeddigital.com/fashion/article/71109/1/ottolinger-ss27-wants-you-to-stay-moisturised-paris-fashion-week?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=ottolinger-ss27-wants-you-to-stay-moisturised"
      },
@@ -1580,29 +1590,11 @@
       "url": "https://www.dazeddigital.com/fashion/article/71104/1/pinky-up-katseye-s-numbers-drop-to-two-at-loewe-ss27-paris-fashion-week?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=pinky-up-katseye-s-numbers-drop-to-two-at-loewe-ss27"
      }
     ]
-   },
-   {
-    "name": "콘크리트와 건축적 형태",
-    "note": "콘크리트와 지형의 결을 활용해 공간을 정렬하는 건축 프로젝트들이다.",
-    "items": [
-     {
-      "title": "마티아스 호홀라, 3D 프린팅 콘크리트로 재현한 바로크의 알레고리",
-      "url": "https://www.designboom.com/art/3d-printed-concrete-sculptures-classical-fragments-sci-fi-forms-frieze-sculpture-matyas-chochola/"
-     },
-     {
-      "title": "몬테 알보 하우스: 알렌테주 전통을 이식한 단층의 풍경",
-      "url": "https://www.archdaily.com/1034708/monte-alvo-house-noz-arquitectura"
-     },
-     {
-      "title": "아시아 콘크리트의 자생적 진화: 브루탈리스트 아시아가 기록한 10개의 기념비",
-      "url": "https://www.dezeen.com/2026/10/03/brutalist-asia-book-roundup/"
-     }
-    ]
    }
   ],
-  "based_on": 17,
+  "based_on": 22,
   "v": 3,
   "model": "gemini-3.5-flash-lite",
-  "written_at": "2026-10-04 08:59"
+  "written_at": "2026-10-04 17:50"
  }
 }

@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-10-04 12:03 KST",
+  "generated_at": "2026-10-04 17:49 KST",
   "period": "2026.09.27 - 2026.10.04",
-  "total_articles": 486,
+  "total_articles": 490,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 204
+      "count": 206
     },
     {
       "genre": "동시대 미술",
-      "count": 175
+      "count": 177
     },
     {
       "genre": "아방가르드 패션",
@@ -23,10 +23,16 @@
   "themes": [
     {
       "keyword": "박물관·전시",
-      "count": 52,
+      "count": 53,
       "previous_count": 44,
       "trend": "rising",
       "items": [
+        {
+          "title": "Space Popular는 Nieuwe Instituut을 위해 카펫으로 덮인 갤러리를 만듭니다.",
+          "url": "https://www.dezeen.com/2026/10/04/space-popular-nieuwe-instituut-collection-gallery-rotterdam/",
+          "image_url": "https://static.dezeen.com/uploads/2026/10/space-popular-nieuwe-instituut-gallery-rotterdam-sq_dezeen_2364_col_0-852x852.jpg",
+          "source_name": "Dezeen"
+        },
         {
           "title": "전시가 형식이 될 때, 예술의 경험은 어떻게 될까요?",
           "url": "https://www.designboom.com/art/exhibitions-formats-experience-art-museums-interactive-immersive/",
@@ -43,12 +49,6 @@
           "title": "마이아 루스 리 (Maia Ruth Lee) 가 인터벌을 구현하도록 우리를 초대합니다",
           "url": "https://hyperallergic.com/maia-ruth-lee-invites-us-to-embody-the-interval/",
           "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/10/Mlee.jpg",
-          "source_name": "Hyperallergic"
-        },
-        {
-          "title": "뉴욕시 박물관 노조 3곳, 계약 비준, 파업 철회",
-          "url": "https://hyperallergic.com/three-nyc-museum-unions-ratify-contracts-averting-strikes/",
-          "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/10/image-2.png",
           "source_name": "Hyperallergic"
         }
       ]
