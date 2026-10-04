@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-10-04 23:05 KST",
-  "period": "2026.09.27 - 2026.10.04",
-  "total_articles": 496,
+  "generated_at": "2026-10-05 02:03 KST",
+  "period": "2026.09.28 - 2026.10.05",
+  "total_articles": 432,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 211
+      "count": 191
     },
     {
       "genre": "동시대 미술",
-      "count": 177
+      "count": 147
     },
     {
       "genre": "아방가르드 패션",
-      "count": 86
+      "count": 72
     },
     {
       "genre": "미디어 파사드·3D",
@@ -23,8 +23,8 @@
   "themes": [
     {
       "keyword": "박물관·전시",
-      "count": 54,
-      "previous_count": 44,
+      "count": 53,
+      "previous_count": 38,
       "trend": "rising",
       "items": [
         {
@@ -56,7 +56,7 @@
     {
       "keyword": "해변·리조트 건축",
       "count": 8,
-      "previous_count": 3,
+      "previous_count": 2,
       "trend": "rising",
       "items": [
         {
@@ -86,10 +86,42 @@
       ]
     },
     {
-      "keyword": "미니멀리즘",
-      "count": 5,
-      "previous_count": 3,
+      "keyword": "레스토랑·호스피탈리티",
+      "count": 4,
+      "previous_count": 1,
       "trend": "rising",
+      "items": [
+        {
+          "title": "셰프가 알려주는 콘월 요리 가이드",
+          "url": "https://www.wallpaper.com/travel/restaurants/a-chefs-guide-to-cornwall",
+          "image_url": "https://cdn.mos.cms.futurecdn.net/NUKWKeytZJQyNreutN5djF-1920-80.jpg",
+          "source_name": "Wallpaper*"
+        },
+        {
+          "title": "스카이워커 그릴 (Skywalker Grill) 에서는 루카스 박물관 (Lucas Museum) 의 미래형 레스토랑인 포스 (force) 와 음료가 강렬합니다.",
+          "url": "https://www.wallpaper.com/travel/restaurants/skywalker-grill-lucas-museum-restaurant-review",
+          "image_url": "https://cdn.mos.cms.futurecdn.net/iNru9aTYbgsSpWmanBPSYS-1920-80.jpg",
+          "source_name": "Wallpaper*"
+        },
+        {
+          "title": "코모 호수의 마우로 콜라그레코 이야기",
+          "url": "https://coolhunting.com/food-drink/what-lake-como-tells-mauro-colagreco/",
+          "image_url": "https://coolhunting.com/wp-content/uploads/2026/09/BFA_55187_8069629-768x512.jpg",
+          "source_name": "Cool Hunting"
+        },
+        {
+          "title": "Fisher & Paykel의 프로페셔널 스타일 가전은 가정 주방에 레스토랑의 분위기를 더해줍니다.",
+          "url": "https://www.dezeen.com/2026/09/29/fisher-paykel-professional-style-appliances/",
+          "image_url": "https://static.dezeen.com/uploads/2026/08/fisher-paykel-professional-style-kitchen-appliances-design_dezeen_2364_sq-852x852.jpg",
+          "source_name": "Dezeen"
+        }
+      ]
+    },
+    {
+      "keyword": "미니멀리즘",
+      "count": 4,
+      "previous_count": 3,
+      "trend": "steady",
       "items": [
         {
           "title": "당신이 생각하는 이유뿐만 아니라 ‘난로‘ 의 따뜻함을 중심으로 지어진 런던의 작업 공간",
@@ -118,98 +150,66 @@
       ]
     },
     {
-      "keyword": "빛과 조명",
-      "count": 11,
-      "previous_count": 12,
-      "trend": "steady",
+      "keyword": "사진",
+      "count": 9,
+      "previous_count": 14,
+      "trend": "falling",
       "items": [
         {
-          "title": "월트 디즈니 콘서트 홀에서 오케스트라 위에 매달려 있는 색이동 조명 조각",
-          "url": "https://www.designboom.com/art/color-shifting-light-sculpture-la-philharmonic-walt-disney-concert-hall-grimanesa-amoros/",
-          "image_url": "https://www.designboom.com/wp-content/dbsub/468327/2026-09-29/grimanesa-amoros-suspends-radiance-light-sculpture-installation-above-the-la-philharmonic-at-walt-disney-concert-hall-5-6abc0ac73d41c.jpg",
+          "title": "538제곱피트의 이 파리 피에타르는 호기심의 캐비닛처럼 느껴지도록 설계되었습니다.",
+          "url": "https://www.architecturaldigest.com/story/jessica-helgerson-paris-pied-a-terre",
+          "image_url": "https://media.architecturaldigest.com/photos/6abda56426c58765209b0ca2/master/pass/12-JHIDParis2639Final.jpg",
+          "source_name": "Architectural Digest"
+        },
+        {
+          "title": "사진작가 Christian Badach의 '강 서쪽' 사진",
+          "url": "https://www.booooooom.com/2026/10/02/west-of-the-river-by-photographer-christian-badach/",
+          "image_url": "https://cdn.booooooom.com/wp-content/uploads/2026/08/Badach1.jpg",
+          "source_name": "BOOOOOOOM"
+        },
+        {
+          "title": "2026년 코미디 와일드라이프 어워드에서 와일드 히징크스와 유쾌한 해픈스턴스 통치",
+          "url": "https://www.thisiscolossal.com/2026/10/comedy-wildlife-awards-2026-finalists/",
+          "image_url": "https://www.thisiscolossal.com/wp-content/uploads/2026/10/comedy-8.jpg",
+          "source_name": "This Is Colossal"
+        },
+        {
+          "title": "수직 마이크로 로맨스의 뿔나고 희망찬 세계",
+          "url": "https://www.dazeddigital.com/film-tv/article/71084/1/horny-vertical-micro-romances-tiktok-youtube-shorts-reelshort-microdrama?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=the-horny-hopeful-world-of-vertical-micro-romances",
+          "image_url": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/6/1456360.png",
+          "source_name": "Dazed"
+        }
+      ]
+    },
+    {
+      "keyword": "콘크리트 물성",
+      "count": 7,
+      "previous_count": 10,
+      "trend": "falling",
+      "items": [
+        {
+          "title": "Museum Vonk는 \"저렴한 바이오 기반 건설을 위한 시험장\" 입니다.",
+          "url": "https://www.dezeen.com/2026/10/04/museum-vonk-studio-marco-vermeulen/",
+          "image_url": "https://static.dezeen.com/uploads/2026/10/vonk-museum-studio-marco-vemeulen-architecture-public-eindhoven_dezeen_2364_sq-852x852.jpg",
+          "source_name": "Dezeen"
+        },
+        {
+          "title": "프리즈 조각에서 고전적인 조각과 공상 과학적 형태가 혼합된 3D 프린팅 콘크리트 조각품",
+          "url": "https://www.designboom.com/art/3d-printed-concrete-sculptures-classical-fragments-sci-fi-forms-frieze-sculpture-matyas-chochola/",
+          "image_url": "https://www.designboom.com/wp-content/dbsub/449140/2026-09-25/between-art-architecture-and-human-nature-1-6ab684bff35b6.jpg",
           "source_name": "Designboom Art"
         },
         {
-          "title": "스메르츠는 아우구스트 배런의 비밀병기이다",
-          "url": "https://www.anothermag.com/fashion-beauty/17537/august-barron-smerz-interview-spring-summer-2027-ss27-paris-fashion-week?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=smerz-is-august-barron-s-secret-weapon",
-          "image_url": "https://images-prod.anothermag.com/786/azure/another-prod/470/8/478917.jpg",
-          "source_name": "AnOther Magazine"
-        },
-        {
-          "title": "9월부터 데진이 가장 좋아하는 가구와 조명",
-          "url": "https://www.dezeen.com/2026/10/01/dezeens-favourite-furniture-and-lighting-from-september/",
-          "image_url": "https://static.dezeen.com/uploads/2026/09/gubi-lotus-lamp-852x852.jpg",
-          "source_name": "Dezeen"
-        },
-        {
-          "title": "‘대중 통제의 도구’: 프랑스의 자유당 탄압",
-          "url": "https://www.dazeddigital.com/music/article/71070/1/france-free-party-crackdown-ripost-law-raves-paris-djs?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=it-s-a-tool-of-mass-control-inside-france-s-free-party-crackdown",
-          "image_url": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/6/1456218.jpeg",
-          "source_name": "Dazed"
-        }
-      ]
-    },
-    {
-      "keyword": "런웨이·쇼",
-      "count": 8,
-      "previous_count": 8,
-      "trend": "steady",
-      "items": [
-        {
-          "title": "셀린느 SS27에서 파리 패션 위크가 열리고 있습니다",
-          "url": "https://www.dazeddigital.com/fashion/article/71108/1/paris-fashion-week-is-burning-at-celine-ss27?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=paris-fashion-week-is-burning-at-celine-ss27",
-          "image_url": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/6/1456840.jpg",
+          "title": "Rick Owens SS27에서 패션에 돌을 던지다",
+          "url": "https://www.dazeddigital.com/fashion/article/71100/1/rick-owens-ss27-paris-fashion-week-pfw-stone?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=fashion-gets-stoned-at-rick-owens-ss27",
+          "image_url": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/6/1456777.jpg",
           "source_name": "Dazed"
         },
         {
-          "title": "Loewe의 최신 쇼는 Casper Mueller Kneer가 디자인한 ‘경기장‘ 에서 열립니다.",
-          "url": "https://www.wallpaper.com/fashion-beauty/loewes-latest-show-will-take-place-in-a-casper-mueller-kneer-designed-arena",
-          "image_url": "https://cdn.mos.cms.futurecdn.net/U9UnkgriJysbikxhjxqTfd-1920-80.jpg",
+          "title": "1OAM 내부에는 ‘일하고, 만들고, 머물고, 먹고, 물건을 발견하고, 목욕할 수 있는’ 아테네 허브가 있습니다.",
+          "url": "https://www.wallpaper.com/architecture/1oam-eva-papadaki-interview-greece",
+          "image_url": "https://cdn.mos.cms.futurecdn.net/bLbD9diLQoKJru2W2qFEyZ-1920-80.jpg",
           "source_name": "Wallpaper*"
-        },
-        {
-          "title": "지금 패션이 섹스에 집착하는 이유는 무엇일까요?",
-          "url": "https://www.dazeddigital.com/fashion/article/71101/1/fashion-week-sex-pornhub-onlyfans-london-milan-paris-ss27-pfw-trends?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=why-is-fashion-so-obsessed-with-sex-right-now",
-          "image_url": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/6/1456698.JPG",
-          "source_name": "Dazed"
-        },
-        {
-          "title": "발렌시아가는 기성복 고객에게 스텔스 쿠튀르를 판매하고 있습니다.",
-          "url": "https://www.dazeddigital.com/fashion/article/71094/1/balenciaga-ss27-paris-fashion-week-pfw-pierpaolo-piccioli?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=balenciaga-is-stealth-selling-couture-to-its-ready-to-wear-customers",
-          "image_url": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/6/1456612.jpg",
-          "source_name": "Dazed"
-        }
-      ]
-    },
-    {
-      "keyword": "가구 디자인",
-      "count": 7,
-      "previous_count": 7,
-      "trend": "steady",
-      "items": [
-        {
-          "title": "5가지 혁신적이고 실용적인 모듈식 가구 디자인",
-          "url": "https://www.dezeen.com/2026/10/04/innovative-practical-modular-furniture-designs/",
-          "image_url": "https://static.dezeen.com/uploads/2026/09/lozi-plywood-furniture-london-design-festival-modular-system-sq-852x852.jpg",
-          "source_name": "Dezeen"
-        },
-        {
-          "title": "라파엘 프리에토 (Rafael Prieto) 는 뉴욕 건물의 조각으로 가구를 만듭니다.",
-          "url": "https://www.dezeen.com/2026/10/02/rafael-prieto-the-future-of-the-past-emma-scully-gallery/",
-          "image_url": "https://static.dezeen.com/uploads/2026/10/rafael-prieto-new-york-emma-scully-gallery_dezeen_2364_sq-1-852x852.jpg",
-          "source_name": "Dezeen"
-        },
-        {
-          "title": "비실라 노하 (Bisila Noha) 의 도자기는 문화, 지역 사회 및 페미니즘에 의해 알려집니다.",
-          "url": "https://www.wallpaper.com/design-interiors/bisila-noha-tacchini-prize-winner-2026",
-          "image_url": "https://cdn.mos.cms.futurecdn.net/LpsRDN5noudZk8h5ThuphJ-1920-80.png",
-          "source_name": "Wallpaper*"
-        },
-        {
-          "title": "9월부터 데진이 가장 좋아하는 가구와 조명",
-          "url": "https://www.dezeen.com/2026/10/01/dezeens-favourite-furniture-and-lighting-from-september/",
-          "image_url": "https://static.dezeen.com/uploads/2026/09/gubi-lotus-lamp-852x852.jpg",
-          "source_name": "Dezeen"
         }
       ]
     }
@@ -217,14 +217,10 @@
   "notable_names": [
     "Rick Owens",
     "Busy Bodies",
-    "Private View",
     "Saint Laurent",
     "Dezeen Awards",
     "Soane Medal",
-    "VitrA Tiles",
-    "Milan Fashion Week",
-    "Video Art Visions",
-    "NOWNESS Shorts"
+    "Milan Fashion Week"
   ],
   "has_comparison": true
 }

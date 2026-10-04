@@ -1596,5 +1596,44 @@
   "v": 3,
   "model": "gemini-3.5-flash-lite",
   "written_at": "2026-10-04 17:50"
+ },
+ "2026-10-05": {
+  "date": "2026-10-05",
+  "headline": "퍼핏의 뻣뻣한 움직임과 스웨덴 산장의 겹쳐진 통나무",
+  "editorial": "조니 룩은 디지털 대신 수작업 퍼핏과 아날로그 필름을 사용하여 기이한 코미디를 만든다. 밴 페보그 로지는 스웨덴 산악의 환경을 반영해 전통적 통나무 쌓기 방식을 현대적인 주거로 옮겨왔다. 두 작업은 매끄러운 가공을 거부하고 손에 잡히는 단단한 재료의 무게감을 선택했다. 비비안 웨스트우드가 폭염이라는 환경을 실루엣으로 정면 돌파하듯, 이들은 각자의 영역에서 도구와 재료의 물성을 직접 맞닥뜨리며 결과물을 빚어낸다.",
+  "threads": [
+   {
+    "name": "손으로 빚은 단단한 질감",
+    "note": "디지털 보정이 아닌 물리적 재료와 수작업을 통해 결과물의 고유한 밀도를 만든다.",
+    "items": [
+     {
+      "title": "조니 룩이 구축하는 아날로그와 실사의 초현실적 결합",
+      "url": "https://www.stashmedia.tv/blinkink-signs-director-writer-jonny-look-for-commercial-representation-across-usa-europe/"
+     },
+     {
+      "title": "스웨덴 산악 지대의 사계절을 품은 현대적 통나무집, 밴 페보그 로지",
+      "url": "https://www.archdaily.com/1185636/van-peborgh-lodge-claesson-koivisto-rune-architects"
+     }
+    ]
+   },
+   {
+    "name": "환경과 맞닿은 물리적 대응",
+    "note": "산악 기후와 폭염이라는 외부 조건을 작업의 형식으로 직접 수용한다.",
+    "items": [
+     {
+      "title": "스웨덴 산악 지대의 사계절을 품은 현대적 통나무집, 밴 페보그 로지",
+      "url": "https://www.archdaily.com/1185636/van-peborgh-lodge-claesson-koivisto-rune-architects"
+     },
+     {
+      "title": "폭염의 파리를 가로지르는 비비안 웨스트우드의 해체적 실루엣",
+      "url": "https://www.dazeddigital.com/fashion/article/71113/1/how-paris-stifling-summer-inspired-vivienne-westwood-ss27?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=how-paris-stifling-summer-inspired-vivienne-westwood-ss27"
+     }
+    ]
+   }
+  ],
+  "based_on": 3,
+  "v": 3,
+  "model": "gemini-3.1-flash-lite",
+  "written_at": "2026-10-05 02:03"
  }
 }
