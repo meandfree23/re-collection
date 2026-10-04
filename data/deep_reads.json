@@ -118498,5 +118498,402 @@
   },
   "depth_raw": 4,
   "depth_v": 2
+ },
+ "archdaily.com/1184623/singelblok-bureauvaneig-plus-inbo": {
+  "title_ko": "암스테르담 노르트에 세운 401가구의 거대한 곡선 마을",
+  "summary_ko": "네덜란드 암스테르담-노르트의 엘젠하겐싱겔에 뷰로반에이크와 인보가 설계한 4만 1500제곱미터 규모의 싱겔블록이 완공되었다. 8개의 건물과 2개의 후퇴한 타워로 이루어진 이 긴 곡선형 블록은 401채의 주택과 상업 공간을 수용하며 도시 속의 마을을 형성한다.",
+  "lens": "긴 곡선과 교차 배치된 파사드로 거대한 주거 동을 세밀하게게 쪼갠다.",
+  "why_now": "대규모 주거 단지가 도시 풍경을 압도하는 대신 가로와 보행자 규모로 스케일을 조율하는 방식을 보여준다.",
+  "mechanism": "뷰로반에이크와 인보가 번갈아 설계한 8개 건물에 베이 윈도우, 파사드 굴절, 다양한 조적 패턴을 적용해 입면의 리듬감을 만든다.",
+  "sensory": "곡선을 따라 길게 이어지는 벽돌 패턴과 돌출 창호의 음영이 보행자의 이동에 따라 다채로운 시각적 리듬을 만든다.",
+  "transfer": "롱테이크 샷에서 곡선 파사드의 입면 분할과 창호의 반복을 이용해 공간의 깊이감과 리듬을 강조하는 배경으로 쓴다.",
+  "context": "네덜란드 암스테르담 노르트 지하철역 인근에서 401채의 주택과 상업 공간을 복합한 주거 프로젝트로 진행되었다.",
+  "findings": [],
+  "keywords": [
+   "암스테르담",
+   "집합주택",
+   "곡선건축",
+   "파사드디자인"
+  ],
+  "evidence": "Along the Elzenhagensingel in Amsterdam-Noord, close to Noord metro station, a distinctive residential block has been completed.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "대규모 주거 블록의 입면 분할과 형태적 특징이 잘 나타 있으나 설계 상세는 평이하다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1184623/singelblok-bureauvaneig-plus-inbo",
+  "original_title": "Singelblok / BureauVanEig + INBO",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 1718,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-04 22:20",
+  "research": {
+   "entities": [
+    "BureauVanEig",
+    "INBO",
+    "Vesteda",
+    "Eigen Haard",
+    "Singelblok"
+   ],
+   "questions": [
+    "Singelblok 프로젝트가 암스테르담 노르트 지역의 도시 재생과 주거 환경에 어떤 영향을 미쳤나요?",
+    "BureauVanEig와 INBO가 협업하여 설계한 이 복합 주거 단지의 건축적 특징인 '도시 속의 마을' 개념은 어떻게 구현되었나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "INBO",
+     "url": "https://en.wikipedia.org/wiki/INBO"
+    }
+   ],
+   "used": [],
+   "chars": 137
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "leibal.com/interiors/trace-of-flow": {
+  "title_ko": "창덕궁의 마루와 기둥을 들인 방배동 미니멀 아파트",
+  "summary_ko": "디자인 스튜디오 무아공간(MUAGONGGAN)이 서울 방배동 아파트 트레이스 오브 플로우(Trace of Flow)에서 비내력벽을 모두 철거하고 하중을 견디는 기둥만 남겨 공간을 재구성했다. 은퇴한 부부를 위해 창덕궁의 전통 목조 바닥과 지형에 따른 배치 방식을 차용해 거실, 식당, 주방을 하나의 연속된 평면으로 연결했다. 기둥은 어두운 목재로 마감하고 교차 결합 패턴을 더해 집안의 중심축으로 삼았다.",
+  "lens": "한국 전통 건축의 구조적 결합 방식을 아파트의 하중 지지 기둥과 가구 디테일에 이식해 미니멀한 공간의 결을 만든다.",
+  "why_now": "아파트라는 획일적인 평면 구조 안에서 전통 건축의 공간 구성 원리와 물성을 현대적 미니멀리즘으로 번역하는 시도가 돋보인다.",
+  "mechanism": "비내력벽을 제거하여 얻은 오픈 플랜 구조에 창덕궁 대청마루의 격자 패턴을 수평과 수직 축으로 적용했다. 하중을 지탱하는 기둥을 어두운 목재로 감싸고 가로 결의 목재 띠를 더해 수직 결을 끊어내며 공간의 고정점을 만든다.",
+  "sensory": "어두운 목재 기둥의 무늬결과 전통 기와를 모사한 페일 세라믹 패널의 적층 표면이 대비를 이룬다. 공용부의 어두운 목재와 회색 타일에서 침실의 따뜻한 오크 패널과 살문으로 이어지며 재료의 온도가 부드럽게 전환된다.",
+  "transfer": "공간 촬영 시 카메라를 기둥의 가로 목재 띠와 일직선으로 맞추어 깊이감을 강조하고, 바닥에서 띄운 플로팅 홈바를 통해 수평 축의 연속성을 보여주는 샷으로 활용한다.",
+  "context": "무아공간(MUAGONGGAN)은 서울 방배동의 아파트 트레이스 오브 플로우에서 비내력벽을 제거하고 창덕궁의 공간 구성 원리를 적용하는 작업을 진행했다.",
+  "findings": [],
+  "keywords": [
+   "무아공간",
+   "아파트인테리어",
+   "전통재해석",
+   "미니멀인테리어"
+  ],
+  "evidence": "MUAGONGGAN removed every non-bearing wall from Trace of Flow, an apartment in Bangbae-dong, Seoul, South Korea, and the studio turned those columns into the most detailed surfaces in the home.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "전통 건축의 요소를 현대 아파트 평면에 구체적인 마감과 축으로 치환한 사례이나 정보가 원문에 한정된다.",
+  "v": 2,
+  "url": "https://leibal.com/interiors/trace-of-flow/",
+  "original_title": "Trace of Flow",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 2198,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-04 22:20",
+  "research": {
+   "entities": [
+    "MUAGONGGAN",
+    "Changdeokgung",
+    "Dancheong",
+    "Chagyeong"
+   ],
+   "questions": [
+    "창덕궁의 건축적 특징인 '백골집'과 '차경'의 개념이 현대 주거 공간인 'Trace of Flow'에 어떻게 구체적으로 재해석되어 적용되었는가?",
+    "MUAGONGGAN은 아파트라는 제한된 공간에서 한국 전통 건축의 공간 구성 원리를 어떻게 현대적인 평면 계획으로 치환했는가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "architecturaldigest.com/story/charlton-heston-at-home-photos": {
+  "title_ko": "찰튼 헤스턴의 주거 연대기: 뉴욕의 작은 단칸방에서 베벌리힐스의 요새까지",
+  "summary_ko": "찰튼 헤스턴은 1950년대 뉴욕 헬스키친의 좁은 아파트에서 시작해 1958년 영화 벤허의 성공 이후 캘리포니아 콜드워터 캐니언에 대규모 저택을 지었다. 그는 회고록을 통해 스튜디오라는 공적인 공간과 대비되는 사적인 안식처로서의 집을 강조했다. 2008년 작고할 때까지 그가 머물렀던 베벌리힐스 저택은 건축가 빌 베켓이 설계했으며 자연 지형을 최대한 살린 구조가 특징이다.",
+  "lens": "건축가 빌 베켓은 찰튼 헤스턴의 저택을 설계하기 전 현장에서 하룻밤을 보내며 빛과 지형을 분석했고, 이는 거주자의 일상과 자연을 연결하는 핵심 장치가 되었다.",
+  "why_now": "디지털 연결이 일상이 된 시대에, 외부와 차단된 채 자연 지형을 온전히 누리는 주거 공간의 가치는 더욱 선명해진다.",
+  "mechanism": "빌 베켓은 현장의 빛과 지형을 관찰한 데이터를 바탕으로 2층 규모의 도서관, 스크리닝 룸, 테니스 코트 등 다목적 공간을 배치해 저택을 단순한 주거를 넘어선 독립적 생태계로 구축했다.",
+  "sensory": "캐니언의 거친 자연 지형을 그대로 품은 대지 위에 세워진 저택은 20피트의 높은 천장과 테라스로 외부의 빛을 실내 깊숙이 끌어들인다.",
+  "transfer": "공간 연출 시 특정 장소의 빛과 지형을 24시간 관찰한 데이터를 설계에 반영하면, 인위적인 인테리어보다 거주자의 활동과 자연스럽게 결합된 몰입감을 조성할 수 있다.",
+  "context": "찰튼 헤스턴은 1995년 회고록 'In the Arena'에서 자신의 주거 공간을 단순한 휴식처를 넘어 창작의 에너지를 얻는 필수적인 장소로 기록했다. 그가 거주한 베벌리힐스 저택은 벤허 촬영 기간에 맞춰 완공되어 '벤허가 지은 집'으로 불리기도 했다.",
+  "findings": [
+   {
+    "text": "찰튼 헤스턴은 1959년 영화 벤허의 주연으로 아카데미 남우주연상을 수상했다.",
+    "s": 1,
+    "quote": "Heston gained stardom for his leading roles as Moses in The Ten Commandments (1956) and as the title role of Ben-Hur (1959), the latter of which earned him the Academy Award for Best Actor."
+   },
+   {
+    "text": "아내 리디아 클라크 헤스턴은 배우이자 사진작가로 활동했다.",
+    "s": 2,
+    "quote": "Lydia Marie Clarke Heston (April 14, 1923 – September 3, 2018) was an American actress and photographer."
+   }
+  ],
+  "keywords": [
+   "찰튼헤스턴",
+   "빌베켓",
+   "베벌리힐스",
+   "주거건축",
+   "공간디자인"
+  ],
+  "evidence": "spent a day and a night in a sleeping bag on our ridge to study the light and the land.",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "건축가와 건축주가 현장의 빛과 지형을 분석해 공간을 구성한 구체적인 설계 과정과 맥락이 확인된다.",
+  "v": 2,
+  "url": "https://www.architecturaldigest.com/story/charlton-heston-at-home-photos",
+  "original_title": "Charlton Heston at Home: 10 Photos of the Star Through the Decades, From a Tiny NYC Pad to a Rambling California Paradise",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 8199,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-04 22:20",
+  "research": {
+   "entities": [
+    "Charlton Heston",
+    "Lydia Clarke",
+    "Cecil B. DeMille",
+    "Fraser Clarke Heston",
+    "The Ten Commandments"
+   ],
+   "questions": [
+    "찰스턴 헤스턴이 수십 년간 거주했던 캘리포니아 베벌리힐스 저택은 어떤 건축적 특징을 가지고 있는가?",
+    "찰스턴 헤스턴의 회고록 'In the Arena'에서는 그의 주거 공간과 사생활에 대해 어떻게 기록되어 있는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Charlton Heston",
+     "url": "https://en.wikipedia.org/wiki/Charlton%20Heston"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Lydia Clarke",
+     "url": "https://en.wikipedia.org/wiki/Lydia%20Clarke"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 1547
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "dezeen.com/2026/10/04/innovative-practical-modular-furniture-designs": {
+  "title_ko": "유연한 공간을 만드는 5가지 모듈형 가구 시스템",
+  "summary_ko": "최근 주목받는 모듈형 가구는 사용자의 필요에 따라 재조합이 가능한 구조를 갖췄다. 부드러운 구체로 형태를 변형하는 아모레바부터 1.6밀리미터 두께의 금속 패널로 하중을 견디는 얇은 컬렉션까지, 공간 효율과 사용자 참여를 극대화하는 디자인 사례를 살펴본다.",
+  "lens": "고정된 가구 대신 사용자가 직접 공간의 밀도와 기능을 재구성하는 모듈형 시스템의 물리적 유연성에 집중한다.",
+  "why_now": "공간의 용도가 고정되지 않는 현대의 비정형적 라이프스타일에서 가구는 건축의 일부처럼 작동하며 사용자의 행동에 따라 실시간으로 변모해야 한다.",
+  "mechanism": "금속 패널의 절곡과 사전 타공, 강철 막대를 활용한 모듈 결합 등 정밀한 하드웨어 설계를 통해 최소한의 부품으로 구조적 강도와 확장성을 동시에 확보한다.",
+  "sensory": "금속의 차가운 질감과 매끄러운 마감, 부드러운 패브릭 소재의 볼이 주는 촉각적 대비가 공간의 분위기를 결정한다.",
+  "transfer": "공간을 구획할 때 고정된 벽체 대신 천장에서 내려오는 코일 시스템이나 독립형 모듈을 사용하여 샷마다 배경을 다르게 변주하는 연출이 가능하다.",
+  "context": "이번 사례들은 기존의 맞춤형 가구 제작 방식인 '빌트인 조이너리'를 대체하기 위해 사용자가 직접 유닛을 조합하는 IKEA 방식의 DIY 모델을 현대적으로 재해석했다.",
+  "findings": [],
+  "keywords": [
+   "모듈형가구",
+   "공간디자인",
+   "가구시스템",
+   "DIY가구",
+   "비정형라이프스타일"
+  ],
+  "evidence": "Our latest roundup looks at modular furniture pieces that are both practical and surprising",
+  "kind": "리스트·라운드업",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "다양한 모듈형 가구 사례를 나열했으나 각 디자인의 구조적 핵심 원리를 깊이 있게 파고들기보다 제품 소개 위주의 정보 전달에 그친다.",
+  "v": 2,
+  "url": "https://www.dezeen.com/2026/10/04/innovative-practical-modular-furniture-designs/",
+  "original_title": "Five innovative and practical modular furniture designs",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 2540,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-04 22:20",
+  "research": {
+   "entities": [
+    "Golem",
+    "SF-SO",
+    "Lozi",
+    "Omi Collective",
+    "Dubbeldam Architecture + Design"
+   ],
+   "questions": [
+    "모듈형 가구가 현대의 비정형적인 라이프스타일에 어떻게 유연하게 대응할 수 있는지 그 구조적 특징은 무엇인가?",
+    "전통적인 가구 제작 방식과 비교했을 때 모듈형 가구 시스템이 사용자에게 제공하는 경제적, 공간적 이점은 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Golem (2019 video game)",
+     "url": "https://en.wikipedia.org/wiki/Golem%20%282019%20video%20game%29"
+    }
+   ],
+   "used": [],
+   "chars": 218
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "dezeen.com/2026/10/04/museum-vonk-studio-marco-vermeulen": {
+  "title_ko": "지속 가능한 순환의 기록, 대마 콘크리트와 재활용 목재로 빚은 뮤지엄 본크",
+  "summary_ko": "네덜란드 스튜디오 마르코 베르뮐렌이 아인트호벤에 완공한 뮤지엄 본크는 1만 년의 지역 역사를 다루는 박물관이다. 재활용 교차 적층 목재(CLT)와 대마 콘크리트 외벽을 주재료로 사용했으며, 과거 더치 디자인 위크에서 선보인 파빌리온 자재를 재조립해 건축의 순환성을 구현했다.",
+  "lens": "단순한 친환경 건축을 넘어, 버려진 임시 구조물을 영구적인 박물관의 골조로 치환하며 재료의 생애 주기를 완결 짓는 방식을 제시한다.",
+  "why_now": "바이오 기반 재료를 활용한 저예산 건축이 현실적인 대안이 될 수 있음을 증명하며, 건축계의 자원 순환에 대한 실질적인 가이드를 제공한다.",
+  "mechanism": "2019년 더치 디자인 위크 파빌리온에서 해체한 교차 적층 목재를 박물관 구조체로 재사용하고, 외벽에는 대마와 석회를 섞은 대마 콘크리트를 적용해 자연적인 기후 조절을 꾀했다.",
+  "sensory": "시간이 흐르며 풍화된 목재의 거친 질감과 색상 차이가 벽면 곳곳에 그대로 드러나며, 안료를 섞은 석고 마감이 대마 콘크리트의 부드러운 물성과 대비를 이룬다.",
+  "transfer": "기존 구조물을 해체한 자재의 흔적(발자국, 변색)을 마감재로 활용하는 연출을 통해, 공간의 서사와 시간성을 시각적으로 강조하는 샷을 구성할 수 있다.",
+  "context": "스튜디오 마르코 베르뮐렌은 2019년 더치 디자인 위크에서 선보인 파빌리온 '바이오베이스캠프'의 자재를 이번 프로젝트에 재활용하며 건축의 순환 모델을 완성했다. 이는 바이오 소재의 가능성을 탐구해온 스튜디오의 지속적인 연구 연장선에 있다.",
+  "findings": [
+   {
+    "text": "더치 디자인 위크는 네덜란드 아인트호벤에서 매년 10월 말 개최되는 디자인 행사로, 전시와 워크숍을 통해 다양한 실험적 디자인을 선보인다.",
+    "s": 1,
+    "quote": "Dutch Design Week (also known as DDW) is an event about Dutch design, hosted in Eindhoven, Netherlands. The event takes place around the last week of October."
+   }
+  ],
+  "keywords": [
+   "바이오기반건축",
+   "교차적층목재",
+   "대마콘크리트",
+   "순환건축",
+   "스튜디오마르코베르뮐렌"
+  ],
+  "evidence": "Museum Vonk is a testing ground for affordable bio-based construction techniques and natural climate control",
+  "kind": "프로젝트",
+  "depth": 5,
+  "grounding": "full",
+  "depth_reason": "재료의 재사용 과정에서의 기술적 제약과 해결책, 그리고 건축적 서사를 연결하는 구체적인 장치가 명확하다.",
+  "v": 2,
+  "url": "https://www.dezeen.com/2026/10/04/museum-vonk-studio-marco-vermeulen/",
+  "original_title": "Museum Vonk is \"a testing ground for affordable bio-based construction\"",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 5001,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-04 22:20",
+  "research": {
+   "entities": [
+    "Studio Marco Vermeulen",
+    "Museum Vonk",
+    "Biobasecamp",
+    "Dutch Design Week"
+   ],
+   "questions": [
+    "재활용된 교차 적층 목재(CLT)를 건축 자재로 재사용할 때 발생하는 기술적, 제도적 제약은 무엇인가요?",
+    "바이오 기반 건축(bio-based construction)이 현대 건축의 지속 가능성 목표를 달성하는 데 어떤 역할을 하나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Dutch Design Week",
+     "url": "https://en.wikipedia.org/wiki/Dutch%20Design%20Week"
+    },
+    {
+     "n": 2,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "오렌지 껍질과 달걀 상자로 만든 부가부의 바이오 유모차",
+     "url": "https://www.dezeen.com/2026/09/08/bugaboo-biomaterial-pram-aalto-university-finland/"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "10월의 건축과 디자인 무대, 데진 이벤트 가이드가 꼽은 8가지 행사",
+     "url": "https://www.dezeen.com/2026/10/01/architecture-design-events-october-2026/"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 1927
+  },
+  "depth_raw": 5,
+  "depth_v": 2
+ },
+ "anothermag.com/fashion-beauty/17540/jack-mccollough-lazaro-hernandez-loewe-review-spring-summer-2027-ss27": {
+  "title_ko": "스페인 바로크와 미국식 스포츠웨어가 충돌하는 로에베",
+  "summary_ko": "잭 매콜로와 라자로 에르난데스가 이끄는 로에베가 2027 봄/여름 컬렉션에서 스페인 바로크 미술과 미국식 스포츠웨어를 결합했다. 프라도 미술관에서 영감을 받은 벨라스케스와 수르바란의 드레이퍼리를 종이 가방 스커트와 가죽 재킷에 이식했다. 프렙 체크 블레이저와 폴로 셔츠 같은 아메리카나 요소를 더해 의복에 일상적인 해방감을 불어넣었다.",
+  "lens": "스페인 바로크의 장엄한 드레이퍼리를 미국식 스포츠웨어의 가벼운 해체주의로 무너뜨린다.",
+  "why_now": "초현실적 오브제 중심의 디자인에서 벗어나 입는 이의 몸과 움직임에 밀착하는 실용적 태도로 선회한다.",
+  "mechanism": "스페인 바로크 회화의 주름을 가죽 재킷의 어깨선과 스커트 전면에 비대칭으로 꺾어 넣고, 번지 코드로 조였다.",
+  "sensory": "구겨진 종이와 부드러운 스웨이드가 맞닿으며, 몸을 따라 미끄러지는 옷감의 긴장감이 시각적으로 증폭된다.",
+  "transfer": "광고 콘티에서 모델의 동선을 단순한 워킹 대신 원형 아레나를 달리는 러닝으로 설정하고, 옷감이 흩날리는 순간을 클로즈업한다.",
+  "context": "잭 매콜로와 라자로 에르난데스는 2025년부터 로에베의 크리에이티브 디렉터로 합류해 브랜드의 세 번째 컬렉션을 전개하고 있다.",
+  "findings": [
+   {
+    "text": "잭 맥콜로와 라자로 에르난데스는 2025년부터 로에베의 크리에이티브 디렉터로 임명되었다.",
+    "s": 1,
+    "quote": "Jack McCollough and Lazaro Hernandez creative directors since 2025."
+   }
+  ],
+  "keywords": [
+   "로에베",
+   "아메리카나",
+   "바로크",
+   "스포츠웨어",
+   "드레이퍼리"
+  ],
+  "evidence": "American sportswear references went head-to-head with draperies pulled from Spanish baroque paintings",
+  "kind": "런웨이·컬렉션",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "역사적 회화와 스포츠웨어를 충돌시킨 명확한 조형적 장치가 돋보인다.",
+  "v": 2,
+  "url": "https://www.anothermag.com/fashion-beauty/17540/jack-mccollough-lazaro-hernandez-loewe-review-spring-summer-2027-ss27?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=spanish-drama-american-ease-at-loewe",
+  "original_title": "Spanish Drama, American Ease at Loewe",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 3747,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-04 22:20",
+  "research": {
+   "entities": [
+    "Loewe",
+    "Jack McCollough",
+    "Lazaro Hernandez",
+    "Francisco de Zurbarán",
+    "Diego Velázquez"
+   ],
+   "questions": [
+    "로에베의 브랜드 헤리티지인 스페인 바로크 예술과 미국식 스포츠웨어의 결합이 컬렉션에서 구체적으로 어떻게 시각화되었는가?",
+    "디자이너 듀오가 언급한 '옷을 오브제로 만들지 않겠다'는 의도가 로에베의 기존 디자인 언어와 어떻게 달라졌는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Loewe (fashion brand)",
+     "url": "https://en.wikipedia.org/wiki/Loewe%20%28fashion%20brand%29"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Francisco de Zurbarán",
+     "url": "https://en.wikipedia.org/wiki/Francisco%20de%20Zurbar%C3%A1n"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "공간의 밀도를 바꾸는 향기, AD 에디터가 선별한 19가지 향초",
+     "url": "https://www.architecturaldigest.com/story/best-candle-gifts"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "동시대 창작자를 위한 2026년 10월 글로벌 그랜트 및 레지던시 가이드",
+     "url": "https://hyperallergic.com/opportunities-in-october-2026/"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "원형 아레나와 극장으로 재해석한 로에베의 런웨이",
+     "url": "https://www.wallpaper.com/fashion-beauty/loewes-latest-show-will-take-place-in-a-casper-mueller-kneer-designed-arena"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 1747
+  },
+  "depth_raw": 4,
+  "depth_v": 2
  }
 }

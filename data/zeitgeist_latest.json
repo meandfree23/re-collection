@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-04 17:49 KST",
+  "generated_at": "2026-10-04 22:20 KST",
   "period": "2026.09.27 - 2026.10.04",
-  "total_articles": 490,
+  "total_articles": 496,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 206
+      "count": 211
     },
     {
       "genre": "동시대 미술",
@@ -13,7 +13,7 @@
     },
     {
       "genre": "아방가르드 패션",
-      "count": 85
+      "count": 86
     },
     {
       "genre": "미디어 파사드·3D",
@@ -23,10 +23,16 @@
   "themes": [
     {
       "keyword": "박물관·전시",
-      "count": 53,
+      "count": 54,
       "previous_count": 44,
       "trend": "rising",
       "items": [
+        {
+          "title": "Museum Vonk는 \"저렴한 바이오 기반 건설을 위한 시험장\" 입니다.",
+          "url": "https://www.dezeen.com/2026/10/04/museum-vonk-studio-marco-vermeulen/",
+          "image_url": "https://static.dezeen.com/uploads/2026/10/vonk-museum-studio-marco-vemeulen-architecture-public-eindhoven_dezeen_2364_sq-852x852.jpg",
+          "source_name": "Dezeen"
+        },
         {
           "title": "Space Popular는 Nieuwe Instituut을 위해 카펫으로 덮인 갤러리를 만듭니다.",
           "url": "https://www.dezeen.com/2026/10/04/space-popular-nieuwe-instituut-collection-gallery-rotterdam/",
@@ -43,12 +49,6 @@
           "title": "토착 디자이너의 중요성과 영향력을 보여주는 새로운 포스터 전시회",
           "url": "https://hyperallergic.com/new-poster-exhibition-showcases-the-importance-and-impact-of-indigenous-designers/",
           "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/09/PH_HA_D2BR_Announcement-Image_1.jpg",
-          "source_name": "Hyperallergic"
-        },
-        {
-          "title": "마이아 루스 리 (Maia Ruth Lee) 가 인터벌을 구현하도록 우리를 초대합니다",
-          "url": "https://hyperallergic.com/maia-ruth-lee-invites-us-to-embody-the-interval/",
-          "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/10/Mlee.jpg",
           "source_name": "Hyperallergic"
         }
       ]
@@ -183,10 +183,16 @@
     },
     {
       "keyword": "가구 디자인",
-      "count": 6,
+      "count": 7,
       "previous_count": 7,
       "trend": "steady",
       "items": [
+        {
+          "title": "5가지 혁신적이고 실용적인 모듈식 가구 디자인",
+          "url": "https://www.dezeen.com/2026/10/04/innovative-practical-modular-furniture-designs/",
+          "image_url": "https://static.dezeen.com/uploads/2026/09/lozi-plywood-furniture-london-design-festival-modular-system-sq-852x852.jpg",
+          "source_name": "Dezeen"
+        },
         {
           "title": "라파엘 프리에토 (Rafael Prieto) 는 뉴욕 건물의 조각으로 가구를 만듭니다.",
           "url": "https://www.dezeen.com/2026/10/02/rafael-prieto-the-future-of-the-past-emma-scully-gallery/",
@@ -204,12 +210,6 @@
           "url": "https://www.dezeen.com/2026/10/01/dezeens-favourite-furniture-and-lighting-from-september/",
           "image_url": "https://static.dezeen.com/uploads/2026/09/gubi-lotus-lamp-852x852.jpg",
           "source_name": "Dezeen"
-        },
-        {
-          "title": "엘리슨 스튜디오 (Ellison Studios) 는 집안에서 가장 작은 공공 공간을 최고의 가구로 제공합니다.",
-          "url": "https://www.yellowtrace.com.au/ellison-studios-the-new-bedroom-collection/",
-          "image_url": "https://assets.yellowtrace.com.au/wp-content/uploads/2026/09/16135225/Yellowtrace-260827ELLISON-STUDIOSMELT-BED-26TONDO0526-08_opt90.jpg",
-          "source_name": "Yellowtrace"
         }
       ]
     }
