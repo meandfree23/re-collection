@@ -118158,5 +118158,80 @@
   },
   "depth_raw": 4,
   "depth_v": 2
+ },
+ "archdaily.com/1186086/yaesu-daibiru-office-building-nikken-sekkei": {
+  "title_ko": "도쿄 야에스 다이빌딩, 무라노 도고의 파사드 문법을 잇다",
+  "summary_ko": "도쿄역 앞 야에스도리에 위치한 야에스 다이빌딩 재개발 프로젝트다. 닛켄 세케이는 20세기 일본 건축가 무라노 도고가 설계한 기존 건물의 석재와 알루미늄 주물 조합 방식을 현대적으로 재해석했다. 규격화된 커튼월 중심의 오피스 빌딩 환경에서 재료의 물성과 거리와의 관계를 중시한 설계를 계승했다.",
+  "lens": "커튼월의 획일성을 거부하고 재료의 질감과 정교한 파사드 구성으로 거리의 표정을 다시 쓴다.",
+  "why_now": "유리 커튼월로 뒤덮인 도시 풍경 속에서, 과거 건축가의 재료적 실험을 현대적 공법으로 되살려 건축의 개별성을 회복하려는 흐름을 보여준다.",
+  "mechanism": "기존 건물의 석재와 알루미늄 주물 조합을 현대적 알루미늄 글레이징 시스템과 결합하여, 과거의 입면 리듬을 정교하게 재현했다.",
+  "sensory": "석재와 알루미늄이 빚어내는 단단한 물성과 빛의 반사, 그리고 거리의 보행자가 체감하는 입면의 깊이감이 스케일을 결정한다.",
+  "transfer": "오피스 파사드 디자인 시 유리의 투명도에만 의존하지 말고, 금속 주물과 석재를 결합해 입면에 물리적 깊이와 그림자를 만드는 레이어링 기법을 적용한다.",
+  "context": "닛켄 세케이는 세계적인 규모의 건축 설계사무소로, 이번 프로젝트를 통해 무라노 도고가 남긴 스키야 스타일의 현대적 해석을 계승했다. 무라노 도고는 300개 이상의 프로젝트를 수행하며 일본 근대 건축의 거장으로 평가받는다.",
+  "findings": [
+   {
+    "text": "닛켄 세케이는 2019년 기준 세계에서 두 번째로 큰 건축 설계 사무소다.",
+    "s": 1,
+    "quote": "As of 2019, Nikken Sekkei ranks as the second largest architectural practice in the world."
+   },
+   {
+    "text": "무라노 도고는 300개 이상의 프로젝트를 완수하며 일본 근대 건축의 거장으로 불린다.",
+    "s": 2,
+    "quote": "at the time of his death was responsible for over three hundred completed projects. ... he has been recognised as one of Japan's modern masters."
+   }
+  ],
+  "keywords": [
+   "닛켄세케이",
+   "무라노도고",
+   "파사드",
+   "오피스건축",
+   "도쿄건축"
+  ],
+  "evidence": "its pursuit of material richness, precision in facade composition, and responsiveness to the street suggested an architectural approach not solely dependent on style.",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "거장의 유산을 현대적 기술로 계승하는 구체적인 파사드 전략을 제시하며, 재료와 도시의 관계를 명확히 짚어낸다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1186086/yaesu-daibiru-office-building-nikken-sekkei",
+  "original_title": "Yaesu Daibiru Office Building / Nikken Sekkei",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 1277,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-04 11:08",
+  "research": {
+   "entities": [
+    "Nikken Sekkei",
+    "Togo Murano",
+    "KAJIMA CORPORATION",
+    "Yaesu Daibiru Office Building"
+   ],
+   "questions": [
+    "무라노 도고가 설계한 이전 야esu 다이빌딩의 건축적 특징과 파사드 디자인은 어떠했는가?",
+    "닛켄 세케이는 재개발 과정에서 기존 건물의 디자인 철학을 어떻게 계승하고 현대적으로 재해석했는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Nikken Sekkei",
+     "url": "https://en.wikipedia.org/wiki/Nikken%20Sekkei"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Togo Murano",
+     "url": "https://en.wikipedia.org/wiki/Togo%20Murano"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 779
+  },
+  "depth_raw": 4,
+  "depth_v": 2
  }
 }
