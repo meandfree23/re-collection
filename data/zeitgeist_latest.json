@@ -1,32 +1,38 @@
 {
-  "generated_at": "2026-10-05 11:34 KST",
+  "generated_at": "2026-10-05 18:34 KST",
   "period": "2026.09.28 - 2026.10.05",
-  "total_articles": 443,
+  "total_articles": 459,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 198
+      "count": 207
     },
     {
       "genre": "동시대 미술",
-      "count": 148
+      "count": 152
     },
     {
       "genre": "아방가르드 패션",
-      "count": 75
+      "count": 77
     },
     {
       "genre": "미디어 파사드·3D",
-      "count": 22
+      "count": 23
     }
   ],
   "themes": [
     {
       "keyword": "박물관·전시",
-      "count": 53,
+      "count": 54,
       "previous_count": 38,
       "trend": "rising",
       "items": [
+        {
+          "title": "식물 생명 전시회는 \"식물이 지배적 인 원천으로 돌아 오는\" 미래를 상상합니다.",
+          "url": "https://www.dezeen.com/2026/10/05/plat-life-nature-of-design-ngv-melbourne/",
+          "image_url": "https://static.dezeen.com/uploads/2026/10/ngv-plant-life-the-nature-of-design-exhibition-biomaterial-melbourne-australia_dezeen_1704_col_sq-852x852.jpg",
+          "source_name": "Dezeen"
+        },
         {
           "title": "Museum Vonk는 \"저렴한 바이오 기반 건설을 위한 시험장\" 입니다.",
           "url": "https://www.dezeen.com/2026/10/04/museum-vonk-studio-marco-vermeulen/",
@@ -44,12 +50,6 @@
           "url": "https://www.designboom.com/art/exhibitions-formats-experience-art-museums-interactive-immersive/",
           "image_url": "https://www.designboom.com/twitterimages/uploads/2026/09/exhibitions-formats-experience-art-museums-interactive-designboom-1200.jpg",
           "source_name": "Designboom Art"
-        },
-        {
-          "title": "토착 디자이너의 중요성과 영향력을 보여주는 새로운 포스터 전시회",
-          "url": "https://hyperallergic.com/new-poster-exhibition-showcases-the-importance-and-impact-of-indigenous-designers/",
-          "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/09/PH_HA_D2BR_Announcement-Image_1.jpg",
-          "source_name": "Hyperallergic"
         }
       ]
     },
@@ -118,6 +118,38 @@
       ]
     },
     {
+      "keyword": "가구 디자인",
+      "count": 7,
+      "previous_count": 8,
+      "trend": "steady",
+      "items": [
+        {
+          "title": "스파콘은 빈티지 덴마크 가구와 발견된 물건으로 서울의 덴마크 판을 채웁니다.",
+          "url": "https://www.dezeen.com/2026/10/05/edition-denmark-seoul-spacon-cafe-showroom/",
+          "image_url": "https://static.dezeen.com/uploads/2026/09/edition-denmark-spacon-seoul_dezeen_2364_col_sq-852x852.jpg",
+          "source_name": "Dezeen"
+        },
+        {
+          "title": "5가지 혁신적이고 실용적인 모듈식 가구 디자인",
+          "url": "https://www.dezeen.com/2026/10/04/innovative-practical-modular-furniture-designs/",
+          "image_url": "https://static.dezeen.com/uploads/2026/09/lozi-plywood-furniture-london-design-festival-modular-system-sq-852x852.jpg",
+          "source_name": "Dezeen"
+        },
+        {
+          "title": "라파엘 프리에토 (Rafael Prieto) 는 뉴욕 건물의 조각으로 가구를 만듭니다.",
+          "url": "https://www.dezeen.com/2026/10/02/rafael-prieto-the-future-of-the-past-emma-scully-gallery/",
+          "image_url": "https://static.dezeen.com/uploads/2026/10/rafael-prieto-new-york-emma-scully-gallery_dezeen_2364_sq-1-852x852.jpg",
+          "source_name": "Dezeen"
+        },
+        {
+          "title": "비실라 노하 (Bisila Noha) 의 도자기는 문화, 지역 사회 및 페미니즘에 의해 알려집니다.",
+          "url": "https://www.wallpaper.com/design-interiors/bisila-noha-tacchini-prize-winner-2026",
+          "image_url": "https://cdn.mos.cms.futurecdn.net/LpsRDN5noudZk8h5ThuphJ-1920-80.png",
+          "source_name": "Wallpaper*"
+        }
+      ]
+    },
+    {
       "keyword": "목재 건축",
       "count": 5,
       "previous_count": 4,
@@ -180,41 +212,10 @@
           "source_name": "Dazed"
         }
       ]
-    },
-    {
-      "keyword": "콘크리트 물성",
-      "count": 7,
-      "previous_count": 10,
-      "trend": "falling",
-      "items": [
-        {
-          "title": "Museum Vonk는 \"저렴한 바이오 기반 건설을 위한 시험장\" 입니다.",
-          "url": "https://www.dezeen.com/2026/10/04/museum-vonk-studio-marco-vermeulen/",
-          "image_url": "https://static.dezeen.com/uploads/2026/10/vonk-museum-studio-marco-vemeulen-architecture-public-eindhoven_dezeen_2364_sq-852x852.jpg",
-          "source_name": "Dezeen"
-        },
-        {
-          "title": "프리즈 조각에서 고전적인 조각과 공상 과학적 형태가 혼합된 3D 프린팅 콘크리트 조각품",
-          "url": "https://www.designboom.com/art/3d-printed-concrete-sculptures-classical-fragments-sci-fi-forms-frieze-sculpture-matyas-chochola/",
-          "image_url": "https://www.designboom.com/wp-content/dbsub/449140/2026-09-25/between-art-architecture-and-human-nature-1-6ab684bff35b6.jpg",
-          "source_name": "Designboom Art"
-        },
-        {
-          "title": "Rick Owens SS27에서 패션에 돌을 던지다",
-          "url": "https://www.dazeddigital.com/fashion/article/71100/1/rick-owens-ss27-paris-fashion-week-pfw-stone?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=fashion-gets-stoned-at-rick-owens-ss27",
-          "image_url": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/6/1456777.jpg",
-          "source_name": "Dazed"
-        },
-        {
-          "title": "1OAM 내부에는 ‘일하고, 만들고, 머물고, 먹고, 물건을 발견하고, 목욕할 수 있는’ 아테네 허브가 있습니다.",
-          "url": "https://www.wallpaper.com/architecture/1oam-eva-papadaki-interview-greece",
-          "image_url": "https://cdn.mos.cms.futurecdn.net/bLbD9diLQoKJru2W2qFEyZ-1920-80.jpg",
-          "source_name": "Wallpaper*"
-        }
-      ]
     }
   ],
   "notable_names": [
+    "Rodolphe Parente",
     "Rick Owens",
     "Busy Bodies",
     "Saint Laurent",
