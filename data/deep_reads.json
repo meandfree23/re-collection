@@ -119803,5 +119803,53 @@
   },
   "depth_raw": 3,
   "depth_v": 2
+ },
+ "archdaily.com/1186195/collab-cafe-and-concept-store-levelstudio": {
+  "title_ko": "카자흐스탄 알마티, 옛 소련 주거 건물의 현대적 변주: 콜랩 카페 & 컨셉 스토어",
+  "summary_ko": "레벨스튜디오(Levelstudio)가 카자흐스탄 알마티에 위치한 구소련 시대 주거 건물 1층과 지하를 카페와 컨셉 스토어가 공존하는 복합 공간으로 재구성했다. 기존 구조의 흔적을 현대적인 마감과 결합해 따뜻한 분위기를 연출했다.",
+  "lens": "구소련 시대의 단단하고 폐쇄적인 주거 구조를 열린 상업 공간으로 전환하며 과거의 뼈대와 현재의 기능을 어떻게 조율했는지 살핀다.",
+  "why_now": "도시의 역사적 층위를 보존하면서도 상업적 유연성을 확보하는 리모델링 방식이 중앙아시아 도시 재생의 주요 화두로 떠오르고 있다.",
+  "mechanism": "지하와 1층을 하나의 동선으로 엮어 수직적 연결감을 부여하고, 기존 주거 건물의 벽체와 기둥을 노출해 공간의 역사성을 유지한다.",
+  "sensory": "구소련 시대의 거친 콘크리트 질감과 대비되는 부드러운 조명과 현대적인 집기들이 시각적 온도를 조절한다.",
+  "transfer": "콘티 작업 시 낡은 주거지의 구조적 제약을 활용해, 좁은 복도나 낮은 천장을 오히려 아늑한 프라이빗 룸이나 전시 공간으로 전환하는 샷을 설계한다.",
+  "context": "레벨스튜디오는 카자흐스탄 알마티를 기반으로 활동하며 지역의 역사적 건축물을 현대적 감각으로 재해석하는 프로젝트를 진행하고 있다.",
+  "findings": [],
+  "keywords": [
+   "공간재생",
+   "알마티",
+   "레벨스튜디오",
+   "리모델링",
+   "복합문화공간"
+  ],
+  "evidence": "repurposes the ground floor and basement of an old Soviet-era residential building into a welcoming, modern establishment",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "구조적 변환의 구체적 기법이 상세히 기술되지 않았으나, 지역적 맥락을 반영한 재생 사례로서의 가치가 있다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1186195/collab-cafe-and-concept-store-levelstudio",
+  "original_title": "Collab Cafe & Concept Store / Levelstudio",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 1041,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-05 11:34",
+  "research": {
+   "entities": [
+    "Levelstudio",
+    "Collab Cafe & Concept Store",
+    "Bekzat Amanzhol",
+    "Anatoliy Popovich"
+   ],
+   "questions": [
+    "소비에트 시대의 주거용 건물을 현대적인 상업 공간으로 리모델링할 때 고려해야 할 구조적 제약은 무엇인가요?",
+    "카자흐스탄 알마티의 건축적 맥락에서 카페와 컨셉 스토어를 결합한 복합 문화 공간이 가지는 의미는 무엇인가요?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
  }
 }
