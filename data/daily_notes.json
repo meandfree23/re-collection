@@ -1643,5 +1643,68 @@
   "v": 3,
   "model": "gemini-3.5-flash-lite",
   "written_at": "2026-10-05 18:35"
+ },
+ "2026-10-06": {
+  "date": "2026-10-06",
+  "headline": "알루미늄 외골격과 녹슨 못의 파편",
+  "editorial": "댈러스의 1903년식 빅토리아 주택은 알루미늄 외골격으로 박제되어 역사적 건축물을 보존하는 새로운 형식을 보여준다. 샤리프 베이는 녹슨 못과 체인으로 형상화한 상흔을 신성한 흉상과 결합해 유물에 구체적 정체성을 부여한다. 프레디 야우너의 반셀피 미러마스크는 착용자를 주변 풍경의 일부로 포섭하며 도시와 개인의 관계를 비춘다.",
+  "threads": [
+   {
+    "name": "건축과 지형의 결합",
+    "note": "기존의 물리적 지형과 인공 구조물을 얽어매어 새로운 풍경을 구축한다.",
+    "items": [
+     {
+      "title": "댈러스의 1903년식 빅토리아 주택, 알루미늄 외골격으로 박제하다",
+      "url": "https://www.architecturaldigest.com/story/to-save-a-1903-home-this-architect-employed-an-out-there-solution-a-house-within-a-house"
+     },
+     {
+      "title": "농경의 경사지를 이어받은 지하 주택, 피시카",
+      "url": "https://leibal.com/interiors/fysika/"
+     },
+     {
+      "title": "애머스트 칼리지 학생 센터: 기존 지형을 잇는 수직적 교차로",
+      "url": "https://www.archdaily.com/1186190/ambherst-college-herzog-and-de-meuron-plus-sasaki"
+     },
+     {
+      "title": "피터 줌토르가 공원에 새긴 세 채의 건축 앙상블, 바이엘러 재단 확장",
+      "url": "https://www.archdaily.com/1186229/the-expanded-ensemble-of-the-fondation-beyeler-atelier-peter-zumthor"
+     },
+     {
+      "title": "노출 콘크리트 볼륨과 층층의 정원이 맞부딪히는 베트남 하우스 케이",
+      "url": "https://www.dezeen.com/2026/10/05/hgaa-house-k-vietnam/"
+     }
+    ]
+   },
+   {
+    "name": "오브제와 상흔의 기록",
+    "note": "버려지거나 잊힌 물질을 재조립하여 지나간 시간의 물성을 증명한다.",
+    "items": [
+     {
+      "title": "샤리프 베이, 도자기와 금속으로 빚은 역사적 정체성의 귀환",
+      "url": "https://www.thisiscolossal.com/2026/10/sharif-bey-homecoming-ceramic-sculptures/"
+     },
+     {
+      "title": "25년의 성장과 파국, 닉 헤임스의 방대한 기록",
+      "url": "https://www.itsnicethat.com/features/nick-haymes-chronograph-photography-spotlight-051026"
+     },
+     {
+      "title": "해방의 열기와 상실의 그늘: 스탠리 스텔라의 뉴욕 퀴어 아카이브",
+      "url": "https://www.dazeddigital.com/art-photography/article/71118/1/stanley-stellar-dont-worry-boys-photo-book-interview-new-york-queer?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=loving-lustful-portraits-from-new-york-s-west-village"
+     },
+     {
+      "title": "니콘 카메라로는 생명을 구할 수 없다, 종군기자 돈 매컬린의 마지막 기록",
+      "url": "https://www.anothermag.com/art-photography/17541/don-mccullin-interview-vietnam-war-photo-book-gost?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=don-mccullin-you-can-t-save-a-life-with-a-nikon-camera"
+     },
+     {
+      "title": "알루미늄의 구조미와 진주의 불규칙성, 루도비코 그란탈리아노의 바로코",
+      "url": "https://leibal.com/furniture/barocco/"
+     }
+    ]
+   }
+  ],
+  "based_on": 24,
+  "v": 3,
+  "model": "gemini-3.5-flash-lite",
+  "written_at": "2026-10-06 01:07"
  }
 }
