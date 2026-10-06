@@ -1709,49 +1709,45 @@
  },
  "2026-10-07": {
   "date": "2026-10-07",
-  "headline": "테이트 브리튼의 거친 필름과 자그레브의 수평적 콘크리트",
-  "editorial": "유르겐 텔러가 포착한 90년대 제작 현장의 날것은 예산과 자원의 한계를 정면으로 돌파한 기록이다. 니리치 아키텍티가 자그레브에서 선보인 두 주택 역시 도시의 엄격한 규제라는 제약을 수평적 배치와 수직적 증축으로 풀어내며 현장의 문법을 다시 쓴다. 에스파시오 코문이 강조하는 설계의 언어 또한 완공된 건물이 아닌 지역 건설 문화와 현장의 유동적인 수위를 읽어내는 과정에 있다. 이들은 모두 주어진 조건 안에서 몸으로 부딪쳐 얻어낸 결과물이다.",
+  "headline": "안도 다다오의 원형 곡면과 아이클러 주택의 황동 격자",
+  "editorial": "부르스 드 코메르스의 원형 공간을 거대한 페이지로 바꾼 바바라 크루거의 타이포그래피 설치는 건축적 구조물이 어떻게 거대한 텍스트의 장이 되는지 증명한다. 마린 카운티의 아이클러 주택은 바닥의 테라조 골재와 황동 격자를 통해 미드센추리 주택의 내부 좌표를 새롭게 짚어낸다. 자그레브의 니리치 아키텍티가 규제와 관습이라는 제약을 수평적 배치와 수직적 증축으로 돌파한 방식 또한 건축이 물리적 제약을 어떻게 도구로 삼는지 보여준다.",
   "threads": [
    {
-    "name": "제약이 만든 설계의 언어",
-    "note": "한정된 자원이나 도시의 엄격한 규제를 오히려 창작의 동력으로 삼아 현장의 논리를 구축하는 방식이다.",
+    "name": "건축적 구조와 공간의 변환",
+    "note": "원형 공간과 미드센추리 주택, 그리고 도시의 제약을 다루는 주거 유형이 어떻게 구조적 문법을 새롭게 쓰는지 살펴본다.",
     "items": [
      {
-      "title": "에드워드 에닌풀과 유르겐 텔러가 회고하는 1990년대의 날것과 제작의 연대기",
-      "url": "https://www.wallpaper.com/art/exhibitions-shows/back-to-the-90s-edward-enninful-and-juergen-teller-look-back-on-a-decade-defined-by-a-free-spirit-of-creative-collaboration"
+      "title": "바바라 크루거, 안도 다다오의 원형 공간을 텍스트의 장으로 재구성하다",
+      "url": "https://www.designboom.com/art/life-spectacle-barbara-kruger-tadao-ando-rotunda-monumental-texts-bourse-de-commerce-paris-remember-me-exhibition/"
+     },
+     {
+      "title": "마린 카운티의 아이클러 주택, 테라조와 황동 격렬로 다시 쓰다",
+      "url": "https://www.architecturaldigest.com/story/marin-county-midcentury-home-by-geremia-design"
      },
      {
       "title": "자그레브의 도시 문법을 재해석하는 니리치 아키텍티의 두 주택",
       "url": "https://www.wallpaper.com/architecture/residential/two-croatian-houses-zagreb-njiric-arhitekti"
-     },
-     {
-      "title": "장소의 조건에서 길어 올린 건축: 에스파시오 코문이 말하는 실무와 맥락",
-      "url": "https://www.archdaily.com/1186415/conference-architecture-shaped-by-place-espacio-comun-on-practice-people-and-context"
      }
     ]
    },
    {
-    "name": "도시와 일상을 잇는 물리적 구조",
-    "note": "건축물이 단순한 구조물을 넘어 주변 도시와 이웃의 동선을 어떻게 연결하고 확장하는지 다룬다.",
+    "name": "자연의 형상과 생태적 설계",
+    "note": "곤충의 외골격과 꽃의 구조를 건축과 시각 예술의 엔지니어링으로 치환하는 방식을 조명한다.",
     "items": [
      {
-      "title": "자그레브의 도시 문법을 재해석하는 니리치 아키텍티의 두 주택",
-      "url": "https://www.wallpaper.com/architecture/residential/two-croatian-houses-zagreb-njiric-arhitekti"
+      "title": "엘리자베타 포로디나, 생물 모방의 미학을 담은 곤충 초상화",
+      "url": "https://www.thisiscolossal.com/2026/10/elizaveta-porodina-photos-found-dreams/"
      },
      {
-      "title": "친척의 집과 관계를 맺는 노르웨이의 단독주택 빌라 리스",
-      "url": "https://www.archdaily.com/1186291/villa-ris-r21-arkitekter"
-     },
-     {
-      "title": "발렌시아의 일상을 건축으로 읽는 도시 축제, 오픈 하우스 발렌시아",
-      "url": "https://www.archdaily.com/1186406/open-house-valencia"
+      "title": "꽃의 형태를 구조와 기후 제어로 번역하는 전 세계 건축물",
+      "url": "https://www.architecturaldigest.com/story/beautiful-flower-inspired-buildings-across-the-globe"
      }
     ]
    }
   ],
-  "based_on": 11,
+  "based_on": 19,
   "v": 3,
-  "model": "gemini-3.1-flash-lite",
-  "written_at": "2026-10-07 00:13"
+  "model": "gemini-3.5-flash-lite",
+  "written_at": "2026-10-07 03:47"
  }
 }

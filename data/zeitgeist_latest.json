@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-10-07 00:12 KST",
+  "generated_at": "2026-10-07 03:46 KST",
   "period": "2026.09.30 - 2026.10.07",
-  "total_articles": 376,
+  "total_articles": 384,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 174
+      "count": 177
     },
     {
       "genre": "동시대 미술",
-      "count": 122
+      "count": 127
     },
     {
       "genre": "아방가르드 패션",
@@ -23,10 +23,16 @@
   "themes": [
     {
       "keyword": "박물관·전시",
-      "count": 46,
+      "count": 47,
       "previous_count": 43,
       "trend": "rising",
       "items": [
+        {
+          "title": "이들은 2027년 뉴 뮤지엄 트리엔날레의 예술가들입니다",
+          "url": "https://hyperallergic.com/these-are-the-artists-in-the-2027-new-museum-triennial/",
+          "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/10/5-Agnes-Questionmark.jpg",
+          "source_name": "Hyperallergic"
+        },
         {
           "title": "올 가을 메인주 박물관 2곳에서 칼 스프린콘 둘러보기",
           "url": "https://hyperallergic.com/discover-carl-sprinchorn-at-two-maine-museums-this-fall/",
@@ -44,21 +50,21 @@
           "url": "https://www.archdaily.com/1186349/bilbao-fine-arts-museum-foster-plus-partners",
           "image_url": "https://images.adsttc.com/media/images/6ac3/c0ba/27ac/8d01/89cb/b915/large_jpg/bilbao-fine-arts-museum-foster-plus-partners_3.jpg?1791213849",
           "source_name": "ArchDaily"
-        },
-        {
-          "title": "Obra Blanca 2026: 건축을 논의하기 위한 출발점으로서의 재료",
-          "url": "https://www.archdaily.com/1186362/obra-blanca-2026-materials-as-a-starting-point-for-discussing-architecture",
-          "image_url": "https://images.adsttc.com/media/images/6ab4/6374/e78f/b301/883c/f342/large_jpg/obra-blanca-2026-explora-el-futuro-de-los-acabados-arquitectonicos-los-materiales-y-el-diseno-en-ciudad-de-mexico_12.jpg?1790206867",
-          "source_name": "ArchDaily"
         }
       ]
     },
     {
       "keyword": "콘크리트 물성",
-      "count": 8,
+      "count": 9,
       "previous_count": 8,
       "trend": "steady",
       "items": [
+        {
+          "title": "‘인생은 스펙터클이 아니다’ 바바라 크루거, 안도 다다오의 로툰다를 기념비적인 텍스트로 포장하다",
+          "url": "https://www.designboom.com/art/life-spectacle-barbara-kruger-tadao-ando-rotunda-monumental-texts-bourse-de-commerce-paris-remember-me-exhibition/",
+          "image_url": "https://www.designboom.com/wp-content/uploads/2026/10/barbara-kruger-the-history-of-tears-bourse-de-commerce-remember-me-paris-designboom-1.jpg",
+          "source_name": "Designboom Art"
+        },
         {
           "title": "상하이 역사 지구 중심에 위치한 리노베이션 프로젝트/동치 디자인",
           "url": "https://www.archdaily.com/1039743/renovation-project-in-the-heart-of-shanghais-historic-area-dongqi-design",
@@ -75,12 +81,6 @@
           "title": "MVRDV는 모듈식 콘크리트 거리 가구를 \"예상치 못한 방식으로\" 점유하도록 설계합니다.",
           "url": "https://www.dezeen.com/2026/10/05/mvrdv-barcode-street-furniture-escofet/",
           "image_url": "https://static.dezeen.com/uploads/2026/10/mvrdv-barcode-street-furniture-escofet_dezeen_2364_col_3-852x852.jpg",
-          "source_name": "Dezeen"
-        },
-        {
-          "title": "Museum Vonk는 \"저렴한 바이오 기반 건설을 위한 시험장\" 입니다.",
-          "url": "https://www.dezeen.com/2026/10/04/museum-vonk-studio-marco-vermeulen/",
-          "image_url": "https://static.dezeen.com/uploads/2026/10/vonk-museum-studio-marco-vemeulen-architecture-public-eindhoven_dezeen_2364_sq-852x852.jpg",
           "source_name": "Dezeen"
         }
       ]
@@ -113,10 +113,16 @@
     },
     {
       "keyword": "사진",
-      "count": 9,
+      "count": 10,
       "previous_count": 15,
       "trend": "falling",
       "items": [
+        {
+          "title": "사진작가 Elizaveta Porodina가 빛나는 렌즈를 곤충으로 바꿉니다",
+          "url": "https://www.thisiscolossal.com/2026/10/elizaveta-porodina-photos-found-dreams/",
+          "image_url": "https://www.thisiscolossal.com/wp-content/uploads/2026/10/porodina-6.jpg",
+          "source_name": "This Is Colossal"
+        },
         {
           "title": "사라진 10년을 발굴하는 안젤라 힐",
           "url": "https://www.anothermag.com/art-photography/17548/angela-hill-elizabeth-idea-books?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=angela-hill-excavates-a-disappeared-decade",
@@ -134,21 +140,21 @@
           "url": "https://www.booooooom.com/2026/10/05/bang-up-job-by-photographer-jason-travis/",
           "image_url": "https://cdn.booooooom.com/wp-content/uploads/2026/08/Travis1.jpg",
           "source_name": "BOOOOOOOM"
-        },
-        {
-          "title": "폴 클레멘스, 로드리고 오타케와 함께하는 사진과 건축: 빛, 공간, 표현",
-          "url": "https://www.archdaily.com/1186312/photography-and-architecture-light-space-and-expression-with-paul-clemence-and-rodrigo-ohtake",
-          "image_url": "https://images.adsttc.com/media/images/6ac3/a783/07c3/d100/017f/d024/large_jpg/Residencia_Ibiuna-arq._Rodrigo_Ohtake-photos_Paul_Clemence___12__low_res.jpg?1791207339",
-          "source_name": "ArchDaily"
         }
       ]
     },
     {
       "keyword": "빛과 조명",
-      "count": 7,
+      "count": 8,
       "previous_count": 14,
       "trend": "falling",
       "items": [
+        {
+          "title": "사진작가 Elizaveta Porodina가 빛나는 렌즈를 곤충으로 바꿉니다",
+          "url": "https://www.thisiscolossal.com/2026/10/elizaveta-porodina-photos-found-dreams/",
+          "image_url": "https://www.thisiscolossal.com/wp-content/uploads/2026/10/porodina-6.jpg",
+          "source_name": "This Is Colossal"
+        },
         {
           "title": "활기찬 현지 동식물이 있는 아목섬의 기하학적 벽화 탐방",
           "url": "https://www.thisiscolossal.com/2026/10/amok-island-geometric-nature-murals/",
@@ -166,12 +172,6 @@
           "url": "https://www.wallpaper.com/watches-jewellery/i-wanted-to-create-an-effect-of-solid-light-solange-azagury-partridge-works-with-rock-crystal-in-a-mary-shelley-inspired-collection",
           "image_url": "https://cdn.mos.cms.futurecdn.net/3a7hB4t2bA57uiF57JwXh9-1920-80.jpg",
           "source_name": "Wallpaper*"
-        },
-        {
-          "title": "월트 디즈니 콘서트 홀에서 오케스트라 위에 매달려 있는 색이동 조명 조각",
-          "url": "https://www.designboom.com/art/color-shifting-light-sculpture-la-philharmonic-walt-disney-concert-hall-grimanesa-amoros/",
-          "image_url": "https://www.designboom.com/wp-content/dbsub/468327/2026-09-29/grimanesa-amoros-suspends-radiance-light-sculpture-installation-above-the-la-philharmonic-at-walt-disney-concert-hall-5-6abc0ac73d41c.jpg",
-          "source_name": "Designboom Art"
         }
       ]
     },
