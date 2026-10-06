@@ -126169,5 +126169,58 @@
   },
   "depth_raw": 4,
   "depth_v": 2
+ },
+ "stashmedia.tv/ronnie-koff-imaginary-forces-brush-up-on-abstraction-to-open-war-on-hbo": {
+  "title_ko": "추상 표현주의로 충돌의 본질을 새긴 HBO 워 오프닝",
+  "summary_ko": "이미지너리 포스(Imaginary Forces)의 크리에이티브 디렉터 로니 코프(Ronnie Koff)가 HBO 법정 드라마 워(WAR)의 메인 타이틀 시퀀스를 제작했다. 법원이나 변호사 같은 전통적인 도상 대신 추상 표현주의의 질감을 활용해 두 세력이 부딪히는 갈등을 시각화했다.",
+  "lens": "법정 드라마에서 법률 이미지를 지우고 붓질의 물리적 충돌만으로 투쟁의 감각을 직조한다.",
+  "why_now": "서사를 직접 설명하는 타이틀 대신 감각적 긴장감을 곧바로 전달하는 추상 연출이 주목받는 흐름을 보여준다.",
+  "mechanism": "물감을 다루는 행위를 링 위의 두 권투선수처럼 설정해 전진과 후퇴, 충돌과 분리의 서사를 페인트의 물성과 의도로 구현했다.",
+  "sensory": "화면을 가득 채운 물감의 두꺼운 질감과 거친 붓놀림을 통해 공격성과 긴장감이 날것 그대로 전달된다.",
+  "transfer": "인물의 대립을 직접 보여주기보다 두 가지 물질이 캔버스나 화면 위에서 충돌하고 섞이는 클로즈업 샷으로 긴장감을 연출한다.",
+  "context": "이미지너리 포스는 포니스와 영 셜록으로 메인 타이틀 에미상 후보에 올랐던 스튜디오다.",
+  "findings": [],
+  "keywords": [
+   "추상표현주의",
+   "이미지너리포스",
+   "타이틀시퀀스",
+   "HBO"
+  ],
+  "evidence": "Instead of showing lawyers, courtrooms or traditional imagery from the legal world, we visualized what happens when two opposing forces come up against one another.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "유명 스튜디오의 타이틀 시퀀스 제작 의도와 기법을 명확히 전달하나 새로운 제작 공정의 혁신까지는 이르지 않는다.",
+  "v": 2,
+  "url": "https://www.stashmedia.tv/ronnie-koff-imaginary-forces-brush-up-on-abstraction-to-open-war-on-hbo/",
+  "original_title": "Ronnie Koff & Imaginary Forces Brush Up on Abstraction to Open WAR on HBO",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 2934,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-06 12:34",
+  "research": {
+   "entities": [
+    "Imaginary Forces",
+    "Ronnie Koff",
+    "HBO"
+   ],
+   "questions": [
+    "추상 표현주의 기법이 HBO 드라마 WAR의 오프닝 타이틀 시퀀스에서 대립과 긴장감을 어떻게 시각적으로 전달하고 있는가?",
+    "Imaginary Forces의 크리에이티브 디렉터 Ronnie Koff가 법정 드라마에서 전통적인 법률 이미지를 배제하고 추상적 요소를 선택한 연출 의도는 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "HBO",
+     "url": "https://en.wikipedia.org/wiki/HBO"
+    }
+   ],
+   "used": [],
+   "chars": 1400
+  },
+  "depth_raw": 3,
+  "depth_v": 2
  }
 }
