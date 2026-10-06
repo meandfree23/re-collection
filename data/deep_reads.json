@@ -128744,5 +128744,812 @@
   },
   "depth_raw": 4,
   "depth_v": 2
+ },
+ "archdaily.com/1186291/villa-ris-r21-arkitekter": {
+  "title_ko": "친척의 집과 관계를 맺는 노르웨이의 단독주택 빌라 리스",
+  "summary_ko": "노르웨이 리스 지역에 완공된 320제곱미터 규모의 단독주택이다. 건축가 마르틴 스메드스루드가 이끄는 알이십일 아키텍테르가 설계를 맡았다. 소유주의 친척이 거주하는 이웃 집과의 관계를 확장하는 개념으로 기획되었다.",
+  "lens": "이웃한 친척의 집과 동선과 시선을 어떻게 엮어내는지 그 공간적 확장에 주목한다.",
+  "why_now": "독립된 필지에 머물던 주거 건축이 인접한 가계의 영역과 결합하는 새로운 사회적 관계망을 보여준다.",
+  "mechanism": "기존 친척 집과의 인접성을 활용해 두 가구 사이의 물리적 거리와 시선을 조정하는 방식으로 작동한다.",
+  "sensory": "노르웨이의 자연광이 인접한 두 주택 사이의 마당과 외벽 표면에 부드럽게 스며든다.",
+  "transfer": "공간을 설계할 때 단일 매스 대신 인접한 건축물과의 시선 교차점을 먼저 설정하는 연출에 활용한다.",
+  "context": "알이십일 아키텍테르가 노르웨이에서 진행한 주거 건축 프로젝트다.",
+  "findings": [],
+  "keywords": [
+   "노르웨이건축",
+   "단독주택",
+   "주거공간",
+   "건축디자인"
+  ],
+  "evidence": "The project proposes a single-family home for a family with children, conceived as an extension of the relationship with the neighboring house, which belongs to a relative of the owners.",
+  "kind": "프로젝트",
+  "depth": 2,
+  "grounding": "thin",
+  "depth_reason": "원문 설명이 짧고 구체적인 도면이나 재료 상세가 부족하여 평범한 소개에 그친다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1186291/villa-ris-r21-arkitekter",
+  "original_title": "Villa Ris / R21 Arkitekter",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 885,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-07 00:12",
+  "research": {
+   "entities": [
+    "R21 Arkitekter",
+    "Martin Smedsrud"
+   ],
+   "questions": [
+    "Villa Ris 프로젝트는 인접한 친척의 집과 어떤 관계를 맺고 확장되도록 설계되었는가?",
+    "노르웨이의 주거 건축에서 R21 Arkitekter가 추구하는 지속 가능성(Sustainability)의 특징은 무엇인가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "hyperallergic.com/discover-carl-sprinchorn-at-two-maine-museums-this-fall": {
+  "title_ko": "메인주의 두 박물관이 재조명하는 모더니스트 칼 스프린콘",
+  "summary_ko": "오건싯 미국미술관과 베이츠 칼리지 미술관이 스웨덴 출신 모더니즘 작가 칼 스프린콘의 대규모 회고전을 공동 개최한다. 이번 전시는 1900년대부터 1960년대까지 이어진 그의 드로잉, 파스텔, 유화 등 70여 점을 통해 노동과 자연, 이민자의 정체성을 포착한 작업 세계를 조명한다. 두 기관은 유니메인 출판사와 함께 공동 도록을 발간하여 작가의 예술적 궤적을 학술적으로 확장한다.",
+  "lens": "노동과 여가, 이민자의 소외와 자연의 경이 사이를 오간 회화적 기록.",
+  "why_now": "변방으로 밀려났던 20세기 초 미국 모더니스트의 궤적이 퀴어 역사와 이민자 정체성이라는 동시대적 의제로 재독해된다.",
+  "mechanism": "로버트 앙리에게 사사받은 대담한 펜 윤곽선과 순간의 감정을 포착하는 과감한 색채 운용으로 노동 현장의 역동성을 드러낸다.",
+  "sensory": "거친 나무꾼의 노동과 차가운 계절 풍경을 담은 파스텔과 수채화의 서정적 물성.",
+  "transfer": "인물의 동선과 노동하는 신체의 에너지를 포착하는 다큐멘터리적 앵글 구성에 참고한다.",
+  "context": "스웨덴에서 태어나 뉴욕에 정착한 칼 스프린콘은 마스든 하틀리, 찰스 데무스 등 당대 예술가들과 교류하며 미국 모더니즘의 흐름에 동참했다.",
+  "findings": [
+   {
+    "text": "칼 스프린콘은 1903년 뉴욕에 도착해 로버트 앙리에게 사사받았다.",
+    "s": 1,
+    "quote": "Born in Sweden and arriving in New York in 1903 to study with Robert Henri, Carl Sprinchorn (1887–1971) developed a wide-ranging practice informed by global travel and deep artistic community."
+   },
+   {
+    "text": "베이츠 칼리지 미술관 전시는 1900년대부터 1960년대까지의 드로잉, 파스텔, 수채화, 회화 70여 점으로 구성된다.",
+    "s": 2,
+    "quote": "Consisting of over seventy drawings, pastels, watercolors, and paintings from the collection at the Bates College Museum of Art, Carl Sprinchorn: Points of View chronicles the life and work of under-recognized modern art"
+   }
+  ],
+  "keywords": [
+   "칼 스프린콘",
+   "오건싯미술관",
+   "미국모더니즘",
+   "회고전"
+  ],
+  "evidence": "Carl Sprinchorn: All the World is a Painting is one of two major exhibitions devoted to an underrecognized voice in American modernism.",
+  "kind": "전시",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "두 미술관의 공동 전시와 도록 발간이라는 구체적인 사실을 다루나 전형적인 작가 회고전 소개에 가깝다.",
+  "v": 2,
+  "url": "https://hyperallergic.com/discover-carl-sprinchorn-at-two-maine-museums-this-fall/",
+  "original_title": "Discover Carl Sprinchorn at Two Maine Museums This Fall",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 3702,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-07 00:13",
+  "research": {
+   "entities": [
+    "Carl Sprinchorn",
+    "Ogunquit Museum of American Art",
+    "Bates College Museum of Art",
+    "Robert Henri",
+    "Marsden Hartley"
+   ],
+   "questions": [
+    "칼 스프린콘의 작품 세계에서 메인주(Maine)라는 지역적 배경이 갖는 예술적 의미는 무엇인가?",
+    "20세기 초 미국 모더니즘 예술 네트워크 내에서 칼 스프린콘이 가졌던 위치와 그의 정체성이 작품에 어떻게 투영되었는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Carl Sprinchorn: All the World is a Painting - Ogunquit Museum of American Art",
+     "url": "https://ogunquitmuseum.org/exhibition/carl-sprinchorn-all-the-world-is-a-painting/?ref=hyperallergic.com"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Carl Sprinchorn: Points of View",
+     "url": "https://www.bates.edu/museum/carl-sprinchorn-points-of-view/?ref=hyperallergic.com"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Carl Sprinchorn",
+     "url": "https://en.wikipedia.org/wiki/Carl%20Sprinchorn"
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "Ogunquit Museum of American Art",
+     "url": "https://en.wikipedia.org/wiki/Ogunquit%20Museum%20of%20American%20Art"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3
+   ],
+   "chars": 6751
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "archdaily.com/1186304/aia-southeast-asia-fall-symposium-2026-designing-for-resilience-regenerative-thinking-in-an-automated-age": {
+  "title_ko": "AIA 동남아시아 2026 가을 심포지엄: 자동화 시대의 재생적 설계",
+  "summary_ko": "미국건축가협회(AIA) 동남아시아 지부는 2026년 10월 23일 말레이시아 쿠알라룸푸르의 호워스 쇼룸과 온라인에서 가을 심포지엄을 개최한다. 이번 행사는 자동화된 시대에 건축이 지향해야 할 회복탄력성과 재생적 사고를 주제로 다룬다. 전 세계 건축가와 디자이너들이 모여 미래의 설계 방향을 논의한다.",
+  "lens": "자동화 기술의 고도화 속에서 건축이 생태적 회복과 재생을 다루는 방식을 짚어본다.",
+  "why_now": "자동화와 AI가 설계 프로세스를 빠르게 대체하는 시점에서, 건축이 환경적 위기에 대응하는 재생적 사고의 실천 방안을 묻기 때문이다.",
+  "mechanism": "온·오프라인 하이브리드 형식으로 진행되며, 쿠알라룸푸르의 물리적 공간과 글로벌 네트워크를 연결해 동시에 시각 자료와 담론을 송출한다.",
+  "sensory": "말레이시아 현장 쇼룸의 물리적 질감과 온라인 스트리밍 화면 사이의 시차 없는 공명 속에서 국제적 논의의 스케일이 전해진다.",
+  "transfer": "자동화 도구를 활용한 콘티 작업 시, 기술적 효율성 이면에 생태적 유지관리와 회복의 단계를 시각적 레이어로 중첩하는 연출에 활용한다.",
+  "context": "미국건축가협회(AIA)는 미국 워싱턴 D.C.에 본부를 둔 건축가 전문 조직으로 교육과 공공 아웃리치 프로그램을 제공한다.",
+  "findings": [
+   {
+    "text": "미국건축가협회(AIA)는 미국 내 건축가들을 위한 전문 조직이며 워싱턴 D.C.에 본부가 있다.",
+    "s": 1,
+    "quote": "The American Institute of Architects (AIA) is a professional organization for architects in the United States. It is headquartered in Washington, D.C."
+   }
+  ],
+  "keywords": [
+   "AIA동남아시아",
+   "회복탄력성",
+   "재생적사고",
+   "자동화시대",
+   "건축심포지엄"
+  ],
+  "evidence": "AIA Southeast Asia Fall Symposium 2026: Designing for Resilience, Regenerative Thinking in an Automated Age",
+  "kind": "행사·공모",
+  "depth": 2,
+  "grounding": "thin",
+  "depth_reason": "행사 개최 안내 공지 원문으로 구체적인 프로젝트 결과물이 없어 점수가 낮다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1186304/aia-southeast-asia-fall-symposium-2026-designing-for-resilience-regenerative-thinking-in-an-automated-age",
+  "original_title": "AIA Southeast Asia Fall Symposium 2026: Designing for Resilience, Regenerative Thinking in an Automated Age",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 910,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-07 00:13",
+  "research": {
+   "entities": [
+    "AIA Southeast Asia",
+    "Haworth",
+    "ArchDaily"
+   ],
+   "questions": [
+    "AIA Southeast Asia Fall Symposium 2026의 주요 기조연설자와 세부 프로그램은 무엇인가요?",
+    "자동화 시대의 재생적 사고(Regenerative Thinking)가 건축 설계와 회복력(Resilience)에 어떻게 적용되는지 다루는 주요 사례는 무엇인가요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "American Institute of Architects",
+     "url": "https://en.wikipedia.org/wiki/American%20Institute%20of%20Architects"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "ArchDaily",
+     "url": "https://en.wikipedia.org/wiki/ArchDaily"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "백송의 밀도 속에 심은 140제곱미터의 여름 거처",
+     "url": "https://www.archdaily.com/1185721/a-house-with-one-hundred-pines-luis-barandiaran"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "유토피아와 디스토피아 사이, 기후 전환을 상상하는 법",
+     "url": "https://www.archdaily.com/1185529/between-burning-forests-and-utopian-cities-designing-the-climate-transition"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "백만 제곱미터의 생태 축: 마드리드 푸에르타 데 마드리드 도시 계획 공모",
+     "url": "https://www.archdaily.com/1184822/jury-led-design-competition-for-sustainable-and-innovative-urban-planning-proposals-for-the-puerta-de-madrid-area-in-leganes-madrid"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 1411
+  },
+  "depth_raw": 2,
+  "depth_v": 2
+ },
+ "hyperallergic.com/bold-new-books-in-art-and-visual-culture-from-the-mit-press": {
+  "title_ko": "엠아이티 프레스가 제안하는 시각 문화의 재구성: 예술, 기술, 그리고 기록되지 않은 서사",
+  "summary_ko": "엠아이티 프레스(MIT Press)가 최근 출간한 예술 및 시각 문화 서적들은 동시대 예술과 기술이 사회적 담론을 형성하는 방식을 다룬다. 그레고리 숄렛의 활동주의 예술론부터 트랜스 미학을 결합한 건축 담론, 로우라이더 문화의 정치학까지, 주류 기록에서 소외된 주제를 조명하며 예술이 환경과 인간을 어떻게 상호 형성하는지 탐구한다.",
+  "lens": "예술을 단순한 미적 대상이 아닌, 사회적 균열을 드러내고 기록되지 않은 서사를 가시화하는 능동적인 도구로 재정의한다.",
+  "why_now": "디지털 스크린이 일상을 지배하는 시대에 예술이 어떻게 역사적 시간의 붕괴에 저항하고 새로운 연대적 서사를 구축할 수 있는지 질문한다.",
+  "mechanism": "비주류 문화와 기술을 결합해 기존의 건축적, 사회적 틀을 해체하고, 예술가의 개입을 통해 지배적인 환경을 재구성하는 방식을 취한다.",
+  "sensory": "로우라이더 문화의 현장감 넘치는 이미지와 스케이트보드 문화의 거친 질감, 스크린 시대의 비물질적 시각 정보가 교차하며 감각의 층위를 쌓는다.",
+  "transfer": "기존의 권위적인 서사 대신 특정 하위문화의 시각적 언어를 수집하여, 사회적 소수자의 경험을 다층적인 콜라주와 구술 기록으로 재구성하는 연출 방식을 제안한다.",
+  "context": "엠아이티 프레스는 매사추세츠 공과대학교의 출판부로서, 예술과 기술의 융합을 다루는 학술적 깊이를 유지하며 매년 300권 이상의 서적과 40개 이상의 학술지를 발행한다.",
+  "findings": [
+   {
+    "text": "엠아이티 프레스는 매사추세츠 공과대학교의 출판부이며 예술, 디자인, 건축을 포함한 광범위한 분야에서 학술 및 일반 서적을 매년 300권 이상 출판한다.",
+    "s": 1,
+    "quote": "The MIT Press publishes more than 300 books and over 40 academic journals each year, and pioneers open access models in academic publishing."
+   },
+   {
+    "text": "그레고리 숄렛은 뉴욕을 기반으로 활동하는 예술가이자 교육자로, 퀸즈 칼리지에서 조각과 사회적 실천을 가르치고 있다.",
+    "s": 2,
+    "quote": "Gregory Sholette is a New York-based artist, writer, educator, and activist. He is a Professor of Sculpture and Social Practice at Queens College, City University of New York."
+   }
+  ],
+  "keywords": [
+   "시각문화",
+   "사회적실천",
+   "미디어이론",
+   "하위문화"
+  ],
+  "evidence": "They probe visual and material culture —charting the power that runs through it — and refuse easy answers.",
+  "kind": "뉴스·이슈",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "출판물의 경향을 통해 현대 예술의 사회적 담론을 분석했으나, 개별 프로젝트의 구체적인 구현 방식보다는 서적 소개 위주로 구성되어 있다.",
+  "v": 2,
+  "url": "https://hyperallergic.com/bold-new-books-in-art-and-visual-culture-from-the-mit-press/",
+  "original_title": "Bold New Books in Art and Visual Culture from the MIT Press",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 4741,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-07 00:13",
+  "research": {
+   "entities": [
+    "MIT Press",
+    "Greg Sholette",
+    "Vilém Flusser",
+    "Guadalupe Rosales",
+    "Storefront for Art and Architecture"
+   ],
+   "questions": [
+    "MIT Press가 출판하는 예술 및 시각 문화 서적들이 현대 사회의 정치적, 사회적 담론을 어떻게 형성하고 있는가?",
+    "예술가들이 기술과 결합하여 자연과 사회의 관계를 재해석하는 방식은 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "MIT Press",
+     "url": "https://en.wikipedia.org/wiki/MIT%20Press"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Gregory Sholette",
+     "url": "https://en.wikipedia.org/wiki/Gregory%20Sholette"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 1338
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "thisiscolossal.com/2026/10/amok-island-geometric-nature-murals": {
+  "title_ko": "기하학 패턴으로 직조한 생태계, 아목섬의 거대 벽화",
+  "summary_ko": "암스테르담 출신이자 호주 프리맨틀에 거주하는 아목섬(Amok Island)은 지역 고유의 포유류, 갑각류, 식물을 거대한 기하학적 벽화로 그려낸다. 산업 시설과 도시 건축물 벽면에 새겨진 선명한 동식물 형상은 서식지 파괴 속에서 생물 다양성 보존의 중요성을 시각적으로 환기한다.",
+  "lens": "차가운 기하학적 그리드로 생태계의 복잡성을 해체하고 다시 조립한다.",
+  "why_now": "인간 활동으로 인한 서식지 손실과 기후 변화 속에서 생물 소멸 속도가 가속화되는 동시대적 위기를 공공 예술의 언어로 마주한다.",
+  "mechanism": "도시의 회색 콘크리트 인프라와 산업 시설 외벽에 날카로운 직선과 면으로 분할된 지역 자생 동식물을 채색해 시각적 충돌을 만든다.",
+  "sensory": "도시의 단조로운 철제 구조물 위로 펼쳐지는 원색의 생물 군집이 거친 무기물과 유기적 생명체 사이의 극적인 물성 대비를 이룬다.",
+  "transfer": "공간 무대 디자인이나 로케이션 촬영에서 회색빛 산업 구조물에 원색의 기하학적 생태 패턴을 겹쳐 인공물과 자연의 대조를 강조하는 샷으로 응용한다.",
+  "context": "암스테르담에서 태어나 현재 서호주 프리맨틀에 기반을 두고 활동하는 아목섬은 아머데일, 포트 헤들랜드, 레이븐스소프 등 호주 전역에서 메트로넷(Metronet) 및 폼(FORM) 등의 기관과 협력하여 지역 고유의 거북, 꿀먹이새, 식물을 공공 건축물에 작업해 왔다.",
+  "findings": [
+   {
+    "text": "아목섬은 서호주 아머데일에서 메트로넷의 위탁과 아파투스의 큐레이션으로 2025년 '긴네모거북' 작업을 진행했다.",
+    "s": 1,
+    "quote": "Armadale, Western Australia 2025 ‘Oblong Turtles’ Commissioned by Metronet, curated by Apparatus"
+   },
+   {
+    "text": "아목섬은 서호주 레이븐스소프에서 2021년 포뮬러원매니지먼트 및 폼의 위탁으로 '꿀먹이새' 벽화를 제작했다.",
+    "s": 1,
+    "quote": "Ravensthorpe, Western Australia 2021 ‘The Honey Eaters’ Commissioned by FQM and FORM"
+   }
+  ],
+  "keywords": [
+   "공공미술",
+   "기하학",
+   "생물다양성",
+   "벽화"
+  ],
+  "evidence": "For Amok Island, who was born in Amsterdam and is currently based in Fremantle, Western Australia, the fragility of the earth’s biodiversity plays a central role in vibrant, large-scale murals.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "지역 생태를 기하학적 벽화로 풀어내는 작가의 작업 방식을 구체적 사례와 함께 명확히 보여준다.",
+  "v": 2,
+  "url": "https://www.thisiscolossal.com/2026/10/amok-island-geometric-nature-murals/",
+  "original_title": "Amok Island’s Geometric Murals Teem with Vibrant Local Flora and Fauna",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 1843,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-07 00:13",
+  "research": {
+   "entities": [
+    "Amok Island",
+    "Ocean Census"
+   ],
+   "questions": [
+    "Amok Island가 자신의 벽화 작업을 통해 생물 다양성 보존이라는 메시지를 어떻게 시각적으로 전달하는가?",
+    "예술가가 특정 지역의 동식물을 소재로 선택하는 과정에서 지역 생태계에 대한 연구는 어떤 방식으로 이루어지는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "AMOK ISLAND",
+     "url": "https://www.amokisland.com/"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 493
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "dezeen.com/2026/10/06/bistro-parasol-paola-lenti-dezeen-showroom": {
+  "title_ko": "파올라 렌티의 비스트로 파라솔, 구조적 유연함으로 빚은 야외의 그늘",
+  "summary_ko": "가구 브랜드 파올라 렌티(Paola Lenti)가 올해 밀라노 디자인 위크에서 비스트로(Bistrò) 파라솔을 공개했다. 평평하거나 돔 형태의 차양을 선택할 수 있으며, 경사 조절 관절 유무에 따라 두 가지 사양으로 나뉜다. 알루미늄 기둥과 유리섬유 살대, 주철 무게추를 결합해 내구성을 확보했다.",
+  "lens": "단순한 차양을 넘어, 기하학적인 돔과 평면의 실루엣을 알루미늄과 유리섬유의 정교한 결합으로 구현해 야외 공간의 밀도를 높인다.",
+  "why_now": "야외 가구의 지속 가능성을 소재의 내구성과 미학적 일관성에서 찾는 브랜드의 철학이 반영된 결과물이다.",
+  "mechanism": "알루미늄 기둥과 유리섬유 살대를 사용해 경량화된 구조를 확보하고, 경사 조절 관절을 더해 태양의 위치에 따라 그늘의 각도를 능동적으로 조정한다.",
+  "sensory": "매트하거나 광택이 나는 알루미늄 질감과 마드라스, 탐일 등 다채로운 색감의 패브릭이 대비되며, 가장자리의 장식적인 플론스(flounces)가 빛 아래 부드러운 그림자를 만든다.",
+  "transfer": "야외 촬영 시 파라솔의 경사 조절 기능을 활용해 피사체에 떨어지는 빛의 각도를 인위적으로 제어하고, 플론스 디테일을 통해 프레임 가장자리에 리듬감을 부여하는 샷을 구성한다.",
+  "context": "파올라 렌티는 30년 이상 소재 연구와 실험을 통해 야외 가구의 미학을 정립해 왔다. 상파울루 플래그십에서 보여준 식물과 금속의 유기적 결합처럼, 이번 비스트로 파라솔 역시 기능적인 금속 구조 위에 브랜드 고유의 텍스타일 감각을 덧입히는 방식을 고수한다.",
+  "findings": [
+   {
+    "text": "파올라 렌티는 30년 넘게 소재 연구와 실험을 통해 독창적이고 일관된 미학을 구축해왔다.",
+    "s": 2,
+    "quote": "Over more than thirty years, research, experimentation and design culture have shaped a distinctive, coherent and enduring aesthetic."
+   }
+  ],
+  "keywords": [
+   "파올라렌티",
+   "야외가구",
+   "밀라노디자인위크",
+   "파라솔",
+   "산업디자인"
+  ],
+  "evidence": "Bistrò comes in two iterations, either with a flat- or dome-shaped sunshade assembled with or without an inclination joint.",
+  "kind": "제품·오브제",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "제품의 구조와 소재를 명확히 설명하나, 기능적 혁신보다는 브랜드의 기존 미학을 야외 가구에 안착시킨 사례로 판단한다.",
+  "v": 2,
+  "url": "https://www.dezeen.com/2026/10/06/bistro-parasol-paola-lenti-dezeen-showroom/",
+  "original_title": "Bistrò parasol by Paola Lenti",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 1229,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-07 00:13",
+  "research": {
+   "entities": [
+    "Paola Lenti",
+    "Bistrò",
+    "Milan design week"
+   ],
+   "questions": [
+    "파올라 렌티(Paola Lenti)의 비스트로(Bistrò) 파라솔이 가진 디자인적 특징과 소재의 차별점은 무엇인가?",
+    "밀라노 디자인 위크에서 선보인 파올라 렌티의 야외용 가구 트렌드는 어떤 방향성을 가지고 있는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Parasole Bistrò, piatto o a cupola - Paola Lenti - Outdoor",
+     "url": "https://www.paolalenti.it/en/prodotto/bistro-parasol/"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Paola Lenti | Exclusive Outdoor and Indoor Furniture",
+     "url": "https://www.paolalenti.it/en/"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "밀라노 디자인 위크를 향한 무대, 돔무스 아카데미의 언폴드 2027 공모",
+     "url": "https://www.archdaily.com/1184653/unfold-2027-call-for-design-schools-to-showcase-at-milan-design-week"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "식물로 엮은 건축, 파올라 렌티 상파울루 플래그십",
+     "url": "https://design-milk.com/paola-lenti-sao-paulo-flagship/"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    4
+   ],
+   "chars": 1910
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "archdaily.com/1186415/conference-architecture-shaped-by-place-espacio-comun-on-practice-people-and-context": {
+  "title_ko": "장소의 조건에서 길어 올린 건축: 에스파시오 코문이 말하는 실무와 맥락",
+  "summary_ko": "건축 매체 아크데일리(ArchDaily) 편집장 크리스텔 하루크가 페루의 건축 그룹 에스파시오 코문(Espacio Común)의 공동 창립자 파울라 비야 파스토르와 대담을 진행한다. 이번 강연은 아크데일리 2026 올해의 건축물 수상작인 '무유나페스트 2025 메인 플로팅 스테이지'를 중심으로, 특정 장소의 물성·생활 방식·지식 체계가 어떻게 건축적 도구가 되는지 논의한다.",
+  "lens": "완공된 건축물의 결과값보다, 현장의 유동적인 수위와 지역 건설 문화를 읽어내고 이를 설계의 언어로 치환하는 실무적 적응 과정을 주목한다.",
+  "why_now": "글로벌 미디어가 주목하는 로컬 건축이 단순히 시각적 새로움을 넘어, 지역의 생태적 조건과 어떻게 협업하는지 그 방법론을 확인해야 한다.",
+  "mechanism": "페루 아마존의 변동하는 수위와 지역적 구축 방식을 분석하여, 부유하는 구조체를 통해 장소의 물리적 한계를 건축적 창의성으로 전환한다.",
+  "sensory": "강물과 함께 움직이는 구조체의 유동적인 스케일과, 현지 재료가 가진 거친 질감이 만들어내는 장소 특유의 밀도를 상상하게 한다.",
+  "transfer": "현장 조사를 통해 얻은 지역의 구축 데이터(지형, 수위, 재료)를 설계의 제약이 아닌 디자인의 핵심 기제로 삼는 워크플로우를 콘티에 적용한다.",
+  "context": "아크데일리는 전 세계 건축 프로젝트와 담론을 아카이빙하는 매체로, 이번 강연은 로컬 프로젝트가 글로벌 플랫폼을 통해 어떻게 보편적인 건축적 가치로 읽히는지 탐구한다. 이는 RE:COLLECTION이 과거 다룬 기후 적응형 건축이나 도시 계획 사례와 맥락을 같이한다.",
+  "findings": [
+   {
+    "text": "아크데일리는 건축 뉴스, 프로젝트, 제품, 이벤트 등을 다루는 웹사이트로 산티아고에 본사를 두고 있다.",
+    "s": 1,
+    "quote": "ArchDaily is a website covering architectural news, projects, products, events, interviews and competitions, opinion pieces, among others, catering to architects, designers and other interested parties."
+   }
+  ],
+  "keywords": [
+   "에스파시오코문",
+   "아크데일리",
+   "장소성",
+   "건축방법론",
+   "로컬건축"
+  ],
+  "evidence": "how architecture can emerge from the conditions, knowledge, and ways of life present in a specific place.",
+  "kind": "행사·공모",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "특정 프로젝트의 방법론을 다루지만, 강연 형식의 정보 전달에 집중되어 있어 실무적 깊이에는 한계가 있다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1186415/conference-architecture-shaped-by-place-espacio-comun-on-practice-people-and-context",
+  "original_title": "Conference: \"Architecture Shaped by Place: Espacio Común on Practice, People, and Context\"",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 2052,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-07 00:13",
+  "research": {
+   "entities": [
+    "Espacio Común",
+    "Christele Harrouk",
+    "Paula Villa Pastor",
+    "Daniel Canchán",
+    "ArchDaily"
+   ],
+   "questions": [
+    "페루아마존 지역의 환경적 특성과 지역 건축 문화가 Espacio Común의 'Muyunafest 2025' 메인 플로팅 스테이지 디자인에 어떻게 반영되었는가?",
+    "지역 사회를 기반으로 한 건축 프로젝트가 글로벌 독자들로부터 호응을 얻고 올해의 건축물 상을 수상하게 된 배경은 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "ArchDaily",
+     "url": "https://en.wikipedia.org/wiki/ArchDaily"
+    },
+    {
+     "n": 2,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "백송의 밀도 속에 심은 140제곱미터의 여름 거처",
+     "url": "https://www.archdaily.com/1185721/a-house-with-one-hundred-pines-luis-barandiaran"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "유토피아와 디스토피아 사이, 기후 전환을 상상하는 법",
+     "url": "https://www.archdaily.com/1185529/between-burning-forests-and-utopian-cities-designing-the-climate-transition"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "백만 제곱미터의 생태 축: 마드리드 푸에르타 데 마드리드 도시 계획 공모",
+     "url": "https://www.archdaily.com/1184822/jury-led-design-competition-for-sustainable-and-innovative-urban-planning-proposals-for-the-puerta-de-madrid-area-in-leganes-madrid"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 985
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "archdaily.com/1186412/announcement-of-the-finalists-for-the-european-prize-for-urban-public-space": {
+  "title_ko": "유럽 도시 공공 공간상 2026 최종 후보 발표",
+  "summary_ko": "바르셀로나 현대문화센터(CCCB)는 10월 14일 CCCB 오디토리움에서 2026년 유럽 도시 공공 공간상 최종 후보작 발표 행사를 개최한다. 행사에 참여한 저자들은 기후 위기 대응과 생태 복원을 위한 도시 중재 전략을 직접 설명한다.",
+  "lens": "기후 위기와 도시 생태 복원을 다루는 공공 공간의 실제 중재 전략을 드러낸다.",
+  "why_now": "도시 공간이 단순한 조경을 넘어 기후 위기에 대응하는 실질적 생태 복원 기지로 작동하는 방식을 확인하는 자리다.",
+  "mechanism": "최종 후보작의 저자들이 직접 무대에 올라 도시 삶의 질 개선과 사회적 연대를 위한 개입 방식을 발표하고 심사위원단의 질의에 대응한다.",
+  "sensory": "오디토리움이라는 제한된 공간 안에서 도시 단위의 방대한 생태 전략과 건축적 개입이 발표와 토론을 통해 압축적으로 전달된다.",
+  "transfer": "도시 환경을 배경으로 한 공간 다큐멘터리나 무대 미장센을 구상할 때, 생태적 중재와 사회적 연대라는 주제를 구체적인 서사 장치로 편입한다.",
+  "context": "바르셀로나 현대문화센터(CCCB)를 비롯한 유럽 7개 기관이 주관하는 유럽 도시 공공 공간상은 도시 문화를 조명하기 위해 2000년에 제정된 격년제 상이다.",
+  "findings": [
+   {
+    "text": "유럽 도시 공공 공간상은 2000년에 제정된 격년제 상이다.",
+    "s": 1,
+    "quote": "The European Prize for Urban Public Space is a biennial award established in 2000 to recognise public space projects."
+   },
+   {
+    "text": "바르셀로나 현대문화센터(CCCB)는 스페인 바르셀로나 라발 지구에 위치한 예술 센터다.",
+    "s": 2,
+    "quote": "The Centre de Cultura Contemporània de Barcelona (also known by its acronym, CCCB) is an arts centre in Barcelona, Catalonia, Spain. Situated in the Raval district"
+   }
+  ],
+  "keywords": [
+   "공공공간",
+   "도시중재",
+   "생태복원",
+   "바르셀로나현대문화센터"
+  ],
+  "evidence": "The CCCB invites you to the presentation of the finalists for the 2026 European Prize for Urban Public Space",
+  "kind": "행사·공모",
+  "depth": 2,
+  "grounding": "partial",
+  "depth_reason": "행사 개최 공지 안내에 해당하며 구체적인 수상작 내용보다 발표 일정 위주로 구성되어 있다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1186412/announcement-of-the-finalists-for-the-european-prize-for-urban-public-space",
+  "original_title": "Announcement of the Finalists for the European Prize for Urban Public Space",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 1152,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-07 00:13",
+  "research": {
+   "entities": [
+    "European Prize for Urban Public Space",
+    "CCCB"
+   ],
+   "questions": [
+    "유럽 도시 공공 공간상(European Prize for Urban Public Space)의 선정 기준과 역대 주요 수상작은 무엇인가요?",
+    "CCCB(바르셀로나 현대문화센터)는 도시 공공 공간과 관련하여 어떤 활동을 주도하고 있나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "European Prize for Urban Public Space",
+     "url": "https://en.wikipedia.org/wiki/European%20Prize%20for%20Urban%20Public%20Space"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Centre de Cultura Contemporània de Barcelona",
+     "url": "https://en.wikipedia.org/wiki/Centre%20de%20Cultura%20Contempor%C3%A0nia%20de%20Barcelona"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 963
+  },
+  "depth_raw": 2,
+  "depth_v": 2
+ },
+ "wallpaper.com/art/exhibitions-shows/back-to-the-90s-edward-enninful-and-juergen-teller-look-back-on-a-decade-defined-by-a-free-spirit-of-creative-collaboration": {
+  "title_ko": "에드워드 에닌풀과 유르겐 텔러가 회고하는 1990년대의 날것과 제작의 연대기",
+  "summary_ko": "테이트 브리튼에서 열리는 전시 'The 90s: Art and Fashion'을 기념해 큐레이터 에드워드 에닌풀과 사진가 유르겐 텔러가 대담을 나눴다. 이들은 인터넷과 스마트폰이 없던 시절, 잡지 '아이디(i-D)'에서 협업하며 겪은 제작 과정과 런던의 레이브 문화, 당시의 결핍이 오히려 창의성을 자극했던 시대적 배경을 회상한다.",
+  "lens": "화려한 향수가 아닌, 예산과 자원의 제약 속에서 몸으로 부딪치며 이미지의 문법을 새로 쓰던 90년대 제작 현장의 날것을 조명한다.",
+  "why_now": "디지털 과잉 시대에, 물리적 제약이 오히려 실험을 가능케 했던 90년대의 제작 방식을 소환해 창작의 본질을 묻는다.",
+  "mechanism": "텔러는 대상의 인위적인 연출을 배제하고 플래시를 직접 활용해 인물의 생생한 질감을 포착하며, 에닌풀은 이러한 시각 언어를 패션 화보의 문법으로 이식해 상업적 틀을 깼다.",
+  "sensory": "거친 질감의 필름 사진, 플래시 조명이 만들어낸 인물의 피부와 주변 공간의 대비, 클럽과 길거리에서 포착한 날것의 에너지가 전시를 관통한다.",
+  "transfer": "상업적 제약이 강할 때, 오히려 인물을 스튜디오로 불러들여 '고-시즈(Go-Sees)'처럼 인물의 개별성에 집중하는 개념적 초상 작업으로 돌파구를 마련하라.",
+  "context": "에드워드 에닌풀은 18세에 i-D의 패션 디렉터로 시작해 보그의 편집장을 거친 인물이다. 유르겐 텔러는 90년대부터 음악과 패션의 경계를 지우며 사진의 개념적 확장을 이끌었다. 두 사람의 협업은 당시 영국 문화의 주류와 비주류를 잇는 중요한 가교 역할을 했다.",
+  "findings": [
+   {
+    "text": "에드워드 에닌풀은 18세의 나이에 잡지 i-D의 패션 디렉터로 임명되어 20년 이상 재직했다.",
+    "s": 2,
+    "quote": "He was appointed fashion director of the British fashion magazine i-D at the age of 18, a position he held for more than two decades."
+   }
+  ],
+  "keywords": [
+   "유르겐 텔러",
+   "에드워드 에닌풀",
+   "90년대 패션",
+   "테이트 브리튼",
+   "이미지 아카이브"
+  ],
+  "evidence": "We wanted to play. What also really works is the photograph of her turning round on the cover of Wallpaper*. It's like turning round into the 90s kind of thing",
+  "kind": "전시",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "큐레이터와 작가의 직접적인 대담을 통해 당시의 제작 환경과 철학을 구체적으로 파악할 수 있어 정보의 밀도가 높다.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/art/exhibitions-shows/back-to-the-90s-edward-enninful-and-juergen-teller-look-back-on-a-decade-defined-by-a-free-spirit-of-creative-collaboration",
+  "original_title": "Back to the '90s: Edward Enninful and Juergen Teller remember the decade's freedom, chaos and creativity",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 9000,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-07 00:13",
+  "research": {
+   "entities": [
+    "Edward Enninful",
+    "Juergen Teller",
+    "i-D",
+    "The Face",
+    "Kurt Cobain"
+   ],
+   "questions": [
+    "1990년대 패션과 음악 신에서 에드워드 에닌풀과 유르겐 텔러가 협업한 매거진과 대표적인 작업물은 무엇인가?",
+    "기사에서 언급된 1990년대 문화적 배경과 오늘날의 현대 패션 사진 아카이브 전시 간의 연관성은 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "The 90s: Art and Fashion | Tate Britain",
+     "url": "https://www.tate.org.uk/whats-on/tate-britain/the-90s?_gl=1*wft0dq*_up*MQ..*_gs*MQ..&gclid=Cj0KCQjwuJLWBhD_ARIsAIBcRUxWPFD4xOPSgT3c_Hz36om5EJbnGKit6xrpSM5zzFYR5oJdOYyXCdAaAkqoEALw_wcB&gbraid=0AAAAA9TfA_sf8L9G0h7hUNztfh3Lwp-73"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Edward Enninful",
+     "url": "https://en.wikipedia.org/wiki/Edward%20Enninful"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Juergen Teller",
+     "url": "https://en.wikipedia.org/wiki/Juergen%20Teller"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "에드워드 에닌풀이 소환하는 1990년대의 날것과 진정성",
+     "url": "https://www.dazeddigital.com/fashion/article/70894/1/edward-enninful-the-90s-art-and-fashion-exhibition-tate-britain-kate-moss?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=edward-enninful-on-the-90s-if-there-were-phones-we-d-all-be-cancelled"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "90년대 레이브의 이면, 빈카 피터슨이 포착한 공동체의 돌봄",
+     "url": "https://www.dazeddigital.com/art-photography/article/71049/1/vinca-petersen-no-system-unseen-free-parties-rave-culture-90s-edward-enninful?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=in-pictures-the-real-story-of-the-90s-rave-scene-is-about-love"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "chars": 4775
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "archdaily.com/1186406/open-house-valencia": {
+  "title_ko": "발렌시아의 일상을 건축으로 읽는 도시 축제, 오픈 하우스 발렌시아",
+  "summary_ko": "오픈 하우스 발렌시아는 도시의 상징적인 건축물 내부를 무료로 공개하는 국제 건축 및 도시 축제다. 2026년 10월 23일부터 25일까지 8회 행사가 열리며, 사티바와 코센타이나 등 4개 지자체가 참여해 9월부터 11월까지 다양한 위성 프로그램을 운영한다.",
+  "lens": "건축을 박제된 전시물이 아닌 도시의 일상적 동선으로 끌어들여 시민이 직접 공간의 구조를 경험하게 한다.",
+  "why_now": "전 세계 60여 개 도시와 연결된 오픈 하우스 네트워크는 건축을 전문가의 영역에서 공공의 자산으로 전환하는 흐름을 보여준다.",
+  "mechanism": "비공개 공간의 문을 여는 물리적 개방과 가이드 투어를 결합해 건축물의 기능과 구조를 대중에게 직접 전달한다.",
+  "sensory": "평소 접근할 수 없던 공간의 재료감과 내부 동선을 직접 밟으며 도시의 스케일을 체감한다.",
+  "transfer": "공간을 기록할 때 내부의 구조적 특징을 강조하는 가이드 투어 형식의 롱테이크 샷을 활용해 현장감을 높인다.",
+  "context": "오픈 하우스 발렌시아는 국제적인 오픈 하우스 월드와이드 네트워크의 일환으로 기획되었다.",
+  "findings": [],
+  "keywords": [
+   "건축축제",
+   "도시재생",
+   "오픈하우스",
+   "발렌시아"
+  ],
+  "evidence": "Open House Valencia is an international architecture and urbanism festival that opens the doors to some of València's most iconic buildings",
+  "kind": "행사·공모",
+  "depth": 2,
+  "grounding": "partial",
+  "depth_reason": "단순한 행사 안내에 가까우며, 구체적인 건축적 담론이나 독창적인 연출 방식에 대한 정보가 부족하다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1186406/open-house-valencia",
+  "original_title": "Open House Valencia",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 1237,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-07 00:13",
+  "research": {
+   "entities": [
+    "Open House Worldwide"
+   ],
+   "questions": [
+    "Open House Valencia 페스티벌은 어떤 역사와 배경을 가지고 시작되었나요?",
+    "이번 8회 페스티벌에 참여하는 게스트 지자체와 주요 프로그램은 무엇인가요?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 2,
+  "depth_v": 2
+ },
+ "wallpaper.com/architecture/residential/two-croatian-houses-zagreb-njiric-arhitekti": {
+  "title_ko": "자그레브의 도시 문법을 재해석하는 니리치 아키텍티의 두 주택",
+  "summary_ko": "자그레브 기반의 건축 스튜디오 니리치 아키텍티(Njirić+ arhitekti)의 파트너 흐르보예 니리치(Hrvoje Njirić)와 이스크라 필리포비치(Iskra Filipović)가 각각 자신의 주택을 완공했다. 더블 빌라 부코바츠(Double-Villa Bukovac)는 낮은 밀도의 주거 유형을 제안하며 도시 규제에 대응하고, 페트로바 140(Petrova 140)은 기존 건물의 구조를 보존하며 수직 증축을 통해 도시 맥락을 유지한다.",
+  "lens": "두 주택은 규제와 관습이라는 도시의 제약을 정면으로 다루며, 낮은 밀도의 수평적 배치와 기존 구조를 활용한 수직적 증축이라는 극명한 대비를 보여준다.",
+  "why_now": "도시 재개발이 획일화되는 시점에, 기존 지형과 맥락을 보존하면서도 건축가의 이론적 주장을 투영하는 개별 주택의 설계 방식은 유효한 대안이 된다.",
+  "mechanism": "더블 빌라 부코바츠는 타공 벽돌과 케이블 트레이 메쉬를 사용하여 외관의 무게감을 덜어내고, 페트로바 140은 경량 프리패브 강철 구조를 적용해 하부 기존 건물의 하중 부담을 줄였다.",
+  "sensory": "더블 빌라 부코바츠는 남동쪽의 개방된 통유리창을 통해 도시를 조망하며, 페트로바 140은 톱니 모양의 지붕 아래 높은 천장고를 확보하여 내부 공간에 빛을 깊숙이 끌어들인다.",
+  "transfer": "기존 건물의 구조를 유지해야 하는 증축 프로젝트 시, 강철 소재의 경량 구조체를 활용해 하중을 최소화하고 톱니형 지붕으로 채광 경로를 확보하는 방식을 고려할 수 있다.",
+  "context": "흐르보예 니리치는 팔라디오의 대칭성과 케이스 스터디 하우스 프로그램의 실험성을 주택 설계에 반영했다. 페트로바 140은 자그레브의 무분별한 재개발 흐름에 대한 비판적 응답으로, 기존 건물의 물리적 기억을 보존하는 데 중점을 둔다.",
+  "findings": [
+   {
+    "text": "더블 빌라 부코바츠는 올해 유럽 현대건축상(EU Mies Awards) 최종 후보에 올랐다.",
+    "s": 1,
+    "quote": "The European Union Prize for Contemporary Architecture – Mies van der Rohe Award is a prize given biennially by the European Union and the Fundació Mies van der Rohe"
+   },
+   {
+    "text": "더블 빌라 부코바츠는 찰스 & 레이 임스의 임스 하우스와 같은 케이스 스터디 하우스 프로그램의 영향을 받았다.",
+    "s": 2,
+    "quote": "The Eames House (also known as Case Study House No. 8) is a historic house museum at 203 Chautauqua Boulevard in the Pacific Palisades neighborhood of Los Angeles, California, United States."
+   }
+  ],
+  "keywords": [
+   "니리치아키텍티",
+   "자그레브건축",
+   "주거유형",
+   "도시재생",
+   "프리패브"
+  ],
+  "evidence": "a vision of reimagining the green foothills of Zagreb for a lower-density residential typology.",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "두 파트너의 주택을 통해 서로 다른 도시적 문제의식과 그에 따른 구체적인 건축적 해법을 명확히 제시하고 있다.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/architecture/residential/two-croatian-houses-zagreb-njiric-arhitekti",
+  "original_title": "Two new Croatian houses showcase the architectural approach of Njirić+ arhitekti",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 5048,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-07 00:13",
+  "research": {
+   "entities": [
+    "Njirić+ arhitekti",
+    "Hrvoje Njirić",
+    "Iskra Filipović",
+    "EU Mies Awards",
+    "Eames House"
+   ],
+   "questions": [
+    "Double-Villa Bukovac는 자그레브의 도시 마스터플랜에 대해 어떤 건축적 비판과 대안을 제시하고 있는가?",
+    "두 파트너인 Hrvoje Njirić와 Iskra Filipović의 주택은 서로 다른 부지 환경과 설계 철학을 어떻게 시각화하고 있는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "European Union Prize for Contemporary Architecture",
+     "url": "https://en.wikipedia.org/wiki/European%20Union%20Prize%20for%20Contemporary%20Architecture"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Eames House",
+     "url": "https://en.wikipedia.org/wiki/Eames%20House"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 2800
+  },
+  "depth_raw": 4,
+  "depth_v": 2
  }
 }

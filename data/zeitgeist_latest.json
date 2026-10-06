@@ -1,32 +1,38 @@
 {
-  "generated_at": "2026-10-06 23:23 KST",
-  "period": "2026.09.29 - 2026.10.06",
-  "total_articles": 456,
+  "generated_at": "2026-10-07 00:12 KST",
+  "period": "2026.09.30 - 2026.10.07",
+  "total_articles": 376,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 214
+      "count": 174
     },
     {
       "genre": "동시대 미술",
-      "count": 146
+      "count": 122
     },
     {
       "genre": "아방가르드 패션",
-      "count": 73
+      "count": 63
     },
     {
       "genre": "미디어 파사드·3D",
-      "count": 23
+      "count": 17
     }
   ],
   "themes": [
     {
       "keyword": "박물관·전시",
-      "count": 52,
+      "count": 46,
       "previous_count": 43,
       "trend": "rising",
       "items": [
+        {
+          "title": "올 가을 메인주 박물관 2곳에서 칼 스프린콘 둘러보기",
+          "url": "https://hyperallergic.com/discover-carl-sprinchorn-at-two-maine-museums-this-fall/",
+          "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/09/Plate128_Blue-Ice-Forest---Shin-Pond--Maine.jpg",
+          "source_name": "Hyperallergic"
+        },
         {
           "title": "Foster + Partners, 다리 같은 갤러리가 있는 빌바오 미술관 확장",
           "url": "https://www.dezeen.com/2026/10/06/foster-partners-bilbao-fine-arts-museum/",
@@ -44,20 +50,14 @@
           "url": "https://www.archdaily.com/1186362/obra-blanca-2026-materials-as-a-starting-point-for-discussing-architecture",
           "image_url": "https://images.adsttc.com/media/images/6ab4/6374/e78f/b301/883c/f342/large_jpg/obra-blanca-2026-explora-el-futuro-de-los-acabados-arquitectonicos-los-materiales-y-el-diseno-en-ciudad-de-mexico_12.jpg?1790206867",
           "source_name": "ArchDaily"
-        },
-        {
-          "title": "카모디 그로어크 (Carmody Groarke) 와 아타마 (ATAMA) 의 디자인 박물관 겐트 (Gent) 가 새로운 날개",
-          "url": "https://www.archdaily.com/1186376/design-museum-gent-reopens-with-new-wing-by-carmody-groarke-and-atama",
-          "image_url": "https://images.adsttc.com/media/images/6ac4/0948/90e2/9d01/89d2/e18f/large_jpg/design-museum-gent_21.jpg?1791232558",
-          "source_name": "ArchDaily"
         }
       ]
     },
     {
       "keyword": "콘크리트 물성",
-      "count": 9,
-      "previous_count": 7,
-      "trend": "rising",
+      "count": 8,
+      "previous_count": 8,
+      "trend": "steady",
       "items": [
         {
           "title": "상하이 역사 지구 중심에 위치한 리노베이션 프로젝트/동치 디자인",
@@ -86,10 +86,10 @@
       ]
     },
     {
-      "keyword": "목재 건축",
-      "count": 6,
-      "previous_count": 4,
-      "trend": "rising",
+      "keyword": "레스토랑·호스피탈리티",
+      "count": 3,
+      "previous_count": 3,
+      "trend": "steady",
       "items": [
         {
           "title": "나무가 무성한 파리지앵 레스토랑을 알리는 스피릿 오브 이베리아식 선술집",
@@ -98,30 +98,88 @@
           "source_name": "Dezeen"
         },
         {
-          "title": "반티에겜 탈레비의 목재 '하우스 오브 카드’ 는 친숙한 형태로 플레이됩니다.",
-          "url": "https://www.wallpaper.com/architecture/residential/vantieghem-talebis-timber-house-of-cards-plays-with-a-familiar-form",
-          "image_url": "https://cdn.mos.cms.futurecdn.net/zhNmVfiSdm2f8K2jYnnEiC-1920-80.jpg",
+          "title": "셰프가 알려주는 콘월 요리 가이드",
+          "url": "https://www.wallpaper.com/travel/restaurants/a-chefs-guide-to-cornwall",
+          "image_url": "https://cdn.mos.cms.futurecdn.net/NUKWKeytZJQyNreutN5djF-1920-80.jpg",
           "source_name": "Wallpaper*"
         },
         {
-          "title": "엔터 아르치 (Enter-Archi) 의 야카미 (Yakami) 의 부서진 지붕 꼭대기 목조 주택",
-          "url": "https://www.dezeen.com/2026/10/02/house-yakami-enter-archi-japan/",
-          "image_url": "https://static.dezeen.com/uploads/2026/10/house-yakami-enter-archi-japan_dezeen_2364_col_0-852x852.jpg",
-          "source_name": "Dezeen"
+          "title": "스카이워커 그릴 (Skywalker Grill) 에서는 루카스 박물관 (Lucas Museum) 의 미래형 레스토랑인 포스 (force) 와 음료가 강렬합니다.",
+          "url": "https://www.wallpaper.com/travel/restaurants/skywalker-grill-lucas-museum-restaurant-review",
+          "image_url": "https://cdn.mos.cms.futurecdn.net/iNru9aTYbgsSpWmanBPSYS-1920-80.jpg",
+          "source_name": "Wallpaper*"
+        }
+      ]
+    },
+    {
+      "keyword": "사진",
+      "count": 9,
+      "previous_count": 15,
+      "trend": "falling",
+      "items": [
+        {
+          "title": "사라진 10년을 발굴하는 안젤라 힐",
+          "url": "https://www.anothermag.com/art-photography/17548/angela-hill-elizabeth-idea-books?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=angela-hill-excavates-a-disappeared-decade",
+          "image_url": "https://images-prod.anothermag.com/786/azure/another-prod/470/9/479161.jpg",
+          "source_name": "AnOther Magazine"
         },
         {
-          "title": "화이트 브릭 확장은 디자인 박물관 겐트 개편을 정의합니다",
-          "url": "https://www.dezeen.com/2026/10/01/carmody-groarke-design-museum-gent/",
-          "image_url": "https://static.dezeen.com/uploads/2026/10/design-museum-gent-carmody-groarke-atama-belgium-sq_dezeen_2364_col_1-852x852.jpg",
-          "source_name": "Dezeen"
+          "title": "엘리자베타 포로디나 (Elizaveta Porodina): “외로움이 나를 예술로 이끌었다”",
+          "url": "https://www.anothermag.com/art-photography/17544/elizaveta-porodina-found-dreams-interview-photo-book?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=elizaveta-porodina-loneliness-catapulted-me-into-art-making",
+          "image_url": "https://images-prod.anothermag.com/786/azure/another-prod/470/9/479123.jpg",
+          "source_name": "AnOther Magazine"
+        },
+        {
+          "title": "사진작가 제이슨 트래비스의 '뱅업 잡 (Bang-Up Job)'",
+          "url": "https://www.booooooom.com/2026/10/05/bang-up-job-by-photographer-jason-travis/",
+          "image_url": "https://cdn.booooooom.com/wp-content/uploads/2026/08/Travis1.jpg",
+          "source_name": "BOOOOOOOM"
+        },
+        {
+          "title": "폴 클레멘스, 로드리고 오타케와 함께하는 사진과 건축: 빛, 공간, 표현",
+          "url": "https://www.archdaily.com/1186312/photography-and-architecture-light-space-and-expression-with-paul-clemence-and-rodrigo-ohtake",
+          "image_url": "https://images.adsttc.com/media/images/6ac3/a783/07c3/d100/017f/d024/large_jpg/Residencia_Ibiuna-arq._Rodrigo_Ohtake-photos_Paul_Clemence___12__low_res.jpg?1791207339",
+          "source_name": "ArchDaily"
+        }
+      ]
+    },
+    {
+      "keyword": "빛과 조명",
+      "count": 7,
+      "previous_count": 14,
+      "trend": "falling",
+      "items": [
+        {
+          "title": "활기찬 현지 동식물이 있는 아목섬의 기하학적 벽화 탐방",
+          "url": "https://www.thisiscolossal.com/2026/10/amok-island-geometric-nature-murals/",
+          "image_url": "https://www.thisiscolossal.com/wp-content/uploads/2026/10/amok-8.jpeg",
+          "source_name": "This Is Colossal"
+        },
+        {
+          "title": "Preciosa의 시그니처 디자인은 디자이너에게 창의적인 자유를 제공합니다",
+          "url": "https://design-milk.com/preciosa-signature-designs/",
+          "image_url": "https://design-milk.com/images/2026/09/PRECIOSA_Lighting_Visualization_RawCrystal_Table_VK-6-1280x900-1.jpg",
+          "source_name": "Design Milk"
+        },
+        {
+          "title": "'나는 단단한 빛의 효과를 만들고 싶었다' – Solange Azagury-Partridge는 Mary Shelley에서 영감을 얻은 컬렉션에서 암석 크리스탈로 작업합니다.",
+          "url": "https://www.wallpaper.com/watches-jewellery/i-wanted-to-create-an-effect-of-solid-light-solange-azagury-partridge-works-with-rock-crystal-in-a-mary-shelley-inspired-collection",
+          "image_url": "https://cdn.mos.cms.futurecdn.net/3a7hB4t2bA57uiF57JwXh9-1920-80.jpg",
+          "source_name": "Wallpaper*"
+        },
+        {
+          "title": "월트 디즈니 콘서트 홀에서 오케스트라 위에 매달려 있는 색이동 조명 조각",
+          "url": "https://www.designboom.com/art/color-shifting-light-sculpture-la-philharmonic-walt-disney-concert-hall-grimanesa-amoros/",
+          "image_url": "https://www.designboom.com/wp-content/dbsub/468327/2026-09-29/grimanesa-amoros-suspends-radiance-light-sculpture-installation-above-the-la-philharmonic-at-walt-disney-concert-hall-5-6abc0ac73d41c.jpg",
+          "source_name": "Designboom Art"
         }
       ]
     },
     {
       "keyword": "가구 디자인",
-      "count": 8,
-      "previous_count": 7,
-      "trend": "steady",
+      "count": 6,
+      "previous_count": 8,
+      "trend": "falling",
       "items": [
         {
           "title": "MVRDV는 모듈식 콘크리트 거리 가구를 \"예상치 못한 방식으로\" 점유하도록 설계합니다.",
@@ -148,81 +206,15 @@
           "source_name": "Dezeen"
         }
       ]
-    },
-    {
-      "keyword": "리노베이션·재생",
-      "count": 7,
-      "previous_count": 8,
-      "trend": "steady",
-      "items": [
-        {
-          "title": "\"뒷면 벗겨진\" 리노베이션을 진행 중인 로얄 컬리지 오브 아트 켄싱턴 캠퍼스",
-          "url": "https://www.dezeen.com/2026/10/06/royal-college-art-kensington-campus-renovation/",
-          "image_url": "https://static.dezeen.com/uploads/2026/10/royal-college-art-renovation-witherford-watson-mann-clementine-blakemore-architects-london-architecture_dezeen_1704_sq-852x852.jpg",
-          "source_name": "Dezeen"
-        },
-        {
-          "title": "상하이 역사 지구 중심에 위치한 리노베이션 프로젝트/동치 디자인",
-          "url": "https://www.archdaily.com/1039743/renovation-project-in-the-heart-of-shanghais-historic-area-dongqi-design",
-          "image_url": "https://images.adsttc.com/media/images/69ba/7b25/6e66/7900/01ef/d828/large_jpg/dongqi_by_Yasu_Kojima1.jpg?1773828939",
-          "source_name": "ArchDaily"
-        },
-        {
-          "title": "청수이 명상 수련 센터/RESP 스튜디오",
-          "url": "https://www.archdaily.com/1040166/qing-shui-meditation-retreat-center-resp-studio",
-          "image_url": "https://images.adsttc.com/media/images/69cc/6e59/bacd/cd01/89fe/c1c0/large_jpg/qing-shui-meditation-retreat-center-pan-china-star-resp-studio_4.jpg?1775005301",
-          "source_name": "ArchDaily"
-        },
-        {
-          "title": "뉴욕 스튜디오 스쿨에서 페인트칠만 하는 것은 아닙니다.",
-          "url": "https://hyperallergic.com/paint-isnt-just-paint-at-the-new-york-studio-school/",
-          "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/09/Tears-of-No-Return--180x230-cm--Oil-on-Canvas--2020--Bendix-Harms.jpg",
-          "source_name": "Hyperallergic"
-        }
-      ]
-    },
-    {
-      "keyword": "해변·리조트 건축",
-      "count": 5,
-      "previous_count": 5,
-      "trend": "steady",
-      "items": [
-        {
-          "title": "Kriskadecor는 다채로운 체인 외관으로 디즈니의 그래픽 유산에 고개를 끄덕입니다.",
-          "url": "https://www.dezeen.com/2026/10/02/kriskadecor-disneys-graphic-heritage-chain-facade/",
-          "image_url": "https://static.dezeen.com/uploads/2026/09/Kriskadecor_dezeen_2364_col_0-852x852.jpg",
-          "source_name": "Dezeen"
-        },
-        {
-          "title": "집에서 즐기는 줄리 앤드류스: 그녀가 가장 좋아하는 장소 몇 군데에서 찍은 영국 전설 사진 10장",
-          "url": "https://www.architecturaldigest.com/story/julie-andrews-at-home-photos-of-the-british-legend-in-a-few-of-her-favorite-places",
-          "image_url": "https://media.architecturaldigest.com/photos/6ab7e9f53cb3e166ce4bddfc/master/pass/97321242",
-          "source_name": "Architectural Digest"
-        },
-        {
-          "title": "예술가 캐롤라인 워커와 함께하는 수영 연습",
-          "url": "https://www.anothermag.com/art-photography/17517/caroline-walker-interview-wet-exhibition-musee-des-beaux-arts-le-locle?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=artist-caroline-walker-on-swimming-practise",
-          "image_url": "https://images-prod.anothermag.com/786/azure/another-prod/470/8/478308.jpg",
-          "source_name": "AnOther Magazine"
-        },
-        {
-          "title": "JQY 하우스/안드레 베커",
-          "url": "https://www.archdaily.com/1186107/jqy-house-andre-becker",
-          "image_url": "https://images.adsttc.com/media/images/6abd/6524/122d/aa00/0196/fd2d/large_jpg/37-23629-abpa-juquei-0128-web.jpg?1790797256",
-          "source_name": "ArchDaily"
-        }
-      ]
     }
   ],
   "notable_names": [
+    "Paola Lenti",
     "Bilbao Fine Arts Museum",
     "Es Devlin",
     "Fondation Beyeler",
     "Rodolphe Parente",
-    "Rick Owens",
-    "Busy Bodies",
-    "Saint Laurent",
-    "Dezeen Awards"
+    "Rick Owens"
   ],
   "has_comparison": true
 }
