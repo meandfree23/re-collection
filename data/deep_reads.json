@@ -124762,5 +124762,1412 @@
   },
   "depth_raw": 3,
   "depth_v": 2
+ },
+ "hyperallergic.com/pope-leo-calls-to-save-art-from-ai": {
+  "title_ko": "교황 레오 14세, 통계적 기계 계산에 맞서는 예술의 존재론적 차이를 선언하다",
+  "summary_ko": "교황 레오 14세는 바티칸 콘시스토리 홀에서 열린 회의에서 인공지능이 가져오는 동질화의 위협에 맞서 예술가들과의 동맹을 갱신하겠다고 밝혔다. 교황은 기계가 수백만 개의 이미지를 통계적으로 계산해 산출하는 것과 예술 사이에는 미학 이전의 존재론적 차이가 존재한다고 강조했다. 또한 패티 스미스가 베니스 비엔날레 교황청 파빌리온에서 선보인 사운드 설치처럼, 예술이 인간의 내면적 질문을 수신하는 안테나 역할을 해야 한다고 덧붙였다.",
+  "lens": "통계적 평균값으로 인간의 감각을 평준화하는 알고리즘에 맞서, 예술이 지닌 고유한 존재론적 균열의 지점을 직시한다.",
+  "why_now": "즉각적인 답변을 내놓는 검색 엔진과 기술적 속도가 지배하는 시대에, 예술이 지닌 근본적인 회의와 질문의 가치를 재확인하는 자리다.",
+  "mechanism": "기계의 데이터 색인 방식과 달리, 인간의 내밀한 질문을 포착하는 안테나처럼 작동하여 사유의 깊이를 만들어낸다.",
+  "sensory": "속도와 효율이 지배하는 차가운 디지털 환경 속에서 인간의 고유한 숨결과 목소리라는 촉각적 질감을 회복한다.",
+  "transfer": "기계적인 효율성과 속도감을 연출의 전면에 내세우는 대신, 인물의 미세한 망설임과 정지 화면 같은 사색적 호흡을 롱테이크로 포착한다.",
+  "context": "바티칸의 디카스테리움은 최근 몇 년간 베니스 비엔날레와 주데카섬의 여자 교도소 파빌리온 등 현대미술 프로젝트를 통해 예술가들과의 협력을 이어왔다.",
+  "findings": [
+   {
+    "text": "예술은 검색 엔진처럼 색인하는 방식으로 작동하지 않고 탐구의 방식으로 움직이며 인간의 심장의 질문을 수신하는 안테나 역할을 한다.",
+    "s": 1,
+    "quote": "like an antenna, art is receptive to the great questions of the human heart — sometimes like a cry, more often like a whisper — and makes them audible, visible and shareable."
+   }
+  ],
+  "keywords": [
+   "인공지능",
+   "존재론적차이",
+   "베니스비엔날레",
+   "바티칸파빌리온",
+   "예술의가치"
+  ],
+  "evidence": "There is an ontological difference — even before an aesthetic one — between art and what a machine can generate through statistical calculation based on millions of images created by others",
+  "kind": "뉴스·이슈",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "종교적 수장과 동시대 예술의 관계를 다룬 담론 중심의 뉴스이나, AI 시대 예술의 정의를 짚는 맥락이 선명하다.",
+  "v": 2,
+  "url": "https://hyperallergic.com/pope-leo-calls-to-save-art-from-ai/",
+  "original_title": "Pope Leo Calls to Save Art From AI",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 2708,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-06 10:55",
+  "research": {
+   "entities": [
+    "Patti Smith",
+    "Venice Biennale",
+    "Dicastery for Culture and Education",
+    "Catholic Church"
+   ],
+   "questions": [
+    "교황 레오 14세가 인공지능(AI) 시대 예술의 가치와 인간의 지적 창의성에 대해 강조한 핵심 메시지는 무엇인가?",
+    "바티칸과 예술계의 새로운 동맹은 구체적으로 어떤 문화적·예술적 활동으로 이어질 것인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "To the Artists participating in the Meeting promoted by the Dicastery for Culture and Educ",
+     "url": "https://www.vatican.va/content/leo-xiv/en/speeches/2026/october/documents/20261002-artisti-dce.html?ref=hyperallergic.com"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Patti Smith",
+     "url": "https://en.wikipedia.org/wiki/Patti%20Smith"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Venice Biennale",
+     "url": "https://en.wikipedia.org/wiki/Venice%20Biennale"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "브루어 빌딩과 아모리 쇼가 드러낸 뉴욕 아트페어의 풍경",
+     "url": "https://hyperallergic.com/should-you-sit-out-the-armory-show/"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "소리의 정치를 체화하는 폴란드 파빌리온의 감각적 번역",
+     "url": "https://hyperallergic.com/the-polish-pavilion-dissolves-you-in-the-politics-of-sound/"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "베니스 비엔날레 국가관, 정치적 상징인가 전시의 스펙터클인가",
+     "url": "https://hyperallergic.com/the-worst-national-pavilions-at-the-venice-biennale/"
+    }
+   ],
+   "used": [
+    1,
+    3
+   ],
+   "chars": 5542
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "stashmedia.tv/perfect-stranger-appoints-tony-kadillak-as-head-of-client-partnerships": {
+  "title_ko": "퍼펙트 스트레인저, 토니 카딜락 영입으로 클라이언트 파트너십 강화",
+  "summary_ko": "호넷(Hornet)의 글로벌 통합 크리에이티브사 퍼펙트 스트레인저(Perfect Stranger)가 토니 카딜락(Tony Kadillak)을 고객 파트너십 책임자로 임명했다. 카딜락은 브랜드 전략부터 제작까지 전 과정을 아우르며 장기적인 클라이언트 관계 구축을 주도할 예정이다.",
+  "lens": "브랜드의 마케팅 전략을 비즈니스 성장과 직결시키기 위해, 창의적 제작 역량과 클라이언트 신뢰를 결합하는 운영 모델을 제시한다.",
+  "why_now": "디지털 시장의 소음 속에서 브랜드가 생존하려면 단순한 광고 제작을 넘어, 전략적 일관성과 장기적 파트너십을 통한 브랜드 정체성 구축이 필수적이다.",
+  "mechanism": "호넷이 보유한 25년의 제작 전문성에 퍼펙트 스트레인저의 전략적 기획력을 더해, 전략 수립부터 디자인, 애니메이션 제작까지 전 과정을 통합 관리한다.",
+  "sensory": "데이터와 전략을 시각적 정체성으로 치환하여, 브랜드의 복잡한 메시지를 명확하고 응집력 있는 그래픽 시스템으로 구현한다.",
+  "transfer": "광고 기획 시 클라이언트의 비즈니스 목표를 반영한 장기 전략 시스템을 구축하고, 제작 단계에서 이를 관통하는 시각적 장치를 설계하여 일관성을 확보한다.",
+  "context": "퍼펙트 스트레인저는 호넷의 자회사로서 에이전시급 전략 사고와 프로덕션 역량을 결합한다. 과거 코단샤(Kodansha)와 딜로이트(Deloitte) 프로젝트에서 브랜드 정체성을 재정의하는 시스템을 구축한 바 있다.",
+  "findings": [
+   {
+    "text": "퍼펙트 스트레인저는 코단샤의 브랜드 정체성을 재정의하고 소호에 팝업 공간을 조성하여 커뮤니티를 구축했다.",
+    "s": 1,
+    "quote": "Our culture-building platform transformed Kodansha from cult publisher to cultural powerhouse, driving historic engagement and redefining the brand for the US market 2 years in a row."
+   },
+   {
+    "text": "딜로이트 프로젝트에서는 브랜드의 녹색 점을 움직이고 확장하는 스토리텔링 장치로 활용하여 파편화된 시스템을 통합했다.",
+    "s": 1,
+    "quote": "We infused Deloitte's iconic green dot with new purpose—an expressive storytelling device that could move, multiply, expand, and contract."
+   }
+  ],
+  "keywords": [
+   "퍼펙트스트레인저",
+   "호넷",
+   "브랜드전략",
+   "클라이언트파트너십"
+  ],
+  "evidence": "Perfect Stranger, the global integrated creative company from Hornet, today announces the appointment of Tony Kadillak as Head of Client Partnerships.",
+  "kind": "뉴스·이슈",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "인사 영입이라는 단일 사건을 넘어 모회사와의 시너지와 구체적인 브랜드 전략 구축 방식을 다루고 있다.",
+  "v": 2,
+  "url": "https://www.stashmedia.tv/perfect-stranger-appoints-tony-kadillak-as-head-of-client-partnerships/",
+  "original_title": "Hornet’s Perfect Stranger Appoints Tony Kadillak Head of Client Partnerships",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 3694,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-06 10:55",
+  "research": {
+   "entities": [
+    "Hornet",
+    "Tony Kadillak",
+    "Daniel Fries"
+   ],
+   "questions": [
+    "Perfect Stranger는 모회사인 Hornet의 제작 전문성과 어떻게 차별화되는가?",
+    "Tony Kadillak이 합류함으로써 Perfect Stranger의 글로벌 클라이언트 파트너십 전략에 어떤 변화가 생기는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Stranger By Design",
+     "url": "https://perfectstranger.co/"
+    },
+    {
+     "n": 2,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "호넷, 크리스토퍼 러틀리지와 크리에이티브 컬렉티브 '아말가메이션' 영입",
+     "url": "https://www.stashmedia.tv/hornet-adds-christopher-rutledge-and-his-amalgamation-collective-to-roster/"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 2853
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "hyperallergic.com/elaina-richardson-looks-back-at-26-years-as-president-of-yaddo": {
+  "title_ko": "야도를 이끈 26년의 기록, 엘레이나 리처드슨의 퇴임",
+  "summary_ko": "미국 뉴욕주 사라토가 스프링스의 유서 깊은 예술가 휴양지 야도(Yaddo)를 26년간 이끈 엘레이나 리처드슨이 회장직에서 물러난다. 패션 잡지 엘르의 편집장 출신인 그는 재임 기간 동안 기부금을 늘리고 거주 작가 풀을 다변화하며 재정적 위기를 극복했다. 그의 후임으로는 구겐하임 미술관의 시라 레벤슨이 선임되었다.",
+  "lens": "예술 기관의 생존은 화려한 수사학이 아니라 탄탄한 재정 구조와 운영의 투명성에서 온다.",
+  "why_now": "100주년을 맞이한 역사적인 예술가 레지던시가 새로운 리더십으로 전환하며 시대적 변화에 대응하고 있다.",
+  "mechanism": "400에이커의 광활한 대지 속에서 예술가들이 외부 단절 없이 창작에만 몰두할 수 있는 물리적 환경을 구축했다.",
+  "sensory": "뉴욕주 사라토가 스프링스의 숲과 오래된 대저택이 품은 고요한 침묵 속에서 오직 작업에만 집중하는 정적인 풍경.",
+  "transfer": "예술가 인터뷰나 다큐멘터리 연출 시, 화려한 미장센 대신 인물의 직설적이고 군더더기 없는 대사와 공간의 사실적 질감을 그대로 포착한다.",
+  "context": "1881년 금융업자 스펜서 트래스크(Spencer Trask)와 작가 카트리나 트래스크가 매입한 400에이커 규모의 부지에 설립된 야도는 제임스 볼드윈, 실비아 플라스 등 수많은 거장을 배출했다.",
+  "findings": [
+   {
+    "text": "야도는 뉴욕주 사라토가 스프링스의 400에이커 부지에 위치한 예술가 커뮤니티다.",
+    "s": 1,
+    "quote": "Yaddo is an artists' community located on a 400-acre (160-hectare) estate in Saratoga Springs, New York."
+   },
+   {
+    "text": "스펜서 트래스크는 1896년 뉴욕 타임스를 재조직하며 대주주이자 회장이 되었다.",
+    "s": 2,
+    "quote": "In 1896 he reorganized The New York Times, becoming its majority shareholder and chairman."
+   },
+   {
+    "text": "뉴욕 사라토가 스프링스의 야도가 구겐하임 미술관의 시라 레벤슨을 차기 회장으로 선임했다.",
+    "s": 3,
+    "quote": "뉴욕 사라토가 스프링스의 야도(Yaddo)가 구겐하임 미술관의 시라 레벤슨을 차기 회장으로 선임했다."
+   }
+  ],
+  "keywords": [
+   "야도",
+   "예술가레지던시",
+   "엘레이나리처드슨",
+   "시라레벤슨"
+  ],
+  "evidence": "After 26 years at the helm of Yaddo, the storied artist retreat currently celebrating its 100th anniversary, Elaina Richardson is moving on.",
+  "kind": "작가·인터뷰",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "유서 깊은 예술 기관의 장기 집권 리더십 교체와 운영 성과를 다루나 인터뷰의 깊이가 다소 제한적이다.",
+  "v": 2,
+  "url": "https://hyperallergic.com/elaina-richardson-looks-back-at-26-years-as-president-of-yaddo/",
+  "original_title": "Elaina Richardson Looks Back at 26 Years as President of Yaddo",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 3354,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-06 10:55",
+  "research": {
+   "entities": [
+    "Yaddo",
+    "Elaina Richardson",
+    "Cyra Levenson",
+    "Spencer Trask",
+    "Katrina Trask"
+   ],
+   "questions": [
+    "야도(Yaddo)가 지난 100년 동안 예술가들에게 어떤 방식으로 창작 환경을 제공해 왔으며, 그 역사적 가치는 무엇인가요?",
+    "엘레이나 리처드슨이 재임 기간 동안 야도의 재정적 위기를 어떻게 극복하고 운영 방식을 어떻게 변화시켰나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Yaddo",
+     "url": "https://en.wikipedia.org/wiki/Yaddo"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Spencer Trask",
+     "url": "https://en.wikipedia.org/wiki/Spencer%20Trask"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "미술관의 세대교체와 예술가 레지던시의 새로운 리더십",
+     "url": "https://hyperallergic.com/cyra-levenson-to-lead-yaddo-artist-residency/"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3
+   ],
+   "chars": 2016
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "archdaily.com/1186377/hikari-house-estudio-pk": {
+  "title_ko": "벽 대신 풍경을 들이는 수평적 주거, 히카리 하우스",
+  "summary_ko": "아르헨티나 링콘데밀베르그에 세워진 히카리 하우스는 자녀가 떠난 부부를 위해 에스투디오 피케이(Estudio PK)가 설계한 420제곱미터 규모의 단층 중심 주거다. 벽체 대신 동선과 조망을 공간의 축으로 삼아 조경과 긴밀하게 연결되는 수평적 건축을 구현했다.",
+  "lens": "벽을 세우는 대신 통로와 시선을 배치해 풍경 자체가 공간의 칸막이가 되도록 만든다.",
+  "why_now": "가족 구성원의 변화에 맞춰 거주 공간의 밀도를 낮추고 대지와 풍경에 밀착하려는 주거 건축의 흐름을 보여준다.",
+  "mechanism": "벽체로 방을 나누는 방식을 지우고, 내부의 이동 경로와 바깥의 조망을 연결하는 시선 축을 통해 공간을 조직한다.",
+  "sensory": "단층 구조를 통해 땅과 완전히 밀착하며, 시선이 머무는 곳마다 외부 조경과 빛의 흐름이 자연스럽게 스며든다.",
+  "transfer": "공간을 칸막이로 나누는 대신 카메라의 이동 경로와 시선 교차를 통해 공간감을 확장하는 롱테이크 씬 구성에 참고할 수 있다.",
+  "context": "에스투디오 피케이가 아르헨티나 링콘데밀베르그에서 완성한 420제곱미터 규모의 단층 주택 프로젝트다.",
+  "findings": [],
+  "keywords": [
+   "수평적건축",
+   "단층주택",
+   "조경계획",
+   "에스투디오피케이"
+  ],
+  "evidence": "Casa Hikari is conceived as a residence developed predominantly on the ground floor, designed for a couple whose children have already left the family home.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "단층 주거의 공간적 특성을 잘 보여주나 구체적인 도면이나 상세 기법의 설명이 부족하다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1186377/hikari-house-estudio-pk",
+  "original_title": "HIKARI House / Estudio PK",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 1244,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-06 10:55",
+  "research": {
+   "entities": [
+    "Estudio PK",
+    "HIKARI House",
+    "SUMA Interiorismo",
+    "Paisajismo El Camino"
+   ],
+   "questions": [
+    "HIKARI House의 설계에서 '수평적 건축'이 거주자의 라이프스타일 변화와 어떻게 연결되는가?",
+    "벽체 대신 통로와 조망을 중심으로 공간을 구성한 건축적 의도는 무엇인가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "hyperallergic.com/the-mets-krasner-and-pollock-show-is-a-breathtaking-upending": {
+  "title_ko": "메트로폴리탄 미술관이 재조명하는 크래스너와 폴록의 기록",
+  "summary_ko": "뉴욕 메트로폴리탄 미술관은 리 크래스너와 잭슨 폴록의 관계와 예술 세계를 다룬 전시 '크래스너와 폴록: 과거진행형'을 선보인다. 전시장 입구는 두 사람의 롱아일랜드 저택을 담은 영상과 아카이브 자료로 구성되어 두 작가의 삶과 작업을 교차해서 보여준다. 복잡한 서브텍스트 대신 예술가 부부의 관계와 창작의 조건을 직시하게 만드는 공간 연출이 돋보인다.",
+  "lens": "미술사적 거장의 그늘에 가려진 작가의 생존과 창작 과정을 무덤덤한 아카이브로 밀어 올린다.",
+  "why_now": "유명 예술가 부부의 사생활을 소비하던 시선을 거두고, 동시대 여성 작가의 주체적인 예술적 생존 방식을 냉정하게 되짚는다.",
+  "mechanism": "전시장 초입의 좁은 복도에 설치된 무음 콜라주 영상과 사진이 관람객의 동선을 자연스럽게 몰입의 공간으로 유도한다.",
+  "sensory": "창문 없는 갤러리 공간과 절제된 조명이 아카이브 이미지와 회화 작품의 물성을 또렷하게 드러낸다.",
+  "transfer": "공간 연출이나 다큐멘터리 편집에서 인물의 사생활을 자극적으로 다루는 대신, 정적인 아카이브 영상과 좁은 통로를 통해 긴장감을 유발하는 오프닝 시퀀스로 활용한다.",
+  "context": "리 크래스너는 1940년대 뉴욕 스쿨의 추상표현주의 운동을 이끌었으나 남편 잭슨 폴록의 명성에 가려졌으며, 폴록은 1956년 음주운전 사고로 사망했다.",
+  "findings": [
+   {
+    "text": "리 크래스너는 1945년에 잭슨 폴록과 결혼했으며, 1956년 폴록의 사망 이후 그의 유산 집행인을 맡았다.",
+    "s": 1,
+    "quote": "Krasner's career was often overshadowed by that of her husband, Jackson Pollock, whom she married in 1945... Pollock's untimely death in a drunk-driving incident in 1956, which left her as the executor of his estate"
+   },
+   {
+    "text": "잭슨 폴록은 바닥에 수평으로 놓인 캔버스에 물감을 붓거나 튀기는 드립 기법으로 잘 알려진 추상표현주의 화가이다.",
+    "s": 2,
+    "quote": "A major figure in the abstract expressionist movement, he was noted for his \"drip technique\" of pouring or splashing liquid household paint onto a horizontal surface"
+   }
+  ],
+  "keywords": [
+   "리크래스너",
+   "잭슨폴록",
+   "메트로폴리탄미술관",
+   "추상표현주의"
+  ],
+  "evidence": "The Met’s new show, Krasner and Pollock: Past Continuous, is by any reckoning one of the most gorgeously designed and ingeniously installed exhibitions in the museum’s history.",
+  "kind": "전시",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "유명 예술가 부부의 전시 소식을 충실히 다루나 심층적인 비평적 분석이나 새로운 기법 발견보다는 일반적인 전시장 풍경과 맥락 소개에 머문다.",
+  "v": 2,
+  "url": "https://hyperallergic.com/the-mets-krasner-and-pollock-show-is-a-breathtaking-upending/",
+  "original_title": "The Met’s Krasner and Pollock Show Is a Breathtaking Upending",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 3619,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-06 10:55",
+  "research": {
+   "entities": [
+    "Lee Krasner",
+    "Jackson Pollock",
+    "Metropolitan Museum of Art"
+   ],
+   "questions": [
+    "리 크래스너와 잭슨 폴록의 예술적 교류가 서로의 작품 세계에 어떤 영향을 미쳤는가?",
+    "전시 'Krasner and Pollock: Past Continuous'는 두 예술가의 관계를 기존의 해석과 어떻게 다르게 조명하고 있는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Lee Krasner",
+     "url": "https://en.wikipedia.org/wiki/Lee%20Krasner"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Jackson Pollock",
+     "url": "https://en.wikipedia.org/wiki/Jackson%20Pollock"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "바이올리니스트의 신체를 악보 삼아 공감각을 빛으로 번역하다",
+     "url": "https://www.designboom.com/art/synesthesia-light-audrey-wright-musical-body-metropolitan-museum-geoff-robertson-stephanie-ann-boyd/"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "구름을 보는 새로운 방식: 메트로폴리탄 미술관의 200년 기록",
+     "url": "https://www.designboom.com/art/chasing-clouds-met-two-centuries-skywatching-metropolitan-museum-new-york-exhibition/"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "뉴욕 미술계의 이면, 파업과 폐쇄가 드러내는 제도적 균열",
+     "url": "https://hyperallergic.com/the-cathedral-of-joy/"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 3560
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "dezeen.com/2026/10/05/knock-on-wood-device-shashwath-santosh-nithin-eluvathingal": {
+  "title_ko": "미신과 기술의 조우: 원격으로 나무를 두드리는 노커 장치",
+  "summary_ko": "샤슈와트 산토시와 니틴 엘루바싱갈이 미신을 기술적 개입의 대상으로 삼아 원격으로 나무를 두드리는 장치 노커를 선보였다. 사용자가 웹 앱의 버튼을 누르면 나무에 부착된 로봇 팔이 즉각적으로 두 번의 노크를 수행한다. 이 장치는 인터넷으로 연결되어 거리 제약 없이 물리적인 행위를 구현한다.",
+  "lens": "미신이라는 비가시적 관습을 산업 디자인과 로봇 공학을 통해 물리적 실체로 치환하여, 기계가 인간의 믿음을 수행하는 매개체로 작동하게 한다.",
+  "why_now": "디지털화된 일상에서 인간 고유의 심리적 기제인 미신을 기계적 인터페이스로 해석하여, 기술이 인간의 정서적 요구를 어떻게 보완할 수 있는지 질문한다.",
+  "mechanism": "와이파이로 연결된 웹 앱 신호를 중앙 서버가 수신하여, 나무에 부착된 로봇 팔의 모터를 구동한다. 각 장치는 디스플레이를 통해 수신된 노크 횟수를 시각화하며, 여러 대를 그룹으로 설치해 다수의 요청을 동시에 처리한다.",
+  "sensory": "흰색의 매끈한 로봇 장치와 대조되는 강렬한 빨간색 스트랩이 나무의 질감과 대비를 이룬다. 로봇 팔이 나무 표면을 두드리는 건조하고 규칙적인 소리와 진동이 공간에 개입한다.",
+  "transfer": "공간 연출 시 특정 오브제에 원격 제어 가능한 로봇 팔을 결합하여, 사용자의 인터랙션이 물리적 환경의 변화로 이어지는 즉각적인 반응형 동선을 설계할 수 있다.",
+  "context": "본 프로젝트는 'Machines Responding to Superstitions' 시리즈의 일환으로, 이전 작업에서는 검은 고양이와 관련된 미신을 다룬 바 있다. 샤슈와트 산토시는 구글 크리에이티브 랩에서 프로젝트 제니와 제미나이 로보틱스 등 AI와 물리적 세계를 결합하는 실험적 인터페이스를 연구해 왔다.",
+  "findings": [
+   {
+    "text": "샤슈와트 산토시는 구글 크리에이티브 랩에서 AI와 물리적 세계를 연결하는 인터페이스 연구를 수행하고 있다.",
+    "s": 1,
+    "quote": "Part of a specialized team of creatives and researchers envisioning, testing, and advancing Google’s first research prototype for playable worlds."
+   }
+  ],
+  "keywords": [
+   "인터랙션 디자인",
+   "로보틱스",
+   "미신",
+   "디지털 인터페이스",
+   "개념 디자인"
+  ],
+  "evidence": "The conceptual device knocks on wood for you when wood is out of reach",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "미신이라는 추상적 개념을 로봇 공학으로 구현한 구체적 사례이며, 작가의 기술적 배경이 프로젝트의 실현 가능성을 뒷받침한다.",
+  "v": 2,
+  "url": "https://www.dezeen.com/2026/10/05/knock-on-wood-device-shashwath-santosh-nithin-eluvathingal/",
+  "original_title": "Knocker device remotely \"knocks on wood\" using smartphone app",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 2895,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-06 10:55",
+  "research": {
+   "entities": [
+    "Shashwath Santosh",
+    "Nithin Eluvathingal",
+    "Kinky Kashayam"
+   ],
+   "questions": [
+    "이 프로젝트가 미신을 기술적 개입의 대상으로 삼은 디자인적 의도는 무엇인가요?",
+    "Machines Responding to Superstitions 시리즈의 다른 작품들은 어떤 미신을 다루고 있나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Shashwath Santosh",
+     "url": "https://shashwathsantosh.com/"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 2600
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "thisiscolossal.com/2026/10/max-lehman-ceramic-sculptures": {
+  "title_ko": "고고학적 유물로 재탄생한 미래의 안드로이드",
+  "summary_ko": "뉴멕시코 기반의 조각가 맥스 레만은 콜럼버스 이전의 고고학적 시각 문화와 공상 과학적 상상력을 결합한다. 그는 인공지능이 고대 문명처럼 신화화된 미래를 가정하며, 점토라는 물리적 매체를 통해 인간의 직관과 경험을 기록한 조각상을 선보인다. 현재 산타페의 헤초 아 마노에서 'Ancestral Androids' 전시가 열리고 있다.",
+  "lens": "고대 문명의 파편화된 유물 형식을 빌려, 기술적 미래를 아득한 과거의 고고학적 발굴물로 치환하는 역설적 시선을 보여준다.",
+  "why_now": "디지털 데이터의 과잉 속에서 물리적 매체인 점토가 지닌 기록의 영속성과 인간적 직관의 가치를 다시 묻는다.",
+  "mechanism": "만화적이고 기괴한 표정의 인물상 배나 이마에 추가적인 얼굴을 배치해 집단적 의식을 시각화하고, 고고학적 불확실성을 유도하는 모호한 형태를 구축한다.",
+  "sensory": "채도가 높은 색감의 도자 표면은 매끄러운 로봇의 질감과 거친 석조 유물의 물성을 동시에 전달하며, 비어 있는 듯한 표정에서 묘한 불쾌감을 유발한다.",
+  "transfer": "미래 기술을 묘사할 때 최신 그래픽 대신 고대 유물의 조형 언어와 질감을 차용하여, 시간의 층위가 뒤섞인 초현실적 분위기를 연출할 수 있다.",
+  "context": "맥스 레만은 천체물리학과 입자 이론을 기반으로 양자 얽힘이나 싱귤래리티 같은 과학적 개념을 도자 조각으로 탐구해 왔다. 그는 이전 작업에서 네온사인, 디지털 미디어 등을 혼합해 과학과 판타지가 교차하는 세계관을 구축한 바 있다.",
+  "findings": [
+   {
+    "text": "맥스 레만은 천체물리학과 입자 이론에 대한 이해를 바탕으로 양자 얽힘이나 싱귤래리티 같은 복잡한 과학적 개념을 탐구한다.",
+    "s": 1,
+    "quote": "Drawing from his understanding of astrophysics and particle theory, he investigates complex scientific ideas such as quantum entanglement, simultaneity, and the singularity"
+   },
+   {
+    "text": "DNA라는 명칭은 선사 시대 생명체와 외계 존재에 대한 작가의 관심을 반영한 'Dinosaurs 'N' Aliens'의 약자이다.",
+    "s": 1,
+    "quote": "The \"DNA\" stands for \"Dinosaurs 'N' Aliens,\" a playful nod to his fascination with both prehistoric life and extraterrestrial beings."
+   }
+  ],
+  "keywords": [
+   "맥스 레만",
+   "고고학적 미래",
+   "도자 조각",
+   "안드로이드",
+   "물성"
+  ],
+  "evidence": "The sculptures ask us to consider what happens when artificial beings become old enough to have ancestors",
+  "kind": "전시",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "고고학적 형식과 미래주의를 결합한 독창적인 조형 언어를 제시하며, 작가의 기존 작업 맥락과도 긴밀하게 연결되어 있다.",
+  "v": 2,
+  "url": "https://www.thisiscolossal.com/2026/10/max-lehman-ceramic-sculptures/",
+  "original_title": "Pre-Columbian Archaeology Meets Science Fiction in Max Lehman’s Quirky Sculptures",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 3254,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-06 10:55",
+  "research": {
+   "entities": [
+    "Max Lehman",
+    "Hecho a Mano",
+    "Maya civilization",
+    "Aztecs"
+   ],
+   "questions": [
+    "맥스 레만은 고고학적 발견의 불확실성을 자신의 조각 작품에 어떻게 투영하고 있는가?",
+    "인공지능과 고대 문명의 시각적 요소가 결합된 'Ancestral Androids' 전시가 던지는 미래 인류에 대한 메시지는 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "MaxDNA  Studio | Ceramic Sculpture",
+     "url": "https://www.maxdna.com/"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Lehman family",
+     "url": "https://en.wikipedia.org/wiki/Lehman%20family"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Maya civilization",
+     "url": "https://en.wikipedia.org/wiki/Maya%20civilization"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 3380
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "dezeen.com/2026/10/05/estudio-modulo-itau-cultural-sao-paulo-design": {
+  "title_ko": "상파울루 파울리스타 대로에 들어서는 에스투디오 모둘루의 이타우 문화원 신사옥",
+  "summary_ko": "브라질 건축 스튜디오 에스투디오 모둘루가 이타우 문화원의 새 본사 설계를 공개했다. 19개 층의 날렵한 타워 형태로 설계되었으며 유리와 흰색 루브르 스크린으로 감싸여 있다. 2031년 완공을 목표로 파울리스타 대도시에 들어설 예정이다.",
+  "lens": "흰색 루브르와 테라코타 계단이 만들어내는 운동감은 정지된 건축물을 키네틱 아트처럼 바꾼다.",
+  "why_now": "파울리스타 대로의 주요 문화 축에 세워지는 이 프로젝트는 도시 공간과 공공 기관의 관계를 재정의한다.",
+  "mechanism": "건물 상층부를 감싼 반투명 흰색 스크린 뒤로 테라코타 색상의 계단과 내부 평면이 관람자의 이동에 따라 드러난다.",
+  "sensory": "전면 유리 벽 너머로 보이는 테라코타 색상 계단의 질감과 사선 시야에서 변화하는 파사드의 색채 역동성이 대조를 이춘다.",
+  "transfer": "사선 각도에서 파사드 루브르 사이로 색채가 가변적으로 드러나는 연출을 오프닝 타이틀이나 공간 파사드 시퀀스에 적용한다.",
+  "context": "이타우 문화원은 브라질의 비영리 문화 기관으로 예술 연구와 프로그램 운영을 이어왔다.",
+  "findings": [
+   {
+    "text": "이타우 문화원은 이타우 유니방쿠가 소유한 브라질의 비영리 문화 기관이다.",
+    "s": 2,
+    "quote": "Instituto Itaú Cultural is a Brazilian not-for-profit cultural institute owned by Itaú Unibanco."
+   }
+  ],
+  "keywords": [
+   "건축",
+   "상파울루",
+   "파사드",
+   "문화시설"
+  ],
+  "evidence": "A skin of white louvres filters the light and gradually reveals the presence of colour in the interior planes, activated by the observer's movement",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "공모전 당선작의 구체적인 파사드 작동 방식을 담고 있으나 전형적인 문화원 신사옥 소개에 가깝다.",
+  "v": 2,
+  "url": "https://www.dezeen.com/2026/10/05/estudio-modulo-itau-cultural-sao-paulo-design/",
+  "original_title": "Estúdio Módulo releases designs for Itaú Cultural headquarters in São Paulo",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 2989,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-06 10:55",
+  "research": {
+   "entities": [
+    "Estúdio Módulo",
+    "Itaú Cultural",
+    "São Paulo Museum of Art",
+    "Centro Cultural FIESP"
+   ],
+   "questions": [
+    "Estúdio Módulo가 설계한 Itaú Cultural 신사옥의 디자인이 브라질 콘크리트 예술과 어떻게 조화를 이루고 있나요?",
+    "파울리스타 대로(Paulista Avenue)의 도시적 맥락에서 이 건축물이 가지는 상징성과 공공적 역할은 무엇인가요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Itaú Cultural",
+     "url": "https://itaucultural.org.br/"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Itaú Cultural",
+     "url": "https://en.wikipedia.org/wiki/Ita%C3%BA%20Cultural"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "São Paulo Museum of Art",
+     "url": "https://en.wikipedia.org/wiki/S%C3%A3o%20Paulo%20Museum%20of%20Art"
+    }
+   ],
+   "used": [
+    2
+   ],
+   "chars": 3161
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "archdaily.com/1186296/ammodo-architecture-announces-first-edition-of-architecture-days-in-amsterdam": {
+  "title_ko": "암스테르담 베스터하스에서 열리는 제1회 아모도 아키텍처 데이즈",
+  "summary_ko": "아모도 아키텍처가 2026년 11월 9일부터 10일까지 암스테르담 베스터하스에서 제1회 아모도 아키텍처 데이즈를 개최한다. 이 행사는 49개의 수상작을 바탕으로 심포지엄, 전시, 출판물 런칭을 결합하여 사회적 건축과 지역 단위 실천을 조명한다.",
+  "lens": "완공된 결과물이 아닌 지역 지식과 커뮤니티 참여 등 건축의 과정과 맥락을 전면에 내세운다.",
+  "why_now": "건축 어워드와 비엔날레가 단순한 미적 성취를 넘어 환경 제어와 사회적 실천이라는 구조적 질문으로 이동하는 흐름을 보여준다.",
+  "mechanism": "재활용 자재, 버려진 산업 단지, 기존 건물의 물리적 구조를 유지하면서 용도만 바꾸는 도시 침술 기법을 중심으로 작동한다.",
+  "sensory": "전직 산업 복합단지였던 베스터하스의 거친 벽돌과 철제 구조물 속에서 대규모 아카이브와 전시 오브제가 공간을 채운다.",
+  "transfer": "공간 다큐멘터리나 전시 연출 시 결과물 대신 기획과 리서치, 현장의 물리적 프로세스를 타임라인과 오브제로 구성하는 방식을 쓴다.",
+  "context": "아모도 파운데이션이 예술과 과학, 건축 분야의 연구와 프로젝트를 지원하기 위해 신설한 프로그램의 일환이다.",
+  "findings": [
+   {
+    "text": "Andrés Jaque founded the Office for Political Innovation, a transdisciplinary agency working in the intersection of design, research and environmental activism.",
+    "s": 3,
+    "quote": "In 2003, he founded the Office for Political Innovation, a transdisciplinary agency working in the intersection of design, research and environmental activism."
+   },
+   {
+    "text": "Anupama Kundoo's practice and research focus on material experimentation, sustainable architecture, and low-cost, energy-efficient building technologies.",
+    "s": 4,
+    "quote": "Anupama Kundoo is an Indian architect academic, and researcher. Her practice and research focus on material experimentation, sustainable architecture, and low-cost, energy-efficient building technologies."
+   }
+  ],
+  "keywords": [
+   "아모도아키텍처",
+   "암스테르담",
+   "사회적건축",
+   "도시침술"
+  ],
+  "evidence": "Ammodo Architecture will launch the first edition of Ammodo Architecture Days in Amsterdam on November 9 and 10, 2026.",
+  "kind": "행사·공모",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "새로운 건축 행사의 런칭과 프로그램 구성을 상세히 다루나 순수 행사 안내 성격이 강하다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1186296/ammodo-architecture-announces-first-edition-of-architecture-days-in-amsterdam",
+  "original_title": "Ammodo Architecture Announces First Edition of Architecture Days in Amsterdam",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 4477,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-06 10:55",
+  "research": {
+   "entities": [
+    "Ammodo Foundation",
+    "Westergas",
+    "Andrés Jaque",
+    "Anupama Kundoo",
+    "Hatje Cantz"
+   ],
+   "questions": [
+    "Ammodo Architecture Award가 지향하는 'Social Architecture'와 'Social Engagement'의 구체적인 평가 기준은 무엇인가?",
+    "Ammodo Architecture Days에서 다루는 6가지 핵심 테마(Reclaim, Heritage 등)가 현대 건축 실무에서 어떤 방식으로 적용되고 있는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Ammodo",
+     "url": "https://www.ammodo.org/?utm_medium=website&utm_source=archdaily.com"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Ammodo Architecture 2024 | 2025 | Hatje Cantz Verlag",
+     "url": "https://hatjecantz.com/products/9783775764681?_pos=1&_sid=740e9125f&_ss=r&shpxid=e2b915cc-d56c-4008-aded-9be8de01bcb1&utm_medium=website&utm_source=archdaily.com&variant=58932852392200"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Andrés Jaque",
+     "url": "https://en.wikipedia.org/wiki/Andr%C3%A9s%20Jaque"
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "Anupama Kundoo",
+     "url": "https://en.wikipedia.org/wiki/Anupama%20Kundoo"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "chars": 2378
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "archdaily.com/1186373/casa-nova-tac-taller-alberto-calleja": {
+  "title_ko": "카사 노바: 12미터 해안가 폭의 한계를 공간적 해법으로 치환하다",
+  "summary_ko": "멕시코 마순테에 위치한 카사 노바는 1,732제곱미터 대지 위에 지어진 주택이다. 건축가 알베르토 칼레하가 이끄는 TAC는 해안가와 접한 폭이 12미터에 불과한 좁은 부지의 제약을 설계의 핵심 전제로 삼아 공간을 구성했다. 아펠 인테리어가 내부 설계를 맡아 2026년 완공했다.",
+  "lens": "폭이 좁고 긴 해안가 부지의 물리적 제약을 공간의 깊이감을 확보하는 설계의 출발점으로 삼았다.",
+  "why_now": "대지의 불리한 조건을 건축적 장치로 전환하여 고유한 조망과 동선을 확보하는 방식은 도심의 좁은 필지를 다루는 실무에 유효한 참조점이 된다.",
+  "mechanism": "12미터라는 좁은 폭을 따라 시선을 해안가로 길게 연장하고, 부지의 깊이를 활용해 내부 공간을 단계적으로 배치함으로써 개방감을 극대화한다.",
+  "sensory": "해안가와 맞닿은 수평적 풍경과 건축물의 선형적 구조가 교차하며, 외부의 빛과 바람이 내부 깊숙이 유입되는 환경을 조성한다.",
+  "transfer": "좁고 긴 부지의 경우, 시선의 끝을 외부 조망에 고정하고 실의 배치를 선형으로 나열하여 공간이 실제보다 넓게 느껴지도록 연출한다.",
+  "context": "TAC는 멕시코 마순테의 지리적 환경을 고려하여 자연 지형과 조화를 이루는 건축 작업을 수행한다.",
+  "findings": [],
+  "keywords": [
+   "건축 설계",
+   "멕시코 건축",
+   "공간 배치",
+   "해안가 주택"
+  ],
+  "evidence": "a unique condition of a beachfront measuring only twelve meters wide—a particular constraint that we used as the design premise.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "부지의 물리적 제약을 설계 전제로 삼은 전략은 명확하나, 세부적인 재료나 구체적인 평면 구성 방식에 대한 정보가 부족하다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1186373/casa-nova-tac-taller-alberto-calleja",
+  "original_title": "Casa Nova / TAC Taller Alberto Calleja",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 907,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-06 10:55",
+  "research": {
+   "entities": [
+    "TAC Taller Alberto Calleja",
+    "Alberto Calleja",
+    "Apel Interiors",
+    "Onnis Luque"
+   ],
+   "questions": [
+    "해안가 부지의 좁은 폭이라는 제약 조건을 건축가는 어떤 공간적 전략으로 극복했는가?",
+    "Casa Nova 프로젝트에서 지속가능성을 구현하기 위해 사용된 주요 건축 재료와 설계 방식은 무엇인가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "archdaily.com/1034562/house-258-cornetta-arquitetura": {
+  "title_ko": "브라질 상 로케의 경사지를 가로지르는 하우스 258",
+  "summary_ko": "코르네타 아키텍투라(Cornetta Arquitetura)가 브라질 상 로케의 가파른 경사지에 설계한 하우스 258은 기존 숲을 보존하며 대지에 안착한다. 건물은 서쪽 계곡을 향해 열린 면과 숲속에 잠긴 면으로 나뉘어 빛의 변화를 수용한다. 515㎡ 규모의 이 주택은 콘크리트 질감을 통해 시간의 흐름을 반영한다.",
+  "lens": "가파른 경사지에 건물을 얹는 방식이 아니라, 숲의 밀도와 지형의 높낮이에 따라 건축물의 투명도를 조절해 풍경을 점유한다.",
+  "why_now": "대규모 토목 공사로 경사지를 평탄화하는 관습에서 벗어나, 기존 지형과 수목의 높이를 기준으로 공간의 위계를 설정하는 태도가 중요해졌다.",
+  "mechanism": "건물의 한쪽 면은 서쪽 계곡을 향해 크게 열어 일몰을 받아들이고, 반대쪽은 숲의 그늘과 나뭇잎 사이로 걸러진 빛을 내부로 끌어들여 조도를 조절한다.",
+  "sensory": "저녁 빛이 콘크리트 외벽에 닿을 때 나타나는 금빛 질감과, 나뭇잎 사이로 필터링되어 실내로 들어오는 부드럽고 정적인 빛의 대비가 핵심이다.",
+  "transfer": "경사지 촬영 시 피사체를 정면으로 두기보다, 지형의 높낮이를 이용해 숲의 그림자가 건물 외벽에 맺히는 시간대를 포착하여 빛의 층위를 담아낸다.",
+  "context": "코르네타 아키텍투라가 2024년 브라질 상 로케에 완공한 프로젝트로, 현장 지형과 수목 보존을 설계의 최우선 원칙으로 삼았다.",
+  "findings": [],
+  "keywords": [
+   "경사지건축",
+   "콘크리트",
+   "빛의연출",
+   "상로케"
+  ],
+  "evidence": "Built on a steeply sloped lot, House 258 arises from the principle of designing appropriately for the place, occupying the land and landscape with subtlety and respect",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "경사지 대응 방식과 빛의 활용에 대한 명확한 태도가 있으나, 구체적인 도면이나 구조적 상세 정보가 부족하여 정보 전달 수준에 머무른다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1034562/house-258-cornetta-arquitetura",
+  "original_title": "House 258 / Cornetta Arquitetura",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 1443,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-06 10:55",
+  "research": {
+   "entities": [
+    "Cornetta Arquitetura",
+    "Pedro Cornetta",
+    "DRC Engenharia",
+    "Latar Engenharia"
+   ],
+   "questions": [
+    "경사진 지형을 활용하여 기존 수목을 보존하면서 건축물을 배치한 구체적인 설계 전략은 무엇인가?",
+    "건축물의 외관이 저녁 빛과 조화를 이루도록 하기 위해 사용된 콘크리트의 질감이나 마감 방식은 무엇인가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "archdaily.com/1034427/restoration-and-enhancement-of-the-patriarchal-cathedral-of-lisbon-installation-of-the-archaeological-center-and-restoration-of-the-upper-and-lower-cloisters-adalberto-dias-arquitecto-lda": {
+  "title_ko": "리스본 대성당의 층위: 여러 시대를 포갠 복원과 고고학적 개입",
+  "summary_ko": "아달베르토 디아스 아르키텍토(Adalberto Dias Arquitecto)가 리스본 대성당의 복원 및 고고학 센터 설치 프로젝트를 완료했다. 로마네스크부터 신고딕까지 중첩된 건축적 층위를 보존하며, 상하 회랑을 복구하고 고고학적 유적을 전시하는 공간으로 재구성했다. 6,690제곱미터 규모의 이 프로젝트는 포르투갈 건국 기점인 성당의 역사적 가치를 현대적 맥락으로 통합한다.",
+  "lens": "여러 시대의 양식이 혼재된 성당 내부에서, 새로운 건축적 개입이 기존 유적을 훼손하지 않고 어떻게 시간의 층위를 드러내는지를 관찰한다.",
+  "why_now": "역사적 건축물의 복원이 단순히 과거의 재현에 머물지 않고, 고고학적 가치를 현대적 전시 공간으로 전환하는 방식이 중요해졌다.",
+  "mechanism": "기존 구조의 복원과 함께 고고학 센터를 성당 내부에 설치하여, 관람객이 공간의 시간적 층위를 물리적으로 이동하며 경험하도록 유도한다.",
+  "sensory": "석조 벽체와 회랑의 거친 질감, 그리고 세월이 묻어난 건축적 디테일이 빛과 만나 공간의 깊이감을 조성한다.",
+  "transfer": "역사적 공간을 촬영할 때, 조명을 낮게 설정하고 특정 벽면의 질감을 강조하여 건축적 층위가 드러나는 숏을 구성한다.",
+  "context": "리스본 대성당은 1147년 건립된 도시에서 가장 오래된 성당으로, 수차례 지진을 겪으며 로마네스크, 고딕, 바로크 등 다양한 양식이 혼합된 형태를 띤다. 1910년 국가 기념물로 지정된 이 건축물은 포르투갈의 역사적 정체성을 상징한다.",
+  "findings": [
+   {
+    "text": "리스본 대성당은 1147년 건립된 리스본에서 가장 오래된 성당이다.",
+    "s": 1,
+    "quote": "It is the oldest church in the city, built in 1147."
+   },
+   {
+    "text": "이 성당은 지진 이후 여러 차례 복원과 개조를 거치며 복합적인 건축 양식을 갖게 되었다.",
+    "s": 1,
+    "quote": "The cathedral has survived many earthquakes and has been modified, renovated and restored several times, resulting in a mix of different architectural styles."
+   }
+  ],
+  "keywords": [
+   "건축 복원",
+   "고고학 센터",
+   "리스본 대성당",
+   "역사적 층위",
+   "공간 재생"
+  ],
+  "evidence": "Romanesque, Gothic, Mannerist, Baroque, Neo-Romanesque, Neo-Gothic, and Neo-Manueline are the countless classifications that historians use for the Sé",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "역사적 건축물의 복원 방식을 다루고 있으나, 구체적인 설계 기법이나 디테일에 대한 정보가 부족하여 일반적인 소개에 그친다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1034427/restoration-and-enhancement-of-the-patriarchal-cathedral-of-lisbon-installation-of-the-archaeological-center-and-restoration-of-the-upper-and-lower-cloisters-adalberto-dias-arquitecto-lda",
+  "original_title": "Restoration and Enhancement of the Patriarchal Cathedral of Lisbon, Installation of the Archaeological Center, and Restoration of the Upper and Lower Cloisters / Adalberto Dias Arquitecto lda",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 1449,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-06 10:55",
+  "research": {
+   "entities": [
+    "Adalberto Dias Arquitecto lda",
+    "Lisbon Cathedral",
+    "Afonso Henriques"
+   ],
+   "questions": [
+    "리스본 대성당이 가진 로마네스크부터 신고딕 양식까지의 복합적인 건축적 특징은 무엇인가?",
+    "이번 복원 및 고고학 센터 설치 프로젝트가 성당의 역사적 가치를 보존하는 데 어떤 방식으로 기여했는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Lisbon Cathedral",
+     "url": "https://en.wikipedia.org/wiki/Lisbon%20Cathedral"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 585
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "design-milk.com/thea-djordjadze-a-well-of-night": {
+  "title_ko": "테아 조르자제의 네오르네상스 공간 개입",
+  "summary_ko": "베를린을 기반으로 활동하는 조지아 출신 작가 테아 조르자제(Thea Djordjadze)가 10년 만의 뉴욕 개인전 'A well of night'를 스프뤼트 마거스(Sprüth Magers)에서 선보인다. 네오르네상스 양식의 갤러리 건축물과 대화를 나누듯 설치 작업을 구성했으며 철제, 알루미늄, 회반죽 부조 회화를 결합했다. 어두운 견고한 바닥 위에 밝은 색상의 비닐을 깔아 공간적 경계를 허물고 관람 경험을 재구성한다.",
+  "lens": "단단한 금속 쇼케이스와 거친 회반죽 회화가 공간의 역사적 골격을 새롭게 흔든다.",
+  "why_now": "동시대 미술에서 공간과 조각의 관계를 물리적 실험으로 확장하는 드문 시도다.",
+  "mechanism": "어두운 원목 바닥 위에 밝은 비닐을 덧씌우고 반사율이 높은 아크릴 패널의 스틸 진열장을 배치해 시각적 반전을 유도한다.",
+  "sensory": "크림빛 회반죽 표면의 긁힌 자국과 물감의 흐름이 차가운 금속 소재와 대비를 이룬다.",
+  "transfer": "공간을 촬영할 때 바닥 마감을 국부적으로 바꾸어 기존 건축의 선을 해체하는 미장센으로 활용한다.",
+  "context": "조지아 출신 작가 테아 조르자제는 일상적 소재를 활용해 고정되지 않는 가변적 설치 작업을 이어왔으며 건축적 조건과 미술의 상호작용을 탐구한다.",
+  "findings": [
+   {
+    "text": "회반죽 바탕에 안료를 겹겹이 올린 3차원적 회화 부조를 통해 조각과 회화를 결합한다.",
+    "s": 2,
+    "quote": "In A well of night, Djordjadze juxtaposes steel and aluminum with new sculptural paintings, rich with pigment worked into the porous surface and built up in layers across a creamy plaster ground."
+   }
+  ],
+  "keywords": [
+   "공간 설치",
+   "테아 조르자제",
+   "스프뤼트 마거스",
+   "조각 부조"
+  ],
+  "evidence": "A well of night combines new and old, featuring some existing pieces alongside new art, including new plaster relief paintings and reconfigured sculptures.",
+  "kind": "전시",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "건축적 맥락과 재료의 물성을 다룬 구체적인 설치 작업을 다루고 있어 깊이 있는 분석이 가능하다.",
+  "v": 2,
+  "url": "https://design-milk.com/thea-djordjadze-a-well-of-night/",
+  "original_title": "Thea Djordjadze Explores the Space Between Art and Architecture",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 5217,
+  "fetch": "ok",
+  "cliche_hits": [
+   "경계를 허"
+  ],
+  "read_at": "2026-10-06 10:55",
+  "research": {
+   "entities": [
+    "Thea Djordjadze",
+    "Sprüth Magers"
+   ],
+   "questions": [
+    "테아 조르자제(Thea Djordjadze)의 이번 전시 'A well of night'에서 사용된 건축적 개입과 재료의 대조는 어떤 의미를 갖는가?",
+    "스프뤼트 마거스(Sprüth Magers) 뉴욕 공간의 네오르네상스 건축 양식이 작가의 설치 작업에 어떻게 반영되었는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Thea Djordjadze",
+     "url": "https://spruethmagers.com/artists/thea-djordjadze/"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Thea Djordjadze - A well of night - New York – Sprüth Magers",
+     "url": "https://spruethmagers.com/exhibitions/thea-djordjadze-a-well-of-night-new-york/"
+    },
+    {
+     "n": 3,
+     "type": "공식·1차",
+     "title": "Sprüth Magers",
+     "url": "https://spruethmagers.com/"
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "Thea Djordjadze",
+     "url": "https://en.wikipedia.org/wiki/Thea%20Djordjadze"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 8092
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "design-milk.com/shinji-japanese-steakhouse-toronto": {
+  "title_ko": "토론토의 신지(Shinji), 일본 데님의 인디고 색조를 입은 스테이크 하우스",
+  "summary_ko": "토론토 파이낸셜 디스트릭트에 위치한 일본식 스테이크 전문점 신지는 오다미(Odami)가 설계를 맡았다. 일본 데님 산업의 공예적 가치와 인디고 색조를 공간의 개념적 틀로 삼아, 벽면을 짙은 푸른색 라임워시로 마감하고 천장에는 음향 배플을 배치했다. 동선 끝에 위치한 마젠타 색조의 화장실은 일본의 밤문화와 가라오케 조명에서 영감을 받아 극적인 대비를 이룬다.",
+  "lens": "데님이라는 소재가 지닌 노동의 흔적과 고급스러움의 이중성을 인디고 색조와 질감으로 치환해, 비즈니스와 휴식이 공존하는 공간의 성격을 규정한다.",
+  "why_now": "기능적 공간에 특정 산업의 서사를 입혀 브랜드의 철학을 시각적·촉각적 경험으로 확장하는 전략이 돋보인다.",
+  "mechanism": "짙은 인디고 색조를 기본 팔레트로 설정하고, 그 위에 라임워시의 거친 질감과 애쉬 목재를 층층이 쌓아올려 공간의 깊이감을 조성한다.",
+  "sensory": "벽면의 짙은 푸른색 라임워시가 빛을 흡수하며 차분한 분위기를 만들고, 화장실로 이동할수록 채도가 높아지는 강렬한 마젠타 빛이 감각의 반전을 일으킨다.",
+  "transfer": "공간의 성격이 변하는 지점에 조명 색온도와 채도를 급격히 조절하여 이용자의 심리적 전환을 유도하는 동선을 구성해 보라.",
+  "context": "오다미는 토론토를 기반으로 상업 공간과 주거 프로젝트를 수행하는 스튜디오로, 이번 작업은 하를로 엔터테인먼트(Harlo Entertainment)의 외식업 포트폴리오 중 하나다. 하를로 엔터테인먼트는 기존 모델의 혁신과 운영 효율을 중시하는 사모펀드 기반의 호스피탈리티 기업이다.",
+  "findings": [
+   {
+    "text": "오다미는 토론토와 로스앤젤레스 등지에서 상업 공간과 주거 프로젝트를 수행하는 건축 디자인 스튜디오다.",
+    "s": 1,
+    "quote": "Award-winning Toronto-based architecture and design studio crafting soulful commercial interiors, bespoke residences, and expressive material forms for clients in Toronto, Los Angeles, and beyond."
+   },
+   {
+    "text": "하를로 엔터테인먼트는 호스피탈리티와 엔터테인먼트 분야에 투자하는 사모펀드 기업이다.",
+    "s": 2,
+    "quote": "A Toronto-based private equity firm with more than $250M assets under management. From conceptualization to creation and early-stage investments, our firm focuses on investments in the hospitality, entertainment, lifesty"
+   }
+  ],
+  "keywords": [
+   "인디고",
+   "오다미",
+   "공간디자인",
+   "일본식스테이크",
+   "호스피탈리티"
+  ],
+  "evidence": "Shinji draws design inspiration from Japan’s denim industry. More than a literal translation, this humble—yet elevated—material became the project’s conceptual lens.",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "데님이라는 개념적 소재를 공간의 색감과 마감재로 구체적으로 치환한 설계 방식이 명확하다.",
+  "v": 2,
+  "url": "https://design-milk.com/shinji-japanese-steakhouse-toronto/",
+  "original_title": "A Modern Japanese Steakhouse Drenched in Denim Hues",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 5642,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-06 10:55",
+  "research": {
+   "entities": [
+    "Odami",
+    "Harlo Entertainment",
+    "Shinji",
+    "Sunny’s Chinese"
+   ],
+   "questions": [
+    "Odami가 일본 데님 산업에서 영감을 받아 레스토랑의 인테리어 질감과 색감을 어떻게 구현했는가?",
+    "Harlo Entertainment가 추구하는 외식 공간의 철학과 Shinji에 적용된 일본 전통 환대 문화의 요소는 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "ODAMI",
+     "url": "https://www.odami.ca/"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Harlo Entertainment",
+     "url": "https://harloentertainment.com/"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 1326
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "design-milk.com/preciosa-signature-designs": {
+  "title_ko": "프레시오사 시그니처 디자인: 맞춤형 조명의 효율과 창의적 자유",
+  "summary_ko": "체코 조명 브랜드 프레시오사(Preciosa)는 고비용과 제작 위험이 따르는 완전 맞춤형 조명의 대안으로 시그니처 디자인 포트폴리오를 제안한다. 드리프팅 라이츠, 크리스탈 그리드 등 검증된 디자인 프레임워크를 기반으로 크리스탈의 색상, 형태, 금속 마감 등을 조정해 공간의 규모에 맞게 최적화된 조명 경험을 구현한다.",
+  "lens": "완전 맞춤형 조명의 제작 리스크를 줄이면서도, 기성품의 한계를 넘어 공간의 동선과 리듬을 설계하는 절충안을 제시한다.",
+  "why_now": "공간의 정체성을 강조하는 조명 설치가 중요해진 가운데, 품질과 공정 안정성을 확보하면서도 디자이너의 의도를 반영할 수 있는 시스템이 요구된다.",
+  "mechanism": "검증된 디자인 원형을 바탕으로 크리스탈의 절단면, 금속 마감, 조명 효과를 모듈화하여 설계부터 설치까지 전 과정을 내부에서 통합 관리한다.",
+  "sensory": "크리스탈을 통과하는 빛의 확산과 굴절, 금속 프레임의 구조적 리듬이 공간의 밀도와 시각적 무게감을 결정한다.",
+  "transfer": "공간의 성격에 따라 크리스탈의 밀도를 조절하여 빛의 흐름을 제어하거나, 그리드 구조를 활용해 천장의 높이와 수평적 동선을 시각적으로 강조하는 조명 배치를 시도할 수 있다.",
+  "context": "프레시오사는 체코 크리스탈 밸리의 수백 년 된 전통을 바탕으로 조명 설계, 엔지니어링, 제조를 일괄 처리하는 통합 생산 방식을 고수한다.",
+  "findings": [],
+  "keywords": [
+   "프레시오사",
+   "커스텀조명",
+   "공간디자인",
+   "크리스탈조명"
+  ],
+  "evidence": "Each Signature Design features a rich palette of possibilities: the composition and scale of the light fixture, the color, shape and cut of the crystal, the finish of the metal and the effect of the lighting",
+  "kind": "제품·오브제",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "검증된 프레임워크를 활용한 맞춤형 조명 생산 방식은 실용적이나, 구체적인 기술적 디테일보다는 개념적인 소개에 머물러 있다.",
+  "v": 2,
+  "url": "https://design-milk.com/preciosa-signature-designs/",
+  "original_title": "Preciosa’s Signature Designs Offer Designers Untapped Creative Freedom",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 4415,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-06 10:55",
+  "research": {
+   "entities": [
+    "Preciosa Lighting",
+    "Michael Holy",
+    "Drifting Lights",
+    "Crystal Links",
+    "Crystal Grid"
+   ],
+   "questions": [
+    "Preciosa의 Signature Designs 제품군은 맞춤형 조명과 기성 조명 제품의 장점을 어떻게 결합하고 있는가?",
+    "Drifting Lights나 Raw Crystal 같은 시그니처 조명 컬렉션은 각각 어떤 디자인 철학과 공간적 경험을 목표로 하는가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "wallpaper.com/watches-jewellery/at-audemars-piguet-the-royal-oak-gives-shape-to-a-new-high-jewellery-collection": {
+  "title_ko": "시계에서 주얼리로, 로열 오크가 소환한 스위스 숲의 질감",
+  "summary_ko": "오데마 피게가 브랜드의 상징인 로열 오크 브레이슬릿을 확장한 새로운 하이 주얼리 컬렉션을 공개했다. 스위스 르 브라수의 자연환경에서 영감을 받은 이번 컬렉션은 18캐럿 골드, 아노다이즈드 티타늄, 블랙 PVD 티타늄 등의 소재에 다이아몬드와 유색 보석을 정교하게 세팅했다. 프라이빗 트렁크 쇼를 통해 선보이는 원오브아카인드 및 커스텀 피스로 구성된다.",
+  "lens": "시계의 기계적 브레이슬릿을 독립된 조각적 장신구로 확장해 재료와 빛의 물성을 극대화한다.",
+  "why_now": "시계 제조사들이 본연의 무브먼트를 넘어 하이 주얼리 공방과의 결합으로 조형적 실험 영역을 넓히는 동시대 하이엔드 시장의 흐름을 보여준다.",
+  "mechanism": "154개의 개별 부품으로 이루어진 오리지널 브레이슬릿의 십각형 베젤과 페티트 타피스리 패턴을 유지하면서, 프로스트 골드 기법과 미러 폴리싱 스터드를 결합해 표면의 반사각을 증폭한다.",
+  "sensory": "눈밭과 숲을 연상시키는 화이트·핑크·옐로 골드의 차가운 금속성 표면 위에 다이아몬드와 사파이어가 빛의 굴절을 만들어낸다.",
+  "transfer": "금속 표면을 샌드브러싱과 프로스트 가공으로 잘게 쪼개어 강한 조명 아래서 빛이 파르르 떨리듯 반사되는 질감을 콘티에 적용한다.",
+  "context": "제랄드 젠타가 디자인한 로열 오크는 1972년 출시 이후 스틸 소재와 통합형 브레이슬릿으로 시계 역사에 전환점을 만들었다.",
+  "findings": [
+   {
+    "text": "제랄드 젠타가 디자인한 로열 오크는 1972년 출시된 스위스 럭셔리 스포츠 시계다.",
+    "s": 1,
+    "quote": "Since its groundbreaking debut in 1972, the Royal Oak has stood as a symbol of audacity and innovation in the world of Haute Horlogerie"
+   },
+   {
+    "text": "1976년 재클린 디미에가 작은 사이즈의 여성용 모델을 디자인하며 귀금속 사용을 시작했다.",
+    "s": 1,
+    "quote": "Royal Oak II: Birth of the First Women’s Model / Launched in 1976, the first feminine Royal Oak raised the question of gender in watchmaking"
+   }
+  ],
+  "keywords": [
+   "로열 오크",
+   "오데마 피게",
+   "하이 주얼리",
+   "프로스트 골드",
+   "제랄드 젠타"
+  ],
+  "evidence": "the new Royal Oak Joallerie collection is a step out and up. Designed in-house and destined to be sold at private trunk shows",
+  "kind": "제품·오브제",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "시계 디자인이 하이 주얼리로 확장되는 구체적인 소재와 가공 방식을 상세히 다룬다.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/watches-jewellery/at-audemars-piguet-the-royal-oak-gives-shape-to-a-new-high-jewellery-collection",
+  "original_title": "At Audemars Piguet the Royal Oak gives shape to a new high jewellery collection",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 4611,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-06 10:55",
+  "research": {
+   "entities": [
+    "Audemars Piguet",
+    "Royal Oak",
+    "Gerald Genta",
+    "Jacqueline Dimier",
+    "Carolina Bucci"
+   ],
+   "questions": [
+    "오데마 피게의 새로운 하이 주얼리 컬렉션인 '로열 오크 주얼리(Royal Oak Joaillerie)'의 구체적인 디자인 특징과 제작 공정은 무엇인가?",
+    "제랄드 젠타가 디자인한 오리지널 로열 오크 브레이슬릿의 구조적 특징과 현대 하이 주얼리 라인으로의 진화 과정은 어떻게 되는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Meet the iconic Royal Oak",
+     "url": "https://www.audemarspiguet.com/gb/en/collections/royal-oak-collection"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Audemars Piguet | Royal Oak Joaillerie Collection",
+     "url": "https://www.audemarspiguet.com/gb/en/jewellery-collection"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Audemars Piguet",
+     "url": "https://en.wikipedia.org/wiki/Audemars%20Piguet"
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "Gérald Genta",
+     "url": "https://en.wikipedia.org/wiki/G%C3%A9rald%20Genta"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "런던 브루탈리즘의 회색 콘크리트에 형광을 입히다",
+     "url": "https://www.designboom.com/art/renee-levi-transforms-hayward-gallery-facade-in-audemars-piguet-contemporary-commission/"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "르네 레비가 헤이워드 갤러리의 콘크리트 외벽을 회화의 캔버스로 치환하다",
+     "url": "https://www.dazeddigital.com/art-photography/article/71023/1/art-writers-apply-to-interview-rene-levi-for-dazed-hayward-gallery?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=art-writers-join-dazed-club-for-your-chance-to-interview-renee-levi-for-us"
+    },
+    {
+     "n": 7,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "런던 브루탈리즘의 회색 콘크리트에 형광을 입히다",
+     "url": "https://www.wallpaper.com/art/renee-levi-september-hayward-gallery"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "chars": 7797
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "wallpaper.com/entertaining/our-place-wonder-oven-pro": {
+  "title_ko": "주방 위에 올리는 가전의 형태학, 아워플레이스 원더 오븐 프로",
+  "summary_ko": "라이프스타일 브랜드 아워플레이스가 30리터 용량의 8기능 에어프라이어 오븐 '원더 오븐 프로'를 출시했다. 기존 모델의 컴팩트한 디자인 코드를 유지하면서 도우 발효와 과일 건조 기능을 추가했고, PFAS를 배제한 스테인리스 스틸 소재를 적용했다. 블루 솔트, 차르, 크림 세 가지 색상으로 선보인다.",
+  "lens": "장난감 같은 귀여운 형태 안에 30리터의 대용량과 PFAS 프리 소재를 정교하게 압축했다.",
+  "why_now": "소형 주방 가전이 숨겨야 하는 기계가 아니라 거주 공간의 오브제로 노출되는 동시대 인테리어 트렌드를 반영한다.",
+  "mechanism": "급속 공기 순환 기술과 세 가지 랙 포지션을 적용해 전통 오븐보다 60% 빠른 예열과 동시에 다층 조리를 지원한다.",
+  "sensory": "크림과 차르 컬러의 매끄러운 스틸 질감과 직관적인 디지털 타이머의 빛이 조리 공간에 정돈된 인상을 부여한다.",
+  "transfer": "공간 연출 콘티에서 소형 가전 배치를 고민할 때, 숨기지 않고 전면에 노출해도 시각적 방해가 되지 않는 오브제형 기기로 설정한다.",
+  "context": "말랄라 펀드를 공동 창립한 사회적 기업가 시자 샤히드가 이끄는 다이렉트 투 컨슈머 브랜드 아워플레이스가 주방 가전 라인업을 확장한 결과물이다.",
+  "findings": [
+   {
+    "text": "원더 오븐 프로는 에어프라이, 베이크, 로스트, 토스트, 그릴, 재가열 외에 발효와 건조 기능이 추가된 8-in-1 에어프라이어 오븐이다.",
+    "s": 1,
+    "quote": "Air fry, bake, roast, toast, grill, reheat, prove, and dehydrate in one appliance."
+   },
+   {
+    "text": "원더 오븐 프로의 내부, 조리 표면, 액세서리는 과불화화합물(PFAS) 없이 제작되었다.",
+    "s": 1,
+    "quote": "The Wonder Oven Pro stainless steel interior, cooking surfaces, and accessories are made without PFAS, also known as Forever Chemicals."
+   },
+   {
+    "text": "시자 샤히드는 비영리 단체 말랄라 펀드의 공동 창립자이자 아워플레이스의 공동 창립자이다.",
+    "s": 4,
+    "quote": "She is the co-founder and former CEO of the non-profit Malala Fund... as well as the co-founder and co-CEO of Our Place"
+   }
+  ],
+  "keywords": [
+   "주방가전",
+   "아워플레이스",
+   "오브제",
+   "소재",
+   "디자인"
+  ],
+  "evidence": "Our Place’s Wonder Oven launched in 2024, and for small-space kitchen users, it's a heavenly product.",
+  "kind": "제품·오브제",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "브랜드의 신제품 출시 소식으로 디자인과 기능적 개선점이 명확하지만 제품 소개의 범위를 넘지 않는다.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/entertaining/our-place-wonder-oven-pro",
+  "original_title": "Our Place’s mini Wonder Oven just got even better",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 3403,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-06 10:56",
+  "research": {
+   "entities": [
+    "Our Place",
+    "Shiza Shahid",
+    "Wonder Oven"
+   ],
+   "questions": [
+    "Our Place가 추구하는 'non-toxic' 주방 가전의 핵심 기준과 PFAS 프리 소재의 중요성은 무엇인가요?",
+    "Wonder Oven Pro의 8-in-1 기능 중 기존 모델과 차별화되는 기술적 개선점은 무엇인가요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Wonder Oven Pro",
+     "url": "https://our-place.pxf.io/c/221109/1679350/19449?subId1=wallpaper-us-5969379184353916306&sharedId=wallpaper-us&u=https%3A%2F%2Ffromourplace.co.uk%2Fproducts%2Fwonder-oven-pro"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Essential Cookware & Dinnerware | Kitchen Essentials | Our Place",
+     "url": "https://our-place.pxf.io/c/221109/1679350/19449?subId1=wallpaper-us-1736033675535473331&sharedId=wallpaper-us&u=https%3A%2F%2Ffromourplace.co.uk%2F"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Better Place (company)",
+     "url": "https://en.wikipedia.org/wiki/Better%20Place%20%28company%29"
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "Shiza Shahid",
+     "url": "https://en.wikipedia.org/wiki/Shiza%20Shahid"
+    }
+   ],
+   "used": [
+    1,
+    4
+   ],
+   "chars": 5744
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "booooooom.com/2026/10/05/bang-up-job-by-photographer-jason-travis": {
+  "title_ko": "테이프와 임기응변, 제이슨 트래비스의 자동차 수리 연작 '뱅업 잡'",
+  "summary_ko": "로스앤젤레스 기반의 사진작가 제이슨 트래비스(Jason Travis)가 즉흥적인 자동차 수리 과정을 기록한 연작 '뱅업 잡(Bang-Up Job)'을 발표했다. 덕테이프나 임시 방편으로 고장 난 차량을 운행하는 상황을 포착해, 디자인적 배경을 살린 선명한 색채와 유희적인 구도로 담아냈다.",
+  "lens": "고장 난 기계를 임시로 잇는 덕테이프의 질감과 색채를 통해, 극한의 상황에서 발휘되는 창작자의 생존적 유머를 포착했다.",
+  "why_now": "완벽한 정비가 아닌 불완전한 수리 과정을 시각화하여, 기능적 결함을 창의적 유희로 전환하는 관점을 제시한다.",
+  "mechanism": "디자인 배경을 활용해 대상의 색채를 강조하고, 파편적인 수리 부위를 화면 중앙에 배치하여 임기응변의 현장감을 부각한다.",
+  "sensory": "테이프의 거친 접착면과 자동차 금속의 매끄러운 표면이 대비되며, 임시 수리라는 상황이 주는 불안정하면서도 활기찬 감각을 전달한다.",
+  "transfer": "영상 콘티 작업 시, 고정된 장치 대신 테이프나 끈을 활용한 임시 수리 디테일을 클로즈업 샷으로 배치하여 인물의 절박함과 엉뚱한 생존 방식을 표현한다.",
+  "context": "제이슨 트래비스는 디렉터이자 디자이너, 뮤지션으로 활동하며 다학제적 창작 활동을 이어간다. 이번 작업은 부룸(Booooooom)의 2026년 북 어워드 쇼트리스트에 선정된 바 있다.",
+  "findings": [],
+  "keywords": [
+   "제이슨 트래비스",
+   "임기응변",
+   "사진 연작",
+   "자동차 수리"
+  ],
+  "evidence": "“Bang-Up Job” is a look at the art of improvisation.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "일상적 소재를 디자인적 관점으로 재해석했으나, 작업의 기술적 깊이나 연출적 변주가 단편적으로 서술되어 있다.",
+  "v": 2,
+  "url": "https://www.booooooom.com/2026/10/05/bang-up-job-by-photographer-jason-travis/",
+  "original_title": "“Bang-Up Job” by Photographer Jason Travis",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 751,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-06 10:56",
+  "research": {
+   "entities": [
+    "Jason Travis",
+    "Booooooom"
+   ],
+   "questions": [
+    "제이슨 트래비스가 사진 작업에서 보여주는 디자인적 배경과 색채 활용의 특징은 무엇인가?",
+    "임기응변식 자동차 수리를 주제로 한 'Bang-Up Job' 시리즈가 전달하고자 하는 미학적 메시지는 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "창작자의 성장을 견인하는 실무 지원, 부룸x포맷 크리에이티브 개발 프로그램",
+     "url": "https://www.booooooom.com/2026/09/25/creative-development-program-winners/"
+    },
+    {
+     "n": 2,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "예술 플랫폼 부룸, 유료 멤버십 폐지하고 창작자 참여 문턱 낮춘다",
+     "url": "https://www.booooooom.com/2026/09/24/a-letter-from-the-editor-exciting-news/"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "트빌리시의 이방인들: 크세니아 미하일로바의 사진 연작 '빅 체리'",
+     "url": "https://www.booooooom.com/2026/09/28/big-cherry-by-photographer-ksenia-mikhailova/"
+    }
+   ],
+   "used": [],
+   "chars": 785
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "wallpaper.com/art/exhibitions-shows/sophie-calle-is-drawn-to-absence-of-men-of-work-of-a-feeling-in-margate": {
+  "title_ko": "소피 칼: 부재라는 형식을 다루는 법",
+  "summary_ko": "소피 칼(Sophie Calle)이 마게이트 터너 컨템포러리에서 개인전 'Something Missing?'을 개최한다. 이번 전시는 사랑하는 이의 상실이나 미완성된 프로젝트 등 작가가 천착해온 '부재'의 개념을 사진, 영상, 설치 작업으로 풀어낸다. 타인의 삶을 추적하는 탐정적 시선과 건조한 텍스트를 결합해 인간의 취약성을 기록한다.",
+  "lens": "부재라는 추상적 결핍을 개인 광고의 언어와 미완성된 기록물이라는 구체적 물성으로 치환해 전시장에 박제한다.",
+  "why_now": "정보 과잉의 시대에 작가는 언어를 극도로 절제하고 이미지만으로 서사를 완성하는 방식을 통해 침묵의 힘을 증명한다.",
+  "mechanism": "개인 광고의 경제적인 문장을 하이쿠처럼 활용해 정보를 압축하고, 미완성 프로젝트를 카탈로그로 묶어 부재했던 개념에 물리적 실체를 부여한다.",
+  "sensory": "영상 작업 'Voir la Mer'는 파도 소리 외에 모든 언어를 제거해 시각적 이미지의 밀도를 극대화하며, 관객에게 날것의 감각을 전달한다.",
+  "transfer": "콘티 구성 시 인물의 심리 상태를 설명하는 대사를 모두 덜어내고, 오직 인물의 시선이 머무는 곳과 주변의 환경음만으로 서사를 구축하는 연출을 시도한다.",
+  "context": "소피 칼은 1980년대부터 타인의 사생활을 추적하거나 자신의 일상을 강박적으로 기록하며 인간의 취약성을 탐구해왔다. 이번 전시는 2009년 이후 영국에서 열리는 첫 기관 전시로, 1986년부터 2024년까지의 주요 작업을 망라한다.",
+  "findings": [
+   {
+    "text": "소피 칼은 1953년생 프랑스 작가로, 임의로 설정한 제약 조건을 활용해 사진과 설치 작업을 수행한다.",
+    "s": 2,
+    "quote": "Calle's work is distinguished by its use of arbitrary sets of constraints, and evokes the French literary movement known as Oulipo."
+   },
+   {
+    "text": "터너 컨템포러리는 마게이트의 재생을 목적으로 설립된 현대 미술 공간으로, 화가 J. M. W. 터너와의 인연을 기념한다.",
+    "s": 3,
+    "quote": "Turner Contemporary is an art gallery in Margate, Kent, England, intended as a contemporary arts space and catalyst for the regeneration of the town."
+   }
+  ],
+  "keywords": [
+   "소피칼",
+   "부재",
+   "개념미술",
+   "터너컨템포러리",
+   "미완성"
+  ],
+  "evidence": "Calle resists easy definition, flitting between photography, video and installation, interested always in an eclectic array of subjects.",
+  "kind": "전시",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "작가의 작업 맥락과 부재를 다루는 구체적 기법이 잘 드러나 있으나, 전시 공간의 공간적 특성에 대한 심층적 분석은 다소 제한적이다.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/art/exhibitions-shows/sophie-calle-is-drawn-to-absence-of-men-of-work-of-a-feeling-in-margate",
+  "original_title": "Sophie Calle is drawn to absence – of men, of work, of a feeling – in Margate",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 4214,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-06 10:56",
+  "research": {
+   "entities": [
+    "Sophie Calle",
+    "Turner Contemporary",
+    "Louisiana Museum of Modern Art",
+    "Musée de la Chasse et de la Nature"
+   ],
+   "questions": [
+    "소피 칼의 작업에서 '부재(absence)'라는 개념이 어떻게 예술적 형식으로 구체화되는가?",
+    "소피 칼이 'Catalogue Raisonné of the Unfinished'를 통해 미완성된 프로젝트를 전시하는 의도는 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Sophie Calle: Something Missing?",
+     "url": "https://turnercontemporary.org/whats-on/exhibitions/sophie-calle-something-missing"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Sophie Calle",
+     "url": "https://en.wikipedia.org/wiki/Sophie%20Calle"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Turner Contemporary",
+     "url": "https://en.wikipedia.org/wiki/Turner%20Contemporary"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3
+   ],
+   "chars": 4305
+  },
+  "depth_raw": 4,
+  "depth_v": 2
  }
 }
