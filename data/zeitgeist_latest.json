@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-10-06 12:33 KST",
+  "generated_at": "2026-10-06 18:20 KST",
   "period": "2026.09.29 - 2026.10.06",
-  "total_articles": 424,
+  "total_articles": 434,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 198
+      "count": 204
     },
     {
       "genre": "동시대 미술",
-      "count": 136
+      "count": 140
     },
     {
       "genre": "아방가르드 패션",
@@ -55,10 +55,16 @@
     },
     {
       "keyword": "콘크리트 물성",
-      "count": 8,
+      "count": 9,
       "previous_count": 7,
-      "trend": "steady",
+      "trend": "rising",
       "items": [
+        {
+          "title": "상하이 역사 지구 중심에 위치한 리노베이션 프로젝트/동치 디자인",
+          "url": "https://www.archdaily.com/1039743/renovation-project-in-the-heart-of-shanghais-historic-area-dongqi-design",
+          "image_url": "https://images.adsttc.com/media/images/69ba/7b25/6e66/7900/01ef/d828/large_jpg/dongqi_by_Yasu_Kojima1.jpg?1773828939",
+          "source_name": "ArchDaily"
+        },
         {
           "title": "베트남의 하우스 K에서 자연은 \"일상과 분리될 수 없다\"",
           "url": "https://www.dezeen.com/2026/10/05/hgaa-house-k-vietnam/",
@@ -76,12 +82,38 @@
           "url": "https://www.dezeen.com/2026/10/04/museum-vonk-studio-marco-vermeulen/",
           "image_url": "https://static.dezeen.com/uploads/2026/10/vonk-museum-studio-marco-vemeulen-architecture-public-eindhoven_dezeen_2364_sq-852x852.jpg",
           "source_name": "Dezeen"
+        }
+      ]
+    },
+    {
+      "keyword": "목재 건축",
+      "count": 6,
+      "previous_count": 4,
+      "trend": "rising",
+      "items": [
+        {
+          "title": "나무가 무성한 파리지앵 레스토랑을 알리는 스피릿 오브 이베리아식 선술집",
+          "url": "https://www.dezeen.com/2026/10/06/arcane-17-restaurant-betyle-studio/",
+          "image_url": "https://static.dezeen.com/uploads/2026/10/arcane-17-betyle-studio-852x852.jpg",
+          "source_name": "Dezeen"
         },
         {
-          "title": "프리즈 조각에서 고전적인 조각과 공상 과학적 형태가 혼합된 3D 프린팅 콘크리트 조각품",
-          "url": "https://www.designboom.com/art/3d-printed-concrete-sculptures-classical-fragments-sci-fi-forms-frieze-sculpture-matyas-chochola/",
-          "image_url": "https://www.designboom.com/wp-content/dbsub/449140/2026-09-25/between-art-architecture-and-human-nature-1-6ab684bff35b6.jpg",
-          "source_name": "Designboom Art"
+          "title": "반티에겜 탈레비의 목재 '하우스 오브 카드’ 는 친숙한 형태로 플레이됩니다.",
+          "url": "https://www.wallpaper.com/architecture/residential/vantieghem-talebis-timber-house-of-cards-plays-with-a-familiar-form",
+          "image_url": "https://cdn.mos.cms.futurecdn.net/zhNmVfiSdm2f8K2jYnnEiC-1920-80.jpg",
+          "source_name": "Wallpaper*"
+        },
+        {
+          "title": "엔터 아르치 (Enter-Archi) 의 야카미 (Yakami) 의 부서진 지붕 꼭대기 목조 주택",
+          "url": "https://www.dezeen.com/2026/10/02/house-yakami-enter-archi-japan/",
+          "image_url": "https://static.dezeen.com/uploads/2026/10/house-yakami-enter-archi-japan_dezeen_2364_col_0-852x852.jpg",
+          "source_name": "Dezeen"
+        },
+        {
+          "title": "화이트 브릭 확장은 디자인 박물관 겐트 개편을 정의합니다",
+          "url": "https://www.dezeen.com/2026/10/01/carmody-groarke-design-museum-gent/",
+          "image_url": "https://static.dezeen.com/uploads/2026/10/design-museum-gent-carmody-groarke-atama-belgium-sq_dezeen_2364_col_1-852x852.jpg",
+          "source_name": "Dezeen"
         }
       ]
     },
@@ -113,38 +145,6 @@
           "title": "라파엘 프리에토 (Rafael Prieto) 는 뉴욕 건물의 조각으로 가구를 만듭니다.",
           "url": "https://www.dezeen.com/2026/10/02/rafael-prieto-the-future-of-the-past-emma-scully-gallery/",
           "image_url": "https://static.dezeen.com/uploads/2026/10/rafael-prieto-new-york-emma-scully-gallery_dezeen_2364_sq-1-852x852.jpg",
-          "source_name": "Dezeen"
-        }
-      ]
-    },
-    {
-      "keyword": "목재 건축",
-      "count": 5,
-      "previous_count": 4,
-      "trend": "steady",
-      "items": [
-        {
-          "title": "반티에겜 탈레비의 목재 '하우스 오브 카드’ 는 친숙한 형태로 플레이됩니다.",
-          "url": "https://www.wallpaper.com/architecture/residential/vantieghem-talebis-timber-house-of-cards-plays-with-a-familiar-form",
-          "image_url": "https://cdn.mos.cms.futurecdn.net/zhNmVfiSdm2f8K2jYnnEiC-1920-80.jpg",
-          "source_name": "Wallpaper*"
-        },
-        {
-          "title": "엔터 아르치 (Enter-Archi) 의 야카미 (Yakami) 의 부서진 지붕 꼭대기 목조 주택",
-          "url": "https://www.dezeen.com/2026/10/02/house-yakami-enter-archi-japan/",
-          "image_url": "https://static.dezeen.com/uploads/2026/10/house-yakami-enter-archi-japan_dezeen_2364_col_0-852x852.jpg",
-          "source_name": "Dezeen"
-        },
-        {
-          "title": "화이트 브릭 확장은 디자인 박물관 겐트 개편을 정의합니다",
-          "url": "https://www.dezeen.com/2026/10/01/carmody-groarke-design-museum-gent/",
-          "image_url": "https://static.dezeen.com/uploads/2026/10/design-museum-gent-carmody-groarke-atama-belgium-sq_dezeen_2364_col_1-852x852.jpg",
-          "source_name": "Dezeen"
-        },
-        {
-          "title": "희귀 컬렉티브는 \"배의 선체를 연상시키는\" 목재 갈비뼈로 노르웨이 사우나를 둘러싸고 있습니다.",
-          "url": "https://www.dezeen.com/2026/09/30/rare-collectiv-skroget-sauna/",
-          "image_url": "https://static.dezeen.com/uploads/2026/09/rare-collectiv-skroget-timber-sauna-norway-sq_dezeen_2364_col_0-852x852.jpg",
           "source_name": "Dezeen"
         }
       ]
