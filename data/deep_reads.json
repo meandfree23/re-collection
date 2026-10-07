@@ -131659,5 +131659,50 @@
   },
   "depth_raw": 4,
   "depth_v": 2
+ },
+ "designboom.com/art/concrete-letterforms-sculptural-skatepark-xpome-bulgaria-skateable": {
+  "title_ko": "콘크리트 타이포그래피가 스케이트보드 기물이 되다, 엑스포메의 스케이트어블",
+  "summary_ko": "불가리아 그래피티 아티스트 엑스포메(XPOME)가 가브로보의 크리스토 앤 잔 클로드 센터(Christo and Jeanne-Claude Center) 앞에 콘크리트와 강철로 만든 미니 스케이트 파크 '스케이트어블(SKATEABLE)'을 설치했다. 작가의 이름을 딴 다섯 개의 알파벳 글자는 각기 다른 스케이트보드 기술을 수행하는 기물로 작동한다.",
+  "lens": "타이포그래피의 시각적 형태를 실제 스케이트보드 기물의 기능적 동선으로 변환해 조형물과 놀이 기구의 경계를 지운다.",
+  "why_now": "공공 미술이 단순히 관람하는 대상에서 벗어나 신체적 상호작용을 유도하는 기능적 조형물로 확장되는 흐름을 보여준다.",
+  "mechanism": "알파벳 'X'는 더블 쿼터 파이프, 'P'는 콘크리트 섬을 감싼 레일, 'O'는 볼케이노, 'M'은 벤치, 'E'는 트리플 점핑 플랫폼으로 설계해 기물의 용도를 글자 형태 안에 내재했다.",
+  "sensory": "거친 콘크리트의 질감과 금속 레일이 부딪히며 발생하는 마찰음이 스케이트보드 주행의 속도감과 결합한다.",
+  "transfer": "공간 내 특정 문구의 타이포그래피를 단순히 벽면 그래픽으로 처리하지 않고, 그 획의 굴곡을 따라 벤치나 단차를 설계해 보행자의 동선을 유도하는 기물로 활용한다.",
+  "context": "이 작업은 불가리아의 스케이트보드 역사를 다루는 전시의 일환으로, 작가가 직접 제작한 조각이자 기능적 스케이트 파크로 기획되었다.",
+  "findings": [],
+  "keywords": [
+   "스케이트파크",
+   "타이포그래피",
+   "공공미술",
+   "콘크리트"
+  ],
+  "evidence": "The sculpture spells out ‘XPOME,’ the artist’s name, through five concrete and steel letters, each functioning as a different element for skateboarding or resting.",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "알파벳 형태를 스케이트보드 기물로 치환한 구체적인 설계 방식이 명확하여 공간 디자인에 즉각적인 영감을 준다.",
+  "v": 2,
+  "url": "https://www.designboom.com/art/concrete-letterforms-sculptural-skatepark-xpome-bulgaria-skateable/",
+  "original_title": "concrete letterforms become sculptural skatepark by XPOME in bulgaria",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 3443,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-07 11:51",
+  "research": {
+   "entities": [
+    "XPOME",
+    "Christo and Jeanne-Claude Center"
+   ],
+   "questions": [
+    "XPOME가 디자인한 콘크리트 조형물이 스케이트보드 기물로서 어떤 기술적 기능을 수행하는가?",
+    "불가리아 가브로보의 Christo and Jeanne-Claude Center에서 열리는 스케이트보드 역사 전시의 배경은 무엇인가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 4,
+  "depth_v": 2
  }
 }

@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-07 11:00 KST",
+  "generated_at": "2026-10-07 11:51 KST",
   "period": "2026.09.30 - 2026.10.07",
-  "total_articles": 403,
+  "total_articles": 404,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
@@ -9,7 +9,7 @@
     },
     {
       "genre": "동시대 미술",
-      "count": 135
+      "count": 136
     },
     {
       "genre": "아방가르드 패션",
@@ -55,10 +55,16 @@
     },
     {
       "keyword": "콘크리트 물성",
-      "count": 9,
+      "count": 10,
       "previous_count": 8,
-      "trend": "steady",
+      "trend": "rising",
       "items": [
+        {
+          "title": "불가리아의 XPOME에서 콘크리트 문자가 조각 스케이트장이 되다",
+          "url": "https://www.designboom.com/art/concrete-letterforms-sculptural-skatepark-xpome-bulgaria-skateable/",
+          "image_url": "https://www.designboom.com/wp-content/dbsub/468363/2026-10-01/xpome-skatepark-in-gabrovo-bulgaria-1-6abe6e9462414.JPG",
+          "source_name": "Designboom Art"
+        },
         {
           "title": "‘인생은 스펙터클이 아니다’ 바바라 크루거, 안도 다다오의 로툰다를 기념비적인 텍스트로 포장하다",
           "url": "https://www.designboom.com/art/life-spectacle-barbara-kruger-tadao-ando-rotunda-monumental-texts-bourse-de-commerce-paris-remember-me-exhibition/",
@@ -75,12 +81,6 @@
           "title": "베트남의 하우스 K에서 자연은 \"일상과 분리될 수 없다\"",
           "url": "https://www.dezeen.com/2026/10/05/hgaa-house-k-vietnam/",
           "image_url": "https://static.dezeen.com/uploads/2026/09/hgaa-house-k-vietnam-sq_dezeen_2364_col_0-852x852.jpg",
-          "source_name": "Dezeen"
-        },
-        {
-          "title": "MVRDV는 모듈식 콘크리트 거리 가구를 \"예상치 못한 방식으로\" 점유하도록 설계합니다.",
-          "url": "https://www.dezeen.com/2026/10/05/mvrdv-barcode-street-furniture-escofet/",
-          "image_url": "https://static.dezeen.com/uploads/2026/10/mvrdv-barcode-street-furniture-escofet_dezeen_2364_col_3-852x852.jpg",
           "source_name": "Dezeen"
         }
       ]
