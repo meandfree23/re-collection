@@ -131579,5 +131579,85 @@
   },
   "depth_raw": 4,
   "depth_v": 2
+ },
+ "yellowtrace.com.au/bureau-lilac-apartment-lisbon-compact-living": {
+  "title_ko": "리스본의 44제곱미터 아파트 라일락, 동선과 사적 영역을 결합하다",
+  "summary_ko": "건축 스튜디오 뷰로(Bureau)가 포르투갈 리스본에 완성한 44제곱미터 규모의 아파트 라일락은 이동 공간인 동선을 생활 공간으로 전환한다. 중앙의 습식 코어를 가로지르는 하나의 카운터가 주방과 욕실을 맞닿게 만들어 두 개의 사적 영역을 하나로 엮는다. 모든 개구부는 반투명 패널과 거울로 마감되어 좁은 면적에 시각적 깊이를 더한다.",
+  "lens": "버려지던 동선을 생활 면적으로 바꿔 44제곱미터의 물리적 한계를 정면으로 돌파한다.",
+  "why_now": "최소한의 주거 면적 속에서 효율성을 넘어 공간의 감각적 확장 방식을 증명한다.",
+  "mechanism": "중앙 코어 주변으로 난 네 개의 대칭형 통로가 빛을 실내 깊숙이 끌어들이고, 주방과 욕실을 관통하는 단 하나의 카운터가 두 개의 서로 다른 일상 영역을 시선으로 연결한다.",
+  "sensory": "벽과 천장을 감싼 연보라색 타일과 반투명 리브 패널이 빛을 부드럽게 난반사시키며 좁은 공간의 경계를 지운다.",
+  "transfer": "공간 영상 콘티를 짤 때, 분리된 두 개의 방 사이에 반투명 패널을 세우고 양쪽의 시선이 하나의 카운터에서 교차하는 롱테이크 샷으로 구성한다.",
+  "context": "다니엘 자마르비드(Daniel Zamarbide), 카리네 피멘타(Carine Pimenta), 갈리안 자마르비드(Galliane Zamarbide)가 이끄는 건축 스튜디오 뷰로는 이전작 루아 마리아에서 아파트 내부의 가능성을 확장한 바 있다.",
+  "findings": [
+   {
+    "text": "뷰로는 다니엘 자마르비드, 카리네 피멘타, 갈리안 자마르비드의 프로젝트이다.",
+    "s": 1,
+    "quote": "BUREAU is the project of Daniel Zamarbide, Carine Pimenta and Galliane Zamarbide."
+   }
+  ],
+  "keywords": [
+   "소형주거",
+   "동선설계",
+   "리스본",
+   "공간건축"
+  ],
+  "evidence": "How many square metres does a home actually need? Bureau has been poking at that question for a while.",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "제한된 면적에서 동선과 카운터를 교차시킨 명확한 건축적 해법이 돋보인다.",
+  "v": 2,
+  "url": "https://www.yellowtrace.com.au/bureau-lilac-apartment-lisbon-compact-living/",
+  "original_title": "Lilac by Bureau: 44 Square Metres, One Counter and Two Domestic Worlds.",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 3274,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-07 11:00",
+  "research": {
+   "entities": [
+    "Bureau",
+    "Daniel Zamarbide",
+    "Le Mépris",
+    "Francisco Nogueira"
+   ],
+   "questions": [
+    "Bureau 스튜디오가 지향하는 '순환을 공간으로, 공간을 순환으로' 바꾸는 건축적 전략은 무엇인가?",
+    "44제곱미터라는 제한된 면적에서 주방과 욕실을 하나의 카운터로 연결하는 설계가 거주자의 일상에 어떤 변화를 가져오는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "BUREAU",
+     "url": "https://bureau.ac/"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Contempt (film)",
+     "url": "https://en.wikipedia.org/wiki/Contempt%20%28film%29"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "엔진의 숨결로 지어 올린 애스턴 마틴 발렌의 기계 미학",
+     "url": "https://www.stashmedia.tv/outrageous-muscle-tomorrow-bureau-launches-the-aston-martin-valen-supercar/"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "암스테르담 노르트에 세운 401가구의 거대한 곡선 마을",
+     "url": "https://www.archdaily.com/1184623/singelblok-bureauvaneig-plus-inbo"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 1813
+  },
+  "depth_raw": 4,
+  "depth_v": 2
  }
 }
