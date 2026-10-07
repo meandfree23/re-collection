@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-10-08 00:47 KST",
+  "generated_at": "2026-10-08 04:14 KST",
   "period": "2026.10.01 - 2026.10.08",
-  "total_articles": 381,
+  "total_articles": 393,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 180
+      "count": 183
     },
     {
       "genre": "동시대 미술",
-      "count": 125
+      "count": 131
     },
     {
       "genre": "아방가르드 패션",
-      "count": 56
+      "count": 58
     },
     {
       "genre": "미디어 파사드·3D",
-      "count": 20
+      "count": 21
     }
   ],
   "themes": [
@@ -86,11 +86,49 @@
       ]
     },
     {
+      "keyword": "목재 건축",
+      "count": 6,
+      "previous_count": 7,
+      "trend": "steady",
+      "items": [
+        {
+          "title": "Architects Office는 상파울루 파빌리온의 \"거대한 퍼즐\" 로 대량 목재 스크랩을 사용합니다.",
+          "url": "https://www.dezeen.com/2026/10/07/architects-office-brazilian-pavilion-glulam-scrap/",
+          "image_url": "https://static.dezeen.com/uploads/2026/09/iz-pavilion-architects-office_dezeen_2364_sq_0-852x852.jpg",
+          "source_name": "Dezeen"
+        },
+        {
+          "title": "건축 및 언빌딩: 자재 폐기물을 처리하는 원형 목재 건축에 대한 접근 방식",
+          "url": "https://www.archdaily.com/1185836/building-and-unbuilding-an-approach-to-circular-timber-construction-addressing-material-waste",
+          "image_url": "https://images.adsttc.com/media/images/6ab6/d4d1/205c/9801/887f/5fe9/large_jpg/building-and-unbuilding-an-approach-to-circular-timber-construction-addressing-material-waste_19.jpg?1790367013",
+          "source_name": "ArchDaily"
+        },
+        {
+          "title": "2025년 아칸소주 크리스탈 브리지에 재건될 베니스 건축 비엔날레를 위한 말론 블랙웰 건축가의 미국관",
+          "url": "https://www.archdaily.com/1186399/marlon-blackwell-architects-us-pavilion-for-the-2025-venice-architecture-biennale-to-be-reconstructed-at-crystal-bridges-arkansas",
+          "image_url": "https://images.adsttc.com/media/images/6ac4/e247/27ac/8d01/89cb/bb58/large_jpg/marlon-blackwell-architects-us-pavilion-for-the-2025-venice-architecture-biennale-to-be-reconstructed-at-crystal-bridges-arkansas_3.jpg?1791287904",
+          "source_name": "ArchDaily"
+        },
+        {
+          "title": "나무가 무성한 파리지앵 레스토랑을 알리는 스피릿 오브 이베리아식 선술집",
+          "url": "https://www.dezeen.com/2026/10/06/arcane-17-restaurant-betyle-studio/",
+          "image_url": "https://static.dezeen.com/uploads/2026/10/arcane-17-betyle-studio-852x852.jpg",
+          "source_name": "Dezeen"
+        }
+      ]
+    },
+    {
       "keyword": "런웨이·쇼",
-      "count": 5,
+      "count": 6,
       "previous_count": 6,
       "trend": "steady",
       "items": [
+        {
+          "title": "파리 패션 위크 SS27: 이번 시즌 쇼에서 놓친 모든 것",
+          "url": "https://www.dazeddigital.com/fashion/article/71131/1/paris-fashion-week-ss27-pfw-best-shows-round-up-jean-paul-gaultier-telfar?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=paris-fashion-week-ss27-everything-you-missed-from-this-season-s-shows",
+          "image_url": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/7/1457200.jpg",
+          "source_name": "Dazed"
+        },
         {
           "title": "파리 패션 위크 SS27의 아름다움은 드라마에 큰 영향을 미칩니다",
           "url": "https://www.dazeddigital.com/beauty/article/71129/1/paris-fashion-week-ss27-best-beauty-looks?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=the-beauty-at-paris-fashion-week-ss27-goes-hard-on-the-drama",
@@ -108,12 +146,6 @@
           "url": "https://www.wallpaper.com/fashion-beauty/loewes-latest-show-will-take-place-in-a-casper-mueller-kneer-designed-arena",
           "image_url": "https://cdn.mos.cms.futurecdn.net/U9UnkgriJysbikxhjxqTfd-1920-80.jpg",
           "source_name": "Wallpaper*"
-        },
-        {
-          "title": "지금 패션이 섹스에 집착하는 이유는 무엇일까요?",
-          "url": "https://www.dazeddigital.com/fashion/article/71101/1/fashion-week-sex-pornhub-onlyfans-london-milan-paris-ss27-pfw-trends?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=why-is-fashion-so-obsessed-with-sex-right-now",
-          "image_url": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/6/1456698.JPG",
-          "source_name": "Dazed"
         }
       ]
     },
@@ -151,10 +183,22 @@
     },
     {
       "keyword": "박물관·전시",
-      "count": 38,
+      "count": 40,
       "previous_count": 52,
       "trend": "falling",
       "items": [
+        {
+          "title": "정원사로서의 박물관 관장",
+          "url": "https://hyperallergic.com/the-museum-director-as-gardener/",
+          "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/10/BG1A8982--1--1.jpg",
+          "source_name": "Hyperallergic"
+        },
+        {
+          "title": "2026년 프리즈 위크를 위한 런던의 즐길 거리 10선",
+          "url": "https://www.wallpaper.com/art/exhibitions-shows/ten-things-to-do-during-london-frieze-week-2026",
+          "image_url": "https://cdn.mos.cms.futurecdn.net/8RFJk9UhLhtxyJKZdBfTCd-1920-80.jpg",
+          "source_name": "Wallpaper*"
+        },
         {
           "title": "사이먼 라베우브의 1/35 스케일 미니어처에 자리한 우스꽝스러운 주택들",
           "url": "https://www.thisiscolossal.com/2026/10/simon-laveuve-miniature-dwellings-anchored-in-rock/",
@@ -166,58 +210,14 @@
           "url": "https://www.archdaily.com/1186399/marlon-blackwell-architects-us-pavilion-for-the-2025-venice-architecture-biennale-to-be-reconstructed-at-crystal-bridges-arkansas",
           "image_url": "https://images.adsttc.com/media/images/6ac4/e247/27ac/8d01/89cb/bb58/large_jpg/marlon-blackwell-architects-us-pavilion-for-the-2025-venice-architecture-biennale-to-be-reconstructed-at-crystal-bridges-arkansas_3.jpg?1791287904",
           "source_name": "ArchDaily"
-        },
-        {
-          "title": "베를린의 젊은 디자이너들은 Find Attached 전시회에서 더 적은 비용으로 더 많은 일을 합니다.",
-          "url": "https://www.dezeen.com/2026/10/07/find-attached-exhibition-berlin-currents/",
-          "image_url": "https://static.dezeen.com/uploads/2026/10/sq2-find-attached-currents_dezeen_2364_col_0-852x852.jpg",
-          "source_name": "Dezeen"
-        },
-        {
-          "title": "이동, 레고: 이 역사적인 건설 키트가 발견되기를 기다리고 있습니다.",
-          "url": "https://www.wallpaper.com/design-interiors/design-events/architectural-construction-kits-exhibition",
-          "image_url": "https://cdn.mos.cms.futurecdn.net/XKcyLBsMdEoJnq8W5jqU2a-1920-80.jpg",
-          "source_name": "Wallpaper*"
-        }
-      ]
-    },
-    {
-      "keyword": "사진",
-      "count": 10,
-      "previous_count": 13,
-      "trend": "falling",
-      "items": [
-        {
-          "title": "사진작가 Elizaveta Porodina가 악몽에서 아름다움을 찾는 방법",
-          "url": "https://www.dazeddigital.com/fashion/article/71126/1/photographer-elizaveta-porodina-interview-found-dreams-photo-book?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=how-photographer-elizaveta-porodina-finds-the-beauty-in-her-nightmares",
-          "image_url": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/7/1457093.jpg",
-          "source_name": "Dazed"
-        },
-        {
-          "title": "사진작가 Elizaveta Porodina가 빛나는 렌즈를 곤충으로 바꿉니다",
-          "url": "https://www.thisiscolossal.com/2026/10/elizaveta-porodina-photos-found-dreams/",
-          "image_url": "https://www.thisiscolossal.com/wp-content/uploads/2026/10/porodina-6.jpg",
-          "source_name": "This Is Colossal"
-        },
-        {
-          "title": "사라진 10년을 발굴하는 안젤라 힐",
-          "url": "https://www.anothermag.com/art-photography/17548/angela-hill-elizabeth-idea-books?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=angela-hill-excavates-a-disappeared-decade",
-          "image_url": "https://images-prod.anothermag.com/786/azure/another-prod/470/9/479161.jpg",
-          "source_name": "AnOther Magazine"
-        },
-        {
-          "title": "엘리자베타 포로디나 (Elizaveta Porodina): “외로움이 나를 예술로 이끌었다”",
-          "url": "https://www.anothermag.com/art-photography/17544/elizaveta-porodina-found-dreams-interview-photo-book?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=elizaveta-porodina-loneliness-catapulted-me-into-art-making",
-          "image_url": "https://images-prod.anothermag.com/786/azure/another-prod/470/9/479123.jpg",
-          "source_name": "AnOther Magazine"
         }
       ]
     }
   ],
   "notable_names": [
+    "Paris Fashion Week",
     "Leon Black",
     "Elizaveta Porodina",
-    "Paris Fashion Week",
     "Paola Lenti",
     "Bilbao Fine Arts Museum",
     "Rodolphe Parente",

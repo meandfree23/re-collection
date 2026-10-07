@@ -136062,5 +136062,905 @@
   },
   "depth_raw": 3,
   "depth_v": 2
+ },
+ "hyperallergic.com/the-museum-director-as-gardener": {
+  "title_ko": "정원사로서의 박물관 관장: 위스콘신 대학교 차젠 미술관의 리더십 실험",
+  "summary_ko": "위스콘신 대학교 매디슨 캠퍼스의 차젠 미술관이 11월 재개관을 앞두고 2만 5천 점 이상의 소장품을 재배치한다. 관장은 독단적인 천재 리더십에서 벗어나 관리적 예리함과 창의성을 결합한 정원사형 리더십을 제시한다. 이는 대학의 핵심 가치인 'sifting and winnowing'을 바탕으로 협업과 실험을 통해 컬렉션을 재구성하는 과정이다.",
+  "lens": "박물관 리더십을 창작의 주체가 아닌, 조건과 환경을 조성하는 관리자로 재정의하여 기관의 유연성을 확보한다.",
+  "why_now": "기관의 권위를 과시하던 기존 모델에서 탈피해, 소장품과 관객 사이의 관계를 실무적으로 재조정하는 운영 방식이 주목받고 있다.",
+  "mechanism": "알곡과 쭉정이를 가려내는 'sifting and winnowing' 원칙을 적용해, 방대한 소장품을 선별하고 재배치하는 물리적 노동을 창의적 의사결정의 핵심 동력으로 삼는다.",
+  "sensory": "2만 5천 점의 방대한 컬렉션이 재배치된 공간은 엄격한 분류 체계와 실험적인 전시 동선이 교차하며 밀도 높은 시각적 경험을 제공한다.",
+  "transfer": "공간 연출 시 수많은 요소를 단순히 나열하지 않고, 명확한 기준에 따라 불필요한 것을 덜어내는 '키질(winnowing)' 과정을 거쳐 핵심 오브제에 시선을 집중시킨다.",
+  "context": "차젠 미술관은 해리 위즈가 설계한 브루탈리즘 건물과 마차도-실베티가 설계한 증축 건물로 구성된 위스콘신 대학교의 핵심 기관이다. 이번 재전시는 2011년 증축 이후 2만 5천 점이 넘는 소장품을 관리해 온 기관의 운영 철학을 갱신하는 시도다.",
+  "findings": [
+   {
+    "text": "차젠 미술관은 위스콘신 대학교 매디슨 캠퍼스에 위치하며 2026년 기준 2만 5천 점 이상의 소장품을 보유하고 있다.",
+    "s": 1,
+    "quote": "With 176,000 sq. ft. of gross floor area and a collection of over 25,000 objects as of 2026, the Chazen Museum of Art is the second-largest art museum in Wisconsin"
+   }
+  ],
+  "keywords": [
+   "박물관 리더십",
+   "차젠미술관",
+   "컬렉션전시",
+   "기관운영"
+  ],
+  "evidence": "leadership that pairs managerial acumen with creativity",
+  "kind": "뉴스·이슈",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "기관 운영 철학의 변화를 다루나 구체적인 전시 공간의 시각적 장치에 대한 정보는 제한적이다.",
+  "v": 2,
+  "url": "https://hyperallergic.com/the-museum-director-as-gardener/",
+  "original_title": "The Museum Director as Gardener",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 2553,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-08 04:14",
+  "research": {
+   "entities": [
+    "Chazen Museum of Art",
+    "University of Wisconsin–Madison"
+   ],
+   "questions": [
+    "박물관 운영에서 '정원사(Gardener)'로서의 리더십은 기존의 '천재적 리더' 모델과 구체적으로 어떤 차이가 있는가?",
+    "위스콘신 대학교의 핵심 가치인 'sifting and winnowing'이 박물관의 컬렉션 재전시 과정에 어떻게 적용되었는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Chazen Museum of Art",
+     "url": "https://en.wikipedia.org/wiki/Chazen%20Museum%20of%20Art"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "University of Wisconsin–Madison",
+     "url": "https://en.wikipedia.org/wiki/University%20of%20Wisconsin%E2%80%93Madison"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 2378
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "thisiscolossal.com/2026/10/joel-sartore-photo-ark-national-geographic-animals-portraits-photography": {
+  "title_ko": "모든 생명을 균등하게 기록하는 조엘 사르토어의 20년 아카이브",
+  "summary_ko": "내셔널 지오그래픽 사진작가 조엘 사르토어가 20년 동안 동물원과 보호소에서 1만 8,000여 종의 야생동물을 순백색과 순흑색 배경 아래 촬영했다. 단순한 도감 제작을 넘어 멸종 위기 종을 보호하기 위한 기금 지원과 교육 프로그램으로 확장되고 있다.",
+  "lens": "단순한 동물 도감을 넘어 철저히 단색 배경과 정면 시선을 고정해 종의 평등함을 증명한다.",
+  "why_now": "생물 다양성 소실이 가속화되는 시대에 예술과 과학이 결합하여 기록의 공공성을 확보하는 방식을 보여준다.",
+  "mechanism": "동물원과 수족관에서 철저히 흰색 또는 검은색 단색 배경을 활용해 피사체의 질감과 눈맞춤을 강조한다.",
+  "sensory": "화려한 서식지 배경을 완전히 배제하고 오직 깃털, 비늘, 눈동자의 미세한 결만 극도로 밀도 있게 드러난다.",
+  "transfer": "인물이나 오브제를 촬영할 때 맥락적 배경을 소거하고 단색 배경과 정면 아이콘택트만으로 감정적 동력을 이끌어내는 연출에 쓴다.",
+  "context": "내셔널 지오그래픽(National Geographic) 소속 사진작가 조엘 사르토어(Joel Sartore)는 2006년부터 전 세계를 돌며 생물 다양성을 기록하는 대규모 프로젝트를 이어오고 있다.",
+  "findings": [
+   {
+    "text": "조엘 사르토어는 25,000종을 목표로 전 세계 동물원, 수족관, 야생동물 보호소에서 촬영을 진행하고 있다.",
+    "s": 1,
+    "quote": "He’s over half way to his goal of documenting over 25,000 species living in the world’s zoos, aquariums and wildlife sanctuaries."
+   }
+  ],
+  "keywords": [
+   "생물다양성",
+   "아카이브",
+   "스튜디오포트레이트",
+   "내셔널지오그래픽"
+  ],
+  "evidence": "Twenty years ago, National Geographic photographer Joel Sartore set out on a deceptively simple multi-year mission: to create a photo archive of biodiversity.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "20년 동안 지속된 대규모 다큐멘터리 프로젝트이나 기법 자체는 전통적인 스튜디오 인물 촬영 방식을 동물에 대입한 형태다.",
+  "v": 2,
+  "url": "https://www.thisiscolossal.com/2026/10/joel-sartore-photo-ark-national-geographic-animals-portraits-photography/",
+  "original_title": "More Than 18,000 Wildlife Species Populate Joel Sartore’s Ambitious ‘Photo Ark’ (So Far!)",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 2615,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-08 04:14",
+  "research": {
+   "entities": [
+    "Joel Sartore",
+    "Photo Ark",
+    "National Geographic"
+   ],
+   "questions": [
+    "Joel Sartore의 Photo Ark 프로젝트는 구체적으로 어떤 기준과 방식으로 동물들을 촬영하고 아카이빙하나요?",
+    "Photo Ark Species Impact Initiative는 멸종 위기 동물 보호를 위해 어떤 활동과 지원을 펼치고 있나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Photo Ark - National Geographic Society",
+     "url": "https://www.nationalgeographic.org/explore/programs/photo-ark"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Joel Sartore",
+     "url": "https://en.wikipedia.org/wiki/Joel%20Sartore"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "National Geographic",
+     "url": "https://en.wikipedia.org/wiki/National%20Geographic"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "로사 스나이더스, 무거운 주제를 부드러운 색채로 번역하는 방식",
+     "url": "https://www.creativeboom.com/work/rosa-snijders/"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "내셔널 지오그래픽의 100년, 미국이라는 거대한 서사를 기록하다",
+     "url": "https://www.wallpaper.com/travel/taschen-national-geographic-the-united-states-of-america-book"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 4870
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "dezeen.com/2026/10/07/architects-office-brazilian-pavilion-glulam-scrap": {
+  "title_ko": "상파울루의 틈새를 채우는 매스팀버 조각, IZ 파빌리온",
+  "summary_ko": "브라질 상파울루의 아파트 단지 사이에 위치한 IZ 파빌리온은 매스팀버 생산 과정에서 발생한 자투리 목재를 활용해 완성했다. 건축 사무소(Architects Office)는 다양한 크기의 접착 라미네이트 목재를 전통적인 접합 방식으로 연결하여 661제곱미터 규모의 구조물을 구축했다.",
+  "lens": "산업 폐기물인 목재 파편을 거대한 퍼즐처럼 맞물려 도심 속 유휴 공간을 새로운 건축적 밀도로 채운다.",
+  "why_now": "지속 가능한 건축을 위해 생산 공정의 잔재를 구조재로 전용하는 방식이 도심 밀집 지역의 새로운 공간 구축 대안으로 주목받는다.",
+  "mechanism": "크기가 불규칙한 매스팀버 스크랩을 전통적인 목재 결합 방식으로 조립하여 별도의 마감재 없이도 구조적 강도와 입체적인 질감을 동시에 확보한다.",
+  "sensory": "불규칙하게 쌓인 목재 조각들이 만드는 거친 질감과 매스팀버 특유의 따뜻한 색감이 아파트 단지의 차가운 콘크리트 벽면과 대비를 이룬다.",
+  "transfer": "공간 연출 시 규격화된 자재 대신 산업 현장의 부산물을 모듈화하여 조형적인 벽면이나 파티션을 구성하는 아이디어로 활용 가능하다.",
+  "context": "상파울루의 건축 사무소는 도시의 틈새 공간을 활용하여 버려지는 재료를 구조적 실험의 대상으로 삼는 작업을 수행했다.",
+  "findings": [],
+  "keywords": [
+   "매스팀버",
+   "상파울루",
+   "재생건축",
+   "파빌리온"
+  ],
+  "evidence": "Architects Office uses mass-timber scrap as \"immense jigsaw\" for São Paulo pavilion",
+  "kind": "프로젝트",
+  "depth": 2,
+  "grounding": "thin",
+  "depth_reason": "원문 본문을 확보하지 못해 프로젝트의 상세한 구축 기법과 구체적인 의도를 충분히 파악하기 어렵다.",
+  "v": 2,
+  "url": "https://www.dezeen.com/2026/10/07/architects-office-brazilian-pavilion-glulam-scrap/",
+  "original_title": "Architects Office uses mass-timber scrap as \"immense jigsaw\" for São Paulo pavilion",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 0,
+  "fetch": "fetch_error:HTTPError",
+  "cliche_hits": [],
+  "read_at": "2026-10-08 04:14",
+  "research": {
+   "entities": [
+    "IZ 파빌리온"
+   ],
+   "questions": [
+    "IZ 파빌리온 건설에 사용된 매스팀버 잔재의 구체적인 조달 과정은 어떠한가?",
+    "상파울루 아파트 단지 사이에 이 파빌리온을 설치한 건축적 의도와 도심 공간 활용의 특징은 무엇인가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "elephant.art/abe-lange-isnt-your-average-art-collector": {
+  "title_ko": "시간의 마모를 수집하다: 패션 역사가 아베 랑게의 아카이브",
+  "summary_ko": "패션 역사가이자 수집가인 아베 랑게(Abe Lange)는 500여 점의 빈티지 의류를 통해 음악, 하위문화, 일상의 역사를 기록한다. 그는 옷을 단순한 소비재가 아닌 예술적 오브제로 접근하며, 마모와 수선 흔적을 역사의 증거로 간주한다. 디스트레스드 페스트(Distressed Fest)를 공동 창립하고 TV 프로그램 ‘앤티크 로드쇼(Antiques Roadshow)’에서 감정사로 활동하며 빈티지 시장과 예술계의 간극을 좁히는 작업을 이어간다.",
+  "lens": "완벽한 상태의 새것보다 타인의 삶이 묻은 마모와 수선의 흔적을 통해 사물의 서사를 복원하는 아카이브 전략이다.",
+  "why_now": "디지털 환경에서 사물의 물성이 휘발되는 가운데, 신체와 밀착해 시간을 견뎌온 의류의 물리적 흔적을 기록하는 방식이 새로운 아카이브 모델로 주목받는다.",
+  "mechanism": "전시 기획 시 대중적인 스타일과 맥락이 완전히 어긋나는 아카이브 피스를 의도적으로 배치하여 관람객의 시각적 충격과 질문을 유도한다.",
+  "sensory": "바랜 그래픽, 닳아 해진 깃, 수십 년 전의 덧댐 수선 등 사물의 표면에 축적된 시간의 질감이 뚜렷하게 드러난다.",
+  "transfer": "공간 연출이나 영상 구성 시, 일관된 톤앤매너 사이에 이질적인 오브제를 하나 삽입하여 시각적 긴장감을 조성하는 전략을 활용한다.",
+  "context": "아베 랑게는 빈티지 의류를 예술적 아카이브로 다루며, 앤티크 로드쇼(Antiques Roadshow)와 같은 매체를 통해 사물의 가치를 재발견하는 감정사로 활동한다. 이는 매거진 속 이미지를 오려 붙여 초상화의 형식을 비트는 자넷 워너의 작업처럼, 기존의 맥락을 해체하고 새로운 서사를 구축하는 동시대 예술적 태도와 궤를 같이한다.",
+  "findings": [
+   {
+    "text": "앤티크 로드쇼는 1979년부터 방영된 영국의 리얼리티 쇼로, 감정사가 지역을 순회하며 일반인이 가져온 골동품을 감정하는 형식을 취한다.",
+    "s": 1,
+    "quote": "Antiques Roadshow is a British reality show television programme broadcast by the BBC in which antiques appraisers travel to various regions of the United Kingdom"
+   }
+  ],
+  "keywords": [
+   "아카이브",
+   "빈티지",
+   "패션역사",
+   "물성",
+   "서사"
+  ],
+  "evidence": "He’s drawn to pieces that show their age, whether through a faded graphic, a worn-in collar, or a repair made decades before it reached his hands.",
+  "kind": "작가·인터뷰",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "빈티지를 바라보는 수집가의 관점과 전시 전략은 구체적이나, 특정 작업의 심층적인 구조 분석보다는 인물의 철학에 집중된 인터뷰다.",
+  "v": 2,
+  "url": "https://elephant.art/abe-lange-isnt-your-average-art-collector/",
+  "original_title": "Abe Lange Isn’t Your Average Art Collector",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 5340,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-08 04:14",
+  "research": {
+   "entities": [
+    "Abe Lange",
+    "Jo Rosenthal",
+    "Antiques Roadshow",
+    "Distressed Fest"
+   ],
+   "questions": [
+    "빈티지 의류를 단순한 패션 아이템이 아닌 예술적 아카이브로 바라보는 에이브 랭의 관점은 무엇인가?",
+    "에이브 랭이 추구하는 'Distressed Fest'의 운영 철학과 그가 빈티지 시장에서 예술적 가치를 평가하는 기준은 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Antiques Roadshow",
+     "url": "https://en.wikipedia.org/wiki/Antiques%20Roadshow"
+    },
+    {
+     "n": 2,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "절단된 콜라주와 왜곡된 신체: 자넷 워너가 구축한 가상의 초상",
+     "url": "https://elephant.art/janet-werners-landscape-with-legs/"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 870
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "stashmedia.tv/bigstar-opens-big-day-with-peter-schrager-for-espn": {
+  "title_ko": "빅스타가 재해석한 뉴욕의 일상, ESPN 토크쇼 오프닝의 그리드 시스템",
+  "summary_ko": "크리에이티브 스튜디오 빅스타가 ESPN의 신규 스포츠 토크쇼 '빅 데이 위드 피터 슈래거'의 오프닝 비주얼을 제작했다. 이들은 뉴욕의 거리 질감과 보데가 창가에 놓인 일상적 사물들을 3D 아이콘과 결합해, 진행자 피터 슈래거의 정체성을 투영한 그리드 시스템을 구축했다.",
+  "lens": "뉴욕이라는 도시의 파편화된 일상을 5초라는 짧은 시간 안에 스포츠라는 맥락으로 재조립하는 그리드 미학을 보여준다.",
+  "why_now": "스포츠 방송의 전형적인 화려함 대신, 진행자의 개인적 배경과 도시의 날것을 결합해 시청자와의 친밀감을 극대화하려는 브랜딩 전략이 돋보인다.",
+  "mechanism": "보데가 창가에 공존하는 사물들의 무작위성을 그리드 레이아웃으로 구조화하고, 3D 스포츠 아이콘과 뉴욕의 거리 질감을 동일한 층위로 배치해 시각적 밀도를 높였다.",
+  "sensory": "프레첼 봉지, 복권, 팀 페넌트 등 익숙한 사물들이 3D 질감으로 구현되어 뉴욕 거리의 건조하고 사실적인 분위기를 전달한다.",
+  "transfer": "광고나 영상의 인트로에서 특정 인물의 성격을 드러낼 때, 그가 속한 환경의 오브제들을 그리드 기반으로 배치해 인물과 공간의 서사를 압축적으로 표현할 수 있다.",
+  "context": "빅스타는 뉴욕을 기반으로 활동하며 방송 디자인과 모션 그래픽 분야에서 활동하는 스튜디오다. 이번 작업은 ESPN이 추구하는 전국 단위의 스포츠 네트워크 위상과 진행자 피터 슈래거의 개인적 색채를 잇는 교두보 역할을 한다.",
+  "findings": [
+   {
+    "text": "ESPN은 1979년 설립된 미국의 스포츠 방송 네트워크로, 현재 월트 디즈니 컴퍼니 등이 공동 소유하고 있다.",
+    "s": 1,
+    "quote": "Founded on September 7, 1979, by Bill Rasmussen, Scott Rasmussen, and Ed Eagan, it is widely considered as the biggest sports network"
+   },
+   {
+    "text": "피터 슈래거는 ESPN과 ABC에서 활동하는 스포츠 캐스터로, 과거 폭스 스포츠와 NFL 네트워크에서 경력을 쌓았다.",
+    "s": 2,
+    "quote": "Peter Schrager (born April 20, 1982) is an American sportscaster for ESPN and ABC. Previously, he worked as an analyst with Fox Sports and a sideline reporter for the NFL Network."
+   }
+  ],
+  "keywords": [
+   "빅스타",
+   "모션그래픽",
+   "그리드디자인",
+   "ESPN",
+   "뉴욕아이콘"
+  ],
+  "evidence": "The open is built as a grid of objects every sports fan knows alongside Brooklyn street textures, New York iconography, 3D sport icons, and ESPN branding",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "스튜디오의 구체적인 디자인 콘셉트와 이를 구현한 시각적 장치, 제작 의도가 명확히 드러나 있어 실무적 참고 가치가 높다.",
+  "v": 2,
+  "url": "https://www.stashmedia.tv/bigstar-opens-big-day-with-peter-schrager-for-espn/",
+  "original_title": "BIGSTAR Opens Big Day With Peter Schrager for ESPN",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 3012,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-08 04:14",
+  "research": {
+   "entities": [
+    "ESPN",
+    "Peter Schrager",
+    "BIGSTAR"
+   ],
+   "questions": [
+    "BIGSTAR는 ESPN의 새 토크쇼 오프닝 비주얼을 어떤 방식으로 뉴욕의 정체성과 연결했는가?",
+    "보드가 윈도우(bodega window)의 요소를 차용한 디자인 콘셉트가 실제 오프닝 영상에 어떻게 구현되었는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "ESPN",
+     "url": "https://en.wikipedia.org/wiki/ESPN"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Peter Schrager",
+     "url": "https://en.wikipedia.org/wiki/Peter%20Schrager"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 1579
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "hyperallergic.com/10-art-shows-to-see-in-los-angeles-this-october": {
+  "title_ko": "로스앤젤레스 가을 미술계를 채우는 사물과 기억의 풍경",
+  "summary_ko": "로스앤젤레스의 여러 미술관과 화랑에서 일상적 사물과 역사적 기억을 재조명하는 가을 전시들이 열린다. 라이 록클렌은 조슈아 트리의 버려진 사물을 활용해 장소의 초상화를 그리고, 엘리엇 헌들리는 수백 장의 이미지를 핀으로 고정해 심층적 내면을 시각화한다. 조단 나서는 팔레스타인 전통 자수 타트리즈를 통해 문화적 기억과 파괴의 단면을 다룬다.",
+  "lens": "버려진 오브제와 사적인 기록을 거칠게 엮어 동시대 장소성과 기억의 실체를 폭로한다.",
+  "why_now": "디지털 이미지가 범람하는 시대에 물질적 사물과 수공예적 노동이 지닌 기록의 무게를 되묻는다.",
+  "mechanism": "버려진 쇼핑카트나 알루미늄으로 주조한 양말처럼 일상적 물성을 사진과 조각의 경계에 두어 낯설고 입체적인 시각 경험을 유도한다.",
+  "sensory": "녹슨 철재와 종이의 건조한 질감, 푸른색과 오렌지색의 극단적인 색채 대비가 전시장 내부를 채운다.",
+  "transfer": "광고나 뮤직비디오에서 일상 소품을 알루미늄이나 종이로 주조해 인물의 부재와 서사를 암시하는 오브제 컷으로 활용한다.",
+  "context": "라이 록클렌은 로스앤젤레스 기반으로 활동하며 일상 사물을 변형하는 조각 작업을 이어왔고, 엘리엇 헌들리는 핀과 수백 장의 이미지를 결합하는 대형 콜라주 작업을 전개해 왔다.",
+  "findings": [
+   {
+    "text": "라이 록클렌은 사진, 몰드 제작, 유약 데칼을 사용하여 각 형태를 사막의 이미지를 담는 컨테이너나 프레임으로 바꾼다.",
+    "s": 1,
+    "quote": "Using photography, mold-making, and glaze decals, he turns each form into a kind of container or frame, its surface carrying an image of the desert it inhabits."
+   },
+   {
+    "text": "미셸 오더는 1962년부터 휴대용 비디오를 주요 매체로 채택한 최초의 예술가 중 한 명이다.",
+    "s": 2,
+    "quote": "began filming in 1962, among the first artists to adopt portable video as a primary medium"
+   }
+  ],
+  "keywords": [
+   "일상의미학",
+   "오브제",
+   "조각",
+   "아카이브",
+   "로스앤젤레스"
+  ],
+  "evidence": "This October, art shows in the city home in on the everyday and its ability to reveal greater truths about existence, perception, and history.",
+  "kind": "전시",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "로스앤젤레스 주요 전시들을 조망하는 라운드업 기사로 구체적인 작가와 작업 맥락을 충실히 담는다.",
+  "v": 2,
+  "url": "https://hyperallergic.com/10-art-shows-to-see-in-los-angeles-this-october/",
+  "original_title": "10 Art Shows to See in Los Angeles This October",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 8939,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-08 04:14",
+  "research": {
+   "entities": [
+    "Ry Rocklen",
+    "Elliott Hundley",
+    "Michel Auder",
+    "Regen Projects",
+    "Gronk"
+   ],
+   "questions": [
+    "로스앤젤레스 현대 미술계에서 '일상적인 사물'을 예술적 오브제로 재해석하는 방식은 어떤 미학적 담론을 형성하고 있는가?",
+    "엘리엇 헌들리의 작품에서 나타나는 융 심리학적 '모래 놀이 치료' 기법이 그의 콜라주 작업에 어떤 조형적 변화를 가져왔는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Ry Rocklen | 12 September - 24 October 2026",
+     "url": "https://wildingcran.com/exhibitions/102-ry-rocklen-desert-lenses/?ref=hyperallergic.com"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Michel Auder | 12 September - 24 October 2026 - Overview",
+     "url": "https://jeniabramson.com/exhibitions/9-michel-auder-remains-of-the-day/overview/?ref=hyperallergic.com"
+    },
+    {
+     "n": 3,
+     "type": "공식·1차",
+     "title": "Regen Projects",
+     "url": "https://www.regenprojects.com/exhibitions/elliott-hundley7?ref=hyperallergic.com"
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "Ry Rocklen",
+     "url": "https://en.wikipedia.org/wiki/Ry%20Rocklen"
+    },
+    {
+     "n": 5,
+     "type": "위키백과",
+     "title": "Elliott Hundley",
+     "url": "https://en.wikipedia.org/wiki/Elliott%20Hundley"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 8518
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "archdaily.com/1186133/station-service-gens": {
+  "title_ko": "도로변의 소음을 안고 마을의 관문이 되다, 벨렌의 스테이션 서비스",
+  "summary_ko": "프랑스 벨렌에 완공된 연면적 300제곱미터 규모의 도서관 프로젝트다. 건축 스튜디오 젠스(GENS)가 설계했으며, 마을 가장자리의 국도변에 위치하여 소음이라는 입지적 한계 속에서도 높은 접근성과 시각적 개방성을 동시에 확보했다.",
+  "lens": "소음이 발생하는 국도변이라는 악조건을 시각적 개방성과 접근성이라는 건축적 자산으로 바꾼다.",
+  "why_now": "도시 외곽이나 인프라 주변의 소외된 대지를 공공 건축으로 되살리는 실천적 대안을 보여준다.",
+  "mechanism": "국도와 맞닿은 마을 가장자리에 건물을 배치해 이동 인구의 시선을 붙잡고 접근성을 극대화한다.",
+  "sensory": "자동차 소음이 스치는 바깥의 거친 풍경과 안쪽의 차분한 책 공간이 극적인 대비를 이룬다.",
+  "transfer": "공간 외곽의 소음이나 방해 요소를 차단하는 대신, 시야가 트인 국도변 전면 유리를 통해 외부의 동선을 프레임 안에 가두는 숏으로 활용한다.",
+  "context": "프랑스 벨렌(Velaines) 지역에 위치한 이 도서관은 젠스(GENS)가 설계하였으며 국도변의 대지 조건을 적극적으로 활용했다.",
+  "findings": [],
+  "keywords": [
+   "공공도서관",
+   "건축",
+   "소음",
+   "프랑스"
+  ],
+  "evidence": "The library is located at the edge of the village along the state road, which is a source of nuisances but also provides accessibility and perfect visibility for the facility.",
+  "kind": "프로젝트",
+  "depth": 2,
+  "grounding": "thin",
+  "depth_reason": "원문 분량이 짧아 구체적인 내부 구조나 재료 기법의 서술이 부족하고 기본적인 개요만 확인된다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1186133/station-service-gens",
+  "original_title": "STATION-SERVICE / GENS",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 908,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-08 04:14",
+  "research": {
+   "entities": [
+    "GENS"
+   ],
+   "questions": [
+    "STATION-SERVICE 프로젝트가 위치한 Velaines 지역의 맥락에서 이 도서관이 어떤 문화적 역할을 수행하나요?",
+    "GENS 스튜디오는 도로변의 소음 문제를 건축적으로 어떻게 해결하고 도서관의 접근성을 확보했나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Gens",
+     "url": "https://en.wikipedia.org/wiki/Gens"
+    }
+   ],
+   "used": [],
+   "chars": 1029
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "archdaily.com/1034225/cereal-interpretation-center-htelier": {
+  "title_ko": "포르투갈 물레방아의 기억을 담은 곡물 해석 센터",
+  "summary_ko": "포르투갈 산타 유페미아 지역에 위치한 곡물 해석 센터는 하아 아틀리에(há.atelier)가 설계한 210제곱미터 규모의 프로젝트다. 자연으로 둘러싸인 이 지역의 역사적 명소인 물레방아를 보존하고 재활용하는 적응형 재사용 방식을 적용했다. 고대의 문화적 가치를 지닌 건축물을 현대적으로 해석하여 새롭게 구축했다.",
+  "lens": "오래된 물레방아의 유산을 공간의 뼈대로 삼아 역사와 자연을 엮어낸다.",
+  "why_now": "과거의 건축 유산을 허물지 않고 현대적 프로그램으로 되살리는 적응형 재사용 방식이 지속 가능한 공간 디자인의 핵심으로 자리 잡았다.",
+  "mechanism": "기존 물레방아 부지가 지닌 역사적 구조와 주변의 자연 지형을 그대로 보존하면서 210제곱미터의 내부 공간을 유기적으로 배치했다.",
+  "sensory": "포르투갈의 거친 자연환경과 오랜 세월을 품은 석재 건축의 질감이 주변 풍경과 차분하게 섞인다.",
+  "transfer": "역사적 유적의 석재 표면과 주변 자연의 결을 살려 공간의 배경으로 활용하는 연출에 참고한다.",
+  "context": "하아 아틀리에(há.atelier)가 포르투갈 산타 유페미아 지역의 고대 건축 유산을 바탕으로 완성한 적응형 재사용 프로젝트다.",
+  "findings": [],
+  "keywords": [
+   "적응형재사용",
+   "포르투갈건축",
+   "하아아틀리에",
+   "문화유산"
+  ],
+  "evidence": "Surrounded by nature, the locality of Santa Eufémia, near the village of Espinhal, is a region known for its high cultural and historical value due to its antiquity.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "원문의 정보가 제한적이며 구체적인 설계 기법이나 도면이 상세히 공개되지 않은 평범한 소개다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1034225/cereal-interpretation-center-htelier",
+  "original_title": "Cereal Interpretation Center / há.atelier",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 948,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-08 04:14",
+  "research": {
+   "entities": [
+    "há.atelier"
+   ],
+   "questions": [
+    "곡물 해석 센터(Cereal Interpretation Center)가 위치한 지역의 역사적 배경과 물레방아의 문화적 의미는 무엇인가?",
+    "há.atelier가 이 프로젝트에서 기존 건축물을 보존하고 재활용(Adaptive Reuse)하기 위해 적용한 구체적인 설계 전략은 무엇인가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "dazeddigital.com/music/article/71132/1/a-night-at-girl-noise-an-nyc-festival-for-girls-by-girls-simone-lipkin": {
+  "title_ko": "십 대의 침실로 변신한 바워리 볼룸, 걸 노이즈가 구축하는 연대의 공간",
+  "summary_ko": "뉴욕의 음악 페스티벌 걸 노이즈(Girl Noise)는 로어 맨해튼의 바워리 볼룸을 십 대 소녀의 방처럼 꾸며 여성 중심의 연대를 시각화했다. 설립자 시몬 립킨(Simone Lipkin)은 음악 공연과 사회적 행동주의를 결합해, 티켓 수익 전액을 이민자 여성과 성폭력 생존자를 지원하는 비영리 단체 더 브레이브 하우스(The Brave House)에 기부한다.",
+  "lens": "공간을 사적 영역인 침실의 미학으로 치환해, 관객에게 외부의 정치적 압박으로부터 보호받는 심리적 안전망을 물리적으로 구현했다.",
+  "why_now": "디지털 액티비즘을 넘어 오프라인 공간에서 직접적인 연대를 확인하려는 세대의 욕구가 페스티벌이라는 형식으로 분출되고 있다.",
+  "mechanism": "무대 뒤편에 거대한 다이어리 필기체로 아티스트 이름을 투사하고, 별 모양 화환과 분홍빛 조명을 배치해 공간 전체를 사적인 다이어리 속 풍경으로 변주한다.",
+  "sensory": "따뜻한 분홍색 조명이 공간을 감싸고, 곳곳에 배치된 우정 팔찌 제작 부스와 잡지 제작 코너가 수공예적인 질감을 더해 친밀한 분위기를 조성한다.",
+  "transfer": "공간 연출 시 특정 집단의 정체성을 상징하는 오브제(다이어리, 수공예품)를 거대한 스케일로 확대 배치해, 관객이 그 세계관 안으로 진입한 듯한 몰입감을 유도한다.",
+  "context": "시몬 립킨은 1990년대 여성 음악가 중심의 투어이자 자선 활동을 펼친 릴리스 페어(Lilith Fair)의 맥락을 계승했다. 이는 단순히 음악을 감상하는 행사를 넘어, 특정 사회적 의제를 지지하는 행동주의 페스티벌의 계보를 잇는다.",
+  "findings": [
+   {
+    "text": "릴리스 페어는 1997년부터 1999년까지 개최되었으며 여성 솔로 아티스트와 여성 주도 밴드로만 라인업을 구성했다.",
+    "s": 2,
+    "quote": "It consisted solely of female solo artists and female-led bands. In its initial three years, Lilith Fair raised over $10 million for charity."
+   },
+   {
+    "text": "더 브레이브 하우스는 뉴욕 브루클린을 기반으로 이민자 여성을 위한 법률 지원과 커뮤니티 서비스를 제공하는 비영리 단체다.",
+    "s": 1,
+    "quote": "A non-profit for young immigrant women in NYC. Built with ❤ in Brooklyn."
+   }
+  ],
+  "keywords": [
+   "걸노이즈",
+   "시몬립킨",
+   "바워리볼룸",
+   "행동주의",
+   "공간연출"
+  ],
+  "evidence": "the venue’s main area was cast in a warm pink glow, with star-shaped garlands draped around the balcony",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "특정 사회적 맥락을 공간적 장치로 치환하는 연출 방식이 명확하며, 기획 의도가 시각적 결과물과 긴밀하게 연결되어 있다.",
+  "v": 2,
+  "url": "https://www.dazeddigital.com/music/article/71132/1/a-night-at-girl-noise-an-nyc-festival-for-girls-by-girls-simone-lipkin?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=a-night-at-girl-noise-an-nyc-festival-for-girls-by-girls",
+  "original_title": "A night at Girl Noise, an NYC festival ‘for girls by girls’",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 5533,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-08 04:14",
+  "research": {
+   "entities": [
+    "Girl Noise",
+    "Simone Lipkin",
+    "Bowery Ballroom",
+    "The Brave House",
+    "Lilith Fair"
+   ],
+   "questions": [
+    "Girl Noise 페스티벌은 어떤 아티스트들로 라인업이 구성되며, 향후 어떤 도시로 확장될 계획인가요?",
+    "Simone Lipkin이 페스티벌을 기획할 때 영감을 받은 Lilith Fair와 Rock for Choice는 어떤 역사적 배경을 가진 운동인가요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Supporting immigrant women in NYC",
+     "url": "https://www.thebravehouse.com/"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Lilith Fair",
+     "url": "https://en.wikipedia.org/wiki/Lilith%20Fair"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 861
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "wallpaper.com/art/exhibitions-shows/ten-things-to-do-during-london-frieze-week-2026": {
+  "title_ko": "프리즈 위크 2026, 런던의 예술 지형을 바꾸는 10가지 궤적",
+  "summary_ko": "프리즈 런던과 프리즈 마스터즈 기간, 런던 전역의 갤러리와 미술관이 개막하는 전시와 공연을 소개한다. 유코 모리의 바비칸 설치 작업부터 레베카 워렌의 15년 만의 런던 복귀, 에스테반 제퍼슨의 박물관 비평까지, 예술적 실험과 퀴어 파티가 도시를 채운다.",
+  "lens": "고정된 전시장을 벗어나 박물관의 기계적 소음, 낡은 배관의 누수, 퀴어 파티의 무질서를 통해 동시대 예술의 생동하는 현장을 포착한다.",
+  "why_now": "예술적 권위를 가진 공간이 보수 공사 중인 틈을 타, 그 안의 폐기물과 보이지 않는 기계 장치를 전시장 전면으로 끌어올리는 시도가 늘고 있다.",
+  "mechanism": "유코 모리는 튜브와 펌프를 활용해 물이 흐르고 부딪히는 소리를 조율하며, 바비칸의 폐기물을 키네틱 조각으로 재구성해 공간의 상태를 물리적으로 드러낸다.",
+  "sensory": "전시장 곳곳에서 들리는 금속성 마찰음과 물이 떨어지는 소리, 낡은 전선과 램프가 자아내는 불완전한 기계적 리듬이 공간을 채운다.",
+  "transfer": "공간의 보수 현장이나 폐기물을 촬영할 때, 이를 단순히 배경으로 두지 말고 소리와 움직임을 결합한 키네틱 장치로 활용해 현장의 서사를 구축하라.",
+  "context": "바비칸 센터는 브루탈리즘 건축의 상징이자 다양한 실험적 공연과 전시를 수용해왔다. 유코 모리는 일본의 2024년 베니스 비엔날레 대표 작가로서 일상적 오브제와 자연적 힘을 결합하는 작업을 지속해왔다.",
+  "findings": [
+   {
+    "text": "유코 모리는 바비칸 센터의 workshop과 back room에서 수집한 전선, 고철, 가로등을 활용해 전시를 구성했다.",
+    "s": 1,
+    "quote": "Japanese artist Yuko Mohri transforms The Curve with a new site-responsive commission exploring states of flux and acts of repair via light, sound and kinetic sculpture featuring Barbican objects."
+   },
+   {
+    "text": "게오르그 바젤리츠는 1965년에서 1966년 사이 제작한 '영웅(Heroes)' 연작을 통해 전후 유럽 회화의 관습적 질서를 거부했다.",
+    "s": 2,
+    "quote": "Rejecting both the prevailing optimism of the post-war era and the dominant artistic currents of the 1960s, he forged a singular figurative vocabulary through which to confront the"
+   },
+   {
+    "text": "바비칸 센터는 1982년 개관 이후 런던의 대표적인 브루탈리즘 건축물로 자리 잡았다.",
+    "s": 3,
+    "quote": "Together with the Southbank Centre, a similar arts centre, the Barbican Centre is also known for its brutalist architecture."
+   },
+   {
+    "text": "게오르그 바젤리츠는 1969년부터 회화의 재현적 성격을 극복하기 위해 대상을 거꾸로 그리는 방식을 도입했다.",
+    "s": 4,
+    "quote": "In 1969 he began painting his subjects upside down in an effort to overcome the representational, content-driven character of his earlier work and stress the artifice of painting"
+   }
+  ],
+  "keywords": [
+   "키네틱 아트",
+   "바비칸 센터",
+   "게오르그 바젤리츠",
+   "프리즈 위크",
+   "공간 실험"
+  ],
+  "evidence": "Yuko Mohri has turned the Barbican’s cast-offs into a wonky concert of leaks, clangs and whirring machinery",
+  "kind": "리스트·라운드업",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "런던 프리즈 위크의 주요 전시와 공연을 다루되, 개별 작업의 물리적 장치와 맥락을 충실히 반영했다.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/art/exhibitions-shows/ten-things-to-do-during-london-frieze-week-2026",
+  "original_title": "Ten great things to do in London for Frieze Week 2026",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 9000,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-08 04:14",
+  "research": {
+   "entities": [
+    "Yuko Mohri",
+    "Barbican Centre",
+    "Georg Baselitz",
+    "Frieze London",
+    "Issy Wood"
+   ],
+   "questions": [
+    "프리즈 위크(Frieze Week)가 런던의 예술 생태계와 갤러리 운영에 미치는 영향은 무엇인가요?",
+    "유코 모리(Yuko Mohri)의 키네틱 아트가 일상적인 오브제와 자연적 힘을 결합하는 방식은 어떤 예술적 의미를 갖나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Yuko Mohri: In Concert | Barbican",
+     "url": "https://www.barbican.org.uk/whats-on/2026/event/yuko-mohri-in-concert"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Georg Baselitz | The Heroes 1965–66",
+     "url": "https://ropac.net/exhibitions/806-georg-baselitz-the-heroes-196566/"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Barbican Centre",
+     "url": "https://en.wikipedia.org/wiki/Barbican%20Centre"
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "Georg Baselitz",
+     "url": "https://en.wikipedia.org/wiki/Georg%20Baselitz"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "화가 이시 우드가 텍사스 사막에서 펼치는 낯선 팝 음악 라이브",
+     "url": "https://www.anothermag.com/design-living/17498/issy-wood-marfa-ballroom-music-gig-performance-texas?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=issy-wood-on-taking-her-irresistible-confessional-pop-music-to-marfa"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "후지와라 타츠야, 바비칸에서 무라카미 하루키의 세계를 소환하다",
+     "url": "https://www.wallpaper.com/art/tatsuya-fujiwara-haruki-murakami-barbican-london"
+    },
+    {
+     "n": 7,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "진흙과 상징만 남긴 연극, 런던 바비칸에 서다",
+     "url": "https://www.anothermag.com/design-living/17550/armando-babaioff-tom-na-fazenda-barbican-interview?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=the-brazilian-play-that-became-armando-babaioff-s-life-s-work"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "chars": 8264
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "wallpaper.com/design-interiors/lighting/michael-anastassiades-flos-new-partnership-announced": {
+  "title_ko": "마이클 아나스타시아데스, 독립 브랜드 종료 후 플로스와 디자인 유산 통합",
+  "summary_ko": "런던 디자이너 마이클 아나스타시아데스가 자신의 조명 브랜드를 폐쇄하고, 10년 이상 협력해 온 이탈리아 조명 기업 플로스와 파트너십을 강화한다. 이에 따라 그의 독립 컬렉션 제품들은 플로스의 카탈로그로 이전되어 생산 및 유통될 예정이다. 이번 결정은 디자인 창작 과정에 집중하고 새로운 방향을 탐색하려는 디자이너의 의지와 미래 지향적 협업을 추구하는 기업의 전략이 맞물린 결과다.",
+  "lens": "조명 오브제를 미세 건축물로 치환하는 섬세한 제스처를 산업적 생산 체계 안에 안정적으로 안착시킨다.",
+  "why_now": "디자이너가 독립적인 실험을 넘어 대규모 제조 인프라를 통해 자신의 디자인 언어를 영속화하려는 흐름을 보여준다.",
+  "mechanism": "빛을 발산하는 구체와 황동 막대의 균형 같은 기하학적 구성을 통해 조명을 단순한 기능재가 아닌 공간의 구조적 요소로 작동하게 한다.",
+  "sensory": "황동의 차가운 금속성과 빛의 확산이 만드는 극명한 대비, 그리고 정밀한 기하학적 비례가 주는 시각적 질서가 공간을 지배한다.",
+  "transfer": "공간 연출 시 조명을 오브제가 아닌 건축의 뼈대를 강조하는 선형적 요소로 배치하여 공간의 리듬감을 형성한다.",
+  "context": "마이클 아나스타시아데스는 지난 15년간 플로스와 협업하며 IC 시리즈와 좌표(Coordinates) 샹들리에 등 대표작을 제작해 왔다. 플로스는 비앤비 이탈리아 그룹 소속으로, 현대 가구 및 조명 시장에서 기술과 감성을 결합한 디자인을 전개하고 있다.",
+  "findings": [
+   {
+    "text": "비앤비 이탈리아는 1966년 피에로 암브로지오 부스넬리가 설립한 현대 가구 기업이다.",
+    "s": 2,
+    "quote": "B&B Italia SpA is an Italian modern furniture company founded in 1966 by Piero Ambrogio Busnelli, who had previously co-founded C&B Italia with Cesare Cassina."
+   }
+  ],
+  "keywords": [
+   "마이클 아나스타시아데스",
+   "플로스",
+   "조명 디자인",
+   "산업 디자인",
+   "미세 건축"
+  ],
+  "evidence": "The inclusion of Michael Anastassiades’ heritage collection in the Flos catalogue is the natural consequence of a collaboration that began more than ten years ago",
+  "kind": "뉴스·이슈",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "유명 디자이너의 브랜드 통합이라는 산업적 사건을 다루고 있으나, 새로운 기법보다는 기존 작업의 연장선에 집중하고 있다.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/design-interiors/lighting/michael-anastassiades-flos-new-partnership-announced",
+  "original_title": "Michael Anastassiades and Flos announce a strengthened partnership",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 3269,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-08 04:14",
+  "research": {
+   "entities": [
+    "Michael Anastassiades",
+    "Flos",
+    "IC",
+    "Coordinates",
+    "B&B Italia"
+   ],
+   "questions": [
+    "마이클 아나스타시아데스가 자신의 독립 브랜드를 종료하고 플로스(Flos)와 협력을 강화하게 된 디자인 철학적 배경은 무엇인가?",
+    "플로스(Flos)가 마이클 아나스타시아데스의 기존 컬렉션을 통합함으로써 얻게 되는 브랜드 전략적 이점은 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Flos Official Online Store | Contemporary Lighting and Decorative Lights  ",
+     "url": "https://go.redirectingat.com?id=92X1650074&xcust=wallpaper_us_1316501188272825960&xs=1&url=https%3A%2F%2Fflos.com%2Fen%2Fgb%2F&sref=https%3A%2F%2Fwww.wallpaper.com"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "B&B Italia",
+     "url": "https://en.wikipedia.org/wiki/B%26B%20Italia"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "원시 벽돌과 콘크리트를 깎아 만든 시드니의 거대 조각 주택",
+     "url": "https://www.yellowtrace.com.au/madeleine-blanchfield-architects-sculpted-bronte-house-australian-architecture/"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "1960년대 하워드 라팜의 저택, 은빛 영화 세트로 부활하다",
+     "url": "https://www.wallpaper.com/design-interiors/interior-design/midcentury-modern-palm-springs-house-jessica-ayromloo"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 2303
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "dazeddigital.com/fashion/article/71131/1/paris-fashion-week-ss27-pfw-best-shows-round-up-jean-paul-gaultier-telfar": {
+  "title_ko": "파리 패션 위크 SS27: 신체와 공간의 경계를 재구성하는 아방가르드",
+  "summary_ko": "파리 패션 위크 SS27은 마티에르 페칼의 사회 비판적 런웨이부터 이세이 미야케의 공기 역학적 실루엣까지, 신체와 의복의 관계를 재정의하는 시도들로 채워졌다. 텔파 클레멘스는 파리 현장에서 뉴욕 라이브 스트리밍을 연결하는 역설적 연출을 선보였고, 장 폴 고티에의 듀란 란팅크는 해체주의적 구조로 인체 곡선을 비틀었다.",
+  "lens": "의복이 신체를 감싸는 보호막을 넘어, 공기의 흐름과 물리적 왜곡을 통해 신체의 실재를 의심하게 만드는 조형적 장치로 기능한다.",
+  "why_now": "여름철 극심한 더위라는 환경적 요인이 디자이너들로 하여금 신체와 옷 사이의 유격을 넓히는 가볍고 공기 함유량이 높은 구조를 탐구하게 만들었다.",
+  "mechanism": "이세이 미야케는 11명의 무용수가 파란 천을 조작하는 퍼포먼스로 옷의 부피감을 시각화했고, 란팅크는 어깨 패드를 전면으로 이동시켜 신체 구조를 인위적으로 왜곡하는 해체적 패턴을 적용했다.",
+  "sensory": "이세이 미야케의 쇼에서는 얇은 실크가 공기를 머금고 팽창하는 부유감이, 톰 포드 쇼에서는 유리 벽면과 래커 칠한 가죽이 빚어내는 차갑고 날카로운 반사광이 지배적이다.",
+  "transfer": "공간 연출 시 모델의 동선을 따라 천이 휘날리는 공기 저항을 활용하거나, 특정 부위의 볼륨을 과장한 의상을 통해 인체의 기하학적 형태를 의도적으로 무너뜨리는 샷을 구성한다.",
+  "context": "마티에르 페칼은 초기 디지털 신체 변형 미학을 실리콘 의상으로 구현하며 주류 패션계에 진입했다. 장 폴 고티에는 1990년대 마돈나의 콘 브라를 비롯해 신체 부위를 기하학적 오브제로 치환하는 디자인 전통을 이어오고 있다.",
+  "findings": [
+   {
+    "text": "마티에르 페칼은 디지털 환경의 신체 변형 미학을 물리적 실리콘 의상으로 구현하며 주류 패션계의 주목을 받는다.",
+    "s": 4,
+    "quote": "한나 로즈 달튼과 스티븐 라즈 바스카란의 듀오 마티에르 페칼은 초기 디지털 환경에서 선보인 기괴한 실리콘 의상과 신체 변형 미학을 물리적 런웨이로 확장했다."
+   },
+   {
+    "text": "장 폴 고티에는 1990년 마돈나의 월드 투어 당시 콘 브라를 디자인하며 신체 부위를 기하학적 오브제로 재해석하는 시그니처를 구축했다.",
+    "s": 2,
+    "quote": "As a costume designer, Gaultier created Madonna's cone bra for the 1990 Blond Ambition World Tour"
+   }
+  ],
+  "keywords": [
+   "파리패션위크",
+   "해체주의",
+   "신체변형",
+   "공기역학",
+   "조형미"
+  ],
+  "evidence": "designers seemed to embrace fabrics with light and airy qualities, perhaps in response to this summer’s extreme heat.",
+  "kind": "런웨이·컬렉션",
+  "depth": 5,
+  "grounding": "full",
+  "depth_reason": "신체와 의복의 관계를 공기, 구조, 매체적 역설로 나누어 구체적으로 분석하고 연출적 대안을 제시한다.",
+  "v": 2,
+  "url": "https://www.dazeddigital.com/fashion/article/71131/1/paris-fashion-week-ss27-pfw-best-shows-round-up-jean-paul-gaultier-telfar?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=paris-fashion-week-ss27-everything-you-missed-from-this-season-s-shows",
+  "original_title": "Paris Fashion Week SS27: Everything you missed from this season’s shows",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 9000,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-08 04:14",
+  "research": {
+   "entities": [
+    "Matières Fécales",
+    "Saint Laurent",
+    "Valentino",
+    "Jean Paul Gaultier",
+    "Telfar Clemens"
+   ],
+   "questions": [
+    "파리 패션위크 SS27에서 디자이너들이 공통적으로 선보인 소재와 디자인적 특징은 무엇인가?",
+    "텔파 클레멘스가 파리 패션위크에서 뉴욕을 배경으로 한 라이브 스트리밍 쇼를 기획한 의도는 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Valentino (fashion house)",
+     "url": "https://en.wikipedia.org/wiki/Valentino%20%28fashion%20house%29"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Jean Paul Gaultier",
+     "url": "https://en.wikipedia.org/wiki/Jean%20Paul%20Gaultier"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "8월의 뷰티 캠페인, 감각적 물성과 서사를 입히는 방식",
+     "url": "https://www.dazeddigital.com/beauty/article/70862/1/paloma-elsesser-dakota-johnson-alexander-skarsgrd-keeping-it-hot-this-month?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=all-the-august-2026-beauty-drops-you-need-to-know"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "마티에르 페칼, 디지털 괴물에서 파리 쿠튀르의 중심부로",
+     "url": "https://www.dazeddigital.com/fashion/article/70867/1/matieres-fecales-dazed-cover-autumn-2026-hannah-rose-dalton-steven-raj-bhaskaran?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=how-fashion-outsiders-matieres-fecales-won-over-the-establishment"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "가상의 신전과 매장 사이, 뎀나가 재정의한 구찌의 다중적 유산",
+     "url": "https://www.anothermag.com/fashion-beauty/17510/demna-gucci-spring-summer-27-review-ss27-milan-fashion-week?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=demna-s-gucci-is-selling-a-dream"
+    }
+   ],
+   "used": [
+    2,
+    4
+   ],
+   "chars": 2209
+  },
+  "depth_raw": 5,
+  "depth_v": 2
  }
 }

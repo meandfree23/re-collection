@@ -1756,16 +1756,20 @@
  },
  "2026-10-08": {
   "date": "2026-10-08",
-  "headline": "청동의 유리 조명과 구멍 없는 목조 결합의 장력",
-  "editorial": "아파라투스의 청동과 유리 조명은 신화적 형상을 정교하게 다듬어 공간을 채운다. 스트랩과 마찰력만으로 구조를 엮은 가역적 목조 건축은 못을 쓰지 않고도 단단한 결합을 완성한다. 인도 아마다바드의 주택 솔리더스는 거대한 콘크리트 덩어리를 깎아내어 빛과 조경을 내부로 깊숙이 들인다.",
+  "headline": "청동 조명과 콘크리트 파편, 낡은 수선의 흔적",
+  "editorial": "파리 패션 위크가 제안하는 신체 조형과 아파라투스의 청동 조명은 물성의 긴장감을 극대화하며 출발한다. 이어 아베 랑게의 빈티지 아카이브와 포르투갈의 오래된 물레방아는 시간의 마모가 남긴 자국을 공간과 사물에 겹쳐 세운다. 못을 쓰지 않는 목조 결합과 콘크리트 주택 솔리더스의 감산 건축은 견고한 구조를 이루는 또 다른 방식을 증명한다.",
   "threads": [
    {
-    "name": "구조와 재료의 결합",
-    "note": "못 없이 마찰력으로 엮은 목조 결합과 덩어리를 깎아낸 콘크리트 주택의 물리적 짜임새를 보여준다.",
+    "name": "물성과 구조의 긴장",
+    "note": "청동과 유리, 콘크리트를 깎아 만든 감산의 건축으로 물리적 조형미를 구축한다.",
     "items": [
      {
-      "title": "구멍 없는 결합: 스트랩과 마찰로 완성하는 가역적 목조 건축",
-      "url": "https://www.archdaily.com/1185836/building-and-unbuilding-an-approach-to-circular-timber-construction-addressing-material-waste"
+      "title": "파리 패션 위크 SS27: 신체와 공간의 경계를 재구성하는 아방가르드",
+      "url": "https://www.dazeddigital.com/fashion/article/71131/1/paris-fashion-week-ss27-pfw-best-shows-round-up-jean-paul-gaultier-telfar?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=paris-fashion-week-ss27-everything-you-missed-from-this-season-s-shows"
+     },
+     {
+      "title": "페르시아 신화와 서사의 물성, 아파라투스의 5년 만의 풀 컬렉션",
+      "url": "https://www.dezeen.com/2026/10/07/apparatus-act-v-collection-persian-mythology/"
      },
      {
       "title": "거대한 콘크리트 덩어리를 깎아 만든 인도 아마다바드의 주택 '솔리더스'",
@@ -1774,23 +1778,33 @@
     ]
    },
    {
-    "name": "신화와 조명의 조형",
-    "note": "페르시아 신화의 이야기를 청동과 유리, 래커의 물성으로 번역해 조명 디자인으로 구현했다.",
+    "name": "시간이 묻은 기억의 재조립",
+    "note": "오래된 물레방아의 유산과 타인의 삶이 묻은 마모의 흔적을 공간과 사물로 복원한다.",
     "items": [
      {
-      "title": "페르시아 신화와 서사의 물성, 아파라투스의 5년 만의 풀 컬렉션",
-      "url": "https://www.dezeen.com/2026/10/07/apparatus-act-v-collection-persian-mythology/"
+      "title": "시간의 마모를 수집하다: 패션 역사가 아베 랑게의 아카이브",
+      "url": "https://elephant.art/abe-lange-isnt-your-average-art-collector/"
      },
      {
-      "title": "유산과 현대성을 포개다, 플라주 데 나시옹 모스크",
-      "url": "https://www.archdaily.com/1186057/plage-des-nations-mosque-oualalou-plus-choi"
+      "title": "포르투갈 물레방아의 기억을 담은 곡물 해석 센터",
+      "url": "https://www.archdaily.com/1034225/cereal-interpretation-center-htelier"
+     }
+    ]
+   },
+   {
+    "name": "못 없는 가역적 결합",
+    "note": "장력과 마찰력으로 구조를 엮어 해체와 재조립이 가능한 순환 건축을 실험한다.",
+    "items": [
+     {
+      "title": "구멍 없는 결합: 스트랩과 마찰로 완성하는 가역적 목조 건축",
+      "url": "https://www.archdaily.com/1185836/building-and-unbuilding-an-approach-to-circular-timber-construction-addressing-material-waste"
      }
     ]
    }
   ],
-  "based_on": 9,
+  "based_on": 21,
   "v": 3,
   "model": "gemini-3.5-flash-lite",
-  "written_at": "2026-10-08 00:52"
+  "written_at": "2026-10-08 04:15"
  }
 }
