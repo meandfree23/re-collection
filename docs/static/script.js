@@ -36,10 +36,27 @@
   }
   function depthOf(it) { return parseInt(((it.deep || {}).depth) || 0, 10); }
 
+  function isPick(it) {
+    if (it.is_pick) return true;
+    if (depthOf(it) >= 5) return true;
+    var note = notes[state.date];
+    if (note && note.threads) {
+      var u = (it.url || '').split('?')[0].replace(/\/+$/, '');
+      for (var i = 0; i < note.threads.length; i++) {
+        var items = note.threads[i].items || [];
+        for (var j = 0; j < items.length; j++) {
+          var tu = (items[j].url || '').split('?')[0].replace(/\/+$/, '');
+          if (tu && tu === u) return true;
+        }
+      }
+    }
+    return false;
+  }
+
   function cardHtml(it) {
     var dp = it.deep || {};
     var url = it.url || '#';
-    var pick = depthOf(it) >= 5;
+    var pick = isPick(it);
     var media = it.image_url ? '<a class="rc-card-media" href="' + esc(url) + '" target="_blank" rel="noopener noreferrer" tabindex="-1"><img src="' + esc(it.image_url) + '" alt="" loading="lazy" onerror="this.parentElement.classList.add(\'is-empty\');this.remove()"></a>' : '';
     var rows = [['왜 지금', dp.why_now], ['작동 방식', dp.mechanism], ['감각과 물성', dp.sensory], ['계보·맥락', dp.context], ['연출로 가져갈 것', dp.transfer]]
       .filter(function (r) { return r[1]; }).map(function (r) { return '<dt>' + r[0] + '</dt><dd>' + esc(r[1]) + '</dd>'; }).join('');
@@ -65,7 +82,9 @@
         '<dl>' + rows + '</dl>' + findings + evidence + sources +
         '<div class="rc-card-foot">' + foot.map(function (x) { return '<p>' + x + '</p>'; }).join('') + '</div></details>';
     }
-    var meta = '<span>' + esc(GENRE_KO[it.genre] || it.genre || '') + '</span><span>' + esc(it.source_name || '') + '</span>' + (pick ? '<span class="rc-pick">편집장 픽</span>' : '');
+    var colAt = it.collected_at || '';
+    var dateBadge = (colAt.length >= 10) ? '<span class="rc-card-date">' + esc(colAt.substring(5, 10).replace('-', '.')) + '</span>' : '';
+    var meta = '<span>' + esc(GENRE_KO[it.genre] || it.genre || '') + '</span><span>' + esc(it.source_name || '') + '</span>' + dateBadge + (pick ? '<span class="rc-pick">편집장 픽</span>' : '');
     return '<article class="rc-card' + (pick ? ' is-pick' : '') + '" data-genre="' + esc(it.genre || '') + '" data-depth="' + depthOf(it) + '">' +
       media + '<div class="rc-card-body"><p class="rc-card-meta">' + meta + '</p>' +
       '<h3 class="rc-card-title"><a href="' + esc(url) + '" target="_blank" rel="noopener noreferrer">' + esc(it.title) + '</a></h3>' +
@@ -92,7 +111,7 @@
   }
 
   function matches(it) {
-    if (state.filter === 'PICK' && depthOf(it) < 5) return false;
+    if (state.filter === 'PICK' && !isPick(it)) return false;
     if (state.filter !== 'ALL' && state.filter !== 'PICK' && it.genre !== state.filter) return false;
     if (!state.q) return true;
     var dp = it.deep || {};
@@ -104,7 +123,12 @@
     if (!state.items) return;
     var ready = state.items.filter(function (x) { return x.deep; })
       .map(function (it, i) { return { it: it, i: i }; })
-      .sort(function (a, b) { return depthOf(b.it) - depthOf(a.it) || a.i - b.i; })
+      .sort(function (a, b) {
+        var pa = isPick(a.it) ? 1 : 0;
+        var pb = isPick(b.it) ? 1 : 0;
+        if (pb !== pa) return pb - pa;
+        return depthOf(b.it) - depthOf(a.it) || a.i - b.i;
+      })
       .map(function (x) { return x.it; });
     var shown = ready.filter(matches);
     grid.innerHTML = shown.map(cardHtml).join('');

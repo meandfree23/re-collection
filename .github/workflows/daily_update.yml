@@ -9,6 +9,8 @@ on:
     - cron: '32 22 * * *'
     # 3. Morning Start 08:43 KST (23:43 UTC) — Morning supplement before work starts
     - cron: '43 23 * * *'
+    # 3b. Morning Worktime 09:25 KST (00:25 UTC) — Morning prime refresh
+    - cron: '25 0 * * *'
     # 4. Mid-day Refresh 11:27 KST (02:27 UTC) — European morning releases
     - cron: '27 2 * * *'
     # 4b. 16:10 KST (07:10 UTC) — Gemini 무료 한도 초기화(16:00 KST) 직후, 정독 대기분 먼저 처리

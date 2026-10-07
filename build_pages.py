@@ -121,14 +121,29 @@ def depth_of(it):
     return int(((it.get('deep') or {}).get('depth')) or 0)
 
 
+def is_pick(it, note_obj=None):
+    if it.get('is_pick'):
+        return True
+    if depth_of(it) >= 5:
+        return True
+    if note_obj and note_obj.get('threads'):
+        u = it.get('url', '').split('?')[0].rstrip('/')
+        for t in note_obj['threads']:
+            for item in (t.get('items') or []):
+                tu = (item.get('url') or '').split('?')[0].rstrip('/')
+                if tu and tu == u:
+                    return True
+    return False
+
+
 # ---------------------------------------------------------------------------
 # HTML 조각 (static/script.js 의 렌더러와 같은 마크업)
 # ---------------------------------------------------------------------------
-def card_html(it):
+def card_html(it, note_obj=None):
     dp = it.get('deep') or {}
     url = it.get('url', '#')
     genre = GENRE_KO.get(it.get('genre', ''), it.get('genre', ''))
-    pick = depth_of(it) >= 5
+    pick = is_pick(it, note_obj)
     media = ''
     if it.get('image_url'):
         media = (f'<a class="rc-card-media" href="{esc(url)}" target="_blank" rel="noopener noreferrer" tabindex="-1">'
@@ -166,7 +181,14 @@ def card_html(it):
         deep = (f'<p class="rc-card-lens">{esc(dp.get("lens"))}</p>'
                 f'<details class="rc-card-deep"><summary>깊이 읽기{extra}</summary>'
                 f'<dl>{rows}</dl>{findings}{evidence}{sources}<div class="rc-card-foot">{foot_html}</div></details>')
-    meta = f'<span>{esc(genre)}</span><span>{esc(it.get("source_name", ""))}</span>'
+    
+    col_at = it.get('collected_at', '')
+    date_badge = ''
+    if col_at and len(col_at) >= 10:
+        mm_dd = col_at[5:10].replace('-', '.')
+        date_badge = f'<span class="rc-card-date">{esc(mm_dd)}</span>'
+        
+    meta = f'<span>{esc(genre)}</span><span>{esc(it.get("source_name", ""))}</span>{date_badge}'
     if pick:
         meta += '<span class="rc-pick">편집장 픽</span>'
     return (f'<article class="rc-card{" is-pick" if pick else ""}" data-genre="{esc(it.get("genre", ""))}" data-depth="{depth_of(it)}">'
@@ -325,7 +347,13 @@ def build_pages():
     dates = sorted([f[:-5] for f in os.listdir(DAILY_DIR) if f.endswith('.json')], reverse=True)
     counts, issues = {}, {}
     for d in dates:
-        d_items = [apply_deep(x, deep_map) for x in load_json(os.path.join(DAILY_DIR, f'{d}.json'), [])]
+        d_note = notes.get(d) or {}
+        raw_items = load_json(os.path.join(DAILY_DIR, f'{d}.json'), [])
+        d_items = []
+        for x in raw_items:
+            item_applied = apply_deep(x, deep_map)
+            item_applied['is_pick'] = is_pick(item_applied, d_note)
+            d_items.append(item_applied)
         issues[d] = d_items
         counts[d] = {'n': len(d_items), 'deep': sum(1 for x in d_items if x.get('deep'))}
         write_text([f'docs/data/daily/{d}.js', f'static/data/daily/{d}.js'],
@@ -341,13 +369,15 @@ def build_pages():
     write_text(['docs/data/daily_notes.js', 'static/data/daily_notes.js'],
                'window.DAILY_NOTES = ' + json.dumps(notes, ensure_ascii=False) + ';')
 
-    # 3. 최신 호 미리 렌더링 (깊이 순, 정독 대기는 아래 목록으로)
+    # 3. 최신 호 미리 렌더링 (편집장 픽 우선, 그 다음 깊이 순)
     cur = issues.get(latest, [])
-    ready = sorted([x for x in cur if x.get('deep')], key=lambda x: -depth_of(x))
+    latest_note = notes.get(latest) or {}
+    ready = sorted([x for x in cur if x.get('deep')],
+                   key=lambda x: (not is_pick(x, latest_note), -depth_of(x)))
     pending = [x for x in cur if not x.get('deep')]
     options = ''.join(f'<option value="{d}"{" selected" if d == latest else ""}>{esc(korean_date(d))} · {counts[d]["n"]}건</option>'
                       for d in non_empty)
-    note = note_html(notes.get(latest), latest)
+    note = note_html(latest_note, latest)
     page = (PAGE.replace('{{V}}', str(version))
             .replace('{{ISSUE_LABEL}}', esc(korean_date(latest)))
             .replace('{{OPTIONS}}', options)
@@ -355,7 +385,7 @@ def build_pages():
             .replace('{{NOTE}}', note)
             .replace('{{COUNT}}', f'{len(ready)}편')
             .replace('{{DATE}}', latest)
-            .replace('{{CARDS}}', ''.join(card_html(x) for x in ready))
+            .replace('{{CARDS}}', ''.join(card_html(x, latest_note) for x in ready))
             .replace('{{PENDING}}', pending_html(pending))
             .replace('{{ZEITGEIST}}', zeitgeist_line(load_json(ZEITGEIST_FILE, {})))
             .replace('{{STAMP}}', now.strftime('%Y.%m.%d %H:%M KST'))
