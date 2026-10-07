@@ -1753,5 +1753,44 @@
   "v": 3,
   "model": "gemini-3.1-flash-lite-preview",
   "written_at": "2026-10-07 09:53"
+ },
+ "2026-10-08": {
+  "date": "2026-10-08",
+  "headline": "청동의 유리 조명과 구멍 없는 목조 결합의 장력",
+  "editorial": "아파라투스의 청동과 유리 조명은 신화적 형상을 정교하게 다듬어 공간을 채운다. 스트랩과 마찰력만으로 구조를 엮은 가역적 목조 건축은 못을 쓰지 않고도 단단한 결합을 완성한다. 인도 아마다바드의 주택 솔리더스는 거대한 콘크리트 덩어리를 깎아내어 빛과 조경을 내부로 깊숙이 들인다.",
+  "threads": [
+   {
+    "name": "구조와 재료의 결합",
+    "note": "못 없이 마찰력으로 엮은 목조 결합과 덩어리를 깎아낸 콘크리트 주택의 물리적 짜임새를 보여준다.",
+    "items": [
+     {
+      "title": "구멍 없는 결합: 스트랩과 마찰로 완성하는 가역적 목조 건축",
+      "url": "https://www.archdaily.com/1185836/building-and-unbuilding-an-approach-to-circular-timber-construction-addressing-material-waste"
+     },
+     {
+      "title": "거대한 콘크리트 덩어리를 깎아 만든 인도 아마다바드의 주택 '솔리더스'",
+      "url": "https://www.wallpaper.com/architecture/residential/family-house-in-ahmedabad-india"
+     }
+    ]
+   },
+   {
+    "name": "신화와 조명의 조형",
+    "note": "페르시아 신화의 이야기를 청동과 유리, 래커의 물성으로 번역해 조명 디자인으로 구현했다.",
+    "items": [
+     {
+      "title": "페르시아 신화와 서사의 물성, 아파라투스의 5년 만의 풀 컬렉션",
+      "url": "https://www.dezeen.com/2026/10/07/apparatus-act-v-collection-persian-mythology/"
+     },
+     {
+      "title": "유산과 현대성을 포개다, 플라주 데 나시옹 모스크",
+      "url": "https://www.archdaily.com/1186057/plage-des-nations-mosque-oualalou-plus-choi"
+     }
+    ]
+   }
+  ],
+  "based_on": 9,
+  "v": 3,
+  "model": "gemini-3.5-flash-lite",
+  "written_at": "2026-10-08 00:52"
  }
 }

@@ -135389,5 +135389,678 @@
   },
   "depth_raw": 4,
   "depth_v": 2
+ },
+ "dezeen.com/2026/10/07/competitions-closing-october-2026": {
+  "title_ko": "10월 마감의 도시 건축 공모전 5선",
+  "summary_ko": "데진(Dezeen)이 10월에 마감되는 주요 건축 및 디자인 공모전 5가지를 소개한다. 밴쿠버 고층 빌딩 아이디어, 교량 하부 공간 주거화, 3D 프린터로 제작 가능한 의자 디자인 등이 포함된다. 빌드너(Buildner), 크레아슬론(Creathlon Competitions), 테라비바(TerraViva)가 주관한다.",
+  "lens": "유휴 공간과 인프라 사각지대를 거주지와 공공재로 탈바꿈하는 구체적 설계안을 묻는다.",
+  "why_now": "도시 인구 집중과 공간 부족 문제 속에서 방치된 기반 시설과 고밀도 도심의 효용을 다시 묻는 흐름이다.",
+  "mechanism": "벤쿠버 고층 빌딩과 교량 하부 주거화 등 각 공모전은 구체적인 도시 대지를 지정해 실현 가능한 생태적·구조적 대안을 요구한다.",
+  "sensory": "교량 아래의 회색빛 음영 지역이나 도심의 고밀도 콘크리트 덩어리가 새로운 주거와 공공 쉼터로 전환되는 물리적 대비를 다룬다.",
+  "transfer": "도시 유휴 공간이나 교량 하부 같은 비주류 장소를 배경으로 한 영상 콘티나 공간 연출의 레퍼런스로 활용할 수 있다.",
+  "context": "빌드너(Buildner)는 전 세계 유휴 공간과 주거 대안을 주제로 다양한 건축 공모전을 이어오고 있으며 과거 아이슬란드 슬로우 사우나 공모전 등을 진행했다.",
+  "findings": [
+   {
+    "text": "빌드너가 주관한 밴쿠버 고층 빌딩 공모전은 밴쿠버 시와 브리티시컬럼비아대학교 건축·조경대학이 협력하는 고층 빌딩 정책 검토의 일환이다.",
+    "s": 1,
+    "quote": "The Vancouver Tall Challenge: Building Higher Downtown is organized by Buildner in collaboration with the City of Vancouver and the University of British Columbia’s School of Architecture and Landscape Architecture (SALA"
+   },
+   {
+    "text": "테라비바가 주관하는 택티컬 어바니즘 공모전은 임시적이고 가벼운 개입이 지역 조건에 대응하고 공공 공간의 미래를 재고하는 도구로서 작동하는 방식을 탐구한다.",
+    "s": 3,
+    "quote": "Participants are invited to explore how temporary, lightweight interventions can act as powerful tools for testing ideas, responding to local conditions and rethinking the future of public space."
+   },
+   {
+    "text": "빌드너의 교량 하부 주거화 공모전은 가용성, 접근성, 기존 커뮤니티와의 조화를 고려해 전 세계의 교량 아래 유휴 공간을 재해석한다.",
+    "s": 2,
+    "quote": "Essential considerations include the site’s accessibility, available amenities, and how the proposed solution harmonizes with the existing community."
+   }
+  ],
+  "keywords": [
+   "건축공모전",
+   "도시재생",
+   "유휴공간",
+   "주거디자인",
+   "공공공간"
+  ],
+  "evidence": "A contest tasking designers to develop temporary interventions that revitalise public spaces is in this roundup of competitions on Dezeen.",
+  "kind": "행사·공모",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "여러 건축 공모전 소식을 모아둔 라운드업 기사로 구체적인 공모 개요와 주관사를 충실히 전달한다.",
+  "v": 2,
+  "url": "https://www.dezeen.com/2026/10/07/competitions-closing-october-2026/",
+  "original_title": "Five competitions closing in October",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 2568,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-08 00:47",
+  "research": {
+   "entities": [
+    "Buildner",
+    "TerraViva"
+   ],
+   "questions": [
+    "각 건축 공모전에서 요구하는 구체적인 제출 양식과 심사 기준은 무엇인가요?",
+    "공모전을 주최하는 Buildner와 TerraViva는 과거에 어떤 주목할 만한 건축 및 디자인 프로젝트를 진행했나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Vancouver Tall Challenge/ Architecture Competition",
+     "url": "https://architecturecompetitions.com/vancouvertallchallenge"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Underbridge #2 / Architecture Competition",
+     "url": "https://architecturecompetitions.com/underbridge2/"
+    },
+    {
+     "n": 3,
+     "type": "공식·1차",
+     "title": "online portal",
+     "url": "https://www.terravivacompetitions.com/tactical-urbanism-competition-2026/"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "화산 지대의 리추얼, 아이슬란드 슬로우 사우나 건축 공모전 수상작",
+     "url": "https://www.archdaily.com/1185437/how-buildners-iceland-slow-sauna-competition-winners-respond-to-a-volcanic-landscape"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "chars": 8057
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "archdaily.com/1185836/building-and-unbuilding-an-approach-to-circular-timber-construction-addressing-material-waste": {
+  "title_ko": "구멍 없는 결합: 스트랩과 마찰로 완성하는 가역적 목조 건축",
+  "summary_ko": "프로젝트 언빌드(Project (Un)Build)는 기후 위기 대응과 자재 폐기물 저감을 위해 장력 스트랩과 마찰 패드를 활용한 가역적 목조 결합 방식을 연구한다. 이 시스템은 침투형 철물 대신 마찰력을 통해 구조적 안정성을 확보하며, 건물을 완전히 해체하여 자재를 재사용할 수 있도록 돕는다. 인테리어 파티션부터 야외 파빌리온까지 다양한 규모로 확장 가능하다.",
+  "lens": "못과 나사 없이 장력과 마찰력만으로 구조재를 단단히 엮어 해체와 재조립이 가능한 가역적 건축을 실험한다.",
+  "why_now": "건설 폐기물이 전 세계적인 환경 문제로 대두되는 가운데, UN 지속 가능한 개발 목표의 틀 안에서 자재 수명 주기를 연장하는 순환 건축 기술의 필요성이 커지고 있다.",
+  "mechanism": "장력 스트랩과 마찰 패드가 목재 부재를 압착하여 결합한다. 구멍을 뚫거나 철물을 박는 방식 대신 마찰력으로 하중을 견디며, 비교 하중 테스트 결과 기존의 볼트나 못 연결 방식과 동등하거나 더 우수한 하중 용량을 기록했다.",
+  "sensory": "철물이나 접착 흔적이 전혀 남지 않아 매끄럽고 건조하게 맞아떨어지는 목재 표면과 긴장감 있는 결합 구조를 시각적으로 드러낸다.",
+  "transfer": "공간 연출이나 전시 가벽을 설치할 때 철물 시공 대신 스트랩과 패드를 활용한 고정 방식을 적용하여, 철거 후 폐기물 없이 부재를 온전히 회수하는 시공 디테일로 차용한다.",
+  "context": "프로젝트 언빌드는 건축 자재의 재사용을 목표로 도시 채굴과 라이프 사이클 평가 등 동시대 순환 건축의 흐름 속에서 연구되는 이니셔티브다.",
+  "findings": [
+   {
+    "text": "프로젝트 언빌드는 장력 스트랩과 마찰 패드를 사용해 목재 부재를 압축 상태로 고정하는 방식을 쓴다.",
+    "s": 1,
+    "quote": "Our method uses tensioned straps and friction pads that clamp wood members into compression."
+   },
+   {
+    "text": "스트랩 결합 방식은 비교 하중 테스트에서 볼트, 못, 스크류 같은 일반적인 목재 연결 방식과 비슷하거나 더 뛰어난 하중 수용력을 보여준다.",
+    "s": 1,
+    "quote": "Comparative load testing shows that strapped joints can achieve load capacities comparable to—and in some cases greater than—common wood connections such as bolts, nails, and screws."
+   }
+  ],
+  "keywords": [
+   "순환건축",
+   "목조결합",
+   "가역적디자인",
+   "자재재사용",
+   "지속가능성"
+  ],
+  "evidence": "Project (Un)Build is a research initiative developing reversible timber construction methods that use straps and friction pads to facilitate material reuse.",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "못을 쓰지 않는 가역적 목조 결합이라는 명확한 기술적 대안과 테스트 결과를 갖췄으나 적용 범위가 연구 및 파일럿 단계에 머물러 있다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1185836/building-and-unbuilding-an-approach-to-circular-timber-construction-addressing-material-waste",
+  "original_title": "Building and Unbuilding: An Approach to Circular Timber Construction Addressing Material Waste",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 1530,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-08 00:48",
+  "research": {
+   "entities": [
+    "Project (Un)Build",
+    "United Nations Sustainable Development Goals"
+   ],
+   "questions": [
+    "Project (Un)Build에서 제안하는 스트랩과 마찰 패드를 활용한 가역적 목조 건축 방식의 구체적인 원리는 무엇인가?",
+    "건축 분야에서 '어반 마이닝(Urban Mining)' 개념이 순환 경제와 어떻게 연결되며, 목재 재사용을 위해 어떤 기술적 과제가 해결되어야 하는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Home | Project (Un)Build: A Reversible Wood Joinery System",
+     "url": "https://www.projectunbuild.org/?utm_medium=website&utm_source=archdaily.com"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Sustainable Development Goals",
+     "url": "https://en.wikipedia.org/wiki/Sustainable%20Development%20Goals"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 2649
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "archdaily.com/1186057/plage-des-nations-mosque-oualalou-plus-choi": {
+  "title_ko": "유산과 현대성을 포개다, 플라주 데 나시옹 모스크",
+  "summary_ko": "모로코에서 울랄로우 + 최(OUALALOU+CHOI)가 설계한 플라주 데 나시옹 모스크가 완공되었다. 연면적 1578제곱미터 규모로 지어진 이 건축물은 세련되고 빛나는 조형 언어를 통해 전통 유산과 현대적 감각을 동시에 드러낸다. 아드난 제마마(Adnane Zemmama)가 사진을 촬영했다.",
+  "lens": "빛과 기하학을 재해석해 전통 종교 건축의 무게감을 덜어낸다.",
+  "why_now": "종교 건축에서 지역의 전통 양식과 동시대적 미감이 어떻게 공존할 수 있는지를 보여주는 사례다.",
+  "mechanism": "빛을 투과하는 정제된 형태와 상징적 매스 배치를 통해 내부 공간에 깊이감과 밝기를 동시에 부여한다.",
+  "sensory": "건축물 표면을 타고 흐르는 자연광과 단단한 구조체가 만들어내는 정제된 명암 대비를 체감할 수 있다.",
+  "transfer": "공간 연출 시 장식적 요소를 배제하고 빛과 그림자만으로 장엄한 분위기를 만드는 기법으로 차용한다.",
+  "context": "울랄로우 + 최가 모로코에서 유산과 현대성의 조화를 모색하며 진행한 종교 건축 프로젝트다.",
+  "findings": [],
+  "keywords": [
+   "모스크",
+   "모로코",
+   "울랄로우최",
+   "종교건축"
+  ],
+  "evidence": "The Plage des Nations Mosque project seeks to reconcile heritage and modernity through an architecture that is at once refined, luminous, and symbolic.",
+  "kind": "프로젝트",
+  "depth": 2,
+  "grounding": "thin",
+  "depth_reason": "원문 설명이 짧고 세부적인 기법 정보가 부족해 프로젝트의 형식적 소개에 그친다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1186057/plage-des-nations-mosque-oualalou-plus-choi",
+  "original_title": "Plage des Nations Mosque / OUALALOU+CHOI",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 868,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-08 00:48",
+  "research": {
+   "entities": [
+    "OUALALOU+CHOI",
+    "Tarik Oualalou",
+    "Linna Choi",
+    "Plage des Nations Mosque"
+   ],
+   "questions": [
+    "OUALALOU+CHOI 스튜디오가 추구하는 현대 모로코 건축의 전통과 현대성의 조화는 구체적으로 어떤 디자인 요소로 구현되었는가?",
+    "Plage des Nations Mosque 프로젝트에서 빛과 상징성을 강조하기 위해 사용된 건축적 기법은 무엇인가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 2,
+  "depth_v": 2
+ },
+ "archdaily.com/1186439/henn-launches-carbonbudget-a-free-tool-for-calculating-project-specific-co2-emissions": {
+  "title_ko": "헨, 파리협정 1.5도 목표를 위한 무료 탄소 예산 계산기 출시",
+  "summary_ko": "건축사사무소 헨(HENN)이 건물별 이산화탄소 예산을 계산하는 무료 디지털 플랫폼 카본버짓(CarbonBudget)을 출시했다. 위치, 완공 연도, 연면적 등의 정보를 입력해 건물의 탄소 배출량이 파리협정의 1.5°C 목표에 부합하는지 평가한다. 과학적 탈탄소화 경로와 독일 연방환경청의 데이터에 기반해 초과 배출에 따른 사회적 비용까지 수치화한다.",
+  "lens": "추상적인 기후 목표를 개별 건물의 구체적인 데이터와 비용으로 환산한다.",
+  "why_now": "건설 산업이 전 세계 탄소 배출량의 약 3분을 1을 차지하는 상황에서, 설계 초기 단계부터 구체적인 탄소 한계를 검증하는 도구가 필수적이다.",
+  "mechanism": "위치와 연면적 등 기본 정보를 입력해 전 생애 주기에 걸친 운영 탄소와 내재 탄소가 할당된 탄소 예산 내에 있는지 시각적으로 확인한다.",
+  "sensory": "유럽 내 건축물의 구조와 용도에 따라 서로 다른 에너지 소비량과 탄소 수치가 명확한 수치와 시각 자료로 드러난다.",
+  "transfer": "프로젝트 초기 기획 단계에서 설계안의 환경적 비용과 제약을 시뮬레이션하는 데이터 기반 검증 프로세스로 도입한다.",
+  "context": "엠브이알디브이(MVRDV)의 카본스페이스(CarbonSpace) 등 국제 건축 사무소들이 디지털 정보 공유를 통해 탈탄소화에 접근하는 흐름과 맥을 같이 한다.",
+  "findings": [],
+  "keywords": [
+   "탄소예산",
+   "지속가능성",
+   "건축도구",
+   "생애주기평가"
+  ],
+  "evidence": "Architecture firm HENN has launched CarbonBudget, a digital tool that calculates project-specific CO2 budgets for buildings.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "건축 사무소가 개발한 새로운 탄소 계산 도구의 기능과 배경을 충실히 전달하나 선례를 바꿀 정도의 극적인 혁신은 아니다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1186439/henn-launches-carbonbudget-a-free-tool-for-calculating-project-specific-co2-emissions",
+  "original_title": "HENN Launches CarbonBudget, a Free Tool for Calculating Project-Specific CO2 Emissions",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 4811,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-08 00:49",
+  "research": {
+   "entities": [
+    "HENN",
+    "CarbonBudget",
+    "MVRDV",
+    "Grimshaw",
+    "Henning Larsen"
+   ],
+   "questions": [
+    "CarbonBudget이 건축물의 운영 탄소와 내재 탄소를 계산하는 구체적인 방법론은 무엇인가요?",
+    "건축 프로젝트에서 탄소 예산을 초과했을 때 발생하는 사회적 비용을 산출하는 기준은 무엇인가요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "MVRDV",
+     "url": "https://en.wikipedia.org/wiki/MVRDV"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Grimshaw Architects",
+     "url": "https://en.wikipedia.org/wiki/Grimshaw%20Architects"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "오슬로, 17세기 기록과 현대적 입면이 교차하는 도시 풍경",
+     "url": "https://www.archdaily.com/1184689/oslo-architecture-city-guide-12-buildings-contrasting-historic-and-contemporary-design"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "마이애미 윈우드의 색채와 광장, 엠브이알디브이가 구축한 인간적 규모",
+     "url": "https://www.dezeen.com/2026/09/01/mvrdv-woma-colourful-residential-miami/"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "엠브이알디브이가 설계한 콘크리트 모듈, 도시 가구의 정형성을 해체하다",
+     "url": "https://www.dezeen.com/2026/10/05/mvrdv-barcode-street-furniture-escofet/"
+    }
+   ],
+   "used": [],
+   "chars": 2008
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "dezeen.com/2026/10/07/apparatus-act-v-collection-persian-mythology": {
+  "title_ko": "페르시아 신화와 서사의 물성, 아파라투스의 5년 만의 풀 컬렉션",
+  "summary_ko": "뉴욕 디자인 스튜디오 아파라투스가 페르시아 신화를 현대적으로 재해석한 조명과 가구 컬렉션 액트 V: 아프사네를 공개했다. 2019년 이후 처음 선보이는 이번 풀 컬렉션은 청동, 황동, 유리, 파이버글래스 등의 소재를 활용했다. 창립자 가브리엘 헨디파의 개인적 배경에서 출발해 씨앗에서 꽃으로 이어지는 순환의 서사를 담았다.",
+  "lens": "신화적 서사를 청동과 유리, 래커의 정교한 물성으로 번역해 공간의 조형적 긴장감을 높인다.",
+  "why_now": "동시대 디자인이 단순한 기능성을 넘어 개인의 서사와 신화적 상징을 물리적 오브제로 확장하는 흐름을 보여준다.",
+  "mechanism": "블로운 유리 표면을 래커 세팅으로 감싸고, 파이버글래스 돔 중앙을 갈라 내부의 유리 오브제를 노출하는 방식으로 순환의 단계를 시각화했다.",
+  "sensory": "우유 빛깔과 석류빛의 래커 마감, 반투명 파이버글래스 돔 사이로 새어 나오는 빛, 물결 모양 황동 몸체의 질감이 교차한다.",
+  "transfer": "오브제의 모듈형 구조를 활용해 공간의 중심을 잡는 대형 샹들리에 연출이나, 웅장한 서사가 필요한 씬의 메인 인서트 컷에 적용한다.",
+  "context": "가브리엘 헨디파는 과거 작업에서도 고대 상징과 페르시아 문화를 차용해왔으며, 이번 컬렉션은 스튜디오가 더 내러티브한 조형으로 확장하는 전환점을 보여준다.",
+  "findings": [
+   {
+    "text": "마사 그레이엄 댄스 컴퍼니는 1926년 4월 마사 그레이엄이 설립한 미국에서 가장 오래된 무용단이다.",
+    "s": 2,
+    "quote": "The Martha Graham Dance Company, founded by Martha Graham in April 1926, is both the oldest dance company in the United States and the oldest integrated dance company."
+   }
+  ],
+  "keywords": [
+   "아파라투스",
+   "페르시아신화",
+   "조명디자인",
+   "물성",
+   "모듈러"
+  ],
+  "evidence": "Act V: Afsaneh was created as a contemporary take on Persian mythology based on Apparatus' founder Gabriel Hendifar's background.",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "구체적인 신화적 서사를 재료와 구조로 풀어낸 명확한 작업이나 선례가 존재한다.",
+  "v": 2,
+  "url": "https://www.dezeen.com/2026/10/07/apparatus-act-v-collection-persian-mythology/",
+  "original_title": "Apparatus draws on Persian mythology for its first full collection in five years",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 2780,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-08 00:50",
+  "research": {
+   "entities": [
+    "Apparatus",
+    "Gabriel Hendifar",
+    "Cinnamon Projects",
+    "Martha Graham Dance Company"
+   ],
+   "questions": [
+    "가브리엘 헨디파의 개인적 배경과 페르시아 신화가 이번 컬렉션의 조형 언어에 구체적으로 어떻게 투영되었는가?",
+    "이번 컬렉션에서 사용된 유리, 브론즈, 래커 등 다양한 소재의 조합이 '순환'이라는 주제를 어떻게 시각적으로 구현하고 있는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "New York",
+     "url": "https://apparatusstudio.com/pages/new-york"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Martha Graham Dance Company",
+     "url": "https://en.wikipedia.org/wiki/Martha%20Graham%20Dance%20Company"
+    }
+   ],
+   "used": [
+    2
+   ],
+   "chars": 1224
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "itsnicethat.com/features/in-house-depop-steve-dool-creative-industry-071026": {
+  "title_ko": "데팝의 스티브 둘이 말하는 일관된 브랜드 정체성과 협업의 기술",
+  "summary_ko": "중고 패션 플랫폼 데팝의 브랜드 및 크리에이티브 총괄 스티브 둘이 브랜드 성장의 핵심을 밝혔다. 자라 라르손과의 협업 과정에서 전문 코미디언과 아티스트를 투입해 유머 코드를 더한 비결과 데이터와 크리에이티브의 결합 방식을 공개했다. 오프라인 커뮤니티와 진정성 있는 대화의 중요성도 강조한다.",
+  "lens": "유행을 좇기보다 참여할 자격이 있는지 묻는 엄격한 절제로 브랜드의 실수를 줄인다.",
+  "why_now": "디지털 피로감과 AI 효율성 시대를 맞아, 오프라인의 거칠고 예측 불가능한 만남과 진정성 있는 브랜드 태도가 더욱 중요해졌다.",
+  "mechanism": "코미디언 조 선데이가 대본 초안을 작성하고 아티스트 자라 라르손이 직접 수정에 참여하는 다중 협업 구조로 광고의 위트를 확보했다.",
+  "sensory": "온라인 광고의 매끄러운 효율성 이면에 날것의 생동감이 살아 있는 오프라인 피어투피어 접점을 구축한다.",
+  "transfer": "캠페인 카피 작성 시 내부 크리에이티브 팀의 고립된 시각을 벗어나 외부 코미디 작가와 협업해 장르적 문법을 비틀어본다.",
+  "context": "런던에 본사를 둔 소셜 이커머스 기업 데팝은 엣시와 이베이에 인수되는 과정에서도 중고 패션 커뮤니티 정체성을 지켜왔다.",
+  "findings": [
+   {
+    "text": "데팝은 런던에 본사를 두고 밀라노와 뉴욕에 사무소를 둔 소셜 이커머스 기업이다.",
+    "s": 1,
+    "quote": "Depop Limited is a social e-commerce company headquartered in London, with offices in Milan and New York City."
+   }
+  ],
+  "keywords": [
+   "브랜드전략",
+   "크리에이티브",
+   "중고패션",
+   "협업"
+  ],
+  "evidence": "Amid growth, change and takeovers, Depop’s brand and creative chief keeps coming back to what the brand does best, and where it has permission to show up.",
+  "kind": "작가·인터뷰",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "브랜드 크리에이티브 디렉터의 실무적 철학과 협업 방식을 다뤘으나 일반적인 인터뷰 기사의 범주를 크게 벗어나지 않는다.",
+  "v": 2,
+  "url": "https://www.itsnicethat.com/features/in-house-depop-steve-dool-creative-industry-071026",
+  "original_title": "Depop’s Steve Dool on how to build a brand with a strong sense of self",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 9000,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-08 00:50",
+  "research": {
+   "entities": [
+    "Depop",
+    "Steve Dool",
+    "Etsy",
+    "eBay",
+    "Zara Larsson"
+   ],
+   "questions": [
+    "브랜드가 특정 트렌드나 대화에 참여할지 결정할 때 고려해야 할 '브랜드의 권리'란 무엇을 의미하는가?",
+    "데이터 기반의 의사결정과 창의적인 브랜딩 전략을 조화롭게 통합하는 구체적인 방법은 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Depop",
+     "url": "https://en.wikipedia.org/wiki/Depop"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Etsy",
+     "url": "https://en.wikipedia.org/wiki/Etsy"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "틱톡 밈과 초기 웹 낙관주의로 구축한 자라 라르손의 비주얼 월드",
+     "url": "https://www.itsnicethat.com/articles/zara-larsson-gary-grimes-culture-column-210926"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "상하이 클럽 신과 틱톡을 흔든 헬레나 가오의 이중 정체성",
+     "url": "https://www.dazeddigital.com/music/article/70926/1/helena-gao-the-midnight-sun-songwriter-now-going-viral-in-china-zara-larsson?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=helena-gao-the-midnight-sun-songwriter-going-viral-in-china"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "스칸디나비아의 숲과 캐러밴, 웨이 아웃 웨스트의 이면",
+     "url": "https://www.dazeddigital.com/art-photography/article/70907/1/way-out-west-festival-gothenburg-cobrah-oklou-lorde-zara-larsson?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=a-scandinavian-pixie-dream-photos-from-way-out-west-fest"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 2173
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "wallpaper.com/architecture/residential/family-house-in-ahmedabad-india": {
+  "title_ko": "거대한 콘크리트 덩어리를 깎아 만든 인도 아마다바드의 주택 '솔리더스'",
+  "summary_ko": "인도 아마다바드에 위치한 연면적 1만 8,000평방피트 규모의 주택 '솔리더스'는 건축가 그룹 에프엘엑스비엘(FLXBL)이 설계했다. 하나의 단단한 콘크리트 볼륨을 점진적으로 파내는 감산 방식을 통해 중정, 베란다, 테라스, 채광창을 형성했다. 이를 통해 외부의 조경과 자연광이 내부 깊숙이 유입되도록 구조를 완성했다.",
+  "lens": "거대한 콘크리트 덩어리를 깎아내는 감산의 건축으로 빛과 조경을 건물 내부로 끌어들인다.",
+  "why_now": "단순한 형태적 웅장함을 넘어 지역의 기후와 생태적 조건을 건축적 조형 안에 직접 결합하는 시도가 주목받고 있다.",
+  "mechanism": "외부의 거친 콘크리트 벽에 틈과 슬롯, 세트백을 내어 지하실 중정부터 지상 테라스까지 이어지는 공허의 공간을 만들었다.",
+  "sensory": "거친 질감의 셔터 콘크리트 외벽과 내부를 채우는 토종 식물의 녹색 잎, 벽돌 스파인 벽이 만드는 따뜻한 물성이 대비를 이룬다.",
+  "transfer": "공간 연출 시 통째로 올리는 거대한 볼륨 대신 특정 부분을 파내어 빛이 떨어지는 수직적 틈새와 프레임 뷰를 만드는 장치로 활용한다.",
+  "context": "인도 아마다바드에 위치한 솔리더스 주택은 건축가 쿠날 파르마(Cunal Parmar)가 이끄는 스튜디오 에프엘엑스비엘이 건축부터 인테리어, 조경까지 통합하여 완공한 프로젝트다.",
+  "findings": [],
+  "keywords": [
+   "콘크리트 건축",
+   "감산의 미학",
+   "기후응답형 조경",
+   "인도 주택"
+  ],
+  "evidence": "the project is based on a single architectural operation: the progressive subtraction of a monolithic volume",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "거대한 콘크리트 볼륨을 깎아내는 명확한 조형 개념과 조경 통합 전략이 돋보이지만 주거 프로젝트의 전형적인 범위를 크게 벗어나지는 않는다.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/architecture/residential/family-house-in-ahmedabad-india",
+  "original_title": "This new family house in Ahmedabad is a solid form with carved-out balconies and terraces",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 3367,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-08 00:50",
+  "research": {
+   "entities": [
+    "FLXBL",
+    "Cunal Parmar",
+    "Arivanandh Manirathinam"
+   ],
+   "questions": [
+    "건축적 조형 방식인 '점진적 감산(progressive subtraction)'이 솔리더스(Solidus) 주택의 내부 공간 구성에 구체적으로 어떤 영향을 미쳤는가?",
+    "아메다바드의 기후적 특성을 고려하여 설계된 조경 시스템과 수자원 관리 기술이 주택의 에너지 효율성에 어떻게 기여하는가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "dazeddigital.com/music/article/71007/1/the-rise-of-fake-tiktok-fan-accounts-psy-op-social-media-marketing-music": {
+  "title_ko": "기획된 덕질: 레이블이 위장한 가짜 팬 계정의 시대",
+  "summary_ko": "음악 레이블과 소셜미디어 매니저들이 아티스트의 인기를 조작하기 위해 일반 팬 계정으로 위장한 가짜 프로필을 대거 운영하고 있다. 솜브르(sombr) 같은 아티스트의 투어 현장 영상부터 90년대 문화 채널까지 표면적으로는 자발적인 팬덤처럼 보이는 공간들이 사실은 철저히 기획된 마케팅 장치로 작동한다. 진짜 팬들이 이러한 상업적 조작에 회의감을 느끼며 진정성을 요구하고 있지만, 업계는 더욱 정교하게 진정성을 모사하는 방향으로 진화하고 있다.",
+  "lens": "자발적인 팬덤의 열정을 레이블이 시스템으로 역설계해 가짜 우연을 연출한다.",
+  "why_now": "콘텐츠 과잉의 시대에 알고리즘 추천과 입소문을 통제하려는 마케팅 전략이 극에 달했기 때문이다.",
+  "mechanism": "아티스트의 신곡을 90년대 문화나 다른 서브컬처 콘텐츠의 배경음악으로 자연스럽게 삽입해 시청자가 마케팅임을 눈치채지 못하게 주입한다.",
+  "sensory": "투어 현장의 흔들리는 직캠과 뽀얗게 보정된 숏폼 영상의 질감이 진짜 팬의 직관적 기록인 것처럼 위장한다.",
+  "transfer": "콘티 제작 시 로파이(Lo-fi)한 휴대폰 촬영 컷과 팬이 찍은 듯한 흔들린 앵글을 활용해 고의적인 날것의 느낌을 연출한다.",
+  "context": "미국 싱어송라이터 솜브르는 2025년 데뷔 앨범 'I Barely Know Her'와 브레이크아웃 히트곡 'Back to Friends'로 빌보드 차트에 오르며 주목받았다.",
+  "findings": [
+   {
+    "text": "솜브르는 2025년 데뷔 정규 앨범 'I Barely Know Her'를 발매했다.",
+    "s": 1,
+    "quote": "In 2025, Sombr released his debut studio album, I Barely Know Her"
+   }
+  ],
+  "keywords": [
+   "바이럴마케팅",
+   "팬덤경제",
+   "알고리즘",
+   "진정성"
+  ],
+  "evidence": "Music marketers are pretending to be stans on social media to help manufacture hype for their artist clients",
+  "kind": "뉴스·이슈",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "동시대 음악 마케팅의 이면을 다룬 흥미로운 현상이나 구조적 분석이 중심이다.",
+  "v": 2,
+  "url": "https://www.dazeddigital.com/music/article/71007/1/the-rise-of-fake-tiktok-fan-accounts-psy-op-social-media-marketing-music?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=the-insidious-rise-of-fake-tiktok-fan-accounts",
+  "original_title": "The insidious rise of fake TikTok fan accounts",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 7443,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-08 00:50",
+  "research": {
+   "entities": [
+    "sombr",
+    "Taylor Swift",
+    "Olivia Rodrigo",
+    "Taylor Nation"
+   ],
+   "questions": [
+    "아티스트의 소속사가 운영하는 가짜 팬 계정이 일반적인 팬 계정과 구별되는 결정적인 특징은 무엇인가요?",
+    "음악 산업에서 이러한 '바이럴 마케팅' 방식이 팬덤의 신뢰도와 아티스트의 진정성에 어떤 영향을 미치나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Sombr",
+     "url": "https://en.wikipedia.org/wiki/Sombr"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Taylor Swift",
+     "url": "https://en.wikipedia.org/wiki/Taylor%20Swift"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "데이지 체인 필드: 올리비아 로드리고가 직조한 여성 연대의 풍경",
+     "url": "https://www.dazeddigital.com/music/article/70889/1/olivia-rodrigo-daisy-chain-fields-fans-portraits?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=daisy-chain-fields-meet-the-fans-at-olivia-rodrigo-s-all-women-festival"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "돌리 파튼: 인위적인 외형으로 증명한 가장 진실한 태도",
+     "url": "https://www.dazeddigital.com/music/article/70864/1/5-iconic-dolly-parton-life-lessons-best-quotes?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=5-iconic-life-lessons-from-dolly-parton"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "바늘과 실로 직조한 19세기 애니메이션의 물리적 복원",
+     "url": "https://www.itsnicethat.com/articles/tobie-tse-animation-discover-051026"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 3222
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "dazeddigital.com/life-culture/article/71133/1/here-everything-need-know-about-france-school-protests-paris-suburbs-education": {
+  "title_ko": "무너진 교실과 최루탄: 프랑스 고등학생 시위의 물성과 정치학",
+  "summary_ko": "프랑스 전역에서 학생, 교사, 학부모 약 25만 명이 참여한 대규모 시위가 발생했다. 노후화된 공립 고등학교의 열악한 시설과 교원 부족에 항의하는 과정에서 최루탄과 섬광탄 진압으로 수백 명의 부상자와 체포자가 속출했다.",
+  "lens": "무너져 내린 교실의 물리적 파괴와 국가 공권력의 섬광이 충돌하는 최전선이다.",
+  "why_now": "교사 파업과 교외 지역의 오랜 예산 차별이 누적되어 세대를 아우르는 저항으로 폭발했다.",
+  "mechanism": "학생들이 학교 건물 입구를 책상과 바리케이드로 봉쇄하고, 경찰이 최루탄과 물대포를 투입해 물리적으로 해산하는 구조로 작동한다.",
+  "sensory": "균열이 간 벽과 깨진 창문, 쥐와 바퀴벌레가 돌아다니는 교실 내부의 잿빛 풍경이 최루탄 연기와 섬광 속에서 증폭된다.",
+  "transfer": "현장감 있는 디스토피아적 연출을 위해 흔들리는 핸드헬드 숏과 거친 콘크리트 질감, 매캐한 연기의 조명을 콘티에 배치한다.",
+  "context": "프랑스 내무장관 로랑 누네즈(Laurent Nuñez)는 고등학교 시위 현장에서의 과잉 진압 논란 끝에 최루탄 및 섬광탄 사용을 잠정 중단했다. 이는 리포스트(RIPOST) 법안과 자유 파티 단속 등 최근 프랑스 정부가 공공질서 유지를 명목으로 통위를 강화하는 흐름의 연장선에 있다.",
+  "findings": [
+   {
+    "text": "프랑스 내무장관 로랑 누네즈는 고등학교 시위 중 15세 소년이 손을 잃는 사고가 발생하자 경찰의 섬광탄 사용을 잠정 중단했다.",
+    "s": 2,
+    "quote": "Laurent Nuñez told RTL radio on Wednesday that he had ordered a temporary halt to the use of the grenades “in the context of the high school students’ movement” after a 15-year-old lost a hand during a protest in Lens, n"
+   },
+   {
+    "text": "프랑스 전역의 3,700개 고등학교 중 735개교가 폭력 시위의 영향을 받았다.",
+    "s": 1,
+    "quote": "On Friday, French Justice Minister Gérald Darmanin said 735 of France's 3,700 schools had been affected \"one way or another\" by violent protests."
+   }
+  ],
+  "keywords": [
+   "프랑스시위",
+   "공립학교",
+   "공권력",
+   "바리케이드",
+   "물성"
+  ],
+  "evidence": "Videos filmed in schools have shown cockroaches, rats, broken toilets, and holes in windows and walls.",
+  "kind": "뉴스·이슈",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "대규모 사회적 이슈이자 물리적 충돌 현장이지만 보도성 뉴스의 범위를 크게 벗어나지 않는다.",
+  "v": 2,
+  "url": "https://www.dazeddigital.com/life-culture/article/71133/1/here-everything-need-know-about-france-school-protests-paris-suburbs-education?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=everything-you-need-to-know-about-france-s-school-protests",
+  "original_title": "Everything you need to know about France’s school protests",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 6868,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-08 00:52",
+  "research": {
+   "entities": [
+    "Laurent Nuñez",
+    "Gérald Darmanin",
+    "Édouard Geffray",
+    "Créteil"
+   ],
+   "questions": [
+    "프랑스 고등학교(lycée)의 노후화와 예산 부족 문제는 언제부터 심화되었는가?",
+    "시위 과정에서 경찰의 과잉 진압 논란과 관련된 프랑스 정부의 공식 대응은 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Up to 500 schools close in France over student protests",
+     "url": "https://www.bbc.co.uk/news/articles/cwkg5n7lm3y5o"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "French police suspend use of stun grenades after high school protester loses hand",
+     "url": "https://www.theguardian.com/world/2026/oct/07/french-police-suspend-use-stun-grenades-high-school-protester-loses-hand"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Laurent Nuñez",
+     "url": "https://en.wikipedia.org/wiki/Laurent%20Nu%C3%B1ez"
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "Gérald Darmanin",
+     "url": "https://en.wikipedia.org/wiki/G%C3%A9rald%20Darmanin"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "프랑스의 신종 법안이 타격하는 언더그라운드 레이브와 소외의 공간들",
+     "url": "https://www.dazeddigital.com/music/article/71070/1/france-free-party-crackdown-ripost-law-raves-paris-djs?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=it-s-a-tool-of-mass-control-inside-france-s-free-party-crackdown"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3,
+    5
+   ],
+   "chars": 6809
+  },
+  "depth_raw": 3,
+  "depth_v": 2
  }
 }
