@@ -130209,5 +130209,1375 @@
   },
   "depth_raw": 3,
   "depth_v": 2
+ },
+ "hyperallergic.com/on-taking-care-of-each-other": {
+  "title_ko": "뉴욕 미술계의 연대와 노동: 제도 안팎에서 일어나는 변화의 기록",
+  "summary_ko": "뉴욕 주요 미술관 노조들이 파업 위기 끝에 계약을 타결하며 노동 환경 개선을 이끌어냈다. 동시에 뉴욕시는 개인 예술가 지원금을 1만 달러로 두 배 증액했다. 이 흐름은 예술 기관의 지속 가능성과 예술가들의 생존권을 보호하기 위한 실질적인 변화를 보여준다.",
+  "lens": "기관의 시스템적 변화와 예술가의 노동권이 맞물려 미술 생태계의 물리적 토대를 재구축하고 있다.",
+  "why_now": "예술 기관의 역사적 보존과 현장 노동자의 권리 보장이 동시다발적으로 요구되는 시점이다.",
+  "mechanism": "노조의 단체 행동권 행사가 기관과의 협상력을 높여 계약 타결이라는 실질적 결과로 이어진다.",
+  "sensory": "안정된 고용 환경과 확대된 예산은 예술가들이 일시적인 프로젝트가 아닌 지속적인 창작 활동에 집중하게 만드는 기초적인 토양이다.",
+  "transfer": "공간이나 영상 제작 시, 화려한 연출 이면에 있는 제작진과 창작자의 노동 환경을 고려하는 기획 구조를 설계한다.",
+  "context": "휘트니 미술관, 브루클린 미술관 등 주요 기관은 과거부터 현대 미술의 보존과 전시를 담당해왔으며, 최근 노조 결성을 통해 기관의 운영 방식에 변화를 꾀하고 있다. 할렘 스튜디오 미술관 역시 1968년 설립 이후 흑인 예술가들의 기록과 보존을 위한 제도적 노력을 지속해왔다.",
+  "findings": [
+   {
+    "text": "할렘 스튜디오 미술관은 1968년 설립 이후 아프리카계 미국인과 디아스포라 예술가의 작품을 수집하고 보존하며 연구해 왔다.",
+    "s": 1,
+    "quote": "Founded in 1968, the museum collects, preserves and interprets art created by African Americans, members of the African diaspora, and artists from the African continent."
+   },
+   {
+    "text": "휘트니 미술관은 20세기와 21세기 미국 미술을 수집하고 보존하는 데 중점을 두며 3,500명 이상의 예술가 작품을 소장하고 있다.",
+    "s": 2,
+    "quote": "The Whitney focuses on collecting and preserving 20th- and 21st-century American art. Its permanent collection, spanning the late 19th century to the present, comprises more than 25,000 paintings, sculptures, drawings, p"
+   }
+  ],
+  "keywords": [
+   "노동권",
+   "예술지원금",
+   "미술관노조",
+   "공공미술"
+  ],
+  "evidence": "unionized staff at the Whitney Museum of American Art, Brooklyn Museum, the American Folk Art Museum, and the Guggenheim have won their contracts",
+  "kind": "뉴스·이슈",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "뉴욕 미술계의 제도적 변화와 노동권 이슈를 다루고 있으나 개별 작업의 구체적 방법론보다는 현상 중심의 정보를 전달한다.",
+  "v": 2,
+  "url": "https://hyperallergic.com/on-taking-care-of-each-other/",
+  "original_title": "On Taking Care of Each Other",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 8600,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-07 09:52",
+  "research": {
+   "entities": [
+    "Studio Museum in Harlem",
+    "Whitney Museum of American Art",
+    "Brooklyn Museum",
+    "Solomon R. Guggenheim Museum",
+    "Metropolitan Museum of Art"
+   ],
+   "questions": [
+    "뉴욕 미술관 노조들의 계약 쟁취와 노동권 운동은 현대 미술계의 구조적 변화에 어떤 영향을 미치고 있는가?",
+    "예술가들과 커뮤니티가 공공 미술과 기념물을 통해 이민자들의 역사와 노동을 어떻게 기념하고 있는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Studio Museum in Harlem",
+     "url": "https://en.wikipedia.org/wiki/Studio%20Museum%20in%20Harlem"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Whitney Museum of American Art",
+     "url": "https://en.wikipedia.org/wiki/Whitney%20Museum%20of%20American%20Art"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "브루어 빌딩과 아모리 쇼가 드러낸 뉴욕 아트페어의 풍경",
+     "url": "https://hyperallergic.com/should-you-sit-out-the-armory-show/"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "바이올리니스트의 신체를 악보 삼아 공감각을 빛으로 번역하다",
+     "url": "https://www.designboom.com/art/synesthesia-light-audrey-wright-musical-body-metropolitan-museum-geoff-robertson-stephanie-ann-boyd/"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "구름을 보는 새로운 방식: 메트로폴리탄 미술관의 200년 기록",
+     "url": "https://www.designboom.com/art/chasing-clouds-met-two-centuries-skywatching-metropolitan-museum-new-york-exhibition/"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 3469
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "hyperallergic.com/thinking-from-black-is-a-glossary-of-possibility": {
+  "title_ko": "불가능한 정의를 모으는 법, 디아스포라 용어집의 언어학",
+  "summary_ko": "티나 캠프(Tina Campt)를 비롯한 학자들이 엮은 책 Thinking From Black은 카리브해의 시인 카마우 브라트웨이트(Kamau Brathwaite)의 언어학적 저항을 이어받아 흑인 삶의 복잡성을 용어집 형태로 풀어낸다. 저자들은 전통적이거나 투사적인 단어들을 재정의하며 흑인성에 내재된 재난과 환희의 궤적을 탐색한다. 이 책은 단일한 설명 대신 독자가 사유할 수 있는 탈출구를 제공한다.",
+  "lens": "식민지 언어의 격식을 부수는 소음과 울부짖음으로 새로운 사전의 문을 연다.",
+  "why_now": "동일화된 언어 질서에 균열을 내고 이질적인 목소리를 시각적·문학적 장치로 복원하려는 시도가 이어진다.",
+  "mechanism": "정형화된 어휘 대신 전통과 추상을 넘나드는 파격적인 단어들을 배치해 독자가 하나의 고정된 정답에 이르지 못하도록 차단한다.",
+  "sensory": "기계 건총 소리와 파도처럼 거칠고 울림 있는 소리의 질감이 인쇄된 페이지 사이로 밀려든다.",
+  "transfer": "내러티브를 고정된 자막이나 설명조로 처리하지 않고 소음과 시적 파편의 몽타주로 구성해 긴장감을 유도한다.",
+  "context": "바베이도스의 시인 카마우 브라트웨이트는 1979년 하버드 대학교 연설을 통해 식민지 영어의 한계를 지적하고 카리브해의 음향적 뉘앙스를 담은 네이션 랭귀지를 주창했다. 이 책을 엮은 프랙티싱 리푸절 콜렉티브(Practicing Refusal Collective)는 2015년부터 흑인 페미니즘 학문 지평을 확장해 온 학자들의 모임이다.",
+  "findings": [],
+  "keywords": [
+   "디아스포라",
+   "네이션랭귀지",
+   "용어집",
+   "언어학"
+  ],
+  "evidence": "Instead, by calling itself a “diasporic glossary,” the book becomes a launching pad from which readers can ruminate on the calamity, the pleasures, the ceremony, and the emergency plaguing Black life internationally.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "흑인 페미니즘 학자들의 신간 도서를 다룬 평론 기사로 동시대 언어학적 맥락을 충실히 전한다.",
+  "v": 2,
+  "url": "https://hyperallergic.com/thinking-from-black-is-a-glossary-of-possibility/",
+  "original_title": "“Thinking From Black” Is a Glossary of Possibility",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 2680,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-07 09:52",
+  "research": {
+   "entities": [
+    "Kamau Brathwaite",
+    "Practicing Refusal Collective",
+    "Thinking From Black: A Lexicon",
+    "History of the Voice",
+    "Tina Campt"
+   ],
+   "questions": [
+    "카마우 브레이스웨이트가 주장한 '네이션 랭귀지(Nation Language)'의 핵심 개념은 무엇인가?",
+    "Practicing Refusal Collective가 지향하는 학문적 방법론과 'Thinking From Black'이 제시하는 사유의 방식은 어떻게 연결되는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Kamau Brathwaite",
+     "url": "https://en.wikipedia.org/wiki/Kamau%20Brathwaite"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Tina Campt",
+     "url": "https://en.wikipedia.org/wiki/Tina%20Campt"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 2114
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "hyperallergic.com/art-reads-for-banned-books-week": {
+  "title_ko": "검열의 시대, 예술이 기록하고 지탱하는 문장의 기원들",
+  "summary_ko": "미국의 도서 검열 사태와 펜 아메리카의 검열 추적 통계를 배경으로, 하이퍼알레르기는 조셉 말로드 터너의 식민주의 선전성 비평, 고대 이집트 장인 연구, 그리고 할렘 스튜디오 미술관의 58년 역사를 담은 신간들을 조명한다. 독립 출판과 아트 북 페어를 통해 사유와 상상력을 지키는 예술가의 실천을 함께 짚어낸다.",
+  "lens": "검열과 삭제의 국면에서 예술 도서는 지워진 노동과 역사를 복원하는 물질적 증거가 된다.",
+  "why_now": "미국 공립학교의 도서 검열 건수가 수천 건에 달하는 상황에서, 예술 출판과 비평은 표현의 자유를 수호하는 최전선으로 기능한다.",
+  "mechanism": "미술 비평과 역사 서적은 작가의 유산과 고대 노동자의 익명성을 재해석하며 익숙한 서사의 이면을 폭로한다.",
+  "sensory": "텍스트와 인쇄물, 독립 출판물의 거친 종이 질감과 리소 인쇄의 날것의 색감이 손끝의 감각을 자극한다.",
+  "transfer": "억압과 검열에 맞서는 서사를 연출할 때, 세련된 연출 대신 거친 질감의 인쇄물과 아카이브 문서를 프레임 안에 직접 노출한다.",
+  "context": "할렘 스튜디오 미술관(Studio Museum in Harlem)은 7년간의 휴관을 마치고 재개관한 이후 58년의 역사를 다룬 신간 출판을 통해 코스모폴리탄적 블랙 아트의 거점으로서 정체성을 공고히 한다.",
+  "findings": [],
+  "keywords": [
+   "도서검열",
+   "예술서적",
+   "스튜디오미술관",
+   "독립출판"
+  ],
+  "evidence": "Free people read freely.",
+  "kind": "뉴스·이슈",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "여러 신간 도서와 비평을 큐레이터의 시선으로 묶어냈으나 개별 작업의 심층 분석보다는 매체 소개 중심의 라운드업 기사다.",
+  "v": 2,
+  "url": "https://hyperallergic.com/art-reads-for-banned-books-week/",
+  "original_title": "Art Reads for Banned Books Week",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 7570,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-07 09:52",
+  "research": {
+   "entities": [
+    "Maurice Sendak",
+    "PEN America",
+    "J. M. W. Turner",
+    "Studio Museum in Harlem",
+    "Yale University Press"
+   ],
+   "questions": [
+    "미국 내 도서 검열 현황과 PEN America가 이를 어떻게 추적하고 대응하고 있는지 궁금합니다.",
+    "J. M. W. Turner의 작품이 어떻게 식민주의 선전 도구로 해석될 수 있는지 그 비평적 맥락이 궁금합니다."
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Maurice Sendak",
+     "url": "https://en.wikipedia.org/wiki/Maurice%20Sendak"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "PEN America",
+     "url": "https://en.wikipedia.org/wiki/PEN%20America"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "헤수스 힐라리오-레예스의 클럽과 스튜디오: 재난의 언어로 구축한 집단적 신체성",
+     "url": "https://elephant.art/jesus-hilario-reyes-on-freakability-techno-and-collective-embodiment/"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "데리안 파의 회화, 비늘과 모피로 빚어낸 여성성의 변태",
+     "url": "https://hyperallergic.com/a-vision-of-rebirth-raw-and-sumptuous/"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "가을의 예술 지형도: 순환과 소멸을 마주하는 동시대 미술의 풍경",
+     "url": "https://hyperallergic.com/the-art-tarot-predicts-a-fateful-fall/"
+    }
+   ],
+   "used": [
+    2,
+    3
+   ],
+   "chars": 3471
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "hyperallergic.com/moma-helping-sanitize-leon-blacks-reputation-protesters-say": {
+  "title_ko": "미술관의 권력과 명성 세탁, MoMA 이사 레온 블랙 퇴진 시위",
+  "summary_ko": "뉴욕 현대미술관(MoMA) 앞에서 활동가들이 제프리 엡스타인과 연루된 이사 레온 블랙의 퇴진을 요구하는 시위를 벌였다. 이들은 블랙의 이사회 잔류가 미술관의 권위를 빌려 그의 명성을 세탁하는 결과를 낳는다고 비판했다. 현장에는 엡스타인 관련 문건을 담은 이동식 열람실이 설치되어 블랙의 이름이 8,500회 이상 언급된 기록을 전시했다.",
+  "lens": "미술관 이사회의 자본이 어떻게 예술적 권위를 사유화하고, 도덕적 책임을 지운 채 제도적 보호막을 형성하는지 드러내는 사건이다.",
+  "why_now": "기관의 자금줄인 이사들의 도덕적 결함이 미술관의 공적 가치와 충돌하며, 예술계 내 자본의 투명성을 요구하는 목소리가 거세지고 있다.",
+  "mechanism": "이동식 열람실이라는 매체를 통해 8,500여 건의 방대한 기록을 물리적 책의 형태로 시각화하여, 추상적인 혐의를 구체적인 데이터의 무게로 전환한다.",
+  "sensory": "수천 권의 책이 쌓인 이동식 도서관의 압도적인 물성과, 박물관 거리 위에서 울려 퍼지는 구호가 대조를 이루며 제도적 공간의 정적을 깬다.",
+  "transfer": "공간의 권력 구조를 비판하는 연출 시, 기록물이나 문서를 단순히 나열하지 말고 관객이 직접 물리적으로 접촉하게 하여 정보의 실체감을 높인다.",
+  "context": "레온 블랙은 2018년부터 2021년까지 MoMA 이사회 의장을 역임했으나 엡스타인과의 금전적 관계가 드러나며 사임했다. MoMA는 사라 미켈슨의 퍼포먼스나 타로 전시 등 권력 구조를 성찰하는 작업을 선보여왔으나, 정작 기관 내부의 이사회 구성에 대해서는 비판의 대상이 되고 있다.",
+  "findings": [
+   {
+    "text": "레온 블랙은 2012년부터 2017년 사이 제프리 엡스타인에게 세무 및 금융 자문료 명목으로 1억 7천만 달러를 지급했다.",
+    "s": 1,
+    "quote": "Between 2012 and 2017, Black paid Epstein a total of $170 million for \"tax and financial services\" that reportedly saved him over $1 billion in taxes."
+   },
+   {
+    "text": "레온 블랙은 2018년부터 2021년까지 MoMA 이사회 의장을 맡았다.",
+    "s": 1,
+    "quote": "Black was the chairman of the Museum of Modern Art from 2018 to 2021."
+   }
+  ],
+  "keywords": [
+   "MoMA",
+   "레온 블랙",
+   "제프리 엡스타인",
+   "기관 비판",
+   "예술 자본"
+  ],
+  "evidence": "MoMA is helping to sanitize Leon Black’s reputation",
+  "kind": "뉴스·이슈",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "미술관 이사회의 권력 구조와 자본의 연관성을 현장 시위를 통해 구체적으로 짚어내고 있다.",
+  "v": 2,
+  "url": "https://hyperallergic.com/moma-helping-sanitize-leon-blacks-reputation-protesters-say/",
+  "original_title": "MoMA Helping \"Sanitize\" Leon Black's Reputation, Protesters Say",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 2328,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-07 09:52",
+  "research": {
+   "entities": [
+    "Leon Black",
+    "Museum of Modern Art",
+    "Jeffrey Epstein",
+    "UltraViolet",
+    "Carl Sprinchorn"
+   ],
+   "questions": [
+    "레온 블랙이 MoMA 이사회와 미술계에 미친 영향력과 기부 내역은 무엇인가요?",
+    "제프리 엡스타인 관련 문건에 레온 블랙이 어떻게 언급되어 있나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Leon Black",
+     "url": "https://en.wikipedia.org/wiki/Leon%20Black"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Museum of Modern Art",
+     "url": "https://en.wikipedia.org/wiki/Museum%20of%20Modern%20Art"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "맨해튼 크라운 빌딩의 재탄생, 아만 뉴욕이 선보이는 7개의 프라이빗 홈",
+     "url": "https://www.wallpaper.com/travel/hotels/aman-new-york-homes"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "역사의 권력 구조를 비추는 거울, 모건 라이브러리의 타로 전시",
+     "url": "https://hyperallergic.com/how-tarot-survived-for-500-years/"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "사라 미켈슨의 무용 연대기, 미술관을 점유하는 자기 참조적 궤적",
+     "url": "https://hyperallergic.com/sarah-michelsons-delicate-fetish-play/"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "chars": 3443
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "hyperallergic.com/aye-a-aton-returns-to-his-earthly-roots": {
+  "title_ko": "우주에서 지상의 뿌리로, 아예 A. 아톤의 회화 16점",
+  "summary_ko": "선 라 아케스트라의 전직 타악기 연주자 아예 A. 아톤이 2004년부터 2012년 사이에 그린 회화 16점을 선보인다. 이번 전시는 아프리카계 조상에 대한 탐구를 바탕으로 서·중앙아프리카의 가면 형상과 우주적 기하학을 마블링 아크릴 배경 위에 자유분방한 화풍으로 풀어낸다.",
+  "lens": "아프로퓨처즘의 우주적 신비에서 출발해 아프리카의 역사적 뿌리와 가면의 조형미로 회귀한다.",
+  "why_now": "선 라의 궤적을 따르던 아티스트가 후기에 이르러 자신의 혈통과 역사적 기원을 시각화한 작업의 궤적을 조명한다.",
+  "mechanism": "마블링 처리한 아크릴 배경 위에 곡선과 형태가 파편화된 가면 형상을 배치하고 기하학적 우주 형태를 결합해 시각적 긴장을 만든다.",
+  "sensory": "소용돌이치는 마블링 질감 속에서 원시적인 가면 형태와 우주적인 기하학이 부딪히며 독특한 깊이감을 자아낸다.",
+  "transfer": "공간 연출 시 소용돌이 패턴의 배경 위에 파편화된 오브제를 얹어 시간과 공간이 교차하는 듯한 인상을 구현한다.",
+  "context": "로버트 언더우드라는 이름으로 활동하던 아예 A. 아톤은 1960년대와 1970년대에 시카고에서 벽화 작업을 진행했으며 선 라의 아케스트라에서 타악기를 연주했다.",
+  "findings": [
+   {
+    "text": "아예 A. 아톤은 1960년대와 1970년대에 시카고의 주거지와 건물 외벽에 태양, 피라미드, 혜성 등 우주를 주제로 한 대형 벽화를 그렸다.",
+    "s": 1,
+    "quote": "As a visual artist he was known for his outer space-themed murals, which he painted in private homes and on building exteriors in Chicago during the 1960s and 1970s."
+   }
+  ],
+  "keywords": [
+   "아예 A. 아톤",
+   "아프로퓨처즘",
+   "선 라",
+   "마블링",
+   "아프리카 가면"
+  ],
+  "evidence": "Ayé A. Aton: Image from the Past celebrates this later period in the artist’s life with a small but luminous exhibition of 16 paintings created between 2004 and 2012.",
+  "kind": "전시",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "작가의 후기 회화 작품과 전시 구성을 구체적으로 소개하나 일반적인 작가 조명 기사에 가깝다.",
+  "v": 2,
+  "url": "https://hyperallergic.com/aye-a-aton-returns-to-his-earthly-roots/",
+  "original_title": "Ayé A. Aton Returns to His Earthly Roots",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 2148,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-07 09:52",
+  "research": {
+   "entities": [
+    "Ayé A. Aton",
+    "Sun Ra",
+    "Sun Ra Arkestra"
+   ],
+   "questions": [
+    "아예 A. 아톤이 선 라의 아프로퓨처즘에서 벗어나 아프리카의 역사적 뿌리를 탐구하게 된 예술적 배경은 무엇인가?",
+    "아예 A. 아톤의 후기 작품에서 나타나는 마블링 기법과 아프리카 가면 형상의 결합은 어떤 상징적 의미를 담고 있는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Ayé Aton",
+     "url": "https://en.wikipedia.org/wiki/Ay%C3%A9%20Aton"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Sun Ra",
+     "url": "https://en.wikipedia.org/wiki/Sun%20Ra"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 2800
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "elephant.art/woody-de-othello-and-the-ritual-of-being-here": {
+  "title_ko": "우디 데 오텔로의 조각: 일상 사물에 담긴 영적 기제와 물질성",
+  "summary_ko": "작가 우디 데 오텔로(Woody De Othello)는 시계, 전화기, 빗 같은 일상 사물을 변형해 아프리카 디아스포라의 영적 전통과 연결한다. 그는 점토와 청동을 수작업으로 빚어내며 사물이 인간의 에너지와 기억을 담는 그릇이자 심리적 도구로 작동한다고 본다. 최근 뉴욕 브루클린 브리지 파크에서 대형 청동상과 레드우드 조각으로 구성된 야외 전시 가디언 스피릿을 선보였다.",
+  "lens": "일상적인 사물을 휘어지고 처진 신체 형태로 빚어내어 물질에 스민 기억과 영적 에너지를 가시화한다.",
+  "why_now": "식민주의적 시각을 벗어나 아프리카 및 디아스포라의 물질·영적 전통 속에서 사물의 의미를 재정의하려는 동시대 미술의 흐름을 보여준다.",
+  "mechanism": "전화기와 빗 같은 일상 용품을 거대한 스케일로 확대하고, 나팔 모양의 귀와 손 형태를 결합해 감각과 소통의 물리적 장치를 구성한다.",
+  "sensory": "손으로 직접 빚은 점토와 투박한 청동의 질감, 거칠게 다듬어진 레드우드의 결이 사물의 물질적 무게감을 극대화한다.",
+  "transfer": "소품의 스케일을 비틀고 인체 부위를 결합하여 평범한 사물에 서사적 긴장감을 부여하는 오브제 연출로 차용한다.",
+  "context": "아이티계 부모 사이에서 마이애미에서 태어난 우디 데 오텔로는 마이애미 미술관(Pérez Art Museum Miami) 등에서 개인전을 열었으며, 서·중앙아프리카의 영적 전통인 은키시(nkisi) 개념을 조각에 접목해왔다.",
+  "findings": [
+   {
+    "text": "우디 데 오텔로는 1991년 미국 플로리다주 마이애미에서 태어났다.",
+    "s": 1,
+    "quote": "Woody De Othello (b. 1991, Miami, Florida)"
+   },
+   {
+    "text": "가디언 스피릿 전시는 네 점의 대형 청동상과 세 점의 새로운 토템 레드우드 조각으로 구성된다.",
+    "s": 1,
+    "quote": "comprising four recent large-scale bronzes and three new totemic redwood sculptures"
+   },
+   {
+    "text": "작가는 주로 점토와 청동을 매체로 사용하여 일상적인 물건을 기이하고 왜곡된 심리적 저장소로 바꾼다.",
+    "s": 1,
+    "quote": "Othello (b. 1991, Miami) works primarily in clay and bronze, manipulating mundane objects such as clocks, calendars, phones, and box fans to transform them into warped, uncanny repositories of psychic significance."
+   }
+  ],
+  "keywords": [
+   "우디 데 오텔로",
+   "동시대 미술",
+   "조각",
+   "물질성",
+   "아프리카 디아스포라"
+  ],
+  "evidence": "Woody De Othello: Guardian Spirit, comprising four recent large-scale bronzes and three new totemic redwood sculptures.",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "일상 사물과 아프리카 영적 전통을 결합하는 고유한 조형 언어와 구체적인 야외 전시 작업이 명확히 드러난다.",
+  "v": 2,
+  "url": "https://elephant.art/woody-de-othello-and-the-ritual-of-being-here/",
+  "original_title": "Woody De Othello and the Ritual of Being Here",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 9000,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-07 09:52",
+  "research": {
+   "entities": [
+    "Woody De Othello",
+    "Pérez Art Museum Miami",
+    "Robert Farris Thompson",
+    "Flash of the Spirit"
+   ],
+   "questions": [
+    "우디 드 오텔로의 조각에서 일상적인 사물들이 어떻게 아프리카 디아스포라의 영적 전통과 연결되는가?",
+    "콩고의 장례 관습과 'nkisi' 파워 피겨가 작가의 사물에 대한 인식과 조형 언어에 어떤 영향을 미쳤는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Woody De Othello: Guardian Spirit - Public Art Fund",
+     "url": "https://www.publicartfund.org/exhibitions/view/woody-de-othello-guardian-spirit/"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Woody De Othello",
+     "url": "https://en.wikipedia.org/wiki/Woody%20De%20Othello"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Pérez Art Museum Miami",
+     "url": "https://en.wikipedia.org/wiki/P%C3%A9rez%20Art%20Museum%20Miami"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 4091
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "thisiscolossal.com/2026/10/hannah-lim-sculptures-snuff-bottles": {
+  "title_ko": "한나 림, 시누아즈리 미학을 재구성한 조각적 스너프 보틀",
+  "summary_ko": "런던 기반 작가 한나 림(Hannah Lim)은 17~18세기 유럽이 동양의 미학을 모방했던 시누아즈리 양식을 현대적으로 재해석한다. 고대 중국 문헌 '산해경'의 신화적 생물을 모티프로 삼아, 폴리머 클레이와 제스모나이트로 제작한 대형 스너프 보틀 조각을 선보인다. 작가는 박물관 소장품에서 영감을 얻은 장식적 형태에 본인의 영국-싱가포르 혈통을 투영한다.",
+  "lens": "역사적 전유물인 시누아즈리를 개인적 서사로 치환하여, 박제된 장식 양식에 생동하는 신화적 생명력을 불어넣는다.",
+  "why_now": "동양의 문화를 타자화했던 과거의 미학적 유산을 동시대 작가가 주체적으로 재구성하여 새로운 조형 언어로 전환하는 작업이다.",
+  "mechanism": "전통적인 스너프 보틀의 기능적 요소인 작은 숟가락을 뚜껑 내부의 숨겨진 참(charm)으로 변주하고, 폴리머 클레이와 제스모나이트를 결합해 매끄러운 질감과 입체적인 부조를 구현한다.",
+  "sensory": "주먹만 한 보틀을 거대하게 확장한 스케일과 광택 마감, 레이저 커팅된 금속 요소가 결합된 표면은 인공적인 매끄러움과 신화적 기괴함이 공존하는 감각을 만든다.",
+  "transfer": "역사적 오브제의 크기를 의도적으로 왜곡하여 공간의 중심을 잡는 조형물로 활용하고, 뚜껑이나 프레임 같은 부차적 요소에 서사를 담는 디테일로 시각적 깊이를 더한다.",
+  "context": "한나 림은 불가리 호텔 런던, 돌체앤가바나 등 다양한 브랜드와 협업하며 장식적 미학을 공간과 오브제로 확장해왔다. 이번 작업은 바스 동아시아 미술관에서의 개인전 'Reimaginings'을 통해 고전적 컬렉션과 현대 조각의 대화를 시도한다.",
+  "findings": [
+   {
+    "text": "'산해경'은 기원전 4세기경부터 형성된 중국의 신화적 지리서로 550여 개의 산과 300여 개의 수로에 관한 환상적인 기록을 담고 있다.",
+    "s": 5,
+    "quote": "The Classic of Mountains and Seas, also known as Shanhai jing (Chinese: 山海经), formerly romanized as the Shan-hai Ching, is a Chinese classic text and a compilation of mythic geography and beasts."
+   }
+  ],
+  "keywords": [
+   "한나 림",
+   "시누아즈리",
+   "산해경",
+   "조각",
+   "오브제"
+  ],
+  "evidence": "In playful, anthropomorphized sculptures, Hannah Lim takes inspiration from historical ceramics, classical Chinese literature, and her British-Singaporean heritage.",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "전통 양식을 현대적으로 재해석하는 구체적 기법과 제작 재료, 그 맥락이 작가의 서사와 긴밀하게 연결되어 있다.",
+  "v": 2,
+  "url": "https://www.thisiscolossal.com/2026/10/hannah-lim-sculptures-snuff-bottles/",
+  "original_title": "Hannah Lim Draws on Her British-Singaporean Heritage in Sculptural Snuff Bottles",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 3761,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-07 09:52",
+  "research": {
+   "entities": [
+    "Hannah Lim",
+    "Chinoiserie",
+    "The Classic of Mountains and Seas",
+    "Museum of East Asian Art",
+    "Cynthia Corbett Gallery"
+   ],
+   "questions": [
+    "시누아즈리(Chinoiserie) 양식의 역사적 배경과 한나 림이 이를 자신의 작품에서 어떻게 비판적으로 재해석하고 있는지 궁금합니다.",
+    "산해경(The Classic of Mountains and Seas)에 등장하는 신화적 생물들이 한나 림의 조각적 형태와 디테일에 어떤 방식으로 반영되고 있나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Hannah Lim",
+     "url": "https://www.hannah-lim.co.uk/"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Museum of East Asian Art, Bath | Welcome to MEAA",
+     "url": "https://meaa.org.uk/"
+    },
+    {
+     "n": 3,
+     "type": "공식·1차",
+     "title": "Cynthia Corbett Gallery",
+     "url": "https://www.thecynthiacorbettgallery.com/"
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "Hannah Lim",
+     "url": "https://en.wikipedia.org/wiki/Hannah%20Lim"
+    },
+    {
+     "n": 5,
+     "type": "위키백과",
+     "title": "Classic of Mountains and Seas",
+     "url": "https://en.wikipedia.org/wiki/Classic%20of%20Mountains%20and%20Seas"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    5
+   ],
+   "chars": 3686
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "archdaily.com/1186453/hacienda-amalucan-taller-eduardo-audirac": {
+  "title_ko": "유적의 층위를 포개는 리노베이션, 아시엔다 아말루칸",
+  "summary_ko": "타예르 에두아르도 아우디락(Taller Eduardo Audirac)이 멕시코 푸에블라에서 산 후안 바티스타 아말루칸 아시엔다를 개보수했다. 1000제곱미터 규모의 숙박 시설로 리노베이션된 이 프로젝트는 장소의 조상 중심성과 최근의 역사를 공간에 매끄럽게 엮어낸다.",
+  "lens": "오래된 유적의 중심성을 거칠게 걷어내지 않고 현대적 숙박 공간의 층위로 고스란히 포개 넣는다.",
+  "why_now": "역사적 건축물의 보존과 현대적 기능의 결합 방식이 공간의 물리적 무게감을 결정하는 기준이 된다.",
+  "mechanism": "과거 아시엔다의 구조적 골조와 사이트의 최근 역사를 특정 개입을 통해 공간 전체에 유기적으로 통합한다.",
+  "sensory": "멕시코 푸에블라의 거친 태양 아래 오랜 세월을 버텨온 건축물의 물성과 새롭게 더해진 현대적 마감이 대비를 이룬다.",
+  "transfer": "역사적 질감이 살아 있는 로케이션에서 과거의 흔적을 지우지 않고 동시대적 카메라 동선과 결합할 때 참고한다.",
+  "context": "타예르 에두아르도 아우디락이 멕시코 헤로이카 푸에블라 데 사라고사에서 진행한 1000제곱미터 규모의 숙박 및 리노베이션 프로젝트다.",
+  "findings": [],
+  "keywords": [
+   "리노베이션",
+   "아시엔다",
+   "멕시코건축",
+   "타예르에두아르도아우디락"
+  ],
+  "evidence": "Ancestral Centrality - The specific interventions carried out at the Hacienda de San Juan Bautista Amalucan are integrated into the recent history of the site.",
+  "kind": "프로젝트",
+  "depth": 2,
+  "grounding": "thin",
+  "depth_reason": "원문의 정보가 매우 짧고 제한적이며 구체적인 설계 기법이나 도면 데이터가 부족하다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1186453/hacienda-amalucan-taller-eduardo-audirac",
+  "original_title": "Hacienda Amalucan / Taller Eduardo Audirac",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 919,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-07 09:52",
+  "research": {
+   "entities": [
+    "Taller Eduardo Audirac",
+    "Hacienda de San Juan Bautista Amalucan",
+    "Eduardo Audirac",
+    "Elizabeth Cortés"
+   ],
+   "questions": [
+    "Hacienda de San Juan Bautista Amalucan의 역사적 배경과 이번 리노베이션이 갖는 건축적 의미는 무엇인가요?",
+    "Taller Eduardo Audirac이 추구하는 건축 철학에서 'Ancestral Centrality'는 어떤 방식으로 구현되었나요?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 2,
+  "depth_v": 2
+ },
+ "archdaily.com/1034775/pupunha-house-laurent-troost-architectures-plus-hana-eto-gall-paisagismo": {
+  "title_ko": "아마존의 야자나무를 품은 집, 푸푼하 하우스",
+  "summary_ko": "로랑 트루스트 아키텍처스와 하나 에토 갈 파이사지스모가 브라질 마나우스에 230제곱미터 규모의 푸푼하 하우스를 설계했다. 기존 녹지와 중앙의 푸푼하 야자나무를 그대로 보존하며 컴팩트하고 효율적인 거주 공간을 완성했다. 아마존 열대우림의 자연경관과 직접적인 대화를 나누는 조경 계획이 건축 개념의 중심을 이룬다.",
+  "lens": "대지를 파괴하지 않고 중심의 나무를 건축의 원점으로 삼는 생태적 공존 방식이다.",
+  "why_now": "개발 중심의 건축에서 벗어나 대지의 기존 생태계를 온전히 보존하는 방식이 동시대 주거 설계의 핵심 화두로 떠오르고 있다.",
+  "mechanism": "대지 중앙에 위치한 기존 푸푼하 야자나무를 공사 중에도 훼손 없이 보존하고, 그 주변을 감싸는 형태로 주거 공간을 효율적으로 배치했다.",
+  "sensory": "창을 통해 들어오는 아마존의 자연광과 실내외를 유기적으로 연결하는 밀도 높은 녹색 식생이 시각적 몰입감을 만든다.",
+  "transfer": "자연물을 공간의 중심 축으로 설정하고 그 주변의 동선을 짜는 내외장 연출 콘티에 활용할 수 있다.",
+  "context": "로랑 트루스트 아키텍처스와 하나 에토 갈 파이사지스모가 브라질 마나우스 서부 지역에 완성한 230제곱미터 규모의 주거 프로젝트다.",
+  "findings": [],
+  "keywords": [
+   "공간건축",
+   "아마존건축",
+   "친환경주거",
+   "조경디자인"
+  ],
+  "evidence": "With the premise of preserving the existing greenery and creating a compact and efficient residence, the office Laurent Troost Architectures designed the Casa Pupunha",
+  "kind": "프로젝트",
+  "depth": 2,
+  "grounding": "thin",
+  "depth_reason": "기존 식생을 보존한 단독주택의 평범한 소개에 머물러 해석과 적용 여지가 제한적이다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1034775/pupunha-house-laurent-troost-architectures-plus-hana-eto-gall-paisagismo",
+  "original_title": "Pupunha House / Laurent Troost Architectures + Hana Eto Gall Paisagismo",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 1622,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-07 09:52",
+  "research": {
+   "entities": [
+    "Laurent Troost Architectures",
+    "Hana Eto Gall Paisagismo",
+    "Casa Pupunha"
+   ],
+   "questions": [
+    "아마존 열대우림 지역인 마나우스의 기후적 특성이 주택 설계에 어떤 영향을 미쳤는가?",
+    "기존 식생을 보존하면서 건축물을 배치하는 과정에서 어떤 친환경적 설계 전략이 사용되었는가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "dezeen.com/2026/10/07/jaguar-type-01-electric-car": {
+  "title_ko": "재규어 타입 01, 동질화된 전기차 시장에 던지는 새로운 조형 언어",
+  "summary_ko": "재규어가 전기차 타입 01을 공개하며 브랜드의 새로운 시대를 선언했다. 긴 보닛과 1.4미터의 낮은 전고를 갖춘 이 차량은 후면의 '임파서블 패널'을 통해 기존 전기차의 전형적인 형태에서 벗어난 조형을 선보인다. 뉴욕 론칭 행사에서 공개된 타입 01은 재규어의 전기차 전용 플랫폼인 JEA를 기반으로 브랜드의 유산을 재해석했다.",
+  "lens": "전기차 특유의 획일적 볼륨을 거부하고, 엔진룸의 빈 공간을 시각적 긴장감으로 치환해 GT카의 비례감을 회복했다.",
+  "why_now": "대부분의 전기차가 배터리 효율을 위해 캡 포워드 디자인을 채택하는 흐름 속에서, 과거 내연기관 GT카의 우아한 비례를 전기차 플랫폼으로 이식하려는 시도가 돋보인다.",
+  "mechanism": "알루미늄을 6단계로 압착한 '임파서블 패널'이 후면 쿼터 패널의 복잡한 교차점을 완성하며, 차체 하부의 공기 흐름을 제어해 후방 가속력을 생성하는 공기역학적 장치로 작동한다.",
+  "sensory": "5.2미터의 긴 차체와 23인치 휠이 만드는 압도적인 수평적 스케일, 그리고 차가운 알루미늄 표면과 대비되는 크바드라트의 따뜻한 울 소재 실내 질감이 대조를 이룬다.",
+  "transfer": "공간 연출 시 '임파서블 패널'처럼 제조 한계를 넘는 비정형 곡면을 도입해 시각적 초점을 만들고, 조명은 어두운 패널 틈새에 배치해 형태의 윤곽만을 강조하는 방식을 활용한다.",
+  "context": "재규어는 1922년 스왈로 사이드카 컴퍼니로 시작해 2008년 타타 모터스에 인수되기까지 긴 역사를 가진 영국 브랜드다. 이번 타입 01은 2024년 발표된 타입 00 콘셉트카의 양산형 모델로, 브랜드의 새로운 디자인 정체성을 확립하는 전환점이다.",
+  "findings": [
+   {
+    "text": "재규어는 1922년 스왈로 사이드카 컴퍼니로 설립되었으며, 2008년 타타 모터스에 인수되어 현재 재규어 랜드로버의 자회사로 운영된다.",
+    "s": 1,
+    "quote": "Jaguar's business was founded as the Swallow Sidecar Company in 1922... In 2008, it sold both Jaguar Cars and Land Rover to Tata Motors. Tata created Jaguar Land Rover as a subsidiary holding company."
+   }
+  ],
+  "keywords": [
+   "재규어",
+   "전기차",
+   "임파서블패널",
+   "GT카",
+   "알루미늄"
+  ],
+  "evidence": "The Type 01 is only 1.4 metres high, placing it firmly in GT territory.",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "전기차 디자인의 획일성을 비판하며 구체적인 공학적 해결책과 조형적 대안을 제시했으나, 양산차로서의 시장 영향력은 검증이 필요하다.",
+  "v": 2,
+  "url": "https://www.dezeen.com/2026/10/07/jaguar-type-01-electric-car/",
+  "original_title": "Jaguar \"inaugurates a new era\" with Type 01 electric car",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 5754,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-07 09:53",
+  "research": {
+   "entities": [
+    "Jaguar",
+    "Type 01",
+    "Type 00",
+    "Rawdon Glover",
+    "Alexey Andreev"
+   ],
+   "questions": [
+    "재규어가 기존 전기차 디자인의 동질성을 탈피하기 위해 적용한 'Jaguar Electric Architecture(JEA)'의 핵심 설계 철학은 무엇인가?",
+    "Impossible Panel로 명명된 후면부 디자인이 기술적으로 구현하기 어려웠던 이유는 무엇이며, 이것이 브랜드의 새로운 정체성에 어떤 영향을 미치는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Jaguar Cars",
+     "url": "https://en.wikipedia.org/wiki/Jaguar%20Cars"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 1400
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "archdaily.com/1186433/arena-bruja-house-un-estudio-propio": {
+  "title_ko": "기억과 장소를 잇는 집, 아레나 브루하 하우스",
+  "summary_ko": "스페인 야노 데 브루하스에 완공된 면적 205제곱미터의 주택이다. 건축가 아나 벨렌 로페즈 플라사스와 로사 마 바예스테르 에스피가레스가 이끄는 운 에스튜디오 프로피오가 설계했다. 가족의 집과 맺었던 유대감을 회복하고 장소가 주는 안정감을 되찾는 과정을 담았다.",
+  "lens": "오래된 기억이 머무는 장소에 건축적 치유의 언어를 더해 주거의 안정을 되찾는다.",
+  "why_now": "공간 소비를 넘어 물리적 공간이 개인의 심리적 안정과 기억 회복에 기여하는 방식을 다시 묻는 주거 프로젝트다.",
+  "mechanism": "가족의 집이라는 원형적 기억을 바탕으로 공간과 장소 사이의 단절된 유대를 다시 엮어내는 방식을 취한다.",
+  "sensory": "스페인 야노 데 브루하스의 빛과 풍경 속에서 가족의 흔적이 서린 재료와 구조가 차분한 안정감을 만든다.",
+  "transfer": "공간의 역사적 맥락이나 인물의 기억을 시각화할 때, 자극적인 연출 대신 정제된 구조물과 자연광의 결합으로 차분한 무드를 만든다.",
+  "context": "운 에스튜디오 프로피오가 스페인 야노 데 브루하스에서 가족의 집이라는 장소적 유대를 재해석해 완성한 주거 프로젝트다.",
+  "findings": [],
+  "keywords": [
+   "운에스튜디오프로피오",
+   "스페인건축",
+   "주거공간",
+   "장소성"
+  ],
+  "evidence": "This house is a story about healing the bond with a family home and reclaiming the stabilizing effects that come from having an attachment to a place.",
+  "kind": "프로젝트",
+  "depth": 2,
+  "grounding": "thin",
+  "depth_reason": "원문의 설명이 짧고 구체적인 설계 기법이나 도면 정보가 부족하여 제한적으로 파악된다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1186433/arena-bruja-house-un-estudio-propio",
+  "original_title": "Arena Bruja House / Un Estudio Propio",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 893,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-07 09:53",
+  "research": {
+   "entities": [
+    "Un Estudio Propio",
+    "Ana Belén López Plazas",
+    "Rosa Ma Ballester Espigares",
+    "Arena Bruja House"
+   ],
+   "questions": [
+    "Arena Bruja House 프로젝트가 지향하는 '가족의 집과의 유대감 회복'은 건축적으로 어떻게 구현되었는가?",
+    "Un Estudio Propio가 추구하는 건축 철학에서 장소에 대한 애착과 치유의 개념은 어떤 의미를 갖는가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 2,
+  "depth_v": 2
+ },
+ "archdaily.com/1034516/miramar-tower-ooda": {
+  "title_ko": "포르투갈 미라마르 타워: 360도 회전하는 테라스의 수직 볼륨",
+  "summary_ko": "포르투갈에 완공된 오다(OODA)의 미라마르 타워는 바다와 가까운 대지 중심에 위치해 인접 건물과 최대 간격을 확보한다. 연면적 6000제곱미터 규모의 15층 타워로, 층별로 200제곱미터가 넘는 대형 테라스를 배치했다. 수직 덴드리폼 구조를 적용해 평면을 최적화하고 360도 나선형 테라스 모델링으로 수직성을 강조한다.",
+  "lens": "360도 회전하는 테라스의 나선형 모델링으로 타워 전체의 수직성을 시각화한다.",
+  "why_now": "대규모 발코니 면적을 주거 공간의 핵심으로 삼아 외부 풍경과의 접점을 극대화하는 주거 건축의 최근 흐름을 보여준다.",
+  "mechanism": "대지 중앙에 건물을 배치해 인접 건물과의 거리를 넓히고, 수직 덴드리폼 단면 구조를 통해 평면 최적화와 테라스 회전을 유도한다.",
+  "sensory": "15층 높이에서 360도로 회전하며 이어지는 테라스가 파도와 바다를 향한 시선을 입체적으로 열어준다.",
+  "transfer": "공간이나 세트를 촬영할 때, 회전하는 테라스의 나선형 동선을 따라 카메라를 360도 패닝하며 수직성과 공간감을 동시에 확보하는 숏에 적용한다.",
+  "context": "포르투갈 오다(OODA)가 설계한 이 프로젝트는 파스테레이라 공원 인근의 기존 타워들과 유사한 비례를 지니면서도 완전히 다른 개념적 접근을 시도했다.",
+  "findings": [],
+  "keywords": [
+   "미라마르타워",
+   "오다",
+   "포르투갈건축",
+   "테라스디자인",
+   "수직구조"
+  ],
+  "evidence": "Miramar Tower is similar to the buildings in Pasteleira Park to the north, in proportion and dimension, but otherwise completely distinctive in its concept approach.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "구체적인 수직 덴드리폼 구조와 회전 테라스 개념이 명확하나 선례가 아주 드물지는 않다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1034516/miramar-tower-ooda",
+  "original_title": "Miramar Tower / OODA",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 1568,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-07 09:53",
+  "research": {
+   "entities": [
+    "OODA",
+    "Miramar Tower",
+    "Fernando Guerra"
+   ],
+   "questions": [
+    "Miramar Tower의 수직 덴드리폼(dendriform) 구조가 주거 공간의 효율성과 테라스 설계에 어떤 영향을 미쳤는가?",
+    "OODA가 이 프로젝트에서 Pasteleira Park의 기존 건물들과 차별화하기 위해 시도한 건축적 개념은 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "카사 무다 L13: 계곡의 빛과 풍경을 담아내는 포르투갈의 주거",
+     "url": "https://www.archdaily.com/1184076/casa-muda-l13-pereira-miguel-arquitectos"
+    },
+    {
+     "n": 2,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "몬테 알보 하우스: 알렌테주 전통을 이식한 단층의 풍경",
+     "url": "https://www.archdaily.com/1034708/monte-alvo-house-noz-arquitectura"
+    }
+   ],
+   "used": [],
+   "chars": 516
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "architecturaldigest.com/story/genoa-historic-italian-villa-by-m2atelier": {
+  "title_ko": "제노바의 19세기 빌라, 정원과 바다를 품는 투명한 리노베이션",
+  "summary_ko": "엠투아틀리에의 마르코 보넬리와 마리자나 라도비치가 제노바 산틸라리오에 위치한 17세기 유서 깊은 빌라를 재해석했다. 150년 된 부겐빌레아와 기존 정원의 식생을 보호하면서 벽 속으로 완전히 사라지는 창호와 루세르나 석재 바닥을 통해 실내외의 경계를 지웠다. 구조와 설비를 전면 개조하면서도 복원 과정에서 발견된 19세기 벽면 장식과 가구를 남겨 과거와 현재를 잇는다.",
+  "lens": "건축가의 어린 시절 기억이 담긴 저택을 바닥 재료와 슬라이딩 창호의 일치로 정원과 하나의 공간으로 녹여낸다.",
+  "why_now": "과거의 유산을 박물관처럼 박제하지 않고, 일상의 속도를 늦추는 주말 피난처로 개조하는 동시대 주거 공간의 태도를 보여준다.",
+  "mechanism": "내외부로 이어지는 루세르나 석재와 벽체 속으로 완전히 숨는 창호가 시각적 장벽을 지우고, 지하 복도의 원형 채광창과 에폭시 수지로 고정한 철제 파이프 클래딩이 시시각각 변하는 빛의 반사를 만들어낸다.",
+  "sensory": "은빛 회색조의 거친 질감을 지닌 루세르나 석재 바닥 위로 정원의 초록과 지중해의 빛이 스며들며, 분홍색 알칸타라 스웨이드 마감의 욕실이 촉각적인 대비를 더한다.",
+  "transfer": "공간이나 세트 디자인에서 안팎의 바닥 재료를 동일하게 맞추고 벽체 매립형 창호를 사용하여 시선의 막힘 없는 흐름을 연출한다.",
+  "context": "엠투아틀리에의 공동 창립자인 마르코 보넬리와 마리자나 라도비치가 어린 시절부터 추억이 깃든 제노바의 19세기 빌라를 직접 리노베이션한 프로젝트다.",
+  "findings": [],
+  "keywords": [
+   "엠투아틀리에",
+   "공간리노베이션",
+   "루세르나석재",
+   "실내외경계",
+   "제노바빌라"
+  ],
+  "evidence": "On the exterior, new windows and doors slide completely into the walls, eliminating any visual barriers.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "구체적인 재료와 공간적 장치를 상세히 다루나 사적 주거 프로젝트로 적용 범위가 제한적이다.",
+  "v": 2,
+  "url": "https://www.architecturaldigest.com/story/genoa-historic-italian-villa-by-m2atelier",
+  "original_title": "At This Historic Italian Villa, the Garden Takes Center Stage—Down to the 150-Year-Old Bougainvillea",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 6427,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-07 09:53",
+  "research": {
+   "entities": [
+    "m2atelier",
+    "Marijana Radovic",
+    "Marco Bonelli",
+    "Villa Bruzzo"
+   ],
+   "questions": [
+    "m2atelier가 이 빌라를 리노베이션할 때 19세기 건축적 특징과 현대적 디자인을 어떻게 조화시켰는가?",
+    "제노바 지역의 역사적 빌라에서 정원과 건축물의 경계를 허물기 위해 사용된 구체적인 설계 전략은 무엇인가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "design-milk.com/hotel-costes-spa-liaigre": {
+  "title_ko": "파리 호텔 코스트에 들어선 리에그르의 물성 깊은 스파",
+  "summary_ko": "프랑스 파리의 호텔 코스테(Hôtel Costes)가 카스틸리오네 윙 지하에 새로운 스파를 완공했다. 리에그르(Liaigre) 스튜디오가 인테리어를 맡아 트라버틴, 스모크 오크, 래커 등 단단한 물성으로 공간을 채웠다. 석조 우물 같은 65피트 수영장과 돌비 애트모스 사운드 시스템이 무게감 있는 분위기를 자아낸다.",
+  "lens": "화려한 장식 대신 단단한 천연석과 어두운 목재의 물성으로 파리 도심 한복판에 깊고 무거운 지하 은신처를 판다.",
+  "why_now": "가벼운 디지털 스크린과 가상 연출이 넘치는 시대에, 손으로 만질 수 있는 무거운 천연 재료와 공간의 물성이 지닌 물리적 밀도가 다시 주목받고 있다.",
+  "mechanism": "아치형 금속 게이트와 이중 계단으로 동선을 압축하고, 아놀드 찬(Arnold Chan)과 아이소메트릭스(Isometrix)가 설계한 절제된 조명으로 시선을 수영장 수면으로 유도한다.",
+  "sensory": "석회암 트라버틴의 차가운 촉감과 올리비아 자코베티(Olivia Giacobetti)가 조율한 시그니처 향, 산소가 주입된 라군 모자이크 풀의 물결이 감각을 파고든다.",
+  "transfer": "콘티 속 은밀한 지하 대기실을 연출할 때, 반짝이는 장식 대신 스모크 오크 벽체와 저각 조명으로 그림자를 깊게 드리우는 질감 중심의 셋업으로 활용한다.",
+  "context": "호텔 코스테는 1995년 장 루이와 길베르 코스트 형제가 필립 스탁이 인테리어한 바와 함께 열어 명성을 얻었으며, 이후 카스틸리오네 윙을 확장하면서 리에그르 스튜디오가 디자인을 맡았다.",
+  "findings": [
+   {
+    "text": "크리스찬 리에그르는 프랑스의 인테리어 디자이너이자 건축가였다.",
+    "s": 2,
+    "quote": "Christian Liaigre (10 August 1943 – 4 September 2020) was a French interior designer and architect."
+   }
+  ],
+  "keywords": [
+   "호텔코스테",
+   "리에그르",
+   "파리스파",
+   "트라버틴"
+  ],
+  "evidence": "travertine, smoked oak, lacquer, and liquid amber shape the spa at Hôtel Costes and coalesce into a moody yet re-energizing ambiance.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "유명 호텔의 신규 스파 공간 오픈 소식을 구체적인 재료와 디자이너 정보로 충실하게 전달한다.",
+  "v": 2,
+  "url": "https://design-milk.com/hotel-costes-spa-liaigre/",
+  "original_title": "A Luxurious Spa by Liaigre Completes Hôtel Costes in Paris",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 4453,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-07 09:53",
+  "research": {
+   "entities": [
+    "Hôtel Costes",
+    "Liaigre",
+    "Augustinus Bader",
+    "Philippe Starck",
+    "Jacques Garcia"
+   ],
+   "questions": [
+    "Liaigre 스튜디오가 추구하는 미니멀리즘과 럭셔리 인테리어의 핵심 철학은 무엇인가요?",
+    "Hôtel Costes의 확장 과정에서 기존의 Jacques Garcia 스타일과 새로운 Liaigre 디자인이 어떻게 조화를 이루고 있나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Augustinus Bader",
+     "url": "https://augustinusbader.com/en-us"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Christian Liaigre",
+     "url": "https://en.wikipedia.org/wiki/Christian%20Liaigre"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Philippe Starck",
+     "url": "https://en.wikipedia.org/wiki/Philippe%20Starck"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "쇼디치에서 클러큰웰로, 영국 가구 브랜드 SCP의 40년 만의 이전",
+     "url": "https://www.wallpaper.com/design-interiors/scp-clerkenwell-opening"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "정원 요정, 경계에 선 가장 오래된 비인간 감시자",
+     "url": "https://www.wallpaper.com/architecture/architect-carlo-ratti-on-garden-gnome"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "케빈 클라인이 발견한 디자인의 원천: 단청의 규칙과 페라리의 기하학",
+     "url": "https://design-milk.com/kevin-klein-designer-friday-five/"
+    }
+   ],
+   "used": [
+    2
+   ],
+   "chars": 4333
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "architecturaldigest.com/story/11-movies-designers-watch-for-a-rush-of-inspiration": {
+  "title_ko": "공간을 서사로 읽는 법: 디자이너가 반복해서 보는 영화 속 인테리어",
+  "summary_ko": "영화는 단순한 배경을 넘어 인물의 성격과 서사를 시각화하는 강력한 도구다. 건축가와 디자이너들은 '죽어야 사는 여자'의 대칭적 화려함이나 '위험한 정사' 속 대비되는 두 주거 공간을 보며, 공간이 거주자의 내면을 어떻게 투영하고 완성하는지 학습한다. 이들은 영화 속 공간의 레이어링, 조명, 가구 배치를 통해 실제 프로젝트의 밀도를 높인다.",
+  "lens": "공간은 인물의 성격과 서사를 담아내는 그릇이며, 디자이너는 영화 속 인테리어를 통해 거주자의 내면을 공간으로 번역하는 기법을 읽어낸다.",
+  "why_now": "디지털 환경에서 시각적 자극이 범람하는 가운데, 영화 속 공간이 주는 서사적 밀도와 시간의 퇴적은 현대 인테리어 디자인이 놓치기 쉬운 영속성을 환기한다.",
+  "mechanism": "공간의 레이어링과 가구 배치를 인물의 심리 상태와 연결한다. '위험한 정사'에서 산업적 로프트의 거친 질감과 정돈된 아파트의 중립적 톤을 대비시켜 인물의 성격을 극명하게 드러내는 방식이 대표적이다.",
+  "sensory": "시간이 묻어난 책의 갈라진 등, 닳아버린 황동 장식, 빛이 머무는 곡선형 계단 등 공간의 물성이 주는 '살아있는' 감각을 포착한다.",
+  "transfer": "공간을 연출할 때 '스타일링된 공간'이 아닌 '거주자의 흔적이 묻어난 공간'을 만들기 위해, 의도적으로 완벽함을 덜어내고 사용감이 느껴지는 오브제를 배치한다.",
+  "context": "알프레드 히치콕(Alfred Hitchcock)의 '나는 결백하다(To Catch a Thief)'는 프랑스 리비에라의 건축적 풍경을, '앤티 맘(Auntie Mame)'은 시대별 디자인 양식을 병치하여 인물의 변화하는 서사를 보여준다. 이는 공간이 단순한 배경이 아닌 인물과 함께 호흡하는 서사의 일부임을 증명한다.",
+  "findings": [
+   {
+    "text": "알프레드 히치콕 감독의 1955년작 '나는 결백하다'는 프랑스 리비에라를 배경으로 은퇴한 도둑의 이야기를 다룬다.",
+    "s": 1,
+    "quote": "To Catch a Thief is a 1955 American romantic thriller film directed by Alfred Hitchcock, from a screenplay by John Michael Hayes based on the 1952 novel of the same name by David Dodge."
+   },
+   {
+    "text": "1958년 개봉한 영화 '앤티 맘'은 동명의 소설과 연극을 원작으로 하며, 주인공 맘의 아파트에서 시대별로 변화하는 인테리어 양식을 선보인다.",
+    "s": 2,
+    "quote": "Auntie Mame is a 1958 American Technirama Technicolor comedy film based on the 1955 novel of the same name by Edward Everett Tanner III (under the pseudonym Patrick Dennis) and the 1956 play of the same name by Jerome La"
+   }
+  ],
+  "keywords": [
+   "공간 서사",
+   "인테리어 디자인",
+   "시각적 밀도",
+   "공간 연출"
+  ],
+  "evidence": "the visuals in these films give design pros a rush of inspiration after every rewatch",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "영화 속 공간을 디자인적 관점에서 분석한 사례들을 구체적으로 제시했으나, 개별 작품에 대한 심층적 기술보다는 리스트 형태의 소개에 가깝다.",
+  "v": 2,
+  "url": "https://www.architecturaldigest.com/story/11-movies-designers-watch-for-a-rush-of-inspiration",
+  "original_title": "11 Movies Designers Watch—and Rewatch—for a Rush of Inspiration",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 9000,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-07 09:53",
+  "research": {
+   "entities": [
+    "To Catch a Thief",
+    "Auntie Mame",
+    "Fatal Attraction",
+    "I Am Love",
+    "Nancy Meyers"
+   ],
+   "questions": [
+    "영화 속 인테리어 디자인이 캐릭터의 성격이나 서사를 어떻게 시각적으로 보완하고 있는지 구체적인 사례가 궁금합니다.",
+    "디자이너들이 영화를 통해 영감을 얻을 때, 실제 공간 설계에 적용하는 구체적인 미학적 요소나 기법은 무엇인가요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "To Catch a Thief",
+     "url": "https://en.wikipedia.org/wiki/To%20Catch%20a%20Thief"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Auntie Mame (film)",
+     "url": "https://en.wikipedia.org/wiki/Auntie%20Mame%20%28film%29"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 745
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "design-milk.com/eichholtz-california-showrooms": {
+  "title_ko": "유럽 가구와 캘리포니아의 충돌, 아이히홀츠 쇼룸의 전략",
+  "summary_ko": "인테리어 디자이너 라이언 사기안은 네덜란드 가구 브랜드 아이히홀츠의 제품을 캘리포니아 감성으로 재해석해 서해안 전역에 쇼룸 네트워크를 구축한다. 웨스트 할리우드와 오렌지 카운티에 이어 팜데스크 쇼룸까지 각 지역의 건축과 시장 특성에 맞춘 공간을 선보인다. 수시로 제품을 교체하는 플로어 연출과 앤틱 가구의 조화로 완성된다.",
+  "lens": "화려한 유럽 가구 옆에 거친 앤틱을 배치해 질감의 긴장을 만든다.",
+  "why_now": "동일한 인테리어를 반복하는 대신 지역별 건축 환경과 라이프스타일에 맞춘 공간 맞춤화가 중요해졌다.",
+  "mechanism": "6,000에서 8,500스퀘어피트에 달하는 대형 쇼룸에서 앤틱과 원시적 예술품을 나란히 배치해 대비를 극대화한다.",
+  "sensory": "글래머러스한 마감재와 거친 질감의 오브제가 한 공간에서 부딪히며 끊임없이 움직이는 전시장 풍경을 만든다.",
+  "transfer": "공간 연출 시 매끄러운 수입 가구와 거친 빈티지 오브제를 한 프레임에 대조시켜 시각적 긴장감을 유도한다.",
+  "context": "인테리어 디자이너 라이언 사기안은 앤틱 딜러 출신 파트너 앤서니 체체토 등과 함께 캘리포니아 거점 공간을 확장하고 있다.",
+  "findings": [],
+  "keywords": [
+   "아이히홀츠",
+   "공간디자인",
+   "쇼룸",
+   "캘리포니아"
+  ],
+  "evidence": "I want there to be tension—something glamorous next to something raw, something contemporary next to something that feels collected",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "브랜드의 쇼룸 확장 전략과 공간 구성 방식을 구체적으로 보여주지만 구조적 혁신보다는 리테일 확장 사례에 가깝다.",
+  "v": 2,
+  "url": "https://design-milk.com/eichholtz-california-showrooms/",
+  "original_title": "Eichholtz California Expands Its West Coast Footprint",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 5514,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-07 09:53",
+  "research": {
+   "entities": [
+    "Eichholtz",
+    "Ryan Saghian",
+    "Eichholtz California"
+   ],
+   "questions": [
+    "Eichholtz California가 기존 Eichholtz 브랜드의 제품군을 캘리포니아 스타일로 재해석하는 구체적인 기준은 무엇인가?",
+    "Ryan Saghian이 추구하는 '글래머러스함과 거친 질감의 대비'라는 인테리어 철학이 쇼룸 공간 구성에 어떻게 반영되었는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Ryan Saghian Interior Design Studio | Los Angeles",
+     "url": "https://www.ryansaghian.com/"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Eichholtz Official | Furniture, Lighting and Accessories",
+     "url": "https://www.eichholtz.com/en/"
+    },
+    {
+     "n": 3,
+     "type": "공식·1차",
+     "title": "Eichholtz California",
+     "url": "https://eichholtzcalifornia.com/"
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "Jacob Eichholtz",
+     "url": "https://en.wikipedia.org/wiki/Jacob%20Eichholtz"
+    }
+   ],
+   "used": [
+    3
+   ],
+   "chars": 2886
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "dazeddigital.com/fashion/article/71130/1/zendaya-louis-vuitton-ss27-show-paris-fashion-week-pfw-review": {
+  "title_ko": "파리 쿠르 카레의 고속도로, 루이 비통이 그린 레트로퓨처리즘",
+  "summary_ko": "배우 젠다야가 오디세이 프레스 투어에서 착용했던 엘리자베스풍 레이스 볼레로를 루이 비통 SS27 쇼에 다시 입고 등장했다. 니콜라 제스키에르는 인체 공학적 디자인을 바탕으로 가벼운 가자머 소재와 은빛 라메 포일, 다이아몬드 직조 코트를 선보였다. 쇼장은 고속도로 모양의 런웨이와 공중에 뜬 다미에 체크 호버카 세트로 채워졌다.",
+  "lens": "고전적 건축물 한가운데에 미래형 호버카를 띄워 브랜드의 여행 서사를 시각적으로 왜곡한다.",
+  "why_now": "일회용처럼 소비되는 커스텀 룩을 캐주얼한 데님과 재매칭하여 지속 가능한 스타일링의 전형을 제시한다.",
+  "mechanism": "금속 스틸트 위에 다양한 높이로 떠 있는 다미에 체크 호버카가 런웨이의 원근감을 해체한다.",
+  "sensory": "파리의 찬 바람에 가볍게 흩날리는 거사머 드레스의 실크 질감과 은빛 라메 포일의 차가운 반사광이 대비된다.",
+  "transfer": "광고 배경에 부유하는 금속 오브제를 배치해 현실과 비현실의 경계를 지우는 로케이션 연출로 활용한다.",
+  "context": "니콜라 제스키에르는 이번 SS27 컬렉션에서 인체 공학적 구조와 미래주의를 결합하여 루이 비통의 여행 예술을 변주했다.",
+  "findings": [],
+  "keywords": [
+   "니콜라 제스키에르",
+   "루이 비통",
+   "레트로퓨처리즘",
+   "젠다야"
+  ],
+  "evidence": "Louis Vuitton imagines a surreal runway punctuated by suspended concept cars",
+  "kind": "런웨이·컬렉션",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "스타의 아카이브 재착용과 세트의 서사가 선명하나 전형적인 컬렉션 보도의 범주를 넘지 않는다.",
+  "v": 2,
+  "url": "https://www.dazeddigital.com/fashion/article/71130/1/zendaya-louis-vuitton-ss27-show-paris-fashion-week-pfw-review?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=zendaya-just-rewore-her-odyssey-look-for-louis-vuitton-ss27",
+  "original_title": "Zendaya just rewore her Odyssey look for Louis Vuitton SS27",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 4330,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-07 09:53",
+  "research": {
+   "entities": [
+    "Zendaya",
+    "Louis Vuitton",
+    "Nicolas Ghesquière",
+    "Katseye",
+    "Cour Carrée"
+   ],
+   "questions": [
+    "니콜라 제스키에르가 루이비통 SS27 컬렉션에서 강조한 '인체 공학적 디자인'과 '미래주의'는 어떤 방식으로 의상에 구현되었는가?",
+    "루이비통의 이번 쇼 세트 디자인인 'Damier Check hovercars'는 브랜드의 정체성인 '여행의 예술(Art of Travel)'과 어떤 연관성을 갖는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Zendaya",
+     "url": "https://en.wikipedia.org/wiki/Zendaya"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Louis Vuitton",
+     "url": "https://en.wikipedia.org/wiki/Louis%20Vuitton"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "하이 주얼리의 변주, 대담한 커팅과 실루엣으로 정의하는 현대적 조형미",
+     "url": "https://www.wallpaper.com/watches-jewellery/high-jewellery-a-w-2026"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "멕시코계 아티스트 마르카27, 금속과 레진으로 이민 단속을 조형하다",
+     "url": "https://www.thisiscolossal.com/2026/08/marka27-ni-de-aqui-ni-de-alla-portraits/"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "싱어와 루이 비통이 재해석한 포르쉐 911, 시계와 항해의 미학을 입다",
+     "url": "https://design-milk.com/louis-vuitton-singer-porsche-911/"
+    }
+   ],
+   "used": [
+    2
+   ],
+   "chars": 3579
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "architecturaldigest.com/story/best-furniture-finds-on-amazon": {
+  "title_ko": "아마존에서 찾는 디자인 가구: 온라인 쇼핑의 실패를 줄이는 안목",
+  "summary_ko": "아마존의 방대한 디지털 인벤토리에서 디자인 완성도가 높은 가구와 조명 33종을 선별했다. 실물 확인이 어려운 온라인 쇼핑의 한계를 보완하기 위해 가격대별 구성과 사용자 리뷰를 기반으로 검증된 제품을 제안한다. 공간의 성격에 따라 선택 가능한 모듈형 소파부터 수납 유닛까지 실용적인 대안을 제시한다.",
+  "lens": "디지털 플랫폼의 방대한 물량 속에서 공간의 밀도를 높일 수 있는 구조적 형태와 재질을 선별하는 안목이 필요하다.",
+  "why_now": "온라인 구매가 일상화된 환경에서 브랜드의 이름값보다 제품의 기하학적 형태와 마감의 일관성을 읽어내는 능력이 공간의 완성도를 결정한다.",
+  "mechanism": "카르텔의 콤포니빌리처럼 모듈형 수납 유닛을 활용해 동선을 유연하게 조정하거나, 롤링 캐스터가 달린 소파를 배치하여 공간의 가변성을 확보한다.",
+  "sensory": "부클레 원단의 거친 질감, 매끄러운 금속 프레임, 그리고 라탄의 공기 흐름이 느껴지는 소재들이 공간에 시각적 리듬을 부여한다.",
+  "transfer": "공간의 중심을 잡는 가구는 단색의 묵직한 톤으로 선택하고, 이동식 캐스터가 달린 가구를 배치해 촬영 환경에 따라 동선을 즉각적으로 변경하는 연출을 시도한다.",
+  "context": "카르텔의 콤포니빌리는 주거 공간의 경계를 넘나드는 다목적 오브제로, 현대 주거의 폐쇄성을 걷어내고 유연한 동선을 제안하는 실험적 공간 연출의 단골 요소다.",
+  "findings": [
+   {
+    "text": "카르텔의 콤포니빌리는 주거 공간과 자연의 경계를 지키는 인터페이스로서 현대 주거 환경에서도 유효한 디자인 오브제다.",
+    "s": 1,
+    "quote": "정원 요정은 스마트 센서와 로봇이 점령한 현대 주거 환경에서 비인간 존재를 공간에 배치하려는 인간의 원초적 욕망을 보여주는 가장 오래된 인터페이스다."
+   }
+  ],
+  "keywords": [
+   "온라인 가구 쇼핑",
+   "모듈형 가구",
+   "공간 스타일링",
+   "디자인 오브제"
+  ],
+  "evidence": "We’re here to save you some scrolling (and some money) with a curated list of the retailer’s most design-forward finds.",
+  "kind": "리스트·라운드업",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "아마존 가구 쇼핑이라는 범용적 주제를 다루나, 공간 구성의 구체적 전략을 제시하여 실무적 가치를 확보했다.",
+  "v": 2,
+  "url": "https://www.architecturaldigest.com/story/best-furniture-finds-on-amazon",
+  "original_title": "33 Best Amazon Furniture Finds That Are Actually Stylish (2026)",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 9000,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-07 09:53",
+  "research": {
+   "entities": [
+    "Kartell",
+    "Bloomingville",
+    "Leanne Ford",
+    "Componibili"
+   ],
+   "questions": [
+    "아마존에서 가구 구매 시 품질과 배송 문제를 예방하기 위해 확인해야 할 핵심 체크리스트는 무엇인가요?",
+    "온라인 가구 쇼핑 시 실물 확인 없이도 실패 확률을 줄일 수 있는 인테리어 스타일링 팁은 무엇인가요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "정원 요정, 경계에 선 가장 오래된 비인간 감시자",
+     "url": "https://www.wallpaper.com/architecture/architect-carlo-ratti-on-garden-gnome"
+    },
+    {
+     "n": 2,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "카사 팝: 2000년대 표준 주거의 폐쇄성을 걷어낸 유연한 거주 실험",
+     "url": "https://www.archdaily.com/1185659/casa-pop-gon-architects"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 518
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "wallpaper.com/transportation/the-jaguar-type-01-is-finally-here-to-herald-the-brands-electric-era-can-the-cat-strike-back": {
+  "title_ko": "재규어 타입 01, 전동화 시대의 럭셔리를 재정의하는 낮은 실루엣",
+  "summary_ko": "재규어(Jaguar)가 브랜드의 전기차 시대를 여는 플래그십 세단 '타입 01'을 공개했다. 전장 5,235mm의 대형 세단임에도 1,403mm의 낮은 전고를 구현해 스포츠 쿠페의 비율을 강조했다. 850볼트 아키텍처와 118kWh 배터리를 탑재해 고성능 주행 성능과 미니멀리즘 디자인을 결합했다.",
+  "lens": "배터리 공간 효율을 실내 확장이 아닌 낮은 전고와 긴 보닛이라는 비례감의 드라마로 치환해, 전기차 시대에도 브랜드의 고유한 조형 언어를 고수한다.",
+  "why_now": "전기차 전용 플랫폼의 기능적 이점을 실내 공간 확보가 아닌, 클래식한 스포츠카의 비율을 재현하는 데 우선순위를 두어 럭셔리의 정의를 다시 쓴다.",
+  "mechanism": "내연기관 시절의 긴 보닛과 후면 오버행을 전기차 구조에 이식하고, 23인치 대형 휠을 적용해 차체의 수평적 긴장감을 극대화한다.",
+  "sensory": "알루미늄과 황동 효과의 금속 질감, 크바드라트(Kvadrat)의 울 블렌드 직물, 울트라패브릭스(Ultrafabrics)의 네오그레인 소재가 어우러져 차갑고도 정교한 촉각적 대비를 이룬다.",
+  "transfer": "영상 연출 시 낮은 차체를 강조하기 위해 지면과 평행한 로우 앵글 샷을 사용하고, 후면 창을 제거한 매끈한 면을 카메라와 스크린으로 대체한 미니멀한 후면부의 빛 반사를 활용한다.",
+  "context": "재규어는 1922년 설립 이후 100년 넘게 이어온 브랜드 유산을 타입 01을 통해 전기차로 전이한다. 이전의 I-Pace가 공간 효율성에 집중했다면, 이번 타입 01은 브랜드의 미학적 정체성을 회복하는 데 주력한다.",
+  "findings": [
+   {
+    "text": "크바드라트는 1968년 덴마크에서 설립된 텍스타일 기업으로, 스칸디나비아 디자인 전통을 기반으로 전 세계 건축가와 디자이너에게 소재를 공급한다.",
+    "s": 2,
+    "quote": "Kvadrat was established in Denmark in 1968 with deep roots in Scandinavia's design tradition."
+   }
+  ],
+  "keywords": [
+   "재규어",
+   "타입01",
+   "전기차",
+   "럭셔리디자인",
+   "미니멀리즘"
+  ],
+  "evidence": "Type 01 is a fastback, four-door, four-seat electric saloon. Scale is very much central to its character.",
+  "kind": "제품·오브제",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "브랜드의 전동화 전환 전략과 구체적인 디자인 비례, 소재 선택의 의도를 명확하게 분석했다.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/transportation/the-jaguar-type-01-is-finally-here-to-herald-the-brands-electric-era-can-the-cat-strike-back",
+  "original_title": "The Jaguar Type 01 is finally here to herald the brand’s electric era. Can the cat strike back?",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 4347,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-07 09:53",
+  "research": {
+   "entities": [
+    "Jaguar",
+    "Kvadrat",
+    "Ultrafabrics",
+    "Bentley",
+    "Rolls-Royce"
+   ],
+   "questions": [
+    "재규어 Type 01이 기존의 럭셔리 전기차 시장에서 차별화하기 위해 채택한 디자인적 특징과 기술적 사양은 무엇인가?",
+    "재규어의 브랜드 리브랜딩 전략에서 '전기차 전용 플랫폼'과 '미니멀리즘 디자인'이 갖는 의미는 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Jaguar Cars",
+     "url": "https://en.wikipedia.org/wiki/Jaguar%20Cars"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Kvadrat (company)",
+     "url": "https://en.wikipedia.org/wiki/Kvadrat%20%28company%29"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "하드 셀 대신 환대를, 벤틀리가 재정의한 쇼룸의 공간 문법",
+     "url": "https://www.creativeboom.com/news/bentley-and-futurebrand-rethink-the-car-showroom-as-a-place-youd-actually-want-to-linger/"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "벤틀리의 첫 순수 전기차 토르칼, V8의 배기음을 오케스트라로 번역하다",
+     "url": "https://www.wallpaper.com/transportation/no-alarms-and-no-surprises-as-bentley-rolls-out-the-majestic-torcal-its-first-take-on-a-luxury-ev"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "전기 모터를 걷어내고 후륜에 모든 것을 건 벤틀리 슈퍼스포츠",
+     "url": "https://www.wallpaper.com/transportation/bentley-supersports-review"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 2453
+  },
+  "depth_raw": 4,
+  "depth_v": 2
  }
 }

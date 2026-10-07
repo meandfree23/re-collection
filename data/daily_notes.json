@@ -1709,45 +1709,49 @@
  },
  "2026-10-07": {
   "date": "2026-10-07",
-  "headline": "안도 다다오의 원형 곡면과 아이클러 주택의 황동 격자",
-  "editorial": "부르스 드 코메르스의 원형 공간을 거대한 페이지로 바꾼 바바라 크루거의 타이포그래피 설치는 건축적 구조물이 어떻게 거대한 텍스트의 장이 되는지 증명한다. 마린 카운티의 아이클러 주택은 바닥의 테라조 골재와 황동 격자를 통해 미드센추리 주택의 내부 좌표를 새롭게 짚어낸다. 자그레브의 니리치 아키텍티가 규제와 관습이라는 제약을 수평적 배치와 수직적 증축으로 돌파한 방식 또한 건축이 물리적 제약을 어떻게 도구로 삼는지 보여준다.",
+  "headline": "콘크리트 곡면의 텍스트와 엔진룸을 비운 강철의 보닛",
+  "editorial": "바바라 크루거는 안도 다다오의 건축적 곡면을 거대한 텍스트의 장으로 치환하며 공간의 문법을 바꾼다. 이와 유사하게 재규어 타입 01은 전기차의 획일적 볼륨을 거부하고 엔진룸의 빈 공간을 시각적 긴장으로 채워 고유의 비례감을 회복했다. 한편 에드워드 에닌풀과 유르겐 텔러가 90년대의 날것을 기록한 방식은 제도 안의 제약을 몸으로 돌파하던 예술의 태도를 보여준다. 이들은 모두 주어진 구조를 단순히 점유하는 대신, 그 안의 빈틈을 발견하고 새로운 의미의 지형을 새긴다.",
   "threads": [
    {
-    "name": "건축적 구조와 공간의 변환",
-    "note": "원형 공간과 미드센추리 주택, 그리고 도시의 제약을 다루는 주거 유형이 어떻게 구조적 문법을 새롭게 쓰는지 살펴본다.",
+    "name": "구조의 빈틈에 새긴 문법",
+    "note": "건축과 자동차라는 견고한 틀 안에서 불필요한 공간을 비워내거나 텍스트를 배치해 새로운 조형 언어를 창조한다.",
     "items": [
      {
       "title": "바바라 크루거, 안도 다다오의 원형 공간을 텍스트의 장으로 재구성하다",
       "url": "https://www.designboom.com/art/life-spectacle-barbara-kruger-tadao-ando-rotunda-monumental-texts-bourse-de-commerce-paris-remember-me-exhibition/"
      },
      {
-      "title": "마린 카운티의 아이클러 주택, 테라조와 황동 격렬로 다시 쓰다",
-      "url": "https://www.architecturaldigest.com/story/marin-county-midcentury-home-by-geremia-design"
+      "title": "재규어 타입 01, 동질화된 전기차 시장에 던지는 새로운 조형 언어",
+      "url": "https://www.dezeen.com/2026/10/07/jaguar-type-01-electric-car/"
      },
      {
-      "title": "자그레브의 도시 문법을 재해석하는 니리치 아키텍티의 두 주택",
-      "url": "https://www.wallpaper.com/architecture/residential/two-croatian-houses-zagreb-njiric-arhitekti"
+      "title": "재규어 타입 01, 전동화 시대의 럭셔리를 재정의하는 낮은 실루엣",
+      "url": "https://www.wallpaper.com/transportation/the-jaguar-type-01-is-finally-here-to-herald-the-brands-electric-era-can-the-cat-strike-back"
      }
     ]
    },
    {
-    "name": "자연의 형상과 생태적 설계",
-    "note": "곤충의 외골격과 꽃의 구조를 건축과 시각 예술의 엔지니어링으로 치환하는 방식을 조명한다.",
+    "name": "제도의 경계를 넘나드는 연대",
+    "note": "화이트 큐브의 문턱을 지워 도시와 연결하거나, 자본의 논리에 대항하여 예술가의 노동과 독립적 플랫폼을 지탱하려는 시도들이다.",
     "items": [
      {
-      "title": "엘리자베타 포로디나, 생물 모방의 미학을 담은 곤충 초상화",
-      "url": "https://www.thisiscolossal.com/2026/10/elizaveta-porodina-photos-found-dreams/"
+      "title": "뉴욕 미술계의 연대와 노동: 제도 안팎에서 일어나는 변화의 기록",
+      "url": "https://hyperallergic.com/on-taking-care-of-each-other/"
      },
      {
-      "title": "꽃의 형태를 구조와 기후 제어로 번역하는 전 세계 건축물",
-      "url": "https://www.architecturaldigest.com/story/beautiful-flower-inspired-buildings-across-the-globe"
+      "title": "확장된 뉴 뮤지엄이 소환한 1979년의 X자 테이프",
+      "url": "https://hyperallergic.com/these-are-the-artists-in-the-2027-new-museum-triennial/"
+     },
+     {
+      "title": "인디펜던트 아트 페어, 거대 기업 인포마에 인수되다",
+      "url": "https://hyperallergic.com/independent-art-fair-purchased-by-british-conglomerate/"
      }
     ]
    }
   ],
-  "based_on": 19,
+  "based_on": 24,
   "v": 3,
-  "model": "gemini-3.5-flash-lite",
-  "written_at": "2026-10-07 03:47"
+  "model": "gemini-3.1-flash-lite-preview",
+  "written_at": "2026-10-07 09:53"
  }
 }

@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-10-07 03:46 KST",
+  "generated_at": "2026-10-07 09:52 KST",
   "period": "2026.09.30 - 2026.10.07",
-  "total_articles": 384,
+  "total_articles": 403,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 177
+      "count": 187
     },
     {
       "genre": "동시대 미술",
-      "count": 127
+      "count": 135
     },
     {
       "genre": "아방가르드 패션",
-      "count": 63
+      "count": 64
     },
     {
       "genre": "미디어 파사드·3D",
@@ -23,10 +23,16 @@
   "themes": [
     {
       "keyword": "박물관·전시",
-      "count": 47,
+      "count": 48,
       "previous_count": 43,
       "trend": "rising",
       "items": [
+        {
+          "title": "시위대는 MoMA가 레온 블랙의 명성을 \"살균\" 하는 데 도움을 준다고 말합니다.",
+          "url": "https://hyperallergic.com/moma-helping-sanitize-leon-blacks-reputation-protesters-say/",
+          "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/10/IMG_4017.jpg",
+          "source_name": "Hyperallergic"
+        },
         {
           "title": "이들은 2027년 뉴 뮤지엄 트리엔날레의 예술가들입니다",
           "url": "https://hyperallergic.com/these-are-the-artists-in-the-2027-new-museum-triennial/",
@@ -44,12 +50,6 @@
           "url": "https://www.dezeen.com/2026/10/06/foster-partners-bilbao-fine-arts-museum/",
           "image_url": "https://static.dezeen.com/uploads/2026/10/bilbao-fine-arts-museum-foster-partners-sq_dezeen_2364_col_0-852x852.jpg",
           "source_name": "Dezeen"
-        },
-        {
-          "title": "빌바오 미술관/포스터 + 파트너",
-          "url": "https://www.archdaily.com/1186349/bilbao-fine-arts-museum-foster-plus-partners",
-          "image_url": "https://images.adsttc.com/media/images/6ac3/c0ba/27ac/8d01/89cb/b915/large_jpg/bilbao-fine-arts-museum-foster-plus-partners_3.jpg?1791213849",
-          "source_name": "ArchDaily"
         }
       ]
     },
@@ -86,11 +86,49 @@
       ]
     },
     {
+      "keyword": "가구 디자인",
+      "count": 8,
+      "previous_count": 8,
+      "trend": "steady",
+      "items": [
+        {
+          "title": "아이히홀츠 캘리포니아, 서해안 발자국 확대",
+          "url": "https://design-milk.com/eichholtz-california-showrooms/",
+          "image_url": "https://design-milk.com/images/2026/10/West-Hollywood-Store-e1791323184317.jpg",
+          "source_name": "Design Milk"
+        },
+        {
+          "title": "세련된 아마존 가구 33선 (2026년)",
+          "url": "https://www.architecturaldigest.com/story/best-furniture-finds-on-amazon",
+          "image_url": "https://media.architecturaldigest.com/photos/6a2c6e64187c9f659a99aae2/master/pass/apd-furniture.jpg",
+          "source_name": "Architectural Digest"
+        },
+        {
+          "title": "MVRDV는 모듈식 콘크리트 거리 가구를 \"예상치 못한 방식으로\" 점유하도록 설계합니다.",
+          "url": "https://www.dezeen.com/2026/10/05/mvrdv-barcode-street-furniture-escofet/",
+          "image_url": "https://static.dezeen.com/uploads/2026/10/mvrdv-barcode-street-furniture-escofet_dezeen_2364_col_3-852x852.jpg",
+          "source_name": "Dezeen"
+        },
+        {
+          "title": "스파콘은 빈티지 덴마크 가구와 발견된 물건으로 서울의 덴마크 판을 채웁니다.",
+          "url": "https://www.dezeen.com/2026/10/05/edition-denmark-seoul-spacon-cafe-showroom/",
+          "image_url": "https://static.dezeen.com/uploads/2026/09/edition-denmark-spacon-seoul_dezeen_2364_col_sq-852x852.jpg",
+          "source_name": "Dezeen"
+        }
+      ]
+    },
+    {
       "keyword": "레스토랑·호스피탈리티",
-      "count": 3,
+      "count": 4,
       "previous_count": 3,
       "trend": "steady",
       "items": [
+        {
+          "title": "11명의 영화 디자이너가 러시 오브 인스퍼레이션을 감상하고 재조정합니다",
+          "url": "https://www.architecturaldigest.com/story/11-movies-designers-watch-for-a-rush-of-inspiration",
+          "image_url": "https://media.architecturaldigest.com/photos/6aa826547a498909903b18fe/master/pass/MCDMAAN_EC097.jpg",
+          "source_name": "Architectural Digest"
+        },
         {
           "title": "나무가 무성한 파리지앵 레스토랑을 알리는 스피릿 오브 이베리아식 선술집",
           "url": "https://www.dezeen.com/2026/10/06/arcane-17-restaurant-betyle-studio/",
@@ -172,38 +210,6 @@
           "url": "https://www.wallpaper.com/watches-jewellery/i-wanted-to-create-an-effect-of-solid-light-solange-azagury-partridge-works-with-rock-crystal-in-a-mary-shelley-inspired-collection",
           "image_url": "https://cdn.mos.cms.futurecdn.net/3a7hB4t2bA57uiF57JwXh9-1920-80.jpg",
           "source_name": "Wallpaper*"
-        }
-      ]
-    },
-    {
-      "keyword": "가구 디자인",
-      "count": 6,
-      "previous_count": 8,
-      "trend": "falling",
-      "items": [
-        {
-          "title": "MVRDV는 모듈식 콘크리트 거리 가구를 \"예상치 못한 방식으로\" 점유하도록 설계합니다.",
-          "url": "https://www.dezeen.com/2026/10/05/mvrdv-barcode-street-furniture-escofet/",
-          "image_url": "https://static.dezeen.com/uploads/2026/10/mvrdv-barcode-street-furniture-escofet_dezeen_2364_col_3-852x852.jpg",
-          "source_name": "Dezeen"
-        },
-        {
-          "title": "스파콘은 빈티지 덴마크 가구와 발견된 물건으로 서울의 덴마크 판을 채웁니다.",
-          "url": "https://www.dezeen.com/2026/10/05/edition-denmark-seoul-spacon-cafe-showroom/",
-          "image_url": "https://static.dezeen.com/uploads/2026/09/edition-denmark-spacon-seoul_dezeen_2364_col_sq-852x852.jpg",
-          "source_name": "Dezeen"
-        },
-        {
-          "title": "5가지 혁신적이고 실용적인 모듈식 가구 디자인",
-          "url": "https://www.dezeen.com/2026/10/04/innovative-practical-modular-furniture-designs/",
-          "image_url": "https://static.dezeen.com/uploads/2026/09/lozi-plywood-furniture-london-design-festival-modular-system-sq-852x852.jpg",
-          "source_name": "Dezeen"
-        },
-        {
-          "title": "라파엘 프리에토 (Rafael Prieto) 는 뉴욕 건물의 조각으로 가구를 만듭니다.",
-          "url": "https://www.dezeen.com/2026/10/02/rafael-prieto-the-future-of-the-past-emma-scully-gallery/",
-          "image_url": "https://static.dezeen.com/uploads/2026/10/rafael-prieto-new-york-emma-scully-gallery_dezeen_2364_sq-1-852x852.jpg",
-          "source_name": "Dezeen"
         }
       ]
     }
