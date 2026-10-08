@@ -1803,45 +1803,45 @@
  },
  "2026-10-09": {
   "date": "2026-10-09",
-  "headline": "미완성된 기록물과 아이스크림의 비례, 소멸하는 고향의 풍경",
-  "editorial": "소피 칼의 부재를 다루는 고백적 언어와 라파엘 실베이라가 빚은 아이스크림의 시각적 동의어는 찰나와 영원의 무게를 한곳에 묶어낸다. 탕 슈오가 조상의 서사를 겹쳐 세운 기억의 아카이브는, 헬무트 랭의 의복을 스케이트 다큐멘터리 문법으로 살려낸 엔디마의 기록과 맞닿아 있다. 이들은 고정된 기념비 대신 시간의 흐름 속에서 대상을 재배치하는 유동적 방식을 택한다.",
+  "headline": "카메라 옵스큐라의 렌즈와 섬유로 덧댄 사물의 흉터",
+  "editorial": "프랭크 질레트는 카메라 옵스큐라의 빛을 빌려 자연의 붕괴를 관찰하고, 우진주는 버려진 사물의 표면을 유연한 섬유로 덮어 고유한 신화적 형상을 입힌다. 소피 칼은 이처럼 부재하는 대상을 구체적인 기록물로 박제하며 상실의 자리를 증명한다. 이들은 고정된 물리적 환경을 각자의 방식으로 재해석하여 흩어진 파편들을 의미 있는 체계로 다시 묶어낸다.",
   "threads": [
    {
-    "name": "사라지는 기억의 아카이브",
-    "note": "부재와 소멸의 대상들을 개인의 고백과 풍경으로 보존한다.",
+    "name": "사물에 새긴 시간의 흔적",
+    "note": "버려지거나 소멸하는 대상의 물리적 역사를 조각과 기록으로 보존하는 방식.",
     "items": [
      {
       "title": "소피 칼: 부재라는 형식을 다루는 완벽한 전략",
       "url": "https://www.anothermag.com/art-photography/17558/sophie-calle-something-missing-margate-turner-contampoorary-exhibition?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=how-sophie-calle-transformed-her-life-into-a-work-of-art"
      },
      {
-      "title": "탕 슈오, 소멸하는 고향의 서사를 마술적 사실주의로 재구성하다",
-      "url": "https://www.booooooom.com/2026/10/08/borrowed-history-by-artist-tang-shuo/"
+      "title": "우진주: 버려진 사물에 덧입힌 섬유의 신화적 형상",
+      "url": "https://www.thisiscolossal.com/2026/10/woo-jin-joo-mixed-media-sculptures/"
      },
      {
-      "title": "헬무트 랭의 유산을 기록하는 법: 베를린 아카이브 엔디마의 다큐멘터리",
-      "url": "https://www.dazeddigital.com/fashion/article/70970/1/watch-inside-the-worlds-largest-helmut-lang-archive?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=watch-inside-the-world-s-largest-helmut-lang-archive"
+      "title": "탕 슈오, 소멸하는 고향의 서사를 마술적 사실주의로 재구성하다",
+      "url": "https://www.booooooom.com/2026/10/08/borrowed-history-by-artist-tang-shuo/"
      }
     ]
    },
    {
-    "name": "고전과 소비재의 충돌",
-    "note": "르네상스 제단화의 비례와 현대적 소비재 실루엣을 하나의 프레임에 담는다.",
+    "name": "기술로 관찰하는 자연의 붕괴",
+    "note": "기계적 장치와 디지털 매체를 통해 환경의 변화를 투명하게 드러내는 태도.",
     "items": [
      {
-      "title": "라파엘 실베이라: 르네상스 제단화와 아이스크림의 시각적 동의어",
-      "url": "https://www.thisiscolossal.com/2026/10/rafael-silveira-paintings-surreal-popsicledelic-trip/"
+      "title": "프랭크 질레트, 자연과 기술의 공생을 기록하는 미디어 생태학",
+      "url": "https://hyperallergic.com/frank-gillettes-anthropic-blues/"
      },
      {
-      "title": "재사용과 재현 사이, 르 코르뷔지에를 다시 읽는 건축적 시선",
-      "url": "https://www.archdaily.com/1186539/housing-as-a-human-right-and-an-exhibition-reassessing-le-corbusier-this-weeks-review"
+      "title": "신체 내부를 해부하는 시선: 무빙 이미지 뮤지엄의 오버엑스포스드",
+      "url": "https://hyperallergic.com/medical-imaging-and-art-meet-in-the-exhibition-overexposed/"
      }
     ]
    }
   ],
-  "based_on": 10,
+  "based_on": 24,
   "v": 3,
-  "model": "gemini-3.5-flash-lite",
-  "written_at": "2026-10-09 00:50"
+  "model": "gemini-3.1-flash-lite-preview",
+  "written_at": "2026-10-09 04:11"
  }
 }
