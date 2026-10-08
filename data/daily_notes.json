@@ -1756,31 +1756,35 @@
  },
  "2026-10-08": {
   "date": "2026-10-08",
-  "headline": "청동 조명과 콘크리트 파편, 낡은 수선의 흔적",
-  "editorial": "파리 패션 위크가 제안하는 신체 조형과 아파라투스의 청동 조명은 물성의 긴장감을 극대화하며 출발한다. 이어 아베 랑게의 빈티지 아카이브와 포르투갈의 오래된 물레방아는 시간의 마모가 남긴 자국을 공간과 사물에 겹쳐 세운다. 못을 쓰지 않는 목조 결합과 콘크리트 주택 솔리더스의 감산 건축은 견고한 구조를 이루는 또 다른 방식을 증명한다.",
+  "headline": "스테인리스 스틸의 이음매와 숲속에 띄운 콘크리트 수평면",
+  "editorial": "라울 산체스는 노화된 건축의 틈을 차가운 스테인리스 스틸로 묶어 시간의 흔적을 보존한다. 이처럼 견고한 물리적 결합은 웨스트 밴쿠버의 숲속에서 부유하는 콘크리트 매스나, 못 없이 장력만으로 목조를 엮어내는 실험과 닿아 있다. 사물이 가진 원래의 상태를 고집하기보다 외부의 힘이나 기계적 장치를 빌려 새로운 형태를 취하는 방식이다. 오늘 다루는 작업들은 파편화된 조각들을 엮어 새로운 질서를 만드는 과정을 보여준다.",
   "threads": [
    {
-    "name": "물성과 구조의 긴장",
-    "note": "청동과 유리, 콘크리트를 깎아 만든 감산의 건축으로 물리적 조형미를 구축한다.",
+    "name": "물리적 결합과 구조의 긴장",
+    "note": "금속이나 장력 등 물리적 요소를 활용해 파편화된 건축과 사물을 고정하는 방식에 주목한다.",
     "items": [
      {
-      "title": "파리 패션 위크 SS27: 신체와 공간의 경계를 재구성하는 아방가르드",
-      "url": "https://www.dazeddigital.com/fashion/article/71131/1/paris-fashion-week-ss27-pfw-best-shows-round-up-jean-paul-gaultier-telfar?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=paris-fashion-week-ss27-everything-you-missed-from-this-season-s-shows"
+      "title": "시간의 궤적을 보존하는 방식: 라울 산체스의 라 카사 델 피라타",
+      "url": "https://www.yellowtrace.com.au/raul-sanchez-la-casa-del-pirata-mataro-heritage-renovation/"
      },
      {
-      "title": "페르시아 신화와 서사의 물성, 아파라투스의 5년 만의 풀 컬렉션",
-      "url": "https://www.dezeen.com/2026/10/07/apparatus-act-v-collection-persian-mythology/"
+      "title": "웨스트 밴쿠버의 숲, 수평적 매스로 띄운 현대적 안식처",
+      "url": "https://design-milk.com/west-vancouver-home-openspace-architecture/"
      },
      {
-      "title": "거대한 콘크리트 덩어리를 깎아 만든 인도 아마다바드의 주택 '솔리더스'",
-      "url": "https://www.wallpaper.com/architecture/residential/family-house-in-ahmedabad-india"
+      "title": "구멍 없는 결합: 스트랩과 마찰로 완성하는 가역적 목조 건축",
+      "url": "https://www.archdaily.com/1185836/building-and-unbuilding-an-approach-to-circular-timber-construction-addressing-material-waste"
      }
     ]
    },
    {
-    "name": "시간이 묻은 기억의 재조립",
-    "note": "오래된 물레방아의 유산과 타인의 삶이 묻은 마모의 흔적을 공간과 사물로 복원한다.",
+    "name": "흔적을 잇는 보존의 미학",
+    "note": "오래된 기억이나 마모된 사물의 서사를 완전히 지우지 않고 새로운 공간의 뼈대로 삼는 전략이다.",
     "items": [
+     {
+      "title": "런던 치스윅의 빅토리아 주택, 다채로운 서사와 감각으로 채우다",
+      "url": "https://www.architecturaldigest.com/story/dichen-lachman-maximilian-osinski-london-home"
+     },
      {
       "title": "시간의 마모를 수집하다: 패션 역사가 아베 랑게의 아카이브",
       "url": "https://elephant.art/abe-lange-isnt-your-average-art-collector/"
@@ -1790,21 +1794,11 @@
       "url": "https://www.archdaily.com/1034225/cereal-interpretation-center-htelier"
      }
     ]
-   },
-   {
-    "name": "못 없는 가역적 결합",
-    "note": "장력과 마찰력으로 구조를 엮어 해체와 재조립이 가능한 순환 건축을 실험한다.",
-    "items": [
-     {
-      "title": "구멍 없는 결합: 스트랩과 마찰로 완성하는 가역적 목조 건축",
-      "url": "https://www.archdaily.com/1185836/building-and-unbuilding-an-approach-to-circular-timber-construction-addressing-material-waste"
-     }
-    ]
    }
   ],
-  "based_on": 21,
+  "based_on": 24,
   "v": 3,
-  "model": "gemini-3.5-flash-lite",
-  "written_at": "2026-10-08 04:15"
+  "model": "gemini-3.1-flash-lite-preview",
+  "written_at": "2026-10-08 10:11"
  }
 }
