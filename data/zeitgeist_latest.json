@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-10-08 15:33 KST",
+  "generated_at": "2026-10-08 18:28 KST",
   "period": "2026.10.01 - 2026.10.08",
-  "total_articles": 412,
+  "total_articles": 423,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 193
+      "count": 199
     },
     {
       "genre": "동시대 미술",
-      "count": 139
+      "count": 143
     },
     {
       "genre": "아방가르드 패션",
-      "count": 58
+      "count": 59
     },
     {
       "genre": "미디어 파사드·3D",
@@ -55,10 +55,16 @@
     },
     {
       "keyword": "가구 디자인",
-      "count": 9,
+      "count": 10,
       "previous_count": 9,
       "trend": "steady",
       "items": [
+        {
+          "title": "Eba는 산토스의 플린스 서랍 덕분에 주방에 바닥 수준의 수납 공간을 갖추고 있습니다.",
+          "url": "https://www.dezeen.com/2026/10/08/santos-kitchen-plinth-drawer-unit-eba/",
+          "image_url": "https://static.dezeen.com/uploads/2026/09/santos-plinth-drawer-unit-eba_dezeen_2364_col_4-852x852.jpg",
+          "source_name": "Dezeen"
+        },
         {
           "title": "Apparatus는 5년 만에 첫 풀 컬렉션을 위해 페르시아 신화를 활용합니다",
           "url": "https://www.dezeen.com/2026/10/07/apparatus-act-v-collection-persian-mythology/",
@@ -76,12 +82,6 @@
           "url": "https://design-milk.com/eichholtz-california-showrooms/",
           "image_url": "https://design-milk.com/images/2026/10/West-Hollywood-Store-e1791323184317.jpg",
           "source_name": "Design Milk"
-        },
-        {
-          "title": "세련된 아마존 가구 33선 (2026년)",
-          "url": "https://www.architecturaldigest.com/story/best-furniture-finds-on-amazon",
-          "image_url": "https://media.architecturaldigest.com/photos/6a2c6e64187c9f659a99aae2/master/pass/apd-furniture.jpg",
-          "source_name": "Architectural Digest"
         }
       ]
     },
@@ -216,6 +216,7 @@
   ],
   "notable_names": [
     "Paris Fashion Week",
+    "Stanley Stellar",
     "Leon Black",
     "Elizaveta Porodina",
     "Paola Lenti",
