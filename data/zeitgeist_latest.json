@@ -1,26 +1,58 @@
 {
-  "generated_at": "2026-10-08 18:28 KST",
+  "generated_at": "2026-10-08 23:50 KST",
   "period": "2026.10.01 - 2026.10.08",
-  "total_articles": 423,
+  "total_articles": 451,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 199
+      "count": 212
     },
     {
       "genre": "동시대 미술",
-      "count": 143
+      "count": 151
     },
     {
       "genre": "아방가르드 패션",
-      "count": 59
+      "count": 63
     },
     {
       "genre": "미디어 파사드·3D",
-      "count": 22
+      "count": 25
     }
   ],
   "themes": [
+    {
+      "keyword": "사진",
+      "count": 15,
+      "previous_count": 13,
+      "trend": "rising",
+      "items": [
+        {
+          "title": "Marc Goodwin의 렌즈를 통해 본 벨기에 건축 사무소",
+          "url": "https://www.archdaily.com/1034289/belgiums-architecture-offices-through-the-lens-of-marc-goodwin",
+          "image_url": "https://images.adsttc.com/media/images/68cd/21af/67a7/a401/899d/954a/large_jpg/belgian-offices-through-the-lens-of-marc-goodwin_27.jpg?1758273997",
+          "source_name": "ArchDaily"
+        },
+        {
+          "title": "미국 작가와 사진작가를 초대합니다! Dazed에서 첫 번째 바이라인을 받으세요",
+          "url": "https://www.dazeddigital.com/life-culture/article/71097/1/calling-us-writers-and-photographers-get-your-first-byline-at-dazed?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=calling-us-writers-and-photographers-get-your-first-byline-at-dazed",
+          "image_url": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/7/1457256.png",
+          "source_name": "Dazed"
+        },
+        {
+          "title": "사진: SS27 시즌의 가장 거친 파리 파티",
+          "url": "https://www.dazeddigital.com/fashion/article/71135/1/photos-of-paris-fashion-week-after-party-ss27-clairo-bb-trickz?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=in-photos-the-wildest-paris-parties-of-the-ss27-season",
+          "image_url": "https://images-prod.dazeddigital.com/772/azure/dazed-prod/1450/7/1457206.jpeg",
+          "source_name": "Dazed"
+        },
+        {
+          "title": "At the Pinault Collection: 체포된 사진의 역사",
+          "url": "https://www.anothermag.com/art-photography/17554/remember-me-photography-exhibition-bourse-de-commerce-paris?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=at-the-pinault-collection-an-arresting-history-of-photography",
+          "image_url": "https://images-prod.anothermag.com/786/azure/another-prod/470/9/479282.jpg",
+          "source_name": "AnOther Magazine"
+        }
+      ]
+    },
     {
       "keyword": "콘크리트 물성",
       "count": 11,
@@ -87,10 +119,16 @@
     },
     {
       "keyword": "목재 건축",
-      "count": 7,
+      "count": 8,
       "previous_count": 7,
       "trend": "steady",
       "items": [
+        {
+          "title": "프라하의 스에프카 아키텍티 모델 조립식 주택 목재 옷장",
+          "url": "https://www.dezeen.com/2026/10/08/sepka-architekti-wardrobe-house/",
+          "image_url": "https://static.dezeen.com/uploads/2026/10/wardrobe-house-sepka-architekti-architecture-residential-czech-republic-wood-prefabrication_dezeen_2364_sq-852x852.jpg",
+          "source_name": "Dezeen"
+        },
         {
           "title": "웨스트 밴쿠버의 한 주택이 나무 사이에 떠 있는 것처럼 보입니다.",
           "url": "https://design-milk.com/west-vancouver-home-openspace-architecture/",
@@ -108,21 +146,21 @@
           "url": "https://www.archdaily.com/1185836/building-and-unbuilding-an-approach-to-circular-timber-construction-addressing-material-waste",
           "image_url": "https://images.adsttc.com/media/images/6ab6/d4d1/205c/9801/887f/5fe9/large_jpg/building-and-unbuilding-an-approach-to-circular-timber-construction-addressing-material-waste_19.jpg?1790367013",
           "source_name": "ArchDaily"
-        },
-        {
-          "title": "2025년 아칸소주 크리스탈 브리지에 재건될 베니스 건축 비엔날레를 위한 말론 블랙웰 건축가의 미국관",
-          "url": "https://www.archdaily.com/1186399/marlon-blackwell-architects-us-pavilion-for-the-2025-venice-architecture-biennale-to-be-reconstructed-at-crystal-bridges-arkansas",
-          "image_url": "https://images.adsttc.com/media/images/6ac4/e247/27ac/8d01/89cb/bb58/large_jpg/marlon-blackwell-architects-us-pavilion-for-the-2025-venice-architecture-biennale-to-be-reconstructed-at-crystal-bridges-arkansas_3.jpg?1791287904",
-          "source_name": "ArchDaily"
         }
       ]
     },
     {
       "keyword": "런웨이·쇼",
-      "count": 6,
+      "count": 7,
       "previous_count": 6,
       "trend": "steady",
       "items": [
+        {
+          "title": "패션 위크의 아키텍처: S/S 2027의 멋진 쇼 세트를 만나보세요",
+          "url": "https://www.wallpaper.com/fashion-beauty/best-runway-show-sets-fashion-week-ss-2027",
+          "image_url": "https://cdn.mos.cms.futurecdn.net/J3E2w5unc6cTApo7j9K5MW-1920-80.jpg",
+          "source_name": "Wallpaper*"
+        },
         {
           "title": "파리 패션 위크 SS27: 이번 시즌 쇼에서 놓친 모든 것",
           "url": "https://www.dazeddigital.com/fashion/article/71131/1/paris-fashion-week-ss27-pfw-best-shows-round-up-jean-paul-gaultier-telfar?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=paris-fashion-week-ss27-everything-you-missed-from-this-season-s-shows",
@@ -140,12 +178,6 @@
           "url": "https://www.dazeddigital.com/fashion/article/71108/1/paris-fashion-week-is-burning-at-celine-ss27?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=paris-fashion-week-is-burning-at-celine-ss27",
           "image_url": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/6/1456840.jpg",
           "source_name": "Dazed"
-        },
-        {
-          "title": "Loewe의 최신 쇼는 Casper Mueller Kneer가 디자인한 ‘경기장‘ 에서 열립니다.",
-          "url": "https://www.wallpaper.com/fashion-beauty/loewes-latest-show-will-take-place-in-a-casper-mueller-kneer-designed-arena",
-          "image_url": "https://cdn.mos.cms.futurecdn.net/U9UnkgriJysbikxhjxqTfd-1920-80.jpg",
-          "source_name": "Wallpaper*"
         }
       ]
     },
@@ -180,42 +212,11 @@
           "source_name": "Wallpaper*"
         }
       ]
-    },
-    {
-      "keyword": "박물관·전시",
-      "count": 41,
-      "previous_count": 52,
-      "trend": "falling",
-      "items": [
-        {
-          "title": "LACMA의 Alexander Calder Erewhon 스무디는 예술 세계가 마땅히",
-          "url": "https://hyperallergic.com/lacmas-alexander-calder-erewhon-smoothie-is-what-the-art-world-deserves/",
-          "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/10/unnamed-2.jpg",
-          "source_name": "Hyperallergic"
-        },
-        {
-          "title": "정원사로서의 박물관 관장",
-          "url": "https://hyperallergic.com/the-museum-director-as-gardener/",
-          "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/10/BG1A8982--1--1.jpg",
-          "source_name": "Hyperallergic"
-        },
-        {
-          "title": "2026년 프리즈 위크를 위한 런던의 즐길 거리 10선",
-          "url": "https://www.wallpaper.com/art/exhibitions-shows/ten-things-to-do-during-london-frieze-week-2026",
-          "image_url": "https://cdn.mos.cms.futurecdn.net/8RFJk9UhLhtxyJKZdBfTCd-1920-80.jpg",
-          "source_name": "Wallpaper*"
-        },
-        {
-          "title": "사이먼 라베우브의 1/35 스케일 미니어처에 자리한 우스꽝스러운 주택들",
-          "url": "https://www.thisiscolossal.com/2026/10/simon-laveuve-miniature-dwellings-anchored-in-rock/",
-          "image_url": "https://www.thisiscolossal.com/wp-content/uploads/2026/10/laveuve-11.jpg",
-          "source_name": "This Is Colossal"
-        }
-      ]
     }
   ],
   "notable_names": [
     "Paris Fashion Week",
+    "Cultural Center",
     "Stanley Stellar",
     "Leon Black",
     "Elizaveta Porodina",
