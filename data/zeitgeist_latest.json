@@ -1,61 +1,29 @@
 {
-  "generated_at": "2026-10-08 23:50 KST",
-  "period": "2026.10.01 - 2026.10.08",
-  "total_articles": 451,
+  "generated_at": "2026-10-09 00:49 KST",
+  "period": "2026.10.02 - 2026.10.09",
+  "total_articles": 372,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 212
+      "count": 177
     },
     {
       "genre": "동시대 미술",
-      "count": 151
+      "count": 128
     },
     {
       "genre": "아방가르드 패션",
-      "count": 63
+      "count": 49
     },
     {
       "genre": "미디어 파사드·3D",
-      "count": 25
+      "count": 18
     }
   ],
   "themes": [
     {
-      "keyword": "사진",
-      "count": 15,
-      "previous_count": 13,
-      "trend": "rising",
-      "items": [
-        {
-          "title": "Marc Goodwin의 렌즈를 통해 본 벨기에 건축 사무소",
-          "url": "https://www.archdaily.com/1034289/belgiums-architecture-offices-through-the-lens-of-marc-goodwin",
-          "image_url": "https://images.adsttc.com/media/images/68cd/21af/67a7/a401/899d/954a/large_jpg/belgian-offices-through-the-lens-of-marc-goodwin_27.jpg?1758273997",
-          "source_name": "ArchDaily"
-        },
-        {
-          "title": "미국 작가와 사진작가를 초대합니다! Dazed에서 첫 번째 바이라인을 받으세요",
-          "url": "https://www.dazeddigital.com/life-culture/article/71097/1/calling-us-writers-and-photographers-get-your-first-byline-at-dazed?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=calling-us-writers-and-photographers-get-your-first-byline-at-dazed",
-          "image_url": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/7/1457256.png",
-          "source_name": "Dazed"
-        },
-        {
-          "title": "사진: SS27 시즌의 가장 거친 파리 파티",
-          "url": "https://www.dazeddigital.com/fashion/article/71135/1/photos-of-paris-fashion-week-after-party-ss27-clairo-bb-trickz?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=in-photos-the-wildest-paris-parties-of-the-ss27-season",
-          "image_url": "https://images-prod.dazeddigital.com/772/azure/dazed-prod/1450/7/1457206.jpeg",
-          "source_name": "Dazed"
-        },
-        {
-          "title": "At the Pinault Collection: 체포된 사진의 역사",
-          "url": "https://www.anothermag.com/art-photography/17554/remember-me-photography-exhibition-bourse-de-commerce-paris?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=at-the-pinault-collection-an-arresting-history-of-photography",
-          "image_url": "https://images-prod.anothermag.com/786/azure/another-prod/470/9/479282.jpg",
-          "source_name": "AnOther Magazine"
-        }
-      ]
-    },
-    {
       "keyword": "콘크리트 물성",
-      "count": 11,
+      "count": 9,
       "previous_count": 6,
       "trend": "rising",
       "items": [
@@ -87,7 +55,7 @@
     },
     {
       "keyword": "가구 디자인",
-      "count": 10,
+      "count": 9,
       "previous_count": 9,
       "trend": "steady",
       "items": [
@@ -119,8 +87,8 @@
     },
     {
       "keyword": "목재 건축",
-      "count": 8,
-      "previous_count": 7,
+      "count": 7,
+      "previous_count": 6,
       "trend": "steady",
       "items": [
         {
@@ -150,41 +118,9 @@
       ]
     },
     {
-      "keyword": "런웨이·쇼",
-      "count": 7,
-      "previous_count": 6,
-      "trend": "steady",
-      "items": [
-        {
-          "title": "패션 위크의 아키텍처: S/S 2027의 멋진 쇼 세트를 만나보세요",
-          "url": "https://www.wallpaper.com/fashion-beauty/best-runway-show-sets-fashion-week-ss-2027",
-          "image_url": "https://cdn.mos.cms.futurecdn.net/J3E2w5unc6cTApo7j9K5MW-1920-80.jpg",
-          "source_name": "Wallpaper*"
-        },
-        {
-          "title": "파리 패션 위크 SS27: 이번 시즌 쇼에서 놓친 모든 것",
-          "url": "https://www.dazeddigital.com/fashion/article/71131/1/paris-fashion-week-ss27-pfw-best-shows-round-up-jean-paul-gaultier-telfar?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=paris-fashion-week-ss27-everything-you-missed-from-this-season-s-shows",
-          "image_url": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/7/1457200.jpg",
-          "source_name": "Dazed"
-        },
-        {
-          "title": "파리 패션 위크 SS27의 아름다움은 드라마에 큰 영향을 미칩니다",
-          "url": "https://www.dazeddigital.com/beauty/article/71129/1/paris-fashion-week-ss27-best-beauty-looks?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=the-beauty-at-paris-fashion-week-ss27-goes-hard-on-the-drama",
-          "image_url": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/7/1457120.jpg",
-          "source_name": "Dazed"
-        },
-        {
-          "title": "셀린느 SS27에서 파리 패션 위크가 열리고 있습니다",
-          "url": "https://www.dazeddigital.com/fashion/article/71108/1/paris-fashion-week-is-burning-at-celine-ss27?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=paris-fashion-week-is-burning-at-celine-ss27",
-          "image_url": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/6/1456840.jpg",
-          "source_name": "Dazed"
-        }
-      ]
-    },
-    {
       "keyword": "레스토랑·호스피탈리티",
-      "count": 4,
-      "previous_count": 3,
+      "count": 3,
+      "previous_count": 4,
       "trend": "steady",
       "items": [
         {
@@ -204,23 +140,80 @@
           "url": "https://www.wallpaper.com/travel/restaurants/a-chefs-guide-to-cornwall",
           "image_url": "https://cdn.mos.cms.futurecdn.net/NUKWKeytZJQyNreutN5djF-1920-80.jpg",
           "source_name": "Wallpaper*"
+        }
+      ]
+    },
+    {
+      "keyword": "박물관·전시",
+      "count": 35,
+      "previous_count": 61,
+      "trend": "falling",
+      "items": [
+        {
+          "title": "의료 영상과 예술이 만나는 전시회 “Overexposed”",
+          "url": "https://hyperallergic.com/medical-imaging-and-art-meet-in-the-exhibition-overexposed/",
+          "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/10/Sanctus--1990---Barbara-Hammer.jpg",
+          "source_name": "Hyperallergic"
         },
         {
-          "title": "스카이워커 그릴 (Skywalker Grill) 에서는 루카스 박물관 (Lucas Museum) 의 미래형 레스토랑인 포스 (force) 와 음료가 강렬합니다.",
-          "url": "https://www.wallpaper.com/travel/restaurants/skywalker-grill-lucas-museum-restaurant-review",
-          "image_url": "https://cdn.mos.cms.futurecdn.net/iNru9aTYbgsSpWmanBPSYS-1920-80.jpg",
+          "title": "인권으로서의 주거와 르 코르뷔지에를 재평가하는 전시: 이번 주 리뷰",
+          "url": "https://www.archdaily.com/1186539/housing-as-a-human-right-and-an-exhibition-reassessing-le-corbusier-this-weeks-review",
+          "image_url": "https://images.adsttc.com/media/images/6ac7/2bc4/27ac/8d01/89cb/c2d7/large_jpg/this-weeks-review_13.jpg?1791437775",
+          "source_name": "ArchDaily"
+        },
+        {
+          "title": "패션 위크의 아키텍처: S/S 2027의 멋진 쇼 세트를 만나보세요",
+          "url": "https://www.wallpaper.com/fashion-beauty/best-runway-show-sets-fashion-week-ss-2027",
+          "image_url": "https://cdn.mos.cms.futurecdn.net/J3E2w5unc6cTApo7j9K5MW-1920-80.jpg",
           "source_name": "Wallpaper*"
+        },
+        {
+          "title": "At the Pinault Collection: 체포된 사진의 역사",
+          "url": "https://www.anothermag.com/art-photography/17554/remember-me-photography-exhibition-bourse-de-commerce-paris?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=at-the-pinault-collection-an-arresting-history-of-photography",
+          "image_url": "https://images-prod.anothermag.com/786/azure/another-prod/470/9/479282.jpg",
+          "source_name": "AnOther Magazine"
+        }
+      ]
+    },
+    {
+      "keyword": "사진",
+      "count": 13,
+      "previous_count": 15,
+      "trend": "falling",
+      "items": [
+        {
+          "title": "Marc Goodwin의 렌즈를 통해 본 벨기에 건축 사무소",
+          "url": "https://www.archdaily.com/1034289/belgiums-architecture-offices-through-the-lens-of-marc-goodwin",
+          "image_url": "https://images.adsttc.com/media/images/68cd/21af/67a7/a401/899d/954a/large_jpg/belgian-offices-through-the-lens-of-marc-goodwin_27.jpg?1758273997",
+          "source_name": "ArchDaily"
+        },
+        {
+          "title": "미국 작가와 사진작가를 초대합니다! Dazed에서 첫 번째 바이라인을 받으세요",
+          "url": "https://www.dazeddigital.com/life-culture/article/71097/1/calling-us-writers-and-photographers-get-your-first-byline-at-dazed?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=calling-us-writers-and-photographers-get-your-first-byline-at-dazed",
+          "image_url": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/7/1457256.png",
+          "source_name": "Dazed"
+        },
+        {
+          "title": "사진: SS27 시즌의 가장 거친 파리 파티",
+          "url": "https://www.dazeddigital.com/fashion/article/71135/1/photos-of-paris-fashion-week-after-party-ss27-clairo-bb-trickz?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=in-photos-the-wildest-paris-parties-of-the-ss27-season",
+          "image_url": "https://images-prod.dazeddigital.com/772/azure/dazed-prod/1450/7/1457206.jpeg",
+          "source_name": "Dazed"
+        },
+        {
+          "title": "At the Pinault Collection: 체포된 사진의 역사",
+          "url": "https://www.anothermag.com/art-photography/17554/remember-me-photography-exhibition-bourse-de-commerce-paris?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=at-the-pinault-collection-an-arresting-history-of-photography",
+          "image_url": "https://images-prod.anothermag.com/786/azure/another-prod/470/9/479282.jpg",
+          "source_name": "AnOther Magazine"
         }
       ]
     }
   ],
   "notable_names": [
     "Paris Fashion Week",
-    "Cultural Center",
+    "United States",
     "Stanley Stellar",
     "Leon Black",
     "Elizaveta Porodina",
-    "Paola Lenti",
     "Bilbao Fine Arts Museum",
     "Rodolphe Parente",
     "Rick Owens"
