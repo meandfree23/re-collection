@@ -137950,5 +137950,87 @@
   },
   "depth_raw": 3,
   "depth_v": 2
+ },
+ "stashmedia.tv/manu-mazzaro-sauvage-surrender-to-andalusian-magic": {
+  "title_ko": "AI와 모션 캡처로 해체한 안달루시아의 로컬 판타지",
+  "summary_ko": "로마(Roma)의 마누 마차로(Manu Mazzaro)와 소바주(Sauvage)의 어니스트 데숨빌라(Ernest Desumbila) 감독이 3D, 라이브 액션, 모션 캡처, 인공지능을 결합해 안달루시아 관광청 캠페인 '더 서렌더(The Surrender)'를 완성했다. 오길비 스페인(Ogilvy Spain)이 기획하고 한스 짐머(Hans Zimmer)가 음악을 맡은 이 작업은 전통적인 관광 영상의 문법을 완전히 비틀어 밀라노 말라가 코믹콘에서 공개됐다.",
+  "lens": "관광지의 풍경을 전시하는 대신, 인공지능과 3D를 겹쳐 낯설고 왜곡된 감각의 시공간을 구축한다.",
+  "why_now": "기술적 정교함이 한계에 달한 광고 제작 환경에서, 에이전시와 감독들이 제작 기간을 반년 이상 투입하며 장르를 허무는 대형 프로젝트의 정점을 보여준다.",
+  "mechanism": "실사 촬영 영상 위에 CGI-to-AI 개발 공정을 거친 노드들을 얹고, 누크(Nuke)와 후디니(Houdini)로 입자 물성을 조작해 실사와 그래픽의 경계를 지운다.",
+  "sensory": "플라멩코 기타와 보컬의 거친 흙냄새 위로 인공지능이 왜곡한 초현실적 인물들의 질감이 겹쳐지며 시청각적 긴장을 높인다.",
+  "transfer": "실사 로케이션 푸티지 위에 AI 크리에이티브 슈퍼바이저와 협업한 3D 캐릭터를 얹어, 장소의 물리적 한계를 지우는 하이브리드 시퀀스 설계에 쓴다.",
+  "context": "오길비 스페인은 세계적인 광고 에이전시 네트워크인 더블유피피(WPP) 산하에 속하며, 이번 작업은 안달루시아 관광청 캠페인의 마지막 장이다.",
+  "findings": [
+   {
+    "text": "한스 짐머는 영화 인터스텔라와 듄 등의 음악을 작곡했다.",
+    "s": 3,
+    "quote": "His works include Rain Man (1988), Gladiator (2000), Black Hawk Down (2001), The Last Samurai (2003), The Dark Knight trilogy (2005–2012), the Pirates of the Caribbean series (2006–2011), Inception (2010), Man of Steel ("
+   },
+   {
+    "text": "오길비는 1850년 에드먼드 마더가 런던에 설립한 광고 회사다.",
+    "s": 2,
+    "quote": "Ogilvy is an American advertising, marketing, and public relations agency. It was founded in 1850 by Edmund Mather as a London-based agency."
+   }
+  ],
+  "keywords": [
+   "미디어파사드",
+   "인공지능",
+   "모션캡처",
+   "브랜디드콘텐츠",
+   "초현실주의"
+  ],
+  "evidence": "merge 3D, live-action, motion capture, and AI into the single most ambitious and un-touristy tourism film you may ever witness",
+  "kind": "프로젝트",
+  "depth": 5,
+  "grounding": "full",
+  "depth_reason": "실사와 AI, 모션캡처를 결합한 최고 수준의 제작 공정과 독보적인 연출 비전이 명확하다.",
+  "v": 2,
+  "url": "https://www.stashmedia.tv/manu-mazzaro-sauvage-surrender-to-andalusian-magic/",
+  "original_title": "Manu Mazzaro & Sauvage Surrender to Andalusian Magic",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 4293,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-08 12:11",
+  "research": {
+   "entities": [
+    "Manu Mazzaro",
+    "Ernest Desumbila",
+    "Ogilvy Spain",
+    "Hans Zimmer",
+    "Sauvage"
+   ],
+   "questions": [
+    "안달루시아 관광청의 'Andalusian Crush' 캠페인이 기존 관광 홍보 영상과 차별화되는 핵심적인 시각적·서사적 특징은 무엇인가?",
+    "이 프로젝트에서 3D, 모션 캡처, AI 기술이 어떻게 결합되어 기존 광고 제작 방식의 한계를 극복했는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "MANU MAZZARO — ROMA",
+     "url": "https://www.salveroma.tv/director/manu-mazzaro/"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Ogilvy (agency)",
+     "url": "https://en.wikipedia.org/wiki/Ogilvy%20%28agency%29"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Hans Zimmer",
+     "url": "https://en.wikipedia.org/wiki/Hans%20Zimmer"
+    }
+   ],
+   "used": [
+    2,
+    3
+   ],
+   "chars": 3022
+  },
+  "depth_raw": 5,
+  "depth_v": 2
  }
 }
