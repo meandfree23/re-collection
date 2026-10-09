@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-10-09 04:10 KST",
+  "generated_at": "2026-10-09 10:31 KST",
   "period": "2026.10.02 - 2026.10.09",
-  "total_articles": 389,
+  "total_articles": 402,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 179
+      "count": 188
     },
     {
       "genre": "동시대 미술",
-      "count": 142
+      "count": 146
     },
     {
       "genre": "아방가르드 패션",
@@ -21,6 +21,38 @@
     }
   ],
   "themes": [
+    {
+      "keyword": "가구 디자인",
+      "count": 11,
+      "previous_count": 9,
+      "trend": "rising",
+      "items": [
+        {
+          "title": "실제로 세련된 사무용 가구를 구입할 수 있는 최고의 장소 9곳 (2026년)",
+          "url": "https://www.architecturaldigest.com/story/best-office-furniture",
+          "image_url": "https://media.architecturaldigest.com/photos/68b0630fe6b8eca6a50ca1d0/master/pass/imgi_1_interiors-15-Edit.jpg",
+          "source_name": "Architectural Digest"
+        },
+        {
+          "title": "조쉬 그린스펀 (Josh Greenspan) 은 USM 모듈로 거의 전적으로 뉴욕 칵테일 라운지를 만듭니다.",
+          "url": "https://www.dezeen.com/2026/10/08/josh-greenspan-usm-vvs-cocktail-room-new-york/",
+          "image_url": "https://static.dezeen.com/uploads/2026/10/vs-cocktail-room-new-york-usm-josh-greenspan_dezeen_2364_col_4-852x852.jpg",
+          "source_name": "Dezeen"
+        },
+        {
+          "title": "Eba는 산토스의 플린스 서랍 덕분에 주방에 바닥 수준의 수납 공간을 갖추고 있습니다.",
+          "url": "https://www.dezeen.com/2026/10/08/santos-kitchen-plinth-drawer-unit-eba/",
+          "image_url": "https://static.dezeen.com/uploads/2026/09/santos-plinth-drawer-unit-eba_dezeen_2364_col_4-852x852.jpg",
+          "source_name": "Dezeen"
+        },
+        {
+          "title": "Apparatus는 5년 만에 첫 풀 컬렉션을 위해 페르시아 신화를 활용합니다",
+          "url": "https://www.dezeen.com/2026/10/07/apparatus-act-v-collection-persian-mythology/",
+          "image_url": "https://static.dezeen.com/uploads/2026/10/apparatus-act-v-lighting-collection_dezeen_2364_sq-852x852.jpg",
+          "source_name": "Dezeen"
+        }
+      ]
+    },
     {
       "keyword": "콘크리트 물성",
       "count": 9,
@@ -50,38 +82,6 @@
           "url": "https://www.archdaily.com/1039743/renovation-project-in-the-heart-of-shanghais-historic-area-dongqi-design",
           "image_url": "https://images.adsttc.com/media/images/69ba/7b25/6e66/7900/01ef/d828/large_jpg/dongqi_by_Yasu_Kojima1.jpg?1773828939",
           "source_name": "ArchDaily"
-        }
-      ]
-    },
-    {
-      "keyword": "가구 디자인",
-      "count": 10,
-      "previous_count": 9,
-      "trend": "steady",
-      "items": [
-        {
-          "title": "조쉬 그린스펀 (Josh Greenspan) 은 USM 모듈로 거의 전적으로 뉴욕 칵테일 라운지를 만듭니다.",
-          "url": "https://www.dezeen.com/2026/10/08/josh-greenspan-usm-vvs-cocktail-room-new-york/",
-          "image_url": "https://static.dezeen.com/uploads/2026/10/vs-cocktail-room-new-york-usm-josh-greenspan_dezeen_2364_col_4-852x852.jpg",
-          "source_name": "Dezeen"
-        },
-        {
-          "title": "Eba는 산토스의 플린스 서랍 덕분에 주방에 바닥 수준의 수납 공간을 갖추고 있습니다.",
-          "url": "https://www.dezeen.com/2026/10/08/santos-kitchen-plinth-drawer-unit-eba/",
-          "image_url": "https://static.dezeen.com/uploads/2026/09/santos-plinth-drawer-unit-eba_dezeen_2364_col_4-852x852.jpg",
-          "source_name": "Dezeen"
-        },
-        {
-          "title": "Apparatus는 5년 만에 첫 풀 컬렉션을 위해 페르시아 신화를 활용합니다",
-          "url": "https://www.dezeen.com/2026/10/07/apparatus-act-v-collection-persian-mythology/",
-          "image_url": "https://static.dezeen.com/uploads/2026/10/apparatus-act-v-lighting-collection_dezeen_2364_sq-852x852.jpg",
-          "source_name": "Dezeen"
-        },
-        {
-          "title": "IKEA, 영국 및 아일랜드 중고 가구 매매 시장 개장",
-          "url": "https://www.dezeen.com/2026/10/07/ikea-uk-ireland-marketplace-buy-sell-second-hand-furniture/",
-          "image_url": "https://static.dezeen.com/uploads/2026/10/ikea-second-hand-marketplace-sq-852x852.jpg",
-          "source_name": "Dezeen"
         }
       ]
     },
@@ -216,6 +216,7 @@
   ],
   "notable_names": [
     "Paris Fashion Week",
+    "Victoria Beckham",
     "United States",
     "Stanley Stellar",
     "Leon Black",
