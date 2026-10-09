@@ -144141,5 +144141,79 @@
   },
   "depth_raw": 4,
   "depth_v": 2
+ },
+ "designboom.com/art/three-ceramic-sculptures-distinct-fragrances-puglia-landscapes-coco-brun": {
+  "title_ko": "풀리아의 지형을 세라믹과 향기로 번역한 후각 설치 미술",
+  "summary_ko": "프랑스 아티스트 코코 브룬은 이탈리아 풀리아의 해안 침식 지형을 모티브로 세 개의 세라믹 조각을 제작했다. 3D 스캔 데이터를 바탕으로 압출 및 적층 성형한 세라믹 조형물 내부에 건식 향기 확산 장치를 결합해 바다, 흙, 식물의 향을 뿜어낸다. 이 작업은 코모 디자인 페스티벌에서 공개되었다.",
+  "lens": "지형의 3D 스캔 데이터와 점토의 물리적 변형을 일치시켜 지층의 물성을 직조한다.",
+  "why_now": "시각 중심의 공간 연출에서 벗어나, 보이지 않는 향기와 구조물을 결합해 감각의 층위를 확장하는 대안적 공간 장치가 주목받는 시점이다.",
+  "mechanism": "풀리아 동굴의 3D 스캔 표면을 세라믹 압출 방식으로 적층하고, 건식 향기 확산 장치 오르브(ORB)를 내장해 공기 흐름에 따라 향이 섞이도록 설계했다.",
+  "sensory": "건조 과정에서 자연스럽게 발생한 균열과 뒤틀림이 묻어난 세라믹 표면 사이로, 바다와 흙을 연상시키는 향이 겹겹이 흘러나온다.",
+  "transfer": "공간 연출이나 세트 디자인에서 시각적 배경 대신 보이지 않는 향기와 물리적 조형물을 결합해 관객의 동선에 따라 감각이 교차하는 숏을 구성할 수 있다.",
+  "context": "프랑스 작가 코코 브룬(Coco Brun)은 현장 조사에 기반해 자수 태피스트리, 유리, 광물 조형물을 다루며 이번 프로젝트는 디풀리아 레지던시(D.Puglia residency) 연구를 바탕으로 진행되었다.",
+  "findings": [
+   {
+    "text": "프랑스 현대 미술가 코코 브룬은 자수 태피스트리, 블로운 글래스, 광물 조형물을 제작한다.",
+    "s": 1,
+    "quote": "Coco Brun, French contemporary artist. Embroidered tapestries, blown glass and mineral sculptures"
+   },
+   {
+    "text": "지바우단은 스위스의 다국적 향료 및 향수 제조 기업이다.",
+    "s": 2,
+    "quote": "Givaudan S.A. is a Swiss multinational manufacturer of flavours, fragrances and active cosmetic ingredients."
+   }
+  ],
+  "keywords": [
+   "세라믹조각",
+   "후각설치미술",
+   "지형데이터",
+   "공간향기"
+  ],
+  "evidence": "Landscape Memories is an olfactory installation by French artist and designer Coco Brun that translates the landscapes of Puglia, southern Italy, into three ceramic sculptures that diffuse distinct fragrances.",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "3D 스캔 데이터와 세라믹 공정을 결합한 구체적 조형 방식과 후각 연출 장치가 명확하다.",
+  "v": 2,
+  "url": "https://www.designboom.com/art/three-ceramic-sculptures-distinct-fragrances-puglia-landscapes-coco-brun/",
+  "original_title": "three ceramic sculptures diffuse distinct fragrances evoking puglia’s landscapes",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 5670,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-09 11:46",
+  "research": {
+   "entities": [
+    "Coco Brun",
+    "Givaudan",
+    "SuperForma",
+    "Lake Como Design Festival"
+   ],
+   "questions": [
+    "세라믹 조형물의 표면 질감을 구현하기 위해 사용된 3D 프린팅 및 압출 공정은 일반적인 도자 제작 방식과 어떤 차이가 있나요?",
+    "후각적 요소와 조형적 요소가 결합된 'Landscape Memories' 설치 미술이 관람객의 공간 경험을 어떻게 변화시키나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Coco Brun | Contemporary Artist & Environmental Researcher",
+     "url": "https://coco.bzh/en/"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Givaudan",
+     "url": "https://en.wikipedia.org/wiki/Givaudan"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 371
+  },
+  "depth_raw": 4,
+  "depth_v": 2
  }
 }
