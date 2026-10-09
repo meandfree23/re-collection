@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-10-09 15:42 KST",
+  "generated_at": "2026-10-09 18:41 KST",
   "period": "2026.10.02 - 2026.10.09",
-  "total_articles": 406,
+  "total_articles": 415,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 188
+      "count": 194
     },
     {
       "genre": "동시대 미술",
-      "count": 148
+      "count": 150
     },
     {
       "genre": "아방가르드 패션",
-      "count": 50
+      "count": 51
     },
     {
       "genre": "미디어 파사드·3D",
@@ -55,10 +55,16 @@
     },
     {
       "keyword": "콘크리트 물성",
-      "count": 9,
+      "count": 10,
       "previous_count": 6,
       "trend": "rising",
       "items": [
+        {
+          "title": "하우스 Q/HGAA",
+          "url": "https://www.archdaily.com/1186297/house-q-hgaa",
+          "image_url": "https://images.adsttc.com/media/images/6ac3/a7a7/27ac/8d01/89cb/b747/large_jpg/house-q-hgaa_19.jpg?1791207363",
+          "source_name": "ArchDaily"
+        },
         {
           "title": "웨스트 밴쿠버의 한 주택이 나무 사이에 떠 있는 것처럼 보입니다.",
           "url": "https://design-milk.com/west-vancouver-home-openspace-architecture/",
@@ -76,12 +82,6 @@
           "url": "https://www.designboom.com/art/life-spectacle-barbara-kruger-tadao-ando-rotunda-monumental-texts-bourse-de-commerce-paris-remember-me-exhibition/",
           "image_url": "https://www.designboom.com/wp-content/uploads/2026/10/barbara-kruger-the-history-of-tears-bourse-de-commerce-remember-me-paris-designboom-1.jpg",
           "source_name": "Designboom Art"
-        },
-        {
-          "title": "상하이 역사 지구 중심에 위치한 리노베이션 프로젝트/동치 디자인",
-          "url": "https://www.archdaily.com/1039743/renovation-project-in-the-heart-of-shanghais-historic-area-dongqi-design",
-          "image_url": "https://images.adsttc.com/media/images/69ba/7b25/6e66/7900/01ef/d828/large_jpg/dongqi_by_Yasu_Kojima1.jpg?1773828939",
-          "source_name": "ArchDaily"
         }
       ]
     },
@@ -151,10 +151,16 @@
     },
     {
       "keyword": "박물관·전시",
-      "count": 39,
+      "count": 40,
       "previous_count": 61,
       "trend": "falling",
       "items": [
+        {
+          "title": "징저우 성벽 고고학 유적 전시관/청정 스튜디오",
+          "url": "https://www.archdaily.com/1038713/jingzhou-city-wall-archaeological-site-exhibition-pavilion-qing-studio",
+          "image_url": "https://images.adsttc.com/media/images/698c/a970/ad00/0f62/0459/41ad/large_jpg/jingzhou-city-wall-archaeological-site-exhibition-pavilion-qing-studio_12.jpg?1770826163",
+          "source_name": "ArchDaily"
+        },
         {
           "title": "선전 자연사 박물관은 이 지역의 매혹적인 생물 다양성을 가로지르는 여행입니다.",
           "url": "https://www.wallpaper.com/architecture/shenzhen-natural-history-museum-3xn-china",
@@ -171,12 +177,6 @@
           "title": "하원의원, 스미스소니언에게 트럼프의 \"나르시시즘적 자기 숭배\" 문서화 촉구",
           "url": "https://hyperallergic.com/congressman-calls-on-smithsonian-to-document-trumps-narcissistic-self-worship/",
           "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/10/GettyImages-2290849813.jpg",
-          "source_name": "Hyperallergic"
-        },
-        {
-          "title": "프랭크 질레트의 앤서픽 블루스",
-          "url": "https://hyperallergic.com/frank-gillettes-anthropic-blues/",
-          "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/10/FG_Blackseer_1.jpg",
           "source_name": "Hyperallergic"
         }
       ]
