@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-09 11:45 KST",
+  "generated_at": "2026-10-09 12:17 KST",
   "period": "2026.10.02 - 2026.10.09",
-  "total_articles": 403,
+  "total_articles": 404,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
@@ -9,7 +9,7 @@
     },
     {
       "genre": "동시대 미술",
-      "count": 147
+      "count": 148
     },
     {
       "genre": "아방가르드 패션",
@@ -151,10 +151,16 @@
     },
     {
       "keyword": "박물관·전시",
-      "count": 38,
+      "count": 39,
       "previous_count": 61,
       "trend": "falling",
       "items": [
+        {
+          "title": "선전 자연사 박물관은 이 지역의 매혹적인 생물 다양성을 가로지르는 여행입니다.",
+          "url": "https://www.wallpaper.com/architecture/shenzhen-natural-history-museum-3xn-china",
+          "image_url": "https://cdn.mos.cms.futurecdn.net/Vay6tLE8u2A8Qr3A5AwsNQ-1920-80.jpg",
+          "source_name": "Wallpaper*"
+        },
         {
           "title": "아테네 EMΣT, 유럽 미술관 사회공헌상 수상",
           "url": "https://hyperallergic.com/emst-in-athens-wins-european-art-museum-award-for-social-impact/",
@@ -171,12 +177,6 @@
           "title": "프랭크 질레트의 앤서픽 블루스",
           "url": "https://hyperallergic.com/frank-gillettes-anthropic-blues/",
           "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/10/FG_Blackseer_1.jpg",
-          "source_name": "Hyperallergic"
-        },
-        {
-          "title": "의료 영상과 예술이 만나는 전시회 “Overexposed”",
-          "url": "https://hyperallergic.com/medical-imaging-and-art-meet-in-the-exhibition-overexposed/",
-          "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/10/Sanctus--1990---Barbara-Hammer.jpg",
           "source_name": "Hyperallergic"
         }
       ]

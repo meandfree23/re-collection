@@ -144215,5 +144215,69 @@
   },
   "depth_raw": 4,
   "depth_v": 2
+ },
+ "wallpaper.com/architecture/shenzhen-natural-history-museum-3xn-china": {
+  "title_ko": "지형의 흐름을 재현한 선전 자연사 박물관, 건축과 자연의 경계를 지우다",
+  "summary_ko": "중국 선전 핑산 지구에 들어선 선전 자연사 박물관은 3XN, B+H 아키텍츠, 주보 디자인 컨소시엄이 설계했다. 얀지 언덕과 핑산 강의 침식 작용에서 영감을 얻은 건물은 리본처럼 굴곡진 형태를 띠며, 10만 제곱미터 규모의 전시 공간과 방문객이 자유롭게 거닐 수 있는 공공 옥상 공원을 결합했다.",
+  "lens": "건축을 고정된 구조물이 아닌, 지질학적 힘에 의해 깎이고 형성된 하나의 풍경으로 치환하여 도시와 자연의 관계를 물리적으로 잇는다.",
+  "why_now": "기술 중심 도시로 성장한 선전이 문화와 생태적 가치로 도시 정체성을 확장하는 흐름을 상징한다.",
+  "mechanism": "파라메트릭 디자인과 현장 지형 스캔 데이터를 결합해 비정형 곡면을 구현하고, 화강암과 층상 구조의 외장재를 사용해 절벽이 물 위로 솟아오르는 듯한 시각적 효과를 만든다.",
+  "sensory": "옥상 공원을 따라 식재된 열대 식물과 습지 환경이 계절에 따라 변화하며, 거친 화강암 질감의 외피가 빛의 각도에 따라 입체적인 그림자를 드리운다.",
+  "transfer": "비정형 건축물을 영상으로 담을 때, 건물 전체를 조망하는 롱 샷 대신 굴곡진 외벽을 따라 이동하는 트래킹 샷을 사용하여 곡면의 연속성과 지형적 흐름을 강조하라.",
+  "context": "덴마크 스튜디오 3XN은 코펜하겐을 거점으로 활동하며 인간 중심의 유연한 공간 설계를 지속해왔다. 이번 프로젝트는 생태적 맥락을 도시 건축에 통합하려는 이들의 설계 철학을 대규모 공공 시설로 확장한 사례다.",
+  "findings": [
+   {
+    "text": "3XN은 코펜하겐에 본사를 둔 덴마크 건축 사무소로 스톡홀름, 런던, 뉴욕, 시드니에 지사를 두고 있다.",
+    "s": 1,
+    "quote": "3XN is a Danish architectural practice headquartered in Copenhagen and with offices in Stockholm, London, New York and Sydney."
+   }
+  ],
+  "keywords": [
+   "선전자연사박물관",
+   "3XN",
+   "파라메트릭디자인",
+   "지형건축",
+   "생태건축"
+  ],
+  "evidence": "Nothing in nature is square. Nature is amorphous, dynamic, and always in formation.",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "건축적 설계 의도와 기술적 구현 방식이 명확히 기술되어 있고, 도시 생태계와의 맥락적 연결이 구체적이다.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/architecture/shenzhen-natural-history-museum-3xn-china",
+  "original_title": "The Shenzhen Natural History Museum is a journey across the region's fascinating biodiversity",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 4735,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-09 12:17",
+  "research": {
+   "entities": [
+    "Shenzhen Natural History Museum",
+    "3XN",
+    "B+H Architects",
+    "Zhubo Design",
+    "Kim Herforth Nielsen"
+   ],
+   "questions": [
+    "선전 자연사박물관의 건축 디자인은 주변 자연환경과 어떻게 조화를 이루도록 설계되었나요?",
+    "3XN과 B+H 건축사사무소 컨소시엄은 선전의 생태적 특성을 건축에 반영하기 위해 어떤 친환경적 요소를 도입했나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "3XN",
+     "url": "https://en.wikipedia.org/wiki/3XN"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 126
+  },
+  "depth_raw": 4,
+  "depth_v": 2
  }
 }
