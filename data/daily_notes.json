@@ -1843,5 +1843,44 @@
   "v": 3,
   "model": "gemini-3.1-flash-lite-preview",
   "written_at": "2026-10-09 04:11"
+ },
+ "2026-10-10": {
+  "date": "2026-10-10",
+  "headline": "안데스의 매듭과 금박 입힌 트럼프의 조각",
+  "editorial": "세실리아 비쿠냐는 안데스 전통의 키푸 매듭을 통해 식민적 회화 전통을 해체하고 그 속에 묻힌 토착적 생태성을 길어 올린다. 옌스 갈쉬오트는 금박 입힌 트럼프 조각을 유럽 의회에 세워 기후 위기의 무게를 신체적 고통으로 치환했다. 두 작가는 권력과 관습이 점유한 자리에 대안적 형상을 배치하여 잊힌 존재들을 다시 화면과 광장 위로 불러낸다. 이는 고착된 미학적 질서를 흔들고 그 사이로 새로운 목소리를 투과하는 작업이다.",
+  "threads": [
+   {
+    "name": "권력의 형상을 뒤트는 방법",
+    "note": "지배적인 정치적 상징이나 전통을 다른 재료와 구조로 치환하여 본래의 의미를 전복한다.",
+    "items": [
+     {
+      "title": "세실리아 비쿠냐, 식민적 회화 전통을 전복하는 서사적 매듭",
+      "url": "https://www.anothermag.com/art-photography/17560/cecilia-vicuna-whitechapel-gallery-living-threads-interview-climate-crisis-art?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=cecilia-vicuna-on-potent-women-eco-feminism-and-re-orientating-culture"
+     },
+     {
+      "title": "유럽 의회에 등장한 23K 금박의 트럼프, 기후 위기를 짊어진 조각",
+      "url": "https://hyperallergic.com/european-parliament-installs-gilded-nude-statue-mocking-trump/"
+     }
+    ]
+   },
+   {
+    "name": "대칭과 매듭의 도상",
+    "note": "화면 혹은 구조물의 대칭과 결합을 통해 신성함이나 억눌린 생명력을 붙잡아둔다.",
+    "items": [
+     {
+      "title": "세실리아 비쿠냐, 식민적 회화 전통을 전복하는 서사적 매듭",
+      "url": "https://www.anothermag.com/art-photography/17560/cecilia-vicuna-whitechapel-gallery-living-threads-interview-climate-crisis-art?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=cecilia-vicuna-on-potent-women-eco-feminism-and-re-orientating-culture"
+     },
+     {
+      "title": "신성과 기억의 대칭, 슈링 구오의 몽환적 회화",
+      "url": "https://www.thisiscolossal.com/2026/10/shuling-guo-oil-paintings-spirituality-memory-temple/"
+     }
+    ]
+   }
+  ],
+  "based_on": 4,
+  "v": 3,
+  "model": "gemini-3.1-flash-lite",
+  "written_at": "2026-10-10 00:35"
  }
 }

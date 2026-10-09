@@ -147003,5 +147003,336 @@
   },
   "depth_raw": 3,
   "depth_v": 2
+ },
+ "hyperallergic.com/a-felix-gonzalez-torres-exhibition-forgets-what-he-was-fighting-for": {
+  "title_ko": "형식에 갇힌 정치성, 레이나 소피아 미술관의 펠릭스 곤잘레스-토레스전",
+  "summary_ko": "스페인 마드리드 레이나 소피아 미술관에서 열린 펠릭스 곤잘레스-토레스의 대규모 회고전은 작가의 유년 시절 난민 경험을 조명한다. 큐레이터 알레한드로 세사르코와 낸시 스펙터는 사바티니 빌딩의 7개 전시실에 걸쳐 50여 점의 작품을 선보인다. 하지만 정치적 색채가 짙은 작업들이 누락된 채 미니멀리즘 예술가의 형식적 측면만 강조된다는 비판이 제기된다.",
+  "lens": "사라진 정치적 투쟁의 자리에 미니멀리즘의 형식적 작동 방식만이 가득하다.",
+  "why_now": "작가의 역사적 맥락과 난민 경험을 조명하는 전시가 오히려 그의 핵심적인 정치적 메시지를 지우는 동시대 큐레토리얼의 모순을 드러낸다.",
+  "mechanism": "연대기적 구성 대신 벽면에 인쇄된 작가의 인용구와 캔디 스필, 종이 더미 같은 가변적 설치 작업의 매뉴얼을 전시장 입구에 병치한다.",
+  "sensory": "바닥에 펼쳐진 푸른색 사탕 더미와 벽을 따라 늘어선 비즈 커튼이 전시장 공간 전체에 미니멀한 시각적 균일함을 만든다.",
+  "transfer": "정치적 서사를 배제하고 오브제의 물리적 규칙과 재료의 물성 자체만으로 공간을 구성하는 연출 기법으로 활용한다.",
+  "context": "이번 전시는 레이나 소피아 미술관에서 열린 대규모 회고전이며, 뉴욕 구겐하임 미술관의 전 예술 감독 낸시 스펙터가 공동 기획했다.",
+  "findings": [
+   {
+    "text": "레이나 소피아 미술관은 스페인의 국립 20세기 미술관으로 마드리드에 위치한다.",
+    "s": 1,
+    "quote": "The Museo Nacional Centro de Arte Reina Sofía (\"Queen Sofía National Museum Art Centre\"; MNCARS) is Spain's national museum of 20th-century art."
+   },
+   {
+    "text": "낸시 스펙터는 뉴욕 솔로몬 R. 구겐하임 미술관 등에서 근무한 미국의 미술관 큐레이터이다.",
+    "s": 2,
+    "quote": "Nancy Spector is an American museum curator who has held positions at the Solomon R. Guggenheim Museum in New York City and the Brooklyn Museum."
+   }
+  ],
+  "keywords": [
+   "곤잘레스토레스",
+   "레이나소피아",
+   "미니멀리즘",
+   "큐레이팅",
+   "정치적미술"
+  ],
+  "evidence": "By centering his brief history as a refugee, the present exhibition challenges our traditional understanding of Gonzalez-Torres's trajectory.",
+  "kind": "전시",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "구체적인 전시와 큐레토리얼 쟁점을 다루나 작가의 작품 자체보다는 비평적 시각에 치중한다.",
+  "v": 2,
+  "url": "https://hyperallergic.com/a-felix-gonzalez-torres-exhibition-forgets-what-he-was-fighting-for/",
+  "original_title": "A Felix Gonzalez-Torres Exhibition Forgets What He Was Fighting For",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 3459,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-10 00:32",
+  "research": {
+   "entities": [
+    "Felix Gonzalez-Torres",
+    "Museo Nacional Centro de Arte Reina Sofía",
+    "Alejandro Cesarco",
+    "Nancy Spector",
+    "Centro Galego de Arte Contemporánea"
+   ],
+   "questions": [
+    "펠릭스 곤잘레스-토레스의 작품에서 정치적 메시지가 거세되고 미학적 형식만 강조될 때 어떤 비판적 쟁점이 발생하는가?",
+    "이번 전시의 큐레이팅 방식이 작가의 초기 의도나 사회적 투쟁의 맥락을 어떻게 재해석하거나 혹은 왜곡하고 있는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Museo Nacional Centro de Arte Reina Sofía",
+     "url": "https://en.wikipedia.org/wiki/Museo%20Nacional%20Centro%20de%20Arte%20Reina%20Sof%C3%ADa"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Nancy Spector",
+     "url": "https://en.wikipedia.org/wiki/Nancy%20Spector"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 1420
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "thisiscolossal.com/2026/10/shuling-guo-oil-paintings-spirituality-memory-temple": {
+  "title_ko": "신성과 기억의 대칭, 슈링 구오의 몽환적 회화",
+  "summary_ko": "미국 뉴욕의 홀리스 태거트에서 슈링 구오의 개인전 'Temple II'가 열린다. 작가는 중국 광둥성 차오산 지역의 도교와 불교, 민속 신앙에서 얻은 기억을 바탕으로 대칭적이고 몽환적인 회화 작품을 선보인다. 이번 전시에서는 유성 페인트와 색연필을 결합해 인간의 신체와 자연의 덧없음을 탐구하는 신작들을 공개한다.",
+  "lens": "유화와 색연필의 결합으로 아치형 화면 속에 피어나는 생명의 덧없음을 대칭적 구조로 붙잡는다.",
+  "why_now": "출산과 할머니의 죽음이라는 사적 경험이 종교적 의식과 결합해 생명의 취약성을 시각화하는 동시대적 통로를 연다.",
+  "mechanism": "아치 형태의 구도 안에 꽃과 불꽃, 넝쿨을 대칭적으로 배치해 초기 르네상스 종교화의 엄숙함과 확산하는 형태를 만든다.",
+  "sensory": "유성 페인트의 무게감과 색연필의 건조한 선이 겹쳐지며 안개처럼 번지는 오묘한 질감이 시각적 몰입을 이끈다.",
+  "transfer": "공간을 연출할 때 대칭적인 아치 프레임과 은은한 측면 조명을 활용해 명상적이고 신성한 분위기의 미장센을 구성한다.",
+  "context": "중국 광둥성 차오산 지역의 마을 사원에서 접한 목공예와 벽화의 기억이 초기 르네상스 종교화의 구성 방식과 결합해 독자적인 도상을 형성한다.",
+  "findings": [],
+  "keywords": [
+   "슈링 구오",
+   "홀리스 태거트",
+   "대칭 회화",
+   "신성한 도상",
+   "차오산"
+  ],
+  "evidence": "Drawing on sacred symbolism and nature, Guo delves into her memories of growing up in Chaoshan, Guangdong Province, China, and the area’s unique mixture of spiritual and folk traditions.",
+  "kind": "전시",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "구체적인 작가의 전시와 기법을 다루나 선례가 뚜렷해 평범한 소개 수준에 머무른다.",
+  "v": 2,
+  "url": "https://www.thisiscolossal.com/2026/10/shuling-guo-oil-paintings-spirituality-memory-temple/",
+  "original_title": "Symmetry Meets the Sacred in Shuling Guo’s Dreamy, Diffused Paintings",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 2558,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-10 00:32",
+  "research": {
+   "entities": [
+    "Shuling Guo",
+    "Hollis Taggart",
+    "Agnes Pelton",
+    "Georgia O’Keeffe"
+   ],
+   "questions": [
+    "슈링 구오의 작품에 나타나는 차오산 지역의 도교 및 불교적 전통은 구체적으로 어떤 시각적 요소로 표현되는가?",
+    "초기 르네상스 종교화의 구성 방식이 슈링 구오의 현대적 회화 기법과 어떻게 결합되어 숭고함을 자아내는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Hollis Taggart",
+     "url": "https://www.hollistaggart.com/"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Agnes Lawrence Pelton",
+     "url": "https://en.wikipedia.org/wiki/Agnes%20Lawrence%20Pelton"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Georgia O'Keeffe",
+     "url": "https://en.wikipedia.org/wiki/Georgia%20O%27Keeffe"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "자연을 넘어선 기하학, 조지아 오키프의 건축 풍경을 조명하다",
+     "url": "https://www.wallpaper.com/art/exhibitions-shows/georgia-okeeffe-architecture-detroit-institute-of-arts"
+    }
+   ],
+   "used": [],
+   "chars": 4660
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "anothermag.com/art-photography/17560/cecilia-vicuna-whitechapel-gallery-living-threads-interview-climate-crisis-art": {
+  "title_ko": "세실리아 비쿠냐, 식민적 회화 전통을 전복하는 서사적 매듭",
+  "summary_ko": "칠레 예술가 세실리아 비쿠냐가 런던 화이트채플 갤러리에서 60년간의 예술과 저항을 집대성한 전시 '살아있는 실(Living Threads)'을 선보인다. 그는 안데스 전통의 비문자적 통신 체계인 키푸에서 착안한 염색 양모 조각과 식민적 회화 기법을 전복하는 회화 작업을 통해 가부장적 시스템과 기후 위기를 비판한다.",
+  "lens": "식민지적 회화 전통을 '나쁜 회화'라는 전략으로 역이용해, 서구 중심적 미학이 지워버린 토착적 신체성과 생태적 감각을 복원한다.",
+  "why_now": "기후 위기와 파괴적 자본주의에 맞서, 파편화된 예술 형식을 공동체적 돌봄의 서사로 재구성하는 에코 페미니즘의 실천이 절실한 시점이다.",
+  "mechanism": "기름 물감이라는 식민적 재료를 사용하되, 이를 토착적 신화와 결합해 변주함으로써 서구적 회화 규범을 의도적으로 일탈시킨다.",
+  "sensory": "천장에 매달린 거대한 양모 뭉치가 뿜어내는 붉은 혈색의 질감과, 인간과 동물의 형상이 뒤섞인 원색적이고 거친 붓질이 공간을 채운다.",
+  "transfer": "영상 연출 시, 정제된 미장센 대신 인위적인 파사드 뒤에 숨겨진 거친 질감과 불균형한 구도를 삽입하여 현실의 모순을 시각화한다.",
+  "context": "1970년대 슬레이드 미술대학 시절 서구 중심적 미술 교육에 저항하며 시작된 그의 작업은, 2019년 벨라스케스 조형예술상을 수상하며 그 가치를 인정받았다. 이번 전시는 런던 슬레이드 미술대학의 학풍과 비쿠냐의 초기 저항적 회화가 맺는 긴장 관계를 조명한다.",
+  "findings": [
+   {
+    "text": "세실리아 비쿠냐는 2019년 스페인 문화부가 수여하는 가장 권위 있는 미술상인 벨라스케스 조형예술상을 수상했다.",
+    "s": 1,
+    "quote": "Cecilia Vicuña was distinguished with Premio Velázquez de Artes Plásticas 2019, Spain's most prominent art award and given out by the Spanish Ministry of Culture"
+   },
+   {
+    "text": "화이트채플 갤러리는 1901년 런던에서 공공 기금으로 설립된 최초의 전시 공간 중 하나로, 영국 모던 스타일을 대표한다.",
+    "s": 2,
+    "quote": "The original building, designed by Charles Harrison Townsend, opened in 1901 as one of the first publicly funded galleries for temporary exhibitions in London."
+   }
+  ],
+  "keywords": [
+   "세실리아비쿠냐",
+   "키푸",
+   "에코페미니즘",
+   "나쁜회화",
+   "안데스문화"
+  ],
+  "evidence": "I decided I will work with this imposed colonial material [oil paint], but I will subvert it",
+  "kind": "전시",
+  "depth": 5,
+  "grounding": "full",
+  "depth_reason": "예술적 실천의 역사적 맥락과 구체적인 전복 전략을 작가의 육성과 작품 사례로 명확히 분석했다.",
+  "v": 2,
+  "url": "https://www.anothermag.com/art-photography/17560/cecilia-vicuna-whitechapel-gallery-living-threads-interview-climate-crisis-art?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=cecilia-vicuna-on-potent-women-eco-feminism-and-re-orientating-culture",
+  "original_title": "Cecilia Vicuña on Potent Women, Eco-Feminism and Re-orientating Culture",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 6688,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-10 00:33",
+  "research": {
+   "entities": [
+    "Cecilia Vicuña",
+    "Whitechapel Gallery",
+    "Slade School of Fine Art",
+    "Augusto Pinochet",
+    "MoMA"
+   ],
+   "questions": [
+    "세실리아 비쿠냐의 예술 세계에서 '키푸(Quipu)'가 가지는 상징적 의미와 그것이 안데스 문화와 어떻게 연결되는지 궁금합니다.",
+    "비쿠냐가 서구 중심적인 회화 전통을 전복하기 위해 시도한 '나쁜 회화(bad painting)' 전략은 구체적으로 어떤 미학적 특징을 갖나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Cecilia Vicuña",
+     "url": "https://en.wikipedia.org/wiki/Cecilia%20Vicu%C3%B1a"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Whitechapel Gallery",
+     "url": "https://en.wikipedia.org/wiki/Whitechapel%20Gallery"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "기억의 층위를 쌓는 화가, 락샤 바르가바의 회화적 기록",
+     "url": "https://www.creativeboom.com/work/lakshya-bhargava-on-finding-home-memory-and-meaning-in-the-act-of-painting/"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3
+   ],
+   "chars": 2144
+  },
+  "depth_raw": 5,
+  "depth_v": 2
+ },
+ "hyperallergic.com/european-parliament-installs-gilded-nude-statue-mocking-trump": {
+  "title_ko": "유럽 의회에 등장한 23K 금박의 트럼프, 기후 위기를 짊어진 조각",
+  "summary_ko": "덴마크 조각가 옌스 갈쉬오트(Jens Galschiøt)가 제작한 동상 '오렌지 역병(The Orange Plague)'이 유럽 의회에 설치되었다. 구리 위에 23K 금박을 입힌 이 작품은 마른 남자의 어깨 위에 올라탄 나체의 트럼프가 저울과 골프채를 든 모습을 묘사하며 기후 정책을 풍자한다.",
+  "lens": "금박이라는 물성으로 트럼프의 자기 과시적 성향을 역설하고, 조각의 무게감을 통해 기후 위기라는 무거운 주제를 신체적 고통으로 치환한다.",
+  "why_now": "정치적 상징물이 공간의 권위를 대변하는 방식이 변화하고 있다. 예술가는 권력자가 선호하는 금빛을 차용해 역으로 그를 풍자의 대상으로 박제한다.",
+  "mechanism": "23K 금박으로 마감된 트럼프의 비대하고 늘어진 신체가 그를 떠받치는 마른 남자의 머리를 압박하는 구조를 취한다. 골프공을 지구로 형상화하여 권력의 지구적 영향력과 환경 파괴를 연결했다.",
+  "sensory": "구리 위에 얹힌 23K 금박의 화려한 반사광과, 그 아래 짓눌린 인물의 긴장된 근육이 대비를 이룬다. 손에 든 골프채와 저울이라는 이질적인 오브제의 질감이 권력의 무게를 시각적으로 극대화한다.",
+  "transfer": "특정 인물의 상징적 오브제(골프채, 금색)를 활용해 인물의 성격을 비트는 연출이 가능하다. 조명은 금박의 반사율을 높여 인물의 비대함을 강조하고, 하단 인물에게는 그림자를 집중시켜 압박감을 시각화한다.",
+  "context": "옌스 갈쉬오트는 1985년부터 오덴세에서 활동하며 사회적 불의를 고발하는 '사회적 조각'을 지속해왔다. 그는 1997년부터 홍콩, 멕시코, 브라질 등에 '수치심의 기둥(Pillar of Shame)'을 설치하며 예술을 통한 공적 담론을 형성해 왔다.",
+  "findings": [
+   {
+    "text": "옌스 갈쉬오트는 1985년 오덴세에 2,000제곱미터 규모의 주조소, 스튜디오, 갤러리 및 조각 공원을 열었다.",
+    "s": 1,
+    "quote": "In 1985 he opened a 2,000-square-metre (22,000 sq ft) combined foundry, studio, Gallery Galschiøt and sculpture park."
+   },
+   {
+    "text": "그는 사회적 불의와 싸우기 위해 주로 청동 조각을 제작하며 이를 전 세계 대도시 광장에 설치해왔다.",
+    "s": 1,
+    "quote": "Jens Galschiot mainly works with sculptures to fight the injustice in the world, and puts them up in big squares and cities all around the world."
+   },
+   {
+    "text": "유럽 의회는 2024년 6월 선거 이후 720명의 의원으로 구성되었으며, 약 3억 7,500만 명의 유권자를 대표한다.",
+    "s": 2,
+    "quote": "The Parliament is composed of 720 members (MEPs), after the June 2024 European elections... with an electorate of around 375 million eligible voters in 2024."
+   }
+  ],
+  "keywords": [
+   "옌스갈쉬오트",
+   "사회적조각",
+   "정치풍자",
+   "금박",
+   "기후위기"
+  ],
+  "evidence": "The sculpture references Hans Christian Andersen's The Emperor's New Clothes (1837), adding that Trump “believes the gold makes him great.”",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "작가의 기존 작업 맥락과 조각의 물리적 장치가 기후 담론과 어떻게 결합하는지 명확히 드러난다.",
+  "v": 2,
+  "url": "https://hyperallergic.com/european-parliament-installs-gilded-nude-statue-mocking-trump/",
+  "original_title": "European Parliament Installs Gilded Nude Statue Mocking Trump",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 2195,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-10 00:33",
+  "research": {
+   "entities": [
+    "Jens Galschiøt",
+    "The Orange Plague",
+    "European Parliament",
+    "Donald Trump",
+    "The Emperor's New Clothes"
+   ],
+   "questions": [
+    "옌스 갈쉬오트가 'The Orange Plague'를 통해 도널드 트럼프의 기후 정책을 어떻게 시각적으로 비판하고 있는가?",
+    "유럽 의회가 이 조각상을 전시함으로써 전달하고자 하는 정치적 메시지와 그 배경은 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Jens Galschiøt",
+     "url": "https://en.wikipedia.org/wiki/Jens%20Galschi%C3%B8t"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "European Parliament",
+     "url": "https://en.wikipedia.org/wiki/European%20Parliament"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "워싱턴 DC 케네디 센터 철거 위기와 모더니즘 건축 보존 갈등",
+     "url": "https://www.dezeen.com/2026/08/27/demolish-kennedy-center-financial-structural-death-spiral/"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "돌리 파튼: 인위적인 외형으로 증명한 가장 진실한 태도",
+     "url": "https://www.dazeddigital.com/music/article/70864/1/5-iconic-dolly-parton-life-lessons-best-quotes?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=5-iconic-life-lessons-from-dolly-parton"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "케힌데 와일리, 도미니카공화국 대사관서 철거된 자신의 회화 환수 요청",
+     "url": "https://hyperallergic.com/kehinde-wiley-requests-to-buy-back-painting-removed-by-state-department/"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 3517
+  },
+  "depth_raw": 4,
+  "depth_v": 2
  }
 }
