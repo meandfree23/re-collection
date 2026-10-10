@@ -1,32 +1,44 @@
 {
-  "generated_at": "2026-10-10 18:00 KST",
+  "generated_at": "2026-10-10 22:50 KST",
   "period": "2026.10.03 - 2026.10.10",
-  "total_articles": 437,
+  "total_articles": 447,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 200
+      "count": 205
     },
     {
       "genre": "동시대 미술",
-      "count": 160
+      "count": 162
     },
     {
       "genre": "아방가르드 패션",
-      "count": 59
+      "count": 60
     },
     {
       "genre": "미디어 파사드·3D",
-      "count": 18
+      "count": 20
     }
   ],
   "themes": [
     {
       "keyword": "콘크리트 물성",
-      "count": 11,
+      "count": 13,
       "previous_count": 5,
       "trend": "rising",
       "items": [
+        {
+          "title": "크림 & 콩",
+          "url": "https://leibal.com/interiors/cream-bean/",
+          "image_url": "https://leibal.com/wp-content/uploads/2026/10/leibal-cream-bean-forspace-studio-4.jpg",
+          "source_name": "Leibal"
+        },
+        {
+          "title": "인테리어와 풍경/EX 사이의 문턱으로 완성되지 않은 국내 장치.",
+          "url": "https://www.archdaily.com/1186084/an-unfinished-domestic-device-as-a-threshold-between-interior-and-landscape-studio-ex",
+          "image_url": "https://images.adsttc.com/media/images/6abd/2122/c30d/0000/01d4/8f3f/large_jpg/B9989670__Tomaso_Clavarino.jpg?1790779779",
+          "source_name": "ArchDaily"
+        },
         {
           "title": "G – 5채/요약",
           "url": "https://www.archdaily.com/1034091/g-5-houses-summary",
@@ -38,18 +50,6 @@
           "url": "https://www.archdaily.com/1186297/house-q-hgaa",
           "image_url": "https://images.adsttc.com/media/images/6ac3/a7a7/27ac/8d01/89cb/b747/large_jpg/house-q-hgaa_19.jpg?1791207363",
           "source_name": "ArchDaily"
-        },
-        {
-          "title": "웨스트 밴쿠버의 한 주택이 나무 사이에 떠 있는 것처럼 보입니다.",
-          "url": "https://design-milk.com/west-vancouver-home-openspace-architecture/",
-          "image_url": "https://design-milk.com/images/2026/10/Final-18-1500x1000.jpg",
-          "source_name": "Design Milk"
-        },
-        {
-          "title": "불가리아의 XPOME에서 콘크리트 문자가 조각 스케이트장이 되다",
-          "url": "https://www.designboom.com/art/concrete-letterforms-sculptural-skatepark-xpome-bulgaria-skateable/",
-          "image_url": "https://www.designboom.com/wp-content/dbsub/468363/2026-10-01/xpome-skatepark-in-gabrovo-bulgaria-1-6abe6e9462414.JPG",
-          "source_name": "Designboom Art"
         }
       ]
     },
