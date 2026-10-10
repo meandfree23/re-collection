@@ -1846,41 +1846,49 @@
  },
  "2026-10-10": {
   "date": "2026-10-10",
-  "headline": "금박의 트럼프와 장노출로 멈춘 풍경",
-  "editorial": "에드워드 시대의 잔해를 걷어낸 마티외 블라지의 샤넬은 전통적 복식을 현대의 유연한 신체 위로 재배치한다. 세실리아 비쿠냐는 나쁜 회화 전략을 통해 식민적 회화 전통을 전복하며 토착적 신체성을 복원한다. 옌스 갈쉬오트의 23K 금박 트럼프 조각은 금박이라는 물성으로 정치적 과시를 역설하며 기후 위기의 무게감을 신체적 고통으로 치환한다.",
+  "headline": "디지털 서버의 진동과 마모된 타포린의 결",
+  "editorial": "레이븐 차콘은 도시의 소음을 퍼포먼스의 일부로 끌어들여 대지의 기억과 충돌시킨다. 브이앤에이의 서버 설치작업은 디지털 먼지를 털어내는 행위로 보이지 않는 인프라의 육체노동을 드러낸다. 프라이탁의 레퍼런스 컬렉션은 트럭 방수포의 마모를 시간의 흔적으로 읽어내며 럭셔리의 새로운 정의를 제시한다. 이들은 모두 기술과 산업의 파편을 수집하고, 그 속에 깃든 물리적 움직임을 포착하여 가려졌던 실체를 응시한다.",
   "threads": [
    {
-    "name": "전통과 권위의 전복",
-    "note": "고전적 복식의 잔해와 식민적 회화 전통을 새로운 시각으로 뒤집는다.",
+    "name": "기술 이면의 육체적 흔적",
+    "note": "디지털 인프라와 산업 폐기물을 신체적 노동과 시간의 마찰로 재해석한다.",
     "items": [
      {
-      "title": "마티외 블라지의 샤넬, 에드워드 시대의 잔해를 걷어내고 자유를 입히다",
-      "url": "https://www.anothermag.com/fashion-beauty/17557/chanel?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=at-chanel-matthieu-blazy-has-the-freedom-to-imagine"
+      "title": "데이터 센터 청소가 게임이 된다, 브이앤에이(V&A)의 서버 설치작업",
+      "url": "https://www.designboom.com/art/playfool-game-installation-va-museum-data-center-cleaner-server/"
+     },
+     {
+      "title": "기술이 구축한 세계의 이면, 스펜서 로웰의 사진집 ‘Futures Past’",
+      "url": "https://www.wallpaper.com/art/photography/spencer-lowell-futures-past-book-review"
+     },
+     {
+      "title": "트럭 방수포의 거친 흔적을 정제하다, 프라이탁의 새로운 레퍼런스 컬렉션",
+      "url": "https://design-milk.com/freitag-reference-collection/"
+     }
+    ]
+   },
+   {
+    "name": "박제된 역사를 깨우는 조형",
+    "note": "식민주의와 고전적 서사가 남긴 파편을 현대의 조형 언어로 전복한다.",
+    "items": [
+     {
+      "title": "레이븐 차콘, 맨해튼의 소음과 대지의 바람을 잇는 즉흥 사운드",
+      "url": "https://hyperallergic.com/raven-chacon-sounds-the-history-of-the-land/"
+     },
+     {
+      "title": "식민의 역사를 벼리는 방식: 카누파 한스카 루거와 셸리 니로의 조형 언어",
+      "url": "https://hyperallergic.com/7-new-york-exhibitions-that-embody-indigenous-survivance/"
      },
      {
       "title": "세실리아 비쿠냐, 식민적 회화 전통을 전복하는 서사적 매듭",
       "url": "https://www.anothermag.com/art-photography/17560/cecilia-vicuna-whitechapel-gallery-living-threads-interview-climate-crisis-art?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=cecilia-vicuna-on-potent-women-eco-feminism-and-re-orientating-culture"
      }
     ]
-   },
-   {
-    "name": "기계적 풍경과 물성",
-    "note": "장노출을 통한 풍경의 정적과 금박 조각의 무게감으로 기후와 기술의 이면을 응시한다.",
-    "items": [
-     {
-      "title": "조나단 나이트의 '내쉬기(Exhale)': 장노출로 포착한 풍경의 정적",
-      "url": "https://www.thisiscolossal.com/2026/10/jonathan-knight-exhale-seascape-photographs/"
-     },
-     {
-      "title": "유럽 의회에 등장한 23K 금박의 트럼프, 기후 위기를 짊어진 조각",
-      "url": "https://hyperallergic.com/european-parliament-installs-gilded-nude-statue-mocking-trump/"
-     }
-    ]
    }
   ],
-  "based_on": 14,
+  "based_on": 24,
   "v": 3,
-  "model": "gemini-3.5-flash-lite",
-  "written_at": "2026-10-10 03:46"
+  "model": "gemini-3.1-flash-lite-preview",
+  "written_at": "2026-10-10 10:11"
  }
 }
