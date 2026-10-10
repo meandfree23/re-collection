@@ -149203,5 +149203,278 @@
   },
   "depth_raw": 3,
   "depth_v": 2
+ },
+ "wallpaper.com/architecture/architecture-tour-of-ghent-belgium": {
+  "title_ko": "겐트의 디자인 풍경: 1980년대 실험부터 현대적 순환 건축까지",
+  "summary_ko": "벨기에 겐트는 중세 유산과 현대 건축이 공존하는 도시로, 최근 디자인 박물관 재개장과 함께 새로운 문화적 실험이 이어지고 있다. 1986년 거주 공간을 전시장으로 활용한 'Chambres d’Amis'부터 옛 슈퍼마켓을 갤러리로 바꾼 'THE GET'까지, 도시 곳곳에서 공간의 기능을 재해석하는 시도가 활발하다.",
+  "lens": "도시를 거대한 전시장으로 활용하는 겐트의 방식은 고정된 박물관의 벽을 허물고 일상 공간에 예술적 긴장감을 불어넣는다.",
+  "why_now": "과거의 산업 유산을 폐기하지 않고 기술 허브나 갤러리로 전환하는 순환적 건축 방식이 도시 재생의 핵심 모델로 작동하고 있다.",
+  "mechanism": "기존 건축물의 층위와 재료를 보존하면서도 새로운 동선을 삽입하거나, 거주 공간의 구조를 반전시켜 공적 영역과 사적 영역의 경계를 모호하게 만드는 연출 기법을 사용한다.",
+  "sensory": "브루탈리즘 건축 특유의 거친 콘크리트 질감과 대비되는 빛의 유입, 그리고 철골 구조물과 붉은 콘크리트 바닥이 만드는 산업적 스케일이 공간을 압도한다.",
+  "transfer": "공간 연출 시 장소의 원래 용도(차고, 공장, 슈퍼마켓)를 드러내는 재료를 그대로 노출하고, 그 위에 현대적인 조명이나 가구를 배치해 시간의 층위를 시각화하는 방식을 적용한다.",
+  "context": "1986년 얀 후트가 기획한 'Chambres d’Amis'는 미술관 내부의 전시를 사적인 주거지로 확장하며 전시의 관습을 뒤흔들었다. 이후 겐트는 헤르베르트 재단과 같은 수집가들의 공간을 공공에 개방하며 도시 전체를 예술적 맥락으로 엮어왔다.",
+  "findings": [],
+  "keywords": [
+   "겐트",
+   "브루탈리즘",
+   "공간재생",
+   "순환건축",
+   "전시디자인"
+  ],
+  "evidence": "Ghent’s Design Museum reopens this month, discover these design-led highlights from the city for your autumn weekend break itinerary.",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "겐트의 역사적 공간들이 현대적 예술과 결합하는 구체적인 사례와 전시 기법을 다각도로 분석했기 때문이다.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/architecture/architecture-tour-of-ghent-belgium",
+  "original_title": "An architecture tour of Ghent, Belgium's unexpected cultural gem",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 8046,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-10 15:26",
+  "research": {
+   "entities": [
+    "Herbert Foundation",
+    "S.M.A.K.",
+    "Juliaan Lampens",
+    "Wintercircus",
+    "Glenn Sestig"
+   ],
+   "questions": [
+    "1986년 겐트에서 열린 'Chambres d’Amis' 전시가 현대 미술의 전시 방식에 어떤 영향을 미쳤는가?",
+    "줄리안 람펜스(Juliaan Lampens)의 브루탈리즘 건축이 겐트의 도시 경관과 주거 문화에 어떤 특징을 부여하는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "S.M.A.K., the Municipal Museum of Contemporary Art Ghent - S.M.A.K.",
+     "url": "https://smak.be/en"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Herbert Foundation",
+     "url": "https://www.herbertfoundation.org/en"
+    },
+    {
+     "n": 3,
+     "type": "공식·1차",
+     "title": "Homepage | Wintercircus Ghent",
+     "url": "https://www.wintercircus.be/en/homepage"
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "Zbigniew Herbert International Literary Award",
+     "url": "https://en.wikipedia.org/wiki/Zbigniew%20Herbert%20International%20Literary%20Award"
+    },
+    {
+     "n": 5,
+     "type": "위키백과",
+     "title": "Smak",
+     "url": "https://en.wikipedia.org/wiki/Smak"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3
+   ],
+   "chars": 5982
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "wallpaper.com/art/exhibitions-shows/adam-pendleton-interview-stedelijk-museum-amsterdam": {
+  "title_ko": "화이트큐브를 검게 칠하고 규칙을 해체하는 애덤 펜들턴의 대형 개인전",
+  "summary_ko": "미국 개념미술가 애덤 펜들턴이 네덜란드 암스테르담의 스테델릭 박물관에서 대규모 개인전 'Some Wild Kind of Language'를 개최한다. 이번 전시에서 그는 역사적인 백색 전시실의 중앙 계단을 검은색으로 칠하고, 회화와 대형 드로잉을 결합한 신작들을 선보인다. 그는 언어와 기하학적 파편을 물감과 실크스크린으로 겹겹이 쌓아 올리며 고정된 정의에 저항한다.",
+  "lens": "역사적인 백색 공간의 바닥과 계단을 온통 검게 칠해, 고정된 미술관의 문법을 물리적으로 전복한다.",
+  "why_now": "미술관의 건축적 권위와 순백의 전시 공간을 작가의 신체적·개념적 개입으로 완전히 탈바꿈시키는 공간 연출 방식이 동시대 미술계에서 강한 긴장감을 만든다.",
+  "mechanism": "스프레이 페인트를 종이에 먼저 뿌린 뒤 찍어내는 모노프린팅 기법으로 물성의 결을 만들고, 이를 캔버스와 대형 드로잉 위에 스크린프린팅으로 겹겹이 중첩한다.",
+  "sensory": "전시장 중앙의 거대한 검은 계단 위로 굵은 낙서와 판화 자국이 엉긴 거대한 드로잉들이 물리적 무게감을 내뿜으며 시각적 압박감을 준다.",
+  "transfer": "공간이나 세트 연출 시 기존의 미니멀한 화이트톤 배경을 과감히 암색으로 뒤엎어, 인물이나 오브제에 가해지는 시선의 집중도를 극대화하는 샷 구성에 활용한다.",
+  "context": "미국 버지니아주 리치먼드 출신인 아담 펜들턴은 2008년부터 전위 예술과 추상, 흑인성을 교차시키는 개념적 틀인 '블랙 다다(Black Dada)'를 구축해왔으며, 뉴욕 현대미술관과 몬트리올 미술관 등에서 개인전을 열었다.",
+  "findings": [
+   {
+    "text": "Adam Pendleton began to shape a new way of working in 2008, creating a framework, Black Dada, which sits at the intersection of the avant-garde, abstraction and Blackness.",
+    "s": 1,
+    "quote": "In 2008, he began to define the working method for which he is now widely recognized as Black Dada—a critical framework that explores the relationship between Blackness, abstraction, and avant-garde movements."
+   },
+   {
+    "text": "The 19th-century building of Stedelijk Museum Amsterdam was designed by Adriaan Willem Weissman, and the connecting 21st-century wing was designed by Benthem Crouwel Architects.",
+    "s": 3,
+    "quote": "The 19th-century building was designed by Adriaan Willem Weissman. The connecting 21st-century wing, which houses the current entrance, was designed by Benthem Crouwel Architects."
+   },
+   {
+    "text": "Adam Pendleton was honored with the Rosenthal Family Foundation Award for Painting from the American Academy of Arts and Letters in 2024.",
+    "s": 1,
+    "quote": "In 2024, he was honored with the Rosenthal Family Foundation Award for Painting from the American Academy of Arts and Letters."
+   }
+  ],
+  "keywords": [
+   "애덤펜들턴",
+   "스테델릭박물관",
+   "블랙다다",
+   "개념미술",
+   "공간설치"
+  ],
+  "evidence": "In Pendleton's takeover, the staircase becomes black. ‘I think my desire to break the rules is on full display here,’ he says.",
+  "kind": "전시",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "역사적 미술관 공간을 검은색으로 전복하는 구체적 연출과 작가의 방법론이 뚜렷하다.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/art/exhibitions-shows/adam-pendleton-interview-stedelijk-museum-amsterdam",
+  "original_title": "Adam Pendleton on Black Dada and ‘breaking the rules’ as his new show opens at Amsterdam’s Stedelijk Museum",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 6741,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-10 15:27",
+  "research": {
+   "entities": [
+    "Adam Pendleton",
+    "Black Dada",
+    "Stedelijk Museum Amsterdam",
+    "Museum of Modern Art",
+    "Montreal Museum of Fine Arts"
+   ],
+   "questions": [
+    "아담 펜들턴이 정의하는 'Black Dada'의 예술적 철학과 그가 추구하는 추상화의 의미는 무엇인가?",
+    "아담 펜들턴은 다양한 매체를 결합하는 과정에서 어떻게 아이디어를 시각적 형태로 구체화하며, 그 과정에서 '규칙을 깨는 것'은 어떤 역할을 하는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "adampendleton.net",
+     "url": "https://adampendleton.net/"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Adam Pendleton",
+     "url": "https://en.wikipedia.org/wiki/Adam%20Pendleton"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Stedelijk Museum Amsterdam",
+     "url": "https://en.wikipedia.org/wiki/Stedelijk%20Museum%20Amsterdam"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "맨해튼 크라운 빌딩의 재탄생, 아만 뉴욕이 선보이는 7개의 프라이빗 홈",
+     "url": "https://www.wallpaper.com/travel/hotels/aman-new-york-homes"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "역사의 권력 구조를 비추는 거울, 모건 라이브러리의 타로 전시",
+     "url": "https://hyperallergic.com/how-tarot-survived-for-500-years/"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "사라 미켈슨의 무용 연대기, 미술관을 점유하는 자기 참조적 궤적",
+     "url": "https://hyperallergic.com/sarah-michelsons-delicate-fetish-play/"
+    }
+   ],
+   "used": [
+    1,
+    3
+   ],
+   "chars": 4120
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "wallpaper.com/design-interiors/seungjin-yang-profile": {
+  "title_ko": "양승진의 블로잉 시리즈: 풍선의 덧없는 형태를 에폭시로 고정하다",
+  "summary_ko": "양승진 작가는 풍선에 에폭시 수지를 여러 겹 코팅하여 일시적인 형태를 견고한 가구로 변모시킨다. 홍익대학교에서 금속 공예를 전공한 작가는 재료의 물성을 탐구하며 풍선의 유연함과 수지의 단단함을 결합했다. 이 작업은 2013년 서울디자인페스티벌을 시작으로 현재까지 의자, 벤치, 조명 등 다양한 형태로 확장되고 있다.",
+  "lens": "풍선의 팽팽한 곡면을 에폭시 층으로 굳혀 시각적 위태로움과 물리적 견고함 사이의 긴장감을 조형적으로 증명한다.",
+  "why_now": "디지털 공정의 정교함이 지배하는 가구 디자인 영역에서, 수작업의 시간성과 유년의 기억을 재료의 물성으로 치환하는 방식이 갖는 유효성을 보여준다.",
+  "mechanism": "풍선을 부풀린 뒤 에폭시 수지를 겹겹이 쌓아 쉘(shell)을 형성하며, 층을 거듭할수록 구조적 강도와 표면의 광택, 색채의 깊이를 동시에 확보한다.",
+  "sensory": "시각적으로는 유리처럼 매끄러운 광택과 생생한 색감이 돋보이며, 앉았을 때 느껴지는 단단한 질감이 풍선의 시각적 가벼움과 대비를 이룬다.",
+  "transfer": "공간 연출 시, 가벼운 오브제를 강성 재료로 코팅하여 공간의 무게중심을 비트는 시각적 장치로 활용하거나, 겹겹의 레이어로 색의 층위를 만드는 마감 기법을 참조한다.",
+  "context": "홍익대학교에서 금속 공예를 전공한 양승진은 금속의 구조적 특성을 에폭시 수지라는 유기적 재료로 옮겨와 독자적인 조형 언어를 구축했다. 금호미술관, 동대문디자인플라자, 서울시립미술관 등 국내 주요 기관과 밀라노 트리엔날레 등 해외 프로젝트를 통해 작업의 조형성과 기능성을 꾸준히 검증받았다.",
+  "findings": [
+   {
+    "text": "PAD 런던은 2007년 파리의 골동품 상인 패트릭 페랭에 의해 설립된 영국 유일의 역사적·동시대 디자인 전문 페어다.",
+    "s": 1,
+    "quote": "Founded in 2007 by fourth-generation Parisian antique dealer Patrick Perrin, PAD London is the only fair in the UK exclusively dedicated to historical and contemporary Design."
+   }
+  ],
+  "keywords": [
+   "양승진",
+   "블로잉시리즈",
+   "에폭시수지",
+   "가구디자인",
+   "물성"
+  ],
+  "evidence": "I liked the contrast between the balloon’s apparent fragility and the solidity of the resin.",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "재료의 공학적 변용과 조형적 의도를 구체적으로 설명하며, 작가의 제작 공정과 맥락을 충분히 다루고 있다.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/design-interiors/seungjin-yang-profile",
+  "original_title": "Yes, you can sit on this balloon chair",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 3638,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-10 15:27",
+  "research": {
+   "entities": [
+    "Seungjin Yang",
+    "Hongik University",
+    "Dongdaemun Design Plaza",
+    "Seoul Museum of Art",
+    "Gallery LVS & Craft"
+   ],
+   "questions": [
+    "양승진 작가가 에폭시 수지를 풍선 표면에 코팅하여 가구의 하중을 견디게 하는 구체적인 제작 공정은 무엇인가?",
+    "풍선이라는 일시적인 소재와 견고한 가구 구조 사이의 물성적 대비를 극대화하기 위해 작가가 사용하는 색채 및 마감 기법의 특징은 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "London | PAD Fairs - Premier art fairs held annually in Paris and London",
+     "url": "https://www.padesignart.com/en/london/"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Hongik University",
+     "url": "https://en.wikipedia.org/wiki/Hongik%20University"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Seoul Museum of Art",
+     "url": "https://en.wikipedia.org/wiki/Seoul%20Museum%20of%20Art"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "표레지나의 시선으로 재구성한 서울, 도시의 결을 담은 사진 연작",
+     "url": "https://www.dazeddigital.com/fashion/article/70912/1/fashion-designer-rejina-pyo-ultimate-guide-to-seoul-south-korea-recommendations?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=fashion-designer-rejina-pyo-s-ultimate-guide-to-seoul"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3
+   ],
+   "chars": 1927
+  },
+  "depth_raw": 4,
+  "depth_v": 2
  }
 }
