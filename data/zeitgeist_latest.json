@@ -1,30 +1,62 @@
 {
-  "generated_at": "2026-10-10 23:44 KST",
-  "period": "2026.10.03 - 2026.10.10",
-  "total_articles": 449,
+  "generated_at": "2026-10-11 02:39 KST",
+  "period": "2026.10.04 - 2026.10.11",
+  "total_articles": 424,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 205
+      "count": 190
     },
     {
       "genre": "동시대 미술",
-      "count": 163
+      "count": 160
     },
     {
       "genre": "아방가르드 패션",
-      "count": 61
+      "count": 55
     },
     {
       "genre": "미디어 파사드·3D",
-      "count": 20
+      "count": 19
     }
   ],
   "themes": [
     {
+      "keyword": "사진",
+      "count": 14,
+      "previous_count": 10,
+      "trend": "rising",
+      "items": [
+        {
+          "title": "사진작가 데이비드 블레이크먼의 '오늘 모든 것이 아름답다'",
+          "url": "https://www.booooooom.com/2026/10/09/everything-is-beautiful-today-by-photographer-david-blakeman/",
+          "image_url": "https://cdn.booooooom.com/wp-content/uploads/2026/09/Blakeman1.jpg",
+          "source_name": "BOOOOOOOM"
+        },
+        {
+          "title": "Spencer Lowell의 새로운 논문 ‘Futures Past’ 는 기술에 의해 형성되는 변화하는 세상을 탐구합니다.",
+          "url": "https://www.wallpaper.com/art/photography/spencer-lowell-futures-past-book-review",
+          "image_url": "https://cdn.mos.cms.futurecdn.net/PbE7TVih5uBN23jsdzERnK-1920-80.jpg",
+          "source_name": "Wallpaper*"
+        },
+        {
+          "title": "Marc Goodwin의 렌즈를 통해 본 벨기에 건축 사무소",
+          "url": "https://www.archdaily.com/1034289/belgiums-architecture-offices-through-the-lens-of-marc-goodwin",
+          "image_url": "https://images.adsttc.com/media/images/68cd/21af/67a7/a401/899d/954a/large_jpg/belgian-offices-through-the-lens-of-marc-goodwin_27.jpg?1758273997",
+          "source_name": "ArchDaily"
+        },
+        {
+          "title": "미국 작가와 사진작가를 초대합니다! Dazed에서 첫 번째 바이라인을 받으세요",
+          "url": "https://www.dazeddigital.com/life-culture/article/71097/1/calling-us-writers-and-photographers-get-your-first-byline-at-dazed?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=calling-us-writers-and-photographers-get-your-first-byline-at-dazed",
+          "image_url": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/7/1457256.png",
+          "source_name": "Dazed"
+        }
+      ]
+    },
+    {
       "keyword": "콘크리트 물성",
-      "count": 13,
-      "previous_count": 5,
+      "count": 10,
+      "previous_count": 8,
       "trend": "rising",
       "items": [
         {
@@ -55,8 +87,8 @@
     },
     {
       "keyword": "가구 디자인",
-      "count": 11,
-      "previous_count": 9,
+      "count": 10,
+      "previous_count": 7,
       "trend": "rising",
       "items": [
         {
@@ -86,8 +118,40 @@
       ]
     },
     {
+      "keyword": "목재 건축",
+      "count": 8,
+      "previous_count": 5,
+      "trend": "rising",
+      "items": [
+        {
+          "title": "Wiki World Forest Store / Wiki World",
+          "url": "https://www.archdaily.com/1186540/wiki-world-forest-store-wiki-world",
+          "image_url": "https://images.adsttc.com/media/images/6ac7/14df/07c3/d100/017f/e141/large_jpg/02.jpg?1791431947",
+          "source_name": "ArchDaily"
+        },
+        {
+          "title": "프라하의 스에프카 아키텍티 모델 조립식 주택 목재 옷장",
+          "url": "https://www.dezeen.com/2026/10/08/sepka-architekti-wardrobe-house/",
+          "image_url": "https://static.dezeen.com/uploads/2026/10/wardrobe-house-sepka-architekti-architecture-residential-czech-republic-wood-prefabrication_dezeen_2364_sq-852x852.jpg",
+          "source_name": "Dezeen"
+        },
+        {
+          "title": "웨스트 밴쿠버의 한 주택이 나무 사이에 떠 있는 것처럼 보입니다.",
+          "url": "https://design-milk.com/west-vancouver-home-openspace-architecture/",
+          "image_url": "https://design-milk.com/images/2026/10/Final-18-1500x1000.jpg",
+          "source_name": "Design Milk"
+        },
+        {
+          "title": "Architects Office는 상파울루 파빌리온의 \"거대한 퍼즐\" 로 대량 목재 스크랩을 사용합니다.",
+          "url": "https://www.dezeen.com/2026/10/07/architects-office-brazilian-pavilion-glulam-scrap/",
+          "image_url": "https://static.dezeen.com/uploads/2026/09/iz-pavilion-architects-office_dezeen_2364_sq_0-852x852.jpg",
+          "source_name": "Dezeen"
+        }
+      ]
+    },
+    {
       "keyword": "레스토랑·호스피탈리티",
-      "count": 9,
+      "count": 8,
       "previous_count": 4,
       "trend": "rising",
       "items": [
@@ -118,74 +182,10 @@
       ]
     },
     {
-      "keyword": "목재 건축",
-      "count": 8,
-      "previous_count": 6,
-      "trend": "rising",
-      "items": [
-        {
-          "title": "Wiki World Forest Store / Wiki World",
-          "url": "https://www.archdaily.com/1186540/wiki-world-forest-store-wiki-world",
-          "image_url": "https://images.adsttc.com/media/images/6ac7/14df/07c3/d100/017f/e141/large_jpg/02.jpg?1791431947",
-          "source_name": "ArchDaily"
-        },
-        {
-          "title": "프라하의 스에프카 아키텍티 모델 조립식 주택 목재 옷장",
-          "url": "https://www.dezeen.com/2026/10/08/sepka-architekti-wardrobe-house/",
-          "image_url": "https://static.dezeen.com/uploads/2026/10/wardrobe-house-sepka-architekti-architecture-residential-czech-republic-wood-prefabrication_dezeen_2364_sq-852x852.jpg",
-          "source_name": "Dezeen"
-        },
-        {
-          "title": "웨스트 밴쿠버의 한 주택이 나무 사이에 떠 있는 것처럼 보입니다.",
-          "url": "https://design-milk.com/west-vancouver-home-openspace-architecture/",
-          "image_url": "https://design-milk.com/images/2026/10/Final-18-1500x1000.jpg",
-          "source_name": "Design Milk"
-        },
-        {
-          "title": "Architects Office는 상파울루 파빌리온의 \"거대한 퍼즐\" 로 대량 목재 스크랩을 사용합니다.",
-          "url": "https://www.dezeen.com/2026/10/07/architects-office-brazilian-pavilion-glulam-scrap/",
-          "image_url": "https://static.dezeen.com/uploads/2026/09/iz-pavilion-architects-office_dezeen_2364_sq_0-852x852.jpg",
-          "source_name": "Dezeen"
-        }
-      ]
-    },
-    {
-      "keyword": "사진",
-      "count": 14,
-      "previous_count": 15,
-      "trend": "steady",
-      "items": [
-        {
-          "title": "사진작가 데이비드 블레이크먼의 '오늘 모든 것이 아름답다'",
-          "url": "https://www.booooooom.com/2026/10/09/everything-is-beautiful-today-by-photographer-david-blakeman/",
-          "image_url": "https://cdn.booooooom.com/wp-content/uploads/2026/09/Blakeman1.jpg",
-          "source_name": "BOOOOOOOM"
-        },
-        {
-          "title": "Spencer Lowell의 새로운 논문 ‘Futures Past’ 는 기술에 의해 형성되는 변화하는 세상을 탐구합니다.",
-          "url": "https://www.wallpaper.com/art/photography/spencer-lowell-futures-past-book-review",
-          "image_url": "https://cdn.mos.cms.futurecdn.net/PbE7TVih5uBN23jsdzERnK-1920-80.jpg",
-          "source_name": "Wallpaper*"
-        },
-        {
-          "title": "Marc Goodwin의 렌즈를 통해 본 벨기에 건축 사무소",
-          "url": "https://www.archdaily.com/1034289/belgiums-architecture-offices-through-the-lens-of-marc-goodwin",
-          "image_url": "https://images.adsttc.com/media/images/68cd/21af/67a7/a401/899d/954a/large_jpg/belgian-offices-through-the-lens-of-marc-goodwin_27.jpg?1758273997",
-          "source_name": "ArchDaily"
-        },
-        {
-          "title": "미국 작가와 사진작가를 초대합니다! Dazed에서 첫 번째 바이라인을 받으세요",
-          "url": "https://www.dazeddigital.com/life-culture/article/71097/1/calling-us-writers-and-photographers-get-your-first-byline-at-dazed?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=calling-us-writers-and-photographers-get-your-first-byline-at-dazed",
-          "image_url": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/7/1457256.png",
-          "source_name": "Dazed"
-        }
-      ]
-    },
-    {
       "keyword": "설치 미술",
       "count": 4,
-      "previous_count": 5,
-      "trend": "steady",
+      "previous_count": 2,
+      "trend": "rising",
       "items": [
         {
           "title": "v&A에 playfool의 게임 설치로 데이터 센터 청소기 역할 수행",
@@ -216,17 +216,16 @@
   ],
   "notable_names": [
     "Victoria Beckham",
-    "Paris Fashion Week",
     "Anthony Vaccarello",
     "Saint Laurent",
     "Student Protests",
     "United States",
     "Stanley Stellar",
+    "Paris Fashion Week",
     "Leon Black",
     "Elizaveta Porodina",
     "Bilbao Fine Arts Museum",
-    "Rodolphe Parente",
-    "Rick Owens"
+    "Rodolphe Parente"
   ],
   "has_comparison": true
 }

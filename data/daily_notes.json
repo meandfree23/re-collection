@@ -1890,5 +1890,44 @@
   "v": 3,
   "model": "gemini-3.1-flash-lite-preview",
   "written_at": "2026-10-10 10:11"
+ },
+ "2026-10-11": {
+  "date": "2026-10-11",
+  "headline": "에스트레마두라의 짚 벽과 1930년대의 목조 뼈대",
+  "editorial": "에스트레마두라 대지에 짚과 흙을 쌓아 올린 원형 극장 쿠라는 정적인 풍경을 담아내며 건축의 생태적 가능성을 제시한다. 카사 MG는 1930년대의 낡은 뼈대를 밀도 높은 실내로 옮겨와 과거의 유산을 현재의 주거 언어로 고쳐 쓴다. 모글리 보육 센터는 숲속에 목재를 결합한 유기적 쉘터를 세워 건축물이 자연의 일부가 되는 방식을 보여준다. 이들은 모두 주변 환경을 재료 삼아 단단한 안식처를 빚어낸다.",
+  "threads": [
+   {
+    "name": "흙과 나무로 세운 쉼터",
+    "note": "자연 재료를 사용하여 주변 환경과 맞닿은 건축 방식을 살핀다.",
+    "items": [
+     {
+      "title": "스페인 에스트레마두라, 짚과 흙으로 빚은 생태적 원형 극장 '쿠라(KURA)'",
+      "url": "https://www.designboom.com/art/straw-walls-amphitheater-experimental-garden-walking-path-rural-spain/"
+     },
+     {
+      "title": "숲속의 유기적 쉘터, 네덜란드 모글리 보육 센터",
+      "url": "https://www.archdaily.com/1186615/childcare-centre-mowgli-natrufied-architecture"
+     }
+    ]
+   },
+   {
+    "name": "시간을 품은 외피",
+    "note": "기존 건축의 뼈대를 활용하거나 토착 재료를 쌓아 시간의 흐름을 반영한다.",
+    "items": [
+     {
+      "title": "스페인 에스트레마두라, 짚과 흙으로 빚은 생태적 원형 극장 '쿠라(KURA)'",
+      "url": "https://www.designboom.com/art/straw-walls-amphitheater-experimental-garden-walking-path-rural-spain/"
+     },
+     {
+      "title": "1930년대의 뼈대 위에 얹은 밀도 높은 실내 풍경, 카사 MG",
+      "url": "https://www.archdaily.com/1186467/casa-mg-startup-architettura"
+     }
+    ]
+   }
+  ],
+  "based_on": 3,
+  "v": 3,
+  "model": "gemini-3.1-flash-lite-preview",
+  "written_at": "2026-10-11 02:39"
  }
 }
