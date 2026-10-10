@@ -149157,5 +149157,51 @@
   },
   "depth_raw": 5,
   "depth_v": 2
+ },
+ "archdaily.com/1186647/gutierrez-cafe-toro-arquitectos": {
+  "title_ko": "몬테비데오 포시토스의 구티에레스 카페: 미식과 건축의 결합",
+  "summary_ko": "2025년 8월 우루과이 몬테비데오 포시토스 지역에 문을 연 구티에레스 카페는 토로 아르키텍토스가 설계를 맡았다. 건축가는 공간 디자인과 커피 품질을 동등한 비중으로 다루며, 미식 경험을 건축적 언어로 확장하는 시도를 보여준다.",
+  "lens": "건축을 미식의 배경이 아닌, 미식의 일부로 편입시켜 공간과 맛을 일체화했다.",
+  "why_now": "공간의 시각적 완성도가 브랜드의 정체성과 직결되는 카페 산업에서 건축적 개입이 어디까지 확장될 수 있는지 보여준다.",
+  "mechanism": "건축을 단순한 배경이 아닌 미식 경험의 필수 요소로 상정하여, 공간의 구조와 커피의 품질이 상호 보완적인 관계를 맺도록 설계했다.",
+  "sensory": "포시토스 지역의 도시적 맥락과 조화를 이루는 마감재를 사용하여 정갈하면서도 밀도 높은 공간감을 형성한다.",
+  "transfer": "카페 내부의 바 카운터와 좌석 배치를 미식의 동선과 일치시켜, 손님이 주문부터 착석까지 하나의 건축적 흐름을 경험하도록 설계한다.",
+  "context": "토로 아르키텍토스는 몬테비데오를 기반으로 활동하며 공간이 도시와 맺는 관계를 건축적 경험으로 치환하는 작업을 수행한다.",
+  "findings": [],
+  "keywords": [
+   "몬테비데오",
+   "공간설계",
+   "미식경험",
+   "토로아르키텍토스"
+  ],
+  "evidence": "Gutiérrez Café opened its doors in August 2025, in the Pocitos neighborhood of Montevideo, with an architectural design that places both design and product quality at the heart of the experience.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "건축적 의도는 명확하나 구체적인 재료나 세부 설계 장치에 대한 정보가 부족하여 평이한 수준이다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1186647/gutierrez-cafe-toro-arquitectos",
+  "original_title": "Gutiérrez Café / Toro Arquitectos",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 957,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-10 11:56",
+  "research": {
+   "entities": [
+    "Toro Arquitectos",
+    "Gutiérrez Café",
+    "Ernesto Figueroa Grieco"
+   ],
+   "questions": [
+    "Toro Arquitectos가 추구하는 건축적 철학은 무엇이며, 이번 프로젝트에서 어떻게 구현되었는가?",
+    "몬테비데오의 포시토스(Pocitos) 지역적 특성이 Gutiérrez Café의 공간 설계에 어떤 영향을 미쳤는가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
  }
 }
