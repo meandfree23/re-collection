@@ -150978,5 +150978,87 @@
   },
   "depth_raw": 2,
   "depth_v": 2
+ },
+ "design-milk.com/in-broken-light-ry-van-der-hout": {
+  "title_ko": "파편화된 기억의 재조립, 라이 반 데르 하우트의 ‘부서진 빛 속에서’",
+  "summary_ko": "라이 반 데르 하우트(Ry Van Der Hout)는 토론토 스파디나 박물관(Spadina Museum)의 1866년 저택 공간을 활용해 5개의 조각 연작을 선보인다. 작가는 거울과 유리를 의도적으로 파괴한 뒤 티파니 스테인드글라스 기법으로 다시 결합하며, 저택에 얽힌 지배층과 고용인의 역사를 시각화했다.",
+  "lens": "파괴된 거울의 균열을 시선의 통로로 삼아, 박물관이라는 정적인 공간에 억눌려 있던 퀴어적 서사와 잊힌 노동자의 존재를 투영한다.",
+  "why_now": "역사적 건물이 지닌 고정된 서사를 재료의 물리적 파손과 결합을 통해 해체하고, 재구성함으로써 장소 특정적 예술의 새로운 개입 방식을 제시한다.",
+  "mechanism": "티파니 스테인드글라스 기법으로 납땜된 유리 파편들은 빛을 굴절시켜 공간에 모자이크 패턴을 투사한다. 거울의 각도를 조절해 관람객의 신체를 파편화하고, 이를 다시 전체상으로 통합하는 동선을 유도한다.",
+  "sensory": "지하실의 파쇄된 디스코 볼이 NASA 오디오 트랙에 맞춰 회전하며 돌벽에 빛의 파동을 뿌린다. 12피트 높이의 거대한 돔 구조물은 관람객의 모습을 다각도로 반사하며 낯선 자아를 마주하게 한다.",
+  "transfer": "공간의 역사적 층위를 드러낼 때, 매끄러운 거울 대신 파손된 유리 조각을 이어 붙인 오브제를 배치해 왜곡된 시점을 연출하라. 조명은 고정된 광원보다 회전하는 파편에 반사된 빛을 활용해 공간의 질감을 극대화한다.",
+  "context": "스파디나 박물관은 1866년 지어진 저택으로 1900년대 초반 오스틴 가문의 삶과 고용인들의 역사를 보존한다. 라이 반 데르 하우트는 이전 작업에서부터 사진, 거울, 스테인드글라스를 결합해 개인적 서사와 퀴어적 변모를 탐구해왔다.",
+  "findings": [
+   {
+    "text": "스파디나 박물관은 1866년부터 1930년대까지의 건축 양식과 오스틴 가문의 역사를 보존하는 역사적 주택 박물관이다.",
+    "s": 3,
+    "quote": "The art, decor and architecture of the house used to reflect the contemporary styles of the 1860s through the 1930s, including Italianate, Victorian, Edwardian, Arts and Crafts, Art Nouveau, Art Deco and Colonial Revival"
+   },
+   {
+    "text": "전시된 5개의 조각 연작은 사진, 스테인드글라스, 거울을 활용해 저택의 건축적 맥락과 그곳에 얽힌 서사를 반영한다.",
+    "s": 2,
+    "quote": "For In Broken Light, Van Der Hout creates five sculptural interventions throughout the museum, engaging the architecture and layered histories of the site."
+   }
+  ],
+  "keywords": [
+   "라이 반 데르 하우트",
+   "스파디나 박물관",
+   "장소 특정적 예술",
+   "스테인드글라스",
+   "퀴어 서사"
+  ],
+  "evidence": "The fractures become apertures through which overlooked histories emerge, transforming the sculptures into contemporary reliquaries for lives remembered and forgotten.",
+  "kind": "전시",
+  "depth": 5,
+  "grounding": "full",
+  "depth_reason": "역사적 공간의 맥락을 재료의 파괴와 재결합이라는 구체적 기법으로 해석해내며, 관람객의 동선과 시각 경험을 명확한 장치로 설계했다.",
+  "v": 2,
+  "url": "https://design-milk.com/in-broken-light-ry-van-der-hout/",
+  "original_title": "Ry Van Der Hout Reassembles Memory in ‘In Broken Light’",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 5367,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-11 11:30",
+  "research": {
+   "entities": [
+    "Ry Van Der Hout",
+    "Spadina Museum",
+    "Adrien Sun Hall",
+    "United Contemporary"
+   ],
+   "questions": [
+    "스파디나 뮤지엄의 역사적 맥락이 라이 반 데어 하우트의 작품에 어떻게 반영되었는가?",
+    "티파니 스테인드글라스 기법이 어떻게 퀴어적 서사와 개인적 변모를 은유하는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Spadina Museum",
+     "url": "https://www.toronto.ca/explore-enjoy/history-art-culture/museums/spadina-museum/"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "In Broken Light | 26 August - 18 October 2026",
+     "url": "https://www.ryanvanderhout.com/exhibitions/11-in-broken-light-spadina-museum-curated-by-adrien-sun-hall/"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Spadina House",
+     "url": "https://en.wikipedia.org/wiki/Spadina%20House"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3
+   ],
+   "chars": 5890
+  },
+  "depth_raw": 5,
+  "depth_v": 2
  }
 }
