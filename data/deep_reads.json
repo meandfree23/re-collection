@@ -150772,5 +150772,211 @@
   },
   "depth_raw": 4,
   "depth_v": 2
+ },
+ "dezeen.com/2026/10/10/mad-monk-studios-san-luis-stays-mariel-lozano-studio": {
+  "title_ko": "멕시코시티 아파트, 맞춤형 가구로 구현한 정적인 휴식의 공간",
+  "summary_ko": "마리엘 로자노 스튜디오가 멕시코시티의 숙박 시설 산 루이스 스테이의 인테리어와 가구를 설계했다. 음악을 주제로 한 이 프로젝트는 컴팩트한 평면을 효율적으로 분할하여 잡동사니를 최소화하고 정온한 분위기를 조성하는 데 집중했다.",
+  "lens": "공간의 밀도를 낮추기 위해 가구를 건축적 요소로 치환하여 벽면과 일체화한 점이 핵심이다.",
+  "why_now": "도시 거주지의 면적이 좁아짐에 따라 가구를 가구 이상의 건축적 장치로 활용하는 설계 방식이 주목받는다.",
+  "mechanism": "맞춤형 가구를 벽체와 결합해 시각적 노이즈를 제거하고, 평면을 단순화하여 동선의 흐름을 음악적 리듬처럼 연속적으로 구성했다.",
+  "sensory": "불필요한 장식을 덜어낸 매끄러운 표면과 정돈된 수납 구조가 공간에 정적인 질감을 부여한다.",
+  "transfer": "영상 촬영 시 소품을 최소화하고 가구의 라인을 벽면과 일치시켜 공간의 깊이감을 확장하는 미장센을 적용한다.",
+  "context": "마리엘 로자노 스튜디오가 호스피탈리티 프로젝트의 일환으로 진행한 작업이다.",
+  "findings": [],
+  "keywords": [
+   "마리엘로자노",
+   "멕시코시티",
+   "맞춤가구",
+   "공간최적화"
+  ],
+  "evidence": "Mariel Lozano Studio \"optimises compact layout\" of Mexico City apartment with custom furniture",
+  "kind": "프로젝트",
+  "depth": 2,
+  "grounding": "thin",
+  "depth_reason": "원문 본문을 확보하지 못해 프로젝트의 구체적인 가구 디테일과 음악적 해석의 근거가 부족하다.",
+  "v": 2,
+  "url": "https://www.dezeen.com/2026/10/10/mad-monk-studios-san-luis-stays-mariel-lozano-studio/",
+  "original_title": "Mariel Lozano Studio \"optimises compact layout\" of Mexico City apartment with custom furniture",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 0,
+  "fetch": "fetch_error:HTTPError",
+  "cliche_hits": [],
+  "read_at": "2026-10-11 09:28",
+  "research": {
+   "entities": [
+    "Mariel Lozano Studio",
+    "San Luis"
+   ],
+   "questions": [
+    "Mariel Lozano Studio가 멕시코 시티 아파트 인테리어에서 컴팩트한 공간을 최적화하기 위해 사용한 맞춤형 가구의 구체적인 특징은 무엇인가?",
+    "산 루이스(San Luis) 스테이 프로젝트에서 음악이라는 컨셉이 인테리어와 가구 디자인에 어떻게 반영되었는가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 2,
+  "depth_v": 2
+ },
+ "archdaily.com/1186235/prukpirom-house-renovation-ppr-house-s-plus-s-architects": {
+  "title_ko": "29년 세월의 정원을 품는 프룩피롬 하우스 리노베이션",
+  "summary_ko": "태국 방콕에 위치한 프룩피롬 하우스는 29년 이상 자리를 지켜온 주거 공간을 에스앤에스 아키텍츠(S+S Architects)가 새롭게 재정비한 프로젝트다. 831제곱미터 규모의 부지 위에서 성숙한 녹지와 기존 주택의 관계를 유지하면서 생활 공간을 확장하고 재조직했다. 토스템(Tostem) 등의 자재를 활용해 오랜 세월이 담긴 자연과 현대적 건축을 연결한다.",
+  "lens": "오랜 정원의 녹음 속에서 29년의 결을 지우지 않고 주거의 동선을 다시 엮는다.",
+  "why_now": "노후된 주거 공간을 전면 철거하는 대신 기존 구조와 주변 조경의 관계를 보존하며 재해석하는 방식이 주목받는다.",
+  "mechanism": "넉넉한 대지를 두른 성숙한 녹지와의 시각적 연결을 유지하며 내부 기능을 확장하고 공간을 재정비했다.",
+  "sensory": "창호 프레임을 통해 외부의 울창한 녹색 풍경이 실내 깊숙이 스며들며 계절의 변화를 감각하게 만든다.",
+  "transfer": "기존 구조물을 배경 삼아 새로운 매스를 얹을 때 창호의 비율을 조절해 외부 조경을 한 폭의 프레임처럼 담아낸다.",
+  "context": "에스앤에스 아키텍츠가 방콕에서 진행한 이번 작업은 오랜 기간 자리를 지킨 주거 건물의 역사성을 공간 구조 안으로 이어 붙인다.",
+  "findings": [
+   {
+    "text": "토스템은 일본의 알루미늄 새시 최대 생산 업체에서 출발해 주택 설비 기업으로 성장했다.",
+    "s": 1,
+    "quote": "Tostem and became Japan's largest producer of aluminum sashes"
+   }
+  ],
+  "keywords": [
+   "주거 리노베이션",
+   "방콕 건축",
+   "정원 조경",
+   "공간 확장"
+  ],
+  "evidence": "Prukpirom House Renovation transforms a family home that has stood for more than 29 years. Located on a generous site surrounded by mature greenery, the existing house offered opportunities to expand and reorganize the living spaces while retaining its relationship with the garden.",
+  "kind": "프로젝트",
+  "depth": 2,
+  "grounding": "thin",
+  "depth_reason": "원문 정보가 간략하고 상세한 설계 기법이나 도면 데이터가 부족해 평범한 소개 수준에 그친다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1186235/prukpirom-house-renovation-ppr-house-s-plus-s-architects",
+  "original_title": "Prukpirom House Renovation (PPR House) / S+S Architects",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 1059,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-11 09:28",
+  "research": {
+   "entities": [
+    "S+S Architects",
+    "Sarunyu Uawisetwattana",
+    "GolfKris Design",
+    "Tostem"
+   ],
+   "questions": [
+    "29년 된 기존 주택의 구조적 특징과 이번 리노베이션에서 확장 및 재구성된 공간의 핵심은 무엇인가요?",
+    "주변 정원과의 관계를 유지하면서 현대적인 주거 환경을 조성하기 위해 어떤 건축적 전략이 사용되었나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Lixil Group",
+     "url": "https://en.wikipedia.org/wiki/Lixil%20Group"
+    },
+    {
+     "n": 2,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "교차로의 모놀리식 콘크리트 안식처, 베트남 하우스 Q",
+     "url": "https://www.archdaily.com/1186297/house-q-hgaa"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 1256
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "archdaily.com/1032917/haras-house-felipe-hess-arquitetos": {
+  "title_ko": "사다리꼴 부지를 감싸는 C자형 주택, 하라스 하우스",
+  "summary_ko": "브라질 상파울루에 위치한 하라스 하우스는 펠리페 헤스 아르키테토스가 설계한 단층 주택이다. 사다리꼴 부지 위에 C자 형태로 건물을 배치하여 정원과 25미터 수영장 레인이 있는 중앙 안뜰을 품는다. 이를 통해 내부와 외부 공간이 일상에서 직접적으로 연결된다.",
+  "lens": "사다리꼴 평면의 기하학적 한계를 중앙 안뜰을 품은 C자형 매스로 돌파한다.",
+  "why_now": "불규칙한 대지 조건을 거주자의 동선과 외부 자연을 엮어내는 기회로 바꾼다.",
+  "mechanism": "C자형 볼륨이 내부 공간을 중앙 안뜰로 향하게 만들어 프라이버시를 지키면서 외부와의 접점을 극대화한다.",
+  "sensory": "25미터 수영장 레인과 안뜰의 녹음이 실내 공간 전체로 시각적 개방감을 확장한다.",
+  "transfer": "공간을 배치할 때 중앙에 외부 보이드 영역을 두고 시선과 동선이 이를 순환하도록 설계한다.",
+  "context": "펠리페 헤스 아르키테토스가 상파울루에서 완성한 단층 주택 프로젝트다.",
+  "findings": [],
+  "keywords": [
+   "펠리페헤스",
+   "상파울루주택",
+   "C자형배치",
+   "중앙안뜰"
+  ],
+  "evidence": "The Haras House is a single-story residence built on a trapezoidal lot. The \"C\" shaped volume organizes the spaces around a central courtyard",
+  "kind": "프로젝트",
+  "depth": 2,
+  "grounding": "thin",
+  "depth_reason": "사다리꼴 부지의 C자형 배치라는 명확한 건축적 형태가 있으나 원문 정보가 짧아 평범한 수준의 소개에 그친다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1032917/haras-house-felipe-hess-arquitetos",
+  "original_title": "Haras House / Felipe Hess Arquitetos",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 1058,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-11 09:28",
+  "research": {
+   "entities": [
+    "Felipe Hess Arquitetos",
+    "Haras House"
+   ],
+   "questions": [
+    "Haras House의 'C'자형 구조가 거주자의 일상과 외부 공간의 관계에 어떤 영향을 미치나요?",
+    "Felipe Hess Arquitetos가 설계한 주택에서 지속 가능성을 구현하기 위해 어떤 건축적 요소들이 고려되었나요?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "archdaily.com/1186656/la-negrita-house-estudio-palacios": {
+  "title_ko": "로스 몰리노스 호숫가, 유칼립투스 숲과 엉키는 에스투디오 팔라시오스의 라 네그리타",
+  "summary_ko": "아르헨티나 코르도바의 로스 몰리노스 호숫가에 위치한 라 네그리타 하우스는 에스투디오 팔라시오스가 설계했다. 1520제곱미터 규모의 이 주택은 유칼립투스 숲으로 둘러싸여 있으며, 호수 주변의 독특한 미기후를 활용해 평온한 휴식처를 구현했다.",
+  "lens": "울창한 유칼립투스 숲과 호수라는 이질적인 환경 사이에서, 건물이 어떻게 미기후를 조율하며 풍경 속에 안착하는지를 보여준다.",
+  "why_now": "자연 환경을 거스르지 않고 그 안의 대기 흐름과 습도를 고려한 주거 공간의 필요성이 높아지는 시점이다.",
+  "mechanism": "호수와 숲이 만드는 고유한 미기후를 건축 내부로 끌어들여, 외부 환경과의 경계를 완화하고 쾌적한 실내 분위기를 조성한다.",
+  "sensory": "유칼립투스 숲의 밀도 높은 녹색 질감과 호숫가의 습윤한 공기가 건축물의 외피와 맞닿으며 시각적, 촉각적 평온함을 전달한다.",
+  "transfer": "숲이나 호수 같은 특정 자연 환경을 배경으로 할 때, 건물의 외장재를 주변 수목의 색감과 일치시켜 풍경의 일부로 스며들게 하는 배치를 적용한다.",
+  "context": "에스투디오 팔라시오스는 아르헨티나 코르도바 지역의 자연 지형과 식생을 건축 설계의 핵심 요소로 삼아 작업을 이어오고 있다.",
+  "findings": [],
+  "keywords": [
+   "에스투디오팔라시오스",
+   "아르헨티나건축",
+   "미기후",
+   "호숫가주택"
+  ],
+  "evidence": "Situated on the shores of Los Molinos Lake and surrounded by a dense eucalyptus forest, La Negrita embodies the desire for a peaceful retreat",
+  "kind": "프로젝트",
+  "depth": 2,
+  "grounding": "partial",
+  "depth_reason": "건축적 장치에 대한 구체적인 설명 없이 환경적 배경 위주로 기술되어 있어 정보가 제한적이다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1186656/la-negrita-house-estudio-palacios",
+  "original_title": "La Negrita House / Estudio Palacios",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 855,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-11 09:28",
+  "research": {
+   "entities": [
+    "Estudio Palacios",
+    "La Negrita House",
+    "Mariana Palacios",
+    "Azul Sánchez",
+    "Gonzalo Viramonte"
+   ],
+   "questions": [
+    "La Negrita House가 위치한 로스 몰리노스 호수 주변의 미기후가 건축 설계에 어떤 영향을 미쳤는가?",
+    "유칼립투스 숲이라는 자연 환경과 조화를 이루기 위해 건축가는 어떤 지속 가능한 재료와 전략을 사용했는가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 2,
+  "depth_v": 2
  }
 }
