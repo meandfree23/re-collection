@@ -1893,12 +1893,30 @@
  },
  "2026-10-11": {
   "date": "2026-10-11",
-  "headline": "부서진 거울의 균열과 짚 벽의 흙 냄새",
-  "editorial": "라이 반 데르 하우트의 ‘부서진 빛 속에서’는 파괴된 거울의 틈새로 잊힌 퀴어의 이야기를 드러낸다. 이와 맞물려 쿠라(KURA)는 짚과 흙을 빚은 벽으로 소음을 차단하며 풍경을 관조하는 원형 극장을 세운다. 전후 일본 여성 예술가 39인의 급진적 미학은 영상과 퍼포먼스로 가부장적 억압의 체제 내부에 균열을 낸다. 이 항목들은 각자의 자리에서 단단한 재료와 매개로 감추어진 풍경을 수면 위로 끌어올린다.",
+  "headline": "깨진 거울의 단면과 50년 된 농장의 거친 뼈대",
+  "editorial": "라이 반 데르 하우트의 작업은 파괴된 거울의 균열을 통해 그간 가려져 있던 퀴어적 서사와 노동의 흔적을 수면 위로 끌어올린다. 이러한 과거의 층위를 보존하려는 시도는 스튜디오 위브가 50년 된 농장의 골조를 고스란히 노출하며 낡은 시간성을 긍정하는 방식과 맞닿아 있다. 이들은 모두 물리적인 파괴나 노후함을 지우는 대신, 그 단면을 통해 현재의 우리를 비추는 창으로 활용한다. 시간의 흐름을 박제하지 않고 현재의 공간 언어로 번역하는 작업은 건축이 겪어온 세월에 새로운 생명력을 부여하는 과정이다.",
   "threads": [
    {
-    "name": "균열과 틈새의 시선",
-    "note": "파괴된 거울과 체제의 모순 속에서 드러나는 목소리들을 짚는다.",
+    "name": "오래된 뼈대의 재발견",
+    "note": "과거의 구조물을 철거하지 않고 그 형태와 흔적을 현재의 주거와 활동 공간으로 이식하는 방식에 주목한다.",
+    "items": [
+     {
+      "title": "50년 농장의 골조를 그대로 품은 사우스 반의 깊은 재사용",
+      "url": "https://www.wallpaper.com/architecture/residential/south-barn-studio-weave-uk"
+     },
+     {
+      "title": "1930년대의 뼈대 위에 얹은 밀도 높은 실내 풍경, 카사 MG",
+      "url": "https://www.archdaily.com/1186467/casa-mg-startup-architettura"
+     },
+     {
+      "title": "보트 수리 창고의 기억을 품은 타친강의 마하차이 레지던스",
+      "url": "https://www.archdaily.com/1186228/mahachai-residence-patara-architects"
+     }
+    ]
+   },
+   {
+    "name": "균열을 통한 시선의 확장",
+    "note": "온전하지 않은 표면이나 단절된 기억을 도구 삼아 공간에 억눌려 있던 서사를 드러낸다.",
     "items": [
      {
       "title": "파편화된 기억의 재조립, 라이 반 데르 하우트의 ‘부서진 빛 속에서’",
@@ -1909,25 +1927,11 @@
       "url": "https://www.wallpaper.com/art/photography/khaio-japanese-women-artists-after-1945-review"
      }
     ]
-   },
-   {
-    "name": "흙과 풀로 빚은 안식처",
-    "note": "자연 재료를 밀도 있게 엮어 주변 환경과 호흡하는 건축적 공간을 다룬다.",
-    "items": [
-     {
-      "title": "스페인 에스트레마두라, 짚과 흙으로 빚은 생태적 원형 극장 '쿠라(KURA)'",
-      "url": "https://www.designboom.com/art/straw-walls-amphitheater-experimental-garden-walking-path-rural-spain/"
-     },
-     {
-      "title": "숲속의 유기적 쉘터, 네덜란드 모글리 보육 센터",
-      "url": "https://www.archdaily.com/1186615/childcare-centre-mowgli-natrufied-architecture"
-     }
-    ]
    }
   ],
-  "based_on": 11,
+  "based_on": 20,
   "v": 3,
-  "model": "gemini-3.5-flash-lite",
-  "written_at": "2026-10-11 15:24"
+  "model": "gemini-3.1-flash-lite",
+  "written_at": "2026-10-11 23:18"
  }
 }

@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-10-11 18:27 KST",
+  "generated_at": "2026-10-11 23:17 KST",
   "period": "2026.10.04 - 2026.10.11",
-  "total_articles": 434,
+  "total_articles": 441,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 197
+      "count": 203
     },
     {
       "genre": "동시대 미술",
-      "count": 163
+      "count": 164
     },
     {
       "genre": "아방가르드 패션",
@@ -54,6 +54,38 @@
       ]
     },
     {
+      "keyword": "콘크리트 물성",
+      "count": 11,
+      "previous_count": 8,
+      "trend": "rising",
+      "items": [
+        {
+          "title": "암석으로 마감된 수도원이 있는 \"모놀리식\" 콘크리트 주택",
+          "url": "https://www.dezeen.com/2026/10/11/monastic-field-roomoor-india/",
+          "image_url": "https://static.dezeen.com/uploads/2026/09/monastic-field-roomoor-india_dezeen_2364_sq_0-852x852.jpg",
+          "source_name": "Dezeen"
+        },
+        {
+          "title": "크림 & 콩",
+          "url": "https://leibal.com/interiors/cream-bean/",
+          "image_url": "https://leibal.com/wp-content/uploads/2026/10/leibal-cream-bean-forspace-studio-4.jpg",
+          "source_name": "Leibal"
+        },
+        {
+          "title": "인테리어와 풍경/EX 사이의 문턱으로 완성되지 않은 국내 장치.",
+          "url": "https://www.archdaily.com/1186084/an-unfinished-domestic-device-as-a-threshold-between-interior-and-landscape-studio-ex",
+          "image_url": "https://images.adsttc.com/media/images/6abd/2122/c30d/0000/01d4/8f3f/large_jpg/B9989670__Tomaso_Clavarino.jpg?1790779779",
+          "source_name": "ArchDaily"
+        },
+        {
+          "title": "G – 5채/요약",
+          "url": "https://www.archdaily.com/1034091/g-5-houses-summary",
+          "image_url": "https://images.adsttc.com/media/images/68c4/4247/d84f/6b63/a060/951e/large_jpg/g-5-houses-summary_17.jpg?1757692568",
+          "source_name": "ArchDaily"
+        }
+      ]
+    },
+    {
       "keyword": "가구 디자인",
       "count": 11,
       "previous_count": 7,
@@ -82,38 +114,6 @@
           "url": "https://www.dezeen.com/2026/10/08/josh-greenspan-usm-vvs-cocktail-room-new-york/",
           "image_url": "https://static.dezeen.com/uploads/2026/10/vs-cocktail-room-new-york-usm-josh-greenspan_dezeen_2364_col_4-852x852.jpg",
           "source_name": "Dezeen"
-        }
-      ]
-    },
-    {
-      "keyword": "콘크리트 물성",
-      "count": 10,
-      "previous_count": 8,
-      "trend": "rising",
-      "items": [
-        {
-          "title": "크림 & 콩",
-          "url": "https://leibal.com/interiors/cream-bean/",
-          "image_url": "https://leibal.com/wp-content/uploads/2026/10/leibal-cream-bean-forspace-studio-4.jpg",
-          "source_name": "Leibal"
-        },
-        {
-          "title": "인테리어와 풍경/EX 사이의 문턱으로 완성되지 않은 국내 장치.",
-          "url": "https://www.archdaily.com/1186084/an-unfinished-domestic-device-as-a-threshold-between-interior-and-landscape-studio-ex",
-          "image_url": "https://images.adsttc.com/media/images/6abd/2122/c30d/0000/01d4/8f3f/large_jpg/B9989670__Tomaso_Clavarino.jpg?1790779779",
-          "source_name": "ArchDaily"
-        },
-        {
-          "title": "G – 5채/요약",
-          "url": "https://www.archdaily.com/1034091/g-5-houses-summary",
-          "image_url": "https://images.adsttc.com/media/images/68c4/4247/d84f/6b63/a060/951e/large_jpg/g-5-houses-summary_17.jpg?1757692568",
-          "source_name": "ArchDaily"
-        },
-        {
-          "title": "하우스 Q/HGAA",
-          "url": "https://www.archdaily.com/1186297/house-q-hgaa",
-          "image_url": "https://images.adsttc.com/media/images/6ac3/a7a7/27ac/8d01/89cb/b747/large_jpg/house-q-hgaa_19.jpg?1791207363",
-          "source_name": "ArchDaily"
         }
       ]
     },
