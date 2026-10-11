@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-10-11 15:24 KST",
+  "generated_at": "2026-10-11 18:27 KST",
   "period": "2026.10.04 - 2026.10.11",
-  "total_articles": 432,
+  "total_articles": 434,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 196
+      "count": 197
     },
     {
       "genre": "동시대 미술",
-      "count": 162
+      "count": 163
     },
     {
       "genre": "아방가르드 패션",
@@ -183,10 +183,16 @@
     },
     {
       "keyword": "설치 미술",
-      "count": 4,
+      "count": 5,
       "previous_count": 2,
       "trend": "rising",
       "items": [
+        {
+          "title": "공명 - 탈린 건축 비엔날레 설치/ARU Ma- Architects",
+          "url": "https://www.archdaily.com/1186616/resonance-tallinn-architecture-biennale-installation-aru-ma-architects",
+          "image_url": "https://images.adsttc.com/media/images/6ac8/ace4/b2c4/c300/0178/e4c4/large_jpg/IMG_9828.jpg?1791536587",
+          "source_name": "ArchDaily"
+        },
         {
           "title": "v&A에 playfool의 게임 설치로 데이터 센터 청소기 역할 수행",
           "url": "https://www.designboom.com/art/playfool-game-installation-va-museum-data-center-cleaner-server/",
@@ -203,12 +209,6 @@
           "title": "리스본 총대주교좌 성당 복원 및 개선, 고고학 센터 설치, 상하회랑 복원/Adalberto Dias Arquitecto lda",
           "url": "https://www.archdaily.com/1034427/restoration-and-enhancement-of-the-patriarchal-cathedral-of-lisbon-installation-of-the-archaeological-center-and-restoration-of-the-upper-and-lower-cloisters-adalberto-dias-arquitecto-lda",
           "image_url": "https://images.adsttc.com/media/images/68d0/3ef5/74fd/8a01/7e1c/e543/large_jpg/recuperacao-e-valorizacao-da-se-patriarcal-de-lisboa-instalacao-do-nucleo-arqueologico-e-recuperacao-dos-claustros-superior-e-inferior-adalberto-dias-arquitecto-lda_2.jpg?1758478119",
-          "source_name": "ArchDaily"
-        },
-        {
-          "title": "TAELON7의 Limbo Engawa 설치, 아크라에서 뉴욕의 아트 오미로 이동",
-          "url": "https://www.archdaily.com/1186286/taelon7-s-limbo-engawa-installation-moves-from-accra-to-art-omi-in-new-york",
-          "image_url": "https://images.adsttc.com/media/images/6ac3/5365/27ac/8d01/89cb/b5c5/large_jpg/taelon7-s-limbo-engawa-installation-moves-from-accra-to-art-omi-in-new-york_3.jpg?1791185825",
           "source_name": "ArchDaily"
         }
       ]
