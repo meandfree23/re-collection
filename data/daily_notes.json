@@ -1893,12 +1893,26 @@
  },
  "2026-10-11": {
   "date": "2026-10-11",
-  "headline": "에스트레마두라의 짚 벽과 1930년대의 낡은 뼈대",
-  "editorial": "에스트레마두라의 들판에 짚과 흙으로 빚은 쿠라의 벽은 대지의 소음을 삼키며 고요를 만든다. 이와 대조적으로 1930년대 카사 MG는 과거의 뼈대 위에 오늘의 주거 형식을 덧씌워 시간을 이어간다. 모글리 보육 센터 또한 숲이라는 외부 환경을 내부로 끌어들여 목재의 결로 유기적인 쉼터를 완성했다. 세 사례 모두 주변 환경과 건축물이 어떻게 섞이고 겹쳐지는지를 보여준다.",
+  "headline": "부서진 거울의 균열과 짚 벽의 흙 냄새",
+  "editorial": "라이 반 데르 하우트의 ‘부서진 빛 속에서’는 파괴된 거울의 틈새로 잊힌 퀴어의 이야기를 드러낸다. 이와 맞물려 쿠라(KURA)는 짚과 흙을 빚은 벽으로 소음을 차단하며 풍경을 관조하는 원형 극장을 세운다. 전후 일본 여성 예술가 39인의 급진적 미학은 영상과 퍼포먼스로 가부장적 억압의 체제 내부에 균열을 낸다. 이 항목들은 각자의 자리에서 단단한 재료와 매개로 감추어진 풍경을 수면 위로 끌어올린다.",
   "threads": [
    {
-    "name": "환경과 맞물리는 건축",
-    "note": "외부의 자연 요소나 지형을 건축의 일부로 적극 수용하는 방식에 주목한다.",
+    "name": "균열과 틈새의 시선",
+    "note": "파괴된 거울과 체제의 모순 속에서 드러나는 목소리들을 짚는다.",
+    "items": [
+     {
+      "title": "파편화된 기억의 재조립, 라이 반 데르 하우트의 ‘부서진 빛 속에서’",
+      "url": "https://design-milk.com/in-broken-light-ry-van-der-hout/"
+     },
+     {
+      "title": "해방의 기록: 전후 일본 여성 예술가 39인의 급진적 미학",
+      "url": "https://www.wallpaper.com/art/photography/khaio-japanese-women-artists-after-1945-review"
+     }
+    ]
+   },
+   {
+    "name": "흙과 풀로 빚은 안식처",
+    "note": "자연 재료를 밀도 있게 엮어 주변 환경과 호흡하는 건축적 공간을 다룬다.",
     "items": [
      {
       "title": "스페인 에스트레마두라, 짚과 흙으로 빚은 생태적 원형 극장 '쿠라(KURA)'",
@@ -1907,31 +1921,13 @@
      {
       "title": "숲속의 유기적 쉘터, 네덜란드 모글리 보육 센터",
       "url": "https://www.archdaily.com/1186615/childcare-centre-mowgli-natrufied-architecture"
-     },
-     {
-      "title": "로스 몰리노스 호숫가, 유칼립투스 숲과 엉키는 에스투디오 팔라시오스의 라 네그리타",
-      "url": "https://www.archdaily.com/1186656/la-negrita-house-estudio-palacios"
-     }
-    ]
-   },
-   {
-    "name": "오래된 것의 새로운 쓰임",
-    "note": "기존 건축물의 시간성을 보존하면서도 현대적 주거 요구를 해결하는 태도를 다룬다.",
-    "items": [
-     {
-      "title": "1930년대의 뼈대 위에 얹은 밀도 높은 실내 풍경, 카사 MG",
-      "url": "https://www.archdaily.com/1186467/casa-mg-startup-architettura"
-     },
-     {
-      "title": "29년 세월의 정원을 품는 프룩피롬 하우스 리노베이션",
-      "url": "https://www.archdaily.com/1186235/prukpirom-house-renovation-ppr-house-s-plus-s-architects"
      }
     ]
    }
   ],
-  "based_on": 7,
+  "based_on": 11,
   "v": 3,
-  "model": "gemini-3.1-flash-lite",
-  "written_at": "2026-10-11 09:28"
+  "model": "gemini-3.5-flash-lite",
+  "written_at": "2026-10-11 15:24"
  }
 }

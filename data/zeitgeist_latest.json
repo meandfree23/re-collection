@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-10-11 11:30 KST",
+  "generated_at": "2026-10-11 15:24 KST",
   "period": "2026.10.04 - 2026.10.11",
-  "total_articles": 429,
+  "total_articles": 432,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 195
+      "count": 196
     },
     {
       "genre": "동시대 미술",
-      "count": 160
+      "count": 162
     },
     {
       "genre": "아방가르드 패션",
@@ -23,10 +23,16 @@
   "themes": [
     {
       "keyword": "사진",
-      "count": 14,
+      "count": 15,
       "previous_count": 10,
       "trend": "rising",
       "items": [
+        {
+          "title": "일본 사진작가들의 급진적인 미학 실험을 만나보세요",
+          "url": "https://www.wallpaper.com/art/photography/khaio-japanese-women-artists-after-1945-review",
+          "image_url": "https://cdn.mos.cms.futurecdn.net/UjunoYYMKoANSfU9iddCwN-1920-80.jpg",
+          "source_name": "Wallpaper*"
+        },
         {
           "title": "사진작가 데이비드 블레이크먼의 '오늘 모든 것이 아름답다'",
           "url": "https://www.booooooom.com/2026/10/09/everything-is-beautiful-today-by-photographer-david-blakeman/",
@@ -44,12 +50,6 @@
           "url": "https://www.archdaily.com/1034289/belgiums-architecture-offices-through-the-lens-of-marc-goodwin",
           "image_url": "https://images.adsttc.com/media/images/68cd/21af/67a7/a401/899d/954a/large_jpg/belgian-offices-through-the-lens-of-marc-goodwin_27.jpg?1758273997",
           "source_name": "ArchDaily"
-        },
-        {
-          "title": "미국 작가와 사진작가를 초대합니다! Dazed에서 첫 번째 바이라인을 받으세요",
-          "url": "https://www.dazeddigital.com/life-culture/article/71097/1/calling-us-writers-and-photographers-get-your-first-byline-at-dazed?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=calling-us-writers-and-photographers-get-your-first-byline-at-dazed",
-          "image_url": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/7/1457256.png",
-          "source_name": "Dazed"
         }
       ]
     },
