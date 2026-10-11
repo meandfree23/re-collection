@@ -151838,5 +151838,67 @@
   },
   "depth_raw": 4,
   "depth_v": 2
+ },
+ "designboom.com/art/chen-wei-dance-floor-stage-for-imagined-ecstasy-guest-essay": {
+  "title_ko": "첸 웨이: 댄스 플로어의 인공적 황홀경을 재구성하는 연출의 기술",
+  "summary_ko": "작가 첸 웨이는 샴푸 광고 속 정형화된 쾌락의 표정을 단초로, 클럽의 댄스 플로어에서 수행되는 황홀경의 본질을 탐구한다. 그는 스튜디오에 수백 명의 엑스트라를 배치하고 인공 안개와 조명을 활용해 연출된 군중의 사진을 촬영하며, 현실과 허구가 뒤섞인 찰나를 시각화한다.",
+  "lens": "첸 웨이는 댄스 플로어를 공간의 소멸을 유도하는 기계로 정의하고, 그 안에서 소비되는 쾌락이 연출된 허구임을 폭로한다.",
+  "why_now": "디지털 환경에서 정교하게 가공된 이미지와 실제 신체 경험 사이의 괴리가 커지는 시대에, 작가는 인공적인 세트와 연출을 통해 그 간극을 가시화한다.",
+  "mechanism": "스튜디오 내 고출력 조명과 반복적인 연기 발생기로 공간의 깊이감을 지우고, 엑스트라에게 '취한 상태'를 연기하게 함으로써 실제와 모방이 구분되지 않는 상태를 구축한다.",
+  "sensory": "자욱한 인공 안개 속에서 굳어버린 신체, 반사되는 형광 물질의 차가운 빛, 그리고 스피커를 통해 증폭되는 지시 사항이 뒤섞인 기묘한 긴장감이 현장을 지배한다.",
+  "transfer": "공간 연출 시 특정 장소의 물리적 속성을 제거해야 할 때, 안개와 조명을 활용해 경계를 모호하게 만들고 피사체의 동작을 의도적으로 정형화하여 비현실적인 분위기를 유도한다.",
+  "context": "첸 웨이는 실험 음악과 사운드 아트에서 출발해 사진과 영상으로 영역을 확장하며, 연극적인 공간 구성과 세밀한 세트 제작을 통해 현대인의 심리적 상태를 탐구해왔다. 이는 그의 이전 작업인 'The Club'이나 'Noon Club'에서 보여준 공간에 대한 집요한 관찰과 맥을 같이 한다.",
+  "findings": [
+   {
+    "text": "아르튀르 랭보는 19세기 프랑스 시인으로 상징주의와 현대 문학의 선구자로 평가받는다.",
+    "s": 1,
+    "quote": "As a poet, Rimbaud is well known for his contributions to symbolism and, among other works, for A Season in Hell, a precursor to modernist literature."
+   }
+  ],
+  "keywords": [
+   "첸웨이",
+   "연출사진",
+   "공간의소멸",
+   "황홀경",
+   "이미지수행성"
+  ],
+  "evidence": "The use of artificial fog and lighting, mirroring reflections and fluorescent materials, all kinds of monotonous designs and installations, are, in my opinion, to create a disappearance of space.",
+  "kind": "작가·인터뷰",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "작가의 작업 철학과 스튜디오 연출 기법이 명확히 드러나며, 공간 연출에 대한 구체적인 방법론을 제시하고 있다.",
+  "v": 2,
+  "url": "https://www.designboom.com/art/chen-wei-dance-floor-stage-for-imagined-ecstasy-guest-essay/",
+  "original_title": "chen wei on the dance floor as a stage for imagined ecstasy",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 7289,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-12 00:12",
+  "research": {
+   "entities": [
+    "Chen Wei",
+    "Arthur Rimbaud",
+    "The Drunken Boat"
+   ],
+   "questions": [
+    "첸 웨이(Chen Wei)가 사진 작업을 통해 탐구하고자 하는 '엑스터시'와 '공연성'의 관계는 무엇인가?",
+    "작가가 실제 나이트클럽 경험 대신 스튜디오에서 연출된 상황을 통해 '현실과 허구'를 결합하는 방식은 어떤 의미를 갖는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Arthur Rimbaud",
+     "url": "https://en.wikipedia.org/wiki/Arthur%20Rimbaud"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 1153
+  },
+  "depth_raw": 4,
+  "depth_v": 2
  }
 }
