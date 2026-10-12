@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-12 11:57 KST",
+  "generated_at": "2026-10-12 15:31 KST",
   "period": "2026.10.05 - 2026.10.12",
-  "total_articles": 419,
+  "total_articles": 424,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 192
+      "count": 197
     },
     {
       "genre": "동시대 미술",
@@ -150,6 +150,38 @@
       ]
     },
     {
+      "keyword": "리노베이션·재생",
+      "count": 8,
+      "previous_count": 5,
+      "trend": "rising",
+      "items": [
+        {
+          "title": "유서 깊은 암스테르담 운하 주택에 숨 쉬는 호화로운 안톨리니 천연석",
+          "url": "https://www.dezeen.com/2026/10/12/luxurious-antolini-natural-stones-historic-amsterdam-canal-house/",
+          "image_url": "https://static.dezeen.com/uploads/2026/09/Antolini_dezeen_2364_col_5-852x852.jpg",
+          "source_name": "Dezeen"
+        },
+        {
+          "title": "Yanqing Li 상업용 리노베이션/믹스 건축",
+          "url": "https://www.archdaily.com/1186545/yanqing-li-commercial-renovation-mix-architecture",
+          "image_url": "https://images.adsttc.com/media/images/6ac7/48a0/27ac/8d01/89cb/c349/large_jpg/yanqing-li-commercial-renovation-mix-architecture_45.jpg?1791445165",
+          "source_name": "ArchDaily"
+        },
+        {
+          "title": "L'AIGUILLEUSE - 이전 철도 신호 상자를 키오스크 바/스튜디오 테레로 개조",
+          "url": "https://www.archdaily.com/1186469/laiguilleuse-renovation-of-a-former-railway-signal-box-into-a-kiosk-bar-studio-tere",
+          "image_url": "https://images.adsttc.com/media/images/6ac6/1386/07c3/d100/017f/dc57/large_jpg/studio-tere-architecte-aiguilleuse-2.jpg?1791366071",
+          "source_name": "ArchDaily"
+        },
+        {
+          "title": "프룩피롬 하우스 리노베이션 (PPR 하우스)/S + S 건축가",
+          "url": "https://www.archdaily.com/1186235/prukpirom-house-renovation-ppr-house-s-plus-s-architects",
+          "image_url": "https://images.adsttc.com/media/images/6abf/9f4c/07c3/d100/017f/cbbe/large_jpg/0__1_.jpg?1790943065",
+          "source_name": "ArchDaily"
+        }
+      ]
+    },
+    {
       "keyword": "목재 건축",
       "count": 8,
       "previous_count": 5,
@@ -178,38 +210,6 @@
           "url": "https://design-milk.com/west-vancouver-home-openspace-architecture/",
           "image_url": "https://design-milk.com/images/2026/10/Final-18-1500x1000.jpg",
           "source_name": "Design Milk"
-        }
-      ]
-    },
-    {
-      "keyword": "레스토랑·호스피탈리티",
-      "count": 8,
-      "previous_count": 4,
-      "trend": "rising",
-      "items": [
-        {
-          "title": "다니엘 험 (Daniel Humm) 의 새로운 레스토랑은 매우 중요한 친구들의 도움 덕분에 전면적인 판타지입니다.",
-          "url": "https://www.wallpaper.com/travel/restaurants/humm-new-york",
-          "image_url": "https://cdn.mos.cms.futurecdn.net/JcyDwM2SYSwrtTbdFf7yrn-1920-80.jpg",
-          "source_name": "Wallpaper*"
-        },
-        {
-          "title": "현대적인 멕시코시티 레스토랑의 클래식한 선술집을 재해석한 Formant Studio",
-          "url": "https://www.dezeen.com/2026/10/09/nota-taverna-mexico-city-formant-studio/",
-          "image_url": "https://static.dezeen.com/uploads/2026/10/formant-studio-nota-tavern-mexico-city_dezeen_2364_sq-852x852.jpg",
-          "source_name": "Dezeen"
-        },
-        {
-          "title": "2027 ArtFields Festival에서 $ 100,000 이상의 상금 및 새로운 공공 예술 기회",
-          "url": "https://hyperallergic.com/over-100-000-in-prizes-and-new-public-art-opportunities-at-2027-artfields-festival/",
-          "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/10/-Staring-Into-the-Eyes-of-the-New-Ophanim---detail--by-Kate-Burke-on-display-during-the-2026-ArtFields-Festival.jpg",
-          "source_name": "Hyperallergic"
-        },
-        {
-          "title": "MILLÓ",
-          "url": "https://leibal.com/interiors/millo/",
-          "image_url": "https://leibal.com/wp-content/uploads/2026/10/leibal_millo_ae02_05-700x1050.jpg",
-          "source_name": "Leibal"
         }
       ]
     }

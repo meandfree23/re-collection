@@ -1936,41 +1936,45 @@
  },
  "2026-10-12": {
   "date": "2026-10-12",
-  "headline": "곡선 상담실의 시선과 엇갈린 숲의 집",
-  "editorial": "와이즈 상담실은 유연한 곡선으로 대기자와 상담자의 시선을 나누고 파인우드 하우스는 두 채의 집을 엇갈려 세워 숲의 개방감을 확보한다. 낭트의 철도 신호소는 낡은 산업 구조물을 공공 공원의 바로 바꾸어 장소의 기억을 잇는다. 이처럼 서로 다른 건축은 지형과 풍경의 결을 거스르지 않고 새로운 자리를 만든다.",
+  "headline": "향수 분수의 분사구와 낡은 철도 신호소의 창틀",
+  "editorial": "파리 카론 매장의 향수 분수는 런웨이의 긴장감을 매장 안으로 끌어들여 제품을 무대 위 주인공으로 세운다. 이처럼 기존 장소의 맥락을 읽어내어 새로운 기능을 입히는 작업들이 잇따른다. 낭트의 철도 신호소는 공공 바가 되었고, 다카르의 방치된 건물은 이탈리아의 비즈니스 거점으로 변모했다. 쥘 부르제스가 수작업으로 복원한 동화 속 질감처럼, 과거의 흔적에 손길을 더해 현재의 기능을 수행하게 만드는 이들의 전략에 주목한다.",
   "threads": [
    {
-    "name": "지형과 대지의 점유",
-    "note": "주변의 자연 지형과 나무의 밀도를 고려하여 건물을 배치한다.",
+    "name": "오래된 장소의 새 쓰임",
+    "note": "사라질 위기에 처했거나 용도를 잃은 기존 건물을 새로운 용도로 전환하여 도시의 결을 이어간다.",
     "items": [
      {
-      "title": "소나무 숲 사이를 엇갈려 배치한 두 채의 집, 파인우드 하우스",
-      "url": "https://www.archdaily.com/1186486/pinewood-houses-nomo-studio"
-     },
-     {
-      "title": "자연 원형극장의 지형을 품은 브라질 오바 하우스",
-      "url": "https://www.archdaily.com/1032640/iba-house-daniel-fromer"
-     }
-    ]
-   },
-   {
-    "name": "기능과 장소의 전환",
-    "note": "내부의 동선과 버려진 산업 유산을 새로운 공공 기능으로 치환한다.",
-    "items": [
-     {
-      "title": "와이즈 상담실: 유연한 곡선으로 구축한 심리적 안전망",
-      "url": "https://www.archdaily.com/1186225/wise-consultation-office-rvmn"
+      "title": "세네갈 다카르, 버려진 건물을 이탈리아 비즈니스 거점으로 재활용하다",
+      "url": "https://www.archdaily.com/1186426/ita-italian-trade-agency-dakar-most-monti-studio"
      },
      {
       "title": "낭트의 낡은 철도 신호소, 공공 공원의 키오스크 바가 되다",
       "url": "https://www.archdaily.com/1186469/laiguilleuse-renovation-of-a-former-railway-signal-box-into-a-kiosk-bar-studio-tere"
+     },
+     {
+      "title": "철거 앞둔 호텔에 들어서는 낫 어 호텔의 첫 번째 문화 공간",
+      "url": "https://www.dezeen.com/2026/10/12/not-a-hotel-open-not-a-museum-imperial-plaza-hotel-tokyo/"
+     }
+    ]
+   },
+   {
+    "name": "무대가 된 건축적 장치",
+    "note": "내부의 빛과 분사구, 혹은 곡선의 동선 설계를 통해 사용자가 공간 속에서 특정한 감각을 경험하도록 유도한다.",
+    "items": [
+     {
+      "title": "캐스퍼 뮐러 크니어, 파리 카론 매장에 구현한 빛의 향수 분수",
+      "url": "https://www.yellowtrace.com.au/casper-mueller-kneer-caron-rue-saint-honore-luxury-retail-interior-design/"
+     },
+     {
+      "title": "와이즈 상담실: 유연한 곡선으로 구축한 심리적 안전망",
+      "url": "https://www.archdaily.com/1186225/wise-consultation-office-rvmn"
      }
     ]
    }
   ],
-  "based_on": 5,
+  "based_on": 12,
   "v": 3,
-  "model": "gemini-3.5-flash-lite",
-  "written_at": "2026-10-12 09:51"
+  "model": "gemini-3.1-flash-lite",
+  "written_at": "2026-10-12 15:32"
  }
 }

@@ -152320,5 +152320,266 @@
   },
   "depth_raw": 5,
   "depth_v": 2
+ },
+ "archdaily.com/1185894/integrating-solar-protection-as-an-envelope-strategy": {
+  "title_ko": "건물 외피의 최전선, 태양열 차단을 설계 초기 단계로 끌어올리기",
+  "summary_ko": "기온 상승이 잦아지면서 건축 외피 설계에서 열 손실 방지뿐만 아니라 태양열 유입 제어가 핵심 과제로 떠올랐다. 외부 차양 시스템과 자동화 기술을 초기 설계 단계부터 통합해 냉방 부하를 줄이고 시각적 쾌적함을 동시에 확보하는 전략을 다룬다.",
+  "lens": "유리 파사드 뒤에 후속 대책을 세우기보다, 유리 앞에 차양을 두어 열을 원천 차단한다.",
+  "why_now": "폭염이 빈번해진 기후 조건에서 냉방 에너지 의존도를 낮추기 위해 건물의 외피 전략을 재정립해야 한다.",
+  "mechanism": "유리 외부에 지퍼 시스템과 기술 패브릭을 배치해 태양 복사열이 유리에 닿기 전에 가로챈다. 센서와 자동화 앱이 연동되어 일조량과 풍속에 따라 패브릭의 위치를 실시간으로 조절한다.",
+  "sensory": "서향 유리에 직사광선이 내리쬐는 오후 시간대에 눈부심이 차단되고, 실내 온도가 안정되며 자연광이 은은하게 필터링된다.",
+  "transfer": "공간 연출 시 오후 세 시에서 일곱 시 사이의 서향 빛을 가정한 가상 시뮬레이션을 거쳐, 외장 루버나 외부 전동 블라인드의 차폐율을 미리 테스트한다.",
+  "context": "건축 외피와 에너지 성능의 통합을 다루는 아치데일리(ArchDaily)의 지속 가능성 건축 기술 리포트다.",
+  "findings": [],
+  "keywords": [
+   "건물외피",
+   "태양열차단",
+   "파사드",
+   "지속가능건축",
+   "에너지효율"
+  ],
+  "evidence": "By understanding solar shading as a design decision rather than a decorative or interior-conditioning element, it becomes part of passive energy-efficiency strategies",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "외피 설계로서의 태양열 차단 개념을 다룬 실용적인 건축 기술 기사로 정보 전달 중심이다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1185894/integrating-solar-protection-as-an-envelope-strategy",
+  "original_title": "Integrating Solar Protection as an Envelope Strategy",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 8238,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-12 15:31",
+  "research": {
+   "entities": [
+    "Bandalux"
+   ],
+   "questions": [
+    "건물 외피 전략으로서 외부 차양 시스템이 냉방 부하를 줄이는 데 어떻게 기여하는가?",
+    "태양열 차단과 실내 자연광 확보 사이의 균형을 맞추기 위해 어떤 디자인 요소들을 고려해야 하는가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "dezeen.com/2026/10/12/not-a-hotel-open-not-a-museum-imperial-plaza-hotel-tokyo": {
+  "title_ko": "철거 앞둔 호텔에 들어서는 낫 어 호텔의 첫 번째 문화 공간",
+  "summary_ko": "호텔 브랜드 낫 어 호텔을 운영하는 노타가 도쿄 크리에이티브 집단 SKWAT과 협업하여 임페리얼 호텔 플라자 도쿄에 첫 번째 문화 공간인 낫 어 뮤지엄을 선보인다. 두 브랜드의 협업으로 조성되는 이 복합 용도 공간은 철거를 앞둔 건물에서 진행된다.",
+  "lens": "철거를 앞둔 도심 건물의 빈틈을 파고들어 일시적인 문화 공간으로 전용한다.",
+  "why_now": "도시 재개발을 앞둔 건축물의 수명 주기를 일시적으로 비틀어 새로운 문화적 실천 실험장으로 삼는 방식이다.",
+  "mechanism": "기존 상업 공간의 해체 직전 시점을 포착하여 도쿄의 크리에이티브 집단이 개입하는 구조를 취한다.",
+  "sensory": "철거를 앞둔 건물의 거친 날것 그대로의 골조와 임시로 구축된 전시 구조물이 부딪히는 시각적 긴장감.",
+  "transfer": "철거 예정인 실제 상업 공간을 단기 로케이션 세트로 삼아 다큐멘터리나 뮤직비디오의 배경으로 즉각 활용한다.",
+  "context": "호텔 브랜드 낫 어 호텔은 다양한 디자이너 및 크리에이티브 집단과의 협업을 통해 공간 실험을 지속하고 있다.",
+  "findings": [],
+  "keywords": [
+   "낫어호텔",
+   "SKWAT",
+   "공간기획",
+   "도시재개발"
+  ],
+  "evidence": "",
+  "kind": "프로젝트",
+  "depth": 2,
+  "grounding": "thin",
+  "depth_reason": "원문 본문 없이 메타 정보만 확인되어 구체적인 디자인 장치나 기법을 알 수 없다.",
+  "v": 2,
+  "url": "https://www.dezeen.com/2026/10/12/not-a-hotel-open-not-a-museum-imperial-plaza-hotel-tokyo/",
+  "original_title": "Not a Hotel to open Not a Museum at Imperial Hotel Plaza Tokyo ahead of demolition",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 0,
+  "fetch": "fetch_error:HTTPError",
+  "cliche_hits": [],
+  "read_at": "2026-10-12 15:31",
+  "research": {
+   "entities": [
+    "Not a Hotel",
+    "SKWAT",
+    "Imperial Hotel Plaza Tokyo"
+   ],
+   "questions": [
+    "Not a Hotel과 SKWAT의 협업으로 탄생한 'Not a Museum'의 주요 전시 컨셉은 무엇인가요?",
+    "임페리얼 호텔 플라자 도쿄의 철거 앞두고 해당 공간을 문화 공간으로 활용하게 된 배경은 무엇인가요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "사기시마섬의 지형을 품은 세 채의 빌라, 비오이유가 완성한 재팬디의 풍경",
+     "url": "https://www.architecturaldigest.com/story/this-stunning-resort-built-into-an-island-marks-a-new-wave-of-japandi-design"
+    }
+   ],
+   "used": [],
+   "chars": 240
+  },
+  "depth_raw": 2,
+  "depth_v": 2
+ },
+ "dezeen.com/2026/10/12/luxurious-antolini-natural-stones-historic-amsterdam-canal-house": {
+  "title_ko": "18세기 암스테르담 운하 주택과 천연석의 만남",
+  "summary_ko": "알브이오 디자인의 디자이너 루트 반 오스터하우트는 이탈리아 석재 브랜드 안톨리니의 천연석을 활용해 18세기 암스테르담 운하 주택의 인테리어를 리노베이션했다. 역사적인 주택의 공간 구조를 유지하면서 석재 표면을 디자인 요소로 적극 도입했다.",
+  "lens": "역사적인 건축물의 골조 안에 이질적인 천연석 표면을 삽입해 시간의 간극을 만든다.",
+  "why_now": "보존이 중심인 유서 깊은 주택에서 고유의 물성을 지닌 마감재를 통해 동시대적 감각을 더하는 방식이다.",
+  "mechanism": "이탈리아산 천연석의 독특한 결광 표면을 공간 내부의 핵심 시각 초점으로 배치해 동선을 유도한다.",
+  "sensory": "차가운 석재의 단단한 질감과 세월이 묻어나는 오랜 건축 구조물이 극명한 대비를 이룬다.",
+  "transfer": "사극이나 시대극 공간 연출에서 전통적인 배경 한가운데에 현대적이고 원색적인 질감의 소품을 배치해 시각적 긴장을 높일 때 적용한다.",
+  "context": "디자이너 루트 반 오스터하우트가 안톨리니의 석재를 활용해 18세기 암스테르담 운하 주택을 리노베이션한 프로젝트다.",
+  "findings": [],
+  "keywords": [
+   "운하주택",
+   "천연석",
+   "인테리어",
+   "리노베이션"
+  ],
+  "evidence": "Luxurious Antolini natural stones breathe life into historic Amsterdam canal house",
+  "kind": "프로젝트",
+  "depth": 2,
+  "grounding": "thin",
+  "depth_reason": "브랜드 홍보성 프로모션 기사로 원문 내용이 제한적이어서 정보와 해석의 폭이 좁다.",
+  "v": 2,
+  "url": "https://www.dezeen.com/2026/10/12/luxurious-antolini-natural-stones-historic-amsterdam-canal-house/",
+  "original_title": "Luxurious Antolini natural stones breathe life into historic Amsterdam canal house",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 0,
+  "fetch": "fetch_error:HTTPError",
+  "cliche_hits": [],
+  "read_at": "2026-10-12 15:31",
+  "research": {
+   "entities": [
+    "Antolini",
+    "Ruud van Oosterhout",
+    "RVO Design"
+   ],
+   "questions": [
+    "18세기 암스테르담 운하 주택의 건축적 특징과 현대적 인테리어의 조화는 어떻게 이루어지는가?",
+    "Antolini 천연 석재가 가진 고유한 물성과 디자인적 가치는 무엇인가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 2,
+  "depth_v": 2
+ },
+ "archdaily.com/1186545/yanqing-li-commercial-renovation-mix-architecture": {
+  "title_ko": "한커우의 기억을 잇는 리펀 건축의 상업적 재해석, 옌칭리",
+  "summary_ko": "중국 우한의 한커우 역사 지구에 위치한 옌칭리는 1933년 중옌성이 건립한 리펀 건축물이다. 믹스 아키텍처는 동서양 양식이 혼재된 7개의 건물과 4개의 골목 구조를 유지하며, 이를 개방형 상업 블록으로 재생했다. 이 프로젝트는 산양 지구 도시 재생을 위한 선도적 모델로 기능한다.",
+  "lens": "역사적 골목 체계인 리펀을 보존하며 현대 상업 공간으로 전환하는 방식은 물리적 파편화 없이 도시의 결을 잇는 유효한 전략이다.",
+  "why_now": "도심 재생 과정에서 역사적 건축 유형을 파괴하지 않고 상업적 가치를 부여하는 방식이 도시 설계의 핵심 의제로 부상했다.",
+  "mechanism": "기존 4개의 골목길을 중심으로 7개의 건물을 재배치하여, 내부와 외부를 관통하는 보행 동선을 확보하고 개방감을 극대화했다.",
+  "sensory": "1933년 당시의 벽돌과 목재 구조가 주는 고전적인 질감과 현대적인 리테일 환경이 겹쳐지며 시각적 층위를 형성한다.",
+  "transfer": "역사적 공간을 촬영할 때 골목길이 만드는 빛의 각도와 건물 사이의 좁은 시야를 활용해 깊이감 있는 샷을 구성할 수 있다.",
+  "context": "1933년 중옌성이 건립한 리펀은 한커우 지역의 전통적인 주거 형태이며, 이번 프로젝트는 산양 지구 재생을 위한 파일럿 모델로 추진되었다.",
+  "findings": [],
+  "keywords": [
+   "리펀",
+   "도시재생",
+   "우한",
+   "믹스아키텍처",
+   "상업공간"
+  ],
+  "evidence": "Yanqing Li is located in Hankou's historic district, at the intersection of Shengli Street and Eryao Xiaolu. It consists of seven buildings blending Eastern and Western styles",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "역사적 건축 양식의 재생 전략을 다루고 있으나 세부적인 기술적 디테일이 부족하여 평이한 수준이다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1186545/yanqing-li-commercial-renovation-mix-architecture",
+  "original_title": "Yanqing Li Commercial Renovation / Mix Architecture",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 1728,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-12 15:32",
+  "research": {
+   "entities": [
+    "Mix Architecture",
+    "Yanqing Li",
+    "Wuhan Civil Architecture Design & Research Institute",
+    "Fan Architectural Firm"
+   ],
+   "questions": [
+    "Yanqing Li가 위치한 한커우(Hankou) 지역의 역사적 맥락과 '리펀(Lifen)' 건축 양식의 특징은 무엇인가요?",
+    "이번 리노베이션 프로젝트가 Sanyang 지구 재생 계획에서 어떤 전략적 역할을 수행하고 있나요?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "archdaily.com/1186426/ita-italian-trade-agency-dakar-most-monti-studio": {
+  "title_ko": "세네갈 다카르, 버려진 건물을 이탈리아 비즈니스 거점으로 재활용하다",
+  "summary_ko": "세네갈 다카르에 위치한 이탈리아 대사관 단지 내 버려진 건물을 개조해 이탈리아 무역공사(ITA)의 새 본사를 완성했다. 모스트 몬티 스튜디오(MOST Monti Studio)는 신축 대신 기존 구조의 재활용을 선택하며 건축적, 문화적 지속 가능성을 실천했다. 150제곱미터 규모의 이 공간은 이탈리아 기업의 해외 진출을 지원하는 거점으로 운영된다.",
+  "lens": "신축 대신 방치된 건물을 선택하여 도시 맥락 속에 이탈리아의 비즈니스 정체성을 이식한 재생 건축의 사례다.",
+  "why_now": "기후 위기 시대에 신축보다 기존 건물의 재사용을 우선하는 건축적 태도가 공공 기관의 오피스 설계에서도 표준이 되고 있다.",
+  "mechanism": "기존 건축물의 골조를 유지하며 내부 기능만 재구성하는 방식이다. 물리적 환경을 새로 짓지 않고도 공공 행정 업무에 최적화된 오피스로 전환했다.",
+  "sensory": "오래된 벽체와 현대적인 오피스 가구가 공존하며 발생하는 시간의 층위가 공간의 밀도를 높인다.",
+  "transfer": "기존 건물의 노후한 마감재를 그대로 노출하고 그 위에 정교한 가구와 조명을 배치하여 대비를 극대화하는 연출을 적용해 보라.",
+  "context": "이탈리아 무역공사는 1926년 설립된 정부 기관으로, 해외 수출 진흥과 투자 유치를 전담한다. 모스트 몬티 스튜디오는 이번 프로젝트를 통해 공공 건축에서 환경적 가치를 고려한 리노베이션의 가능성을 보여주었다.",
+  "findings": [
+   {
+    "text": "이탈리아 무역공사는 1926년 국립수출연구소(INE)라는 이름으로 처음 설립되었다.",
+    "s": 1,
+    "quote": "It was established in 1926 with the Decreto reale n. 800 with the name of INE (Istituto nazionale per le esportazioni, \"National Institute for Exports\")"
+   },
+   {
+    "text": "2013년부터 현재의 명칭으로 운영되며 전 세계 이탈리아 기업의 수출과 투자를 지원하고 있다.",
+    "s": 1,
+    "quote": "from 1 January 2013 the new ICE Agency has been operational to support Italian exports and investments around the world"
+   }
+  ],
+  "keywords": [
+   "재생건축",
+   "오피스인테리어",
+   "지속가능성",
+   "모스트몬티스튜디오",
+   "이탈리아무역공사"
+  ],
+  "evidence": "the project embraces reuse as an architectural and cultural choice, proposing an alternative to the construction of an entirely new office building in the city centre.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "건축적 재생의 가치를 강조했으나 구체적인 내부 재료나 빛의 운용에 대한 정보가 부족하여 평범한 소개 수준에 머문다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1186426/ita-italian-trade-agency-dakar-most-monti-studio",
+  "original_title": "ITA - Italian Trade Agency Dakar / MOST Monti Studio",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 1429,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-12 15:32",
+  "research": {
+   "entities": [
+    "ITA - Italian Trade Agency",
+    "MOST Monti Studio",
+    "Mirco Monti",
+    "Andrea Martiradonna",
+    "Italian Embassy in Dakar"
+   ],
+   "questions": [
+    "ITA 다카르 지사 프로젝트는 버려진 건물을 어떻게 지속 가능하게 재활용했나요?",
+    "MOST Monti Studio가 이탈리아 무역공사(ITA) 인테리어 디자인에서 강조한 문화적, 건축적 요소는 무엇인가요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Italian Trade Agency",
+     "url": "https://en.wikipedia.org/wiki/Italian%20Trade%20Agency"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 1326
+  },
+  "depth_raw": 3,
+  "depth_v": 2
  }
 }
