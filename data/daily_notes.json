@@ -1933,5 +1933,44 @@
   "v": 3,
   "model": "gemini-3.1-flash-lite",
   "written_at": "2026-10-11 23:18"
+ },
+ "2026-10-12": {
+  "date": "2026-10-12",
+  "headline": "곡선 상담실의 시선과 엇갈린 숲의 집",
+  "editorial": "와이즈 상담실은 유연한 곡선으로 대기자와 상담자의 시선을 나누고 파인우드 하우스는 두 채의 집을 엇갈려 세워 숲의 개방감을 확보한다. 낭트의 철도 신호소는 낡은 산업 구조물을 공공 공원의 바로 바꾸어 장소의 기억을 잇는다. 이처럼 서로 다른 건축은 지형과 풍경의 결을 거스르지 않고 새로운 자리를 만든다.",
+  "threads": [
+   {
+    "name": "지형과 대지의 점유",
+    "note": "주변의 자연 지형과 나무의 밀도를 고려하여 건물을 배치한다.",
+    "items": [
+     {
+      "title": "소나무 숲 사이를 엇갈려 배치한 두 채의 집, 파인우드 하우스",
+      "url": "https://www.archdaily.com/1186486/pinewood-houses-nomo-studio"
+     },
+     {
+      "title": "자연 원형극장의 지형을 품은 브라질 오바 하우스",
+      "url": "https://www.archdaily.com/1032640/iba-house-daniel-fromer"
+     }
+    ]
+   },
+   {
+    "name": "기능과 장소의 전환",
+    "note": "내부의 동선과 버려진 산업 유산을 새로운 공공 기능으로 치환한다.",
+    "items": [
+     {
+      "title": "와이즈 상담실: 유연한 곡선으로 구축한 심리적 안전망",
+      "url": "https://www.archdaily.com/1186225/wise-consultation-office-rvmn"
+     },
+     {
+      "title": "낭트의 낡은 철도 신호소, 공공 공원의 키오스크 바가 되다",
+      "url": "https://www.archdaily.com/1186469/laiguilleuse-renovation-of-a-former-railway-signal-box-into-a-kiosk-bar-studio-tere"
+     }
+    ]
+   }
+  ],
+  "based_on": 5,
+  "v": 3,
+  "model": "gemini-3.5-flash-lite",
+  "written_at": "2026-10-12 09:51"
  }
 }

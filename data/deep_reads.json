@@ -151995,5 +151995,171 @@
   },
   "depth_raw": 3,
   "depth_v": 2
+ },
+ "archdaily.com/1032640/iba-house-daniel-fromer": {
+  "title_ko": "자연 원형극장의 지형을 품은 브라질 오바 하우스",
+  "summary_ko": "건축가 다니엘 프로머(Daniel Fromer)가 브라질 포르투 세구루에 700제곱미터 규모의 오바 하우스(Ība House)를 완공했다. 조경가 호드리구 올리베이라(Rodrigo Oliveira)는 5천 제곱미터가 넘는 부지의 지형을 자연 원형극장으로 해석해 건축물을 배치했다. 기존 지형을 보존하며 자연 식생과 설계된 정원을 잇는 방식으로 주거 공간을 구현했다.",
+  "lens": "건축을 지형의 일부로 편입시켜, 경사면의 곡선을 따라 석양을 조망하는 자연 원형극장을 완성했다.",
+  "why_now": "대규모 토목 공사 대신 부지의 고유한 지형을 건축의 동선과 시선 처리의 핵심으로 활용하는 자연 순응적 설계가 주목받고 있다.",
+  "mechanism": "자연스러운 경사면을 활용해 건물을 지형 속에 안착시켰으며, 조경과 건축의 접점을 최소화해 기존 지형의 흐름을 보존했다.",
+  "sensory": "석양을 정면으로 마주하는 개방적인 시야와 자연 식생이 건축물 사이를 파고드는 밀도 높은 녹색의 질감을 경험할 수 있다.",
+  "transfer": "영상 촬영 시 인공적인 조명 대신 자연 지형이 만드는 그림자와 황혼의 빛을 활용해 공간의 깊이감을 극대화하는 롱테이크 샷을 제안한다.",
+  "context": "조경가 호드리구 올리베이라는 상파울루 111 하우스에서 노출 콘크리트와 수직 정원을 결합해 건축과 정원의 경계를 허무는 작업을 선보인 바 있다. 이번 프로젝트에서는 수직적 확장 대신 부지의 원형 지형을 보존하는 데 집중했다.",
+  "findings": [],
+  "keywords": [
+   "자연 순응",
+   "지형 보존",
+   "브라질 건축",
+   "호드리구 올리베이라"
+  ],
+  "evidence": "With a topography reminiscent of a natural amphitheater, facing the landscape and offering a privileged view of the sunset",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "부지의 지형적 특성과 조경의 역할을 명확히 설명했으나, 건축적 상세 기법에 대한 정보가 제한적이다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1032640/iba-house-daniel-fromer",
+  "original_title": "Ība House / Daniel Fromer",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 1059,
+  "fetch": "ok",
+  "cliche_hits": [
+   "경계를 허"
+  ],
+  "read_at": "2026-10-12 09:51",
+  "research": {
+   "entities": [
+    "Daniel Fromer",
+    "Rodrigo Oliveira",
+    "Marina Linhares",
+    "Evelyn Müller",
+    "Ība House"
+   ],
+   "questions": [
+    "Ība 주택은 자연 지형을 어떻게 보존하며 설계되었나요?",
+    "조경가 Rodrigo Oliveira가 브라질 바히아 지역의 부지에서 영감을 받은 요소는 무엇인가요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "상파울루의 두 가로를 엮는 복합 건축, 제로니모 파리아 리마",
+     "url": "https://www.archdaily.com/1185833/jeronimo-faria-lima-building-perkins-and-will-sao-paulo"
+    },
+    {
+     "n": 2,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "상파울루 111 하우스: 노출 콘크리트와 수직 정원이 빚어내는 모더니즘의 변주",
+     "url": "https://www.wallpaper.com/architecture/residential/sao-paulo-house-isay-weinfeld-rodrigo-oliveira-brazil"
+    }
+   ],
+   "used": [
+    2
+   ],
+   "chars": 540
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "archdaily.com/1186225/wise-consultation-office-rvmn": {
+  "title_ko": "와이즈 상담실: 유연한 곡선으로 구축한 심리적 안전망",
+  "summary_ko": "알브이엠엔(RVMN)이 설계한 서울의 와이즈(WISE) 상담실은 결혼이라는 여정의 가변성을 공간의 유연함으로 치환했다. 316㎡ 규모의 내부 공간은 곡선형 벽체와 흐름을 통해 상담자와 대기자의 시선과 동선을 분리하며 심리적 프라이버시를 확보했다.",
+  "lens": "상담 공간의 경직성을 곡선으로 상쇄하여 대기자와 상담자 사이의 심리적 간섭을 물리적 거리감이 아닌 시선의 흐름으로 제어한다.",
+  "why_now": "개인 상담 공간에서 프라이버시를 확보하기 위해 물리적 차단벽 대신 유연한 평면 구성을 선택하는 설계 방식이 주목받는다.",
+  "mechanism": "곡선형 벽체를 활용해 동선과 시선을 굴절시켜 대기 구역과 상담실 사이의 직접적인 접촉을 차단하고 공간의 흐름을 부드럽게 유도한다.",
+  "sensory": "곡선 벽면을 따라 이어지는 시각적 흐름이 공간의 폐쇄성을 낮추며, 부드러운 곡률이 방문객에게 심리적 안정감을 제공한다.",
+  "transfer": "프라이버시가 중요한 촬영 현장에서 카메라와 피사체 사이의 시선을 차단할 때, 직선 벽 대신 곡선형 가벽을 배치해 깊이감을 확보하고 시선을 자연스럽게 분산한다.",
+  "context": "알브이엠엔은 결혼 상담이라는 서비스의 속성을 '나무의 유연함'이라는 은유로 해석하여 공간의 구조적 언어로 변환했다.",
+  "findings": [],
+  "keywords": [
+   "상담실인테리어",
+   "곡선설계",
+   "동선분리",
+   "알브이엠엔"
+  ],
+  "evidence": "Flexible curves and spatial flows were used to create both direct and indirect separation between the circulation and sightlines of waiting customers and those receiving consultations",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "상담 공간의 프라이버시 문제를 곡선이라는 디자인 언어로 해결한 논리가 명확하나, 시각적 자료에 대한 구체적 묘사가 부족하다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1186225/wise-consultation-office-rvmn",
+  "original_title": "Wise Consultation Office / RVMN",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 1428,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-12 09:51",
+  "research": {
+   "entities": [
+    "RVMN"
+   ],
+   "questions": [
+    "결혼 상담소라는 공간의 특수성을 고려할 때, 프라이버시를 보호하기 위한 곡선형 디자인은 어떤 심리적 효과를 주는가?",
+    "나무의 유연함이라는 은유가 건축적 공간 구성에서 구체적으로 어떻게 평면도와 동선에 적용되었는가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "archdaily.com/1186486/pinewood-houses-nomo-studio": {
+  "title_ko": "소나무 숲 사이를 엇갈려 배치한 두 채의 집, 파인우드 하우스",
+  "summary_ko": "스페인 코스타 브라바 해변 인근 소나무 숲에 위치한 파인우드 하우스는 두 채의 단독 주택으로 구성된다. 노모 스튜디오는 두 건물을 서로 엇갈리게 배치하여 시야 간섭을 최소화하고 대지 전체의 시각적 깊이를 확보했다. 각 주택은 숲속에 자연스럽게 스며들며 개별적인 독립성과 환기 효율을 극대화한다.",
+  "lens": "단순한 병렬 배치를 넘어 건물을 엇갈리게 앉혀 숲의 밀도와 시각적 개방감을 동시에 확보하는 영리한 대지 점유 방식이다.",
+  "why_now": "자연 경관을 훼손하지 않으면서도 밀집된 주거지에서 프라이버시와 조망권을 확보해야 하는 현대 건축의 과제를 정교한 배치로 해결했다.",
+  "mechanism": "두 주택을 인터칼레이티드(intercalated) 방식으로 엇갈려 배치하여 서로의 시야를 가리지 않게 설계했다. 이를 통해 각 주택은 독립적인 환기 경로를 확보하고 대지 전체를 관통하는 시각적 깊이를 유지한다.",
+  "sensory": "소나무 숲의 거친 질감과 대비되는 간결한 매스감이 돋보이며, 숲 사이로 들어오는 빛과 그림자가 실내로 깊숙이 스며든다.",
+  "transfer": "공간 연출 시 뷰가 겹치는 지점에 사선형 배치를 도입해 시각적 개방감을 확보하고, 조명 설계 시 숲의 그림자를 활용해 실내에 자연스러운 패턴을 생성한다.",
+  "context": "노모 스튜디오는 스페인의 지형적 특성을 활용한 주거 작업을 지속해 왔다. 사진가 시모네 마르콜린은 앞서 리서치 자료에 언급된 카사 이리아르테와 같은 스페인 내 주거 프로젝트를 기록하며 공간의 빛과 구조를 포착해 왔다.",
+  "findings": [],
+  "keywords": [
+   "노모스튜디오",
+   "코스타브라바",
+   "주거건축",
+   "배치전략"
+  ],
+  "evidence": "to place the two dwellings in an intercalated arrangement that avoids mutual obstruction, allowing each house to breathe and maintaining long visual depth across the site.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "구체적인 배치 원리는 제시했으나 재료나 내부 구조에 대한 정보가 제한적이다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1186486/pinewood-houses-nomo-studio",
+  "original_title": "Pinewood Houses / NOMO STUDIO",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 1284,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-12 09:51",
+  "research": {
+   "entities": [
+    "NOMO STUDIO",
+    "Karl Johan Nyqvist",
+    "Alicia Casals",
+    "Pinewood Houses",
+    "Simone Marcolin"
+   ],
+   "questions": [
+    "코스타 브라바의 소나무 숲에 지어진 Pinewood Houses는 주변 자연환경과 어떻게 조화를 이루고 있나요?",
+    "두 채의 주택이 서로 시야를 가리지 않도록 배치된 intercalated arrangement 구조의 구체적인 설계 방식은 무엇인가요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "좁은 필지의 한계를 안뜰로 돌파한 카사 이리아르테",
+     "url": "https://www.archdaily.com/1186485/casa-iriarte"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 245
+  },
+  "depth_raw": 3,
+  "depth_v": 2
  }
 }

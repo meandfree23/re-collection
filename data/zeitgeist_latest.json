@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-12 02:58 KST",
+  "generated_at": "2026-10-12 09:51 KST",
   "period": "2026.10.05 - 2026.10.12",
-  "total_articles": 414,
+  "total_articles": 417,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 188
+      "count": 191
     },
     {
       "genre": "동시대 미술",
@@ -150,6 +150,38 @@
       ]
     },
     {
+      "keyword": "목재 건축",
+      "count": 8,
+      "previous_count": 5,
+      "trend": "rising",
+      "items": [
+        {
+          "title": "파인우드 하우스/노모 스튜디오",
+          "url": "https://www.archdaily.com/1186486/pinewood-houses-nomo-studio",
+          "image_url": "https://images.adsttc.com/media/images/6ac6/5aec/07c3/d100/017f/ddb7/large_jpg/SimoneMarcolin_JPG6000_2507_NomoStudio_Fosca_DSC8839.jpg?1791384395",
+          "source_name": "ArchDaily"
+        },
+        {
+          "title": "Wiki World Forest Store / Wiki World",
+          "url": "https://www.archdaily.com/1186540/wiki-world-forest-store-wiki-world",
+          "image_url": "https://images.adsttc.com/media/images/6ac7/14df/07c3/d100/017f/e141/large_jpg/02.jpg?1791431947",
+          "source_name": "ArchDaily"
+        },
+        {
+          "title": "프라하의 스에프카 아키텍티 모델 조립식 주택 목재 옷장",
+          "url": "https://www.dezeen.com/2026/10/08/sepka-architekti-wardrobe-house/",
+          "image_url": "https://static.dezeen.com/uploads/2026/10/wardrobe-house-sepka-architekti-architecture-residential-czech-republic-wood-prefabrication_dezeen_2364_sq-852x852.jpg",
+          "source_name": "Dezeen"
+        },
+        {
+          "title": "웨스트 밴쿠버의 한 주택이 나무 사이에 떠 있는 것처럼 보입니다.",
+          "url": "https://design-milk.com/west-vancouver-home-openspace-architecture/",
+          "image_url": "https://design-milk.com/images/2026/10/Final-18-1500x1000.jpg",
+          "source_name": "Design Milk"
+        }
+      ]
+    },
+    {
       "keyword": "레스토랑·호스피탈리티",
       "count": 8,
       "previous_count": 4,
@@ -178,38 +210,6 @@
           "url": "https://leibal.com/interiors/millo/",
           "image_url": "https://leibal.com/wp-content/uploads/2026/10/leibal_millo_ae02_05-700x1050.jpg",
           "source_name": "Leibal"
-        }
-      ]
-    },
-    {
-      "keyword": "목재 건축",
-      "count": 7,
-      "previous_count": 5,
-      "trend": "rising",
-      "items": [
-        {
-          "title": "Wiki World Forest Store / Wiki World",
-          "url": "https://www.archdaily.com/1186540/wiki-world-forest-store-wiki-world",
-          "image_url": "https://images.adsttc.com/media/images/6ac7/14df/07c3/d100/017f/e141/large_jpg/02.jpg?1791431947",
-          "source_name": "ArchDaily"
-        },
-        {
-          "title": "프라하의 스에프카 아키텍티 모델 조립식 주택 목재 옷장",
-          "url": "https://www.dezeen.com/2026/10/08/sepka-architekti-wardrobe-house/",
-          "image_url": "https://static.dezeen.com/uploads/2026/10/wardrobe-house-sepka-architekti-architecture-residential-czech-republic-wood-prefabrication_dezeen_2364_sq-852x852.jpg",
-          "source_name": "Dezeen"
-        },
-        {
-          "title": "웨스트 밴쿠버의 한 주택이 나무 사이에 떠 있는 것처럼 보입니다.",
-          "url": "https://design-milk.com/west-vancouver-home-openspace-architecture/",
-          "image_url": "https://design-milk.com/images/2026/10/Final-18-1500x1000.jpg",
-          "source_name": "Design Milk"
-        },
-        {
-          "title": "Architects Office는 상파울루 파빌리온의 \"거대한 퍼즐\" 로 대량 목재 스크랩을 사용합니다.",
-          "url": "https://www.dezeen.com/2026/10/07/architects-office-brazilian-pavilion-glulam-scrap/",
-          "image_url": "https://static.dezeen.com/uploads/2026/09/iz-pavilion-architects-office_dezeen_2364_sq_0-852x852.jpg",
-          "source_name": "Dezeen"
         }
       ]
     }
