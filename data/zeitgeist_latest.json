@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-10-13 03:04 KST",
+  "generated_at": "2026-10-13 06:37 KST",
   "period": "2026.10.06 - 2026.10.13",
-  "total_articles": 379,
+  "total_articles": 395,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 175
+      "count": 182
     },
     {
       "genre": "동시대 미술",
-      "count": 147
+      "count": 156
     },
     {
       "genre": "아방가르드 패션",
@@ -21,6 +21,38 @@
     }
   ],
   "themes": [
+    {
+      "keyword": "가구 디자인",
+      "count": 14,
+      "previous_count": 8,
+      "trend": "rising",
+      "items": [
+        {
+          "title": "목재와 강철로 만든 조각품은 철거 전에 서울에서 원시 콘크리트 껍질을 차지합니다.",
+          "url": "https://www.designboom.com/art/sculptures-timber-steel-raw-concrete-shell-seoul-demolition-ghost-barstairs-temporary-hypotheses-sukchulmok-kangyeon-lee-brbb/",
+          "image_url": "https://www.designboom.com/wp-content/dbsub/453552/2026-10-08/ghost-barstairs-temporary-hypotheses-fleeting-hypotheses-that-traversed-a-vacated-space-11-6ac6e5f2a5ff7.jpg",
+          "source_name": "Designboom Art"
+        },
+        {
+          "title": "공공 공간에 혁명을 일으킬 가구 컬렉션",
+          "url": "https://www.sightunseen.com/2026/10/the-furniture-collection-thats-about-to-revolutionize-public-spaces/",
+          "image_url": "https://www.sightunseen.com/wordpress/wp-content/uploads/2026/10/HBF-1-728x570.jpg",
+          "source_name": "Sight Unseen"
+        },
+        {
+          "title": "구스타프 웨스트먼 (Gustaf Westman) 은 디즈니를 위한 미키 마우스 모양의 소파와 컵을 만듭니다.",
+          "url": "https://www.dezeen.com/2026/10/12/gustaf-westman-mickey-mouse-collection-disney/",
+          "image_url": "https://static.dezeen.com/uploads/2026/10/disney-x-gustaf-westman_dezeen_2364_col_sq-1-852x852.jpg",
+          "source_name": "Dezeen"
+        },
+        {
+          "title": "버질 아블로 (Virgil Abloh), 샬롯 페리앙 (Charlotte Perriand) 등의 가구를 $ 1에 가져갈 수 있습니다.",
+          "url": "https://www.wallpaper.com/design-interiors/basic-space-apple-pay-virgil-abloh-foundation-drawing",
+          "image_url": "https://cdn.mos.cms.futurecdn.net/XKoQLMUxqksq5tKxBTkUEK-1920-80.jpg",
+          "source_name": "Wallpaper*"
+        }
+      ]
+    },
     {
       "keyword": "사진",
       "count": 12,
@@ -54,43 +86,17 @@
       ]
     },
     {
-      "keyword": "가구 디자인",
-      "count": 12,
-      "previous_count": 8,
-      "trend": "rising",
-      "items": [
-        {
-          "title": "구스타프 웨스트먼 (Gustaf Westman) 은 디즈니를 위한 미키 마우스 모양의 소파와 컵을 만듭니다.",
-          "url": "https://www.dezeen.com/2026/10/12/gustaf-westman-mickey-mouse-collection-disney/",
-          "image_url": "https://static.dezeen.com/uploads/2026/10/disney-x-gustaf-westman_dezeen_2364_col_sq-1-852x852.jpg",
-          "source_name": "Dezeen"
-        },
-        {
-          "title": "버질 아블로 (Virgil Abloh), 샬롯 페리앙 (Charlotte Perriand) 등의 가구를 $ 1에 가져갈 수 있습니다.",
-          "url": "https://www.wallpaper.com/design-interiors/basic-space-apple-pay-virgil-abloh-foundation-drawing",
-          "image_url": "https://cdn.mos.cms.futurecdn.net/XKoQLMUxqksq5tKxBTkUEK-1920-80.jpg",
-          "source_name": "Wallpaper*"
-        },
-        {
-          "title": "덴마크 디자인의 거장 난나 디첼에 대해 알아야 할 모든 것",
-          "url": "https://www.wallpaper.com/design-interiors/nanna-ditzel-design-guide",
-          "image_url": "https://cdn.mos.cms.futurecdn.net/d6KcUAaEuRnCiTwLUkLvzF-1920-80.jpg",
-          "source_name": "Wallpaper*"
-        },
-        {
-          "title": "맞춤형 가구를 갖춘 멕시코시티 아파트의 마리엘 로자노 스튜디오 \"컴팩트 레이아웃 최적화\"",
-          "url": "https://www.dezeen.com/2026/10/10/mad-monk-studios-san-luis-stays-mariel-lozano-studio/",
-          "image_url": "https://static.dezeen.com/uploads/2026/10/mad-monk-studios-san-luis-stays_mariel-lozano-studio_dezeen_sqex1-852x852.jpg",
-          "source_name": "Dezeen"
-        }
-      ]
-    },
-    {
       "keyword": "레스토랑·호스피탈리티",
-      "count": 8,
+      "count": 9,
       "previous_count": 3,
       "trend": "rising",
       "items": [
+        {
+          "title": "르 꼬르니숑의 창립자 르 푸아송 볼랑 (Le Poisson Volant) 이 새로운 파리 나이트스팟을 오픈합니다.",
+          "url": "https://www.wallpaper.com/travel/restaurants/le-poisson-volant-paris-opening",
+          "image_url": "https://cdn.mos.cms.futurecdn.net/coYCiytixkENGMxccpqWp6-1920-80.jpg",
+          "source_name": "Wallpaper*"
+        },
         {
           "title": "런던 레스토랑 카세트 (Cassette) 의 프렌치 다이닝 문화를 접하는 Gundry & Ducker",
           "url": "https://www.dezeen.com/2026/10/12/gundry-ducker-french-dining-culture-london-cassette/",
@@ -108,21 +114,53 @@
           "url": "https://www.dezeen.com/2026/10/09/nota-taverna-mexico-city-formant-studio/",
           "image_url": "https://static.dezeen.com/uploads/2026/10/formant-studio-nota-tavern-mexico-city_dezeen_2364_sq-852x852.jpg",
           "source_name": "Dezeen"
+        }
+      ]
+    },
+    {
+      "keyword": "목재 건축",
+      "count": 8,
+      "previous_count": 6,
+      "trend": "rising",
+      "items": [
+        {
+          "title": "목재와 강철로 만든 조각품은 철거 전에 서울에서 원시 콘크리트 껍질을 차지합니다.",
+          "url": "https://www.designboom.com/art/sculptures-timber-steel-raw-concrete-shell-seoul-demolition-ghost-barstairs-temporary-hypotheses-sukchulmok-kangyeon-lee-brbb/",
+          "image_url": "https://www.designboom.com/wp-content/dbsub/453552/2026-10-08/ghost-barstairs-temporary-hypotheses-fleeting-hypotheses-that-traversed-a-vacated-space-11-6ac6e5f2a5ff7.jpg",
+          "source_name": "Designboom Art"
         },
         {
-          "title": "2027 ArtFields Festival에서 $ 100,000 이상의 상금 및 새로운 공공 예술 기회",
-          "url": "https://hyperallergic.com/over-100-000-in-prizes-and-new-public-art-opportunities-at-2027-artfields-festival/",
-          "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/10/-Staring-Into-the-Eyes-of-the-New-Ophanim---detail--by-Kate-Burke-on-display-during-the-2026-ArtFields-Festival.jpg",
-          "source_name": "Hyperallergic"
+          "title": "파인우드 하우스/노모 스튜디오",
+          "url": "https://www.archdaily.com/1186486/pinewood-houses-nomo-studio",
+          "image_url": "https://images.adsttc.com/media/images/6ac6/5aec/07c3/d100/017f/ddb7/large_jpg/SimoneMarcolin_JPG6000_2507_NomoStudio_Fosca_DSC8839.jpg?1791384395",
+          "source_name": "ArchDaily"
+        },
+        {
+          "title": "Wiki World Forest Store / Wiki World",
+          "url": "https://www.archdaily.com/1186540/wiki-world-forest-store-wiki-world",
+          "image_url": "https://images.adsttc.com/media/images/6ac7/14df/07c3/d100/017f/e141/large_jpg/02.jpg?1791431947",
+          "source_name": "ArchDaily"
+        },
+        {
+          "title": "프라하의 스에프카 아키텍티 모델 조립식 주택 목재 옷장",
+          "url": "https://www.dezeen.com/2026/10/08/sepka-architekti-wardrobe-house/",
+          "image_url": "https://static.dezeen.com/uploads/2026/10/wardrobe-house-sepka-architekti-architecture-residential-czech-republic-wood-prefabrication_dezeen_2364_sq-852x852.jpg",
+          "source_name": "Dezeen"
         }
       ]
     },
     {
       "keyword": "콘크리트 물성",
-      "count": 9,
+      "count": 10,
       "previous_count": 9,
       "trend": "steady",
       "items": [
+        {
+          "title": "목재와 강철로 만든 조각품은 철거 전에 서울에서 원시 콘크리트 껍질을 차지합니다.",
+          "url": "https://www.designboom.com/art/sculptures-timber-steel-raw-concrete-shell-seoul-demolition-ghost-barstairs-temporary-hypotheses-sukchulmok-kangyeon-lee-brbb/",
+          "image_url": "https://www.designboom.com/wp-content/dbsub/453552/2026-10-08/ghost-barstairs-temporary-hypotheses-fleeting-hypotheses-that-traversed-a-vacated-space-11-6ac6e5f2a5ff7.jpg",
+          "source_name": "Designboom Art"
+        },
         {
           "title": "시민 보호 센터/롤랜드 발디 건축가",
           "url": "https://www.archdaily.com/1186466/civil-protection-centre-in-oris-roland-baldi-architects",
@@ -140,12 +178,6 @@
           "url": "https://leibal.com/interiors/cream-bean/",
           "image_url": "https://leibal.com/wp-content/uploads/2026/10/leibal-cream-bean-forspace-studio-4.jpg",
           "source_name": "Leibal"
-        },
-        {
-          "title": "인테리어와 풍경/EX 사이의 문턱으로 완성되지 않은 국내 장치.",
-          "url": "https://www.archdaily.com/1186084/an-unfinished-domestic-device-as-a-threshold-between-interior-and-landscape-studio-ex",
-          "image_url": "https://images.adsttc.com/media/images/6abd/2122/c30d/0000/01d4/8f3f/large_jpg/B9989670__Tomaso_Clavarino.jpg?1790779779",
-          "source_name": "ArchDaily"
         }
       ]
     },
@@ -180,41 +212,11 @@
           "source_name": "Dezeen"
         }
       ]
-    },
-    {
-      "keyword": "목재 건축",
-      "count": 7,
-      "previous_count": 6,
-      "trend": "steady",
-      "items": [
-        {
-          "title": "파인우드 하우스/노모 스튜디오",
-          "url": "https://www.archdaily.com/1186486/pinewood-houses-nomo-studio",
-          "image_url": "https://images.adsttc.com/media/images/6ac6/5aec/07c3/d100/017f/ddb7/large_jpg/SimoneMarcolin_JPG6000_2507_NomoStudio_Fosca_DSC8839.jpg?1791384395",
-          "source_name": "ArchDaily"
-        },
-        {
-          "title": "Wiki World Forest Store / Wiki World",
-          "url": "https://www.archdaily.com/1186540/wiki-world-forest-store-wiki-world",
-          "image_url": "https://images.adsttc.com/media/images/6ac7/14df/07c3/d100/017f/e141/large_jpg/02.jpg?1791431947",
-          "source_name": "ArchDaily"
-        },
-        {
-          "title": "프라하의 스에프카 아키텍티 모델 조립식 주택 목재 옷장",
-          "url": "https://www.dezeen.com/2026/10/08/sepka-architekti-wardrobe-house/",
-          "image_url": "https://static.dezeen.com/uploads/2026/10/wardrobe-house-sepka-architekti-architecture-residential-czech-republic-wood-prefabrication_dezeen_2364_sq-852x852.jpg",
-          "source_name": "Dezeen"
-        },
-        {
-          "title": "웨스트 밴쿠버의 한 주택이 나무 사이에 떠 있는 것처럼 보입니다.",
-          "url": "https://design-milk.com/west-vancouver-home-openspace-architecture/",
-          "image_url": "https://design-milk.com/images/2026/10/Final-18-1500x1000.jpg",
-          "source_name": "Design Milk"
-        }
-      ]
     }
   ],
   "notable_names": [
+    "Zenith Interiors",
+    "Dezeen Showroom",
     "Gustaf Westman",
     "Mexico City",
     "Anthony Vaccarello",

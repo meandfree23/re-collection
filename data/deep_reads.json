@@ -156592,5 +156592,1275 @@
   },
   "depth_raw": 4,
   "depth_v": 2
+ },
+ "hyperallergic.com/nyc-to-provide-free-art-supplies-to-grantees": {
+  "title_ko": "뉴욕시, 예술가 지원금 확대와 함께 1만 평 규모 창고 개방",
+  "summary_ko": "뉴욕시 문화국(DCLA)이 개인 예술가 대상 지원금을 20년 만에 1만 달러로 인상한 데 이어, 자재 지원 프로그램인 머티리얼스 포 디 아츠(MFTA)가 매달 예술가들에게 창고를 개방한다. 3만 5천 평방피트 규모의 창고에서 가죽 스풀, 미술 서적 등 기부받은 재료를 무상으로 제공하는 쇼핑 프로그램을 운영한다.",
+  "lens": "예술가의 창작 환경을 현금 지원과 실물 재료 공급이라는 두 축으로 동시에 보강하여 생존 기반을 실질적으로 보정한다.",
+  "why_now": "20년간 동결되었던 지원금의 현실화와 함께 폐기물을 예술 자원으로 전환하는 순환 경제 모델을 창작 현장에 직접 접목했다.",
+  "mechanism": "매월 둘째 주 월요일 오후 3시부터 6시까지 창고를 개방하여 보조금 수혜 예술가들이 직접 재료를 선택하고 수령하는 방식으로 운영된다.",
+  "sensory": "항공기 좌석 제작용 가죽 스풀부터 시각 예술 서적, 공룡 마스크까지, 대량 생산 현장에서 버려진 산업 폐기물들이 예술가의 작업실로 이동하며 새로운 물성을 획득한다.",
+  "transfer": "공간 연출 시 산업 폐기물이나 재고 자재를 활용한 오브제 배치를 통해 예산 효율성과 조형적 독창성을 동시에 확보하는 전략으로 활용 가능하다.",
+  "context": "MFTA는 1979년 설립된 뉴욕시 문화국 산하 기관으로, 패션 하우스와 기업의 기부 물품을 예술가와 비영리 단체에 재분배하는 미국 최대 규모 재사용 센터 중 하나다. 과거 25,000평방피트 규모에서 운영되던 창고는 이번 프로그램 확장을 통해 예술가 지원의 물리적 거점으로 기능한다.",
+  "findings": [
+   {
+    "text": "MFTA는 뉴욕시 문화국 산하 프로그램으로, 패션 하우스와 기업으로부터 기부받은 재료를 예술가와 비영리 단체에 무상으로 제공한다.",
+    "s": 1,
+    "quote": "Materials for the Arts is a program of the New York City Department of Cultural Affairs that provides free new and gently used donated supplies to artists, nonprofit groups, and public schools."
+   },
+   {
+    "text": "MFTA는 매년 수백 톤의 폐기물을 매립지에서 회수하여 환경 보호와 자원 재사용을 촉진하는 역할을 수행한다.",
+    "s": 1,
+    "quote": "the program also removes hundreds of tons from the waste stream every year and [keeps it] out of landfills, which helps sustain our environment, promote reuse, and reduce waste."
+   },
+   {
+    "text": "뉴욕시 문화국은 1976년 독립된 시 기관으로 설립되었으며, MFTA는 위생국과 협력하여 예술 단체에 재사용 자재를 배분한다.",
+    "s": 2,
+    "quote": "In 1976, the New York City Department of Cultural Affairs was established as a separate city agency... Its programs include Materials for the Arts, a large facility in Long Island City that distributes free reused suppli"
+   }
+  ],
+  "keywords": [
+   "뉴욕시문화국",
+   "예술가지원",
+   "자원순환",
+   "창작환경"
+  ],
+  "evidence": "The organization will open its 35,000-square-foot warehouse to artist grantees on the second Monday of every month",
+  "kind": "뉴스·이슈",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "지원금 인상과 연계된 실질적인 자재 공급 프로그램의 운영 방식을 구체적으로 다루었으나, 정책적 영향력에 대한 분석보다는 현상 전달에 집중했다.",
+  "v": 2,
+  "url": "https://hyperallergic.com/nyc-to-provide-free-art-supplies-to-grantees/",
+  "original_title": "NYC to Provide Free Art Supplies to Grantees",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 1985,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-13 06:37",
+  "research": {
+   "entities": [
+    "Materials for the Arts",
+    "New York City Department of Cultural Affairs",
+    "Zohran Mamdani"
+   ],
+   "questions": [
+    "Materials for the Arts(MFTA)는 어떤 방식으로 예술가들에게 재료를 공급하고 운영되는 기관인가요?",
+    "뉴욕시의 예술가 지원금 증액 정책이 지역 예술 생태계에 어떤 변화를 가져올 것으로 기대되나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Materials for the Arts",
+     "url": "https://en.wikipedia.org/wiki/Materials%20for%20the%20Arts"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "New York City Department of Cultural Affairs",
+     "url": "https://en.wikipedia.org/wiki/New%20York%20City%20Department%20of%20Cultural%20Affairs"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "뉴욕시, 20년 만에 개인 예술가 지원금 최대 1만 달러로 인상",
+     "url": "https://hyperallergic.com/mamdani-doubles-grants-for-nyc-artists/"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3
+   ],
+   "chars": 2534
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "hyperallergic.com/a-view-from-the-easel-358": {
+  "title_ko": "플로르 칸, 사진과 바느질로 조상의 기억을 복원하는 방식",
+  "summary_ko": "뉴욕 브롱크스에서 작업하는 플로르 칸은 사진 전사 기법과 탄닌 염색, 바느질을 결합해 조상의 기억을 재구성한다. 19세기 엽서나 가족 사진 속 인물을 재해석하며 식민주의적 시선을 해체하고, 훼손된 기억을 실로 꿰매어 복구하는 과정을 수행한다.",
+  "lens": "이미지를 단순히 기록으로 두지 않고, 물리적인 층위와 실을 더해 기억의 파편을 꿰매어내는 재구성의 기술이다.",
+  "why_now": "디지털 이미지의 범람 속에서, 기억을 물리적 매체로 전사하고 바느질로 치유하는 아날로그적 수행성이 주목받는다.",
+  "mechanism": "사진 전사로 이미지를 표면에서 분리하고, 탄닌에 적신 섬유와 결합해 시간의 층위를 쌓는다. 이후 실로 가장자리를 잇거나 훼손된 부분을 꿰매어 기억을 물리적으로 복원한다.",
+  "sensory": "촛불의 희미한 빛과 빗소리, 탄닌에 잠긴 섬유의 묵직한 질감, 바늘이 원단을 통과할 때의 규칙적인 마찰음이 작업실을 채운다.",
+  "transfer": "기억과 서사를 시각화할 때, 이미지를 평면에 고정하지 말고 레이어를 분리하거나 실로 잇는 물리적 개입을 통해 시간성을 부여하라.",
+  "context": "플로르 칸은 인도-카리브해 혈통의 역사와 이주 서사를 다루며, 사진 전사와 바느질을 통해 기억의 파편을 잇는 작업을 이어간다. 이는 과거의 이미지를 수동적으로 수용하지 않고 주체적으로 재해석하는 시도다.",
+  "findings": [
+   {
+    "text": "플로르 칸의 작업은 조상의 역사와 이주의 메아리를 따라가며, 무엇을 남기고 무엇을 가져갈지 재정의한다.",
+    "s": 1,
+    "quote": "Flor Khan’s work moves through the echoes of ancestral histories and migration, reshaping what we carry forward and what we leave behind."
+   },
+   {
+    "text": "작가는 이미지를 원래 표면에서 층별로 들어내어 기억의 취약성을 드러내고, 실로 꿰매어 복구의 제스처를 취한다.",
+    "s": 1,
+    "quote": "In her process, images are transferred and lifted from their original surfaces, layer by layer, revealing the fragility of what is remembered. Thread follows as a gesture of repair"
+   }
+  ],
+  "keywords": [
+   "플로르 칸",
+   "사진 전사",
+   "바느질",
+   "기억의 복원",
+   "대안적 사진술"
+  ],
+  "evidence": "I disrupt the colonial gaze and bring historical context and agency back to the women",
+  "kind": "작가·인터뷰",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "작가의 작업 기법과 철학적 배경이 리서치 자료와 함께 구체적으로 확인되어 작업의 맥락이 명확하다.",
+  "v": 2,
+  "url": "https://hyperallergic.com/a-view-from-the-easel-358/",
+  "original_title": "A View From the Easel: Flor Khan",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 5947,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-13 06:37",
+  "research": {
+   "entities": [
+    "Flor Khan",
+    "Kreate Hub",
+    "NPR Tiny Desk"
+   ],
+   "questions": [
+    "Flor Khan이 작업 과정에서 사용하는 탄닌(tannins)과 사진 전사 기법은 어떤 예술적 의미를 담고 있나요?",
+    "인도-카리브해(Indo-Caribbean) 혈통과 조상의 기억을 예술로 승화시키는 작가의 작업 방식은 어떤 사회적 맥락을 가지고 있나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Flor Khan",
+     "url": "https://florkhan.com/?ref=hyperallergic.com"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Tiny Desk Concerts",
+     "url": "https://en.wikipedia.org/wiki/Tiny%20Desk%20Concerts"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 671
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "hyperallergic.com/a-little-fantasy-goes-a-long-way": {
+  "title_ko": "진실을 멈추고 환상을 택하는 법: 루링 오거스틴의 사진 그룹전",
+  "summary_ko": "뉴욕 루링 오거스틴 갤러리에서 열린 그룹전은 프란 레보비츠의 문장을 빌려 사진이 본질적으로 진실이 아닌 환상을 쫓는 매체임을 역설한다. 숀 피어슨, 데이비드 사이더, 재니스 가이의 작품은 인물의 신체 일부를 파편적으로 포착하여 친밀함과 미지의 영역 사이를 오가는 에로틱한 긴장감을 연출한다.",
+  "lens": "사진이라는 매체가 실재를 기록하는 도구가 아니라, 파편화된 신체와 시선을 통해 허구의 환상을 구축하는 장치임을 드러낸다.",
+  "why_now": "디지털 보정과 연출이 일상이 된 시대에, 사진의 본질이 기록이 아닌 선택적 환상임을 다시금 상기시킨다.",
+  "mechanism": "인물의 신체 일부나 얼굴의 파편을 어둠 속에서 분리해내어, 관객이 전체를 상상하게 만드는 피프 쇼와 같은 동선을 유도한다.",
+  "sensory": "주근깨가 맺힌 곡선의 등, 어둠 속에 조각난 얼굴들이 겹쳐지며 차갑고도 관능적인 질감을 만들어낸다.",
+  "transfer": "인물 전체를 보여주는 대신 신체의 특정 부위나 질감에 집중하여, 관객이 인물의 서사를 스스로 완성하게 만드는 파편적 숏 구성을 시도한다.",
+  "context": "루링 오거스틴 갤러리는 뉴욕 첼시와 트라이베카에 거점을 두고 국제적인 동시대 미술을 다루는 공간이다. 이번 전시는 1970~80년대 뉴욕 예술계의 냉소적인 관찰자로 유명한 작가 프란 레보비츠의 문장을 전시의 핵심 전제로 삼았다.",
+  "findings": [
+   {
+    "text": "빌렌도르프의 비너스는 약 29,500년 전 제작된 것으로 추정되며, 1908년 8월 7일 오스트리아 바하우 지역에서 발견되었다.",
+    "s": 1,
+    "quote": "Dating back around 29,500 years, the Venus of Willendorf is the most important object in the entire NHM Vienna collection and one of the most famous archaeological finds in the world."
+   },
+   {
+    "text": "루링 오거스틴 갤러리는 뉴욕 첼시와 트라이베카에 위치하며 회화, 조각, 사진 등 다양한 매체를 다루는 현대 미술 작가들을 대표한다.",
+    "s": 2,
+    "quote": "The Luhring Augustine Gallery is an art gallery in New York City. The gallery has two locations: Chelsea and Tribeca. Its principal focus is the representation of an international group of contemporary artists."
+   },
+   {
+    "text": "프란 레보비츠는 1970년대 맨해튼 다운타운 예술계에서 작가로 이름을 알렸으며, 마틴 스코세이지가 연출한 다큐멘터리 등에 출연했다.",
+    "s": 3,
+    "quote": "Lebowitz first became known as a writer in Manhattan's downtown art scene in the 1970s and later became an internationally sought-after public speaker and media personality."
+   }
+  ],
+  "keywords": [
+   "사진",
+   "파편",
+   "환상",
+   "루링오거스틴",
+   "초상"
+  ],
+  "evidence": "Photography is always chasing a fantasy.",
+  "kind": "전시",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "전시의 기획 의도와 작품의 시각적 장치를 구체적으로 연결했으나, 작품별 상세 분석은 제한적이다.",
+  "v": 2,
+  "url": "https://hyperallergic.com/a-little-fantasy-goes-a-long-way/",
+  "original_title": "A Little Fantasy Goes a Long Way",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 1809,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-13 06:37",
+  "research": {
+   "entities": [
+    "Luhring Augustine",
+    "Fran Lebowitz",
+    "Shaun Pierson",
+    "Janice Guy",
+    "Venus of Willendorf"
+   ],
+   "questions": [
+    "루링 오거스틴 갤러리의 이번 그룹전에서 작가들이 공통으로 다루는 '환상(fantasy)'의 의미는 무엇인가?",
+    "전시된 사진 작품들은 초상화의 파편성과 에로틱한 측면을 어떻게 시각적으로 구현하고 있는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Naturhistorisches Museum Wien - Venus-Research",
+     "url": "https://www.nhm.at/en/research/prehistory/research/venus-research?ref=hyperallergic.com"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Luhring Augustine Gallery",
+     "url": "https://en.wikipedia.org/wiki/Luhring%20Augustine%20Gallery"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Fran Lebowitz",
+     "url": "https://en.wikipedia.org/wiki/Fran%20Lebowitz"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3
+   ],
+   "chars": 2675
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "hyperallergic.com/finding-vermeer-in-unexpected-places": {
+  "title_ko": "창가에 스며드는 빛, 베르메르의 잔상과 동시대 예술",
+  "summary_ko": "17세기 네덜란드 화가 요하네스 베르메르의 사후 잊혔던 작품들이 19세기 중반 파리 평론가 테오필 토레에 의해 재발견된 과정을 조명한다. 저술가 루스 베너드 예이젤은 신간을 통해 고요한 실내와 창가의 빛이라는 베르메르의 도상학이 현대 영화와 시각 예술에 미친 영향력을 추적한다.",
+  "lens": "창문 너머로 여과된 단일 광원과 고독한 인물이 현대 영상의 프레임 구성에 남긴 지문.",
+  "why_now": "단일한 서사보다 모호한 해석과 여백을 선호하는 동시대 시각 문화 속에서, 베르메르가 구축한 고요한 실내 풍경의 미학적 가치가 다시 주목받는다.",
+  "mechanism": "창가에서 스며드는 자연광이 인물의 측면을 부드럽게 비추고, 정적인 실내 공간 속에서 서사를 단정 짓지 않고 관람자의 상상에 맡기는 구도를 취한다.",
+  "sensory": "창틀을 통과하며 산란하는 부드러운 주광과 단단한 실내 가구의 질감이 대비되며 고요하고 차분한 시각적 온도를 만든다.",
+  "transfer": "실내 촬영 시 인공 조명을 배제하고 측면 창으로 들어오는 자연광 하나만 활용해 피사체의 입체감과 극적인 정중함을 동시에 확보한다.",
+  "context": "요하네스 베르메르는 생전에 델프트에서 소수의 작품을 제작하고 빚을 남긴 채 사망했으나, 19세기 중반 프랑스 평론가 테오필 토레의 발굴로 미술사 중심에 복원되었다.",
+  "findings": [
+   {
+    "text": "요하네스 베르메르는 생전에 델프트와 헤이그에서 인정받던 평범한 지방 화가였으며 사망 당시 아내는 큰 빚을 떠안았다.",
+    "s": 1,
+    "quote": "During his lifetime, he was a moderately successful provincial genre painter, recognized in Delft and The Hague. He produced relatively few paintings, primarily earning his living as an art dealer. He was not wealthy; at"
+   },
+   {
+    "text": "베르메르는 아놀드 하우브라켄의 17세기 네덜란드 회화 주요 사료집에서 거의 언급되지 않아 약 2세기 동안 네덜란드 미술 조사에서 누락되었다.",
+    "s": 1,
+    "quote": "He was barely mentioned in Arnold Houbraken's major source book on 17th-century Dutch painting and, as a result, was omitted from subsequent surveys of Dutch art for nearly two centuries."
+   }
+  ],
+  "keywords": [
+   "요하네스베르메르",
+   "실내풍경",
+   "자연광",
+   "도상학",
+   "예술사"
+  ],
+  "evidence": "Artists, filmmakers, poets, and the art market itself still bear traces of the Dutch painter’s influence",
+  "kind": "작가·인터뷰",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "베르메르의 사후 궤적과 저서의 내용을 충실히 다루었으나 전형적인 역사적 조명에 머문다.",
+  "v": 2,
+  "url": "https://hyperallergic.com/finding-vermeer-in-unexpected-places/",
+  "original_title": "Finding Vermeer in Unexpected Places",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 2307,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-13 06:37",
+  "research": {
+   "entities": [
+    "Johannes Vermeer",
+    "Théophile Thoré",
+    "Ruth Bernard Yeazell",
+    "Vilhelm Hammershøi",
+    "Carl Sprinchorn"
+   ],
+   "questions": [
+    "요하네스 베르메르의 작품이 19세기 중반에 재발견되기까지 역사적으로 어떤 과정을 거쳤는가?",
+    "루스 베너드 예이젤의 저서 'Vermeer's Afterlives'에서 베르메르의 예술적 유산이 현대 미술과 문학에 어떻게 변주되어 나타나는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Johannes Vermeer",
+     "url": "https://en.wikipedia.org/wiki/Johannes%20Vermeer"
+    },
+    {
+     "n": 2,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "메인주의 두 박물관이 재조명하는 모더니스트 칼 스프린콘",
+     "url": "https://hyperallergic.com/discover-carl-sprinchorn-at-two-maine-museums-this-fall/"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "인디펜던트 아트 페어, 거대 기업 인포마에 인수되다",
+     "url": "https://hyperallergic.com/independent-art-fair-purchased-by-british-conglomerate/"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "뉴욕에서 열린 라 페리아, 46개 단체와 함께 판화 생태계를 드러내다",
+     "url": "https://hyperallergic.com/a-triumphant-tribute-to-latine-visual-culture/"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 2172
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "dezeen.com/2026/10/12/profondo-seating-zenith-interiors-furniture-accessories-dezeen-showroom": {
+  "title_ko": "제니스 인터리어스가 제안하는 조각적 안락의자, 프로폰도 컬렉션",
+  "summary_ko": "호주 오피스 가구 브랜드 제니스 인터리어스가 프로폰도 컬렉션을 디진 쇼룸에 공개했다. 이 컬렉션은 소파와 독립형 안락의자로 구성되며, 덩어리감 있는 조각적 형태를 통해 공간의 시각적 중심을 형성한다.",
+  "lens": "가구의 덩어리진 형태가 공간의 스케일과 동선을 어떻게 규정하는지 보여주는 사례다.",
+  "why_now": "디지털 플랫폼을 통해 오피스 가구의 조형적 가치를 강조하는 흐름이 뚜렷해지고 있다.",
+  "mechanism": "가구 자체를 하나의 조각으로 간주하여 공간 내에서 시각적 무게 중심을 잡는 방식으로 작동한다.",
+  "sensory": "덩어리진 형태에서 오는 밀도 높은 부피감과 공간 안에서 점유하는 명확한 존재감이 특징이다.",
+  "transfer": "공간의 중심을 잡아야 하는 라운지나 로비 연출 시, 가구의 형태를 조각적으로 배치하여 동선을 자연스럽게 유도할 수 있다.",
+  "context": "제니스 인터리어스는 호주의 오피스 가구 전문 브랜드로, 이번 프로폰도 컬렉션은 디진 쇼룸의 가을 시즌 좌석 제품 라인업 중 하나로 소개되었다.",
+  "findings": [],
+  "keywords": [
+   "제니스인터리어스",
+   "프로폰도",
+   "오피스가구",
+   "조각적가구"
+  ],
+  "evidence": "Profondo seating by Zenith Interiors",
+  "kind": "제품·오브제",
+  "depth": 2,
+  "grounding": "partial",
+  "depth_reason": "제품의 조형적 특징은 확인되나 상세 제원과 브랜드 배경 정보가 충분하지 않아 중간 수준의 가치를 부여한다.",
+  "v": 2,
+  "url": "https://www.dezeen.com/2026/10/12/profondo-seating-zenith-interiors-furniture-accessories-dezeen-showroom/",
+  "original_title": "Profondo seating by Zenith Interiors among five new products on Dezeen Showroom",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 0,
+  "fetch": "fetch_error:HTTPError",
+  "cliche_hits": [],
+  "read_at": "2026-10-13 06:37",
+  "research": {
+   "entities": [
+    "Zenith Interiors",
+    "Profondo",
+    "Dezeen Showroom"
+   ],
+   "questions": [
+    "Profondo 좌석 컬렉션의 디자인 특징과 주요 소재는 무엇인가요?",
+    "Zenith Interiors는 어떤 배경을 가진 호주의 오피스 가구 브랜드인가요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "빌레로이앤보흐의 제품 소개와 브랜드 배경",
+     "url": "https://www.dezeen.com/2026/09/02/five-bathroom-products-villeroy-boch-dezeen-showroom/"
+    },
+    {
+     "n": 2,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "제니스 인터리어스의 조각적 안락의자 프로폰도",
+     "url": "https://www.dezeen.com/2026/10/08/profondo-seating-zenith-interiors-dezeen-showroom/"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "가을 인테리어를 채우는 디진 쇼룸의 착석 시스템 모음",
+     "url": "https://www.dezeen.com/2026/10/09/chairs-seating-seats-sofa-bed-autumn-dezeen-showroom/"
+    }
+   ],
+   "used": [
+    2,
+    3
+   ],
+   "chars": 560
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "hyperallergic.com/when-the-accessibility-conveyor-belt-jams": {
+  "title_ko": "멈춘 컨베이어 벨트가 드러낸 접근성의 실체: 핀네건 섀넌의 전시",
+  "summary_ko": "핀네건 섀넌은 파이오니어 웍스에서 12피트 길이의 컨베이어 벨트를 활용한 설치 작업 'There's no me without you'를 선보인다. 이 장치는 장애인이 서 있지 않고도 예술을 경험하도록 돕는 인프라를 지향하며, 조셀리아 레베카 휴즈, 아리아나 마르티네즈, 알렉스 돌로레스 살레르노 등 세 명의 작가와 협업한다. 전시 도중 기계가 멈추는 돌발 상황은 시스템의 취약성과 상호 의존성에 대한 질문을 던진다.",
+  "lens": "고장 난 기계는 단순히 기술적 오류가 아니라, 장애인을 배제하는 사회적 시스템의 무관심을 물리적으로 증명하는 장치가 된다.",
+  "why_now": "개별적인 예술가의 천재성보다 공동체의 상호 의존성을 강조하는 장애 문화의 담론이 전시 공간의 구조적 접근성을 재정의하고 있다.",
+  "mechanism": "12피트 정사각형 컨베이어 벨트를 수평적 전시대로 변환하여 관람객이 의자에 앉아 작품을 만지고 감상할 수 있는 동선을 구축한다.",
+  "sensory": "마룬색 카펫이 깔린 방 안에서 느릿하게 움직이는 컨베이어 벨트 위의 세라믹 조각과 밧줄 뭉치들이 촉각적 유희를 제공한다.",
+  "transfer": "작품을 관람객에게 직접 배달하는 이동식 전시대를 통해 관객의 신체적 제약을 고려한 능동적인 관람 동선을 설계할 수 있다.",
+  "context": "핀네건 섀넌은 그간 미술관 내 좌석 부족을 비판하는 벤치 작업 등 접근성 문제를 예술적 실천으로 다뤄왔다. 이번 전시는 파이오니어 웍스 레지던시 출신 작가로서 장애인 예술 현장의 작가들과 협력하여 구축한 공간이다.",
+  "findings": [
+   {
+    "text": "핀네건 섀넌은 장애인 예술 현장의 작가들과 협력하여 전시를 구성했다.",
+    "s": 1,
+    "quote": "three successive solo presentations of new works created for this project by emerging and established figures of New York City’s disability art scene: Joselia Rebekah Hughes, Ariana Martinez, and Alex Dolores Salerno."
+   },
+   {
+    "text": "작가는 컨베이어 벨트를 기존 용도에서 벗어나 장애인 접근성을 위한 인프라로 재해석했다.",
+    "s": 1,
+    "quote": "This infrastructure follows in a lineage of disabled hacking: taking something not built for this purpose, and trying to figure out what it can do"
+   },
+   {
+    "text": "핀네건 섀넌은 이전부터 미술관 내 접근성 결여를 비판하는 작업을 수행해왔다.",
+    "s": 2,
+    "quote": "Finnegan is most known for their protest pieces such as art gallery benches criticizing lack of seating and lounges for those who cannot access stairs."
+   }
+  ],
+  "keywords": [
+   "핀네건섀넌",
+   "장애예술",
+   "접근성",
+   "상호의존성",
+   "파이오니어웍스"
+  ],
+  "evidence": "The inert belt became a frustrating metaphor for institutions and a larger social apathy toward accessibility needs.",
+  "kind": "전시",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "장애인 접근성을 예술적 장치로 치환한 구체적인 사례이며, 고장이라는 우연적 상황을 통해 시스템의 본질을 통찰했다.",
+  "v": 2,
+  "url": "https://hyperallergic.com/when-the-accessibility-conveyor-belt-jams/",
+  "original_title": "When the Accessibility Conveyor Belt Jams",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 2718,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-13 06:37",
+  "research": {
+   "entities": [
+    "Finnegan Shannon",
+    "Pioneer Works",
+    "Ariana Martinez",
+    "There's no me without you"
+   ],
+   "questions": [
+    "핀네건 섀넌의 작품이 장애인 접근성을 예술적 장치로 어떻게 구현하고 있는지 그 의도를 설명하시오.",
+    "전시 공간 내 기계적 결함이 어떻게 장애인 접근성에 대한 사회적 무관심을 상징하는 은유로 작용하는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "There's no me without you",
+     "url": "https://pioneerworks.org/exhibitions/finnegan-shannon-there-is-no-me-without-you?ref=hyperallergic.com"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Finnegan Shannon",
+     "url": "https://en.wikipedia.org/wiki/Finnegan%20Shannon"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Pioneer Works",
+     "url": "https://en.wikipedia.org/wiki/Pioneer%20Works"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3
+   ],
+   "chars": 3402
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "archdaily.com/1033039/linho-house-tetro-arquitetura": {
+  "title_ko": "패션 디자이너의 바느질을 공간으로 엮은 린호 하우스",
+  "summary_ko": "브라질 노바리마에 지어진 린호 하우스는 패션 디자이너인 거주민의 작업 과정에서 영감을 얻어 직물의 물성을 건축 형태와 재료로 번역한 주택이다. 테트로 아르키테투라가 설계했으며, 일상의 창작 행위를 공간의 구조와 재료로 구현했다.",
+  "lens": "직물의 얽힘과 바느질의 결을 콘크리트와 구조적 리듬으로 치환한다.",
+  "why_now": "거주자의 직업적 정체성을 공간의 물리적 조건으로 직접 번역하는 설계 방식이 늘고 있다.",
+  "mechanism": "패션 디자이너의 수공예적 작업 방식을 공간 내부에 유기적인 동선과 재료의 결합으로 번역해 시각적 리듬을 만든다.",
+  "sensory": "주택의 거친 콘크리트 물성과 정교하게 다듬어진 마감재가 대비를 이루며 직물이 지닌 결을 감각적으로 드러낸다.",
+  "transfer": "공간의 콘티나 영상 배경을 구성할 때 인물의 직업적 특성을 은유하는 패턴을 벽체와 바닥의 마감 재료로 직접 옮겨 심는다.",
+  "context": "테트로 아르키테투라가 브라질 노바리마에 완성한 주거 건축 프로젝트다.",
+  "findings": [],
+  "keywords": [
+   "테트로아르키테투라",
+   "린호하우스",
+   "브라질건축",
+   "주거설계"
+  ],
+  "evidence": "Directly inspired by its inhabitant, a fashion designer who works with fabrics and sewing, the house translates the essence of her creative daily life into forms and materials.",
+  "kind": "프로젝트",
+  "depth": 2,
+  "grounding": "thin",
+  "depth_reason": "패션 디자이너의 영감을 건축으로 해석한 흥미로운 콘셉트이나 원문 정보가 다소 제한적이다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1033039/linho-house-tetro-arquitetura",
+  "original_title": "Linho House / TETRO Arquitetura",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 1652,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-13 06:37",
+  "research": {
+   "entities": [
+    "TETRO Arquitetura",
+    "Jader Almeida",
+    "Linho House"
+   ],
+   "questions": [
+    "패션 디자이너의 직업적 특성이 Linho House의 건축적 형태와 재료 선택에 어떻게 반영되었는가?",
+    "TETRO Arquitetura가 추구하는 건축 철학은 무엇이며, 이 프로젝트에서 그 특징이 어떻게 드러나는가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "archdaily.com/1032927/lima-house-bloco-arquitetos": {
+  "title_ko": "브라질리아의 대지를 단일 평면으로 길어 올린 리마 하우스",
+  "summary_ko": "브라질 브라질리아 라고 술에 위치한 리마 하우스는 750제곱미터 규모의 단층 주택이다. 블로코 아르키테토스는 2016년 설계 당시 대지의 완만한 경사를 수용하고자 전체 거주 영역을 단일 레벨로 구성했다. 2018년과 2024년 두 차례에 걸쳐 완공된 이 주택은 수영장 주변의 외부 공간을 지면과 미세하게 단차를 두어 지형의 흐름을 시각화했다.",
+  "lens": "지형의 경사를 깎아내지 않고 단일 수평면을 띄워 대지와 건축물 사이의 물리적 간극을 감각하게 한다.",
+  "why_now": "대규모 주거 건축에서 지형을 거스르지 않는 수평적 배치가 주거의 연속성을 어떻게 확보하는지 보여주는 사례다.",
+  "mechanism": "내부 공간을 단일 층으로 배치하고, 외부 수영장 영역의 높낮이를 자연 지반과 다르게 설정하여 지형의 미세한 기울기를 드러낸다.",
+  "sensory": "단일 평면이 강조하는 수평적 확장감과 수영장 주변의 단차에서 발생하는 지면의 질감 대비가 특징이다.",
+  "transfer": "공간의 경사를 시각적으로 강조하고 싶을 때, 전체 바닥을 관통하는 수평선과 외부 데크의 단차를 활용해 지형의 높낮이를 연출하라.",
+  "context": "블로코 아르키테토스는 브라질리아의 지형을 건축적 장치로 활용하는 지역적 맥락을 따른다. 이는 브라질리아의 풍경을 주거 내부로 전이시키는 에스콰드라 아르키테토스의 바란다 하우스와 대지를 다루는 태도를 공유한다.",
+  "findings": [],
+  "keywords": [
+   "브라질리아",
+   "단층주택",
+   "지형",
+   "수평성"
+  ],
+  "evidence": "One of the premises of the project was to distribute the entire internal area of the house on a single level.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "단층 주택의 평면 구성과 지형 활용에 대한 정보는 명확하나, 두 단계의 시공 과정이나 상세한 공간 구성에 대한 설명이 부족하다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1032927/lima-house-bloco-arquitetos",
+  "original_title": "Lima House / BLOCO Arquitetos",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 1206,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-13 06:37",
+  "research": {
+   "entities": [
+    "BLOCO Arquitetos",
+    "Daniel Mangabeira",
+    "Henrique Coutinho",
+    "Matheus Seco",
+    "Joana França"
+   ],
+   "questions": [
+    "BLOCO Arquitetos가 브라질리아의 지형적 특성을 단층 주택 설계에 어떻게 반영했는가?",
+    "2018년과 2024년, 두 단계에 걸쳐 완공된 Lima House의 건축적 의도와 변화는 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "연속성과 물성으로 구축한 브라질리아의 테조 엔지니어링 오피스",
+     "url": "https://www.archdaily.com/1184700/tejo-engenharia-sainz-arquitetura"
+    },
+    {
+     "n": 2,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "레오 로마노의 에스파토디아스 하우스: 대지 위를 부유하는 콘크리트 지붕의 구축",
+     "url": "https://www.archdaily.com/1184749/espatodias-house-leo-romano"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "브라질 세라도의 풍경을 수용하는 법, 에스콰드라 아르키테토스의 바란다 하우스",
+     "url": "https://www.archdaily.com/1034564/varanda-house-esquadra-arquitetos"
+    }
+   ],
+   "used": [],
+   "chars": 759
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "archdaily.com/1186659/hosho-house-israelpacheco-arquitectos": {
+  "title_ko": "이스라엘 파체코의 호쇼 하우스: 침입에 대응하는 폐쇄적 주거의 미학",
+  "summary_ko": "멕시코 파추카 데 소토에 위치한 호쇼 하우스는 주거 침입 사건 이후 강력한 사생활 보호를 요구하는 거주자의 필요에 따라 설계되었다. 이스라엘 파체코 아르키텍토스가 305제곱미터 규모로 완공한 이 주택은 외부의 시선과 접근을 차단하는 폐쇄적인 구조를 핵심 전략으로 삼는다.",
+  "lens": "외부 위협을 방어하는 폐쇄적 구조를 통해 거주자가 심리적 안정을 얻는 주거의 본질적인 보호 기능을 극대화했다.",
+  "why_now": "범죄와 사생활 침해라는 현실적 불안 요소를 건축적 언어로 치환하여 거주자의 안전을 확보하는 방어적 공간 설계가 주목받는다.",
+  "mechanism": "외부 창을 최소화하거나 차폐재를 사용하여 시각적 연결을 끊고, 내부로 빛을 유도하는 중정이나 천창을 활용해 폐쇄성을 보완한다.",
+  "sensory": "외부와 단절된 견고한 벽체가 주는 압도적인 무게감과 내부로 제한적으로 유입되는 빛의 대비가 공간의 긴장감을 조성한다.",
+  "transfer": "외부 소음이나 시선을 차단해야 하는 도심지 프로젝트에서 벽면의 개구부를 극도로 제한하고 상부 채광창을 활용하는 방식을 적용한다.",
+  "context": "이스라엘 파체코 아르키텍토스는 거주자의 명확한 요구 사항인 보안과 프라이버시를 프로젝트의 최우선 설계 지표로 삼아 주거 공간의 폐쇄적 미학을 탐구했다.",
+  "findings": [],
+  "keywords": [
+   "폐쇄적 주거",
+   "보안 건축",
+   "프라이버시",
+   "멕시코 건축"
+  ],
+  "evidence": "A burglary and a pressing need for privacy were the circumstances that shaped the core decisions of this project.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "거주자의 요구 사항이 설계에 반영된 배경은 명확하나, 구체적인 평면 구성이나 상세 마감 기법에 대한 정보가 부족하다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1186659/hosho-house-israelpacheco-arquitectos",
+  "original_title": "Hōsho House / israelpacheco arquitectos",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 862,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-13 06:37",
+  "research": {
+   "entities": [
+    "israelpacheco arquitectos",
+    "Israel Pacheco Montiel",
+    "Helvex"
+   ],
+   "questions": [
+    "Hōsho House의 설계 과정에서 사생활 보호와 보안을 위해 어떤 건축적 장치가 도입되었는가?",
+    "이 주택의 디자인 컨셉인 'Hōsho'가 건축가의 설계 철학이나 지역적 맥락과 어떤 연관이 있는가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "architecturaldigest.com/story/charlie-chaplin-at-home-inside-the-silent-film-superstars-domestic-life": {
+  "title_ko": "찰리 채플린의 은신처: 할리우드의 브레이크아웃 하우스에서 스위스 마누아 드 방까지",
+  "summary_ko": "찰리 채플린은 무성 영화의 전설이 되기 전 런던의 빈곤한 시절을 거쳐 할리우드에서 성공을 거뒀다. 냉전기 미국을 떠나 스위스 브베의 1840년 건축물인 마누아 드 방(Manoir de Ban)에 정착하기까지, 그가 머문 공간들은 그의 연출 철학과 삶의 궤적을 고스란히 담고 있다.",
+  "lens": "공간을 단순한 주거지가 아닌 연출의 연장선으로 다룬 채플린의 태도는 그가 서사 속 사소한 디테일을 집요하게 챙긴 방식과 맞닿아 있다.",
+  "why_now": "창작자가 자신의 창작 환경을 어떻게 통제하고 구축하는지가 작업의 질을 결정짓는 핵심 요소임을 다시금 확인시킨다.",
+  "mechanism": "베벌리힐스 자택은 스튜디오 목수를 동원해 파이프 오르간과 무빙 스크린을 설치한 가변적 공간이었으며, 스위스 저택은 서재의 고전 문헌을 의상과 무대 디자인의 원천으로 삼는 사유의 장으로 작동했다.",
+  "sensory": "스위스 저택의 거실에 울려 퍼지는 바이올린 소리와 제네바 호수를 조망하는 넓은 잔디밭의 정적인 풍경은 그의 생애 마지막 평온을 대변한다.",
+  "transfer": "콘티 작업 시 공간을 '고정된 배경'이 아닌 '인물의 성격과 직업적 습관이 투영된 소품'으로 설계하라. 특정 소품(오르간, 서재의 고전)이 공간의 성격을 규정하는 방식을 활용할 것.",
+  "context": "1908년 런던 글렌쇼 맨션은 그가 처음으로 독립한 공간으로, 이후 할리우드 시절을 거쳐 스위스로 이주하는 과정은 그의 정치적 망명과 예술적 전환을 상징한다. 프레드 카노 컴퍼니에서의 무언극 훈련이 그의 영화적 언어를 형성했듯, 이후의 거주지들은 그가 영화 연출가로서의 정체성을 공고히 하는 물리적 근거지가 되었다.",
+  "findings": [
+   {
+    "text": "찰리 채플린은 1908년부터 1910년까지 런던 글렌쇼 맨션 15호에 거주하며 이곳을 소중한 안식처로 기억했다.",
+    "s": 1,
+    "quote": "CHARLIE CHAPLIN 1889-1977 Actor and Film-maker lived here in Flat 15 1908-1910"
+   },
+   {
+    "text": "프레드 카노는 대사 없이 몸짓으로 표현하는 슬랩스틱 코미디를 대중화하여 채플린의 연기 기초를 닦았다.",
+    "s": 4,
+    "quote": "Karno developed a form of sketch comedy without dialogue. Early sketches such as Jail Birds (1895)... can be seen as precursors of silent movie comedy."
+   },
+   {
+    "text": "채플린은 1952년 미국을 떠나며 다시 돌아올 수 없는 상황에 처했고, 이후 스위스 마누아 드 방에 정착했다.",
+    "s": 2,
+    "quote": "Sept. 6, 1952, when he left for England, later to be barredfrom returning to the United States by the federal government."
+   }
+  ],
+  "keywords": [
+   "찰리 채플린",
+   "공간 미학",
+   "마누아드방",
+   "슬랩스틱",
+   "건축과 연출"
+  ],
+  "evidence": "Because the frugal filmmaker used movie studio carpenters to help build the Spanish-style estate, it wasn’t long before things began falling apart—hence its nickname, “Breakaway House.”",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "예술가의 거주 공간이 창작 방식과 어떻게 연결되는지 구체적인 일화와 공간적 장치를 통해 설득력 있게 제시한다.",
+  "v": 2,
+  "url": "https://www.architecturaldigest.com/story/charlie-chaplin-at-home-inside-the-silent-film-superstars-domestic-life",
+  "original_title": "Charlie Chaplin at Home: 10 Photos of the Silent Film Legend’s Offscreen Life",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 8908,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-13 06:37",
+  "research": {
+   "entities": [
+    "Charlie Chaplin",
+    "Fred Karno Company",
+    "Keystone Studios",
+    "Paulette Goddard",
+    "Lita Grey"
+   ],
+   "questions": [
+    "찰리 채플린은 베벌리힐스에 지은 '브레이크아웃 하우스'를 왜 그렇게 불렀으며, 건축 과정에서 어떤 일화가 있었나요?",
+    "찰리 채플린이 미국을 떠나 스위스 등 유럽으로 이주하게 된 정치적·개인적 배경은 무엇인가요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Charlie Chaplin | Actor and Film-Maker | Blue Plaques",
+     "url": "https://production.english-heritage.org.uk/visit/blue-plaques/charlie-chaplin/"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Memories of Chaplin in L.A.",
+     "url": "https://www.latimes.com/archives/la-xpm-1989-04-16-ca-2452-story.html"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Charlie Chaplin",
+     "url": "https://en.wikipedia.org/wiki/Charlie%20Chaplin"
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "Fred Karno",
+     "url": "https://en.wikipedia.org/wiki/Fred%20Karno"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "chars": 8000
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "designboom.com/art/sculptures-timber-steel-raw-concrete-shell-seoul-demolition-ghost-barstairs-temporary-hypotheses-sukchulmok-kangyeon-lee-brbb": {
+  "title_ko": "철거 직전의 서울, 콘크리트 골조 속에서 펼쳐진 임시 가설의 풍경",
+  "summary_ko": "스튜디오 석철목과 작가 강연이는 신사동의 철거 예정인 철근 콘크리트 건물에서 전시 ‘고스트 바스테어스: 임시 가설’을 선보였다. 마감재가 제거된 노출 골조를 배경으로 석철목의 실험적 가구와 강연이의 금속 조각이 배치되었으며, 비알비비(BRBB)는 합판을 활용한 자립형 구조물로 공간을 재구성했다. 이는 건물의 과거와 미래 사이의 짧은 틈을 포착한 작업이다.",
+  "lens": "철거라는 소멸의 시간을 앞두고, 비워진 골조 안에 가구와 조각을 배치해 공간의 잠재적 가능성을 임시적인 가설로 증명한다.",
+  "why_now": "도시의 재개발 과정에서 발생하는 공백기를 단순한 폐허가 아닌, 건축적 실험과 재료의 물성을 탐구하는 캔버스로 전환했다.",
+  "mechanism": "반원형 목재와 강철 원뿔을 결합한 가구, 서로 기대어 자립하는 합판 패널 등 기존 동선과 무관한 구조물을 설치해 공간의 경계를 재정의한다.",
+  "sensory": "지하부터 옥상까지 쏟아지는 빛이 콘크리트의 거친 질감과 금속·플라스틱 조각의 매끄러운 표면을 극명하게 대비시킨다.",
+  "transfer": "철거 예정지나 미완성 공간에서 촬영할 때, 기존 벽체에 의존하지 않는 자립형 가벽이나 오브제를 배치해 공간의 깊이와 시각적 리듬을 분절한다.",
+  "context": "스튜디오 석철목은 이전에도 한국의 지게를 재해석한 의자나 농지에 채소밭을 감싸는 원형 주택 등 재료의 물성과 구조적 비율을 탐구하는 작업을 이어왔다.",
+  "findings": [],
+  "keywords": [
+   "석철목",
+   "강연이",
+   "도시재생",
+   "공간설치",
+   "가설건축"
+  ],
+  "evidence": "GHOST BARSTAIRS: Temporary Hypotheses in a vacant reinforced-concrete building in Sinsa-dong, Seoul, shortly before its demolition is completed.",
+  "kind": "전시",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "철거 예정 건물이라는 특수한 환경을 활용해 가구와 조각, 구조물의 상호작용을 구체적으로 보여주며 공간 연출의 새로운 방법론을 제시한다.",
+  "v": 2,
+  "url": "https://www.designboom.com/art/sculptures-timber-steel-raw-concrete-shell-seoul-demolition-ghost-barstairs-temporary-hypotheses-sukchulmok-kangyeon-lee-brbb/",
+  "original_title": "sculptures made of timber and steel occupy raw concrete shell in seoul before demolition",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 5891,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-13 06:37",
+  "research": {
+   "entities": [
+    "Sukchulmok",
+    "Kangyeon Lee",
+    "BRBB",
+    "Sinsa-dong",
+    "Seoul"
+   ],
+   "questions": [
+    "철거를 앞둔 건물의 콘크리트 골조 속에서 스튜디오 석철목의 가구와 강연이 작가의 조각이 어떻게 상호작용하는가?",
+    "임시 가설이라는 개념이 전시 공간과 비정형적인 건축적 세팅에 어떻게 적용되었는가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "architecturaldigest.com/story/frank-lloyd-wright-the-guggenheim-a-dead-white": {
+  "title_ko": "구겐하임의 백색 논쟁: 프랭크 로이드 라이트가 거부한 '죽음의 색'",
+  "summary_ko": "건축가 프랭크 로이드 라이트(Frank Lloyd Wright)는 1958년 구겐하임 미술관 완공을 앞두고 관장 제임스 존슨 스위니(James Johnson Sweeney)가 전시 공간을 흰색으로 칠하려 하자 강하게 반대했다. 라이트는 흰색이 건축물의 유기적 형태를 파괴하고 예술을 가두는 '무덤'이 될 것이라 주장하며, 자신의 건축적 의도와 충돌하는 백색 공간에 대해 끝까지 저항했다.",
+  "lens": "라이트에게 흰색은 건축의 유기적 생명력을 지우는 장치였으며, 그는 미술관을 예술과 공간이 조화롭게 호흡하는 살아있는 유기체로 설계했다.",
+  "why_now": "미술관의 '화이트 큐브'가 당연시되는 오늘날, 공간의 배경색이 건축적 형태와 어떻게 충돌하거나 결합하는지 질문을 던진다.",
+  "mechanism": "라이트는 나선형 경사로와 천장 채광창을 통해 빛이 유동적으로 흐르는 공간을 의도했다. 흰색 페인트는 빛의 굴절과 반사를 획일화하여 건축가가 설계한 곡면의 입체감을 평면으로 강제한다.",
+  "sensory": "빛이 천장에서 쏟아져 내려 곡선 벽면을 타고 흐르는 공간의 질감은 흰색 페인트의 무미건조한 밝음과는 대비되는 깊이감을 가진다.",
+  "transfer": "공간의 형태가 복잡할수록 단색 도장보다는 재료 자체의 질감이나 빛의 온도를 활용해 공간의 깊이를 조절하라. 배경색을 결정할 때 빛이 닿는 각도와 그림자의 흐름을 먼저 시뮬레이션해야 한다.",
+  "context": "프랭크 로이드 라이트는 자연과 인간의 조화를 중시하는 유기적 건축(Organic Architecture)을 주창했다. 구겐하임 미술관은 15년에 걸친 설계와 건축 끝에 1959년 완공된 그의 후기 대표작이다.",
+  "findings": [
+   {
+    "text": "프랭크 로이드 라이트는 70년의 창작 기간 동안 1,000개 이상의 구조물을 설계했다.",
+    "s": 1,
+    "quote": "He designed more than 1,000 structures over a creative period of 70 years."
+   },
+   {
+    "text": "구겐하임 미술관은 나선형 경사로와 중앙 천장 채광창을 갖춘 6층 규모의 주 갤러리로 구성된다.",
+    "s": 2,
+    "quote": "A six-story helical ramp extends along the main gallery's perimeter, under a central ceiling skylight."
+   }
+  ],
+  "keywords": [
+   "프랭크 로이드 라이트",
+   "구겐하임",
+   "유기적 건축",
+   "화이트 큐브",
+   "공간 연출"
+  ],
+  "evidence": "White—a devastating color under daylight—is the sum of all colors. Even used as a frame of reference for paintings (to say nothing of sculpture), it is a makeshift or a menace.",
+  "kind": "뉴스·이슈",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "건축가의 철학과 실제 공간 운영 사이의 갈등을 구체적인 건축적 논리로 풀어내어 공간 연출의 시사점을 제공한다.",
+  "v": 2,
+  "url": "https://www.architecturaldigest.com/story/frank-lloyd-wright-the-guggenheim-a-dead-white",
+  "original_title": "If Frank Lloyd Wright Had His Way, the Guggenheim Would Not be White",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 9000,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-13 06:37",
+  "research": {
+   "entities": [
+    "Frank Lloyd Wright",
+    "Solomon R. Guggenheim Museum",
+    "James Johnson Sweeney",
+    "Harry Guggenheim",
+    "Aline Saarinen"
+   ],
+   "questions": [
+    "프랭크 로이드 라이트가 구겐하임 미술관의 내부 색상으로 흰색을 그토록 반대했던 건축적 철학은 무엇인가?",
+    "제임스 존슨 스위니와 프랭크 로이드 라이트 사이의 전시 공간 색상에 대한 갈등이 미술관 운영과 건축적 완성도에 어떤 영향을 미쳤는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Frank Lloyd Wright",
+     "url": "https://en.wikipedia.org/wiki/Frank%20Lloyd%20Wright"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Solomon R. Guggenheim Museum",
+     "url": "https://en.wikipedia.org/wiki/Solomon%20R.%20Guggenheim%20Museum"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "프레드 홀링스워스가 설계한 1952년작 마호가니 하우스, 반세기 만의 공개",
+     "url": "https://www.wallpaper.com/architecture/residential/fred-hollingsworths-mahogany-house-is-a-hidden-jewel-of-mid-century-modernism"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "뉴욕 미술관 노조의 잇따른 계약 비준, 휘트니 미술관은 파업 예고",
+     "url": "https://hyperallergic.com/three-nyc-museum-unions-ratify-contracts-averting-strikes/"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "미술관 노동 계약 타결부터 핀란드의 톰 재단 갈등까지, 문화예술계의 쟁점들",
+     "url": "https://hyperallergic.com/tom-of-finland-foundation-turmoil/"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 3642
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "architecturaldigest.com/story/midcentury-treehouse-berkeley-california-design-by-aquilo-interiors": {
+  "title_ko": "버클리 힐즈의 미드센추리 주택, 기술 창업자를 위한 사고의 실험실로 재탄생하다",
+  "summary_ko": "건축가 로버트 래트클리프가 설계한 샌프란시스코 버클리 힐즈의 미드센추리 주택이 버틀러 암스덴 아키텍츠와 아퀼로 인테리어의 손길을 거쳐 복원되었다. 교육 기술 기업 퀴즐렛 설립자 앤드루 서덜랜드를 위해 역사적 원형을 보존하면서도, 대화형 화이트보드와 몰입형 서재 등 창의적 협업을 촉진하는 기능적 공간으로 재구성했다.",
+  "lens": "역사적 건축의 원형을 복구하는 동시에, 거주자의 지적 습관인 '문제 해결'을 공간의 핵심 동선과 가구 배치로 치환해 낸 감각적 설계다.",
+  "why_now": "디지털 도구에 익숙한 세대가 물리적 공간에서 아날로그적 상호작용을 갈망하며, 집을 단순한 휴식처가 아닌 지적 생산의 장으로 정의하는 흐름을 반영한다.",
+  "mechanism": "공간의 위계를 '패턴 언어' 이론에 따라 설계하고, 시각적 중심에 화이트보드를 배치해 대화와 토론이 자연스럽게 발생하는 동선을 구축했다.",
+  "sensory": "티크 목재의 온기와 칠리 페퍼 레드 벨벳의 강렬한 질감이 대비되며, 물리적 노브와 버튼으로 조작되는 아날로그적 감각이 공간 전반을 채운다.",
+  "transfer": "공간 내 특정 활동을 유도할 때, 디지털 화면 대신 화이트보드나 물리적 스위치를 배치하여 사용자의 집중도를 조절하는 연출을 적용할 수 있다.",
+  "context": "버틀러 암스덴 아키텍츠는 샌프란시스코를 기반으로 지역적 맥락을 보존하는 프로젝트를 주로 수행해 왔다. 이번 작업은 1950년대 미드센추리 주택의 원형을 보존하면서도 현대적 기술 창업자의 요구를 결합한 사례다.",
+  "findings": [
+   {
+    "text": "퀴즐렛은 2006년 앤드루 서덜랜드가 설립한 교육 기술 기업으로, 현재 6천만 명 이상의 월간 활성 사용자를 보유하고 있다.",
+    "s": 3,
+    "quote": "Quizlet is a multi-national American education technology company that provides digital study tools, including flashcards, practice quizzes, and collaborative learning games. The service was founded in 2006 by Andrew Sut"
+   },
+   {
+    "text": "천장에 매립 가능한 벤 앤 아자 블랑의 문 라이트는 조명과 조각의 역할을 동시에 수행하며, 블랙 스틸 등의 프레임으로 제작된다.",
+    "s": 2,
+    "quote": "Framed in black steel, solid bronze or oil rubbed bronze, the image of the moon is lit from within and enclosed in glass, creating a piece that resonates cohesively as light, sculpture and image."
+   }
+  ],
+  "keywords": [
+   "미드센추리",
+   "공간설계",
+   "패턴언어",
+   "버클리",
+   "주거건축"
+  ],
+  "evidence": "a conversation pit facing a whiteboard for lectures",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "건축적 복원과 거주자의 라이프스타일을 결합한 구체적인 공간 장치와 재료 활용이 돋보인다.",
+  "v": 2,
+  "url": "https://www.architecturaldigest.com/story/midcentury-treehouse-berkeley-california-design-by-aquilo-interiors",
+  "original_title": "This Midcentury \"Treehouse\" Is Tailored for Its Tech-Founder Owner—Right Down to the Velvet Conversation Pit and Dry-Erase Board",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 5672,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-13 06:37",
+  "research": {
+   "entities": [
+    "Robert Ratcliff",
+    "Butler Armsden Architects",
+    "Aquilo Interiors",
+    "Quizlet",
+    "Ben & Aja Blanc"
+   ],
+   "questions": [
+    "건축가 로버트 랫클리프가 설계한 원래의 미드센추리 주택은 어떤 특징을 가지고 있었나요?",
+    "앤드루 서덜랜드가 요구한 '패턴 언어'에 기반한 공간 구성은 구체적으로 어떻게 적용되었나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Butler Armsden Architects | San Francisco",
+     "url": "https://www.butlerarmsden.com"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Moon Light — BEN & AJA BLANC",
+     "url": "https://www.benandajablanc.com/moonlight"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Quizlet",
+     "url": "https://en.wikipedia.org/wiki/Quizlet"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3
+   ],
+   "chars": 1161
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "wallpaper.com/travel/restaurants/le-poisson-volant-paris-opening": {
+  "title_ko": "파리의 밤을 채우는 왕가위의 상하이와 중식 비스트로",
+  "summary_ko": "파리의 창립자 베르트랑 쇼보와 폴 앙리가 클라베스 아키텍처와 협력해 11구에 레스토랑 겸 클럽 르 푸아송 볼랑을 열었다. 중국 아데코와 브루탈리즘을 결합한 인테리어 속에서 중식 메뉴를 선보이며, 자정이 지나면 조명이 전환되어 클럽으로 변모한다.",
+  "lens": "빛의 강저와 거울의 반사로 물리적 경계를 지우고 식당을 클럽으로 확장한다.",
+  "why_now": "외식 공간과 심야 클럽의 경계가 무너지고, 영화적 미감이 공간으로 침전되는 동시대적 공간 편집의 단면을 보여준다.",
+  "mechanism": "마티에르 누아르의 광채 패널과 은색으로 그려진 중국 아데코 패턴이 낮은 조명 아래서 겹치며 시각적 왜곡과 깊이감을 만든다.",
+  "sensory": "특유의 보라빛 갈색 벽과 파티나 처리된 철제 타원형 바, 거울에 반사되는 인공조명이 뒤섞여 실내에서 시간 감각을 잃게 만든다.",
+  "transfer": "공간의 물리적 변형 없이 조도와 천장 패널의 발광을 조절해 시퀀스를 전환하는 연출로 콘티에 적용한다.",
+  "context": "운영진은 이전 파리 카페 겸 비스트로 르 꼬르니숑의 성공에 이어 이번 공간을 구상했다.",
+  "findings": [
+   {
+    "text": "클라베스 아키텍처는 로어 그라비에와 소아직 푸주롱이 만든 파리 기반의 인테리어 디자인 스튜디오다.",
+    "s": 2,
+    "quote": "Claves is a Paris-based interior design studio created by Laure Gravier and Soizic Fougeront"
+   },
+   {
+    "text": "셰프 옌신 인은 중국 중서부 시안과 간쑤성 란저우에서 수련하며 아시안 요리와 전통 기술 전문성을 쌓았다.",
+    "s": 1,
+    "quote": "trained in Xi’an, in central-western China, and later in Lanzhou, in Gansu Province in the country’s northwest, brings his expertise in Asian cuisines and their traditional techniques"
+   }
+  ],
+  "keywords": [
+   "공간디자인",
+   "파리",
+   "클럽",
+   "인테리어"
+  ],
+  "evidence": "The pair have reunited with Claves Architecture for interiors that draw on Chinese Art Deco and the nocturnal world of Wong Kar-wai.",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "구체적인 건축적 장치와 영화적 미감이 공간 운영 방식까지 세밀하게 연결되어 있다.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/travel/restaurants/le-poisson-volant-paris-opening",
+  "original_title": "Le Cornichon’s founders open new Paris nightspot, Le Poisson Volant",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 4271,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-13 06:37",
+  "research": {
+   "entities": [
+    "Le Poisson Volant",
+    "Claves Architecture",
+    "Wong Kar-wai",
+    "Charles Rennie Mackintosh",
+    "Pierre Huyghe"
+   ],
+   "questions": [
+    "Le Poisson Volant의 인테리어 디자인에서 왕가위 감독의 영화적 미학을 어떻게 시각적으로 구현했는가?",
+    "식당과 나이트클럽이라는 이질적인 공간을 결합하기 위해 건축가와 운영진은 어떤 공간적 전략을 사용했는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Poisson Volant - Home",
+     "url": "https://www.lepoissonvolant.paris/"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Claves Architecture",
+     "url": "https://claves.fr/"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Wong Kar-wai",
+     "url": "https://en.wikipedia.org/wiki/Wong%20Kar-wai"
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "Charles Rennie Mackintosh",
+     "url": "https://en.wikipedia.org/wiki/Charles%20Rennie%20Mackintosh"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 3673
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "wallpaper.com/design-interiors/lighting/apparatus-act-v-collection": {
+  "title_ko": "어파라터스, 다섯 번째 막 '아프사네'로 엮어낸 생의 순환",
+  "summary_ko": "뉴욕 디자인 스튜디오 어파라터스(Apparatus)가 5년 만의 신작 'Act V: 아프사네(Afsaneh)'를 공개했다. 예술 감독 가브리엘 헨디파는 씨앗에서 우주로 이어지는 생의 순환을 네 가지 시리즈로 풀어냈다. 가구와 조명뿐 아니라 향기와 마사 그레이엄 무용단과의 협업 필름을 더해 총체적인 경험을 설계했다.",
+  "lens": "빛을 만드는 행위를 생명 탄생의 은유로 치환하여, 가구라는 물리적 객체를 우주적 질서의 일부로 격상시킨다.",
+  "why_now": "디자인을 단일한 제품이 아닌 서사와 감각이 결합된 세계관으로 확장하여, 소비자가 브랜드의 철학에 몰입하게 만드는 방식이 유효하다.",
+  "mechanism": "캐스트 글라스 씨앗을 유리섬유 갓으로 감싸 꽃잎을 형상화하고, 이를 다시 향기와 필름이라는 비물질적 매체로 확장해 공간의 밀도를 높인다.",
+  "sensory": "다마스크 장미와 우드 향이 감도는 공간 속에서, 유리와 반귀석의 차가운 질감이 겹겹이 쌓인 유리섬유의 부드러운 곡선과 대비를 이룬다.",
+  "transfer": "필름을 제품의 연장선으로 활용해 정적인 가구에 서사적 깊이를 더하고, 특정 향기를 공간의 레이어로 삽입해 감각의 기억을 각인시킨다.",
+  "context": "어파라터스는 이전 작업에서 1970년대 뉴욕의 화려함과 빈 공방(Wiener Werkstätte)의 조형미를 탐구해왔다. 이번 작업은 개인의 서사를 보편적 우주론으로 확장하며 스튜디오의 서사적 깊이를 완성한다.",
+  "findings": [
+   {
+    "text": "마사 그레이엄 무용단은 미국에서 가장 오래된 무용단이자 최초의 통합 무용단으로 평가받는다.",
+    "s": 5,
+    "quote": "The Martha Graham Dance Company, founded by Martha Graham in April 1926, is both the oldest dance company in the United States and the oldest integrated dance company."
+   },
+   {
+    "text": "빈 공방은 금속, 가죽, 도자 등 다양한 매체를 다루며 현대 디자인의 선구자로 불린다.",
+    "s": 4,
+    "quote": "The Workshop was \"dedicated to the artistic production of utilitarian items in a wide range of media, including metalwork, leatherwork, bookbinding, woodworking, ceramics, postcards and graphic art, and jewelry.\""
+   }
+  ],
+  "keywords": [
+   "어파라터스",
+   "가브리엘헨디파",
+   "조명디자인",
+   "공간서사",
+   "마사그레이엄"
+  ],
+  "evidence": "Afsaneh, which is both his mother’s name and the Persian word for fable, unfolds in four series: Esfand, the seed, symbolizing the mother; Gol, the flower, the amplification of the seed; Rahvi, the serpent and collector of knowledge; and Jahaan, the cosmos",
+  "kind": "프로젝트",
+  "depth": 5,
+  "grounding": "full",
+  "depth_reason": "제품을 넘어 향기, 필름, 철학적 서사를 하나의 세계관으로 정교하게 통합해 디자인 연출의 새로운 가능성을 보여준다.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/design-interiors/lighting/apparatus-act-v-collection",
+  "original_title": "Apparatus reveals its first collection in five years – and it's as daring as you'd expect",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 3216,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-13 06:37",
+  "research": {
+   "entities": [
+    "Gabriel Hendifar",
+    "Apparatus",
+    "Wiener Werkstätte",
+    "Martha Graham Dance Company"
+   ],
+   "questions": [
+    "Apparatus의 신작 컬렉션 'Act V: Afsaneh'의 각 시리즈(Esfand, Gol, Rahvi, Jahaan)가 지닌 상징적 의미는 무엇인가?",
+    "가브리엘 헨디파(Gabriel Hendifar)는 이번 컬렉션에서 향기와 퍼포먼스(필름)를 디자인 작업과 어떻게 결합했는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "www.apparatusstudio.com",
+     "url": "https://apparatusstudio.com/"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Act V",
+     "url": "https://apparatusstudio.com/pages/act-v"
+    },
+    {
+     "n": 3,
+     "type": "공식·1차",
+     "title": "Martha Graham Dance Company.",
+     "url": "https://marthagraham.org/"
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "Wiener Werkstätte",
+     "url": "https://en.wikipedia.org/wiki/Wiener%20Werkst%C3%A4tte"
+    },
+    {
+     "n": 5,
+     "type": "위키백과",
+     "title": "Martha Graham Dance Company",
+     "url": "https://en.wikipedia.org/wiki/Martha%20Graham%20Dance%20Company"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "역사의 권력 구조를 비추는 거울, 모건 라이브러리의 타로 전시",
+     "url": "https://hyperallergic.com/how-tarot-survived-for-500-years/"
+    },
+    {
+     "n": 7,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "유대인 박물관이 조명하는 비너 베르크슈테트의 여성들",
+     "url": "https://hyperallergic.com/modernity-and-opulence-women-of-the-wiener-werkstatte-at-the-jewish-museum/"
+    },
+    {
+     "n": 8,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "체리 목재와 거대한 벽난로, 뉴욕 숲속에 지은 독서가들의 은신처",
+     "url": "https://www.architecturaldigest.com/story/jesse-parris-lamb-upstate-new-york-cabin"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "chars": 4377
+  },
+  "depth_raw": 5,
+  "depth_v": 2
+ },
+ "sightunseen.com/2026/10/the-furniture-collection-thats-about-to-revolutionize-public-spaces": {
+  "title_ko": "상업 공간의 문법을 뒤흔드는 마크 그래튼의 코스메 컬렉션",
+  "summary_ko": "디자이너 마크 그래튼이 상업용 가구 브랜드 에이치비에프(HBF)를 위해 7종의 가구 컬렉션 '코스메(Cosme)'를 선보였다. 주거용 가구의 안락함과 상업 공간에 필요한 고성능 소재를 결합하여, 사무용 가구의 전형적인 형태를 탈피했다.",
+  "lens": "상업 공간의 효율성이라는 명목 아래 거세되었던 감각적 유희를 가구의 형태와 질감으로 복원한다.",
+  "why_now": "기능 위주의 상업 가구 시장에서 주거 공간의 사적인 안락함을 요구하는 하이브리드 공간 수요가 증가하고 있다.",
+  "mechanism": "가죽, 벨벳, 부클레 등 다채로운 질감의 패브릭을 사용하고, 원형 기둥 형태의 다리를 매치해 구조적인 단단함과 시각적 부드러움을 동시에 확보한다.",
+  "sensory": "지브라 프린트와 짙은 색감의 가죽, 둥근 곡선의 기둥이 어우러져 공간에 조각적인 무게감과 촉각적 풍성함을 더한다.",
+  "transfer": "상업 공간 연출 시, 정형화된 오피스 가구 대신 조각적 형태의 오브제를 배치하여 공간의 기능과 심미적 가치를 동시에 충족하는 레이아웃을 구성한다.",
+  "context": "마크 그래튼은 주거 공간의 틀을 깨는 실험적인 가구 디자인으로 주목받아 왔으며, 이번 컬렉션은 그의 첫 상업 시장 진출작이다.",
+  "findings": [
+   {
+    "text": "에이치비에프는 주거용 가구의 고급스러움과 상업용 가구의 성능을 결합한 제품을 생산한다.",
+    "s": 1,
+    "quote": "Where residential luxury meets contract performance, designed by Mark Grattan."
+   },
+   {
+    "text": "애쉬 홈즈의 개인전 'Vessels'는 시드니의 헤이크 하우스에서 열린다.",
+    "s": 2,
+    "quote": "We are delighted to announce Vessels, Ash Holmes upcoming solo exhibition, opening at HAKE HOUSE on Friday 9 October."
+   }
+  ],
+  "keywords": [
+   "마크그래튼",
+   "상업가구",
+   "공간디자인",
+   "가구컬렉션"
+  ],
+  "evidence": "Grattan simply throws away the rulebook.",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "상업용 가구 시장의 관습을 깨는 구체적인 재료와 조형적 전략을 명확히 설명하고 있다.",
+  "v": 2,
+  "url": "https://www.sightunseen.com/2026/10/the-furniture-collection-thats-about-to-revolutionize-public-spaces/",
+  "original_title": "The furniture collection that’s about to revolutionize public spaces",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 9000,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-13 06:37",
+  "research": {
+   "entities": [
+    "Mark Grattan",
+    "HBF",
+    "Architectural Digest",
+    "Ash Holmes",
+    "Saturday Yard Work"
+   ],
+   "questions": [
+    "상업용 가구(contract furniture) 시장에서 요구되는 기능적 기준과 마크 그래튼의 디자인이 어떻게 결합되었는가?",
+    "애쉬 홈즈의 작품에서 '컨테이너'라는 개념이 어떻게 예술적 서사로 확장되는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "HBF",
+     "url": "https://us.list-manage.com/iizWWS6hGRN?e=520da9f661&c2id=1295bae7a12bea27ac8ddfcce70dbe9a"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "HOUSE OF ART",
+     "url": "https://us.list-manage.com/l8i8ztibi4g?e=520da9f661&c2id=1295bae7a12bea27ac8ddfcce70dbe9a"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Architectural Digest",
+     "url": "https://en.wikipedia.org/wiki/Architectural%20Digest"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "코트를 떠난 챔피언의 공간, 세레나 윌리엄스의 주거 포트폴리오",
+     "url": "https://www.architecturaldigest.com/story/where-does-serena-williams-live"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "지속 가능한 주거 리노베이션을 위한 세 가지 건축적 전략",
+     "url": "https://www.architecturaldigest.com/story/the-ideas-defining-home-renovations-today-according-to-top-architects"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "목수였던 배우 해리슨 포드, 그가 직접 지은 집과 가구의 기록",
+     "url": "https://www.architecturaldigest.com/story/harrison-ford-at-home-photos-of-the-hollywood-heartthrobs-life-off-set"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3
+   ],
+   "chars": 3602
+  },
+  "depth_raw": 4,
+  "depth_v": 2
  }
 }
