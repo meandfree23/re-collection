@@ -1988,5 +1988,48 @@
   "v": 3,
   "model": "gemini-3.1-flash-lite",
   "written_at": "2026-10-12 18:49"
+ },
+ "2026-10-13": {
+  "date": "2026-10-13",
+  "headline": "박제된 초상화의 붓질과 해안을 덮은 마그네사이트의 침묵",
+  "editorial": "팀 워커는 국립초상화미술관의 역사적 문법을 비틀어 퀴어 인물들의 존재를 고전의 반열에 올린다. 이는 단순히 과거를 복원하는 작업이 아니라, 츠요시 타네가 대지의 기억을 고고학적으로 발굴하듯 장소와 인물이 품은 시간의 켜를 현재로 끌어오는 행위와 맞닿아 있다. 한편 베드벡 하우스는 마그네사이트 바닥이라는 단일한 재료로 공간의 파편을 지우고 고요한 배경을 구축한다. 이들은 각기 다른 매체 속에서 고정된 형식을 걷어내고 대상의 숨겨진 면모를 드러내며, 우리가 마주하는 공간과 역사를 다시 응시하게 한다.",
+  "threads": [
+   {
+    "name": "역사와 장소가 남긴 흔적",
+    "note": "박제된 기억과 물리적 공간의 겹을 통해 대상의 새로운 의미를 포착한다.",
+    "items": [
+     {
+      "title": "국립초상화미술관에 펼쳐진 팀 워커의 퀴어 판타지",
+      "url": "https://www.anothermag.com/art-photography/17562/tim-walker-fairyland-national-portrait-gallery-love-letter-queer-community?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=tim-walker-s-love-letter-to-the-queer-community"
+     },
+     {
+      "title": "베드벡 하우스: 1911년 해안 빌라를 관통하는 마그네사이트 바닥의 미학",
+      "url": "https://leibal.com/interiors/vedbaek-house-2/"
+     },
+     {
+      "title": "장소가 품은 시간의 켜를 발굴하는 건축, 츠요시 타네",
+      "url": "https://www.archdaily.com/1038454/a-place-remembers-what-has-happened-tsuyoshi-tane-on-memory-as-a-design-driver-in-louisiana-channel-interview"
+     }
+    ]
+   },
+   {
+    "name": "규율을 어긋나는 시각 실험",
+    "note": "일상의 질서와 신체적 당연함을 비틀어 낯선 감각의 지점을 찾아낸다.",
+    "items": [
+     {
+      "title": "안나 후이준 왕의 오로보로: 차원과 매체를 넘나드는 정체성의 순환",
+      "url": "https://motionographer.com/quickie/oroboro-anna-huijun-wang/"
+     },
+     {
+      "title": "세상을 위아래로 뒤집는 고글, 감각의 오류를 실험하다",
+      "url": "https://www.designboom.com/art/carsten-holler-goggles-world-upside-down-perception-george-m-stratton/"
+     }
+    ]
+   }
+  ],
+  "based_on": 24,
+  "v": 3,
+  "model": "gemini-3.1-flash-lite-preview",
+  "written_at": "2026-10-13 02:07"
  }
 }
