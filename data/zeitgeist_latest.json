@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-10-13 18:58 KST",
-  "period": "2026.10.06 - 2026.10.13",
-  "total_articles": 412,
+  "generated_at": "2026-10-14 00:22 KST",
+  "period": "2026.10.07 - 2026.10.14",
+  "total_articles": 359,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 193
+      "count": 167
     },
     {
       "genre": "동시대 미술",
-      "count": 162
+      "count": 138
     },
     {
       "genre": "아방가르드 패션",
-      "count": 39
+      "count": 36
     },
     {
       "genre": "미디어 파사드·3D",
@@ -23,8 +23,8 @@
   "themes": [
     {
       "keyword": "가구 디자인",
-      "count": 14,
-      "previous_count": 8,
+      "count": 11,
+      "previous_count": 9,
       "trend": "rising",
       "items": [
         {
@@ -54,73 +54,41 @@
       ]
     },
     {
-      "keyword": "사진",
-      "count": 12,
-      "previous_count": 10,
-      "trend": "rising",
-      "items": [
-        {
-          "title": "윌리엄 에글스턴 (William Eggleston) 의 다제드 (dA-Zed) 가이드",
-          "url": "https://www.dazeddigital.com/art-photography/article/71148/1/the-da-zed-guide-to-william-eggleston-photographers-gallery?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=the-da-zed-guide-to-william-eggleston",
-          "image_url": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/7/1457350.jpg",
-          "source_name": "Dazed"
-        },
-        {
-          "title": "사진작가 Ryer Spann의 'Blue Spring'",
-          "url": "https://www.booooooom.com/2026/10/12/blue-spring-by-photographer-ryer-spann/",
-          "image_url": "https://cdn.booooooom.com/wp-content/uploads/2026/09/Spann1.jpg",
-          "source_name": "BOOOOOOOM"
-        },
-        {
-          "title": "일본 사진작가들의 급진적인 미학 실험을 만나보세요",
-          "url": "https://www.wallpaper.com/art/photography/khaio-japanese-women-artists-after-1945-review",
-          "image_url": "https://cdn.mos.cms.futurecdn.net/UjunoYYMKoANSfU9iddCwN-1920-80.jpg",
-          "source_name": "Wallpaper*"
-        },
-        {
-          "title": "사진작가 데이비드 블레이크먼의 '오늘 모든 것이 아름답다'",
-          "url": "https://www.booooooom.com/2026/10/09/everything-is-beautiful-today-by-photographer-david-blakeman/",
-          "image_url": "https://cdn.booooooom.com/wp-content/uploads/2026/09/Blakeman1.jpg",
-          "source_name": "BOOOOOOOM"
-        }
-      ]
-    },
-    {
-      "keyword": "빛과 조명",
+      "keyword": "목재 건축",
       "count": 9,
-      "previous_count": 7,
+      "previous_count": 5,
       "trend": "rising",
       "items": [
         {
-          "title": "호스타프랑크스 하우스/파라몬 + 타훌 아퀴텍트",
-          "url": "https://www.archdaily.com/1186707/hostafrancs-house-parramon-plus-tahull-arquitectes",
-          "image_url": "https://images.adsttc.com/media/images/6abd/20ff/c30d/0000/01d4/8f1a/large_jpg/JC1231-1492-Pano.jpg?1790779673",
+          "title": "앨런 조이스 아키텍트 (Allan Joyce Architects) 의 세이블 하우스 (Sable House) 개구부 \"경계를 허물다\"",
+          "url": "https://www.dezeen.com/2026/10/13/sable-house-allan-joyce-architects/",
+          "image_url": "https://static.dezeen.com/uploads/2026/10/sable-house-allan-joyce-architects-uk-sq_dezeen_2364_col_0-852x852.jpg",
+          "source_name": "Dezeen"
+        },
+        {
+          "title": "게릴라 셰이딩 파빌리온은 \"그늘이 비싸거나 복잡할 필요가 없다\" 는 것을 보여줍니다.",
+          "url": "https://www.dezeen.com/2026/10/13/shading-pavilion-camden-pearce-plus/",
+          "image_url": "https://static.dezeen.com/uploads/2026/10/shading-pavilion-camden-perace-plus_dezeen_2364_sq_20-852x852.jpg",
+          "source_name": "Dezeen"
+        },
+        {
+          "title": "목재와 강철로 만든 조각품은 철거 전에 서울에서 원시 콘크리트 껍질을 차지합니다.",
+          "url": "https://www.designboom.com/art/sculptures-timber-steel-raw-concrete-shell-seoul-demolition-ghost-barstairs-temporary-hypotheses-sukchulmok-kangyeon-lee-brbb/",
+          "image_url": "https://www.designboom.com/wp-content/dbsub/453552/2026-10-08/ghost-barstairs-temporary-hypotheses-fleeting-hypotheses-that-traversed-a-vacated-space-11-6ac6e5f2a5ff7.jpg",
+          "source_name": "Designboom Art"
+        },
+        {
+          "title": "파인우드 하우스/노모 스튜디오",
+          "url": "https://www.archdaily.com/1186486/pinewood-houses-nomo-studio",
+          "image_url": "https://images.adsttc.com/media/images/6ac6/5aec/07c3/d100/017f/ddb7/large_jpg/SimoneMarcolin_JPG6000_2507_NomoStudio_Fosca_DSC8839.jpg?1791384395",
           "source_name": "ArchDaily"
-        },
-        {
-          "title": "규칙서를 찢어놓는 8가지 독창적인 조명 디자인",
-          "url": "https://www.dezeen.com/2026/10/10/eight-unconventional-lighting-designs-roundups/",
-          "image_url": "https://static.dezeen.com/uploads/2026/10/seletti-bic-pen-lamp-852x852.jpg",
-          "source_name": "Dezeen"
-        },
-        {
-          "title": "Eba는 산토스의 플린스 서랍 덕분에 주방에 바닥 수준의 수납 공간을 갖추고 있습니다.",
-          "url": "https://www.dezeen.com/2026/10/08/santos-kitchen-plinth-drawer-unit-eba/",
-          "image_url": "https://static.dezeen.com/uploads/2026/09/santos-plinth-drawer-unit-eba_dezeen_2364_col_4-852x852.jpg",
-          "source_name": "Dezeen"
-        },
-        {
-          "title": "보톡스 없음: 라울 산체스는 라 카사 델 피라타 (La Casa del Pirata) 에서 마타로 헤리티지 홈을 착용합니다.",
-          "url": "https://www.yellowtrace.com.au/raul-sanchez-la-casa-del-pirata-mataro-heritage-renovation/",
-          "image_url": "https://assets.yellowtrace.com.au/wp-content/uploads/2026/09/28191559/Yellowtrace-Raul-Sanchez-Architects-Casa-del-Pirata-Barcelona-Photo-Jose-Hevia-08_opt80.jpg",
-          "source_name": "Yellowtrace"
         }
       ]
     },
     {
       "keyword": "레스토랑·호스피탈리티",
-      "count": 9,
-      "previous_count": 3,
+      "count": 8,
+      "previous_count": 4,
       "trend": "rising",
       "items": [
         {
@@ -150,71 +118,99 @@
       ]
     },
     {
-      "keyword": "목재 건축",
-      "count": 8,
-      "previous_count": 6,
+      "keyword": "텍스타일·직물",
+      "count": 3,
+      "previous_count": 1,
       "trend": "rising",
       "items": [
         {
-          "title": "목재와 강철로 만든 조각품은 철거 전에 서울에서 원시 콘크리트 껍질을 차지합니다.",
-          "url": "https://www.designboom.com/art/sculptures-timber-steel-raw-concrete-shell-seoul-demolition-ghost-barstairs-temporary-hypotheses-sukchulmok-kangyeon-lee-brbb/",
-          "image_url": "https://www.designboom.com/wp-content/dbsub/453552/2026-10-08/ghost-barstairs-temporary-hypotheses-fleeting-hypotheses-that-traversed-a-vacated-space-11-6ac6e5f2a5ff7.jpg",
-          "source_name": "Designboom Art"
+          "title": "Hermès reframes traditional textile crafts with the Arceau Cheval Natté watch",
+          "url": "https://www.wallpaper.com/watches-jewellery/hermes-arceau-cheval-natte-watch",
+          "image_url": "https://cdn.mos.cms.futurecdn.net/pEtWXFnyCYSefeVhG26LVa-1920-80.jpg",
+          "source_name": "Wallpaper*"
         },
         {
-          "title": "파인우드 하우스/노모 스튜디오",
-          "url": "https://www.archdaily.com/1186486/pinewood-houses-nomo-studio",
-          "image_url": "https://images.adsttc.com/media/images/6ac6/5aec/07c3/d100/017f/ddb7/large_jpg/SimoneMarcolin_JPG6000_2507_NomoStudio_Fosca_DSC8839.jpg?1791384395",
+          "title": "멕시코시티 건축 도시 가이드: 테노치티틀란에서 21세기에 이르는 38가지 프로젝트",
+          "url": "https://www.archdaily.com/866897/30-sites-every-architect-should-visit-in-mexico-city",
+          "image_url": "https://images.adsttc.com/media/images/6a41/1839/8481/2b01/8af5/0ade/large_jpg/mexico-city-architecture-city-guide-38-projects-from-tenochtitlan-to-the-21st-century_37.jpg?1782650950",
           "source_name": "ArchDaily"
         },
         {
-          "title": "Wiki World Forest Store / Wiki World",
-          "url": "https://www.archdaily.com/1186540/wiki-world-forest-store-wiki-world",
-          "image_url": "https://images.adsttc.com/media/images/6ac7/14df/07c3/d100/017f/e141/large_jpg/02.jpg?1791431947",
+          "title": "린호 하우스/테트로 아르키테투라",
+          "url": "https://www.archdaily.com/1033039/linho-house-tetro-arquitetura",
+          "image_url": "https://images.adsttc.com/media/images/689b/9b43/07ae/3401/89b5/21ea/large_jpg/casa-de-linho-tetro-arquitetura_1.jpg?1755028307",
           "source_name": "ArchDaily"
-        },
-        {
-          "title": "프라하의 스에프카 아키텍티 모델 조립식 주택 목재 옷장",
-          "url": "https://www.dezeen.com/2026/10/08/sepka-architekti-wardrobe-house/",
-          "image_url": "https://static.dezeen.com/uploads/2026/10/wardrobe-house-sepka-architekti-architecture-residential-czech-republic-wood-prefabrication_dezeen_2364_sq-852x852.jpg",
-          "source_name": "Dezeen"
         }
       ]
     },
     {
-      "keyword": "콘크리트 물성",
-      "count": 10,
-      "previous_count": 9,
+      "keyword": "사진",
+      "count": 11,
+      "previous_count": 11,
       "trend": "steady",
       "items": [
         {
-          "title": "목재와 강철로 만든 조각품은 철거 전에 서울에서 원시 콘크리트 껍질을 차지합니다.",
-          "url": "https://www.designboom.com/art/sculptures-timber-steel-raw-concrete-shell-seoul-demolition-ghost-barstairs-temporary-hypotheses-sukchulmok-kangyeon-lee-brbb/",
-          "image_url": "https://www.designboom.com/wp-content/dbsub/453552/2026-10-08/ghost-barstairs-temporary-hypotheses-fleeting-hypotheses-that-traversed-a-vacated-space-11-6ac6e5f2a5ff7.jpg",
-          "source_name": "Designboom Art"
+          "title": "On Sex and the Black Gaze: Ajamu X and Quil Lemons in Conversation",
+          "url": "https://www.anothermag.com/art-photography/17566/on-sex-and-the-black-gaze-ajamu-x-and-quil-lemons-in-conversation?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=on-sex-and-the-black-gaze-ajamu-x-and-quil-lemons-in-conversation",
+          "image_url": "https://images-prod.anothermag.com/786/azure/another-prod/470/9/479626.jpg",
+          "source_name": "AnOther Magazine"
         },
         {
-          "title": "시민 보호 센터/롤랜드 발디 건축가",
-          "url": "https://www.archdaily.com/1186466/civil-protection-centre-in-oris-roland-baldi-architects",
-          "image_url": "https://images.adsttc.com/media/images/6ac6/10d8/07c3/d100/017f/dc02/large_jpg/_DR62441B.jpg?1791365405",
+          "title": "윌리엄 에글스턴 (William Eggleston) 의 다제드 (dA-Zed) 가이드",
+          "url": "https://www.dazeddigital.com/art-photography/article/71148/1/the-da-zed-guide-to-william-eggleston-photographers-gallery?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=the-da-zed-guide-to-william-eggleston",
+          "image_url": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/7/1457350.jpg",
+          "source_name": "Dazed"
+        },
+        {
+          "title": "사진작가 Ryer Spann의 'Blue Spring'",
+          "url": "https://www.booooooom.com/2026/10/12/blue-spring-by-photographer-ryer-spann/",
+          "image_url": "https://cdn.booooooom.com/wp-content/uploads/2026/09/Spann1.jpg",
+          "source_name": "BOOOOOOOM"
+        },
+        {
+          "title": "일본 사진작가들의 급진적인 미학 실험을 만나보세요",
+          "url": "https://www.wallpaper.com/art/photography/khaio-japanese-women-artists-after-1945-review",
+          "image_url": "https://cdn.mos.cms.futurecdn.net/UjunoYYMKoANSfU9iddCwN-1920-80.jpg",
+          "source_name": "Wallpaper*"
+        }
+      ]
+    },
+    {
+      "keyword": "빛과 조명",
+      "count": 7,
+      "previous_count": 8,
+      "trend": "steady",
+      "items": [
+        {
+          "title": "호스타프랑크스 하우스/파라몬 + 타훌 아퀴텍트",
+          "url": "https://www.archdaily.com/1186707/hostafrancs-house-parramon-plus-tahull-arquitectes",
+          "image_url": "https://images.adsttc.com/media/images/6abd/20ff/c30d/0000/01d4/8f1a/large_jpg/JC1231-1492-Pano.jpg?1790779673",
           "source_name": "ArchDaily"
         },
         {
-          "title": "암석으로 마감된 수도원이 있는 \"모놀리식\" 콘크리트 주택",
-          "url": "https://www.dezeen.com/2026/10/11/monastic-field-roomoor-india/",
-          "image_url": "https://static.dezeen.com/uploads/2026/09/monastic-field-roomoor-india_dezeen_2364_sq_0-852x852.jpg",
+          "title": "규칙서를 찢어놓는 8가지 독창적인 조명 디자인",
+          "url": "https://www.dezeen.com/2026/10/10/eight-unconventional-lighting-designs-roundups/",
+          "image_url": "https://static.dezeen.com/uploads/2026/10/seletti-bic-pen-lamp-852x852.jpg",
           "source_name": "Dezeen"
         },
         {
-          "title": "크림 & 콩",
-          "url": "https://leibal.com/interiors/cream-bean/",
-          "image_url": "https://leibal.com/wp-content/uploads/2026/10/leibal-cream-bean-forspace-studio-4.jpg",
-          "source_name": "Leibal"
+          "title": "Eba는 산토스의 플린스 서랍 덕분에 주방에 바닥 수준의 수납 공간을 갖추고 있습니다.",
+          "url": "https://www.dezeen.com/2026/10/08/santos-kitchen-plinth-drawer-unit-eba/",
+          "image_url": "https://static.dezeen.com/uploads/2026/09/santos-plinth-drawer-unit-eba_dezeen_2364_col_4-852x852.jpg",
+          "source_name": "Dezeen"
+        },
+        {
+          "title": "보톡스 없음: 라울 산체스는 라 카사 델 피라타 (La Casa del Pirata) 에서 마타로 헤리티지 홈을 착용합니다.",
+          "url": "https://www.yellowtrace.com.au/raul-sanchez-la-casa-del-pirata-mataro-heritage-renovation/",
+          "image_url": "https://assets.yellowtrace.com.au/wp-content/uploads/2026/09/28191559/Yellowtrace-Raul-Sanchez-Architects-Casa-del-Pirata-Barcelona-Photo-Jose-Hevia-08_opt80.jpg",
+          "source_name": "Yellowtrace"
         }
       ]
     }
   ],
   "notable_names": [
+    "Kristiner Architects",
+    "Quil Lemons",
     "Zenith Interiors",
     "Dezeen Showroom",
     "Gustaf Westman",
@@ -222,11 +218,7 @@
     "Anthony Vaccarello",
     "Saint Laurent",
     "Student Protests",
-    "Victoria Beckham",
-    "United States",
-    "Stanley Stellar",
-    "Paris Fashion Week",
-    "Leon Black"
+    "Victoria Beckham"
   ],
   "has_comparison": true
 }

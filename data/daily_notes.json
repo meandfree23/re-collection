@@ -2031,5 +2031,60 @@
   "v": 3,
   "model": "gemini-3.1-flash-lite-preview",
   "written_at": "2026-10-13 02:07"
+ },
+ "2026-10-14": {
+  "date": "2026-10-14",
+  "headline": "조몬의 흙 인형과 붉은 아레나의 파사드, 휘어진 자동차의 표면",
+  "editorial": "노에 쿠레모토는 고대 조몬의 도상을 현대 노동의 영역으로 불러내며 사라진 신화의 생명력을 되살린다. 붉은 파사드의 지흘라바 시립 아레나와 페닌슐라 런던의 차량 위를 뒤덮은 그래픽은 고정된 건물의 벽과 자동차의 곡면을 도시의 서사를 담는 매개체로 치환했다. 이들은 과거의 유산이나 고정된 형태에 머물지 않고, 물리적 행위를 통해 새로운 가치를 발생시킨다. 창작은 이제 정적인 결과물을 넘어, 기술과 구조 속에서 스스로의 가치를 증명하는 전략적 과정으로 나아간다.",
+  "threads": [
+   {
+    "name": "고정된 형태의 유연한 확장",
+    "note": "박물관의 벽이나 산업용 기물을 새로운 서사를 담는 그릇으로 변환하여 용도를 확장하는 방식이다.",
+    "items": [
+     {
+      "title": "브루클린 미술관의 회전 테이블, 미국을 묻는 다섯 개의 계절",
+      "url": "https://coolhunting.com/culture/what-season-is-it-america-bring-your-answer-to-the-table/"
+     },
+     {
+      "title": "OMA가 재해석한 휴스턴 커피 공장, 음악과 예술을 품은 학교로",
+      "url": "https://www.archdaily.com/1186703/oma-jason-long-is-transforming-houstons-historic-folger-coffee-plant-into-a-music-and-arts-school"
+     },
+     {
+      "title": "움직이는 미술관, 페닌슐라 런던 차량 6대를 뒤덮은 서사적 그래픽",
+      "url": "https://design-milk.com/peninsula-london-art-fleet-kozo/"
+     },
+     {
+      "title": "레이 가와쿠보의 잡지 '식스', 35년 만의 공간적 재구성",
+      "url": "https://www.anothermag.com/art-photography/17567/comme-des-garcons-six-magazine-dover-street-market-frieze-adrian-joffe?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=adrian-joffe-six-is-new-again"
+     }
+    ]
+   },
+   {
+    "name": "역사적 도상과 구조의 현대적 노동",
+    "note": "전통적인 도예 기법이나 건축적 유산을 현대의 생존과 노동 문제에 접목하여 재해석한다.",
+    "items": [
+     {
+      "title": "노에 쿠레모토, 일본 고대 신화와 현대 도예의 접점을 빚다",
+      "url": "https://www.wallpaper.com/design-interiors/noe-kuremoto-pad-2026-collectible-design"
+     },
+     {
+      "title": "체코 지흘라바 시립 아레나: 붉은 파사드와 음향을 고려한 좌석의 조화",
+      "url": "https://www.archdaily.com/1186100/jihlava-municipal-arena-chybik-plus-kristof"
+     },
+     {
+      "title": "2026 파리 모터쇼, 헤리티지 재해석으로 중국 브랜드에 맞서는 유럽의 전략",
+      "url": "https://www.wallpaper.com/transportation/paris-motor-show-2026-review"
+     },
+     {
+      "title": "유산의 생명력을 잇는 건축가, 도널드 인솔을 기리며",
+      "url": "https://www.dezeen.com/2026/10/13/donald-insall-dies-aged-100/"
+     }
+    ]
+   }
+  ],
+  "based_on": 24,
+  "v": 3,
+  "model": "gemini-3.1-flash-lite",
+  "written_at": "2026-10-14 00:31"
  }
 }
