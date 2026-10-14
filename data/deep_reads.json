@@ -163937,5 +163937,80 @@
   },
   "depth_raw": 4,
   "depth_v": 2
+ },
+ "yellowtrace.com.au/vitrocsa-inventor-of-modern-minimalist-window-built-for-orchids": {
+  "title_ko": "시계 장인의 정밀함으로 빚은 창, 비트로사(Vitrocsa)의 미니멀리즘",
+  "summary_ko": "스위스 시계 장인 에릭 조레이가 난초 생육을 위해 개발한 비트로사의 창호 시스템은 프레임을 최소화해 건축물과 외부를 매끄럽게 연결한다. 알루미늄 프로파일을 활용한 하중 지지 기술과 매립형 트랙으로 창의 존재감을 지운 이 시스템은 미니멀리즘의 본질인 절제와 정밀함을 건축 현장에 구현한다.",
+  "lens": "창호의 본질을 '시야의 차단'이 아닌 '빛의 투과'로 재정의하며, 부품의 물리적 한계를 시계 제작의 정밀함으로 돌파했다.",
+  "why_now": "미니멀리즘이 단순히 외관을 흉내 내는 양식으로 소비되는 시기에, 보이지 않는 곳까지 완벽을 기하는 기술적 사고의 중요성을 환기한다.",
+  "mechanism": "강성 높은 알루미늄 프로파일이 유리의 하중을 스스로 지탱하게 설계하여 수직 멀리언을 제거하고, 트랙과 베어링을 건축 구조체 내부에 매립해 시각적 간섭을 차단한다.",
+  "sensory": "창이 열릴 때 프레임의 경계가 사라지며 실내와 실외의 물리적 경계가 모호해지는 심리적 개방감을 경험하게 한다.",
+  "transfer": "공간의 개방감을 극대화할 때 창틀의 프로파일을 바닥과 천장 구조체 안으로 완전히 매립하여, 프레임이 아닌 '면과 면'의 만남으로 샷을 구성한다.",
+  "context": "비트로사는 1992년 에릭 조레이가 개발한 이후 호주 건축가 글렌 머컷(Glenn Murcutt)의 주택과 시드니 오페라 하우스의 얄라문디 룸(Yallamundi Rooms) 등에 적용되며 그 성능을 입증했다. 시드니 오페라 하우스는 1973년 완공된 20세기 건축의 걸작으로, 비트로사는 건축가 예른 웃손(Jørn Utzon)의 원형 설계를 방해하지 않는 투명성을 제공한다.",
+  "findings": [
+   {
+    "text": "글렌 머컷은 프리츠커 건축상을 수상한 호주의 건축가로, 엄격하게 선별된 프로젝트만을 수행하는 것으로 유명하다.",
+    "s": 1,
+    "quote": "Glenn Murcutt works as a sole practitioner without staff, builds only within Australia and is known to be very selective with his projects."
+   },
+   {
+    "text": "시드니 오페라 하우스는 1973년 개관하였으며, 덴마크 건축가 예른 웃손이 설계한 20세기 건축의 걸작이다.",
+    "s": 2,
+    "quote": "The Sydney Opera House is a multi-venue performing arts centre in Sydney, New South Wales, Australia. It is widely regarded as one of the world's most famous and distinctive buildings, and a masterpiece of 20th-century a"
+   }
+  ],
+  "keywords": [
+   "비트로사",
+   "미니멀리즘",
+   "건축디테일",
+   "창호시스템",
+   "정밀공학"
+  ],
+  "evidence": "The real work is in the parts nobody is supposed to notice—the recessed track, the bearings, componentry shrunk as far as it will go.",
+  "kind": "프로젝트",
+  "depth": 5,
+  "grounding": "full",
+  "depth_reason": "창호 기술의 기원과 건축적 맥락을 상세히 다루며, 미니멀리즘의 본질을 기술적 정밀함으로 해석하여 실무적 통찰을 제공한다.",
+  "v": 2,
+  "url": "https://www.yellowtrace.com.au/vitrocsa-inventor-of-modern-minimalist-window-built-for-orchids/",
+  "original_title": "A Window Built for Orchids: The Swiss Watchmaker Behind Vitrocsa.",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 6374,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-14 10:44",
+  "research": {
+   "entities": [
+    "Vitrocsa",
+    "Eric Joray",
+    "Glenn Murcutt",
+    "Sydney Opera House"
+   ],
+   "questions": [
+    "비트로사(Vitrocsa)의 미니멀 창호 시스템이 기존 창호와 차별화되는 기술적 특징은 무엇인가요?",
+    "스위스의 시계 장인이었던 에릭 조레이(Eric Joray)가 난초를 키우기 위해 개발한 창호 아이디어가 어떻게 현대 건축용 미니멀 창호로 발전하게 되었나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Glenn Murcutt",
+     "url": "https://en.wikipedia.org/wiki/Glenn%20Murcutt"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Sydney Opera House",
+     "url": "https://en.wikipedia.org/wiki/Sydney%20Opera%20House"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 1919
+  },
+  "depth_raw": 5,
+  "depth_v": 2
  }
 }
