@@ -167240,5 +167240,1598 @@
   },
   "depth_raw": 5,
   "depth_v": 2
+ },
+ "hyperallergic.com/art-problems-do-i-need-an-agent": {
+  "title_ko": "미술계 에이전트 환상과 행정 노동의 현실",
+  "summary_ko": "미술 평론가 패디 존슨이 작가들의 과도한 행정 노동과 에이전트 고용 환상을 해부한다. 갤러리들의 자원 축소로 행정 지원이 줄어들면서 작가들은 에이전트나 인공지능 도구에 눈을 돌리지만 실효성은 제한적이다.",
+  "lens": "만병통치약 같은 에이전트라는 환상 대신 재고 관리와 행정 업무를 직시한다.",
+  "why_now": "동시대 미술 시장이 정체기를 겪으면서 갤러리들이 인력을 줄이고 지원을 축소했기 때문이다.",
+  "mechanism": "작가들이 창작 시간의 대부분을 행정 업무에 뺏기는 구조적 불균형을 수치로 진단한다.",
+  "sensory": "화려한 미술 시장 이면에 놓인 서류 작업과 재고 관리라는 건조한 일상을 보여준다.",
+  "transfer": "창작자 관리와 행정 시스템 자동화를 다룰 때 에이전트라는 막연한 환상 대신 실무 프로세스를 세밀하게 묘사한다.",
+  "context": "아트 바젤과 스위스 은행(UBS)의 글로벌 아트 시장 보고서에 따르면 2025년 동시대 미술 시장 딜러들의 판매는 정체 상태였다.",
+  "findings": [],
+  "keywords": [
+   "아티스트 에이전트",
+   "미술 시장",
+   "스튜디오 행정",
+   "동시대 미술"
+  ],
+  "evidence": "Artist agents are not the panacea we imagine them to be",
+  "kind": "뉴스·이슈",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "미술계 에이전트와 행정 노동의 실상을 분석한 글로 정보는 명확하나 르포나 심층 리서치는 아니다.",
+  "v": 2,
+  "url": "https://hyperallergic.com/art-problems-do-i-need-an-agent/",
+  "original_title": "Art Problems: Do I Need an Agent?",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 3123,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-15 02:53",
+  "research": {
+   "entities": [
+    "Art Basel",
+    "UBS",
+    "Kristen Becker",
+    "KB Art Strategies",
+    "Carl Sprinchorn"
+   ],
+   "questions": [
+    "미술계에서 아티스트 에이전트의 실제 역할과 한계는 무엇인가?",
+    "현대 미술 시장의 침체와 갤러리 구조조정이 작가들의 행정 부담에 미친 영향은 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "7 trends shaping the global art market’s recalibration",
+     "url": "https://www.artbasel.com/stories/art-basel-and-ubs-global-art-market-report-2026-art-market-trends?ref=hyperallergic.com"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "KB Art Strategies",
+     "url": "https://www.kbartstrategies.com/?ref=hyperallergic.com"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Art Basel",
+     "url": "https://en.wikipedia.org/wiki/Art%20Basel"
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "UBS",
+     "url": "https://en.wikipedia.org/wiki/UBS"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "캠퍼와 비트라 디자인 뮤지엄, 20년의 협업을 잇는 아카이브의 재구성",
+     "url": "https://www.fubiz.net/2026/07/01/camper-for-vitra-design-museum-at-art-basel-2026/"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "메인주의 두 박물관이 재조명하는 모더니스트 칼 스프린콘",
+     "url": "https://hyperallergic.com/discover-carl-sprinchorn-at-two-maine-museums-this-fall/"
+    },
+    {
+     "n": 7,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "인디펜던트 아트 페어, 거대 기업 인포마에 인수되다",
+     "url": "https://hyperallergic.com/independent-art-fair-purchased-by-british-conglomerate/"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 5970
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "hyperallergic.com/richard-dadds-strange-and-delicate-worlds": {
+  "title_ko": "통제된 혼란과 정밀함: 리처드 대드 회고전",
+  "summary_ko": "런던 왕립 미술원은 베들렘 왕립 병원 수감 시절 제작된 리처드 대드의 대규모 회고전을 개최한다. 이번 전시는 꽃과 풀잎 아래 정밀하게 그려진 환상적인 요정 회화들을 통해 작가의 전 생애 작업을 조명한다.",
+  "lens": "정신 질환의 서사를 걷어내고 집요한 붓질로 완성된 화면의 밀도를 직시한다.",
+  "why_now": "작가의 삶을 짓누르던 비극적 서사에서 벗어나 작품 자체의 미술사적 가치를 재평가하는 흐름이다.",
+  "mechanism": "꽃과 풀잎 등 식물의 형상을 화면 중심축으로 교차시키며 그 사이에 미니어처 같은 인물들을 빼곡하게 배치한다.",
+  "sensory": "화면을 가득 채운 미세한 크기의 환상적인 인물들과 복잡하게 얽힌 식물 줄기가 시각적 압박감을 준다.",
+  "transfer": "화면 중앙을 가로지르는 기하학적 요소로 시선을 고정하고 그 주변에 수많은 오브제를 밀도 있게 배치하는 앵글을 설계한다.",
+  "context": "리처드 대드는 빅토리아 시대 로열 아카데미 미술학교에서 수학하며 더 클리크의 일원으로 활동했으나 1843년 이후 병원에 수감되었다.",
+  "findings": [
+   {
+    "text": "리처드 대드는 1817년 영국 채텀에서 태어나 빅토리아 시대에 활동했다.",
+    "s": 3,
+    "quote": "Richard Dadd (1 August 1817 – 7 January 1886) was an English painter of the Victorian era"
+   },
+   {
+    "text": "대표작인 'The Fairy Feller's Master-Stroke'는 1855년부터 1864년까지 제작되었다.",
+    "s": 4,
+    "quote": "The Fairy Feller's Master-Stroke is a painting by English artist Richard Dadd. It was begun in 1855 and worked on until 1864."
+   }
+  ],
+  "keywords": [
+   "리처드대드",
+   "회고전",
+   "왕립미술원",
+   "환상미술"
+  ],
+  "evidence": "Richard Dadd: Beyond Bedlam, was painted between 1855 and 1864 and worked over repeatedly for nearly a decade while Dadd was incarcerated at Bethlem Royal Hospital.",
+  "kind": "전시",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "작가 회고전의 성격과 작품 제작 배경을 명확하게 짚었으나 새로운 조형적 발견보다는 기존 작가의 재조명에 가깝다.",
+  "v": 2,
+  "url": "https://hyperallergic.com/richard-dadds-strange-and-delicate-worlds/",
+  "original_title": "Richard Dadd’s Strange and Delicate Worlds",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 2550,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-15 02:53",
+  "research": {
+   "entities": [
+    "Richard Dadd",
+    "The Fairy Feller’s Master-Stroke",
+    "Bethlem Royal Hospital",
+    "Royal Academy of Arts",
+    "The Clique"
+   ],
+   "questions": [
+    "리차드 대드의 작품 'The Fairy Feller’s Master-Stroke'가 정신 질환과 수감 생활 속에서 어떻게 탄생했는가?",
+    "테이트 브튼과 왕립 미술원(Royal Academy of Art)의 회고전에서 대드의 예술을 아웃사이더 아트가 아닌 정통 미술사적 맥락에서 어떻게 조명하는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "The Clique | Tate",
+     "url": "https://www.tate.org.uk/art/art-terms/c/clique?ref=hyperallergic.com"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Bethlem Museum of the Mind",
+     "url": "https://museumofthemind.org.uk/?ref=hyperallergic.com"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Richard Dadd",
+     "url": "https://en.wikipedia.org/wiki/Richard%20Dadd"
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "The Fairy Feller's Master-Stroke",
+     "url": "https://en.wikipedia.org/wiki/The%20Fairy%20Feller%27s%20Master-Stroke"
+    }
+   ],
+   "used": [
+    3,
+    4
+   ],
+   "chars": 4569
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "thisiscolossal.com/2026/10/ann-toebbe-mixed-media-paintings": {
+  "title_ko": "기억의 면을 펼치고 꺾어 공간을 재조립하는 앤 토비의 회화",
+  "summary_ko": "시카고 작가 앤 토비는 기억과 감정이 얽힌 장소를 평면 위에 정교한 콜라주와 회화로 재구성한다. 구아슈, 유채, 색연필을 혼합하고 역원근법과 평행원근법을 결합하여 왜곡된 시점을 만들어낸다. 하이드 파크 아트 센터에서 최근 개인전을 가졌으며 앤드루 라파츠 갤러리 단체전에서 작품을 선보이고 있다.",
+  "lens": "벽과 바닥을 펼쳐낸 도면처럼 집 내부와 외부를 동시에 압축해 기이한 시각적 균형을 만든다.",
+  "why_now": "물리적 좌표로서의 공간과 개인이 기억하는 장소의 격차를 시각적으로 해부하는 방식이 동시대 공간 연출에 새로운 단면을 제공한다.",
+  "mechanism": "역원근법으로 멀어지는 오브제를 확대하고 평행원근법으로 크기를 유지해 관람객을 낯선 원근의 미로 속으로 밀어 넣는다.",
+  "sensory": "종이 콜라주와 과슈의 매트한 질감이 벽지와 바닥재의 패턴과 맞물려 납작하면서도 깊이 있는 레이어를 이룬다.",
+  "transfer": "세트 디자인이나 콘티에서 한 공간의 내외부와 평면도를 하나의 프레임 안에 겹쳐 입체적인 심리적 단면을 연출한다.",
+  "context": "시카고를 기반으로 활동하는 앤 토비는 예일대학교에서 회화 석사 학위를 받았으며 사치 갤러리 등에서 전시를 진행했다.",
+  "findings": [
+   {
+    "text": "앤 토비는 클리브랜드 미술관에서 학사 학위를 받고 2004년 예일대학교에서 회화 석사 학위를 취득했다.",
+    "s": 1,
+    "quote": "Originally from Cincinnati, Ohio, Ann Toebbe received her BFA from the Cleveland Institute of Art in 1997. She earned an MFA in painting from Yale University in 2004"
+   },
+   {
+    "text": "토비는 시카고의 현대미술관, 런던의 사치 갤러리 등에서 개인전을 개최했다.",
+    "s": 3,
+    "quote": "Ann Toebbe (born 1974) is an American contemporary artist who has had solo exhibitions at the Museum of Contemporary Art, Chicago, The Saatchi Gallery (London, UK)"
+   },
+   {
+    "text": "하이드 파크 아트 센터는 2006년부터 시카고 켄우드 지역에 위치한 시에서 가장 오래된 대안 전시 공간이다.",
+    "s": 4,
+    "quote": "The Hyde Park Art Center (HPAC) is a visual arts organization and the oldest alternative exhibition space in the city of Chicago. Since 2006, HPAC has been located just north of Hyde Park Boulevard"
+   }
+  ],
+  "keywords": [
+   "앤 토비",
+   "원근법",
+   "회화",
+   "콜라주",
+   "공간"
+  ],
+  "evidence": "Rendering interiors and cross-cut buildings in impeccable detail, Toebbe concentrates on a particular sensation or mood and then constructs a series of architectural compositions",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "역원근법과 평행원근법의 혼합 기법을 구체적인 재료와 레이아웃 조작 방식으로 상세히 풀어내 시각적 장치가 선명하다.",
+  "v": 2,
+  "url": "https://www.thisiscolossal.com/2026/10/ann-toebbe-mixed-media-paintings/",
+  "original_title": "Ann Toebbe’s Skewed Paintings Transform Architectural Spaces into Cherished Places",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 2721,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-15 02:53",
+  "research": {
+   "entities": [
+    "Ann Toebbe",
+    "Hyde Park Art Center",
+    "Andrew Rafacz"
+   ],
+   "questions": [
+    "앤 토비가 사용하는 역원근법과 평행원근법의 혼합이 관람객에게 어떤 심리적 효과를 주나요?",
+    "물리적 공간(Space)과 장소(Place)의 개념적 차이가 앤 토비의 작품 구성 방식에 어떻게 반영되나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Ann Toebbe",
+     "url": "https://anntoebbe.com/"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Ann Toebbe Explores Her Mental Map of Hyde Park",
+     "url": "https://art.newcity.com/2026/03/18/ann-toebbe-explores-her-mental-map-of-hyde-park-in-hyde-park-art-center-show/"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Ann Toebbe",
+     "url": "https://en.wikipedia.org/wiki/Ann%20Toebbe"
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "Hyde Park Art Center",
+     "url": "https://en.wikipedia.org/wiki/Hyde%20Park%20Art%20Center"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "이사야 리의 회화 속 인형의 집과 유년의 공포",
+     "url": "https://www.thisiscolossal.com/2026/08/isaiah-lee-paintings/"
+    }
+   ],
+   "used": [
+    1,
+    3,
+    4
+   ],
+   "chars": 4171
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "hyperallergic.com/john-berger-in-his-own-bruised-time": {
+  "title_ko": "존 버거의 멍든 시간: 20세기 역사와 시선의 정치를 잇다",
+  "summary_ko": "미술 비평가 존 버거의 전기 '존 버거: 삶으로부터(John Berger: From Life)'가 출간되었다. 저자 톰 오버턴은 버거의 사상을 현대적 소비가 아닌 제1차 세계대전 이후의 혼란과 런던 대공습이라는 20세기적 맥락에서 재구성한다. 이는 예술을 통해 시대의 모순을 읽어내려 했던 버거의 태도를 복원하는 작업이다.",
+  "lens": "예술을 박제된 유산이 아닌 생존의 도구로 다루었던 버거의 시선은, 오늘날 디지털 이미지의 홍수 속에서 우리가 무엇을 놓치고 있는지 역설한다.",
+  "why_now": "인공지능이 창의성을 균질화하는 시대에, 예술을 통해 지식을 생산하고 권력의 구조를 폭로했던 버거의 비평적 태도는 유효한 이정표가 된다.",
+  "mechanism": "1972년 BBC 시리즈 '보는 방식(Ways of Seeing)'에서 버거는 박물관처럼 꾸민 스튜디오에서 보티첼리의 복제본을 칼로 자르는 연출을 선보였다. 이는 예술을 신성시하는 권위적 프레임을 물리적으로 해체하여, 기술이 이미지와 맺는 관계를 시각화한 장치다.",
+  "sensory": "전쟁 직후의 황폐함과 런던 대공습의 파편화된 풍경이 버거의 비평적 토대를 이룬다. 그의 문장은 개인적인 편지처럼 서정적이면서도, 자본과 권력을 꿰뚫는 날카로운 금속성을 띤다.",
+  "transfer": "공간이나 영상 연출 시, 특정 오브제(예: 고전 회화)를 박물관의 신전 같은 공간이 아닌, 일상적인 스튜디오나 폐허 속에 배치하라. 매체의 권위를 제거하고 관객이 이미지의 이면을 스스로 발견하게 만드는 동선과 샷을 구성할 수 있다.",
+  "context": "존 버거는 '보는 방식'을 통해 서구 예술의 정전과 그 속에 숨겨진 이데올로기를 비판하며 시각 문화의 지형을 바꿨다. 톰 오버턴은 버거의 방대한 아카이브를 정리해 온 연구자로, 이번 전기는 그가 엮은 '초상(Portraits)', '풍경(Landscapes)' 등 버거의 비평집들과 맥락을 같이한다.",
+  "findings": [
+   {
+    "text": "존 버거는 1972년 BBC 시리즈 '보는 방식'을 통해 서구 예술의 이데올로기를 비판하며 시각 문화에 깊은 영향을 주었다.",
+    "s": 3,
+    "quote": "The series was intended as a response to Kenneth Clark's Civilisation TV series, which represents a more traditionalist view of the Western artistic and cultural canon, and the series and book criticise traditional Weste"
+   },
+   {
+    "text": "톰 오버턴은 존 버거의 아카이브를 정리하며 광부들의 투쟁을 다룬 '지하의 바다'를 공동 편집했다.",
+    "s": 1,
+    "quote": "It brings together for the first time his work on mineworkers and the miners’ strikes and has been edited as a set of actions for today."
+   }
+  ],
+  "keywords": [
+   "존 버거",
+   "보는 방식",
+   "시각 문화",
+   "비평",
+   "톰 오버턴"
+  ],
+  "evidence": "Berger was making a point about how technology changed the way we interact with images, but the subtext is clear: that he was there to cut through exclusionary and pedantic framings",
+  "kind": "작가·인터뷰",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "전기 출간이라는 사실을 넘어, 버거의 비평적 연출 기법과 그가 겪은 시대적 맥락을 비평적으로 연결하여 분석했다.",
+  "v": 2,
+  "url": "https://hyperallergic.com/john-berger-in-his-own-bruised-time/",
+  "original_title": "John Berger in His Own Bruised Time",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 3406,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-15 02:53",
+  "research": {
+   "entities": [
+    "John Berger",
+    "Ways of Seeing",
+    "Tom Overton",
+    "British Library",
+    "Sandro Botticelli"
+   ],
+   "questions": [
+    "존 버거의 'Ways of Seeing'이 20세기 미술 비평과 대중의 시각 문화 이해에 어떤 혁신적인 변화를 가져왔는가?",
+    "톰 오버턴의 전기 'John Berger: From Life'는 존 버거의 사상을 그의 개인적 경험과 20세기 역사적 맥락 속에서 어떻게 재해석하고 있는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "The Underground Sea by John Berger, Tom Overton and Matthew Harle - published by Canongate",
+     "url": "https://canongate.co.uk/books/5120-the-underground-sea/?ref=hyperallergic.com"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "John Berger",
+     "url": "https://en.wikipedia.org/wiki/John%20Berger"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Ways of Seeing",
+     "url": "https://en.wikipedia.org/wiki/Ways%20of%20Seeing"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "구찌의 신전, 부서진 부르주아를 소환하다",
+     "url": "https://www.wallpaper.com/fashion-beauty/gucci-ss-2027-demna-show-review-milan-fashion-week"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "chars": 4624
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "hyperallergic.com/red-hook-open-studios-rises-from-the-ashes": {
+  "title_ko": "화재 참사 13개월 만에 부활한 브루클린 레드훅 오픈 스튜디오",
+  "summary_ko": "미국 브루클린 워터프런트 지역의 레드훅 오픈 스튜디오 페스티벌이 밴 브런트 스트리트 창고 화재 참사 후 13개월 만에 11회 차 행사를 개최했다. 피해를 입은 일부 예술가들은 고속도로 인근 건물로 스튜디오를 옮겼고 지역의 창작 생태계는 여전히 건재함을 증명했다.",
+  "lens": "재난의 상흔을 안고 일상을 복원하는 예술가들의 물리적 거점 이동.",
+  "why_now": "재난과 행정적 제약 속에서도 자생적인 예술 공동체가 어떻게 생존하고 물리적 공간을 재구축하는지 보여주는 현장이다.",
+  "mechanism": "남아있는 창작자들이 인근 건물의 빈 공간으로 작업실을 옮기고 전단 배포를 통해 대중과 직접 소통하며 이벤트를 지탱한다.",
+  "sensory": "부분 폐쇄 명령이 떨어진 남북전쟁 시대 석조 창고 주변의 녹색 가설 가림막과 바닷바람이 스치는 브루클린 항구의 거친 질감.",
+  "transfer": "재난 이후의 공간을 다룰 때, 완벽한 복구 대신 가설 구조물과 임시 스튜디오가 자아내는 날것의 현장감을 로케이션 비주얼에 활용한다.",
+  "context": "레드훅의 역사적인 창고에서 발생한 화재 이후 예술가들이 주변 건물로 이동하며 지역 커뮤니티의 연속성을 이어가고 있다.",
+  "findings": [],
+  "keywords": [
+   "레드훅",
+   "오픈스튜디오",
+   "브루클린",
+   "예술공동체",
+   "공간복원"
+  ],
+  "evidence": "Nearly 13 months after a five-alarm fire scorched part of a historic Van Brunt Street warehouse, the Brooklyn waterfront neighborhood's open studios festival returned for its 11th year",
+  "kind": "행사·공모",
+  "depth": 2,
+  "grounding": "partial",
+  "depth_reason": "지역 예술가의 행사를 다룬 뉴스 기사로 정보 전달 중심이며 예술적 기법의 새로움은 적다.",
+  "v": 2,
+  "url": "https://hyperallergic.com/red-hook-open-studios-rises-from-the-ashes/",
+  "original_title": "Red Hook Open Studios Rises From the Ashes",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 1798,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-15 02:53",
+  "research": {
+   "entities": [
+    "Red Hook Open Studios",
+    "Deborah Ugoretz",
+    "Quarto Group",
+    "Carl Sprinchorn",
+    "Ogunquit Museum of American Art"
+   ],
+   "questions": [
+    "레드훅 오픈 스튜디오 페스티벌은 화재 참사 이후 예술가들의 활동 재개에 어떤 영향을 미쳤는가?",
+    "반 브런트 스트리트 창고 화재로 피해를 입은 예술가들은 현재 어떻게 작업 공간을 복구하고 있는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Carl Sprinchorn",
+     "url": "https://en.wikipedia.org/wiki/Carl%20Sprinchorn"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Ogunquit Museum of American Art",
+     "url": "https://en.wikipedia.org/wiki/Ogunquit%20Museum%20of%20American%20Art"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "메인주의 두 박물관이 재조명하는 모더니스트 칼 스프린콘",
+     "url": "https://hyperallergic.com/discover-carl-sprinchorn-at-two-maine-museums-this-fall/"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "인디펜던트 아트 페어, 거대 기업 인포마에 인수되다",
+     "url": "https://hyperallergic.com/independent-art-fair-purchased-by-british-conglomerate/"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "뉴욕에서 열린 라 페리아, 46개 단체와 함께 판화 생태계를 드러내다",
+     "url": "https://hyperallergic.com/a-triumphant-tribute-to-latine-visual-culture/"
+    }
+   ],
+   "used": [],
+   "chars": 2650
+  },
+  "depth_raw": 2,
+  "depth_v": 2
+ },
+ "archdaily.com/1186680/learning-through-practice-why-architecture-students-enter-competitions": {
+  "title_ko": "정규 학기를 넘어선 실험, 건축 공모전이 지닌 교육적 가치",
+  "summary_ko": "건축 공모전은 학생들이 평가의 부담에서 벗어나 비전통적인 아이디어를 시험하는 실험의 장이다. 역사적으로 에콜 데 보자(École des Beaux-Arts)에서 교수진이 독립적으로 심사하는 핵심 모델이었으나, 시간이 흐르며 정규 교육과정인 디자인 스튜디오 중심 체계에 밀려 주변부로 이동했다.",
+  "lens": "정규 학기의 평가 제도를 벗어날 때, 건축학도는 비로소 비전통적인 아이디어를 시험한다.",
+  "why_now": "학업 성적과 실무 준비라는 압박 속에서, 비정형적인 프로그램과 실험적 도구를 다루는 공모전의 고유한 교육적 위치를 재조명한다.",
+  "mechanism": "학기 제도의 시선과 평가 기준에서 물리적으로 거리를 두어, 느슨하게 정의된 프로그램 속에서 낯선 도구와 파격적인 형태를 테스트한다.",
+  "sensory": "정형화된 도면의 틀을 깨고 나오는 거친 스케치와 비선형적 모형들이 지닌 날것의 물성과 스케일.",
+  "transfer": "정형화된 클라이언트 브리프를 벗어나, 다음 작업의 콘티에서 기존의 물리적 제약을 무시하는 과감한 스케일 조작을 시도한다.",
+  "context": "에콜 데 보자에서는 아틀리에와 독립된 심사 기반의 공모전이 교육의 중심이었으나, 이 모델이 MIT와 코넬 대학교 등으로 전파되는 과정에서 오늘날의 디자인 스튜디오 체계가 정착했다.",
+  "findings": [
+   {
+    "text": "에콜 데 보자(École des Beaux-Arts)는 프랑스의 영향력 있는 미술 학교들을 가리키며, 19세기 후반과 20세기 초반에 번성한 건축 및 도시 계획의 보자예술 양식과 연관되어 있다.",
+    "s": 1,
+    "quote": "École des Beaux-Arts (French for 'School of Fine Arts'; pronounced [ekɔl de boz‿aʁ]) refers to a number of influential art schools in France. The term is associated with the Beaux-Arts style in architecture and city plan"
+   }
+  ],
+  "keywords": [
+   "건축공모전",
+   "디자인스튜디오",
+   "에콜데보자",
+   "건축교육"
+  ],
+  "evidence": "On paper, entering an architecture competition is one of the most challenging things an architecture student can do. What draws students to them is the chance to experiment",
+  "kind": "뉴스·이슈",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "건축 공모전의 역사적 배경과 교육적 의의를 다룬 칼럼이나 깊은 분석보다는 개론적 성격의 글이다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1186680/learning-through-practice-why-architecture-students-enter-competitions",
+  "original_title": "Learning Through Practice: Why Architecture Students Enter Competitions",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 1317,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-15 02:53",
+  "research": {
+   "entities": [
+    "École des Beaux-Arts",
+    "MIT",
+    "Cornell"
+   ],
+   "questions": [
+    "건축 공모전이 현대 건축 교육 과정에서 주변부로 밀려나게 된 구체적인 역사적 배경은 무엇인가요?",
+    "에콜 데 보자(École des Beaux-Arts)의 교육 모델은 오늘날의 건축 스튜디오 교육에 어떤 영향을 미쳤나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "École des Beaux-Arts",
+     "url": "https://en.wikipedia.org/wiki/%C3%89cole%20des%20Beaux-Arts"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Massachusetts Institute of Technology",
+     "url": "https://en.wikipedia.org/wiki/Massachusetts%20Institute%20of%20Technology"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "무한의 망과 점, 야요이 쿠사마가 2000년 데이즈드에 남긴 기록",
+     "url": "https://www.dazeddigital.com/art-photography/article/70866/1/yayoi-archive-pull-march-2000-issue-art-polka-dots?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=revisit-this-memorable-conversation-with-yayoi-kusama-from-march-2000"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "프래터니티의 폐쇄적 권력을 해체하라: 대학 내 성폭력과 구조적 폭력",
+     "url": "https://www.dazeddigital.com/life-culture/article/71106/1/tear-fraternities-frat-houses-down-cornell-chi-phi-rape-assault-men?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=tear-the-frat-houses-down"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "코넬대 성폭력 사건과 학생 연대의 침묵 거부",
+     "url": "https://www.dazeddigital.com/life-culture/article/71117/1/cornell-students-are-rallying-for-jane-doe-protest-movement-cornell-7?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=the-fight-for-jane-doe-inside-the-cornell-student-movement"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 3014
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "dezeen.com/2026/10/14/omar-gandhi-brodye-chappell-prince-edwards-island": {
+  "title_ko": "오마르 간디가 세운 골판지 금속 집과 스튜디오",
+  "summary_ko": "오마르 간디 아키텍츠(Omar Gandhi Architects)가 가구 제작자 브로디 채펠(Brodye Chappell)과 협력해 캐나다 프린스에드워드아일랜드 마시필드 농경지에 주택과 작업장을 건설했다. 골판지 금속 외관을 두른 두 동의 건물이 농경지 풍경 속에 독특한 실루엣을 만든다.",
+  "lens": "골판지 금속 외관으로 농경지 풍경에 날카로운 물성을 새긴다.",
+  "why_now": "농경지라는 지역적 배경 속에서 현대적 재료인 금속 외관을 통해 시각적 대비를 만들어내는 방식이 주목받는다.",
+  "mechanism": "골판지 금속을 외장재로 사용하여 빛의 각도에 따라 표면에 미세한 음영과 질감 변화를 유도한다.",
+  "sensory": "거친 금속 표면의 차가운 물성과 주변 농경지의 탁 트인 풍경이 시각적 긴장을 형성한다.",
+  "transfer": "야외 로케이션 촬영 시 배경의 자연물과 대조되는 금속 소재의 반사광을 활용해 피사체를 부각하는 장치로 쓴다.",
+  "context": "오마르 간디 아키텍츠는 캐나다 대서양 연안의 자연경관과 지역적 건축 언어를 현대적으로 결합하는 작업으로 잘 알려진 스튜디오다.",
+  "findings": [
+   {
+    "text": "오마르 간디 아키텍츠는 2010년에 설립된 캐나다의 건축 사무소로 핼리팩스와 토론토에 스튜디오를 두고 있다.",
+    "s": 1,
+    "quote": "Omar Gandhi Architect is a Canadian architectural firm established in 2010, with two small studios located in Halifax, Nova Scotia and Toronto, Ontario."
+   }
+  ],
+  "keywords": [
+   "오마르간디",
+   "금속외관",
+   "농경지건축",
+   "작업장"
+  ],
+  "evidence": "Omar Gandhi Architects has collaborated with furniture maker Brodye Chappell to build a house and workshop featuring a corrugated metal exterior in Prince Edward Island, Canada.",
+  "kind": "프로젝트",
+  "depth": 2,
+  "grounding": "thin",
+  "depth_reason": "원문 본문을 수집하지 못하고 메타 정보와 제한된 리서치 자료에만 의존하여 평점이 낮다.",
+  "v": 2,
+  "url": "https://www.dezeen.com/2026/10/14/omar-gandhi-brodye-chappell-prince-edwards-island/",
+  "original_title": "Omar Gandhi designs house and studio with \"striking silhouette\" for furniture maker",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 0,
+  "fetch": "fetch_error:HTTPError",
+  "cliche_hits": [],
+  "read_at": "2026-10-15 02:53",
+  "research": {
+   "entities": [
+    "Omar Gandhi Architects",
+    "Brodye Chappell",
+    "프린스 에드워드 아일랜드"
+   ],
+   "questions": [
+    "Omar Gandhi Architects가 디자인한 이 주택과 작업장의 건축적 특징과 골판지 금속 외관을 선택한 이유는 무엇인가요?",
+    "가구 제조업체 Brodye Chappell과 건축가 간의 협업 과정에서 이 공간이 제작자의 작업 스타일에 어떻게 기여하고 있나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Omar Gandhi",
+     "url": "https://en.wikipedia.org/wiki/Omar%20Gandhi"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 784
+  },
+  "depth_raw": 2,
+  "depth_v": 2
+ },
+ "wallpaper.com/design-interiors/interior-design/benjamin-moore-color-of-the-year-2027": {
+  "title_ko": "벤자민 무어가 꼽은 2027년 올해의 컬러, 웨브스터 그린",
+  "summary_ko": "미국 페인트 기업 벤자민 무어가 2027년 올해의 컬러로 에메랄드와 상록수 중간 채도의 초록색인 웨브스터 그린(Webster Green HC-130)을 선정했다. 이번 색상은 인공지능과 디지털 화면이 넘쳐나는 세상에서 자연과 연결되려는 욕구를 반영해 안정감과 낙관적 에너지를 동시에 전달한다. 셰익스피어 탠과 앤틱 코퍼 등 7가지 보조 색상 팔레트와 함께 공개되어 공간에 깊이를 더한다.",
+  "lens": "디지털 화면에 지친 시선에 초록의 물성을 덧입혀 공간을 묵직하게 가라앉힌다.",
+  "why_now": "디지털 매체가 일상을 잠식한 시대에 물질적 감각을 회복하려는 주거 트렌드가 뚜렷해지고 있다.",
+  "mechanism": "생생한 에메랄드와 짙은 상록수의 중간 톤을 사용하여 자연물의 무게감을 공간에 구현한다.",
+  "sensory": "깊고 진한 초록빛이 벽면을 감싸며 실내에 차분한 숲속의 공기를 불어넣는다.",
+  "transfer": "세트나 공간 디자인에서 삭막한 디지털 감성을 걷어내고 싶을 때 중후한 녹색 톤의 벽면을 배경으로 활용한다.",
+  "context": "1883년 뉴욕에서 설립된 도료 기업 벤자민 무어(Benjamin Moore & Co.)는 매년 시장 조사를 바탕으로 공간 트렌드를 이끄는 올해의 컬러를 발표해 왔다. [S3]",
+  "findings": [
+   {
+    "text": "벤자민 무어는 1883년 미국 뉴욕에서 설립된 도료 및 코팅제 제조 기업이다.",
+    "s": 3,
+    "quote": "Benjamin Moore & Co., also known as Benjamin Moore, is an American manufacturer of paints, stains, and other architectural coatings. The company was founded in 1883 in New York"
+   }
+  ],
+  "keywords": [
+   "올해의컬러",
+   "웨브스터그린",
+   "벤자민무어",
+   "공간컬러",
+   "인테리어트렌드"
+  ],
+  "evidence": "Webster Green HC-130 reflects this timeless appeal by pairing reassuring stability with optimistic energy.",
+  "kind": "제품·오브제",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "세계적인 페인트 브랜드의 연례 컬러 트렌드 발표를 충실하게 다룬 정보성 기사다.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/design-interiors/interior-design/benjamin-moore-color-of-the-year-2027",
+  "original_title": "Benjamin Moore’s 2027 Colour of the Year is bursting with ‘optimistic energy’",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 2865,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-15 02:53",
+  "research": {
+   "entities": [
+    "Benjamin Moore",
+    "Tanu Vasu",
+    "Andrea Magno"
+   ],
+   "questions": [
+    "벤자민 무어가 2027년 올해의 컬러로 초록 계열인 Webster Green을 선정한 배경과 시장 분석 과정은 어떠한가?",
+    "자연에서 영감을 받은 인테리어 컬러 트렌드가 최근 몇 년간 주거 공간 디자인에 미친 영향은 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Benjamin Moore Paints & Exterior Stains | Benjamin Moore",
+     "url": "https://www.benjaminmoore.com/en-us"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Silhouette AF-655 | Benjamin Moore",
+     "url": "https://www.benjaminmoore.com/en-us/paint-colors/color/af-655/silhouette"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Benjamin Moore & Co.",
+     "url": "https://en.wikipedia.org/wiki/Benjamin%20Moore%20%26%20Co."
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "미국 인테리어의 반전, 어두운 색상도 차갑지 않고 묵직한 웜톤으로 흐른다",
+     "url": "https://design-milk.com/american-paint-color-trends-samplize-2026/"
+    }
+   ],
+   "used": [
+    1,
+    3
+   ],
+   "chars": 4441
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "wallpaper.com/travel/you-can-now-stay-in-this-restored-jean-prouve-house-on-the-french-riviera": {
+  "title_ko": "장 프루베의 조립식 집, 리비에라의 올리브 나무 아래로 돌아오다",
+  "summary_ko": "수집가 후베르트 보네가 해체 위기에 놓인 장 프루베와 아들 클로드 프루베의 1958년작 조립식 주택을 프랑스 생폴드방스로 옮겨 복원했다. 알루미늄 패널과 접힌 강철 골조로 이루어진 115제곱미터 규모의 이 집은 샤를로트 페리앙과 르 코르뷔지에의 가구, 서포트/수르페이스 화가들의 작품으로 채워져 대중에게 숙박 공간으로 개방된다.",
+  "lens": "구조체를 감추지 않고 건물의 언어로 삼는 장 프루베의 뼈대에 동시대 회화와 거장의 가구를 겹쳐 살아 움직이는 아카이브를 만든다.",
+  "why_now": "박물관 전시품으로 갇히거나 고가에 거래되는 모더니즘 건축 유산을 철저히 일상의 거주 경험으로 환원하려는 태도가 두드러진다.",
+  "mechanism": "알루미늄 패널과 접힌 강철이라는 공업적 가벼움이 테라코타 바닥, 목재, 성벽을 향한 긴 창과 만나 지역의 지형과 감각적으로 결합한다.",
+  "sensory": "지중해의 올리브 나무와 소나무 사이에 놓인 금속 셸 구조는 차가운 산업적 물성과 태양빛이 바닥의 테라코타에 부딪히며 만드는 온화한 질감이 교차한다.",
+  "transfer": "철제 프루베 조립식 건물의 골조와 알루미늄 패널을 그대로 노출시킨 세트를 배경으로, 차가운 금속 표면에 반사되는 자연광과 거친 텍스처를 살린 로케이션 촬영 콘티에 활용한다.",
+  "context": "장 프루베는 낭시의 대장간에서 익힌 기술을 바탕으로 건축과 공학을 결합한 조립식 구조를 개척했다. 현대미술 수집가 후베르트 보네가 설립한 레 메종 카브(Les Maisons CAB)는 브뤼셀과 생폴드방스의 재단 공간을 거점 삼아 20세기 거장들의 주거 건축을 수집하고 숙박 가능한 예술적 장소로 되살리는 프로젝트를 이어오고 있다.",
+  "findings": [
+   {
+    "text": "후베르트 보네는 2012년에 최소주의 및 개념미술의 확산을 위해 브뤼셀에 1930년대 산업용 건물을 개조해 Fondation CAB를 설립했다.",
+    "s": 1,
+    "quote": "In 2012, contemporary art enthusiast Hubert Bonnet created Fondation CAB in Brussels, dedicated to the promotion and diffusion of minimal and conceptual art. Located in a 1930s industrial building, the foundation offers "
+   },
+   {
+    "text": "Fondation CAB는 2020년에 프랑스 생폴드방스의 1950년대 건물로 확장하여 영향력을 넓혔다.",
+    "s": 1,
+    "quote": "In 2020, Fondation CAB expanded to a superb 1950s building in Saint-Paul-de-Vence, France, broadening its influence and reaching a new audience."
+   }
+  ],
+  "keywords": [
+   "장 프루베",
+   "조립식 주택",
+   "생폴드방스",
+   "모더니즘 건축",
+   "레 메종 카브"
+  ],
+  "evidence": "A low house of aluminium panels and folded steel stands among the olives and pines below Saint-Paul-de-Vence, its long window turned to the ramparts above.",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "철거 위기의 장 프루베 건물을 이전 복원하여 숙박 공간이자 거주 가능한 미술관으로 탈바꿈시킨 구체적이고 독창적인 현장이다.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/travel/you-can-now-stay-in-this-restored-jean-prouve-house-on-the-french-riviera",
+  "original_title": "You can now stay in this restored Jean Prouvé house on the French Riviera",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 5814,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-15 02:53",
+  "research": {
+   "entities": [
+    "Jean Prouvé",
+    "Charlotte Perriand",
+    "Le Corbusier",
+    "Hubert Bonnet",
+    "Galerie Patrick Seguin"
+   ],
+   "questions": [
+    "장 프루베의 조립식 주택(Maison Prouvé)은 구조적으로 어떤 특징을 가지고 있으며 건축사에 어떤 영향을 미쳤는가?",
+    "후베르트 보네(Hubert Bonnet)가 운영하는 'Les Maisons CAB' 프로젝트는 현대 건축 보존과 예술적 활용에 있어 어떤 철학을 담고 있는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Home - Les Maisons CAB",
+     "url": "https://lesmaisonscab.com/en/"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Accueil - Les Maisons CAB",
+     "url": "http://lesmaisonscab.com"
+    },
+    {
+     "n": 3,
+     "type": "공식·1차",
+     "title": "%%sitename%%",
+     "url": "http://fondationcab.com"
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "Jean Prouvé",
+     "url": "https://en.wikipedia.org/wiki/Jean%20Prouv%C3%A9"
+    },
+    {
+     "n": 5,
+     "type": "위키백과",
+     "title": "Charlotte Perriand",
+     "url": "https://en.wikipedia.org/wiki/Charlotte%20Perriand"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "로즈 유니악이 구현한 런던 아파트, 시대를 가로지르는 물성의 대화",
+     "url": "https://www.wallpaper.com/design-interiors/interior-design/rose-uniacke-west-london-apartment"
+    },
+    {
+     "n": 7,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "아시아 브루탈리즘의 재발견, 콘크리트로 읽는 지역의 기록",
+     "url": "https://www.wallpaper.com/architecture/brutalist-asia-book"
+    },
+    {
+     "n": 8,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "리스본의 상 호세 다 보아비스타 교회, 광장을 품은 현대적 성소",
+     "url": "https://www.yatzer.com/church-of-sao-jose-da-boavista-lisbon"
+    }
+   ],
+   "used": [
+    1,
+    4
+   ],
+   "chars": 8166
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "archdaily.com/1186599/wilnsdorf-primary-school-and-sports-hall-buero-bb": {
+  "title_ko": "철거된 고가교의 자취를 담은 빌른스도르프 초등학교",
+  "summary_ko": "독일 서부의 나무 우거진 경사지에 세워진 빌른스도르프 초등학교는 건축가 율리에 셰플러와 야콥 비켈 등이 설계한 연면적 4600제곱미터 규모의 교육 시설이다. 이 건물은 목재와 지역 프리캐스트 콘크리트뿐만 아니라 철거된 지역 고가교에서 채운 재생 콘크리트를 조합하여 소형 학습 공간으로 완성되었다.",
+  "lens": "철거된 토목 구조물의 파편을 교실의 물리적 재료로 되돌려 세운다.",
+  "why_now": "건축 자재의 채굴과 폐기가 환경에 미치는 부담을 줄이기 위해 토목 폐기물을 건축 구조체로 직접 전환하는 실천이 중요하다.",
+  "mechanism": "지역에서 철거된 고가교의 콘크리트를 파쇄하여 새로운 골재나 구조체 재료로 재가공하고 목재와 조합하여 소형 매스로 분할한다.",
+  "sensory": "거친 표면의 재생 콘크리트 물성과 따뜻한 목재 결이 숲의 경사지와 맞물려 단단하고 차분한 인상을 만든다.",
+  "transfer": "철거 현장에서 발생한 폐기물을 가공 없이 원형 그대로 혹은 블록 형태로 벽면에 노출해 시간의 층위를 드러내는 세트로 활용한다.",
+  "context": "독일 빌른스도르프에 위치한 이 학교는 부에로 비비(BUERO BB)와 건축사사무소 이멘되르퍼(Architektur Immendörfer)가 협력하여 완성했다.",
+  "findings": [],
+  "keywords": [
+   "재생콘크리트",
+   "교육건축",
+   "지속가능성",
+   "목재건축"
+  ],
+  "evidence": "Wilnsdorf Primary School combines timber, regional precast concrete, and concrete recycled from a demolished local viaduct into a compact building for learning.",
+  "kind": "프로젝트",
+  "depth": 2,
+  "grounding": "thin",
+  "depth_reason": "구체적인 자재 재활용 방식이 언급되나 원문 텍스트가 짧아 평범한 프로젝트 소개 수준에 머문다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1186599/wilnsdorf-primary-school-and-sports-hall-buero-bb",
+  "original_title": "Wilnsdorf Primary School and Sports Hall / BUERO BB",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 1631,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-15 02:53",
+  "research": {
+   "entities": [
+    "BUERO BB",
+    "Sebastian Schels",
+    "Wilnsdorf"
+   ],
+   "questions": [
+    "빌른스도르프 초등학교 및 스포츠홀 프로젝트에서 재활용 콘크리트는 어떻게 활용되었는가?",
+    "BUERO BB가 이 교육 시설 디자인에서 지속 가능성을 구현하기 위해 사용한 주요 건축 자재와 방식은 무엇인가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "wallpaper.com/design-interiors/collectible-design-new-names-to-know-pad-london-2026": {
+  "title_ko": "패드 런던에서 포착한 다섯 명의 콜렉터블 신예",
+  "summary_ko": "패드 런던(PAD London) 2026에서 주목받은 다섯 팀의 디자이너가 개인적 서사와 토속적 공예를 결합한 신작을 공개한다. 노에 쿠레모토의 토기 조각부터 마누엘 바노의 금속 조명, 아드리아나 뫼니에의 원시 태피스트리까지 장르를 넘나드는 물성 연구를 보여준다.",
+  "lens": "토속적 신화와 원시적 물성을 해체해 컨템퍼러리 오브제로 재조립한다.",
+  "why_now": "디자인과 미술의 경계가 희미해진 동시대 마켓에서 지역성과 개인의 기억을 녹여낸 공예적 가치가 다시 조명받는다.",
+  "mechanism": "스테인리스 스틸의 직관적인 물성과 에폭시 수지로 코팅한 풍선의 물성 대비를 통해 시각적 긴장감을 만든다.",
+  "sensory": "거친 흙의 결, 금속의 차가운 광택, 털실과 식물 섬유의 야생적인 질감이 공간을 채운다.",
+  "transfer": "공간 연출 시 매끄러운 인조 소재 대신 긁히고 그을린 금속이나 털실의 원초적 질감을 전면 배치해 거친 긴장감을 부여한다.",
+  "context": "패드 런던은 2007년 패트릭 페랭이 설립한 영국 유일의 역사·컨템퍼러리 디자인 전문 페어로 매년 10월 메이페어 버클리 스퀘어에서 열린다.",
+  "findings": [
+   {
+    "text": "패드 런던은 2007년 4세대 파리 골동품상 패트릭 페랭이 설립한 영국 유일의 역사 및 컨템퍼러리 디자인 전용 페어다.",
+    "s": 1,
+    "quote": "Founded in 2007 by fourth-generation Parisian antique dealer Patrick Perrin, PAD London is the only fair in the UK exclusively dedicated to historical and contemporary Design."
+   },
+   {
+    "text": "매년 10월 런던 메이페어 지구의 버클리 스퀘어에서 일주일 동안 개최된다.",
+    "s": 1,
+    "quote": "The week-long event takes place every October on Berkeley Square, in the heart of London’s affluent Mayfair district."
+   }
+  ],
+  "keywords": [
+   "패드런던",
+   "콜렉터블디자인",
+   "공예",
+   "물성"
+  ],
+  "evidence": "Now in its 18th edition, PAD London has got us accustomed to its distinctive blend of collectible design, fine art, objects and jewellery.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "여러 신예 디자이너의 독창적 작업과 페어 맥락을 균형 있게 다루나 라운드업 성격이라 3점에 그친다.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/design-interiors/collectible-design-new-names-to-know-pad-london-2026",
+  "original_title": "Five new names to know in collectible design",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 6883,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-15 02:53",
+  "research": {
+   "entities": [
+    "PAD London",
+    "Noe Kuremoto",
+    "Adriana Meunié",
+    "Seungjin Yang",
+    "Manuel Bano"
+   ],
+   "questions": [
+    "PAD London 2026에서 주목받은 신예 디자이너들의 공통적인 디자인 특징은 무엇인가?",
+    "노에 쿠레모토(Noe Kuremoto)의 작품에 영감을 준 일본의 전통 문화와 신화적 요소는 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "London | PAD Fairs - Premier art fairs held annually in Paris and London",
+     "url": "https://www.padesignart.com/en/london/"
+    },
+    {
+     "n": 2,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "메이페어에 세워진 임시 스튜디오, 마일스 알드리지의 폴라로이드 초상",
+     "url": "https://www.wallpaper.com/travel/mount-street-neighbourhood-arts-festival-2026"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "마요르카의 거친 풀과 양모로 엮은 괴물 같은 우아함",
+     "url": "https://www.wallpaper.com/design-interiors/adriana-meunie-collectible-design-pad-london-2026"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "단단한 금속을 두드려 완성한 마누엘 바노의 유연한 물성",
+     "url": "https://www.wallpaper.com/design-interiors/manuel-bano-collectible-design-pad-london-2026"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 1915
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "wallpaper.com/watches-jewellery/high-jewellery/sophie-bille-brahe-tangerine-sky-collection-juergen-teller": {
+  "title_ko": "하늘과 별을 품은 주얼리, 소피 빌 브라헤와 유르겐 텔러의 시선",
+  "summary_ko": "덴마크의 주얼리 디자이너 소피 빌 브라헤가 브랜드 설립 15주년을 맞아 첫 하이 주얼리 컬렉션 '탱제린 스카이'를 공개했다. 골드와 다이아몬드로 밤하늘과 별의 형상을 구현한 이번 컬렉션은 사진작가 유르겐 텔러 및 도빌레 드리자이트와의 협업 캠페인으로 촬영되었다.",
+  "lens": "하이 주얼리의 정형화된 완벽함을 거부하고, 날것의 거친 시선으로 별과 하늘의 형상을 포착한다.",
+  "why_now": "브랜드 설립 15주년을 맞이한 디자이너가 파인 주얼리를 넘어 하이 주얼리로 영역을 확장하며 동시대 미술가와의 협업을 통해 작업의 깊이를 증명한다.",
+  "mechanism": "유르겐 텔러 특유의 직관적이고 타협 없는 프레임이 주얼리의 정교한 세팅과 만나 예상치 못한 긴장감을 만들어낸다.",
+  "sensory": "차가운 다이아몬드와 따뜻한 골드의 물성이 텔러의 날것 그대로의 조명 아래서 거친 질감으로 도드라진다.",
+  "transfer": "인위적인 스튜디오 조명 대신 거칠고 직관적인 자연광이나 측광을 사용해 금속과 보석의 표면 질감을 날것으로 강조한다.",
+  "context": "덴마크 코펜하겐에 본사를 둔 소피 빌 브라헤는 사이 튐블리(Cy Twombly)의 동시대 미술과 하늘의 형상에서 영감을 받아왔으며, 이번 작업은 15주년을 기념하는 첫 하이 주얼리 컬렉션이다.",
+  "findings": [
+   {
+    "text": "소피 빌 브라헤는 브랜드 설립 15주년을 맞아 첫 하이 주얼리 컬렉션인 탱제린 스카이를 선보였다.",
+    "s": 1,
+    "quote": "Unveiling Sophie Bille Brahe’s first High Jewellery collection. Rooted in forms Sophie has envisioned since the very beginning, Tangerine Sky unfolds as an intimate expression of High Jewellery"
+   },
+   {
+    "text": "유르겐 텔러는 2003년 시티뱅크 사진상을 수상하고 파리의 퐁당시 카르티에 등을 비롯한 다수의 미술관에서 전시를 개최한 독일의 사진작가다.",
+    "s": 2,
+    "quote": "Juergen Teller (born 28 January 1964) is a German fine-art and fashion photographer. He was awarded the Citibank Prize for Photography in 2003 and received the Special Presentation International Center of Photography Inf"
+   }
+  ],
+  "keywords": [
+   "소피빌브라헤",
+   "유르겐텔러",
+   "하이주얼리",
+   "탱제린스카이"
+  ],
+  "evidence": "Finished in golds and set with important diamonds, the pieces saw Bille Brahe delve into her fascination with stars and the sky, and her love of contemporary art",
+  "kind": "브랜드·캠페인",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "주얼리 브랜드의 15주년 기념 캠페인과 두 크리에이터의 협업 배경을 충실히 담았다.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/watches-jewellery/high-jewellery/sophie-bille-brahe-tangerine-sky-collection-juergen-teller",
+  "original_title": "‘There is an incredible clarity to his vision’: Sophie Bille Brahe and Juergen Teller make her high jewellery dazzle",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 1367,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-15 02:53",
+  "research": {
+   "entities": [
+    "Sophie Bille Brahe",
+    "Juergen Teller",
+    "Dovile Drizyte",
+    "Cy Twombly",
+    "Wallpaper*"
+   ],
+   "questions": [
+    "Sophie Bille Brahe의 브랜드 설립 15주년 기념 하이 주얼리 컬렉션 'Tangerine Sky'의 주요 특징은 무엇인가?",
+    "Juergen Teller와 Dovile Drizyte가 협업한 이번 캠페인 사진들은 어떤 예술적 비전을 담고 있는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Sophie Bille Brahe | Official Online Jewelry Shop",
+     "url": "https://sophiebillebrahe.com/"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Juergen Teller",
+     "url": "https://en.wikipedia.org/wiki/Juergen%20Teller"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Cy Twombly",
+     "url": "https://en.wikipedia.org/wiki/Cy%20Twombly"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "홍콩 전후 공공 주거의 격자를 베스널 그린에 이식하다",
+     "url": "https://www.wallpaper.com/travel/bakery-hoko-london-cafe-review"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "에스 데블린의 16페이지 콘서티나 커버, 월페이퍼 30주년의 기록",
+     "url": "https://www.wallpaper.com/design-interiors/es-devlin-16-page-concertina-cover-for-october-2026-wallpaper"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "월페이퍼 30주년, 17인의 크리에이터가 빚어낸 케이크의 형상들",
+     "url": "https://www.wallpaper.com/art/wallpaper-30-birthday-cakes"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 5067
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "archdaily.com/1186781/architecture-and-design-film-festival-adff-toronto": {
+  "title_ko": "건축과 도시를 기록하는 시선, 토론토 건축디자인영화제",
+  "summary_ko": "건축 및 디자인 영화제(ADFF)가 2026년 11월 4일부터 7일까지 티프 라이트박스(TIFF Lightbox)에서 토론토 행사를 개최한다. 이벤트스케이프(Eventscape)가 후원하고 페스티벌 디렉터 카일 베르그만(Kyle Bergman)이 엄선한 프로그램으로 영화와 패널 대화를 진행한다.",
+  "lens": "완공된 건축의 정면 대신 카메라가 포착한 도시의 이면과 제작 과정을 마주한다.",
+  "why_now": "디지털 매체 중심의 시각 문화 속에서 공간을 기록하고 해체하는 다큐멘터리적 서사의 가치가 커지고 있다.",
+  "mechanism": "영화 상영과 패널 토론을 결합하여 공간에 대한 시각적 경험을 입체적인 언어로 확장한다.",
+  "sensory": "상영관 어둠 속에서 스크린을 채우는 도시의 질감과 건축적 스케일의 입체적인 사운드.",
+  "transfer": "공간 다큐멘터리나 브랜드 필름을 기획할 때 완공 샷 대신 구조의 생성 과정을 담은 시퀀스를 도입한다.",
+  "context": "건축 매체 아크데일리(ArchDaily)를 통해 사용자 제출 형태로 소개된 행사다.",
+  "findings": [],
+  "keywords": [
+   "건축영화제",
+   "도시디자인",
+   "다큐멘터리",
+   "공간기록"
+  ],
+  "evidence": "Architecture & Design Film Festival (ADFF): Toronto",
+  "kind": "행사·공모",
+  "depth": 2,
+  "grounding": "thin",
+  "depth_reason": "단순 행사 안내 공고이며 세부 프로그램 정보가 부족하여 제한적으로 서술함.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1186781/architecture-and-design-film-festival-adff-toronto",
+  "original_title": "Architecture & Design Film Festival (ADFF): Toronto",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 961,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-15 02:53",
+  "research": {
+   "entities": [
+    "Architecture & Design Film Festival",
+    "TIFF Lightbox",
+    "Kyle Bergman",
+    "Eventscape",
+    "ArchDaily"
+   ],
+   "questions": [
+    "Architecture & Design Film Festival (ADFF) 토론토 행사의 주요 상영작과 올해의 핵심 주제는 무엇인가요?",
+    "TIFF Lightbox에서 개최되는 이번 페스티벌의 패널 토론과 부대 행사에는 어떤 전문가들이 참여하나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "ArchDaily",
+     "url": "https://en.wikipedia.org/wiki/ArchDaily"
+    },
+    {
+     "n": 2,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "백송의 밀도 속에 심은 140제곱미터의 여름 거처",
+     "url": "https://www.archdaily.com/1185721/a-house-with-one-hundred-pines-luis-barandiaran"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "유토피아와 디스토피아 사이, 기후 전환을 상상하는 법",
+     "url": "https://www.archdaily.com/1185529/between-burning-forests-and-utopian-cities-designing-the-climate-transition"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "백만 제곱미터의 생태 축: 마드리드 푸에르타 데 마드리드 도시 계획 공모",
+     "url": "https://www.archdaily.com/1184822/jury-led-design-competition-for-sustainable-and-innovative-urban-planning-proposals-for-the-puerta-de-madrid-area-in-leganes-madrid"
+    }
+   ],
+   "used": [],
+   "chars": 985
+  },
+  "depth_raw": 2,
+  "depth_v": 2
+ },
+ "architecturaldigest.com/story/benjamin-moore-2027-color-of-the-year": {
+  "title_ko": "유행의 속도를 거스르는 초록, 벤자민 무어 2027 올해의 컬러",
+  "summary_ko": "미국 페인트 브랜드 벤자민 무어가 2027년 올해의 색상으로 웹스터 그린을 발표했다. 빠른 소셜미디어 유행 주기에서 벗어나려는 소비자의 심리를 반영해, 푸른빛 감도는 그레이 톤을 품은 차분한 녹색을 제시했다.",
+  "lens": "화려한 일회성 유행 대신 묵직한 중립색으로 공간에 단단한 보호막을 친다.",
+  "why_now": "디자인 소비자들이 자극적인 소셜미디어 트렌드에서 벗어나 지속 가능한 주거 환경을 찾고 있다.",
+  "mechanism": "푸른빛과 회색빛을 품은 중간톤의 녹색이 공간 전체를 차분하고 깊이감 있게 감싼다.",
+  "sensory": "화려하지 않으나 단단하게 시선을 잡아끄는 숲의 질감과 서늘한 공기를 전달한다.",
+  "transfer": "공간 세트나 벽면에는 웹스터 그린 같은 어두운 톤을 채우고, 천장에는 넬슨 블루를 매칭해 안온한 깊이감을 만든다.",
+  "context": "미국 뉴저지주 몬트베일에 본사를 둔 페인트 제조사 벤자민 무어는 역사적 색상 컬렉션에 속한 웹스터 그린을 통해 전통과 현대성의 균형을 모색한다.",
+  "findings": [
+   {
+    "text": "벤자민 무어는 1883년 뉴욕에서 설립되어 미국과 캐나다 등지에서 제조 및 유통을 이어왔다.",
+    "s": 4,
+    "quote": "The company was founded in 1883 in New York, N.Y. and is currently headquartered in Montvale, New Jersey."
+   },
+   {
+    "text": "건축 매거진 Architectural Digest는 1920년에 창간되었으며 인테리어 디자인과 조경을 다룬다.",
+    "s": 5,
+    "quote": "Architectural Digest (stylized in all caps) is an American monthly magazine founded in 1920. Its principal subjects are interior design and landscaping"
+   }
+  ],
+  "keywords": [
+   "웹스터그린",
+   "벤자민무어",
+   "올해의컬러",
+   "공간디자인",
+   "인테리어컬러"
+  ],
+  "evidence": "The Benjamin Moore Color of the Year 2027 is Webster Green, a verdant mid-tone with cozy blue-gray undertones that is an established part of the company’s Historical Collection.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "브랜드의 컬러 선정 배경과 디자이너의 활용 방식을 구체적으로 다루지만 전형적인 트렌드 발표 기사다.",
+  "v": 2,
+  "url": "https://www.architecturaldigest.com/story/benjamin-moore-2027-color-of-the-year",
+  "original_title": "Benjamin Moore’s Color of the Year 2027 Is the Design Equivalent of Touching Grass",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 3524,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-15 02:54",
+  "research": {
+   "entities": [
+    "Benjamin Moore",
+    "Andrea Magno",
+    "Nickey Kehoe",
+    "Webster Green",
+    "Architectural Digest"
+   ],
+   "questions": [
+    "벤자민 무어가 2027년 올해의 색상으로 '웹스터 그린'을 선정하게 된 구체적인 시장 조사 배경은 무엇인가?",
+    "함께 발표된 '컬러 트렌드 2027 팔레트'의 다른 색상들은 어떤 특징을 가지고 있으며 공간 디자인에 어떻게 활용될 수 있는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Shakespeare Tan 228 | Benjamin Moore",
+     "url": "https://www.benjaminmoore.com/en-ca/paint-colours/colour/228/shakespeare-tan"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Antique Copper 1169 | Benjamin Moore",
+     "url": "https://www.benjaminmoore.com/en-ca/paint-colours/colour/1169/antique-copper"
+    },
+    {
+     "n": 3,
+     "type": "공식·1차",
+     "title": "Wild Aster 1240 | Benjamin Moore",
+     "url": "https://www.benjaminmoore.com/en-ca/paint-colours/colour/1240/wild-aster"
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "Benjamin Moore & Co.",
+     "url": "https://en.wikipedia.org/wiki/Benjamin%20Moore%20%26%20Co."
+    },
+    {
+     "n": 5,
+     "type": "위키백과",
+     "title": "Architectural Digest",
+     "url": "https://en.wikipedia.org/wiki/Architectural%20Digest"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "코트를 떠난 챔피언의 공간, 세레나 윌리엄스의 주거 포트폴리오",
+     "url": "https://www.architecturaldigest.com/story/where-does-serena-williams-live"
+    },
+    {
+     "n": 7,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "지속 가능한 주거 리노베이션을 위한 세 가지 건축적 전략",
+     "url": "https://www.architecturaldigest.com/story/the-ideas-defining-home-renovations-today-according-to-top-architects"
+    },
+    {
+     "n": 8,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "미국 인테리어의 반전, 어두운 색상도 차갑지 않고 묵직한 웜톤으로 흐른다",
+     "url": "https://design-milk.com/american-paint-color-trends-samplize-2026/"
+    }
+   ],
+   "used": [
+    4,
+    5
+   ],
+   "chars": 6273
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "dazeddigital.com/fashion/article/71170/1/everyone-wants-to-be-irish-ireland-fashion-week-2026-green-pilled": {
+  "title_ko": "런던과 파리를 떠나 집으로 향하는 아일랜드 패션의 궤적",
+  "summary_ko": "제2회 아일랜드 패션 위크가 슬레인 캐슬과 더블린에서 열려 90여 명의 신진 및 기성 디자이너를 조명했다. 해외로 향하던 젊은 디자이너들이 자국에 남아서도 성공할 수 있음을 증명하며 지역 생태계 구축 가능성을 보여주었다.",
+  "lens": "지역의 고유한 민속과 공예 직물을 동시대 런웨이 문법으로 재조립한다.",
+  "why_now": "글로벌 패션계에서 아일랜드 문화 자본에 대한 관심이 치솟는 가운데, 비자(Visa)의 후원과 디올의 트리니티 칼리지 쇼 유치 등이 맞물려 자국 내 창작 기반이 빠르게 형성되는 중이다.",
+  "mechanism": "진흙을 바른 코르셋 드레스와 아일랜드 전통 무용의 팔 동작에서 영감받은 기하학적 가죽 실루엣을 통해 전통과 현대적 소재의 충돌을 연출한다.",
+  "sensory": "거친 아일랜드 트위드의 투박한 질감과 흐르는 듯한 실크, 스모키한 무대 조명이 대조를 이루며 로컬의 풍경을 시각화한다.",
+  "transfer": "로컬 헤리티지 소재를 현대적 스트리트 웨어의 기하학적 패턴과 결합하는 콘티에 적용한다.",
+  "context": "시네이드 오드와이어(Sinéad O'Dwyer)는 런던과 코펜하겐을 거쳐 메트로폴리탄 미술관에 작품이 소장되었으며, 조나단 앤더슨(Jonathan Anderson) 역시 더블린에서 커리어를 시작해 글로벌 하우스의 수장이 된 선례가 있다.",
+  "findings": [
+   {
+    "text": "시네이드 오드와이어는 2024년 잘란도 비전 어워드를 수상하고 코펜하겐 패션위크에서 데뷔했다.",
+    "s": 2,
+    "quote": "In 2024 O'Dwyer won the Zalando Visionary Award and made her Copenhagen Fashion Week runway debut that August."
+   },
+   {
+    "text": "조나단 앤더슨은 JW 앤더슨의 창립자이자 로에베와 디올의 크리에이티브 디렉터를 역임했다.",
+    "s": 3,
+    "quote": "Jonathan William Anderson (born 17 September 1984) is a Northern Irish fashion designer and the founder of JW Anderson. Anderson is known for his eponymous label and having been the creative director of Spanish luxury ho"
+   }
+  ],
+  "keywords": [
+   "아일랜드패션위크",
+   "트위드",
+   "시네이드오드와이어",
+   "로컬생태계"
+  ],
+  "evidence": "With the likes of Visa-backed Ireland Fashion Week – not to mention Dior staging its Pre-Fall 2027 show at Trinity College – Holden says that sentiment is shifting.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "아일랜드 패션 위크의 성장과 디자이너들의 자국 회귀 현상을 다각도로 조명했으나 보도 성격이 강하다.",
+  "v": 2,
+  "url": "https://www.dazeddigital.com/fashion/article/71170/1/everyone-wants-to-be-irish-ireland-fashion-week-2026-green-pilled?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=why-does-everyone-want-to-be-irish-ask-ireland-fashion-week",
+  "original_title": "Why does everyone want to be Irish? Ask Ireland Fashion Week",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 7063,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-15 02:54",
+  "research": {
+   "entities": [
+    "Slane Castle",
+    "Sinéad O’Dwyer",
+    "Jonathan Anderson",
+    "Trinity College",
+    "Coco Rocha"
+   ],
+   "questions": [
+    "아일랜드 패션 위크가 아일랜드 국내 디자이너들의 해외 유출을 막고 자국 내 생태계를 조성하는 데 어떤 실질적 기여를 하고 있는가?",
+    "최근 글로벌 패션계에서 아일랜드 문화와 디자이너들에 대한 관심이 높아진 배경과 그 문화적 요인은 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Why Ireland is one of the most pro-Palestinian nations in the world",
+     "url": "https://www.npr.org/2024/03/14/1233395830/ireland-pro-palestinian"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Sinéad O'Dwyer",
+     "url": "https://en.wikipedia.org/wiki/Sin%C3%A9ad%20O%27Dwyer"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Jonathan Anderson (fashion designer)",
+     "url": "https://en.wikipedia.org/wiki/Jonathan%20Anderson%20%28fashion%20designer%29"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "조나단 앤더슨과 아나브 자인, 2026 런던 디자인 메달 수상",
+     "url": "https://www.dezeen.com/2026/09/10/london-design-medal-2026-jonathan-anderson/"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "패션과 미래를 관통하는 2026 런던 디자인 메달 수상자들",
+     "url": "https://www.wallpaper.com/design-interiors/design-events/london-design-medals-2026"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "호두와 연기 속에서 펼쳐진 디올의 초경량 자연주의",
+     "url": "https://www.dazeddigital.com/fashion/article/71068/1/dior-ss27-paris-fashion-week-pfw-jonathan-anderson-rihanna-nuts?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=rihanna-goes-nuts-for-nature-at-dior-ss27"
+    }
+   ],
+   "used": [
+    2,
+    3
+   ],
+   "chars": 4303
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "wallpaper.com/architecture/tag-christof-exhibition-herman-miller-palm-springs-usa": {
+  "title_ko": "사막의 낙원, 렌즈에 담긴 미드센추리 모더니즘의 유산",
+  "summary_ko": "가구 브랜드 허먼 밀러가 북미 최대 규모 매장 오픈을 기념해 사진작가 태그 크리스토프의 전시 '핫 라인'을 공개한다. 이번 전시는 팜스프링스와 코첼라 밸리의 모더니즘 건축물이 사막 기후와 시간에 따라 변화하고 적응해온 과정을 포착한다.",
+  "lens": "완성된 유산이 아닌, 사막의 시간 속에서 변용되는 모더니즘의 물리적 궤적을 기록한다.",
+  "why_now": "보존과 개조 사이의 긴장을 통해 과거의 유산을 동시대 공간에 어떻게 이식할 것인지 질문한다.",
+  "mechanism": "건축물의 복원, 재사용, 전환 과정을 정밀한 구도로 포착해 형태의 고정성 대신 시간성에 주목한다.",
+  "sensory": "강렬한 사막의 일조량과 거친 기후에 맞서온 콘크리트와 유리 표면의 질감을 드러낸다.",
+  "transfer": "공간이나 세트 디자인에서 완공된 직후의 모습이 아니라, 시간이 쌓이거나 용도가 바뀐 흔적을 질감으로 연출한다.",
+  "context": "허먼 밀러는 북미 최대 규모 리테일 공간인 팜스프링스 매장에서 아카이브 스토리텔링과 전시를 결합한 프로그램을 선보인다.",
+  "findings": [
+   {
+    "text": "허먼 밀러는 북미 최대 규모의 리테일 매장 오픈을 기념하여 사진작가 태그 크리스토프의 전시 '핫 라인'을 커미션했다.",
+    "s": 2,
+    "quote": "To mark the opening of its largest retail location in North America, Herman Miller commissioned Hot Line, an exhibition by photographer Tag Christof exploring how modernist architecture in Palm Springs and the Coachella "
+   }
+  ],
+  "keywords": [
+   "모더니즘",
+   "허먼 밀러",
+   "건축 사진",
+   "팜스프링스"
+  ],
+  "evidence": "Photographer Tag Christof explores Palm Springs’ modernist legacy for a show at Herman Miller’s retail location",
+  "kind": "전시",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "건축 유산의 변화 과정을 포착한 사진전을 다루며 브랜드와 작가의 의도가 선명하게 드러난다.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/architecture/tag-christof-exhibition-herman-miller-palm-springs-usa",
+  "original_title": "A photo exhibition of midcentury delights ushers in Palm Springs Modernism Week preview",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 2514,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-15 02:54",
+  "research": {
+   "entities": [
+    "Tag Christof",
+    "Herman Miller",
+    "Modernism Week",
+    "Kim Colin",
+    "Sam Hecht"
+   ],
+   "questions": [
+    "팜스프링스의 모더니즘 건축 양식이 가지는 지역적, 역사적 의의는 무엇인가?",
+    "허먼 밀러가 태그 크리스토프 작가와 협업하여 전달하고자 하는 디자인 철학은 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "The Palm Springs celebration of midcentury architecture | Modernism Week",
+     "url": "https://modernismweek.com/"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Herman Miller Commissions Tag Christof to Explore the Changing Landscape of Palm Springs M",
+     "url": "https://news.millerknoll.com/2026-10-09-Herman-Miller-Commissions-Tag-Christof-to-Explore-the-Changing-Landscape-of-Palm-Springs-Modernism"
+    },
+    {
+     "n": 3,
+     "type": "공식·1차",
+     "title": "Modernism Week – October 2026 | Modernism Week",
+     "url": "https://modernismweek.com/october-2026/"
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "Herman Miller",
+     "url": "https://en.wikipedia.org/wiki/Herman%20Miller"
+    },
+    {
+     "n": 5,
+     "type": "위키백과",
+     "title": "Sam Hecht (American football)",
+     "url": "https://en.wikipedia.org/wiki/Sam%20Hecht%20%28American%20football%29"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "일상의 밀도를 높이는 사물들: 2026년 남성을 위한 큐레이션",
+     "url": "https://www.architecturaldigest.com/story/best-gifts-for-men"
+    },
+    {
+     "n": 7,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "찰스 슐츠의 피너츠: 50년간 기록된 미국 주거의 연대기",
+     "url": "https://www.architecturaldigest.com/story/the-secret-design-history-of-peanuts"
+    },
+    {
+     "n": 8,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "에디터들이 검증한 다이닝 체어 14선",
+     "url": "https://www.architecturaldigest.com/story/shop-best-dining-chairs"
+    }
+   ],
+   "used": [
+    2
+   ],
+   "chars": 9252
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "coolhunting.com/buy/nordic-seed-crisps": {
+  "title_ko": "조지 해리슨의 사유지와 니와키가 빚어낸 데님 명상 재킷",
+  "summary_ko": "정원 브랜드 니와키(Niwaki)가 조지 해리슨의 저택 프라이어 파크(Friar Park)의 정원에서 영감을 받아 12온스 아카미미 일본식 데님 명상 재킷과 도구 세트를 출시했다. 저택을 돌보는 다니 해리슨과 니와키 창립자의 우정에서 시작된 이번 협업은 넉넉한 실루엣과 자수 디테일로 현장의 서사를 담는다.",
+  "lens": "영국 음악가의 사유지 정원이라는 비정형적 야생성과 일본식 데님의 규격화된 물성이 의복이라는 매개로 만난다.",
+  "why_now": "동시대 아웃도어와 워크웨어의 경계에서 헤리티지 사유지의 서사를 일상복의 맥락으로 가져오는 작업이 주목받는다.",
+  "mechanism": "12온스 아카미미 데님 원단과 넉넉한 롱 기장, 오버사이즈 후드가 물리적 무게감과 독특한 실루엣을 만든다.",
+  "sensory": "묵직한 데님 특유의 단단한 결에 자수 새긴 일본 단풍나무 잎이 촉각적 대비를 이룬다.",
+  "transfer": "헤리티지 공간의 기록물이나 텍스처를 무대 의상이나 현장 콘티의 아우터 스타일링에 그대로 이식할 수 있다.",
+  "context": "조지 해리슨의 저택 프라이어 파크는 독특한 건축과 광활한 정원으로 유명하며, 아들 다니 해리슨이 가꾸어 온 공간이다.",
+  "findings": [
+   {
+    "text": "조지 해리슨의 저택 프라이어 파크는 독특한 건축과 광활한 정원으로 잘 알려져 있다.",
+    "s": 3,
+    "quote": "영국 헨리온템스에 위치한 조지 해리슨의 저택 프라이어 파크가 원예 브랜드 니와키와 협업해 한정판 도구와 의류를 선보인다."
+   }
+  ],
+  "keywords": [
+   "니와키",
+   "프라이어파크",
+   "데님재킷",
+   "조지해리슨"
+  ],
+  "evidence": "Niwaki—one of our favorite gardening brands—has launched a collection inspired by the gardens at Friar Park, the long time family estate of George Harrison known for its quirky architecture and extensive gardens.",
+  "kind": "제품·오브제",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "브랜드 협업 제품의 디자인 특징과 배경을 구체적으로 보여주지만 정보의 범위가 한정적이다.",
+  "v": 2,
+  "url": "https://coolhunting.com/buy/nordic-seed-crisps/",
+  "original_title": "Nordic Seed Crisps",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 9000,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-15 02:54",
+  "research": {
+   "entities": [
+    "George Harrison",
+    "Dhani Harrison",
+    "Friar Park",
+    "Niwaki"
+   ],
+   "questions": [
+    "프라이어 파크(Friar Park)의 정원은 어떤 역사와 독특한 건축적 특징을 가지고 있는가?",
+    "수박 씨앗을 포함한 다양한 씨앗들이 식품 원료로서 환경과 영양 측면에서 가지는 이점은 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "George Harrison",
+     "url": "https://en.wikipedia.org/wiki/George%20Harrison"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Dhani Harrison",
+     "url": "https://en.wikipedia.org/wiki/Dhani%20Harrison"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "프라이어 파크의 정원과 니와키가 빚어낸 일본식 정원 도구의 조우",
+     "url": "https://www.wallpaper.com/design-interiors/friar-park-and-niwaki-gardening-collection"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "영국 서머싯의 풍경을 담은 더 뉴트의 첫 번째 어드벤트 캘린더",
+     "url": "https://www.wallpaper.com/entertaining/the-newt-advent-calendar"
+    }
+   ],
+   "used": [
+    3
+   ],
+   "chars": 3328
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "dazeddigital.com/life-culture/article/71167/1/social-reckoning-film-reminder-not-to-trust-tech-bro-glow-up-mark-zuckerberg": {
+  "title_ko": "마크 저커버그의 기이한 재활: 테크 브로의 이미지 전략과 실체",
+  "summary_ko": "영화 '더 소셜 레코닝(The Social Reckoning)'은 페이스북 창업자의 변모를 추적한다. 2010년 '더 소셜 네트워크' 이후 15년이 지난 시점을 배경으로, 알고리즘이 사회에 미친 영향과 내부고발 사태 속에서 살아남은 마크 저커버그의 이미지 전략을 다룬다. 실제 메타는 2021년 사명 변경 이후에도 매출 성장을 지속하며 기술 기업의 권력을 공고히 했다.",
+  "lens": "억만장자가 대중의 신뢰를 얻기 위해 구축한 '친근한 테크 브로'라는 페르소나는, 실제 권력 구조를 가리는 정교한 디자인된 연출이다.",
+  "why_now": "기술 기업이 AI 배포와 사회적 영향력으로 비판받는 시기, 리더의 '인간적인 면모'를 강조하는 셀프 브랜딩은 가장 강력한 방어 기제이자 마케팅 도구로 작동한다.",
+  "mechanism": "PR 팀의 코칭을 통해 감정을 연기하거나, 팟캐스트에서 스스로를 로봇이라 칭하며 조롱을 선점하는 방식으로 대중의 비판적 시선을 무력화한다.",
+  "sensory": "기네스 맥주를 마시는 어색한 몸짓과 율리우스 카이사르를 연상시키는 짧은 머리, 그리고 정제되지 않은 말투가 뒤섞인 불쾌한 골짜기를 형성한다.",
+  "transfer": "광고 연출 시, 의도적으로 어색한 제스처나 불완전한 퍼포먼스를 삽입하여 인물의 진정성을 의심하게 만드는 역설적인 디테일을 활용하라.",
+  "context": "애런 소킨(Aaron Sorkin)이 감독한 이 영화는 2010년 데이비드 핀처의 '더 소셜 네트워크'의 후속작 성격을 띤다. 메타는 최근 슬림라인 VR 안경과 AI 에이전트 장치 등 일상에 스며드는 하드웨어 전략을 통해 기술의 존재감을 지우는 방향으로 나아가고 있다.",
+  "findings": [
+   {
+    "text": "메타는 2025년 1월, 콘텐츠 조정에 대한 과도한 개입을 줄이고 표현의 자유를 보장하기 위해 외부 팩트체크 프로그램을 종료했다.",
+    "s": 2,
+    "quote": "Ending Third Party Fact Checking Program, Moving to Com"
+   }
+  ],
+  "keywords": [
+   "마크저커버그",
+   "메타",
+   "이미지전략",
+   "더소셜레코닝",
+   "테크브로"
+  ],
+  "evidence": "The fate of his almost $2 trillion empire might rest on it.",
+  "kind": "뉴스·이슈",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "영화라는 허구와 실제 기업의 지표를 교차하며 리더의 이미지 전략을 분석했으나, 영화 자체의 서사보다 현상 분석에 집중했다.",
+  "v": 2,
+  "url": "https://www.dazeddigital.com/life-culture/article/71167/1/social-reckoning-film-reminder-not-to-trust-tech-bro-glow-up-mark-zuckerberg?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=the-uncanny-rehabilitation-of-mark-zuckerberg",
+  "original_title": "The uncanny rehabilitation of Mark Zuckerberg",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 6648,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-15 02:54",
+  "research": {
+   "entities": [
+    "Mark Zuckerberg",
+    "Aaron Sorkin",
+    "Frances Haugen",
+    "Meta",
+    "The Social Network"
+   ],
+   "questions": [
+    "영화 'The Social Reckoning'이 다루는 실제 페이스북 내부고발 사태와 마크 저커버그의 청문회 배경은 무엇인가?",
+    "마크 저커버그와 메타는 최근 몇 년간 어떻게 이미지를 쇄신하고 재브랜딩에 성공했는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Meta Reports Fourth Quarter and Full Year 2025 Results",
+     "url": "https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-Fourth-Quarter-and-Full-Year-2025-Results/default.aspx"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "More Speech and Fewer Mistakes",
+     "url": "https://about.fb.com/news/2025/01/meta-more-speech-fewer-mistakes/"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Mark Zuckerberg",
+     "url": "https://en.wikipedia.org/wiki/Mark%20Zuckerberg"
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "Aaron Sorkin",
+     "url": "https://en.wikipedia.org/wiki/Aaron%20Sorkin"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "메타가 구상하는 다마고치 형태의 소형 인공지능 장치",
+     "url": "https://www.dezeen.com/2026/09/25/meta-debuts-tamagotchi-style-ai-agent/"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "메타, 커넥트 2026서 슬림라인 VR 안경 및 카메라 없는 AI 안경 공개",
+     "url": "https://www.dezeen.com/2026/09/24/meta-vr-glasses-audio-ai-glasses-connect-2026/"
+    },
+    {
+     "n": 7,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "포르노의 논리가 지배하는 인터넷: 감정과 노동의 메커니즘",
+     "url": "https://www.dazeddigital.com/life-culture/article/70968/1/everything-is-porn-now-patricia-nilsson-guilty-pleasure-interview?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=everything-is-porn-now"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "chars": 6770
+  },
+  "depth_raw": 3,
+  "depth_v": 2
  }
 }

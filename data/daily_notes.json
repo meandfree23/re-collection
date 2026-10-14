@@ -2086,5 +2086,48 @@
   "v": 3,
   "model": "gemini-3.1-flash-lite",
   "written_at": "2026-10-14 00:31"
+ },
+ "2026-10-15": {
+  "date": "2026-10-15",
+  "headline": "브루클린 미술관의 회전 테이블과 베를린 창고의 강철 스파이크",
+  "editorial": "브루클린 미술관의 회전 테이블에 마주 앉아 낯선 이와 대화를 나누듯, 베를린 창고의 강철 스파이크와 공중에 매달린 DJ 부스는 신체를 위태롭고 날카로운 환경 위에 세운다. 앤 토비의 회화는 벽과 바닥을 펼쳐내며 집의 내부와 외부를 압축하고, 레이 가와쿠보의 잡지 식스는 인쇄된 콜라주를 건축적 경험으로 치환한다. 도구와 공간의 물리적 경계를 꺾고 재조립하는 과정은 박제된 유산이 아닌 생존의 도구로 예술을 마주하게 만든다.",
+  "threads": [
+   {
+    "name": "공간의 물리적 재조립",
+    "note": "평면의 도면과 인쇄된 잡지를 건축적 구조로 확장하며 공간의 물리적 균형을 실험한다.",
+    "items": [
+     {
+      "title": "기억의 면을 펼치고 꺾어 공간을 재조립하는 앤 토비의 회화",
+      "url": "https://www.thisiscolossal.com/2026/10/ann-toebbe-mixed-media-paintings/"
+     },
+     {
+      "title": "장 프루베의 조립식 집, 리비에라의 올리브 나무 아래로 돌아오다",
+      "url": "https://www.wallpaper.com/travel/you-can-now-stay-in-this-restored-jean-prouve-house-on-the-french-riviera"
+     },
+     {
+      "title": "레이 가와쿠보의 잡지 '식스', 35년 만의 공간적 재구성",
+      "url": "https://www.anothermag.com/art-photography/17567/comme-des-garcons-six-magazine-dover-street-market-frieze-adrian-joffe?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=adrian-joffe-six-is-new-again"
+     }
+    ]
+   },
+   {
+    "name": "신체와 마주하는 환경",
+    "note": "정적인 감상을 거두고 참여자와 신체가 위태로운 물리적 행위 속에 직접 개입한다.",
+    "items": [
+     {
+      "title": "브루클린 미술관의 회전 테이블, 미국을 묻는 다섯 개의 계절",
+      "url": "https://coolhunting.com/culture/what-season-is-it-america-bring-your-answer-to-the-table/"
+     },
+     {
+      "title": "SKINDEEP: 베를린 창고에서 신체와 건축이 맺는 폭력적이고도 연약한 관계",
+      "url": "https://www.dazeddigital.com/beauty/article/71157/1/photos-skindeep-berlin-performance-night-artists-bleed-strip-and-heal?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=in-pictures-the-berlin-night-where-artists-bleed-strip-and-heal"
+     }
+    ]
+   }
+  ],
+  "based_on": 24,
+  "v": 3,
+  "model": "gemini-3.5-flash-lite",
+  "written_at": "2026-10-15 02:54"
  }
 }
