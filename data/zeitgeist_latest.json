@@ -1,26 +1,58 @@
 {
-  "generated_at": "2026-10-14 22:14 KST",
+  "generated_at": "2026-10-14 22:55 KST",
   "period": "2026.10.07 - 2026.10.14",
   "total_articles": 423,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 194
+      "count": 197
     },
     {
       "genre": "동시대 미술",
-      "count": 168
+      "count": 166
     },
     {
       "genre": "아방가르드 패션",
-      "count": 41
+      "count": 39
     },
     {
       "genre": "미디어 파사드·3D",
-      "count": 20
+      "count": 21
     }
   ],
   "themes": [
+    {
+      "keyword": "사진",
+      "count": 14,
+      "previous_count": 11,
+      "trend": "rising",
+      "items": [
+        {
+          "title": "섹스와 검은 시선: 아자무 X와 퀼 레몬의 대화",
+          "url": "https://www.anothermag.com/art-photography/17566/on-sex-and-the-black-gaze-ajamu-x-and-quil-lemons-in-conversation?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=on-sex-and-the-black-gaze-ajamu-x-and-quil-lemons-in-conversation",
+          "image_url": "https://images-prod.anothermag.com/786/azure/another-prod/470/9/479626.jpg",
+          "source_name": "AnOther Magazine"
+        },
+        {
+          "title": "인상파의 파리가 여전히 존재합니까? alix urien은 그녀의 렌즈를 통해 그것을 찾습니다.",
+          "url": "https://www.designboom.com/art/alix-urien-photography-artist-paris-impressionists-normandy-videos/",
+          "image_url": "https://www.designboom.com/wp-content/uploads/2026/10/alix-urien-photography-artist-paris-impressionists-normandy-videos-designboom-9.jpg",
+          "source_name": "Designboom Art"
+        },
+        {
+          "title": "사진 촬영은 위기에 처해 있습니다. 실제로는 흥미진진할지도 모릅니다.",
+          "url": "https://www.dazeddigital.com/art-photography/article/71149/1/photography-crisis-trevor-paglen-nancy-rexroth-cincinnati-fotofocus-biennial?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=photography-is-in-crisis-and-maybe-that-s-exciting-actually",
+          "image_url": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/7/1457382.jpg",
+          "source_name": "Dazed"
+        },
+        {
+          "title": "“America’s Girls, On the Edge of a Dream” by Photographer Eva Verbeeck",
+          "url": "https://www.booooooom.com/2026/10/13/americas-girls-on-the-edge-of-a-dream-by-photographer-eva-verbeeck/",
+          "image_url": "https://cdn.booooooom.com/wp-content/uploads/2026/09/Verbeeck1.jpg",
+          "source_name": "BOOOOOOOM"
+        }
+      ]
+    },
     {
       "keyword": "가구 디자인",
       "count": 13,
@@ -50,38 +82,6 @@
           "url": "https://www.sightunseen.com/2026/10/the-furniture-collection-thats-about-to-revolutionize-public-spaces/",
           "image_url": "https://www.sightunseen.com/wordpress/wp-content/uploads/2026/10/HBF-1-728x570.jpg",
           "source_name": "Sight Unseen"
-        }
-      ]
-    },
-    {
-      "keyword": "사진",
-      "count": 13,
-      "previous_count": 11,
-      "trend": "rising",
-      "items": [
-        {
-          "title": "인상파의 파리가 여전히 존재합니까? alix urien은 그녀의 렌즈를 통해 그것을 찾습니다.",
-          "url": "https://www.designboom.com/art/alix-urien-photography-artist-paris-impressionists-normandy-videos/",
-          "image_url": "https://www.designboom.com/wp-content/uploads/2026/10/alix-urien-photography-artist-paris-impressionists-normandy-videos-designboom-9.jpg",
-          "source_name": "Designboom Art"
-        },
-        {
-          "title": "사진 촬영은 위기에 처해 있습니다. 실제로는 흥미진진할지도 모릅니다.",
-          "url": "https://www.dazeddigital.com/art-photography/article/71149/1/photography-crisis-trevor-paglen-nancy-rexroth-cincinnati-fotofocus-biennial?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=photography-is-in-crisis-and-maybe-that-s-exciting-actually",
-          "image_url": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/7/1457382.jpg",
-          "source_name": "Dazed"
-        },
-        {
-          "title": "“America’s Girls, On the Edge of a Dream” by Photographer Eva Verbeeck",
-          "url": "https://www.booooooom.com/2026/10/13/americas-girls-on-the-edge-of-a-dream-by-photographer-eva-verbeeck/",
-          "image_url": "https://cdn.booooooom.com/wp-content/uploads/2026/09/Verbeeck1.jpg",
-          "source_name": "BOOOOOOOM"
-        },
-        {
-          "title": "윌리엄 에글스턴 (William Eggleston) 의 다제드 (dA-Zed) 가이드",
-          "url": "https://www.dazeddigital.com/art-photography/article/71148/1/the-da-zed-guide-to-william-eggleston-photographers-gallery?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=the-da-zed-guide-to-william-eggleston",
-          "image_url": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/7/1457350.jpg",
-          "source_name": "Dazed"
         }
       ]
     },
@@ -119,10 +119,16 @@
     },
     {
       "keyword": "레스토랑·호스피탈리티",
-      "count": 8,
+      "count": 9,
       "previous_count": 4,
       "trend": "rising",
       "items": [
+        {
+          "title": "셰프 멀린 라브론-존슨과 함께하는 교통편 제공",
+          "url": "https://www.wallpaper.com/travel/in-transit-with-chef-merlin-labron-johnson",
+          "image_url": "https://cdn.mos.cms.futurecdn.net/PeUaEyHcky93nNzGZqav4N-1920-80.jpg",
+          "source_name": "Wallpaper*"
+        },
         {
           "title": "르 꼬르니숑의 창립자 르 푸아송 볼랑 (Le Poisson Volant) 이 새로운 파리 나이트스팟을 오픈합니다.",
           "url": "https://www.wallpaper.com/travel/restaurants/le-poisson-volant-paris-opening",
@@ -140,12 +146,6 @@
           "url": "https://www.wallpaper.com/travel/restaurants/humm-new-york",
           "image_url": "https://cdn.mos.cms.futurecdn.net/JcyDwM2SYSwrtTbdFf7yrn-1920-80.jpg",
           "source_name": "Wallpaper*"
-        },
-        {
-          "title": "현대적인 멕시코시티 레스토랑의 클래식한 선술집을 재해석한 Formant Studio",
-          "url": "https://www.dezeen.com/2026/10/09/nota-taverna-mexico-city-formant-studio/",
-          "image_url": "https://static.dezeen.com/uploads/2026/10/formant-studio-nota-tavern-mexico-city_dezeen_2364_sq-852x852.jpg",
-          "source_name": "Dezeen"
         }
       ]
     },
@@ -183,10 +183,22 @@
     },
     {
       "keyword": "콘크리트 물성",
-      "count": 9,
+      "count": 11,
       "previous_count": 10,
       "trend": "steady",
       "items": [
+        {
+          "title": "물을 위한 공간 만들기: 라틴 아메리카의 범람 가능한 공원",
+          "url": "https://www.archdaily.com/1186646/making-room-for-water-floodable-parks-in-latin-america",
+          "image_url": "https://images.adsttc.com/media/images/6ac9/c192/c599/0e01/8860/0b35/large_jpg/making-room-for-water-floodable-public-spaces-in-latin-america_12.jpg?1791607194",
+          "source_name": "ArchDaily"
+        },
+        {
+          "title": "Middle Envelope Apartment / CROSSARCHITECTURE / Mehrdad Makaremi",
+          "url": "https://www.archdaily.com/1186431/middle-envelope-apartment-crossarchitecture-mehrdad-makaremi",
+          "image_url": "https://images.adsttc.com/media/images/6ac5/11f5/07c3/d100/017f/d97a/large_jpg/02__3__copy.jpg?1791300185",
+          "source_name": "ArchDaily"
+        },
         {
           "title": "380,000개의 레고 꽃이 상하이의 콘크리트 석유 탱크를 식물 풍경으로 바꿉니다.",
           "url": "https://www.designboom.com/art/lego-flowers-shanghai-concrete-oil-tank-botanical-landscape-bloom-exhibition/",
@@ -198,23 +210,12 @@
           "url": "https://www.designboom.com/art/sculptures-timber-steel-raw-concrete-shell-seoul-demolition-ghost-barstairs-temporary-hypotheses-sukchulmok-kangyeon-lee-brbb/",
           "image_url": "https://www.designboom.com/wp-content/dbsub/453552/2026-10-08/ghost-barstairs-temporary-hypotheses-fleeting-hypotheses-that-traversed-a-vacated-space-11-6ac6e5f2a5ff7.jpg",
           "source_name": "Designboom Art"
-        },
-        {
-          "title": "시민 보호 센터/롤랜드 발디 건축가",
-          "url": "https://www.archdaily.com/1186466/civil-protection-centre-in-oris-roland-baldi-architects",
-          "image_url": "https://images.adsttc.com/media/images/6ac6/10d8/07c3/d100/017f/dc02/large_jpg/_DR62441B.jpg?1791365405",
-          "source_name": "ArchDaily"
-        },
-        {
-          "title": "암석으로 마감된 수도원이 있는 \"모놀리식\" 콘크리트 주택",
-          "url": "https://www.dezeen.com/2026/10/11/monastic-field-roomoor-india/",
-          "image_url": "https://static.dezeen.com/uploads/2026/09/monastic-field-roomoor-india_dezeen_2364_sq_0-852x852.jpg",
-          "source_name": "Dezeen"
         }
       ]
     }
   ],
   "notable_names": [
+    "Latin America",
     "Kristiner Architects",
     "Zenith Interiors",
     "Dezeen Showroom",
