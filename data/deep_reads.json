@@ -164239,5 +164239,565 @@
   },
   "depth_raw": 4,
   "depth_v": 2
+ },
+ "designboom.com/art/lego-flowers-shanghai-concrete-oil-tank-botanical-landscape-bloom-exhibition": {
+  "title_ko": "상하이 유류 저장고를 뒤덮은 38만 개의 레고 꽃, 산업 유산의 식물적 변주",
+  "summary_ko": "상하이 탱크(TANK Shanghai)의 옛 유류 저장 탱크 외벽에 38만 개의 레고 블록으로 만든 꽃들이 30미터 길이의 물결을 이루며 쏟아져 나온다. 800제곱미터 규모의 이 설치물은 산업용 콘크리트 구조물을 거대한 식물 정원으로 탈바꿈시켰다. 관람객은 직접 조립한 레고 꽃을 디지털 정원에 스캔해 가상 환경 속에서 공동의 풍경을 확장하는 인터랙티브 경험에 참여한다.",
+  "lens": "산업적 견고함과 플라스틱 조립 완구의 유연한 질감을 충돌시켜, 잊힌 유류 저장고를 생동하는 식물적 유기체로 치환했다.",
+  "why_now": "산업 유산의 공간적 맥락을 유지하면서도, 성인 타겟의 취미 영역으로 확장된 레고의 조립 행위를 공공 예술과 결합해 공간의 새로운 활용법을 제시한다.",
+  "mechanism": "원통형 콘크리트 탱크 표면을 따라 흐르는 듯한 띠 형태로 블록을 배치하여 고정된 구조물에 운동감을 부여한다. 물리적 블록 조립과 디지털 스캐닝 기술을 연동해 개별 관람객의 창작물을 가상 공간에 실시간으로 투영한다.",
+  "sensory": "무채색의 거친 콘크리트 질감과 대비되는 빨강, 노랑, 주황, 흰색의 고채도 플라스틱 블록이 시각적 긴장감을 만든다. 손으로 일일이 조립한 꽃잎의 반복적인 패턴이 원거리에서는 유동적인 파동으로 읽힌다.",
+  "transfer": "광고 연출 시 딱딱한 산업 시설 배경에 기하학적이고 화려한 색감의 오브제를 배치해 공간의 성격을 반전시키는 샷을 구성할 수 있다. 관객의 참여가 실시간으로 공간의 일부가 되는 디지털 인터랙티브 프로젝션 기법을 활용한다.",
+  "context": "과거 유류 저장 탱크였던 상하이 탱크는 현재 산업 유산을 문화 예술 공간으로 재생시킨 대표적인 사례다. 레고의 보태니컬 컬렉션은 성인을 대상으로 한 창작 취미 시장을 겨냥해, 조립을 단순한 놀이가 아닌 예술적 실험의 도구로 확장하고 있다.",
+  "findings": [
+   {
+    "text": "레고 그룹은 1949년부터 아크릴로니트릴 부타디엔 스티렌(ABS) 소재의 결합형 플라스틱 블록을 제조해 왔다.",
+    "s": 1,
+    "quote": "Lego consists of variously coloured interlocking plastic bricks made of acrylonitrile butadiene styrene (ABS) that accompany an array of gears, figurines called minifigures, and various other parts."
+   }
+  ],
+  "keywords": [
+   "상하이탱크",
+   "레고설치미술",
+   "공간재생",
+   "인터랙티브아트"
+  ],
+  "evidence": "The installation, titled LEGO Botanical Wave, appears to burst through the concrete structure before spreading across the surrounding ground.",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "산업 현장의 재생 공간을 배경으로 예술적 설치와 관객 참여형 인터랙티브 기술을 결합한 구체적인 사례를 제시한다.",
+  "v": 2,
+  "url": "https://www.designboom.com/art/lego-flowers-shanghai-concrete-oil-tank-botanical-landscape-bloom-exhibition/",
+  "original_title": "380,000 LEGO flowers transform shanghai’s concrete oil tank into botanical landscape",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 6887,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-14 17:15",
+  "research": {
+   "entities": [
+    "LEGO",
+    "TANK Shanghai"
+   ],
+   "questions": [
+    "TANK Shanghai는 과거 산업 시설인 유류 저장 탱크를 어떻게 문화 예술 공간으로 재생시켰는가?",
+    "레고의 'Botanicals' 컬렉션이 성인 타겟의 취미 시장에서 가지는 디자인적 의미는 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Lego",
+     "url": "https://en.wikipedia.org/wiki/Lego"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 1400
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "designboom.com/art/inflatable-pavilion-pneuhaus-dragonfly-compound-vision-221-camera-obscuras-compound-camera-no-3": {
+  "title_ko": "221개의 렌즈로 잠자리의 눈을 구현한 공기 주입식 파빌리온",
+  "summary_ko": "디자인 스튜디오 프뉴하우스(Pneuhaus)가 221개의 카메라 옵스큐라 셀로 이루어진 대형 공기 주입식 파빌리온 '컴파운드 카메라 3(Compound Camera No. 3)'를 선보였다. 우레탄 코팅 나일론과 유리 양볼록 렌즈로 제작된 이 구조물은 디지털 센서 없이 외부 풍경을 내부 표면에 실시간으로 투영한다. 관람객은 부드러운 벽면을 손으로 눌러 투영된 이미지의 초점을 직접 조절할 수 있다.",
+  "lens": "디지털 화면 대신 렌즈와 태양광으로 채운 아날로그 시각 장치.",
+  "why_now": "모든 시각 정보가 평면의 백릿 스크린으로 유통되는 시대에, 물질성과 촉각성이 살아 있는 아날로그적 관측 환경을 제안한다.",
+  "mechanism": "221개의 유리 양볼록 렌즈 셀이 외부 풍경을 내부로 굴절시키며, 내부의 배플 층이 막을 정렬해 화면을 맺히게 한다.",
+  "sensory": "700평방피트가 넘는 공간 내부에서 수백 개의 바깥 풍경이 반투명한 천장에 거꾸로 매달려 흐르며, 벽을 밀 때마다 이미지가 일렁인다.",
+  "transfer": "공간 무대 디자인에서 물리적인 막을 밀면 풍경의 초점이 변하는 아날로그 투사 장치를 백드롭으로 활용한다.",
+  "context": "프뉴하우스는 약 10년 전 109개의 셀로 이루어진 첫 번째 컴파운드 카메라를 발표했으며, 이번 작업은 돔 형태를 넘어 곤충의 시각 구조를 더욱 확장된 형태로 구현했다.",
+  "findings": [
+   {
+    "text": "프뉴하우스는 빛, 패브릭, 공기를 활용해 실험적인 임시 건축을 제작하는 스튜디오다.",
+    "s": 1,
+    "quote": "Pneuhaus creates joyful experimental temporary architecture for events, cities, and festivals by building with light, fabric, and air."
+   },
+   {
+    "text": "컴파운드 카메라 3은 700평방피트가 넘는 면적을 차지한다.",
+    "s": 2,
+    "quote": "대형 공기 주입식 설치 작업 '컴파운드 카메라 3(Compound Camera 3)'를 공개했다. 700평방피트가 넘는 공간 내부에"
+   }
+  ],
+  "keywords": [
+   "카메라옵스큐라",
+   "프뉴하우스",
+   "공기주입식건축",
+   "광학설계"
+  ],
+  "evidence": "Pneuhaus creates Compound Camera No. 3, an inflatable pavilion composed of 221 camera obscura cells",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "곤충의 겹눈 구조를 광학 렌즈와 공기 주입식 구조물로 독창적으로 구현해 시각적 장치가 선명하다.",
+  "v": 2,
+  "url": "https://www.designboom.com/art/inflatable-pavilion-pneuhaus-dragonfly-compound-vision-221-camera-obscuras-compound-camera-no-3/",
+  "original_title": "inflatable pavilion by pneuhaus mimics dragonfly’s vision through 221 camera obscuras",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 5406,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-14 17:15",
+  "research": {
+   "entities": [
+    "Pneuhaus",
+    "Compound Camera No. 3",
+    "Lachlan Turczan"
+   ],
+   "questions": [
+    "카메라 옵스큐라의 원리를 활용해 어떻게 221개의 이미지를 내부 표면에 투영하는가?",
+    "잠자리 겹눈의 구조를 건축적 형태와 광학적 설계로 어떻게 구현했는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Pneuhaus | Inflatable Art / Architecture Studio | Rumford, RI, USA",
+     "url": "https://www.pneu.haus/"
+    },
+    {
+     "n": 2,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "태양광과 221개의 렌즈가 만든 거대한 아날로그 카메라",
+     "url": "https://www.thisiscolossal.com/2026/10/pneuhaus-compound-camera-3-inflatable-installation/"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 487
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "wallpaper.com/art/exhibitions-shows/artist-to-artist-frieze-london-yinka-shonibare-unathi-mkonto-interview": {
+  "title_ko": "흙과 물에서 건져 올린 건축적 미니멀리즘",
+  "summary_ko": "런던 프리즈에서 열린 티파니앤코의 아티스트 투 아티스트 프로그램에서 작가 잉카 쇼니바레가 남아프리카공화국의 우나티 몬토를 지목했다. 건축을 전공한 우나티 몬토는 드로잉과 설치, 조각을 오가며 흙과 나무, 물 같은 자연 요소에서 착안한 독창적인 미니멀리즘 조각을 선보인다. 두 사람은 아프리카의 토속적 지식과 건축적 어휘를 결합해 공간과 환경에 대한 새로운 미학적 언어를 탐구한다.",
+  "lens": "골판지와 드로잉이 곧 건물이 되는 세계에서 벽돌과 유리 대신 흙과 물을 건축의 원자재로 소환한다.",
+  "why_now": "서구 중심의 미니멀리즘 문법을 비서구적 재료와 지역적 토속 지식으로 재구성하는 태도가 동시대 미술계의 화두다.",
+  "mechanism": "벽돌과 유리 대신 흙과 나무, 물이라는 원초적 재료를 사용하여 최소한의 조형 언어로 거주 가능한 공간의 공백을 드러낸다.",
+  "sensory": "가공되지 않은 날 것의 토사와 수면 위로 떠오르는 나무의 질감이 전시장 안에서 건조하고도 깊은 촉각성을 만든다.",
+  "transfer": "세트나 공간 디자인에서 인공 마감재를 배제하고 가공하지 않은 흙과 물빛 조명만으로 장소의 서사를 구성할 때 참고할 수 있다.",
+  "context": "프리즈 런던은 2003년 런던 리젠트 파크에서 시작된 동시대 미술 페어다.",
+  "findings": [
+   {
+    "text": "Frieze Art Fair is an annual contemporary art fair first held in 2003 in London's Regent's Park.",
+    "s": 2,
+    "quote": "Frieze Art Fair is an annual contemporary art fair first held in 2003 in London's Regent's Park."
+   }
+  ],
+  "keywords": [
+   "우나티몬토",
+   "프리즈런던",
+   "티파니앤코",
+   "건축적조각",
+   "미니멀리즘"
+  ],
+  "evidence": "I studied architecture, and that is part of my art now – in a newer way and with my own rules.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "신진 작가의 작업과 거장의 대담을 통해 재료와 건축적 사유를 깊이 있게 다루나 일반적인 페어 연계 프로그램의 범주에 머문다.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/art/exhibitions-shows/artist-to-artist-frieze-london-yinka-shonibare-unathi-mkonto-interview",
+  "original_title": "At Frieze, the Tiffany & Co-supported Artist-to-Artist programme spotlights emerging talent",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 3739,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-14 17:15",
+  "research": {
+   "entities": [
+    "Tiffany & Co",
+    "Frieze London",
+    "Yinka Shonibare",
+    "Unathi Mkonto"
+   ],
+   "questions": [
+    "티파니앤코의 '아티스트 투 아티스트' 프로그램은 신진 작가 발전에 어떤 기여를 해왔는가?",
+    "우나티 몬토의 건축적 배경은 그의 미니멀리즘 조각 및 설치 작업에 어떻게 반영되는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Tiffany & Co.",
+     "url": "https://en.wikipedia.org/wiki/Tiffany%20%26%20Co."
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Frieze Art Fair",
+     "url": "https://en.wikipedia.org/wiki/Frieze%20Art%20Fair"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "티파니 블루를 천장에 쏟다: 코스타메사의 블루 박스 카페",
+     "url": "https://design-milk.com/tiffany-blue-box-cafe-south-coast-plaza/"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "장 슐룸베르거의 스케치 1만 점, 미래의 창작자를 위해 열린다",
+     "url": "https://www.wallpaper.com/watches-jewellery/like-stepping-into-the-mind-of-a-genius-jean-schlumberger-sketches-and-artefacts-are-being-preserved-by-tiffany-and-co-and-the-musee-des-arts-decoratifs"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "프리즈 위크 2026, 런던의 예술 지형을 바꾸는 10가지 궤적",
+     "url": "https://www.wallpaper.com/art/exhibitions-shows/ten-things-to-do-during-london-frieze-week-2026"
+    }
+   ],
+   "used": [
+    2
+   ],
+   "chars": 2904
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "archdaily.com/1186717/shanghai-science-and-technology-investment-tower-mixed-use-development-nbbj": {
+  "title_ko": "상하이 과학기술 투자 타워, 장강 과학도시의 기술 생태계를 잇는 수직 플랫폼",
+  "summary_ko": "상하이 장강 과학도시 핵심 지구에 들어선 이 복합 시설은 사무실, 소매점, 호텔 기능을 결합했다. 엔비비제이(NBBJ)가 설계를 맡아 인공지능을 비롯한 첨단 기술 기업을 수용할 수 있는 연구 및 혁신 거점으로 조성했다. 연면적 127,000㎡ 규모로 2024년 완공되었다.",
+  "lens": "기술 기업의 유연한 업무 방식을 수용하기 위해 정형화된 오피스 구조를 넘어선 다목적 수직 플랫폼을 구축한다.",
+  "why_now": "기술 연구와 혁신이 도시 경쟁력의 핵심이 된 시점에서, 기업 간 교류를 촉진하는 복합 용도 건축의 중요성이 커지고 있다.",
+  "mechanism": "사무실, 소매점, 호텔을 한 건물에 배치하여 물리적 동선을 통합하고, 기술 기업이 요구하는 고밀도 협업 환경과 편의 시설을 수직으로 연결한다.",
+  "sensory": "유리 커튼월을 통해 장강 과학도시의 전경을 투영하며, 대규모 매스가 주는 수직적 압도감과 현대적인 금속 마감재의 질감이 대비된다.",
+  "transfer": "기술 기업 사옥 설계 시, 저층부의 상업 시설과 상층부의 오피스를 연결하는 아트리움이나 공용 공간을 적극적으로 배치하여 부서 간 우연한 마주침을 유도한다.",
+  "context": "엔비비제이는 와이어드(Wired)가 선정한 '기술 기업이 선호하는 건축 설계사무소'로, 과학 연구 환경에 특화된 설계를 지속해왔다. 시공을 담당한 상하이 건설 그룹(SCG)은 대규모 인프라 프로젝트를 주로 수행하는 기업으로, 이전에도 상하이 지역의 복합 문화 건축물 시공에 참여한 바 있다.",
+  "findings": [
+   {
+    "text": "엔비비제이는 와이어드로부터 기술 기업을 위한 최고의 건축 설계 사무소로 지목받은 바 있다.",
+    "s": 1,
+    "quote": "designated by Wired as the \"architecture firm of choice for tech companies.\""
+   },
+   {
+    "text": "상하이 건설 그룹은 2011년 매출 기준 세계 16위 규모의 건설 엔지니어링 기업이다.",
+    "s": 2,
+    "quote": "ranked as the 16th largest construction company in the world based on 2011 revenues."
+   }
+  ],
+  "keywords": [
+   "복합용도건축",
+   "엔비비제이",
+   "장강과학도시",
+   "오피스설계"
+  ],
+  "evidence": "It is designed to attract cutting-edge technology companies, including those in the field of artificial intelligence—and serve as a catalyst and driving force in the development of a world-class scientific research and innovation platform.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "기술 기업 유치를 위한 복합 시설의 의도는 명확하나, 이를 구현한 구체적인 건축적 장치나 상세 설계 기법에 대한 정보가 부족하다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1186717/shanghai-science-and-technology-investment-tower-mixed-use-development-nbbj",
+  "original_title": "Shanghai Science and Technology Investment Tower Mixed-Use Development  / NBBJ",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 2034,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-14 17:15",
+  "research": {
+   "entities": [
+    "NBBJ",
+    "Yanko Apostolov",
+    "East China Architectural Design & Research Institute Co., Ltd.",
+    "Shanghai Construction Group",
+    "Zhangjiang Science City"
+   ],
+   "questions": [
+    "상하이 과학기술 투자 타워 프로젝트가 장지앙 과학시티의 도시 및 기술 생태계에 미친 영향은 무엇인가?",
+    "건축가 NBBJ는 이 복합건물의 지속 가능성과 첨단 기술 기업 유치를 위해 어떤 디자인 전략을 적용했는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "NBBJ",
+     "url": "https://en.wikipedia.org/wiki/NBBJ"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Shanghai Construction Group",
+     "url": "https://en.wikipedia.org/wiki/Shanghai%20Construction%20Group"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "상하이 웨이브 큐브, 정적인 건축에 파동의 역동성을 이식하다",
+     "url": "https://www.archdaily.com/1039118/wave-cube-scenic-architecture-office"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 1822
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "dezeen.com/2026/10/14/microbites-plastic-cookies-southern-illinois-university-carbondale": {
+  "title_ko": "플라스틱 폐기물을 식량으로, NASA가 주목한 미생물 기반 3D 프린팅",
+  "summary_ko": "미국 서던 일리노이 대학교 카본데일 연구진이 플라스틱과 농업 폐기물을 식용 단백질로 변환하는 기술을 개발했다. 이 연구는 효모를 매개로 폐기물을 분해해 단백질을 생성하며, 이를 3D 프린팅하여 '마이크로바이트(µBites)'라는 이름의 쿠키 형태로 출력한다.",
+  "lens": "폐기물을 분자 단위로 재구성해 식량으로 치환하는 미생물 공학의 가능성을 제시한다.",
+  "why_now": "장기 우주 체류 시 필수적인 자원 순환 시스템 구축을 위해 폐기물을 즉각적인 영양원으로 전환하는 기술이 핵심 과제로 떠오르고 있다.",
+  "mechanism": "특정 효모가 플라스틱의 탄소원을 섭취해 단백질로 전환하는 생물학적 공정을 거친다. 이후 이 단백질 기반 원료를 3D 프린터의 압출 재료로 활용해 형태를 갖춘다.",
+  "sensory": "플라스틱이라는 비식용 재료가 미생물 과정을 거쳐 단백질이라는 유기적 질감으로 변모하는 극적인 물성 변화가 핵심이다.",
+  "transfer": "폐기물을 건축 자재나 오브제로 재탄생시키는 순환 디자인 프로젝트의 시각화 과정에 미생물 분해 단계를 하나의 공정으로 도입할 수 있다.",
+  "context": "서던 일리노이 대학교 카본데일은 NASA와 연구 파트너십을 맺고 우주 환경에서의 자원 활용 기술을 지속적으로 탐구해왔다.",
+  "findings": [
+   {
+    "text": "서던 일리노이 대학교 카본데일은 NASA와 연구 협력 관계를 맺고 있다.",
+    "s": 1,
+    "quote": "The university is known for its research partnerships, including those with the Argonne and Oak Ridge National Laboratories, the U.S. Geological Survey, the U.S. Fish and Wildlife Service, and NASA."
+   }
+  ],
+  "keywords": [
+   "미생물공학",
+   "자원순환",
+   "3D프린팅",
+   "우주식량"
+  ],
+  "evidence": "research project creates 3D-printed cookies from plastic",
+  "kind": "뉴스·이슈",
+  "depth": 2,
+  "grounding": "thin",
+  "depth_reason": "원문 본문을 확보하지 못해 기술적 상세 정보가 부족하며, 뉴스 요약 수준의 정보에 그친다.",
+  "v": 2,
+  "url": "https://www.dezeen.com/2026/10/14/microbites-plastic-cookies-southern-illinois-university-carbondale/",
+  "original_title": "NASA-backed research project creates 3D-printed cookies from plastic",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 0,
+  "fetch": "fetch_error:HTTPError",
+  "cliche_hits": [],
+  "read_at": "2026-10-14 17:15",
+  "research": {
+   "entities": [
+    "Southern Illinois University Carbondale",
+    "NASA"
+   ],
+   "questions": [
+    "플라스틱 폐기물을 식용 단백질로 변환하는 미생물 공학의 원리는 무엇인가?",
+    "우주 여행에서 식량 자급자족을 위해 이러한 기술이 어떻게 활용될 수 있는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Southern Illinois University Carbondale",
+     "url": "https://en.wikipedia.org/wiki/Southern%20Illinois%20University%20Carbondale"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "NASA",
+     "url": "https://en.wikipedia.org/wiki/NASA"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 2542
+  },
+  "depth_raw": 2,
+  "depth_v": 2
+ },
+ "creativeboom.com/news/pregnant-then-screwed-makes-clever-use-of-simple-design-to-highlight-a-vital-gender-issue": {
+  "title_ko": "할인 가격표로 가려진 여성의 얼굴, 영국 연금 격차를 고발하다",
+  "summary_ko": "여성 권익 단체 프리그넌트 댄 스크루드(Pregnant Then Screwed)가 영국의 성별 연금 격차를 폭로하기 위해 공익 캠페인을 공개했다. 크리에이티브 디렉터 젬마 필립스(Gemma Phillips)와 디자이너 레이첼 메니(Rachel Many)는 소매점의 할인 가격표인 네온 컬러의 스타버스트를 여성의 얼굴에 겹쳐 세간의 이목을 끈다.",
+  "lens": "대형 할인마트의 자극적인 가격 표식을 여성의 초상에 덧씌워 구조적 불평등을 상품처럼 진열한다.",
+  "why_now": "연금 제도가 개인의 생애 주기와 육아 공백을 반영하지 못하는 모순을 직관적인 시각 언어로 환기한다.",
+  "mechanism": "소매점에서 상품을 처분할 때 쓰는 원색의 스타버스트 그래픽을 인물 사진에 배치해 시선을 강탈하고, 흑백 초상으로 인물의 눈을 가려 개별성을 지운다.",
+  "sensory": "형광 그린, 라임, 마젠타의 공격적인 네온 색감이 차가운 흑백 인물 사진과 대조를 이루며 시각적 불편함을 자극한다.",
+  "transfer": "광고나 영상 콘티에서 사회적 메시지를 전달할 때, 무거운 도표 대신 대중에게 익숙한 상업 광고의 시각 언어를 반대로 뒤집어 비틀어 사용한다.",
+  "context": "자선 단체 프리그넌트 댄 스크루드는 영국의 육아 휴직과 경력 단절이 여성의 연금 자산에 미치는 불평등을 고발하는 활동을 이어오고 있다.",
+  "findings": [],
+  "keywords": [
+   "브랜드캠페인",
+   "소매디자인",
+   "성별연금격차",
+   "그래픽비주얼"
+  ],
+  "evidence": "Giant retail starbursts cover women's faces in a campaign exposing how the UK pension system leaves mothers with pots a third smaller than men's.",
+  "kind": "브랜드·캠페인",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "상업적 시각 언어를 사회적 고발에 활용한 명확한 아이디어가 돋보이나 선례가 아주 드물지는 않다.",
+  "v": 2,
+  "url": "https://www.creativeboom.com/news/pregnant-then-screwed-makes-clever-use-of-simple-design-to-highlight-a-vital-gender-issue/",
+  "original_title": "Pregnant Then Screwed subverts the conventions of retail design to highlight a vital gender issue",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 8656,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-14 17:15",
+  "research": {
+   "entities": [
+    "Pregnant Then Screwed",
+    "Gemma Phillips",
+    "Rachel Many",
+    "Sane Seven"
+   ],
+   "questions": [
+    "영국의 연금 시스템이 전업주부나 육아 휴직을 사용하는 여성들에게 불리하게 설계된 구체적인 구조적 원인은 무엇인가?",
+    "소매업의 시각적 언어인 '스타버스트(starburst)'를 사회적 캠페인에 활용함으로써 얻는 심리적 효과와 메시지 전달의 차별점은 무엇인가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "creativeboom.com/work/andre-britz-draws-landscapes-from-memory-in-a-book-held-together-with-an-elastic-band": {
+  "title_ko": "고무줄로 묶인 불완전한 기억의 풍경집",
+  "summary_ko": "독일의 그래픽 디자이너 앙드레 브리츠(André Britz)가 기억에만 의존해 그린 64페이지 분량의 드로잉 북 ‘구름과 함께 사라지다(Gone with the Clouds)’를 공개했다. 사진이나 스케치 없이 직관적으로 그려낸 풍경과 콜라주를 담았다. 책은 분홍색 고무줄로 묶여 있어 언제든 페이지 순서를 바꿀 수 있다.",
+  "lens": "제본을 고무줄로 처리해 고정된 책의 물성을 지우고 기억의 변형 가능성을 시각화한다.",
+  "why_now": "완성된 디지털 산출물이 넘쳐나는 시대에, 형태가 고정되지 않고 변화하는 아날로그 제본 방식을 통해 기억의 속성을 물질적으로 재현한다.",
+  "mechanism": "64페이지의 내지를 단단한 풀 제본 대신 분홍색 고무줄 하나로 묶어 독자가 직접 페이지를 넘기거나 순서를 재배치할 수 있게 설계했다.",
+  "sensory": "라일락색, 진한 녹색, 올리브색의 작은 드로잉 조각들이 겹겹이 쌓여 거친 스크랩북의 물성과 손때 묻은 질감을 만든다.",
+  "transfer": "영상의 컷 편집 순서를 고정하지 않고 무작위로 재배치하는 내러티브 구조나, 가변적인 제본을 활용한 아티스트 북 룩북 제작에 바로 적용한다.",
+  "context": "쾰른-본 지역 라인강변의 역사적인 도시에 거주하는 디자이너 앙드레 브리츠(André Britz)가 기업 아이덴티티 작업에서 벗어나 개인적 호기심과 창조적 목소리를 탐구하기 위해 진행한 독립 프로젝트다.",
+  "findings": [
+   {
+    "text": "책의 제본을 분홍색 고무줄로 처리해 미완의 느낌을 주도록 설계했다.",
+    "s": 1,
+    "quote": "Die Zeichnungen und Collagen wurden in einer 64-seitigen Publikation zusammengeführt. Ein farbiges Gummiband hält die Seiten locker zusammen."
+   }
+  ],
+  "keywords": [
+   "드로잉 북",
+   "제본",
+   "기억",
+   "콜라주",
+   "물성"
+  ],
+  "evidence": "Gone with the Clouds gathers the German designer's intuitive drawings of places made from memory alone, in a 64-page book designed to feel unfinished.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "개인 드로잉 프로젝트의 기법과 제본의 물성을 선명하게 연결했으나 적용 범위가 좁다.",
+  "v": 2,
+  "url": "https://www.creativeboom.com/work/andre-britz-draws-landscapes-from-memory-in-a-book-held-together-with-an-elastic-band/",
+  "original_title": "André Britz draws dimly remembered landscapes, in a book held together with a pink elastic band",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 7279,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-14 17:15",
+  "research": {
+   "entities": [
+    "André Britz",
+    "Gone with the Clouds"
+   ],
+   "questions": [
+    "기억의 불완전함과 모호함을 시각 예술로 표현하기 위해 작가가 선택한 구체적인 조형적 기법은 무엇인가?",
+    "책의 제본 방식을 고무줄로 처리한 것이 기억의 가변성이라는 주제 의식과 어떻게 연결되는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "● People in Boxes Book (WIP) - Studio André Britz",
+     "url": "https://andrebritz.com/project/gone-with-the-clouds"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 2600
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "creativeboom.com/work/how-two-simple-dots-gave-pictoplasma-a-face-after-20-years-of-neutral-design": {
+  "title_ko": "단 두 개의 점으로 완성한 픽토플라즈마의 얼굴, 파레이돌리아 브랜딩",
+  "summary_ko": "리투아니아의 디자인 스튜디오 앤스튜디오(andstudio)가 베를린 캐릭터 디자인 페스티벌 픽토플라즈마(Pictoplasma)의 새로운 정체성을 구축했다. 이들은 파레이돌리아 현상을 활용해 타이포그래피에 두 개의 점을 찍는 것만으로 캐릭터를 형상화했다. 아티스트의 작품을 돋보이게 하면서도 축제의 개성을 드러내는 최소한의 시각 장치를 마련했다.",
+  "lens": "사물에서 얼굴을 찾는 인간의 인지 본능을 활용해, 복잡한 그래픽 없이 점 두 개만으로 브랜드의 표정을 만드는 지능적인 설계다.",
+  "why_now": "예산이 축소되는 문화 예술계에서, 화려한 비주얼 대신 타이포그래피와 최소한의 기호만으로 강력한 인상을 남기는 효율적인 브랜딩 전략이 주목받는다.",
+  "mechanism": "리프트 타입(Lift Type)의 멜룬(Melun) 서체를 기반으로 두 개의 점을 찍어 캐릭터를 연상시키는 파레이돌리아 기법을 적용했다. 이 점들은 인쇄물, 텐트의 구멍, 타투 부스 등 어디든 부착되어 즉각적으로 캐릭터성을 부여한다.",
+  "sensory": "둥글고 묵직한 서체의 질감과 단순한 점 두 개가 결합해 경쾌하고 친근한 인상을 준다. 고정된 그래픽 없이 타이포그래피만으로 상황에 따라 유연하게 변하는 시각적 리듬을 만든다.",
+  "transfer": "콘티 작업 시 캐릭터를 직접 그리기보다, 사물이나 텍스트에 점 두 개를 배치해 관찰자가 스스로 얼굴을 투영하도록 유도하는 여백의 미를 활용한다.",
+  "context": "1999년부터 캐릭터 디자인 아카이브로 시작한 픽토플라즈마는 그간 브랜드 자체의 정체성을 최소화해왔다. 앤스튜디오는 이번 리브랜딩을 통해 아티스트의 작업물을 침해하지 않으면서도 글로벌 축제로서의 확장성을 확보하는 전략을 취했다.",
+  "findings": [
+   {
+    "text": "픽토플라즈마는 1999년 온라인 아카이브로 시작해 2004년부터 컨퍼런스를 개최하며 캐릭터 디자인을 주류 예술의 영역으로 끌어올렸다.",
+    "s": 2,
+    "quote": "Since 1999, they have encouraged the international character design scene by publishing collections of characters, organising character design conferences and by maintaining the Pictoplasma Archives"
+   }
+  ],
+  "keywords": [
+   "픽토플라즈마",
+   "브랜딩",
+   "파레이돌리아",
+   "타이포그래피",
+   "캐릭터디자인"
+  ],
+  "evidence": "Nothing's drawn on top, so it never tips over into becoming a fully detailed character. It's pareidolia, in the form of type.",
+  "kind": "브랜드·캠페인",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "파레이돌리아를 디자인 언어로 치환한 논리가 명확하며, 예산 제약을 창의적인 시각 시스템으로 돌파한 점이 뛰어나다.",
+  "v": 2,
+  "url": "https://www.creativeboom.com/work/how-two-simple-dots-gave-pictoplasma-a-face-after-20-years-of-neutral-design/",
+  "original_title": "How two simple dots gave Pictoplasma a fresh personality for 2026",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 9000,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-14 17:15",
+  "research": {
+   "entities": [
+    "Pictoplasma",
+    "andstudio",
+    "Peter Thaler",
+    "Lars Denicke"
+   ],
+   "questions": [
+    "파레이돌리아(pareidolia) 현상을 활용한 디자인이 Pictoplasma의 브랜드 정체성에 어떤 시각적 변화를 가져왔는가?",
+    "캐릭터 디자인 페스티벌인 Pictoplasma가 디자인 중심의 브랜딩을 지양하다가 새롭게 정체성을 구축하게 된 전략적 배경은 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Homepage - Andstudio From Strategy to Brand and Digital Design",
+     "url": "https://byandstudio.com/"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Pictoplasma",
+     "url": "https://en.wikipedia.org/wiki/Pictoplasma"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "픽토플라즈마 NYC 2026: BUCK과 듀오링고가 말하는 캐릭터 스토리텔링의 전략",
+     "url": "https://www.stashmedia.tv/pictoplasma-nyc-2026-industry-focus-session-presents-buck-duolingo-sept-18/"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "런던 왕립예술대학으로 돌아온 픽토플라즈마 컨퍼런스",
+     "url": "https://www.stashmedia.tv/pictoplasma-returns-to-rca-in-london-october-30th/"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "chars": 2557
+  },
+  "depth_raw": 4,
+  "depth_v": 2
  }
 }
