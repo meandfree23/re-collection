@@ -162785,5 +162785,1157 @@
   },
   "depth_raw": 4,
   "depth_v": 2
+ },
+ "hyperallergic.com/roy-lichtenstein-has-lost-his-luster": {
+  "title_ko": "로이 리히텐슈타인: 휘트니 미술관이 재구성한 팝아트의 광택과 그 이면",
+  "summary_ko": "휘트니 미술관에서 30년 만에 열린 로이 리히텐슈타인 대규모 회고전은 130여 점의 작품을 통해 그의 시각적 원천을 탐구한다. 큐레이터 알렉스 다 코르테는 리히텐슈타인의 스승 호이트 셔먼의 교육법인 '플래시 랩'을 재현한 영상실과 30미터 길이의 벽화 등을 전시해 작가의 작업 세계를 입체적으로 재구성했다.",
+  "lens": "리히텐슈타인의 매끄러운 팝아트 표면 뒤에 숨겨진 기계적 반복과 교육적 훈련의 흔적을 들춰내어, 그의 작업이 지닌 감정적 공백을 역설적으로 드러낸다.",
+  "why_now": "동시대 미술계가 작가의 독창성보다 매체와 교육적 환경이 예술을 어떻게 규정하는지에 주목하는 흐름을 반영한다.",
+  "mechanism": "어두운 방에서 짧게 노출된 사물을 그리게 하는 '플래시 랩' 방식의 재현과, 서쪽 창문에 설치된 벽화를 통해 자연광과 인공물이 겹치는 시각적 장치를 활용한다.",
+  "sensory": "만화적 선과 평면적인 색채, 벤데이 점의 기계적 질감이 100피트 길이의 거대 벽화와 어우러지며 전시 공간 전체의 스케일을 압도한다.",
+  "transfer": "콘티 작업 시 피사체를 짧은 시간 동안만 노출해 기억에 의존한 잔상을 포착하거나, 자연광의 변화를 활용해 동일한 공간 내에서 두 가지 시간성을 동시에 연출하는 기법을 적용할 수 있다.",
+  "context": "리히텐슈타인은 1960년대 벤데이 점과 만화적 도상을 통해 고급 예술과 대중문화의 경계를 허물며 팝아트의 핵심 인물로 자리 잡았다. 휘트니 미술관은 이번 전시를 통해 작가의 초기 회화부터 후기 벽화 작업까지를 망라하며, 그의 예술적 기원을 추적하는 제도적 시도를 이어간다.",
+  "findings": [
+   {
+    "text": "로이 리히텐슈타인은 1960년대 초반 벤데이 점을 활용한 기계적 인쇄 기법을 수작업으로 정교하게 복제하며 국제적인 명성을 얻었다.",
+    "s": 1,
+    "quote": "Lichtenstein gained international recognition for works that employed bold outlines, flat colors, and his signature use of Ben-Day dots—a mechanical printing technique he meticulously replicated by hand."
+   },
+   {
+    "text": "휘트니 미술관은 1930년 거트루드 밴더빌트 휘트니에 의해 설립되었으며, 20세기와 21세기 미국 미술을 보존하고 전시하는 데 집중한다.",
+    "s": 2,
+    "quote": "The institution was founded in 1930 by Gertrude Vanderbilt Whitney (1875–1942), a prominent American socialite, sculptor, and art patron after whom it is named. The Whitney focuses on collecting and preserving 20th- and "
+   }
+  ],
+  "keywords": [
+   "팝아트",
+   "로이 리히텐슈타인",
+   "휘트니미술관",
+   "플래시랩",
+   "알렉스다코르테"
+  ],
+  "evidence": "He went from being a satirist of America’s ideals to a parody of himself, an artist content with other artists’ masterpieces.",
+  "kind": "전시",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "작가의 작업 방식과 전시 연출의 의도를 구체적으로 연결하여 예술적 맥락을 명확히 분석했다.",
+  "v": 2,
+  "url": "https://hyperallergic.com/roy-lichtenstein-has-lost-his-luster/",
+  "original_title": "Roy Lichtenstein Has Lost His Luster",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 2772,
+  "fetch": "ok",
+  "cliche_hits": [
+   "경계를 허"
+  ],
+  "read_at": "2026-10-14 09:39",
+  "research": {
+   "entities": [
+    "Roy Lichtenstein",
+    "Whitney Museum of American Art",
+    "Hoyt Sherman",
+    "Alex Da Corte",
+    "Greene Street Mural"
+   ],
+   "questions": [
+    "로이 리히텐슈타인의 예술적 시각 형성에 호이트 셔먼의 '플래시 랩' 교육 방식이 구체적으로 어떤 영향을 미쳤는가?",
+    "휘트니 미술관의 이번 회고전에서 알렉스 다 코르테가 시도한 연출 방식이 리히텐슈타인의 작품을 해석하는 데 어떤 논쟁을 불러일으켰는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Roy Lichtenstein",
+     "url": "https://en.wikipedia.org/wiki/Roy%20Lichtenstein"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Whitney Museum of American Art",
+     "url": "https://en.wikipedia.org/wiki/Whitney%20Museum%20of%20American%20Art"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "브루어 빌딩과 아모리 쇼가 드러낸 뉴욕 아트페어의 풍경",
+     "url": "https://hyperallergic.com/should-you-sit-out-the-armory-show/"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "뉴욕 미술계의 이면, 파업과 폐쇄가 드러내는 제도적 균열",
+     "url": "https://hyperallergic.com/the-cathedral-of-joy/"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "쿠사마 야요이, 점과 거울로 구축한 무한의 세계를 남기고 떠나다",
+     "url": "https://www.designboom.com/art/yayoi-kusama-japanese-artist-infinity-single-dot-97/"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 3630
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "hyperallergic.com/nyc-artists-open-their-doors": {
+  "title_ko": "뉴욕 고와너스, 30년의 기록을 담은 예술가들의 작업실 문을 열다",
+  "summary_ko": "뉴욕의 고와너스 오픈 스튜디오가 30주년을 맞아 400여 명의 예술가와 함께 90여 개 공간을 대중에게 공개한다. 이번 행사는 도시의 재개발 속에서도 예술가들이 창작 활동을 지속할 수 있도록 마련된 영구적 저렴한 스튜디오와 연계되어 운영된다. 또한 뉴욕 전역에서는 원주민 예술 전시와 오픈 하우스 뉴욕 프로그램이 동시에 진행된다.",
+  "lens": "도시의 물리적 재개발에 맞서 예술가들이 확보한 영구적 작업 공간이 어떻게 지역의 문화적 생태계를 유지하는지 그 실질적 구조를 확인해야 한다.",
+  "why_now": "재개발로 인한 젠트리피케이션 속에서 예술가들이 안정적인 작업 환경을 확보하는 것은 동시대 예술 현장의 생존과 직결된 문제다.",
+  "mechanism": "커뮤니티 혜택 협약을 통해 개발 현장에 영구적 저렴한 스튜디오를 할당하고, 이를 통해 창작자가 지역에 정주하며 예술적 지속 가능성을 확보하는 구조를 취한다.",
+  "sensory": "과거 공장과 창고였던 거친 벽면과 높은 층고의 공간이 예술가의 손길을 거쳐 현재의 작업실로 변모한 시간의 겹을 마주한다.",
+  "transfer": "공간의 역사성을 살린 전시나 촬영 시, 기존 구조물을 철거하지 않고 예술가의 창작물과 재료를 배치하여 장소의 서사를 시각화하는 동선을 설계한다.",
+  "context": "고와너스 오픈 스튜디오는 30년 전 예술가들의 자발적 개방으로 시작되어 현재는 연중 예술 프로그램을 운영하는 조직으로 성장했다. 헤셀 미술관 등지에서 열리는 원주민 예술 전시는 식민 역사를 재해석하며, 뉴욕시의 예술가 지원금 인상과 자재 지원 프로그램은 창작 환경의 실질적 토대를 보강한다.",
+  "findings": [
+   {
+    "text": "고와너스 오픈 스튜디오는 30주년을 맞이해 90여 개 장소에서 400명 이상의 예술가가 참여하는 대규모 행사로 진행된다.",
+    "s": 1,
+    "quote": "This October, Gowanus Open Studios returns for its 30th year as one of the largest open studios events in New York City, with more than 400 artists opening their doors across more than 90 locations"
+   },
+   {
+    "text": "고와너스 재개발 과정에서 체결된 커뮤니티 혜택 협약은 11개 신규 개발 부지에 100개 이상의 영구적 저렴한 예술가 스튜디오를 확보했다.",
+    "s": 1,
+    "quote": "During the 2021 Gowanus rezoning, Arts Gowanus negotiated a Community Benefits Agreement (CBA) with waterfront developers that secures more than 100 permanently affordable artist studios across 11 new development sites"
+   },
+   {
+    "text": "레이븐 차콘은 나바호족 출신 작곡가이자 예술가로, 2022년 원주민 최초로 퓰리처상 음악 부문을 수상했다.",
+    "s": 2,
+    "quote": "Chacon became the first Native American to win a Pulitzer Prize for Music, for his Voiceless Mass in 2022."
+   },
+   {
+    "text": "오픈 하우스 뉴욕은 2001년 뉴욕에서 설립된 문화 비영리 단체로 매년 도시의 공간을 개방하는 행사를 주최한다.",
+    "s": 3,
+    "quote": "Open House New York (OHNY) is a cultural nonprofit organization that holds annual Doors Open Days. It was founded in 2001 in New York City."
+   }
+  ],
+  "keywords": [
+   "고와너스",
+   "오픈스튜디오",
+   "도시재생",
+   "예술가거주",
+   "원주민예술"
+  ],
+  "evidence": "Gowanus Open Studios returns for its 30th year as one of the largest open studios events in New York City",
+  "kind": "행사·공모",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "도시 재생과 예술가의 생존권을 연결하는 구체적인 정책 사례와 행사 정보를 상세히 다루고 있다.",
+  "v": 2,
+  "url": "https://hyperallergic.com/nyc-artists-open-their-doors/",
+  "original_title": "NYC Artists Open Their Doors",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 7830,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-14 09:39",
+  "research": {
+   "entities": [
+    "Raven Chacon",
+    "Park Avenue Armory",
+    "Open House New York",
+    "Hessel Museum of Art",
+    "Materials for the Arts"
+   ],
+   "questions": [
+    "뉴욕의 'Open House New York' 행사는 어떤 방식으로 도시의 문화적 공간들을 대중에게 개방하고 있나요?",
+    "원주민 예술에서 언급되는 'survivance(생존과 저항의 결합)'라는 개념은 현대 미술에서 어떻게 구체적으로 표현되고 있나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Gowanus Open Studios 2026 — Arts Gowanus",
+     "url": "https://www.artsgowanus.org/gowanus-open-studios-26?ref=hyperallergic.com"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Raven Chacon",
+     "url": "https://en.wikipedia.org/wiki/Raven%20Chacon"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Open House New York",
+     "url": "https://en.wikipedia.org/wiki/Open%20House%20New%20York"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "미술관의 세대교체와 예술가 레지던시의 새로운 리더십",
+     "url": "https://hyperallergic.com/cyra-levenson-to-lead-yaddo-artist-residency/"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "뉴욕시, 20년 만에 개인 예술가 지원금 최대 1만 달러로 인상",
+     "url": "https://hyperallergic.com/mamdani-doubles-grants-for-nyc-artists/"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "식민의 역사를 벼리는 방식: 카누파 한스카 루거와 셸리 니로의 조형 언어",
+     "url": "https://hyperallergic.com/7-new-york-exhibitions-that-embody-indigenous-survivance/"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "chars": 3899
+  },
+  "depth_raw": 5,
+  "depth_v": 2
+ },
+ "thisiscolossal.com/2026/10/pneuhaus-compound-camera-3-inflatable-installation": {
+  "title_ko": "태양광과 221개의 렌즈가 만든 거대한 아날로그 카메라",
+  "summary_ko": "로드아일랜드의 디자인 스튜디오 프뉴하우스(Pneuhaus)가 모드 페스티벌(MODE Festival)에서 221개의 렌즈를 장착한 대형 공기 주입식 설치 작업 '컴파운드 카메라 3(Compound Camera 3)'를 공개했다. 700평방피트가 넘는 공간 내부에 태양광을 활용해 외부 풍경을 들이고, 관람객이 부드러운 벽면을 직접 밀어 왜곡된 시각적 효과를 체험할 수 있도록 구성했다.",
+  "lens": "기계적 감시 장치 대신 순수한 태양광과 렌즈로 시각의 물리적 왜곡을 실험한다.",
+  "why_now": "디지털 데이터망과 연결된 감시 카메라가 일상화된 시대에, 기록되지 않는 아날로그적 현존의 가치를 환기한다.",
+  "mechanism": "221개의 렌즈가 위를 향해 하늘을, 측면을 향해 건물과 사람들을 내부의 불룩한 표면에 광학적으로 투영한다.",
+  "sensory": "빛나는 백색의 거대한 버블 구조물 안에서, 관람객은 곤충의 복안처럼 분할되고 일그러지는 도심의 풍경을 마주한다.",
+  "transfer": "공간 연출 시 LED 스크린 대신 물리적 렌즈와 자연광을 활용해 아날로그적 질감의 투영 효과를 콘티에 적용한다.",
+  "context": "프뉴하우스는 빛, 직물, 공기를 재료 삼아 임시 건축과 몰입형 환경을 실험하는 로드아일랜드 기반의 스튜디오다.",
+  "findings": [
+   {
+    "text": "프뉴하우스는 빛, 직물, 공기를 활용해 실험적인 임시 건축을 만든다.",
+    "s": 1,
+    "quote": "Pneuhaus creates joyful experimental temporary architecture for events, cities, and festivals by building with light, fabric, and air."
+   }
+  ],
+  "keywords": [
+   "공기주입식건축",
+   "카메라옵스큐라",
+   "설치미술",
+   "프뉴하우스"
+  ],
+  "evidence": "Compound Camera 3 is the latest work by Pneuhaus, the studio known for its large-scale, architectural inflatable installations.",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "대규모 공기 주입식 구조물과 광학적 장치를 결합한 독창적인 작업이며 원문과 자료로 구체적 맥락이 확인된다.",
+  "v": 2,
+  "url": "https://www.thisiscolossal.com/2026/10/pneuhaus-compound-camera-3-inflatable-installation/",
+  "original_title": "221 Camera Obscuras Fill Pneuhaus’ Immersive, Inflatable, Image-Capturing Installation",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 2345,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-14 09:39",
+  "research": {
+   "entities": [
+    "Pneuhaus",
+    "Compound Camera 3",
+    "MODE Festival"
+   ],
+   "questions": [
+    "카메라 옵스큐라의 원리를 활용하여 어떻게 실내에 외부 풍경을 투영하는지 그 광학적 구조가 궁금합니다.",
+    "Pneuhaus가 추구하는 대규모 공기 주입식 건축물(inflatable architecture)의 미학적, 기능적 특징은 무엇인가요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Pneuhaus | Inflatable Art / Architecture Studio | Rumford, RI, USA",
+     "url": "https://www.pneu.haus/"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "MODE Photography Festival | Sep 18–20, 2026 · Minneapolis",
+     "url": "https://www.modefestival.com/"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 2798
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "hyperallergic.com/cornell-7-case-sparks-fury-and-protests-in-solidarity-with-jane-doe": {
+  "title_ko": "워싱턴 기념비 앞의 목소리: '제인 도' 연대 시위",
+  "summary_ko": "워싱턴 DC 내셔널 몰의 워싱턴 기념비 옆에서 성폭력 생존자 지지와 기관의 책임을 촉구하는 '제인 도' 연대 집회가 열렸다. 약 250명의 시위대가 모여 코넬 대학교의 성폭력 사건 대응을 규탄하고 권력 기관의 변화를 요구했다.",
+  "lens": "권력의 상징인 기념비와 백악관 사이에서 생존자의 외침을 시각적 낙관으로 세운다.",
+  "why_now": "대학가와 정치권의 성폭력 고발이 이어지며 제도적 방관을 향한 대중적 분노가 최고조에 달했다.",
+  "mechanism": "오벨리스크와 백악관이라는 거대한 국가적 상징물을 배경 삼아 소형 피켓과 확성기 음성을 대조시킨다.",
+  "sensory": "차가운 돌 재질의 기념비 앞을 채운 알록달록한 구호 피켓과 확성기를 찢고 나오는 거친 외침.",
+  "transfer": "광장이나 공공 공간 시퀀스에서 거대한 오벨리스크나 건물을 배경으로 인물의 소모적 대사가 아닌 선언적 텍스트를 배치하라.",
+  "context": "코넬 대학교는 뉴욕주 이타카에 본교를 둔 사립 아이비리그 대학으로 이번 사건으로 학내 성폭력 문화가 도마에 올랐다.",
+  "findings": [
+   {
+    "text": "코넬 대학교는 미국 뉴욕주 이타카에 본교를 둔 사립 아이비리그 연구 중심 대학이다.",
+    "s": 3,
+    "quote": "Cornell University ( kor-NEL) is a private Ivy League research university based in Ithaca, New York, United States."
+   }
+  ],
+  "keywords": [
+   "제인 도",
+   "워싱턴 기념비",
+   "공공 행동",
+   "연대 집회"
+  ],
+  "evidence": "Approximately 250 protesters gathered beside the Washington Monument on the National Mall on October 8 as part of a National Day of Action event",
+  "kind": "뉴스·이슈",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "사회적 이슈를 다룬 뉴스 기사로 정보 전달 중심이며 예술적 기법보다는 시위 현장의 맥락에 집중한다.",
+  "v": 2,
+  "url": "https://hyperallergic.com/cornell-7-case-sparks-fury-and-protests-in-solidarity-with-jane-doe/",
+  "original_title": "“Cornell 7” Case Sparks Fury and Protests in Solidarity With Jane Doe",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 4238,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-14 09:39",
+  "research": {
+   "entities": [
+    "Cornell University",
+    "Women's March",
+    "Donald Trump",
+    "Nadine Seiler",
+    "Georgetown Law"
+   ],
+   "questions": [
+    "코넬 대학교의 'Cornell 7' 사건에 대한 대학 측의 초기 대응이 왜 피해자 보호와 정의 실현 측면에서 비판받고 있나요?",
+    "미국 내 대학가에서 발생하는 남성 사교 클럽(fraternity) 문화와 성폭력 문제 사이에는 어떤 구조적 연관성이 있나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Alva Johnson v. Donald J. Trump and Donald J. Trump For President, Inc., - Public Justice",
+     "url": "https://www.publicjustice.net/case/johnson-v-trump/?ref=hyperallergic.com"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "She guarded the Black Lives Matter memorial. Now, she's working to protect its art",
+     "url": "https://www.npr.org/2021/10/02/1041543414/she-guarded-the-black-lives-matter-memorial-now-shes-working-to-protect-its-art?ref=hyperallergic.com"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Cornell University",
+     "url": "https://en.wikipedia.org/wiki/Cornell%20University"
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "Donald Trump",
+     "url": "https://en.wikipedia.org/wiki/Donald%20Trump"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "워싱턴 DC 케네디 센터 철거 위기와 모더니즘 건축 보존 갈등",
+     "url": "https://www.dezeen.com/2026/08/27/demolish-kennedy-center-financial-structural-death-spiral/"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "돌리 파튼: 인위적인 외형으로 증명한 가장 진실한 태도",
+     "url": "https://www.dazeddigital.com/music/article/70864/1/5-iconic-dolly-parton-life-lessons-best-quotes?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=5-iconic-life-lessons-from-dolly-parton"
+    },
+    {
+     "n": 7,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "케힌데 와일리, 도미니카공화국 대사관서 철거된 자신의 회화 환수 요청",
+     "url": "https://hyperallergic.com/kehinde-wiley-requests-to-buy-back-painting-removed-by-state-department/"
+    }
+   ],
+   "used": [
+    3
+   ],
+   "chars": 8763
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "archdaily.com/1186772/ph-dickman-ph-tipo-casa": {
+  "title_ko": "PH 딕맨: 좁은 필지에서 발휘되는 건축적 유연함과 밀도",
+  "summary_ko": "아르헨티나 EHL에 위치한 PH 딕맨은 PH 티포 카사가 설계한 리노베이션 프로젝트다. 마르셀로 사소가 이끄는 설계팀은 축구에서 좁은 공간을 활용하는 전술에 빗대어, 제한된 대지 조건을 창의적으로 활용해 공간의 가치를 극대화하는 전략을 선보였다.",
+  "lens": "축구의 좁은 공간 전술을 건축으로 치환하여, 제약된 대지 안에서 밀도 높은 공간 효율을 찾아내는 설계 방식이 돋보인다.",
+  "why_now": "도심 속 낡은 주거지의 리노베이션이 늘어나는 상황에서, 공간의 한계를 자원 창출의 기회로 보는 관점이 유효하다.",
+  "mechanism": "기존 구조의 물리적 한계를 인지하고 그 안에서 동선과 기능을 재배치하여, 설계의 밀도를 높이는 방식으로 공간의 가치를 생성한다.",
+  "sensory": "밀집된 구조 속에서 빛이 들어오는 틈새와 공간의 깊이감이 실제 체감되는 스케일을 결정한다.",
+  "transfer": "공간이 협소할수록 구조적 변주를 통해 시각적 깊이를 만드는 레이어링 기법을 콘티에 적용할 수 있다.",
+  "context": "PH 티포 카사는 아르헨티나를 기반으로 활동하며, 제한된 조건 속에서 건축적 독창성을 발휘하는 리노베이션 작업에 집중한다.",
+  "findings": [],
+  "keywords": [
+   "리노베이션",
+   "공간전략",
+   "밀도",
+   "아르헨티나건축"
+  ],
+  "evidence": "the famous soccer idiom of playing in a tight space.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "제한된 공간을 활용하는 건축적 태도는 흥미로우나, 구체적인 도면이나 상세한 공간 구성 방식에 대한 정보가 부족하다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1186772/ph-dickman-ph-tipo-casa",
+  "original_title": "PH Dickman / PH TIPO CASA",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 970,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-14 09:39",
+  "research": {
+   "entities": [
+    "PH TIPO CASA",
+    "PH Dickman",
+    "Marcelo Sasso",
+    "Federico Cairoli"
+   ],
+   "questions": [
+    "PH TIPO CASA가 추구하는 '좁은 공간에서의 설계(playing in a tight space)'라는 건축적 철학은 구체적으로 어떤 공간 전략을 의미하는가?",
+    "PH Dickman 프로젝트에서 기존 건축물의 리노베이션을 통해 해결하고자 했던 공간적 한계와 그에 대한 디자인적 해법은 무엇인가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "dezeen.com/2026/10/13/oma-convert-houston-coffee-plant-flama": {
+  "title_ko": "OMA, 휴스턴 커피 공장을 음악 학교로 재생하다",
+  "summary_ko": "건축 스튜디오 오엠에이(OMA)가 미국 휴스턴의 옛 커피 공장을 프랭크 리우 주니어 음악 예술 학교로 탈바꿈하는 프로젝트를 시작했다. 유치원부터 8학년까지를 수용하는 이 공간은 기존 산업 시설의 구조를 활용해 음악 교육에 최적화된 환경을 구축한다.",
+  "lens": "산업용 대형 공간을 음악 교육의 밀도 높은 소리와 동선으로 재구조화하는 전략을 살핀다.",
+  "why_now": "폐공장의 산업적 골격을 보존하면서도 특정 목적을 위한 기능적 공간으로 변용하는 도시 재생의 흐름을 보여준다.",
+  "mechanism": "커피 공장의 높은 층고와 개방적인 평면을 활용해 음향적 요구사항을 충족하는 다목적 홀과 연습실을 배치하는 방식을 취한다.",
+  "sensory": "거친 콘크리트와 금속 파사드가 음악 소리의 울림을 조절하는 내부 마감재와 대비를 이루는 공간이다.",
+  "transfer": "공간의 물리적 높이를 활용해 수직적인 시각적 연결을 만들고, 소리의 파동을 고려한 벽면 각도 설계를 영상의 배경 미장센으로 활용한다.",
+  "context": "오엠에이는 기존 건축물의 형태를 유지하며 새로운 기능을 부여하는 적응적 재사용 프로젝트를 꾸준히 수행해 왔다.",
+  "findings": [],
+  "keywords": [
+   "오엠에이",
+   "리모델링",
+   "음악학교",
+   "도시재생"
+  ],
+  "evidence": "OMA to convert Houston coffee plant into music school",
+  "kind": "프로젝트",
+  "depth": 2,
+  "grounding": "thin",
+  "depth_reason": "원문 본문을 확보하지 못해 프로젝트의 구체적인 설계 장치를 확인할 수 없고 정보가 제한적이다.",
+  "v": 2,
+  "url": "https://www.dezeen.com/2026/10/13/oma-convert-houston-coffee-plant-flama/",
+  "original_title": "OMA to convert Houston coffee plant into music school with instrument-informed architecture",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 0,
+  "fetch": "fetch_error:HTTPError",
+  "cliche_hits": [],
+  "read_at": "2026-10-14 09:39",
+  "research": {
+   "entities": [
+    "OMA",
+    "Frank Liu Jr Academy for Music and Arts"
+   ],
+   "questions": [
+    "OMA가 설계한 학교 건축에서 '악기에서 영감을 받은 건축(instrument-informed architecture)'이란 구체적으로 어떤 디자인 요소를 의미하는가?",
+    "기존 산업 시설인 커피 공장을 교육 공간으로 리모델링할 때 고려해야 할 핵심적인 구조적 과제는 무엇인가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 2,
+  "depth_v": 2
+ },
+ "archdaily.com/1186760/katnap-house-nutum-estudio": {
+  "title_ko": "시살 해안의 모래 위에 자리한 현대적 피난처, 캣냅 하우스",
+  "summary_ko": "누툼 에스투디오(Nutum Estudio)가 멕시코 시살 해안에 2023년 완공한 주택이다. 유카탄 반도의 연약한 사구 생태계 위에 직접 놓인 건축물로, 별도의 정원 없이 자생 식물 사이로 난 좁은 길을 따라 진입한다. 해안가의 지형과 자연 상태를 그대로 보존하며 풍경 속에 닻을 내린 형태를 취한다.",
+  "lens": "정원을 인위적으로 조성하지 않고 모래언덕과 자생 식물을 그대로 집의 일부로 끌어들여 풍경의 연속성을 확보했다.",
+  "why_now": "인공적인 조경을 배제하고 지형의 원형을 보존하는 생태적 건축 방식이 해안가 주거 설계의 새로운 표준으로 떠오르고 있다.",
+  "mechanism": "자생 식물 사이로 구불구불하게 이어지는 좁은 진입로를 통해 건축물과 자연의 경계를 모호하게 만들고, 지면에서 띄운 구조로 사구의 지형 변화를 최소화한다.",
+  "sensory": "모래의 건조한 질감과 거친 자생 식물의 잎, 그리고 멕시코 만에서 불어오는 습한 바람이 맞닿는 감각적인 대비가 두드러진다.",
+  "transfer": "현장 촬영 시 인위적인 조명이나 소품을 배치하기보다 자연 그대로의 지형지물을 프레임 안으로 끌어들여 공간의 고립감을 강조하는 롱 샷을 추천한다.",
+  "context": "누툼 에스투디오는 멕시코 유카탄 지역의 지리적 맥락을 바탕으로 자연 생태계와 조화되는 현대적인 공간을 탐구한다.",
+  "findings": [],
+  "keywords": [
+   "해안건축",
+   "사구보존",
+   "멕시코건축",
+   "생태건축"
+  ],
+  "evidence": "Upon its sand, a small residence stands as a contemporary refuge anchored in the fragile beauty of the Yucatecan dune.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "건축적 의도는 명확하나 구체적인 설계 도면이나 평면 구성에 대한 정보가 부족하여 일반적인 프로젝트 소개 수준에 머문다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1186760/katnap-house-nutum-estudio",
+  "original_title": "KatNap House / Nutum Estudio",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 996,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-14 09:39",
+  "research": {
+   "entities": [
+    "Nutum Estudio",
+    "Sisal",
+    "GaiaDesign",
+    "Mesawa"
+   ],
+   "questions": [
+    "유카탄 반도의 해안 사구 생태계를 보호하기 위해 건축적으로 어떤 설계 전략을 사용했는가?",
+    "Sisal 지역의 기후와 지형적 특성이 KatNap House의 공간 구성에 어떤 영향을 미쳤는가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "archdaily.com/1032794/coral-house-sidney-quintela-architecture-plus-urban-planning": {
+  "title_ko": "브라질 바이아 해안의 현대적 열대 주거, 카사 코랄",
+  "summary_ko": "브라질 바이아 북부 프라이아 도 포르테에 위치한 카사 코랄은 시드니 퀸텔라가 설계한 501㎡ 규모의 2층 주택이다. 대가족의 휴식을 위해 기능성과 편안함을 최우선으로 고려했으며, 해안 경관과 실내 공간을 긴밀하게 연결하는 현대 열대 건축의 문법을 따른다.",
+  "lens": "열대 기후의 강한 햇빛과 습도를 다루기 위해 대형 개구부와 열린 평면을 채택하여 실내외 경계를 지운다.",
+  "why_now": "기후 위기 시대, 인공적인 냉방에 의존하지 않고 자연 통풍과 경관 활용을 극대화하는 열대 건축의 실용적 접근이 주거 설계의 표준으로 자리 잡고 있다.",
+  "mechanism": "내외부를 잇는 대형 창호와 유연한 평면 배치를 통해 해안의 바람을 실내로 유도하고, 자연 채광을 조절하여 쾌적한 거주 환경을 조성한다.",
+  "sensory": "해안의 습한 공기가 통과하는 개방적인 거실과 외부 테라스의 질감, 자연광이 벽면에 만드는 깊은 그림자가 공간의 스케일을 결정한다.",
+  "transfer": "광고나 영상 촬영 시, 인위적인 조명 대신 자연광이 들어오는 창가와 실내외가 이어지는 동선을 활용해 공간의 개방감을 강조하는 롱테이크 샷을 구성한다.",
+  "context": "시드니 퀸텔라 건축 도시 계획 사무소는 브라질 북부 해안의 기후적 맥락을 현대적인 언어로 재해석하는 작업을 지속하고 있다.",
+  "findings": [],
+  "keywords": [
+   "브라질건축",
+   "열대건축",
+   "시드니퀸텔라",
+   "해안주거"
+  ],
+  "evidence": "Casa Coral is a project designed by architect Sidney Quintela that accurately translates the concept of contemporary tropical architecture.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "현대 열대 건축의 개념을 공간에 적용한 사례를 보여주나, 구체적인 기술적 디테일이나 도면 정보가 부족하다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1032794/coral-house-sidney-quintela-architecture-plus-urban-planning",
+  "original_title": "Coral House / Sidney Quintela Architecture + Urban Planning",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 1253,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-14 09:39",
+  "research": {
+   "entities": [
+    "Sidney Quintela Architecture + Urban Planning",
+    "Sidney Quintela",
+    "Casa Coral"
+   ],
+   "questions": [
+    "현대 열대 건축(Contemporary tropical architecture)이 브라질 해안 주거 설계에서 구체적으로 어떤 디자인 요소로 구현되는가?",
+    "Praia do Forte 지역의 기후적 특성이 Casa Coral의 공간 구성과 자재 선택에 어떤 영향을 미쳤는가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "hyperallergic.com/sara-flores-paints-what-the-world-stands-to-lose": {
+  "title_ko": "아마존의 신성한 기하학을 그리는 작가, 사라 플로레스",
+  "summary_ko": "페루 아미존의 시피보(Shipibo) 족 예술가 사라 플로레스의 예술 세계와 국제적 명성을 다룬 다큐멘터리 영화 'The Hummingbird Paints Fragrant Songs'가 상영된다. 엘리아 가술 발라다와 마테오 노르지가 공동 연출한 이 영화는 베네치아 비엔날레 페루관 대표 작가로 선정된 그의 급부상 과정과 문화적 저항을 포착한다.",
+  "lens": "원시림의 식물 수액과 손끝의 기하학으로 자결권을 증명하는 원주민 예술가의 신체적 저항.",
+  "why_now": "세계 미술계가 비엔날레를 통해 비서구 원주민의 오랜 지식 체계를 조명하는 흐름 속에서, 거대 자본과 제도적 성공 이면에 놓인 소외와 투쟁의 서사를 대면하게 만든다.",
+  "mechanism": "아마존 정글의 벌레 소리와 나무 껍질을 벗기는 가느다란 손의 노동을 오디오와 로우 앵글의 롱테이크로 밀착해 다큐멘터리의 현장감을 극대화한다.",
+  "sensory": "화면을 가득 채우는 곤충의 진동음과 잉크로 물든 거친 손톱, 나무 수액의 점성이 시각과 청각을 동시에 자극한다.",
+  "transfer": "인물의 노동을 포착할 때 인위적인 조명을 배제하고 대상의 손끝과 도구의 질감에 카메라를 밀착시키는 롱 쇼트 연출로 활용한다.",
+  "context": "페루 아미존의 시피보 족 출신인 75세의 작가 사라 플로레스는 전통적인 비전과 신성한 기하학을 현대 미술계로 가져와 국제적 주목을 받고 있다. 상파울루 국제 영화제와 다큐멘터리 뉴욕(DOC NYC) 영화제에서 연이어 상영되며 전 세계 미술관과 영화제를 잇고 있다.",
+  "findings": [
+   {
+    "text": "페루 아마존 출신의 75세 원주민 예술가 사라 플로레스는 생의 난관을 딛고 국제 미술계에서 시피보 족을 위한 저항의 예술을 펼친다.",
+    "s": 1,
+    "quote": "Depois de uma vida repleta de dificuldades, a artista indígena Sara Flores, de 75 anos, surge da Amazônia peruana para ganhar seu espaço no cenário artístico internacional. Enquanto lida com as consequências e o impacto "
+   },
+   {
+    "text": "영화는 사라 플로레스가 비전 속에서 얻은 신성한 기하학적 문양과 원주민의 지식을 전 세계 미술관으로 확장하는 과정을 그린다.",
+    "s": 2,
+    "quote": "Shipibo artist Sara Flores creates sacred intricate geometries revealed through visions, carrying Indigenous knowledge from the Peruvian Amazon into museums worldwide."
+   }
+  ],
+  "keywords": [
+   "사라플로레스",
+   "시피보족",
+   "다큐멘터리",
+   "아마존",
+   "베네치아비엔날레"
+  ],
+  "evidence": "Directed by Èlia Gasull Balada and Matteo Norzi, The Hummingbird Paints Fragrant Songs (2026) follows artist Sara Flores throughout her rapid ascendance to art world fame as the representing artist of the Peruvian pavilion at the current Venice Biennale.",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "원주민 예술가의 작품 세계와 이를 포착한 다큐멘터리 연출의 구체적 맥락이 자료를 통해 충분히 확인된다.",
+  "v": 2,
+  "url": "https://hyperallergic.com/sara-flores-paints-what-the-world-stands-to-lose/",
+  "original_title": "Sara Flores Paints What the World Stands to Lose",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 2029,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-14 09:39",
+  "research": {
+   "entities": [
+    "Sara Flores",
+    "Èlia Gasull Balada",
+    "Matteo Norzi",
+    "Venice Biennale",
+    "São Paulo International Film Festival"
+   ],
+   "questions": [
+    "사라 플로레스의 예술적 기법과 아마존 우림의 문화적 전통은 어떤 관련이 있는가?",
+    "영화 'The Hummingbird Paints Fragrant Songs'는 사라 플로레스의 예술 세계를 어떻게 조명하고 있는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "50ª Mostra Internacional de Cinema em São Paulo",
+     "url": "https://mostra.org/filmes/o-beija-flor-pinta-cancoes-perfumadas?ref=hyperallergic.com"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "THE HUMMINGBIRD PAINTS FRAGRANT SONGS - DOC NYC",
+     "url": "https://www.docnyc.net/film/the-hummingbird-paints-fragrant-songs/?ref=hyperallergic.com"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Venice Biennale",
+     "url": "https://en.wikipedia.org/wiki/Venice%20Biennale"
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "São Paulo International Film Festival",
+     "url": "https://en.wikipedia.org/wiki/S%C3%A3o%20Paulo%20International%20Film%20Festival"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "브루어 빌딩과 아모리 쇼가 드러낸 뉴욕 아트페어의 풍경",
+     "url": "https://hyperallergic.com/should-you-sit-out-the-armory-show/"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "소리의 정치를 체화하는 폴란드 파빌리온의 감각적 번역",
+     "url": "https://hyperallergic.com/the-polish-pavilion-dissolves-you-in-the-politics-of-sound/"
+    },
+    {
+     "n": 7,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "베니스 비엔날레 국가관, 정치적 상징인가 전시의 스펙터클인가",
+     "url": "https://hyperallergic.com/the-worst-national-pavilions-at-the-venice-biennale/"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 5226
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "design-milk.com/820-ebony-jet-chicago-headquarters": {
+  "title_ko": "시카고 존슨 퍼블리싱 본사, 1970년대 흑인 미디어의 물리적 형상",
+  "summary_ko": "1972년 완공된 존슨 퍼블리싱 컴퍼니 본사는 존 무투사미가 설계한 트래버틴 대리석 외관과 아서 엘로드, 윌리엄 레이저가 완성한 11개 층의 과감한 인테리어가 특징이다. 사진가 바바라 카란트는 2013년부터 2018년까지 비어 있는 이 공간을 기록했다. 이 기록은 최근 출간된 사진집을 통해 흑인 미국인의 삶과 문화를 기록했던 미디어 기업의 공간적 유산을 보존한다.",
+  "lens": "비어 있는 공간의 기하학적 벽지와 미러 패널은 과거의 활기찬 미디어 활동을 증명하는 고요한 물성적 기록이다.",
+  "why_now": "디지털 전환으로 사라진 물리적 미디어 본사의 공간을 사진으로 복원하여, 특정 문화적 정체성이 공간에 어떻게 투영되는지 다시 확인한다.",
+  "mechanism": "미러 소재를 활용해 모티프를 반복하고 증폭하며, 1970년대 특유의 기하학적 패턴과 라미네이트 캐비닛의 소용돌이 무늬를 강조해 공간의 시각적 밀도를 높인다.",
+  "sensory": "오렌지, 퍼플, 골드 등 강렬한 색채의 셰브론 패턴과 차가운 미러 표면, 대리석의 질감이 대비를 이루며 1970년대의 화려한 미학을 드러낸다.",
+  "transfer": "공간의 비어 있는 상태를 활용해 인물 없이도 서사를 전달하는 로케이션 촬영 기법으로, 패턴과 빛의 반사만을 이용한 미장센을 구성한다.",
+  "context": "존슨 퍼블리싱 컴퍼니는 1945년 존 H. 존슨이 설립해 흑인 문화와 정치를 기록한 미디어 기업으로, 2016년까지 에보니와 제트 매거진을 발행했다. 이번 기록은 건축가 존 무투사미의 설계와 당대 인테리어 디자인이 흑인 미디어의 위상을 어떻게 물리적으로 구현했는지 보여준다.",
+  "findings": [
+   {
+    "text": "에보니는 1945년 시카고에서 존 H. 존슨이 창간한 미국 라이프스타일 잡지로 흑인 유명 인사와 정치를 다뤘다.",
+    "s": 1,
+    "quote": "Ebony was founded in Chicago in 1945 by John H. Johnson, for his Johnson Publishing Company. He sought to address African-American issues, personalities and interests in a positive and self-affirming manner."
+   },
+   {
+    "text": "제트는 1951년 존슨 퍼블리싱 컴퍼니가 창간한 주간지로 흑인 사회의 뉴스, 문화, 엔터테인먼트를 기록했다.",
+    "s": 2,
+    "quote": "Jet is an American weekly digital magazine focusing on news, culture, and entertainment related to the African-American community. Founded in print by John H. Johnson in November 1951 in Chicago, Illinois"
+   }
+  ],
+  "keywords": [
+   "존슨퍼블리싱",
+   "바바라카란트",
+   "1970년대인테리어",
+   "시카고건축",
+   "공간기록"
+  ],
+  "evidence": "Karant began photographing the empty headquarters the following year and continued through 2018.",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "특정 시대의 흑인 미디어 본사라는 역사적 공간을 사진으로 복원한 아카이브 작업으로, 인테리어 디자인의 구체적 요소와 사진적 시선을 잘 연결했다.",
+  "v": 2,
+  "url": "https://design-milk.com/820-ebony-jet-chicago-headquarters/",
+  "original_title": "A New Book Preserves the Lost Interiors of Ebony and Jet’s Chicago Headquarters",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 5697,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-14 09:39",
+  "research": {
+   "entities": [
+    "Ebony",
+    "Jet",
+    "Johnson Publishing Company",
+    "John Moutoussamy",
+    "Arthur Elrod"
+   ],
+   "questions": [
+    "존슨 퍼블리싱 본사 인테리어 디자인은 당대 흑인 문화와 모더니즘 디자인에 어떤 영향을 미쳤는가?",
+    "바바라 카란트의 사진집이 시카고 건축 역사 보존에 기여한 바는 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Ebony (magazine)",
+     "url": "https://en.wikipedia.org/wiki/Ebony%20%28magazine%29"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Jet (magazine)",
+     "url": "https://en.wikipedia.org/wiki/Jet%20%28magazine%29"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "고요 쿠오의 유작, 인류학적 충동으로 채운 제61회 베니스 비엔날레 본전시",
+     "url": "https://elephant.art/lessons-in-minor-keys/"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "에보니 L. 헤인즈: 전시라는 게임을 설계하는 큐레이터의 태도",
+     "url": "https://elephant.art/love-for-the-game-with-ebony-l-haynes/"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 2929
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "archdaily.com/1034259/house-sede-messina-rivas": {
+  "title_ko": "브라질 산악 계곡의 풍경을 담는 메인 하우스",
+  "summary_ko": "브라질 쿠냐의 세라 도 마르 계곡에 세워진 120제곱미터 규모의 주택이다. 건축가 프란시스코 리바스와 로드리고 메시나가 설계했으며 바다와 산, 파라티 도시가 내다보이는 위치에 자리 잡았다. 페데리코 카이롤리가 사진을 기록했다.",
+  "lens": "자연의 파노라마를 내부로 끌어들이는 프레임 건축의 전형이다.",
+  "why_now": "주변 자연환경과 시각적으로 강하게 연결되는 주거 공간에 대한 관심이 높아지는 흐름에 맞닿아 있다.",
+  "mechanism": "페드라 다 마셀라 인근 산악 지형의 특성을 활용해 시선이 바다와 산을 향하도록 공간을 배치했다.",
+  "sensory": "계곡을 감싸는 안개와 거친 산세가 통창을 통해 실내로 가득 밀려든다.",
+  "transfer": "광고나 영상 배경 세트를 구성할 때 창을 하나의 고정된 와이드 프레임으로 삼아 원경의 풍경을 시각적 압박감 없이 담아낸다.",
+  "context": "메시나 리바스가 브라질 쿠냐 지역에서 완성한 120제곱미터 규모의 주택 프로젝트다.",
+  "findings": [],
+  "keywords": [
+   "메시나리바스",
+   "브라질건축",
+   "풍경건축",
+   "주거공간"
+  ],
+  "evidence": "The design of the Main House is located in the valleys of the Serra do Mar near Pedra da Macela",
+  "kind": "프로젝트",
+  "depth": 2,
+  "grounding": "thin",
+  "depth_reason": "원문의 정보가 제한적이며 기본적인 프로젝트 소개에 그쳐 평범한 수준의 정보만 제공한다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1034259/house-sede-messina-rivas",
+  "original_title": "Main House / messina | rivas",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 950,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-14 09:39",
+  "research": {
+   "entities": [
+    "messina | rivas",
+    "Federico Cairoli",
+    "Francisco Rivas",
+    "Rodrigo Messina"
+   ],
+   "questions": [
+    "메시나 리바스(messina | rivas) 건축사사무소의 주요 설계 철학은 무엇인가요?",
+    "브라질 쿠냐(Cunha) 지역의 기후와 자연경관이 이 주택의 건축 자재와 구조에 어떤 영향을 미쳤나요?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "architecturaldigest.com/story/best-trundle-beds": {
+  "title_ko": "수직적 밀도와 가변적 동선, 현대 주거를 위한 트런들 베드 7선",
+  "summary_ko": "트런들 베드는 메인 침대 프레임 하단에 보조 매트리스를 숨겨 필요할 때 인출하는 가변형 가구다. 어린이 방이나 게스트 룸처럼 제한된 면적에서 수면 공간을 두 배로 확장하는 효율적인 해법으로 활용된다. 최근에는 데이베드, 벙크 베드, 캡틴 베드 등 다양한 가구 형태와 결합해 인테리어의 일체감을 높이는 방식으로 진화했다.",
+  "lens": "고정된 가구의 부피를 최소화하고 바닥 면적의 가변성을 확보하여, 물리적 공간의 한계를 기능적 유연함으로 치환하는 장치다.",
+  "why_now": "주거 공간의 밀도가 높아짐에 따라 가구의 존재감을 지우고 필요에 따라 기능을 호출하는 유연한 공간 전략이 필수적이다.",
+  "mechanism": "프레임 하단에 매립된 휠과 슬라이딩 구조를 통해 물리적 동선을 최소화하며, 사용하지 않을 때는 수납함이나 데이베드로 전환하여 시각적 간섭을 제거한다.",
+  "sensory": "FSC 인증 목재의 견고한 물성과 성능 벨벳의 부드러운 질감이 대비를 이루며, 묵직한 프레임 속에서도 가벼운 슬라이딩 감각을 전달한다.",
+  "transfer": "공간 연출 시 가구의 배치를 고정하지 말고, 하부 인출식 구조를 활용해 좁은 스튜디오나 촬영 세트의 바닥 동선을 상황에 따라 재구성하는 레이아웃을 제안한다.",
+  "context": "웨스트 엘름(West Elm)은 윌리엄스 소노마 산하 브랜드로 현대적 가구 디자인을 주도하며, 크레이트 앤 키즈(Crate & Kids)는 크레이트 앤 배럴의 하위 브랜드로 정교한 디테일을 강조한다. 과거 리서치에서 다룬 수납 침대 사례처럼, 이들은 모두 기능적 수납과 심미적 형태를 결합해 주거 효율을 극대화하는 디자인 계보를 잇는다.",
+  "findings": [
+   {
+    "text": "웨스트 엘름은 윌리엄스 소노마의 자회사로 현대적인 가구 디자인을 선보이는 소매점이다.",
+    "s": 1,
+    "quote": "West Elm (stylized as west elm) is a retail store that features contemporary furniture designs and other housewares. It is a wholly owned subsidiary of Williams-Sonoma, Inc."
+   },
+   {
+    "text": "크레이트 앤 배럴은 일리노이주 노스브룩에 본사를 둔 국제적인 가구 및 홈 데코 소매업체이다.",
+    "s": 2,
+    "quote": "Euromarket Designs Inc., doing business as Crate & Barrel (stylized as Crate&Barrel), is an international furniture and home décor retail store headquartered in Northbrook, Illinois."
+   }
+  ],
+  "keywords": [
+   "트런들베드",
+   "가변형가구",
+   "공간절약",
+   "수납가구",
+   "인테리어디자인"
+  ],
+  "evidence": "Tucked away under a bed frame, trundle beds are a space-saving solution for a kid’s room, home office, or guest room.",
+  "kind": "리스트·라운드업",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "트런들 베드의 기능적 유형과 구체적인 제품 사례를 정리했으나, 디자인 기법의 혁신보다는 효율적인 가구 선택 가이드에 가깝다.",
+  "v": 2,
+  "url": "https://www.architecturaldigest.com/story/best-trundle-beds",
+  "original_title": "7 Best Trundle Beds That Are Modern and Space-Saving (2026)",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 8099,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-14 09:39",
+  "research": {
+   "entities": [
+    "West Elm",
+    "Crate & Kids",
+    "Pottery Barn Teen",
+    "AllModern",
+    "Max & Lily"
+   ],
+   "questions": [
+    "트런들 베드(Trundle bed)의 구조적 특징과 현대적인 인테리어에서 공간 활용을 위해 고려해야 할 핵심 요소는 무엇인가요?",
+    "FSC 인증 목재나 성능 벨벳과 같은 가구 소재 선택이 트런들 베드의 내구성과 사용자 경험에 어떤 영향을 미치나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "West Elm",
+     "url": "https://en.wikipedia.org/wiki/West%20Elm"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Crate & Barrel",
+     "url": "https://en.wikipedia.org/wiki/Crate%20%26%20Barrel"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "비너스 윌리엄스와 크레이트 앤 배럴이 빚어낸 그랜드 슬램 컬렉션",
+     "url": "https://design-milk.com/venus-williams-crate-barrel-grand-slam-collection/"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "수직 공간의 재발견: 공간감을 확장하는 19가지 플로팅 선반",
+     "url": "https://www.architecturaldigest.com/story/best-floating-shelves"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "32평이 아닌 345제곱피트, 무용수를 위한 뉴욕 스튜디오의 정교한 밀도",
+     "url": "https://www.architecturaldigest.com/story/chun-wai-chan-345-square-foot-nyc-apartment"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "chars": 1424
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "designboom.com/art/body-canvas-tool-medium-lucy-mcrae-spaces-future-sensitive-interview": {
+  "title_ko": "루시 맥레이: 신체를 캔버스 삼아 기술을 내재화하는 바디 퓨처리즘",
+  "summary_ko": "바디 아키텍트 루시 맥레이(Lucy McRae)는 신체를 기술과 미래를 실험하는 캔버스로 정의한다. 그는 필립스 디자인 연구소에서의 경험을 바탕으로, 삼킬 수 있는 향수나 신체를 압박하는 의복 등 신체와 기술이 분리 불가능해지는 지점을 탐구한다. 그의 작업은 패션과 디자인을 넘어 기술이 인간의 정체성에 미치는 영향을 가시화한다.",
+  "lens": "기술을 신체 외부의 도구가 아닌, 소화하거나 입어서 체화하는 내재적 건축으로 치환하여 인간과 기술의 물리적 경계를 해체한다.",
+  "why_now": "기술이 신체 내부로 침투하는 시대에, 신체를 단순히 기술의 수용체가 아닌 기술을 담는 유연한 건축물로 재해석하는 시각이 필요하다.",
+  "mechanism": "신체에 직접 착용하거나 섭취하는 오브제를 통해 기술을 감각적 경험으로 변환한다. 의복을 심리적 공간을 형성하는 보이지 않는 건축으로 설계하여 착용자의 행동과 타인의 인식을 변화시킨다.",
+  "sensory": "피부 위를 흐르는 메탈릭한 질감과 신체를 옥죄는 압박감, 혹은 내부에서 발산되는 향기처럼 기술이 신체와 결합할 때 발생하는 감각적 긴장감을 구현한다.",
+  "transfer": "영상 연출 시 인물의 의상을 단순한 장신구가 아닌 심리적 상태를 대변하는 건축적 필드로 설정하라. 특정 질감의 소재를 사용하여 인물의 신체 실루엣을 변형하고, 이를 통해 캐릭터의 내면적 변화를 물리적 공간감으로 시각화한다.",
+  "context": "루시 맥레이는 필립스(Philips)의 미래 디자인 연구소에서 감정 인식 드레스와 전자 문신 등을 연구하며 기술과 신체의 결합을 탐구해 왔다. 2019년 밀라노 트리엔날레에서 파올라 안토넬리(Paola Antonelli)가 큐레이팅한 'Broken Nature' 전시에 참여하여 신체와 기술의 관계를 묻는 작업을 선보였다.",
+  "findings": [
+   {
+    "text": "루시 맥레이는 1979년생 영국 태생의 호주인으로, 과학 소설적 요소를 결합한 예술가이자 바디 아키텍트이다.",
+    "s": 1,
+    "quote": "Lucy McRae (born 1979) is a British-born Australian science fiction artist, body architect, film maker and TED fellow."
+   },
+   {
+    "text": "필립스는 1891년 설립된 네덜란드의 다국적 건강 기술 기업으로, 가전제품에서 시작해 현재는 헬스케어 기술에 집중하고 있다.",
+    "s": 2,
+    "quote": "Philips N.V., commonly known as Philips, is a Dutch multinational health technology company and former major consumer electronics manufacturer."
+   }
+  ],
+  "keywords": [
+   "바디 아키텍처",
+   "바디 퓨처리즘",
+   "기술 내재화",
+   "신체 건축",
+   "루시 맥레이"
+  ],
+  "evidence": "The body is both the starting point and the testing ground for Lucy McRae’s speculative practice.",
+  "kind": "작가·인터뷰",
+  "depth": 5,
+  "grounding": "full",
+  "depth_reason": "예술적 실천이 산업적 산물로 이어지는 구체적인 사례를 제시하며, 신체를 건축적 공간으로 해석하는 독창적인 방법론을 담고 있다.",
+  "v": 2,
+  "url": "https://www.designboom.com/art/body-canvas-tool-medium-lucy-mcrae-spaces-future-sensitive-interview/",
+  "original_title": "‘the body is my canvas, tool, and medium’: lucy mcrae discusses identity and the spaces we carry",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 8639,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-14 09:39",
+  "research": {
+   "entities": [
+    "Lucy McRae",
+    "Future Sensitive",
+    "Philips",
+    "Milan Triennale",
+    "Paola Antonelli"
+   ],
+   "questions": [
+    "루시 맥레이가 정의하는 '바디 퓨처리즘(Body Futurism)'은 인간의 신체와 기술의 관계를 어떻게 재정의하고 있나요?",
+    "예술적 상상력으로 시작된 프로젝트(Swallowable Parfum 등)가 실제 산업계나 영화계에 어떤 영향을 미치며 현실과 가상의 경계를 허물고 있나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Lucy McRae",
+     "url": "https://en.wikipedia.org/wiki/Lucy%20McRae"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Philips",
+     "url": "https://en.wikipedia.org/wiki/Philips"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "뉴욕 현대미술관, 데이터의 이면과 인공지능이 재구성한 기억의 풍경",
+     "url": "https://www.dezeen.com/2026/09/30/moma-information-design-exhibition-full-disclosure/"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "공기와 상호작용하는 의복, 디올 2027 S/S 백스테이지 뷰티",
+     "url": "https://www.wallpaper.com/fashion-beauty/make-up/backstage-with-peter-philips-dior-s-s-2027-show"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3
+   ],
+   "chars": 2172
+  },
+  "depth_raw": 5,
+  "depth_v": 2
+ },
+ "design-milk.com/spinnaker-50-phantoms-2026": {
+  "title_ko": "스피나커와 세컨드/세컨드/가 재해석한 유령의 시간, 50 팬텀즈",
+  "summary_ko": "시계 브랜드 스피나커와 아티스트 세컨드/세컨드의 협업으로 50 팬텀즈 시리즈의 네 번째 에디션이 출시된다. 이번 에디션은 다이얼 위에 유령 형상을 배치한 크레이지 에디션과 자외선 랜턴을 비춰야만 유령이 드러나는 콰이어트 에디션, 두 가지 구성으로 제작되었다.",
+  "lens": "다이브 워치의 전형적인 구조를 빌려 유령이라는 비현실적 모티프를 투영하고, 빛의 유무에 따라 시각 정보를 제어하는 방식이 인상적이다.",
+  "why_now": "반복되는 브랜드 협업 피로도 속에서, 유령이라는 유희적 요소를 시계의 기능적 한계인 '가독성'과 결합해 새로운 경험을 설계했다.",
+  "mechanism": "크레이지 에디션은 다이얼의 층위를 나누어 유령을 배치해 입체감을 만들고, 콰이어트 에디션은 자외선 반응 도료를 활용해 빛을 비추기 전까지는 형상을 숨기는 은폐 전략을 취한다.",
+  "sensory": "유령의 치맛자락을 형상화한 물결치는 베젤의 촉감과, 어둠 속에서 파란색, 녹색, 노란색으로 발광하는 야광 도료의 시각적 대비가 두드러진다.",
+  "transfer": "특정 조명(UV)이나 각도에 따라 숨겨진 그래픽이 드러나는 레이어링 기법을 영상의 트랜지션이나 공간의 사이니지 연출에 적용할 수 있다.",
+  "context": "스피나커는 플루스 컬렉션을 통해 다이브 워치의 전통적 규격을 유지하되, 프랑스 아티스트 로마릭 앙드레가 이끄는 세컨드/세컨드와의 협업으로 기존 시계 디자인의 보수성을 비트는 실험을 이어가고 있다.",
+  "findings": [
+   {
+    "text": "스피나커는 1950년대와 60년대 다이브 워치에서 영감을 받은 플루스 컬렉션을 운영하며, 회전 베젤과 야광 도료 등 다이버를 위한 기능적 요소를 갖추고 있다.",
+    "s": 1,
+    "quote": "Inspired by the classic diver watch from the late 1950s and 1960s, the Spence features a mid-sized proportions, which frames a clean yet detailed timepiecee quipped to handle the rigours of the seas."
+   }
+  ],
+  "keywords": [
+   "스피나커",
+   "세컨드세컨드",
+   "다이브워치",
+   "야광도료",
+   "시계디자인"
+  ],
+  "evidence": "The ghosts are scattered across a layered white dial, with printed and embossed figures positioned at different depths beneath the sapphire crystal.",
+  "kind": "제품·오브제",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "협업의 맥락과 두 에디션의 시각적·기술적 차이를 명확히 구분하여 설명하고 있다.",
+  "v": 2,
+  "url": "https://design-milk.com/spinnaker-50-phantoms-2026/",
+  "original_title": "Spinnaker x seconde/seconde/ Brings Back the 50 Phantoms",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 6644,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-14 09:39",
+  "research": {
+   "entities": [
+    "Spinnaker",
+    "seconde/seconde/",
+    "Blancpain Fifty Fathoms"
+   ],
+   "questions": [
+    "Spinnaker와 seconde/seconde/의 50 Phantoms 협업 프로젝트는 어떻게 시작되었나요?",
+    "이번 50 Phantoms 신제품인 Crazy 에디션과 Quiet 에디션의 기술적 차이점은 무엇인가요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Spinnaker Watches",
+     "url": "https://spinnaker-watches.com/"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Fleuss Men's Diver Watch - Spinnaker Watches",
+     "url": "https://spinnaker-watches.com/collections/fleuss"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 4213
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "wallpaper.com/design-interiors/interior-design/a-captivating-new-book-offers-a-look-inside-the-astonishing-chicago-headquarters-of-ebony-and-jet-magazines": {
+  "title_ko": "사라진 미디어 궁전, 존슨 퍼블리싱 사옥의 마지막 기록",
+  "summary_ko": "미스 반 데어 로어의 제자 존 워런 무투사미가 설계하고 존슨 퍼블리싱 사 회장 존 H. 존슨이 1972년 시카고에 세운 사옥의 내부를 사진작가 바바라 카란트가 기록했다. 맥시멀리스트 패턴과 모더니스트 가구로 채워졌던 11층 규모의 공간은 2010년 매각과 2017년 주거용 오피스텔 전환 전까지 흑인 미디어의 중심지로 기능했다. 새 책은 비워진 방들의 잔해를 통해 한 시대의 문화적 거점을 추적한다.",
+  "lens": "비워진 사옥의 누선과 마감재는 자본의 변동 속에서 미디어가 구축했던 물질적 야망의 크기를 증명한다.",
+  "why_now": "디지털 전환으로 물성이 사라진 시대에, 한 기업이 공간 전체에 투사했던 강력한 미학적 정체성의 유산을 되짚는다.",
+  "mechanism": "호두나무 트래버틴 외장재와 틴티드 글래스의 리본 파사드가 외부의 밀도를 만들고, 내부에는 표범 무늬 카펫과 공상과학적 라미네이트를 층별로 적용했다.",
+  "sensory": "햇빛에 바랜 벽지와 마감재가 벗겨진 베니어판, 그리고 빛바랜 가구들이 공간 전체에 묘한 엄숙함과 쓸쓸한 생명력을 동시에 드리운다.",
+  "transfer": "공간의 역사성과 퇴적된 질감을 보여줄 때, 새롭게 꾸민 세트 대신 오랜 세월 사용된 마감재의 박리와 스크래치를 그대로 노출해 시간의 부피를 시각화한다.",
+  "context": "존슨 퍼블리싱 컴퍼니는 1942년 창립된 뒤 에보니와 제트 매거진을 발행하며 20세기 후반 미국 흑인 비즈니스와 문화의 정점을 이끌었다.",
+  "findings": [
+   {
+    "text": "존슨 퍼블리싱 사옥은 1972년 시카고 사우스 루프에 문을 열었다.",
+    "s": 1,
+    "quote": "company’s historic building at 820 S. Michigan Avenue in downtown Chicago"
+   },
+   {
+    "text": "에보니 매거진은 존 H. 존슨이 아프리카계 미국인의 이슈와 인물을 다루기 위해 1945년 시카고에서 창간했다.",
+    "s": 3,
+    "quote": "Ebony was founded in Chicago in 1945 by John H. Johnson, for his Johnson Publishing Company."
+   }
+  ],
+  "keywords": [
+   "존슨퍼블리싱",
+   "시카고건축",
+   "인테리어아카이브",
+   "에보니매거진",
+   "공간기록"
+  ],
+  "evidence": "The 11-story building clad in bands of walnut travertine alternating with ribbons of tinted glass was the first downtown tower commissioned by a Black-owned company and became a universe unto itself.",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "구체적인 건축과 인테리어의 물성을 아카이빙한 사진 작업과 역사적 맥락이 선명하게 담겨 있다.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/design-interiors/interior-design/a-captivating-new-book-offers-a-look-inside-the-astonishing-chicago-headquarters-of-ebony-and-jet-magazines",
+  "original_title": "A captivating new book offers a look inside the 'astonishing' Chicago headquarters of Ebony and Jet magazines",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 7060,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-14 09:40",
+  "research": {
+   "entities": [
+    "John H. Johnson",
+    "Ebony",
+    "Jet",
+    "John Warren Moutoussamy",
+    "Barbara Karant"
+   ],
+   "questions": [
+    "존슨 퍼블리싱 사옥의 독특한 인테리어를 디자인한 핵심 디자이너나 건축적 특징은 무엇인가요?",
+    "사옥 매각 이후 에보니와 제트 매거진의 방대한 사진 아카이브와 문화적 유산은 어떻게 보존되고 있나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "820 Ebony/Jet: Visions of the Johnson Publishing Company, an American Icon",
+     "url": "https://mweditions.com/books/820-ebony-jet-visions-of-the-johnson-publishing-company-an-american-icon/"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "John H. Johnson",
+     "url": "https://en.wikipedia.org/wiki/John%20H.%20Johnson"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Ebony (magazine)",
+     "url": "https://en.wikipedia.org/wiki/Ebony%20%28magazine%29"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "고요 쿠오의 유작, 인류학적 충동으로 채운 제61회 베니스 비엔날레 본전시",
+     "url": "https://elephant.art/lessons-in-minor-keys/"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "에보니 L. 헤인즈: 전시라는 게임을 설계하는 큐레이터의 태도",
+     "url": "https://elephant.art/love-for-the-game-with-ebony-l-haynes/"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3
+   ],
+   "chars": 5470
+  },
+  "depth_raw": 4,
+  "depth_v": 2
  }
 }
