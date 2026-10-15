@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-10-15 21:54 KST",
+  "generated_at": "2026-10-15 22:39 KST",
   "period": "2026.10.08 - 2026.10.15",
-  "total_articles": 417,
+  "total_articles": 421,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 191
+      "count": 192
     },
     {
       "genre": "동시대 미술",
-      "count": 171
+      "count": 173
     },
     {
       "genre": "아방가르드 패션",
-      "count": 39
+      "count": 40
     },
     {
       "genre": "미디어 파사드·3D",
@@ -23,10 +23,22 @@
   "themes": [
     {
       "keyword": "가구 디자인",
-      "count": 14,
+      "count": 16,
       "previous_count": 10,
       "trend": "rising",
       "items": [
+        {
+          "title": "모르타르 하우스 오피스/로직 디자인 + 빌드",
+          "url": "https://www.archdaily.com/1186745/the-mortar-house-offices-logic-design-plus-build",
+          "image_url": "https://images.adsttc.com/media/images/6ace/2655/b2c4/c300/0178/ed67/large_jpg/DLOfficeB_SuryanSaurabh_18.jpg?1791895164",
+          "source_name": "ArchDaily"
+        },
+        {
+          "title": "Swizz Beatz가 CB2를 위한 새로운 컬렉션을 드롭했습니다. 가족과 창의력에 대한 찬사입니다.",
+          "url": "https://www.wallpaper.com/design-interiors/furniture/swizz-beatz-cb2-casa-dean-collection",
+          "image_url": "https://cdn.mos.cms.futurecdn.net/qW8DyzmprxRmc6PUusaKzi-1920-80.jpg",
+          "source_name": "Wallpaper*"
+        },
         {
           "title": "Jonas Hejduk의 흐릿한 가구는 일부러 해상도가 낮습니다.",
           "url": "https://www.dezeen.com/2026/10/15/jonas-hejduk-blurry-low-resolution-furnishings/",
@@ -37,18 +49,6 @@
           "title": "멕시코시티의 \"시크릿\" 바라간 (Barragán) 주택에서 가구를 수납할 수 있는 재활용 플라스틱 플린트",
           "url": "https://www.dezeen.com/2026/10/14/design-week-mexico-2026-creative-immersions-casa-ortega/",
           "image_url": "https://static.dezeen.com/uploads/2026/10/casa-ortega-creative-immersions-france-mexico-design-week-mexico-2026_dezeen_2364_sq-1-852x852.jpg",
-          "source_name": "Dezeen"
-        },
-        {
-          "title": "오마르 간디 (Omar Gandhi) 는 가구 제작자를 위한 \"눈에 띄는 실루엣\" 으로 집과 스튜디오를 디자인합니다.",
-          "url": "https://www.dezeen.com/2026/10/14/omar-gandhi-brodye-chappell-prince-edwards-island/",
-          "image_url": "https://static.dezeen.com/uploads/2026/10/oga-chappell-residence-brodye-canada_dezeen_2364_sq-852x852.jpg",
-          "source_name": "Dezeen"
-        },
-        {
-          "title": "아르마딜로 가구는 \"친근한 괴물\" 을 닮기 위해 재사용한 대상포진으로 장식되어 있습니다.",
-          "url": "https://www.dezeen.com/2026/10/14/armadillo-furniture-reused-shingles-friendly-monsters/",
-          "image_url": "https://static.dezeen.com/uploads/2026/10/Lukas-Wegwerth-Corinna-Dehn-companions_dezeen_2364_col_sq1-852x852.jpg",
           "source_name": "Dezeen"
         }
       ]

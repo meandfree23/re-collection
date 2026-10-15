@@ -172422,5 +172422,319 @@
   },
   "depth_raw": 4,
   "depth_v": 2
+ },
+ "archdaily.com/1186745/the-mortar-house-offices-logic-design-plus-build": {
+  "title_ko": "노출 벽돌 아치와 빛으로 허문 사옥의 위계, 모르타르 하우스 오피스",
+  "summary_ko": "인도 구르그람에 위치한 모르타르 하우스 오피스는 30년 된 어둡고 분절된 기업 사오시를 두 개의 업무 문화가 공유하는 밝은 작업장으로 개조했다. 로직 디자인 + 빌드는 노출 벽돌 아치, 스테인드글라스, 맞춤 가구를 활용해 자연광과 녹지가 공간 전체로 스며들도록 설계했다.",
+  "lens": "개방형 아치와 빛의 동선으로 폐쇄적인 사무실 구조를 해체한다.",
+  "why_now": "칸막이와 직급 중심의 전통적인 오피스 평면에서 벗어나 소통과 공유를 중시하는 새로운 업무 공간의 기준을 제시한다.",
+  "mechanism": "노출 벽돌로 쌓은 아치 구조와 스테인드글라스를 통해 빛의 채도를 조절하고, 내부 깊숙한 곳까지 자연광과 외부 녹지를 끌어들인다.",
+  "sensory": "거친 벽돌의 물성과 스테인드글라스를 통과한 색채감 있는 빛이 실내를 채우며, 단단한 구조물 속에서 부드러운 개방감을 만든다.",
+  "transfer": "공간을 가르는 파티션 대신 아치형 구조물과 채광창을 활용해 시선이 막히지 않고 연속되는 롱테이크 샷을 구성한다.",
+  "context": "로직 디자인 + 빌드(Logic Design + Build)가 인도 구르그람에서 완료한 3000제곱피트 규모의 오피스 인테리어 프로젝트다.",
+  "findings": [],
+  "keywords": [
+   "오피스인테리어",
+   "아치구조",
+   "노출벽돌",
+   "공유공간",
+   "자연광"
+  ],
+  "evidence": "The Mortar House transforms a dark, fragmented 30-year-old corporate office into a light-filled, shared workplace for two overlapping work cultures, using exposed brick arches, stained glass, custom furniture, and renewed connections to daylight and greenery",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "30년 된 오피스를 개조한 구체적 공간 프로젝트이나 일반적인 리모델링 범주를 크게 벗어나지 않는다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1186745/the-mortar-house-offices-logic-design-plus-build",
+  "original_title": "The Mortar House Offices / Logic Design + Build",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 1249,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-15 22:39",
+  "research": {
+   "entities": [
+    "Logic Design + Build",
+    "Anuj Kapoor",
+    "The Mortar House"
+   ],
+   "questions": [
+    "30년 된 기존 오피스 공간을 리모델링할 때 빛과 개방감을 확보하기 위해 어떤 건축적 장치를 사용했는가?",
+    "전통적인 사무실의 위계적 구조를 탈피하기 위해 적용된 공간 구성 방식은 무엇인가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "itsnicethat.com/articles/audience-survey-2026-151026": {
+  "title_ko": "잇츠 나이스 댓의 2026년 독자 설문, 크리에이티브 산업의 현재를 묻다",
+  "summary_ko": "창작 플랫폼 잇츠 나이스 댓(It’s Nice That)이 연례 독자 설문조사를 실시한다. 플랫폼의 운영 방향과 크리에이티브 업계 전반에 대한 독자의 의견을 수집하며, 참여자에게는 유니클로 상품권을 제공한다. 수집된 데이터는 향후 콘텐츠 제작과 서비스 개선을 위한 지표로 활용된다.",
+  "lens": "매체는 독자의 취향을 데이터화하여 콘텐츠 제작의 효율을 높이고, 독자는 설문을 통해 자신이 선호하는 창작 영역의 영향력을 확인한다.",
+  "why_now": "플랫폼이 일방적인 정보 전달을 넘어, 독자의 요구를 실시간으로 반영하여 콘텐츠의 지속 가능성을 확보하려는 전략적 움직임이다.",
+  "mechanism": "설문조사라는 피드백 루프를 통해 독자의 관심사를 정량화하고, 이를 바탕으로 향후 발행될 콘텐츠의 주제와 형식을 결정한다.",
+  "sensory": "디지털 플랫폼의 인터페이스를 통해 개인의 창작 경험과 브랜드 선호도가 데이터로 변환되는 과정이다.",
+  "transfer": "브랜드나 미디어 플랫폼이 타겟 오디언스의 니즈를 파악할 때, 단순한 설문을 넘어 브랜드 경험의 연장선에서 보상을 설계하는 방식을 참고할 수 있다.",
+  "context": "잇츠 나이스 댓은 애플과 협업하여 크리에이티브 비즈니스 토크 시리즈를 여는 등 창작 생태계의 실무를 조명해 왔다. 이번 설문은 이러한 활동의 연장선에서 미디어 플랫폼으로서의 영향력을 재확인하려는 시도다.",
+  "findings": [
+   {
+    "text": "유니클로는 기술을 활용하여 고객의 피드백을 분석하고 이를 제품 기획과 물류 자동화에 반영하는 비즈니스 모델을 운용한다.",
+    "s": 1,
+    "quote": "Technology has played an important role in this model, ranging from functional-material development to RFID-enabled logistics automation, digital demand forecasting, and the analysis of customer feedback using artificial"
+   }
+  ],
+  "keywords": [
+   "잇츠나이스댓",
+   "크리에이티브",
+   "독자설문",
+   "데이터분석"
+  ],
+  "evidence": "What do you think It’s Nice That should do more of? What are your thoughts on the creative industry today?",
+  "kind": "뉴스·이슈",
+  "depth": 2,
+  "grounding": "partial",
+  "depth_reason": "단순한 플랫폼의 설문조사 공지이며, 구체적인 창작 기법이나 프로젝트의 실체보다는 일반적인 운영 방식에 그친다.",
+  "v": 2,
+  "url": "https://www.itsnicethat.com/articles/audience-survey-2026-151026",
+  "original_title": "Take part in our 2026 Audience Survey for the chance to win a £200 Uniqlo voucher",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 1835,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-15 22:39",
+  "research": {
+   "entities": [
+    "It’s Nice That",
+    "Uniqlo"
+   ],
+   "questions": [
+    "It's Nice That의 오디언스 서베이는 매년 어떤 방식으로 크리에이티브 업계 동향을 파악하고 반영하나요?",
+    "이번 2026년 설문조사에서 독자들이 주목하는 주요 크리에이티브 트렌드와 플랫폼의 방향성은 무엇인가요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Uniqlo",
+     "url": "https://en.wikipedia.org/wiki/Uniqlo"
+    },
+    {
+     "n": 2,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "언더아머의 새로운 행보, 거나와 결합한 P-Star 플랫폼",
+     "url": "https://hypebeast.com/2026/8/skims-supreme-uniqlo-u-ugg-willy-chavarria-gunna-under-armour-ovo-drake-info"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "유니클로 U의 10년 마침표, 크리스토프 르메르와 사라 린 트란의 퇴장",
+     "url": "https://hypebeast.com/2026/8/uniqlo-u-christophe-lemaire-sarah-linh-tran-exit"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "애플과 잇츠 나이스 댓이 여는 크리에이티브 비즈니스 토크 시리즈",
+     "url": "https://www.itsnicethat.com/articles/made-for-business-today-at-apple-panel-series-sponsored-content-280926"
+    }
+   ],
+   "used": [
+    1,
+    4
+   ],
+   "chars": 2138
+  },
+  "depth_raw": 2,
+  "depth_v": 2
+ },
+ "wallpaper.com/design-interiors/furniture/swizz-beatz-cb2-casa-dean-collection": {
+  "title_ko": "카사 딘(Casa Dean): 힙합 프로듀서 스위즈 비츠가 설계한 가구의 언어",
+  "summary_ko": "프로듀서 스위즈 비츠(Swizz Beatz)가 홈 데코 브랜드 CB2와 협업해 가구 컬렉션 '카사 딘'을 선보였다. 그는 수십 년간 수집한 흑인 미술 컬렉션과 가족과의 기억을 바탕으로 가구, 조명, 액세서리를 구성했다. 스튜디오 아난시(Studio Anansi)의 디자이너 에반 제리와 협업하여 공간의 시각적 효과와 정서적 경험을 동시에 고려했다.",
+  "lens": "가구의 형태를 단순히 기물로 보지 않고, 가족이 모여 대화하고 창의성을 발휘하는 '공간의 언어'로 치환했다.",
+  "why_now": "디지털 환경의 속도감에 피로를 느낀 현대인에게, 개인의 서사와 취향을 담아 정서적 안정을 주는 사적인 가구의 기능이 중요해졌다.",
+  "mechanism": "DJ 셋업으로 변형 가능한 크레덴자나 혼자만의 시간을 위한 의자 등 사용자의 행위를 규정하는 기능적 설계를 통해 공간 내 연결성을 강화했다.",
+  "sensory": "울 소재의 타우페 컬러 시어링, 붉은 에나멜, 녹색 벨벳 등 촉각적인 소재와 브리티시 레이싱 그린 색상을 사용하여 공간에 깊이와 온기를 더했다.",
+  "transfer": "가구 배치를 통해 사용자의 동선을 유도하고, 특정 오브제를 DJ 셋업이나 명상 공간처럼 특정 행위를 유도하는 '행위 중심적 가구'로 기획할 것.",
+  "context": "스위즈 비츠는 아내 알리샤 키스와 함께 '딘 컬렉션(The Dean Collection)'을 운영하며 흑인 예술의 가치를 보존해 온 수집가다. 이번 프로젝트는 그가 가진 예술적 안목을 가구라는 실용적인 영역으로 확장한 첫 사례다.",
+  "findings": [
+   {
+    "text": "스위즈 비츠와 알리샤 키스는 흑인 예술을 수집하고 보존하는 '딘 컬렉션'을 통해 예술계에서 영향력 있는 수집가로 평가받는다.",
+    "s": 2,
+    "quote": "With their envy-inducing holdings, the Dean Collection, the music-industry power couple have helped lead the way for a generation of collectors of Black art."
+   }
+  ],
+  "keywords": [
+   "스위즈비츠",
+   "CB2",
+   "공간디자인",
+   "가구컬렉션",
+   "카사딘"
+  ],
+  "evidence": "Furniture’s always been a language of family",
+  "kind": "제품·오브제",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "예술 수집가로서의 배경과 가구 디자인을 연결하는 철학이 명확하며, 실용적 기능과 정서적 경험을 결합한 구체적인 제품 사례를 제시한다.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/design-interiors/furniture/swizz-beatz-cb2-casa-dean-collection",
+  "original_title": "Swizz Beatz just dropped a new collection for CB2 – and it’s an ode to family and creativity",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 4498,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-15 22:39",
+  "research": {
+   "entities": [
+    "Swizz Beatz",
+    "Alicia Keys",
+    "CB2",
+    "Studio Anansi",
+    "Megan Gabrielle Harris"
+   ],
+   "questions": [
+    "Swizz Beatz가 수집하는 흑인 예술 컬렉션인 'The Dean Collection'은 그의 디자인 철학에 어떤 영향을 미쳤는가?",
+    "Studio Anansi의 Evan Jerry와 Swizz Beatz가 협업하여 'Casa Dean' 컬렉션의 가구 형태와 소재를 결정할 때 가장 중요하게 고려한 요소는 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "The influence of rock music on the human body - Swizz Beatz Online",
+     "url": "https://swizzbeatzonline.com/"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "The Dean Collection - Contemporary Art & Cultural Platform",
+     "url": "https://dean-collection.com/"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Swizz Beatz",
+     "url": "https://en.wikipedia.org/wiki/Swizz%20Beatz"
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "Alicia Keys",
+     "url": "https://en.wikipedia.org/wiki/Alicia%20Keys"
+    }
+   ],
+   "used": [
+    2,
+    3,
+    4
+   ],
+   "chars": 5893
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "dazeddigital.com/life-culture/article/71177/1/the-dazed-100-is-back-for-2027-how-to-get-nominated": {
+  "title_ko": "데이즈드 100, 2027년 에디션에서 대중 추천제 도입하며 신진 창작자 발굴 가속",
+  "summary_ko": "매거진 데이즈드(Dazed)가 2027년 에디션을 앞두고 신진 창작자 선발 프로젝트인 '데이즈드 100'에 대중 추천제를 도입한다. 디자이너, 예술가, 활동가 등 분야를 막론하고 지원자가 직접 자신의 작업과 가치관을 제출하면 심사위원이 이를 검토한다. 선정된 인물은 데이즈드 플랫폼을 통한 커미션과 협업 등 다양한 상업적·편집적 지원을 받는다.",
+  "lens": "단순한 인물 리스트를 넘어, 전 세계 창작자가 스스로를 증명하고 데이즈드라는 거대 커뮤니티의 일원이 되도록 동선을 설계했다.",
+  "why_now": "디지털 플랫폼이 창작자의 직접적인 자기 서사를 요구함에 따라, 미디어가 큐레이터의 역할을 넘어 창작 생태계의 허브로 전환하고 있다.",
+  "mechanism": "지원자가 직접 제출한 작업물 링크와 설문 답변을 심사하는 구조를 취하며, 선정 여부와 관계없이 모든 지원자를 데이즈드 클럽(Dazed Club) 네트워크로 편입시킨다.",
+  "sensory": "33,000명 이상의 창작자가 연결된 글로벌 네트워크의 방대한 데이터와 그들이 쏟아내는 동시대적 감각의 파편들이 교차하는 플랫폼이다.",
+  "transfer": "공모전이나 프로젝트 홍보 시, 지원자에게 단순히 결과만을 통보하는 대신 커뮤니티 멤버십을 즉각 부여해 탈락의 허무함을 소속감으로 전환하는 전략을 구사하라.",
+  "context": "2015년 시작된 데이즈드 100은 그간 그레이스 웨일스 보너(Grace Wales Bonner)와 같은 패션 디자이너부터 그레타 툰베리(Greta Thunberg) 등 활동가까지 광범위한 분야의 인물을 조명해왔다. 데이즈드는 최근 협업 티셔츠 출시나 갤러리 설치 작업 큐레이션 등 다양한 매체 실험을 통해 브랜드의 영향력을 확장하고 있다.",
+  "findings": [
+   {
+    "text": "그레이스 웨일스 보너는 2025년 에르메스 남성복 라인의 크리에이티브 디렉터로 임명되어 주요 럭셔리 패션 하우스를 이끄는 첫 흑인 여성 디자이너가 되었다.",
+    "s": 3,
+    "quote": "In 2025, she was appointed creative director of the Hermès menswear line, succeeding Véronique Nichanian, and becoming the first woman of Black heritage to lead a major luxury fashion house."
+   },
+   {
+    "text": "그레타 툰베리는 2018년 스웨덴 의회 밖에서 시작한 1인 시위를 통해 전 세계적인 '프라이데이즈 포 퓨처(Fridays for Future)' 운동을 촉발했다.",
+    "s": 2,
+    "quote": "She gained global attention in 2018, at age 15, after starting a solo school strike outside the Swedish parliament, which inspired the worldwide Fridays for Future movement."
+   }
+  ],
+  "keywords": [
+   "데이즈드100",
+   "신진창작자",
+   "커뮤니티",
+   "글로벌네트워크",
+   "자기서사"
+  ],
+  "evidence": "For 2026-27, we’ve opened up the list to public nominations, inviting young creatives to nominate themselves",
+  "kind": "뉴스·이슈",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "신진 창작자 발굴이라는 기존 프로젝트의 확장과 커뮤니티 구조로의 변화를 명확히 제시한다.",
+  "v": 2,
+  "url": "https://www.dazeddigital.com/life-culture/article/71177/1/the-dazed-100-is-back-for-2027-how-to-get-nominated?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=the-dazed-100-is-back-for-2027-put-yourself-forward",
+  "original_title": "The Dazed 100 is back for 2027! Put yourself forward",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 3271,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-15 22:39",
+  "research": {
+   "entities": [
+    "Dazed",
+    "Ted Stansfield",
+    "Rosalía",
+    "Greta Thunberg",
+    "Grace Wales Bonner"
+   ],
+   "questions": [
+    "Dazed 100이 지난 10년간 문화적 영향력을 어떻게 확장해왔으며, 이번 2027년 에디션에서 대중 추천제를 도입한 의도는 무엇인가요?",
+    "Dazed Club은 선정된 크리에이터들에게 구체적으로 어떤 네트워킹과 커리어 지원 기회를 제공하나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Dazed 100 2026-27 – nominations now open",
+     "url": "https://dazed100.com/"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Greta Thunberg",
+     "url": "https://en.wikipedia.org/wiki/Greta%20Thunberg"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Grace Wales Bonner",
+     "url": "https://en.wikipedia.org/wiki/Grace%20Wales%20Bonner"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "데이즈드와 YMC, 1996년 아카이브를 소환한 펑크적 재해석",
+     "url": "https://www.dazeddigital.com/fashion/article/71035/1/here-s-what-happened-when-dazed-launched-a-t-shirt-with-ymc?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=here-s-what-happened-when-dazed-launched-a-t-shirt-with-ymc"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "르네 레비가 헤이워드 갤러리의 콘크리트 외벽을 회화의 캔버스로 치환하다",
+     "url": "https://www.dazeddigital.com/art-photography/article/71023/1/art-writers-apply-to-interview-rene-levi-for-dazed-hayward-gallery?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=art-writers-join-dazed-club-for-your-chance-to-interview-renee-levi-for-us"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "결별의 잔해를 다루는 방식: 디지털 시대의 사소한 복수들",
+     "url": "https://www.dazeddigital.com/life-culture/article/71028/1/readers-pettiest-break-up-revenge-stories-ex-channing-tatum-zoe-kravitz?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=i-reported-them-to-hmrc-what-s-your-pettiest-act-of-revenge-on-an-ex"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "chars": 3531
+  },
+  "depth_raw": 3,
+  "depth_v": 2
  }
 }
