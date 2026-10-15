@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-10-15 02:53 KST",
+  "generated_at": "2026-10-15 09:18 KST",
   "period": "2026.10.08 - 2026.10.15",
-  "total_articles": 368,
+  "total_articles": 386,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 165
+      "count": 175
     },
     {
       "genre": "동시대 미술",
-      "count": 152
+      "count": 159
     },
     {
       "genre": "아방가르드 패션",
-      "count": 35
+      "count": 36
     },
     {
       "genre": "미디어 파사드·3D",
@@ -23,10 +23,16 @@
   "themes": [
     {
       "keyword": "가구 디자인",
-      "count": 12,
+      "count": 13,
       "previous_count": 10,
       "trend": "rising",
       "items": [
+        {
+          "title": "멕시코시티의 \"시크릿\" 바라간 (Barragán) 주택에서 가구를 수납할 수 있는 재활용 플라스틱 플린트",
+          "url": "https://www.dezeen.com/2026/10/14/design-week-mexico-2026-creative-immersions-casa-ortega/",
+          "image_url": "https://static.dezeen.com/uploads/2026/10/casa-ortega-creative-immersions-france-mexico-design-week-mexico-2026_dezeen_2364_sq-1-852x852.jpg",
+          "source_name": "Dezeen"
+        },
         {
           "title": "오마르 간디 (Omar Gandhi) 는 가구 제작자를 위한 \"눈에 띄는 실루엣\" 으로 집과 스튜디오를 디자인합니다.",
           "url": "https://www.dezeen.com/2026/10/14/omar-gandhi-brodye-chappell-prince-edwards-island/",
@@ -44,12 +50,6 @@
           "url": "https://www.architecturaldigest.com/story/best-bed-frames-2025",
           "image_url": "https://media.architecturaldigest.com/photos/69b1d48684d88e46e37d77e3/master/pass/AD050118_WELL24_02.jpg",
           "source_name": "Architectural Digest"
-        },
-        {
-          "title": "목재와 강철로 만든 조각품은 철거 전에 서울에서 원시 콘크리트 껍질을 차지합니다.",
-          "url": "https://www.designboom.com/art/sculptures-timber-steel-raw-concrete-shell-seoul-demolition-ghost-barstairs-temporary-hypotheses-sukchulmok-kangyeon-lee-brbb/",
-          "image_url": "https://www.designboom.com/wp-content/dbsub/453552/2026-10-08/ghost-barstairs-temporary-hypotheses-fleeting-hypotheses-that-traversed-a-vacated-space-11-6ac6e5f2a5ff7.jpg",
-          "source_name": "Designboom Art"
         }
       ]
     },
@@ -87,10 +87,16 @@
     },
     {
       "keyword": "설치 미술",
-      "count": 5,
+      "count": 6,
       "previous_count": 2,
       "trend": "rising",
       "items": [
+        {
+          "title": "베나즈 파라히 (Behnaz Farahi) 는 MIT 퓨처 페스트 (Future Fest) 를 위해 오션 오브 드림",
+          "url": "https://www.dezeen.com/2026/10/14/behnaz-farahi-ocean-of-dreams-mit/",
+          "image_url": "https://static.dezeen.com/uploads/2026/10/farahi-mit-media-lab-ocean-of-dreams-installation_dezeen_2364_sq-852x852.jpg",
+          "source_name": "Dezeen"
+        },
         {
           "title": "221 Camera Obscuras Fill Pneuhaus’ Immersive, Inflatable, Image-Capturing Installation",
           "url": "https://www.thisiscolossal.com/2026/10/pneuhaus-compound-camera-3-inflatable-installation/",
@@ -108,12 +114,6 @@
           "url": "https://www.archdaily.com/1186616/resonance-tallinn-architecture-biennale-installation-aru-ma-architects",
           "image_url": "https://images.adsttc.com/media/images/6ac8/ace4/b2c4/c300/0178/e4c4/large_jpg/IMG_9828.jpg?1791536587",
           "source_name": "ArchDaily"
-        },
-        {
-          "title": "v&A에 playfool의 게임 설치로 데이터 센터 청소기 역할 수행",
-          "url": "https://www.designboom.com/art/playfool-game-installation-va-museum-data-center-cleaner-server/",
-          "image_url": "https://www.designboom.com/wp-content/dbsub/468428/2026-10-08/playfools-game-at-the-va-puts-you-in-the-role-of-a-data-centre-cleaner-1-6ac752df7461d.jpg",
-          "source_name": "Designboom Art"
         }
       ]
     },
@@ -209,10 +209,11 @@
     }
   ],
   "notable_names": [
+    "Mexico City",
+    "Quil Lemons",
     "Benjamin Moore",
     "Dezeen Showroom",
     "Gustaf Westman",
-    "Mexico City",
     "Anthony Vaccarello",
     "Saint Laurent",
     "Student Protests",
