@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-10-15 14:20 KST",
+  "generated_at": "2026-10-15 17:01 KST",
   "period": "2026.10.08 - 2026.10.15",
-  "total_articles": 388,
+  "total_articles": 392,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 177
+      "count": 180
     },
     {
       "genre": "동시대 미술",
-      "count": 159
+      "count": 160
     },
     {
       "genre": "아방가르드 패션",
@@ -23,10 +23,16 @@
   "themes": [
     {
       "keyword": "가구 디자인",
-      "count": 13,
+      "count": 14,
       "previous_count": 10,
       "trend": "rising",
       "items": [
+        {
+          "title": "Jonas Hejduk의 흐릿한 가구는 일부러 해상도가 낮습니다.",
+          "url": "https://www.dezeen.com/2026/10/15/jonas-hejduk-blurry-low-resolution-furnishings/",
+          "image_url": "https://static.dezeen.com/uploads/2026/10/jonas-hejduk-low-res-furniture-rugs-bench_dezeen_2364_col_8-852x852.jpg",
+          "source_name": "Dezeen"
+        },
         {
           "title": "멕시코시티의 \"시크릿\" 바라간 (Barragán) 주택에서 가구를 수납할 수 있는 재활용 플라스틱 플린트",
           "url": "https://www.dezeen.com/2026/10/14/design-week-mexico-2026-creative-immersions-casa-ortega/",
@@ -44,12 +50,6 @@
           "url": "https://www.dezeen.com/2026/10/14/armadillo-furniture-reused-shingles-friendly-monsters/",
           "image_url": "https://static.dezeen.com/uploads/2026/10/Lukas-Wegwerth-Corinna-Dehn-companions_dezeen_2364_col_sq1-852x852.jpg",
           "source_name": "Dezeen"
-        },
-        {
-          "title": "광고 편집자가 테스트한 모든 종류의 최고의 침대 프레임 6개 (2026년)",
-          "url": "https://www.architecturaldigest.com/story/best-bed-frames-2025",
-          "image_url": "https://media.architecturaldigest.com/photos/69b1d48684d88e46e37d77e3/master/pass/AD050118_WELL24_02.jpg",
-          "source_name": "Architectural Digest"
         }
       ]
     },
