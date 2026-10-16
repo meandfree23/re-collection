@@ -2186,5 +2186,58 @@
   "v": 3,
   "model": "gemini-3.1-flash-lite",
   "written_at": "2026-10-16 09:00"
+ },
+ "2026-10-17": {
+  "date": "2026-10-17",
+  "headline": "스마트폰을 쥔 손과 목재 골조의 도서관",
+  "editorial": "로빈 F. 윌리엄스의 회화는 스마트폰을 성물처럼 숭배하는 인간의 풍경을 테크노 디스토피아의 도상으로 펼쳐낸다. 어거스트 배런은 일회용 카메라로 백스테이지를 포착하며 동시대의 과잉을 날것 그대로 드러낸다. 스티븐스 랜치 중앙도서관은 매스팀버 골조를 세워 유연한 배움의 터를 빚어낸다.",
+  "threads": [
+   {
+    "name": "디지털 시대의 초상",
+    "note": "기술에 잠식된 인간의 모습과 패션 산업의 비평적 이면을 추적한다.",
+    "items": [
+     {
+      "title": "로빈 F. 윌리엄스, 테크노 디스토피아의 매혹과 공포를 잇다",
+      "url": "https://www.thisiscolossal.com/2026/10/robin-f-williams-paintings-act-natural/"
+     },
+     {
+      "title": "알렉산더 매퀸과 숀 맥기르, 패션 산업이 소비하는 잔혹한 서사",
+      "url": "https://www.dazeddigital.com/fashion/article/71186/1/sean-mcgirr-leaves-alexander-mcqueen-online-fashion-criticism-internet-reaction?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=sean-mcgirr-mcqueen-and-fashion-s-rotten-heart"
+     }
+    ]
+   },
+   {
+    "name": "카메라와 백스테이지",
+    "note": "일회용 카메라와 흑백 포토를 통해 현장의 거친 질감을 고스란히 담아낸다.",
+    "items": [
+     {
+      "title": "개선문 위에 선 테크노의 얼굴, 지스타와 샬롯 드 위트",
+      "url": "https://www.dazeddigital.com/fashion/article/71171/1/own-the-arc-charlotte-de-witte-scales-a-landmark-for-g-star-new-campaign?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=charlotte-de-witte-makes-a-revolutionary-statement-in-g-star-s-new-campaign"
+     },
+     {
+      "title": "플라스틱 토트백 속 일회용 카메라로 포착한 백스테이지의 과잉",
+      "url": "https://www.dazeddigital.com/fashion/article/71187/1/angela-hill-august-barron-ss27-paris-fashion-week-pfw-photo-diary?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=angela-hill-shares-her-august-barron-ss27-photo-diary"
+     }
+    ]
+   },
+   {
+    "name": "구조와 재료의 실험",
+    "note": "목재와 소형 가구의 정밀한 결합으로 물리적 공간을 새롭게 엮어낸다.",
+    "items": [
+     {
+      "title": "미국 건축 스튜디오 베어드 아키텍츠의 첫 번째 가구 컬렉션",
+      "url": "https://www.dezeen.com/2026/10/16/baird-architects-first-furniture-line-ba-objeto/"
+     },
+     {
+      "title": "목재로 빚은 거대한 배움의 터, 스티븐스 랜치 중앙도서관",
+      "url": "https://www.archdaily.com/1186856/central-library-at-stevens-ranch-miller-hull-partnership-plus-steele-associates-architects"
+     }
+    ]
+   }
+  ],
+  "based_on": 9,
+  "v": 3,
+  "model": "gemini-3.5-flash-lite",
+  "written_at": "2026-10-17 02:22"
  }
 }
