@@ -2189,55 +2189,45 @@
  },
  "2026-10-17": {
   "date": "2026-10-17",
-  "headline": "스마트폰을 쥔 손과 목재 골조의 도서관",
-  "editorial": "로빈 F. 윌리엄스의 회화는 스마트폰을 성물처럼 숭배하는 인간의 풍경을 테크노 디스토피아의 도상으로 펼쳐낸다. 어거스트 배런은 일회용 카메라로 백스테이지를 포착하며 동시대의 과잉을 날것 그대로 드러낸다. 스티븐스 랜치 중앙도서관은 매스팀버 골조를 세워 유연한 배움의 터를 빚어낸다.",
+  "headline": "철창과 벽돌의 은신처, 그슬린 식탁 위의 붉은 흙",
+  "editorial": "메이지 시대의 엄격한 감옥이 붉은 벽돌과 프라이버시의 장치로 탈바꿈하고, 검게 그슬린 식탁 위에는 아메리카의 폭력적 역사가 가라앉은 물성으로 놓인다. 태국의 성스러운 사원과 세속의 노동 현장을 겹쳐낸 시선은 자본주의 안에서 소비되는 신앙의 풍경을 무심하게 드러낸다. 오래된 공간과 거친 재료를 통해 역사와 현실의 흔적을 묵직하게 길어 올린다.",
   "threads": [
    {
-    "name": "디지털 시대의 초상",
-    "note": "기술에 잠식된 인간의 모습과 패션 산업의 비평적 이면을 추적한다.",
+    "name": "역사와 물성의 재조립",
+    "note": "오래된 건축과 사물의 물성을 빌려와 새로운 공간적 안식처나 증거물로 고쳐 쓴다.",
     "items": [
+     {
+      "title": "메이지 시대의 엄격한 방사형 감옥, 48개의 스위트룸으로 재탄생하다",
+      "url": "https://design-milk.com/hoshinoya-nara-prison-hotel/"
+     },
+     {
+      "title": "검게 그슬린 식탁 위에 올린 아메리카의 폭력적 기록",
+      "url": "https://hyperallergic.com/cannupa-hanska-lugers-truth-about-america/"
+     },
+     {
+      "title": "마이소르의 120년 된 방갈로, 지역 생태와 공예를 입고 회복되다",
+      "url": "https://www.architecturaldigest.com/story/120-year-old-bungalow-in-mysore-india"
+     }
+    ]
+   },
+   {
+    "name": "자본과 신앙의 프레임",
+    "note": "종교와 자본이 교차하는 현장이나 디스토피아의 풍경을 냉정한 시선으로 포착한다.",
+    "items": [
+     {
+      "title": "태국의 9개 사원 순례, 자본주의와 불교의 기묘한 공존을 기록하다",
+      "url": "https://hyperallergic.com/faith-and-its-contradictions-in-9-temples-to-heaven/"
+     },
      {
       "title": "로빈 F. 윌리엄스, 테크노 디스토피아의 매혹과 공포를 잇다",
       "url": "https://www.thisiscolossal.com/2026/10/robin-f-williams-paintings-act-natural/"
-     },
-     {
-      "title": "알렉산더 매퀸과 숀 맥기르, 패션 산업이 소비하는 잔혹한 서사",
-      "url": "https://www.dazeddigital.com/fashion/article/71186/1/sean-mcgirr-leaves-alexander-mcqueen-online-fashion-criticism-internet-reaction?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=sean-mcgirr-mcqueen-and-fashion-s-rotten-heart"
-     }
-    ]
-   },
-   {
-    "name": "카메라와 백스테이지",
-    "note": "일회용 카메라와 흑백 포토를 통해 현장의 거친 질감을 고스란히 담아낸다.",
-    "items": [
-     {
-      "title": "개선문 위에 선 테크노의 얼굴, 지스타와 샬롯 드 위트",
-      "url": "https://www.dazeddigital.com/fashion/article/71171/1/own-the-arc-charlotte-de-witte-scales-a-landmark-for-g-star-new-campaign?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=charlotte-de-witte-makes-a-revolutionary-statement-in-g-star-s-new-campaign"
-     },
-     {
-      "title": "플라스틱 토트백 속 일회용 카메라로 포착한 백스테이지의 과잉",
-      "url": "https://www.dazeddigital.com/fashion/article/71187/1/angela-hill-august-barron-ss27-paris-fashion-week-pfw-photo-diary?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=angela-hill-shares-her-august-barron-ss27-photo-diary"
-     }
-    ]
-   },
-   {
-    "name": "구조와 재료의 실험",
-    "note": "목재와 소형 가구의 정밀한 결합으로 물리적 공간을 새롭게 엮어낸다.",
-    "items": [
-     {
-      "title": "미국 건축 스튜디오 베어드 아키텍츠의 첫 번째 가구 컬렉션",
-      "url": "https://www.dezeen.com/2026/10/16/baird-architects-first-furniture-line-ba-objeto/"
-     },
-     {
-      "title": "목재로 빚은 거대한 배움의 터, 스티븐스 랜치 중앙도서관",
-      "url": "https://www.archdaily.com/1186856/central-library-at-stevens-ranch-miller-hull-partnership-plus-steele-associates-architects"
      }
     ]
    }
   ],
-  "based_on": 9,
+  "based_on": 24,
   "v": 3,
   "model": "gemini-3.5-flash-lite",
-  "written_at": "2026-10-17 02:22"
+  "written_at": "2026-10-17 08:50"
  }
 }

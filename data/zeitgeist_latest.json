@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-10-17 02:17 KST",
+  "generated_at": "2026-10-17 08:50 KST",
   "period": "2026.10.10 - 2026.10.17",
-  "total_articles": 386,
+  "total_articles": 402,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 189
+      "count": 199
     },
     {
       "genre": "동시대 미술",
-      "count": 146
+      "count": 151
     },
     {
       "genre": "아방가르드 패션",
@@ -17,16 +17,22 @@
     },
     {
       "genre": "미디어 파사드·3D",
-      "count": 16
+      "count": 17
     }
   ],
   "themes": [
     {
       "keyword": "가구 디자인",
-      "count": 16,
+      "count": 17,
       "previous_count": 11,
       "trend": "rising",
       "items": [
+        {
+          "title": "Frieze London에서 선보이는 최고의 가구",
+          "url": "https://www.wallpaper.com/design-interiors/interior-design/furniture/furniture-at-frieze-london-2026",
+          "image_url": "https://cdn.mos.cms.futurecdn.net/4ky8h4rbSZRpGkcVAQdA5B-1920-80.jpg",
+          "source_name": "Wallpaper*"
+        },
         {
           "title": "Baird Architects, 스튜디오의 \"자연스러운 확장\" 으로 첫 번째 가구 컬렉션 출시",
           "url": "https://www.dezeen.com/2026/10/16/baird-architects-first-furniture-line-ba-objeto/",
@@ -44,12 +50,6 @@
           "url": "https://www.architecturaldigest.com/story/swizz-beatzs-cb2-collaboration",
           "image_url": "https://media.architecturaldigest.com/photos/6ad13d6c439f02d8f746e785/master/pass/CB2FA26_SB_Portrait_4_02_Hero.jpg",
           "source_name": "Architectural Digest"
-        },
-        {
-          "title": "모르타르 하우스 오피스/로직 디자인 + 빌드",
-          "url": "https://www.archdaily.com/1186745/the-mortar-house-offices-logic-design-plus-build",
-          "image_url": "https://images.adsttc.com/media/images/6ace/2655/b2c4/c300/0178/ed67/large_jpg/DLOfficeB_SuryanSaurabh_18.jpg?1791895164",
-          "source_name": "ArchDaily"
         }
       ]
     },
@@ -81,6 +81,38 @@
           "title": "UN-Habitat, 주택 이니셔티브 및 sauerbruch hutton을 강조 베를린의 목재 하이브리드 빌딩 완공: 이번 주 리뷰",
           "url": "https://www.archdaily.com/1186880/un-habitat-highlights-housing-initiatives-and-sauerbruch-hutton-completes-timber-hybrid-building-in-berlin-this-weeks-review",
           "image_url": "https://images.adsttc.com/media/images/6ad0/99ad/51c8/2d01/89ac/0823/large_jpg/un-habitat-highlights-housing-initiatives-and-oma-transforms-a-houston-factory-this-weeks-review_2.jpg?1792055736",
+          "source_name": "ArchDaily"
+        }
+      ]
+    },
+    {
+      "keyword": "텍스타일·직물",
+      "count": 7,
+      "previous_count": 1,
+      "trend": "rising",
+      "items": [
+        {
+          "title": "Cypher 음향 연구 # 1 출시: 섬유 및 패션",
+          "url": "https://www.stashmedia.tv/cypher-releases-sonic-studies-1-textiles-fashion/",
+          "image_url": "http://www.stashmedia.tv/wp-content/uploads/Cypher-Releases-Sonic-Studies-1-Textiles-Fashion-STASH-MAGAZINE8-1437x1080.jpg",
+          "source_name": "Stash Media"
+        },
+        {
+          "title": "TAFA 아트 블록/믹스 아키텍처의 핵심 영역 개조",
+          "url": "https://www.archdaily.com/1186609/renovation-of-the-core-area-of-tafa-art-block-mix-architecture",
+          "image_url": "https://images.adsttc.com/media/images/6ac8/958c/7887/fb21/1c77/dbea/large_jpg/renovation-of-the-core-area-of-tafa-art-block-mix-architecture_50.jpg?1791530410",
+          "source_name": "ArchDaily"
+        },
+        {
+          "title": "섬유 및 섬유 예술에 관한 필독서 12권",
+          "url": "https://hyperallergic.com/12-must-read-books-on-textiles-and-fiber-art/",
+          "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/10/2-2.jpg",
+          "source_name": "Hyperallergic"
+        },
+        {
+          "title": "시민 캠퍼스 Sallarès Deu/JAAS",
+          "url": "https://www.archdaily.com/1186766/sallares-deu-jaas",
+          "image_url": "https://images.adsttc.com/media/images/6ace/9845/b2c4/c300/0178/eeb2/large_jpg/JAAS_SD_03_Foto_Adria_Goula.jpg?1791924320",
           "source_name": "ArchDaily"
         }
       ]
@@ -118,75 +150,49 @@
       ]
     },
     {
-      "keyword": "텍스타일·직물",
-      "count": 6,
-      "previous_count": 1,
-      "trend": "rising",
-      "items": [
-        {
-          "title": "TAFA 아트 블록/믹스 아키텍처의 핵심 영역 개조",
-          "url": "https://www.archdaily.com/1186609/renovation-of-the-core-area-of-tafa-art-block-mix-architecture",
-          "image_url": "https://images.adsttc.com/media/images/6ac8/958c/7887/fb21/1c77/dbea/large_jpg/renovation-of-the-core-area-of-tafa-art-block-mix-architecture_50.jpg?1791530410",
-          "source_name": "ArchDaily"
-        },
-        {
-          "title": "섬유 및 섬유 예술에 관한 필독서 12권",
-          "url": "https://hyperallergic.com/12-must-read-books-on-textiles-and-fiber-art/",
-          "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/10/2-2.jpg",
-          "source_name": "Hyperallergic"
-        },
-        {
-          "title": "시민 캠퍼스 Sallarès Deu/JAAS",
-          "url": "https://www.archdaily.com/1186766/sallares-deu-jaas",
-          "image_url": "https://images.adsttc.com/media/images/6ace/9845/b2c4/c300/0178/eeb2/large_jpg/JAAS_SD_03_Foto_Adria_Goula.jpg?1791924320",
-          "source_name": "ArchDaily"
-        },
-        {
-          "title": "Hermès reframes traditional textile crafts with the Arceau Cheval Natté watch",
-          "url": "https://www.wallpaper.com/watches-jewellery/hermes-arceau-cheval-natte-watch",
-          "image_url": "https://cdn.mos.cms.futurecdn.net/pEtWXFnyCYSefeVhG26LVa-1920-80.jpg",
-          "source_name": "Wallpaper*"
-        }
-      ]
-    },
-    {
-      "keyword": "컬러·색채",
+      "keyword": "해변·리조트 건축",
       "count": 4,
-      "previous_count": 1,
+      "previous_count": 2,
       "trend": "rising",
       "items": [
         {
-          "title": "어스 톤: 마르시아 팔캉의 프리즈 런던 다이어리",
-          "url": "https://elephant.art/earth-tones-marcia-falcaos-frieze-london-diary/",
-          "image_url": "https://elephant.art/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-15-at-10.19.16-1.jpeg",
-          "source_name": "Elephant"
+          "title": "1908년 일본 교도소가 럭셔리 호텔로서 새로운 삶을 찾다",
+          "url": "https://design-milk.com/hoshinoya-nara-prison-hotel/",
+          "image_url": "https://design-milk.com/images/2026/10/HOSHINOYA-Nara-Prison_Property-Overview.jpg",
+          "source_name": "Design Milk"
         },
         {
-          "title": "La Maison en bord de mer / Terres terres",
-          "url": "https://www.archdaily.com/1186572/la-maison-en-bord-de-mer",
-          "image_url": "https://images.adsttc.com/media/images/6ac7/987b/b2c4/c300/0178/e1da/large_jpg/photo-SG-2025-SPINETTO-CONSTELLATIONS--maison--blondville--IMP-B-0004a.jpg?1791465652",
+          "title": "이 겹겹이 쌓인 뉴햄프셔 헛간 변환은 우리에게 초기 오두막 발열을 제공하고 있습니다",
+          "url": "https://www.wallpaper.com/design-interiors/interior-design/new-hampshire-barn-conversion-yond-interiors",
+          "image_url": "https://cdn.mos.cms.futurecdn.net/3GvR8C3LiwrfBhetj2B7e5-1920-80.jpg",
+          "source_name": "Wallpaper*"
+        },
+        {
+          "title": "바르셀로나 수변의 변화: 도시재생 이야기",
+          "url": "https://www.archdaily.com/1186700/transforming-barcelonas-waterfront-a-story-of-urban-renewal",
+          "image_url": "https://images.adsttc.com/media/images/6acd/2a16/7887/fb01/8910/69ed/large_jpg/transforming-barcelonas-waterfront-a-historical-overview-of-urban-renewal_7.jpg?1791830558",
           "source_name": "ArchDaily"
         },
         {
-          "title": "인상파의 파리가 여전히 존재합니까? alix urien은 그녀의 렌즈를 통해 그것을 찾습니다.",
-          "url": "https://www.designboom.com/art/alix-urien-photography-artist-paris-impressionists-normandy-videos/",
-          "image_url": "https://www.designboom.com/wp-content/uploads/2026/10/alix-urien-photography-artist-paris-impressionists-normandy-videos-designboom-9.jpg",
-          "source_name": "Designboom Art"
-        },
-        {
-          "title": "라틴 아메리카 인테리어가 선사하는 색채의 문화적 삶",
-          "url": "https://www.archdaily.com/1186591/the-cultural-life-of-colors-in-latin-american-interiors",
-          "image_url": "https://images.adsttc.com/media/images/6ac8/4050/7887/fb01/8910/62ba/large_jpg/the-cultural-life-of-color-in-latin-american-interiors_12.jpg?1791508565",
+          "title": "파인우드 하우스/노모 스튜디오",
+          "url": "https://www.archdaily.com/1186486/pinewood-houses-nomo-studio",
+          "image_url": "https://images.adsttc.com/media/images/6ac6/5aec/07c3/d100/017f/ddb7/large_jpg/SimoneMarcolin_JPG6000_2507_NomoStudio_Fosca_DSC8839.jpg?1791384395",
           "source_name": "ArchDaily"
         }
       ]
     },
     {
       "keyword": "사진",
-      "count": 13,
+      "count": 14,
       "previous_count": 14,
       "trend": "steady",
       "items": [
+        {
+          "title": "사진작가 패트리샤 레예스의 '대서양의 황혼'",
+          "url": "https://www.booooooom.com/2026/10/16/atlantic-ocean-twilight-by-photographer-patricia-reyes/",
+          "image_url": "https://cdn.booooooom.com/wp-content/uploads/2026/09/Patricia_Reyes_01.jpg",
+          "source_name": "BOOOOOOOM"
+        },
         {
           "title": "안젤라 힐 (Angela Hill) 이 어거스트 배런 (August Barron) SS27 사진",
           "url": "https://www.dazeddigital.com/fashion/article/71187/1/angela-hill-august-barron-ss27-paris-fashion-week-pfw-photo-diary?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=angela-hill-shares-her-august-barron-ss27-photo-diary",
@@ -204,21 +210,15 @@
           "url": "https://www.dazeddigital.com/fashion/article/71150/1/eric-kroll-erotica-photographer-hottest-looks-of-the-season-autumn-2026?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=fetish-photographer-eric-kroll-captures-the-hottest-looks-of-the-season",
           "image_url": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/7/1457422.jpg",
           "source_name": "Dazed"
-        },
-        {
-          "title": "자연의 힘과 취약점을 보여주는 2026년 올해의 야생동물 사진작가",
-          "url": "https://www.thisiscolossal.com/2026/10/wildlife-photographer-of-the-year-2026-winners/",
-          "image_url": "https://www.thisiscolossal.com/wp-content/uploads/2026/10/wpy-4.jpg",
-          "source_name": "This Is Colossal"
         }
       ]
     }
   ],
   "notable_names": [
+    "Frieze London",
     "Shigeru Ban Architects",
     "Mix Architecture",
     "RIBA Stirling Prize",
-    "Frieze London",
     "Swizz Beatz",
     "Mexico City",
     "Quil Lemons",
