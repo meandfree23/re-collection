@@ -173808,5 +173808,1373 @@
   },
   "depth_raw": 3,
   "depth_v": 2
+ },
+ "hyperallergic.com/ah-the-many-smells-of-frieze-london": {
+  "title_ko": "프리즈 런던의 후각적 개입, 화장실에서 조우하는 작가의 작업실",
+  "summary_ko": "런던 리젠트 파크에서 열린 프리즈 런던에서 작가 그레이 윌레빈스키는 화장실 내부에 후각 설치 작업을 선보였다. 크리에이티브 스튜디오 딘스 바텀과 협업해 제작한 이 작업은 연필 깎는 냄새, 페인트, 먼지, 땀 등 작가의 작업실 특유의 향을 화장실의 소변기 케이크와 변기 림 블록을 통해 확산시킨다.",
+  "lens": "전시장의 화려한 시각적 과잉 속에서, 작가의 가장 사적인 노동 현장인 작업실의 냄새를 가장 공적인 위생 공간인 화장실로 이식해 예술적 체험의 감각적 범위를 확장한다.",
+  "why_now": "미술 장터라는 상업적 공간에서 시각적 감상에만 의존하던 관람객에게 후각이라는 비가시적 매체를 통해 작업의 물리적 실재를 환기한다.",
+  "mechanism": "소변기 케이크와 변기 림 블록이라는 일상적인 위생 소모품을 매개체로 활용하여, 작가의 작업실에서 채집한 향기를 공간 전체로 지속적으로 방출한다.",
+  "sensory": "연필 깎는 냄새와 페인트, 먼지, 땀이 섞인 냄새가 화장실의 소독제 향과 묘하게 겹치며 작가의 사적인 작업실 풍경을 후각적으로 재구성한다.",
+  "transfer": "공간의 기능을 역설적으로 활용하는 연출이 필요할 때, 특정 공간의 고유한 냄새를 추출하거나 재현하여 관람객의 무의식적인 공간 인식을 교란하는 장치로 활용한다.",
+  "context": "프리즈 런던은 2003년 시작된 이후 런던의 대표적인 예술 행사로 자리 잡았으며, 최근에는 전시장을 벗어난 도시 곳곳의 차량이나 공공장소로 예술적 실험을 확장하고 있다. 이번 윌레빈스키의 작업은 아니쉬 카푸어의 거울 작업처럼 시각적 유희에 집중하는 기존의 전시 관습을 비트는 시도다.",
+  "findings": [
+   {
+    "text": "프리즈 아트 페어는 2003년 런던 리젠트 파크에서 처음 시작된 연례 현대 미술 전시회다.",
+    "s": 1,
+    "quote": "Frieze Art Fair is an annual contemporary art fair first held in 2003 in London's Regent's Park."
+   },
+   {
+    "text": "아니쉬 카푸어는 2012년 런던 올림픽 공원을 위한 영구 설치 작품인 아르셀로미탈 오빗을 제작했다.",
+    "s": 2,
+    "quote": "ArcelorMittal Orbit, commissioned as a permanent artwork for London's Olympic Park and completed in 2012."
+   }
+  ],
+  "keywords": [
+   "프리즈런던",
+   "후각설치",
+   "그레이윌레빈스키",
+   "감각적확장"
+  ],
+  "evidence": "urinal cakes and toilet rim blocks that are intended to diffuse a custom scent invoking the smells of Gray Wielebinski’s studio.",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "미술 장터라는 상업적 공간의 위생 시설을 예술적 매개체로 전환한 구체적인 기법과 그 맥락이 명확하다.",
+  "v": 2,
+  "url": "https://hyperallergic.com/ah-the-many-smells-of-frieze-london/",
+  "original_title": "Ah, the Many Smells of Frieze London",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 2223,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-16 08:59",
+  "research": {
+   "entities": [
+    "Frieze London",
+    "Teresa Solar Abboud",
+    "Anish Kapoor",
+    "Gray Wielebinski",
+    "Dean's Bottom"
+   ],
+   "questions": [
+    "프리즈 런던에서 시도된 후각적 예술 설치 작업은 관람객들에게 어떤 예술적 경험을 제공하고자 하였는가?",
+    "미술 장터와 화장실이라는 이질적인 공간의 결합이 현대 미술 전시에서 갖는 의미는 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Frieze Art Fair",
+     "url": "https://en.wikipedia.org/wiki/Frieze%20Art%20Fair"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Anish Kapoor",
+     "url": "https://en.wikipedia.org/wiki/Anish%20Kapoor"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "에드 시런을 겨냥한 풍자 만화와 미술계의 비판적 시선",
+     "url": "https://hyperallergic.com/ed-sheeran-should-stop-thinking-out-loud/"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "프리즈 위크 2026, 런던의 예술 지형을 바꾸는 10가지 궤적",
+     "url": "https://www.wallpaper.com/art/exhibitions-shows/ten-things-to-do-during-london-frieze-week-2026"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "움직이는 미술관, 페닌슐라 런던 차량 6대를 뒤덮은 서사적 그래픽",
+     "url": "https://design-milk.com/peninsula-london-art-fleet-kozo/"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    4
+   ],
+   "chars": 2979
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "hyperallergic.com/danh-vo-and-sandra-mujinga-selected-for-met-museum-commissions": {
+  "title_ko": "메트로폴리탄 미술관 2027 커미션에 선정된 단 보와 산드라 무징가",
+  "summary_ko": "미술가 단 보가 뉴욕 메트로폴리탄 미술관의 2027년 제네시스 파사드 커미션 작가로 선정되었다. 베트남 보트 난민의 경험과 현대사를 엮어온 그는 미술관 외관의 네 개 니치에 신작을 선보인다. 산드라 무징가는 아프로푸우리즘과 탈식민주의를 바탕으로 내부 그레이홀에 장소 특정적 설치 작업을 공개한다.",
+  "lens": "난민의 기억과 아프로푸우리즘의 렌즈로 미술관의 거대한 건축적 구조를 해체한다.",
+  "why_now": "미술관의 상징적 파사드와 내부 공간이 역사적 상흔과 사변적 미래를 다루는 작가들의 무대로 전환되고 있다.",
+  "mechanism": "미술관의 보자르 양식 외관 니치와 그레이홀이라는 물리적 공간에 작가들의 서사가 개입하여 건축의 의미를 재구성한다.",
+  "sensory": "보자르 건축의 고전적인 스케일과 역사적 외관, 그리고 내부에 펼쳐질 현대적 설치 작업의 재료적 대비가 시각적 긴장을 만든다.",
+  "transfer": "대형 파사드나 로비 공간을 연출할 때 역사적 건축 양식과 이질적인 서사를 지닌 오브제를 충돌시키는 기법으로 활용한다.",
+  "context": "메트로폴리탄 미술관은 최근 다양한 역사적 층위를 다루는 전시와 커미션을 지속해서 선보이고 있다.",
+  "findings": [
+   {
+    "text": "단 보는 베트남계 현대 미술가로 베를린과 멕시코시티에서 거주하며 작업한다.",
+    "s": 1,
+    "quote": "Danh Võ (born Võ Trung Kỳ Danh, August 5, 1975) is a contemporary artist of Vietnamese descent. He lives and works in Berlin and Mexico City."
+   },
+   {
+    "text": "산드라 무징가는 콩고민주공화국 고마에서 태어난 노르웨이의 비디오 및 설치 미술가이다.",
+    "s": 2,
+    "quote": "Sandra Mujinga (born 1989) is a Norwegian video and installation artist born in Goma in the Democratic Republic of the Congo"
+   }
+  ],
+  "keywords": [
+   "메트로폴리탄미술관",
+   "단보",
+   "산드라무징가",
+   "파사드커미션"
+  ],
+  "evidence": "Artist Danh Vo was chosen for the Metropolitan Museum of Art's 2027 Genesis Facade commission, and Sandra Mujinga was selected for the Great Hall commission.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "주요 미술관의 대형 커미션 작가 선정 뉴스로 작가들의 맥락이 명확하지만 개별 작업의 구체적 형상이 아직 드러나지 않았다.",
+  "v": 2,
+  "url": "https://hyperallergic.com/danh-vo-and-sandra-mujinga-selected-for-met-museum-commissions/",
+  "original_title": "Danh Vo and Sandra Mujinga Selected for Met Museum Commissions",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 2502,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-16 08:59",
+  "research": {
+   "entities": [
+    "Danh Vo",
+    "Sandra Mujinga",
+    "Metropolitan Museum of Art",
+    "Sarah Hayes",
+    "Armenian Museum of America"
+   ],
+   "questions": [
+    "단 보(Danh Vo)와 산드라 무징가(Sandra Mujinga)가 메트로폴리탄 미술관 커미션에서 선보일 작품들의 핵심 주제와 역사적 맥락은 무엇인가?",
+    "아르메니아 박물관(Armenian Museum of America)의 부관장으로 임명된 사라 헤이즈(Sarah Hayes)의 향후 박물관 운영 및 전시 계획은 어떻게 되는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Danh Võ",
+     "url": "https://en.wikipedia.org/wiki/Danh%20V%C3%B5"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Sandra Mujinga",
+     "url": "https://en.wikipedia.org/wiki/Sandra%20Mujinga"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "바이올리니스트의 신체를 악보 삼아 공감각을 빛으로 번역하다",
+     "url": "https://www.designboom.com/art/synesthesia-light-audrey-wright-musical-body-metropolitan-museum-geoff-robertson-stephanie-ann-boyd/"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "구름을 보는 새로운 방식: 메트로폴리탄 미술관의 200년 기록",
+     "url": "https://www.designboom.com/art/chasing-clouds-met-two-centuries-skywatching-metropolitan-museum-new-york-exhibition/"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "뉴욕 미술계의 이면, 파업과 폐쇄가 드러내는 제도적 균열",
+     "url": "https://hyperallergic.com/the-cathedral-of-joy/"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 1344
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "hyperallergic.com/12-must-read-books-on-textiles-and-fiber-art": {
+  "title_ko": "섬유와 실을 통해 정치와 서사를 엮는 예술 도서 모음",
+  "summary_ko": "하이버알레르기는 자수와 섬유 미술, 보자기, 퀼트를 다룬 신간 도서들을 조명한다. 이 책들은 공예와 미술의 이분법을 넘어 섬유 전통이 지닌 명상적이고 정치적인 차원을 탐구한다. 이브 코소프스키 세지윅의 섬유 조각부터 흑인 미국인 퀼트의 역사까지 다양한 작업들을 소개한다.",
+  "lens": "실과 바늘이라는 오랜 은유를 넘어 섬유 예술이 지닌 정치적 계보를 엮어낸다.",
+  "why_now": "공예와 순수미술의 경계를 지우고 여성 노동으로 폄하되던 영역을 재고하려는 미술계의 흐름을 반영한다.",
+  "mechanism": "역사적 기록과 인터뷰, 작가의 실천을 교차 편집하여 직물의 물성과 사회적 맥락을 동시에 드러낸다.",
+  "sensory": "면과 실, 천 조각들이 겹쳐지며 만들어내는 직물의 질감과 꿰맴의 흔적이 시각적 밀도를 높인다.",
+  "transfer": "다양한 질감의 천과 자수 기법을 활용해 화면의 물성을 강조하는 소품 및 배경 연출에 적용한다.",
+  "context": "듀크 대학교 출판부(Duke University Press) 등 학술 출판을 통해 젠더 연구와 공예 이론을 접목하는 작업들이 이어지고 있다.",
+  "findings": [
+   {
+    "text": "이브 코소프스키 세지윅은 젠더 연구와 퀴어 이론 분야의 미국 학자였다.",
+    "s": 1,
+    "quote": "Eve Kosofsky Sedgwick (; May 2, 1950 – April 12, 2009) was an American feminist academic scholar in the fields of gender studies, queer theory, and critical theory."
+   },
+   {
+    "text": "듀크 대학교 출판부는 인문학과 사회과학 분야의 학술 도서를 주로 발행한다.",
+    "s": 2,
+    "quote": "The company publishes primarily in the humanities and social sciences but is also particularly well known for its mathematics journals."
+   }
+  ],
+  "keywords": [
+   "섬유예술",
+   "퀼트",
+   "공예이론",
+   "직물서사"
+  ],
+  "evidence": "There’s a reason the lexicon of textiles and fiber lends itself so well to storytelling",
+  "kind": "리스트·라운드업",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "섬유 예술과 관련된 여러 신간 도서와 에세이를 묶어 소개하는 라운드업 기사다.",
+  "v": 2,
+  "url": "https://hyperallergic.com/12-must-read-books-on-textiles-and-fiber-art/",
+  "original_title": "12 Must-Read Books on Textiles and Fiber Art",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 3248,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-16 08:59",
+  "research": {
+   "entities": [
+    "Eve Kosofsky Sedgwick",
+    "Duke University Press",
+    "Romare Bearden",
+    "bell hooks",
+    "Chronicle Books"
+   ],
+   "questions": [
+    "섬유 예술이 어떻게 단순한 공예를 넘어 정치적이고 철학적인 담론을 형성하는지 설명할 수 있는가?",
+    "흑인 퀼트나 보자기와 같은 전통적인 섬유 예술이 현대 미술사에서 어떤 방식으로 재평가되고 있는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Eve Kosofsky Sedgwick",
+     "url": "https://en.wikipedia.org/wiki/Eve%20Kosofsky%20Sedgwick"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Duke University Press",
+     "url": "https://en.wikipedia.org/wiki/Duke%20University%20Press"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 2800
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "stashmedia.tv/demo-duck-expands-offerings-with-dd-docs": {
+  "title_ko": "데모 덕, 다큐멘터리 문법으로 브랜드 서사를 확장하는 DD 독스",
+  "summary_ko": "시카고 기반 제작사 데모 덕(Demo Duck)이 브랜드 마케팅을 위한 장편 다큐멘터리 제작 서비스 ‘DD 독스(DD Docs)’를 론칭했다. 현장 인터뷰와 환경음, 일상적인 B-롤을 활용해 브랜드의 본질을 깊이 있게 전달하는 것이 핵심이다.",
+  "lens": "인공지능과 연출된 콘텐츠가 범람하는 시대, 브랜드의 신뢰를 회복하기 위해 다큐멘터리적 날것의 기록을 마케팅 도구로 전환한다.",
+  "why_now": "소비자는 이제 무엇을 파는지보다 조직의 동기와 작동 원리를 궁금해하며, 인위적인 광고보다 실제 사람의 이야기에 신뢰를 보낸다.",
+  "mechanism": "현장 인터뷰와 공간의 환경음을 직접 채집하고, 정제되지 않은 일상의 조각(B-roll)을 기존 인터뷰 영상에 결합하여 서사의 밀도를 높인다.",
+  "sensory": "스튜디오의 조명 아래 연출된 매끄러운 화면 대신, 현장의 소음과 인물의 호흡이 섞인 생생한 질감을 강조한다.",
+  "transfer": "인터뷰 촬영 시 별도의 환경음(ambient audio)을 별도 트랙으로 녹음하고, 인물의 업무 공간을 관찰하는 롱테이크 샷을 B-롤로 배치해 현장감을 더한다.",
+  "context": "데모 덕은 지난 15년간 실사 영상 제작을 주력으로 삼아왔으며, 기존의 설명형 영상 제작 과정에서 다큐멘터리적 요소를 실험적으로 결합해왔다.",
+  "findings": [],
+  "keywords": [
+   "다큐멘터리",
+   "브랜드스토리",
+   "실사영상",
+   "제작프로세스"
+  ],
+  "evidence": "A documentary-style video is the perfect marketing tool for this moment. It offers a way to showcase real, human stories and help people have a deeper understanding of your brand.",
+  "kind": "뉴스·이슈",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "브랜드 마케팅의 새로운 전략적 방향을 제시하지만, 실제 제작된 작업물의 구체적인 기법 공개보다는 서비스 론칭 소식에 집중되어 있다.",
+  "v": 2,
+  "url": "https://www.stashmedia.tv/demo-duck-expands-offerings-with-dd-docs/",
+  "original_title": "Demo Duck Expands Offerings with ‘DD Docs’",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 3514,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-16 08:59",
+  "research": {
+   "entities": [
+    "Demo Duck",
+    "Cody Benefiel"
+   ],
+   "questions": [
+    "브랜드 마케팅에서 다큐멘터리 스타일의 영상이 왜 최근 들어 더 중요해지고 있나요?",
+    "기존의 광고 영상 제작 방식과 'DD Docs'와 같은 다큐멘터리 스타일 제작 방식의 핵심적인 차이점은 무엇인가요?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "hyperallergic.com/valerio-adamis-hot-and-cold-art": {
+  "title_ko": "폭력의 땅을 횡단하는 검은 선과 단색의 긴장, 발레리오 아다미",
+  "summary_ko": "이탈리아 화가 발레리오 아다미의 뉴욕 첫 개인전이 데이비드 놀란 갤러리에서 열린다. 이번 표지 전시는 1960년대 초중반에 제작된 회화와 드로잉을 중심으로 팝아트의 외곽선과 표현주의적 왜곡이 결합된 독창적인 조형 언어를 조명한다.",
+  "lens": "팝아트의 차가운 외곽선과 표현주의의 왜곡을 교차시켜 의미가 해체되는 모호한 화면을 구축한다.",
+  "why_now": "미국 미술계에서 상대적으로 저평가되었던 작가의 60년대 핵심 작업들이 20년 만에 뉴욕 무대로 소환되어 당대 시각 실험의 궤적을 다시 묻는다.",
+  "mechanism": "면 분할과 검은색 윤곽선 안에 원색을 채워 넣고 파편화된 형태와 의문을 유발하는 단어를 배치해 단일한 독해를 거부한다.",
+  "sensory": "평평하게 채색된 고채도 색면과 두껍고 단호한 검은 윤곽선이 시선을 날카롭게 가두는 시각적 긴장감을 만든다.",
+  "transfer": "광고나 영상의 프레임 속에서 그래픽적인 검은 윤곽선과 채도 높은 단색 면을 이용해 서사의 단절과 모호함을 연출할 수 있다.",
+  "context": "1935년 볼로냐에서 태어난 발레리오 아다미는 밀라노 브레라 아카데미에서 수학한 뒤 파리와 런던을 기반으로 활동해 왔다.",
+  "findings": [
+   {
+    "text": "발레리오 아다미는 1935년 3월 17일에 태어난 이탈리아의 화가이다.",
+    "s": 1,
+    "quote": "Valerio Adami (born 17 March 1935) is an Italian painter."
+   },
+   {
+    "text": "아다미는 밀라노의 브레라 아카데미에서 교육을 받았다.",
+    "s": 1,
+    "quote": "Educated at the Accademia di Brera in Milan"
+   }
+  ],
+  "keywords": [
+   "발레리오아다미",
+   "회화",
+   "윤곽선",
+   "모호함",
+   "뉴욕전시"
+  ],
+  "evidence": "His syncretic style melds Pop Art’s cool, outlined forms with expressionism’s figural distortions, resulting in a perturbing ambiguity.",
+  "kind": "전시",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "60년대 회화의 조형적 특징과 전시 맥락이 명확하지만, 작가의 역사적 위치 재조명에 머문 평이한 소개 수준이다.",
+  "v": 2,
+  "url": "https://hyperallergic.com/valerio-adamis-hot-and-cold-art/",
+  "original_title": "Valerio Adami’s Hot and Cold Art",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 2658,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-16 08:59",
+  "research": {
+   "entities": [
+    "Valerio Adami",
+    "David Nolan Gallery",
+    "Roberto Matta",
+    "Wifredo Lam",
+    "Richard Hamilton"
+   ],
+   "questions": [
+    "발레리오 아다미의 초기 작품들이 팝아트와 차별화되는 조형적 특징은 무엇인가?",
+    "아다미가 1960년대에 교류했던 철학자 및 작가들과의 관계가 그의 예술 철학에 어떤 영향을 미쳤는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Valerio Adami",
+     "url": "https://en.wikipedia.org/wiki/Valerio%20Adami"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Roberto Matta",
+     "url": "https://en.wikipedia.org/wiki/Roberto%20Matta"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 478
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "archdaily.com/1186971/ibitipoca-house-gavea-arquitetos": {
+  "title_ko": "폐허의 흔적을 재조립하다, 가베아 아르키테토스의 이비티포카 하우스",
+  "summary_ko": "브라질 미나스제라이스의 오래된 폐허를 리노베이션한 이비티포카 하우스는 기존 건물의 해체와 재사용을 출발점으로 삼는다. 가베아 아르키테토스는 이전 구조물의 자재와 흔적을 철거해 지우는 대신 새로운 공간의 물리적, 개념적 원형으로 재구성했다.",
+  "lens": "허물어진 벽의 파편을 지우지 않고 새 공간의 골조와 물성으로 직조한다.",
+  "why_now": "신축이 주를 이루는 환경에서 과거의 폐허를 파괴하지 않고 자재와 흔적을 이어 붙여 공간의 시간을 증명하는 태도가 주목받는다.",
+  "mechanism": "기존 건물을 해체하는 과정에서 나온 파편과 자재를 분류하고 재배치하여 이전 구조의 흔적을 현재의 공간 축에 그대로 기입한다.",
+  "sensory": "거친 옛 벽돌과 시간의 풍파를 맞은 자재의 표면이 단단한 신축 구조물과 대비되며 공간 전체에 묵직한 질감을 부여한다.",
+  "transfer": "공간 배경에 오래된 폐허의 파편을 그대로 배치해 인위적인 세트가 아닌 시간성이 축적된 로케이션으로 연출한다.",
+  "context": "브라질 미나스제라이스의 세라 두 이비티포카에 위치한 이비티포카 하우스는 기존의 버려진 건물을 해체하여 새로운 건축물로 탈바꿈시켰다.",
+  "findings": [],
+  "keywords": [
+   "재사용",
+   "폐허",
+   "리노베이션",
+   "브라질건축",
+   "물성"
+  ],
+  "evidence": "The Ibitipoca House is born from the logic of reuse. Faced with an old ruined building in the Serra do Ibitipoca, in Minas Gerais, the project begins with a disassembly operation",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "폐허를 재사용하는 명확한 개념과 자재 재구성 방식이 드러나지만 상세한 시공 디테일 정보가 다소 부족하다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1186971/ibitipoca-house-gavea-arquitetos",
+  "original_title": "Ibitipoca House / Gávea Arquitetos",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 1285,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-16 08:59",
+  "research": {
+   "entities": [
+    "Gávea Arquitetos",
+    "Ibitipoca House",
+    "Alziro Carvalho Neto",
+    "Felipe Rio Branco"
+   ],
+   "questions": [
+    "이비티포카 하우스 프로젝트에서 기존 건물의 재료를 어떻게 재구성하고 보존했는가?",
+    "브라질 미나스제라이스 지역의 건축적 맥락이 이 리노베이션 프로젝트에 어떤 영향을 미쳤는가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "dezeen.com/2026/10/15/florida-southern-college-frank-lloyd-wright-planetarium-restoration": {
+  "title_ko": "프랭크 로이드 라이트의 유일한 천문관, 원형으로 되돌린 복원",
+  "summary_ko": "플로리다 서던 칼리지 캠퍼스 내 프랭크 로이드 라이트가 설계한 유일한 천문관이 수십 년에 걸친 복원 끝에 내부와 외부를 새롭게 단장했다. 건축가 제프 베이커는 1980년대에 추가된 컴퓨터실을 철거하고 원형 좌석 배치를 복구했으며, 라이트 특유의 유기적 건축을 보존하기 위해 현대 설비를 정교하게 삽입했다.",
+  "lens": "설비 공간이 없는 라이트의 단일 구조체에서, 현대 기술을 삽입하기 위해 구조를 훼손하지 않고 원형의 기하학적 질서를 복원하는 방식에 주목한다.",
+  "why_now": "건축물의 원형을 훼손하던 후대 개입을 제거하고, 설계자의 의도를 복원하는 작업이 역사적 자산의 생명력을 어떻게 연장하는지 보여준다.",
+  "mechanism": "벽면의 컴퓨터실을 철거해 원형 동선을 확보하고, 바닥부터 천장까지 일체화된 콘크리트 구조체 내부에 설비를 노출 없이 매립하는 방식을 취했다.",
+  "sensory": "체로키 레드(Cherokee Red) 색상의 바닥 마감과 합판 및 컬러 비닐로 제작된 좌석이 어우러져 라이트 특유의 온기와 물성을 드러낸다.",
+  "transfer": "공간 내 불필요한 가벽을 제거해 원래의 평면적 질서를 회복하고, 구조체와 일체화된 마감재를 활용해 설비의 시각적 노출을 최소화하는 연출에 활용한다.",
+  "context": "플로리다 서던 칼리지는 라이트가 직접 마스터플랜을 세운 세계 최대의 단일 부지 라이트 건축 컬렉션이다. 이 프로젝트는 2007년 시작된 캠퍼스 헤리티지 플랜의 일환으로, 앞서 워터돔과 애니 파이퍼 예배당 등의 복원을 이끈 건축가 제프 베이커가 주도했다.",
+  "findings": [
+   {
+    "text": "플로리다 서던 칼리지는 프랭크 로이드 라이트가 설계한 건축물이 세계에서 가장 많이 모여 있는 단일 장소이다.",
+    "s": 3,
+    "quote": "The institution is home to Child of the Sun, the world's largest single-site collection of Frank Lloyd Wright architecture."
+   }
+  ],
+  "keywords": [
+   "프랭크로이드라이트",
+   "유기적건축",
+   "공간복원",
+   "플로리다서던칼리지"
+  ],
+  "evidence": "The removal of the old computer closet retrieved the space as it was designed",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "라이트의 건축적 난제인 '포셰가 없는 구조'를 현대 설비와 결합한 구체적인 복원 공법을 상세히 다루고 있다.",
+  "v": 2,
+  "url": "https://www.dezeen.com/2026/10/15/florida-southern-college-frank-lloyd-wright-planetarium-restoration/",
+  "original_title": "Frank Lloyd Wright's only planetarium restored in Florida",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 4025,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-16 08:59",
+  "research": {
+   "entities": [
+    "Frank Lloyd Wright",
+    "Florida Southern College",
+    "MCWB Architects",
+    "J. Paul Getty Foundation"
+   ],
+   "questions": [
+    "프랭크 로이드 라이트가 설계한 플로리다 서던 칼리지 캠퍼스의 건축적 특징과 '텍스타일 블록' 공법은 무엇인가요?",
+    "라이트의 건축물에서 현대적인 설비를 숨길 공간이 없는 '포셰(poche)'가 없는 구조를 어떻게 복원하고 보완했나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "MCWB Architects | Experts in Architecture & Historic Preservation",
+     "url": "https://mcwb-arch.com/"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Frank Lloyd Wright",
+     "url": "https://en.wikipedia.org/wiki/Frank%20Lloyd%20Wright"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Florida Southern College",
+     "url": "https://en.wikipedia.org/wiki/Florida%20Southern%20College"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "프레드 홀링스워스가 설계한 1952년작 마호가니 하우스, 반세기 만의 공개",
+     "url": "https://www.wallpaper.com/architecture/residential/fred-hollingsworths-mahogany-house-is-a-hidden-jewel-of-mid-century-modernism"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "건축가의 사적 공간: 1950년부터 오늘까지, 200채의 주택이 증명하는 주거의 진화",
+     "url": "https://www.wallpaper.com/architecture/architects-houses-phaidon-book"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "구겐하임의 백색 논쟁: 프랭크 로이드 라이트가 거부한 '죽음의 색'",
+     "url": "https://www.architecturaldigest.com/story/frank-lloyd-wright-the-guggenheim-a-dead-white"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3
+   ],
+   "chars": 3502
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "archdaily.com/1186944/lion-green-road-by-mary-duggan-architects-and-ruffarchitects-wins-riba-stirling-prize-2026": {
+  "title_ko": "경사지와 주차장 터를 살린 고밀도 주거, RIBA 斯特林상 수상",
+  "summary_ko": "영국 왕립 건축가 협회(RIBA)는 사우스 런던의 라이언 그린 로드 주거 단지를 2026년 스털링상 수상작으로 선정했다. 메리 더건 아키텍츠와 러프아키텍츠가 크로이던 의회를 위해 설계한 이 프로젝트는 8미터 경사지에 5개 동, 157세대를 배치했다. 기존 주차장 부지를 활용해 사유지와 공공 임대 주택을 결합하고 주변 공원과 연결했다.",
+  "lens": "지형의 높낮이를 깎지 않고 건물의 회전과 벽돌 패턴으로 풀어낸 교외 고밀도 주거의 해법.",
+  "why_now": "도시 외곽의 경사지와 주차장 부지를 고밀도 주거지로 전환하면서도 주변 지형과 생태를 훼손하지 않는 설계 방식을 제시한다.",
+  "mechanism": "8미터의 고저차가 있는 대지에서 5개 동을 각각 회전 배치하고 높이와 벽돌 패턴을 미세하게 조정해 시각적 단조로움을 피했다.",
+  "sensory": "세 가지 갈색 벽돌 톤이 주변 녹지와 어우러지며, 세대마다 이면을 향한 창을 통해 풍부한 자연광과 조망이 스며든다.",
+  "transfer": "공간 연출 시 지형의 높낮이를 수평으로 평탄화하지 않고 레벨 차를 활용해 시야와 동선의 리듬을 만드는 앵글링 기법으로 적용한다.",
+  "context": "영국 왕립 건축가 협회(RIBA)가 수여하는 스털링상은 건축과 구축 환경에 큰 기여를 한 건물에 주어지며 올해 30주년을 맞았다.",
+  "findings": [
+   {
+    "text": "영국 왕립 건축가 협회(RIBA)는 1834년에 런던에서 영국 건축가 협회로 설립되었으며 1837년에 왕립 헌장을 받았다.",
+    "s": 1,
+    "quote": "Founded as the Institute of British Architects in London in 1834, RIBA has a central London office"
+   }
+  ],
+  "keywords": [
+   "라이언그린로드",
+   "메리더건아키텍츠",
+   "RIBA스털링상",
+   "교외주거"
+  ],
+  "evidence": "Lion Green Road by Mary Duggan Architects and RUFFARCHITECTS Wins RIBA Stirling Prize 2026",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "구체적인 경사지 활용 방식과 벽돌 패턴 등 설계 장치가 뚜렷하나 수상작 발표 보도 성격에 가깝다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1186944/lion-green-road-by-mary-duggan-architects-and-ruffarchitects-wins-riba-stirling-prize-2026",
+  "original_title": "Lion Green Road by Mary Duggan Architects and RUFFARCHITECTS Wins RIBA Stirling Prize 2026",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 4165,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-16 08:59",
+  "research": {
+   "entities": [
+    "Mary Duggan Architects",
+    "RUFFARCHITECTS",
+    "Royal Institute of British Architects",
+    "Lion Green Road",
+    "Stirling Prize"
+   ],
+   "questions": [
+    "Lion Green Road 프로젝트가 경사지라는 지형적 제약을 어떻게 건축적 장점으로 승화시켰는가?",
+    "RIBA Stirling Prize가 평가하는 '건축의 진화와 구축 환경에 대한 기여'라는 기준이 이 프로젝트에 어떻게 적용되었는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Royal Institute of British Architects",
+     "url": "https://en.wikipedia.org/wiki/Royal%20Institute%20of%20British%20Architects"
+    },
+    {
+     "n": 2,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "영국 왕립 건축가 협회, 전 회장과의 법적 분쟁 종결에 합의금 지급",
+     "url": "https://www.dezeen.com/2026/09/30/riba-alan-jones-legal-dispute/"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 1571
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "hyperallergic.com/the-98-year-old-pop-art-queen-behind-an-iconic-lichtenstein-billboard": {
+  "title_ko": "98세의 팝아트 개척자가 말하는 로이 리히텐슈타인 빌보드와 공공 미술의 기원",
+  "summary_ko": "1962년 필라델피아에서 활동하던 조안 크론과 오드리 사볼은 보수적인 예술계에 맞서 로이 리히텐슈타인 등 신진 작가들의 팝아트 전시를 기획했다. 이후 크론은 도시 빌보드를 캔버스로 활용하는 프로젝트를 추진하며 1967년 리히텐슈타인의 '슈퍼 선셋 빌보드'를 탄생시켰다. 이 작업은 훗날 영국과 미국의 대규모 공공 미술 프로젝트인 '아트 에브리웨어'의 선구적 사례가 되었다.",
+  "lens": "미술관의 화이트 큐브를 벗어나 도시의 가로망을 캔버스로 치환한 빌보드 프로젝트는 예술의 권위를 해체하고 일상 속으로 침투시킨 초기 팝아트의 전술이다.",
+  "why_now": "디지털 스크린이 도시를 점유한 오늘날, 물리적 빌보드에 예술을 박제했던 60년대의 시도는 이미지의 이동성과 전파력을 재고하게 한다.",
+  "mechanism": "핸드볼 경기장 뒷면이라는 비정형의 구조물을 캔버스로 삼아 리히텐슈타인의 회화적 도상을 실물 크기로 확대·전시함으로써 예술과 상업 광고의 경계를 물리적으로 교란했다.",
+  "sensory": "거대한 스케일의 벤데이 점(Ben-Day dots)과 선명한 원색이 도시의 일상적 풍경과 충돌하며 발생하는 시각적 낯섦과 팝아트 특유의 기계적 질감이 현장감을 만든다.",
+  "transfer": "공공장소의 유휴 벽면이나 광고판을 활용해 작품을 노출할 때, 주변 풍경과 작품의 비례를 맞추는 것만으로도 공간의 맥락을 즉각적으로 뒤바꿀 수 있다.",
+  "context": "조안 크론은 1962년 필라델피아에서 팝아트 전시를 주도하며 당시 추상 표현주의 중심의 미술 담론에 균열을 냈다. 현재 휘트니 미술관에서 열리는 로이 리히텐슈타인의 회고전 'Like New'는 그의 작품이 어떻게 시대를 넘어 재해석되는지를 보여준다.",
+  "findings": [
+   {
+    "text": "로이 리히텐슈타인은 만화책과 신문에서 이미지를 가져와 구성하고 정제한 뒤 캔버스로 옮기는 전유 예술가였다.",
+    "s": 1,
+    "quote": "An appropriation artist long before the term was used by art historians, Lichtenstein took his imagery from comic books and newspapers, reconfiguring and refining his compositions before enlarging and transferring them t"
+   },
+   {
+    "text": "2013년 영국에서 열린 아트 에브리웨어 프로젝트는 2만 2천여 개의 광고판을 활용해 공공 미술의 대중화를 시도했다.",
+    "s": 2,
+    "quote": "The Art Everywhere project – organised by Richard Reed, co-founder of Innocent drinks, but the brainchild of his wife, Melinda – will see artworks on billboards, bus stops, major roads, tube, train and metro stations, sh"
+   }
+  ],
+  "keywords": [
+   "팝아트",
+   "공공미술",
+   "로이리히텐슈타인",
+   "빌보드",
+   "조안크론"
+  ],
+  "evidence": "The backboard was in the exact same shape as the image. So Walter Stait painted the billboard, and we had a big party to promote the idea of art on billboards.",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "공공 미술의 초기 실험 사례를 구체적인 실행 과정과 함께 다루며 동시대 공공 미술 기획에 실질적인 맥락을 제공한다.",
+  "v": 2,
+  "url": "https://hyperallergic.com/the-98-year-old-pop-art-queen-behind-an-iconic-lichtenstein-billboard/",
+  "original_title": "The 98-Year-Old Pop Art Queen Behind an Iconic Lichtenstein Billboard",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 4487,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-16 08:59",
+  "research": {
+   "entities": [
+    "Roy Lichtenstein",
+    "Joan Kron",
+    "Whitney Museum of American Art",
+    "Robert Venturi",
+    "Audrey Sabol"
+   ],
+   "questions": [
+    "1960년대 필라델피아에서 팝아트 전시가 기존 예술계의 보수적인 시각에 어떻게 저항하며 대중에게 다가갔는가?",
+    "조안 크론과 오드리 사볼이 시도했던 '예술의 대중화(빌보드 프로젝트)'가 현대 공공 미술 기획에 어떤 영향을 미쳤는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Roy Lichtenstein: Like New",
+     "url": "https://whitney.org/exhibitions/lichtenstein?gad_source=1&gad_campaignid=24069874687&gbraid=0AAAAADFLMBqPqAt5gtxOlbTcnpXyK0iWv&gclid=CjwKCAjw88HWBhA3EiwAo2Zd6MJRTfJhbxiPyvc2jASnj87WqmQtqC5tTqG3nuIBrnjTdlJhPuhFOBoCao0QAvD_BwE&ref=hyperallergic.com"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Art Everywhere turns UK's streets into world's largest art show",
+     "url": "https://www.theguardian.com/artanddesign/2013/aug/08/art-everywhere-project-streets-london?ref=hyperallergic.com"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Roy Lichtenstein",
+     "url": "https://en.wikipedia.org/wiki/Roy%20Lichtenstein"
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "Whitney Museum of American Art",
+     "url": "https://en.wikipedia.org/wiki/Whitney%20Museum%20of%20American%20Art"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "브루어 빌딩과 아모리 쇼가 드러낸 뉴욕 아트페어의 풍경",
+     "url": "https://hyperallergic.com/should-you-sit-out-the-armory-show/"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "뉴욕 미술계의 이면, 파업과 폐쇄가 드러내는 제도적 균열",
+     "url": "https://hyperallergic.com/the-cathedral-of-joy/"
+    },
+    {
+     "n": 7,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "쿠사마 야요이, 점과 거울로 구축한 무한의 세계를 남기고 떠나다",
+     "url": "https://www.designboom.com/art/yayoi-kusama-japanese-artist-infinity-single-dot-97/"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "chars": 8830
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "design-milk.com/kindle-redesign": {
+  "title_ko": "아마존 킨들, 리버스 스택 디스플레이로 구현한 물리적 투명성",
+  "summary_ko": "아마존이 킨들 라인업을 개편하며 디스플레이, 조명, 터치 층을 재배치한 리버스 스택 구조를 도입했다. 이를 통해 화면 테두리를 없애고 본체를 더 얇고 가볍게 설계했다. 또한 알루미늄 하우징과 카페·디저트 문화에서 영감을 받은 색상을 적용해 시각적 완성도를 높였다.",
+  "lens": "기술을 드러내지 않고 독서라는 행위 속으로 장치를 사라지게 만드는 물리적 설계의 정밀함에 주목한다.",
+  "why_now": "디지털 기기가 일상의 사물처럼 느껴지도록 하드웨어의 이질적인 경계를 지우는 미니멀리즘이 가전 디자인의 핵심 과제로 부상했다.",
+  "mechanism": "디스플레이 층의 순서를 뒤집는 리버스 스택 기술로 화면의 단차를 제거했다. 무게 중심을 사용자의 손 밀도에 맞춰 설계해 장시간 파지 시의 피로도를 낮췄다.",
+  "sensory": "매트한 질감의 알루미늄 하우징과 니트, 식물성 가죽 등 촉각적인 소재를 활용해 차가운 전자 기기에 온기를 더했다.",
+  "transfer": "제품이나 공간 연출 시, 사용자가 접하는 경계면(베젤, 접합부)을 평면화하여 시각적 방해 요소를 제거하는 방식에 활용한다.",
+  "context": "아마존의 하드웨어 연구 개발 부서인 랩126(Lab126)이 2007년부터 이어온 킨들 시리즈의 연장선상에 있다. 이전 작업들이 기능적 확장에 집중했다면, 이번 리디자인은 사용자 경험의 본질인 '몰입'을 위한 하드웨어의 물리적 최적화에 방점을 찍었다.",
+  "findings": [
+   {
+    "text": "아마존의 하드웨어 연구 개발 부서인 랩126이 킨들 시리즈를 개발했다.",
+    "s": 2,
+    "quote": "The hardware platform, which Amazon subsidiary Lab126 developed, began as a single device in 2007."
+   }
+  ],
+  "keywords": [
+   "킨들",
+   "리버스스택",
+   "하드웨어디자인",
+   "인체공학"
+  ],
+  "evidence": "Central to that redesign is a new reverse-stack display construction, which Amazon describes as a first for the e-reader category.",
+  "kind": "제품·오브제",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "하드웨어의 물리적 구조를 바꾼 구체적인 기술적 장치와 인체공학적 해석이 명확하게 제시되었다.",
+  "v": 2,
+  "url": "https://design-milk.com/kindle-redesign/",
+  "original_title": "Amazon Rethinks the Kindle From the Inside Out",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 6253,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-16 08:59",
+  "research": {
+   "entities": [
+    "Amazon",
+    "Kindle",
+    "Kindle Paperwhite",
+    "Kindle Colorsoft",
+    "Kindle Scribe"
+   ],
+   "questions": [
+    "아마존이 이번 킨들 리디자인에서 강조한 '리버스 스택(reverse-stack)' 디스플레이 기술의 구체적인 구조와 장점은 무엇인가?",
+    "킨들 디자인 팀이 제품의 무게 중심과 사용자의 손의 밀도를 고려하여 설계한 인체공학적 접근 방식은 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Amazon (company)",
+     "url": "https://en.wikipedia.org/wiki/Amazon%20%28company%29"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Amazon Kindle",
+     "url": "https://en.wikipedia.org/wiki/Amazon%20Kindle"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "아마존에서 발견한 7가지 소파, 공간의 밀도를 바꾸는 실루엣",
+     "url": "https://www.architecturaldigest.com/story/best-couch-on-amazon"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "아마존 열대우림에 세워진 교육용 파빌리온, 팍토 수마코의 풍경을 담다",
+     "url": "https://www.dezeen.com/2026/08/26/wild-sumaco-research-pavilion-ecuador-caa-pora-arquitectura/"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "비트릴, 설계 실무의 병목을 제거하는 AI 지식 에이전트 도입",
+     "url": "https://design-milk.com/bitreel-ai-knowledge-agents/"
+    }
+   ],
+   "used": [
+    2
+   ],
+   "chars": 2892
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "archdaily.com/1186928/casa-de-tierra-walter-fernando-castaneda-luquerna": {
+  "title_ko": "해발 3,012m 고산 지대, 안데스 생태계에 최소한으로 안착하는 법",
+  "summary_ko": "콜롬비아 안데스 고산림과 파라모 생태계 사이에 위치한 카사 데 티에라(Casa de Tierra)는 해발 3,012m의 환경적 민감성을 고려해 설계되었다. 건축가 발터 페르난도 카스타녜다 루케르나는 최소한의 점유와 낮은 환경적 영향이라는 전략을 통해 고지대 자연과 조화롭게 거주하는 방식을 탐구한다.",
+  "lens": "고산 지대의 거친 기후와 생태계를 보존하기 위해 건축을 지면 위에 띄우거나 최소한의 접점만을 남기는 전략적 배치를 보여준다.",
+  "why_now": "기후 위기 속에서 환경적 민감도가 높은 지역에 건축이 어떻게 개입해야 하는가에 대한 대안적 접근을 제시한다.",
+  "mechanism": "지형에 대한 물리적 점유를 최소화하는 설계 방식을 취하며, 고지대 환경의 변화를 고려한 친환경적 구조 체계를 적용했다.",
+  "sensory": "안데스 고지대 특유의 희박한 공기와 파라모 생태계의 차가운 습기가 건축물의 외피와 맞닿는 건조하고 단단한 질감을 상상하게 한다.",
+  "transfer": "경사지나 생태적 보호 구역 촬영 시, 구조물을 지면에서 띄우거나 최소한의 기초만 사용하는 연출로 자연과 건축의 긴장감을 강조할 수 있다.",
+  "context": "콜롬비아의 험준한 지형적 특성을 반영하여 자연환경과의 공존을 최우선으로 고려한 프로젝트이다.",
+  "findings": [],
+  "keywords": [
+   "고산건축",
+   "지속가능성",
+   "콜롬비아",
+   "생태건축"
+  ],
+  "evidence": "Casa de Tierra explores ways of inhabiting an environmentally sensitive territory through a strategy of minimal occupation and low environmental impact.",
+  "kind": "프로젝트",
+  "depth": 2,
+  "grounding": "thin",
+  "depth_reason": "고산 지대 건축의 전략을 제시하나, 구체적인 재료나 세부 설계 장치에 대한 정보가 부족하여 일반적인 수준의 소개에 그친다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1186928/casa-de-tierra-walter-fernando-castaneda-luquerna",
+  "original_title": "Casa de Tierra / Walter Fernando Castañeda Luquerna",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 1194,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-16 08:59",
+  "research": {
+   "entities": [
+    "Walter Fernando Castañeda Luquerna",
+    "Cinco Solidos",
+    "Casa de Tierra"
+   ],
+   "questions": [
+    "해발 3,012m의 고산 지대라는 환경적 특성이 Casa de Tierra의 건축적 설계에 구체적으로 어떤 영향을 미쳤는가?",
+    "안데스 고산림과 파라모 생태계 사이에서 최소한의 점유와 낮은 환경적 영향을 실현하기 위해 어떤 지속 가능한 건축 전략이 사용되었는가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "design-milk.com/262-fifth-avenue-meganom-norm-architects": {
+  "title_ko": "뉴욕 262 피프스 애비뉴, 엑소 코어 구조로 실현한 무결점 주거",
+  "summary_ko": "건축 스튜디오 메가놈은 262 피프스 애비뉴의 엘리베이터 샤프트와 설비 인프라를 건물 외벽 밖으로 배치하는 엑소 코어 구조를 적용했다. 이 설계로 26개 주거 세대는 내부 기둥 없이 45피트 너비의 완전한 개방형 평면을 확보했다. 인테리어는 노름 아키텍츠가 맡아 자연광과 절제된 물성을 강조하며 도시 상공의 안식처를 구현했다.",
+  "lens": "구조체를 외벽으로 밀어내어 실내 기둥을 제거한 전략은 고층 주거에서 공간의 유연성을 극대화하는 가장 물리적인 해법이다.",
+  "why_now": "도시 주거의 밀도가 높아질수록 설비와 구조가 점유하는 비효율을 걷어내고, 거주자에게 온전한 평면을 돌려주는 설계 방식이 중요해진다.",
+  "mechanism": "건물 외벽에 배치된 엑소 코어 구조가 모든 수직 이동과 설비 라인을 흡수하여, 실내 공간은 20피트 높이의 통창과 기둥 없는 자유로운 평면을 유지한다.",
+  "sensory": "22만 개의 아노다이징 알루미늄 벽돌이 빛의 이동에 따라 표면 질감을 달리하며, 실내는 오크와 석재의 톤온톤 배색으로 도시의 소음과 대비되는 촉각적 고요를 만든다.",
+  "transfer": "공간의 시각적 방해 요소를 '외부화'하여 내부의 개방감을 확보하는 전략을 참고하라. 영상 연출 시 인물의 동선을 가로막는 구조물을 제거하고, 빛이 머무는 벽면의 재질감을 강조하여 공간의 깊이를 표현할 수 있다.",
+  "context": "메가놈은 모스크바의 보행자 거리 프로젝트 등 도시 공간의 사회적 기능을 재정의해왔으며, 이번 프로젝트에서 노름 아키텍츠와 협업하여 처음으로 맨해튼 주거 시장에 진입했다. 노름 아키텍츠는 이전 베드벡 하우스 프로젝트에서 마그네사이트 바닥재를 연속 타설하여 공간을 통합했던 것처럼, 이번에도 단일한 재료와 빛의 흐름을 활용해 공간의 파편화를 지웠다.",
+  "findings": [
+   {
+    "text": "262 피프스 애비뉴는 총 26개의 세대로 구성된 맨해튼의 860피트 높이 주거 타워다.",
+    "s": 1,
+    "quote": "In a city of millions, this address belongs to just 26."
+   },
+   {
+    "text": "건물 최상단에는 70피트 크기의 오큘러스와 24K 금박을 입힌 역아치 구조물이 설치되었다.",
+    "s": 1,
+    "quote": "the tower is crowned by a 70-foot oculus with an illuminated gilded 24-karat gold inverted arch."
+   },
+   {
+    "text": "노름 아키텍츠는 덴마크의 베드벡 하우스에서 마그네사이트 바닥재를 연속 타설하여 공간의 파편화를 제거한 바 있다.",
+    "s": 4,
+    "quote": "기존의 7가지 바닥재를 제거하고 마그네사이트를 연속 타설하여 공간을 통합했으며"
+   }
+  ],
+  "keywords": [
+   "엑소코어",
+   "메가놈",
+   "노름아키텍츠",
+   "평면설계",
+   "맨해튼주거"
+  ],
+  "evidence": "the elevator shafts, major MEP risers, and service infrastructure sit outside the perimeter of the apartments.",
+  "kind": "프로젝트",
+  "depth": 5,
+  "grounding": "full",
+  "depth_reason": "구조적 혁신(엑소 코어)이 인테리어의 개방감으로 이어지는 인과관계가 명확하며, 두 스튜디오의 철학이 구체적인 마감과 공간 구성에 어떻게 적용되었는지 잘 드러난다.",
+  "v": 2,
+  "url": "https://design-milk.com/262-fifth-avenue-meganom-norm-architects/",
+  "original_title": "262 Fifth Avenue Pairs Sculptural Architecture With Serene Interiors",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 5841,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-16 08:59",
+  "research": {
+   "entities": [
+    "262 Fifth Avenue",
+    "Meganom",
+    "Norm Architects",
+    "Giusto Manetti Battiloro",
+    "Five Points Development Group"
+   ],
+   "questions": [
+    "262 Fifth Avenue의 엑소 코어(exo-core) 구조가 거주 공간의 개방감과 기능성에 구체적으로 어떤 이점을 제공하는가?",
+    "Norm Architects가 추구한 'Sanctuary in the Sky'라는 디자인 철학이 뉴욕의 고층 주거 환경에서 어떻게 구현되었는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "262 Fifth Avenue | Luxury Condominiums in NoMad, Manhattan",
+     "url": "https://262fifthavenue.com/"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Meganom: Architectural Practice",
+     "url": "https://meganom.team/"
+    },
+    {
+     "n": 3,
+     "type": "공식·1차",
+     "title": "Norm Architects | Designing architecture, interiors and products",
+     "url": "https://normcph.com/"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "베드벡 하우스: 1911년 해안 빌라를 관통하는 마그네사이트 바닥의 미학",
+     "url": "https://leibal.com/interiors/vedbaek-house-2/"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "chars": 8070
+  },
+  "depth_raw": 5,
+  "depth_v": 2
+ },
+ "architecturaldigest.com/story/swizz-beatzs-cb2-collaboration": {
+  "title_ko": "스위즈 비츠와 CB2의 첫 가구 협업, 카사 딘 컬렉션",
+  "summary_ko": "그래미 수상 프로듀서 스위즈 비츠가 홈 데코 브랜드 CB2와 협업해 첫 가구 컬렉션 '카사 딘'을 선보였다. 스튜디오 아난시의 에반 제리와 함께 개발한 이 라인은 올리브 그린 벨벳, 플러피 토프 시어링, 연기색 유리 등 대담한 조형과 부드러운 질감을 결합했다.",
+  "lens": "음악을 만들던 감각을 가구의 물성과 조형으로 치환해 공간의 리듬을 만든다.",
+  "why_now": "음악 프로듀서가 공간 디자인 영역으로 확장하여 가구를 소리 없는 설치 미술이자 가족의 만남을 돕는 장치로 제안한다.",
+  "mechanism": "올리브 그린 벨벳의 채널 터프티드 소파와 달걀 형태의 회전 의자, 마파 벌 나무 DJ 콘솔 등 대담한 실루엣과 촉각적 소재가 대비를 이룬다.",
+  "sensory": "영국 레이싱 그린의 짙은 가죽 질감과 브론즈 악센트, 따뜻한 상아색 뉴질랜드 울 러그가 시각적 깊이감과 포근함을 동시에 전달한다.",
+  "transfer": "공간 콘티에 짙은 녹색 가죽과 브론즈 악센트를 배치하고, 텍스처가 살아있는 시어링 소재 의자로 시각적 밀도를 높인다.",
+  "context": "음악 프로듀서 카심 '스위즈 비츠' 딘은 월리스 E. 커닝햄이 설계한 레이저 하우스를 소유하고 있으며, 스튜디오 아난시의 창립자 에반 제리와 협력해 이번 라인을 완성했다.",
+  "findings": [],
+  "keywords": [
+   "스위즈비츠",
+   "CB2",
+   "카사딘",
+   "가구디자인"
+  ],
+  "evidence": "While creating the Casa Dean by Swizz Beatz line, which launched today, Kasseem “Swizz Beatz” Dean... found that music and design flex the same artistic muscles.",
+  "kind": "제품·오브제",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "유명 뮤지션과 브랜드의 협업 제품 소개 기사로 정보가 명확하나 상용 가구 라인 출시에 가깝다.",
+  "v": 2,
+  "url": "https://www.architecturaldigest.com/story/swizz-beatzs-cb2-collaboration",
+  "original_title": "Swizz Beatz CB2 Collection 2026: Exclusive Interview",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 3047,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-16 08:59",
+  "research": {
+   "entities": [
+    "Swizz Beatz",
+    "CB2",
+    "Wallace E. Cunningham",
+    "Studio ANANSI"
+   ],
+   "questions": [
+    "스위즈 비츠가 CB2와 협업하여 선보인 'Casa Dean' 컬렉션의 핵심 디자인 철학과 영감의 원천은 무엇인가?",
+    "스튜디오 아난시(Studio ANANSI)의 창립자 에반 제리(Evan Jerry)는 이번 가구 및 데코 라인 개발 과정에서 어떤 역할을 담당했는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Swizz Beatz",
+     "url": "https://en.wikipedia.org/wiki/Swizz%20Beatz"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Wallace E. Cunningham",
+     "url": "https://en.wikipedia.org/wiki/Wallace%20E.%20Cunningham"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "카사 딘(Casa Dean): 힙합 프로듀서 스위즈 비츠가 설계한 가구의 언어",
+     "url": "https://www.wallpaper.com/design-interiors/furniture/swizz-beatz-cb2-casa-dean-collection"
+    }
+   ],
+   "used": [],
+   "chars": 1898
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "architecturaldigest.com/story/julie-hillman-ferguson-shamamian-exquisitely-detailed-duplex": {
+  "title_ko": "줄리 힐먼이 설계한 파크 애비뉴 듀플렉스, 장인 정신으로 완성한 텍스처의 변주",
+  "summary_ko": "디자이너 줄리 힐먼이 뉴욕 파크 애비뉴의 5,600평방피트 규모 듀플렉스를 리노베이션했다. 그는 영국, 프랑스, 이탈리아의 장인들과 협업하여 유리, 자수 캐시미어, 청동 등 이질적인 재료를 공간 곳곳에 배치했다. 고전적인 아파트 골격은 유지하되, 가변적인 가구와 맞춤형 조명을 도입해 현대적인 생활 방식을 담아냈다.",
+  "lens": "고전적인 주거 공간에 금속, 유리, 자수 캐시미어 같은 장인적 물성을 층층이 쌓아 올려, 공간의 깊이를 물리적 촉각으로 치환한다.",
+  "why_now": "디지털화된 생산 방식에서 벗어나, 20단계의 공정을 거친 수작업의 흔적을 공간의 핵심 요소로 삼는 태도가 돋보인다.",
+  "mechanism": "이동식 바퀴를 숨긴 분리형 테이블과 투명도를 조절한 유리 조명으로 공간의 용도를 유연하게 변경하고 빛의 산란을 제어한다.",
+  "sensory": "은색 청동 실을 엮은 벽면의 금속성 질감과 자수를 놓은 캐시미어 옷장 문이 시각적·촉각적 대비를 이룬다.",
+  "transfer": "공간의 목적에 따라 가구의 배치를 바꾸는 상황에서, 하단에 바퀴를 숨긴 모듈형 테이블을 활용해 시각적 무거움을 덜어내고 동선의 자유도를 확보한다.",
+  "context": "줄리 힐먼은 이번 프로젝트에서 에르베 반 데르 스트라텐(Hervé Van Der Straeten)의 조명을 활용했는데, 이는 과거 RE:COLLECTION에서 다룬 뮤리엘 브란돌리니의 작업에서도 공간의 조형성을 완성하는 요소로 등장한 바 있다.",
+  "findings": [],
+  "keywords": [
+   "줄리힐먼",
+   "장인정신",
+   "인테리어디자인",
+   "듀플렉스",
+   "커스텀가구"
+  ],
+  "evidence": "To design this grand Park Avenue duplex, AD100 designer Julie Hillman assembled an exceptional cast of artisans from around the world",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "장인들과의 협업 공정과 공간의 기능을 전환하는 구체적인 가구 설계 방식이 상세히 기술되어 있다.",
+  "v": 2,
+  "url": "https://www.architecturaldigest.com/story/julie-hillman-ferguson-shamamian-exquisitely-detailed-duplex",
+  "original_title": "In This Exquisitely Detailed Duplex the Sofa Legs Are Made of Glass and the Closet Doors of Embroidered Cashmere",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 5082,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-16 08:59",
+  "research": {
+   "entities": [
+    "Julie Hillman",
+    "Ferguson & Shamamian Architects",
+    "Villa Necchi Campiglio",
+    "Hervé Van Der Straeten",
+    "Ingrid Donat"
+   ],
+   "questions": [
+    "줄리 힐먼(Julie Hillman)이 인테리어 디자인 과정에서 장인들과 협업하여 구현하고자 했던 '20단계 공정'의 미학적 의도는 무엇인가?",
+    "파크 애비뉴 듀플렉스 프로젝트에서 고전적인 건축 구조와 현대적인 커스텀 가구의 조화를 이루기 위해 사용된 구체적인 디자인 전략은 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "뮤리엘 브란돌리니가 완성한 이스트 리버의 떠다니는 거실",
+     "url": "https://www.architecturaldigest.com/story/muriel-brandolini-turns-her-manhattan-apartment-into-a-jewel-toned-floating-world"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 284
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "wallpaper.com/architecture/riba-stirling-prize-2026-winner": {
+  "title_ko": "지형과 풍경을 최우선에 둔 주거단지, 2026 RIBA 스털링 상 수상",
+  "summary_ko": "영국 왕립 건축가 협회는 2026년 스털링 상 수상작으로 메리 더건 건축사사무소가 설계하고 러프 아키텍츠가 시공한 런던 남부 크로이던의 주거 단지 라이언 그린 로드를 선정했다. 이 프로젝트는 8미터에 달하는 고저 차가 있는 지형 속에서 157채의 주거 동을 자연 풍경과 조화시키며 공공성과 지속 가능성을 동시에 확보했다.",
+  "lens": "건축물이 지형을 억누르지 않고 깎인 절개지와 나무 사이를 파고들며 풍경의 일부가 된다.",
+  "why_now": "건축이 단순한 스타일을 넘어 주변 생태계와 지형적 제약을 존중하는 태도가 동시대 핵심 과제로 떠올랐음을 보여준다.",
+  "mechanism": "8미터 레벨 차이가 나는 지형적 분지에서 프리즘 형태의 13면 블록들을 분산 배치해 시선이 겹치지 않게 하고, 벽돌 패턴과 식재로 외부 공간을 엮었다.",
+  "sensory": "텍스처가 살아있는 벽돌 외장과 울창한 식재가 어우러져, 거친 경사지와 부드러운 조경 사이의 물성적 대비를 체감하게 만든다.",
+  "transfer": "경사지와 레벨 차가 큰 로케이션에서 카메라를 낮게 붙여 인위적 구조물과 자연 지형의 만남을 입체적인 앵글로 포착한다.",
+  "context": "올해로 30주년을 맞이한 RIBA 스털링 상은 영국의 최고 권위 건축상으로 건축의 진화와 사회적 책임을 기념한다.",
+  "findings": [
+   {
+    "text": "스털링 상은 1996년에 시작되어 올해 30주년 기념 해를 맞이했다.",
+    "s": 1,
+    "quote": "Launched in 1996 and now celebrating it's 30th anniversary year, the Stirling Prize is the successor to our Building of the Year Award."
+   }
+  ],
+  "keywords": [
+   "RIBA스털링상",
+   "메리더건",
+   "주거단지",
+   "지형건축",
+   "런던건축"
+  ],
+  "evidence": "Lion Green Road comprises 157 dwellings – both private and affordable. They are arranged into five prismatic 13-sided blocks set on the green hillside in Coulsdon, Croydon",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "구체적인 수상작과 설계 장치가 명확하며 지형 극복 과정이 돋보이지만 대규모 주거 단지라는 전형성이 존재한다.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/architecture/riba-stirling-prize-2026-winner",
+  "original_title": "Who is the RIBA Stirling Prize 2026 winner? We reveal all",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 9000,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-16 08:59",
+  "research": {
+   "entities": [
+    "RIBA Stirling Prize",
+    "Mary Duggan Architects",
+    "RUFF Architects",
+    "Lion Green Road",
+    "Royal Institute of British Architects"
+   ],
+   "questions": [
+    "Lion Green Road 프로젝트가 주변 지형과 역사적 유적지를 고려하여 어떻게 설계되었나요?",
+    "RIBA Stirling Prize 심사위원단이 Lion Green Road를 올해의 수상작으로 선정한 핵심적인 건축적 가치는 무엇인가요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "RIBA Stirling Prize",
+     "url": "https://www.riba.org/explore/awards/uk-awards/stirling-prize/"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Mary Duggan",
+     "url": "https://en.wikipedia.org/wiki/Mary%20Duggan"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Royal Institute of British Architects",
+     "url": "https://en.wikipedia.org/wiki/Royal%20Institute%20of%20British%20Architects"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "영국 왕립 건축가 협회, 전 회장과의 법적 분쟁 종결에 합의금 지급",
+     "url": "https://www.dezeen.com/2026/09/30/riba-alan-jones-legal-dispute/"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 4443
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "architecturaldigest.com/story/jon-batiste-and-suleika-jaouad-anthropologie-collection": {
+  "title_ko": "튀니지와 루이지애나의 교차점, 존 바티스트와 술레이카 자우아드의 튀니지아나 컬렉션",
+  "summary_ko": "음악가 존 바티스트와 작가 술레이카 자우아드가 앤스로폴로지와 협업해 46종의 홈 데코 컬렉션을 선보인다. 두 사람의 혈통인 튀니지와 루이지애나의 문화적 뿌리를 결합한 '튀니지아나' 스타일을 바탕으로, 직접 그린 수채화 패턴과 북아프리카 가구 형태를 가구와 테이블웨어에 녹여냈다.",
+  "lens": "개인적인 서사를 일상의 기물로 치환하여, 대량 생산되는 제품에 작가 부부의 고유한 생활 양식과 미학적 취향을 이식했다.",
+  "why_now": "디지털 시대에 음악과 기록을 물리적 형태의 오브제로 구현하여, 공간 내에서 능동적인 사용 경험을 유도한다.",
+  "mechanism": "북아프리카 오스만 스타일의 팔각형 구조를 피아노 의자에 적용하고, 회전식 챔버를 갖춘 칵테일 셰이커를 통해 기능과 서사를 하나의 오브제에 통합했다.",
+  "sensory": "머스터드 벨벳의 부드러운 질감과 꼬인 프린지 장식의 움직임, 수채화의 번짐이 살아있는 푸른 잎사귀 패턴이 공간에 유연한 리듬감을 더한다.",
+  "transfer": "가구의 다리나 손잡이 등 작은 디테일에 개인적인 장식 요소를 더해, 기능적 오브제를 단순한 도구가 아닌 공간의 주인공으로 연출한다.",
+  "context": "자우아드는 브루클린 자택을 직접 리모델링하며 프레스코화와 회반죽 작업을 익혔고, 이 경험이 이번 컬렉션의 직접적인 밑거름이 되었다. RE:COLLECTION은 과거 앤스로폴로지의 하드웨어 컬렉션을 통해 가구의 디테일이 공간의 인상을 결정짓는 방식을 다룬 바 있다.",
+  "findings": [
+   {
+    "text": "존 바티스트는 그래미 어워드 8회 수상 및 2020년 픽사 영화 '소울'의 음악 감독으로 활동한 다재다능한 음악가이다.",
+    "s": 1,
+    "quote": "Batiste has garnered eight Grammy Awards from 25 nominations, including an Album of the Year win for We Are (2021). In 2020, he co-composed the score for the Pixar animated film Soul"
+   },
+   {
+    "text": "술레이카 자우아드는 백혈병 투병기를 다룬 회고록 'Between Two Kingdoms'로 뉴욕타임스 베스트셀러 작가가 되었다.",
+    "s": 2,
+    "quote": "Her 2021 memoir Between Two Kingdoms, covering her struggle with leukemia, was a New York Times Best Seller."
+   }
+  ],
+  "keywords": [
+   "튀니지아나",
+   "앤스로폴로지",
+   "서사적가구",
+   "라이프스타일"
+  ],
+  "evidence": "Tunisiana. It’s a portmanteau inspired by their fatherlands, Tunisia and Louisiana, and the French and African roots the two places share.",
+  "kind": "제품·오브제",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "예술가 부부의 개인적 서사가 제품의 형태와 기능으로 구체화된 과정을 상세히 다루고 있어 실무적 영감을 준다.",
+  "v": 2,
+  "url": "https://www.architecturaldigest.com/story/jon-batiste-and-suleika-jaouad-anthropologie-collection",
+  "original_title": "Jon Batiste and Suleika Jaouad’s Anthropologie Collection Gives You 46 Reasons To Throw A Dinner Party (2026)",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 4565,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-16 08:59",
+  "research": {
+   "entities": [
+    "Jon Batiste",
+    "Suleika Jaouad",
+    "Anthropologie",
+    "Crosley",
+    "Labi Siffre"
+   ],
+   "questions": [
+    "존 바티스트와 술레이카 자우아드가 정의하는 '튀니지아나(Tunisiana)' 스타일의 미학적 특징은 무엇인가요?",
+    "예술가 부부가 일상적인 가구와 소품을 디자인할 때 개인적인 서사를 어떻게 제품에 투영했나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Jon Batiste",
+     "url": "https://en.wikipedia.org/wiki/Jon%20Batiste"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Suleika Jaouad",
+     "url": "https://en.wikipedia.org/wiki/Suleika%20Jaouad"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "작은 손잡이로 공간을 고치는 아키텍처럴 다이제스트의 하드웨어 가이드",
+     "url": "https://www.architecturaldigest.com/story/best-hardware-brands-interior-monologue"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3
+   ],
+   "chars": 2070
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "booooooom.com/2026/10/15/impermanence-%e7%84%a1%e5%b8%b8-by-artist-shuto-okayasu": {
+  "title_ko": "무상의 시간과 모자이크: 슈토 오카야스의 개인전",
+  "summary_ko": "브루클린을 기반으로 활동하는 예술가 슈토 오카야스가 뉴욕 플라톤 갤러리에서 개인전 '무상'을 개최한다. 우키요에와 일본화, 서양의 인상주의와 실사 회화 등을 결합해 일상의 풍경과 일시성의 가치를 탐구한다.",
+  "lens": "우키요에와 서양 인상주의를 엮어 유한한 일상의 순간을 시각적 모자이크로 직조한다.",
+  "why_now": "변화하는 계절과 반복되지 않는 생의 감각을 다루며 가속화되는 도시의 속도 속에서 일시성의 의미를 환기한다.",
+  "mechanism": "우키요에, 만화, 애니메이션, 서양 실사 회화의 이질적인 시각 어휘를 한 화면에 겹쳐 동서양의 감각을 동시에 드러낸다.",
+  "sensory": "자연과 인간, 반려동물이 뒤섞인 다채로운 화면 속에서 삶의 덧없음이 지닌 미감을 전달한다.",
+  "transfer": "이질적인 장르의 드로잉 요소와 스타일을 하나의 화면에 콜라주하는 방식으로 멀티 레이어드 비주얼을 구성할 때 활용한다.",
+  "context": "도쿄 조케이 대학에서 학사 학위를 취득하고 무라카미 다카시와 마츠야마 토모카즈 밑에서 견습했다.",
+  "findings": [
+   {
+    "text": "도쿄 조케이 대학은 1966년 일본의 미술 교육자이자 패션 디자이너인 쿠와사바 요코가 설립한 사립 미술대학이다.",
+    "s": 1,
+    "quote": "Tokyo Zokei University (東京造形大学, Tōkyō zōkei daigaku) is a private university in Hachioji, Tokyo, Japan, founded in 1966 by Japanese art educator, fashion designer and design journalist, Yoko Kuwasawa"
+   }
+  ],
+  "keywords": [
+   "슈토오카야스",
+   "무상",
+   "플라톤갤러리",
+   "우키요에",
+   "컨템퍼러리아트"
+  ],
+  "evidence": "Brooklyn-based Japanese artist Shuto Okayasu explores the theme of transience in his latest solo exhibition with Plato gallery.",
+  "kind": "전시",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "개인전의 주제와 작가의 이력을 다루나 평이한 소개에 머문다.",
+  "v": 2,
+  "url": "https://www.booooooom.com/2026/10/15/impermanence-%e7%84%a1%e5%b8%b8-by-artist-shuto-okayasu/",
+  "original_title": "“Impermanence/無常” by Artist Shuto Okayasu",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 1122,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-16 08:59",
+  "research": {
+   "entities": [
+    "Shuto Okayasu",
+    "Plato gallery",
+    "Tokyo Zokei University",
+    "Takashi Murakami",
+    "Tomokazu Matsuyama"
+   ],
+   "questions": [
+    "일본 전통 예술의 '무상(無常)' 개념이 현대 미술에서 어떻게 재해석되고 있는가?",
+    "오카야스 슈토의 작품에 나타나는 동서양 예술 양식의 결합 방식은 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Tokyo Zokei University",
+     "url": "https://en.wikipedia.org/wiki/Tokyo%20Zokei%20University"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Takashi Murakami",
+     "url": "https://en.wikipedia.org/wiki/Takashi%20Murakami"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "전설을 박제하지 않는 법: 마츠야마 토모카즈가 그린 로린 힐의 현재",
+     "url": "https://elephant.art/how-to-paint-a-legend-tomokazu-matsuyama-on-his-portrait-of-ms-lauryn-hill/"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "루브르 렌즈, 고대부터 현대까지 귀여움의 미학을 해부하다",
+     "url": "https://www.designboom.com/art/louvre-lens-exhibition-cuteness-art-history-pink-toys-kawaii/"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "유치원 미학의 부상: 디자인계가 어린 시절로 돌아가는 이유",
+     "url": "https://www.architecturaldigest.com/story/next-big-design-movement-is-childlike-design"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 2320
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "design-milk.com/n53-cigar-lounge-dubai": {
+  "title_ko": "두바이 N53 시가 라운지: 매사냥의 서사를 담은 현대적 공중 은신처",
+  "summary_ko": "베르그만 디자인 하우스(Bergman Design House)는 두바이 원 자빌(One Za’abeel)의 건축물인 '더 링크(The Link)' 내부에 N53 시가 라운지를 설계했다. 전통적인 시가 클럽의 어두운 분위기에서 벗어나, 지역 전통인 매사냥 문화를 현대적인 마케트리 예술과 재료로 재해석하여 공간에 녹여냈다.",
+  "lens": "고층 건축의 차가운 금속성과 대비되는 따뜻한 색감의 목재와 가죽, 그리고 구름처럼 부유하는 금속 메쉬 조명을 통해 공중 도시 속의 친밀한 밀도를 구축한다.",
+  "why_now": "초고층 빌딩의 거대한 스케일 속에서 사용자의 심리적 안정을 유도하는 세밀한 공간 분할과 지역 서사의 현대적 치환이 중요한 디자인 전략으로 부상하고 있다.",
+  "mechanism": "금속 메쉬를 활용한 부유하는 천장 조명과 무라노 유리 조명을 배치하여 공간의 수직적 무게감을 덜어내고, 시가 디스플레이와 개인용 휴미더를 중심으로 동선을 분산시켜 프라이빗한 경험을 유도한다.",
+  "sensory": "담뱃잎과 캐러멜, 코냑의 따뜻한 색조가 공간을 채우고, 다마스쿠스 강철과 치폴리노 대리석의 차가운 질감이 묵직한 촉각적 대비를 이룬다.",
+  "transfer": "공간의 중심을 잡는 오브제에 지역적 모티프를 투영할 때, 전통 문양을 현대적인 마케트리나 금속 공예로 치환하여 인테리어의 서사를 강화하는 방식을 적용할 수 있다.",
+  "context": "원 자빌은 두바이의 스카이라인을 재정의하는 상징적인 복합 개발 프로젝트로, N53은 이 건축적 맥락 속에서 현대적 럭셔리와 전통 공예를 잇는 교차점으로 설계되었다.",
+  "findings": [
+   {
+    "text": "원 자빌은 두바이의 중심부에 위치하며 세계적인 수준의 주거, 업무, 여가 경험을 결합한 랜드마크 개발 프로젝트이다.",
+    "s": 1,
+    "quote": "One Za’abeel has been designed to incorporate the world’s best living, working and leisure experiences in the heart of Dubai, to create something simply spectacular and everlasting."
+   }
+  ],
+  "keywords": [
+   "시가라운지",
+   "베르그만디자인하우스",
+   "원자빌",
+   "매사냥",
+   "마케트리"
+  ],
+  "evidence": "N53 introduces a layered interior language, one that blends contemporary luxury with heritage craftsmanship, creating a timeless counterpoint to the building’s striking modernity",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "건축적 맥락과 지역적 서사를 인테리어 재료 및 조명 기법으로 구체적으로 연결하여 설계 의도가 명확하게 드러난다.",
+  "v": 2,
+  "url": "https://design-milk.com/n53-cigar-lounge-dubai/",
+  "original_title": "Falconry Takes Flight Inside Dubai’s N53 Cigar Lounge",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 5286,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-16 08:59",
+  "research": {
+   "entities": [
+    "Bergman Design House",
+    "One Za’abeel",
+    "Marie Soliman",
+    "N53"
+   ],
+   "questions": [
+    "두바이 원 자빌(One Za’abeel)의 독특한 건축적 특징이 N53 시가 라운지의 인테리어 구상에 어떻게 반영되었나요?",
+    "베르그만 디자인 하우스(Bergman Design House)는 아랍에미리트의 전통 매사냥 문화를 현대적인 공간 디자인으로 어떻게 해석해 녹여냈나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "One Za'abeel: Ultimate Address in Dubai",
+     "url": "https://www.onezaabeel.com/"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 1370
+  },
+  "depth_raw": 4,
+  "depth_v": 2
  }
 }

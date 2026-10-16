@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-10-16 02:34 KST",
+  "generated_at": "2026-10-16 08:59 KST",
   "period": "2026.10.09 - 2026.10.16",
-  "total_articles": 357,
+  "total_articles": 375,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 167
+      "count": 177
     },
     {
       "genre": "동시대 미술",
-      "count": 146
+      "count": 153
     },
     {
       "genre": "아방가르드 패션",
@@ -17,16 +17,28 @@
     },
     {
       "genre": "미디어 파사드·3D",
-      "count": 15
+      "count": 16
     }
   ],
   "themes": [
     {
       "keyword": "가구 디자인",
-      "count": 14,
+      "count": 16,
       "previous_count": 11,
       "trend": "rising",
       "items": [
+        {
+          "title": "매사냥, 두바이의 N53 시가 라운지에서 비행하다",
+          "url": "https://design-milk.com/n53-cigar-lounge-dubai/",
+          "image_url": "https://design-milk.com/images/2026/10/11.-Bergman_OneOnly_N53_HR_33-e1792084269641-1500x1000.jpg",
+          "source_name": "Design Milk"
+        },
+        {
+          "title": "Swizz Beatz CB2 Collection 2026: Exclusive Interview",
+          "url": "https://www.architecturaldigest.com/story/swizz-beatzs-cb2-collaboration",
+          "image_url": "https://media.architecturaldigest.com/photos/6ad13d6c439f02d8f746e785/master/pass/CB2FA26_SB_Portrait_4_02_Hero.jpg",
+          "source_name": "Architectural Digest"
+        },
         {
           "title": "모르타르 하우스 오피스/로직 디자인 + 빌드",
           "url": "https://www.archdaily.com/1186745/the-mortar-house-offices-logic-design-plus-build",
@@ -38,18 +50,6 @@
           "url": "https://www.wallpaper.com/design-interiors/furniture/swizz-beatz-cb2-casa-dean-collection",
           "image_url": "https://cdn.mos.cms.futurecdn.net/qW8DyzmprxRmc6PUusaKzi-1920-80.jpg",
           "source_name": "Wallpaper*"
-        },
-        {
-          "title": "Jonas Hejduk의 흐릿한 가구는 일부러 해상도가 낮습니다.",
-          "url": "https://www.dezeen.com/2026/10/15/jonas-hejduk-blurry-low-resolution-furnishings/",
-          "image_url": "https://static.dezeen.com/uploads/2026/10/jonas-hejduk-low-res-furniture-rugs-bench_dezeen_2364_col_8-852x852.jpg",
-          "source_name": "Dezeen"
-        },
-        {
-          "title": "멕시코시티의 \"시크릿\" 바라간 (Barragán) 주택에서 가구를 수납할 수 있는 재활용 플라스틱 플린트",
-          "url": "https://www.dezeen.com/2026/10/14/design-week-mexico-2026-creative-immersions-casa-ortega/",
-          "image_url": "https://static.dezeen.com/uploads/2026/10/casa-ortega-creative-immersions-france-mexico-design-week-mexico-2026_dezeen_2364_sq-1-852x852.jpg",
-          "source_name": "Dezeen"
         }
       ]
     },
@@ -86,6 +86,38 @@
       ]
     },
     {
+      "keyword": "텍스타일·직물",
+      "count": 5,
+      "previous_count": 1,
+      "trend": "rising",
+      "items": [
+        {
+          "title": "섬유 및 섬유 예술에 관한 필독서 12권",
+          "url": "https://hyperallergic.com/12-must-read-books-on-textiles-and-fiber-art/",
+          "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/10/2-2.jpg",
+          "source_name": "Hyperallergic"
+        },
+        {
+          "title": "시민 캠퍼스 Sallarès Deu/JAAS",
+          "url": "https://www.archdaily.com/1186766/sallares-deu-jaas",
+          "image_url": "https://images.adsttc.com/media/images/6ace/9845/b2c4/c300/0178/eeb2/large_jpg/JAAS_SD_03_Foto_Adria_Goula.jpg?1791924320",
+          "source_name": "ArchDaily"
+        },
+        {
+          "title": "Hermès reframes traditional textile crafts with the Arceau Cheval Natté watch",
+          "url": "https://www.wallpaper.com/watches-jewellery/hermes-arceau-cheval-natte-watch",
+          "image_url": "https://cdn.mos.cms.futurecdn.net/pEtWXFnyCYSefeVhG26LVa-1920-80.jpg",
+          "source_name": "Wallpaper*"
+        },
+        {
+          "title": "멕시코시티 건축 도시 가이드: 테노치티틀란에서 21세기에 이르는 38가지 프로젝트",
+          "url": "https://www.archdaily.com/866897/30-sites-every-architect-should-visit-in-mexico-city",
+          "image_url": "https://images.adsttc.com/media/images/6a41/1839/8481/2b01/8af5/0ade/large_jpg/mexico-city-architecture-city-guide-38-projects-from-tenochtitlan-to-the-21st-century_37.jpg?1782650950",
+          "source_name": "ArchDaily"
+        }
+      ]
+    },
+    {
       "keyword": "설치 미술",
       "count": 5,
       "previous_count": 3,
@@ -113,38 +145,6 @@
           "title": "공명 - 탈린 건축 비엔날레 설치/ARU Ma- Architects",
           "url": "https://www.archdaily.com/1186616/resonance-tallinn-architecture-biennale-installation-aru-ma-architects",
           "image_url": "https://images.adsttc.com/media/images/6ac8/ace4/b2c4/c300/0178/e4c4/large_jpg/IMG_9828.jpg?1791536587",
-          "source_name": "ArchDaily"
-        }
-      ]
-    },
-    {
-      "keyword": "텍스타일·직물",
-      "count": 4,
-      "previous_count": 1,
-      "trend": "rising",
-      "items": [
-        {
-          "title": "시민 캠퍼스 Sallarès Deu/JAAS",
-          "url": "https://www.archdaily.com/1186766/sallares-deu-jaas",
-          "image_url": "https://images.adsttc.com/media/images/6ace/9845/b2c4/c300/0178/eeb2/large_jpg/JAAS_SD_03_Foto_Adria_Goula.jpg?1791924320",
-          "source_name": "ArchDaily"
-        },
-        {
-          "title": "Hermès reframes traditional textile crafts with the Arceau Cheval Natté watch",
-          "url": "https://www.wallpaper.com/watches-jewellery/hermes-arceau-cheval-natte-watch",
-          "image_url": "https://cdn.mos.cms.futurecdn.net/pEtWXFnyCYSefeVhG26LVa-1920-80.jpg",
-          "source_name": "Wallpaper*"
-        },
-        {
-          "title": "멕시코시티 건축 도시 가이드: 테노치티틀란에서 21세기에 이르는 38가지 프로젝트",
-          "url": "https://www.archdaily.com/866897/30-sites-every-architect-should-visit-in-mexico-city",
-          "image_url": "https://images.adsttc.com/media/images/6a41/1839/8481/2b01/8af5/0ade/large_jpg/mexico-city-architecture-city-guide-38-projects-from-tenochtitlan-to-the-21st-century_37.jpg?1782650950",
-          "source_name": "ArchDaily"
-        },
-        {
-          "title": "린호 하우스/테트로 아르키테투라",
-          "url": "https://www.archdaily.com/1033039/linho-house-tetro-arquitetura",
-          "image_url": "https://images.adsttc.com/media/images/689b/9b43/07ae/3401/89b5/21ea/large_jpg/casa-de-linho-tetro-arquitetura_1.jpg?1755028307",
           "source_name": "ArchDaily"
         }
       ]
@@ -216,6 +216,8 @@
   ],
   "notable_names": [
     "Mexico City",
+    "Frieze London",
+    "Swizz Beatz",
     "Quil Lemons",
     "Benjamin Moore",
     "Gustaf Westman"
