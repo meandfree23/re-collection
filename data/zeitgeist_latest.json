@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-16 14:10 KST",
+  "generated_at": "2026-10-16 16:38 KST",
   "period": "2026.10.09 - 2026.10.16",
-  "total_articles": 387,
+  "total_articles": 388,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 186
+      "count": 187
     },
     {
       "genre": "동시대 미술",
@@ -87,10 +87,16 @@
     },
     {
       "keyword": "텍스타일·직물",
-      "count": 5,
+      "count": 6,
       "previous_count": 1,
       "trend": "rising",
       "items": [
+        {
+          "title": "TAFA 아트 블록/믹스 아키텍처의 핵심 영역 개조",
+          "url": "https://www.archdaily.com/1186609/renovation-of-the-core-area-of-tafa-art-block-mix-architecture",
+          "image_url": "https://images.adsttc.com/media/images/6ac8/958c/7887/fb21/1c77/dbea/large_jpg/renovation-of-the-core-area-of-tafa-art-block-mix-architecture_50.jpg?1791530410",
+          "source_name": "ArchDaily"
+        },
         {
           "title": "섬유 및 섬유 예술에 관한 필독서 12권",
           "url": "https://hyperallergic.com/12-must-read-books-on-textiles-and-fiber-art/",
@@ -108,12 +114,6 @@
           "url": "https://www.wallpaper.com/watches-jewellery/hermes-arceau-cheval-natte-watch",
           "image_url": "https://cdn.mos.cms.futurecdn.net/pEtWXFnyCYSefeVhG26LVa-1920-80.jpg",
           "source_name": "Wallpaper*"
-        },
-        {
-          "title": "멕시코시티 건축 도시 가이드: 테노치티틀란에서 21세기에 이르는 38가지 프로젝트",
-          "url": "https://www.archdaily.com/866897/30-sites-every-architect-should-visit-in-mexico-city",
-          "image_url": "https://images.adsttc.com/media/images/6a41/1839/8481/2b01/8af5/0ade/large_jpg/mexico-city-architecture-city-guide-38-projects-from-tenochtitlan-to-the-21st-century_37.jpg?1782650950",
-          "source_name": "ArchDaily"
         }
       ]
     },
@@ -216,6 +216,7 @@
   ],
   "notable_names": [
     "Mexico City",
+    "Mix Architecture",
     "RIBA Stirling Prize",
     "Frieze London",
     "Swizz Beatz",

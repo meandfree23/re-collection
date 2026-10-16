@@ -176031,5 +176031,80 @@
   },
   "depth_raw": 4,
   "depth_v": 2
+ },
+ "archdaily.com/1186609/renovation-of-the-core-area-of-tafa-art-block-mix-architecture": {
+  "title_ko": "톈진 미술 아카데미와 구도심의 결을 잇는 믹스 아키텍처의 아트 블록 재생",
+  "summary_ko": "믹스 아키텍처가 톈진 미술 아카데미 인근의 100년 된 구시가지를 예술 중심의 복합 문화 지구로 탈바꿈시켰다. 대학 캠퍼스, 주거지, 관광지, 지역 사회를 통합하는 4구역 융합 전략을 통해 톈진 아이와 하이허 강의 관광 흐름을 도심 내부로 끌어들인다. 핵심 구역은 톈웨이 도로를 경계로 남측 A구역과 북측 B구역으로 나뉜다.",
+  "lens": "역사적 도시 조직을 보존하면서도 대학 캠퍼스의 개방성을 상업 공간으로 확장해 구도심의 정체성을 재구축한다.",
+  "why_now": "관광 명소인 톈진 아이로 유입되는 인파를 정체된 구도심으로 순환시켜 도시 재생의 경제적 동력을 마련한다.",
+  "mechanism": "대학과 지역 사회를 가로막던 물리적 경계를 허물고, 톈웨이 도로를 중심으로 구역을 분할해 보행 흐름을 유도하는 개방형 배치 전략을 취한다.",
+  "sensory": "100년 된 벽돌과 골목의 질감이 현대적인 상업 시설의 유리, 금속 마감과 대조를 이루며 시간의 층위를 시각적으로 드러낸다.",
+  "transfer": "기존 건물의 골조를 남기고 내부 동선만 수정하여 신구의 대비를 극대화하는 리노베이션 콘티에 적용할 수 있다.",
+  "context": "믹스 아키텍처는 우한의 옌칭리 프로젝트에서 역사적 리펀 건축의 골목 체계를 보존하며 상업 공간으로 전환하는 전략을 선보인 바 있다. 이번 프로젝트는 톈진 미술 아카데미라는 교육 기관의 맥락을 도시 재생과 결합하여 공공성을 강화하는 방식으로 확장되었다.",
+  "findings": [
+   {
+    "text": "톈진 미술 아카데미는 1906년 북양여사범학당이라는 이름으로 설립된 중국 북부의 주요 예술 교육 기관이다.",
+    "s": 1,
+    "quote": "The Tianjin Academy of Fine Arts was founded in 1906 with the original name of Peiyang Female Normal School"
+   },
+   {
+    "text": "믹스 아키텍처는 이전 작업인 옌칭리에서 7개의 건물과 4개의 골목 구조를 유지하며 상업적 재생을 수행했다.",
+    "s": 2,
+    "quote": "믹스 아키텍처는 동서양 양식이 혼재된 7개의 건물과 4개의 골목 구조를 유지하며, 이를 개방형 상업 블록으로 재생했다."
+   }
+  ],
+  "keywords": [
+   "도시재생",
+   "믹스아키텍처",
+   "톈진미술아카데미",
+   "복합문화지구"
+  ],
+  "evidence": "The operator and the design team proposed the concept of an open art district integrating the neighborhood, the campus, the scenic area, and the community",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "도시 재생의 맥락과 전략적 개념은 명확하나, 세부적인 공간 구성이나 마감의 구체적 사례가 원문에 부족하다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1186609/renovation-of-the-core-area-of-tafa-art-block-mix-architecture",
+  "original_title": "Renovation of the Core Area of TAFA Art Block / Mix Architecture",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 2845,
+  "fetch": "ok",
+  "cliche_hits": [
+   "경계를 허"
+  ],
+  "read_at": "2026-10-16 16:38",
+  "research": {
+   "entities": [
+    "Mix Architecture",
+    "Tianjin Academy of Fine Arts",
+    "TAFA Art Block"
+   ],
+   "questions": [
+    "TAFA Art Block 프로젝트가 톈진의 구도심 재생과 지역 경제 활성화에 어떤 전략적 역할을 수행하고 있나요?",
+    "캠퍼스와 지역 사회를 통합하는 '4구역 융합(four-zone fusion)' 개념이 건축 설계에 구체적으로 어떻게 반영되었나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Tianjin Academy of Fine Arts",
+     "url": "https://en.wikipedia.org/wiki/Tianjin%20Academy%20of%20Fine%20Arts"
+    },
+    {
+     "n": 2,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "한커우의 기억을 잇는 리펀 건축의 상업적 재해석, 옌칭리",
+     "url": "https://www.archdaily.com/1186545/yanqing-li-commercial-renovation-mix-architecture"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 734
+  },
+  "depth_raw": 3,
+  "depth_v": 2
  }
 }
