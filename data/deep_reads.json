@@ -175889,5 +175889,147 @@
   },
   "depth_raw": 3,
   "depth_v": 2
+ },
+ "wallpaper.com/architecture/residential/sora-bali-villa-colvin-haven-indonesia": {
+  "title_ko": "발리의 자연을 담은 소형 저택, 콜빈 헤이븐의 소라 빌라",
+  "summary_ko": "인도네시아 발리에 위치한 투베드룸 저택 소라는 앤드루 스왈로와 스튜디오 콜빈 헤이븐이 설계했다. 수제 탄화 목재, 지역 석재, 재활용 울린 하드우드를 사용하여 면적을 줄이는 대신 일상의 회복과 자연과의 연결에 집중했다. 복도를 없애고 주방과 웰니스 공간을 두 개의 중심축으로 삼아 밀도 높은 공간을 구성했다.",
+  "lens": "면적을 줄이고 회복에 집중해 공간의 밀도를 극대화하는 주거 설계의 해법.",
+  "why_now": "대형 주거 공간에 대한 집착을 벗어나 거주자의 정신적 회복과 물리적 간소화를 추구하는 동시대 주거 철학을 보여준다.",
+  "mechanism": "복도를 제거한 평면 구성으로 동선을 압축하고, 주방과 웰니스 공간이라는 두 개의 중심축을 통해 공간의 기능을 명확히 분리했다.",
+  "sensory": "손으로 탄화시킨 검은 목재와 거친 지역 석재의 질감, 고요한 연못의 물결, 논밭과 화산으로 열리는 시야가 어우러진다.",
+  "transfer": "공간을 넓게 보이게 하는 연출 대신, 동선을 좁히고 특정 기능에 집중하는 시퀀스를 콘티에 적용해 밀도 높은 몰입감을 만든다.",
+  "context": "콜빈 헤이븐의 이전 작업인 네 살림집 우마 츠키의 철학을 이어받아 규모를 줄이고 타인을 위한 첫 번째 주거로 확장했다.",
+  "findings": [],
+  "keywords": [
+   "콜빈 헤이븐",
+   "발리 빌라",
+   "소형 주거",
+   "탄화 목재",
+   "공간 축소"
+  ],
+  "evidence": "What happens when a home is designed strictly around daily nourishment and restoration?",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "구체적인 건축 프로젝트의 철학과 재료를 다루나 선례가 드물지 않고 전형적인 소형 주거 소개에 가깝다.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/architecture/residential/sora-bali-villa-colvin-haven-indonesia",
+  "original_title": "Step inside this Bali villa, an intimate, yet conceptually expansive home",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 3518,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-16 14:10",
+  "research": {
+   "entities": [
+    "Andrew Swallow",
+    "Colvin Haven",
+    "Umah Tsuki",
+    "Sora"
+   ],
+   "questions": [
+    "Colvin Haven이 추구하는 '공간의 축소'와 '일상의 회복'이라는 건축 철학은 구체적으로 어떤 설계 요소로 구현되었는가?",
+    "발리의 지역적 특성을 반영한 재료(Shou Sugi Ban, paras stone, Ulin hardwood) 사용이 주거 환경의 지속가능성에 어떤 영향을 미치는가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "dezeen.com/2026/10/16/tesla-launches-flying-roadster-concept-car": {
+  "title_ko": "압축 공기로 띄운 테슬라 로드스터, 자동차와 항공의 경계를 넘다",
+  "summary_ko": "테슬라가 로켓 기술을 결합한 차세대 로드스터를 공개했다. 이 차량은 하부에 탑재된 압축 공기 추진기를 이용해 지면에서 떠오르거나 램프를 타고 비행하는 모습을 시연했다. 2028년 양산을 목표로 하며, 0.81초 만에 시속 60마일에 도달하는 가속 성능을 갖췄다.",
+  "lens": "자동차의 동력원을 바퀴에서 공기 분사로 확장해, 지면과 중력의 물리적 구속을 기계적으로 해제하려는 시도다.",
+  "why_now": "이동 수단의 기계적 한계를 넘어 항공 기술을 지상 차량에 이식하려는 시도가 본격화되고 있다.",
+  "mechanism": "차체 하부와 후면에 배치된 압축 공기 추진기가 공기를 분사해 양력을 발생시키고, 팬 흡입 시스템이 램프 위에서 차체를 지면에 고정한다.",
+  "sensory": "금속 차체가 공기를 뿜어내며 지면을 박차고 올라가는 짧은 부유감과, 정지 상태에서 즉각적으로 튀어 나가는 폭발적인 가속의 질감이 대비된다.",
+  "transfer": "영상 연출 시 추진기가 작동하는 찰나의 공기 흐름을 시각화하고, 휠의 회전 없이 차체가 수평으로 이동하는 무중력적 동선을 구현한다.",
+  "context": "테슬라는 2008년 첫 로드스터를 시작으로 전기차 시장을 개척했으며, 이번 모델은 스페이스엑스와의 협업을 통해 항공 공학 기술을 지상 차량에 접목했다. 이는 과거 니콜라 테슬라의 실험적 유산을 계승해온 기업의 기술적 확장 전략을 보여준다.",
+  "findings": [
+   {
+    "text": "테슬라는 2008년 첫 번째 자동차 모델인 로드스터 스포츠카 생산을 시작했다.",
+    "s": 1,
+    "quote": "The company began production of its first car model, the Roadster sports car, in 2008"
+   },
+   {
+    "text": "스페이스엑스는 로켓 추진 기술과 재사용 가능한 발사체 분야에서 기술적 진보를 이뤄냈다.",
+    "s": 2,
+    "quote": "The company is credited with advances in rocket propulsion, reusable launch vehicles, human spaceflight, and satellite constellation technology."
+   }
+  ],
+  "keywords": [
+   "테슬라",
+   "로드스터",
+   "압축공기추진기",
+   "스페이스엑스",
+   "모빌리티"
+  ],
+  "evidence": "A series of thrusters in the bottom and back propelled the car into the air and cushioned the landings.",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "자동차에 항공 추진 기술을 직접 적용한 구체적 메커니즘을 제시했으나, 실제 도로 주행의 현실성과 양산 가능성은 미지수다.",
+  "v": 2,
+  "url": "https://www.dezeen.com/2026/10/16/tesla-launches-flying-roadster-concept-car/",
+  "original_title": "Tesla launches flying Roadster concept car",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 2356,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-16 14:10",
+  "research": {
+   "entities": [
+    "Tesla",
+    "SpaceX",
+    "Elon Musk",
+    "Tesla Roadster (second generation)",
+    "Franz von Holzhausen"
+   ],
+   "questions": [
+    "테슬라 로드스터에 적용된 압축 공기 추진기(thrusters)의 작동 원리와 실제 양산차 적용 가능성은 무엇인가?",
+    "비행 기능이 포함된 자동차의 도로 주행 합법성 및 안전 규제와 관련된 기술적, 법적 과제는 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Tesla, Inc.",
+     "url": "https://en.wikipedia.org/wiki/Tesla%2C%20Inc."
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "SpaceX",
+     "url": "https://en.wikipedia.org/wiki/SpaceX"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "단일 로켓 페이로드로 압축되는 확장형 궤도 실험실, 썬더버드",
+     "url": "https://www.wallpaper.com/tech/thunderbird-space-station-concept-by-omi-for-max-space"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "달 여행의 좌절을 기록하다, 리안논 아담의 전시 ‘Rhi-Entry’",
+     "url": "https://www.dazeddigital.com/art-photography/article/70857/1/rhiannon-adam-rhi-entry-spacex-elon-musk-moon-exhibition-space-travel?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=the-story-behind-this-artist-s-aborted-trip-to-the-moon"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "12세기부터 오늘날까지, 지식의 궤적을 기록한 5권의 아카이브",
+     "url": "https://www.thisiscolossal.com/2026/09/world-unfolding-book-human-knowledge-history-the-huntington/"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 3546
+  },
+  "depth_raw": 4,
+  "depth_v": 2
  }
 }
