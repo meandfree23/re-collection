@@ -178083,5 +178083,455 @@
   },
   "depth_raw": 5,
   "depth_v": 2
+ },
+ "archdaily.com/1186963/in-conversation-with-liu-jiakun-dong-gong-and-luo-yujie-small-scale-timber-buildings-why-build-them-and-how": {
+  "title_ko": "목재와 대나무로 묻는 소규모 건축의 미래",
+  "summary_ko": "제2회 굿원 퓨처 목조 건축 디자인 공모전은 도시 재생과 상업 공간에서 소규모 목조 건축의 가능성을 탐색한다. 건축가 리우 자쿤, 동공, 루오 위지에가 심사위원으로 참여해 대나무와 목재의 구조적 활용 방식을 논한다. 등록은 2026년 10월 23일까지 진행된다.",
+  "lens": "소규모 목구조가 도시의 빈틈에서 공공성과 일상을 어떻게 다시 조립하는지 묻는다.",
+  "why_now": "목재가 전통 주거와 농촌 환경을 넘어 도시 재생과 상업 공간의 새로운 재료로 확장되는 국면이다.",
+  "mechanism": "소규모 건축의 물리적 제약을 대나무와 목재라는 가공성이 높은 재료를 통해 구조적 유연성으로 전환한다.",
+  "sensory": "현장에서 가벼운 목재 부재들이 엮이며 만들어내는 건조한 결합음과 은은한 나무 향이 공간을 채운다.",
+  "transfer": "공간 콘티에서 가벽이나 파티션을 조립식 목구조로 설정해 설치와 해체의 효율성을 시각적으로 강조한다.",
+  "context": "루오 스튜디오는 베이징 하이뎬 공원의 웨스트 가든 플로리스트를 통해 사람과 자연을 잇는 소규모 공간적 매개체를 선보인 바 있다.",
+  "findings": [
+   {
+    "text": "류자쿤은 1956년생 중국 건축가로 미니멀즘과 인본주의, 지역 맥락에 기반한 디자인으로 알려져 있다.",
+    "s": 1,
+    "quote": "Liu Jiakun (born 1956) is a Chinese architect known for his focus on minimalism, humanism, and locally contextual design."
+   }
+  ],
+  "keywords": [
+   "목조 건축",
+   "도시 재생",
+   "대나무",
+   "소규모 건축"
+  ],
+  "evidence": "As timber architecture moves beyond traditional residential and rural settings to find new applications in urban regeneration, commercial spaces",
+  "kind": "행사·공모",
+  "depth": 2,
+  "grounding": "partial",
+  "depth_reason": "건축 공모전 개최 소식과 심사위원 소개 중심이라 실제 프로젝트의 상세한 기법이나 도면이 부족하다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1186963/in-conversation-with-liu-jiakun-dong-gong-and-luo-yujie-small-scale-timber-buildings-why-build-them-and-how",
+  "original_title": "In Conversation with Liu Jiakun, Dong Gong, and Luo Yujie: Small-Scale Timber Buildings—Why Build Them and How?",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 2064,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-16 22:32",
+  "research": {
+   "entities": [
+    "Liu Jiakun",
+    "Dong Gong",
+    "Luo Yujie",
+    "Jiakun Architects",
+    "Vector Architects"
+   ],
+   "questions": [
+    "현대 도시 재생과 상업 공간에서 소규모 목조 건축이 가지는 구조적, 환경적 이점은 무엇인가?",
+    "대나무와 목재를 활용한 건축 설계 시 고려해야 할 지속 가능한 운영 및 시공 원칙은 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Liu Jiakun",
+     "url": "https://en.wikipedia.org/wiki/Liu%20Jiakun"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Vectorworks",
+     "url": "https://en.wikipedia.org/wiki/Vectorworks"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "하이뎬 공원의 웨스트 가든 플로리스트: 일상과 자연을 잇는 공간적 매개체",
+     "url": "https://www.archdaily.com/1184291/west-garden-florist-luo-studio"
+    }
+   ],
+   "used": [
+    1,
+    3
+   ],
+   "chars": 872
+  },
+  "depth_raw": 2,
+  "depth_v": 2
+ },
+ "archdaily.com/1186422/simose-museum-and-auberge-shigeru-ban-architects": {
+  "title_ko": "시모세 미술관과 오베르주, 세토 내해를 반사하는 180미터의 거울벽",
+  "summary_ko": "시게루 반 건축가 소속 팀이 일본 오타케의 세토 내해에 면한 4.6헥타르 부지에 시모세 미술관과 오베르주를 완공했다. 부지 중앙에는 해안선과 평행한 길이 180미터, 높이 8.5미터의 거울 유리벽을 세워 주변 풍경을 배가한다. 미술관을 비롯해 10개의 빌라 스타일 숙박 시설과 레스토랑이 함께 배치되었다.",
+  "lens": "180미터의 거울벽으로 바다와 건물의 경계를 지우고 풍경을 수평으로 복제한다.",
+  "why_now": "주변 환경과 물리적 건축물의 경계를 허물고 지형과 시각적 연속성을 확보하는 공간 연출 방식이 주목받는 흐름에 맞닿아 있다.",
+  "mechanism": "해안선과 평행하게 세운 대형 거울 유리벽이 반대편 풍경을 반사하여 실제 공간보다 확장된 시각적 심도를 만든다.",
+  "sensory": "맑은 유리와 거울 면에 비친 세토 내해의 수평선과 하늘이 겹치며 시각적 확장감과 개방감을 전달한다.",
+  "transfer": "공간 배경에 거울을 배치해 한정된 세트나 스튜디오 내부를 물리적 한계 이상으로 넓어 보이게 만드는 롱 샷 연출에 적용한다.",
+  "context": "건축가 시게루 반은 재활용 종이관 같은 비정형적이고 친환경적인 재료를 혁신적으로 다루는 작업으로 프리츠커상을 수상했다. 인접한 풍경을 단절 없이 연장하며 지형과 건물을 하나의 캔버스로 엮는 디자인 어프로치를 지속해 왔다.",
+  "findings": [],
+  "keywords": [
+   "시모세미술관",
+   "시게루반",
+   "거울벽",
+   "세토내해",
+   "오베르주"
+  ],
+  "evidence": "Located on a 4.6-hectare site facing the Seto Inland Sea, the facility consists of a museum, 10 villa-style accommodations, and a restaurant. In the center of the site, parallel to the coastline, a 180m-long, 8.5m-high mirrored glass wall has been erected to create a visual effect that doubles the landscape through reflection.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "거울벽을 활용한 공간 확장이라는 명확한 장치가 있으나 복합 시설 소개 중심의 평범한 구성이다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1186422/simose-museum-and-auberge-shigeru-ban-architects",
+  "original_title": "SIMOSE Museum & Auberge / Shigeru Ban Architects",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 2209,
+  "fetch": "ok",
+  "cliche_hits": [
+   "경계를 허"
+  ],
+  "read_at": "2026-10-16 22:32",
+  "research": {
+   "entities": [
+    "Shigeru Ban Architects",
+    "Shigeru Ban",
+    "Kajima Corporation",
+    "Nippon Design Center, Inc.",
+    "NUNO"
+   ],
+   "questions": [
+    "시모세 미술관과 빌라(Simose Museum & Auberge)의 건축적 특징과 거울 유리 벽이 주변 경관과 맺는 관계는 무엇인가?",
+    "반 시게루(Shigeru Ban)의 건축 철학이 이 복합 문화 공간에 어떻게 반영되어 있는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "日本デザインセンター",
+     "url": "https://www.ndc.co.jp/?utm_medium=website&utm_source=archdaily.com"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Shigeru Ban",
+     "url": "https://en.wikipedia.org/wiki/Shigeru%20Ban"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "2,977개의 빛으로 재구성한 트윈 타워, 뉴욕 항구의 기억을 소환하다",
+     "url": "https://www.designboom.com/art/lights-twin-towers-new-york-harbor-25-years-after-9-11/"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "도쿄 야에스 다이빌딩, 무라노 도고의 파사드 문법을 잇다",
+     "url": "https://www.archdaily.com/1186086/yaesu-daibiru-office-building-nikken-sekkei"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "지형과 미술관을 잇는 거대한 지붕, 시게루 반의 도요타 시립 박물관",
+     "url": "https://www.archdaily.com/1186423/toyota-city-museum-shigeru-ban-architects"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 4256
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "wallpaper.com/design-interiors/interior-design/new-hampshire-barn-conversion-yond-interiors": {
+  "title_ko": "뉴햄프셔의 낡은 마구간, 텍스처와 색채의 층위로 완성한 아늑한 거처",
+  "summary_ko": "미니애폴리스와 뉴욕을 기반으로 활동하는 욘드 인테리어스(Yond Interiors)가 뉴햄프셔의 기존 목조 마구간을 주거 공간으로 탈바꿈했다. 노출된 목재 구조를 그대로 둔 채, 과감한 벽지와 도자 타일, 맞춤 가구를 배치하여 거친 마감재와 현대적인 안락함 사이의 균형을 맞췄다.",
+  "lens": "거친 목조 구조의 압도적인 물성을 덮기보다, 패턴과 직물이라는 부드러운 레이어를 덧대어 공간의 밀도를 조절한다.",
+  "why_now": "단순한 미니멀리즘을 넘어, 기존 건축의 원형을 존중하면서도 다채로운 텍스처를 겹쳐 공간에 서사를 입히는 방식이 주목받는다.",
+  "mechanism": "벽면을 가득 채우는 벽지와 패브릭 아트워크로 목재 면적을 분절하고, 펜던트 조명과 러그를 낮게 배치해 높은 천장의 개방감을 시각적으로 하향 안정화했다.",
+  "sensory": "마블링 효과가 돋보이는 도자 타일의 매끄러운 질감과 짙은 녹색의 페인트, 화려한 패턴의 벽지가 거친 목재와 대비되며 시각적 깊이를 만든다.",
+  "transfer": "공간의 천장이 지나치게 높다면, 아일랜드 상단에 돔 형태의 조명을 낮게 늘어뜨려 시선을 아래로 묶고 공간의 중심을 잡는 연출을 활용한다.",
+  "context": "욘드 인테리어스는 주거자의 경험을 최우선으로 하는 맞춤형 디자인을 지향하며, 이번 프로젝트에서는 자사 브랜드 브루넬(Brunel)의 가구를 활용해 공간의 통일성을 확보했다. 파로 앤 볼(Farrow & Ball)의 페인트를 사용해 묵직한 웜톤을 구현한 점은 최근 미국 인테리어 시장의 색채 흐름과 궤를 같이한다.",
+  "findings": [
+   {
+    "text": "파로 앤 볼은 역사적인 색상 팔레트와 아카이브를 바탕으로 페인트와 벽지를 제조하는 영국 기업이다.",
+    "s": 3,
+    "quote": "Farrow & Ball is a British manufacturer of paints and wallpapers largely based upon historic colour palettes and archives."
+   },
+   {
+    "text": "미국 인테리어 시장에서 웜톤이 쿨톤보다 세 배 빠르게 성장하며 전체의 69.4%를 차지하고 있다.",
+    "s": 4,
+    "quote": "웜톤이 쿨톤보다 세 배 빠른 속도로 성장하며 전체 테스트의 69.4를 차지했다."
+   }
+  ],
+  "keywords": [
+   "목조주택",
+   "인테리어",
+   "텍스처",
+   "레이어링",
+   "맞춤가구"
+  ],
+  "evidence": "It’s harder when you have to build character into the project. But this was the opposite. There's so much here that our job was to soften some of it.",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "기존 건축 구조와 인테리어 요소 간의 충돌을 해결하는 구체적인 전략과 재료적 접근이 명확히 제시됨.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/design-interiors/interior-design/new-hampshire-barn-conversion-yond-interiors",
+  "original_title": "This layered New Hampshire barn conversion is giving us early cabin fever",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 5588,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-16 22:32",
+  "research": {
+   "entities": [
+    "Yond Interiors",
+    "Allied Maker",
+    "Lucy McMillan",
+    "Farrow & Ball",
+    "Brunel"
+   ],
+   "questions": [
+    "Yond Interiors가 기존의 거친 목조 구조를 유지하면서 현대적인 인테리어 요소를 조화시키기 위해 사용한 구체적인 디자인 전략은 무엇인가요?",
+    "이 프로젝트에서 사용된 벽지, 타일, 가구 등의 소재 선택이 어떻게 공간의 분위기를 '아늑하고 편안하게' 변화시켰나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Yond Interiors |  Interior Design Services",
+     "url": "https://www.yondinteriors.com/"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Brunel",
+     "url": "https://go.redirectingat.com?id=92X1650074&xcust=wallpaper_us_4439719785594931693&xs=1&url=https%3A%2F%2Fshopbrunel.com%2F&sref=https%3A%2F%2Fwww.wallpaper.com"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Farrow & Ball",
+     "url": "https://en.wikipedia.org/wiki/Farrow%20%26%20Ball"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "미국 인테리어의 반전, 어두운 색상도 차갑지 않고 묵직한 웜톤으로 흐른다",
+     "url": "https://design-milk.com/american-paint-color-trends-samplize-2026/"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "지역과 공동체를 직접 엮는 건축가의 확장된 역할",
+     "url": "https://www.archdaily.com/1186702/the-expanded-scope-of-the-architect-moving-windmills-innovation-center"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "chars": 1798
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "archdaily.com/1186205/holland-grove-blair-smith-architecture": {
+  "title_ko": "기존 저택과 경량 파빌리온의 결합, 멜버른 홀랜드 그로브",
+  "summary_ko": "오스트레일리아 멜버른에 위치한 홀랜드 그로브는 2005년 지어진 2층 저택을 종합적으로 개조하고 두 개의 경량 뒷마당 파빌리온을 추가한 주거 프로젝트다. 블레어 스미스 아키텍처와 실내 디자인 스튜디오 헤커 구스리가 협업하여 혼합 가족의 거주 요구에 맞춰 공간을 확장했다.",
+  "lens": "기존 저택의 구조적 한계를 경량 파빌리온과 조경 중심의 증축으로 영리하게 돌파한다.",
+  "why_now": "대규모 철거 대신 기존 건물의 골조를 유지하면서 가벼운 별동을 덧대어 공간을 확장하는 지속 가능한 개조 방식이 주목받는다.",
+  "mechanism": "2005년에 지어진 기존 2층 저택의 내부 공간을 재조정하고, 뒷마당에 경량 구조의 파빌리온 두 개를 삽입해 풍경을 내부로 끌어들인다.",
+  "sensory": "주거 공간과 조경이 부드럽게 맞닿으며, 가벼운 재료로 마감된 파빌리온을 통과하는 자연광이 실내에 깊은 음영을 만든다.",
+  "transfer": "콘티에서 공간의 확장감을 연출할 때, 메인 공간을 밀어내는 대신 이질적인 경량 별동을 가로축에 덧대어 동선의 리듬감을 만드는 방식으로 활용한다.",
+  "context": "블레어 스미스 아키텍처가 설계하고 헤커 구스리가 실내 디자인을 맡은 프로젝트다.",
+  "findings": [],
+  "keywords": [
+   "주거개조",
+   "파빌리온",
+   "멜버른건축",
+   "공간확장"
+  ],
+  "evidence": "Located in Melbourne, Holland Grove involved the comprehensive refurbishment of a two-level residence originally constructed in 2005, paired with the insertion of two new lightweight backyard pavilions.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "기존 주택의 개조와 파빌리온 증축이라는 명확한 정보가 있으나 선례의 혁신성은 평이하다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1186205/holland-grove-blair-smith-architecture",
+  "original_title": "Holland Grove / Blair Smith Architecture",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 1337,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-16 22:32",
+  "research": {
+   "entities": [
+    "Blair Smith Architecture",
+    "Hecker Guthrie",
+    "JALA Landscape",
+    "Holland Grove"
+   ],
+   "questions": [
+    "멜버른에 위치한 기존 2005년 주택 구조를 어떻게 현대적인 대가족의 요구에 맞게 개조했는가?",
+    "새롭게 추가된 두 개의 경량 뒷마당 파빌리온이 전체 조경 및 주거 공간과 어떻게 상호작용하는가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "dazeddigital.com/art-photography/article/71184/1/no-night-long-enough-dream-twice-western-australia-gallery-exhibition": {
+  "title_ko": "압박 속에서 피어나는 내밀한 꿈, SWANA 사진가들의 시선",
+  "summary_ko": "웨스턴오스트레일리아 미술관(AGWA)에서 열린 전시 '우리가 그 제목의 두 배를 꿈꿀 만큼 긴 밤은 없습니다'는 SWANA 지역과 디아스포라 출신 사진가 9명의 작업을 통해, 폭력과 억압의 기록을 넘어 일상의 내면 세계와 감정적 압박을 포착한다. 팔레스타인 시인 마흐무드 다르위시의 시구에서 영감을 받은 이 전시는 사진을 단순한 기록 매체가 아닌 일시적인 상징적 제스처로 다룬다.",
+  "lens": "단순한 고통의 기록을 거부하고, 감정의 압박이 극에 달한 순간을 포착해 환상과 현실 사이의 균열을 드러낸다.",
+  "why_now": "디지털 이미지의 무한한 복제와 소비 속에서, 사진을 물리적 미술관 공간으로 가져와 독립된 오브제로 환원하며 매체의 맥락을 회복한다.",
+  "mechanism": "내밀한 사생활의 연출과 일상의 파편적인 포착을 통해 사회적 억압 속에서도 해방감을 느끼는 순간들을 증폭한다.",
+  "sensory": "권위적인 규율 안에서 피어나는 소녀들의 은밀한 장난과 나른한 시선, 억압된 도시 속에서 분출되는 미묘한 욕망의 질감이 화면을 채운다.",
+  "transfer": "다큐멘터리적 사실 재현에서 벗어나, 불안정과 긴장이 감도는 장면을 연출할 때 인물의 사소한 시선과 일탈적 제스처를 클로즈업으로 포착한다.",
+  "context": "웨스턴오스트레일리아 미술관과 사이먼 리 재단이 공동 기획한 이번 전시는 SWANA 지역 작가들의 작업을 지리적 대표성이 아닌 감정적 압박과의 관계로 엮어낸다.",
+  "findings": [
+   {
+    "text": "이번 전시는 팔레스타인 시인 마흐무드 다르위시의 시구에서 제목을 가져왔다.",
+    "s": 1,
+    "quote": "No night is long enough for us to dream twice (a title borrowed from a line by the Palestinian poet Mahmoud Darwish)"
+   },
+   {
+    "text": "참여 작가는 바셀 아바스, 루안느 아부 라메, 모하메드 압두니, 미리암 불로스, 히샴 베노후드, 모하메드 부루이사, 사비하 치멘, 한나 다라비, 압둘하미드 키르처 등 9명이다.",
+    "s": 1,
+    "quote": "brings together photography and video by Basel Abbas and Ruanne Abou-Rahme, Mohamad Abdouni, Myriam Boulos, Hicham Benohoud, Mohamed Bourouissa, Sabiha Çimen, Hannah Darabi and Abdulhamid Kircher."
+   }
+  ],
+  "keywords": [
+   "SWANA",
+   "사진전",
+   "디아스포라",
+   "AGWA",
+   "시각예술"
+  ],
+  "evidence": "Inspired by a line by Palestinian poet Mahmoud Darwish, No Night is Long Enough For Us to Dream Twice brings together artists whose work explores states of pressure",
+  "kind": "전시",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "SWANA 지역 사진가들의 독특한 시각적 전략을 잘 분석했으나 단순 전시 소개의 범위를 크게 벗어나지 않는다.",
+  "v": 2,
+  "url": "https://www.dazeddigital.com/art-photography/article/71184/1/no-night-long-enough-dream-twice-western-australia-gallery-exhibition?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=these-photographers-offer-new-visions-of-life-in-the-swana-region",
+  "original_title": "These photographers offer new visions of life in the SWANA region",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 7423,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-16 22:32",
+  "research": {
+   "entities": [
+    "Mahmoud Darwish",
+    "Art Gallery of Western Australia",
+    "Mohammed Abdouni",
+    "Myriam Boulos",
+    "Sabiha Çimen"
+   ],
+   "questions": [
+    "SWANA 지역 출신 사진가들이 꿈과 기억을 시각화하는 방식은 기존 보도사진의 재현 방식과 어떻게 다른가?",
+    "웨스턴오스트레일리아 미술관(AGWA)에서 개최된 이번 전시는 디아스포라 예술가들의 정체성을 어떻게 드러내고 있는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "No night is long enough for us to dream twice - Simon Lee Foundation",
+     "url": "https://slficaa.artgallery.wa.gov.au/program/no-night-is-long-enough-for-us-to-dream-twice/"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Mahmoud Darwish",
+     "url": "https://en.wikipedia.org/wiki/Mahmoud%20Darwish"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Art Gallery of Western Australia",
+     "url": "https://en.wikipedia.org/wiki/Art%20Gallery%20of%20Western%20Australia"
+    }
+   ],
+   "used": [
+    1,
+    3
+   ],
+   "chars": 3925
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "leibal.com/interiors/un-capannone": {
+  "title_ko": "창고의 뼈대를 남기고 하얗게 칠한 이탈리아 모데나의 주거 리노베이션",
+  "summary_ko": "건축 스튜디오 앰비언트바리오(Ambientevario)는 이탈리아 모데나의 1960년대 벽돌 아파트와 맞닿은 산업용 창고를 주거 공간인 운 카판노네(Un Capannone)로 개조했다. 콘크리트와 벽돌 외벽 전체를 흰색으로 칠해 인접한 벽돌 건물과 시각적으로 분리하고, 내부에는 철제 보와 점토 블록 천장을 그대로 살렸다.",
+  "lens": "오래된 창고의 산업적 물성을 흰색 페인트와 철제 구조로 밀어붙여 주거 공간의 결로 지우기.",
+  "why_now": "소규모 수공업 지구가 주거 지역으로 변모하는 도심 속에서 기존 건물의 구조를 허물지 않고 표면 처리와 재료 대비만으로 주거의 독립성을 확보하는 방식을 보여준다.",
+  "mechanism": "외부 벽면 전체를 흰색으로 칠해 붉은 벽돌의 이웃 건물과 매스 형태를 구분하고, 내부에는 자작나무 패널과 철제 주방 볼륨을 들여 거친 콘크리트 물성과 대비를 만들었다.",
+  "sensory": "실내외 바닥에 동일한 산업용 콘크리트를 깔되 골재의 크기만 다르게 적용해 시각적 연속성을 만들고, 철제 주방 볼륨에 자연광이 반사되도록 했다.",
+  "transfer": "공간 배경을 잡을 때 구조물을 철거하는 대신 단일 색상의 표면 처리만으로 이질적인 두 매스를 단칼에 갈라놓는 미니멀한 분할 샷으로 활용한다.",
+  "context": "건축 스튜디오 앰비언트바리오는 건축과 도시 공간의 통합 디자인을 전문으로 하며, 지역 맥락에 깊이 연결된 본질적이고 진정성 있는 스타일을 추구한다.",
+  "findings": [
+   {
+    "text": "앰비언트바리오는 건축과 도시 공간의 통합 디자인을 전문으로 하는 디자인 회사다.",
+    "s": 1,
+    "quote": "AMBIENTEVARIO is a design firm specializing in the integrated design of building and urban spaces."
+   },
+   {
+    "text": "이들은 각 프로젝트가 지역 맥락과 깊이 연결되며 세심한 디테일을 갖춘 본질적이고 진정성 있는 스타일을 추구한다고 밝힌다.",
+    "s": 1,
+    "quote": "each one a unique endeavor, deeply connected to the local context and characterized by meticulous attention to detail, with an essential and authentic style."
+   }
+  ],
+  "keywords": [
+   "공간리노베이션",
+   "창고개조",
+   "인더스트리얼",
+   "이탈리아건축"
+  ],
+  "evidence": "Ambientevario converted the warehouse into a residence called Un Capannone.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "구체적인 창고 리노베이션 공간과 재료 대비가 선명하나 전형적인 공간 소개 범위를 넘지 않는다.",
+  "v": 2,
+  "url": "https://leibal.com/interiors/un-capannone/",
+  "original_title": "Un Capannone",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 1995,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-16 22:32",
+  "research": {
+   "entities": [
+    "Ambientevario",
+    "Un Capannone"
+   ],
+   "questions": [
+    "Ambientevario는 모데나 지역에서 주로 어떤 성격의 건축 및 인테리어 프로젝트를 진행하는가?",
+    "과거 산업용 창고를 주거 공간으로 리노베이션할 때 구조적 안전성과 단열 성능은 어떻게 확보했는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Homepage - Ambientevario",
+     "url": "https://www.ambientevario.it/en/"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 444
+  },
+  "depth_raw": 3,
+  "depth_v": 2
  }
 }
