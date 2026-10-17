@@ -181233,5 +181233,726 @@
   },
   "depth_raw": 4,
   "depth_v": 2
+ },
+ "designboom.com/art/laboratory-waste-art-discarded-research-prototypes-sculptural-objects-ruben-moutinho": {
+  "title_ko": "실험실의 잔해를 조각으로, 루벤 무티뉴의 ‘남겨진 형태’",
+  "summary_ko": "산업 디자이너 루벤 무티뉴(Ruben Moutinho)는 연구 개발 과정에서 폐기된 프로토타입과 실험 모델을 수집해 조각 작품으로 변환하는 프로젝트 ‘남겨진 형태(THE FORM THAT REMAINED)’를 진행한다. 그는 절단, 파편화, 콜라주, 융합을 거치는 ‘스트라타(STRATA)’ 공법을 통해 기술적 부품의 질감과 기하학적 형태를 영구적인 예술 오브제로 재구성한다.",
+  "lens": "기능을 잃은 기술적 파편을 감추지 않고, 오히려 그 출처를 작품명으로 드러내며 과학적 공정의 물리적 기록으로 치환한다.",
+  "why_now": "기술 발전의 속도가 빨라지며 발생하는 막대한 산업 폐기물을 미학적 관점에서 재해석하고, 그 이면의 서사를 보존하려는 시도다.",
+  "mechanism": "단일 연구 프로젝트에서 수집된 부품들을 스트라타 공법으로 겹치고 융합하여, 부품 간의 경계를 지우지 않은 채 불규칙한 기하학적 형상을 만든다.",
+  "sensory": "기술적 구조와 유기적 형태가 뒤섞인 표면은 다양한 색상과 질감을 드러내며, 실험의 잔해가 가진 날것의 물성을 강조한다.",
+  "transfer": "광고나 영상 연출 시, 정교한 기계 부품과 유기적 소재를 층층이 쌓아 올리는 콜라주 기법을 활용해 비정형의 오브제를 배경으로 배치하거나 클로즈업 샷에 활용한다.",
+  "context": "루벤 무티뉴는 과학 기술 연구 과정에서 발생하는 부산물을 단순 폐기물이 아닌, 디자인의 역사와 재료의 물성을 담은 기록물로 접근한다.",
+  "findings": [],
+  "keywords": [
+   "업사이클링",
+   "산업디자인",
+   "조각",
+   "루벤무티뉴",
+   "스트라타"
+  ],
+  "evidence": "transforms discarded research prototypes, experimental models, and obsolete components into a series of one-of-a-kind sculptural objects",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "실험실 폐기물을 조각으로 전환하는 구체적 공법인 '스트라타'를 제시했으나, 작가의 이전 작업 맥락이 부족하여 3점을 부여한다.",
+  "v": 2,
+  "url": "https://www.designboom.com/art/laboratory-waste-art-discarded-research-prototypes-sculptural-objects-ruben-moutinho/",
+  "original_title": "from laboratory waste to art, discarded research prototypes transform into sculptural objects",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 3612,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-17 21:00",
+  "research": {
+   "entities": [
+    "Ruben Moutinho",
+    "THE FORM THAT REMAINED"
+   ],
+   "questions": [
+    "연구용 프로토타입을 예술 작품으로 재탄생시키는 과정에서 재료의 원래 기능과 미학적 가치를 어떻게 조화시키는가?",
+    "STRATA 공법이 기술적 부품의 파편들을 하나의 조형물로 결합할 때 어떤 시각적 특징을 만들어내는가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "archdaily.com/1185671/prague-fire-rescue-service-architektura": {
+  "title_ko": "교차로를 정박하는 시민 인프라, 프라하 소방 구조대 본부",
+  "summary_ko": "체코 프라하 홀레쇼비체에 위치한 프라하 소방 구조 서비스 본부는 건축가 데이비드 크라우스와 미로슬라프 스티크가 이끄는 아르히텍투라가 설계를 맡아 2025년에 완공했다. 이 단지는 노출된 교차로에서 공공적 건축 표현과 명확한 조직력을 결합하여 운영 및 행정 기능을 하나의 일관된 캠퍼스로 통합한다.",
+  "lens": "도시의 최전선에 세워진 소방 본부가 어떻게 단단한 물성으로 교차로의 풍경을 재편하는가.",
+  "why_now": "공공 시설이 숨겨진 기능적 공간에서 벗어나 도시의 일상적 풍경 속으로 강하게 개입하는 방식을 보여준다.",
+  "mechanism": "알루미늄 복합 패널 파사드를 활용해 노출된 교차로에서 시각적 무게감을 확보하고 행정 및 운영 기능을 하나의 단지로 묶는다.",
+  "sensory": "금속 패널의 단단한 면과 날카로운 모서리가 교차로의 강한 빛을 받아 도시적 긴장감을 만든다.",
+  "transfer": "도시 인프라를 촬영할 때 단단한 외장재의 반사를 활용해 차가우면서도 구조적인 질감을 강조하는 샷으로 구성한다.",
+  "context": "체코 프라하의 홀레쇼비체 지역에 위치하며 아르히텍투라의 데이비드 크라우스와 미로슬라프 스티크가 설계를 맡았다.",
+  "findings": [],
+  "keywords": [
+   "소방본부",
+   "아르히텍투라",
+   "프라하",
+   "시민인프라",
+   "알루미늄파사드"
+  ],
+  "evidence": "The Prague Fire Rescue Service headquarters complex in Holešovice is conceived as civic infrastructure anchored by a strong urban presence at a highly exposed intersection.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "구체적인 공공 건축 프로젝트이나 원문의 세부 정보가 제한적이어서 평범한 소개 수준에 머문다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1185671/prague-fire-rescue-service-architektura",
+  "original_title": "Prague Fire Rescue Service / Architektura",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 1514,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-17 21:00",
+  "research": {
+   "entities": [
+    "Architektura",
+    "David Kraus",
+    "Miroslav Styk",
+    "Prague Fire Rescue Service",
+    "OHLA ŽS"
+   ],
+   "questions": [
+    "프라하 소방 구조대 본부 프로젝트가 홀레쇼비체 지역의 도시적 맥락과 어떻게 조화를 이루고 있나요?",
+    "Architektura가 설계한 이 소방서 건물이 운영 및 행정 기능을 통합하기 위해 어떤 건축적 전략을 사용했나요?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "hyperallergic.com/diaries-of-a-primitive-man": {
+  "title_ko": "미술관의 화려한 외피와 뉴욕의 긴장",
+  "summary_ko": "맨해튼의 가을 풍경 속에서 메트로폴리탄 미술관과 휘트니 미술관 등 뉴욕 주요 기관의 대형 전시와 그 이면의 사회적 균열을 조명한다. 원주민의 땅 위에 세워진 도시의 역사와 미술관 노동자들의 파업 위기가 교차하는 복잡한 미술계의 단면을 포착한다.",
+  "lens": "거대한 미술관의 블록버스터 전시 이면에 도사린 사회적 갈등과 제도적 균열을 응시한다.",
+  "why_now": "가을 시즌 대형 미술관들이 거대한 회고전을 선보이는 동시에 노동권과 역사적 책임에 대한 질문이 거세게 터져 나오는 시점이다.",
+  "mechanism": "화창한 맨해튼의 일상적 풍경과 미술관 내부의 정치적 발언, 역사적 폭력에 대한 성찰을 교차 편집하여 긴장감을 만든다.",
+  "sensory": "분수대 물소리와 경적 소리가 뒤섞인 거리의 소음, 그리고 미술관 전시장에 밀려드는 관람객들의 붐비는 스케일이 충돌한다.",
+  "transfer": "도시의 화려한 관광 컷 뒤에 숨겨진 소음과 균열을 담아내는 오프닝 시퀀스 연출에 참고할 수 있다.",
+  "context": "하이퍼알러직(Hyperallergic)의 비평과 에세이를 묶은 가을 시즌 뉴스레터 칼럼으로, 휘트니 미술관의 로이 리히텐슈타인 회고전과 뉴욕 미술계의 현주소를 연결한다.",
+  "findings": [],
+  "keywords": [
+   "뉴욕미술계",
+   "휘트니미술관",
+   "리히텐슈타인",
+   "사회적갈등"
+  ],
+  "evidence": "It’s a sunny October afternoon in Manhattan and the steps of the Metropolitan Museum of Art are bustling with visitors.",
+  "kind": "뉴스·이슈",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "여러 전시와 단상을 묶은 뉴스레터 형식의 기사로 정보 전달 중심이라 평점 3을 부여함",
+  "v": 2,
+  "url": "https://hyperallergic.com/diaries-of-a-primitive-man/",
+  "original_title": "Diaries of a Primitive Man",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 9000,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-17 21:00",
+  "research": {
+   "entities": [
+    "Roy Lichtenstein",
+    "Lee Krasner",
+    "Jackson Pollock",
+    "Tammy Nguyen",
+    "Cannupa Hanska Luger"
+   ],
+   "questions": [
+    "로이 리텐슈타인의 최근 휘트니 미술관 회고전에서 다뤄진 그의 작품 원천에 대한 새로운 연구 결과는 무엇인가?",
+    "기사에서 언급된 카누파 한스카 루거의 작품은 미국 역사와 원주민의 정체성을 어떻게 시각화하고 있는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Roy Lichtenstein",
+     "url": "https://en.wikipedia.org/wiki/Roy%20Lichtenstein"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Lee Krasner",
+     "url": "https://en.wikipedia.org/wiki/Lee%20Krasner"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "우주를 향한 시선으로 지구를 재발견하는 예술적 탐구, 인플로레이션",
+     "url": "https://www.thisiscolossal.com/2026/09/inploration-richelle-ellis-art-space-book/"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "휘트니 미술관, 로이 리히텐슈타인 회고전 앞두고 노조 파업 예고",
+     "url": "https://hyperallergic.com/whitney-museum-union-sets-strike-date-ahead-of-major-roy-lichtenstein-show/"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "미술관의 거대한 기계 장치 속에서 흔들리는 노동과 기억의 풍경",
+     "url": "https://hyperallergic.com/whitney-museum-workers-declare-strike/"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 3608
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "wallpaper.com/design-interiors/interior-accessories/virginia-sin-metal-objects-ritual-collection": {
+  "title_ko": "버지니아 신, 세라믹의 부드러움을 스테인리스 스틸로 번역하다",
+  "summary_ko": "브루클린 기반의 디자인 스튜디오 신(SIN)이 신규 컬렉션 ‘리추얼(Ritual)’을 통해 기존 세라믹 중심의 작업에서 벗어나 스테인리스 스틸과 알루미늄 소재의 오브제를 선보인다. 버터 접시, 트레이, 휴지 커버 등 일상에서 무의식적으로 사용하는 사물들을 금속의 단단한 물성으로 재해석했다.",
+  "lens": "세라믹의 유기적 형태를 금속으로 치환하여, 일상적 사물이 지닌 기능적 언어를 차갑고 정교한 금속의 질감으로 재구성한다.",
+  "why_now": "부드러운 점토의 조형미를 다루던 작가가 금속이라는 더 엄격한 재료로 이동하며, 사물의 물성과 기능 사이의 긴장을 실험한다.",
+  "mechanism": "세라믹 작업에서 축적한 부드러운 곡선과 절제된 형태를 스테인리스 스틸과 알루미늄의 정교한 가공 방식으로 구현하여, 금속의 차가운 물성을 일상적 온기로 변환한다.",
+  "sensory": "매끄럽고 단단한 금속 표면이 빛을 반사하며, 기존 세라믹 컬렉션보다 더 명확하고 날카로운 윤곽을 드러낸다.",
+  "transfer": "금속 소재의 오브제를 촬영할 때, 표면의 반사광을 활용해 형태의 볼륨감을 강조하고, 일상적 사물의 배치에 의도적인 기하학적 정렬을 도입한다.",
+  "context": "버지니아 신은 그동안 세라믹을 통해 유기적 형태와 촉각적 질감을 탐구해왔다. 이번 작업은 점토에서 금속으로 재료를 확장하며 브랜드의 조형 언어를 다변화하려는 시도다.",
+  "findings": [],
+  "keywords": [
+   "버지니아신",
+   "리추얼",
+   "금속공예",
+   "오브제디자인",
+   "물성실험"
+  ],
+  "evidence": "Clay taught us our language. It taught us softness, restraint, utility, and the importance of the hand.",
+  "kind": "제품·오브제",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "기존 작업의 철학을 유지하면서 재료적 전환을 통해 디자인 언어를 확장하는 구체적인 시도가 돋보인다.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/design-interiors/interior-accessories/virginia-sin-metal-objects-ritual-collection",
+  "original_title": "A Brooklyn design studio reframes the objects of everyday life",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 2296,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-17 21:00",
+  "research": {
+   "entities": [
+    "Virginia Sin",
+    "Wallpaper*",
+    "Rosa Bertoli"
+   ],
+   "questions": [
+    "버지니아 신(Virginia Sin)의 새로운 'Ritual' 컬렉션은 기존 세라믹 중심 작업과 비교하여 어떤 디자인적 차별점을 가지는가?",
+    "금속 소재(스테인리스 스틸 및 알루미늄)를 도입하면서 브랜드가 전달하고자 하는 일상 오브제에 대한 철학은 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "SIN Home goods - Handmade in Brooklyn",
+     "url": "https://go.redirectingat.com?id=92X1650074&xcust=wallpaper_us_1373213643279465540&xs=1&url=http%3A%2F%2Fvirginiasin.com&sref=https%3A%2F%2Fwww.wallpaper.com"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "SIN Home goods - Handmade in Brooklyn",
+     "url": "https://go.redirectingat.com?id=92X1650074&xcust=wallpaper_us_1081449078816435369&xs=1&url=http%3A%2F%2Fvirginiasin.com&sref=https%3A%2F%2Fwww.wallpaper.com"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Wallpaper (magazine)",
+     "url": "https://en.wikipedia.org/wiki/Wallpaper%20%28magazine%29"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "홍콩 전후 공공 주거의 격자를 베스널 그린에 이식하다",
+     "url": "https://www.wallpaper.com/travel/bakery-hoko-london-cafe-review"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "에스 데블린의 16페이지 콘서티나 커버, 월페이퍼 30주년의 기록",
+     "url": "https://www.wallpaper.com/design-interiors/es-devlin-16-page-concertina-cover-for-october-2026-wallpaper"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "월페이퍼 30주년, 17인의 크리에이터가 빚어낸 케이크의 형상들",
+     "url": "https://www.wallpaper.com/art/wallpaper-30-birthday-cakes"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 4406
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "wallpaper.com/architecture/residential/assembly-archive-thistle-creek-house-jackson-hole-valley": {
+  "title_ko": "와이오밍의 풍경을 품은 두 개의 박공, 시슬 크릭 하우스",
+  "summary_ko": "어셈블리 아카이브(Assembly Archive)가 설계한 시슬 크릭 하우스는 와이오밍주 잭슨 홀 밸리에 위치한 3,800평방피트 규모의 주택이다. 테톤 밸리의 전통적인 헛간 형태를 차용해 두 개의 박공 구조를 비스듬히 교차시켰으며, 나카모토 포레스트리(Nakamoto Forestry)의 야키수기 공법으로 그을린 삼나무를 외장재로 사용했다.",
+  "lens": "지역의 농업적 전통인 헛간 형태를 현대적으로 재해석하여, 풍경을 향해 비스듬히 회전시킨 두 매스의 교차로 내부와 외부의 시각적 긴장감을 만든다.",
+  "why_now": "대규모 주거 건축이 풍경을 압도하는 대신, 전통적인 재료와 형태를 통해 지형과 조용히 결합하는 태도가 주목받는다.",
+  "mechanism": "두 개의 박공 매스를 직각이 아닌 각도로 교차시켜 시야를 확보하고, 그 교차 지점에 현관 홀을 배치해 동선을 분리한다.",
+  "sensory": "야키수기 공법의 그을린 삼나무가 만드는 검은 질감은 주변 풍경과 대비되며, 실내의 잿물 세척한 전나무와 흰 참나무는 따뜻한 물성을 드러낸다.",
+  "transfer": "공간의 시야를 극대화하려면 두 매스를 직각에서 벗어나 회전 배치하고, 외장재로 숯 층이 살아있는 수야키(suyaki) 마감을 활용해 빛의 반사를 억제하라.",
+  "context": "설계자 에반 팔리는 바코 라이빙거(Barkow Leibinger)와 딜러 스코피디오 + 렌프로(Diller Scofidio + Renfro) 등에서 실무를 익혔다. 나카모토 포레스트리의 야키수기 공법은 밀로 하우스 등 여러 건축 프로젝트에서 외장재의 질감과 내구성을 위해 사용된 바 있다.",
+  "findings": [
+   {
+    "text": "딜러 스코피디오 + 렌프로는 건축, 시각 예술, 공연 예술을 통합하는 미국 기반의 학제간 디자인 스튜디오다.",
+    "s": 1,
+    "quote": "Diller Scofidio + Renfro is an American interdisciplinary design studio which integrates architecture, the visual arts, and the performing arts."
+   },
+   {
+    "text": "나카모토 포레스트리의 야키수기 공법은 그을린 삼나무 패널을 통해 나무껍질 같은 질감을 구현한다.",
+    "s": 2,
+    "quote": "나카모토 포레스트리의 겐다이 야키스기 공법으로 그을린 삼나무 패널을 외장재로 사용해 나무 껍질 같은 질감을 구현했다."
+   }
+  ],
+  "keywords": [
+   "시슬크릭하우스",
+   "야키수기",
+   "박공지붕",
+   "와이오밍",
+   "어셈블리아카이브"
+  ],
+  "evidence": "Thistle Creek House draws on the region’s longstanding agricultural traditions, such as the distinctive Teton Valley barns and cabins",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "전통 건축의 재해석과 재료의 물성을 활용한 공간 구성이 구체적이며 건축가의 실무 배경이 맥락을 뒷받침한다.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/architecture/residential/assembly-archive-thistle-creek-house-jackson-hole-valley",
+  "original_title": "Assembly Archive’s Thistle Creek House is embedded in the Wyoming landscape",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 3049,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-17 21:01",
+  "research": {
+   "entities": [
+    "Assembly Archive",
+    "Evan Farley",
+    "Nakamoto Forestry",
+    "Barkow Leibinger",
+    "Diller Scofidio + Renfro"
+   ],
+   "questions": [
+    "시슬 크릭 하우스(Thistle Creek House)의 건축적 특징과 지역 전통 건축의 연관성은 무엇인가?",
+    "야키수기(Yakisugi) 기법이 해당 주택의 내구성 및 미적 완성도에 어떻게 기여하는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Diller Scofidio + Renfro",
+     "url": "https://en.wikipedia.org/wiki/Diller%20Scofidio%20%2B%20Renfro"
+    },
+    {
+     "n": 2,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "버몬트 숲속의 그을린 삼나무, 겐다이 야키스기로 입힌 밀로 하우스",
+     "url": "https://design-milk.com/milo-house-gendai-yakisugi-vermont/"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 963
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "wallpaper.com/architecture/public-buildings/shanghai-grand-opera-house-snohetta-china": {
+  "title_ko": "상하이 황푸강변에 세워진 거대한 보행용 지붕, 스뇌헤타의 오페라 하우스",
+  "summary_ko": "노르웨이 건축 스튜디오 스뇌헤타가 황푸강을 따라 상하이 그랜드 오페라 하우스를 완공했다. 이 건물은 나선형 계단으로 지상과 연결되는 보행 가능한 지붕을 품고 있으며, 세 개의 공연장과 공공 녹지 공간을 하나로 묶어 도시와 시민을 연결한다.",
+  "lens": "지붕을 평평한 대지로 만들어 시민의 산책로와 전망대로 탈바꿈시킨다.",
+  "why_now": "대형 문화 시설이 티켓 소지자만의 공간을 넘어 도시의 일상적 공공 영역으로 확장되는 방식을 보여준다.",
+  "mechanism": "황푸강의 물결에서 영감을 받은 곡선형 지붕이 레스토랑부터 교육 공간, 오디토리움까지 하부 프로그램을 하나의 매스로 통합한다.",
+  "sensory": "전체적으로 백색을 띤 미니멀한 외관 위로 따뜻한 태양광이 부딪히고, 메인 로비의 강렬한 붉은색 볼륨이 시각적 리듬을 만든다.",
+  "transfer": "콘티 제작 시, 건물 외피와 지붕을 계단과 경사로로 연결해 인물이 걸어서 상부로 이동하는 롱테이크 동선 연출에 활용한다.",
+  "context": "스뇌헤타는 오슬로 오페라 하우스에서 지붕을 도시의 수변 공간으로 돌려주는 설계를 선보였으며, 이번 상하이 프로젝트에서도 이러한 공공성 중심의 건축 철학을 아시아 대도시의 맥락으로 확장했다.",
+  "findings": [
+   {
+    "text": "상하이 그랜드 오페라 하우스는 약 14만 6,786제곱미터 면적에 총 4,200석 규모의 오디토리움 세 개를 품고 있다.",
+    "s": 2,
+    "quote": "The 146,786-square-metre Opera House will accommodate a broad spectrum of performances, from traditional opera and classical music to experimental productions conceived for new and diverse audiences. With three auditoriu"
+   },
+   {
+    "text": "이 프로젝트는 스뇌헤타를 비롯해 화동건축설계연구원(ECADI), 극장 전문 설계사인 시어터 프로젝트(Theatre Projects), 음향 설계사인 나가타 акустикс(Nagata Acoustics) 등이 국제 공모 이후 컨소시엄으로 참여했다.",
+    "s": 2,
+    "quote": "Following Snøhetta’s winning proposal in the 2016 international competition, Snøhetta, East China Architectural Design & Research Institute (ECADI), Theatre Projects, and Nagata Acoustics were formally commissioned in 20"
+   }
+  ],
+  "keywords": [
+   "스뇌헤타",
+   "상하이",
+   "오페라하우스",
+   "공공건축",
+   "수변공간"
+  ],
+  "evidence": "The building was conceived to bring together state-of-the-art performance, sculptural architecture and a green, walkable public realm – and so it does, to a design by renowned Norwegian architecture studio Snøhetta.",
+  "kind": "프로젝트",
+  "depth": 5,
+  "grounding": "full",
+  "depth_reason": "세계적 스튜디오의 대형 문화시설로서 구체적인 설계 기법과 공공성 구현 방식을 명확히 보여준다.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/architecture/public-buildings/shanghai-grand-opera-house-snohetta-china",
+  "original_title": "The Shanghai Grand Opera House opens as a venue for all, bridging performance and city",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 4480,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-17 21:01",
+  "research": {
+   "entities": [
+    "Shanghai Grand Opera House",
+    "Snøhetta",
+    "Oslo Opera House"
+   ],
+   "questions": [
+    "스노헤타(Snøhetta)가 오슬로 오페라 하우스에서 시도했던 건축적 철학이 상하이 그랜드 오페라 하우스에 어떻게 계승되고 발전되었는가?",
+    "상하이 그랜드 오페라 하우스의 '열린 유형학(open typology)' 설계가 공공 공간으로서 도시와 시민에게 어떤 사회적 가치를 제공하는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Snøhetta",
+     "url": "https://www.snohetta.com/"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Shanghai Grand Opera House",
+     "url": "https://www.snohetta.com/projects/shanghai-grand-opera-house"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Snøhetta (company)",
+     "url": "https://en.wikipedia.org/wiki/Sn%C3%B8hetta%20%28company%29"
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "Oslo Opera House",
+     "url": "https://en.wikipedia.org/wiki/Oslo%20Opera%20House"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "오슬로, 17세기 기록과 현대적 입면이 교차하는 도시 풍경",
+     "url": "https://www.archdaily.com/1184689/oslo-architecture-city-guide-12-buildings-contrasting-historic-and-contemporary-design"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "스뇌헤타가 완성한 홍콩의 녹색 폐, 파빌리아 팜 클럽하우스",
+     "url": "https://www.archdaily.com/1185885/pavilia-farm-clubhouses-snohetta"
+    },
+    {
+     "n": 7,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "고밀도 도시 홍콩에 자연을 심은 스뇌헤타의 마지막 클럽하우스",
+     "url": "https://www.dezeen.com/2026/09/30/snohetta-sky-house-pavilia-farm-hong-kong/"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 6391
+  },
+  "depth_raw": 5,
+  "depth_v": 2
+ },
+ "dezeen.com/2026/10/17/stirling-prize-winner-this-week": {
+  "title_ko": "런던 라이언 그린 로드 주거 단지, 올해의 스털링 상 수상",
+  "summary_ko": "메리 더건 건축사사무소와 러프 건축사사무소가 공동 설계한 크로이던의 라이언 그린 로드 주거 단지가 영국의 최고 신축 건물로 선정되었다. 크로이던 시의회의 위탁으로 조성된 이 단지는 5개 동에 걸쳐 157세대를 수용하며, 공유 녹지 공간으로 블록들을 연결한다.",
+  "lens": "개별 주거 블록을 공유 녹지로 엮어 밀집된 도시 속에 공공의 여백을 복원한다.",
+  "why_now": "영국 건축계의 최고 권위를 지닌 상을 통해 대규모 공공 주거가 지향해야 할 공간적 해법을 제시한다.",
+  "mechanism": "다섯 개의 주거 블록 사이에 유기적으로 이어진 녹지 축을 배치해 동선과 시선을 외부로 확장한다.",
+  "sensory": "저층부 블록들의 군집 사이로 드러나는 녹음과 보행자 중심의 개방된 공간감이 교차한다.",
+  "transfer": "다중 블록 구조를 촬영할 때 블록 간의 연결 통로와 중정 녹지를 잇는 롱테이크 동선 설계에 활용한다.",
+  "context": "영국왕립건축가협회 스털링 상은 매년 영국 건축의 진화에 가장 큰 기여를 한 건축물에 수여된다.",
+  "findings": [
+   {
+    "text": "스털링 상은 영국왕립건축가협회가 매년 주관하여 수여하는 영국의 건축상이다.",
+    "s": 1,
+    "quote": "The Royal Institute of British Architects Stirling Prize is a British prize for excellence in architecture. It is named after the architect James Stirling, organised and awarded annually by the Royal Institute of British"
+   }
+  ],
+  "keywords": [
+   "스털링상",
+   "집합주거",
+   "런던건축",
+   "공공주거"
+  ],
+  "evidence": "Designed by local studio Mary Duggan Architects with Ruff Architects, the project was named the UK's best new building at a ceremony in London.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "주거 단지의 스털링 상 수상 소식을 다룬 뉴스이나 구체적인 설계 기법의 심화된 정보가 부족하다.",
+  "v": 2,
+  "url": "https://www.dezeen.com/2026/10/17/stirling-prize-winner-this-week/",
+  "original_title": "This week we revealed the Stirling Prize winner",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 1361,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-17 21:01",
+  "research": {
+   "entities": [
+    "Stirling Prize",
+    "Mary Duggan Architects",
+    "Ruff Architects",
+    "Tesla",
+    "Apple"
+   ],
+   "questions": [
+    "Lion Green Road 주거 단지가 스털링 상을 수상하게 된 핵심 디자인 특징과 심사평은 무엇인가?",
+    "테슬라가 공개한 새로운 로드스터의 압축공기 추진 장치 기술은 어떤 원리로 작동하는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Stirling Prize",
+     "url": "https://en.wikipedia.org/wiki/Stirling%20Prize"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Tesla, Inc.",
+     "url": "https://en.wikipedia.org/wiki/Tesla%2C%20Inc."
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "애플 아이폰 듀오, 접이식 스마트폰의 주류 진입을 견인할 것인가",
+     "url": "https://www.dezeen.com/2026/09/25/iphone-duo-folding-smartphones-washington-triumphal-arch-dezeen-weekly/"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "애플, 런던 배터시 발전소에 600석 규모 음악 공연장 조성",
+     "url": "https://www.dezeen.com/2026/09/23/apple-music-hall-battersea-power-station/"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "세라믹의 물성을 세 번 구워 완성한 애플 워치 시리즈 12",
+     "url": "https://coolhunting.com/tech/apple-watch-series-12-returns-to-ceramic-fired-three-times-over/"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 2789
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "anothermag.com/art-photography/17576/frieze-2026-a-shopping-list": {
+  "title_ko": "프리즈 2026: 동시대 감각으로 재해석한 11가지 예술적 궤적",
+  "summary_ko": "프리즈 2026에 출품된 작품들 중 이시 우드의 자화상부터 요한 요아힘 캔들러의 18세기 도자기까지, 예술가들이 현대적 감각으로 미술사의 무게와 일상의 파편을 다루는 방식을 살핀다. 개념 미술과 회화, 조각을 넘나드는 이 리스트는 소비 문화와 개인적 서사가 어떻게 예술적 물성으로 치환되는지를 보여준다.",
+  "lens": "미술사의 고전적 기법과 현대의 일상적 파편을 충돌시켜, 예술이 어떻게 시대의 불안과 위트를 동시에 포착하는지 증명한다.",
+  "why_now": "디지털 이미지의 홍수 속에서 회화의 물성과 오브제의 촉각성을 통해 실재감을 회복하려는 예술적 시도가 두드러진다.",
+  "mechanism": "이시 우드와 루이스 지오바넬리는 포토리얼리즘과 인상주의적 붓질을 교차시켜 관객의 시선을 평면과 입체 사이에서 진동하게 만든다.",
+  "sensory": "니콜 웨머스의 19미터 인조 모피 꼬리가 뿜어내는 촉각적 과잉과 제이콥 반 훌스동크의 17세기 정물화 속 굴곡진 버터의 질감이 대비를 이룬다.",
+  "transfer": "영상 연출 시, 일상적인 아이폰 스냅샷 같은 구도를 고전 회화의 조명 기법으로 재현하여 서사적 긴장감을 구축하는 데 활용한다.",
+  "context": "이시 우드는 런던을 기반으로 팝 음악과 회화를 병행하며 통제와 변수 사이의 긴장을 탐구한다. 루이스 지오바넬리는 화이트 큐브 메이슨스 야드 전시를 앞두고 있으며, 캔버스의 평면성을 극대화하여 관객의 시선을 강제로 고정하는 작업을 지속해 왔다.",
+  "findings": [
+   {
+    "text": "이시 우드는 런던에서 활동하는 미국계 영국인 예술가로 회화와 팝 음악을 병행한다.",
+    "s": 1,
+    "quote": "Issy Wood (born 1993) is an American-born British artist known for her paintings and pop music who lives and works in London, England."
+   },
+   {
+    "text": "니콜 웨머스는 독일 엠스데텐 출신으로 현재 런던을 기반으로 활동하는 작가다.",
+    "s": 2,
+    "quote": "Nicole Wermers (born 1971) is a German artist, born in Emsdetten, and based in London."
+   }
+  ],
+  "keywords": [
+   "이시 우드",
+   "루이스 지오바넬리",
+   "니콜 웨머스",
+   "포토리얼리즘",
+   "물성"
+  ],
+  "evidence": "I love their strange mix of irreverence and wit with grave, deep thought",
+  "kind": "리스트·라운드업",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "프리즈 출품작을 통해 동시대 작가들의 작업 경향을 다각도로 조명했으나, 개별 작품에 대한 심도 있는 분석보다는 큐레이터의 취향적 목록에 가깝다.",
+  "v": 2,
+  "url": "https://www.anothermag.com/art-photography/17576/frieze-2026-a-shopping-list?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=frieze-2026-a-shopping-list",
+  "original_title": "Frieze 2026: A Shopping List",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 9000,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-17 21:01",
+  "research": {
+   "entities": [
+    "Issy Wood",
+    "Louise Giovanelli",
+    "Nicole Wermers",
+    "Miriam Cahn",
+    "Jacob van Hulsdonck"
+   ],
+   "questions": [
+    "프리즈(Frieze) 아트 페어에서 소개된 현대 미술가들의 작품이 미술사적 맥락과 어떻게 연결되는가?",
+    "Issy Wood와 Louise Giovanelli의 작품에서 나타나는 포토리얼리즘과 현대적 감각의 결합은 어떤 의미를 갖는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Issy Wood",
+     "url": "https://en.wikipedia.org/wiki/Issy%20Wood"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Nicole Wermers",
+     "url": "https://en.wikipedia.org/wiki/Nicole%20Wermers"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "화가 이시 우드가 텍사스 사막에서 펼치는 낯선 팝 음악 라이브",
+     "url": "https://www.anothermag.com/design-living/17498/issy-wood-marfa-ballroom-music-gig-performance-texas?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=issy-wood-on-taking-her-irresistible-confessional-pop-music-to-marfa"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "프리즈 위크 2026, 런던의 예술 지형을 바꾸는 10가지 궤적",
+     "url": "https://www.wallpaper.com/art/exhibitions-shows/ten-things-to-do-during-london-frieze-week-2026"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "캔버스 위로 밀어붙인 물성, 루이스 지오바넬리의 서늘한 회화",
+     "url": "https://www.wallpaper.com/art/exhibitions-shows/louise-giovanelli-at-white-cube-interview"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3,
+    5
+   ],
+   "chars": 920
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "dezeen.com/2026/10/17/converted-power-stations-roundup": {
+  "title_ko": "발전소의 재탄생: 산업 유산의 거대한 골조를 현대 공간으로 치환하는 8가지 방식",
+  "summary_ko": "런던 테이트 모던부터 싱가포르 다이슨 본사까지, 제 기능을 상실한 발전소가 상업·문화·업무 시설로 전환된 사례를 살핀다. 이들은 높은 층고와 광활한 터빈 홀을 유지하며, 철골·유리·콘크리트 등 현대적 재료를 기존 벽돌 구조와 결합해 새로운 동선을 구축한다.",
+  "lens": "발전소의 거대한 터빈 홀은 고정된 용도가 없는 '비어있는 부피'로서, 현대 건축가가 내부의 수직적 개방감을 극대화하며 새로운 기능을 삽입하는 캔버스가 된다.",
+  "why_now": "산업 유산의 해체 대신 보존을 택하는 흐름 속에서, 기존 건물의 물리적 골조를 유지하며 현대적 기능을 삽입하는 적응형 재사용(Adaptive Reuse)이 탄소 저감과 공간적 가치를 동시에 증명한다.",
+  "mechanism": "기존의 거대한 터빈 홀을 아트리움이나 공용 통로로 비워두고, 그 주변에 철골 구조물이나 유리 볼륨을 삽입해 신구의 대비를 꾀한다. 특히 층고를 분절하거나 조각적인 계단을 배치하여 수직적 이동을 유도한다.",
+  "sensory": "높은 층고에서 오는 압도적인 수직 스케일과, 거친 벽돌·콘크리트 마감 위에 덧대어진 매끄러운 블랙 스틸과 유리의 차가운 질감이 시각적 대비를 이룬다.",
+  "transfer": "광활한 공간의 층고를 활용할 때, 바닥 전체를 채우기보다 공중에 띄운 철골 계단이나 중층 데크를 설치해 공간의 깊이감을 확보하는 샷을 설계한다.",
+  "context": "헤르조그 앤 드 뫼롱은 테이트 모던(S1)과 파워하우스 아츠를 통해 발전소 재생의 선구적 모델을 제시했다. 윌킨슨에어는 배터시 발전소(S2, S4)의 산업적 미감을 살리며 상업 시설로 전환했고, 다이슨(S5)은 싱가포르의 세인트 제임스 발전소를 본사로 삼아 산업적 골조와 기업의 기술적 이미지를 결합했다.",
+  "findings": [
+   {
+    "text": "테이트 모던은 뱅크사이드 발전소를 개조해 설립되었으며, 현재 세계에서 가장 방문객이 많은 현대 미술관 중 하나다.",
+    "s": 1,
+    "quote": "Tate Modern is an art gallery in London, housing the United Kingdom's national collection of international modern and contemporary art (created from or after 1900)."
+   },
+   {
+    "text": "배터시 발전소는 1930년대에 건설된 세계 최대 규모의 벽돌 건물 중 하나로, 2022년 쇼핑 및 주거 복합 공간으로 재개장했다.",
+    "s": 2,
+    "quote": "The station is one of the world's largest brick buildings and notable for its original, Art Deco interior fittings and decor."
+   }
+  ],
+  "keywords": [
+   "적응형재사용",
+   "산업유산",
+   "터빈홀",
+   "건축재생"
+  ],
+  "evidence": "Originally built to generate electricity, these industrial buildings typically have expansive interiors with tall ceilings, giving architects plenty of flexibility for conversion.",
+  "kind": "리스트·라운드업",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "발전소 재생의 다양한 사례를 구조적 특징과 함께 정리했으나, 각 프로젝트의 상세한 건축적 디테일보다는 유형별 나열에 집중했다.",
+  "v": 2,
+  "url": "https://www.dezeen.com/2026/10/17/converted-power-stations-roundup/",
+  "original_title": "Eight converted power stations that show the power of reuse",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 4186,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-17 21:01",
+  "research": {
+   "entities": [
+    "Tate Modern",
+    "Battersea Power Station",
+    "Herzog & de Meuron",
+    "WilkinsonEyre",
+    "Dyson"
+   ],
+   "questions": [
+    "발전소와 같은 대규모 산업 유산을 문화 및 상업 시설로 재생할 때 건축가가 가장 우선적으로 고려해야 할 구조적, 공간적 요소는 무엇인가?",
+    "발전소의 터빈 홀(turbine hall)이 현대 건축에서 다목적 공간으로 변모하는 과정에서 어떤 건축적 장치들이 주로 활용되는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Tate Modern",
+     "url": "https://en.wikipedia.org/wiki/Tate%20Modern"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Battersea Power Station",
+     "url": "https://en.wikipedia.org/wiki/Battersea%20Power%20Station"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "헤르조그 앤 드 뫼롱, 애머스트 칼리지의 기존 기초 위에 쌓은 매스팀버",
+     "url": "https://www.dezeen.com/2026/09/24/herzog-de-meuron-mass-timber-massachusetts-school-amherst/"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "애플, 런던 배터시 발전소에 600석 규모 음악 공연장 조성",
+     "url": "https://www.dezeen.com/2026/09/23/apple-music-hall-battersea-power-station/"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "다이슨의 성패를 가른 혁신의 궤적, 칫솔 시장 진입의 의미",
+     "url": "https://www.dezeen.com/2026/09/12/dyson-products-roundup/"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "chars": 3074
+  },
+  "depth_raw": 3,
+  "depth_v": 2
  }
 }
