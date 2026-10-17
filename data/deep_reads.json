@@ -181954,5 +181954,108 @@
   },
   "depth_raw": 3,
   "depth_v": 2
+ },
+ "dezeen.com/2026/10/17/snohetta-shanghai-grand-opera-house": {
+  "title_ko": "스뇌헤타가 설계한 상하이 그랜드 오페라 하우스, 도시의 일상이 되는 나선형 루프탑",
+  "summary_ko": "스뇌헤타(Snøhetta)가 상하이 황푸강변에 14만 6,786제곱미터 규모의 상하이 그랜드 오페라 하우스를 완공했다. 건물 외관을 감싸며 옥상까지 이어지는 나선형 계단은 공연 관람객뿐만 아니라 일반 시민도 자유롭게 접근할 수 있는 보행로이자 전망대 역할을 한다.",
+  "lens": "건축물의 문턱을 물리적으로 해체해 공연장이라는 폐쇄적 프로그램을 도시의 공공 광장으로 치환했다.",
+  "why_now": "티켓 소지자만 누리던 문화 시설의 배타성을 걷어내고, 건축물이 도시의 일상적 동선과 결합해야 하는 현대적 요구를 반영했다.",
+  "mechanism": "건물 외벽을 따라 회전하며 상승하는 나선형 계단이 옥상을 공공 공간으로 개방하며, 로비는 강변과 공원을 향해 열린 구조로 설계해 자연 환기와 보행자 유입을 유도한다.",
+  "sensory": "외부는 흰색 석재와 유리가 빛을 반사하며 가볍고 투명한 인상을 주지만, 내부는 짙은 붉은색 톤의 하모니 홀과 목재 마감으로 깊고 밀도 높은 공간감을 형성한다.",
+  "transfer": "공연장이나 전시관 설계 시, 외부 계단을 건물 상층부와 지상 보행로를 잇는 연속적인 공공 동선으로 활용해 방문객의 체류 시간을 늘리는 전략을 취한다.",
+  "context": "스뇌헤타는 2000년 오슬로 오페라 하우스부터 지속적으로 건축물의 문턱을 낮추는 공공 지향적 설계를 고수해 왔다. 이는 홍콩 파빌리아 팜 클럽하우스에서 보여준 고밀도 도시 내 녹지축 형성이나, 도서관(알렉산드리아 도서관) 등에서 입증된 이들의 공공성 확보 전략과 맥을 같이 한다.",
+  "findings": [
+   {
+    "text": "스뇌헤타는 1989년 설립 이후 환경적, 문화적 감수성을 바탕으로 한 초학제적 접근 방식을 고수하고 있다.",
+    "s": 1,
+    "quote": "Since our founding in the late 1980s, we have been guided by a deep commitment to environmental and cultural sensitivity."
+   },
+   {
+    "text": "오슬로 오페라 하우스는 수변 공간을 대중에게 환원하는 설계를 통해 공공성을 극대화한 사례로 평가받는다.",
+    "s": 1,
+    "quote": "Norwegian National Opera and Ballet Giving waterfront space back to the public"
+   }
+  ],
+  "keywords": [
+   "스뇌헤타",
+   "상하이그랜드오페라하우스",
+   "공공건축",
+   "나선형계단",
+   "도시재생"
+  ],
+  "evidence": "A giant spiral staircase guides visitors to the roof of the Shanghai Grand Opera House, which international studio Snøhetta designed to be \"as much a civic destination as a performance venue\".",
+  "kind": "프로젝트",
+  "depth": 5,
+  "grounding": "full",
+  "depth_reason": "공공성과 프로그램의 결합 방식이 명확하며, 이전 오슬로 프로젝트와의 철학적 연결 고리가 구체적으로 확인된다.",
+  "v": 2,
+  "url": "https://www.dezeen.com/2026/10/17/snohetta-shanghai-grand-opera-house/",
+  "original_title": "Snøhetta completes landmark opera house in Shanghai",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 5501,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-17 21:35",
+  "research": {
+   "entities": [
+    "Snøhetta",
+    "Shanghai Grand Opera House",
+    "Kjetil Thorsen",
+    "Oslo Opera House"
+   ],
+   "questions": [
+    "스노헤타(Snøhetta)가 오슬로 오페라 하우스에서 시도했던 '문턱 낮추기' 철학이 상하이 그랜드 오페라 하우스에는 어떻게 구체적으로 반영되었는가?",
+    "상하이 그랜드 오페라 하우스의 나선형 계단 디자인이 도시의 공공성과 공연장으로서의 기능적 요구사항을 어떻게 동시에 충족하고 있는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Snøhetta",
+     "url": "https://www.snohetta.com/"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Snøhetta (company)",
+     "url": "https://en.wikipedia.org/wiki/Sn%C3%B8hetta%20%28company%29"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Kjetil Thorsen",
+     "url": "https://en.wikipedia.org/wiki/Kjetil%20Thorsen"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "오슬로, 17세기 기록과 현대적 입면이 교차하는 도시 풍경",
+     "url": "https://www.archdaily.com/1184689/oslo-architecture-city-guide-12-buildings-contrasting-historic-and-contemporary-design"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "스뇌헤타가 완성한 홍콩의 녹색 폐, 파빌리아 팜 클럽하우스",
+     "url": "https://www.archdaily.com/1185885/pavilia-farm-clubhouses-snohetta"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "고밀도 도시 홍콩에 자연을 심은 스뇌헤타의 마지막 클럽하우스",
+     "url": "https://www.dezeen.com/2026/09/30/snohetta-sky-house-pavilia-farm-hong-kong/"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "chars": 3013
+  },
+  "depth_raw": 5,
+  "depth_v": 2
  }
 }
