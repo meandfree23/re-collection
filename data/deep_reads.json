@@ -180915,5 +180915,199 @@
   },
   "depth_raw": 4,
   "depth_v": 2
+ },
+ "wallpaper.com/art/exhibitions-shows/art-basel-paris-2026-guide": {
+  "title_ko": "아트 바젤 파리 2026: 그랑 팔레를 넘어 도시 전체로 확장된 예술의 지형도",
+  "summary_ko": "5주년을 맞은 아트 바젤 파리가 그랑 팔레를 중심으로 파리 전역을 아우르는 '파리 아트 위크'로 진화했다. 10월 19일부터 25일까지 41개국 갤러리가 참여하며, 미우미우와 앨리스 디옵의 협업을 비롯해 미술관, 공공장소, 상업 갤러리가 연계된 입체적인 예술 프로그램을 선보인다.",
+  "lens": "단순한 작품 전시를 넘어 도시의 역사적 유산과 동시대 예술의 에너지를 충돌시켜 파리라는 공간 자체를 거대한 큐레이션의 장으로 치환한다.",
+  "why_now": "예술 페어가 단일 행사를 벗어나 도시의 문화적 맥락을 흡수하고 패션·디자인과 결합해 라이프스타일 브랜드로 확장되는 흐름을 보여준다.",
+  "mechanism": "갤러리 부스 재배치 지시와 공공장소의 조각 설치, 브랜드 협업을 통해 도시 곳곳을 유기적으로 연결하고 관객의 동선을 자연스럽게 확장한다.",
+  "sensory": "그랑 팔레의 고전적 건축미와 그 안에 채워진 현대 미술의 날 선 질감이 대비되며, 샹젤리제와 팔레 드 이에나 등 도시 곳곳에서 마주하는 대형 조각의 스케일이 압도적이다.",
+  "transfer": "공간의 역사성을 활용해 전시물의 배치와 동선을 짜고, 패션과 미술의 협업을 통해 전시의 상업적·예술적 층위를 다층적으로 구성하는 전략을 참조한다.",
+  "context": "아트 바젤은 스위스에서 시작해 전 세계로 확장하며 단순 산업 페어에서 라이프스타일 브랜드로 변화를 꾀하고 있다. 이번 파리 행사는 그랑 팔레의 공간적 특성을 활용해 역사적 아카이브와 동시대 물성을 교차시키는 시도를 이어간다.",
+  "findings": [
+   {
+    "text": "아트 바젤은 1970년 스위스 바젤에서 시작된 이후 마이애미, 홍콩, 파리, 카타르로 위성 페어를 확장했다.",
+    "s": 2,
+    "quote": "Art Basel started in Basel, Switzerland, in 1970. Since then, it has added annual satellite fairs in Miami, Hong Kong, Paris and Qatar."
+   },
+   {
+    "text": "미우미우는 프라다의 자회사로 밀라노에 본사를 둔 하이 패션 브랜드다.",
+    "s": 3,
+    "quote": "Miu Miu is an Italian high fashion women's clothing and accessory brand and a fully owned subsidiary of Prada. It is headed by Miuccia Prada and headquartered in Milan, Italy."
+   },
+   {
+    "text": "아트 바젤 파리 2026은 41개국 211개 갤러리가 참여하며 도시 전역으로 프로그램을 확장한다.",
+    "s": 6,
+    "quote": "아트 바젤 파리 2026이 그랑 팔레에서 개최되며, 41개국 211개 갤러리가 참여해 도시 전역으로 프로그램을 확장한다."
+   }
+  ],
+  "keywords": [
+   "아트바젤파리",
+   "파리아트위크",
+   "그랑팔레",
+   "예술협업",
+   "동시대미술"
+  ],
+  "evidence": "What started as a standalone art fair – albeit an extremely high-profile one as part of Art Basel’s industry-leading stable – has now become Paris Art Week",
+  "kind": "뉴스·이슈",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "아트 바젤 파리의 확장된 구조와 구체적인 협업 사례를 다루지만, 개별 작업의 깊이보다는 행사 전반의 개요를 소개하는 성격이 강하다.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/art/exhibitions-shows/art-basel-paris-2026-guide",
+  "original_title": "Everything you need to know about Art Basel Paris 2026",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 5867,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-17 14:05",
+  "research": {
+   "entities": [
+    "Art Basel",
+    "Grand Palais",
+    "Miu Miu",
+    "Fondation Cartier",
+    "Lafayette Anticipations"
+   ],
+   "questions": [
+    "Art Basel Paris가 단순한 아트 페어를 넘어 파리 아트 위크로 확장되면서 도시의 문화적 구조와 어떻게 상호작용하고 있나요?",
+    "패션 브랜드와 예술가의 협업이 아트 바젤 파리의 프로그램에서 어떤 예술적, 상업적 가치를 창출하고 있나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Art Basel",
+     "url": "https://www.artbasel.com/?lang=en"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Art Basel",
+     "url": "https://en.wikipedia.org/wiki/Art%20Basel"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Miu Miu",
+     "url": "https://en.wikipedia.org/wiki/Miu%20Miu"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "캠퍼와 비트라 디자인 뮤지엄, 20년의 협업을 잇는 아카이브의 재구성",
+     "url": "https://www.fubiz.net/2026/07/01/camper-for-vitra-design-museum-at-art-basel-2026/"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "추한 시크를 넘어 일상복에 주입한 낯선 아름다움",
+     "url": "https://www.anothermag.com/fashion-beauty/17547/miu-miu-miuccia-prada-review-spring-summer-2027?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=miu-miu-injects-beauty-into-real-clothes-for-the-here-and-now"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "파리 아트 위크 2026, 그랑 팔레와 호텔 드 메종을 잇는 동시대 예술과 디자인의 현장",
+     "url": "https://www.designboom.com/art/designboom-paris-guide-design-miami-art-basel-2026/"
+    }
+   ],
+   "used": [
+    2,
+    3,
+    6
+   ],
+   "chars": 2086
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "wallpaper.com/architecture/stadttempel-viennese-synagogue-austria": {
+  "title_ko": "유서 깊은 비엔나 회당에 심은 현대적 결합과 보존",
+  "summary_ko": "오스트리아 비엔나의 유일하게 1938년 나치 학살에서 살아남은 스타트템펠 회당이 켄 아르히텍텐의 손길로 새롭게 복원되었다. 비더마이어 시대의 색채를 반영한 목재 패널과 다기능 공간, 은폐형 수납 시스템이 도입되었으며, 원형 그대로의 석조 바닥과 아치형 구조가 되살아났다.",
+  "lens": "역사적 원형과 현대적 설비를 곡선형 가구와 숨겨진 수납으로 정교하게 직조한다.",
+  "why_now": "200년의 역사를 지닌 종교 건축물이 동시대의 물리적 요구와 유산 보존 사이에서 균형을 잡는 방식을 보여준다.",
+  "mechanism": "곡선형 좌석의 내부에 난방 및 냉방 시스템을 통합하고 흡음 효과를 동시에 거두며, 변형 가능한 접이식 판매대와 은폐형 수납 시스템을 적용했다.",
+  "sensory": "오렌지, 타바코 옐로, 스카이 블루 등 비더마이어 시대의 대담한 파스텔 색조가 따뜻한 베이지 및 흰색 벽면과 맞물려 아늑한 빛을 자아낸다.",
+  "transfer": "역사적 공간이나 박물관 세트를 연출할 때 눈에 띄는 기계 설비를 숨기고 가구 자체가 음향과 온도를 조절하도록 설계한다.",
+  "context": "1826년 건축가 요제프 코르나우젤이 지은 비엔나의 메인 시나고그이며, 연면적 리노베이션은 켄 아르히텍텐이 맡았다.",
+  "findings": [
+   {
+    "text": "1826년에 건축가 요제프 코르나우젤이 로스차일드 가문의 지원을 받아 비엔나의 메인 시나고그를 지었다.",
+    "s": 2,
+    "quote": "In 1826, the Wiener Stadttempel, Vienna‘s main synagogue,was built by architect Josef Georg Kornhäusel, supported bythe Rothschild family."
+   },
+   {
+    "text": "2026년 200주년을 맞아 켄 아르히텍텐이 성스러운 건물의 복원과 현대화를 진행한다.",
+    "s": 2,
+    "quote": "For the 200th anniversary in 2026, the sacred building will be restored and modernised by KENH Architekten."
+   }
+  ],
+  "keywords": [
+   "스타트템펠",
+   "켄아르히텍텐",
+   "공간복원",
+   "비더마이어"
+  ],
+  "evidence": "Having survived the Nazi pogroms of 1938, the landmark synagogue has been thoughtfully renewed by KENH Architekten",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "200년 된 건축물의 역사적 맥락과 현대적인 설비 통합 과정이 구체적으로 기록되어 있다.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/architecture/stadttempel-viennese-synagogue-austria",
+  "original_title": "Stadttempel, the only Viennese synagogue to survive the 1938 Nazi annexation, is restored",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 3882,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-17 14:06",
+  "research": {
+   "entities": [
+    "Josef KornhCsel",
+    "Stadttempel",
+    "KENH Architekten",
+    "Lobmeyr"
+   ],
+   "questions": [
+    "스타드템펠(Stadttempel)의 복원 과정에서 건축가들이 역사적 원형을 유지하면서 현대적 편의시설을 통합한 구체적인 방식은 무엇인가?",
+    "비더마이어(Biedermeier) 시대의 색채와 디자인 요소가 이번 실내 인테리어 복원에 어떻게 반영되었는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "KENH Architekten ZT GmbH",
+     "url": "https://new.kenh.at/"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "WIENER STADTTEMPELBECHER | J. & L. Lobmeyr",
+     "url": "https://www.lobmeyr.at/crystal/wiener-stadttempelbecher/"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Stadttempel",
+     "url": "https://en.wikipedia.org/wiki/Stadttempel"
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "J. & L. Lobmeyr",
+     "url": "https://en.wikipedia.org/wiki/J.%20%26%20L.%20Lobmeyr"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "chars": 2218
+  },
+  "depth_raw": 4,
+  "depth_v": 2
  }
 }
