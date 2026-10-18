@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-10-18 14:06 KST",
+  "generated_at": "2026-10-18 16:47 KST",
   "period": "2026.10.11 - 2026.10.18",
-  "total_articles": 410,
+  "total_articles": 413,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 200
+      "count": 201
     },
     {
       "genre": "동시대 미술",
-      "count": 157
+      "count": 159
     },
     {
       "genre": "아방가르드 패션",
@@ -86,6 +86,38 @@
       ]
     },
     {
+      "keyword": "리노베이션·재생",
+      "count": 7,
+      "previous_count": 5,
+      "trend": "rising",
+      "items": [
+        {
+          "title": "베이징 1733 ByteDance 상업 프로젝트/XU 스튜디오",
+          "url": "https://www.archdaily.com/1186852/beijing-1733-bytedance-commercial-project-xu-studio",
+          "image_url": "https://images.adsttc.com/media/images/6acf/d694/7887/fb3b/1182/d652/large_jpg/beijing-1733-bytedance-commercial-project-xu-studio_15.jpg?1792005800",
+          "source_name": "ArchDaily"
+        },
+        {
+          "title": "루비오이갈리",
+          "url": "https://leibal.com/interiors/rubio-y-gali/",
+          "image_url": "https://leibal.com/wp-content/uploads/2026/10/leibal_rubio-y-gali_de-la-villa-studio_16.jpg",
+          "source_name": "Leibal"
+        },
+        {
+          "title": "TAFA 아트 블록/믹스 아키텍처의 핵심 영역 개조",
+          "url": "https://www.archdaily.com/1186609/renovation-of-the-core-area-of-tafa-art-block-mix-architecture",
+          "image_url": "https://images.adsttc.com/media/images/6ac8/958c/7887/fb21/1c77/dbea/large_jpg/renovation-of-the-core-area-of-tafa-art-block-mix-architecture_50.jpg?1791530410",
+          "source_name": "ArchDaily"
+        },
+        {
+          "title": "La Maison en bord de mer / Terres terres",
+          "url": "https://www.archdaily.com/1186572/la-maison-en-bord-de-mer",
+          "image_url": "https://images.adsttc.com/media/images/6ac7/987b/b2c4/c300/0178/e1da/large_jpg/photo-SG-2025-SPINETTO-CONSTELLATIONS--maison--blondville--IMP-B-0004a.jpg?1791465652",
+          "source_name": "ArchDaily"
+        }
+      ]
+    },
+    {
       "keyword": "텍스타일·직물",
       "count": 7,
       "previous_count": 1,
@@ -118,66 +150,34 @@
       ]
     },
     {
-      "keyword": "미니멀리즘",
+      "keyword": "설치 미술",
       "count": 4,
-      "previous_count": 2,
-      "trend": "rising",
-      "items": [
-        {
-          "title": "미니멀한 멜버른 주택을 정의하는 일련의 숨겨진 안뜰",
-          "url": "https://www.wallpaper.com/architecture/residential/melbourne-house-casa-piva-australia",
-          "image_url": "https://cdn.mos.cms.futurecdn.net/JdEsQFtD4HtiNjnMFCq9ZD-1920-80.jpg",
-          "source_name": "Wallpaper*"
-        },
-        {
-          "title": "루비오이갈리",
-          "url": "https://leibal.com/interiors/rubio-y-gali/",
-          "image_url": "https://leibal.com/wp-content/uploads/2026/10/leibal_rubio-y-gali_de-la-villa-studio_16.jpg",
-          "source_name": "Leibal"
-        },
-        {
-          "title": "콜린 킹, 맨해튼 에어리를 위해 미니멀리스트 로프트를 거래하다",
-          "url": "https://www.architecturaldigest.com/story/colin-king-trades-a-minimalist-loft-for-a-manhattan-aerie-brimming-with-choice-finds",
-          "image_url": "https://media.architecturaldigest.com/photos/6ac55ab53f2b51c588d774fd/master/pass/AD1126_COLIN_KING_3%20copy.jpg",
-          "source_name": "Architectural Digest"
-        },
-        {
-          "title": "난초를 위해 지어진 창문: Vitrocsa 뒤에 있는 스위스 워치메이커.",
-          "url": "https://www.yellowtrace.com.au/vitrocsa-inventor-of-modern-minimalist-window-built-for-orchids/",
-          "image_url": "https://assets.yellowtrace.com.au/wp-content/uploads/2026/10/06203815/Yellowtrace_MCK_Sunrise-House_Photo-Michael-Nicholson.jpeg",
-          "source_name": "Yellowtrace"
-        }
-      ]
-    },
-    {
-      "keyword": "리노베이션·재생",
-      "count": 6,
       "previous_count": 5,
       "trend": "steady",
       "items": [
         {
-          "title": "루비오이갈리",
-          "url": "https://leibal.com/interiors/rubio-y-gali/",
-          "image_url": "https://leibal.com/wp-content/uploads/2026/10/leibal_rubio-y-gali_de-la-villa-studio_16.jpg",
-          "source_name": "Leibal"
+          "title": "소음의 예술과 소리의 형태: 오디오 설치의 새로운 세계",
+          "url": "https://www.wallpaper.com/tech/new-world-of-audio-installations",
+          "image_url": "https://cdn.mos.cms.futurecdn.net/fptCF9PCNQyRL9YazquVD3-1920-80.jpg",
+          "source_name": "Wallpaper*"
         },
         {
-          "title": "TAFA 아트 블록/믹스 아키텍처의 핵심 영역 개조",
-          "url": "https://www.archdaily.com/1186609/renovation-of-the-core-area-of-tafa-art-block-mix-architecture",
-          "image_url": "https://images.adsttc.com/media/images/6ac8/958c/7887/fb21/1c77/dbea/large_jpg/renovation-of-the-core-area-of-tafa-art-block-mix-architecture_50.jpg?1791530410",
-          "source_name": "ArchDaily"
-        },
-        {
-          "title": "La Maison en bord de mer / Terres terres",
-          "url": "https://www.archdaily.com/1186572/la-maison-en-bord-de-mer",
-          "image_url": "https://images.adsttc.com/media/images/6ac7/987b/b2c4/c300/0178/e1da/large_jpg/photo-SG-2025-SPINETTO-CONSTELLATIONS--maison--blondville--IMP-B-0004a.jpg?1791465652",
-          "source_name": "ArchDaily"
-        },
-        {
-          "title": "유서 깊은 암스테르담 운하 주택에 숨 쉬는 호화로운 안톨리니 천연석",
-          "url": "https://www.dezeen.com/2026/10/12/luxurious-antolini-natural-stones-historic-amsterdam-canal-house/",
-          "image_url": "https://static.dezeen.com/uploads/2026/09/Antolini_dezeen_2364_col_5-852x852.jpg",
+          "title": "베나즈 파라히 (Behnaz Farahi) 는 MIT 퓨처 페스트 (Future Fest) 를 위해 오션 오브 드림",
+          "url": "https://www.dezeen.com/2026/10/14/behnaz-farahi-ocean-of-dreams-mit/",
+          "image_url": "https://static.dezeen.com/uploads/2026/10/farahi-mit-media-lab-ocean-of-dreams-installation_dezeen_2364_sq-852x852.jpg",
           "source_name": "Dezeen"
+        },
+        {
+          "title": "221 Camera Obscuras Fill Pneuhaus’ Immersive, Inflatable, Image-Capturing Installation",
+          "url": "https://www.thisiscolossal.com/2026/10/pneuhaus-compound-camera-3-inflatable-installation/",
+          "image_url": "https://www.thisiscolossal.com/wp-content/uploads/2026/10/pneuhaus-7.jpg",
+          "source_name": "This Is Colossal"
+        },
+        {
+          "title": "B + N Industries는 설치 후에도 계속 진화할 수 있도록 모듈식 시스템을 구축합니다.",
+          "url": "https://design-milk.com/bn-industries-builds-its-modular-systems-to-keep-evolving-after-installation/",
+          "image_url": "https://design-milk.com/images/2026/10/System-1224-Momentum-Showroom-1500x1125.jpg",
+          "source_name": "Design Milk"
         }
       ]
     },

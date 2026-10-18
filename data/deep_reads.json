@@ -182945,5 +182945,272 @@
   },
   "depth_raw": 4,
   "depth_v": 2
+ },
+ "archdaily.com/1186852/beijing-1733-bytedance-commercial-project-xu-studio": {
+  "title_ko": "바이트댄스 캠퍼스의 활력, 베이징 1733 상업 공간 리노베이션",
+  "summary_ko": "쉬 스튜디오(XU Studio)는 베이징 1733 오피스 파크 내 선켄(sunken) 상업 공간과 테마 구역을 리노베이션했다. 경량 개입 전략을 통해 건축 요소 삽입, 조경 통합, 상업 시나리오 재구성을 시도했다. 이를 통해 기능적 편의시설에 머물던 공간을 일상의 온기가 흐르는 공유 환경으로 전환했다.",
+  "lens": "고도로 효율적인 오피스 파크에서 건축적 개입을 최소화하는 경량 전략으로 상업 공간의 경직된 기능을 유연한 공공 영역으로 재편했다.",
+  "why_now": "업무 공간의 효율성 중심 설계가 일상적인 삶의 질을 저해하는 문제를 해결하기 위해, 상업 시설을 단순한 편의시설이 아닌 공공의 활력을 불어넣는 장치로 재정의한다.",
+  "mechanism": "건축적 요소의 삽입과 조경의 통합을 통해 실내외 경계를 허물고, 개방형 인터페이스를 구축하여 사용자의 동선과 시선이 자연스럽게 교차하도록 설계했다.",
+  "sensory": "선켄 공간이 가진 폐쇄성을 걷어내고 자연 요소와 조화를 이루는 개방적 배치를 통해, 딱딱한 오피스 캠퍼스 내에서 빛과 공기가 순환하는 따뜻한 질감을 구현했다.",
+  "transfer": "오피스 단지 내 상업 공간 촬영 시, 인공적인 조명 대신 외부 녹지와 연결된 개방형 입면을 활용해 자연광이 실내로 깊숙이 들어오는 롱샷을 구성한다.",
+  "context": "쉬 스튜디오는 충칭 루후 프로젝트에서 구름 모양의 처마와 접이식 문을 활용해 일상 속 휴식의 경계를 설계한 바 있다. 이번 베이징 1733 프로젝트 역시 이전 작업과 마찬가지로 건축적 개입을 통해 상업 공간과 주변 환경의 물리적·심리적 거리를 좁히는 데 집중했다.",
+  "findings": [
+   {
+    "text": "쉬 스튜디오는 충칭 루후 주거 단지에서 엇갈린 처마와 개폐 창을 활용해 실내외 공기 흐름을 극대화하고 외부 녹지와 긴밀하게 연결했다.",
+    "s": 2,
+    "quote": "전체 높이의 접이식 문과 상부 개폐 창을 활용해 실내외 공기 흐름을 극대화하고 외부 녹지와 긴밀하게 연결했다."
+   }
+  ],
+  "keywords": [
+   "오피스파크",
+   "상업공간",
+   "리노베이션",
+   "쉬스튜디오",
+   "공공영역"
+  ],
+  "evidence": "The Beijing 1733 Public Space Renovation responds to this question through a strategy of lightweight intervention.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "구체적인 디자인 전략의 방향성은 제시했으나, 상세한 재료나 구체적인 수치 정보가 부족하여 일반적인 리노베이션 사례 수준에 머문다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1186852/beijing-1733-bytedance-commercial-project-xu-studio",
+  "original_title": "Beijing 1733 ByteDance Commercial Project / XU Studio",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 1721,
+  "fetch": "ok",
+  "cliche_hits": [
+   "경계를 허"
+  ],
+  "read_at": "2026-10-18 16:47",
+  "research": {
+   "entities": [
+    "XU Studio",
+    "ByteDance"
+   ],
+   "questions": [
+    "XU Studio가 베이징 1733 바이트댄스 상업 프로젝트에서 적용한 경량 개입(lightweight intervention) 전략의 구체적인 디자인 방식은 무엇인가?",
+    "선켄(sunken) 상업 공간과 테마 구역을 리노베이션함으로써 오피스 캠퍼스의 공공 영역에 어떤 변화를 가져왔는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "ByteDance",
+     "url": "https://en.wikipedia.org/wiki/ByteDance"
+    },
+    {
+     "n": 2,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "충칭 루후의 일상을 잇는 구름 처마, 완화 그린 하트 푸드 마켓과 윈랑 식당",
+     "url": "https://www.archdaily.com/1184093/wanhua-green-heart-food-market-yunlang-canteen-xu-studio"
+    }
+   ],
+   "used": [
+    2
+   ],
+   "chars": 973
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "wallpaper.com/tech/new-world-of-audio-installations": {
+  "title_ko": "브랜드가 공간을 점유하는 방식: 소음의 예술과 몰입형 청취 환경",
+  "summary_ko": "브랜드와 아티스트들이 주의 집중력이 분산된 시대에 대응해 몰입형 오디오 인스톨레이션과 전용 리스닝 룸을 구축하고 있다. 뱅앤올룹슨, 프리츠 한센 등 브랜드는 단순한 제품 출시를 넘어 음악과 공간 디자인을 결합한 경험을 제공한다. 이는 사용자의 체류 시간을 늘리고 브랜드와 깊은 정서적 연결을 맺으려는 전략적 전환이다.",
+  "lens": "공간의 소리는 시각적 자극 없이도 사용자의 심리적 상태와 체류 시간을 제어하는 가장 강력한 비가시적 건축 재료다.",
+  "why_now": "디지털 과부하 시대에 브랜드는 휘발성 광고 대신 20분 이상의 온전한 주의력을 확보할 수 있는 물리적 청취 공간을 새로운 마케팅이자 문화적 자산으로 활용한다.",
+  "mechanism": "공간별로 점유자의 체류 시간과 심리적 부하를 측정하는 인지 부하 지표를 적용해 음향 설계를 최적화하며, 가구와 오디오 기기의 물리적 배치를 통해 청취의 의도성을 강화한다.",
+  "sensory": "고밀도 텍스타일 패브릭의 물리적 질감과 정밀하게 설계된 음향의 공명, 낯선 공간에서 느껴지는 고요한 집중감이 감각의 중심을 잡는다.",
+  "transfer": "공간 연출 시 소리를 단순히 배경음으로 쓰지 말고, 특정 주파수와 잔향을 활용해 방문객의 이동 속도를 늦추거나 특정 구역에 머물게 하는 동선 제어 장치로 활용하라.",
+  "context": "뱅앤올룹슨은 공학적 설계를 통해 음향 투과율을 높인 이중 직조 패브릭을 개발하는 등 소리와 재료의 결합을 지속해왔다. 프리츠 한센 역시 가구의 기하학적 언어를 오디오 공간에 이식하며 브랜드 경험의 영역을 확장하고 있다.",
+  "findings": [
+   {
+    "text": "뱅앤올룹슨은 덴마크 스트루어의 팩토리 5에서 알루미늄 밀링, 아노다이징 등 정밀 가공을 통해 오디오의 내구성과 미감을 구현한다.",
+    "s": 1,
+    "quote": "With expertise in milling, turning, anodising and surface finishes, our aluminium is crafted for utmost durability and elegance – all under the same roof in Factory 5, Struer."
+   },
+   {
+    "text": "스웨덴의 틴에이지 엔지니어링은 신시사이저와 드럼 머신을 주력으로 하는 전자제품 디자인 기업이다.",
+    "s": 3,
+    "quote": "Teenage Engineering is a Swedish consumer electronics, design company, and manufacturer specializing in synthesizers, drum machines, and grooveboxes."
+   }
+  ],
+  "keywords": [
+   "오디오 인스톨레이션",
+   "공간 음향",
+   "몰입형 경험",
+   "리스닝 룸",
+   "브랜드 경험"
+  ],
+  "evidence": "Audio is one of the few mediums that can completely shift how a space is experienced without demanding visual attention.",
+  "kind": "뉴스·이슈",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "브랜드가 오디오를 활용해 공간 경험을 재설계하는 구체적인 전략과 사례를 다각도로 분석했다.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/tech/new-world-of-audio-installations",
+  "original_title": "The art of noise and the shape of sound: the new world of audio installations",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 9000,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-18 16:47",
+  "research": {
+   "entities": [
+    "Bang & Olufsen",
+    "Technics",
+    "Teenage Engineering",
+    "Fritz Hansen",
+    "Angelo Nitsopoulos"
+   ],
+   "questions": [
+    "브랜드들이 왜 최근 들어 일방적인 광고 대신 오디오 인스톨레이션과 리스닝 룸에 집중하고 있나요?",
+    "현대 디자인과 사운드 아티스트들의 협업이 공간 경험을 어떻게 변화시키고 있나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Bang & Olufsen Atelier | Bespoke & Limited Edition Design",
+     "url": "https://www.anrdoezrs.net/click-8904327-13011340?sid=wallpaper-us-1223422000630463228&url=https://www.bang-olufsen.com/en/gb/story/atelier"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Bang & Olufsen",
+     "url": "https://en.wikipedia.org/wiki/Bang%20%26%20Olufsen"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Teenage Engineering",
+     "url": "https://en.wikipedia.org/wiki/Teenage%20Engineering"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "알루미늄의 빛과 효율, 루메의 가장 가벼운 카라반 레인저",
+     "url": "https://www.wallpaper.com/transportation/lume-ranger-caravan"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "바우하우스의 기하학으로 빚은 프리츠 한센의 청취 공간",
+     "url": "https://www.dezeen.com/2026/09/20/fritz-hansen-sound-club-london/"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "울스케이프, 뱅앤올룹슨 베오사운드 A9의 음향과 자연을 잇는 이중 직조",
+     "url": "https://www.wallpaper.com/tech/kvadrat-febrik-and-front-design-to-create-a-nature-inspired-fabric-for-bang-and-olufsen"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "chars": 4249
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "wallpaper.com/architecture/36-views-of-dawsons-heights-book-review": {
+  "title_ko": "런던 남부의 아이콘, 도슨스 하이츠를 기록하는 36가지 시선",
+  "summary_ko": "하프 파인트 프레스(Half Pint Press)가 런던 남부의 상징적인 주거 단지 도슨스 하이츠(Dawson's Heights)를 다룬 단행본 ‘도슨스 하이츠의 36가지 전망(Thirty-Six Views of Dawson’s Heights)’을 출간했다. 마이클 존스(Michael Jones)의 사진과 존 그레이(John Gray)의 텍스트로 구성된 이 책은 1964년부터 1972년 사이 케이트 매킨토시(Kate Macintosh)가 설계한 이 건물의 다층적인 외관을 다양한 각도에서 포착한다.",
+  "lens": "단순한 주거 단지를 넘어 지형을 따라 층층이 쌓인 벽돌 매스의 복잡성을 36개의 파편화된 시점으로 재조립하는 기록물이다.",
+  "why_now": "팬데믹 기간 산책 중 마주친 일상의 풍경을 예술적 아카이빙으로 전환한 점은 장소와 거주자의 관계를 재정의하는 동시대적 태도를 보여준다.",
+  "mechanism": "호쿠사이의 ‘후지산 36경’ 형식을 빌려 고정된 건축물을 다각도에서 촬영함으로써 단일한 건물이라는 고정관념을 해체하고 건축의 입체적 존재감을 드러낸다.",
+  "sensory": "이탈리아 산악 마을을 연상시키는 붉은 벽돌의 거친 질감과 경사지를 타고 오르는 계단식 매스의 기하학적 스케일이 시각적 리듬을 만든다.",
+  "transfer": "공간을 촬영할 때 한 지점의 정면성에 의존하지 말고, 주변 지형과 섞이는 건물 매스의 복합성을 드러내는 다각도의 컷을 콘티에 배치해 보라.",
+  "context": "도슨스 하이츠는 28세의 케이트 매킨토시가 설계한 사회 주택으로, 이탈리아 산악 마을 같은 계단식 외관과 듀얼 애스펙트 메조넷 구조로 유명하다. 하프 파인트 프레스는 런던 페컴 라이 인근에서 수동 활판 인쇄기를 사용하는 소규모 출판사로, 이번 작업은 그들의 아카이빙 프로젝트 중 하나다.",
+  "findings": [
+   {
+    "text": "도슨스 하이츠는 12개 층에 걸쳐 298세대의 복층 메조넷으로 구성되어 있다.",
+    "s": 3,
+    "quote": "Dawson's Heights consists of two blocks of flats: Bredinghurst to the south and Ladlands to the north. Composed of 298 flats distributed over 12 floors, it compromises 112 one-bed flats, 75 two-bed, 81 three-bed and 28 f"
+   },
+   {
+    "text": "건물은 철도 건설 후 남은 흙을 쌓아 만든 언덕 위에 위치하며, 지형을 따라 설계되었다.",
+    "s": 3,
+    "quote": "The estate is built on top of a spoil tip from the creation of a nearby railway line."
+   },
+   {
+    "text": "하프 파인트 프레스는 주로 활판 인쇄 기법을 활용하며, 대부분의 텍스트는 수작업으로 식자한다.",
+    "s": 1,
+    "quote": "Most of the work is letterpress-based: we use an Adana Eight-Five press, and other small Adana presses. Every now and again we’ll employ other printing techniques, but that’s another matter. Most of the textual work is t"
+   }
+  ],
+  "keywords": [
+   "도슨스하이츠",
+   "케이트매킨토시",
+   "건축아카이빙",
+   "하프파인트프레스",
+   "런던건축"
+  ],
+  "evidence": "Thirty-Six Views of Dawson’s Heights offers up a portrait of the towering housing complex",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "건축적 맥락과 출판사의 제작 방식이 명확하며, 특정 대상을 다각도로 기록하는 연출적 관점이 돋보인다.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/architecture/36-views-of-dawsons-heights-book-review",
+  "original_title": "‘36 Views of Dawson’s Heights’ is an homage to a south London icon",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 2065,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-18 16:47",
+  "research": {
+   "entities": [
+    "Dawson's Heights",
+    "Kate Macintosh",
+    "Half Pint Press",
+    "Thirty-six Views of Mount Fuji"
+   ],
+   "questions": [
+    "도슨스 하이츠(Dawson's Heights)가 건축사적으로 가지는 독특한 특징과 가치는 무엇인가요?",
+    "케이트 매킨토시(Kate Macintosh)의 건축 철학이 도슨스 하이츠 설계에 어떻게 반영되었나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "THE HALF PINT PRESS",
+     "url": "https://go.redirectingat.com?id=92X1650074&xcust=wallpaper_us_1324429451107122484&xs=1&url=https%3A%2F%2Fthehalfpintpress.wordpress.com%2F&sref=https%3A%2F%2Fwww.wallpaper.com"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "My Favourite Building: Dawson's Heights",
+     "url": "https://themodernhouse.com/journal/my-favourite-building-dawsons-heights"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Dawson's Heights",
+     "url": "https://en.wikipedia.org/wiki/Dawson%27s%20Heights"
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "Kate Macintosh",
+     "url": "https://en.wikipedia.org/wiki/Kate%20Macintosh"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "chars": 4018
+  },
+  "depth_raw": 4,
+  "depth_v": 2
  }
 }
