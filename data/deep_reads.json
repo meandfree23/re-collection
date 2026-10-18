@@ -183730,5 +183730,297 @@
   },
   "depth_raw": 4,
   "depth_v": 2
+ },
+ "archdaily.com/1186767/mirador-de-gracia-miriam-castells": {
+  "title_ko": "미라도르 데 그라시아: 도시와 자연을 잇는 시니어 거주 공동체의 인테리어",
+  "summary_ko": "바르셀로나 미리암 카스텔스 스튜디오가 콜세롤라 자연공원 경사면에 위치한 6,600㎡ 규모의 시니어 거주 시설 미라도르 데 그라시아의 인테리어를 설계했다. 자연과 도시의 접점에 위치한 지리적 특성을 활용해 시설이 아닌 집의 감각을 구현하는 데 집중했다.",
+  "lens": "병원 같은 기능적 공간이 아닌, 거주자의 일상을 담는 주거의 안락함을 공간 언어로 치환했다.",
+  "why_now": "시니어 라이프스타일이 의료 시설 중심에서 주거와 자연의 조화를 중시하는 방향으로 이동하고 있다.",
+  "mechanism": "자연공원의 경사면을 활용해 시각적 개방감을 확보하고, 거주 시설 내부에 주거 공간의 질감을 도입해 시설의 차가운 인상을 지웠다.",
+  "sensory": "자연공원의 녹지와 도시 풍경이 교차하는 창가, 거주자의 정서적 안정을 돕는 따뜻한 질감의 마감재가 조화를 이룬다.",
+  "transfer": "시니어 시설 촬영 시, 복도나 공용 공간을 병원식 조명이 아닌 주거용 램프와 가구를 사용해 따뜻한 색온도로 연출한다.",
+  "context": "미리암 카스텔스는 바르셀로나를 기반으로 활동하며 공간의 기능성과 인간 중심의 경험을 결합하는 작업을 이어오고 있다.",
+  "findings": [],
+  "keywords": [
+   "시니어하우징",
+   "바르셀로나",
+   "미리암카스텔스",
+   "공간디자인",
+   "지속가능성"
+  ],
+  "evidence": "a senior living residence can—and absolutely must—feel like home.",
+  "kind": "프로젝트",
+  "depth": 2,
+  "grounding": "thin",
+  "depth_reason": "시니어 시설의 인테리어 지향점은 명확하나, 구체적인 마감재나 상세 동선 정보가 부족하여 일반적인 수준의 소개에 그친다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1186767/mirador-de-gracia-miriam-castells",
+  "original_title": "Mirador de Gràcia / Miriam Castells",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 1621,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-19 01:27",
+  "research": {
+   "entities": [
+    "Miriam Castells",
+    "Studio Canvas",
+    "Emiliana Design Studio",
+    "Mirador de Gràcia"
+   ],
+   "questions": [
+    "Mirador de Gràcia 프로젝트가 시니어 리빙 시설로서 '집과 같은 편안함'을 구현하기 위해 적용한 구체적인 인테리어 디자인 전략은 무엇인가요?",
+    "Collserola 자연공원과 도시의 경계라는 지리적 특성이 건축물의 공간 구성과 지속가능성 설계에 어떤 영향을 미쳤나요?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "archdaily.com/1186676/living-archive-office-parkscheerbarth": {
+  "title_ko": "버려진 발전소 지하를 깨운 베를린 테크노 아카이브 공간",
+  "summary_ko": "오피스 파크셰어바스는 트레소어 설립자 디미트리 헤게만과 함께 전 동베를린 발전소 아래의 버려진 지하 공간 3,400제곱미터를 개방했다. 건축가는 건물이 자체로 공급한 자재를 활용하여 테크노 문화 영구 아카이브를 위한 전시장 디자인과 허가 절차를 수행했다.",
+  "lens": "발전소 지하의 방치된 콘크리트 골조와 철제 구조물을 그대로 드러내어 테크노의 원초적 질감을 복원한다.",
+  "why_now": "도시 유휴 공간을 새로운 문화적 기억 저장소로 바꾸는 적응형 재사용의 정교한 실천 사례다.",
+  "mechanism": "건물 내부에서 수거한 기존 자재를 다시 조립하여 전시장 구조를 짜고, 라스 무라슈가 설계한 조명으로 어두운 지하 공간의 스케일을 강조한다.",
+  "sensory": "차가운 콘크리트 표면과 거친 철제 파이프, 날것 그대로의 조도가 전시장 내부를 지배한다.",
+  "transfer": "지하 주차장이나 버려진 기계실을 촬영할 때 추가 세트 대신 기존 벽체와 배관의 질감을 살려 거친 현장감을 구축한다.",
+  "context": "오피스 파크셰어바스는 베를린을 기반으로 활동하는 건축 스튜디오다. 트레소어의 설립자인 디미트리 헤게만은 2015년부터 테크노 문화 영구 아카이브 구상을 지속해 왔다.",
+  "findings": [
+   {
+    "text": "디미트리 헤게만은 독일의 나이트클럽 소유자이자 문화 운동가이다.",
+    "s": 1,
+    "quote": "Dietmar-Maria Dimitri Hegemann is a German nightclub owner, cultural activist and community organizer"
+   }
+  ],
+  "keywords": [
+   "공간재생",
+   "테크노아카이브",
+   "발전소지하",
+   "베를린건축"
+  ],
+  "evidence": "For the first time, 3,400 square meters of previously unused basement beneath a former East Berlin power station opened to the public.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "발전소 지하의 공간 재생과 전시 디자인 과정을 보여주나 원문 정보가 다소 짧아 구조적 세부 사항이 제한적이다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1186676/living-archive-office-parkscheerbarth",
+  "original_title": "Living Archive / Office ParkScheerbarth",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 1351,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-19 01:27",
+  "research": {
+   "entities": [
+    "Office ParkScheerbarth",
+    "Dimitri Hegemann",
+    "Tresor"
+   ],
+   "questions": [
+    "동독의 발전소 지하 공간을 테크노 문화 아카이브로 재생시킨 건축적 의도는 무엇인가?",
+    "전시 'Dancefloors After 1989'가 베를린 테크노 문화의 역사적 맥락에서 갖는 의미는 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Dimitri Hegemann",
+     "url": "https://en.wikipedia.org/wiki/Dimitri%20Hegemann"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 176
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "stashmedia.tv/frame-explores-our-planet-for-ege-carpets-x-gensler": {
+  "title_ko": "지형과 철새의 이동을 AI 파이프라인으로 직조한 오피스 카펫 필름",
+  "summary_ko": "덴마크 디자인 스튜디오 프레임이 미국 건축사무소 겐슬러와 카펫 제조업체 에이지를 위해 자연의 지형과 철새의 이동 경로를 담은 브랜드 필름을 제작했다. 나노 바나나, 플럭스, 미드저니, 킹, 시댄스 등 여러 AI 모델을 직렬로 연결하는 파이프라인을 구축해 추상적인 움직임을 구현했다. 전체 연출의 95퍼센트는 스튜디오가 통제하고 나머지 5퍼센트는 AI의 무작위성에 맡기는 방식을 취했다.",
+  "lens": "3D 파이프라인의 엄격한 규율을 AI 모델 체인에 이식해 통제와 우연의 균형을 잡는다.",
+  "why_now": "클라이언트 프로젝트에서 AI가 단순한 소스 생성을 넘어 정교한 다중 모델 파이프라인의 영역으로 진입했음을 보여준다.",
+  "mechanism": "나노 바나나와 미드저니 등 서로 다른 이미지 및 영상 모델들을 체인 형태로 엮어 한 샷이 여러 모델의 연산을 거치도록 설계했다.",
+  "sensory": "전통적인 3D 렌더링의 매끈함 대신 AI 모델 특유의 미세한 질감 변주와 예측 불가능한 유기적 움직임이 화면을 채운다.",
+  "transfer": "광고 콘티 작업 시 단일 모델에 의존하지 않고 여러 AI 모델을 단계별로 통과시키는 다중 파이프라인 방식을 도입해 뜻밖의 앵글을 유도한다.",
+  "context": "겐슬러는 전 세계 53개 도시에서 오피스 인테리어를 비롯한 대규모 프로젝트를 수행하는 거대 건축사무소이다.",
+  "findings": [
+   {
+    "text": "겐슬러는 2022년 미국 건축사무소 중 가장 많은 17억 8,500만 달러의 매출을 기록했다.",
+    "s": 2,
+    "quote": "In 2022, Gensler generated $1.785 billion in revenue, the most of any architecture firm in the U.S."
+   }
+  ],
+  "keywords": [
+   "AI파이프라인",
+   "겐슬러",
+   "프레임",
+   "브랜드필름",
+   "카펫디자인"
+  ],
+  "evidence": "What makes our work distinct is the production pipeline and how we chain those models together, with most shots passing through several models and processes before they’re final.",
+  "kind": "브랜드·캠페인",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "AI 제작 파이프라인의 구체적인 공정을 다루나 선례로서의 확장성은 보통 수준이다.",
+  "v": 2,
+  "url": "https://www.stashmedia.tv/frame-explores-our-planet-for-ege-carpets-x-gensler/",
+  "original_title": "Frame Explores Our Planet for Ege Carpets x Gensler",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 4563,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-19 01:27",
+  "research": {
+   "entities": [
+    "FRAME",
+    "Gensler",
+    "Ege Carpets",
+    "Midjourney",
+    "Kling"
+   ],
+   "questions": [
+    "FRAME 스튜디오가 AI 도구들을 결합하여 영상 제작 파이프라인을 구축하는 구체적인 방식은 무엇인가?",
+    "전통적인 3D 제작 방식과 비교했을 때, AI 기반 영상 제작이 클라이언트와의 협업 과정에서 갖는 장점과 한계는 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "A Broken Frame",
+     "url": "https://en.wikipedia.org/wiki/A%20Broken%20Frame"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Gensler",
+     "url": "https://en.wikipedia.org/wiki/Gensler"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "알프스의 소멸하는 빙하를 3,000장의 드로잉으로 기록하다",
+     "url": "https://www.designboom.com/art/jesus-mari-lazkano-changing-landscapes-painting-animated-film-azken-natura/"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "시간과 재료가 나이 드는 집, 스콧 앤 스콧의 키칠라노 하우스",
+     "url": "https://www.wallpaper.com/architecture/residential/kitsilano-house-vancouver-canada"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "후쿠오카의 새로운 관문, 오마(OMA)가 설계한 텐진 비즈니스 센터 II",
+     "url": "https://www.archdaily.com/1184460/tenjin-business-center-ii-oma"
+    }
+   ],
+   "used": [
+    2
+   ],
+   "chars": 2107
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "wallpaper.com/design-interiors/joshi-greene-los-angeles-designers": {
+  "title_ko": "19세기 셰이커 디자인의 재발견, 알루미늄으로 빚은 모듈러 행잉 시스템",
+  "summary_ko": "엘로라 조시와 앤드루 그린은 19세기 셰이커 가구의 벽면 레일 시스템을 알루미늄 모듈러 구조로 재해석했다. 이들은 용접 없이 조립 가능한 알루미늄 프레임을 벽에 설치하고, 그 위에 의자, 시계, 거울 등 동일한 재질의 오브제를 걸어 공간을 구성했다. 밀라노 디자인 위크에서 선보인 이 작업은 주거의 기능성과 건축적 질서를 동시에 다룬다.",
+  "lens": "벽면을 따라 흐르는 알루미늄 레일을 건축적 장치로 삼아, 공간의 여백과 물성을 통제하는 미니멀리즘의 새로운 문법을 제시한다.",
+  "why_now": "주거와 사무 공간의 경계가 모호해진 시점에, 필요에 따라 가구를 걸고 떼어내며 공간을 유연하게 재구성하는 실용적 건축 도구로서 주목할 만하다.",
+  "mechanism": "상업용 행잉 시스템에서 착안한 알루미늄 레일은 벽면을 액자처럼 구획한다. 용접을 배제하고 기계적 결합을 택해 제작 효율을 높였으며, 동일한 알루미늄 소재의 가구들이 레일에 매달려 수직적 정렬을 이룬다.",
+  "sensory": "연마된 알루미늄의 차갑고 단단한 질감이 시각적 긴장감을 만든다. 바닥에서 물건을 띄워 벽에 고정함으로써 발생하는 여백은 공간에 정적인 질서를 부여한다.",
+  "transfer": "벽면 전체를 가로지르는 금속 레일을 설치하여 가구와 소품을 공중에 띄우는 레이아웃을 시도하라. 바닥면을 비워 공간의 부피감을 극대화하는 연출에 효과적이다.",
+  "context": "19세기 셰이커 디자인은 단순함과 실용성을 핵심 철학으로 삼는다. 이번 작업은 재스퍼 모리슨(Jasper Morrison)으로 대표되는 미니멀리즘 디자인 계보를 잇는 동시에, 밀라노 디자인 위크라는 플랫폼을 통해 주거와 상업 공간의 경계를 넘나드는 실험을 지속한다.",
+  "findings": [
+   {
+    "text": "셰이커 가구는 단순함, 실용성, 정직함을 원칙으로 하는 종교 단체 셰이커 교도들이 개발한 독특한 가구 양식이다.",
+    "s": 1,
+    "quote": "Shaker furniture is a distinctive style of furniture developed by the United Society of Believers in Christ's Second Appearing, commonly known as Shakers, a religious sect that had guiding principles of simplicity, utili"
+   },
+   {
+    "text": "영국 디자이너 재스퍼 모리슨은 디자인의 정제된 단순함으로 잘 알려져 있다.",
+    "s": 2,
+    "quote": "Jasper Morrison (born 1959) is an English product and furniture designer. He is known for the refinement and apparent simplicity of his designs."
+   }
+  ],
+  "keywords": [
+   "셰이커디자인",
+   "알루미늄",
+   "모듈러시스템",
+   "미니멀리즘",
+   "공간설계"
+  ],
+  "evidence": "the aluminium rail punctuated the perimeters of the apartment-like space",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "셰이커 디자인이라는 고전적 양식을 알루미늄이라는 산업적 소재로 치환한 논리가 명확하며, 제작 제약 조건을 디자인 언어로 승화시킨 과정이 구체적이다.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/design-interiors/joshi-greene-los-angeles-designers",
+  "original_title": "Meet the LA studio reinterpreting Shaker design classics through a contemporary lens",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 5112,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-19 01:27",
+  "research": {
+   "entities": [
+    "Elora Joshi",
+    "Andrew Greene",
+    "Shaker furniture",
+    "Milan Design Week",
+    "Jasper Morrison"
+   ],
+   "questions": [
+    "쉐이커 디자인의 핵심 철학인 단순성과 실용성이 이 LA 스튜디오의 알루미늄 행잉 시스템에 어떻게 현대적으로 재해석되었는가?",
+    "용접을 배제하고 인하우스로 제작한다는 제약 조건이 이들의 미니멀한 알루미늄 가구와 오브제 디자인에 어떤 영향을 미쳤는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Shaker furniture",
+     "url": "https://en.wikipedia.org/wiki/Shaker%20furniture"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Jasper Morrison",
+     "url": "https://en.wikipedia.org/wiki/Jasper%20Morrison"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "쇼디치에서 클러큰웰로, 영국 가구 브랜드 SCP의 40년 만의 이전",
+     "url": "https://www.wallpaper.com/design-interiors/scp-clerkenwell-opening"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "밀라노 디자인 위크를 향한 무대, 돔무스 아카데미의 언폴드 2027 공모",
+     "url": "https://www.archdaily.com/1184653/unfold-2027-call-for-design-schools-to-showcase-at-milan-design-week"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "파올라 렌티의 비스트로 파라솔, 구조적 유연함으로 빚은 야외의 그늘",
+     "url": "https://www.dezeen.com/2026/10/06/bistro-parasol-paola-lenti-dezeen-showroom/"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    4
+   ],
+   "chars": 1354
+  },
+  "depth_raw": 4,
+  "depth_v": 2
  }
 }
