@@ -184022,5 +184022,259 @@
   },
   "depth_raw": 4,
   "depth_v": 2
+ },
+ "archdaily.com/1186479/calm-haven-house-ada-design-and-build": {
+  "title_ko": "메콩 삼각주의 의사 부부를 위한 안식처, 캄 헤이븐 하우스",
+  "summary_ko": "베트남 껀터에 완공된 320제곱미터 규모의 캄 헤이븐 하우스는 의료업에 종사하는 젊은 부부의 첫 아이 출산을 위해 에이디에이 디자인 앤 빌드(ADA Design & Build)가 설계했다. 메콩 삼각주 코코넛의 땅 출신인 부부가 일상의 피로를 씻어내고 휴식을 취할 수 있도록 평화롭고 따뜻한 공간으로 조성했다.",
+  "lens": "의료 현장의 긴장감을 상쇄하는 차분한 재료와 빛의 조율을 320제곱미터의 공간에 구현한다.",
+  "why_now": "도시화 속에서 주거 공간이 단순한 기능을 넘어 정신적 회복을 돕는 치료적 공간으로 진화하는 방식을 보여준다.",
+  "mechanism": "실링 디자이너와 조명 디자이너의 협업을 통해 간접 조명과 자연광을 부드럽게 교차시켜 피로를 낮추는 시각 환경을 만든다.",
+  "sensory": "거친 도시의 소음을 차단하고, 부드러운 목재와 따뜻한 조명 빛이 공간 전체를 감싸 안으며 밀도 높은 안정감을 전한다.",
+  "transfer": "인물의 감정적 전환을 유도하는 씬에서, 차가운 직부등을 배제하고 따뜻한 색온도의 간접 조명만으로 공간의 결을 정돈하는 셋업으로 활용한다.",
+  "context": "베트남 껀터 지역을 기반으로 활동하는 건축가 처우 탕(Chau Thang)이 이끄는 에이디에이 디자인 앤 빌드가 설계를 맡았다.",
+  "findings": [],
+  "keywords": [
+   "주거건축",
+   "베트남건축",
+   "휴식공간",
+   "빛의설계"
+  ],
+  "evidence": "Calm Haven House was built in 2025. The home belongs to a young couple from the \"Land of Coconuts\" in the Mekong Delta.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "의사 부부를 위한 주거 프로젝트의 콘셉트와 팀 구성은 명확하나 공간 내부 상세 평면 정보가 부족하다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1186479/calm-haven-house-ada-design-and-build",
+  "original_title": "Calm Haven House / ADA Design & Build",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 1380,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-19 08:40",
+  "research": {
+   "entities": [
+    "ADA Design & Build",
+    "Hafele",
+    "Can Tho",
+    "Mekong Delta"
+   ],
+   "questions": [
+    "Calm Haven House의 공간 배치는 건축주인 의사 부부의 생활 패턴과 휴식을 위해 어떻게 설계되었는가?",
+    "메콩델타 지역의 자연환경과 '코코넛의 땅'이라는 모티브가 이 주택의 건축 자재 및 디자인에 어떻게 반영되었는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Häfele Group",
+     "url": "https://en.wikipedia.org/wiki/H%C3%A4fele%20Group"
+    }
+   ],
+   "used": [],
+   "chars": 819
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "archdaily.com/1187039/promenade-house-studio-gm": {
+  "title_ko": "풍경 속을 거닐며 발견하는 브라질 호숫가의 프롬나드 하우스",
+  "summary_ko": "브라질 레빌란디아에 완공된 면적 593제곱미터의 프롬나드 하우스는 호숫가 풍경을 횡단하는 경험에서 출발한 주택이다. 스튜디오 지엠(studio gm)은 식생 사이로 난 구불구불한 진입로를 통해 건축물이 한 번에 드러나지 않도록 설계했다. 이동하는 행위 자체가 시각적 발견이 되도록 공간의 구조를 짜임새 있게 구성했다.",
+  "lens": "건축을 한눈에 보여주지 않고 식생 사이의 구불구불한 길을 걸으며 서서히 마주하게 만든다.",
+  "why_now": "시각적 자극이 넘치는 환경에서 건축의 등장 속도를 늦추고 동선을 통해 경험의 깊이를 확보하려는 시도다.",
+  "mechanism": "호숫가 주변의 울창한 식생을 통과하는 구불구불한 선형 동선을 배치해 거주자가 건물에 도달하는 과정을 지연시킨다.",
+  "sensory": "초록색 식생 사이를 걸어 나갈 때 점차 시야가 트이며 호숫가의 공기와 빛이 건물 내부로 밀려든다.",
+  "transfer": "공간을 한 번에 보여주는 와이드 샷 대신, 구불구불한 복도를 지나는 인물의 걸음걸이를 따라가며 점진적으로 공간을 드러내는 롱테이크 씬에 적용한다.",
+  "context": "스튜디오 지엠은 브라질 레빌란디아의 호숫가 부지에 면적 593제곱미터 규모의 단독주택을 완성했다.",
+  "findings": [],
+  "keywords": [
+   "스튜디오지엠",
+   "브라질건축",
+   "주거공간",
+   "동선설계"
+  ],
+  "evidence": "The Promenade House is a residence conceived from the experience of traversing and discovering the landscape.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "구불구불한 진입로를 통한 경험적 건축이라는 개념이 명확하나 규모와 정보가 제한적이다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1187039/promenade-house-studio-gm",
+  "original_title": "Promenade House / studio gm",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 1655,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-19 08:40",
+  "research": {
+   "entities": [
+    "studio gm",
+    "Carlos Motta",
+    "Jader Almeida"
+   ],
+   "questions": [
+    "Promenade House의 건축적 특징인 '산책로(promenade)' 개념은 주변 경관과 어떻게 상호작용하는가?",
+    "studio gm은 이 주택의 공간 구성에서 어떤 재료와 구조적 방식을 사용했는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "정원과 수영장을 감싸는 상파울루의 단층 목조 주택",
+     "url": "https://www.wallpaper.com/architecture/residential/solange-calios-house-design-sao-paulo-brazil"
+    },
+    {
+     "n": 2,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "패션 디자이너의 바느질을 공간으로 엮은 린호 하우스",
+     "url": "https://www.archdaily.com/1033039/linho-house-tetro-arquitetura"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "엘라 하우스: 경사로로 엮은 두 개의 볼륨과 중앙 정원의 서사",
+     "url": "https://www.archdaily.com/1187034/ella-house-studio-memo"
+    }
+   ],
+   "used": [],
+   "chars": 731
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "archdaily.com/1187057/martha-tavern-codoo-studio": {
+  "title_ko": "집을 짓고 문을 열다, 마드리드의 마타 태번",
+  "summary_ko": "스페인 마드리드에 위치한 마타 태번은 코두 스튜디오(CODOO STUDIO)가 설계한 190제곱미터 규모의 공간이다. 바가 집처럼 보이려 애쓰는 방식에서 벗어나, 오히려 온전한 집을 지은 뒤 공공에 개방하는 방식을 택했다. 헤이(HAY)와 카르텔(Kartell) 등의 가구를 배치해 주거의 감각을 레스토랑 내부로 확장했다.",
+  "lens": "일반적인 바의 문법을 뒤집어 집의 구조를 그대로 공공의 장소로 들여온다.",
+  "why_now": "상업 공간이 소비를 유도하는 방식을 넘어 친밀하고 사적인 주거의 기억을 공적 영역으로 확장하는 태도가 주목받고 있다.",
+  "mechanism": "집을 짓는다는 명확한 공간적 전제 아래, 가구와 소품을 주거 공간의 배치 방식으로 풀어내어 방문객이 공공장소에서 사적 공간의 안온함을 느끼게 유도한다.",
+  "sensory": "주거용 가구 브랜드의 질감과 일상적인 가재도구들이 모여 상업 공간 특유의 차가운 인상을 지우고 친숙한 실내의 온도를 만든다.",
+  "transfer": "공간 콘티에서 상업 공간을 연출할 때 전형적인 바의 고정관념 대신 지극히 사적인 주거 공간의 가구 배치를 그대로 이식하는 방식을 활용한다.",
+  "context": "코두 스튜디오가 스페인 마드리드에서 완성한 프로젝트로 헤이, 카르텔 등의 가구 제조사 제품을 공간 구성에 활용했다.",
+  "findings": [],
+  "keywords": [
+   "마타태번",
+   "코두스튜디오",
+   "공간디자인",
+   "상업인테리어"
+  ],
+  "evidence": "Some bars try to look like homes. With Martha, we decided to do the exact opposite: build a house and open it to the public.",
+  "kind": "프로젝트",
+  "depth": 2,
+  "grounding": "thin",
+  "depth_reason": "원문 분량이 짧고 공간의 구체적 재료나 동선 설명이 부족하여 기본적인 프로젝트 소개 수준에 머문다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1187057/martha-tavern-codoo-studio",
+  "original_title": "Martha Tavern / CODOO STUDIO",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 857,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-19 08:40",
+  "research": {
+   "entities": [
+    "CODOO STUDIO",
+    "Martha Tavern",
+    "HAY",
+    "Kartell",
+    "German Saiz"
+   ],
+   "questions": [
+    "마타 태번(Martha Tavern)의 공간 디자인에서 주거 공간의 특징을 어떻게 레스토랑에 녹여냈는가?",
+    "CODOO STUDIO가 마타 태번 프로젝트에서 중요하게 고려한 자재와 조명 계획은 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "HAY (company)",
+     "url": "https://en.wikipedia.org/wiki/HAY%20%28company%29"
+    },
+    {
+     "n": 2,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "정원 요정, 경계에 선 가장 오래된 비인간 감시자",
+     "url": "https://www.wallpaper.com/architecture/architect-carlo-ratti-on-garden-gnome"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "카사 팝: 2000년대 표준 주거의 폐쇄성을 걷어낸 유연한 거주 실험",
+     "url": "https://www.archdaily.com/1185659/casa-pop-gon-architects"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "아마존에서 찾는 디자인 가구: 온라인 쇼핑의 실패를 줄이는 안목",
+     "url": "https://www.architecturaldigest.com/story/best-furniture-finds-on-amazon"
+    }
+   ],
+   "used": [],
+   "chars": 1501
+  },
+  "depth_raw": 2,
+  "depth_v": 2
+ },
+ "archdaily.com/1187047/house-in-belem-filipe-borges-de-macedo": {
+  "title_ko": "라울 리노의 주거 유산을 이어받은 리스본 벨렝의 주택 리노베이션",
+  "summary_ko": "건축가 필리페 보르헤스 데 마세도가 포르투갈 리스본 벨렝의 카사스 에코노미카스 다스 테라스 도 포르노 지역에 위치한 주택을 150제곱미터 규모로 개조했다. 이 지역은 1933년 라울 리노가 설계하고 1938년에 개관한 전통 양식의 저렴한 주택 204채로 구성된 단지다.",
+  "lens": "역사적 주거 단지의 원형을 보존하면서 현대적인 재료로 내부를 재구축한다.",
+  "why_now": "과거 국가 주도로 지어진 저렴한 주거 단지의 역사적 가치를 재조명하고 현대 건축 언어로 재해석하는 작업이 주목받고 있다.",
+  "mechanism": "150제곱미터의 면적 안에서 모소 대나무와 사파 등의 자재를 활용해 전통 주거의 외관과 대비되는 현대적이고 지속 가능한 내부 공간을 구축한다.",
+  "sensory": "누노 알멘드라가 촬영한 사진 속에서 드러나듯, 전통적인 포르투갈 주택가 속에서 현대적 자재가 만들어내는 대비와 질감이 돋보인다.",
+  "transfer": "역사적 건물 리노베이션 콘티를 짤 때, 외관의 원형 규격을 유지한 채 내부 마감재를 대나무와 메탈 프레임으로 교체하는 컷을 구성한다.",
+  "context": "원래 건물을 설계한 라울 리노는 포르투갈 주거 양식인 '카사 포르투게사' 이론을 정립한 건축가다.",
+  "findings": [
+   {
+    "text": "라울 리노는 포르투갈 주거 건축, 계획, 라이프스타일에 대한 이상적인 개념인 카사 포르투게사 이론을 중심으로 건축 논문과 연구를 전개했다.",
+    "s": 1,
+    "quote": "Lino's architectural theses and studies revolved around the theory of the Casa Portuguesa (Portuguese: Portuguese house), an idealized concept of Portuguese residential architecture, planning, and lifestyle."
+   }
+  ],
+  "keywords": [
+   "리스본",
+   "벨렝",
+   "주거건축",
+   "리노베이션"
+  ],
+  "evidence": "The dwelling, located in the Casas Económicas das Terras do Forno neighbourhood, inaugurated in 1938 in the parish of Belém, was designed in 1933 by architect Raul Lino.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "역사적 주거 단지 내 건물의 개조 프로젝트이나 원문 분량이 짧아 세부 설계 방식 파악이 제한적이다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1187047/house-in-belem-filipe-borges-de-macedo",
+  "original_title": "House in Belém / Filipe Borges de Macedo",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 1358,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-19 08:40",
+  "research": {
+   "entities": [
+    "Filipe Borges de Macedo",
+    "Raul Lino",
+    "Belém",
+    "MOSO® Bamboo"
+   ],
+   "questions": [
+    "벨렝 지역의 역사적 주거단지인 'Casas Económicas das Terras do Forno'의 건축적 특징은 무엇인가요?",
+    "건축가 Raul Lino가 설계한 원래 주택의 형태가 이번 리노베이션 프로젝트에 어떻게 반영되었나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Raul Lino",
+     "url": "https://en.wikipedia.org/wiki/Raul%20Lino"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 703
+  },
+  "depth_raw": 3,
+  "depth_v": 2
  }
 }
