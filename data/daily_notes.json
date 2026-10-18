@@ -2232,55 +2232,45 @@
  },
  "2026-10-18": {
   "date": "2026-10-18",
-  "headline": "15세기 팔라초의 돌가루와 프라하 밤을 가르는 디지털 빛의 매트릭스",
-  "editorial": "15세기 피렌체 팔라초에 놓인 동시대 가구와 프라하의 역사적 건축물에 덧입혀진 디지털 빛은 과거의 뼈대 위에 새로운 쓰임을 포개는 방식을 보여준다. 아크 헤이븐 레지던스의 곡면 벽체와 상하이 그랜드 오페라하우스의 나선형 지붕은 물리적 마디를 지우며 도시와 건물의 경계를 허물어낸다. 신트라의 소나무 숲과 상파울루의 흙빛 톤은 자연의 지형을 내부로 깊숙이 끌어들여 내밀한 거주의 온도를 완성한다.",
+  "headline": "산업용 엘리베이터의 골조와 흙빛 톤의 곡선",
+  "editorial": "다이애나 켈로그의 트라이배카 자택은 산업용 엘리베이터 골조와 강철 문을 주거용 계단으로 전환하며 건물의 과거를 현재로 이어 붙인다. 마그마 하우스는 단단한 흙빛 톤과 부드러운 곡선으로 내밀한 온기를 완성한다. 상하이 그랜드 오페라하우스는 거대한 나선형 지붕을 공공의 보행로로 내어주며 건물과 도시 사이의 경계를 지운다.",
   "threads": [
    {
-    "name": "역사적 골조와 빛의 겹침",
-    "note": "오래된 건축물의 원형을 유지한 채 새로운 가구나 디지털 빛을 더해 시간성을 재해석한다.",
+    "name": "건물의 뼈대와 시간",
+    "note": "기존 건물의 철골과 구조를 지우지 않고 새로운 주거와 공간으로 되살린다.",
     "items": [
+     {
+      "title": "다이애나 켈로그의 트라이배카 자택, 산업 유산의 재구성",
+      "url": "https://www.dezeen.com/2026/10/17/diana-kellogg-historic-tribeca-residence-renovation/"
+     },
      {
       "title": "15세기 피렌체 팔라초에 깃든 사적인 호스피탈리티, 라 레서브 피렌체",
       "url": "https://www.yatzer.com/la-reserve-firenze-by-gillesetboissier"
-     },
-     {
-      "title": "프라하의 밤을 재구성하는 빛의 매트릭스, 시그널 페스티벌의 14년",
-      "url": "https://www.designboom.com/art/projection-mapping-and-performances-make-the-night-come-alive-at-signal-festival/"
-     }
-    ]
-   },
-   {
-    "name": "곡선으로 지운 물리적 경계",
-    "note": "직각을 걷어낸 곡면과 거대한 지붕을 통해 공간과 도시의 마디를 매끄럽게 연결한다.",
-    "items": [
-     {
-      "title": "아크 헤이븐 레지던스: 곡면으로 지워낸 공간의 경계",
-      "url": "https://leibal.com/interiors/arc%c2%b7haven-residence/"
-     },
-     {
-      "title": "황푸강변에 펼쳐진 거대한 나선형 지붕의 무대, 상하이 그랜드 오페라하우스",
-      "url": "https://www.archdaily.com/1186819/shanghai-grand-opera-house-snohetta"
-     }
-    ]
-   },
-   {
-    "name": "자연을 품은 주거의 뼈대",
-    "note": "흙빛 톤과 소나무 숲 사이의 지형을 건물 내부로 들여와 내밀한 온기를 만든다.",
-    "items": [
-     {
-      "title": "브라질 상파울루의 마그마 하우스, 흙빛 톤과 곡선이 만든 내밀한 온기",
-      "url": "https://www.archdaily.com/1187028/magma-house-suite"
      },
      {
       "title": "신트라의 소나무 숲과 포도밭 사이에 스며든 주거 리노베이션",
       "url": "https://www.archdaily.com/1187054/colares-sintra-house-sabrab"
      }
     ]
+   },
+   {
+    "name": "곡선과 내부의 온기",
+    "note": "직각을 지운 곡면과 흙빛 톤을 쌓아 올려 내부의 결을 다듬는다.",
+    "items": [
+     {
+      "title": "아크 헤이븐 레지던스: 곡면으로 지워낸 공간의 경계",
+      "url": "https://leibal.com/interiors/arc%c2%b7haven-residence/"
+     },
+     {
+      "title": "브라질 상파울루의 마그마 하우스, 흙빛 톤과 곡선이 만든 내밀한 온기",
+      "url": "https://www.archdaily.com/1187028/magma-house-suite"
+     }
+    ]
    }
   ],
-  "based_on": 9,
+  "based_on": 13,
   "v": 3,
   "model": "gemini-3.5-flash-lite",
-  "written_at": "2026-10-18 08:23"
+  "written_at": "2026-10-18 14:07"
  }
 }

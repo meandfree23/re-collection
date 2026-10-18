@@ -182725,5 +182725,225 @@
   },
   "depth_raw": 4,
   "depth_v": 2
+ },
+ "wallpaper.com/entertaining/kate-jenkins-knitted-italian-restaurant-exhibition": {
+  "title_ko": "모든 것이 실로 빚어진 이탈리안 레스토랑",
+  "summary_ko": "영국의 섬유 예술가 케이트 젠킨스가 런던 에어 컨템포러리에서 이탈리아 요리를 뜨개질과 크로셰로 구현한 전시 '케이트의 널탈리안'을 개최한다. 파스타, 살라미, 치즈, 통조림 등 실과 바늘로 정교하게 직조된 가상의 델리와 레스토랑 공간이 펼쳐진다.",
+  "lens": "차가운 철물이나 디지털 그래픽 대신 실의 결로 음식을 직조해 유머와 물성을 동시에 거머쥔다.",
+  "why_now": "디지털 렌더링이 범람하는 시대에 손노동과 공예적 밀도를 극대화한 아날로그 연출이 시각적 환기를 만든다.",
+  "mechanism": "병은 코바늘로 뜨고 라벨은 기계 편직 후 손으로 자수하여 재료마다 다른 스티치 기법을 적용했다.",
+  "sensory": "빨갛고 하얀 체크무늬 식탁보 위에 놓인 털실 치즈와 파스타의 부드럽고 몽글한 질감이 시각적 위트를 유발한다.",
+  "transfer": "광고 세트를 구성할 때 실제 식재료 대신 니트와 패브릭으로 질감을 변형해 촉각적인 유머를 부여한다.",
+  "context": "작가는 첫 개인전 '컴포트 푸드'에 이어 런던 신본드스트리트 에르메스 플래그십 메종의 쇼윈도를 승마 그루밍 살롱 콘셉트로 연출한 바 있다.",
+  "findings": [
+   {
+    "text": "케이트 젠킨스는 3십 년 넘게 실을 식음료 형태의 텍스타일 작품으로 변환해 왔다.",
+    "s": 1,
+    "quote": "For more than three decades, Jenkins has been transforming yarn into sharply observed, food-inspired textile works"
+   }
+  ],
+  "keywords": [
+   "섬유예술",
+   "케이트젠킨스",
+   "공예",
+   "설치미술"
+  ],
+  "evidence": "Enjoy a visual feast at textile artist Kate Jenkins’ Knitalian, where Italian classics are knitted and crocheted",
+  "kind": "전시",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "독창적인 공예적 시도이나 소재의 일관성이 명확하여 일반적인 전시 소개 범주에 머문다.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/entertaining/kate-jenkins-knitted-italian-restaurant-exhibition",
+  "original_title": "At this Italian restaurant, nothing is quite as it seems",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 3563,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-18 14:06",
+  "research": {
+   "entities": [
+    "Kate Jenkins",
+    "Air Contemporary",
+    "Hermès"
+   ],
+   "questions": [
+    "케이트 젠킨스가 뜨개질과 크로셰 기법을 활용해 음식의 질감을 표현하는 구체적인 작업 방식은 무엇인가요?",
+    "이번 'Kate's Knitalian' 전시가 작가의 이전 작업인 'Comfort Food'나 에르메스 협업 프로젝트와 가지는 예술적 연관성은 무엇인가요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Kate Jenkins",
+     "url": "https://www.air-contemporary.com/exhibitions/64-kate-jenkins-kate-s-knitalian/"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Air Contemporary",
+     "url": "https://www.air-contemporary.com/"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Hermès",
+     "url": "https://en.wikipedia.org/wiki/Herm%C3%A8s"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "하이 주얼리의 변주, 대담한 커팅과 실루엣으로 정의하는 현대적 조형미",
+     "url": "https://www.wallpaper.com/watches-jewellery/high-jewellery-a-w-2026"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "넥서스 스튜디오, 다학제적 아티스트 데빈 크레인 영입하며 시각 언어 확장",
+     "url": "https://www.stashmedia.tv/nexus-studios-signs-director-artist-devin-crane-to-commercial-roster/"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "앤 베로니카 얀센스, 긴자 에르메스에서 빛과 안개로 건축의 경계를 지우다",
+     "url": "https://www.designboom.com/art/ann-veronica-janssens-hermes-ginza-exhibition-light-fog/"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 5115
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "archdaily.com/1186199/sangwich-club-east-bureau": {
+  "title_ko": "알마티의 샌드위치 바, 상위치 클럽이 공간을 드러내는 방식",
+  "summary_ko": "카자흐스탄 알마티 중심부에 위치한 109.3제곱미터 규모의 샌드위치 바 상위치 클럽이다. 건축 스튜디오 이스트 뷰로(east bureau)는 단일한 시각적 장치에 의존하는 대신, 기존 공간의 흔적과 브랜드 언어, 개별적으로 설계한 요소들을 겹쳐 공간을 완성했다.",
+  "lens": "공간을 한 번에 노출하지 않고, 요소 간의 반복과 중첩을 통해 사용자가 이동하며 서서히 장소를 파악하게 만드는 설계다.",
+  "why_now": "강렬한 이미지 중심의 인테리어에서 벗어나, 기존 공간의 맥락과 디테일의 반복을 통해 공간의 서사를 구축하는 시도가 주목받는다.",
+  "mechanism": "공간 전체를 관통하는 단일한 제스처를 배제하고, 브랜드의 시각 언어를 반영한 맞춤형 가구와 기존 건축 요소들이 서로 호응하도록 배치했다.",
+  "sensory": "기존 공간의 거친 질감과 새로 도입된 정교한 맞춤형 요소가 대비되며, 빛의 흐름에 따라 시선이 머무는 곳마다 다른 깊이감을 준다.",
+  "transfer": "영상 촬영 시 단일 앵글로 공간을 규정하지 말고, 소품과 벽면 디테일의 반복적인 패턴을 따라 카메라를 이동시켜 공간의 점진적 개방감을 연출한다.",
+  "context": "이스트 뷰로가 설계한 상위치 클럽은 알마티의 도시적 맥락과 상업 공간의 브랜딩을 결합하여 공간의 점진적 노출을 시도했다.",
+  "findings": [],
+  "keywords": [
+   "상위치클럽",
+   "이스트뷰로",
+   "알마티",
+   "공간브랜딩",
+   "상업공간"
+  ],
+  "evidence": "designed by east bureau as a place that reveals itself gradually",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "공간의 구성 원리는 명확하나, 시각적 장치에 대한 구체적인 이미지나 상세 도면 정보가 부족해 해석의 폭이 제한적이다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1186199/sangwich-club-east-bureau",
+  "original_title": "Sangwich Club / east bureau",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 1047,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-18 14:06",
+  "research": {
+   "entities": [
+    "east bureau",
+    "Sangwich Club",
+    "Damir Otegen",
+    "Adilbek Zhiyembayev"
+   ],
+   "questions": [
+    "east bureau가 디자인한 Sangwich Club의 공간적 특징과 점진적으로 드러나는 디자인 요소는 무엇인가요?",
+    "카자흐스탄 알마티에 위치한 Sangwich Club의 인테리어는 기존 공간의 특성을 어떻게 활용했나요?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "wallpaper.com/architecture/residential/melbourne-house-casa-piva-australia": {
+  "title_ko": "카사 피바: 창을 지우고 안뜰을 켜켜이 쌓아 만든 내향적 주거",
+  "summary_ko": "호주 멜버른 말번 이스트에 위치한 카사 피바는 비이에이키텍처가 설계한 주택이다. 창이 거의 없는 하얀 벽돌 외관과 달리 내부는 일련의 중정을 중심으로 공간이 전개된다. 건축가 앤드류 피바의 거주지로서 외부와 단절된 내밀한 정원을 품고 있다.",
+  "lens": "외부를 향한 시선을 거두고 건물의 중심에 뚫린 구멍으로 빛과 비를 끌어들여 주거의 본질을 내부에 집중시킨다.",
+  "why_now": "밀집된 도시 환경에서 거주자의 사생활을 보호하는 동시에, 외부와 단절된 내밀한 정원을 통해 주거의 내향적 가치를 재발견한다.",
+  "mechanism": "흰 벽돌로 마감한 창 없는 외벽으로 외부 시선을 차단하고, 내부로 향한 일련의 안뜰과 회랑을 통해 공간을 겹겹이 배치한다.",
+  "sensory": "벽돌, 목재, 트래버틴의 조합으로 흙의 질감을 살리고, 앤티크 오크로 마감한 서재와 침실에서 고풍스러운 온기를 전한다.",
+  "transfer": "공간의 입구에 압축된 단일 아치를 배치해 긴장감을 조성한 뒤, 탁 트인 중정으로 진입하게 하여 공간의 대비를 극대화한다.",
+  "context": "비이에이키텍처는 멜버른을 거점으로 활동하며 주거 공간의 내밀한 구조와 재료의 물성을 강조하는 설계를 이어왔다. 이 프로젝트는 건축가 앤드류 피바가 자신의 거주지를 설계하며 이탈리아 건축 유산을 현대적으로 재해석한 결과물이다.",
+  "findings": [
+   {
+    "text": "카사 피바는 멜버른의 조용한 골목길에 자리 잡고 있으며, 이탈리아 건축 유산에서 영감을 받아 재료와 세부 사항을 신중하게 선택했다.",
+    "s": 1,
+    "quote": "It is an inward-looking building in its dense urban setting, taking many of its cues from the owners’ Italian heritage, which is reflected in its simplicity of carefully curated materials and details."
+   },
+   {
+    "text": "회랑의 개구부를 통해 나무가 자라나게 설계하여 내부와 외부의 자연스러운 연결을 꾀했다.",
+    "s": 1,
+    "quote": "One enters through a modest door from the laneway, where one encounters a large, enclosed forecourt leading to the building, with trees growing up through openings in the covered walkways."
+   }
+  ],
+  "keywords": [
+   "비이에이키텍처",
+   "내향적주거",
+   "중정",
+   "멜버른건축"
+  ],
+  "evidence": "A discreet and almost austere street-facing façade of minimalist surfaces in white brick tells little of the richness unfolding beyond.",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "내향적 주거의 공간 구성 원리와 재료 사용의 의도가 명확하며, 건축가의 자택이라는 특수성까지 고려되어 설계 맥락이 충분하다.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/architecture/residential/melbourne-house-casa-piva-australia",
+  "original_title": "A series of hidden courtyards define this minimalist Melbourne house",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 2900,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-18 14:07",
+  "research": {
+   "entities": [
+    "B.E. Architecture",
+    "Casa Piva",
+    "Andrew Piva"
+   ],
+   "questions": [
+    "Casa Piva의 설계에서 이탈리아 건축 유산이 구체적으로 어떤 요소로 반영되었는가?",
+    "내부 지향적인 공간 구성을 통해 거주자의 일상적인 의식과 생활 방식이 어떻게 지원되는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "bearchitecture.com",
+     "url": "https://www.bearchitecture.com/project/casa-piva-melbourne"
+    },
+    {
+     "n": 2,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "안으로 닫힌 안뜰로 교외의 소음을 지우는 집, 카사 피바",
+     "url": "https://www.archdaily.com/1185828/casa-piva-be-architecture"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "카사 피바: 창을 지우고 안뜰을 켜켜이 쌓아 만든 내향적 주거",
+     "url": "https://leibal.com/interiors/casa-piva/"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3
+   ],
+   "chars": 2502
+  },
+  "depth_raw": 4,
+  "depth_v": 2
  }
 }
