@@ -182663,5 +182663,67 @@
   },
   "depth_raw": 3,
   "depth_v": 2
+ },
+ "dezeen.com/2026/10/17/diana-kellogg-historic-tribeca-residence-renovation": {
+  "title_ko": "다이애나 켈로그의 트라이배카 자택, 산업 유산의 재구성",
+  "summary_ko": "뉴욕 건축가 다이애나 켈로그(Diana Kellogg)가 25년간 거주한 트라이배카의 옛 냉동 창고 건물을 리노베이션했다. 기존 화물용 엘리베이터를 철거한 자리에 유리로 감싼 '그린 룸'을 배치하고, 건물 내 발견된 강철 문과 창문을 주방 가구와 계단 구조물로 재활용했다.",
+  "lens": "산업용 엘리베이터의 골조와 강철 문을 주거용 계단과 가구로 전환해, 건물의 과거와 현재를 물리적 층위로 겹쳐낸다.",
+  "why_now": "산업용 로프트 건물이 주거지로 변모하는 뉴욕 트라이배카의 지역적 맥락 안에서, 기존 건축 자재를 폐기하지 않고 실내 구조물로 재사용하는 순환적 리노베이션의 사례다.",
+  "mechanism": "철거된 화물용 엘리베이터의 부품을 주방과 서가 구조로 활용하고, 기존의 강철 문과 창문을 재배치해 공간을 분할하는 파티션으로 사용했다.",
+  "sensory": "25피트 길이의 밤나무 천장 보가 공간에 무게감과 온기를 더하며, 벽돌로 마감된 아치형 천장과 마호가니 슬라이딩 도어가 대조적인 질감을 만든다.",
+  "transfer": "공간 연출 시 철거 현장에서 나온 산업용 부품을 수납 가구의 프레임으로 활용하거나, 기존의 창틀을 실내 파티션으로 재구성해 서사적 깊이를 더할 수 있다.",
+  "context": "다이애나 켈로그는 인도 타르 사막의 라즈쿠마리 라트나바티 여학교(The Rajkumari Ratnavati Girl's School)를 설계한 건축가다. 이번 프로젝트는 그녀의 개인적 주거 공간을 대상으로 하며, 이웃한 건물의 역사적인 다리 풍경을 조망하는 테라스 조경을 포함한다.",
+  "findings": [
+   {
+    "text": "류보드라그 안드리치(Ljubodrag Andric)는 토론토를 기반으로 활동하며 빛과 청결함, 분위기 있는 이미지로 알려진 사진작가다.",
+    "s": 1,
+    "quote": "Andric is an award-winning Toronto-based studio and location photographer known for his light, clean, atmospheric, and technically sophisticated images."
+   }
+  ],
+  "keywords": [
+   "재생건축",
+   "산업유산",
+   "트라이배카",
+   "다이애나켈로그",
+   "순환디자인"
+  ],
+  "evidence": "I just moved them around and repurposed them.",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "건축가의 자택 리노베이션 과정에서 폐기물을 구조물로 전환하는 구체적인 방식과 재료적 접근이 명확히 제시된다.",
+  "v": 2,
+  "url": "https://www.dezeen.com/2026/10/17/diana-kellogg-historic-tribeca-residence-renovation/",
+  "original_title": "Diana Kellogg updates her Tribeca home using salvaged materials",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 3395,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-18 09:33",
+  "research": {
+   "entities": [
+    "Diana Kellogg",
+    "Ljubodrag Andric",
+    "The Rajkumari Ratnavati Girl's School"
+   ],
+   "questions": [
+    "다이아나 켈로그(Diana Kellogg)가 리노베이션한 트라이베카 자택의 건축적 역사와 주요 특징은 무엇인가?",
+    "건물 내부 재활용 자재(Salvaged materials)는 구체적으로 어떤 방식으로 가구와 인테리어 구조물로 재탄생했는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "andric photography",
+     "url": "https://www.andric.biz/"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 427
+  },
+  "depth_raw": 4,
+  "depth_v": 2
  }
 }
