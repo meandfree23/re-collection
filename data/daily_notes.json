@@ -2232,49 +2232,49 @@
  },
  "2026-10-18": {
   "date": "2026-10-18",
-  "headline": "산업용 엘리베이터의 골조와 흙빛 톤의 곡선",
-  "editorial": "다이애나 켈로그의 트라이배카 자택은 산업용 엘리베이터의 골조를 주거용 계단으로 전환하며 건물의 과거를 현재와 겹쳐낸다. 마그마 하우스는 단단한 흙빛 톤과 부드러운 곡선으로 내밀한 주거의 온도를 완성한다. 카사 피바는 건물의 중심에 뚫린 구멍으로 빛과 비를 끌어들여 주거의 내부를 깊게 구축한다.",
+  "headline": "산업용 엘리베이터의 골조와 금도금 무산소 동의 음각",
+  "editorial": "다이애나 켈로그의 트라이배카 자택은 산업용 엘리베이터 골조를 주거용 계단으로 전환하며 건물의 과거를 물리적으로 겹쳐낸다. 이와 유사하게 소니의 하이엔드 워크맨 NW-WM1ZM3은 금속 섀시의 물성으로 디지털 신호에 깊이를 부여한다. 두 작업은 기존의 뼈대와 물질을 다루는 태도가 어떻게 새로운 결을 만들어내는지 증명한다.",
   "threads": [
    {
-    "name": "건축의 구조 전환",
-    "note": "기존의 산업 유산이나 주거 건물의 골조를 새로운 용도와 시선으로 다시 엮어낸다.",
+    "name": "과거의 뼈대와 재구성",
+    "note": "기존 건물의 산업 유산과 물리적 뼈대를 현재의 주거 및 공간으로 전환하는 설계 방식.",
     "items": [
-     {
-      "title": "런던 남부의 아이콘, 도슨스 하이츠를 기록하는 36가지 시선",
-      "url": "https://www.wallpaper.com/architecture/36-views-of-dawsons-heights-book-review"
-     },
      {
       "title": "다이애나 켈로그의 트라이배카 자택, 산업 유산의 재구성",
       "url": "https://www.dezeen.com/2026/10/17/diana-kellogg-historic-tribeca-residence-renovation/"
      },
      {
-      "title": "15세기 피렌체 팔라초에 깃든 사적인 호스피탈리티, 라 레서브 피렌체",
-      "url": "https://www.yatzer.com/la-reserve-firenze-by-gillesetboissier"
+      "title": "마드리드 1960년대 아파트, 하나의 목재 덩어리로 공간을 가르다",
+      "url": "https://leibal.com/interiors/vapa-house/"
+     },
+     {
+      "title": "신트라의 소나무 숲과 포도밭 사이에 스며든 주거 리노베이션",
+      "url": "https://www.archdaily.com/1187054/colares-sintra-house-sabrab"
      }
     ]
    },
    {
-    "name": "내밀한 주거의 내부",
-    "note": "외부와의 경계를 조정하고 내부에 중정과 곡선을 들여 고유한 공간감을 만든다.",
+    "name": "물성과 도구의 결합",
+    "note": "손길과 금속 등 물리적 재료의 특성을 극대화하여 대상에 깊이를 부여하는 작업.",
     "items": [
      {
-      "title": "카사 피바: 창을 지우고 안뜰을 켜켜이 쌓아 만든 내향적 주거",
-      "url": "https://www.wallpaper.com/architecture/residential/melbourne-house-casa-piva-australia"
+      "title": "수작업으로 복제를 조율하다, 휘트니 미술관의 로이 리히텐슈타인 회고전",
+      "url": "https://www.wallpaper.com/art/exhibitions-shows/in-new-york-roy-lichtenstein-feels-more-modern-than-ever"
      },
      {
-      "title": "아크 헤이븐 레지던스: 곡면으로 지워낸 공간의 경계",
-      "url": "https://leibal.com/interiors/arc%c2%b7haven-residence/"
+      "title": "소니의 귀환, 금도금 무산소 동으로 재구축한 하이엔드 워크맨 NW-WM1ZM3",
+      "url": "https://www.wallpaper.com/tech/sony-nw-wm1am3-and-nw-wm1zm3-review"
      },
      {
-      "title": "브라질 상파울루의 마그마 하우스, 흙빛 톤과 곡선이 만든 내밀한 온기",
-      "url": "https://www.archdaily.com/1187028/magma-house-suite"
+      "title": "모든 것이 실로 빚어진 이탈리안 레스토랑",
+      "url": "https://www.wallpaper.com/entertaining/kate-jenkins-knitted-italian-restaurant-exhibition"
      }
     ]
    }
   ],
-  "based_on": 16,
+  "based_on": 23,
   "v": 3,
   "model": "gemini-3.5-flash-lite",
-  "written_at": "2026-10-18 16:47"
+  "written_at": "2026-10-18 21:30"
  }
 }
