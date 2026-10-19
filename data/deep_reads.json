@@ -184555,5 +184555,518 @@
   },
   "depth_raw": 4,
   "depth_v": 2
+ },
+ "archdaily.com/1186447/campbelltown-hospital-redevelopment-billard-leece-partnership": {
+  "title_ko": "캠벨타운 병원 재개발: 12층 규모로 확장된 시드니 남서부의 통합 의료 거점",
+  "summary_ko": "빌라드 리스 파트너십(Billard Leece Partnership)이 설계한 캠벨타운 병원 2단계 재개발이 호주 앰바베일(Ambarvale)에 완공되었다. 6억 3,200만 달러가 투입된 이 프로젝트는 기존 병원 부지를 두 배로 확장하며 12층 높이의 임상 서비스 빌딩을 신축했다. 다라왈(Dharawal) 지역의 문화적 맥락을 반영하고 지역 사회 중심의 치료 모델을 구축하는 데 집중했다.",
+  "lens": "병원 건축을 단순한 기능적 공간이 아닌, 12층 높이의 수직적 구조를 통해 지역 커뮤니티와 의료 서비스를 유기적으로 엮어내는 거점으로 재정의한다.",
+  "why_now": "급격히 성장하는 도시 인구에 대응하기 위해 대형 공공 의료 시설이 어떻게 지역 사회와 통합된 미래지향적 인프라로 전환될 수 있는지 보여준다.",
+  "mechanism": "12층 규모의 신축 빌딩을 중심으로 기존 시설을 개보수하여 공간을 두 배로 확장하고, 동선을 재편해 통합적인 의료 서비스 환경을 구축했다.",
+  "sensory": "대규모 건축물임에도 지역 사회와 연결되는 개방성을 강조하며, 다라왈 지역의 문화적 정체성을 공간 곳곳에 투영해 병원의 차가운 물성을 상쇄한다.",
+  "transfer": "대형 시설을 설계할 때 수직적 확장을 통해 확보한 여유 공간을 커뮤니티와 공유하는 동선 계획을 참고할 수 있다.",
+  "context": "빌라드 리스 파트너십은 이전 프로젝트인 포트 멜버른 세컨더리 칼리지에서도 수직형 구조를 통해 교육 시설과 지역 사회를 입체적으로 연결한 바 있다. 이번 캠벨타운 병원 프로젝트는 이들의 수직적 공간 활용 역량을 의료 분야로 확장한 사례다.",
+  "findings": [
+   {
+    "text": "캠벨타운 병원과 캠든 병원은 시드니 남서부 맥아더 지역을 담당하는 뉴사우스웨일스 공공 병원이다.",
+    "s": 1,
+    "quote": "Camden and Campbelltown Hospitals are New South Wales public hospitals servicing the Macarthur region in South West Sydney."
+   },
+   {
+    "text": "빌라드 리스 파트너십은 과거 포트 멜버른 세컨더리 칼리지 설계를 통해 수직형 학교 모델을 선보였다.",
+    "s": 2,
+    "quote": "호주 피셔먼스 벤드 도시 재생 구역에 들어선 포트 멜버른 세컨더리 칼리지는 빌라드 리스 파트너십이 설계한 최초의 수직형 학교다."
+   }
+  ],
+  "keywords": [
+   "병원건축",
+   "도시재생",
+   "수직형구조",
+   "의료인프라",
+   "공공건축"
+  ],
+  "evidence": "The $632 million redevelopment nearly doubles the size of the existing hospital campus, introducing a new 12-storey clinical services building.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "대규모 의료 시설의 확장과 지역 사회 통합이라는 명확한 목적을 보여주지만, 구체적인 내부 기법이나 공간의 세부 디테일 설명은 다소 부족하다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1186447/campbelltown-hospital-redevelopment-billard-leece-partnership",
+  "original_title": "Campbelltown Hospital Redevelopment / Billard Leece Partnership",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 1434,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-19 17:17",
+  "research": {
+   "entities": [
+    "Billard Leece Partnership",
+    "Campbelltown Hospital",
+    "Nicole Monks",
+    "Erica Seccombe",
+    "CPB Contractors"
+   ],
+   "questions": [
+    "캠벨타운 병원 2단계 재개발 프로젝트가 호주 시드니 남서부 지역의 의료 서비스 전달 체계에 어떤 구체적인 변화를 가져왔나요?",
+    "설계를 맡은 빌라드 리스 파트너십(Billard Leece Partnership)은 지역의 문화적 맥락과 지속가능성을 병원 건축에 어떻게 반영했나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Campbelltown and Camden Hospitals",
+     "url": "https://en.wikipedia.org/wiki/Campbelltown%20and%20Camden%20Hospitals"
+    },
+    {
+     "n": 2,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "도시 재생의 수직적 거점, 포트 멜버른 세컨더리 칼리지",
+     "url": "https://www.archdaily.com/1186451/port-melbourne-secondary-college-billard-leece-partnership"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 497
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "creativeboom.com/work/collins-centres-a-new-identity-for-a-payroll-platform-on-banknote-colours-and-building-blocks": {
+  "title_ko": "지폐의 색과 큐브로 구축한 글로벌 급여 플랫폼의 인프라",
+  "summary_ko": "브랜드 컨설팅 그룹 콜린스가 글로벌 급여 플랫폼 리모트의 새로운 시각적 정체성을 구축했다. 국제 지폐의 색상 조합과 적층 가능한 큐브 모티프, 두툼한 워드마크를 적용해 보이지 않는 금융 인프라에 물리적 실체를 부여했다.",
+  "lens": "지폐 색상과 큐브라는 물리적 단위로 보이지 않는 급여 시스템에 단단한 골격을 부여한다.",
+  "why_now": "금융 서비스가 단일한 브랜드 컬러 관습을 벗어나 다채로운 국제 통화의 색채와 구조적 단위로 시각적 차별화를 꾀하는 추세를 보여준다.",
+  "mechanism": "반복되는 큐브 모티프가 평면 도면과 일점투시, 등축투영의 세 가지 방식으로 변주되며 모든 모서리가 동일한 소실점으로 수렴하도록 설계되었다.",
+  "sensory": "화면을 채우는 선명한 지폐 색상의 그라데이션과 블록 형태의 묵직한 워드마크가 단단하고 신뢰감 있는 인상을 만든다.",
+  "transfer": "영상 타이틀이나 공간 그래픽에서 단일 도형을 등축투영과 소실점 규칙으로 반복 배치하여 구조적인 깊이감을 연출한다.",
+  "context": "브랜드 컨설팅 그룹 콜린스는 기업의 정체성을 새롭게 정의하는 다수의 브랜드 리프레시 작업을 수행해 왔다.",
+  "findings": [],
+  "keywords": [
+   "브랜드 정체성",
+   "시각 디자인",
+   "인프라",
+   "타이포그래피"
+  ],
+  "evidence": "Collins has rebranded payroll platform Remote with a stackable cube, a chunky custom wordmark and a colour palette drawn from international banknotes.",
+  "kind": "브랜드·캠페인",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "글로벌 급여 플랫폼의 브랜드 리프레시 과정을 구체적인 시각 장치와 함께 균형 있게 소개한다.",
+  "v": 2,
+  "url": "https://www.creativeboom.com/work/collins-centres-a-new-identity-for-a-payroll-platform-on-banknote-colours-and-building-blocks/",
+  "original_title": "Collins centres Remote's new identity on banknote colours and building blocks",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 8527,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-19 17:17",
+  "research": {
+   "entities": [
+    "Remote",
+    "Collins",
+    "Job van der Voort"
+   ],
+   "questions": [
+    "Remote가 지향하는 '글로벌 급여 및 고용 인프라'라는 비즈니스 모델은 구체적으로 어떤 기술적, 법적 문제를 해결하는가?",
+    "Collins가 디자인한 '큐브' 모티프와 '지폐 색상' 팔레트가 금융 서비스 브랜드의 신뢰성과 혁신성을 어떻게 시각적으로 전달하는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "COLLINS",
+     "url": "https://wearecollins.com/"
+    },
+    {
+     "n": 2,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "하우메 플렌사, 거대한 나무 부조로 공간의 건축적 리듬을 조율하다",
+     "url": "https://www.thisiscolossal.com/2026/09/jaume-plensa-beyond-silence/"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "해외 취업을 위한 전략적 우회로, 원격 프리랜서에서 비자 스폰서십까지",
+     "url": "https://www.itsnicethat.com/articles/creative-career-condundrums-if-you-could-jobs-advice-280926"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "미신과 기술의 조우: 원격으로 나무를 두드리는 노커 장치",
+     "url": "https://www.dezeen.com/2026/10/05/knock-on-wood-device-shashwath-santosh-nithin-eluvathingal/"
+    }
+   ],
+   "used": [],
+   "chars": 1374
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "creativeboom.com/news/pentagrams-festival-identity-finds-a-clever-way-to-give-arabic-and-english-equal-billing": {
+  "title_ko": "아랍어와 영어를 한 줄로 엮다, 디자인 도하 비엔날레 브랜딩",
+  "summary_ko": "펜타그램의 파트너 사마르 마카룬 팀은 2026 디자인 도하 비엔날레를 위한 이중 언어 비주얼 아이덴티티를 공개했다. 이들은 아랍어와 영어를 위아래로 쌓는 대신, 확장된 글자 줄기를 이용해 두 언어 체계를 하나의 타이포그래피 구성으로 엮었다. 이를 통해 어느 한쪽이 우세하지 않고 동등한 위계를 갖는 유연한 브랜딩 시스템을 완성했다.",
+  "lens": "두 언어의 글자 줄기를 네트워크 선처럼 연장해 위계의 차이를 지운다.",
+  "why_now": "다문화 사회에서 이중 언어 브랜딩이 늘어나는 가운데, 한쪽 언어가 주류가 되는 기존 방식을 넘어 시각적 평등을 구조화하는 새로운 기준을 제시한다.",
+  "mechanism": "글자의 획을 길게 늘이고 확장하는 타이포그래피 기법을 적용해, 아랍어와 영어가 서로 물리적으로 연결되도록 구성했다.",
+  "sensory": "트래버틴 석재에서 영감을 받은 베이지색과 짙은 마룬 색상이 중동 지역의 지질학적 물성을 드러내며, 선명한 주황색과 파란색 조합이 시각적 활력을 더한다.",
+  "transfer": "자막이나 타이틀 시퀀스에서 두 가지 언어 또는 문자를 배치할 때, 별도의 단락으로 나누지 않고 연장된 선으로 결합해 하나의 그래픽 덩어리로 연출한다.",
+  "context": "독립 디자인 컨설턴시 펜타그램(Pentagram)은 전 세계 지사를 기반으로 확장성 있는 비주얼 시스템을 구축해왔으며, 이번 작업은 아랍 지역 최대의 디자인 플랫폼인 디자인 도하 비엔날레(Design Doha Biennial)의 두 번째 에디션을 위해 진행되었다.",
+  "findings": [
+   {
+    "text": "펜타그램 파트너 사마르 마카룬과 팀은 디자인 도하 비엔날레 2026을 위해 아랍어와 영어를 단일 타이포그래피 구성으로 엮는 브랜딩을 선보였다.",
+    "s": 1,
+    "quote": "A dynamic bilingual identity for Design Doha Biennial, connecting languages, disciplines and voices across the Arab region."
+   }
+  ],
+  "keywords": [
+   "펜타그램",
+   "타이포그래피",
+   "비엔날레",
+   "브랜딩",
+   "이중언어"
+  ],
+  "evidence": "Rather than stacking one script above the other, the identity weaves Arabic and English together into a single typographic composition, with neither language taking second place.",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "이중 언어 타이포그래피의 위계 문제를 해결한 구체적이고 독창적인 시각 장치를 보여준다.",
+  "v": 2,
+  "url": "https://www.creativeboom.com/news/pentagrams-festival-identity-finds-a-clever-way-to-give-arabic-and-english-equal-billing/",
+  "original_title": "Pentagram's design festival identity finds a clever way to give equal billing to Arabic and English",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 8498,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-19 17:17",
+  "research": {
+   "entities": [
+    "Pentagram",
+    "Samar Maakaroun",
+    "Design Doha Biennial"
+   ],
+   "questions": [
+    "펜타그램이 아랍어와 영어를 시각적으로 동등하게 배치하기 위해 사용한 구체적인 타이포그래피 기법은 무엇인가?",
+    "디자인 도하 비엔날레 2026의 브랜딩에서 색상 팔레트가 지역적 정체성을 어떻게 반영하고 있는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Pentagram — The world’s largest independent design consultancy",
+     "url": "https://www.pentagram.com/"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Pentagram (design firm)",
+     "url": "https://en.wikipedia.org/wiki/Pentagram%20%28design%20firm%29"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "빛의 투영으로 아날로그 영화의 물성을 소환하다, 마리나 윌러의 BFI 런던 영화제 정체성",
+     "url": "https://www.itsnicethat.com/articles/marina-willer-pentagram-bfi-london-film-festival-graphic-design-160926"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "게임 인프라의 보이지 않는 세계, 펜타그램의 레트로퓨처 아이덴티티",
+     "url": "https://www.itsnicethat.com/articles/luke-powell-judy-hudson-powell-xsolla-pentagram-graphic-design-project-051026"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "29년 만의 해체, 펜타그램 출신 앨런 다이가 다시 초심으로 돌아간 이유",
+     "url": "https://www.creativeboom.com/insight/nb-studio-is-closing-after-29-years-alan-dye-wants-to-talk-about-joy/"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 3943
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "wallpaper.com/fashion-beauty/akris-collaboration-olga-de-amaral-art-aw-2026-collection": {
+  "title_ko": "아크리스와 올가 드 아마랄, 직조의 물성을 런웨이로 옮기는 방식",
+  "summary_ko": "스위스 패션 하우스 아크리스(Akris)가 2026 가을·겨울 컬렉션을 통해 콜롬비아 텍스타일 아티스트 올가 드 아마랄(Olga de Amaral)의 조형 언어를 의상으로 구현했다. 크리에이티브 디렉터 알베르트 크림러는 아마랄의 '알키미아(Alquimia)' 시리즈 속 금속성 표면과 '누도(Nudo)' 시리즈의 텍스처를 브로케이드 코트와 프린지 디테일로 재해석했다.",
+  "lens": "예술가의 작품을 옷 위에 복제하는 대신, 작가의 직관적인 재료 탐구 방식과 작업실의 노동 집약적 공정을 패션의 구조로 치환했다.",
+  "why_now": "디지털 프린팅이 만연한 시대에 원사 그 자체의 물성을 다루는 전통적인 직조 기술과 공예적 태도가 지닌 가치를 재조명한다.",
+  "mechanism": "아마랄의 금박 입힌 섬유 조형물에서 영감을 얻어 텍스처 처리된 포일 테이프를 브로케이드에 섞어 직조함으로써, 빛에 따라 표면이 파편화되는 금속성 질감을 구현했다.",
+  "sensory": "금박을 입힌 듯한 차가운 금속 광택과 겹겹이 쌓인 프린지의 반복적인 움직임이 착용자의 걸음마다 다른 그림자를 만들어낸다.",
+  "transfer": "작가의 작업실에서 30년간 이어진 '7명의 조수, 14개의 손'이라는 협업 구조를 참고하여, 특정 패턴이나 기법을 다루는 장인의 숙련도를 의상 실루엣의 핵심 동력으로 삼는다.",
+  "context": "아크리스는 1922년 설립 이후 세인트 갈렌의 전통적인 린넨 생산 기반을 유지해왔으며, 알베르트 크림러는 토마스 루프, 우고 론디노네 등 동시대 예술가와의 협업을 통해 컬렉션을 확장해왔다. 이번 협업은 2024~2025년 파리 카르티에 현대미술재단(Fondation Cartier)에서 열린 아마랄의 회고전에서 출발했다.",
+  "findings": [
+   {
+    "text": "아크리스는 1922년 설립된 스위스 럭셔리 패션 하우스로, 현재 크림러 가문의 3대인 알베르트 크림러가 이끌고 있다.",
+    "s": 2,
+    "quote": "Founded in 1922, it is currently owned and led in the third generation of the Kriemler family with Albert Kriemler serving as its creative director."
+   },
+   {
+    "text": "올가 드 아마랄은 1932년생 콜롬비아 작가로, 섬유를 금박이나 은박으로 덮어 대규모 추상 작업을 선보이는 것으로 유명하다.",
+    "s": 3,
+    "quote": "Olga de Amaral (born 1932) is a Colombian textile and visual artist known for her large-scale abstract works made with fibers and covered in gold and/or silver leaf."
+   }
+  ],
+  "keywords": [
+   "아크리스",
+   "올가드아마랄",
+   "텍스타일",
+   "직조",
+   "알베르트크림러"
+  ],
+  "evidence": "Not just to depict an artist's work on fabrics, but to translate it with full respect for the artist and the woman wearing it",
+  "kind": "브랜드·캠페인",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "예술가의 작업 방식과 패션 하우스의 공정 간의 정교한 연결 고리를 구체적인 재료와 구조로 설명한다.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/fashion-beauty/akris-collaboration-olga-de-amaral-art-aw-2026-collection",
+  "original_title": "The story behind Akris’ runway collaboration with textile artist Olga de Amaral",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 5929,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-19 17:17",
+  "research": {
+   "entities": [
+    "Akris",
+    "Olga de Amaral",
+    "Albert Kriemler",
+    "Fondation Cartier"
+   ],
+   "questions": [
+    "올가 드 아마랄의 텍스타일 예술 기법이 아크리스의 의상 제작 과정에서 어떻게 재해석되었는가?",
+    "알베르트 크림러가 추구하는 '직관적 창작 과정'과 올가 드 아마랄의 예술 철학 사이에는 어떤 공통점이 있는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Akris | Luxury Women's Designer Fashion and Handbags",
+     "url": "https://eu.akris.com/"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Akris",
+     "url": "https://en.wikipedia.org/wiki/Akris"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Olga de Amaral",
+     "url": "https://en.wikipedia.org/wiki/Olga%20de%20Amaral"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "아트 바젤 파리 2026: 그랑 팔레를 넘어 도시 전체로 확장된 예술의 지형도",
+     "url": "https://www.wallpaper.com/art/exhibitions-shows/art-basel-paris-2026-guide"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "chars": 1456
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "creativeboom.com/tools/meet-krea-3-the-fast-affordable-tool-built-for-editing-not-replacing-your-work": {
+  "title_ko": "생성 대신 편집을 택한 크레아 3, 창작자의 도구로 돌아온 인공지능",
+  "summary_ko": "크레아(Krea)가 공개한 인공지능 모델 크레아 3는 이미지를 생성하는 대신 기존 작업물의 수정과 보완에 집중한다. 최대 8개의 참조 이미지를 활용해 재료, 조명, 의상 등 특정 요소만 정밀하게 편집하며 2K 결과물을 6초 이내에 출력한다. 창작자의 기존 작업 흐름을 대체하지 않고 가속하는 도구로서 설계되었다.",
+  "lens": "생성형 AI가 창작자를 밀어내는 대신, 창작자의 손끝에서 재료를 다듬는 정밀한 도구로 기능하도록 설계했다.",
+  "why_now": "무에서 유를 만드는 생성 경쟁에서 벗어나, 창작자의 결과물을 고도화하는 편집 중심의 실용적 인공지능으로 흐름이 전환되고 있다.",
+  "mechanism": "최대 4개의 스타일 참조 이미지를 입력해 결과물의 미학적 일관성을 유지하며, 8개의 참조 이미지로 기존 이미지의 특정 요소만 선택적으로 교체한다.",
+  "sensory": "2K 해상도의 선명한 결과물을 6초라는 짧은 시간 내에 출력하며, 기존 작업물의 질감과 조명 값을 유지한 채 텍스트 프롬프트만으로 재질이나 설정을 바꾼다.",
+  "transfer": "광고 현장에서 촬영한 제품 사진을 배경만 바꾸거나, 스케치를 실사 렌더링으로 변환할 때 사용하여 후반 작업 시간을 단축한다.",
+  "context": "크레아는 이미지, 비디오, 3D 모델을 통합 관리하는 플랫폼으로, 생성형 AI를 창작의 악기로 다루는 최근의 기술적 흐름과 궤를 같이한다. 이전 작업들에서 생성형 모델을 작가의 고유한 화풍을 학습하는 도구로 전유했던 사례들과 맥락을 공유한다.",
+  "findings": [],
+  "keywords": [
+   "크레아3",
+   "이미지편집",
+   "생성형AI",
+   "워크플로우"
+  ],
+  "evidence": "Krea 3 is first and foremost an editing model.",
+  "kind": "제품·오브제",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "기존 생성형 AI의 한계를 편집 기능으로 명확히 정의하고, 구체적인 속도와 비용 지표를 제시하여 실무 적용 가능성을 높였다.",
+  "v": 2,
+  "url": "https://www.creativeboom.com/tools/meet-krea-3-the-fast-affordable-tool-built-for-editing-not-replacing-your-work/",
+  "original_title": "Meet Krea 3: the fast, easy-to-use tool built for editing (not replacing) your work",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 8740,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-19 17:17",
+  "research": {
+   "entities": [
+    "Krea",
+    "Google",
+    "OpenAI"
+   ],
+   "questions": [
+    "Krea 3가 기존의 생성형 AI 모델들과 비교했을 때 '편집' 기능 측면에서 갖는 기술적 차별점은 무엇인가요?",
+    "Krea 3의 스타일 참조(style reference) 기능은 창작자의 기존 작업물과 어떻게 상호작용하며 결과물의 일관성을 유지하나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Krea",
+     "url": "https://www.krea.ai/"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Google",
+     "url": "https://en.wikipedia.org/wiki/Google"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "OpenAI",
+     "url": "https://en.wikipedia.org/wiki/OpenAI"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "구글과 5대 제조사가 재정의한 지능형 노트북, 구글북",
+     "url": "https://www.wallpaper.com/tech/google-enlists-five-top-laptop-makers-to-bring-its-new-vision-to-life-enter-the-googlebook"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "텍스트의 빈틈을 파고드는 일러스트레이터 이브라힘 라인타카스의 작업 방식",
+     "url": "https://www.booooooom.com/2026/08/24/illustrator-spotlight-ibrahim-rayintakath/"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "코니 허의 애니메이션 'Dear Upstairs Neighbors': 생성형 AI를 악기처럼 다루는 법",
+     "url": "https://motionographer.com/2026/09/28/dear-upstairs-neighbors-how-connie-he-taught-a-machine-to-see-the-way-she-draws/"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 6170
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "creativeboom.com/books/mark-mcnultys-in-clubland-documents-35-years-of-rave-culture-from-acid-house-to-the-age-of-the-superclub": {
+  "title_ko": "애시드 하우스에서 슈퍼클럽까지, 35년을 기록한 레이브의 내부자 시선",
+  "summary_ko": "리버풀 출신 사진작가 마크 맥널티는 1990년 쿼드런트 파크부터 2023년 유로비전까지, 영국 클럽 문화의 40년을 담은 550여 장의 사진집 '인 클럽랜드(In Clubland)'를 출간했다. 그는 단순한 관찰자가 아닌 현장의 일원으로 레이브의 초기 애시드 하우스부터 슈퍼클럽 시대의 전성기를 카메라에 담았다.",
+  "lens": "관찰자가 아닌 일원으로서 기록한 사진은 피사체와 카메라 사이의 긴장감을 제거하고, 레이브 현장의 원초적이고 무방비한 활기를 포착한다.",
+  "why_now": "디지털 아카이브가 범람하는 시대에, 특정 하위문화의 시작부터 현재까지를 한 작가의 시선으로 일관되게 엮어낸 물리적 기록물은 서사의 연속성을 증명한다.",
+  "mechanism": "피사체가 카메라를 의식하지 않는 '보이지 않는 기록' 기법을 통해 클럽 내부의 날것 그대로인 움직임과 색채를 포착했다.",
+  "sensory": "강렬한 색감, 흔들리는 모션 블러, 그리고 땀과 조명이 뒤섞인 현장의 무질서한 에너지가 지면 위로 전이된다.",
+  "transfer": "군중 속 인물을 촬영할 때 의도적으로 피사체와의 거리감을 지우고, 촬영자의 존재를 망각하게 만드는 동선을 설계해 자연스러운 반응을 유도한다.",
+  "context": "마크 맥널티는 현재 테이트 브리튼(Tate Britain)에서 열리는 'The '90s: Art & Fashion' 전시에 참여 중이며, 데이미언 허스트(Damien Hirst)와 비비안 웨스트우드(Vivienne Westwood) 등 동시대 영국 예술가들과 함께 아카이브의 한 축을 담당하고 있다.",
+  "findings": [
+   {
+    "text": "마크 맥널티는 현재 영국 북웨일스에 거주하며 예술, 음악, 상업 분야의 사진 및 영상 작업을 수행한다.",
+    "s": 1,
+    "quote": "Mark McNulty is a North Wales-based photographer and filmmaker working for arts, music, education, tourism, and lifestyle-based clients."
+   },
+   {
+    "text": "테이트 브리튼은 런던 웨스트민스터에 위치한 미술관으로, 튜더 왕조 이후 영국 예술의 방대한 컬렉션을 소장하고 있다.",
+    "s": 2,
+    "quote": "It houses a substantial collection of the art of the United Kingdom since Tudor times, and in particular has large holdings of the works of J. M. W. Turner."
+   },
+   {
+    "text": "데이미언 허스트는 1990년대 영국 예술계를 지배한 젊은 영국 예술가(YBA) 그룹의 핵심 인물이다.",
+    "s": 3,
+    "quote": "He was one of the Young British Artists (YBAs) who dominated the art scene in the UK during the 1990s."
+   }
+  ],
+  "keywords": [
+   "레이브",
+   "클럽문화",
+   "마크맥널티",
+   "아카이브",
+   "사진집"
+  ],
+  "evidence": "In Clubland: 35 Summers of Love brings it all together in more than 550 photographs across 240 pages.",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "40년간의 현장 기록이라는 방대한 아카이브를 작가의 시점으로 일관되게 정리하여 사료적 가치와 미학적 일관성을 동시에 갖췄다.",
+  "v": 2,
+  "url": "https://www.creativeboom.com/books/mark-mcnultys-in-clubland-documents-35-years-of-rave-culture-from-acid-house-to-the-age-of-the-superclub/",
+  "original_title": "New book In Clubland documents 35 years of rave culture, from acid house to the superclub era",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 9000,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-19 17:17",
+  "research": {
+   "entities": [
+    "Mark McNulty",
+    "Tate Britain",
+    "Damien Hirst",
+    "Vivienne Westwood",
+    "Cream"
+   ],
+   "questions": [
+    "1990년대 영국 레이브 문화와 애시드 하우스가 당시 사회에 미친 영향은 무엇인가요?",
+    "쿼드런트 파크(Quadrant Park)가 영국 클럽 문화 역사에서 최초의 합법적 올나이터로서 갖는 의미는 무엇인가요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "North Wales based photographer working for arts , music and commercial clients across the ",
+     "url": "https://www.markmcnulty.co.uk/"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Tate Britain",
+     "url": "https://en.wikipedia.org/wiki/Tate%20Britain"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Damien Hirst",
+     "url": "https://en.wikipedia.org/wiki/Damien%20Hirst"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "찰리 XCX와 팬덤 '엔젤스': 훼손된 티셔츠로 재구성하는 동시대의 유니폼",
+     "url": "https://www.dazeddigital.com/music/article/71032/1/meet-charli-xcx-s-most-dedicated-nyc-angels?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=in-pictures-charli-xcx-s-most-dedicated-nyc-angels"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "태린 사이먼, 구겐하임에서 시스템의 불투명성을 기록하다",
+     "url": "https://hyperallergic.com/taryn-simons-evidence-as-spectacle/"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "올리버 스티프, 비비안 웨스트우드 데드스탁으로 직조한 패션 가구",
+     "url": "https://www.dezeen.com/2026/09/07/oliver-stiff-fashion-furniture-chairs/"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3
+   ],
+   "chars": 3209
+  },
+  "depth_raw": 4,
+  "depth_v": 2
  }
 }

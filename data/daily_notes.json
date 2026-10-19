@@ -2279,30 +2279,38 @@
  },
  "2026-10-19": {
   "date": "2026-10-19",
-  "headline": "슬로베니아의 원색 벽과 알루미늄 레일의 차가운 선",
-  "editorial": "슬로베니아 캄니크 주택의 박공지붕 뒤편, 예기치 못한 원색의 내부가 은밀한 유희를 드러낸다. 19세기 셰이커 디자인을 현대적으로 옮겨온 알루미늄 레일은 벽면의 여백을 통제하며 공간에 엄격한 질서를 부여한다. 겉으로 드러나는 정적인 형태와 그 안에 숨겨진 강렬한 대비는 주거 공간이 무엇을 감추고 무엇을 보여주어야 하는지 질문한다. 질서와 일탈의 틈새에서 비로소 거주자의 진짜 일상이 숨을 쉰다.",
+  "headline": "알루미늄 레일의 직선과 발전소 지하의 거친 콘크리트",
+  "editorial": "디자인 도하 비엔날레의 이중언어 타이포그래피는 서로 다른 체계를 한 줄로 잇고, 셰이커 디자인의 알루미늄 모듈러 시스템은 벽면을 따라 흐르는 레일로 공간의 여백을 규정한다. 슬로베니아의 박공지붕은 내부의 파격적인 색채를 감추며 공적 이미지와 사적 유희를 분리해낸다. 베를린 발전소 지하에 남은 콘크리트 골조와 레이브의 기록은 방치된 구조물에 원초적인 질감을 부여하며 시간을 현재로 불러온다.",
   "threads": [
    {
-    "name": "감춰진 내부의 파격",
-    "note": "외부의 정적인 외관과 대비되는 강렬한 색채나 내부 구조를 탐구한다.",
+    "name": "구조에 새긴 질서",
+    "note": "서로 다른 체계나 재료를 결합해 새로운 공간적 문법을 만드는 방식이다.",
     "items": [
      {
-      "title": "슬로베니아 캄니크, 절제된 박공지붕 뒤에 숨겨진 원색의 유희",
-      "url": "https://www.yellowtrace.com.au/alto-design-studio-fun-house-slovenian-architecture/"
+      "title": "아랍어와 영어를 한 줄로 엮다, 디자인 도하 비엔날레 브랜딩",
+      "url": "https://www.creativeboom.com/news/pentagrams-festival-identity-finds-a-clever-way-to-give-arabic-and-english-equal-billing/"
      },
      {
-      "title": "집을 짓고 문을 열다, 마드리드의 마타 태번",
-      "url": "https://www.archdaily.com/1187057/martha-tavern-codoo-studio"
+      "title": "19세기 셰이커 디자인의 재발견, 알루미늄으로 빚은 모듈러 행잉 시스템",
+      "url": "https://www.wallpaper.com/design-interiors/joshi-greene-los-angeles-designers"
+     },
+     {
+      "title": "지형과 철새의 이동을 AI 파이프라인으로 직조한 오피스 카펫 필름",
+      "url": "https://www.stashmedia.tv/frame-explores-our-planet-for-ege-carpets-x-gensler/"
      }
     ]
    },
    {
-    "name": "금속이 긋는 공간의 문법",
-    "note": "알루미늄과 철제 구조물을 활용해 공간의 질감을 규정하고 여백을 통제하는 방식이다.",
+    "name": "숨겨진 내면의 깊이",
+    "note": "겉으로 드러나는 정적인 외형과 대비되는 내면의 역동적인 활기를 다룬다.",
     "items": [
      {
-      "title": "19세기 셰이커 디자인의 재발견, 알루미늄으로 빚은 모듈러 행잉 시스템",
-      "url": "https://www.wallpaper.com/design-interiors/joshi-greene-los-angeles-designers"
+      "title": "애시드 하우스에서 슈퍼클럽까지, 35년을 기록한 레이브의 내부자 시선",
+      "url": "https://www.creativeboom.com/books/mark-mcnultys-in-clubland-documents-35-years-of-rave-culture-from-acid-house-to-the-age-of-the-superclub/"
+     },
+     {
+      "title": "슬로베니아 캄니크, 절제된 박공지붕 뒤에 숨겨진 원색의 유희",
+      "url": "https://www.yellowtrace.com.au/alto-design-studio-fun-house-slovenian-architecture/"
      },
      {
       "title": "버려진 발전소 지하를 깨운 베를린 테크노 아카이브 공간",
@@ -2311,9 +2319,9 @@
     ]
    }
   ],
-  "based_on": 12,
+  "based_on": 18,
   "v": 3,
   "model": "gemini-3.1-flash-lite-preview",
-  "written_at": "2026-10-19 14:15"
+  "written_at": "2026-10-19 17:17"
  }
 }

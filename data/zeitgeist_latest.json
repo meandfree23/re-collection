@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-10-19 14:15 KST",
+  "generated_at": "2026-10-19 17:17 KST",
   "period": "2026.10.12 - 2026.10.19",
-  "total_articles": 403,
+  "total_articles": 409,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 199
+      "count": 200
     },
     {
       "genre": "동시대 미술",
-      "count": 152
+      "count": 157
     },
     {
       "genre": "아방가르드 패션",
@@ -87,10 +87,16 @@
     },
     {
       "keyword": "텍스타일·직물",
-      "count": 7,
+      "count": 8,
       "previous_count": 1,
       "trend": "rising",
       "items": [
+        {
+          "title": "텍스타일 아티스트 올가 드 아마랄 (Olga de Amaral) 과 함께한 아크리스의 런웨이 콜라보레이션 스토리",
+          "url": "https://www.wallpaper.com/fashion-beauty/akris-collaboration-olga-de-amaral-art-aw-2026-collection",
+          "image_url": "https://cdn.mos.cms.futurecdn.net/ijyiqJJT7tcjwWAKoY387N-1920-80.jpg",
+          "source_name": "Wallpaper*"
+        },
         {
           "title": "Cypher 음향 연구 # 1 출시: 섬유 및 패션",
           "url": "https://www.stashmedia.tv/cypher-releases-sonic-studies-1-textiles-fashion/",
@@ -108,12 +114,6 @@
           "url": "https://hyperallergic.com/12-must-read-books-on-textiles-and-fiber-art/",
           "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/10/2-2.jpg",
           "source_name": "Hyperallergic"
-        },
-        {
-          "title": "시민 캠퍼스 Sallarès Deu/JAAS",
-          "url": "https://www.archdaily.com/1186766/sallares-deu-jaas",
-          "image_url": "https://images.adsttc.com/media/images/6ace/9845/b2c4/c300/0178/eeb2/large_jpg/JAAS_SD_03_Foto_Adria_Goula.jpg?1791924320",
-          "source_name": "ArchDaily"
         }
       ]
     },
@@ -150,6 +150,38 @@
       ]
     },
     {
+      "keyword": "사진",
+      "count": 14,
+      "previous_count": 15,
+      "trend": "steady",
+      "items": [
+        {
+          "title": "새 책 클럽랜드에는 애시드 하우스에서 슈퍼클럽 시대에 이르기까지 35년간의 열광적인 문화가 기록되어 있습니다.",
+          "url": "https://www.creativeboom.com/books/mark-mcnultys-in-clubland-documents-35-years-of-rave-culture-from-acid-house-to-the-age-of-the-superclub/",
+          "image_url": "https://media.creativeboom.com/313034d5-f612-4f32-92a9-02ae1018f635/conversions/bb2d61d76627c61ca30279e9c3cd0c8d488731f8-medium.webp",
+          "source_name": "Creative Boom"
+        },
+        {
+          "title": "사진작가 패트리샤 레예스의 '대서양의 황혼'",
+          "url": "https://www.booooooom.com/2026/10/16/atlantic-ocean-twilight-by-photographer-patricia-reyes/",
+          "image_url": "https://cdn.booooooom.com/wp-content/uploads/2026/09/Patricia_Reyes_01.jpg",
+          "source_name": "BOOOOOOOM"
+        },
+        {
+          "title": "안젤라 힐 (Angela Hill) 이 어거스트 배런 (August Barron) SS27 사진",
+          "url": "https://www.dazeddigital.com/fashion/article/71187/1/angela-hill-august-barron-ss27-paris-fashion-week-pfw-photo-diary?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=angela-hill-shares-her-august-barron-ss27-photo-diary",
+          "image_url": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/7/1457763.JPG",
+          "source_name": "Dazed"
+        },
+        {
+          "title": "이 사진작가들은 스와나 지역의 새로운 삶의 비전을 제시합니다.",
+          "url": "https://www.dazeddigital.com/art-photography/article/71184/1/no-night-long-enough-dream-twice-western-australia-gallery-exhibition?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=these-photographers-offer-new-visions-of-life-in-the-swana-region",
+          "image_url": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/7/1457732.jpeg",
+          "source_name": "Dazed"
+        }
+      ]
+    },
+    {
       "keyword": "해변·리조트 건축",
       "count": 4,
       "previous_count": 3,
@@ -178,38 +210,6 @@
           "url": "https://www.archdaily.com/1186700/transforming-barcelonas-waterfront-a-story-of-urban-renewal",
           "image_url": "https://images.adsttc.com/media/images/6acd/2a16/7887/fb01/8910/69ed/large_jpg/transforming-barcelonas-waterfront-a-historical-overview-of-urban-renewal_7.jpg?1791830558",
           "source_name": "ArchDaily"
-        }
-      ]
-    },
-    {
-      "keyword": "박물관·전시",
-      "count": 30,
-      "previous_count": 40,
-      "trend": "falling",
-      "items": [
-        {
-          "title": "마리오차이 상하이 전시장",
-          "url": "https://minimalissimo.com/articles/mario-tsai-shanghai-exhibition-space",
-          "image_url": "https://minimalissimo.com/api/media/file/mario-tsai-shanghai-exhibition-space-featured-v20261013-1200x630.jpg",
-          "source_name": "Minimalissimo"
-        },
-        {
-          "title": "원시인의 일기",
-          "url": "https://hyperallergic.com/diaries-of-a-primitive-man/",
-          "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/10/IMG_5787.JPG",
-          "source_name": "Hyperallergic"
-        },
-        {
-          "title": "재사용의 힘을 보여주는 8개의 개조 발전소",
-          "url": "https://www.dezeen.com/2026/10/17/converted-power-stations-roundup/",
-          "image_url": "https://static.dezeen.com/uploads/2022/10/battersea-power-station-completes-wilkinson-eyre_dezeen_2364_sq_0-852x852.jpg",
-          "source_name": "Dezeen"
-        },
-        {
-          "title": "Studio Iron의 Robin Hunter-Blake 작품에는 ‘감성적이고 본능적인’ 무언가가 있습니다.",
-          "url": "https://www.wallpaper.com/art/exhibitions-shows/robin-hunter-blake-studio-iron-review",
-          "image_url": "https://cdn.mos.cms.futurecdn.net/KMRemXP3iCxoo9Z2Ka9U88-1920-80.jpg",
-          "source_name": "Wallpaper*"
         }
       ]
     }
