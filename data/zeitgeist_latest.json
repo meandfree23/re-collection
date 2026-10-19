@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-10-19 17:17 KST",
-  "period": "2026.10.12 - 2026.10.19",
-  "total_articles": 409,
+  "generated_at": "2026-10-20 00:01 KST",
+  "period": "2026.10.13 - 2026.10.20",
+  "total_articles": 446,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 200
+      "count": 212
     },
     {
       "genre": "동시대 미술",
-      "count": 157
+      "count": 176
     },
     {
       "genre": "아방가르드 패션",
-      "count": 35
+      "count": 40
     },
     {
       "genre": "미디어 파사드·3D",
-      "count": 17
+      "count": 18
     }
   ],
   "themes": [
@@ -55,10 +55,22 @@
     },
     {
       "keyword": "목재 건축",
-      "count": 11,
+      "count": 13,
       "previous_count": 8,
       "trend": "rising",
       "items": [
+        {
+          "title": "하우스오브월포레스트",
+          "url": "https://leibal.com/interiors/house-of-wall-forest/",
+          "image_url": "https://leibal.com/wp-content/uploads/2026/09/leibal-house-of-wall-forest-igarachitects-7.jpg",
+          "source_name": "Leibal"
+        },
+        {
+          "title": "V 펜트하우스",
+          "url": "https://leibal.com/interiors/v-penthouse/",
+          "image_url": "https://leibal.com/wp-content/uploads/2026/09/leibal-v-penthouse-merckx-holvoet-4.jpg",
+          "source_name": "Leibal"
+        },
         {
           "title": "빨간색으로 표시된 7개의 눈에 띄는 건물",
           "url": "https://www.dezeen.com/2026/10/18/seven-red-buildings-roundup/",
@@ -70,18 +82,6 @@
           "url": "https://leibal.com/interiors/arc%c2%b7haven-residence/",
           "image_url": "https://leibal.com/wp-content/uploads/2026/10/leibal-arc-haven-residence-wuta-space-design-14.jpg",
           "source_name": "Leibal"
-        },
-        {
-          "title": "Central Library at Stevens Ranch  / Miller Hull Partnership + Steele Associates Architects",
-          "url": "https://www.archdaily.com/1186856/central-library-at-stevens-ranch-miller-hull-partnership-plus-steele-associates-architects",
-          "image_url": "https://images.adsttc.com/media/images/6acf/e41e/b2c4/c300/0178/f467/large_jpg/FyV4SfJA.jpg?1792009345",
-          "source_name": "ArchDaily"
-        },
-        {
-          "title": "Liu Jiakun, Dong Gong, Luo Yujie와의 대화: 소규모 목재 건물 - 왜 건설하고 어떻게 건설합니까?",
-          "url": "https://www.archdaily.com/1186963/in-conversation-with-liu-jiakun-dong-gong-and-luo-yujie-small-scale-timber-buildings-why-build-them-and-how",
-          "image_url": "https://images.adsttc.com/media/images/6ad1/87cd/8008/f401/8ba5/3d42/large_jpg/in-conversation-with-liu-jiakun-dong-gong-and-luo-yujie-small-scale-timber-buildings-why-build-them-and-how_4.jpg?1792116706",
-          "source_name": "ArchDaily"
         }
       ]
     },
@@ -151,10 +151,16 @@
     },
     {
       "keyword": "사진",
-      "count": 14,
+      "count": 15,
       "previous_count": 15,
       "trend": "steady",
       "items": [
+        {
+          "title": "스마일스 마이어 퀴어 \"최후의 만찬\"",
+          "url": "https://hyperallergic.com/smiles-meyer-queers-the-last-supper/",
+          "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/10/27QLS.jpg",
+          "source_name": "Hyperallergic"
+        },
         {
           "title": "새 책 클럽랜드에는 애시드 하우스에서 슈퍼클럽 시대에 이르기까지 35년간의 열광적인 문화가 기록되어 있습니다.",
           "url": "https://www.creativeboom.com/books/mark-mcnultys-in-clubland-documents-35-years-of-rave-culture-from-acid-house-to-the-age-of-the-superclub/",
@@ -172,44 +178,38 @@
           "url": "https://www.dazeddigital.com/fashion/article/71187/1/angela-hill-august-barron-ss27-paris-fashion-week-pfw-photo-diary?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=angela-hill-shares-her-august-barron-ss27-photo-diary",
           "image_url": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/7/1457763.JPG",
           "source_name": "Dazed"
-        },
-        {
-          "title": "이 사진작가들은 스와나 지역의 새로운 삶의 비전을 제시합니다.",
-          "url": "https://www.dazeddigital.com/art-photography/article/71184/1/no-night-long-enough-dream-twice-western-australia-gallery-exhibition?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=these-photographers-offer-new-visions-of-life-in-the-swana-region",
-          "image_url": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/7/1457732.jpeg",
-          "source_name": "Dazed"
         }
       ]
     },
     {
-      "keyword": "해변·리조트 건축",
-      "count": 4,
-      "previous_count": 3,
+      "keyword": "빛과 조명",
+      "count": 9,
+      "previous_count": 10,
       "trend": "steady",
       "items": [
         {
-          "title": "미니멀리즘과 석호가 어우러진 나이지리아의 해변가 저택 안으로 들어가보세요.",
-          "url": "https://www.wallpaper.com/architecture/residential/oa-house-nigerian-beach-house-tosin-oshinowo",
-          "image_url": "https://cdn.mos.cms.futurecdn.net/XQXxs6uThU8bdzKECkyC9C-1920-80.jpg",
+          "title": "푸른빛과 금빛의 방콕 카페 인테리어를 알려주는 태국 전통 등불",
+          "url": "https://www.dezeen.com/2026/10/19/traditional-thai-lanterns-bangkok-cafe-interior/",
+          "image_url": "https://static.dezeen.com/uploads/2026/10/blue-bottle-coffee-cafe-bangkok-i-in_dezeen_2364_col_sq2-852x852.jpg",
+          "source_name": "Dezeen"
+        },
+        {
+          "title": "j 'ai vu: 제니 홀저 (jenny holzer) 의 기념비적인 빛 투영이 파리의 오르세 미술관을 변화시킨다.",
+          "url": "https://www.designboom.com/art/jenny-holzer-musee-dorsay-paris-monumental-light-projections-engraved-stone-exhibition-jai-vu/",
+          "image_url": "https://www.designboom.com/wp-content/uploads/2026/10/jenny-holzer-musee-dorsay-paris-monumental-light-projections-engraved-stone-exhibition-jai-vu-designboom-3.2323.jpg",
+          "source_name": "Designboom Art"
+        },
+        {
+          "title": "빛으로 놀기: 디자이너가 스타디움 쇼를 친밀하게 만드는 방법",
+          "url": "https://www.wallpaper.com/art/music/lighting-designers-tobias-rylander-and-michael-straun-interview",
+          "image_url": "https://cdn.mos.cms.futurecdn.net/xM48cvWaeSHTTMNNKakWCD-1920-80.jpg",
           "source_name": "Wallpaper*"
         },
         {
-          "title": "1908년 일본 교도소가 럭셔리 호텔로서 새로운 삶을 찾다",
-          "url": "https://design-milk.com/hoshinoya-nara-prison-hotel/",
-          "image_url": "https://design-milk.com/images/2026/10/HOSHINOYA-Nara-Prison_Property-Overview.jpg",
+          "title": "스포트라이트에서 부드러운 빛으로: 코일 + 드리프트에 의한 새로운 조명",
+          "url": "https://design-milk.com/coil-drift-lighting-touch-strut/",
+          "image_url": "https://design-milk.com/images/2026/10/Lookout-Collection_Coil-Drift_Photo-Credit-Haley-Birt_1Q6A8882_lr-e1791943763869-1500x1000.jpg",
           "source_name": "Design Milk"
-        },
-        {
-          "title": "이 겹겹이 쌓인 뉴햄프셔 헛간 변환은 우리에게 초기 오두막 발열을 제공하고 있습니다",
-          "url": "https://www.wallpaper.com/design-interiors/interior-design/new-hampshire-barn-conversion-yond-interiors",
-          "image_url": "https://cdn.mos.cms.futurecdn.net/3GvR8C3LiwrfBhetj2B7e5-1920-80.jpg",
-          "source_name": "Wallpaper*"
-        },
-        {
-          "title": "바르셀로나 수변의 변화: 도시재생 이야기",
-          "url": "https://www.archdaily.com/1186700/transforming-barcelonas-waterfront-a-story-of-urban-renewal",
-          "image_url": "https://images.adsttc.com/media/images/6acd/2a16/7887/fb01/8910/69ed/large_jpg/transforming-barcelonas-waterfront-a-historical-overview-of-urban-renewal_7.jpg?1791830558",
-          "source_name": "ArchDaily"
         }
       ]
     }
