@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-10-20 01:01 KST",
+  "generated_at": "2026-10-20 04:04 KST",
   "period": "2026.10.13 - 2026.10.20",
-  "total_articles": 387,
+  "total_articles": 398,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 183
+      "count": 187
     },
     {
       "genre": "동시대 미술",
-      "count": 152
+      "count": 156
     },
     {
       "genre": "아방가르드 패션",
-      "count": 38
+      "count": 40
     },
     {
       "genre": "미디어 파사드·3D",
-      "count": 14
+      "count": 15
     }
   ],
   "themes": [
@@ -55,10 +55,16 @@
     },
     {
       "keyword": "목재 건축",
-      "count": 12,
+      "count": 13,
       "previous_count": 8,
       "trend": "rising",
       "items": [
+        {
+          "title": "그레이엄 바바 (Graham Baba) 의 골프 클럽하우스는 워싱턴 시골의 농장 구조물에 고개를 끄덕입니다.",
+          "url": "https://www.dezeen.com/2026/10/19/golf-clubhouse-graham-baba-washington-architects/",
+          "image_url": "https://static.dezeen.com/uploads/2026/10/westwood-gold-clubhouse-california-graham-baba-architects-sq_dezeen_2364_col_0-852x852.jpg",
+          "source_name": "Dezeen"
+        },
         {
           "title": "하우스오브월포레스트",
           "url": "https://leibal.com/interiors/house-of-wall-forest/",
@@ -76,12 +82,6 @@
           "url": "https://www.dezeen.com/2026/10/18/seven-red-buildings-roundup/",
           "image_url": "https://static.dezeen.com/uploads/2026/10/red-buildings-roundup_dezeen_2364_col_2-852x852.jpg",
           "source_name": "Dezeen"
-        },
-        {
-          "title": "아크 · 헤이븐 레지던스",
-          "url": "https://leibal.com/interiors/arc%c2%b7haven-residence/",
-          "image_url": "https://leibal.com/wp-content/uploads/2026/10/leibal-arc-haven-residence-wuta-space-design-14.jpg",
-          "source_name": "Leibal"
         }
       ]
     },
@@ -151,10 +151,16 @@
     },
     {
       "keyword": "빛과 조명",
-      "count": 8,
+      "count": 9,
       "previous_count": 9,
       "trend": "steady",
       "items": [
+        {
+          "title": "‘아이올루스‘ 에서 드리프트는 조명을 받은 유리 막대를 바람의 조각에 매달아 놓습니다.",
+          "url": "https://www.thisiscolossal.com/2026/10/aeolus-studio-drift-light-glass-installation/",
+          "image_url": "https://www.thisiscolossal.com/wp-content/uploads/2026/10/drift-2.gif",
+          "source_name": "This Is Colossal"
+        },
         {
           "title": "푸른빛과 금빛의 방콕 카페 인테리어를 알려주는 태국 전통 등불",
           "url": "https://www.dezeen.com/2026/10/19/traditional-thai-lanterns-bangkok-cafe-interior/",
@@ -172,12 +178,6 @@
           "url": "https://www.wallpaper.com/art/music/lighting-designers-tobias-rylander-and-michael-straun-interview",
           "image_url": "https://cdn.mos.cms.futurecdn.net/xM48cvWaeSHTTMNNKakWCD-1920-80.jpg",
           "source_name": "Wallpaper*"
-        },
-        {
-          "title": "스포트라이트에서 부드러운 빛으로: 코일 + 드리프트에 의한 새로운 조명",
-          "url": "https://design-milk.com/coil-drift-lighting-touch-strut/",
-          "image_url": "https://design-milk.com/images/2026/10/Lookout-Collection_Coil-Drift_Photo-Credit-Haley-Birt_1Q6A8882_lr-e1791943763869-1500x1000.jpg",
-          "source_name": "Design Milk"
         }
       ]
     },

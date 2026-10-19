@@ -2323,5 +2323,48 @@
   "v": 3,
   "model": "gemini-3.1-flash-lite-preview",
   "written_at": "2026-10-19 17:17"
+ },
+ "2026-10-20": {
+  "date": "2026-10-20",
+  "headline": "바느질된 식민의 기록과 산화된 거울의 시간",
+  "editorial": "로사나 파울리누는 식민주의 사진에 바느질을 더해 고정된 역사의 폭력을 흔든다. 볼디자르 센테스키는 거울의 표면을 산화시켜 시간에 따른 변화를 오브제에 직접 새겨 넣었다. 이처럼 고정된 형식을 뚫고 나오는 움직임은 계급의 문턱을 없앤 나크샤비드아키텍츠의 공장 설계와 닿아 있다. 기존의 위계와 기록을 물리적으로 변형하거나 제거함으로써 우리는 비로소 새로운 질서를 마주한다.",
+  "threads": [
+   {
+    "name": "고정된 틀을 찢는 시도",
+    "note": "기존 체제나 기록이 가진 권위를 해체하거나 새로운 방식으로 재조립하는 작업들이다.",
+    "items": [
+     {
+      "title": "계급 구조를 지운 공장, 방글라데시 그린 필드 팩토리",
+      "url": "https://www.archdaily.com/1187060/nakshabid-architects-alternative-factory-model-in-bangladesh-receives-the-riba-international-prize-2026"
+     },
+     {
+      "title": "식민주의의 기록을 꿰매고 지우는 로사나 파울리누의 아카이브 저항",
+      "url": "https://hyperallergic.com/rosana-paulino-reads-the-archive-against-those-who-made-it/"
+     },
+     {
+      "title": "볼디자르 센테스키, 산화와 부식으로 기록한 도시의 시간",
+      "url": "https://design-milk.com/boldizar-senteski-erosion-collection-mirrors/"
+     }
+    ]
+   },
+   {
+    "name": "도시의 수직적 연장",
+    "note": "건축을 단순히 점유하는 공간이 아니라 시민의 동선과 풍경을 이어주는 통로로 해석한다.",
+    "items": [
+     {
+      "title": "상하이 황푸 강변의 새로운 수직적 공공 광장, 스뇌헤타의 상하이 대극장",
+      "url": "https://www.archdaily.com/1187067/snohettas-shanghai-grand-opera-house-opens-with-a-sweeping-roof-and-panoramic-river-views"
+     },
+     {
+      "title": "지붕을 새로운 대지로 확장한 베트남의 주거 리노베이션",
+      "url": "https://www.archdaily.com/1186687/the-summer-path-house-gieo-architecture"
+     }
+    ]
+   }
+  ],
+  "based_on": 20,
+  "v": 3,
+  "model": "gemini-3.1-flash-lite",
+  "written_at": "2026-10-20 04:05"
  }
 }
