@@ -184276,5 +184276,68 @@
   },
   "depth_raw": 3,
   "depth_v": 2
+ },
+ "yellowtrace.com.au/alto-design-studio-fun-house-slovenian-architecture": {
+  "title_ko": "슬로베니아 캄니크, 절제된 박공지붕 뒤에 숨겨진 원색의 유희",
+  "summary_ko": "알토 디자인 스튜디오(Alto Design Studio)가 설계한 240㎡ 규모의 3층 주택 ‘펀 하우스(Fun House)’는 거리에서는 주변과 조화를 이루는 평범한 박공지붕 집의 형태를 띤다. 그러나 내부로 들어서면 이브 클라인 블루 벽난로와 청록색 모아레 벽지, 분홍색 당구대 등 강렬한 색채와 질감이 반전된 공간을 연출한다.",
+  "lens": "외부의 정적인 박공지붕과 내부의 파격적인 색채 대비를 통해 주거 공간의 공적 이미지와 사적 유희를 분리하는 전략이 돋보인다.",
+  "why_now": "거주자의 개성을 극단적으로 드러내면서도 외관은 주변 환경과 조화를 이루어야 하는 주거 건축의 이중적 과제를 효과적으로 해결했다.",
+  "mechanism": "벽 대신 밝은 커튼을 사용하여 공간을 유연하게 구획하고, 중앙의 이브 클라인 블루 벽난로를 시각적 구심점으로 삼아 1층 전체를 개방적으로 연결한다.",
+  "sensory": "지하 게임룸은 짙은 청록색 모아레 벽지와 파란색 리놀륨 바닥, 먼지 낀 분홍색 당구대 펠트가 겹쳐지며 시각적 밀도를 높이고, 완벽한 방음으로 고립된 몰입감을 제공한다.",
+  "transfer": "공간의 성격 전환이 필요한 지점에 커튼을 배치해 고정된 벽보다 가벼운 구획을 시도하고, 특정 컬러를 오브제(벽난로)에 집중시켜 공간 전체의 톤을 결정하는 연출을 적용한다.",
+  "context": "슬로베니아 건축계는 주변 지형과 조화를 이루는 외관을 유지하면서도 내부에서 풍경과 색채를 실험하는 경향이 있다. 이는 아나 스코베(Ana Skobe)가 촬영한 슬로베니아의 다른 주거 프로젝트들과도 궤를 같이하며, 자연과 일상의 접점을 독창적인 재료로 풀어내는 흐름을 공유한다.",
+  "findings": [
+   {
+    "text": "사진작가 아나 스코베는 슬로베니아의 주거 건축 프로젝트들을 주로 기록하며 현장의 빛과 재료의 질감을 포착한다.",
+    "s": 1,
+    "quote": "170㎡ 면적의 이 공간은 자연광과 날씨의 변화, 주변 풍경을 일상으로 끌어들이는 데 집중한다."
+   }
+  ],
+  "keywords": [
+   "슬로베니아건축",
+   "알토디자인스튜디오",
+   "컬러블로킹",
+   "공간구획",
+   "모아레"
+  ],
+  "evidence": "Yves Klein blue fireplace holds the centre—exactly the kind of confident move I wish more homeowners would sign off on.",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "주거 공간에서 외관의 절제와 내부의 파격적인 색채 활용을 구체적인 재료와 기법으로 설명하고 있다.",
+  "v": 2,
+  "url": "https://www.yellowtrace.com.au/alto-design-studio-fun-house-slovenian-architecture/",
+  "original_title": "Business on the Outside, Party on the Inside: The Fun House in Kamnik, Slovenia by Alto Design Studio.",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 2492,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-19 11:10",
+  "research": {
+   "entities": [
+    "Alto Design Studio",
+    "Nina Eminagić",
+    "Mirza Eminagić",
+    "Ana Skobe"
+   ],
+   "questions": [
+    "슬로베니아 캄니크에 위치한 Fun House 프로젝트의 전체적인 설계 개념과 인테리어 특징은 무엇인가?",
+    "Alto Design Studio가 지하 공간을 게임룸과 라운지로 탈바꿈시키며 사용한 독창적인 색상과 소재 조합은 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "슬로베니아 라드고나 언덕에 안착한 170㎡ 규모의 휴식처",
+     "url": "https://www.archdaily.com/1185892/house-at-the-top-of-the-hill-skupaj-arhitekti"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 275
+  },
+  "depth_raw": 4,
+  "depth_v": 2
  }
 }
