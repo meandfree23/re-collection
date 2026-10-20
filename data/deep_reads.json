@@ -190330,5 +190330,60 @@
   },
   "depth_raw": 3,
   "depth_v": 2
+ },
+ "archdaily.com/1186877/sage-guangzhou-aranya-store-say-architects": {
+  "title_ko": "광저우 아란야의 휴식처, 세이지 매장의 시적인 일상",
+  "summary_ko": "세이 아키텍츠(say architects)가 설계한 광저우 아란야의 세이지 매장은 도심과 자연이 교차하는 지점에 자리 잡았다. 207제곱미터 규모의 공간은 휴가를 위한 작은 집을 표방하며, 자연스러운 라이프스타일을 반영한 재료와 구조로 일상에 시적인 감각을 더한다.",
+  "lens": "도시의 소음과 산수의 정경 사이에서, 매장을 단순한 판매 공간이 아닌 휴식을 위한 건축적 은신처로 재정의한다.",
+  "why_now": "상업 공간이 소비를 넘어 특정 브랜드의 라이프스타일을 물리적으로 경험하게 만드는 휴양지적 성격을 띠기 시작했다.",
+  "mechanism": "재료와 구조의 직관적인 사용을 통해 공간의 복잡함을 덜어내고, 장면과 경험을 잇는 유희적인 동선을 배치했다.",
+  "sensory": "도심의 번잡함에서 벗어나 호수와 산의 풍경을 끌어들인 고요한 물성과 자연스러운 질감이 공간 전체를 채운다.",
+  "transfer": "공간 내 특정 섹션을 '휴가'라는 테마로 구분해, 시각적 정보량을 줄이고 재료의 질감을 강조하는 조명과 동선을 콘티에 반영할 수 있다.",
+  "context": "세이 아키텍츠는 이번 프로젝트에서 광저우 아란야의 지리적 특성을 반영해 브랜드 세이지 스튜디오의 편안한 정체성을 공간으로 치환했다.",
+  "findings": [],
+  "keywords": [
+   "세이아키텍츠",
+   "광저우아란야",
+   "상업인테리어",
+   "공간디자인"
+  ],
+  "evidence": "Rooted in Aranya Guangzhou's site DNA—'half urban bustle, half lake-and-mountain scenery'—and meeting Sage Studio's natural, relaxed lifestyle ethos, a new context takes shape.",
+  "kind": "프로젝트",
+  "depth": 2,
+  "grounding": "thin",
+  "depth_reason": "공간의 콘셉트와 배경은 명확하나, 구체적인 설계 기법이나 재료의 상세한 운용 방식에 대한 정보가 부족하다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1186877/sage-guangzhou-aranya-store-say-architects",
+  "original_title": "Sage Guangzhou Aranya Store / say architects",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 1258,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-20 14:20",
+  "research": {
+   "entities": [
+    "say architects",
+    "Aranya",
+    "Sage",
+    "Zhang Yan",
+    "Shan Jianan"
+   ],
+   "questions": [
+    "say architects가 추구하는 공간 디자인 철학은 무엇이며, 이번 프로젝트에서 '휴가를 위한 작은 집'이라는 컨셉을 어떻게 구현했는가?",
+    "광저우 아나야(Aranya)라는 장소의 특수성이 Sage 매장의 인테리어 설계에 어떤 영향을 미쳤는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Architects (British band)",
+     "url": "https://en.wikipedia.org/wiki/Architects%20%28British%20band%29"
+    }
+   ],
+   "used": [],
+   "chars": 1400
+  },
+  "depth_raw": 3,
+  "depth_v": 2
  }
 }
