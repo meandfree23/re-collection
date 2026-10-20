@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-10-20 17:15 KST",
+  "generated_at": "2026-10-20 22:04 KST",
   "period": "2026.10.13 - 2026.10.20",
-  "total_articles": 418,
+  "total_articles": 442,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 199
+      "count": 209
     },
     {
       "genre": "동시대 미술",
-      "count": 163
+      "count": 173
     },
     {
       "genre": "아방가르드 패션",
-      "count": 40
+      "count": 43
     },
     {
       "genre": "미디어 파사드·3D",
-      "count": 16
+      "count": 17
     }
   ],
   "themes": [
@@ -150,6 +150,38 @@
       ]
     },
     {
+      "keyword": "박물관·전시",
+      "count": 37,
+      "previous_count": 37,
+      "trend": "steady",
+      "items": [
+        {
+          "title": "파리 학생들의 루브르 박물관 폐쇄",
+          "url": "https://hyperallergic.com/paris-students-shut-down-the-louvre/",
+          "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/10/Screenshot-2026-10-19-at-10.30.40---AM.jpg",
+          "source_name": "Hyperallergic"
+        },
+        {
+          "title": "데이비드 치퍼필드 아키텍츠 (David Chipperfield Architects) 는 독일에서 단 하나의 예술 작품을 중심으로 콘크리트 갤러리를 건설합니다",
+          "url": "https://www.dezeen.com/2026/10/20/anselm-kiefer-pavilion-david-chipperfield-architects-germany/",
+          "image_url": "https://static.dezeen.com/uploads/2026/10/anselm-kiefer-pavilion-david-chipperfield-architects_dezeen_2364_sq_0-852x852.jpg",
+          "source_name": "Dezeen"
+        },
+        {
+          "title": "디자인 아카데미 아인트호벤 학생들은 과밀 시설에 항의합니다",
+          "url": "https://www.dezeen.com/2026/10/20/design-academy-eindhoven-student-protests-overcrowding/",
+          "image_url": "https://static.dezeen.com/uploads/2026/10/design-academy-eindhoven-student-protest-2026_dezeen_2364_sq-852x852.jpg",
+          "source_name": "Dezeen"
+        },
+        {
+          "title": "2027 베니스 건축 비엔날레에서 \"이화주의\" 를 통해 도시 축소를 탐험하는 한국관",
+          "url": "https://www.archdaily.com/1187154/the-korean-pavilion-to-explore-urban-shrinkage-through-catabolism-at-the-2027-venice-architecture-biennale",
+          "image_url": "https://images.adsttc.com/media/images/6ad6/be95/8008/f401/8ba5/46b3/large_jpg/the-korean-pavilion-to-explore-urban-shrinkage-through-catabolism-at-the-2027-venice-architecture-biennale_7.jpg?1792458414",
+          "source_name": "ArchDaily"
+        }
+      ]
+    },
+    {
       "keyword": "빛과 조명",
       "count": 10,
       "previous_count": 9,
@@ -180,42 +212,11 @@
           "source_name": "Designboom Art"
         }
       ]
-    },
-    {
-      "keyword": "리노베이션·재생",
-      "count": 5,
-      "previous_count": 6,
-      "trend": "steady",
-      "items": [
-        {
-          "title": "여름철 패스 하우스/지에오 건축물 투어",
-          "url": "https://www.archdaily.com/1186687/the-summer-path-house-gieo-architecture",
-          "image_url": "https://images.adsttc.com/media/images/6acc/b94b/b2c4/c300/0178/e9ab/large_jpg/The_Summer_Path_5.jpg?1791801713",
-          "source_name": "ArchDaily"
-        },
-        {
-          "title": "베이징 1733 ByteDance 상업 프로젝트/XU 스튜디오",
-          "url": "https://www.archdaily.com/1186852/beijing-1733-bytedance-commercial-project-xu-studio",
-          "image_url": "https://images.adsttc.com/media/images/6acf/d694/7887/fb3b/1182/d652/large_jpg/beijing-1733-bytedance-commercial-project-xu-studio_15.jpg?1792005800",
-          "source_name": "ArchDaily"
-        },
-        {
-          "title": "루비오이갈리",
-          "url": "https://leibal.com/interiors/rubio-y-gali/",
-          "image_url": "https://leibal.com/wp-content/uploads/2026/10/leibal_rubio-y-gali_de-la-villa-studio_16.jpg",
-          "source_name": "Leibal"
-        },
-        {
-          "title": "TAFA 아트 블록/믹스 아키텍처의 핵심 영역 개조",
-          "url": "https://www.archdaily.com/1186609/renovation-of-the-core-area-of-tafa-art-block-mix-architecture",
-          "image_url": "https://images.adsttc.com/media/images/6ac8/958c/7887/fb21/1c77/dbea/large_jpg/renovation-of-the-core-area-of-tafa-art-block-mix-architecture_50.jpg?1791530410",
-          "source_name": "ArchDaily"
-        }
-      ]
     }
   ],
   "notable_names": [
     "Frieze London",
+    "David Chipperfield Architects",
     "RIBA International Prize",
     "Stirling Prize",
     "RIBA Stirling Prize",
