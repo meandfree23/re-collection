@@ -190271,5 +190271,64 @@
   },
   "depth_raw": 4,
   "depth_v": 2
+ },
+ "archdaily.com/1187114/anja-house-ihouse-estudio": {
+  "title_ko": "우루과이 라 바라의 소나무 숲, 풍경을 시작점으로 삼은 안야 하우스",
+  "summary_ko": "우루과이 푼타 델 에스테의 라 바라 소나무 숲에 위치한 안야 하우스는 가족을 위한 휴양지로 설계되었다. 아이하우스 에스튜디오(iHouse estudio)는 기존 식생을 제약이 아닌 설계의 출발점으로 삼아 자연과 직접적인 관계를 맺는 158제곱미터 규모의 주거 공간을 완성했다.",
+  "lens": "건축을 풍경 위에 얹는 것이 아니라, 숲의 밀도와 수직적 리듬을 내부 공간의 구성 원리로 삼아 대지를 건축의 일부로 편입한다.",
+  "why_now": "자연을 보존 대상으로만 보던 관점에서 벗어나, 기존 식생을 공간의 레이아웃을 결정하는 능동적인 요소로 활용하는 방식이 강조된다.",
+  "mechanism": "대지의 소나무 위치를 기준으로 건물을 배치하여 외부 풍경이 실내의 벽면이자 창의 프레임이 되도록 설계했다.",
+  "sensory": "소나무 숲의 거친 질감과 대비되는 매끄러운 실스톤(SILESTONE) 마감, 숲 사이로 쏟아지는 빛의 산란이 실내 공간에 고요한 리듬을 만든다.",
+  "transfer": "영상 촬영 시 숲의 수직적 라인을 프레임의 분할선으로 활용하여, 내부와 외부의 경계를 지우는 롱 테이크 샷을 구성할 수 있다.",
+  "context": "아이하우스 에스튜디오는 우루과이의 자연 지형을 건축적 맥락으로 치환하는 작업을 이어오고 있다. 비비아(Vibia) 조명과 같은 정밀한 마감재를 사용하여 자연의 원시성과 현대적 주거의 세련미를 동시에 구현했다.",
+  "findings": [],
+  "keywords": [
+   "소나무숲",
+   "휴양지건축",
+   "우루과이",
+   "풍경건축"
+  ],
+  "evidence": "treating the existing vegetation not as a constraint but as the starting point for the project.",
+  "kind": "프로젝트",
+  "depth": 2,
+  "grounding": "thin",
+  "depth_reason": "건축적 장치에 대한 설명이 다소 일반적이며 구체적인 공간 구성의 디테일이 부족하다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1187114/anja-house-ihouse-estudio",
+  "original_title": "Anja House / iHouse estudio",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 1095,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-20 11:21",
+  "research": {
+   "entities": [
+    "iHouse estudio",
+    "Vibia",
+    "SILESTONE"
+   ],
+   "questions": [
+    "iHouse estudio가 추구하는 건축 철학은 무엇이며, 이번 프로젝트에서 자연환경을 어떻게 건축물에 녹여냈는가?",
+    "우루과이 푼타델에스테 지역의 기후와 지형적 특성이 Casa Anja의 설계와 자재 선택에 어떤 영향을 미쳤는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Vibia Sabina",
+     "url": "https://en.wikipedia.org/wiki/Vibia%20Sabina"
+    },
+    {
+     "n": 2,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "신트라의 소나무 숲과 포도밭 사이에 스며든 주거 리노베이션",
+     "url": "https://www.archdaily.com/1187054/colares-sintra-house-sabrab"
+    }
+   ],
+   "used": [],
+   "chars": 496
+  },
+  "depth_raw": 3,
+  "depth_v": 2
  }
 }
