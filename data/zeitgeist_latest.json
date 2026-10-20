@@ -1,94 +1,30 @@
 {
-  "generated_at": "2026-10-20 23:01 KST",
-  "period": "2026.10.13 - 2026.10.20",
-  "total_articles": 453,
+  "generated_at": "2026-10-21 02:43 KST",
+  "period": "2026.10.14 - 2026.10.21",
+  "total_articles": 369,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 214
+      "count": 172
     },
     {
       "genre": "동시대 미술",
-      "count": 177
+      "count": 146
     },
     {
       "genre": "아방가르드 패션",
-      "count": 45
+      "count": 40
     },
     {
       "genre": "미디어 파사드·3D",
-      "count": 17
+      "count": 11
     }
   ],
   "themes": [
     {
-      "keyword": "사진",
-      "count": 14,
-      "previous_count": 12,
-      "trend": "rising",
-      "items": [
-        {
-          "title": "사진작가 스포트라이트: 패트릭 드윗",
-          "url": "https://www.booooooom.com/2026/10/19/photographer-spotlight-patrick-dewitt/",
-          "image_url": "https://cdn.booooooom.com/wp-content/uploads/2026/09/PATRICK_DEWITT_01.jpg",
-          "source_name": "BOOOOOOOM"
-        },
-        {
-          "title": "스마일스 마이어 퀴어 \"최후의 만찬\"",
-          "url": "https://hyperallergic.com/smiles-meyer-queers-the-last-supper/",
-          "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/10/27QLS.jpg",
-          "source_name": "Hyperallergic"
-        },
-        {
-          "title": "새 책 클럽랜드에는 애시드 하우스에서 슈퍼클럽 시대에 이르기까지 35년간의 열광적인 문화가 기록되어 있습니다.",
-          "url": "https://www.creativeboom.com/books/mark-mcnultys-in-clubland-documents-35-years-of-rave-culture-from-acid-house-to-the-age-of-the-superclub/",
-          "image_url": "https://media.creativeboom.com/313034d5-f612-4f32-92a9-02ae1018f635/conversions/bb2d61d76627c61ca30279e9c3cd0c8d488731f8-medium.webp",
-          "source_name": "Creative Boom"
-        },
-        {
-          "title": "사진작가 패트리샤 레예스의 '대서양의 황혼'",
-          "url": "https://www.booooooom.com/2026/10/16/atlantic-ocean-twilight-by-photographer-patricia-reyes/",
-          "image_url": "https://cdn.booooooom.com/wp-content/uploads/2026/09/Patricia_Reyes_01.jpg",
-          "source_name": "BOOOOOOOM"
-        }
-      ]
-    },
-    {
-      "keyword": "목재 건축",
-      "count": 13,
-      "previous_count": 8,
-      "trend": "rising",
-      "items": [
-        {
-          "title": "그레이엄 바바 (Graham Baba) 의 골프 클럽하우스는 워싱턴 시골의 농장 구조물에 고개를 끄덕입니다.",
-          "url": "https://www.dezeen.com/2026/10/19/golf-clubhouse-graham-baba-washington-architects/",
-          "image_url": "https://static.dezeen.com/uploads/2026/10/westwood-gold-clubhouse-california-graham-baba-architects-sq_dezeen_2364_col_0-852x852.jpg",
-          "source_name": "Dezeen"
-        },
-        {
-          "title": "하우스오브월포레스트",
-          "url": "https://leibal.com/interiors/house-of-wall-forest/",
-          "image_url": "https://leibal.com/wp-content/uploads/2026/09/leibal-house-of-wall-forest-igarachitects-7.jpg",
-          "source_name": "Leibal"
-        },
-        {
-          "title": "V 펜트하우스",
-          "url": "https://leibal.com/interiors/v-penthouse/",
-          "image_url": "https://leibal.com/wp-content/uploads/2026/09/leibal-v-penthouse-merckx-holvoet-4.jpg",
-          "source_name": "Leibal"
-        },
-        {
-          "title": "빨간색으로 표시된 7개의 눈에 띄는 건물",
-          "url": "https://www.dezeen.com/2026/10/18/seven-red-buildings-roundup/",
-          "image_url": "https://static.dezeen.com/uploads/2026/10/red-buildings-roundup_dezeen_2364_col_2-852x852.jpg",
-          "source_name": "Dezeen"
-        }
-      ]
-    },
-    {
       "keyword": "텍스타일·직물",
-      "count": 6,
-      "previous_count": 2,
+      "count": 5,
+      "previous_count": 3,
       "trend": "rising",
       "items": [
         {
@@ -119,8 +55,8 @@
     },
     {
       "keyword": "미니멀리즘",
-      "count": 6,
-      "previous_count": 2,
+      "count": 5,
+      "previous_count": 3,
       "trend": "rising",
       "items": [
         {
@@ -150,79 +86,142 @@
       ]
     },
     {
-      "keyword": "박물관·전시",
-      "count": 38,
-      "previous_count": 37,
+      "keyword": "목재 건축",
+      "count": 11,
+      "previous_count": 10,
       "trend": "steady",
       "items": [
         {
-          "title": "“건축은 본질로 돌아가야 한다”: 2027년 베니스 건축 비엔날레의 왕슈와 루웬유",
-          "url": "https://www.archdaily.com/1187187/architecture-must-return-to-its-essence-wang-shu-and-lu-wenyu-on-the-2027-venice-architecture-biennale",
-          "image_url": "https://images.adsttc.com/media/images/6ad7/3e5a/8008/f401/8ba5/48bd/large_jpg/architecture-must-return-to-its-essence-wang-shu-and-lu-wenyu-on-the-2027-venice-architecture-biennale_8.jpg?1792491114",
+          "title": "목재 혁신 서밋: 산업화된 목재, 건축 및 건설의 혁신",
+          "url": "https://www.archdaily.com/1187229/wood-innovation-summit-innovation-in-industrialized-timber-architecture-and-construction",
+          "image_url": "https://images.adsttc.com/media/images/6ad7/781b/aadf/a000/01e3/b88e/large_jpg/Flyer_Wood-Innovation-Summit.jpg?1792505890",
           "source_name": "ArchDaily"
         },
         {
-          "title": "파리 학생들의 루브르 박물관 폐쇄",
-          "url": "https://hyperallergic.com/paris-students-shut-down-the-louvre/",
-          "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/10/Screenshot-2026-10-19-at-10.30.40---AM.jpg",
-          "source_name": "Hyperallergic"
-        },
-        {
-          "title": "데이비드 치퍼필드 아키텍츠 (David Chipperfield Architects) 는 독일에서 단 하나의 예술 작품을 중심으로 콘크리트 갤러리를 건설합니다",
-          "url": "https://www.dezeen.com/2026/10/20/anselm-kiefer-pavilion-david-chipperfield-architects-germany/",
-          "image_url": "https://static.dezeen.com/uploads/2026/10/anselm-kiefer-pavilion-david-chipperfield-architects_dezeen_2364_sq_0-852x852.jpg",
+          "title": "그레이엄 바바 (Graham Baba) 의 골프 클럽하우스는 워싱턴 시골의 농장 구조물에 고개를 끄덕입니다.",
+          "url": "https://www.dezeen.com/2026/10/19/golf-clubhouse-graham-baba-washington-architects/",
+          "image_url": "https://static.dezeen.com/uploads/2026/10/westwood-gold-clubhouse-california-graham-baba-architects-sq_dezeen_2364_col_0-852x852.jpg",
           "source_name": "Dezeen"
         },
         {
-          "title": "디자인 아카데미 아인트호벤 학생들은 과밀 시설에 항의합니다",
-          "url": "https://www.dezeen.com/2026/10/20/design-academy-eindhoven-student-protests-overcrowding/",
-          "image_url": "https://static.dezeen.com/uploads/2026/10/design-academy-eindhoven-student-protest-2026_dezeen_2364_sq-852x852.jpg",
-          "source_name": "Dezeen"
+          "title": "하우스오브월포레스트",
+          "url": "https://leibal.com/interiors/house-of-wall-forest/",
+          "image_url": "https://leibal.com/wp-content/uploads/2026/09/leibal-house-of-wall-forest-igarachitects-7.jpg",
+          "source_name": "Leibal"
+        },
+        {
+          "title": "V 펜트하우스",
+          "url": "https://leibal.com/interiors/v-penthouse/",
+          "image_url": "https://leibal.com/wp-content/uploads/2026/09/leibal-v-penthouse-merckx-holvoet-4.jpg",
+          "source_name": "Leibal"
         }
       ]
     },
     {
-      "keyword": "가구 디자인",
-      "count": 13,
-      "previous_count": 14,
+      "keyword": "빛과 조명",
+      "count": 8,
+      "previous_count": 9,
       "trend": "steady",
       "items": [
         {
-          "title": "Davis Furniture Debuts Faba by Mario Ferrarini",
-          "url": "https://design-milk.com/davis-furniture-debuts-faba-by-mario-ferrarini/",
-          "image_url": "https://design-milk.com/images/2026/09/Brief_Faba_6.jpg",
-          "source_name": "Design Milk"
+          "title": "추상적 명료성: 일로, 에버퓨어 x 블룸버그 TV 조명",
+          "url": "https://www.stashmedia.tv/abstract-clarity-illo-illuminates-everpure-x-bloomberg-tv/",
+          "image_url": "http://www.stashmedia.tv/wp-content/uploads/Everpure-x-Bloomberg-TV-brand-films-by-Illo-STASH-MAGAZINE3-1920x1080.jpg",
+          "source_name": "Stash Media"
         },
         {
-          "title": "현대적인 렌즈를 통해 셰이커 디자인 클래식을 재해석하는 LA 스튜디오를 만나보세요",
-          "url": "https://www.wallpaper.com/design-interiors/joshi-greene-los-angeles-designers",
-          "image_url": "https://cdn.mos.cms.futurecdn.net/rj4fxeyXqq7oGd2KPTvPf-1920-80.png",
+          "title": "‘아이올루스‘ 에서 드리프트는 조명을 받은 유리 막대를 바람의 조각에 매달아 놓습니다.",
+          "url": "https://www.thisiscolossal.com/2026/10/aeolus-studio-drift-light-glass-installation/",
+          "image_url": "https://www.thisiscolossal.com/wp-content/uploads/2026/10/drift-2.gif",
+          "source_name": "This Is Colossal"
+        },
+        {
+          "title": "푸른빛과 금빛의 방콕 카페 인테리어를 알려주는 태국 전통 등불",
+          "url": "https://www.dezeen.com/2026/10/19/traditional-thai-lanterns-bangkok-cafe-interior/",
+          "image_url": "https://static.dezeen.com/uploads/2026/10/blue-bottle-coffee-cafe-bangkok-i-in_dezeen_2364_col_sq2-852x852.jpg",
+          "source_name": "Dezeen"
+        },
+        {
+          "title": "j 'ai vu: 제니 홀저 (jenny holzer) 의 기념비적인 빛 투영이 파리의 오르세 미술관을 변화시킨다.",
+          "url": "https://www.designboom.com/art/jenny-holzer-musee-dorsay-paris-monumental-light-projections-engraved-stone-exhibition-jai-vu/",
+          "image_url": "https://www.designboom.com/wp-content/uploads/2026/10/jenny-holzer-musee-dorsay-paris-monumental-light-projections-engraved-stone-exhibition-jai-vu-designboom-3.2323.jpg",
+          "source_name": "Designboom Art"
+        }
+      ]
+    },
+    {
+      "keyword": "리노베이션·재생",
+      "count": 5,
+      "previous_count": 6,
+      "trend": "steady",
+      "items": [
+        {
+          "title": "여름철 패스 하우스/지에오 건축물 투어",
+          "url": "https://www.archdaily.com/1186687/the-summer-path-house-gieo-architecture",
+          "image_url": "https://images.adsttc.com/media/images/6acc/b94b/b2c4/c300/0178/e9ab/large_jpg/The_Summer_Path_5.jpg?1791801713",
+          "source_name": "ArchDaily"
+        },
+        {
+          "title": "베이징 1733 ByteDance 상업 프로젝트/XU 스튜디오",
+          "url": "https://www.archdaily.com/1186852/beijing-1733-bytedance-commercial-project-xu-studio",
+          "image_url": "https://images.adsttc.com/media/images/6acf/d694/7887/fb3b/1182/d652/large_jpg/beijing-1733-bytedance-commercial-project-xu-studio_15.jpg?1792005800",
+          "source_name": "ArchDaily"
+        },
+        {
+          "title": "루비오이갈리",
+          "url": "https://leibal.com/interiors/rubio-y-gali/",
+          "image_url": "https://leibal.com/wp-content/uploads/2026/10/leibal_rubio-y-gali_de-la-villa-studio_16.jpg",
+          "source_name": "Leibal"
+        },
+        {
+          "title": "TAFA 아트 블록/믹스 아키텍처의 핵심 영역 개조",
+          "url": "https://www.archdaily.com/1186609/renovation-of-the-core-area-of-tafa-art-block-mix-architecture",
+          "image_url": "https://images.adsttc.com/media/images/6ac8/958c/7887/fb21/1c77/dbea/large_jpg/renovation-of-the-core-area-of-tafa-art-block-mix-architecture_50.jpg?1791530410",
+          "source_name": "ArchDaily"
+        }
+      ]
+    },
+    {
+      "keyword": "설치 미술",
+      "count": 4,
+      "previous_count": 5,
+      "trend": "steady",
+      "items": [
+        {
+          "title": "샌드백 캐슬은 아인트호벤의 수상 설치에 지속 가능한 콘크리트 대안을 제시합니다.",
+          "url": "https://www.designboom.com/art/sandbag-castle-sustainable-concrete-alternatives-floating-installation-eindhoven-yvonne-mak/",
+          "image_url": "https://www.designboom.com/wp-content/dbsub/469180/2026-10-16/sandbag-castle-7-6ad23c2b501a7.jpg",
+          "source_name": "Designboom Art"
+        },
+        {
+          "title": "Tašbik Installation / Wesam Al Asali",
+          "url": "https://www.archdaily.com/1186763/tasbik-wesam-al-asali",
+          "image_url": "https://images.adsttc.com/media/images/6ace/9565/b2c4/c300/0178/ee72/large_jpg/7-Wesam_Al_Asali_Tas_bik20260930_003_Saifuldeen_Fayez.jpg?1791923617",
+          "source_name": "ArchDaily"
+        },
+        {
+          "title": "소음의 예술과 소리의 형태: 오디오 설치의 새로운 세계",
+          "url": "https://www.wallpaper.com/tech/new-world-of-audio-installations",
+          "image_url": "https://cdn.mos.cms.futurecdn.net/fptCF9PCNQyRL9YazquVD3-1920-80.jpg",
           "source_name": "Wallpaper*"
         },
         {
-          "title": "Frieze London에서 선보이는 최고의 가구",
-          "url": "https://www.wallpaper.com/design-interiors/interior-design/furniture/furniture-at-frieze-london-2026",
-          "image_url": "https://cdn.mos.cms.futurecdn.net/4ky8h4rbSZRpGkcVAQdA5B-1920-80.jpg",
-          "source_name": "Wallpaper*"
-        },
-        {
-          "title": "Baird Architects, 스튜디오의 \"자연스러운 확장\" 으로 첫 번째 가구 컬렉션 출시",
-          "url": "https://www.dezeen.com/2026/10/16/baird-architects-first-furniture-line-ba-objeto/",
-          "image_url": "https://static.dezeen.com/uploads/2026/10/baird-architects-ba-objeto-collection_dezeen_2364_sq-1-852x852.jpg",
+          "title": "베나즈 파라히 (Behnaz Farahi) 는 MIT 퓨처 페스트 (Future Fest) 를 위해 오션 오브 드림",
+          "url": "https://www.dezeen.com/2026/10/14/behnaz-farahi-ocean-of-dreams-mit/",
+          "image_url": "https://static.dezeen.com/uploads/2026/10/farahi-mit-media-lab-ocean-of-dreams-installation_dezeen_2364_sq-852x852.jpg",
           "source_name": "Dezeen"
         }
       ]
     }
   ],
   "notable_names": [
-    "Frieze London",
     "Venice Architecture Biennale",
     "David Chipperfield Architects",
     "RIBA International Prize",
     "Stirling Prize",
+    "Frieze London",
     "RIBA Stirling Prize",
     "Swizz Beatz",
-    "Quil Lemons",
     "Benjamin Moore"
   ],
   "has_comparison": true

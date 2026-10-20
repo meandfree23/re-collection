@@ -2370,5 +2370,48 @@
   "v": 3,
   "model": "gemini-3.1-flash-lite",
   "written_at": "2026-10-20 09:42"
+ },
+ "2026-10-21": {
+  "date": "2026-10-21",
+  "headline": "16mm 필름의 거친 입자와 습지 위에 세운 금속 파동",
+  "editorial": "프레드 캠퍼가 16mm 필름에 담은 1976년 뉴욕의 우울은 물리적 입자를 통해 시간을 붙잡는다. 데사이 치아 아키텍처는 습지의 유기적인 파동을 금속이라는 차가운 질료로 고정하며 자연과 인공의 접점을 찾는다. 루카스 트바르코프스키의 무대 위 실시간 촬영은 관객을 피사체로 변환하여 매개된 이미지가 실재를 잠식하는 과정을 드러낸다. 이들은 고정되지 않는 순간을 각자의 방식으로 단단한 구조물이나 매체 속에 가두어 증명한다.",
+  "threads": [
+   {
+    "name": "찰나를 붙잡는 물리적 장치",
+    "note": "사라지기 쉬운 시간과 현상을 필름과 조형물, 촬영 시스템으로 붙잡아 둔다.",
+    "items": [
+     {
+      "title": "1976년의 뉴욕, 프레드 캠퍼가 기록한 파편적 우울과 16mm의 질감",
+      "url": "https://hyperallergic.com/to-be-alone-with-your-thoughts-in-70s-new-york/"
+     },
+     {
+      "title": "루카스 트바르코프스키, 연극과 영화를 실시간으로 결합한 몰입형 시각 장치",
+      "url": "https://www.designboom.com/art/lukasz-twarkowski-theater-stage-live-cinematic-spectacle-onassis-stegi-oracle/"
+     },
+     {
+      "title": "데사이 치아 아키텍처가 채텀 습지에 세운 물의 파동을 닮은 관찰대",
+      "url": "https://www.dezeen.com/2026/10/20/wildlife-pavilion-desai-chia-architecture-new-york/"
+     }
+    ]
+   },
+   {
+    "name": "효율을 거부하는 비정형의 구축",
+    "note": "자본주의의 규격을 벗어난 연약하고 부식되는 재료로 새로운 구조를 세운다.",
+    "items": [
+     {
+      "title": "이본 마크의 '샌드백 캐슬', 저탄소 콘크리트 실험장으로 변모한 수상 요새",
+      "url": "https://www.designboom.com/art/sandbag-castle-sustainable-concrete-alternatives-floating-installation-eindhoven-yvonne-mak/"
+     },
+     {
+      "title": "케이트 잠브레노의 소설 '폼(Foam)': 자본주의의 폐허 위에서 쓴 연약한 기록",
+      "url": "https://www.anothermag.com/design-living/17580/kate-zambreno-foam-interview-semiotexte-books-in-focus?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=the-gentle-horror-of-kate-zambreno-s-foam"
+     }
+    ]
+   }
+  ],
+  "based_on": 14,
+  "v": 3,
+  "model": "gemini-3.1-flash-lite",
+  "written_at": "2026-10-21 02:48"
  }
 }
