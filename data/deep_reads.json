@@ -192857,5 +192857,832 @@
   },
   "depth_raw": 3,
   "depth_v": 2
+ },
+ "design-milk.com/davis-furniture-debuts-faba-by-mario-ferrarini": {
+  "title_ko": "공간의 배경으로 물러서는 모듈형 라운지, 파바",
+  "summary_ko": "마리오 페라리니가 디자인하고 데이비스 퍼니처가 선보인 파바 모듈라 라운지는 플랫폼과 쿠션을 조합해 벤치부터 대형 섹셔널 소파까지 구성하는 시스템이다. 철제 보강 MDF 플랫폼과 다이캐스트 알루미늄 다리를 적용해 개방형 사무실이나 로비에서 유연한 공간 구획을 지원한다.",
+  "lens": "가구를 시각적 초점이 아닌 주변 건축과 사물을 받치는 구조적 토대로 다룬다.",
+  "why_now": "시각적 소음을 줄인 미니멀한 공간에서 가구 자체가 주인공이 되기보다 주변 환경과 재료의 물성을 온전히 드러내는 방식이 주목받는다.",
+  "mechanism": "내부 강철 지지대로 보강된 MDF 플랫폼 위에 우레탄 폼 쿠션과 단단한 상판을 교차 배치해 테이블과 좌석 기능을 하나의 선상에 통합한다.",
+  "sensory": "직선적인 플랫폼 구조와 곡선의 알루미늄 다리가 대비를 이루며, 재봉선 없는 매끄러운 목재 베니어와 패브릭의 질감이 차분한 촉감을 만든다.",
+  "transfer": "오픈 스페이스나 로비 신을 촬영할 때, 백투백으로 배치한 라운지 가구의 플랫폼 사이에 전력 모듈과 숨겨진 트레이를 배치해 배선 노출 없는 깔끔한 미장센을 구성한다.",
+  "context": "밀라노 폴리테크니코 대학에서 산업디자인을 전공한 마리오 페라리니는 2007년 스튜디오를 설립한 뒤 리빙 디바니, 폴트로나 프라우 등 유수의 가구 브랜드와 협업하며 절제된 형태의 제품을 선보여왔다.",
+  "findings": [
+   {
+    "text": "마리오 페라리니는 밀라노 폴리테크니코 대학에서 산업디자인 학위를 받고 졸업했다.",
+    "s": 2,
+    "quote": "After graduating from the Politecnico University of Milan with a degree in Industrial Design"
+   },
+   {
+    "text": "마리오 페라리니는 2007년 이탈리아 코모에 이어 스위스 루가노에 자신의 스튜디오를 설립했다.",
+    "s": 2,
+    "quote": "Ferrarini established his own studio in 2007, first in Como, Italy and then in Lugano, Switzerland."
+   }
+  ],
+  "keywords": [
+   "모듈러소파",
+   "마리오페라리니",
+   "데이비스퍼니처",
+   "오피스인테리어"
+  ],
+  "evidence": "Faba Modular Lounge begins as a foundation for flexible configurations shaped by the needs of each space.",
+  "kind": "제품·오브제",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "모듈러 시스템의 구조와 재료적 특징이 명확하지만, 범용적인 가구 소개 수준에 머문다.",
+  "v": 2,
+  "url": "https://design-milk.com/davis-furniture-debuts-faba-by-mario-ferrarini/",
+  "original_title": "Davis Furniture Debuts Faba by Mario Ferrarini",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 6483,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-20 23:02",
+  "research": {
+   "entities": [
+    "Davis Furniture",
+    "Mario Ferrarini",
+    "Faba Modular Lounge"
+   ],
+   "questions": [
+    "마리오 페라리니가 디자인한 Faba Modular Lounge의 모듈형 구조와 소재의 특징은 무엇인가요?",
+    "Davis Furniture와 마리오 페라리니의 협업 과정에서 추구한 디자인 철학은 무엇인가요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Faba Lounge | Davis Furniture",
+     "url": "https://www.davisfurniture.com/products/faba-lounge"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Mario Ferrarini  |  Lugano, Switzerland",
+     "url": "https://www.davisfurniture.com/designers/mario-ferrarini"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 1270
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "archdaily.com/1187056/inherited-ground-designing-houses-on-contaminated-land": {
+  "title_ko": "산업 유산의 흔적을 딛고: 오염된 토지 위의 주거 설계 전략",
+  "summary_ko": "산업 활동이 종료된 후에도 토양에 남은 오염 물질은 주거 개발의 중요한 변수가 된다. 건축가는 부지의 오염 정도를 파악해 기초 공사 전 정화 작업을 수행하며, 이 과정에서 발생하는 비용과 기술적 개입은 최종적인 건축 형태와 설계 방향을 결정짓는 핵심 요소로 작용한다.",
+  "lens": "토양 정화라는 보이지 않는 엔지니어링이 어떻게 물리적인 주거 공간의 기초와 형태를 강제하는지 관찰한다.",
+  "why_now": "산업 지구의 주거지 전환이 가속화되면서, 토양의 과거를 지우는 방식이 건축의 새로운 설계 문법이 되고 있다.",
+  "mechanism": "토양 오염도에 따라 기초 공법과 굴착 깊이가 결정되며, 정화 비용은 건축물의 규모와 밀도를 조절하는 경제적 지표로 작동한다.",
+  "sensory": "완공 후에는 지표면 아래로 사라지는 정화 공정의 흔적과, 오염을 걷어낸 자리에 새로 안착하는 주거의 단단한 질감을 대비시킨다.",
+  "transfer": "부지의 과거 산업 데이터를 레이어로 시각화하여, 지하 기초 설계 단계에서 오염 정화 구역을 디자인 요소로 활용하는 동선을 제안한다.",
+  "context": "본문은 산업 유산이 남긴 물리적 환경의 제약이 건축 설계의 시작점이 되는 과정을 다룬다.",
+  "findings": [],
+  "keywords": [
+   "토양정화",
+   "산업유산",
+   "부지설계",
+   "지반공학"
+  ],
+  "evidence": "The extent of contamination affects what must happen before construction begins, while the cost of preparing the land can influence the development itself.",
+  "kind": "프로젝트",
+  "depth": 2,
+  "grounding": "thin",
+  "depth_reason": "오염된 부지 개발의 일반적인 설계 제약 조건을 설명하나 구체적인 사례나 기술적 디테일이 부족하다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1187056/inherited-ground-designing-houses-on-contaminated-land",
+  "original_title": "Inherited Ground: Designing Houses on Contaminated Land",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 1147,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-20 23:02",
+  "research": {
+   "entities": [],
+   "questions": [
+    "오염된 부지 위에 주택을 건설할 때 주로 사용되는 정화 공법에는 어떤 것들이 있는가?",
+    "산업 폐기물로 오염된 토지를 주거용으로 전환할 때 법적으로 요구되는 안전 기준은 무엇인가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "archdaily.com/1185893/how-much-information-does-a-bim-model-really-need": {
+  "title_ko": "BIM 모델의 정보 과부하를 막는 린 BIM(leanBIM) 전략",
+  "summary_ko": "슈투트가르트의 건축사무소 쿠부스360(KUBUS360)은 바덴뷔르템베르크의 행정 복합시설 설계 과정에서 정보요구수준(LOIN) 매트릭스를 활용해 BIM 모델의 데이터 효율을 최적화했다. 이들은 프로젝트 단계별로 필요한 데이터만 입력하고 4개의 중앙 데이터베이스로 관리하여 모델의 무게를 줄이고 협업의 명확성을 높였다.",
+  "lens": "BIM 모델은 정보의 저장소가 아니라 의사결정을 위한 도구이며, 모델의 가치는 담긴 데이터의 양이 아닌 적시에 활용 가능한 정보의 정합성에서 결정된다.",
+  "why_now": "건축 설계의 디지털화가 가속화되면서 모델 내 정보 과부하로 인한 관리 효율 저하가 실무의 난제로 떠올랐기 때문이다.",
+  "mechanism": "벡터웍스 아키텍트(Vectorworks Architect)의 데이터 관리자를 통해 객체의 속성을 중앙 데이터베이스와 연동하고, 시각화 도구로 데이터 불일치를 즉각 확인하여 모델의 데이터 무결성을 유지한다.",
+  "sensory": "복잡한 수치와 텍스트로 가득 찬 모델 대신, 데이터 시각화를 통해 내화 등급이나 구조적 오류가 색상 코드로 직관적으로 드러나는 시각적 명료함을 제공한다.",
+  "transfer": "설계 초기 단계부터 정보요구수준(LOIN)을 정의하고, 특정 요소의 속성을 클래스 기반으로 일괄 제어하여 복잡한 형상 설계와 데이터 관리를 분리하는 워크플로우를 도입한다.",
+  "context": "쿠부스360은 건축가, 엔지니어, 프로젝트 관리자를 아우르는 다학제적 팀을 구성하여 기획부터 유지관리까지 생애주기 전반을 다루는 전면 책임 설계(General Planning)를 수행한다. 이들은 빌딩스마트(buildingSMART)가 정의한 산업 파운데이션 클래스(IFC) 표준을 바탕으로 BIM 프로세스를 체계화한다.",
+  "findings": [
+   {
+    "text": "쿠부스360은 건축가, 엔지니어, 프로젝트 관리자, 경영 전문가로 구성된 팀을 통해 프로젝트를 통합 관리한다.",
+    "s": 1,
+    "quote": "Aus unserem Kompetenzpool aus Architekten, Ingenieuren, Projektsteuerern und Betriebswirten stellen wir ein auf jedes Projekt individuell zugeschnittenes Team zusammen"
+   },
+   {
+    "text": "빌딩스마트가 개발한 산업 파운데이션 클래스(IFC)는 2013년 ISO 16739 국제 표준으로 채택되었다.",
+    "s": 3,
+    "quote": "Industry Foundation Classes (IFCs) data structures for representing information – became an international standard, ISO 16739, in 2013"
+   }
+  ],
+  "keywords": [
+   "BIM",
+   "린BIM",
+   "데이터관리",
+   "워크플로우"
+  ],
+  "evidence": "We primarily aimed to incorporate only the information that would be evaluated later into the model.",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "BIM 모델의 정보 최적화라는 실무적 난제를 LOIN 매트릭스와 데이터베이스 연동이라는 구체적 기술 전략으로 해결한 사례를 보여준다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1185893/how-much-information-does-a-bim-model-really-need",
+  "original_title": "How Much Information Does a BIM Model Really Need?",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 6942,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-20 23:02",
+  "research": {
+   "entities": [
+    "KUBUS360",
+    "Vectorworks Architect",
+    "Bianca Hirner",
+    "Freddy Hartmann",
+    "Building Information Modeling"
+   ],
+   "questions": [
+    "건축 프로젝트에서 정보요구수준(LOIN)을 단계별로 정의하는 것이 실제 모델 관리와 협업 효율성에 어떤 구체적인 이점을 제공하는가?",
+    "데이터베이스 기반의 BIM 관리 방식이 기존의 파편화된 데이터 입력 방식과 비교하여 유지관리에 어떠한 차별점을 만드는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Kubus360 - Kubus 360 | Architekturbüro Stuttgart",
+     "url": "https://kubus360.de/?utm_medium=website&utm_source=archdaily.com"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "3D Design Software for BIM CAD & Modeling | Vectorworks",
+     "url": "https://www.vectorworks.net/en-US?utm_medium=website&utm_source=archdaily.com"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Building information modeling",
+     "url": "https://en.wikipedia.org/wiki/Building%20information%20modeling"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3
+   ],
+   "chars": 5039
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "archdaily.com/1187187/architecture-must-return-to-its-essence-wang-shu-and-lu-wenyu-on-the-2027-venice-architecture-biennale": {
+  "title_ko": "왕슈와 루웬유가 제안하는 2027 베니스 건축 비엔날레의 본질",
+  "summary_ko": "아마추어 건축 스튜디오의 왕슈와 루웬유가 제20회 베네치아 비엔날레 국제 건축 전시회의 큐레이터 비전을 공개했다. '건축은 본질로 돌아가야 한다'는 기조 아래 과도한 추상화와 디지털화에서 벗어나 물리적 제작과 지역적 현실에 집중할 것을 요구한다.",
+  "lens": "디지털과 추상에서 벗어나 재료와 물리적 제작이라는 건축의 원시적 뼈대로 돌아간다.",
+  "why_now": "건축계가 과도한 상업화와 디지털화로 현실 세계에서 멀어진 시점에서, 물리적 구축과 지역 지식의 가치를 다시 묻는다.",
+  "mechanism": "전통적인 건축 기법과 재료 재사용을 중심으로 기술과 장인정신, 도시와 농촌의 방식을 하나의 물리적 장치로 결합한다.",
+  "sensory": "매끈한 디지털 렌더링을 지우고, 거친 재료의 질감과 현장의 물리적 무게감을 직접 대면하게 만든다.",
+  "transfer": "공간 연출이나 세트 디자인에서 컴퓨터 그래픽 대신 실제 재료의 물성과 손으로 만든 구축 과정을 화면의 질감으로 가져온다.",
+  "context": "왕슈와 루웬유는 1997년 아마추어 건축 스튜디오를 공동 설립해 자연 재료와 전통 기법을 연구해 왔으며, 왕슈는 2012년 중국인 최초로 프리츠커상을 수상했다.",
+  "findings": [
+   {
+    "text": "왕슈는 2012년 중국인 최초로 프리츠커상을 수상했다.",
+    "s": 1,
+    "quote": "In 2012, Wang became the first Chinese citizen to win the Pritzker Prize, the world's top prize in architecture."
+   },
+   {
+    "text": "루웬유와 왕슈는 1997년 중국 항저우에 아마추어 건축 스튜디오를 공동 설립했다.",
+    "s": 2,
+    "quote": "She co-founded the firm Amateur Architecture Studio in Hangzhou, China, which became known for its use of natural materials and traditional techniques."
+   }
+  ],
+  "keywords": [
+   "왕슈",
+   "루웬유",
+   "베니스비엔날레",
+   "건축본질",
+   "지역성"
+  ],
+  "evidence": "Architecture must return to its essence.",
+  "kind": "전시",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "건축계 거장의 구체적인 비엔날레 큐레이터 방향성과 철학이 명확히 드러난다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1187187/architecture-must-return-to-its-essence-wang-shu-and-lu-wenyu-on-the-2027-venice-architecture-biennale",
+  "original_title": "“Architecture Must Return to Its Essence”: Wang Shu and Lu Wenyu on the 2027 Venice Architecture Biennale",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 1906,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-20 23:02",
+  "research": {
+   "entities": [
+    "Wang Shu",
+    "Lu Wenyu",
+    "Amateur Architecture Studio",
+    "Venice Biennale"
+   ],
+   "questions": [
+    "왕수와 륙문우가 정의하는 건축의 본질과 'Do Architecture' 주제의 구체적인 의미는 무엇인가?",
+    "아마추어 건축 스튜디오의 지역성 중심 설계 방식이 2027년 베니스 비엔날레에 어떻게 적용되는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Wang Shu",
+     "url": "https://en.wikipedia.org/wiki/Wang%20Shu"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Lu Wenyu",
+     "url": "https://en.wikipedia.org/wiki/Lu%20Wenyu"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "브루어 빌딩과 아모리 쇼가 드러낸 뉴욕 아트페어의 풍경",
+     "url": "https://hyperallergic.com/should-you-sit-out-the-armory-show/"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "소리의 정치를 체화하는 폴란드 파빌리온의 감각적 번역",
+     "url": "https://hyperallergic.com/the-polish-pavilion-dissolves-you-in-the-politics-of-sound/"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "베니스 비엔날레 국가관, 정치적 상징인가 전시의 스펙터클인가",
+     "url": "https://hyperallergic.com/the-worst-national-pavilions-at-the-venice-biennale/"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 1624
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "wallpaper.com/watches-jewellery/patcharavipa-adler-titanium-jewellery-collection": {
+  "title_ko": "금지된 낙원의 색채, 파차라비파와 아들러의 티타늄 협업",
+  "summary_ko": "독립 보석상 파차라비파 보디랏낭쿠라가 제네바의 유산 있는 브랜드 아들러와 협업해 밝은 색상의 티타늄 캡슐 컬렉션을 공개했다. 이번 컬렉션은 티타늄 소재의 가벼운 무게를 활용해 극대화된 볼륨감의 반지와 귀걸이로 구성되었다.",
+  "lens": "금속의 무거운 통념을 벗고 티타늄의 경량성으로 대담한 볼륨을 조각한다.",
+  "why_now": "무게 제약이 큰 전통 보석 공예에서 벗어나 첨단 소재 가공을 통해 색채와 형태의 해방을 시도한다.",
+  "mechanism": "티타늄 특유의 가벼운 중량 덕분에 남반구 극락조 꽃의 형태를 대담한 부피감의 귀걸이 구조로 구현했다.",
+  "sensory": "차가운 티타늄 표면에 입혀진 선명한 원색의 발색과 귀를 감싸는 극단적인 경량감이 대비를 이룬다.",
+  "transfer": "금속 소재의 물리적 한계를 극복하는 볼륨 연출이 필요할 때 가벼운 신소재로 형태를 확장한다.",
+  "context": "방콕에 워크숍을 두고 시암 골드와 목재를 다뤄온 파차라비파가 티타늄 전문 가공 기술을 가진 스위스 아들러와 손을 잡았다.",
+  "findings": [],
+  "keywords": [
+   "파차라비파",
+   "아들러",
+   "티타늄",
+   "보석공예"
+  ],
+  "evidence": "Now, in partnership with Adler, she has finished a capsule collection in brightly hued titanium.",
+  "kind": "제품·오브제",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "독립 디자이너와 유산 있는 브랜드의 협업 제품 출시를 다룬 전형적인 정보 전달 기사다.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/watches-jewellery/patcharavipa-adler-titanium-jewellery-collection",
+  "original_title": "‘The theme is forbidden paradise’: cult jeweller Patcharavipa works in colour with Adler",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 1483,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-20 23:02",
+  "research": {
+   "entities": [
+    "Patcharavipa Bodiratnangkura",
+    "Adler",
+    "Rihanna",
+    "Marina Abramovich",
+    "Central Saint Martins"
+   ],
+   "questions": [
+    "패차라비파 보디랏낭쿠라와 아들러의 협업 컬렉션인 'Forbidden Paradise'의 구체적인 디자인 특징은 무엇인가?",
+    "패차라비파의 시그니처 소재인 'Siam Gold'와 이번 협업에서 사용된 티타늄은 어떤 공정으로 제작되는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Patcharavipa Bodiratnangkura",
+     "url": "https://www.patcharavipa.com/"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Adler Joailliers | Geneva Jewelers & Swiss Jewellers",
+     "url": "https://adler.ch/"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Rihanna",
+     "url": "https://en.wikipedia.org/wiki/Rihanna"
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "Central Saint Martins",
+     "url": "https://en.wikipedia.org/wiki/Central%20Saint%20Martins"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "폭풍우가 치고 난 런던의 잔해, 리자 킨의 잿빛 데뷔전",
+     "url": "https://www.dazeddigital.com/fashion/article/71003/1/liza-keane-ss27-london-fashion-week-lfw-newgen-rising-designer?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=liza-keane-is-london-fashion-week-s-dark-and-stormy-saviour"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "눈물의 질감과 색채로 직조한 폴린 뒤장쿠르의 2027 봄·여름 컬렉션",
+     "url": "https://www.anothermag.com/fashion-beauty/17497/pauline-dujancourt-show-review-spring-summer-2027-ss27-dsm?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=pauline-dujancourt-imagines-emotions-in-textures-and-colours"
+    },
+    {
+     "n": 7,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "점토의 불완전함으로 빚어낸 산만함의 미학, 랴오 차오위의 '수우가!'",
+     "url": "https://www.creativeboom.com/work/inside-qiaoyu-liaos-suuugar-the-clay-animated-cheesecake-disaster-that-shows-what-happens-when-you-get-distracted/"
+    }
+   ],
+   "used": [
+    4
+   ],
+   "chars": 5688
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "minimalissimo.com/articles/3070-tic-tac-toe-set-by-standard-equipment": {
+  "title_ko": "표준 장비의 미학, 알루미늄으로 재해석한 틱택토 세트",
+  "summary_ko": "스탠다드 이큅먼트(Standard Equipment)가 5mm 두께의 양극산화 알루미늄을 사용해 틱택토 게임 세트를 제작했다. 18.5cm 정사각형의 이 제품은 캐나다 브랜드의 '비표준적 삶을 위한 도구(Tools for Non-Standard Living)' 컬렉션의 일부로, 일상적인 놀이 도구에 건축적 물성을 부여한다.",
+  "lens": "단순한 놀이 도구를 5mm 프로파일의 알루미늄으로 재구성하여 일상의 사물에 건축적 무게감을 입혔다.",
+  "why_now": "가벼운 놀이마저도 물성의 정교함을 통해 일상의 의례로 격상시키려는 동시대 디자인의 흐름을 보여준다.",
+  "mechanism": "정밀한 기하학적 설계와 5mm 두께의 알루미늄 판재를 조합하여, 단순한 게임판을 하나의 구조물처럼 인식하게 만든다.",
+  "sensory": "금속 특유의 차갑고 단단한 질감과 절제된 직선이 만드는 시각적 명료함이 공간에 무게감을 더한다.",
+  "transfer": "공간 연출 시 소품의 두께감을 강조하여 정적인 오브제가 화면 안에서 물리적인 존재감을 갖도록 배치한다.",
+  "context": "캐나다 브랜드 스탠다드 이큅먼트가 전개하는 비표준적 삶을 위한 도구 컬렉션의 일환으로, 일상적인 기물을 건축적 관점에서 재해석하는 작업의 연장선에 있다.",
+  "findings": [],
+  "keywords": [
+   "스탠다드이큅먼트",
+   "알루미늄",
+   "오브제",
+   "미니멀리즘"
+  ],
+  "evidence": "crafted from anodised aluminium with a substantial 5mm profile.",
+  "kind": "제품·오브제",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "일상적인 게임 도구를 건축적 재료로 풀어낸 점은 흥미로우나 제품의 기능적 변주보다는 물성 변화에 집중한 사례다.",
+  "v": 2,
+  "url": "https://minimalissimo.com/articles/3070-tic-tac-toe-set-by-standard-equipment",
+  "original_title": "3070 Tic Tac Toe set by Standard Equipment",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 781,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-20 23:02",
+  "research": {
+   "entities": [
+    "Standard Equipment"
+   ],
+   "questions": [
+    "Standard Equipment 브랜드가 추구하는 'Tools for Non-Standard Living' 컬렉션의 디자인 철학은 무엇인가?",
+    "아노다이징 알루미늄 소재가 일상적인 게임 도구의 미학적 가치에 어떤 영향을 미치는가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "creativeboom.com/news/oslos-grumpiest-resident-returns-new-halfdan-winter-campaign-generates-5m-views": {
+  "title_ko": "오슬로의 심술궂은 주민 하프단, 크리스마스 호러 뮤지컬로 돌아오다",
+  "summary_ko": "오슬로 관광청(VisitOSLO)이 캠페인 '오슬로가 도시라고?(Is It Even a City?)'의 주인공 하프단을 앞세워 겨울 시즌 캠페인 '완벽한 도시(It's Totally Even a City)'를 공개했다. 현지 에이전시 뉴스랩(NewsLab)이 제작하고 아우구스트 요르팔드(August Jorfald)가 연출한 이번 영상은 오슬로의 겨울을 호러 뮤지컬 형식으로 풀어내며 전작의 역심리학 화법을 잇는다.",
+  "lens": "도시를 부정하는 냉소적인 캐릭터를 통해 오히려 여행지의 매력을 반어적으로 드러내는 역심리학의 전형을 보여준다.",
+  "why_now": "관광 마케팅에서 흔한 화려한 축제 이미지 대신, 비수기인 겨울의 정적인 분위기를 캐릭터의 성격과 결합해 차별화했다.",
+  "mechanism": "전작의 성공 요인이었던 예상치 못한 전개를 유지하기 위해, 단순한 속편이 아닌 '호러 뮤지컬'이라는 장르적 변주를 선택해 시청자의 기대를 비틀었다.",
+  "sensory": "오슬로의 차갑고 정적인 겨울 풍경과 대비되는 하프단의 데드팬(deadpan) 연기, 그리고 그 위에 얹힌 음악이 묘한 불협화음을 만들어낸다.",
+  "transfer": "광고 연출 시 익숙한 브랜드 메시지를 전달할 때, 브랜드가 스스로를 의심하는 듯한 냉소적 화법을 도입해 소비자에게 역설적인 호기심을 유발할 수 있다.",
+  "context": "2024년 여름 공개된 '오슬로가 도시라고?' 캠페인이 2,500만 회 이상의 조회수를 기록하며 바이럴에 성공한 이후, 같은 캐릭터를 활용해 겨울 시즌으로 세계관을 확장했다.",
+  "findings": [
+   {
+    "text": "오슬로 관광청은 하프단의 겨울 가이드를 별도로 제작하여 박물관, 사우나, 레스토랑 등 주요 관광지를 냉소적인 어조로 소개한다.",
+    "s": 1,
+    "quote": "Halfdan's sort of OK guide to Winter in Oslo. Hey, I'm Halfdan. I'd really rather be somewhere else, but if you really want to know my favourites, here they are, I guess."
+   }
+  ],
+  "keywords": [
+   "오슬로관광청",
+   "역심리학마케팅",
+   "데드팬",
+   "도시브랜딩",
+   "뮤지컬광고"
+  ],
+  "evidence": "The film is produced by Oslo-based agency NewsLab and directed once again by August Jorfald. But the trouble with following the same winning format is that the element of surprise has gone. So the team didn't try to recreate it. They turned it into a horror Christmas musical instead.",
+  "kind": "브랜드·캠페인",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "전작의 성공 요인을 분석하고 이를 호러 뮤지컬로 변주한 전략적 의도가 명확히 드러나 있다.",
+  "v": 2,
+  "url": "https://www.creativeboom.com/news/oslos-grumpiest-resident-returns-new-halfdan-winter-campaign-generates-5m-views/",
+  "original_title": "Oslo's grumpiest resident is back – and this time he's singing",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 8603,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-20 23:03",
+  "research": {
+   "entities": [
+    "VisitOSLO",
+    "NewsLab",
+    "August Jorfald",
+    "Bendik Aunan"
+   ],
+   "questions": [
+    "역심리학을 활용한 관광 마케팅이 대중에게 효과적으로 작용하는 이유는 무엇인가요?",
+    "오슬로의 겨울 시즌을 홍보하기 위해 왜 '호러 뮤지컬'이라는 장르를 선택했나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Halfdan's winter guide",
+     "url": "https://www.visitoslo.com/articles/campaigns/halfdan-winter-edition"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 2062
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "dazeddigital.com/fashion/article/71201/1/jeanna-ortega-klara-and-the-sun-press-tour-looks-celeb-style": {
+  "title_ko": "태양을 품은 안드로이드, 제나 오르테가의 메소드 드레싱",
+  "summary_ko": "배우 제나 오르테가가 영화 '클라라와 태양' 프레스 투어에서 태양광 안드로이드 캐릭터를 의상으로 구현하고 있다. 앤 드무엘미스터 등의 고딕 룩을 고수하던 이전 투어와 달리, 토르로웨이의 황금빛 슬립 드레스와 피에르 가르뎅 빈티지 의상을 선보인다.",
+  "lens": "어두운 고딕에서 태양광 안드로이드로, 캐릭터의 속성을 직물과 패턴의 물성으로 체화한다.",
+  "why_now": "작품 속 인물의 설정을 현실의 레드카펫 패션으로 확장하는 메소드 드레싱이 배우와 디자이너의 협업을 증명하는 주류 연출법으로 자리 잡았다.",
+  "mechanism": "토르로웨이의 금색 레이스 캡과 1966년 피에르 가르뎅의 과녁 모티프 드레스를 배치해 캐릭터가 태양을 응시하는 서사를 직물 위에 시각화한다.",
+  "sensory": "황금빛 실크 드레스의 매끄러운 질감과 체인 및 구슬 장식이 대비를 이루며 플래시 세례 속에서 독특한 빛의 반사를 만들어낸다.",
+  "transfer": "인물의 내면 변화를 시각화할 때, 의상의 색조를 흑백에서 채도 높은 금색과 상아색으로 전환하는 컬러 팔레트 연출법으로 응용한다.",
+  "context": "제나 오르테가는 넷플릭스 시리즈 '수요일'에서 어두운 고딕 스타일을 선보인 데 이어, 타이카 와이티티가 연출하고 카즈오 이시구로의 소설을 각색한 영화 '클라라와 태양'으로 새로운 드레싱 방식을 이어간다.",
+  "findings": [],
+  "keywords": [
+   "메소드드레싱",
+   "제나오르테가",
+   "클라라와태양",
+   "아방가르드패션"
+  ],
+  "evidence": "Ortega is back from her self-imposed fashion hiatus, and her new movie Klara and the Sun sees her back on the method dressing bandwagon.",
+  "kind": "런웨이·컬렉션",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "배우의 프레스 투어 의상 변화를 분석한 기사로 구체적인 브랜드와 디자이너가 언급되었으나 디자인 기법 자체의 깊이는 평이하다.",
+  "v": 2,
+  "url": "https://www.dazeddigital.com/fashion/article/71201/1/jeanna-ortega-klara-and-the-sun-press-tour-looks-celeb-style?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=jenna-ortega-graduates-from-gloomy-goth-to-sun-kissed-princess",
+  "original_title": "Jenna Ortega graduates from gloomy goth to sun-kissed princess",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 3132,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-20 23:03",
+  "research": {
+   "entities": [
+    "Jenna Ortega",
+    "Taika Waititi",
+    "Kazuo Ishiguro",
+    "Pierre Cardin",
+    "Wednesday"
+   ],
+   "questions": [
+    "제나 오르테가가 '메소드 드레싱(method dressing)'을 통해 영화 속 캐릭터의 서사를 패션으로 어떻게 구현하고 있는가?",
+    "카즈오 이시구로의 원작 소설 '클라라와 태양'의 주제 의식이 영화의 의상 컨셉에 어떤 영향을 미쳤는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Jenna Ortega",
+     "url": "https://en.wikipedia.org/wiki/Jenna%20Ortega"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Taika Waititi",
+     "url": "https://en.wikipedia.org/wiki/Taika%20Waititi"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "피에르 요바노비치: 18개의 공간으로 쓴 인테리어 선언문",
+     "url": "https://www.yatzer.com/pierre-yovanovitch-eighteen-interiors-rizzoli"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 3110
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "dazeddigital.com/art-photography/article/71204/1/5-voyeuristic-photo-stories-offer-peek-into-private-lives-andy-warhol-jon-rafman": {
+  "title_ko": "타인의 삶을 훔쳐보는 렌즈, 사진 예술 속 관음주의의 계보",
+  "summary_ko": "사진은 본질적으로 타인의 사생활을 엿보는 관음증적 속성을 내포한다. 제프 머멜스타인(Jeff Mermelstein)의 스마트폰 채팅 화면, 다니 레스나우(Dani Lessnau)의 신체 내부 촬영, 소피 칼(Sophie Calle)의 호텔 객실 기록 등 작가들은 각기 다른 방식으로 관음증의 본질을 탐구한다. 이는 단순히 엿보기를 넘어 현대 사회의 감시 체계와 인간의 욕망을 투영한다.",
+  "lens": "관음증은 사진의 병리적 결함이 아니라 대상을 포착하고 해석하는 가장 원초적인 동력이다.",
+  "why_now": "디지털 감시와 SNS 공유가 일상이 된 시대에, 관찰자와 피관찰자의 경계는 무너졌고 관음증은 보편적 행위가 되었다.",
+  "mechanism": "작가는 인터페이스(채팅창), 신체 내부, 타인의 흔적 등 은밀한 매개체를 통해 관찰자와 대상 사이의 거리감을 의도적으로 제거한다.",
+  "sensory": "타인의 채팅을 훔쳐볼 때의 긴장감, 낯선 이의 방을 뒤질 때 느껴지는 서늘한 물성, 감시 카메라의 건조하고 차가운 시선이 교차한다.",
+  "transfer": "콘티 작업 시 피사체를 직접 비추기보다 스마트폰 화면, 거울 속 반사, 문틈 사이 등 간접적인 프레임을 활용해 관찰자의 시선을 극대화하라.",
+  "context": "다이앤 아버스(Diane Arbus)와 마틴 파(Martin Parr)는 일찍이 사진의 착취적 성격을 인지하고 이를 작업의 핵심으로 삼았다. 소피 칼은 타인의 사생활을 탐정처럼 기록하는 작업으로 부재와 결핍의 미학을 구축해왔다.",
+  "findings": [
+   {
+    "text": "다이앤 아버스는 1971년 48세의 나이로 생을 마감하기 전까지 소수의 전시회에만 참여했으나, 이후 현대 사진 예술의 새로운 지평을 연 거장으로 평가받는다.",
+    "s": 1,
+    "quote": "Diane Arbus’ work was included in only a handful of museum exhibitions before she died, by her own hand, at the age of 48 in 1971."
+   },
+   {
+    "text": "마틴 파는 지난 50년간 현대 사회의 여가 문화를 인류학적이고 풍자적인 시선으로 기록해왔다.",
+    "s": 4,
+    "quote": "Martin Parr was known for his photographic projects that take an intimate, satirical and anthropological look at aspects of modern life, in particular documenting the social classes of England."
+   },
+   {
+    "text": "소피 칼은 타인의 삶을 추적하는 탐정적 시선과 건조한 텍스트를 결합하여 인간의 취약성을 기록하는 작가로 알려져 있다.",
+    "s": 5,
+    "quote": "타인의 삶을 추적하는 탐정적 시선과 건조한 텍스트를 결합해 인간의 취약성을 기록한다."
+   }
+  ],
+  "keywords": [
+   "관음증",
+   "사진미학",
+   "디지털감시",
+   "소피칼",
+   "다이앤아버스"
+  ],
+  "evidence": "pretty much all photographs are voyeuristic to some degree",
+  "kind": "리스트·라운드업",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "사진 매체의 본질적인 관음적 성격을 여러 작가의 사례를 통해 분석했으나, 새로운 연출 기법보다는 기존 작업의 나열에 그친다.",
+  "v": 2,
+  "url": "https://www.dazeddigital.com/art-photography/article/71204/1/5-voyeuristic-photo-stories-offer-peek-into-private-lives-andy-warhol-jon-rafman?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=5-voyeuristic-photo-stories-that-offer-a-peek-into-people-s-private-lives",
+  "original_title": "5 voyeuristic photo stories that offer a peek into people’s private lives",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 5099,
+  "fetch": "ok",
+  "cliche_hits": [
+   "새로운 지평"
+  ],
+  "read_at": "2026-10-20 23:03",
+  "research": {
+   "entities": [
+    "Diane Arbus",
+    "Martin Parr",
+    "Jeff Mermelstein",
+    "Sophie Calle",
+    "Jon Rafman"
+   ],
+   "questions": [
+    "사진 예술에서 관음주의적 시선은 윤리적 문제와 어떻게 결합되는가?",
+    "현대 디지털 기술과 감시 사회에서 사진 매체의 관음증은 어떤 새로운 의미를 갖는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "A Fresh Look at Diane Arbus",
+     "url": "https://www.smithsonianmag.com/arts-culture/a-fresh-look-at-diane-arbus-99861134/"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Martin Parr: Interview of the Month May 2022 – Paul Carey-Kent",
+     "url": "https://artlyst.com/martin-parr-interview-of-the-month-may-2022-paul-carey-kent/"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Diane Arbus",
+     "url": "https://en.wikipedia.org/wiki/Diane%20Arbus"
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "Martin Parr",
+     "url": "https://en.wikipedia.org/wiki/Martin%20Parr"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "소피 칼: 부재라는 형식을 다루는 법",
+     "url": "https://www.wallpaper.com/art/exhibitions-shows/sophie-calle-is-drawn-to-absence-of-men-of-work-of-a-feeling-in-margate"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "스탠리 스텔라가 포착한 1970~90년대 뉴욕 게이 서브컬처의 기록",
+     "url": "https://www.anothermag.com/art-photography/17545/stanley-stellar-dont-worry-boys-interview-new-york-gay-photography?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=there-we-were-and-we-could-be-naked-stanley-stellar-s-gay-new-york"
+    },
+    {
+     "n": 7,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "소피 칼: 부재라는 형식을 다루는 완벽한 전략",
+     "url": "https://www.anothermag.com/art-photography/17558/sophie-calle-something-missing-margate-turner-contampoorary-exhibition?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=how-sophie-calle-transformed-her-life-into-a-work-of-art"
+    }
+   ],
+   "used": [
+    1,
+    4,
+    5
+   ],
+   "chars": 8491
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "archdaily.com/1187188/palais-de-justice-de-lille-oma": {
+  "title_ko": "역사적 요새 부지에 들어선 오엠에이의 릴 법원",
+  "summary_ko": "네덜란드 건축 스튜디오 오엠에이(OMA)가 프랑스 북부 릴에 연면적 24,000제곱미터 규모의 팔레 데 저스티스 드 릴을 완공했다. 이 법원은 17세기 보방 요새 인근 부지에 위치하며, 저층 기단부와 삼각 중앙 타워, 상부 링 볼륨 등 세 가지 매스로 구성된다. 컬러 유리를 두른 다면체 파사드로 요새의 기하학적 형태를 재해석했다.",
+  "lens": "역사적 요새의 기하학을 유색 유리와 다면체 볼륨으로 해체해 사법 공간에 개방감을 불어넣는다.",
+  "why_now": "과거의 요새 부지라는 제약을 현대적인 도시 인프라와 결합해 도시의 역사와 미래를 동시에 조율하는 전형을 보여준다.",
+  "mechanism": "각 면에 컬러 유리를 두른 다면체 파사드를 통해 역사적 요새의 형태를 모방하고 자연광을 실내로 깊숙이 끌어들인다.",
+  "sensory": "다채로운 색상의 유리가 반사하는 빛과 거대한 다면체 볼륨이 만들어내는 기하학적 파편들이 시각적 긴장감을 형성한다.",
+  "transfer": "공간의 역사적 맥락을 현대적인 매스 분할과 유리 파사드 연출로 재해석하는 세트 디자인 및 로케이션 베이스 콘티에 적용한다.",
+  "context": "렘 콜하스(Rem Koolhaas)가 이끄는 오엠에이는 과거와 현재의 도시적 레이어를 해체하고 재조립하는 작업들을 지속해 왔다.",
+  "findings": [
+   {
+    "text": "네덜란드 건축 스튜디오 오엠에이가 프랑스 북부 릴에 육각형 형태의 팔레 데 저스티스 드 릴을 완공했다.",
+    "s": 3,
+    "quote": "네덜란드 건축 스튜디오 오엠에이(OMA)가 프랑스 북부 릴에 육각형 형태의 팔레 데 저스티스 드 릴(Palais de Justice de Lille)을 완공했다."
+   },
+   {
+    "text": "이 법원은 1667년에 지어진 성 모양의 요새 인근에 위치하며, 각 면에 컬러 유리를 두른 다면체 파사드로 요새의 형태를 모방했다.",
+    "s": 3,
+    "quote": "이 법원은 1667년에 지어진 성 모양의 요새 인근에 위치하며, 각 면에 컬러 유리를 두른 다면체 파사드로 요새의 형태를 모방했다."
+   },
+   {
+    "text": "대형 법정을 품은 저층 기단부와 소법정을 담은 삼각 중앙 타워, 사무실이 에워싼 링 형태의 상부 볼륨 등 세 가지 매스로 구성된다.",
+    "s": 3,
+    "quote": "대형 법정을 품은 저층 기단부와 소법정을 담은 삼각 중앙 타워, 사무실이 에워싼 링 형태의 상부 볼륨 등 세 가지 매스로 구성된다."
+   }
+  ],
+  "keywords": [
+   "오엠에이",
+   "릴법원",
+   "유색유리",
+   "다면체파사드",
+   "보방요새"
+  ],
+  "evidence": "Any new architectural addition to the city of Lille has to address the past, the present and the future. That is even more true on the site of Vauban's former fortifications",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "역사적 부지와 현대 건축의 기하학적 관계를 구체적인 매스와 유리를 통해 명확하게 구현했다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1187188/palais-de-justice-de-lille-oma",
+  "original_title": "Palais de Justice de Lille / OMA",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 1958,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-20 23:04",
+  "research": {
+   "entities": [
+    "OMA",
+    "Rem Koolhaas",
+    "Ellen van Loon",
+    "Chris van Duijn",
+    "Palais de Justice de Lille"
+   ],
+   "questions": [
+    "릴(Lille)의 역사적인 보방(Vauban) 요새 부지가 현대 건축물 설계에 어떤 영향을 미쳤는가?",
+    "OMA가 설계한 릴 법원(Palais de Justice de Lille)의 건축적 특징과 도시 맥락과의 조화는 어떻게 이루어졌는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Rem Koolhaas",
+     "url": "https://en.wikipedia.org/wiki/Rem%20Koolhaas"
+    },
+    {
+     "n": 2,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "자하 하디드 재단, 클러켄웰과 샤드 해머스에서 시작하는 아카이브의 새 장",
+     "url": "https://www.wallpaper.com/architecture/zaha-hadid-foundation-and-archive-london-uk"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "유색 유리와 육각형의 기하학으로 재해석한 릴 법원",
+     "url": "https://www.dezeen.com/2026/10/19/oma-palais-de-justice-de-lille/"
+    }
+   ],
+   "used": [
+    3
+   ],
+   "chars": 1299
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "wallpaper.com/architecture/residential/casa-asomada-whale-chilean-house": {
+  "title_ko": "지평선을 응시하는 뱀의 형상, 칠레 툰퀜의 카사 아소마다",
+  "summary_ko": "칠레 툰퀜 해안 절벽에 자리한 카사 아소마다는 건축 스튜디오 웨일!이 설계한 255제곱미터 규모의 주택이다. 뱀이 고개를 치켜드는 형상에서 착안해 지형을 따라 낮게 깔리는 볼륨과 지평선을 향해 솟아오르는 볼륨을 결합했다. 콘크리트 벽으로 둘러싸인 안뜰을 중심으로 공용 공간과 사적 공간을 분리한 구조가 특징이다.",
+  "lens": "지형을 억지로 평탄화하지 않고, 뱀이 똬리를 틀 듯 바위의 높낮이에 맞춰 볼륨을 굴절시켜 지평선과 조우하는 시선을 확보한다.",
+  "why_now": "가파른 해안 절벽이라는 제약적 환경을 건축적 제스처로 승화해, 지형과 건축물이 하나의 유기체처럼 맞물리는 방식을 제안한다.",
+  "mechanism": "두 개의 매스를 맞물려 지형의 경사를 수용하고, 이를 하나의 연속적인 지붕으로 덮어 파편화된 공간을 단일한 형태의 덩어리로 통합한다.",
+  "sensory": "바다에서 불어오는 짠 내음과 바람에 흔들리는 녹색 단풍이 콘크리트 벽으로 보호된 안뜰의 정적인 분위기와 대비를 이룬다.",
+  "transfer": "경사지 촬영 시 카메라 동선을 지형의 굴곡과 일치시켜, 낮게 웅크린 실내에서 시야가 트이는 외부로의 전이를 하나의 롱테이크로 연결한다.",
+  "context": "2018년 월페이퍼 아키텍츠 디렉토리에 선정된 웨일!의 작업으로, 자연 지형을 거스르지 않고 그 결을 따라 배치하는 최근 주거 건축의 흐름을 잇는다.",
+  "findings": [],
+  "keywords": [
+   "칠레건축",
+   "해안주택",
+   "웨일",
+   "지형건축",
+   "카사아소마다"
+  ],
+  "evidence": "The house is conceived through a single gesture that articulates two distinct ways of relating to the territory.",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "지형과 건축의 물리적 결합 방식을 뱀의 형상이라는 구체적인 개념으로 설명하고, 공간 구성의 논리가 명확하게 드러난다.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/architecture/residential/casa-asomada-whale-chilean-house",
+  "original_title": "A snake nodding to the horizon makes for an unlikely inspiration for this Chilean house",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 2794,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-20 23:04",
+  "research": {
+   "entities": [
+    "Casa Asomada",
+    "Whale!",
+    "Tunquén",
+    "Ellie Stathaki"
+   ],
+   "questions": [
+    "Casa Asomada의 독특한 형태를 도출한 뱀의 형상이라는 디자인 콘셉트가 실제 공간 구성과 동선에 어떻게 반영되었는가?",
+    "칠레 툰퀜(Tunquén)의 가파르고 바위가 많은 해안 지형 특성이 Casa Asomada의 구조와 배치에 어떤 영향을 미쳤는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "스페인 소토그란데의 모놀리식 빌라, 빛과 원의 기하학으로 빚다",
+     "url": "https://www.wallpaper.com/architecture/residential/villa-enso-ark-architects-sotogrande-spain"
+    },
+    {
+     "n": 2,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "카사 카피차: 멕시코 해안의 거친 콘크리트와 팔라파 지붕이 빚는 휴식",
+     "url": "https://www.wallpaper.com/architecture/residential/puerto-escondido-home-casa-copycha-anonimous-mexico"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "지형의 결을 따라 흩어진 세 개의 박공, 필드 아키텍처의 쓰리 반스",
+     "url": "https://www.wallpaper.com/architecture/residential/three-barns-sun-valley-home-field-architecture-usa"
+    }
+   ],
+   "used": [],
+   "chars": 793
+  },
+  "depth_raw": 4,
+  "depth_v": 2
  }
 }
