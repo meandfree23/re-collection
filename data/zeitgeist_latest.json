@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-10-20 04:04 KST",
+  "generated_at": "2026-10-20 09:42 KST",
   "period": "2026.10.13 - 2026.10.20",
-  "total_articles": 398,
+  "total_articles": 409,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 187
+      "count": 193
     },
     {
       "genre": "동시대 미술",
-      "count": 156
+      "count": 160
     },
     {
       "genre": "아방가르드 패션",
@@ -17,7 +17,7 @@
     },
     {
       "genre": "미디어 파사드·3D",
-      "count": 15
+      "count": 16
     }
   ],
   "themes": [
@@ -151,10 +151,16 @@
     },
     {
       "keyword": "빛과 조명",
-      "count": 9,
+      "count": 10,
       "previous_count": 9,
       "trend": "steady",
       "items": [
+        {
+          "title": "추상적 명료성: 일로, 에버퓨어 x 블룸버그 TV 조명",
+          "url": "https://www.stashmedia.tv/abstract-clarity-illo-illuminates-everpure-x-bloomberg-tv/",
+          "image_url": "http://www.stashmedia.tv/wp-content/uploads/Everpure-x-Bloomberg-TV-brand-films-by-Illo-STASH-MAGAZINE3-1920x1080.jpg",
+          "source_name": "Stash Media"
+        },
         {
           "title": "‘아이올루스‘ 에서 드리프트는 조명을 받은 유리 막대를 바람의 조각에 매달아 놓습니다.",
           "url": "https://www.thisiscolossal.com/2026/10/aeolus-studio-drift-light-glass-installation/",
@@ -172,12 +178,6 @@
           "url": "https://www.designboom.com/art/jenny-holzer-musee-dorsay-paris-monumental-light-projections-engraved-stone-exhibition-jai-vu/",
           "image_url": "https://www.designboom.com/wp-content/uploads/2026/10/jenny-holzer-musee-dorsay-paris-monumental-light-projections-engraved-stone-exhibition-jai-vu-designboom-3.2323.jpg",
           "source_name": "Designboom Art"
-        },
-        {
-          "title": "빛으로 놀기: 디자이너가 스타디움 쇼를 친밀하게 만드는 방법",
-          "url": "https://www.wallpaper.com/art/music/lighting-designers-tobias-rylander-and-michael-straun-interview",
-          "image_url": "https://cdn.mos.cms.futurecdn.net/xM48cvWaeSHTTMNNKakWCD-1920-80.jpg",
-          "source_name": "Wallpaper*"
         }
       ]
     },

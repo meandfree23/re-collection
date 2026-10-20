@@ -2326,12 +2326,12 @@
  },
  "2026-10-20": {
   "date": "2026-10-20",
-  "headline": "바느질된 식민의 기록과 산화된 거울의 시간",
-  "editorial": "로사나 파울리누는 식민주의 사진에 바느질을 더해 고정된 역사의 폭력을 흔든다. 볼디자르 센테스키는 거울의 표면을 산화시켜 시간에 따른 변화를 오브제에 직접 새겨 넣었다. 이처럼 고정된 형식을 뚫고 나오는 움직임은 계급의 문턱을 없앤 나크샤비드아키텍츠의 공장 설계와 닿아 있다. 기존의 위계와 기록을 물리적으로 변형하거나 제거함으로써 우리는 비로소 새로운 질서를 마주한다.",
+  "headline": "산화된 거울의 얼룩과 공장 벽면을 가로지르는 균열",
+  "editorial": "방글라데시의 그린 필드 팩토리는 관리자와 노동자의 문을 하나로 합쳐 계급의 수직적 구조를 지워낸다. 이처럼 기존의 틀을 깎아내거나 지워진 자리에 새로운 의미를 새기는 움직임은 볼디자르 센테스키의 산화된 거울과 로사나 파울리누의 바느질된 아카이브에서도 동일하게 나타난다. 파괴나 소멸의 흔적은 그 자체로 역설적인 가시성을 획득하며 정지된 풍경 속에 새로운 긴장을 불어넣는다. 오늘날의 창작은 고정된 형상을 해체하고 남겨진 빈틈을 통해 세상을 다시 읽어내는 일이다.",
   "threads": [
    {
-    "name": "고정된 틀을 찢는 시도",
-    "note": "기존 체제나 기록이 가진 권위를 해체하거나 새로운 방식으로 재조립하는 작업들이다.",
+    "name": "지워진 흔적의 가시화",
+    "note": "무언가를 덜어내거나 파괴한 자리에 남은 자국을 통해 정치적, 사회적 의미를 드러내는 작업들이다.",
     "items": [
      {
       "title": "계급 구조를 지운 공장, 방글라데시 그린 필드 팩토리",
@@ -2342,29 +2342,33 @@
       "url": "https://hyperallergic.com/rosana-paulino-reads-the-archive-against-those-who-made-it/"
      },
      {
-      "title": "볼디자르 센테스키, 산화와 부식으로 기록한 도시의 시간",
-      "url": "https://design-milk.com/boldizar-senteski-erosion-collection-mirrors/"
+      "title": "콜롬비아 국립박물관의 강제 철거, 지워진 역사가 남긴 빈 벽의 역설",
+      "url": "https://hyperallergic.com/hundreds-protest-in-colombia-after-far-right-president-removes-works-from-national-museum/"
+     },
+     {
+      "title": "루브르 궁의 예술 학생들이 박물관 정문을 봉쇄하다",
+      "url": "https://hyperallergic.com/paris-students-block-louvre-entrance-forcing-closure/"
      }
     ]
    },
    {
-    "name": "도시의 수직적 연장",
-    "note": "건축을 단순히 점유하는 공간이 아니라 시민의 동선과 풍경을 이어주는 통로로 해석한다.",
+    "name": "시간이 새긴 물리적 변화",
+    "note": "세월의 산화나 부식, 노후화를 외면하지 않고 오브제와 공간의 고유한 문법으로 치환한 사례들이다.",
     "items": [
      {
-      "title": "상하이 황푸 강변의 새로운 수직적 공공 광장, 스뇌헤타의 상하이 대극장",
-      "url": "https://www.archdaily.com/1187067/snohettas-shanghai-grand-opera-house-opens-with-a-sweeping-roof-and-panoramic-river-views"
+      "title": "볼디자르 센테스키, 산화와 부식으로 기록한 도시의 시간",
+      "url": "https://design-milk.com/boldizar-senteski-erosion-collection-mirrors/"
      },
      {
-      "title": "지붕을 새로운 대지로 확장한 베트남의 주거 리노베이션",
-      "url": "https://www.archdaily.com/1186687/the-summer-path-house-gieo-architecture"
+      "title": "고와너스 오픈 스튜디오 30주년: 공단에서 고급 주거지로 향하는 길목의 예술가들",
+      "url": "https://hyperallergic.com/gowanus-open-studios-turns-30/"
      }
     ]
    }
   ],
-  "based_on": 20,
+  "based_on": 24,
   "v": 3,
   "model": "gemini-3.1-flash-lite",
-  "written_at": "2026-10-20 04:05"
+  "written_at": "2026-10-20 09:42"
  }
 }
