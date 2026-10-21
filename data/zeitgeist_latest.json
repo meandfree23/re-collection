@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-10-21 17:16 KST",
+  "generated_at": "2026-10-21 22:26 KST",
   "period": "2026.10.14 - 2026.10.21",
-  "total_articles": 392,
+  "total_articles": 417,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 184
+      "count": 193
     },
     {
       "genre": "동시대 미술",
-      "count": 156
+      "count": 167
     },
     {
       "genre": "아방가르드 패션",
-      "count": 40
+      "count": 45
     },
     {
       "genre": "미디어 파사드·3D",
@@ -23,10 +23,22 @@
   "themes": [
     {
       "keyword": "목재 건축",
-      "count": 12,
+      "count": 14,
       "previous_count": 10,
       "trend": "rising",
       "items": [
+        {
+          "title": "Dosorozco는 멕시코 숲의 질감 있는 집에 돌과 검게 칠한 목재를 사용합니다.",
+          "url": "https://www.dezeen.com/2026/10/21/dosorozco-casa-sima/",
+          "image_url": "https://static-2026.dezeen.com/uploads/2026/10/casa-sima-dosorozco-mexico-houses-residential-architecture_dezeen_2364_sq-1024x1024.jpg",
+          "source_name": "Dezeen"
+        },
+        {
+          "title": "브라질에 있는 이 수변 주택의 규모와 드라마를 감추는 단순한 목재 봉투",
+          "url": "https://www.wallpaper.com/architecture/residential/a-simple-timber-envelope-conceals-the-scale-and-drama-of-this-waterfront-house-in-brazil",
+          "image_url": "https://cdn.mos.cms.futurecdn.net/5nsCp8mhExDt9Puv2hTXEC-1920-80.jpg",
+          "source_name": "Wallpaper*"
+        },
         {
           "title": "에스피가 하우스/그루포 프리미티보",
           "url": "https://www.archdaily.com/1187171/espiga-house-grupo-primitivo",
@@ -38,18 +50,38 @@
           "url": "https://www.archdaily.com/1187229/wood-innovation-summit-innovation-in-industrialized-timber-architecture-and-construction",
           "image_url": "https://images.adsttc.com/media/images/6ad7/781b/aadf/a000/01e3/b88e/large_jpg/Flyer_Wood-Innovation-Summit.jpg?1792505890",
           "source_name": "ArchDaily"
+        }
+      ]
+    },
+    {
+      "keyword": "텍스타일·직물",
+      "count": 6,
+      "previous_count": 3,
+      "trend": "rising",
+      "items": [
+        {
+          "title": "이 아티스트는 6피트 높이의 손 직기를 사용하여 \"놓지 않을 것\" 이라는 고급스러운 직물을 만듭니다.",
+          "url": "https://www.architecturaldigest.com/story/this-artist-uses-a-six-foot-tall-hand-loom-to-create-textiles-that-are-so-luxurious-people-wont-let-them-go",
+          "image_url": "https://media.architecturaldigest.com/photos/6accec67aab7d3e34d046a26/master/pass/AD1126_OTW_1%20copy.jpg",
+          "source_name": "Architectural Digest"
         },
         {
-          "title": "그레이엄 바바 (Graham Baba) 의 골프 클럽하우스는 워싱턴 시골의 농장 구조물에 고개를 끄덕입니다.",
-          "url": "https://www.dezeen.com/2026/10/19/golf-clubhouse-graham-baba-washington-architects/",
-          "image_url": "https://static.dezeen.com/uploads/2026/10/westwood-gold-clubhouse-california-graham-baba-architects-sq_dezeen_2364_col_0-852x852.jpg",
-          "source_name": "Dezeen"
+          "title": "텍스타일 아티스트 올가 드 아마랄 (Olga de Amaral) 과 함께한 아크리스의 런웨이 콜라보레이션 스토리",
+          "url": "https://www.wallpaper.com/fashion-beauty/akris-collaboration-olga-de-amaral-art-aw-2026-collection",
+          "image_url": "https://cdn.mos.cms.futurecdn.net/ijyiqJJT7tcjwWAKoY387N-1920-80.jpg",
+          "source_name": "Wallpaper*"
         },
         {
-          "title": "하우스오브월포레스트",
-          "url": "https://leibal.com/interiors/house-of-wall-forest/",
-          "image_url": "https://leibal.com/wp-content/uploads/2026/09/leibal-house-of-wall-forest-igarachitects-7.jpg",
-          "source_name": "Leibal"
+          "title": "Cypher 음향 연구 # 1 출시: 섬유 및 패션",
+          "url": "https://www.stashmedia.tv/cypher-releases-sonic-studies-1-textiles-fashion/",
+          "image_url": "http://www.stashmedia.tv/wp-content/uploads/Cypher-Releases-Sonic-Studies-1-Textiles-Fashion-STASH-MAGAZINE8-1437x1080.jpg",
+          "source_name": "Stash Media"
+        },
+        {
+          "title": "TAFA 아트 블록/믹스 아키텍처의 핵심 영역 개조",
+          "url": "https://www.archdaily.com/1186609/renovation-of-the-core-area-of-tafa-art-block-mix-architecture",
+          "image_url": "https://images.adsttc.com/media/images/6ac8/958c/7887/fb21/1c77/dbea/large_jpg/renovation-of-the-core-area-of-tafa-art-block-mix-architecture_50.jpg?1791530410",
+          "source_name": "ArchDaily"
         }
       ]
     },
@@ -82,38 +114,6 @@
           "url": "https://www.wallpaper.com/architecture/residential/melbourne-house-casa-piva-australia",
           "image_url": "https://cdn.mos.cms.futurecdn.net/JdEsQFtD4HtiNjnMFCq9ZD-1920-80.jpg",
           "source_name": "Wallpaper*"
-        }
-      ]
-    },
-    {
-      "keyword": "텍스타일·직물",
-      "count": 5,
-      "previous_count": 3,
-      "trend": "rising",
-      "items": [
-        {
-          "title": "텍스타일 아티스트 올가 드 아마랄 (Olga de Amaral) 과 함께한 아크리스의 런웨이 콜라보레이션 스토리",
-          "url": "https://www.wallpaper.com/fashion-beauty/akris-collaboration-olga-de-amaral-art-aw-2026-collection",
-          "image_url": "https://cdn.mos.cms.futurecdn.net/ijyiqJJT7tcjwWAKoY387N-1920-80.jpg",
-          "source_name": "Wallpaper*"
-        },
-        {
-          "title": "Cypher 음향 연구 # 1 출시: 섬유 및 패션",
-          "url": "https://www.stashmedia.tv/cypher-releases-sonic-studies-1-textiles-fashion/",
-          "image_url": "http://www.stashmedia.tv/wp-content/uploads/Cypher-Releases-Sonic-Studies-1-Textiles-Fashion-STASH-MAGAZINE8-1437x1080.jpg",
-          "source_name": "Stash Media"
-        },
-        {
-          "title": "TAFA 아트 블록/믹스 아키텍처의 핵심 영역 개조",
-          "url": "https://www.archdaily.com/1186609/renovation-of-the-core-area-of-tafa-art-block-mix-architecture",
-          "image_url": "https://images.adsttc.com/media/images/6ac8/958c/7887/fb21/1c77/dbea/large_jpg/renovation-of-the-core-area-of-tafa-art-block-mix-architecture_50.jpg?1791530410",
-          "source_name": "ArchDaily"
-        },
-        {
-          "title": "섬유 및 섬유 예술에 관한 필독서 12권",
-          "url": "https://hyperallergic.com/12-must-read-books-on-textiles-and-fiber-art/",
-          "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/10/2-2.jpg",
-          "source_name": "Hyperallergic"
         }
       ]
     },
@@ -151,10 +151,16 @@
     },
     {
       "keyword": "빛과 조명",
-      "count": 8,
+      "count": 9,
       "previous_count": 9,
       "trend": "steady",
       "items": [
+        {
+          "title": "마르셀",
+          "url": "https://leibal.com/lighting/marcelle/",
+          "image_url": "https://leibal.com/wp-content/uploads/2026/10/leibal-marcelle-clement-pasquier-2.jpg",
+          "source_name": "Leibal"
+        },
         {
           "title": "추상적 명료성: 일로, 에버퓨어 x 블룸버그 TV 조명",
           "url": "https://www.stashmedia.tv/abstract-clarity-illo-illuminates-everpure-x-bloomberg-tv/",
@@ -172,21 +178,27 @@
           "url": "https://www.dezeen.com/2026/10/19/traditional-thai-lanterns-bangkok-cafe-interior/",
           "image_url": "https://static.dezeen.com/uploads/2026/10/blue-bottle-coffee-cafe-bangkok-i-in_dezeen_2364_col_sq2-852x852.jpg",
           "source_name": "Dezeen"
-        },
-        {
-          "title": "j 'ai vu: 제니 홀저 (jenny holzer) 의 기념비적인 빛 투영이 파리의 오르세 미술관을 변화시킨다.",
-          "url": "https://www.designboom.com/art/jenny-holzer-musee-dorsay-paris-monumental-light-projections-engraved-stone-exhibition-jai-vu/",
-          "image_url": "https://www.designboom.com/wp-content/uploads/2026/10/jenny-holzer-musee-dorsay-paris-monumental-light-projections-engraved-stone-exhibition-jai-vu-designboom-3.2323.jpg",
-          "source_name": "Designboom Art"
         }
       ]
     },
     {
       "keyword": "리노베이션·재생",
-      "count": 5,
+      "count": 7,
       "previous_count": 6,
       "trend": "steady",
       "items": [
+        {
+          "title": "디자인 역사를 영원히 바꾼 프랑크푸르트 주방 - 마지막을 구하기 위한 경주 속으로",
+          "url": "https://www.architecturaldigest.com/story/the-frankfurt-kitchen-changed-design-history-forever-inside-the-race-to-save-it-from-extinction",
+          "image_url": "https://media.architecturaldigest.com/photos/6acf98fd6996a76491fae8cc/master/pass/3BRNF4T.jpg",
+          "source_name": "Architectural Digest"
+        },
+        {
+          "title": "애틀랜타에 위치한 이 창고형 아트 센터는 '댄 플래빈 온 스테로이드' 처럼 빛납니다.",
+          "url": "https://www.wallpaper.com/architecture/public-buildings/loop-art-centre-atlanta-georgia-jennifer-bonner-mall",
+          "image_url": "https://cdn.mos.cms.futurecdn.net/fuYeR57xXcu3b2ivXL7kaJ-1920-80.png",
+          "source_name": "Wallpaper*"
+        },
         {
           "title": "여름철 패스 하우스/지에오 건축물 투어",
           "url": "https://www.archdaily.com/1186687/the-summer-path-house-gieo-architecture",
@@ -198,23 +210,12 @@
           "url": "https://www.archdaily.com/1186852/beijing-1733-bytedance-commercial-project-xu-studio",
           "image_url": "https://images.adsttc.com/media/images/6acf/d694/7887/fb3b/1182/d652/large_jpg/beijing-1733-bytedance-commercial-project-xu-studio_15.jpg?1792005800",
           "source_name": "ArchDaily"
-        },
-        {
-          "title": "루비오이갈리",
-          "url": "https://leibal.com/interiors/rubio-y-gali/",
-          "image_url": "https://leibal.com/wp-content/uploads/2026/10/leibal_rubio-y-gali_de-la-villa-studio_16.jpg",
-          "source_name": "Leibal"
-        },
-        {
-          "title": "TAFA 아트 블록/믹스 아키텍처의 핵심 영역 개조",
-          "url": "https://www.archdaily.com/1186609/renovation-of-the-core-area-of-tafa-art-block-mix-architecture",
-          "image_url": "https://images.adsttc.com/media/images/6ac8/958c/7887/fb21/1c77/dbea/large_jpg/renovation-of-the-core-area-of-tafa-art-block-mix-architecture_50.jpg?1791530410",
-          "source_name": "ArchDaily"
         }
       ]
     }
   ],
   "notable_names": [
+    "Lucy Bridge",
     "Art Basel Paris",
     "Mexico City",
     "Venice Architecture Biennale",
