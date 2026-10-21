@@ -2373,12 +2373,12 @@
  },
  "2026-10-21": {
   "date": "2026-10-21",
-  "headline": "16mm 필름의 거친 입자와 습지 위에 세운 금속 파동",
-  "editorial": "프레드 캠퍼가 16mm 필름에 담은 1976년 뉴욕의 우울은 물리적 입자를 통해 시간을 붙잡는다. 데사이 치아 아키텍처는 습지의 유기적인 파동을 금속이라는 차가운 질료로 고정하며 자연과 인공의 접점을 찾는다. 루카스 트바르코프스키의 무대 위 실시간 촬영은 관객을 피사체로 변환하여 매개된 이미지가 실재를 잠식하는 과정을 드러낸다. 이들은 고정되지 않는 순간을 각자의 방식으로 단단한 구조물이나 매체 속에 가두어 증명한다.",
+  "headline": "습지 위 금속 파동과 낡은 사물의 유령 같은 궤적",
+  "editorial": "프레드 캠퍼는 16mm 필름의 입자로 사라지는 시간을 붙잡고, 루카스 트바르코프스키는 무대 위의 실시간 촬영으로 실재의 영역을 흔든다. 데사이 치아는 습지의 유동하는 파동을 금속 조형으로 고정하며, 알바로 우르바노는 사라진 건축의 흔적을 금속 판과 커튼으로 매달아 유령처럼 불러낸다. 이들은 모두 고정된 사물의 형상 뒤에 숨은 시간의 퇴적물을 끄집어내어 현재의 공간 속에 물리적으로 배치한다.",
   "threads": [
    {
-    "name": "찰나를 붙잡는 물리적 장치",
-    "note": "사라지기 쉬운 시간과 현상을 필름과 조형물, 촬영 시스템으로 붙잡아 둔다.",
+    "name": "사라진 시간의 형상화",
+    "note": "사라져가는 기억이나 필름 속 우울을 물리적 매체로 환원하여 눈앞에 실체화한다.",
     "items": [
      {
       "title": "1976년의 뉴욕, 프레드 캠퍼가 기록한 파편적 우울과 16mm의 질감",
@@ -2389,29 +2389,33 @@
       "url": "https://www.designboom.com/art/lukasz-twarkowski-theater-stage-live-cinematic-spectacle-onassis-stegi-oracle/"
      },
      {
-      "title": "데사이 치아 아키텍처가 채텀 습지에 세운 물의 파동을 닮은 관찰대",
-      "url": "https://www.dezeen.com/2026/10/20/wildlife-pavilion-desai-chia-architecture-new-york/"
+      "title": "용암 동굴 속 모더니즘의 유령들, 금속 식물로 부활하다",
+      "url": "https://www.thisiscolossal.com/2026/10/alvaro-urbano-metal-sculptures-casa-cueva-helen/"
      }
     ]
    },
    {
-    "name": "효율을 거부하는 비정형의 구축",
-    "note": "자본주의의 규격을 벗어난 연약하고 부식되는 재료로 새로운 구조를 세운다.",
+    "name": "차가운 재료의 움직임",
+    "note": "금속과 콘크리트 같은 무거운 재료를 사용하여 자연의 유기적인 움직임이나 건축적 유령을 고정한다.",
     "items": [
+     {
+      "title": "데사이 치아 아키텍처가 채텀 습지에 세운 물의 파동을 닮은 관찰대",
+      "url": "https://www.dezeen.com/2026/10/20/wildlife-pavilion-desai-chia-architecture-new-york/"
+     },
      {
       "title": "이본 마크의 '샌드백 캐슬', 저탄소 콘크리트 실험장으로 변모한 수상 요새",
       "url": "https://www.designboom.com/art/sandbag-castle-sustainable-concrete-alternatives-floating-installation-eindhoven-yvonne-mak/"
      },
      {
-      "title": "케이트 잠브레노의 소설 '폼(Foam)': 자본주의의 폐허 위에서 쓴 연약한 기록",
-      "url": "https://www.anothermag.com/design-living/17580/kate-zambreno-foam-interview-semiotexte-books-in-focus?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=the-gentle-horror-of-kate-zambreno-s-foam"
+      "title": "도시를 가로지르는 연극적 임시 바, 림엔 바",
+      "url": "https://www.wallpaper.com/design-interiors/design-events/limen-bar-max-radford-charlotte-taylor-pauline-leprince-cllc"
      }
     ]
    }
   ],
-  "based_on": 14,
+  "based_on": 24,
   "v": 3,
-  "model": "gemini-3.1-flash-lite",
-  "written_at": "2026-10-21 02:48"
+  "model": "gemini-3.1-flash-lite-preview",
+  "written_at": "2026-10-21 09:25"
  }
 }
