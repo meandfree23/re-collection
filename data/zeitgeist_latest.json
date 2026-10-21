@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-10-21 14:36 KST",
+  "generated_at": "2026-10-21 17:16 KST",
   "period": "2026.10.14 - 2026.10.21",
-  "total_articles": 388,
+  "total_articles": 392,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 181
+      "count": 184
     },
     {
       "genre": "동시대 미술",
-      "count": 155
+      "count": 156
     },
     {
       "genre": "아방가르드 패션",
@@ -54,6 +54,38 @@
       ]
     },
     {
+      "keyword": "미니멀리즘",
+      "count": 6,
+      "previous_count": 3,
+      "trend": "rising",
+      "items": [
+        {
+          "title": "컴패니언 빌라/AsNow 설계 및 시공",
+          "url": "https://www.archdaily.com/1186814/companion-villa-asnow-design-and-construct",
+          "image_url": "https://images.adsttc.com/media/images/6acf/5dab/b2c4/c300/0178/f28e/large_jpg/DSC_9080.jpg?1791975547",
+          "source_name": "ArchDaily"
+        },
+        {
+          "title": "미니멀리즘과 석호가 어우러진 나이지리아의 해변가 저택 안으로 들어가보세요.",
+          "url": "https://www.wallpaper.com/architecture/residential/oa-house-nigerian-beach-house-tosin-oshinowo",
+          "image_url": "https://cdn.mos.cms.futurecdn.net/XQXxs6uThU8bdzKECkyC9C-1920-80.jpg",
+          "source_name": "Wallpaper*"
+        },
+        {
+          "title": "Fran Silvestre Arquitectos가 이비자의 미니멀리스트 저택을 정의하는 얇은 콘크리트 평면",
+          "url": "https://www.dezeen.com/2026/10/18/bellavista-11-villa-fran-silvestre-arquitectos/",
+          "image_url": "https://static.dezeen.com/uploads/2026/10/bellavista-11-fran-silvestre-arquitectos-houses-ibiza-spain-residential-villas-white_dezeen_2364_sq-852x852.jpg",
+          "source_name": "Dezeen"
+        },
+        {
+          "title": "미니멀한 멜버른 주택을 정의하는 일련의 숨겨진 안뜰",
+          "url": "https://www.wallpaper.com/architecture/residential/melbourne-house-casa-piva-australia",
+          "image_url": "https://cdn.mos.cms.futurecdn.net/JdEsQFtD4HtiNjnMFCq9ZD-1920-80.jpg",
+          "source_name": "Wallpaper*"
+        }
+      ]
+    },
+    {
       "keyword": "텍스타일·직물",
       "count": 5,
       "previous_count": 3,
@@ -82,38 +114,6 @@
           "url": "https://hyperallergic.com/12-must-read-books-on-textiles-and-fiber-art/",
           "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/10/2-2.jpg",
           "source_name": "Hyperallergic"
-        }
-      ]
-    },
-    {
-      "keyword": "미니멀리즘",
-      "count": 5,
-      "previous_count": 3,
-      "trend": "rising",
-      "items": [
-        {
-          "title": "미니멀리즘과 석호가 어우러진 나이지리아의 해변가 저택 안으로 들어가보세요.",
-          "url": "https://www.wallpaper.com/architecture/residential/oa-house-nigerian-beach-house-tosin-oshinowo",
-          "image_url": "https://cdn.mos.cms.futurecdn.net/XQXxs6uThU8bdzKECkyC9C-1920-80.jpg",
-          "source_name": "Wallpaper*"
-        },
-        {
-          "title": "Fran Silvestre Arquitectos가 이비자의 미니멀리스트 저택을 정의하는 얇은 콘크리트 평면",
-          "url": "https://www.dezeen.com/2026/10/18/bellavista-11-villa-fran-silvestre-arquitectos/",
-          "image_url": "https://static.dezeen.com/uploads/2026/10/bellavista-11-fran-silvestre-arquitectos-houses-ibiza-spain-residential-villas-white_dezeen_2364_sq-852x852.jpg",
-          "source_name": "Dezeen"
-        },
-        {
-          "title": "미니멀한 멜버른 주택을 정의하는 일련의 숨겨진 안뜰",
-          "url": "https://www.wallpaper.com/architecture/residential/melbourne-house-casa-piva-australia",
-          "image_url": "https://cdn.mos.cms.futurecdn.net/JdEsQFtD4HtiNjnMFCq9ZD-1920-80.jpg",
-          "source_name": "Wallpaper*"
-        },
-        {
-          "title": "루비오이갈리",
-          "url": "https://leibal.com/interiors/rubio-y-gali/",
-          "image_url": "https://leibal.com/wp-content/uploads/2026/10/leibal_rubio-y-gali_de-la-villa-studio_16.jpg",
-          "source_name": "Leibal"
         }
       ]
     },

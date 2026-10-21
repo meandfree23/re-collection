@@ -196442,5 +196442,263 @@
   },
   "depth_raw": 4,
   "depth_v": 2
+ },
+ "archdaily.com/1186699/monastic-field-house-roomoor": {
+  "title_ko": "수트라의 침묵을 품은 콘크리트 수도원 주택, 모나스틱 필드",
+  "summary_ko": "건축 스튜디오 루무어(ROOMOOR)가 인도 발레슈바르의 자이나교 사원 부지 내에 275제곱미터 규모의 사적 주거 공간인 모나스틱 필드 하우스(Monastic Field House)를 완공했다. 2005년 토지 기증에 대한 보답으로 사원 경내에 지어진 이 주택은 고대 수도사들의 거처에서 영감을 받아 단일한 덩어리 형태의 구조를 취한다.",
+  "lens": "고대 암석 거처의 육중한 볼륨을 노출 콘크리트로 재해석하여 주거 공간의 엄숙한 침묵을 구축한다.",
+  "why_now": "고대 종교 건축의 공간적 어휘를 현대적 사적 주거에 이식하여 속세의 소음으로부터 격리된 사유의 공간을 제안한다.",
+  "mechanism": "데칸 고원의 바위를 깎아 만든 고대 수도사들의 거처에서 착안한 단일 덩어리 볼륨을 통해 내외부의 시선을 차단하고 고요한 내부 동선을 유도한다.",
+  "sensory": "거친 노출 콘크리트의 물성과 고속도로 인근 부지라는 입지 사이의 간극 속에서, 두터운 벽체가 외부의 소음을 차단하고 내부의 깊은 적막을 감각하게 만든다.",
+  "transfer": "광고나 뮤직비디오에서 종교적 공간의 엄숙함을 표현할 때, 장식적 요소 대신 단일한 콘크리트 덩어리의 스케일과 단단한 질감을 톱라이팅과 함께 연출한다.",
+  "context": "인도 발레슈바르의 자이나교 사원 경내에 위치하며, 2005년 토지 기증에 대한 답례로 20년 만에 건립된 사적 주거 공간이다.",
+  "findings": [
+   {
+    "text": "건축 스튜디오 루무어(Roomoor)가 인도 발레슈바르의 자이나교 사원 부지 내에 콘크리트 주택인 수도원 밭(Monastic Field)을 완공했다.",
+    "s": 1,
+    "quote": "건축 스튜디오 루무어(Roomoor)가 인도 발레슈바르의 자이나교 사원 부지 내에 콘크리트 주택인 수도원 밭(Monastic Field)을 완공했다."
+   },
+   {
+    "text": "이 주택은 데칸 고원의 바위를 깎아 만든 고대 수도사들의 거처에서 영감을 받아 단일한 덩어리 형태의 구조를 취한다.",
+    "s": 1,
+    "quote": "이 주택은 데칸 고원의 바위를 깎아 만든 고대 수도사들의 거처에서 영감을 받아 단일한 덩어리 형태의 구조를 취한다."
+   }
+  ],
+  "keywords": [
+   "콘크리트",
+   "수도원",
+   "자이나교",
+   "루무어",
+   "인도건축"
+  ],
+  "evidence": "Monastic Field House / ROOMOOR",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "고대 수도원의 공간적 영감을 현대 주거에 적용한 구체적 사례이나 정보가 제한적이다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1186699/monastic-field-house-roomoor",
+  "original_title": "Monastic Field House / ROOMOOR",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 1411,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-21 17:16",
+  "research": {
+   "entities": [
+    "ROOMOOR",
+    "Jain temple"
+   ],
+   "questions": [
+    "Monastic Field House는 어떤 디자인 철학을 바탕으로 설계되었는가?",
+    "자연환경과 종교적 맥락이 이 주택의 건축 자재와 공간 구성에 어떤 영향을 미쳤는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "데칸 고원의 암석 수도원에서 길어 올린 콘크리트 주택, 수도원 밭",
+     "url": "https://www.dezeen.com/2026/10/11/monastic-field-roomoor-india/"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 241
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "wallpaper.com/watches-jewellery/mb-and-f-nostromo-self-assembly-table-clock": {
+  "title_ko": "분해된 233개의 부품으로 완성하는 테이블 시계 노스트로모",
+  "summary_ko": "시계 브랜드 엠비앤에프(MB&F)와 메종 알세(Maison Alcée)가 협업해 조립식 테이블 시계 노스트로모를 선보였다. 강철, 황동, 독일 Silver 소재의 부품 233개와 250페이지의 설명서로 구성되어 있어 약 10시간 동안 직접 조립할 수 있다. 제네바 기계 예술 전시장인 엠에이디 갤러리(M.A.D.Gallery)의 15주년을 기념해 제작되었다.",
+  "lens": "완제품 대신 수백 개의 부품 상자를 건네 시계 내부의 작동 방식을 손으로 직접 깨닫게 만든다.",
+  "why_now": "디지털 화면에 밀려 사라져가는 아날로그 기계 장치의 물성과 조립의 행위를 다시 일상으로 끌어들이는 시도다.",
+  "mechanism": "턴테이블 형태의 삼각대 베이스 위에 시, 분, 초 표기와 14일 파워 리저브, 시간 타종 기능을 담은 기계식 무브먼트가 맞물려 작동한다.",
+  "sensory": "철제와 황동, 은색 부품들이 금속 특유의 서늘한 질감과 무게감을 드러내며 묵직한 태엽 감는 소리를 낸다.",
+  "transfer": "소품이나 오브제를 해체된 상태에서 조립하는 시퀀스를 클로즈업 샷과 매뉴얼 페이지 넘기는 모션으로 연출한다.",
+  "context": "엠비앤에프는 독립 시계 제작자들과 협업하며 기계식 조형물을 만들어온 제네바의 브랜드다. 메종 알세는 알세와 베누아 몽포르 부부가 전통 시계 제작 기술을 대중에게 전파하기 위해 2019년에 설립한 프랑스 기업이다.",
+  "findings": [
+   {
+    "text": "메종 알세는 프랑스와 스위스 국경의 쥬라 아크 지역에서 전통 시계 제작 기술을 이어가기 위해 설립되었다.",
+    "s": 2,
+    "quote": "Manufactured in the heart of the Jura Arc straddling France and Switzerland"
+   }
+  ],
+  "keywords": [
+   "MB&F",
+   "메종알세",
+   "테이블시계",
+   "기계식무브먼트"
+  ],
+  "evidence": "Once customers have paid their CHF12,000, they’ll open its box and find the table clock in bits.",
+  "kind": "제품·오브제",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "완제품이 아닌 조립 키트라는 독특한 형식과 명확한 제작 배경이 잘 드러나 있으나 한정된 제품 소개에 가깝다.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/watches-jewellery/mb-and-f-nostromo-self-assembly-table-clock",
+  "original_title": "Meet ‘Nostromo’, MB&F’s new self-assembly table clock for watch geeks",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 3433,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-21 17:16",
+  "research": {
+   "entities": [
+    "Maximillian Maertens",
+    "MB&F",
+    "Maison Alcée",
+    "Nostromo",
+    "Persée"
+   ],
+   "questions": [
+    "MB&F의 'Nostromo' 테이블 시계는 어떤 영화적 요소에서 영감을 받아 제작되었나요?",
+    "Maison Alcée는 일반인들이 시계 제작 기술을 쉽게 접할 수 있도록 어떤 방식으로 키트를 구성했나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Welcome to MB&F",
+     "url": "https://www.mbandf.com/"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Maison Alcée - Exceptional watchmaking set",
+     "url": "https://www.maison-alcee.com/en/"
+    },
+    {
+     "n": 3,
+     "type": "공식·1차",
+     "title": "Persée luxury table clock by Maison Alcée",
+     "url": "https://www.maison-alcee.com/en/collection/"
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "MB&F",
+     "url": "https://en.wikipedia.org/wiki/MB%26F"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "chars": 8115
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "dezeen.com/2026/10/21/glen-gery-frist-health-centre": {
+  "title_ko": "폐기물을 재료 삼아 쌓아 올린 프린스턴 보건 센터의 버건디 벽돌",
+  "summary_ko": "미국 프린스턴 대학교 프리스 보건 센터가 글렌 게리의 버건디색 벽돌인 폰데로사 웨스턴으로 외관을 감쌌다. 이 벽돌은 제조 공정에서 발생한 회수 폐기물을 재활용해 제작되었다. 건물은 주변의 1924년 준공된 고딕 양식 건축물과 조화를 이루며 생태 조경과 목조 인테리어를 갖추고 있다.",
+  "lens": "제조 부산물을 벽돌 재료로 환원해 한 세기 전 고딕 양식의 물성과 결합한다.",
+  "why_now": "건축 자재의 생산 과정에서 발생하는 탄소를 줄이기 위해 제조 폐기물을 직접 재활용하는 방식이 주목받고 있다.",
+  "mechanism": "압출 방식으로 성형한 벽돌을 수평 러닝 본드 패턴으로 쌓고, 벨루어·홈·샌디드 마감을 조합해 표면 질감을 다변화했다.",
+  "sensory": "깊은 버건디 색조의 벽돌 표면이 빛의 각도에 따라 거친 질감과 정교한 모서리의 대조를 드러낸다.",
+  "transfer": "콘티 제작 시 산업 폐기물이나 재활용 소재를 정밀 가공하여 헤비한 질감을 지닌 벽면 세트로 활용한다.",
+  "context": "프린스턴 대학교 캠퍼스에 세워진 프리스 보건 센터는 바이오필릭 디자인과 적응형 재사용 부문에서 미국 건축가협회(AIA) 뉴욕 지부의 인정을 받았다.",
+  "findings": [],
+  "keywords": [
+   "재활용벽돌",
+   "프리스보건센터",
+   "글렌게리",
+   "버건디벽돌",
+   "친환경건축"
+  ],
+  "evidence": "Burgundy-coloured bricks incorporating reclaimed manufacturing waste wrap Princeton University’s Frist Health Centre in Princeton, New Jersey",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "제조 폐기물 벽돌과 고딕 양식의 조화라는 구체적 정보가 있으나 상업적 파트너십 콘텐츠의 한계가 있다.",
+  "v": 2,
+  "url": "https://www.dezeen.com/2026/10/21/glen-gery-frist-health-centre/",
+  "original_title": "Glen-Gery clads Princeton University health centre in bricks made with reclaimed materials",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 3033,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-21 17:16",
+  "research": {
+   "entities": [
+    "Glen-Gery",
+    "Princeton University",
+    "Frist Health Centre",
+    "Eno Hall"
+   ],
+   "questions": [
+    "프린스턴 대학교 프리스 보건 센터에 사용된 재활용 소재 벽돌의 제작 공정과 친환경적 특징은 무엇인가?",
+    "글렌게리(Glen-Gery)의 웨스턴 시리즈 벽돌이 캠퍼스의 기존 고딕 양식 건축물과 조화를 이루는 방식은 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Princeton University",
+     "url": "https://en.wikipedia.org/wiki/Princeton%20University"
+    },
+    {
+     "n": 2,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "브루클린의 주거용 건물을 감싼 다채로운 벽돌의 결",
+     "url": "https://www.dezeen.com/2026/10/08/na-design-studio-glen-gery-bricks/"
+    }
+   ],
+   "used": [],
+   "chars": 1605
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "archdaily.com/1186814/companion-villa-asnow-design-and-construct": {
+  "title_ko": "밀도와 규모의 해법을 담은 이란의 컴패니언 빌라",
+  "summary_ko": "이란 쿠사르에 완공된 연면적 400제곱미터의 컴패니언 빌라는 소니아 타타리와 에흐산 타바솔리가 이끄는 아즈나우 디자인 앤 컨스트럭트가 설계했다. 이 주거 프로젝트는 미니멀리즘 모더니즘 언어를 유지하면서 주변의 밀도와 규모, 이웃 맥락의 문제에 대응한다.",
+  "lens": "미니멀리즘 언어로 주변의 밀도와 규모 문제를 풀어낸 주거 공간의 해법이다.",
+  "why_now": "도심과 주거지의 밀도가 높아지는 상황에서 미니멀한 건축이 주변 맥락과 어떻게 공존할 수 있는지 보여준다.",
+  "mechanism": "미니멀리즘 모더니즘 디자인 어휘를 사용하여 주변 이웃의 규모와 밀도에 대응하는 방식으로 건물의 형태를 조율했다.",
+  "sensory": "주변 맥락을 정제된 모더니즘 언어로 정리하여 시각적인 복잡함을 덜어낸 간결한 물성을 드러낸다.",
+  "transfer": "공간 배경이나 세트 디자인에서 복잡한 요소를 배제하고 최소한의 면분할과 규모 조절로 정제된 분위기를 연출할 때 참고한다.",
+  "context": "아즈나우 디자인 앤 컨스트럭트가 이란 쿠사르에 완성한 주거 프로젝트다.",
+  "findings": [],
+  "keywords": [
+   "모더니즘",
+   "미니멀리즘",
+   "주거건축",
+   "이란건축"
+  ],
+  "evidence": "Companion Villa is a residential project that responds to the challenges of density, scale, and neighborhood context while maintaining a minimalist modernist language.",
+  "kind": "프로젝트",
+  "depth": 2,
+  "grounding": "thin",
+  "depth_reason": "원문 설명이 짧고 구체적인 공간 내부 장치나 재료의 상세한 수치가 부족하여 가치 점수를 낮게 책정했다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1186814/companion-villa-asnow-design-and-construct",
+  "original_title": "Companion Villa / AsNow Design & Construct",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 983,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-21 17:17",
+  "research": {
+   "entities": [
+    "AsNow Design & Construct",
+    "Sonia Tatari",
+    "Ehsan Tavasoli",
+    "Companion Villa"
+   ],
+   "questions": [
+    "Companion Villa가 위치한 Kuhsar 지역의 건축적 맥락과 밀도 문제는 구체적으로 어떤 것인가?",
+    "AsNow Design & Construct가 추구하는 미니멀리즘 모더니즘 언어는 이 프로젝트의 외관과 공간 구성에 어떻게 반영되었는가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 2,
+  "depth_v": 2
  }
 }
