@@ -198391,5 +198391,596 @@
   },
   "depth_raw": 2,
   "depth_v": 2
+ },
+ "motionographer.com/2026/10/21/the-flowers-look-back-teamlab-at-offf-barcelona-2026": {
+  "title_ko": "팀랩의 환경 현상: 고정된 오브제를 넘어 흐름으로 존재하는 예술",
+  "summary_ko": "예술 집단 팀랩(teamLab)은 디지털 솔루션 사업과 예술 창작이라는 두 축을 통해 기업화되지 않고도 전 세계에 상설 미술관을 운영한다. 이들은 특정 부서 없이 수학자, 공학자, 예술가 등 전문가들이 프로젝트 단위로 모여 작업하며, 고정된 형태가 아닌 환경의 흐름에 따라 변화하는 '환경 현상'을 예술의 본질로 삼는다.",
+  "lens": "예술을 소유 가능한 오브제가 아닌, 환경의 에너지 흐름이 만들어내는 일시적 현상으로 정의하여 관객의 신체와 공간의 경계를 지운다.",
+  "why_now": "디지털 기술이 물리적 실체에서 분리된 정보의 영역을 넘어, 공간의 환경 자체를 조율하는 동적 매개체로 진화하고 있다.",
+  "mechanism": "공기 흐름으로 구체를 띄우거나 난초를 공중에 부유시키는 등 물리적 환경을 제어하여, 관객이 진입하는 순간 공간의 질서가 변화하게 설계한다.",
+  "sensory": "흙 없이 공중에 떠 있는 1만 3천 본의 난초가 관객의 움직임에 따라 유동적으로 길을 터주는 감각적 부유감과, 실체 없는 에너지가 공간을 채우는 비물질적 스케일을 경험하게 한다.",
+  "transfer": "공간 연출 시 고정된 조형물을 배치하는 대신, 바람·빛·움직임 등 환경적 요소를 활용해 관객의 동선에 따라 실시간으로 반응하는 가변적 공간을 구성한다.",
+  "context": "팀랩은 2001년 설립 이후 기술과 자연의 융합을 탐구해 왔으며, 최근 시카고 스마트 미술관 등에서 구리 같은 물리적 질감과 디지털 유동성을 결합한 작업을 이어가고 있다. 이들은 고정된 직함 없이 전문가들이 모이는 '실험실(Laboratory)'로서의 정체성을 25년간 유지 중이다.",
+  "findings": [
+   {
+    "text": "팀랩은 예술, 과학, 기술, 자연 세계의 합류점을 탐색하는 국제적인 예술 집단이다.",
+    "s": 1,
+    "quote": "teamLab (f. 2001) is an international art collective. Their collaborative practice seeks to navigate the confluence of art, science, technology, and the natural world."
+   },
+   {
+    "text": "환경 현상(Environmental Phenomena)은 환경의 흐름에 의해 형성되기에 고정된 상자 안에 담길 수 없는 예술을 의미한다.",
+    "s": 2,
+    "quote": "A vortex exists within the flow created by its environment, formed by water continuously flowing from the outside to the inside and from the inside to the outside, and changes along with that flow."
+   }
+  ],
+  "keywords": [
+   "팀랩",
+   "환경현상",
+   "디지털아트",
+   "공간설치",
+   "비물질성"
+  ],
+  "evidence": "You could not scoop it up and put it in a silver box. It would stop existing the moment you tried.",
+  "kind": "프로젝트",
+  "depth": 5,
+  "grounding": "full",
+  "depth_reason": "예술 집단의 조직 구조와 철학적 배경, 그리고 이를 구현하는 구체적 기술적 장치를 명확히 연결하여 실무적 적용 가능성을 제시한다.",
+  "v": 2,
+  "url": "https://motionographer.com/2026/10/21/the-flowers-look-back-teamlab-at-offf-barcelona-2026/",
+  "original_title": "The Flowers Look Back: teamLab at OFFF Barcelona 2026",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 9000,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-21 23:15",
+  "research": {
+   "entities": [
+    "teamLab",
+    "OFFF Barcelona",
+    "Toshiyuki Inoko",
+    "Disseny Hub Barcelona"
+   ],
+   "questions": [
+    "teamLab은 어떻게 기업화되지 않고 대규모 예술 집단으로서의 정체성을 유지하며 영구 미술관을 운영할 수 있는가?",
+    "디지털 솔루션 사업과 예술 창작 활동이라는 teamLab의 이원화된 구조는 실제로 어떻게 유기적으로 작동하는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "teamLab",
+     "url": "https://www.teamlab.art/"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Environmental Phenomena | teamLab",
+     "url": "https://www.teamlab.art/concept/environmental-phenomena/"
+    },
+    {
+     "n": 3,
+     "type": "공식·1차",
+     "title": "Ultrasubjective Space | teamLab",
+     "url": "https://www.teamlab.art/concept/ultrasubjective-space/"
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "Fukkk Offf",
+     "url": "https://en.wikipedia.org/wiki/Fukkk%20Offf"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "팀랩, 시카고 스마트 미술관에서 디지털로 잇는 시공간의 연속성",
+     "url": "https://www.thisiscolossal.com/2026/10/teamlab-smart-museum-chicago-exhibition-digital-installations/"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3,
+    5
+   ],
+   "chars": 6178
+  },
+  "depth_raw": 5,
+  "depth_v": 2
+ },
+ "yatzer.com/win-wine-bar-warsaw": {
+  "title_ko": "산업적 골조와 유기적 형태가 빚어낸 바르샤바의 와인 바",
+  "summary_ko": "폴란드 건축 스튜디오 자나미 시에(Znamy się)가 바르샤바 볼라 지구에 조성한 와인 바 WIN은 생 콘크리트와 테라코타 톤 블록을 사용하여 포도밭 토양의 광물성을 드러낸다. 가늘고 긴 버건디색 금속 프레임과 질감이 살아있는 유리 패널은 덩굴의 유기적 형태와 따르는 와인의 움직임을 시각적으로 구현한다.",
+  "lens": "차가운 산업적 골조에 와인 양조 과정을 추상화한 유기적 곡선을 겹쳐 공간의 서사를 완성한다.",
+  "why_now": "천편일률적인 빈티지풍 인테리어에서 벗어나, 원재료의 물성과 추상적인 은유로 브랜드의 정체성을 공간에 구현하는 방식이다.",
+  "mechanism": "바 카운터는 흰색 기하학적 릴리프 타일과 따뜻한 목재 상판을 조합하고, 덩굴을 연상시키는 가늘고 붉은 금속 프레임으로 수직적 질서와 유기적 곡선을 동시에 만들어낸다.",
+  "sensory": "노출 콘크리트의 거친 질감과 깊은 인디고 및 버건디 색상의 타일이 대비를 이루며, 묵직한 물성과 빛을 머금은 유리 패널이 공간에 촉각적 온도를 더한다.",
+  "transfer": "공간이나 세트 디자인에서 차가운 인더스트리얼 베이스에 자연물을 닮은 곡선형 메탈 프레임과 질감 있는 유리를 조합해 시각적 리듬을 만드는 장치로 쓴다.",
+  "context": "폴란드를 기반으로 공간과 브랜딩의 통합적 디자인을 전개해온 스튜디오 자나미 시에(Znamy się)의 작업이다.",
+  "findings": [
+   {
+    "text": "자나미 시에는 공간의 미적 완성도뿐만 아니라 투자자의 비즈니스 및 삶의 목표를 지원하고 브랜드와 일치하는 독창적인 디테일을 만든다.",
+    "s": 1,
+    "quote": "Nasze projekty zachwycają estetyką, opowiadają historię, wspierają cele życiowe i biznesowe naszych inwestorów."
+   }
+  ],
+  "keywords": [
+   "와인바인테리어",
+   "인더스트리얼",
+   "메탈프레임",
+   "공간디자인",
+   "자나미시에"
+  ],
+  "evidence": "At WIN, a new wine bar and shop in Warsaw’s Wola district, Polish architecture studio Znamy się takes a more contemporary approach.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "구체적인 와인 바 공간 디자인 프로젝트와 재료 활용을 상세히 다루나 선례로서의 파급력은 보통이다.",
+  "v": 2,
+  "url": "https://www.yatzer.com/win-wine-bar-warsaw",
+  "original_title": "Industrial Rigour Meets Organic Expression at WIN Wine Bar in Warsaw",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 3121,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-21 23:15",
+  "research": {
+   "entities": [
+    "Znamy się",
+    "WIN Wine Bar"
+   ],
+   "questions": [
+    "Znamy się 스튜디오가 추구하는 디자인 철학은 무엇이며, 이번 프로젝트에서 산업적 요소와 유기적 형태를 어떻게 조화시켰는가?",
+    "와인 생산 과정의 어떤 요소들이 구체적으로 건축적 디테일(금속 프레임, 타일, 색감 등)로 치환되었는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Znamy się · wyjątkowe biuro architektoniczne · architekt, projekty wnętrz · architekt Wroc",
+     "url": "https://znamysie.com/"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 2600
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "dazeddigital.com/fashion/article/71209/1/the-best-street-style-from-ireland-fashion-week-2026": {
+  "title_ko": "아일랜드 패션 위크: 전통의 직조와 동시대적 재해석의 현장",
+  "summary_ko": "제2회 아일랜드 패션 위크는 90여 명의 디자이너가 참여하며 아일랜드 독립 디자인의 잠재력을 확인했다. 신진 디자이너들은 트위드와 같은 전통적 요소에 현대적 감각을 더해 독자적인 미학을 구축하고 있다. 디올의 트리니티 칼리지 쇼 개최 예정 등 글로벌 패션계의 주목을 받으며 지역 생태계가 빠르게 확장 중이다.",
+  "lens": "전통 직물과 공예적 기법을 동시대적 실루엣으로 재조립하며, 지역적 정체성을 글로벌 패션 문법으로 치환하는 과정이 핵심이다.",
+  "why_now": "해외로 향하던 젊은 디자이너들이 자국 기반의 생태계 구축에 집중하며, 아일랜드 패션이 독자적인 글로벌 브랜드 가치를 형성하는 변곡점에 있다.",
+  "mechanism": "트위드와 같은 역사적 소재를 현대적인 재단 방식과 결합하여, 과거의 유산을 보존하는 동시에 전위적인 구조로 변주하는 방식을 취한다.",
+  "sensory": "거친 트위드의 질감과 대서양의 기후를 반영한 기능적 실루엣이 공존하며, 전통 공예의 투박함과 현대적 혁신이 충돌하는 시각적 긴장감을 만든다.",
+  "transfer": "로컬리티를 강조할 때 민속적 요소를 그대로 복제하기보다, 현대적인 테일러링과 결합하여 '전통의 재맥락화'라는 서사를 영상의 룩북과 의상 연출에 적용한다.",
+  "context": "제2회 아일랜드 패션 위크는 슬레인 캐슬과 더블린을 거점으로 신진 디자이너를 조명했다. 시네이드 오드와이어(Sinéad O’Dwyer)와 같은 디자이너들은 지역의 민속적 유산을 현대적 런웨이 문법으로 재구성하며 아일랜드 패션의 새로운 궤적을 그리고 있다.",
+  "findings": [
+   {
+    "text": "아일랜드 패션 위크는 90명 이상의 디자이너가 참여하며 신진 이벤트로서 입지를 다지고 있다.",
+    "s": 3,
+    "quote": "제2회 아일랜드 패션 위크가 슬레인 캐슬과 더블린에서 열려 90여 명의 신진 및 기성 디자이너를 조명했다."
+   }
+  ],
+  "keywords": [
+   "아일랜드패션",
+   "전통의재맥락화",
+   "로컬생태계",
+   "트위드",
+   "시네이드오드와이어"
+  ],
+  "evidence": "Irish fashion is a conversation between heritage and modern innovation – with the Atlantic weather as a mediator.",
+  "kind": "런웨이·컬렉션",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "지역 패션 생태계의 성장과 전통 소재의 현대적 변용이라는 구체적인 디자인 전략을 다루고 있다.",
+  "v": 2,
+  "url": "https://www.dazeddigital.com/fashion/article/71209/1/the-best-street-style-from-ireland-fashion-week-2026?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=the-best-street-style-from-ireland-fashion-week",
+  "original_title": "The best street style from Ireland Fashion Week",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 5503,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-21 23:15",
+  "research": {
+   "entities": [
+    "Sinéad O’Dwyer",
+    "Alana Hadid",
+    "Dior",
+    "Trinity College",
+    "Copenhagen Fashion Week"
+   ],
+   "questions": [
+    "아일랜드 패션 위크가 아일랜드 패션 산업계에서 가지는 의미와 성장 가능성은 무엇인가?",
+    "최근 아일랜드 디자이너들이 전통적인 요소를 현대적인 패션에 어떻게 접목하고 있는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Dior",
+     "url": "https://en.wikipedia.org/wiki/Dior"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Trinity College Dublin",
+     "url": "https://en.wikipedia.org/wiki/Trinity%20College%20Dublin"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "런던과 파리를 떠나 집으로 향하는 아일랜드 패션의 궤적",
+     "url": "https://www.dazeddigital.com/fashion/article/71170/1/everyone-wants-to-be-irish-ireland-fashion-week-2026-green-pilled?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=why-does-everyone-want-to-be-irish-ask-ireland-fashion-week"
+    }
+   ],
+   "used": [
+    2,
+    3
+   ],
+   "chars": 2480
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "dazeddigital.com/beauty/article/64807/1/in-pictures-the-beauty-evolution-of-doja-cat": {
+  "title_ko": "도자 캣, 캔버스가 된 얼굴로 해체한 여성성의 도상",
+  "summary_ko": "가수 도자 캣은 2022년 머리와 눈썹을 모두 밀어낸 뒤, 자신의 얼굴을 서사적인 메이크업을 위한 빈 캔버스로 활용하고 있다. 그는 꽃, 스마일리 페이스, 정자 모양 등 기이한 드로잉과 우주적 색채의 라인워크를 통해 전통적인 여성성 기준에 저항한다. 이는 단순히 아름다움을 넘어, 신체를 매개로 한 예술적 실험이자 관습적인 시선에 대한 반박이다.",
+  "lens": "도자 캣의 얼굴은 메이크업을 꾸밈의 도구가 아닌, 신체라는 지지대를 점유하는 급진적인 조형 언어로 치환한다.",
+  "why_now": "여성의 신체를 평가의 대상으로 삼는 미디어의 관습에 맞서, 메이크업을 자아를 표현하는 서사적 장치로 전유하는 태도가 돋보인다.",
+  "mechanism": "눈썹을 제거해 얼굴의 여백을 극대화하고, 그 위에 1920년대 연필 눈썹과 80년대 블러셔, 뉴 로맨틱 스타일의 라인워크를 혼합해 시대착오적이고 이질적인 이미지를 중첩한다.",
+  "sensory": "피부 위를 가득 채운 3만 개의 스와로브스키 크리스털이 만드는 금속성 광택과, 정교하게 그려진 기하학적 도형들이 시각적 긴장감을 유발한다.",
+  "transfer": "광고나 영상 연출 시, 인물의 얼굴을 단순히 조명하는 것을 넘어 그래픽적인 메이크업 패턴을 입혀 인물을 추상적인 오브제처럼 활용하는 레이어링 기법을 적용할 수 있다.",
+  "context": "도자 캣은 데뷔 초기부터 소 분장을 하거나 파격적인 신체 장식을 즐기며 음악적 다양성과 유머러스한 인터넷 존재감을 구축해 왔다. 데이즈드(Dazed)는 그간 르네 레비의 건축적 회화나 메릴 로그의 해체주의적 패션처럼 기존의 틀을 깨는 예술적 시도를 지속적으로 조명해 왔다.",
+  "findings": [
+   {
+    "text": "도자 캣은 2018년 데뷔 앨범 '아말라(Amala)'에 수록된 바이럴 싱글 '무(Mooo!)'로 주목받기 시작했다.",
+    "s": 1,
+    "quote": "Her second studio album, Hot Pink (2019), spawned the single \"Say So\", which became her first to top the US Billboard Hot 100. Her third studio album, Planet Her (2021), produced a string of top-ten hits, including \"Kiss"
+   }
+  ],
+  "keywords": [
+   "도자 캣",
+   "아방가르드 뷰티",
+   "신체 조형",
+   "메이크업 실험"
+  ],
+  "evidence": "All of my make-up has a story and there are absolutely 0 rules.",
+  "kind": "작가·인터뷰",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "도자 캣의 메이크업을 단순한 스타일링이 아닌 신체 조형의 확장으로 해석하여 구체적인 연출적 연결 고리를 제시했다.",
+  "v": 2,
+  "url": "https://www.dazeddigital.com/beauty/article/64807/1/in-pictures-the-beauty-evolution-of-doja-cat?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=in-pictures-doja-cat-s-beauty-evolution",
+  "original_title": "In pictures: Doja Cat’s beauty evolution",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 3087,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-21 23:16",
+  "research": {
+   "entities": [
+    "Doja Cat",
+    "Laurel Charleston",
+    "Marni",
+    "Swarovski",
+    "Dazed"
+   ],
+   "questions": [
+    "도자 캣이 뷰티와 메이크업을 통해 전통적인 여성성의 기준에 도전한 구체적인 스타일링 사례는 무엇인가요?",
+    "도자 캣의 과감한 메이크업 변화가 대중과 평단, 그리고 팬들에게 준 문화적·예술적 의미는 무엇인가요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Doja Cat",
+     "url": "https://en.wikipedia.org/wiki/Doja%20Cat"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Marni von Wilpert",
+     "url": "https://en.wikipedia.org/wiki/Marni%20von%20Wilpert"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "메릴 로그의 마르니, 뼈대만 남긴 급진적 해부",
+     "url": "https://www.anothermag.com/fashion-beauty/17507/marni-spring-summer-2027-ss27-meryll-rogge-review?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=the-curious-world-of-meryll-rogge-s-marni"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "데이즈드와 YMC, 1996년 아카이브를 소환한 펑크적 재해석",
+     "url": "https://www.dazeddigital.com/fashion/article/71035/1/here-s-what-happened-when-dazed-launched-a-t-shirt-with-ymc?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=here-s-what-happened-when-dazed-launched-a-t-shirt-with-ymc"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "르네 레비가 헤이워드 갤러리의 콘크리트 외벽을 회화의 캔버스로 치환하다",
+     "url": "https://www.dazeddigital.com/art-photography/article/71023/1/art-writers-apply-to-interview-rene-levi-for-dazed-hayward-gallery?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=art-writers-join-dazed-club-for-your-chance-to-interview-renee-levi-for-us"
+    }
+   ],
+   "used": [
+    1,
+    4,
+    5
+   ],
+   "chars": 2557
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "creativeboom.com/work/davy-denduyver": {
+  "title_ko": "인스타그램 스크롤에서 시작된 수작업 리브랜딩의 기록",
+  "summary_ko": "일러스트레이션 에이전시 에이 휴먼 에이전시(A Human Agency)의 설립자 라이언 클레이던이 크리에이티브 붐의 인스타그램 추천 시리즈를 통해 벨기에의 그래픽 디자이너 데이비 덴듀이버를 발굴해 5주년 리브랜딩 작업을 맡겼다. 일러스트레이터들의 작품을 가리키지 않는 독립적인 받침대 역할을 하도록 손으로 그린 워드마크와 엠블럼을 크림과 블랙 팔레트로 구현했다.",
+  "lens": "디지털 자동화가 지배하는 국면에서 불완전한 수작업 도장 그래픽으로 브랜드의 실재감을 복원한다.",
+  "why_now": "인공지능 도구로 생성된 이미지와 콘텐츠가 범람하는 피로감 속에서, 인간의 손으로 빚어낸 거친 질감과 원시적 물성이 차별화된 가치로 작동한다.",
+  "mechanism": "일러스트레이션 배제와 손으로 직접 그린 워드마크 및 기울어진 세리프 타이포를 조합해 박스 테이프와 명함 등 실물 매체에서 도장처럼 찍힌 듯한 촉각적 인상을 남긴다.",
+  "sensory": "화면 너머로 번지는 부드러운 크림톤 배경과 거친 잉크의 결, 비대칭적인 자간 배치가 날것의 아날로그적 온도를 전달한다.",
+  "transfer": "인위적인 디지털 효과를 배제하고 실물 스탬프와 손글씨를 활용해 타이틀 시퀀스나 브랜드 굿즈의 물성을 극대화하는 연출에 대입한다.",
+  "context": "독립 그래픽 디자이너이자 크리에이티브 디렉터로 활동해온 데이비 덴듀이버는 바르셀로나의 레스토랑 미나(Mina)의 아이덴티티 작업에서 손그림과 타이포그래피를 결합하는 방식을 선보인 바 있다.",
+  "findings": [],
+  "keywords": [
+   "그래픽디자인",
+   "리브랜딩",
+   "수작업",
+   "타이포그래피"
+  ],
+  "evidence": "Davy's work has a tactility to it, and I was initially hooked by his identity for the Barcelona-based restaurant Mina",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "인스타그램을 통한 발굴과 수작업 브랜딩의 의도가 분명하지만 선례가 아주 드물지는 않다.",
+  "v": 2,
+  "url": "https://www.creativeboom.com/work/davy-denduyver/",
+  "original_title": "From Creative Boom's Instagram to a full rebrand: How Davy Denduyver met A Human Agency",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 9000,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-21 23:16",
+  "research": {
+   "entities": [
+    "Davy Denduyver",
+    "A Human Agency",
+    "Creative Boom",
+    "Mina"
+   ],
+   "questions": [
+    "Davy Denduyver가 디자인한 Mina 레스토랑의 아이덴티티는 어떤 시각적 특징을 가지고 있는가?",
+    "A Human Agency의 리브랜딩 과정에서 Davy Denduyver가 적용한 핵심 디자인 전략은 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Davy Denduyver — Design & Direction",
+     "url": "https://www.davydenduyver.com/"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Illustration Agency London | A Human Agency",
+     "url": "https://www.ahumanagency.co/"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "AI가 밀어낸 자리에서 싹트는 6만 명의 수작업 애니메이션",
+     "url": "https://www.creativeboom.com/work/ester-pazur-on-being-a-pessimist-the-power-of-stop-motion-and-why-handmade-art-still-matters/"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "시간대와 마우스에 반응하는 크리에이티브 붐의 눈 마스코트",
+     "url": "https://www.creativeboom.com/news/the-eyes-have-it-how-we-brought-creative-booms-mascot-to-life-in-different-time-zones/"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "잠수 탄 클라이언트 앞에서 주도권을 쥐는 실무 대응법",
+     "url": "https://www.creativeboom.com/dear-boom/are-you-getting-ghosted-more-than-ever-youre-not-alone/"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 1499
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "anothermag.com/art-photography/17582/cindy-sherman-fabric-matrons-hauser-wirth-sofia-coppola-hans-ulrich-obrist": {
+  "title_ko": "신디 셔먼, 샤넬의 아카이브로 직조한 노년의 초상",
+  "summary_ko": "신디 셔먼이 신작 '패브릭 메이트런스'에서 샤넬 아카이브의 트위드와 주얼리를 활용해 노년의 여성상을 탐구한다. 작가는 1990년대 샤넬 원단과 장신구를 재조합해 카프탄과 터번을 제작하고, 이를 인물과 배경에 덧입혀 나이 듦에 따른 존재의 희미해짐을 시각화했다.",
+  "lens": "노년의 신체를 가리는 장식적 과잉을 방어 기제로 해석하고, 이를 배경과 동화시켜 인물의 소멸을 물리적으로 구현한다.",
+  "why_now": "디지털 필터로 자아를 보정하는 시대에, 작가는 오히려 노화의 징후를 과장하고 왜곡하여 '보정된 현실'의 허구성을 폭로한다.",
+  "mechanism": "샤넬의 트위드와 가죽, 금사를 엮어 만든 의상과 배경을 동일한 질감으로 덮어, 인물이 공간 속으로 서서히 사라지는 시각적 장치를 배치한다.",
+  "sensory": "트위드의 거친 결, 금속성 장신구의 차가운 광택, 겹겹이 쌓인 두꺼운 메이크업의 질감이 인물의 불안과 신경증을 촉각적으로 전달한다.",
+  "transfer": "인물을 배경과 분리하지 않고 동일한 패턴이나 텍스처로 덮어 공간에 귀속시키는 연출은, 인물의 심리적 고립이나 존재감의 상실을 표현하는 미장센으로 유효하다.",
+  "context": "신디 셔먼은 1970년대부터 사진을 통해 자아의 가변성을 탐구해온 작가로, 이번 작업은 2000년대 할리우드 시리즈와 소셜라이트 시리즈에서 보여준 사회적 페르소나 연구의 연장선에 있다. 샤넬은 기존의 정교한 쿠튀르 문법을 작가의 해체적 시각과 결합해 새로운 서사를 생성하는 플랫폼으로 기능한다.",
+  "findings": [
+   {
+    "text": "신디 셔먼은 1954년생 미국 작가로, 자신의 사진을 통해 다양한 가상의 캐릭터를 연출하는 작업을 주로 수행한다.",
+    "s": 1,
+    "quote": "Cynthia Morris Sherman (born January 19, 1954) is an American artist whose work consists primarily of photographic self-portraits, depicting herself in many different contexts and as various imagined characters."
+   },
+   {
+    "text": "샤넬은 1910년 코코 샤넬이 설립한 브랜드로, 구조적인 코르셋 실루엣을 기능적인 의복으로 대체하며 오트 쿠튀르를 혁신했다.",
+    "s": 2,
+    "quote": "Chanel is credited for revolutionising haute couture and ready-to-wear by replacing structured, corseted silhouettes with more functional garments that women still found flattering."
+   }
+  ],
+  "keywords": [
+   "신디셔먼",
+   "샤넬",
+   "노화",
+   "자아",
+   "패브릭메이트런스"
+  ],
+  "evidence": "As we age, we become a little bit more invisible",
+  "kind": "프로젝트",
+  "depth": 5,
+  "grounding": "full",
+  "depth_reason": "작가의 작업 방식과 샤넬 아카이브의 구체적 활용, 그리고 노년이라는 주제가 시각적 장치와 결합된 논리가 매우 명확하다.",
+  "v": 2,
+  "url": "https://www.anothermag.com/art-photography/17582/cindy-sherman-fabric-matrons-hauser-wirth-sofia-coppola-hans-ulrich-obrist?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=in-celebration-of-cindy-sherman",
+  "original_title": "In Celebration of Cindy Sherman",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 9000,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-21 23:17",
+  "research": {
+   "entities": [
+    "Cindy Sherman",
+    "Chanel",
+    "Moon Fabrics"
+   ],
+   "questions": [
+    "신디 셔먼의 신작 시리즈 'Fabric Matrons'은 이전의 사회적 페르소나 작업들과 어떤 차이점이 있는가?",
+    "샤넬 아카이브와의 협업은 신디 셔먼의 이번 작업 과정과 시각적 표현에 어떻게 기여했는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Cindy Sherman",
+     "url": "https://en.wikipedia.org/wiki/Cindy%20Sherman"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Chanel",
+     "url": "https://en.wikipedia.org/wiki/Chanel"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "무지개빛 스펙트럼으로 직조한 동시대 미술의 물성과 색채",
+     "url": "https://www.thisiscolossal.com/2026/02/rainbow-dreams-color-light-book/"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "합판과 레고로 재현한 캉봉가의 샤넬 오트 쿠튀르",
+     "url": "https://www.designboom.com/art/tom-sachs-handmade-31-rue-cambon-plywood-chanel-couture-flagship-new-york/"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "코코 샤넬의 성소, 31번지 캉봉 거리와 리츠 호텔의 미학",
+     "url": "https://www.architecturaldigest.com/story/coco-chanel-at-home-photos"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 1881
+  },
+  "depth_raw": 5,
+  "depth_v": 2
+ },
+ "dezeen.com/2026/10/21/dezeen-launches-new-website-2026": {
+  "title_ko": "디진(Dezeen)의 웹사이트 개편: 10년의 기록을 담는 디지털 아카이브의 진화",
+  "summary_ko": "건축·디자인 매체 디진(Dezeen)이 10년 만에 웹사이트를 전면 개편했다. 크리에이티브 기술 스튜디오 메이드 바이 온(Made by On)과 협업하여 웹사이트의 성능과 안정성을 높였으며, 미샤 바이드만(Micha Weidmann)의 브랜드 가이드라인을 바탕으로 파편화되었던 하위 서비스들을 통합했다.",
+  "lens": "단순한 정보 전달을 넘어, 20년 축적된 방대한 콘텐츠를 인공지능 시대의 파편화된 정보 속에서 어떻게 구조화하고 시각화할 것인가에 대한 매체의 응답이다.",
+  "why_now": "인공지능 생성 콘텐츠가 범람하는 환경에서, 인간이 큐레이션한 저널리즘의 가치를 온전히 전달하기 위해 고품질의 플랫폼 환경을 재구축했다.",
+  "mechanism": "메이드 바이 온은 이미지 최적화와 재생 에너지 기반 호스팅을 통해 탄소 발자국을 줄이고, 수직적 뉴스 피드 사이에 가로 스크롤 섹션을 배치하여 정보의 위계와 시각적 리듬을 확보했다.",
+  "sensory": "기존의 사각형 이미지 레이아웃을 유지하면서도 다양한 이미지 규격을 도입해 시각적 밀도를 높였으며, 패럴랙스 스크롤링을 적용해 매끄러운 탐색 경험을 구현했다.",
+  "transfer": "콘텐츠의 성격에 따라 갤러리나 슬라이드쇼 레이아웃을 유연하게 변주하여, 정적인 텍스트와 동적인 이미지가 공존하는 포트폴리오 사이트나 브랜드 아카이브 페이지 구성에 활용할 수 있다.",
+  "context": "2006년 마커스 페어스(Marcus Fairs)가 설립한 디진은 2016년 이후 10년 만에 대대적인 개편을 단행했다. 미샤 바이드만은 창립 초기부터 디진의 로고와 레이아웃을 설계한 디자이너로, 이번 개편에서도 브랜드의 핵심 정체성을 보존하는 역할을 맡았다.",
+  "findings": [
+   {
+    "text": "디진은 런던 호스턴에 본사를 두고 뉴욕과 상하이에 사무소를 운영한다.",
+    "s": 2,
+    "quote": "Dezeen is an online architecture, interiors and design magazine based in London, with offices in Hoxton, as well as New York City and Shanghai."
+   }
+  ],
+  "keywords": [
+   "웹사이트 리뉴얼",
+   "디지털 아카이브",
+   "UX 디자인",
+   "지속 가능한 웹",
+   "디진"
+  ],
+  "evidence": "evolution, not revolution, has been the aim.",
+  "kind": "뉴스·이슈",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "매체의 디지털 전환 전략과 기술적 개선 사항을 구체적으로 다루었으나, 실제 사용자 경험의 차별점은 직접적인 시각 자료 없이 텍스트로만 확인 가능하다.",
+  "v": 2,
+  "url": "https://www.dezeen.com/2026/10/21/dezeen-launches-new-website-2026/",
+  "original_title": "Dezeen launches \"richer and more versatile\" new website",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 7663,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-21 23:17",
+  "research": {
+   "entities": [
+    "Dezeen",
+    "Benedict Hobson",
+    "Marcus Fairs",
+    "Micha Weidmann",
+    "Made by On"
+   ],
+   "questions": [
+    "디진(Dezeen)이 10년 만에 웹사이트를 전면 개편하면서 가장 중점을 둔 기술적 변화는 무엇인가요?",
+    "새로운 웹사이트 디자인 과정에서 디진의 기존 정체성을 유지하기 위해 어떤 협업이 이루어졌나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Made by ON – Creative technology for launch, optimisation and scale",
+     "url": "https://madebyon.com/"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Dezeen",
+     "url": "https://en.wikipedia.org/wiki/Dezeen"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Marcus Fairs",
+     "url": "https://en.wikipedia.org/wiki/Marcus%20Fairs"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "디진 어워즈 2026 마스터 심사위원단이 던진 질문",
+     "url": "https://www.dezeen.com/2026/09/24/dezeen-awards-2026-trimble-master-jury-video/"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "디진 어워드 2026 건축 부문 최종 후보 152선 공개",
+     "url": "https://www.dezeen.com/2026/09/21/dezeen-awards-2026-architecture-shortlist/"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "런던 디자인 페스티벌 2026, 기술과 공예의 교차점을 기록하다",
+     "url": "https://www.dezeen.com/2026/09/11/dezeen-dispatch-ldf-2026/"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3
+   ],
+   "chars": 3471
+  },
+  "depth_raw": 3,
+  "depth_v": 2
  }
 }
