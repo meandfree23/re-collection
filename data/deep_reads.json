@@ -200804,5 +200804,1604 @@
   },
   "depth_raw": 3,
   "depth_v": 2
+ },
+ "stashmedia.tv/code-type-music-ranger-fox-for-microsoft-foundry-labs": {
+  "title_ko": "코드와 타이포로 가동하는 마이크로소프트 파운드리 랩스의 브랜드 필름",
+  "summary_ko": "크리에이티브 디렉터 스티븐 파니카라와 로스앤젤레스의 제작 스튜디오 레인저 앤 폭스가 2026 마이크로소프트 빌드 컨퍼런스를 위한 브랜드 필름을 공개했다. 오로라, 매터심 등 실제 AI 모델을 화면에 직접 등장시키고 AI 유행어를 배제한 채 픽셀화된 모노스페이스 타이포 시스템으로 실험실의 실체를 시각화했다.",
+  "lens": "보이스오버를 배제하고 코드가 날씨 모델과 분자로 전환되는 과정을 픽셀 타이포로 직조한다.",
+  "why_now": "추상적인 AI 마케팅 용어 대신 구체적인 기술 모델을 화면에 노출해 개발자와 연구자에게 직접 다가가려는 시도다.",
+  "mechanism": "내레이션 없이 픽셀화된 모노스페이스 타이포 시스템과 코드의 핸드오프를 통해 추상적인 알고리즘이 날씨 모델과 분자 같은 물리적 결과물로 변환되는 과정을 보여준다.",
+  "sensory": "화면을 가득 채우는 모노스페이스 타이포의 픽셀 질감과 코드 라인이 실시간 물리 모델로 전환되는 밀도 높은 모션 그래픽의 감각을 전달한다.",
+  "transfer": "추상적인 기술 콘셉트를 설명할 때 내레이션 대신 고정된 타이포 시스템과 코드의 물리적 변환 과정을 연출 장치로 활용한다.",
+  "context": "레인저 앤 폭스의 크리에이티브 디렉터 스티븐 파니카라가 이끈 이번 프로젝트는 마이크로소프트의 연례 개발자 행사 빌드 컨퍼런스를 위해 제작되었다.",
+  "findings": [],
+  "keywords": [
+   "마이크로소프트",
+   "모션디자인",
+   "타이포그래피",
+   "브랜드필름"
+  ],
+  "evidence": "We skipped the AI buzzwords and showed what the lab actually makes. We put the models themselves on screen, Aurora, MatterSim, TamGen, and let them do the talking.",
+  "kind": "영상·필름",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "구체적인 브랜드 필름의 제작 철학과 디자인 장치를 명확하게 보여주나 선례를 뒤흔드는 파격까지는 이르지 않는다.",
+  "v": 2,
+  "url": "https://www.stashmedia.tv/code-type-music-ranger-fox-for-microsoft-foundry-labs/",
+  "original_title": "Code/Type/Music: Ranger & Fox for Microsoft Foundry Labs",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 3006,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-22 09:19",
+  "research": {
+   "entities": [
+    "Ranger & Fox",
+    "Microsoft Foundry Labs",
+    "Stephen Panicara",
+    "Microsoft Build"
+   ],
+   "questions": [
+    "마이크로소프트 파운드리 랩스(Microsoft Foundry Labs)는 어떤 조직이며 어떤 AI 모델들을 연구하는가?",
+    "레인저 앤 폭스(Ranger & Fox)가 마이크로소프트 파운드리 랩스를 위해 제작한 브랜드 필름의 핵심 디자인 콘셉트는 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Microsoft Build",
+     "url": "https://en.wikipedia.org/wiki/Microsoft%20Build"
+    }
+   ],
+   "used": [],
+   "chars": 680
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "hyperallergic.com/the-rise-and-fall-of-my-wikipedia-page": {
+  "title_ko": "위키백과 페이지의 부침과 디지털 평판 관리의 이면",
+  "summary_ko": "사진가 로라 준 커시는 자신의 위키백과 페이지가 생성된 뒤 삭제되는 과정을 겪으며 디지털 기록의 불안정성을 목격한다. 이후 페이지 복구를 제안하는 디지털 마케팅 업체의 연락을 통해, 누군가에게는 자산이 된 위키백과 등재가 어떻게 상업적 수익 모델로 변질되는지 추적한다.",
+  "lens": "위키백과라는 공공의 아카이브가 익명의 편집자와 상업적 마케팅 대행사의 개입을 통해 어떻게 사유화되고 도구화되는지 관찰한다.",
+  "why_now": "디지털 기록의 신뢰성이 알고리즘과 인위적 편집에 의해 끊임없이 재구성되는 환경에서, 창작자의 평판이 어떻게 관리되고 왜곡되는지 보여준다.",
+  "mechanism": "위키백과의 개방형 협업 시스템을 악용해 정보를 생성하고, 삭제된 페이지를 복구해준다는 명목으로 마케팅 업체가 접근하여 인위적인 링크와 정보를 삽입하는 방식을 취한다.",
+  "sensory": "익명의 편집자가 작성한 건조한 전기와 마케팅 업체가 생성한 인공지능 기반의 텍스트가 섞인 디지털 문서의 기계적인 질감을 환기한다.",
+  "transfer": "인물의 서사를 구성할 때 외부의 자의적인 데이터가 어떻게 개입하는지 보여주는 연출 장치로 활용한다. 디지털 아카이브의 파편화된 정보를 시각화할 때, 정보의 진위보다 정보가 생성되는 과정의 비대칭성에 집중한다.",
+  "context": "하이퍼알러지크(Hyperallergic)는 미술계의 권력 구조와 검열, 비평의 지형을 다루며 위키백과와 같은 공공 데이터베이스가 예술가에게 미치는 영향력을 지속적으로 조명해왔다.",
+  "findings": [
+   {
+    "text": "위키백과는 자원봉사자 편집자들에 의해 유지되는 세계 최대의 온라인 백과사전으로, 지식의 민주화를 지향하는 동시에 성별 및 지리적 편향성에 대한 비판을 동시에 받는다.",
+    "s": 1,
+    "quote": "Wikipedia has been praised for its internal structure and culture, enabling the democratization of knowledge, and for its extensive coverage on various topics. The encyclopedia has also been criticized for systemic bias,"
+   }
+  ],
+  "keywords": [
+   "위키백과",
+   "디지털평판",
+   "아카이브",
+   "데이터윤리"
+  ],
+  "evidence": "I did find it curious how little information was included. Was I supposed to fill in the gaps? How does this work?",
+  "kind": "뉴스·이슈",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "창작자의 디지털 기록이 상업적 마케팅에 이용되는 과정을 개인적 경험을 통해 구체적으로 드러내어 비판적 시각을 제공한다.",
+  "v": 2,
+  "url": "https://hyperallergic.com/the-rise-and-fall-of-my-wikipedia-page/",
+  "original_title": "The Rise and Fall of My Wikipedia Page",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 2301,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-22 09:19",
+  "research": {
+   "entities": [
+    "Laura June Kirsch",
+    "Wikipedia",
+    "Hyperallergic"
+   ],
+   "questions": [
+    "위키백과 문서 생성 및 삭제 기준은 무엇이며 아티스트나 창작자의 등재 요건은 어떻게 되는가?",
+    "인공지능을 활용한 디지털 마케팅 업체들이 위키백과 페이지 복구를 미끼로 어떻게 수익을 창출하는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Wikipedia"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Hyperallergic",
+     "url": "https://en.wikipedia.org/wiki/Hyperallergic"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "칠십 년간 검열에 맞선 시선, 세 명의 예술가를 기리며",
+     "url": "https://hyperallergic.com/remembering-lucia-laguna-rodrigo-cass-and-nelson-garrido/"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "알렉시스 폴린 검스가 다시 읽는 앨마 토마스의 색채 밭",
+     "url": "https://hyperallergic.com/poems-for-alma-thomas/"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "가을의 문턱에서 읽는 15세기 비스콘티-스포르차 타로의 시각적 궤적",
+     "url": "https://hyperallergic.com/hyperallergics-art-tarotscope-for-the-fall-equinox/"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "chars": 2600
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "thisiscolossal.com/2026/10/bondi-beach-sculpture-by-the-sea-exhibition-2026": {
+  "title_ko": "해안선을 따라 펼쳐지는 세계 최대 규모의 야외 조각 전시, 본다이 비치",
+  "summary_ko": "호주 시드니 본다이 해변에서 타라마라마까지 이어지는 2킬로미터의 해안 산책로에서 야외 조각 전시가 열린다. 전 세계 작가들이 참여해 기하학적 추상부터 구상 조각까지 다양한 작품을 선보인다. 이 행사는 해안 지형과 예술을 결합해 매년 대규모 관람객을 맞이한다.",
+  "lens": "거친 해안 절벽과 모래사장을 배경삼아 거대한 조각들이 자연 지형과 직접 맞부딪힌다.",
+  "why_now": "도심 화이트 큐브를 벗어나 공공 해안가라는 거친 자연 속에서 예술이 지역 사회와 어떻게 관계 맺는지를 보여준다.",
+  "mechanism": "1.25마일에서 2킬로미터에 이르는 해안 산책로를 따라 조각품들을 배치해 관람객이 걸으며 자연스럽게 작품을 마주하도록 동선을 짰다.",
+  "sensory": "거친 바닷바람과 금빛 모래사장, 탁 트인 수평선을 배경으로 묵직한 철제와 대형 조각의 물성이 충돌한다.",
+  "transfer": "야외 로케이션 촬영 시 자연 지형의 스케일을 활용하고, 카메라 무빙을 해안 산책로 동선과 일치시켜 공간감을 극대화한다.",
+  "context": "1997년 본다이 해변에서 처음 시작된 본다이 바닷가 조각 전시는 호주와 해외 작가들이 참여하는 세계 최대 규모의 무료 야외 조각 전시로 자리잡았다.",
+  "findings": [
+   {
+    "text": "본다이 바닷가 조각 전시는 호주와 전 세계 작가들의 조각품 100점을 선보인다.",
+    "s": 1,
+    "quote": "The spectacular coastal walk will once again transform into a 2km long sculpture park featuring 100 sculptures by artists from Australia and across the world."
+   },
+   {
+    "text": "본다이 바닷가 조각 전시는 1997년에 본다이 해변에서 처음 시작되었다.",
+    "s": 2,
+    "quote": "This exhibition was initiated in 1997, at Bondi Beach and it featured sculptures by both Australian and overseas artists."
+   }
+  ],
+  "keywords": [
+   "본다이비치",
+   "야외조각",
+   "해안산책로",
+   "공공미술"
+  ],
+  "evidence": "Sculpture by the Sea organizes an annual outdoor presentation of dozens of sculptures every year along a 1.25-mile stretch of coastline",
+  "kind": "전시",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "세계 최대 규모의 야외 조각 전시다. 지형과 예술의 결합 방식이 명확하지만 익숙한 형식이다.",
+  "v": 2,
+  "url": "https://www.thisiscolossal.com/2026/10/bondi-beach-sculpture-by-the-sea-exhibition-2026/",
+  "original_title": "Dozens of Sculptures Dot Bondi Beach in the 2026 Sculpture by the Sea Exhibition",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 1797,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-22 09:19",
+  "research": {
+   "entities": [
+    "Sculpture by the Sea",
+    "Emma Anna",
+    "Andre Braun"
+   ],
+   "questions": [
+    "Sculpture by the Sea 전시가 본다이 해변의 지형적 특성을 예술적으로 어떻게 활용하고 있나요?",
+    "본다이 해변에서 열리는 이 야외 전시가 지역 사회와 방문객들에게 어떤 문화적 의미를 갖나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Bondi:  - Sculpture by the Sea",
+     "url": "https://sculpturebythesea.com/bondi/"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Sculpture by the Sea",
+     "url": "https://en.wikipedia.org/wiki/Sculpture%20by%20the%20Sea"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 2048
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "hyperallergic.com/is-germanys-far-right-afd-co-opting-joseph-beuys": {
+  "title_ko": "뒤셀도르프와 쾰른의 갤러리들, 극우 정당의 예술가 호명에 반발하다",
+  "summary_ko": "독일 뒤셀도르프와 쾰른 전역의 50개 이상의 갤러리가 극우 정당인 대안을위한독일(AfD) 뒤셀도르프 파벌을 규탄하는 공개 서한에 서명했다. 이들은 극우 정당이 다가오는 문화 정책 행사를 홍보하는 과정에서 전후 개념 예술가 요제프 보이스와 시인 하인리히 하이네를 언급한 것에 대해 반발했다. 해당 행사에는 과거 극단적인 발언으로 논란이 되었던 연방의회 의원 마티아스 헬페리히가 강연자로 참여할 예정이었다.",
+  "lens": "전위 예술의 유산이 극우 정치적 수사로 전용될 때 예술계가 가하는 집단적 실천.",
+  "why_now": "예술의 공공성과 정치적 중립성이 도전받는 동시대 정치 지형에서, 문화 자산이 이념적 도구로 쓰이는 현상을 보여준다.",
+  "mechanism": "도시의 문화 공간을 탐방하는 도보 투어와 정치인의 강연을 결합하여 예술적 장소를 이념적 공간으로 재구성한다.",
+  "sensory": "개방성과 다원성을 강조하는 도시의 미술관들과 배타적 정치 의제가 충돌하는 긴장된 현장의 공기.",
+  "transfer": "실제 도시 공간과 문화 예술 장소가 정치적 혹은 이념적 무대로 변모하는 시퀀스를 연출할 때 참고할 수 있는 현실적 갈등 구조.",
+  "context": "요제프 보이스는 뒤셀도르프 미술아카데미 교수이자 인본주의와 사회적 조형 개념을 주창한 전후 핵심 예술가이며, 독일 녹색당의 창립 멤버였다.",
+  "findings": [
+   {
+    "text": "요제프 보이스는 뒤셀도르프 미술아카데미의 교수였으며 독일 녹색당의 창립 멤버이자 평생 지지자였다.",
+    "s": 3,
+    "quote": "Beuys was professor at the Kunstakademie Düsseldorf from 1961 until 1972. He was a founding member and life-long supporter of the German Green Party."
+   }
+  ],
+  "keywords": [
+   "요제프 보이스",
+   "예술 검열",
+   "정치적 예술",
+   "독일 미술계",
+   "공공성"
+  ],
+  "evidence": "More than 50 galleries across Düsseldorf and Cologne have signed a letter condemning the far-right Alternative for Germany (AfD) party's Düsseldorf faction",
+  "kind": "뉴스·이슈",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "예술가의 유산을 둘러싼 정치적 갈등과 미술계의 대응을 다룬 시사성 있는 이슈다.",
+  "v": 2,
+  "url": "https://hyperallergic.com/is-germanys-far-right-afd-co-opting-joseph-beuys/",
+  "original_title": "Is Germany's Far-Right AfD Co-Opting Joseph Beuys?",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 2842,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-22 09:19",
+  "research": {
+   "entities": [
+    "Joseph Beuys",
+    "Alternative for Germany",
+    "Heinrich Heine",
+    "Matthias Helferich",
+    "Bundestag"
+   ],
+   "questions": [
+    "독일 극우 정당인 AfD가 요제프 보이스의 예술 철학을 자신들의 정치적 의제와 어떻게 결부시키려 하는가?",
+    "요제프 보이스의 예술적 유산이 현대 독일 정치 담론에서 왜 논쟁의 대상이 되고 있는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Matthias Helferich: Migranten als „Viecher“ beschimpft – NRW-AfD will Abgeordneten rauswer",
+     "url": "https://www.welt.de/politik/deutschland/article251766790/Matthias-Helferich-Migranten-als-Viecher-beschimpft-NRW-AfD-will-Abgeordneten-rauswerfen.html?ref=hyperallergic.com"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Umstrittener AfD-Politiker Helferich darf in der Partei bleiben",
+     "url": "https://www1.wdr.de/politik/politik-in-nrw/helferich-afd-schiedsgericht-100.amp?utm_source=chatgpt.com"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Joseph Beuys",
+     "url": "https://en.wikipedia.org/wiki/Joseph%20Beuys"
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "Alternative for Germany",
+     "url": "https://en.wikipedia.org/wiki/Alternative%20for%20Germany"
+    }
+   ],
+   "used": [
+    3
+   ],
+   "chars": 7331
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "yellowtrace.com.au/betyle-le-figuier-marseille-interior-design": {
+  "title_ko": "한 세기의 시간을 고스란히 품은 마르세유의 주거 공간",
+  "summary_ko": "마르세유 8구에 위치한 주거 공간 르 피기에(Le Figuier)는 지역 스튜디오 베틸레(Betyle)가 설계했다. 1930년대 아르데코 조명부터 1980년대 가구, 그리고 2025년 신작까지 거의 한 세기에 걸친 디자인을 하나의 공간에 엮어냈다. 각기 다른 시대의 물성과 형태를 지닌 오브제들이 시대를 박제하지 않고 동시대적인 감각으로 공존한다.",
+  "lens": "서로 다른 시대의 오브제를 연대기가 아니라 물성과 형태를 기준으로 엮어 시간의 층위를 드러낸다.",
+  "why_now": "인테리어를 특정 한 시대로 고정하거나 유행을 일괄적으로 모방하는 방식에서 벗어나, 오브제 고유의 연대를 인정하면서도 현대적 문맥 속에서 조화시키는 태도가 주목받고 있다.",
+  "mechanism": "헨드릭 메토르스트(Hendrik Methorst)의 1935년 해머드 구리 램프와 마르코 드 겔츨(Marco de Gueltzl)의 1990년 샌드블라스트 유리 샹들리에를 같은 공간에 배치했다. 스테인리스 스틸과 레진 소재의 2025년 신작 보스카이나(Boscaina) 램프를 자연스럽게 섞어 시각적 통일을 강제하지 않고 재료의 물성으로 연결한다.",
+  "sensory": "해머드 구리의 단단한 금속 질감, 실크 프린지의 부드러움, 샌드블라스트 유리의 거친 촉감이 백색 혹은 정돈된 바탕 위에서 교차하며 손에 닿는 감각을 일깨운다.",
+  "transfer": "광고나 영상 콘티에서 시대를 특정하기 어려운 소품들을 혼합해 배치할 때, 연도별 분류 대신 표면의 마감과 금속·유리·레진 같은 소재의 반사율을 기준으로 세트를 구성한다.",
+  "context": "2025년 칼라 로마노(Carla Romano)와 니콜라 카제나브 드 라 로슈(Nicolas Cazenave de la Roche)가 마르세유에 설립한 스튜디오 베틸레는 아카이브 연구와 지역 장인들과의 협업을 바탕으로 건축과 가구를 유기적으로 연결한다.",
+  "findings": [],
+  "keywords": [
+   "공간디자인",
+   "인테리어아카이브",
+   "마르세유",
+   "물성"
+  ],
+  "evidence": "Le Figuier, a home in Marseille’s 8th arrondissement by local studio Betyle, does neither. It gathers almost a century of design and lets each piece keep its own date.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "한 세기의 디자인을 혼합하는 명확한 철학과 구체적 오브제 배치를 보여주지만 전형적인 주거 리노베이션 소개에 가깝다.",
+  "v": 2,
+  "url": "https://www.yellowtrace.com.au/betyle-le-figuier-marseille-interior-design/",
+  "original_title": "Betyle Mixes a Century of Design in Marseille Without Freezing Any of It in Time.",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 2649,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-22 09:19",
+  "research": {
+   "entities": [
+    "Betyle",
+    "Enzo Mari",
+    "Artemide",
+    "Daum",
+    "Garouste & Bonetti"
+   ],
+   "questions": [
+    "Betyle 스튜디오가 공간의 역사와 현대적 디자인 요소를 조화시키는 구체적인 방법론은 무엇인가?",
+    "서로 다른 시대의 가구와 조명을 배치할 때 시각적 통일성을 유지하기 위해 고려해야 할 핵심 요소는 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Enzo Mari",
+     "url": "https://en.wikipedia.org/wiki/Enzo%20Mari"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Artemide",
+     "url": "https://en.wikipedia.org/wiki/Artemide"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "피렌체의 유서 깊은 저택을 다시 채운 정교한 물성과 빛",
+     "url": "https://www.archdaily.com/1185107/arcipressi"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "시간의 층위와 아날로그 물성으로 완성한 힐스버러의 저택 리노베이션",
+     "url": "https://www.architecturaldigest.com/story/luke-foss-hillsborough-california"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "구름의 궤적을 실내로 들여온 프라이빗 항공 터미널",
+     "url": "https://www.wallpaper.com/transportation/flexjets-new-uk-hub-for-high-flyers-marks-a-welcome-design-departure"
+    }
+   ],
+   "used": [],
+   "chars": 1196
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "hyperallergic.com/peter-nagy-artist-and-gallerist-who-shaped-two-art-scenes-dies-at-66": {
+  "title_ko": "뉴욕과 뉴델리를 잇고 복사기로 추상을 직조한 작가 피터 나기의 별세",
+  "summary_ko": "뉴욕과 뉴델리의 예술계를 이끌며 1982년 이스트 빌리지에서 대안 갤러리 네이처 모트를 공동 설립한 작가 겸 갤러리스트 피터 나기가 향년 66세를 일기로 별세했다. 그는 미술사적 연대표와 미술관 평면도를 복사 기술로 결합하는 포스트 개념주의 작업을 선보였으며 휘트니 미술관과 메트로폴리탄 미술관 등에 작품이 소장되어 있다.",
+  "lens": "미술사적 도면과 기계적 복사 기술을 포개어 제도적 공간의 권위를 가로지른다.",
+  "why_now": "1980년대 뉴욕 이스트 빌리지와 뉴델리라는 두 개의 이질적인 지형에서 대안적 갤러리 시스템을 구축한 거장이 남긴 궤적을 되짚어 볼 시점이다.",
+  "mechanism": "미술관의 평면도와 연대표를 복사기로 중첩시켜 제도적 공간의 구조를 평면 위로 끌어들인다.",
+  "sensory": "흑백의 단단한 대비와 복사기 특유의 거친 입자가 미술사의 도면을 차갑고 건조하게 가른다.",
+  "transfer": "공간의 평면도와 역사적 연대표를 그래픽 오버레이로 겹쳐 연출하는 타이틀 시퀀스에 적용한다.",
+  "context": "피터 나기는 1982년 앨런 벨처와 함께 이스트 빌리지에 네이처 모트를 설립했고 1992년 뉴델리로 이주해 인도 현대미술의 핵심 갤러리를 구축했다.",
+  "findings": [
+   {
+    "text": "피터 나기는 1982년 동료 예술가 앨런 벨처와 함께 전설적인 이스트 빌리지 갤러리 네이처 모트를 설립했다.",
+    "s": 1,
+    "quote": "Artist-dealer Peter Nagy founded the fabled East Village gallery, Nature Morte, with fellow artist Alan Belcher in 1982."
+   },
+   {
+    "text": "피터 나기의 작품은 휘트니 미술관과 메트로폴리탄 미술관을 비롯한 주요 기관의 소장품으로 포함되어 있다.",
+    "s": 1,
+    "quote": "His work has been included in solo and group exhibitions at Centre Pompidou, Paris, FR; Museum of Contemporary Art, Los Angeles, CA; The New Museum of Contemporary Art, New York, NY; The Aldrich Museum of Contemporary Ar"
+   },
+   {
+    "text": "피터 나기는 1992년부터 인도 뉴델리에 거주하며 작업해 왔으며 네이처 모트는 오늘날 인도 현대미술에서 가장 중요한 갤러리로 평가받는다.",
+    "s": 1,
+    "quote": "Peter Nagy has lived and worked in New Delhi India since 1992 and reopened Gallery Nature Morte in New Delhi, India—considered by many to be the most important gallery of contemporary art in India today."
+   }
+  ],
+  "keywords": [
+   "피터나기",
+   "네이처모트",
+   "포스트개념주의",
+   "이스트빌리지",
+   "뉴델리"
+  ],
+  "evidence": "Peter Nagy (1959–2026) Artist and gallerist who shaped art scenes in New York and New Delhi",
+  "kind": "작가·인터뷰",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "예술가이자 갤러리스트로서 두 도시의 미술계를 형성한 삶을 밀도 있게 다루어 정보적 가치가 높다.",
+  "v": 2,
+  "url": "https://hyperallergic.com/peter-nagy-artist-and-gallerist-who-shaped-two-art-scenes-dies-at-66/",
+  "original_title": "Peter Nagy, Artist and Gallerist Who Shaped Two Art Scenes, Dies at 66",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 1921,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-22 09:19",
+  "research": {
+   "entities": [
+    "Peter Nagy",
+    "Nature Morte",
+    "Magenta Plains",
+    "Whitney Museum",
+    "Metropolitan Museum of Art"
+   ],
+   "questions": [
+    "피터 나기가 1980년대 뉴욕 이스트 빌리지 예술 현장에서 수행한 역할과 그가 추구했던 포스트 개념주의 예술의 특징은 무엇인가?",
+    "피터 나기가 인도 뉴델리에 Nature Morte를 재개관하며 현지 미술 시장과 갤러리 시스템 구축에 어떤 영향을 미쳤는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "co-founded",
+     "url": "https://magentaplains.com/artists/peter-nagy/bio?ref=hyperallergic.com"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Peter Nagy (artist)",
+     "url": "https://en.wikipedia.org/wiki/Peter%20Nagy%20%28artist%29"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Whitney Museum of American Art",
+     "url": "https://en.wikipedia.org/wiki/Whitney%20Museum%20of%20American%20Art"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "브루어 빌딩과 아모리 쇼가 드러낸 뉴욕 아트페어의 풍경",
+     "url": "https://hyperallergic.com/should-you-sit-out-the-armory-show/"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "바이올리니스트의 신체를 악보 삼아 공감각을 빛으로 번역하다",
+     "url": "https://www.designboom.com/art/synesthesia-light-audrey-wright-musical-body-metropolitan-museum-geoff-robertson-stephanie-ann-boyd/"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "구름을 보는 새로운 방식: 메트로폴리탄 미술관의 200년 기록",
+     "url": "https://www.designboom.com/art/chasing-clouds-met-two-centuries-skywatching-metropolitan-museum-new-york-exhibition/"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 5346
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "hyperallergic.com/spirits-against-the-patriarchy": {
+  "title_ko": "보이지 않는 통로: 가부장제에 균열을 내는 영매 예술의 실천",
+  "summary_ko": "뉴욕 앤드류 에들린 갤러리에서 열린 전시 '보이지 않는 통로'는 영매를 통해 작업하는 17명의 여성 예술가를 조명한다. 파울리나 피비는 1930년대부터 교신한 존재 라카모의 메시지를 코발트 블루 벽면에 스테인드글라스와 같은 색채와 배아 형태의 주름으로 구현했다. 전시는 이들의 작업이 단순한 오컬트적 취향을 넘어 가부장적 사회 구조를 전복하는 동력이 될 수 있음을 시사한다.",
+  "lens": "초현실주의의 전유물로 여겨졌던 '자동기술법'의 기원을 여성 영매들의 메타피지컬한 실천에서 찾아내어, 예술이 사회적 위계에 도전하는 방식을 재정의한다.",
+  "why_now": "오컬트를 소재로 한 전시가 범람하는 가운데, 영적 교신을 개인의 심리 분석이 아닌 사회적 변혁을 위한 도구로 재해석했다는 점에서 차별점을 가진다.",
+  "mechanism": "수잔 아버스 큐레이터는 영매 예술가들이 전달하는 메시지를 가부장제 타파라는 구체적인 사회적 목표와 연결한다. 앙드레 브르통이 여성 영매들의 실천에서 차용한 '심리적 자동기술법'에서 형이상학적 내용을 거세했던 것과 대조적인 접근이다.",
+  "sensory": "코발트 블루 벽면에 배치된 파울리나 피비의 작업은 붉은색, 푸른색, 노란색이 겹쳐지며 스테인드글라스처럼 빛을 투과하고 반사한다. 배아를 연상시키는 유기적인 주름과 그 속에 박힌 눈과 꽃잎의 디테일이 시각적 몰입을 유도한다.",
+  "transfer": "심리적 자동기술법을 연출에 도입할 때, 개인의 무의식 표출을 넘어 특정 사회적 메시지를 투영하는 매개체로 활용한다. 좁은 공간에 코발트 블루와 같은 강렬한 단색 배경을 사용해 오브제의 색채 대비를 극대화하는 조명 설계를 고려한다.",
+  "context": "전시는 초현실주의 이론가 앙드레 브르통이 1924년 '초현실주의 선언'에서 정의한 '순수 심리적 자동기술법'의 기원을 여성 영매들의 예술적 실천에서 찾는다. 브르통이 여성 영매들의 작업에서 메타피지컬한 맥락을 제거하고 개인의 심리 표현으로 치환했던 과거의 권력 구조를 비판적으로 재조명한다.",
+  "findings": [
+   {
+    "text": "앙드레 브르통은 1924년 초현실주의 선언을 통해 초현실주의를 순수한 심리적 자동기술법으로 정의했다.",
+    "s": 1,
+    "quote": "In which he defined surrealism as \"pure psychic automatism\"."
+   }
+  ],
+  "keywords": [
+   "영매예술",
+   "자동기술법",
+   "가부장제",
+   "초현실주의",
+   "여성작가"
+  ],
+  "evidence": "Their messages are specifically meant to better the world. And how do you better the world? All of the spirits say, ‘Get rid of patriarchy.’",
+  "kind": "전시",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "초현실주의 이론의 기원을 추적하며 예술적 실천이 사회적 저항으로 전환되는 지점을 명확한 근거와 함께 분석했다.",
+  "v": 2,
+  "url": "https://hyperallergic.com/spirits-against-the-patriarchy/",
+  "original_title": "Spirits Against the Patriarchy",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 2263,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-22 09:19",
+  "research": {
+   "entities": [
+    "Paulina Peavey",
+    "Andrew Edlin Gallery",
+    "Susan Aberth",
+    "André Breton",
+    "Conduits of the Unseen"
+   ],
+   "questions": [
+    "영매를 통한 예술 창작이 어떻게 가부장적 사회 구조에 도전하는 도구로 활용되었는가?",
+    "초현실주의의 '심리적 자동기술법'이 여성 영매들의 예술적 실천에서 어떻게 변형되어 수용되었는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "André Breton",
+     "url": "https://en.wikipedia.org/wiki/Andr%C3%A9%20Breton"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 639
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "hyperallergic.com/the-french-student-protesters-subverting-monuments-like-its-may-68": {
+  "title_ko": "기념물을 전유하는 시위대: 68년 5월의 시각 언어를 소환한 프랑스 학생들",
+  "summary_ko": "프랑스 학생 시위대가 교육 환경 개선과 생활고 해결을 요구하며 공공 기념물을 대의의 매개체로 활용하고 있다. 이들은 1968년 5월 혁명 당시 학생들이 마리안 상에 깃발을 꽂고 루이 파스퇴르 상을 점거했던 방식을 재현하며, 공공 조각물에 현수막을 두르거나 의상을 입혀 정치적 메시지를 투사한다.",
+  "lens": "기념물을 단순한 배경이 아닌 저항의 주체로 격상시켜, 역사적 도상과 현재의 투쟁을 물리적으로 결합하는 전술이다.",
+  "why_now": "국가 권력의 상징인 기념물을 시위대의 도구로 전유함으로써, 체제 모순을 가시화하고 역사적 연속성을 확보하려는 전략이다.",
+  "mechanism": "역사적 인물이나 공화국의 상징인 마리안 상에 현대적 복식과 메시지를 덧씌워, 과거의 권위와 현재의 위기를 충돌시키는 시각적 병치를 사용한다.",
+  "sensory": "차가운 청동과 석재 표면에 덧입혀진 노란 조끼의 질감, 검은 눈물로 변주된 알레고리적 조각상이 주는 시각적 이질감이 현장의 긴장감을 높인다.",
+  "transfer": "공간의 권위를 상징하는 오브제에 이질적인 현대적 레이어를 덧입혀 서사를 반전시키는 연출을 적용할 수 있다. 기념비적 조형물을 배경으로 삼지 않고, 그 위에 직접적인 메시지를 투사하거나 물리적 의복을 입혀 인격화하는 방식이다.",
+  "context": "1968년 5월 혁명은 프랑스 학생 운동의 원형으로, 당시에도 마리안 상과 같은 공공 기념물을 점거하며 저항의 공간으로 활용했다. 에콜 뒤 루브르 학생들의 루브르 박물관 봉쇄는 예술의 성전이 지닌 공간적 권위를 가로막아 체제 모순을 폭로하는 전술적 행위의 연장선에 있다.",
+  "findings": [
+   {
+    "text": "1968년 5월은 프랑스 시위 역사에서 중대한 전환점이었으며, 당시 학생 운동은 수백만 노동자의 파업을 이끌어 정부를 붕괴 직전까지 몰고 갔다.",
+    "s": 1,
+    "quote": "1968 was a seminal moment in the protest history of France, not only because of the sheer enormity of what happened"
+   },
+   {
+    "text": "파리 낭테르 대학교는 1968년 3월 말 반제국주의 학생들이 시위를 시작한 곳이며, 현재는 프랑스 내 주요 교육 기관 중 하나다.",
+    "s": 2,
+    "quote": "Paris Nanterre University, formerly University of Paris West, Paris-X and commonly referred to as Nanterre, is a public research university based in Nanterre."
+   }
+  ],
+  "keywords": [
+   "공공기념물",
+   "시각적전술",
+   "68년5월",
+   "전유",
+   "학생운동"
+  ],
+  "evidence": "they transformed public statues into participants in their cause",
+  "kind": "뉴스·이슈",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "역사적 맥락과 현대적 시위 전술의 연결 고리를 구체적인 사례와 함께 분석하여 시각적 연출의 가능성을 제시한다.",
+  "v": 2,
+  "url": "https://hyperallergic.com/the-french-student-protesters-subverting-monuments-like-its-may-68/",
+  "original_title": "The French Student Protesters Subverting Monuments Like It's May 68",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 6011,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-22 09:19",
+  "research": {
+   "entities": [
+    "Paris Nanterre University",
+    "Sorbonne",
+    "Léopold Morice",
+    "École du Louvre",
+    "Marianne"
+   ],
+   "questions": [
+    "프랑스 시위대들이 왜 공공 기념물과 동상을 시위의 도구로 활용하는지 그 역사적 맥락은 무엇인가?",
+    "1968년 5월 혁명과 오늘날 프랑스 학생 시위가 공유하는 사회적 의제와 갈등의 핵심은 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Student Protesters in France are Holding Signs Referencing May 1968. Here’s Why It’s Signi",
+     "url": "https://time.com/article/2026/10/07/student-protests-france-signs-may-1968-strikes-police-clashes/?ref=hyperallergic.com"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Paris Nanterre University",
+     "url": "https://en.wikipedia.org/wiki/Paris%20Nanterre%20University"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Léopold Morice",
+     "url": "https://en.wikipedia.org/wiki/L%C3%A9opold%20Morice"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "바쉐론 콘스탄틴, 여섯 장인의 공예로 재해석한 동물의 왕국",
+     "url": "https://www.wallpaper.com/watches-jewellery/vacheron-constantin-metiers-d-art-tribute-to-the-animal-kingdom"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "루브르 궁의 예술 학생들이 박물관 정문을 봉쇄하다",
+     "url": "https://hyperallergic.com/paris-students-block-louvre-entrance-forcing-closure/"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "예술의 공공성을 묻는 투쟁, 파리에서 보고타까지",
+     "url": "https://hyperallergic.com/paris-students-shut-down-the-louvre/"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3,
+    5,
+    6
+   ],
+   "chars": 4314
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "archdaily.com/1187156/mr-belvedere-house-linework-architecture": {
+  "title_ko": "1940년대 목조 주택의 확장, 미스터 벨베데레 하우스",
+  "summary_ko": "미국 시애틀 북동부에 위치한 미스터 벨베데레 하우스는 라인워크 아키텍처가 1940년대 단독 주택을 대규모로 리모델링하고 증축한 프로젝트다. 지속 가능성과 내구성, 세대 간 유연성, 실내외 생활의 연계를 핵심 목표로 삼아 건물을 재구성했다.",
+  "lens": "오래된 단독 주택의 골조를 유지하면서 세대 변화를 수용하는 공간의 유연성.",
+  "why_now": "신축을 최소화하고 기존 주택을 고쳐 쓰는 방식이 동시대 건축의 실질적인 대안으로 자리 잡았다.",
+  "mechanism": "2250제곱피트 규모의 공간을 개조해 실내와 외부가 자연스럽게 이어지도록 동선을 재배치했다.",
+  "sensory": "오래된 목조 주택의 결을 살린 내외부 공간에서 시애틀의 자연광이 깊숙이 스며든다.",
+  "transfer": "공간의 구조를 완전히 부수지 않고 증축과 리모델링을 통해 새로운 레이어를 얹는 세트 디자인에 적용한다.",
+  "context": "라인워크 아키텍처가 시애틀에서 진행한 지속 가능성과 주거 유연성에 초점을 맞춘 리모델링 작업이다.",
+  "findings": [],
+  "keywords": [
+   "리모델링",
+   "주거건축",
+   "지속가능성",
+   "시애틀"
+  ],
+  "evidence": "Located in Northeast Seattle, Mr. Belvedere is a substantial remodel and addition to an unassuming 1940s single-family ranch house",
+  "kind": "프로젝트",
+  "depth": 2,
+  "grounding": "thin",
+  "depth_reason": "원문 설명이 간략하고 구체적인 시공 디테일이 부족해 평범한 소개 수준에 머문다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1187156/mr-belvedere-house-linework-architecture",
+  "original_title": "Mr. Belvedere House / Linework Architecture",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 1127,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-22 09:20",
+  "research": {
+   "entities": [
+    "Linework Architecture",
+    "Ben Humphrey",
+    "Alchemie",
+    "Harriott Valentine Engineers",
+    "Ore Studios"
+   ],
+   "questions": [
+    "1940년대 단독주택인 Mr. Belvedere House를 리모델링하면서 지속 가능성과 세대 간 유연성을 확보하기 위해 적용한 구체적인 건축적 기법은 무엇인가?",
+    "실내외 생활의 연계를 강조하기 위해 기존 랜치 하우스(ranch house)의 구조를 어떻게 확장하고 재구성했는가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "archdaily.com/1187266/t-237-house-uno-mas-uno-arquitectos": {
+  "title_ko": "우노 마스 우노 아르키텍토스의 T-237 주택: 120㎡의 정밀한 선형 구조",
+  "summary_ko": "아르헨티나 헤네랄 알베아르에 위치한 T-237 주택은 5.5m x 18m의 직사각형 평면을 가진 단층 건물이다. 남측 경계에 건물을 배치하고 북측 안뜰을 향해 모든 생활 공간을 개방해 자연광 유입과 시각적 연속성을 확보했다.",
+  "lens": "단순한 직사각형 볼륨 안에서 내부와 외부의 경계를 안뜰이라는 단일 요소로 제어하는 공간의 응집력을 보여준다.",
+  "why_now": "복잡한 형태를 덜어내고 주거의 필수 조건에 집중하는 미니멀리즘 건축의 실천적 사례다.",
+  "mechanism": "주방, 식당, 거실, 침실을 북측으로 연속 배치해 거주자가 이동하는 모든 지점에서 안뜰과 직접 연결되도록 설계했다.",
+  "sensory": "단층의 긴 선형 구조가 만드는 수평적 시선과 북측 창을 통해 유입되는 균일한 자연광이 실내의 물성을 강조한다.",
+  "transfer": "공간의 길이를 활용한 롱테이크 샷으로 실내에서 안뜰까지 이어지는 시선의 흐름을 연출하거나, 수평적 동선을 따라 조명을 배치해 공간의 깊이를 극대화할 수 있다.",
+  "context": "우노 마스 우노 아르키텍토스는 주거의 필수적인 프로그램 조직과 재료의 표현 가능성을 탐구하는 작업을 지속하고 있다.",
+  "findings": [],
+  "keywords": [
+   "단층주택",
+   "선형구조",
+   "안뜰",
+   "공간조직",
+   "아르헨티나건축"
+  ],
+  "evidence": "The main volume, measuring 18 feet wide by 59 feet long (5.50 meters by 18 meters), concentrates the entirety of the domestic program on a single floor.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "직사각형 평면과 북측 안뜰을 통한 공간 조직 방식이 명확하게 기술되어 있으나, 재료적 탐구에 대한 구체적인 정보는 부족하다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1187266/t-237-house-uno-mas-uno-arquitectos",
+  "original_title": "T-237 House / UNO MÁS UNO Arquitectos",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 1667,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-22 09:20",
+  "research": {
+   "entities": [
+    "UNO MÁS UNO Arquitectos",
+    "Celeste Gomez Lahoz",
+    "Nahuel Salcedo",
+    "Luis Abba"
+   ],
+   "questions": [
+    "T-237 주택은 주변 환경과 기후 조건에 대응하기 위해 어떤 재료적 탐구를 거쳤는가?",
+    "북측 안마당을 향한 단층 직사각형 배치가 거주자의 일상과 동선에 어떤 영향을 미치는가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "itsnicethat.com/features/ryan-linkof-tascen-lucas-museum-of-narrative-art-publication-art-project-221026": {
+  "title_ko": "벽화에서 스타워즈까지, 루카스 내러티브 아트 박물관이 기록한 인류의 서사",
+  "summary_ko": "조지 루카스가 설립한 루카스 내러티브 아트 박물관은 선사 시대 동굴 벽화부터 현대 대중문화에 이르는 시각적 스토리텔링의 계보를 2권의 카탈로그로 엮었다. 타셴에서 출판한 이 기록물은 회화, 일러스트레이션, 영화 아카이브를 통해 이미지가 어떻게 신화를 구축하고 인간의 가치와 사회적 유대를 형성하는지 탐구한다.",
+  "lens": "이미지를 통해 세계를 해석하려는 인간의 본능을 추적하며, 순수 미술과 대중문화 사이의 시각적 언어를 통합한다.",
+  "why_now": "매체와 기술이 변해도 인간은 여전히 신화를 필요로 하며, 대중문화의 이미지는 현대 사회의 가치와 공포를 투영하는 거울로 작동한다.",
+  "mechanism": "역사적 신화와 현대 히어로 서사를 병치하여 구조적 유사성을 드러내고, 관객이 직관적으로 서사를 수용하도록 시각적 즉각성을 활용한다.",
+  "sensory": "고대 벽화의 거친 질감부터 현대 영화의 정교한 프로덕션 아트까지, 시대를 초월한 서사의 물리적 흔적을 통해 몰입감을 유도한다.",
+  "transfer": "영웅의 서사를 구축할 때 고전적 도상학의 구도를 차용하고, 현대적 매체에 고대 신화의 상징적 요소를 배치하여 서사의 깊이를 더한다.",
+  "context": "조지 루카스가 설립한 이 박물관은 LA 엑스포지션 파크에 위치하며, 마얀송의 건축과 미아 레러의 조경이 결합된 공간이다. 타셴은 앞서 내셔널 지오그래픽 아카이브 등을 통해 방대한 시각 기록을 체계화해 온 바 있다.",
+  "findings": [
+   {
+    "text": "루카스 내러티브 아트 박물관은 2026년 9월 22일 로스앤젤레스 엑스포지션 파크에 개관했다.",
+    "s": 4,
+    "quote": "The Lucas Museum of Narrative Art is a museum founded by filmmaker George Lucas and his wife, businesswoman Mellody Hobson. It opened on September 22, 2026."
+   },
+   {
+    "text": "박물관은 회화, 사진, 조각, 일러스트레이션, 만화, 영화 등 시각적 스토리텔링 전반을 포괄한다.",
+    "s": 1,
+    "quote": "Drawing from the museum’s extraordinary offerings, the book explores narrative image-making across painting, illustration, photography, comics, and the arts of filmmaking."
+   },
+   {
+    "text": "카탈로그의 영화 섹션은 스타워즈의 프로덕션 아트와 의상, 차량 등을 통해 창작 과정을 조명한다.",
+    "s": 1,
+    "quote": "A dedicated cinema section explores the art of Star Wars through original production art, concept paintings, costumes, and vehicles."
+   }
+  ],
+  "keywords": [
+   "내러티브 아트",
+   "조지 루카스",
+   "시각적 서사",
+   "타셴",
+   "신화"
+  ],
+  "evidence": "Narratives shape how we understand the world. To assign purpose, meaning, and order to a sequence of events helps to explain what might otherwise feel random or unknowable.",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "박물관의 설립 취지와 내러티브 아트의 인류학적 맥락을 상세히 다루며, 시각 매체의 사회적 기능을 명확히 분석한다.",
+  "v": 2,
+  "url": "https://www.itsnicethat.com/features/ryan-linkof-tascen-lucas-museum-of-narrative-art-publication-art-project-221026",
+  "original_title": "Prehistoric cave paintings to Star Wars and Marvel: Inside the colossal catalogue of iconic narrative art",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 9000,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-22 09:20",
+  "research": {
+   "entities": [
+    "George Lucas",
+    "Lucas Museum of Narrative Art",
+    "Taschen",
+    "Star Wars",
+    "Marvel"
+   ],
+   "questions": [
+    "루카스 내러티브 아트 박물관이 정의하는 '내러티브 아트'의 핵심 개념과 그 사회적 기능은 무엇인가요?",
+    "선사 시대 동굴 벽화부터 현대 대중문화까지 이어지는 시각적 스토리텔링의 공통된 미학적 특징은 무엇인가요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Lucas Museum of Narrative Art. TASCHEN",
+     "url": "https://www.taschen.com/en/books/art/08198/lucas-museum-of-narrative-art/"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Lucas Museum of Narrative Art",
+     "url": "https://lucasmuseum.org/"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "George Lucas",
+     "url": "https://en.wikipedia.org/wiki/George%20Lucas"
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "Lucas Museum of Narrative Art",
+     "url": "https://en.wikipedia.org/wiki/Lucas%20Museum%20of%20Narrative%20Art"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "레이-옌 송이 직조한 미생물의 서사, 'song dynasty ○○○○'",
+     "url": "https://elephant.art/rae-yen-song/"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "목수였던 배우 해리슨 포드, 그가 직접 지은 집과 가구의 기록",
+     "url": "https://www.architecturaldigest.com/story/harrison-ford-at-home-photos-of-the-hollywood-heartthrobs-life-off-set"
+    },
+    {
+     "n": 7,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "내셔널 지오그래픽의 100년, 미국이라는 거대한 서사를 기록하다",
+     "url": "https://www.wallpaper.com/travel/taschen-national-geographic-the-united-states-of-america-book"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3,
+    4,
+    7
+   ],
+   "chars": 5934
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "elephant.art/a-story-without-stakes-stands-to-bore-uncommissioned-in-curacao": {
+  "title_ko": "길 위에서 발견하는 예술: 퀴라소의 지형에 스며든 노보 콜렉티브의 공공 미술",
+  "summary_ko": "노보 콜렉티브(Novo Collective)가 퀴라소에서 진행한 공공 예술 프로젝트 '언커미션드(uncommissioned)'는 허가나 승인 절차 없이 도시 곳곳에 예술을 배치하는 실험이다. 8명의 예술가는 바나나 섬유, 현지 돌, 폐건축 자재 등 지역의 물성을 활용해 자연과 공존하는 작업을 선보였다. 이는 기존 화이트 큐브 전시의 틀을 벗어나 예술이 삶의 현장과 직접 조우하게 만드는 시도다.",
+  "lens": "예술을 전시장이 아닌 일상의 틈새에 은밀히 투여하여, 관객이 작품을 '관람'하는 것이 아니라 '우연히 발견'하게 만드는 큐레이팅의 전환이다.",
+  "why_now": "기존의 경직된 공공 예술 위원회 모델에서 벗어나, 예술가 중심의 신뢰 네트워크를 통해 장소의 사회적 역사를 회복하려는 흐름이 강화되고 있다.",
+  "mechanism": "작품에 별도의 캡션이나 안내판을 배제하고 현지 재료를 사용해 자연물처럼 보이게 함으로써, 관객이 작품과 환경을 구분하지 못하게 하는 위장 기법을 사용한다.",
+  "sensory": "바닷바람에 흔들리는 바나나 섬유의 거친 촉감과 동굴 내부의 습기, 스테인드글라스를 통과해 벽면에 맺히는 선명한 육각형 빛의 대비가 공간을 채운다.",
+  "transfer": "공간 연출 시 인위적인 전시 구조물을 세우는 대신, 현장의 기존 지형지물이나 폐자재를 오브제로 치환하여 장소의 맥락을 극대화하는 동선을 설계한다.",
+  "context": "노보 콜렉티브는 2년 전 추만 장(Chuman Zhang)과 제리 구오(Jerry Guo)가 설립한 플랫폼으로, 화이트 큐브를 넘어 거리와 자연 속에서 예술적 개입을 실험한다. 이번 프로젝트는 작년 42개 도시에서 50명의 예술가와 진행한 첫 번째 에디션에 이어, 퀴라소의 지리적 특성을 반영한 연구 중심의 두 번째 에디션이다.",
+  "findings": [
+   {
+    "text": "노보 콜렉티브는 공공 예술이 허가받지 않은 방식으로 도시 곳곳에서 우연히 발견되어야 한다고 믿는다.",
+    "s": 1,
+    "quote": "A site-responsive exhibition that unfolds across the city—quietly, unexpectedly, without permission."
+   },
+   {
+    "text": "노보 콜렉티브는 화이트 큐브 외부의 거리, 사막, 옥상 등 삶이 생생하게 흐르는 곳에 예술적 개입을 시도한다.",
+    "s": 2,
+    "quote": "We smuggle audacious ideas into streets, deserts, rooftops — wherever life is loud and white walls are absent."
+   }
+  ],
+  "keywords": [
+   "공공예술",
+   "장소특정적",
+   "노보콜렉티브",
+   "언커미션드",
+   "지속가능성"
+  ],
+  "evidence": "A story without stakes stands to bore. uncommissioned offers another way.",
+  "kind": "프로젝트",
+  "depth": 5,
+  "grounding": "full",
+  "depth_reason": "전시의 기획 의도부터 현지 재료를 활용한 구체적인 설치 기법과 그 철학적 배경까지 명확하게 서술되어 있다.",
+  "v": 2,
+  "url": "https://elephant.art/a-story-without-stakes-stands-to-bore-uncommissioned-in-curacao/",
+  "original_title": "“A Story Without Stakes Stands to Bore”: uncommissioned in Curaçao",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 7946,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-22 09:20",
+  "research": {
+   "entities": [
+    "Novo Collective",
+    "Giovanni Abath",
+    "Nina Katchadourian",
+    "Escif",
+    "Mondriaan Fund"
+   ],
+   "questions": [
+    "Novo Collective가 추구하는 'uncommissioned' 프로젝트의 예술적 철학은 무엇이며, 기존의 화이트 큐브 전시와 어떤 차별점을 갖는가?",
+    "퀴라소(Curaçao)라는 특정 지역의 역사적, 지리적 맥락이 이번 공공 예술 프로젝트의 작품 선정과 설치에 어떤 영향을 미쳤는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "uncommissioned",
+     "url": "https://uncommissioned.art/"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "nōvo collective | rethink art in public space",
+     "url": "https://novocollective.org/"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Nina Katchadourian",
+     "url": "https://en.wikipedia.org/wiki/Nina%20Katchadourian"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 5949
+  },
+  "depth_raw": 5,
+  "depth_v": 2
+ },
+ "archdaily.com/1186713/impermanence-by-design-an-architectural-history-of-antarctica": {
+  "title_ko": "남극의 건축 전기: 200년의 흔적과 사라지는 거주지들",
+  "summary_ko": "빅토리아 누비알라 안텔로가 이끄는 6044 SUR 콜렉티브는 지난 200년간 남극에 세워진 건축물의 역사를 기록한다. 이들은 상업적 목적으로 세워진 초기 임시 가옥부터 근대 건축의 실험장이 된 현대 연구 기지까지, 극한 환경 속에서 구축되고 사라지는 거주지의 궤적을 추적한다.",
+  "lens": "남극의 건축은 고정된 실체가 아니라 자연의 순환에 따라 확장하고 수축하며 마침내 사라지는 '임시적 상태'를 설계하는 과정이다.",
+  "why_now": "기후 위기로 생태계의 취약성이 드러나는 지금, 남극의 건축은 영구성을 지향하는 현대 건축의 관습에 의문을 던진다.",
+  "mechanism": "인도의 바라티 연구 기지는 르 코르뷔지에의 빌라 사보아를 재해석하고, 영국의 할리 VI 기지는 아키그램의 '움직이는 도시' 개념을 물리적 구조로 구현한다.",
+  "sensory": "얼음 아래 묻힌 구조물과 카타바틱 바람에 의해 지워지는 건축의 흔적은 거대한 백지 위에서 반복되는 구축과 소멸의 감각을 선사한다.",
+  "transfer": "극한 환경을 상정한 구조물 설계 시, 기초를 지면에서 띄우거나 모듈형 조립식 부재를 활용해 현장 개입을 최소화하는 동선과 배치 전략을 적용한다.",
+  "context": "6044 SUR 콜렉티브는 남극 조약 체결국 54개국이 20~21세기에 남극에 세운 모든 건축물을 수집하는 최초의 가상 아카이브를 운영한다. 이는 부에노스아이레스 국제 건축 비엔날레에서 다뤄진 거주와 기억의 맥락을 남극이라는 극한의 지리적 조건으로 확장한 결과다.",
+  "findings": [
+   {
+    "text": "SUR은 남극에 거주하는 54개국이 20세기와 21세기에 걸쳐 설계하고 건설한 모든 건축물을 수집하는 최초의 가상 아카이브다.",
+    "s": 1,
+    "quote": "SUR is the first Virtual Archive on Architecture & Dwelling in Antarctica. Archive SUR gathers each one of the architectures designed and built by the 54 parties in the white continent during the 20th & 21st centuries."
+   },
+   {
+    "text": "인도의 바라티 연구 기지는 2012년 3월 18일부터 운영을 시작했으며 해양학 및 대륙 분리 현상을 연구한다.",
+    "s": 2,
+    "quote": "The research station has been operational since 18 March 2012. Bharati's research mandate focuses on oceanographic studies and the phenomenon of continental breakup."
+   }
+  ],
+  "keywords": [
+   "남극 건축",
+   "6044SUR",
+   "거주",
+   "임시성"
+  ],
+  "evidence": "Inhabiting the Extreme: An Architectural Biography of Antarctica reveals the history of a territory shaped by more than two centuries of construction.",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "남극의 건축사를 아카이브와 근대 건축 이론의 연결 고리로 풀어내어 건축적 사유의 깊이를 확보했다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1186713/impermanence-by-design-an-architectural-history-of-antarctica",
+  "original_title": "Impermanence by Design: An Architectural History of Antarctica",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 9000,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-22 09:20",
+  "research": {
+   "entities": [
+    "Victoria Nuviala Antelo",
+    "Buenos Aires International Architecture Biennial",
+    "Bharati Research Station",
+    "South Pole Dome",
+    "Halley VI Research Station"
+   ],
+   "questions": [
+    "남극의 극한 환경에서 건축물들이 어떻게 철거되거나 자연으로 환원되는지 그 역사적 사례가 궁금합니다.",
+    "남극 건축이 근대 건축 운동 및 레이 코르뷔지에, 버크민스터 풀러 등의 사상과 어떻게 연결되는지 알고 싶습니다."
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "6044 SUR collective",
+     "url": "https://6044sur.com/?utm_medium=website&utm_source=archdaily.com"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Bharati (research station)",
+     "url": "https://en.wikipedia.org/wiki/Bharati%20%28research%20station%29"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Amundsen–Scott South Pole Station",
+     "url": "https://en.wikipedia.org/wiki/Amundsen%E2%80%93Scott%20South%20Pole%20Station"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "라틴아메리카 건축의 지평: 기억과 장소를 엮는 다섯 가지 시선",
+     "url": "https://www.archdaily.com/1185977/latin-america-in-focus-this-month-in-architecture-inhabitation-memory-and-cultural-exchange"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "chars": 3345
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "archdaily.com/1187298/bahia-house-patricia-martinez-arquitetura": {
+  "title_ko": "브라질의 여름 별장, 파트리샤 마르티네스가 구현한 건축적 본질",
+  "summary_ko": "브라질에 위치한 바이아 하우스는 건축가 파트리샤 마르티네스가 자신을 위해 설계한 여름 별장이다. 263제곱미터 규모의 이 주택은 형태와 재료, 감각의 균형을 통해 건축의 본질을 탐구하는 합성의 과정으로 완성되었다.",
+  "lens": "군더더기를 덜어내고 건축의 본질을 드러내는 합성의 미학을 주거 공간에 적용한 사례다.",
+  "why_now": "복잡한 장식 대신 재료와 형태의 근본적인 관계를 고민하는 동시대 주거 건축의 흐름을 보여준다.",
+  "mechanism": "형태와 재료를 최소한으로 정제하여 건축가 개인의 철학을 공간에 투영하는 방식으로 작동한다.",
+  "sensory": "여름 별장이라는 용도에 맞게 빛과 재료의 질감이 공간 전체에 고르게 퍼지며 쾌적하고 고요한 감각을 유도한다.",
+  "transfer": "공간의 핵심 메시지를 강조하기 위해 불필요한 시각적 요소를 제거하고 재료의 물성을 극대화하는 연출에 활용할 수 있다.",
+  "context": "파트리샤 마르티네스 아르키테투라가 설계한 이 프로젝트는 건축가 본인의 주거 공간으로서 개인적인 건축 비전을 반영한다.",
+  "findings": [],
+  "keywords": [
+   "주거건축",
+   "브라질건축",
+   "본질성",
+   "여름별장"
+  ],
+  "evidence": "Conceived as an exercise in synthesis, Casa Bahia... translates a search for essentiality, where form, materiality, and sensitivity balance",
+  "kind": "프로젝트",
+  "depth": 2,
+  "grounding": "thin",
+  "depth_reason": "원문 내용이 설계 철학 위주로 요약되어 있어 구체적인 시공 방식이나 재료의 물성 확인이 어렵다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1187298/bahia-house-patricia-martinez-arquitetura",
+  "original_title": "Bahia House / Patricia Martinez Arquitetura",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 1078,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-22 09:20",
+  "research": {
+   "entities": [
+    "Patricia Martinez Arquitetura",
+    "Patricia Martinez",
+    "Fran Parente"
+   ],
+   "questions": [
+    "Patricia Martinez가 추구하는 건축 철학인 '본질성(essentiality)'은 구체적으로 어떤 디자인 요소로 구현되었는가?",
+    "Casa Bahia 프로젝트에서 사용된 주요 자재와 그 자재들이 브라질의 기후와 어떻게 조화를 이루는가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 2,
+  "depth_v": 2
+ },
+ "design-milk.com/2027-infiniti-qx80-design": {
+  "title_ko": "교토의 대나무 숲과 물빛을 새긴 대형 SUV의 조형 언어",
+  "summary_ko": "인피니티의 플래그십 SUV 2027 QX80은 교토 대나무 숲의 수직적 반복과 물결의 빛 반사를 그릴과 리어램프에 담았다. 장인 정신과 일본의 환대 철학인 오모테나시를 바탕으로 내외관 디테일을 설계했다.",
+  "lens": "자연의 반복 패턴과 물의 유동성을 기하학적 그리드로 치환해 거대 차체의 양감을 제어한다.",
+  "why_now": "디지털 화면과 양산 부품이 천편일률화된 대형 차량 시장에서, 전통적 자연물에서 추출한 미니멀한 질감이 차별화된 물리적 깊이를 만든다.",
+  "mechanism": "더블 아치 그릴 안쪽의 큐빅 모티브와 300개가 넘는 LED로 구성된 풀위스 리어램프가 수직과 수평의 리듬을 유기적으로 연결한다.",
+  "sensory": "오픈 포어 애쉬 우드 트림의 레이저 커팅 나뭇결과 3열까지 이어지는 도트 퀼팅 가죽 시트가 실내의 촉각적 밀도를 높인다.",
+  "transfer": "대형 공간이나 차량 인테리어 시퀀스에서 수직 루버 패턴과 수평 광원을 조합해 시선의 리듬을 유도하는 연출에 활용한다.",
+  "context": "인피니티 디자인 총괄 다이스케 나카무라는 교토 유년 시절의 기억에서 영감을 받아 자연의 물성과 동적 움직임을 차량에 녹여내는 'Artistry in Motion' 철학을 전개하고 있다.",
+  "findings": [
+   {
+    "text": "인피니티 브랜드는 1989년 11월 8일 북미에서 최초로 출범한 닛산의 럭셔리 자동차 디비전이다.",
+    "s": 1,
+    "quote": "Infiniti is the luxury car division of the Japanese automaker Nissan. The brand began on November 8, 1989, initially in North America."
+   },
+   {
+    "text": "인피니티 로고는 지평선으로 뻗어 나가는 도로와 후지산을 양식화한 표현이다.",
+    "s": 1,
+    "quote": "According to Nissan, the Infiniti logo is a stylized representation of a road extending to the horizon—and of Mount Fuji, reflecting its Japanese origins."
+   }
+  ],
+  "keywords": [
+   "인피니티",
+   "QX80",
+   "조형디자인",
+   "오모테나시",
+   "물성"
+  ],
+  "evidence": "The bamboo groves of Kyoto are built on repetition, with segmented stalks rising in close-set ranks as filtered light falls through the canopy overhead.",
+  "kind": "제품·오브제",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "대형 SUV의 디자인 프로세스와 자연물 모티브의 구체적 치환 방식을 다루었으나 일반 양산 차량 소개의 범주를 넘지 않는다.",
+  "v": 2,
+  "url": "https://design-milk.com/2027-infiniti-qx80-design/",
+  "original_title": "Infiniti Carries Kyoto’s Bamboo Forests Into the Design of the 2027 QX80",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 6968,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-22 09:20",
+  "research": {
+   "entities": [
+    "Infiniti",
+    "QX80",
+    "Taisuke Nakamura"
+   ],
+   "questions": [
+    "인피니티의 디자인 철학인 'Artistry in Motion'이 구체적으로 어떤 조형적 특징을 지향하는가?",
+    "일본의 전통 환대 문화인 '오모테나시(Omotenashi)'가 자동차 인테리어 디자인에 어떻게 구체적으로 적용되었는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Infiniti",
+     "url": "https://en.wikipedia.org/wiki/Infiniti"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Infiniti QX80",
+     "url": "https://en.wikipedia.org/wiki/Infiniti%20QX80"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 1178
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "archdaily.com/1187146/poliedro-i-house-volume-architecture-lisbon-studio": {
+  "title_ko": "카사 폴리에드로 I, 포르투갈의 조밀한 도시 조직 속에 빚어낸 125제곱미터의 주거",
+  "summary_ko": "볼륨 아키텍처 리스본 스튜디오(Volume Architecture Lisbon Studio)가 포르투갈 파레데(Parede)에 125제곱미터 규모의 주택 카사 폴리에드로 I를 완공했다. 이 프로젝트는 좁고 작은 대지가 밀집한 도시 환경에서 거주자의 사생활과 효율적인 공간 활용을 동시에 확보하는 데 집중한다.",
+  "lens": "제한된 대지 면적을 수직적 혹은 평면적 분할로 밀어붙이지 않고, 조밀한 도시 맥락 안에서 어떻게 주거의 독립성을 확보했는지 그 배치 전략을 살핀다.",
+  "why_now": "도시화가 가속화된 유럽의 소도시에서 좁은 필지를 활용해 주거의 질을 유지하려는 시도는 동시대 건축의 보편적인 과제다.",
+  "mechanism": "건축가는 조밀한 도시 조직의 물리적 제약을 극복하기 위해 대지의 형태를 반영한 평면 구성과 효율적인 동선 설계를 구조적 골격으로 삼았다.",
+  "sensory": "프란시스코 노게이라(Francisco Nogueira)가 촬영한 사진 속에서 주택은 주변 건물과 긴밀하게 맞닿아 있으며, 빛이 좁은 틈 사이로 스며들어 실내의 깊이감을 조절한다.",
+  "transfer": "좁은 대지 조건을 가진 현장에서 조명과 개구부의 위치를 조정해 시각적 개방감을 확보하는 방식을 콘티에 반영할 수 있다.",
+  "context": "본 프로젝트는 포르투갈의 좁은 도시 맥락을 다루는 작업을 이어온 볼륨 아키텍처 리스본 스튜디오의 결과물이다. 이전 사례인 파드레 루이스 카브랄 빌딩과 같이, 이들은 프란시스코 노게이라의 렌즈를 통해 건축물의 물리적 환경과 일상의 조화를 기록한다.",
+  "findings": [],
+  "keywords": [
+   "카사폴리에드로",
+   "포르투갈건축",
+   "도시주거",
+   "볼륨아키텍처"
+  ],
+  "evidence": "Casa Poliedro I sits within a dense urban fabric, characterized by narrow, small plots.",
+  "kind": "프로젝트",
+  "depth": 2,
+  "grounding": "thin",
+  "depth_reason": "원문 정보가 제한적이나, 조밀한 도시 맥락 내 주거 설계라는 명확한 주제를 다루고 있다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1187146/poliedro-i-house-volume-architecture-lisbon-studio",
+  "original_title": "Poliedro I House / Volume Architecture Lisbon Studio",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 982,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-22 09:20",
+  "research": {
+   "entities": [
+    "Volume Architecture Lisbon Studio",
+    "Francisco Nogueira",
+    "João Caria Lopes",
+    "Rodolfo Reis"
+   ],
+   "questions": [
+    "포리에드로 I 주택(Poliedro I House)은 조밀한 도시 조직과 좁은 대지 조건을 어떻게 극복했는가?",
+    "건축가들은 이 프로젝트에서 지속가능성을 위해 어떤 자재와 설계 방식을 적용했는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "리스본의 44제곱미터 아파트 라일락, 동선과 사적 영역을 결합하다",
+     "url": "https://www.yellowtrace.com.au/bureau-lilac-apartment-lisbon-compact-living/"
+    },
+    {
+     "n": 2,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "포르투의 3층 주거, 패시브 전략으로 빚어낸 일상의 밀도",
+     "url": "https://www.archdaily.com/1186822/padre-luis-cabral-building-hori-zonte"
+    }
+   ],
+   "used": [],
+   "chars": 505
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "itsnicethat.com/articles/hanka-van-der-voet-all-work-is-womens-work-publishing-project-221026": {
+  "title_ko": "지워진 노동을 입다: 20세기 암스테르담 재봉사의 인쇄술",
+  "summary_ko": "연구자 한카 반 데르 푸트는 출판물과 인쇄된 의류를 통해 20세기 초 암스테르담 여성 재봉사 조합의 역사적 노동 투쟁을 복원한다. 디자이너 보 베르턴스와 협업한 이 프로젝트는 당시 노동자 신문의 장식 요소를 차용하고 오직 여성 디자이너의 서체만 사용해 책과 옷을 구성했다.",
+  "lens": "역사 속 지워진 여성 노동자의 목소리를 오직 여성 디자이너의 서체와 인쇄 의류라는 물성으로 현재 소환한다.",
+  "why_now": "디지털 화면에서 파편화된 아카이브가 실물 출판물과 웨어러블 미디어를 통해 물리적 공간으로 확장되는 실천적 태도를 보여준다.",
+  "mechanism": "당시 노동자 신문의 드문 장식 요소를 레이아웃에 직조하고, 여성 타이포그래퍼들의 서체를 본문과 헤더에 나누어 배치해 시각적 정치성을 구축한다.",
+  "sensory": "제록스 인쇄 기법으로 거칠게 찍어낸 의류 표면과 신문의 성긴 레이아웃이 당시 노동 현장의 물리적 감각을 재현한다.",
+  "transfer": "인사이드 아웃 콘셉트의 다큐멘터리나 공간 연출에서, 역사적 신문 아카이브를 자막 타이포그래피와 의상 질감의 소스로 직접 변환한다.",
+  "context": "한카 반 데르 푸트는 패션과 노동, 페미니즘의 교차점을 다루는 독립 출판사 클로스라인스 프레스를 운영하며 패션 산업 시스템을 비판적으로 탐구해 왔다.",
+  "findings": [],
+  "keywords": [
+   "인쇄출판",
+   "타이포그래피",
+   "아카이브",
+   "여성노동",
+   "패션역사"
+  ],
+  "evidence": "All Work is Women’s Work: On the seamstresses’ union of radical publishing practices in early 20th century Amsterdam",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "여성 노동자의 역사적 투쟁을 타이포그래피와 의류라는 구체적인 출판 매체로 실현한 명확한 작업이다.",
+  "v": 2,
+  "url": "https://www.itsnicethat.com/articles/hanka-van-der-voet-all-work-is-womens-work-publishing-project-221026",
+  "original_title": "All Work is Women’s Work recovers the forgotten history of Amsterdam’s seamstresses",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 6114,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-22 09:20",
+  "research": {
+   "entities": [
+    "Hanka van der Voet",
+    "Femke de Vries",
+    "MacGuffin",
+    "Clotheslines Press",
+    "De Naaistersbode"
+   ],
+   "questions": [
+    "20세기 초 암스테르담의 재봉사 조합(The Seamstress Union)이 당시 가부장적이고 자본주의적인 노동 환경에 맞서기 위해 인쇄 매체를 어떻게 활용했는가?",
+    "Hanka van der Voet의 프로젝트가 암스테르담의 노동자 계급 여성들의 역사를 복원하는 과정에서 타이포그래피와 출판 디자인을 정치적 도구로 어떻게 사용했는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "MacGuffin | The Stitch",
+     "url": "https://www.macguffinmagazine.com/issues/macguffin-the-stitch"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 2600
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "design-milk.com/roger-dubuis-excalibur-kabuto-legacy": {
+  "title_ko": "로저드뷔, 17세기 사무라이 투구로 재해석한 엑스칼리버 카부토 레거시",
+  "summary_ko": "로저드뷔(Roger Dubuis)가 엑스칼리버(Excalibur) 컬렉션의 새로운 모델 '더 카부토 레거시(The Kabuto Legacy)'를 공개했다. 다이얼에는 17세기 도쿠가와 막부 시대 사무라이 지휘관들의 투구인 카부토 12개를 18K 핑크 골드로 마이크로 조각해 배치했다. 역사적 고증을 위해 드라마 '쇼군(Shōgun)'의 역사 자문가 프레데릭 크린스(Frederik Cryns)와 협업했다.",
+  "lens": "전통적인 기사 서사를 일본 막부의 지휘 체계로 치환하여, 정교한 마이크로 조각이 단순한 장식을 넘어 역사적 계급을 시각화하는 지표로 작동한다.",
+  "why_now": "기존 유럽 중심의 서사를 동양적 맥락으로 확장하며, 미니어처 조각 기술을 통해 시계 다이얼을 역사적 사건을 담는 입체적인 무대로 전환한다.",
+  "mechanism": "45mm 핑크 골드 케이스 내부의 다이얼 중앙에 에도 성을 추상화하여 배치하고, 그 주위를 12개의 카부토가 감싸는 구조다. 각 투구는 2~3일의 수작업을 거쳐 제작되며, 에도 성 구조물은 폴리싱, 원형 브러싱, 샷 블라스팅 기법을 혼용해 질감을 차별화했다.",
+  "sensory": "18K 핑크 골드의 묵직한 광택과 에도 성의 깊은 인디고 블루 색감이 대비를 이룬다. 미세하게 조각된 투구의 금속 질감은 빛의 각도에 따라 그림자를 형성하며 다이얼에 깊이감을 더한다.",
+  "transfer": "금속 소재의 레이어링을 통해 평면적인 공간에 입체감을 부여하거나, 특정 역사적 오브제를 모듈화하여 반복 배치함으로써 공간의 위계와 서사를 구축하는 연출에 활용 가능하다.",
+  "context": "로저드뷔는 1995년 설립 이후 제네바 전통 시계 제조법을 계승하면서도, 2005년 엑스칼리버 컬렉션을 기점으로 현대적이고 대담한 미학을 추구해 왔다. 2013년부터 이어진 '원탁의 기사' 시리즈는 브랜드의 메티에 다르(métiers d'art) 공예 기술을 집약하는 핵심 라인업이다.",
+  "findings": [
+   {
+    "text": "로저드뷔는 1995년 설립된 스위스 시계 제조사로, 대부분의 부품을 자체 생산하며 제네바 인증(Poinçon de Genève)을 획득한다.",
+    "s": 1,
+    "quote": "Roger Dubuis, officially Manufacture Roger Dubuis SA, is a Swiss luxury watch manufacturer founded in 1995 and based in Meyrin, in the Canton of Geneva. Nearly all of its watches carry the Poinçon de Genève (Geneva Seal)"
+   }
+  ],
+  "keywords": [
+   "로저드뷔",
+   "엑스칼리버",
+   "마이크로조각",
+   "카부토",
+   "메티에다르"
+  ],
+  "evidence": "Each is micro-sculpted from 18K pink gold and hand-engraved, requiring two to three days of work.",
+  "kind": "제품·오브제",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "전통 공예 기술과 역사적 고증의 결합 방식이 구체적이며, 시계 다이얼을 하나의 건축적 공간으로 해석한 점이 돋보인다.",
+  "v": 2,
+  "url": "https://design-milk.com/roger-dubuis-excalibur-kabuto-legacy/",
+  "original_title": "Roger Dubuis Gives Its Knights of the Round Table Watch a Samurai Spin",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 6926,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-22 09:20",
+  "research": {
+   "entities": [
+    "Roger Dubuis"
+   ],
+   "questions": [
+    "로저드뷔의 'Excalibur The Kabuto Legacy' 워치는 역사적 고증을 위해 어떤 전문가와 협업했는가?",
+    "기존 'Knights of the Round Table' 시리즈와 새로운 카부토(Kabuto) 에디션의 가장 큰 디자인 차이점은 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Roger Dubuis",
+     "url": "https://en.wikipedia.org/wiki/Roger%20Dubuis"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 839
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "dazeddigital.com/fashion/article/71214/1/doja-cat-fashion-chameleon-best-looks-greatest-moments-red-carpet": {
+  "title_ko": "도자 캣, 신체를 캔버스로 삼아 패션의 경계를 지우는 방식",
+  "summary_ko": "가수 도자 캣(Doja Cat)은 스키아파렐리(Schiaparelli), 톰 브라운(Thom Browne) 등 아방가르드한 의상과 파격적인 메이크업을 통해 매번 새로운 캐릭터를 구축한다. 팻 맥그래스(Pat McGrath)와 협업한 3만 개의 크리스털 룩부터 짐승의 발을 형상화한 부츠까지, 그는 의복을 넘어 신체를 조형적 오브제로 변환하며 동시대 패션 아이콘으로 자리 잡았다.",
+  "lens": "패션을 의류의 착용이 아닌, 신체 표면을 재구성하는 조형적 퍼포먼스로 치환하여 대중의 시선을 강제로 고정한다.",
+  "why_now": "디지털 환경에서 이미지의 소비 속도가 빨라짐에 따라, 도자 캣은 매번 극단적인 변신을 통해 자신의 정체성을 고정되지 않은 상태로 유지한다.",
+  "mechanism": "팻 맥그래스의 크리스털 분장처럼 피부를 보석으로 덮거나, 톰 브라운의 벌레 드레스와 같이 신체의 윤곽을 완전히 가리는 기법으로 인간의 형상을 낯설게 재배치한다.",
+  "sensory": "피부를 뒤덮은 3만 개의 크리스털이 만드는 차가운 금속성 광택과, 신체 구조를 왜곡하는 거대한 클로 부츠의 육중한 질감이 대비를 이룬다.",
+  "transfer": "영상 연출 시 인물의 의상을 단순히 스타일링하는 것이 아니라, 특정 재질(크리스털, 실리콘 등)을 피부에 밀착시켜 인물을 배경과 분리된 조형물로 보이게 하는 기법을 적용할 수 있다.",
+  "context": "도자 캣은 팻 맥그래스와의 협업을 통해 메이크업의 일회적 질감을 영구적인 장식의 물성으로 확장하는 실험을 지속해 왔다. 이는 프라다(Prada)가 산업용 재료로 신체의 구조를 가두는 방식과 궤를 같이하며, 의복을 개념적 사물로 다루는 동시대 아방가르드 패션의 흐름을 보여준다.",
+  "findings": [
+   {
+    "text": "도자 캣은 2023년 타임지가 선정한 세계에서 가장 영향력 있는 인물 중 한 명으로 이름을 올렸다.",
+    "s": 1,
+    "quote": "Time listed her as one of the world's most influential people in 2023."
+   },
+   {
+    "text": "톰 브라운은 2023년 미국패션디자이너협회(CFDA)의 회장으로 취임했다.",
+    "s": 2,
+    "quote": "In 2023, Browne became the chairman of the Council of Fashion Designers of America, succeeding Tom Ford."
+   }
+  ],
+  "keywords": [
+   "도자 캣",
+   "아방가르드",
+   "조형적 패션",
+   "팻 맥그래스",
+   "신체 변주"
+  ],
+  "evidence": "Dame Pat McGrath covered her in 30,000 blood-red Swarovski crystals.",
+  "kind": "작가·인터뷰",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "도자 캣의 패션을 단순한 스타일링이 아닌 신체 조형의 관점에서 분석하고, 타 디자이너와의 맥락을 연결하여 구체성을 확보했다.",
+  "v": 2,
+  "url": "https://www.dazeddigital.com/fashion/article/71214/1/doja-cat-fashion-chameleon-best-looks-greatest-moments-red-carpet?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=doja-cat-is-the-fashion-s-ultimate-chameleon",
+  "original_title": "Doja Cat is the fashion’s ultimate chameleon",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 1955,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-22 09:20",
+  "research": {
+   "entities": [
+    "Doja Cat",
+    "Balmain",
+    "Thom Browne",
+    "Schiaparelli",
+    "Pat McGrath"
+   ],
+   "questions": [
+    "도자 캣의 파격적인 패션과 메이크업 연출은 그녀의 음악적 정체성과 어떤 연관이 있는가?",
+    "패션위크와 시상식에서 선보인 도자 캣의 아방가르드한 룩들은 현대 패션계에 어떤 문화적 파급력을 주었는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Doja Cat",
+     "url": "https://en.wikipedia.org/wiki/Doja%20Cat"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Thom Browne",
+     "url": "https://en.wikipedia.org/wiki/Thom%20Browne"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "프라다 SS27, 스커트라는 사각형 프레임에 담아낸 의복의 물성",
+     "url": "https://www.anothermag.com/fashion-beauty/17503/prada-spring-summer-2027-ss27-review-skirts?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=prada-was-devoted-to-the-skirt"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "메이크업과 주얼리의 물성이 만나다, 팻 맥그래스와 판도라",
+     "url": "https://www.wallpaper.com/watches-jewellery/pat-mcgrath-partners-with-pandora-for-a-beauty-inspired-jewellery-collection"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "구조적 실루엣과 귀환, 2027 S/S 뉴욕 패션 위크의 주요 흐름",
+     "url": "https://www.wallpaper.com/fashion-beauty/new-york-fashion-week-ss-2027-schedule-best-moments"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "chars": 2429
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "architecturaldigest.com/story/joeonna-bellorado-samuels-brooklyn-apartment": {
+  "title_ko": "편안함을 지우고 조각을 들인 브루클린의 갤러리스트 아파트",
+  "summary_ko": "잭 셰인먼 갤러리의 수석 디렉터 조오나 벨라도-새뮤얼스가 4년에 걸쳐 리노베이션한 브루클린 클린턴 힐의 아파트다. 이 공간에는 소파 대신 조각적인 의자들이 자리하며, 거울을 들여오기 위해 비계까지 설치하는 등 일상적 안락함보다 감상 경험을 우선에 둔다. 바클리 헨드릭스, 새디 바넷 등의 작품을 생활 공간의 중심에 두어 예술과 주거의 경계를 허문다.",
+  "lens": "안락한 소파를 치우고 조각적 긴장을 택해 주거 공간을 전시장으로 전유한다.",
+  "why_now": "화이트 큐브의 중립성을 벗어나 작가의 삶과 수집품이 거칠게 충돌하는 주거 공간이 새로운 전시 대안으로 떠오른다.",
+  "mechanism": "오픈플랜 거실 한쪽 벽을 가득 채운 10피트 유리 패널과 비계 가설을 통해 공간의 깊이감을 왜곡하고 시선을 강제한다.",
+  "sensory": "엉성하게 패치워크된 노출 벽돌의 거친 질감과 거울에 반사되는 창밖의 빛이 공간 전체의 밀도를 높인다.",
+  "transfer": "공간 촬영이나 세트 디자인 시 편안한 가구를 배제하고 기괴한 형태의 의자와 거울을 배치해 시각적 긴장감을 연출한다.",
+  "context": "조오나 벨라도-새뮤얼스는 뉴욕의 잭 셰인먼 갤러리(Jack Shainman Gallery) 수석 디렉터로 활동하며 동시대 미술과 긴밀한 관계를 맺어왔다.",
+  "findings": [
+   {
+    "text": "잭 셰인먼 갤러리는 1984년 워싱턴 D.C.에서 잭 셰인먼과 그의 파트너 클로드 시마르가 설립한 현대미술 갤러리다.",
+    "s": 2,
+    "quote": "Jack Shainman Gallery is a contemporary art gallery in New York City. The gallery was founded by Jack Shainman and his then-partner Claude Simard (1956—2014) in 1984 in Washington, D.C."
+   }
+  ],
+  "keywords": [
+   "공간리노베이션",
+   "컬렉터하우스",
+   "조각가구",
+   "미술품배치"
+  ],
+  "evidence": "At Joeonna Bellorado-Samuels’s Clinton Hill home it is all about the viewing experience",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "갤러리스트의 독특한 주거 공간을 감상 경험의 관점에서 구체적으로 포착했으나 형식은 개인 아파트 소개에 머문다.",
+  "v": 2,
+  "url": "https://www.architecturaldigest.com/story/joeonna-bellorado-samuels-brooklyn-apartment",
+  "original_title": "In This Gallerist's Brooklyn Apartment, There Isn't a Sofa In Sight—Sculptural Chairs Take Pride of Place",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 4660,
+  "fetch": "ok",
+  "cliche_hits": [
+   "경계를 허"
+  ],
+  "read_at": "2026-10-22 09:20",
+  "research": {
+   "entities": [
+    "Joeonna Bellorado-Samuels",
+    "Studio Museum in Harlem",
+    "Jack Shainman Gallery",
+    "Barkley Hendricks",
+    "We Buy Gold"
+   ],
+   "questions": [
+    "조오나 벨라도-새뮤얼스가 갤러리스트로서 추구하는 '전시 경험'이 주거 공간 디자인에 어떻게 반영되었는가?",
+    "예술 작품을 수집하고 배치하는 그녀만의 철학이 어린 시절 아버지의 예술 활동과 어떤 연관이 있는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Studio Museum in Harlem",
+     "url": "https://en.wikipedia.org/wiki/Studio%20Museum%20in%20Harlem"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Jack Shainman Gallery",
+     "url": "https://en.wikipedia.org/wiki/Jack%20Shainman%20Gallery"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "뉴욕 9월의 아트 리셋: 주목해야 할 5가지 전시와 공간의 재발견",
+     "url": "https://elephant.art/the-great-new-york-art-reset-the-six-best-shows-to-see-this-september/"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "헤수스 힐라리오-레예스의 클럽과 스튜디오: 재난의 언어로 구축한 집단적 신체성",
+     "url": "https://elephant.art/jesus-hilario-reyes-on-freakability-techno-and-collective-embodiment/"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "데리안 파의 회화, 비늘과 모피로 빚어낸 여성성의 변태",
+     "url": "https://hyperallergic.com/a-vision-of-rebirth-raw-and-sumptuous/"
+    }
+   ],
+   "used": [
+    2
+   ],
+   "chars": 2304
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "architecturaldigest.com/story/barbara-corcoran-fifth-avenue-penthouse-design-by-allegra-eifler": {
+  "title_ko": "어퍼 이스트 사이드의 비치 하우스, 바바라 코코란의 펜트하우스",
+  "summary_ko": "부동산 거물 바바라 코코란이 어퍼 이스트 사이드의 펜트하우스를 매입하고 디자이너 알레그라 O. 에이틀러와 함께 9개월간 개조를 진행했다. 3,100평방피트 규모의 거주지는 랄프 로렌의 앤티크 부문 디렉터 출신인 에이틀러의 감각을 통해 고전적인 우아함과 편안한 휴양지의 분위기를 결합한 공간으로 재탄생했다.",
+  "lens": "고급 주거지의 격식과 개인적인 취향의 유희를 섞어, 보는 공간이 아닌 머무는 공간으로서의 펜트하우스를 설계했다.",
+  "why_now": "대규모 주거 공간에서 정형화된 럭셔리 대신 개인의 서사가 담긴 사물과 일상적 유희를 우선하는 주거 트렌드를 반영한다.",
+  "mechanism": "앤티크 가구와 원색의 벽지, 개인 소장품을 배치하여 공간마다 서로 다른 무대를 연출하고, 1960년대 이탈리아제 샹들리에와 같은 조형적 요소를 더해 시각적 밀도를 조절한다.",
+  "sensory": "꽃무늬 벽지가 덮인 정원 방의 고요함과 테라스에 가득한 12그루의 나무, 향기로운 장미가 도시의 소음과 대비되는 감각적 안식처를 조성한다.",
+  "transfer": "공간의 중심을 잡는 핵심 오브제(예: 스크래블 테이블, 빈티지 램프)를 먼저 배치하고, 그 주변을 편안한 질감의 패브릭으로 감싸 인물의 행동을 유도하는 시퀀스를 구성한다.",
+  "context": "디자이너 알레그라 O. 에이틀러는 랄프 로렌의 앤티크 및 빈티지 부문 글로벌 디렉터를 역임했다. 랄프 로렌은 남성복 테일러링과 낭만적 요소를 결합하여 고유한 우아함을 구축해온 브랜드다.",
+  "findings": [],
+  "keywords": [
+   "펜트하우스",
+   "인테리어",
+   "앤티크",
+   "공간디자인",
+   "알레그라에이틀러"
+  ],
+  "evidence": "the concept was really a beach house on Fifth Avenue",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "개인적인 취향을 공간에 녹여내는 구체적인 방법론을 제시하나, 프로젝트의 규모와 기술적 혁신 측면에서는 표준적인 고급 주거 개조의 범주에 머문다.",
+  "v": 2,
+  "url": "https://www.architecturaldigest.com/story/barbara-corcoran-fifth-avenue-penthouse-design-by-allegra-eifler",
+  "original_title": "Barbara Corcoran Wasn’t Going to Let Her New “Beach House on Fifth Avenue” Get Away",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 4619,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-22 09:20",
+  "research": {
+   "entities": [
+    "Barbara Corcoran",
+    "Allegra O. Eifler",
+    "Corcoran Group",
+    "Shark Tank",
+    "Ralph Lauren"
+   ],
+   "questions": [
+    "바바라 코코란의 새 펜트하우스 인테리어를 맡은 디자이너 알레그라 O. 에이틀러의 디자인 철학은 무엇인가?",
+    "상맨해튼 어퍼 이스트 사이드에 위치한 이 펜트하우스의 '피프스 애비뉴의 비치 하우스' 콘셉트는 어떻게 구현되었는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Barbara Corcoran",
+     "url": "https://en.wikipedia.org/wiki/Barbara%20Corcoran"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Corcoran Group",
+     "url": "https://en.wikipedia.org/wiki/Corcoran%20Group"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "불경스러운 로맨스: 랄프 로렌의 S/S 2027 뉴욕 패션위크",
+     "url": "https://www.wallpaper.com/fashion-beauty/ralph-lauren-ss-2027-runway-show-review"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "구조적 실루엣과 귀환, 2027 S/S 뉴욕 패션 위크의 주요 흐름",
+     "url": "https://www.wallpaper.com/fashion-beauty/new-york-fashion-week-ss-2027-schedule-best-moments"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "간절기의 논리, 긴팔 폴로 셔츠가 지닌 실용의 미학",
+     "url": "https://www.highsnobiety.com/p/only-logical-fall-fit-long-sleeve-polo/"
+    }
+   ],
+   "used": [
+    1,
+    3,
+    4,
+    5
+   ],
+   "chars": 1590
+  },
+  "depth_raw": 3,
+  "depth_v": 2
  }
 }
