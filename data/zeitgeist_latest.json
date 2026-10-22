@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-10-22 14:36 KST",
+  "generated_at": "2026-10-22 17:14 KST",
   "period": "2026.10.15 - 2026.10.22",
-  "total_articles": 397,
+  "total_articles": 405,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 185
+      "count": 189
     },
     {
       "genre": "동시대 미술",
-      "count": 155
+      "count": 159
     },
     {
       "genre": "아방가르드 패션",
@@ -86,6 +86,38 @@
       ]
     },
     {
+      "keyword": "해변·리조트 건축",
+      "count": 9,
+      "previous_count": 2,
+      "trend": "rising",
+      "items": [
+        {
+          "title": "주거 인테리어에서 휴식을 취할 수 있는 공간 만들기",
+          "url": "https://www.archdaily.com/1182304/integrating-wellness-into-residential-interiors",
+          "image_url": "https://images.adsttc.com/media/images/6a74/47b6/5c0b/ae01/8ae4/b58c/large_jpg/integrating-wellness-into-residential-interiors_1.jpg?1786005454",
+          "source_name": "ArchDaily"
+        },
+        {
+          "title": "불가리 호텔 앤 리조트의 카르미나티 리프트 앤 슬라이드 창문 프레임 두바이 스카이라인",
+          "url": "https://www.dezeen.com/2026/10/22/carminati-lift-slide-windows-frame-dubai-skyline-bvlgari-hotel-resort/",
+          "image_url": "https://static-2026.dezeen.com/uploads/2026/10/SQ_dezeen_1704_col_0-1024x1024.jpg",
+          "source_name": "Dezeen"
+        },
+        {
+          "title": "아모 리조트, 고대 그리스의 장인 정신을 로도스 해안에 전하다",
+          "url": "https://design-milk.com/amoh-resort-rhodes-studio-lost/",
+          "image_url": "https://design-milk.com/images/2026/10/1.-drz_By-Studio-LOST_AMOH_By-Studio-LOST_5_By-Studio-LOST_58818-e1792508299127-1500x1000.jpg",
+          "source_name": "Design Milk"
+        },
+        {
+          "title": "2026년 바닷가 조각 전시회에서 수십 개의 조각품 닷 본다이 비치",
+          "url": "https://www.thisiscolossal.com/2026/10/bondi-beach-sculpture-by-the-sea-exhibition-2026/",
+          "image_url": "https://www.thisiscolossal.com/wp-content/uploads/2026/10/bondi-1.jpg",
+          "source_name": "This Is Colossal"
+        }
+      ]
+    },
+    {
       "keyword": "미니멀리즘",
       "count": 8,
       "previous_count": 2,
@@ -114,38 +146,6 @@
           "url": "https://www.wallpaper.com/architecture/residential/oa-house-nigerian-beach-house-tosin-oshinowo",
           "image_url": "https://cdn.mos.cms.futurecdn.net/XQXxs6uThU8bdzKECkyC9C-1920-80.jpg",
           "source_name": "Wallpaper*"
-        }
-      ]
-    },
-    {
-      "keyword": "해변·리조트 건축",
-      "count": 8,
-      "previous_count": 2,
-      "trend": "rising",
-      "items": [
-        {
-          "title": "불가리 호텔 앤 리조트의 카르미나티 리프트 앤 슬라이드 창문 프레임 두바이 스카이라인",
-          "url": "https://www.dezeen.com/2026/10/22/carminati-lift-slide-windows-frame-dubai-skyline-bvlgari-hotel-resort/",
-          "image_url": "https://static-2026.dezeen.com/uploads/2026/10/SQ_dezeen_1704_col_0-1024x1024.jpg",
-          "source_name": "Dezeen"
-        },
-        {
-          "title": "아모 리조트, 고대 그리스의 장인 정신을 로도스 해안에 전하다",
-          "url": "https://design-milk.com/amoh-resort-rhodes-studio-lost/",
-          "image_url": "https://design-milk.com/images/2026/10/1.-drz_By-Studio-LOST_AMOH_By-Studio-LOST_5_By-Studio-LOST_58818-e1792508299127-1500x1000.jpg",
-          "source_name": "Design Milk"
-        },
-        {
-          "title": "2026년 바닷가 조각 전시회에서 수십 개의 조각품 닷 본다이 비치",
-          "url": "https://www.thisiscolossal.com/2026/10/bondi-beach-sculpture-by-the-sea-exhibition-2026/",
-          "image_url": "https://www.thisiscolossal.com/wp-content/uploads/2026/10/bondi-1.jpg",
-          "source_name": "This Is Colossal"
-        },
-        {
-          "title": "바바라 코코란 (Barbara Corcoran) 은 그녀의 새로운 \"5번가의 비치 하우스 (Beach House on Fifth Avenue)\" 를 떠나려고 하지 않았습니다.",
-          "url": "https://www.architecturaldigest.com/story/barbara-corcoran-fifth-avenue-penthouse-design-by-allegra-eifler",
-          "image_url": "https://media.architecturaldigest.com/photos/6ad68ced78f18b8535695359/master/pass/260805_TLenz_Eifler_Corcoran1455%202.jpg",
-          "source_name": "Architectural Digest"
         }
       ]
     },
@@ -215,6 +215,8 @@
     }
   ],
   "notable_names": [
+    "Apple Music",
+    "Fred Again",
     "Doja Cat",
     "Alice Diop",
     "Miu Miu",
@@ -224,8 +226,7 @@
     "David Chipperfield Architects",
     "RIBA International Prize",
     "Stirling Prize",
-    "Frieze London",
-    "RIBA Stirling Prize"
+    "Frieze London"
   ],
   "has_comparison": true
 }

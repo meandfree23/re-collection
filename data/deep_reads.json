@@ -203210,5 +203210,520 @@
   },
   "depth_raw": 5,
   "depth_v": 2
+ },
+ "wallpaper.com/architecture/residential/greek-island-home-m-residence-mold-architects-greece": {
+  "title_ko": "절벽에 띄운 거대한 석조 상자, 몰드 아키텍츠의 엠 레지던스",
+  "summary_ko": "그리스 세리포스섬 리아 지역에 지어진 엠 레지던스는 10년 전의 초기 설계안을 바탕으로 완성된 주택이다. 아테네 기반의 몰드 아키텍츠가 설계를 맡았으며, 절벽 위 모놀리식 볼륨과 부드러운 곡선 내부가 대조를 이룬다. 공중에 떠 있는 듯한 착시를 주는 플린트 구조와 일곱 개의 중정 배치가 특징이다.",
+  "lens": "단단한 모놀리식 외관 아래 곡선형 벽체와 중정을 숨겨 공간의 중층적 깊이를 만든다.",
+  "why_now": "오래전 보류되었던 설계안을 동시대적 감각으로 수정해 완성함으로써, 과거의 구상과 현재의 주거 양식이 만나는 지점을 보여준다.",
+  "mechanism": "하부의 플린트 구조가 그림자를 만들어 건물이 공중에 떠 있는 것처럼 보이게 만들고, 내부는 각진 모서리를 배제해 방과 중정을 유기적으로 연결한다.",
+  "sensory": "채색된 석고의 따뜻한 질감과 거친 암석 형태의 절단면이 대비되며, 시간에 따라 빛의 각도에 따라 전혀 다른 공간적 인상을 자아낸다.",
+  "transfer": "공간을 연출할 때 구조물 하부에 미세한 그림자 라인을 주어 무거운 볼륨이 공중에 떠 있는 듯한 시각적 효과를 만든다.",
+  "context": "그리스 아테네를 기반으로 활동하는 여성 건축가 그룹 몰드 아키텍츠가 세리포스섬의 지형적 특성과 지역 건축 언어를 재해석해 완성한 작업이다.",
+  "findings": [],
+  "keywords": [
+   "모놀리식",
+   "몰드아키텍츠",
+   "그리스건축",
+   "절벽주택",
+   "중정"
+  ],
+  "evidence": "This Greek island home looks almost alien from the air: geometric and mysterious, its upper storey sits high on a cliffside, while its base is nestled low into the ground.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "10년 만에 실현된 독특한 지형적 주택 프로젝트이나 선례가 아주 드물지는 않음.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/architecture/residential/greek-island-home-m-residence-mold-architects-greece",
+  "original_title": "This monolithic Greek island home is anything but a cliché",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 4414,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-22 17:14",
+  "research": {
+   "entities": [
+    "Mold Architects",
+    "Iliana Kerestetzi",
+    "Serifos"
+   ],
+   "questions": [
+    "Mold Architects가 세리포스섬에서 진행한 다른 건축 프로젝트에는 어떤 것이 있는가?",
+    "10년 전의 초기 설계안과 비교했을 때 M Residence의 자재와 인테리어는 어떻게 발전했는가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "archdaily.com/1186838/how-seaside-house-explores-the-relationship-between-brick-wood-and-the-coastal-landscape": {
+  "title_ko": "해안의 비례를 닮은 벽돌, 스웨덴 시사이드 하우스",
+  "summary_ko": "스웨덴 횔비켄 해안에 위치한 시사이드 하우스는 코이스티넨 헬보그 아키텍츠가 설계했다. 모래 지형과 소나무 숲 사이에 자리 잡은 이 주택은 긴 형태의 울티마 벽돌과 수직 목재 사이딩을 결합해 해안 풍경과 조화를 이룬다.",
+  "lens": "가늘고 긴 비례의 벽돌로 수평선을 강조해 해안 사구의 결을 건축 표면에 새긴다.",
+  "why_now": "주변 자연환경의 물성을 그대로 건축 재료로 끌어들여 장소성과 영속성을 동시에 확보하려는 시도다.",
+  "mechanism": "길이 468밀리미터, 높이 38밀리미터의 울티마 벽돌을 사용하여 수평 줄눈을 강조하고 건물의 외관을 낮고 길게 확장한다.",
+  "sensory": "거친 표면의 벽돌과 수직 목재 패널이 빛의 각도에 따라 그림자를 다르게 만들어 모래와 소나무 숲의 질감을 환기한다.",
+  "transfer": "외벽의 질감을 살릴 때 일반 벽돌 대신 길고 납작한 포맷을 적용해 수평 확장감을 연출한다.",
+  "context": "코이스티넨 헬보그 아키텍츠는 스웨덴 남부 해안의 자연 지형과 기존 소나무를 보존하는 매스 배치를 통해 지역 규제와 맥락을 풀어냈다.",
+  "findings": [
+   {
+    "text": "울티마 벽돌은 길이 약 468밀리미터, 높이 38밀리미터의 길고 독특한 비례를 가진다.",
+    "s": 1,
+    "quote": "Ultima is a waterstruck brick in an exclusive linear format. Ultima has the length of two ordinary bricks and a height of just 38mm."
+   },
+   {
+    "text": "RT 151 모델은 밝고 어두운 색조가 다양하게 섞이도록 세심하게 검댕 처리되었다.",
+    "s": 1,
+    "quote": "The RT 151 is blackened with a deliberate eye for bright colour variations. Its earthy warmth fade between light and dark shifts endlessly."
+   }
+  ],
+  "keywords": [
+   "벽돌건축",
+   "해안주택",
+   "스웨덴건축",
+   "울티마벽돌"
+  ],
+  "evidence": "Ultima brick, with its elongated proportions and rough, waterstruck surface, proved especially suited to the project's architectural language.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "해안 지형에 맞춘 재료 조합과 구체적인 벽돌 규격을 보여주나 전형적인 주택 프로젝트 소개의 범주를 넘지 않는다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1186838/how-seaside-house-explores-the-relationship-between-brick-wood-and-the-coastal-landscape",
+  "original_title": "How Seaside House Explores the Relationship Between Brick, Wood, and the Coastal Landscape",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 6972,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-22 17:14",
+  "research": {
+   "entities": [
+    "Koistinen Hellborg Architects",
+    "Randers Tegl",
+    "Höllviken",
+    "Seaside House"
+   ],
+   "questions": [
+    "Koistinen Hellborg Architects는 해안가 환경에서 벽돌과 목재를 활용하여 어떤 공간적 분위기를 연출하고자 했는가?",
+    "Höllviken의 지역적 규제와 대지 조건은 Seaside House의 매스 배치와 층수 구성에 어떻게 영향을 미쳤는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "RT 151 Ultima - Linear Facing Brick Waterstruck",
+     "url": "https://www.randerstegl.com/en/ultima/rt-151?utm_medium=website&utm_source=archdaily.com"
+    },
+    {
+     "n": 2,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "해송 숲과 1930년대의 결속, 캅 페레의 씨사이드 하우스",
+     "url": "https://leibal.com/interiors/seaside-house-2/"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 2827
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "creativeboom.com/news/apple-musics-new-logo-was-shaped-by-fred-again-and-a-bath-of-mineral-oil": {
+  "title_ko": "미네랄 오일과 트랜스듀서로 빚어낸 애플 뮤직의 물리적 음파",
+  "summary_ko": "애플 뮤직이 2015년 출시 이후 처음으로 진행한 브랜드 개편을 통해 새로운 시각 정체성을 공개했다. 프로듀서 프레드 어게인과 네스트 어쿠스틱스가 제작한 음악을 미네랄 오일 수조 속 트랜스듀서로 통과시켜, 물리적 파문을 카메라로 직접 포착해 새로운 음원 아이콘의 뼈대를 완성했다.",
+  "lens": "디지털 그래픽 대신 미네랄오일과 물리적 진동으로 소리의 결을 실체화한다.",
+  "why_now": "가상 그래픽의 정밀함이 극에 달한 시점에, 아날로그 물리 실험을 거친 질감으로 실재감을 회복한다.",
+  "mechanism": "오디오 신호를 물리적 진동으로 바꾸는 트랜스듀서를 얕은 오일 수조에 담그고, 음파에 따라 일렁이는 표면을 카메라로 촬영해 시각 데이터로 전환했다.",
+  "sensory": "빛의 굴절과 오일의 점성이 만들어내는 매끄러운 유체 질감과 미세한 파문의 잔상이 화면을 채운다.",
+  "transfer": "물리적 매질에 음파나 진동을 흘려 왜곡되는 빛을 실시간으로 포착해 추상적인 배경 텍스처로 활용한다.",
+  "context": "애플 뮤직은 출시 이후 첫 브랜드 개편을 단행했으며 런던 라이브 공연장 애플 뮤직 홀 오픈과 보조를 맞춘다.",
+  "findings": [],
+  "keywords": [
+   "애플뮤직",
+   "프레드어게인",
+   "미네랄오일",
+   "브랜딩",
+   "트랜스듀서"
+  ],
+  "evidence": "Fred Again and his collaborator NEST Acoustics wrote a piece of music and broke it down into individual notes. They played each note through a transducer sitting in oil.",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "물리적 오일과 음파 진동을 결합한 독창적인 제작 공정과 명확한 협업 구조를 갖췄다.",
+  "v": 2,
+  "url": "https://www.creativeboom.com/news/apple-musics-new-logo-was-shaped-by-fred-again-and-a-bath-of-mineral-oil/",
+  "original_title": "Apple Music's new logo was shaped by Fred Again and a bath of mineral oil",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 6853,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-22 17:14",
+  "research": {
+   "entities": [
+    "Fred Again",
+    "TBWA\\Media Arts Lab",
+    "Apple Music",
+    "Plau",
+    "NEST Acoustics"
+   ],
+   "questions": [
+    "애플뮤직의 새로운 리브랜딩 과정에서 미네랄 오일과 트랜스듀서를 활용해 소리를 시각화한 구체적인 기술적 배경은 무엇인가?",
+    "프레드 어게인(Fred Again)과 NEST 어쿠스틱스가 협업한 사운드 디자인이 새로운 시각 아이덴티티 구축에 어떤 방식으로 기여했는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Fred Again",
+     "url": "https://en.wikipedia.org/wiki/Fred%20Again"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Apple Music",
+     "url": "https://en.wikipedia.org/wiki/Apple%20Music"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "애플, 런던 배터시 발전소에 600석 규모 음악 공연장 조성",
+     "url": "https://www.dezeen.com/2026/09/23/apple-music-hall-battersea-power-station/"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "소리를 액체로 빚어내다, 애플 뮤직의 새로운 비주얼 아이덴티티",
+     "url": "https://www.wallpaper.com/art/music/apple-musics-new-visual-identity-turns-sound-into-liquid-with-help-from-fred-again"
+    }
+   ],
+   "used": [
+    4
+   ],
+   "chars": 2990
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "creativeboom.com/news/as-thought-bubble-comics-festival-turns-20-meet-the-indie-creators-who-could-be-the-next-big-thing": {
+  "title_ko": "스물 살을 맞이한 영국 최대의 만화 축제와 주목할 만한 독립 크리에이터들",
+  "summary_ko": "영국의 토트 버블 코믹 아트 페스티벌이 20주년을 맞이해 요크셔와 리즈 일원에서 열린다. 오픈 전시를 통해 이름을 알린 앨리스 오스먼이 헤드라인 게스트로 복귀하는 가운데, 축제 디렉터들이 직접 선정한 신진 독립 만화가들의 작업이 주목받고 있다. 행사는 11월 14일부터 15일까지 해로게이트 컨벤션 센터에서 메인 컨벤션으로 이어진다.",
+  "lens": "거대 자본의 프랜차이즈 대신 연필과 종이로 독창적인 세계를 구축하는 신진 독립 만화가들의 원형을 포착한다.",
+  "why_now": "디지털 양산이 보편화된 시대에 손으로 그린 질감과 인디 감성을 품은 그래픽 노블의 독립적 제작 방식이 다시금 크리에이터들의 시선을 사로잡는다.",
+  "mechanism": "연필과 흑연의 거친 질감, 중세 일러스트레이션 양식, 코미디 호러의 결합 등 작가 고유의 수작업 공정이 독특한 시각적 밀도를 만들어낸다.",
+  "sensory": "디지털 화면에서는 찾기 힘든 종이의 결, 연필의 미세한 마찰흔, 그리고 어둡고 환상적인 색채가 어우러져 독특한 질감을 전달한다.",
+  "transfer": "독립 출판물의 수작업 일러스트 질감과 연필 드로잉의 텍스처를 콘티와 스토리보드의 무드 소스로 적극 활용한다.",
+  "context": "토트 버블 페스티벌은 2007년에 설립된 영국의 대규모 만화 예술 축제로 유럽식 만화 축제의 전통을 이어가며 만화가와 팬들을 직접 연결해왔다.",
+  "findings": [
+   {
+    "text": "토트 버블 페스티벌은 2007년에 설립되어 영국의 가장 큰 만화 컨벤션으로 자리 잡았다.",
+    "s": 2,
+    "quote": "Established in 2007, Thought Bubble has been credited as being the UK's largest comics convention."
+   },
+   {
+    "text": "앨리스 오스먼은 17세에 첫 출판 계약을 맺고 청소년 소설과 그래픽 노블 시리즈 하트스토퍼로 널리 알려졌다.",
+    "s": 3,
+    "quote": "Oseman secured her first publishing deal at 17 and published her first novel Solitaire in 2014. She rose to widespread prominence for writing and illustrating the webcomic and graphic novel series Heartstopper"
+   }
+  ],
+  "keywords": [
+   "토트버블",
+   "그래픽노블",
+   "인디만화",
+   "일러스트레이션"
+  ],
+  "evidence": "As Thought Bubble comic art festival turns 20, meet the indie creators who could be the next big thing",
+  "kind": "행사·공모",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "스물 살을 맞이한 축제와 신진 작가들을 소개하는 정보성 기사로 명확한 사실을 담고 있다.",
+  "v": 2,
+  "url": "https://www.creativeboom.com/news/as-thought-bubble-comics-festival-turns-20-meet-the-indie-creators-who-could-be-the-next-big-thing/",
+  "original_title": "As Thought Bubble comic art festival turns 20, meet the indie creators who could be the next big thing",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 9000,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-22 17:14",
+  "research": {
+   "entities": [
+    "Thought Bubble",
+    "Alice Oseman",
+    "Heartstopper",
+    "Riotbones",
+    "Tim Bird"
+   ],
+   "questions": [
+    "Thought Bubble 페스티벌은 신진 만화가들에게 어떤 기회를 제공하며 그 역사적 배경은 무엇인가?",
+    "기사에 언급된 독립 만화가들이 현대 그래픽 노블 시장에서 주목받는 이유는 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Thought Bubble Comic Art Festival",
+     "url": "https://www.thoughtbubblefestival.com/"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Thought Bubble Festival",
+     "url": "https://en.wikipedia.org/wiki/Thought%20Bubble%20Festival"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Alice Oseman",
+     "url": "https://en.wikipedia.org/wiki/Alice%20Oseman"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3
+   ],
+   "chars": 3120
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "archdaily.com/1186809/7th-door-hangzhou-chakchak-studio": {
+  "title_ko": "근대 문화유산에 심은 150제곱미터의 미식 공간, 7th door 항저우",
+  "summary_ko": "차크차크 스튜디오가 중국 항저우의 등록 현대 문화유산인 메이화탕 인근에 150제곱미터 규모의 레스토랑인 '7th door'를 2025년에 완공했다. 항저우 서호 중심부에 위치한 이 프로젝트는 대균 김이 이끄는 설계팀이 맡았고, 동규 김이 사진을 촬영했다. 역사적인 도시 맥락 속에서 현대적인 인테리어 디자인을 선보인다.",
+  "lens": "역사적 문화유산 구역에 자리 잡은 소규모 공간이 동시대 미식 경험을 담아내는 방식.",
+  "why_now": "급격히 성장하는 기술 도시 항저우의 도심 속에서 역사적 자산과 현대적 상업 공간이 만나는 방식을 보여준다.",
+  "mechanism": "150제곱미터의 한정된 면적 안에 레스토랑과 바의 기능을 밀도 있게 배치해 동선을 압축했다.",
+  "sensory": "항저우 서호 인근의 역사적 흔적을 품은 부지 위에 세워져 고풍스러운 주변 환경과 대비를 이룬다.",
+  "transfer": "역사적 건축물 주변의 좁은 상업 공간을 촬영할 때, 공간의 물리적 밀도와 주변 풍경의 결을 대조시키는 샷 구성에 활용한다.",
+  "context": "중국 항저우의 등록된 현대 문화유산 구역인 메이화탕 인근에 자리 잡았다.",
+  "findings": [],
+  "keywords": [
+   "항저우",
+   "레스토랑",
+   "문화유산",
+   "인테리어"
+  ],
+  "evidence": "Completed in 2025 in Hangzhou, China. Images by Donggyu Kim.",
+  "kind": "프로젝트",
+  "depth": 2,
+  "grounding": "thin",
+  "depth_reason": "원문의 정보가 제한적이고 세부 설계 방식에 대한 설명이 부족해 기본 소개 수준에 머무른다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1186809/7th-door-hangzhou-chakchak-studio",
+  "original_title": "7th door Hangzhou Restaurant / Chakchak Studio",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 899,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-22 17:14",
+  "research": {
+   "entities": [
+    "Chakchak Studio",
+    "Meihuatang",
+    "Alibaba",
+    "DeepSeek"
+   ],
+   "questions": [
+    "항저우의 근대 문화유산인 'Meihuatang'은 어떤 역사적 배경을 가진 건축물인가요?",
+    "Chakchak Studio는 7th door 레스토랑 설계 시 기존 문화유산의 공간적 특성을 어떻게 현대적으로 재해석했나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Alibaba Group",
+     "url": "https://en.wikipedia.org/wiki/Alibaba%20Group"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "DeepSeek",
+     "url": "https://en.wikipedia.org/wiki/DeepSeek"
+    }
+   ],
+   "used": [],
+   "chars": 1708
+  },
+  "depth_raw": 2,
+  "depth_v": 2
+ },
+ "archdaily.com/1182304/integrating-wellness-into-residential-interiors": {
+  "title_ko": "가정으로 들어온 스파 기술, 레미(LEMI)의 홈 스파 컬렉션",
+  "summary_ko": "이탈리아 가구 브랜드 레미는 주거 공간을 전문적인 웰니스 환경으로 전환하는 홈 스파 컬렉션을 선보인다. 하모니 라운지(Harmony Lounge)를 비롯한 제품군에는 진동 음악 기술, 크로모테라피, 온열 시스템이 통합되어 신체적 긴장 완화를 돕는다. 이는 상업용 스파 기술을 일상적인 주거 인테리어로 이식하려는 시도다.",
+  "lens": "가구의 형태를 넘어 신체 리듬을 물리적으로 제어하는 진동과 빛의 인터페이스를 주거 공간의 가구에 이식했다.",
+  "why_now": "웰빙이 전용 시설의 전유물에서 벗어나 일상적인 주거 공간의 핵심 요소로 자리 잡으면서, 기능적 가구와 첨단 기술의 결합이 가속화되고 있다.",
+  "mechanism": "진동 음악 기술은 소리와 조화로운 진동을 결합해 근육 이완을 유도하며, 크로모테라피는 유색 조명을 활용해 정서적 균형을 맞추는 몰입형 환경을 조성한다.",
+  "sensory": "메모리 폼 매트리스가 신체 곡선을 따라 유연하게 밀착하고, 내장된 온열 시스템이 정적인 공간에 온기를 채워 심리적 안정감을 극대화한다.",
+  "transfer": "공간 연출 시 가구의 배치를 단순한 시각적 구성이 아닌, 특정 조명과 진동이 신체에 닿는 동선과 각도를 고려한 휴식의 시퀀스로 설계한다.",
+  "context": "레미는 1989년부터 뷰티·스파 및 의료용 인체공학 장비를 전문적으로 개발해 온 이탈리아 기업이다. 이번 컬렉션은 기존의 전문 장비 기술력을 주거 환경이라는 사적인 영역으로 확장한 결과물이다.",
+  "findings": [
+   {
+    "text": "레미는 1989년부터 뷰티·스파 및 의료 분야를 위한 인체공학적 장비를 개발해 왔다.",
+    "s": 1,
+    "quote": "Since 1989, LEMI has been developing outstanding solutions for its two specialized divisions: Beauty & Spa, offering beds, chairs, and multifunction cabins for maximum comfort and well-being, and Medical, providing ergon"
+   }
+  ],
+  "keywords": [
+   "레미",
+   "홈스파",
+   "인체공학가구",
+   "웰니스",
+   "크로모테라피"
+  ],
+  "evidence": "Wellbeing is no longer confined to exclusive resorts, spas, or hospitality settings. Today, it has become an essential part of contemporary living",
+  "kind": "제품·오브제",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "전문 스파 기술을 가정용 가구에 적용한 구체적인 기법과 제품 라인업을 확인했으나, 디자인적 혁신보다는 기존 기술의 이식에 집중한다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1182304/integrating-wellness-into-residential-interiors",
+  "original_title": "Making Room for Rest in Residential Interiors",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 3948,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-22 17:14",
+  "research": {
+   "entities": [
+    "LEMI",
+    "Harmony Lounge",
+    "Roma",
+    "Milano Evo"
+   ],
+   "questions": [
+    "주거 공간 내 웰니스 가구 도입이 현대 인테리어 디자인 트렌드에서 갖는 의미는 무엇인가요?",
+    "Vibro-Music이나 크로모테라피와 같은 기술이 실제 가정용 가구에 어떻게 통합되어 신체적, 정신적 휴식을 돕나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Luxury Home and SPA Lounge Chairs | Lemi Home",
+     "url": "https://www.lemihomespa.com/en/?utm_medium=website&utm_source=archdaily.com"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Harmony Lounge Luxury Series Lounger Chairs for Home and SPA | Lemi Home",
+     "url": "https://www.lemihomespa.com/en/product/harmony-lounge-chaise-longue/?utm_medium=website&utm_source=archdaily.com"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 4854
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "creativeboom.com/work/why-is-this-new-york-agency-asking-women-to-send-nudes": {
+  "title_ko": "누드를 보내라는 오랜 온라인 농담을 건강 점검 알림으로 비틀다",
+  "summary_ko": "여성 중심 크리에이티브 에이전시 야드 뉴욕(Yard NYC)이 유방암 예방의 달을 맞아 '누드를 보내라(Send Nudes)'는 문구를 활용한 공익 캠페인을 전개한다. 뉴욕 윌리엄스버그와 로어 이스트 사이드 거리 포스터에 굵은 검은색 헤드라인과 QR코드를 배치해 여성들이 자기 몸을 정기적으로 촬영하며 변화를 기록하도록 이끈다.",
+  "lens": "음란한 온라인 은어를 셀프 건강 기록 도구로 전용해 시선을 붙잡는다.",
+  "why_now": "50대 미만 여성의 유방암 발병률이 빠르게 증가하는 상황에서, 젊은 세대의 자기 촬영 문화에 맞춘 직관적인 소통 방식을 택했다.",
+  "mechanism": "가장 익숙한 디지털 속어와 상반되는 사적인 셀프 촬영 행위를 결합해 주목도를 높이고, 포스터의 QR코드로 구체적인 자가 검진 정보를 제공한다.",
+  "sensory": "뉴욕 거리의 거친 와일드 포스팅(wild posting) 위에 얹힌 굵은 검은색 타이포그래피와 상반되는 절제된 상반신 흑백 사진이 시각적 충격을 준다.",
+  "transfer": "도발적인 카피와 일상적 행위를 충돌시켜 공익적 메시지의 전달력을 높이는 옥외 광고 레이아웃으로 활용한다.",
+  "context": "독립 크리에이티브 회사 야드 뉴욕(Yard NYC)은 문화적 파급력을 지닌 캠페인을 통해 브랜드 인식과 대중의 인식을 변화시키는 작업을 이어왔다.",
+  "findings": [],
+  "keywords": [
+   "야드뉴욕",
+   "유방암캠페인",
+   "옥외광고",
+   "도발적카피"
+  ],
+  "evidence": "Bold black \"SEND NUDES\" headlines alternate with tasteful topless photos of women, each with a QR code covering their chest.",
+  "kind": "브랜드·캠페인",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "도발적인 카피를 공익 캠페인으로 전환한 영민한 기획이나 매체 집행의 범주가 옥외 광고와 웹사이트에 국한된다.",
+  "v": 2,
+  "url": "https://www.creativeboom.com/work/why-is-this-new-york-agency-asking-women-to-send-nudes/",
+  "original_title": "Why is a creative agency in New York asking women to 'send nudes'?",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 7348,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-22 17:14",
+  "research": {
+   "entities": [
+    "Yard NYC",
+    "Ruth Bernstein",
+    "Caroline Seklir"
+   ],
+   "questions": [
+    "Yard NYC의 'Send Nudes' 캠페인이 젊은 여성층의 유방암 조기 발견에 실질적으로 어떤 기여를 했는가?",
+    "유방암 자가 검진을 위한 모바일 및 디지털 캠페인이 기존 전통적 방식의 예방 홍보와 비교해 가지는 차별점은 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Yard NYC",
+     "url": "https://www.yardnyc.com/"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Send Nudes to Yourself",
+     "url": "https://sendnudestoyourself.com/"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 484
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "archdaily.com/1186226/house-in-minamigata-yutaka-yoshida-architect-and-associates": {
+  "title_ko": "철도와 녹지 사이, 오카야마 미나미가타의 작은 주택",
+  "summary_ko": "일본 오카야마의 미나미가타 지역, 신칸센 노선과 재래선 철도 사이에 자리한 주택이다. 요시다 유타카 건축사사무소는 니시카와 그린웨이와 벚나무가 심긴 공원 등 물과 녹지로 둘러싸인 주변 환경을 활용해 거주 공간을 설계했다.",
+  "lens": "철도 소음과 인접한 필지의 한계를 수로와 공원이라는 녹지 환경으로 상쇄하며 좁은 대지의 밀도를 재해석했다.",
+  "why_now": "대도시의 밀집된 철도망 주변에서 거주자가 어떻게 자연적 환경을 내부로 끌어들여 심리적 안정을 확보하는지 보여준다.",
+  "mechanism": "수로를 경계로 공원과 마주하는 북측 배치를 통해 인접한 철도의 소음을 차단하고, 외부의 녹지를 시각적 확장 요소로 활용했다.",
+  "sensory": "철도 인근의 금속성 소음과 수로 주변의 부드러운 녹음이 대비되는 공간이다.",
+  "transfer": "철로변의 소음을 고려할 때, 수로를 완충 지대로 삼고 조경을 통해 시야를 차단하는 배치 전략을 적용할 수 있다.",
+  "context": "요시다 유타카 건축사사무소가 오카야마 지역의 환경적 특수성을 반영하여 2024년에 완공한 주거 프로젝트이다.",
+  "findings": [],
+  "keywords": [
+   "오카야마주택",
+   "요시다유타카",
+   "철로변건축",
+   "주거공간"
+  ],
+  "evidence": "This is a small house situated in a corner of a small town located between the Shinkansen line extending from JR Okayama Station and two conventional rail lines.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "주변 환경에 대한 묘사는 명확하나, 구체적인 설계 도면이나 지속 가능성 구현 방식에 대한 세부 정보가 부족하다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1186226/house-in-minamigata-yutaka-yoshida-architect-and-associates",
+  "original_title": "House in Minamigata / Yutaka Yoshida Architect & Associates",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 1174,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-22 17:15",
+  "research": {
+   "entities": [
+    "Yutaka Yoshida Architect & Associates",
+    "Yutaka Yoshida"
+   ],
+   "questions": [
+    "미나미가타 지역의 주변 환경과 철도 선로 인접성이라는 특수성이 이 주택의 설계에 어떻게 반영되었는가?",
+    "요시다 유타카 건축사사무소가 이 프로젝트에서 강조한 지속 가능성(Sustainability)의 구체적인 구현 방식은 무엇인가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
  }
 }
