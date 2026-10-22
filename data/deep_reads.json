@@ -202695,5 +202695,86 @@
   },
   "depth_raw": 3,
   "depth_v": 2
+ },
+ "design-milk.com/amoh-resort-rhodes-studio-lost": {
+  "title_ko": "고대 채석장의 흔적을 지형과 물성으로 재해석한 아모 리조트",
+  "summary_ko": "그리스 로도스 섬의 럭셔리 컬렉션 리조트 아모(Amoh)는 고대 린도스 아크로폴리스에 석회암을 공급하던 채석장 부지에 조성되었다. 런던의 스튜디오 로스트(Studio Lost)가 인테리어 건축을 맡아 석조 유산과 전통 페블 모자이크 기법을 현대적인 지중해 디자인으로 재현했다.",
+  "lens": "고대 채석장의 석재와 수제 모자이크를 날것 그대로 드러내어 영속적인 물성을 완성한다.",
+  "why_now": "디자인 영역에서 역사적 유산을 단순 복제하는 방식을 넘어, 원시적인 재료의 물성과 지역 공예가의 수작업을 현대 건축에 이식하는 태도가 주목받고 있다.",
+  "mechanism": "현지 장인이 한 땀 한 땀 수작업으로 이어 붙인 로도스 페블 모자이크 바닥과 대형 아틀라스 콘콩르드(Atlas Concorde) 석회암 타일이 내외외벽을 관통하며 연속성을 만든다.",
+  "sensory": "에메랄드빛 바다와 대비되는 허니 컬러 석재의 거친 질감, 산화된 금속 마감, 그리고 어두운 톤의 목재 스크린이 만드는 그늘이 감각적 깊이를 더한다.",
+  "transfer": "로케이션 촬영이나 공간 연출 시, 인위적인 세트 대신 거친 질감의 석재와 목재 루버를 활용해 자연광에 따라 결이 살아나는 미장센을 구성한다.",
+  "context": "스튜디오 로스트의 창립자 콘스탄티나 추츠이쿠(Constantina Tsoutsikou)는 지중해의 클리셰를 배제하고, 아틀라스 콘콩르드의 대형 포맷 슬래브와 가스마스(Casamance)의 벽지를 활용해 지역 고유의 공예 언어를 구축했다.",
+  "findings": [
+   {
+    "text": "아모 리조트는 그리스 로도스 섬의 린도스 근처 전용 반도에 위치한다.",
+    "s": 1,
+    "quote": "Spread across a secluded peninsula near Lindos, AMOH unfolds across a thoughtfully designed landscape of rooms, suites, dining spaces and experiences shaped by the sea."
+   },
+   {
+    "text": "가스마스는 다양한 천연 소재와 전통 직조 방식을 활용한 벽지를 선보이는 프랑스 브랜드이다.",
+    "s": 2,
+    "quote": "magnificent wallcoverings created using materials as diverse as banana leaves, linen, straw, traditional weavings"
+   }
+  ],
+  "keywords": [
+   "석조 채석장",
+   "스튜디오 로스트",
+   "페블 모자이크",
+   "지중해 리조트"
+  ],
+  "evidence": "A site that once supplied limestone for the Acropolis of Lindos now hosts a contemporary resort.",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "고대 채석장 부지의 역사적 맥락과 지역 장인의 수공예 기법이 구체적인 건축 재료와 공간 장치로 연결되는 과정을 명확히 보여준다.",
+  "v": 2,
+  "url": "https://design-milk.com/amoh-resort-rhodes-studio-lost/",
+  "original_title": "Amoh Resort Brings Ancient Greek Craftsmanship to the Coast of Rhodes",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 6340,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-22 11:17",
+  "research": {
+   "entities": [
+    "Amoh",
+    "Studio Lost",
+    "Casamance",
+    "Atlas Concorde",
+    "Acropolis of Lindos"
+   ],
+   "questions": [
+    "로도스 섬의 고대 채석장 역사가 Amoh 리조트의 건축적 미학에 구체적으로 어떻게 반영되었는가?",
+    "Studio Lost가 리조트 디자인에서 고대 그리스의 전통 공예 기법인 로도스 페블 모자이크를 현대적으로 재해석한 방식은 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "AMOH, a Luxury Collection Resort, Rhodes",
+     "url": "https://www.amoh.com/"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Casamance",
+     "url": "https://www.casamance.com/en/"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "체르사이 2026: 타일, 평면을 넘어 건축적 깊이를 구현하는 6가지 방식",
+     "url": "https://design-milk.com/cersaie-2026-tile-trends/"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 5449
+  },
+  "depth_raw": 4,
+  "depth_v": 2
  }
 }
