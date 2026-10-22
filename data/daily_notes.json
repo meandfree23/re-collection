@@ -2460,5 +2460,56 @@
   "v": 3,
   "model": "gemini-3.5-flash-lite",
   "written_at": "2026-10-22 02:53"
+ },
+ "2026-10-23": {
+  "date": "2026-10-23",
+  "headline": "나선형 계단의 철판과 손으로 빚은 도자의 격자무늬",
+  "editorial": "스뇌헤타의 상하이 오페라 하우스는 황푸강변에 나선형 계단을 펼쳐 올리며 공공의 동선을 엮는다. 이브라힘 사이드는 고대 도자의 대칭성과 격자무늬를 현대적 조각으로 치환해 시간의 흔적을 담는다. 차임 수틴의 거친 필치와 일라나 사브디의 해부학적 회화는 신체의 감각을 정밀하게 해부하며 팽팽한 긴장을 만든다.",
+  "threads": [
+   {
+    "name": "오래된 구조의 재구성",
+    "note": "기존의 뼈대와 산업 유산을 남긴 채 새로운 기능을 더해 공간의 기억을 갱신한다.",
+    "items": [
+     {
+      "title": "산업 유산과 주거의 기억을 엮은 폴란드 그단스크의 레스토랑 베제우 치에프니",
+      "url": "https://www.yatzer.com/wezel-cieplny-con-s-gdansk-poland"
+     },
+     {
+      "title": "구조를 보존하고 풍경을 품다, 스튜디오 B의 파크사이드 빌라",
+      "url": "https://www.archdaily.com/1187144/parkside-villa-studio-b-architecture-plus-interiors"
+     },
+     {
+      "title": "목공의 터전을 다시 엮다, 베이징 수도 샹시 비물질문화유산 워크스테이션",
+      "url": "https://www.archdaily.com/955634/beijing-capital-xiangxi-intangible-heritage-workstation-daga-architects"
+     },
+     {
+      "title": "역사적 외피의 보존과 재활용 알루미늄으로 완성한 마드리드의 주거 리노베이션",
+      "url": "https://minimalissimo.com/articles/casa-castelar-by-solar"
+     }
+    ]
+   },
+   {
+    "name": "물성의 변주와 형태",
+    "note": "벽돌, 도자, 유리 등의 원자재를 가공해 사물의 본래 질감과 쓰임을 다채롭게 바꾼다.",
+    "items": [
+     {
+      "title": "시간을 빚는 도자, 이브라힘 사이드의 조각적 변주",
+      "url": "https://www.thisiscolossal.com/2026/10/ibrahim-said-shaping-time-ceramic-sculptures/"
+     },
+     {
+      "title": "런던 소호에 문을 연 터키식 그릴 레스토랑 킷",
+      "url": "https://www.wallpaper.com/travel/restaurants/kid-soho-london-review"
+     },
+     {
+      "title": "유리 조각으로 재탄생한 교외의 일상 사물들",
+      "url": "https://www.designboom.com/art/hayden-clay-williams-everyday-objects-stained-glass-sculptures-surrealism/"
+     }
+    ]
+   }
+  ],
+  "based_on": 24,
+  "v": 3,
+  "model": "gemini-3.5-flash-lite",
+  "written_at": "2026-10-23 02:57"
  }
 }

@@ -1,32 +1,44 @@
 {
-  "generated_at": "2026-10-22 23:08 KST",
-  "period": "2026.10.15 - 2026.10.22",
-  "total_articles": 432,
+  "generated_at": "2026-10-23 02:55 KST",
+  "period": "2026.10.16 - 2026.10.23",
+  "total_articles": 377,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 202
+      "count": 170
     },
     {
       "genre": "동시대 미술",
-      "count": 167
+      "count": 152
     },
     {
       "genre": "아방가르드 패션",
-      "count": 47
+      "count": 40
     },
     {
       "genre": "미디어 파사드·3D",
-      "count": 16
+      "count": 15
     }
   ],
   "themes": [
     {
       "keyword": "박물관·전시",
-      "count": 45,
-      "previous_count": 33,
+      "count": 37,
+      "previous_count": 34,
       "trend": "rising",
       "items": [
+        {
+          "title": "\"무효에서 가치로: 탈린의 구시가지 수정\" 비전 경쟁 전시회",
+          "url": "https://www.archdaily.com/1187379/from-void-to-value-revisioning-tallinns-old-town-vision-competition-exhibition",
+          "image_url": "https://images.adsttc.com/media/images/6ada/259e/3271/8400/01d0/e021/large_jpg/3_TAB_2026_Vision_Competition_Opening__Evert_Palmets.jpg?1792681398",
+          "source_name": "ArchDaily"
+        },
+        {
+          "title": "사이를 잇는 공간: 존 에드먼즈",
+          "url": "https://elephant.art/the-space-between-john-edmonds/",
+          "image_url": "https://elephant.art/wp-content/uploads/2026/10/Screenshot-2026-10-22-at-10.22.05-AM.png",
+          "source_name": "Elephant"
+        },
         {
           "title": "1960년대 쇼핑 센터로 이전하는 리버풀의 비틀즈 박물관",
           "url": "https://www.dezeen.com/2026/10/22/the-beatles-story-liverpool-relocation/",
@@ -38,6 +50,20 @@
           "url": "https://www.designboom.com/art/helene-fauquet-vivresse-exhibition-lafayette-anticipations-paris/",
           "image_url": "https://www.designboom.com/wp-content/uploads/2026/10/helene-fauquet-vivresse-exhibition-lafayette-anticipations-paris-designboom-7.jpg",
           "source_name": "Designboom Art"
+        }
+      ]
+    },
+    {
+      "keyword": "빛과 조명",
+      "count": 9,
+      "previous_count": 6,
+      "trend": "rising",
+      "items": [
+        {
+          "title": "평범한 사람들이 강력하고 새로운 단편 영화에서 \"거리\" 를 간다.",
+          "url": "https://www.stashmedia.tv/ordinary-folk-goes-the-distance-in-powerful-new-short-film/",
+          "image_url": "http://www.stashmedia.tv/wp-content/uploads/Distance-Short-Film-by-Ordinary-Folk-STASH-MAGAZINE5.jpg",
+          "source_name": "Stash Media"
         },
         {
           "title": "이 새로운 전시회는 펑크 음악에 숨겨진 여성의 역사를 조명합니다.",
@@ -46,49 +72,23 @@
           "source_name": "Dazed"
         },
         {
-          "title": "2026년 바닷가 조각 전시회에서 수십 개의 조각품 닷 본다이 비치",
-          "url": "https://www.thisiscolossal.com/2026/10/bondi-beach-sculpture-by-the-sea-exhibition-2026/",
-          "image_url": "https://www.thisiscolossal.com/wp-content/uploads/2026/10/bondi-1.jpg",
-          "source_name": "This Is Colossal"
-        }
-      ]
-    },
-    {
-      "keyword": "목재 건축",
-      "count": 12,
-      "previous_count": 9,
-      "trend": "rising",
-      "items": [
-        {
-          "title": "불가리 호텔 앤 리조트의 카르미나티 리프트 앤 슬라이드 창문 프레임 두바이 스카이라인",
-          "url": "https://www.dezeen.com/2026/10/22/carminati-lift-slide-windows-frame-dubai-skyline-bvlgari-hotel-resort/",
-          "image_url": "https://static-2026.dezeen.com/uploads/2026/10/SQ_dezeen_1704_col_0-1024x1024.jpg",
-          "source_name": "Dezeen"
+          "title": "마르셀",
+          "url": "https://leibal.com/lighting/marcelle/",
+          "image_url": "https://leibal.com/wp-content/uploads/2026/10/leibal-marcelle-clement-pasquier-2.jpg",
+          "source_name": "Leibal"
         },
         {
-          "title": "Dosorozco는 멕시코 숲의 질감 있는 집에 돌과 검게 칠한 목재를 사용합니다.",
-          "url": "https://www.dezeen.com/2026/10/21/dosorozco-casa-sima/",
-          "image_url": "https://static-2026.dezeen.com/uploads/2026/10/casa-sima-dosorozco-mexico-houses-residential-architecture_dezeen_2364_sq-1024x1024.jpg",
-          "source_name": "Dezeen"
-        },
-        {
-          "title": "브라질에 있는 이 수변 주택의 규모와 드라마를 감추는 단순한 목재 봉투",
-          "url": "https://www.wallpaper.com/architecture/residential/a-simple-timber-envelope-conceals-the-scale-and-drama-of-this-waterfront-house-in-brazil",
-          "image_url": "https://cdn.mos.cms.futurecdn.net/5nsCp8mhExDt9Puv2hTXEC-1920-80.jpg",
-          "source_name": "Wallpaper*"
-        },
-        {
-          "title": "에스피가 하우스/그루포 프리미티보",
-          "url": "https://www.archdaily.com/1187171/espiga-house-grupo-primitivo",
-          "image_url": "https://images.adsttc.com/media/images/6ad5/f6fc/aadf/a000/01e3/ae86/large_jpg/DSC02082.jpg?1792407356",
-          "source_name": "ArchDaily"
+          "title": "추상적 명료성: 일로, 에버퓨어 x 블룸버그 TV 조명",
+          "url": "https://www.stashmedia.tv/abstract-clarity-illo-illuminates-everpure-x-bloomberg-tv/",
+          "image_url": "http://www.stashmedia.tv/wp-content/uploads/Everpure-x-Bloomberg-TV-brand-films-by-Illo-STASH-MAGAZINE3-1920x1080.jpg",
+          "source_name": "Stash Media"
         }
       ]
     },
     {
       "keyword": "해변·리조트 건축",
-      "count": 10,
-      "previous_count": 2,
+      "count": 8,
+      "previous_count": 3,
       "trend": "rising",
       "items": [
         {
@@ -118,43 +118,17 @@
       ]
     },
     {
-      "keyword": "빛과 조명",
-      "count": 9,
-      "previous_count": 5,
-      "trend": "rising",
-      "items": [
-        {
-          "title": "이 새로운 전시회는 펑크 음악에 숨겨진 여성의 역사를 조명합니다.",
-          "url": "https://www.dazeddigital.com/music/article/71198/1/new-exhibition-up-yours-history-women-punk-museum-of-youth-culture-camden?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=this-new-exhibition-spotlights-the-hidden-history-of-women-in-punk-music",
-          "image_url": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/7/1457901.jpg",
-          "source_name": "Dazed"
-        },
-        {
-          "title": "마르셀",
-          "url": "https://leibal.com/lighting/marcelle/",
-          "image_url": "https://leibal.com/wp-content/uploads/2026/10/leibal-marcelle-clement-pasquier-2.jpg",
-          "source_name": "Leibal"
-        },
-        {
-          "title": "추상적 명료성: 일로, 에버퓨어 x 블룸버그 TV 조명",
-          "url": "https://www.stashmedia.tv/abstract-clarity-illo-illuminates-everpure-x-bloomberg-tv/",
-          "image_url": "http://www.stashmedia.tv/wp-content/uploads/Everpure-x-Bloomberg-TV-brand-films-by-Illo-STASH-MAGAZINE3-1920x1080.jpg",
-          "source_name": "Stash Media"
-        },
-        {
-          "title": "‘아이올루스‘ 에서 드리프트는 조명을 받은 유리 막대를 바람의 조각에 매달아 놓습니다.",
-          "url": "https://www.thisiscolossal.com/2026/10/aeolus-studio-drift-light-glass-installation/",
-          "image_url": "https://www.thisiscolossal.com/wp-content/uploads/2026/10/drift-2.gif",
-          "source_name": "This Is Colossal"
-        }
-      ]
-    },
-    {
       "keyword": "미니멀리즘",
-      "count": 8,
-      "previous_count": 2,
+      "count": 7,
+      "previous_count": 3,
       "trend": "rising",
       "items": [
+        {
+          "title": "카사 카스텔라르 바이 솔라",
+          "url": "https://minimalissimo.com/articles/casa-castelar-by-solar",
+          "image_url": "https://minimalissimo.com/api/media/file/casa-castelar-by-solar-gallery-3-v20261022-1200x630.jpg",
+          "source_name": "Minimalissimo"
+        },
         {
           "title": "Everything Moist Seems Alive 설치의 \"Hydrofeminism\" 및 새는 성도 기능",
           "url": "https://www.dezeen.com/2026/10/22/hydrofeminism-everything-moist-seems-alive-installation/",
@@ -172,61 +146,84 @@
           "url": "https://www.archdaily.com/1186814/companion-villa-asnow-design-and-construct",
           "image_url": "https://images.adsttc.com/media/images/6acf/5dab/b2c4/c300/0178/f28e/large_jpg/DSC_9080.jpg?1791975547",
           "source_name": "ArchDaily"
-        },
-        {
-          "title": "미니멀리즘과 석호가 어우러진 나이지리아의 해변가 저택 안으로 들어가보세요.",
-          "url": "https://www.wallpaper.com/architecture/residential/oa-house-nigerian-beach-house-tosin-oshinowo",
-          "image_url": "https://cdn.mos.cms.futurecdn.net/XQXxs6uThU8bdzKECkyC9C-1920-80.jpg",
-          "source_name": "Wallpaper*"
         }
       ]
     },
     {
-      "keyword": "텍스타일·직물",
-      "count": 6,
-      "previous_count": 4,
-      "trend": "rising",
+      "keyword": "목재 건축",
+      "count": 11,
+      "previous_count": 10,
+      "trend": "steady",
       "items": [
         {
-          "title": "Poliedro I 주택/볼륨 건축 리스본 스튜디오",
-          "url": "https://www.archdaily.com/1187146/poliedro-i-house-volume-architecture-lisbon-studio",
-          "image_url": "https://images.adsttc.com/media/images/6ad8/bc0a/db5c/206d/c644/6ef6/large_jpg/poliedro-i-house-volume-architecture-lisbon-studio_28.jpg?1792588823",
-          "source_name": "ArchDaily"
+          "title": "불가리 호텔 앤 리조트의 카르미나티 리프트 앤 슬라이드 창문 프레임 두바이 스카이라인",
+          "url": "https://www.dezeen.com/2026/10/22/carminati-lift-slide-windows-frame-dubai-skyline-bvlgari-hotel-resort/",
+          "image_url": "https://static-2026.dezeen.com/uploads/2026/10/SQ_dezeen_1704_col_0-1024x1024.jpg",
+          "source_name": "Dezeen"
         },
         {
-          "title": "이 아티스트는 6피트 높이의 손 직기를 사용하여 \"놓지 않을 것\" 이라는 고급스러운 직물을 만듭니다.",
-          "url": "https://www.architecturaldigest.com/story/this-artist-uses-a-six-foot-tall-hand-loom-to-create-textiles-that-are-so-luxurious-people-wont-let-them-go",
-          "image_url": "https://media.architecturaldigest.com/photos/6accec67aab7d3e34d046a26/master/pass/AD1126_OTW_1%20copy.jpg",
-          "source_name": "Architectural Digest"
+          "title": "Dosorozco는 멕시코 숲의 질감 있는 집에 돌과 검게 칠한 목재를 사용합니다.",
+          "url": "https://www.dezeen.com/2026/10/21/dosorozco-casa-sima/",
+          "image_url": "https://static-2026.dezeen.com/uploads/2026/10/casa-sima-dosorozco-mexico-houses-residential-architecture_dezeen_2364_sq-1024x1024.jpg",
+          "source_name": "Dezeen"
         },
         {
-          "title": "텍스타일 아티스트 올가 드 아마랄 (Olga de Amaral) 과 함께한 아크리스의 런웨이 콜라보레이션 스토리",
-          "url": "https://www.wallpaper.com/fashion-beauty/akris-collaboration-olga-de-amaral-art-aw-2026-collection",
-          "image_url": "https://cdn.mos.cms.futurecdn.net/ijyiqJJT7tcjwWAKoY387N-1920-80.jpg",
+          "title": "브라질에 있는 이 수변 주택의 규모와 드라마를 감추는 단순한 목재 봉투",
+          "url": "https://www.wallpaper.com/architecture/residential/a-simple-timber-envelope-conceals-the-scale-and-drama-of-this-waterfront-house-in-brazil",
+          "image_url": "https://cdn.mos.cms.futurecdn.net/5nsCp8mhExDt9Puv2hTXEC-1920-80.jpg",
           "source_name": "Wallpaper*"
         },
         {
-          "title": "Cypher 음향 연구 # 1 출시: 섬유 및 패션",
-          "url": "https://www.stashmedia.tv/cypher-releases-sonic-studies-1-textiles-fashion/",
-          "image_url": "http://www.stashmedia.tv/wp-content/uploads/Cypher-Releases-Sonic-Studies-1-Textiles-Fashion-STASH-MAGAZINE8-1437x1080.jpg",
-          "source_name": "Stash Media"
+          "title": "에스피가 하우스/그루포 프리미티보",
+          "url": "https://www.archdaily.com/1187171/espiga-house-grupo-primitivo",
+          "image_url": "https://images.adsttc.com/media/images/6ad5/f6fc/aadf/a000/01e3/ae86/large_jpg/DSC02082.jpg?1792407356",
+          "source_name": "ArchDaily"
+        }
+      ]
+    },
+    {
+      "keyword": "설치 미술",
+      "count": 5,
+      "previous_count": 5,
+      "trend": "steady",
+      "items": [
+        {
+          "title": "Everything Moist Seems Alive 설치의 \"Hydrofeminism\" 및 새는 성도 기능",
+          "url": "https://www.dezeen.com/2026/10/22/hydrofeminism-everything-moist-seems-alive-installation/",
+          "image_url": "https://static-2026.dezeen.com/uploads/2026/10/everything-moist-seems-alive-maison-the-faux-boris-acket-dutch-design-week_dezeen_1704_sq-1024x1024.jpg",
+          "source_name": "Dezeen"
+        },
+        {
+          "title": "선셋 파크, 여전히 $ 600 미만의 아티스트 스튜디오를 구할 수 있는 곳",
+          "url": "https://hyperallergic.com/sunset-park-where-you-can-still-get-an-artist-studio-for-under-600/",
+          "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/10/IMG_9609.jpeg",
+          "source_name": "Hyperallergic"
+        },
+        {
+          "title": "샌드백 캐슬은 아인트호벤의 수상 설치에 지속 가능한 콘크리트 대안을 제시합니다.",
+          "url": "https://www.designboom.com/art/sandbag-castle-sustainable-concrete-alternatives-floating-installation-eindhoven-yvonne-mak/",
+          "image_url": "https://www.designboom.com/wp-content/dbsub/469180/2026-10-16/sandbag-castle-7-6ad23c2b501a7.jpg",
+          "source_name": "Designboom Art"
+        },
+        {
+          "title": "Tašbik Installation / Wesam Al Asali",
+          "url": "https://www.archdaily.com/1186763/tasbik-wesam-al-asali",
+          "image_url": "https://images.adsttc.com/media/images/6ace/9565/b2c4/c300/0178/ee72/large_jpg/7-Wesam_Al_Asali_Tas_bik20260930_003_Saifuldeen_Fayez.jpg?1791923617",
+          "source_name": "ArchDaily"
         }
       ]
     }
   ],
   "notable_names": [
+    "Art Basel Paris",
+    "DAGA Architects",
     "Apple Music",
     "Fred Again",
     "Doja Cat",
     "Alice Diop",
     "Miu Miu",
     "Lucy Bridge",
-    "Art Basel Paris",
-    "Venice Architecture Biennale",
-    "David Chipperfield Architects",
-    "RIBA International Prize",
-    "Stirling Prize",
-    "Frieze London"
+    "Venice Architecture Biennale"
   ],
   "has_comparison": true
 }
