@@ -205599,5 +205599,297 @@
   },
   "depth_raw": 4,
   "depth_v": 2
+ },
+ "archdaily.com/1187087/villa-sanlomjoy-yangnar-studio": {
+  "title_ko": "버마의 고재 창호로 세운 치앙마이의 주택, 빌라 산롬조이",
+  "summary_ko": "태국 치앙마이에 위치한 250제곱미터 규모의 빌라 산롬조이는 미얀마에서 수집한 재활용 목재 문과 창문에서 설계를 시작했다. 영국 식민지 시대의 비율과 버마 전통 목공예가 결합된 이 개구부들은 건물의 높이와 리듬, 빛과 공기의 흐름을 결정하는 건축적 뼈대로 작동한다. 양나르 스튜디오가 설계하고 렁킷 차로엔왓이 촬영했다.",
+  "lens": "버마의 고재 창호를 장식이 아닌 구조의 뼈대로 삼아 공간의 비례와 리듬을 완성한다.",
+  "why_now": "기성 자재 대신 버려진 고재를 건축의 출발점으로 삼아 과거의 물성을 동시대 공간 구조에 이식하는 방식을 보여준다.",
+  "mechanism": "영국 식민지풍의 창호 비율과 버마식 목재 짜맞춤 기법이 공간의 높이와 빛의 유입 방식을 직접 규정한다.",
+  "sensory": "오래된 목재의 거친 결 사이로 스며드는 자연광과 미얀마 국경 지역에서 온 목창의 무게감이 공간을 채운다.",
+  "transfer": "철거 현장의 고재 문을 공간의 파티션이나 창호 프레임으로 먼저 세우고 그에 맞춰 벽체의 스케일을 잡는다.",
+  "context": "양나르 스튜디오가 태국 치앙마이에서 완성한 250제곱미터 규모의 주택이다.",
+  "findings": [],
+  "keywords": [
+   "양나르스튜디오",
+   "고재창호",
+   "치앙마이주택",
+   "목공예"
+  ],
+  "evidence": "Rooted in childhood memories, the house began with a collection of salvaged wooden doors and windows",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "고재 창호를 뼈대로 쓴 독특한 접근이 있으나 평면이나 단면의 구체적 결합 방식에 대한 정보가 부족하다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1187087/villa-sanlomjoy-yangnar-studio",
+  "original_title": "Villa Sanlomjoy / Yangnar Studio",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 1270,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-22 23:08",
+  "research": {
+   "entities": [
+    "Yangnar Studio",
+    "Villa Sanlomjoy",
+    "Dechophon Rattanasatchatham"
+   ],
+   "questions": [
+    "영국 식민지 시대의 건축 양식과 버마 전통 공예가 결합된 창호의 구조적 특징은 무엇인가?",
+    "재활용된 목재 문과 창문을 건축의 프레임으로 활용했을 때 얻을 수 있는 공간적, 환경적 이점은 무엇인가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "itsnicethat.com/articles/foto-foto-photography-publication-sponsored-content-221026": {
+  "title_ko": "암스테르담의 포토북 브랜드, 포토 포토가 제안하는 자동화 레이아웃",
+  "summary_ko": "암스테르담 기반의 사진집 브랜드 포토 포토(Foto Foto)는 사용자가 업로드한 디지털 사진의 메타데이터를 활용하여 레이아웃과 시퀀스를 자동으로 생성한다. 이를 통해 하드커버 포토북을 손쉽게 제작할 수 있으며, 데이비드 반 다르텔(David Van Dartel) 같은 작가들과 협업하여 실물 책의 미적 가능성을 보여준다.",
+  "lens": "메타데이터를 시퀀스 알고리즘에 직접 연결해 디지털 스냅을 물성 있는 하드커버로 치환한다.",
+  "why_now": "디지털 화면 속으로 흩어진 이미지를 실물 책으로 엮어내려는 시도가 브랜드와 창작자 사이에서 새로운 접점을 만든다.",
+  "mechanism": "사진의 촬영 시간과 위치 정보를 담은 메타데이터를 분석해 자동 레이아웃과 페이지 순서를 구성하고, 레이플랫 제본과 종이 재질 선택을 지원한다.",
+  "sensory": "손에 쥐어지는 하드커버의 무게감과 매끄러운 표지 질감이 스크린 너머의 사진에 물리적 실체감을 부여한다.",
+  "transfer": "디지털 아카이브를 오프라인 포트폴리오나 브랜드 터치포인트로 전환할 때 메타데이터 기반 자동 정렬 방식을 활용한다.",
+  "context": "암스테르담에 기반을 둔 포토 포토는 데이비드 반 다르텔의 블루츠(Bluets)와 귀도 데 브로인의 신 엘 솔 노 하이 나다(Sin El Sol No Hay Nada) 같은 프로젝트를 통해 사진가들의 작업물을 실물 책으로 선보였다.",
+  "findings": [
+   {
+    "text": "데이비드 반 다르텔은 네덜란드 로테르담을 기반으로 활동하는 사진가이다.",
+    "s": 2,
+    "quote": "David van Dartel (1995) is a Dutch photographer based in Rotterdam."
+   }
+  ],
+  "keywords": [
+   "포토북",
+   "자동 레이아웃",
+   "메타데이터",
+   "물성",
+   "하드커버"
+  ],
+  "evidence": "generating the page layout and proposed photographic sequence using its metadata, taking into account the times, dates and locations of the pics.",
+  "kind": "제품·오브제",
+  "depth": 2,
+  "grounding": "full",
+  "depth_reason": "브랜드 홍보성 스폰서 콘텐츠이며, 자동 레이아웃이라는 편리한 기능 외에 혁신적 기법이나 구조적 깊이는 제한적이다.",
+  "v": 2,
+  "url": "https://www.itsnicethat.com/articles/foto-foto-photography-publication-sponsored-content-221026",
+  "original_title": "Foto Foto is the design-focused brand bringing back the physical photo album",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 4305,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-22 23:08",
+  "research": {
+   "entities": [
+    "Foto Foto",
+    "David Van Dartel",
+    "Guido De Bruin"
+   ],
+   "questions": [
+    "Foto Foto의 자동 레이아웃 시스템은 사진의 메타데이터를 어떻게 활용하여 디자인을 생성하나요?",
+    "디지털 사진 시대에 물리적 포토북이 가지는 디자인적 가치와 브랜드 마케팅 도구로서의 활용 가능성은 무엇인가요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "foto foto. Turn your photos into a printed photo book",
+     "url": "https://fotofoto.app/?utm_source=itsnicethat&utm_medium=sponsored&utm_campaign=itsnicethat-2026&utm_content=article"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Bluets",
+     "url": "https://fotofoto.app/explore/bluets"
+    },
+    {
+     "n": 3,
+     "type": "공식·1차",
+     "title": "Sin El Sol No Hay Nada",
+     "url": "https://fotofoto.app/explore/sin-el-sol-no-hay-nada"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3
+   ],
+   "chars": 1205
+  },
+  "depth_raw": 2,
+  "depth_v": 2
+ },
+ "archdaily.com/1187113/learning-from-capitalism-how-postmodern-architecture-became-the-language-of-american-business": {
+  "title_ko": "자본주의의 언어가 된 포스트모더니즘: 덕과 장식된 헛간의 건축학",
+  "summary_ko": "로버트 벤추리, 드니스 스콧 브라운, 스티븐 아이제노어는 1972년 저서 '라스베이거스로부터의 학습'을 통해 상업 환경을 건축의 영역으로 끌어들였다. 이들은 건축적 의미를 형태에 담는 '덕'과 기호로 정체성을 드러내는 '장식된 헛간'을 구분하며 모더니즘의 기능주의적 관점을 재고했다. 이는 기업이 상징적 가치와 소비자 정체성을 중시하던 시기, 건축이 자본주의의 소통 도구로 기능하게 된 계기가 되었다.",
+  "lens": "형태 자체가 메시지인 '덕'과 기호를 덧입힌 '장식된 헛간'의 구분은 건축이 기업의 정체성을 어떻게 매체화하는지 보여주는 핵심 프레임이다.",
+  "why_now": "브랜드의 서사가 공간의 물리적 형태보다 기호와 이미지로 소비되는 현재, 포스트모더니즘의 상징적 건축 전략은 공간 브랜딩의 기원을 설명한다.",
+  "mechanism": "기능에 충실한 유리 타워라는 모더니즘의 문법 대신, 역사적 인용과 장식, 대중문화의 기호를 활용해 기업의 아이덴티티를 시각적으로 차별화한다.",
+  "sensory": "화려한 네온사인과 빌보드, 상업적 스트립의 시각적 과잉이 건축의 외피와 결합하여 공간의 의미를 즉각적으로 전달하는 감각을 만든다.",
+  "transfer": "공간의 물리적 형태를 고집하기보다, 파사드나 사이니지에 브랜드의 서사를 담는 '장식된 헛간' 전략을 통해 적은 비용으로 강렬한 정체성을 구축한다.",
+  "context": "로버트 벤추리와 드니스 스콧 브라운은 필라델피아를 거점으로 활동하며 건축 담론을 확장했다. 벤추리는 미스 반 데어 로에의 'Less is more'에 대항해 'Less is a bore'라는 격언을 남기며 포스트모더니즘의 이론적 토대를 닦았다.",
+  "findings": [
+   {
+    "text": "로버트 벤추리는 1991년 프리츠커상을 단독 수상했으나, 동료이자 아내인 드니스 스콧 브라운의 기여를 인정받지 못해 이후 국제적인 논란과 재평가 운동이 일어났다.",
+    "s": 1,
+    "quote": "Venturi was awarded the Pritzker Prize in Architecture in 1991; the prize was awarded to him alone, despite a request to include his equal partner, Scott Brown."
+   },
+   {
+    "text": "드니스 스콧 브라운은 건축 이론과 도시 설계 분야에서 활동하며 펜실베이니아 대학교 등 유수의 대학에서 학생들을 가르쳤다.",
+    "s": 2,
+    "quote": "Scott Brown has taught at several universities, including the University of Pennsylvania, the University of California, Berkeley, UCLA, and Harvard University."
+   }
+  ],
+  "keywords": [
+   "포스트모더니즘",
+   "라스베이거스로부터의학습",
+   "상업건축",
+   "로버트벤추리",
+   "공간브랜딩"
+  ],
+  "evidence": "architectural expression should emerge from form and function",
+  "kind": "뉴스·이슈",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "건축 이론의 핵심 개념을 현대 비즈니스 맥락과 연결했으나, 원문이 이론적 요약에 치중하여 실무적 적용점은 다소 제한적이다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1187113/learning-from-capitalism-how-postmodern-architecture-became-the-language-of-american-business",
+  "original_title": "Learning from Capitalism: How Postmodern Architecture Became the Language of American Business",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 1894,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-22 23:08",
+  "research": {
+   "entities": [
+    "Robert Venturi",
+    "Denise Scott Brown",
+    "Steven Izenour",
+    "Learning from Las Vegas"
+   ],
+   "questions": [
+    "포스트모더니즘 건축이 기업의 정체성을 표현하는 방식에서 모더니즘과 어떤 차이를 보이는가?",
+    "로버트 벤추리가 정의한 '덕(duck)'과 '장식된 헛간(decorated shed)'의 개념이 상업 건축에 어떤 영향을 미쳤는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Robert Venturi",
+     "url": "https://en.wikipedia.org/wiki/Robert%20Venturi"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Denise Scott Brown",
+     "url": "https://en.wikipedia.org/wiki/Denise%20Scott%20Brown"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "98세의 팝아트 개척자가 말하는 로이 리히텐슈타인 빌보드와 공공 미술의 기원",
+     "url": "https://hyperallergic.com/the-98-year-old-pop-art-queen-behind-an-iconic-lichtenstein-billboard/"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 2458
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "wallpaper.com/tech/oka-mori-companion-robot": {
+  "title_ko": "기계적 위압감을 덜어낸 반려 로봇, 오카의 '모리'",
+  "summary_ko": "오카(OKA)가 선보인 모리(Mori)는 30cm 높이의 버섯 형태를 띤 가정용 로봇이다. 울 소재를 감싼 몸체와 서보 모터로 제어되는 눈꺼풀, 빛의 변화를 통해 사용자와 상호작용한다. 음성 명령 대신 접촉과 빛, 움직임을 통해 감정적 반응을 유도하며 사용자의 일상을 보조한다.",
+  "lens": "기계의 기능성을 감추고 유기적인 물성과 움직임을 앞세워, 로봇을 가전이 아닌 반려의 영역으로 끌어들인 디자인이다.",
+  "why_now": "기능 위주의 스마트 스피커가 점령한 공간에, 사용자의 심리적 상태에 반응하는 비언어적 인터페이스를 도입해 기술의 위압감을 완화한다.",
+  "mechanism": "내장된 '주의력 지능 엔진(Attentive Intelligence Engine)'이 사용자의 접촉과 음성을 인식해 눈꺼풀의 움직임과 빛의 색상을 조절한다. 모든 데이터는 클라우드 전송 없이 기기 내부에서 처리되어 프라이버시를 보호한다.",
+  "sensory": "울 소재의 부드러운 질감과 버섯 갓에서 퍼지는 은은한 조명이 공간에 온기를 더한다. 눈꺼풀이 떨리거나 좌우로 움직이는 미세한 동작은 생명체와 같은 인상을 준다.",
+  "transfer": "공간 연출 시 기계 장치를 숨기고 패브릭과 같은 자연 소재로 마감하여 기술적 이질감을 줄이는 방식을 적용할 수 있다. 영상 촬영 시에는 고정된 프레임 안에서 조명과 오브제의 미세한 움직임만으로 캐릭터의 감정 변화를 표현하는 시퀀스를 구성한다.",
+  "context": "웨슬리 첸과 화 왕이 설립한 오카는 프리츠 랑의 영화 '메트로폴리스'에서 영감을 받아 인간과 공존하는 로봇을 탐구한다. 이는 기술이 현실의 결핍을 메우는 도피처가 될 수 있다는 건축적 도피주의의 맥락과 맞닿아 있다.",
+  "findings": [
+   {
+    "text": "모리는 데이터 프라이버시를 위해 모든 감지 정보를 클라우드 전송 없이 기기 내부에서 처리한다.",
+    "s": 1,
+    "quote": "Everything Mori senses is processed on-device. No data is ever sent to the cloud."
+   }
+  ],
+  "keywords": [
+   "반려 로봇",
+   "오카",
+   "모리",
+   "비언어적 인터페이스",
+   "가정용 로봇"
+  ],
+  "evidence": "Mori is a ‘robot that belongs in a home’",
+  "kind": "제품·오브제",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "기술적 구동 원리와 디자인 철학이 명확하며, 미래 지향적인 가전 디자인의 구체적인 대안을 제시한다.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/tech/oka-mori-companion-robot",
+  "original_title": "OKA’s Mori is a magic mushroom for the home with a personality shaped by robotics and AI",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 5064,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-22 23:10",
+  "research": {
+   "entities": [
+    "OKA",
+    "Wesley Chen",
+    "Hua Wang",
+    "Metropolis",
+    "Studio Ghibli"
+   ],
+   "questions": [
+    "OKA의 'Attentive Intelligence Engine'은 구체적으로 어떤 방식으로 사용자의 성향과 환경을 학습하나요?",
+    "Mori의 물리적 움직임과 감정 표현은 인간과의 상호작용에서 어떤 심리적 안정감을 제공하도록 설계되었나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "OKA — To Feel Again",
+     "url": "https://www.onekindartifact.com/"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "OKA — To Feel Again",
+     "url": "http://onekindartifact.com"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Metropolis (1927 film)",
+     "url": "https://en.wikipedia.org/wiki/Metropolis%20%281927%20film%29"
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "Studio Ghibli",
+     "url": "https://en.wikipedia.org/wiki/Studio%20Ghibli"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "건축의 도피주의: 현실의 땅과 가상의 세계 사이에서",
+     "url": "https://www.archdaily.com/1184284/escapism-in-architecture-archdailys-september-editorial-focus"
+    }
+   ],
+   "used": [
+    1,
+    3
+   ],
+   "chars": 6573
+  },
+  "depth_raw": 4,
+  "depth_v": 2
  }
 }
