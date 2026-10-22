@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-10-22 17:14 KST",
+  "generated_at": "2026-10-22 22:21 KST",
   "period": "2026.10.15 - 2026.10.22",
-  "total_articles": 405,
+  "total_articles": 428,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 189
+      "count": 200
     },
     {
       "genre": "동시대 미술",
-      "count": 159
+      "count": 165
     },
     {
       "genre": "아방가르드 패션",
-      "count": 41
+      "count": 47
     },
     {
       "genre": "미디어 파사드·3D",
@@ -23,33 +23,33 @@
   "themes": [
     {
       "keyword": "박물관·전시",
-      "count": 42,
+      "count": 45,
       "previous_count": 33,
       "trend": "rising",
       "items": [
+        {
+          "title": "1960년대 쇼핑 센터로 이전하는 리버풀의 비틀즈 박물관",
+          "url": "https://www.dezeen.com/2026/10/22/the-beatles-story-liverpool-relocation/",
+          "image_url": "https://static-2026.dezeen.com/uploads/2026/10/radio-city-tower-liverpool-the-beatles-story_dezeen_2364_col_1-1024x1024.jpg",
+          "source_name": "Dezeen"
+        },
+        {
+          "title": "hélène fauquet은 로코코와 같은 호기심의 앙상블에서 회수된 조개껍질로 사진을 오버레이합니다.",
+          "url": "https://www.designboom.com/art/helene-fauquet-vivresse-exhibition-lafayette-anticipations-paris/",
+          "image_url": "https://www.designboom.com/wp-content/uploads/2026/10/helene-fauquet-vivresse-exhibition-lafayette-anticipations-paris-designboom-7.jpg",
+          "source_name": "Designboom Art"
+        },
+        {
+          "title": "이 새로운 전시회는 펑크 음악에 숨겨진 여성의 역사를 조명합니다.",
+          "url": "https://www.dazeddigital.com/music/article/71198/1/new-exhibition-up-yours-history-women-punk-museum-of-youth-culture-camden?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=this-new-exhibition-spotlights-the-hidden-history-of-women-in-punk-music",
+          "image_url": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/7/1457901.jpg",
+          "source_name": "Dazed"
+        },
         {
           "title": "2026년 바닷가 조각 전시회에서 수십 개의 조각품 닷 본다이 비치",
           "url": "https://www.thisiscolossal.com/2026/10/bondi-beach-sculpture-by-the-sea-exhibition-2026/",
           "image_url": "https://www.thisiscolossal.com/wp-content/uploads/2026/10/bondi-1.jpg",
           "source_name": "This Is Colossal"
-        },
-        {
-          "title": "독일의 극우 AfD는 Joseph Beuys와 공동 개발하고 있습니까?",
-          "url": "https://hyperallergic.com/is-germanys-far-right-afd-co-opting-joseph-beuys/",
-          "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/10/GettyImages-541763817.jpg",
-          "source_name": "Hyperallergic"
-        },
-        {
-          "title": "가부장제에 대항하는 정신",
-          "url": "https://hyperallergic.com/spirits-against-the-patriarchy/",
-          "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/10/peavey2.jpg",
-          "source_name": "Hyperallergic"
-        },
-        {
-          "title": "두 가지 예술 장면을 형상화한 아티스트이자 갤러리스트인 피터 네이기는 66세의 나이로 사망합니다.",
-          "url": "https://hyperallergic.com/peter-nagy-artist-and-gallerist-who-shaped-two-art-scenes-dies-at-66/",
-          "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/10/Untitled-8.jpg",
-          "source_name": "Hyperallergic"
         }
       ]
     },
@@ -87,10 +87,16 @@
     },
     {
       "keyword": "해변·리조트 건축",
-      "count": 9,
+      "count": 10,
       "previous_count": 2,
       "trend": "rising",
       "items": [
+        {
+          "title": "알바니아는 트럼프와 관련된 리조트에서 논란이 되고 있는 패스트트랙 혐의로 기소되었습니다.",
+          "url": "https://www.dezeen.com/2026/10/22/albania-sazan-island-resort/",
+          "image_url": "https://static-2026.dezeen.com/uploads/2026/10/sazan-island-flamingo-revolution-news_dezeen_2364_sq-1024x1024.jpg",
+          "source_name": "Dezeen"
+        },
         {
           "title": "주거 인테리어에서 휴식을 취할 수 있는 공간 만들기",
           "url": "https://www.archdaily.com/1182304/integrating-wellness-into-residential-interiors",
@@ -108,11 +114,37 @@
           "url": "https://design-milk.com/amoh-resort-rhodes-studio-lost/",
           "image_url": "https://design-milk.com/images/2026/10/1.-drz_By-Studio-LOST_AMOH_By-Studio-LOST_5_By-Studio-LOST_58818-e1792508299127-1500x1000.jpg",
           "source_name": "Design Milk"
+        }
+      ]
+    },
+    {
+      "keyword": "빛과 조명",
+      "count": 9,
+      "previous_count": 5,
+      "trend": "rising",
+      "items": [
+        {
+          "title": "이 새로운 전시회는 펑크 음악에 숨겨진 여성의 역사를 조명합니다.",
+          "url": "https://www.dazeddigital.com/music/article/71198/1/new-exhibition-up-yours-history-women-punk-museum-of-youth-culture-camden?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=this-new-exhibition-spotlights-the-hidden-history-of-women-in-punk-music",
+          "image_url": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/7/1457901.jpg",
+          "source_name": "Dazed"
         },
         {
-          "title": "2026년 바닷가 조각 전시회에서 수십 개의 조각품 닷 본다이 비치",
-          "url": "https://www.thisiscolossal.com/2026/10/bondi-beach-sculpture-by-the-sea-exhibition-2026/",
-          "image_url": "https://www.thisiscolossal.com/wp-content/uploads/2026/10/bondi-1.jpg",
+          "title": "마르셀",
+          "url": "https://leibal.com/lighting/marcelle/",
+          "image_url": "https://leibal.com/wp-content/uploads/2026/10/leibal-marcelle-clement-pasquier-2.jpg",
+          "source_name": "Leibal"
+        },
+        {
+          "title": "추상적 명료성: 일로, 에버퓨어 x 블룸버그 TV 조명",
+          "url": "https://www.stashmedia.tv/abstract-clarity-illo-illuminates-everpure-x-bloomberg-tv/",
+          "image_url": "http://www.stashmedia.tv/wp-content/uploads/Everpure-x-Bloomberg-TV-brand-films-by-Illo-STASH-MAGAZINE3-1920x1080.jpg",
+          "source_name": "Stash Media"
+        },
+        {
+          "title": "‘아이올루스‘ 에서 드리프트는 조명을 받은 유리 막대를 바람의 조각에 매달아 놓습니다.",
+          "url": "https://www.thisiscolossal.com/2026/10/aeolus-studio-drift-light-glass-installation/",
+          "image_url": "https://www.thisiscolossal.com/wp-content/uploads/2026/10/drift-2.gif",
           "source_name": "This Is Colossal"
         }
       ]
@@ -146,38 +178,6 @@
           "url": "https://www.wallpaper.com/architecture/residential/oa-house-nigerian-beach-house-tosin-oshinowo",
           "image_url": "https://cdn.mos.cms.futurecdn.net/XQXxs6uThU8bdzKECkyC9C-1920-80.jpg",
           "source_name": "Wallpaper*"
-        }
-      ]
-    },
-    {
-      "keyword": "빛과 조명",
-      "count": 8,
-      "previous_count": 5,
-      "trend": "rising",
-      "items": [
-        {
-          "title": "마르셀",
-          "url": "https://leibal.com/lighting/marcelle/",
-          "image_url": "https://leibal.com/wp-content/uploads/2026/10/leibal-marcelle-clement-pasquier-2.jpg",
-          "source_name": "Leibal"
-        },
-        {
-          "title": "추상적 명료성: 일로, 에버퓨어 x 블룸버그 TV 조명",
-          "url": "https://www.stashmedia.tv/abstract-clarity-illo-illuminates-everpure-x-bloomberg-tv/",
-          "image_url": "http://www.stashmedia.tv/wp-content/uploads/Everpure-x-Bloomberg-TV-brand-films-by-Illo-STASH-MAGAZINE3-1920x1080.jpg",
-          "source_name": "Stash Media"
-        },
-        {
-          "title": "‘아이올루스‘ 에서 드리프트는 조명을 받은 유리 막대를 바람의 조각에 매달아 놓습니다.",
-          "url": "https://www.thisiscolossal.com/2026/10/aeolus-studio-drift-light-glass-installation/",
-          "image_url": "https://www.thisiscolossal.com/wp-content/uploads/2026/10/drift-2.gif",
-          "source_name": "This Is Colossal"
-        },
-        {
-          "title": "푸른빛과 금빛의 방콕 카페 인테리어를 알려주는 태국 전통 등불",
-          "url": "https://www.dezeen.com/2026/10/19/traditional-thai-lanterns-bangkok-cafe-interior/",
-          "image_url": "https://static.dezeen.com/uploads/2026/10/blue-bottle-coffee-cafe-bangkok-i-in_dezeen_2364_col_sq2-852x852.jpg",
-          "source_name": "Dezeen"
         }
       ]
     },
