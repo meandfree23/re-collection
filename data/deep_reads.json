@@ -209574,5 +209574,153 @@
   },
   "depth_raw": 3,
   "depth_v": 2
+ },
+ "archdaily.com/1187269/blu-pizzeria-jeddah-movs-studio": {
+  "title_ko": "홍해의 바람을 공간의 궤적으로, 무브스 스튜디오의 블루 피제리아 제다",
+  "summary_ko": "사우디아라비아 제다에 위치한 블루 피제리아는 335제곱미터 규모의 코너 유닛을 활용한 피자 레스토랑이다. 무브스 스튜디오는 홍해 항구 도시 제다를 상징하는 바람을 디자인 핵심 요소로 삼아 공간을 구성했다. 곡선형 유리 파사드를 따라 테라스를 배치하고, 후면에는 서비스 공간을 밀도 있게 집약했다.",
+  "lens": "바람이라는 비가시적 흐름을 곡선형 파사드와 내부 동선으로 치환하여 지역적 맥락을 공간에 고착했다.",
+  "why_now": "지역적 특색을 브랜드 정체성으로 삼는 로컬 브랜딩이 공간 디자인의 핵심 전략으로 자리 잡고 있다.",
+  "mechanism": "곡선으로 마감된 유리 파사드가 외부의 바람 흐름을 시각적으로 암시하며, 개방적인 홀과 후면의 서비스 블록을 대비시켜 동선의 효율을 극대화했다.",
+  "sensory": "곡면 유리 너머로 투과되는 홍해의 빛과 바람의 궤적을 연상시키는 유연한 내부 곡선이 공간의 개방감을 강조한다.",
+  "transfer": "특정 지역의 기후 요소를 디자인 모티브로 삼을 때, 직선적인 재현 대신 파사드의 곡률이나 내부 동선의 흐름을 통해 은유적으로 표현하는 방식을 고려한다.",
+  "context": "블루 피제리아는 각 지점이 위치한 도시의 특성을 인테리어 모티브로 삼는 체인 전략을 취하고 있다.",
+  "findings": [],
+  "keywords": [
+   "공간브랜딩",
+   "제다",
+   "무브스스튜디오",
+   "상업공간",
+   "곡선파사드"
+  ],
+  "evidence": "For the Jeddah location, MOVS STUDIO built the interior around the element that shapes this Red Sea port: the wind.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "지역적 특성을 공간의 형태적 언어로 번역한 시도는 명확하나, 세부적인 재료나 구체적인 시공 방식에 대한 설명이 부족하다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1187269/blu-pizzeria-jeddah-movs-studio",
+  "original_title": "Blu Pizzeria Jeddah / movs studio",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 1256,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-23 17:22",
+  "research": {
+   "entities": [
+    "movs studio",
+    "Ruben Movsisian",
+    "Ekaterina Tarasova"
+   ],
+   "questions": [
+    "movs studio는 사우디아라비아 제다의 지역적 특성인 '바람'을 인테리어 디자인에 어떻게 시각적으로 구현했는가?",
+    "블루 피제리아(Blu Pizzeria) 체인의 다른 지점들은 각 도시의 어떤 특성을 디자인 모티브로 차용했는가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "wallpaper.com/tech/apple-homeview-review": {
+  "title_ko": "애플의 첫 홈 어시스턴트 디스플레이 홈뷰",
+  "summary_ko": "애플이 첫 가정용 어시스턴트 디스플레이 홈뷰를 공개했다. 7인치 리퀴드 레티나 디스플레이와 시리 AI를 탑재해 스마트 홈 기기를 제어한다. 알루미늄 케이스와 스테인리스 스틸 힌지를 적용했다.",
+  "lens": "거실의 두 번째 스크린을 알루미늄과 스테인리스 스틸로 정제해 홈 오토메이션의 기준을 높인다.",
+  "why_now": "아마존과 구글이 주도해 온 스마트 홈 디스플레이 시장에 애플이 가세하며 하드웨어 마감과 온보드 AI 통합의 기준을 재정의한다.",
+  "mechanism": "근접 센서를 장착해 거리에 따라 정보의 크기와 상세도가 자동으로 전환되며, 얼굴 인식으로 최대 6명의 사용자 계정을 구분한다.",
+  "sensory": "7인치 리퀴드 레티나 디스플레이는 주변 밝기에 맞춰 조도가 조절되며, 침실용으로 최저 0.3니트까지 낮아진다.",
+  "transfer": "거실이나 주방 인터페이스 연출 시 물리적 거리 변화에 따른 UI의 정보량 밀도 조절 방식을 레퍼런스로 삼는다.",
+  "context": "애플은 아이맥과 아이폰을 거쳐 가전과 모바일 생태계를 확장해 왔다.",
+  "findings": [
+   {
+    "text": "얼굴 인식을 통해 최대 6명의 사용자를 인식하고 개인화된 경험을 제공한다.",
+    "s": 1,
+    "quote": "Recognises up to six people and delivers a personalised experience for each one."
+   }
+  ],
+  "keywords": [
+   "홈뷰",
+   "스마트디스플레이",
+   "애플인텔리전스",
+   "하드웨어디자인"
+  ],
+  "evidence": "HomeView is Apple’s first-ever home assistant display, a characteristically polished device that foregrounds the physical design, the user interface and the close integration of Siri AI and Apple Intelligence.",
+  "kind": "제품·오브제",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "스마트 홈 디스플레이 시장의 신제품 출시 소식으로 만듦새가 돋보이나 기능적 혁신은 기존 범주에 머문다.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/tech/apple-homeview-review",
+  "original_title": "Apple’s smart-home offering just got an upgrade with the launch of the new HomeView screen",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 4825,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-23 17:22",
+  "research": {
+   "entities": [
+    "Apple",
+    "HomeView",
+    "Siri",
+    "Amazon Echo Show",
+    "Google Home Hub"
+   ],
+   "questions": [
+    "Apple의 HomeView가 기존의 스마트 디스플레이 제품들과 차별화되는 핵심적인 기술적 특징은 무엇인가?",
+    "Apple Intelligence가 가정용 스마트 허브 환경에서 사용자 경험을 어떻게 변화시킬 수 있는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Apple HomeView",
+     "url": "https://apple.sjv.io/c/221109/435298/7615?subId1=wallpaper-us-8253922250455041573&sharedId=wallpaper-us&u=https%3A%2F%2Fwww.apple.com%2Fuk%2Fapple-homeview%2F"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Apple HomeView",
+     "url": "https://apple.sjv.io/c/221109/435031/7613?subId1=wallpaper-us-6270873313900204366&sharedId=wallpaper-us&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-home%2Fapple-homeview"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Apple Inc.",
+     "url": "https://en.wikipedia.org/wiki/Apple%20Inc."
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "Amazon Echo",
+     "url": "https://en.wikipedia.org/wiki/Amazon%20Echo"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "애플 아이폰 듀오, 접이식 스마트폰의 주류 진입을 견인할 것인가",
+     "url": "https://www.dezeen.com/2026/09/25/iphone-duo-folding-smartphones-washington-triumphal-arch-dezeen-weekly/"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "애플, 런던 배터시 발전소에 600석 규모 음악 공연장 조성",
+     "url": "https://www.dezeen.com/2026/09/23/apple-music-hall-battersea-power-station/"
+    },
+    {
+     "n": 7,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "세라믹의 물성을 세 번 구워 완성한 애플 워치 시리즈 12",
+     "url": "https://coolhunting.com/tech/apple-watch-series-12-returns-to-ceramic-fired-three-times-over/"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3
+   ],
+   "chars": 7513
+  },
+  "depth_raw": 3,
+  "depth_v": 2
  }
 }
