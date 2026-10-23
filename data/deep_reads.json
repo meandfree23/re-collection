@@ -208849,5 +208849,99 @@
   },
   "depth_raw": 3,
   "depth_v": 2
+ },
+ "archdaily.com/1187341/mirador-house-rodrigo-de-la-cerda-arquitecto": {
+  "title_ko": "칠레 해안의 가파른 경사지에 회전하며 안착한 미라도르 하우스",
+  "summary_ko": "칠레 파푸도의 가파른 언덕에 세워진 200제곱미터 규모의 주택이다. 로드리고 데 라 세르다 아르키텍토가 설계했으며, 바다 조망을 확보하고 바람을 차단하기 위해 건물이 회전하는 구조를 취했다. 지형의 경사에 순응하며 파노라마 풍경을 담아낸다.",
+  "lens": "가파른 지형의 물리적 한계를 회전하는 매스 배치로 돌파한다.",
+  "why_now": "지형과 기후라는 자연조건을 건축의 기계적·공간적 변수로 직접 편입하는 설계 방식이다.",
+  "mechanism": "해안의 거친 바람을 막고 시야를 극대화하기 위해 건물의 각도를 조절하는 회전축 메커니즘을 적용했다.",
+  "sensory": "높은 고도에서 거친 해풍을 견디며 눈앞에 펼쳐지는 바다의 수평선과 콘크리트 매스의 단단한 물성이 대비된다.",
+  "transfer": "공간 배경을 다룰 때 앵글의 고정관념을 깨고 회전 운동을 통해 시선을 능동적으로 유도하는 미장센으로 활용한다.",
+  "context": "칠레 파푸도의 해안 경사지에 위치한 이 프로젝트는 지형적 특권과 기후 조건을 동시에 극복하려는 시도다.",
+  "findings": [],
+  "keywords": [
+   "경사지건축",
+   "회전구조",
+   "해안주택",
+   "칠레건축"
+  ],
+  "evidence": "A house that rotates to capture the view, shields itself from the wind, and adapts to the slope.",
+  "kind": "프로젝트",
+  "depth": 2,
+  "grounding": "thin",
+  "depth_reason": "구체적인 회전 기법과 지형 적응 방식이 흥미로우나 원문 정보가 짧아 중간 점수를 부여한다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1187341/mirador-house-rodrigo-de-la-cerda-arquitecto",
+  "original_title": "Mirador House / Rodrigo de la Cerda Arquitecto",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 1221,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-23 10:10",
+  "research": {
+   "entities": [
+    "Rodrigo de la Cerda Arquitecto",
+    "Mirador House",
+    "DTP INGENERIA"
+   ],
+   "questions": [
+    "경사지에 위치한 Mirador House가 바람을 차단하고 조망을 극대화하기 위해 어떤 건축적 장치를 사용했는가?",
+    "Rodrigo de la Cerda Arquitecto의 설계 철학에서 지형과 자연환경을 활용하는 방식은 무엇인가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "archdaily.com/1187148/casa-da-represa-24-7-arquitetura": {
+  "title_ko": "브라질 피라카이아의 댐 하우스, 60미터 고도차를 가로지르는 계단식 배치",
+  "summary_ko": "브라질 피라카이아에 위치한 댐 하우스는 60미터 이상의 고도차를 가진 24,000제곱미터 부지에 들어섰다. 24 7 아키테투라(24 7 Arquitetura)는 3개의 계단식 테라스를 활용해 건물을 분절하고 지형의 흐름을 따라 배치하여 토목 공사를 최소화했다.",
+  "lens": "가파른 경사지를 깎아내는 대신 지형의 등고선을 따라 건물을 쪼개어 건축물과 대지 사이의 위계적 단절을 지운다.",
+  "why_now": "대규모 대지를 개발할 때 지형을 인위적으로 평탄화하지 않고 자연스러운 단차를 활용해 공간의 밀도를 조절하는 방식이 주목받는다.",
+  "mechanism": "건물을 3개의 독립된 볼륨으로 나누어 계단식으로 배치함으로써 경사 지형에 순응하게 설계했다.",
+  "sensory": "저수지를 향해 열린 테라스 구조가 시각적 개방감을 극대화하며, 주변 자연환경과 건축물이 하나의 덩어리처럼 느껴지는 스케일을 형성한다.",
+  "transfer": "경사지 촬영 시 카메라를 지형의 등고선과 평행하게 이동시키며, 각 층의 테라스가 겹쳐지는 지점을 프레임의 분할 요소로 활용한다.",
+  "context": "24 7 아키테투라가 설계한 이 프로젝트는 건축과 지형, 경관의 연속성을 최우선 과제로 삼아 대지의 자연적 특징을 보존하는 데 집중했다.",
+  "findings": [],
+  "keywords": [
+   "경사지건축",
+   "계단식테라스",
+   "브라질건축",
+   "지형순응형"
+  ],
+  "evidence": "Organized across three stepped terraces, the house follows the natural contours of the land, breaking into volumes that adapt to the slope",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "경사지 건축의 일반적인 대응 방식을 보여주나, 재료나 상세한 구조적 기법에 대한 정보가 부족하다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1187148/casa-da-represa-24-7-arquitetura",
+  "original_title": "Dam House / 24 7 Arquitetura",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 1289,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-23 10:10",
+  "research": {
+   "entities": [
+    "24 7 Arquitetura",
+    "Dam House",
+    "Adriano Pacelli",
+    "Giuliano Pelaio",
+    "Gustavo Tenca"
+   ],
+   "questions": [
+    "경사진 지형을 활용하기 위해 적용된 세 개의 단차 테라스 구조는 구체적으로 어떻게 설계되었는가?",
+    "건축과 자연 경관의 연속성을 유지하기 위해 어떤 친환경적 요소와 자재가 사용되었는가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
  }
 }
