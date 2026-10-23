@@ -2511,5 +2511,48 @@
   "v": 3,
   "model": "gemini-3.5-flash-lite",
   "written_at": "2026-10-23 02:57"
+ },
+ "2026-10-24": {
+  "date": "2026-10-24",
+  "headline": "로스앤젤레스의 거대한 벽화와 우주의 시공간을 접어 올린 캔버스",
+  "editorial": "주디 바카가 시민의 목소리로 확장한 로스앤젤레스의 벽화는 폴 페게르셸드가 캔버스 위에 펼친 우주의 시공간과 맞닿는다. 그레이스 장은 금융 시장의 차트를 오트 쿠튀르의 패턴으로 엮어내며, 김수빈은 추상적인 철학의 심신 문제를 동화책의 스크롤로 직관화한다. 이들은 고정된 평면을 넘어 각기 다른 질서와 구조를 하나의 화면 위에 정렬한다.",
+  "threads": [
+   {
+    "name": "평면을 넘는 구조",
+    "note": "우주의 시공간과 금융 데이터, 철학적 개념을 평면 위로 끌어들여 시각화한다.",
+    "items": [
+     {
+      "title": "폴 페게르셸드의 에르고스피어: 캔버스 위로 접어 올린 우주의 시공간",
+      "url": "https://elephant.art/paul-fagerskiold-visions-from-the-cosmopolis/"
+     },
+     {
+      "title": "그레이스 장: 금융 시장의 차트와 오트 쿠튀르의 패턴을 잇는 구조적 회화",
+      "url": "https://design-milk.com/friday-five-grace-zhang-artist/"
+     },
+     {
+      "title": "철학의 심신 문제와 동화책의 물성을 결합한 애니메이션",
+      "url": "https://www.stashmedia.tv/mind-body-get-it-together-in-kim-soobins-new-short-film/"
+     }
+    ]
+   },
+   {
+    "name": "도시와 거리의 형태",
+    "note": "로스앤젤레스의 벽화와 아프리카의 거리를 무대 삼아 일상의 역동성을 포착한다.",
+    "items": [
+     {
+      "title": "주디 바카, 로스앤젤레스의 거대한 벽화를 1960년대로 확장하다",
+      "url": "https://hyperallergic.com/skirball-cultural-center-presents-the-1960s-a-generation-on-fire-judy-bacas-great-wall-of-los-angeles/"
+     },
+     {
+      "title": "33인의 시선으로 포착한 아프리카의 거리, ‘스트리트 포토그래피 아프리카’",
+      "url": "https://www.thisiscolossal.com/2026/10/street-photography-africa-book/"
+     }
+    ]
+   }
+  ],
+  "based_on": 13,
+  "v": 3,
+  "model": "gemini-3.5-flash-lite",
+  "written_at": "2026-10-24 02:56"
  }
 }
