@@ -211573,5 +211573,364 @@
   },
   "depth_raw": 3,
   "depth_v": 2
+ },
+ "leibal.com/uncategorized/framed-house": {
+  "title_ko": "빅토리아 양식의 몰딩을 현대적 수직 핀으로 치환한 프레임 하우스",
+  "summary_ko": "런던 이스트 덜위치에 위치한 빅토리아 양식 주택이 윌 갬블 아키텍츠의 손길로 새롭게 단장되었다. 기존 리셉션 룸의 섬세한 몰딩 패널링을 모티프로 삼아 후면 증축부 파사드에 수직 핀을 배치하고, 주방 가구에도 동일한 비례의 비딩 디테일을 적용했다.",
+  "lens": "기존 건축의 장식적 요소를 기하학적 비례로 추출해 현대적인 수직 핀 구조로 치환하며 신구 건축의 조화를 꾀했다.",
+  "why_now": "역사적 건축 양식을 모방하는 대신 그 안에 담긴 비례와 논리를 현대적 재료로 재해석하는 방식이 주거 공간의 맥락을 잇는 유효한 전략으로 작동한다.",
+  "mechanism": "내부 몰딩의 비례를 파사드의 수직 핀 간격으로 전이시켜 시각적 리듬을 형성하고, 주방 가구에는 이를 축소한 비딩 디테일을 적용해 공간 전체의 통일성을 확보한다.",
+  "sensory": "훈연 오크의 짙은 갈색과 칼라카타 심포니 대리석의 갈색 맥이 차분한 톤을 형성하며, 마이크로시멘트로 마감된 욕실은 이음매 없는 매끄러운 질감을 제공한다.",
+  "transfer": "공간 내 장식적 디테일을 파사드의 구조적 핀으로 확장하여 외관과 내부의 비례감을 일치시키는 연출 기법을 적용할 수 있다.",
+  "context": "윌 갬블 아키텍츠는 기존 건축의 역사적 디테일을 현대적인 기하학적 언어로 번안하여 공간의 정체성을 구축하는 작업을 이어오고 있다.",
+  "findings": [],
+  "keywords": [
+   "빅토리아양식",
+   "윌갬블아키텍츠",
+   "수직핀",
+   "훈연오크",
+   "리노베이션"
+  ],
+  "evidence": "The studio carried the motif out of the period room and into the new construction at two scales, as vertical fins across the rear facade and as beaded edging on the kitchen joinery.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "전통적인 몰딩 디테일을 건축적 요소로 치환한 논리는 명확하나, 구조적 혁신보다는 기존 요소의 재해석에 집중한 프로젝트다.",
+  "v": 2,
+  "url": "https://leibal.com/uncategorized/framed-house/",
+  "original_title": "Framed House",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 2085,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-23 22:55",
+  "research": {
+   "entities": [
+    "Will Gamble Architects"
+   ],
+   "questions": [
+    "빅토리아 시대 건축의 몰딩 패널링 디테일이 현대적인 건축 언어로 어떻게 재해석되었는가?",
+    "훈연 오크(fumed oak)와 마이크로시멘트와 같은 재료 선택이 공간의 분위기와 기능성에 어떤 영향을 미치는가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "archdaily.com/1187233/pavilions-as-stances-6-unbuilt-proposals-from-the-archdaily-community": {
+  "title_ko": "구축되지 않은 파빌리온, 풍경과 전통에 던지는 6가지 건축적 입장",
+  "summary_ko": "건축 플랫폼 아키데일리(ArchDaily) 커뮤니티가 제안한 6개의 미완성 파빌리온 프로젝트를 다룬다. 한국, 이란, 태국, 페루, 카자흐스탄 등 각기 다른 문화적 배경을 가진 설계안들은 전통 건축의 해석이나 자연과의 대조를 통해 파빌리온의 상징적 의미를 탐구한다. 이들은 실험적 구조물로서 장소의 경계를 정의하고 공동의 미래를 시각화한다.",
+  "lens": "파빌리온은 완결된 건물이 아닌, 자연과 도시 사이에 놓인 하나의 태도이자 물리적 경계로서 작동한다.",
+  "why_now": "대규모 건축 프로젝트가 지연되는 시대에, 작고 일시적인 파빌리온은 건축적 실험을 즉각적으로 실현하는 유효한 매체다.",
+  "mechanism": "독립적인 구조물을 주변 풍경과 대비시켜 시각적 긴장감을 유도하고, 전통적 모티프를 현대적 재료로 재해석해 문화적 맥락을 구조체에 투영한다.",
+  "sensory": "자연 속에 인위적인 기하학적 형태를 삽입하여 생기는 명확한 그림자의 대비와, 비어 있는 공간이 주는 정적인 긴장감을 감각하게 한다.",
+  "transfer": "자연 경관을 배경으로 한 촬영 시, 인위적인 구조물을 프레임 중앙에 배치해 배경의 유기적인 질감과 구조물의 인공적인 질감을 극명하게 대비시킨다.",
+  "context": "아키데일리는 전 세계 건축 프로젝트와 공모전 정보를 제공하는 플랫폼으로, 과거 RE:COLLECTION은 이곳의 자료를 통해 주거의 밀도나 기후 위기 대응 등 건축의 사회적 역할을 다룬 바 있다. 이번 제안들은 완공된 결과물보다 실험적 개념에 집중하는 파빌리온의 특성을 보여준다.",
+  "findings": [
+   {
+    "text": "아키데일리는 칠레 산티아고에 본사를 두고 베를린, 상하이, 멕시코시티에 지사를 운영한다.",
+    "s": 1,
+    "quote": "It is currently based in Santiago de Chile, with offices in Berlin, Shanghai, and Mexico City."
+   }
+  ],
+  "keywords": [
+   "파빌리온",
+   "건축실험",
+   "경계",
+   "풍경",
+   "아키데일리"
+  ],
+  "evidence": "The proposals also demonstrate another quality inherent to the pavilion: the intention to symbolically represent a stance.",
+  "kind": "리스트·라운드업",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "건축 유형으로서 파빌리온의 개념적 역할을 정리했으나, 개별 프로젝트의 구체적인 설계 기법이나 재료 정보가 부족하다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1187233/pavilions-as-stances-6-unbuilt-proposals-from-the-archdaily-community",
+  "original_title": "Pavilions as Stances: 6 Unbuilt Proposals from the ArchDaily Community",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 1942,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-23 22:55",
+  "research": {
+   "entities": [
+    "ArchDaily"
+   ],
+   "questions": [
+    "건축에서 파빌리온(Pavilion)이라는 유형이 가지는 실험적 의미와 상징적 역할은 무엇인가?",
+    "미완성 건축 제안들이 각기 다른 문화적 맥락에서 자연과 어떻게 상호작용하며 경계를 형성하는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "ArchDaily",
+     "url": "https://en.wikipedia.org/wiki/ArchDaily"
+    },
+    {
+     "n": 2,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "백송의 밀도 속에 심은 140제곱미터의 여름 거처",
+     "url": "https://www.archdaily.com/1185721/a-house-with-one-hundred-pines-luis-barandiaran"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "유토피아와 디스토피아 사이, 기후 전환을 상상하는 법",
+     "url": "https://www.archdaily.com/1185529/between-burning-forests-and-utopian-cities-designing-the-climate-transition"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "백만 제곱미터의 생태 축: 마드리드 푸에르타 데 마드리드 도시 계획 공모",
+     "url": "https://www.archdaily.com/1184822/jury-led-design-competition-for-sustainable-and-innovative-urban-planning-proposals-for-the-puerta-de-madrid-area-in-leganes-madrid"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 985
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "wallpaper.com/tech/fender-x-paul-smith-telecaster": {
+  "title_ko": "폴 스미스와 펜더, 80년의 시간을 잇는 텔레캐스터의 시그니처 스트라이프",
+  "summary_ko": "펜더(Fender)와 폴 스미스(Paul Smith)가 각자의 80주년을 기념해 펜더 재팬 메이드 인 재팬 시리즈로 텔레캐스터를 제작한다. 앨더 바디 전후면을 폴 스미스의 상징인 시그니처 스트라이프로 덮고, 거북 등껍질 무늬 픽가드와 로즈우드 지판을 조합했다. 2027년 배송 예정인 이 한정판 모델은 전용 하드 케이스와 함께 판매된다.",
+  "lens": "고전적인 악기의 기하학적 형태 위에 패션 브랜드의 다채로운 패턴을 입혀, 악기를 단순한 도구가 아닌 시각적인 패션 오브제로 치환한다.",
+  "why_now": "두 브랜드의 80주년이라는 서사를 공유하며, 악기 제조의 전통과 패션의 그래픽적 유희를 결합해 소장 가치를 극대화한다.",
+  "mechanism": "텔레캐스터 특유의 미니멀한 앨더 바디를 캔버스 삼아 시그니처 스트라이프를 전면 배치하고, 브라스 배럴 브릿지와 커스텀 넥 플레이트로 디테일의 밀도를 높인다.",
+  "sensory": "매끄러운 앨더 바디의 스트라이프 패턴과 대비되는 거북 등껍질 무늬 픽가드의 질감, 얕은 C자형 메이플 넥이 주는 손에 감기는 물리적 감각이 공존한다.",
+  "transfer": "기존 제품의 형태를 유지한 채 표면의 패턴과 마감재를 교체하는 것만으로 브랜드의 정체성을 이식하는 시각적 전략을 콘티에 활용한다.",
+  "context": "폴 스미스는 고전적인 디자인에 선명한 색상을 더하는 '클래식 위드 어 트위스트'를 고수하며, 최근 바버와의 협업에서도 전통적인 타탄 체크에 형광색을 입히는 등의 방식을 선보였다. 펜더 재팬은 텔레캐스터의 원형을 보존하면서도 다양한 미학적 변주를 시도하는 메이드 인 재팬 시리즈를 통해 독자적인 시장을 구축해왔다.",
+  "findings": [
+   {
+    "text": "폴 스미스는 1970년에 브랜드를 설립한 이후 60개국 이상에서 130개 매장을 운영하는 영국 패션 디자이너이다.",
+    "s": 2,
+    "quote": "Founded by Smith in 1970, it has since expanded to 130 stores in more than 60 countries."
+   },
+   {
+    "text": "펜더 텔레캐스터는 세계 최초로 상업적 성공을 거둔 솔리드 바디 일렉트릭 기타이다.",
+    "s": 3,
+    "quote": "Together with its sister model the Esquire, it was the world's first mass-produced, commercially successful solid-body electric guitar."
+   }
+  ],
+  "keywords": [
+   "펜더",
+   "폴스미스",
+   "텔레캐스터",
+   "시그니처스트라이프",
+   "메이드인재팬"
+  ],
+  "evidence": "The Signature Stripe pattern covers both front and back of the alder body, paired with a tortoiseshell pickguard.",
+  "kind": "제품·오브제",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "두 브랜드의 80주년이라는 명확한 맥락과 제품의 구체적인 사양, 디자인 전략이 잘 드러나 있다.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/tech/fender-x-paul-smith-telecaster",
+  "original_title": "Sound, vision, style and stripes come together in the new Fender x Paul Smith Telecaster",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 2468,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-23 22:55",
+  "research": {
+   "entities": [
+    "Fender",
+    "Paul Smith",
+    "Telecaster",
+    "Leo Fender"
+   ],
+   "questions": [
+    "Fender Japan의 Made in Japan 시리즈가 가진 기술적, 디자인적 특징은 무엇인가요?",
+    "Paul Smith의 시그니처 스트라이프 패턴이 패션 외의 산업 디자인에 어떻게 적용되어 왔나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Paul Smith + Fender - Signature Stripe Guitar Strap",
+     "url": "https://go.redirectingat.com?id=92X1650074&xcust=wallpaper_us_8467930269373548884&xs=1&url=https%3A%2F%2Fwww.paulsmith.com%2Fuk%2Fpaul-smith-fender-signature-stripe-guitar-strap&sref=https%3A%2F%2Fwww.wallpaper.com"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Paul Smith (fashion designer)",
+     "url": "https://en.wikipedia.org/wiki/Paul%20Smith%20%28fashion%20designer%29"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Fender Telecaster",
+     "url": "https://en.wikipedia.org/wiki/Fender%20Telecaster"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "폴 스미스와 바버, 하이랜드 게임의 전통을 입히다",
+     "url": "https://www.wallpaper.com/fashion-beauty/paul-smith-barbour-collaboration-aw-2026"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "미니 컨트리맨 언테임드 에디션, 거친 지형을 마주하는 CMF의 전략",
+     "url": "https://www.wallpaper.com/transportation/new-mini-countryman-untamed-edition-test-drive-review"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "chars": 3148
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "design-milk.com/apparatus-act-v-afsaneh-collection": {
+  "title_ko": "신화의 물성, 아파라투스가 빚은 생의 순환과 다섯 번째 막",
+  "summary_ko": "뉴욕 디자인 스튜디오 아파라투스가 페르시아 신화와 순환적 자연에서 영감을 받은 가구와 조명 컬렉션 액트 V: 아프사네를 공개했다. 예술 감독 가브리엘 헨디파는 씨앗에서 우주로 이어지는 서사를 네 가지 장으로 나누어 청동, 황동, 유리, 몰디드 파이버글래스 등의 물성으로 구현했다. 향기와 무용 필름을 더해 공간 경험을 확장한다.",
+  "lens": "신화적 서사를 청동과 유리, 래커의 정교한 물성으로 번역해 공간의 조형적 긴장감을 높인다.",
+  "why_now": "디자인 스튜디오가 물리적 오브제를 넘어 향기와 무용 필름이라는 감각적 매체를 결합해 서사를 입체적으로 구축하는 동시대적 실험이다.",
+  "mechanism": "물로 성형한 황동과 블로운 글래스로 뱀의 유연한 곡선을 만들고, 반투명한 몰디드 파이버글래스로 꽃잎의 막 같은 질감을 재현한다.",
+  "sensory": "우유 빛깔부터 석류 빛과 밤의 색채를 띤 래커 피니시, 다마스크 로즈와 오우드의 향기가 공간의 시각적 물성과 중첩된다.",
+  "transfer": "공간 연출에서 단일 오브제를 배치하는 대신, 향기와 곡선형 금속 조명을 조합해 서사가 흐르는 시퀀스를 만든다.",
+  "context": "뉴욕 디자인 스튜디오 아파라투스가 2019년 이후 5년 만에 선보인 풀 컬렉션이다.",
+  "findings": [
+   {
+    "text": "뉴욕 디자인 스튜디오 아파라투스가 페르시아 신화를 현대적으로 재해석한 조명과 가구 컬렉션 액트 V: 아프사네를 공개했다.",
+    "s": 4,
+    "quote": "뉴욕 디자인 스튜디오 아파라투스가 페르시아 신화를 현대적으로 재해석한 조명과 가구 컬렉션 액트 V: 아프사네를 공개했다."
+   },
+   {
+    "text": "뉴욕 디자인 스튜디오 어파라터스가 5년 만의 신작 액트 V: 아프사네를 공개했다.",
+    "s": 5,
+    "quote": "뉴욕 디자인 스튜디오 어파라터스가 5년 만의 신작 'Act V: 아프사네(Afsaneh)'를 공개했다."
+   }
+  ],
+  "keywords": [
+   "아파라투스",
+   "페르시아신화",
+   "황동",
+   "파이버글래스"
+  ],
+  "evidence": "Act V: Afsaneh, a collection of lighting, furniture, and objects inspired by Persian mythology",
+  "kind": "프로젝트",
+  "depth": 5,
+  "grounding": "full",
+  "depth_reason": "구체적인 작업과 소재 변주, 무용 협업이라는 선례 없는 장치가 분명하며 콘티에 바로 쓸 수 있는 시각적 장치가 선명하다.",
+  "v": 2,
+  "url": "https://design-milk.com/apparatus-act-v-afsaneh-collection/",
+  "original_title": "Apparatus Explores Persian Mythology in Act V: Afsaneh",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 7185,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-23 22:55",
+  "research": {
+   "entities": [
+    "Apparatus",
+    "Gabriel Hendifar",
+    "Act V: Afsaneh"
+   ],
+   "questions": [
+    "아파래투스(Apparatus)의 이번 컬렉션 'Act V: Afsaneh'는 페르시아 신화와 가브리엘 헨디파의 개인적 서사를 어떻게 시각적·물리적 디자인으로 구현했는가?",
+    "향수와 몰디드 파이버글래스 같은 비정형적 소재가 이번 가구 및 조명 컬렉션의 서사적 구조에 어떤 영향을 미쳤는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "www.apparatusstudio.com",
+     "url": "https://apparatusstudio.com/"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Act V",
+     "url": "https://apparatusstudio.com/pages/act-v"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "The Red Jumpsuit Apparatus",
+     "url": "https://en.wikipedia.org/wiki/The%20Red%20Jumpsuit%20Apparatus"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "페르시아 신화와 서사의 물성, 아파라투스의 5년 만의 풀 컬렉션",
+     "url": "https://www.dezeen.com/2026/10/07/apparatus-act-v-collection-persian-mythology/"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "어파라터스, 다섯 번째 막 '아프사네'로 엮어낸 생의 순환",
+     "url": "https://www.wallpaper.com/design-interiors/lighting/apparatus-act-v-collection"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "참나무와 혼드 스톤으로 빚은 맨해튼의 로프트 주거 공간",
+     "url": "https://leibal.com/interiors/greenwich-street-loft/"
+    }
+   ],
+   "used": [
+    4,
+    5
+   ],
+   "chars": 2315
+  },
+  "depth_raw": 5,
+  "depth_v": 2
+ },
+ "archdaily.com/1187189/ibiza-house-studio-metamorphosis": {
+  "title_ko": "이비자 전통 가옥의 재해석, 알바세테의 휴양 주택",
+  "summary_ko": "스페인 알바세테에 위치한 240제곱미터 규모의 주택으로, 스튜디오 메타모포시스가 설계했다. 전통적인 이비자 건축 양식의 본질을 그대로 재현하는 대신, 그늘과 풍경, 공유 공간 중심의 삶의 방식을 현대적인 맥락으로 재해석했다.",
+  "lens": "전통 건축의 형태를 베끼는 대신 그늘과 풍경이라는 감각적 구조를 현대 주거에 이식한다.",
+  "why_now": "과거의 지역 양식을 표피적으로 차용하는 방식을 넘어, 거주 방식과 기후 대응이라는 본질에 집중하는 태도를 보여준다.",
+  "mechanism": "그늘과 공유 공간을 중심에 두는 전통적 배치 방식을 현대적인 매스와 재료를 통해 재구성한다.",
+  "sensory": "거친 햇빛 아래 깊게 드리워진 그늘과 주변 풍경이 실내외 공간을 유기적으로 연결한다.",
+  "transfer": "공간 연출 시 장식적 요소 대신 빛이 만드는 그늘과 동선의 흐름을 중심으로 프레임을 구성한다.",
+  "context": "스튜디오 메타모포시스가 알바세테에 완공한 이 휴양 주택 프로젝트다.",
+  "findings": [],
+  "keywords": [
+   "스튜디오메타모포시스",
+   "이비자하우스",
+   "알바세테건축",
+   "휴양주택"
+  ],
+  "evidence": "Completed in 2026 in Albacete, Spain. Images by Oleh Kardash.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "전통 양식의 현대적 재해석이라는 명확한 의도가 있으나 상세한 재료 수치가 부족해 평범한 소개에 그친다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1187189/ibiza-house-studio-metamorphosis",
+  "original_title": "Ibiza House / Studio Metamorphosis",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 997,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-23 22:55",
+  "research": {
+   "entities": [
+    "Studio Metamorphosis"
+   ],
+   "questions": [
+    "전통적인 이비자 건축(payesa)의 핵심 요소는 무엇이며 현대 건축으로 어떻게 재해석되었는가?",
+    "알바세테(Albacete)라는 지역적 맥락이 이 주택의 설계와 재료 선택에 어떤 영향을 미쳤는가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
  }
 }
