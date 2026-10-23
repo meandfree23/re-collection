@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-10-23 11:17 KST",
+  "generated_at": "2026-10-23 14:33 KST",
   "period": "2026.10.16 - 2026.10.23",
-  "total_articles": 394,
+  "total_articles": 401,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 181
+      "count": 185
     },
     {
       "genre": "동시대 미술",
-      "count": 157
+      "count": 160
     },
     {
       "genre": "아방가르드 패션",
@@ -23,10 +23,16 @@
   "themes": [
     {
       "keyword": "박물관·전시",
-      "count": 39,
+      "count": 40,
       "previous_count": 34,
       "trend": "rising",
       "items": [
+        {
+          "title": "프티 팔레 내부에 있는 Prune Nourry의 석고 캐스트 피규어는 누구입니까?",
+          "url": "https://www.wallpaper.com/art/exhibitions-shows/prune-nourry-visionaries-petit-palace-paris-review",
+          "image_url": "https://cdn.mos.cms.futurecdn.net/9MvQMQ3Kek6nFLFrkobrZU-1920-80.jpg",
+          "source_name": "Wallpaper*"
+        },
         {
           "title": "스튜디오 박물관, 새로운 거주 예술가 발표",
           "url": "https://hyperallergic.com/studio-museum-announces-new-artists-in-residence/",
@@ -44,12 +50,6 @@
           "url": "https://www.archdaily.com/1187379/from-void-to-value-revisioning-tallinns-old-town-vision-competition-exhibition",
           "image_url": "https://images.adsttc.com/media/images/6ada/259e/3271/8400/01d0/e021/large_jpg/3_TAB_2026_Vision_Competition_Opening__Evert_Palmets.jpg?1792681398",
           "source_name": "ArchDaily"
-        },
-        {
-          "title": "사이를 잇는 공간: 존 에드먼즈",
-          "url": "https://elephant.art/the-space-between-john-edmonds/",
-          "image_url": "https://elephant.art/wp-content/uploads/2026/10/Screenshot-2026-10-22-at-10.22.05-AM.png",
-          "source_name": "Elephant"
         }
       ]
     },
