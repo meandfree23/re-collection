@@ -214599,5 +214599,80 @@
   },
   "depth_raw": 3,
   "depth_v": 2
+ },
+ "wallpaper.com/architecture/hermes-quilt-windows-space-popular-london": {
+  "title_ko": "면과 실의 거대한 지형: 스페이스 포퓰러가 직조한 에르메스의 초현실적 응접실",
+  "summary_ko": "건축 듀오 스페이스 포퓰러가 런던 뉴 본드 스트리트에 위치한 에르메스 메종의 윈도우 디스플레이 '시엘 드 리'를 공개했다. 면과 실크 혼방 퀼트 텍스타일을 활용해 아치형 창문 여섯 개를 거대한 동화 속 응접실처럼 감싸 안았다. 약 500조각의 퀼트 조각을 수백 마일의 정밀한 스티치로 이어 붙여 공예적 밀도를 극대화했다.",
+  "lens": "단단한 건축의 표면을 유연한 퀼트로 감싸 물리적 감각의 위계를 전복한다.",
+  "why_now": "가상 세계와 디지털 공간을 탐구해 온 건축가들이 물리적 재료의 촉각성과 공예적 노동에 주목해 시각적 이질감을 만든다.",
+  "mechanism": "면과 실크 혼방 퀼트 패브릭을 아치형 창틀 구조에 밀착시키고, 부유하는 장갑과 가죽 벨트 소켓 같은 초현실적 디테일을 배치해 눈속임 효과를 낸다.",
+  "sensory": "따뜻하고 묵직한 난색 패브릭이 시각적 포근함을 주는 동시에, 거리에 비치는 검은색 택시와 행인의 움직임이 퀼트 표면에 부드럽게 반사된다.",
+  "transfer": "세트 디자인에서 단단한 벽체 대신 누빔 패브릭을 전면 적용해, 공간의 질감을 한층 유연하고 몽환적인 톤으로 전환하는 콘티에 응용한다.",
+  "context": "가상 공간과 디지털 포털을 연구해 온 스페이스 포퓰러가 텍스타일 공예 전문가 앤디 나이트와 협력해 메종 역사상 최대 규모의 퀼트 설치 작업을 완성했다.",
+  "findings": [],
+  "keywords": [
+   "스페이스포퓰러",
+   "에르메스메종",
+   "퀼트인스톨레이션",
+   "런던디스플레이"
+  ],
+  "evidence": "Scenes across its six arched windows sweep passersby up into a cosy and surreal drawing room built of cotton-and-silk-blend quilts in warm and toasty colours",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "건축 듀오와 공예가의 협업으로 완성된 구체적 공간 설치 작업이며 재료의 전복적 활용이 뚜렷하다.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/architecture/hermes-quilt-windows-space-popular-london",
+  "original_title": "Hundreds of miles of stitching make up Hermès Maison's enchanting quilt windows in London",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 4735,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-24 16:57",
+  "research": {
+   "entities": [
+    "Hermès",
+    "Space Popular",
+    "Fredrik Hellberg",
+    "Lara Lesmes",
+    "Leïla Menchari"
+   ],
+   "questions": [
+    "에르메스의 2026년 창의적 테마인 'Venture Beyond'는 이번 런던 메종의 퀼트 윈도우 프로젝트에 어떻게 시각적으로 구현되었는가?",
+    "건축 듀오 스페이스 포퓰러(Space Popular)가 가상 세계에 대한 관심을 물리적인 텍스타일과 퀼트 공예 작업으로 확장한 과정은 어떠한가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Space Popular",
+     "url": "https://www.spacepopular.com/"
+    },
+    {
+     "n": 2,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "하이 주얼리의 변주, 대담한 커팅과 실루엣으로 정의하는 현대적 조형미",
+     "url": "https://www.wallpaper.com/watches-jewellery/high-jewellery-a-w-2026"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "넥서스 스튜디오, 다학제적 아티스트 데빈 크레인 영입하며 시각 언어 확장",
+     "url": "https://www.stashmedia.tv/nexus-studios-signs-director-artist-devin-crane-to-commercial-roster/"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "앤 베로니카 얀센스, 긴자 에르메스에서 빛과 안개로 건축의 경계를 지우다",
+     "url": "https://www.designboom.com/art/ann-veronica-janssens-hermes-ginza-exhibition-light-fog/"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 3372
+  },
+  "depth_raw": 4,
+  "depth_v": 2
  }
 }
