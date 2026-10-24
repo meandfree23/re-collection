@@ -2561,41 +2561,41 @@
  },
  "2026-10-25": {
   "date": "2026-10-25",
-  "headline": "부풀어 오른 금속 거울과 논밭을 가로지르는 목조 뼈대",
-  "editorial": "오스카르 지엥타의 론도 미러는 금속을 팽창시켜 평면 너머의 왜곡된 입체를 드러낸다. 이는 논밭 사이에 놓인 목조 쉼터가 농경지의 빈틈을 구조물로 채우는 방식과 닮았다. 샬럿의 나파 비스트로 역시 역사를 물리적 재료로 치환하여 머무는 이에게 특정 장면을 경험하게 한다. 사물이 공간을 점유하고 변화시키는 방식에 집중한 결과물들을 모았다.",
+  "headline": "모노스 본사의 푹신한 카펫과 1917년 농가의 거친 돌벽",
+  "editorial": "모노스 밴쿠버 본사는 업무 공간에 거주지의 온기를 들여보내 딱딱했던 사무실의 문턱을 낮춘다. 이처럼 기존의 틀을 유지하며 새로운 쓰임을 찾는 시도는 알렌테주 농가나 발리의 트리하우스에서도 발견된다. 헤르다데 다 마티냐 컨트리 하우스는 1917년의 낡은 뼈대를 그대로 살려 시간을 잇고, 레곰방 트리하우스는 나무를 베어내는 대신 구조체로 받아들인다. 이들은 굳이 무언가를 부수지 않고도 장소의 성격을 바꾸는 유연한 태도를 보여준다.",
   "threads": [
    {
-    "name": "재료가 만드는 굴곡",
-    "note": "금속과 나무라는 서로 다른 재료가 압력과 구조를 통해 평면을 입체로 변환하는 과정을 살핀다.",
+    "name": "오래된 뼈대에 입힌 새 숨결",
+    "note": "기존 건축물이나 자연 지형을 훼손하지 않고 현재의 용도로 전환한 사례들이다.",
     "items": [
      {
-      "title": "일본 나라의 농경지를 가로지르는 목조 쉼터의 구조",
-      "url": "https://www.archdaily.com/1186828/field-shelter-in-nara"
+      "title": "발리의 나무를 엮어 만든 집, 레곰방 트리하우스",
+      "url": "https://www.archdaily.com/1186813/legombang-treehouse-cave-urban"
      },
      {
-      "title": "오스카르 지엥타의 론도 미러: 금속을 팽창시켜 조각이 된 반사체",
-      "url": "https://minimalissimo.com/articles/rondo-mirror"
+      "title": "1917년의 기억을 잇는 알렌테주 농가: 헤르다데 다 마티냐 컨트리 하우스",
+      "url": "https://www.archdaily.com/1187439/herdade-da-matinha-country-house-sabrab"
      }
     ]
    },
    {
-    "name": "환경을 잇는 구조물",
-    "note": "농경지와 비스트로라는 서로 다른 배경 속에서 건축이 어떻게 주변과 결합하는지 보여준다.",
+    "name": "기능을 넘어선 공간의 표정",
+    "note": "업무 공간이나 식당이 단순한 용도를 넘어 거주나 서사를 담는 장소로 변화하는 흐름이다.",
     "items": [
+     {
+      "title": "주거의 온기를 입은 오피스, 모노스 밴쿠버 본사",
+      "url": "https://www.dezeen.com/2026/10/24/monos-headquarters-vancouver-ste-marie/"
+     },
      {
       "title": "나파 밸리의 온기와 파리의 서사, 샬럿의 나파 비스트로",
       "url": "https://design-milk.com/napa-bistro-charlotte-fictionworks/"
-     },
-     {
-      "title": "일본 나라의 농경지를 가로지르는 목조 쉼터의 구조",
-      "url": "https://www.archdaily.com/1186828/field-shelter-in-nara"
      }
     ]
    }
   ],
-  "based_on": 4,
+  "based_on": 9,
   "v": 3,
   "model": "gemini-3.1-flash-lite",
-  "written_at": "2026-10-25 01:46"
+  "written_at": "2026-10-25 08:51"
  }
 }
