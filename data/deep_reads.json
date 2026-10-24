@@ -215092,5 +215092,51 @@
   },
   "depth_raw": 4,
   "depth_v": 2
+ },
+ "leibal.com/interiors/taihu-ruyuan-residence": {
+  "title_ko": "타이후 루위안 레지던스: 침실을 비워 얻은 유연한 공유 공간",
+  "summary_ko": "중국 우시의 타이후 루위안 레지던스는 비큐에프 디자인(BQF DESIGN)이 4개의 침실 중 하나를 제거해 얻은 면적을 공유 공간으로 재편한 아파트다. 거실과 다이닝, 주방, 찻방을 하나의 연속적인 흐름으로 연결하고 발코니를 실내로 흡수해 시선과 빛이 머무는 범위를 확장했다.",
+  "lens": "벽과 문으로 기능을 가두는 대신, 침실 하나를 덜어내어 거주자가 시선과 빛의 흐름에 따라 공간의 용도를 유연하게 점유하도록 설계했다.",
+  "why_now": "기능별로 구획된 아파트 평면에서 벗어나, 거주자의 활동에 따라 공간의 성격이 변하는 가변적인 주거 형태가 주목받고 있다.",
+  "mechanism": "낮은 플랫폼 소파를 배치해 시각적 무게 중심을 바닥으로 낮추고, 찻방의 가변형 벽체를 통해 공유 공간과 독립된 방의 경계를 필요에 따라 자유롭게 조절한다.",
+  "sensory": "장식적 요소를 배제하고 비례와 재료의 물성, 실내로 깊숙이 들어오는 자연광의 변화가 공간의 밀도를 결정한다.",
+  "transfer": "공간 내 시각적 중심을 낮추기 위해 가구 높이를 조정하고, 공간을 분절하는 벽체 대신 빛과 시선이 투과되는 연결 구조를 도입해 개방감을 극대화한다.",
+  "context": "디자이너 판 홍(Pan Hong)이 이끄는 비큐에프 디자인은 기능 중심의 평면을 해체하고 거주자의 동선과 시선이 끊기지 않는 연속적인 공간 구성을 실험한다.",
+  "findings": [],
+  "keywords": [
+   "공간 재구성",
+   "가변형 평면",
+   "비큐에프 디자인",
+   "미니멀리즘"
+  ],
+  "evidence": "The original plan had four. The Wuxi studio, led by designer Pan Hong, reduced it to three and returned the recovered floor area to the rooms the household shares.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "침실을 제거해 공유 면적을 넓히는 평면 전략은 명확하나, 재료와 비례에 대한 구체적인 데이터가 부족해 일반적인 분석에 그쳤다.",
+  "v": 2,
+  "url": "https://leibal.com/interiors/taihu-ruyuan-residence/",
+  "original_title": "Taihu Ruyuan Residence",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 2150,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-24 21:58",
+  "research": {
+   "entities": [
+    "BQF DESIGN",
+    "Pan Hong",
+    "Taihu Ruyuan Residence"
+   ],
+   "questions": [
+    "BQF DESIGN이 디자인한 타이후 루위안 레지던스(Taihu Ruyuan Residence)의 공간 재구성 방식이 거주자의 생활 양식에 미친 영향은 무엇인가?",
+    "전통적인 동양적 장식 요소를 배제하고 비례와 재료, 채광만으로 공간의 특성을 살린 구체적인 디자인 철학은 무엇인가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
  }
 }
