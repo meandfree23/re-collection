@@ -214481,5 +214481,123 @@
   },
   "depth_raw": 3,
   "depth_v": 2
+ },
+ "designboom.com/art/yotaro-sakamoto-kinetic-thread-column-human-presence-shifting-shadows-schattenrequisit": {
+  "title_ko": "사카모토 요타로의 키네틱 기둥, 실의 궤적과 그림자로 공간을 재구성하다",
+  "summary_ko": "예술가이자 엔지니어인 사카모토 요타로(Yotaro Sakamoto)가 제작한 ‘샤텐레퀴지트: 컬럼(Schattenrequisit: Column)’은 수많은 실로 구성된 키네틱 설치물이다. 밀리미터파 센서가 관람객의 움직임을 감지하면 스테퍼 모터가 실의 배열을 회전시키며 벽면과 바닥에 맺히는 그림자의 형태를 실시간으로 변화시킨다.",
+  "lens": "고정된 건축적 요소인 기둥을 실과 그림자라는 비물질적 층위로 해체하여, 인간의 움직임이 공간의 형상을 결정짓는 유동적 구조로 치환한다.",
+  "why_now": "도시의 정적인 인프라와 그 속을 흐르는 유동적인 인간의 동선을 물리적 기계 장치로 시각화하여 건축과 신체의 관계를 다시 묻는다.",
+  "mechanism": "밀리미터파 센서가 관람객의 근접도를 측정하고, 컴퓨테이셔널 디자인으로 설계된 스테퍼 모터가 실의 겹침을 미세하게 조정해 그림자의 윤곽을 변형한다.",
+  "sensory": "촘촘한 실이 회전하며 만들어내는 선형의 그림자가 벽면을 따라 느릿하게 겹쳐지고 흩어지며 공간의 밀도를 변화시킨다.",
+  "transfer": "공간 연출 시 센서와 모터를 활용해 정적인 오브제의 그림자를 실시간으로 왜곡하면, 관람객의 동선만으로 공간의 분위기를 즉각적으로 제어할 수 있다.",
+  "context": "일본의 전통적인 발인 스다레(sudare)의 빛을 걸러내는 특성에서 개념적 영감을 얻어, 물리적 재료와 그림자를 하나의 조각적 구성 요소로 통합했다.",
+  "findings": [],
+  "keywords": [
+   "키네틱 아트",
+   "건축 설치",
+   "그림자",
+   "스다레",
+   "사카모토 요타로"
+  ],
+  "evidence": "The project treats physical material and immaterial shadows as unified components of a single sculptural composition.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "기술적 구현 장치와 예술적 개념의 연결이 명확하며, 공간과 신체의 상호작용을 다루는 방식이 구체적이다.",
+  "v": 2,
+  "url": "https://www.designboom.com/art/yotaro-sakamoto-kinetic-thread-column-human-presence-shifting-shadows-schattenrequisit/",
+  "original_title": "yotaro sakamoto’s kinetic thread column transforms human presence into shifting shadows",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 3327,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-24 14:28",
+  "research": {
+   "entities": [
+    "Yotaro Sakamoto",
+    "Schattenrequisit: Column",
+    "Sudare"
+   ],
+   "questions": [
+    "밀리미터파 센서와 스테퍼 모터를 활용한 키네틱 아트의 기술적 구현 원리는 무엇인가요?",
+    "전통적인 일본의 스다레(Sudare) 스크린이 현대 건축적 설치 미술에서 어떻게 재해석되었나요?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "wallpaper.com/architecture/residential/avocado-house-desert-home-california-usa": {
+  "title_ko": "유카 밸리의 곡선형 주거, 세 개의 원이 빚어낸 아보카도 하우스",
+  "summary_ko": "아르시아 아키텍츠의 아르시아 마흐무디가 설계한 캘리포니아 유카 밸리의 아보카도 하우스는 세 개의 원형 기하학을 바탕으로 완성된 사막 주거다. 건물 중심부를 파내어 수영장과 스파가 있는 초승달 모양의 중정을 만들고, 곡선형 집성목 캐노피로 사막 경관을 감싸 안는다.",
+  "lens": "완만한 곡선형 집성목 캐노피로 사막의 거친 바위 지형과 건물의 각진 시선을 부드럽게 매개한다.",
+  "why_now": "네모반듯한 사막 주거의 전형성에서 벗어나, 원형의 기하학과 유기적인 곡선으로 대지와의 새로운 물리적 접점을 만든다.",
+  "mechanism": "세 개의 원 중 하나는 실내 코어, 다른 하나는 마당, 마지막 하나는 둘을 연결하며, 건물 매스를 도려내어 산 자신과 샌 자신토 산맥을 향한 시선을 틀어낸다.",
+  "sensory": "곡선형 집성목이 자아내는 따뜻한 목재의 질감과 플로스 조명이 시간에 따라 다르게 굴절시키는 사막의 자연광이 대비를 이룬다.",
+  "transfer": "광고나 뮤직비디오 콘티에서 원형 구조물과 깎아낸 중정을 활용해 인물의 동선을 외부 자연과 단절 없이 연결하는 로케이션 연출로 쓴다.",
+  "context": "인기 사막 건축물 인비시블 하우스를 선보인 필드트립의 시그니처 홈즈 포트폴리오에 합류한 신축 주거 공간이다.",
+  "findings": [],
+  "keywords": [
+   "아보카도하우스",
+   "곡선집성목",
+   "사막건축",
+   "유카밸리"
+  ],
+  "evidence": "Avocado House is a newly completed retreat perched above the Yucca Valley, created by Arshia Architects' principal architect Arshia Mahmoodi.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "원형 기하학과 곡선형 집성목이라는 구체적 장치가 있으나 신축 주거 공간의 평범한 소개 범위에 머문다.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/architecture/residential/avocado-house-desert-home-california-usa",
+  "original_title": "Avocado House, a California desert home, owes its unusual shape to its hilltop setting",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 4301,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-24 14:29",
+  "research": {
+   "entities": [
+    "Arshia Architects",
+    "Invisible House",
+    "Flos"
+   ],
+   "questions": [
+    "아보카도 하우스의 원형 기하학 구조는 주변 사막 경관과 어떻게 상호작용하는가?",
+    "곡선형 집성목(glulam timber)을 활용한 캐노피 구조는 시공 과정에서 어떤 기술적 의미를 가지는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Fieldtrip: Avocado House | Sculptural Joshua Tree Icon",
+     "url": "https://www.stayfieldtrip.com/joshua-tree/avocado-house/"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Invisible House | Desert Icon w/ Indoor Pool in Joshua Tree | Joshua Tree Vacation Rental",
+     "url": "https://512857c0.streak-link.com/DEQHvBpGhkBBJ2rMtgnQFW27/https%3A%2F%2Fwww.stayfieldtrip.com%2Fjoshua-tree%2Finvisible-house%2F"
+    },
+    {
+     "n": 3,
+     "type": "공식·1차",
+     "title": "All Fieldtrip Properties | Luxury Vacation Rental Homes",
+     "url": "https://www.stayfieldtrip.com/our-properties/"
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "Flos",
+     "url": "https://en.wikipedia.org/wiki/Flos"
+    }
+   ],
+   "used": [],
+   "chars": 883
+  },
+  "depth_raw": 3,
+  "depth_v": 2
  }
 }
