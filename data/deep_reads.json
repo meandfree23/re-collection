@@ -214674,5 +214674,423 @@
   },
   "depth_raw": 4,
   "depth_v": 2
+ },
+ "wallpaper.com/design-interiors/design-events/amman-design-week-2026": {
+  "title_ko": "암만 디자인 위크 2026: 도시의 층위를 쌓아 올리는 ‘누적’의 미학",
+  "summary_ko": "7년 만에 돌아온 암만 디자인 위크가 ‘누적(Accumulations)’을 주제로 요르단 암만 전역과 아카바에서 열렸다. 220명 이상의 디자이너와 건축가가 참여하여 지역의 역사, 장인 정신, 생태적 맥락을 현대적 디자인 언어로 치환했다. 폐전력 격납고부터 역사적 가옥까지 도시의 기존 공간을 전시 무대로 활용하며 지역 자원의 가치를 재조명했다.",
+  "lens": "도시를 완성된 결과물이 아닌 재료와 기억이 겹겹이 쌓이는 유기적 과정으로 보고, 공공 공간을 전시의 연장선으로 치환해 도시의 일상을 무대화한다.",
+  "why_now": "디자인을 고립된 오브제가 아닌 지역의 노동 네트워크와 기억이 결합된 결과물로 정의하며, 지난 7년간의 공백을 실천적 지식의 축적으로 치환했다.",
+  "mechanism": "전통적인 유리 공예 기법을 타이포그래피 구조와 결합하거나, 경량 아치 구조를 지역 석재로 재현하는 등 과거의 공예 논리를 현대적 재료와 결합해 공간의 물리적 깊이를 재구성한다.",
+  "sensory": "1930년대 전력 격납고의 넉넉한 채광 아래 놓인 거친 석재와 매끄러운 유리 오브제가 대비되며, 도시 곳곳의 수조와 농업적 흔적이 시각적 층위를 형성한다.",
+  "transfer": "공간 연출 시 장소의 역사적 맥락을 반영한 오브제를 배치하되, 지역 장인과 협업한 제작 과정을 기록해 결과물의 서사를 보강한다.",
+  "context": "2016년 라나 베이루티와 아비르 세이칼리가 공동 창립한 암만 디자인 위크는 요르단 디자인 비엔날레로서 지역의 창의적 목소리를 대변해 왔다. 이번 4회 행사는 2019년 이후의 공백을 메우며 도시의 물리적 환경과 사회적 이슈를 연결하는 연구 중심의 전시로 확장되었다.",
+  "findings": [
+   {
+    "text": "암만 디자인 위크는 2016년 라나 베이루티와 아비르 세이칼리에 의해 설립된 디자인 비엔날레이다.",
+    "s": 1,
+    "quote": "Amman Design Week (Arabic: أسبوع عمّان للتصميم) is a design biennale held in Amman, Jordan, co-founded in 2016 by Rana Beiruti and Abeer Seikaly through an initiative of Queen Rania Al Abdullah."
+   },
+   {
+    "text": "2026년 행사는 220명 이상의 참가자가 참여하여 도시 전역에서 전시와 워크숍을 진행했다.",
+    "s": 2,
+    "quote": "220명 이상의 참가자가 참여하며 기존 건축물과 공공장소를 활용해 재료, 기억, 일상적 실천이 도시의 층위를 형성하는 과정을 탐구한다."
+   },
+   {
+    "text": "위삼 알 아살리의 타슈비크는 전통 공예 구조를 현대적 재료로 재현한 설치물이다.",
+    "s": 3,
+    "quote": "위삼 알 아살리가 설계한 타슈비크(Tašbik)는 2026년 암만 디자인 위크의 열린 강의 마당을 위해 제작된 설치물이다."
+   }
+  ],
+  "keywords": [
+   "암만디자인위크",
+   "누적",
+   "공공공간",
+   "지역성",
+   "공예"
+  ],
+  "evidence": "The theme for this year’s event was Accumulations.",
+  "kind": "전시",
+  "depth": 5,
+  "grounding": "full",
+  "depth_reason": "전시 주제와 구체적인 설치 사례, 지역적 맥락을 연결하는 큐레이팅 논리가 명확하며 공간 연출에 즉각적인 영감을 제공한다.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/design-interiors/design-events/amman-design-week-2026",
+  "original_title": "Amman Design Week amplifies creative voices from across the region",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 8589,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-24 21:34",
+  "research": {
+   "entities": [
+    "Amman Design Week",
+    "Khaled Al-Bashir",
+    "Faysal Tabbarah",
+    "Al Balad Theatre",
+    "Ishraq Zraikat"
+   ],
+   "questions": [
+    "Amman Design Week의 2026년 주제인 'Accumulations'가 요르단 디자인 생태계의 지난 7년과 어떤 연관성을 갖는가?",
+    "이번 전시에서 강조된 지역적 자원과 장인 정신의 결합이 현대 디자인 담론에서 어떤 사회적, 정치적 의미를 지니는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Amman Design Week",
+     "url": "https://en.wikipedia.org/wiki/Amman%20Design%20Week"
+    },
+    {
+     "n": 2,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "암만 디자인 위크 2026: 도시의 층위를 쌓아 올리는 ‘누적’의 미학",
+     "url": "https://www.archdaily.com/1186204/amman-design-week-2026-returns-with-accumulations-exploring-the-layers-of-place-material-and-memory"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "암만 디자인 위크 2026: 위삼 알 아살리의 타슈비크, 전통 공예와 구조의 결합",
+     "url": "https://www.archdaily.com/1186763/tasbik-wesam-al-asali"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "암만 디자인 위크 2026: 도시의 층위를 쌓아 올리는 ‘누적’의 미학",
+     "url": "https://www.archdaily.com/1187222/what-accumulates-lessons-on-materiality-memory-and-public-space-from-amman-design-week-2026"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "chars": 1053
+  },
+  "depth_raw": 5,
+  "depth_v": 2
+ },
+ "dezeen.com/2026/10/24/cloud-house-peter-morris": {
+  "title_ko": "런던 고스펠 오크의 분홍빛 아치, 피터 모리스의 클라우드 하우스",
+  "summary_ko": "건축가 피터 모리스가 런던 고스펠 오크에 설계한 클라우드 하우스는 마시멜로 핑크색 외벽과 청록색 디테일이 돋보이는 두 채의 주거 공간이다. 마이애미 아르데코 양식과 인근 세인트 마틴 교회의 곡선 구조에서 영감을 얻었으며, 강철 골조 위에 폴리스티렌 아치를 덧대어 완성했다.",
+  "lens": "기능주의적 엄숙함 대신 색채와 곡선으로 도시의 일상에 즐거움을 주입하는 포스트모더니즘의 감각적 실험이다.",
+  "why_now": "건축의 기능적 효율성을 넘어, 시각 언어가 거주자와 보행자에게 미치는 감정적 반응을 적극적으로 설계의 중심에 둔다.",
+  "mechanism": "구조용 강철 프레임 위에 폴리스티렌 소재의 장식적 아치를 덧대고 방수 코팅과 질감 처리를 거쳐, 부드러운 구름 형태를 입체적으로 구현했다.",
+  "sensory": "청록색 에폭시 바닥과 에메랄드 그린 스트라이프 주방, 그리고 분홍색 외벽이 만드는 파스텔 톤의 강렬한 대비가 시각적 활기를 더한다.",
+  "transfer": "폴리스티렌을 활용한 아치 형태의 외장재 마감은 비정형 곡선을 경량화하여 구현해야 하는 공간 연출에 유용하다.",
+  "context": "인근의 1등급 문화재인 세인트 마틴 교회는 에드워드 벅턴 램이 설계했으며, 니콜라우스 페브스너는 이를 '런던에서 가장 기이한 빅토리아 시대 교회'라 평했다. 모리스는 이 교회의 극적인 아치와 성채 같은 형태를 현대적 주거의 곡선으로 재해석했다.",
+  "findings": [
+   {
+    "text": "세인트 마틴 교회는 1864년부터 1866년 사이에 에드워드 벅턴 램의 설계로 건립되었다.",
+    "s": 1,
+    "quote": "The church was built between 1864 and 1866 to a curious-looking design by Edward Buckton Lamb"
+   }
+  ],
+  "keywords": [
+   "포스트모더니즘",
+   "아르데코",
+   "폴리스티렌",
+   "색채 건축",
+   "런던 건축"
+  ],
+  "evidence": "The key goal was to make a beautiful building which I hoped might create a little moment of joy for anyone walking past it on the street",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "건축가의 철학적 의도와 구체적인 시공 방식이 명확히 기술되어 공간 설계에 직접적인 영감을 준다.",
+  "v": 2,
+  "url": "https://www.dezeen.com/2026/10/24/cloud-house-peter-morris/",
+  "original_title": "Cloud House by Peter Morris brings \"fairytale flamboyance\" to London",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 5487,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-24 21:34",
+  "research": {
+   "entities": [
+    "Peter Morris",
+    "Cloud House",
+    "St Martin's Church",
+    "Nikolaus Pevsner"
+   ],
+   "questions": [
+    "포스트모더니즘 건축에서 색채와 패턴이 갖는 감정적, 사회적 의미는 무엇인가?",
+    "런던의 역사적인 건축물들과 현대적인 주거 프로젝트가 조화를 이루기 위해 고려해야 할 건축적 요소는 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "St Martin's Church, Gospel Oak",
+     "url": "https://en.wikipedia.org/wiki/St%20Martin%27s%20Church%2C%20Gospel%20Oak"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Nikolaus Pevsner",
+     "url": "https://en.wikipedia.org/wiki/Nikolaus%20Pevsner"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "런던 고스펠 오크의 분홍빛 구름, 피터 모리스의 클라우드 하우스",
+     "url": "https://www.wallpaper.com/architecture/residential/cloud-house-peter-morris-london-uk"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3
+   ],
+   "chars": 1331
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "hyperallergic.com/this-is-class-war": {
+  "title_ko": "파리의 시위와 미술 시장, 계급 갈등의 풍경",
+  "summary_ko": "프랑스 학생 시위와 치솟는 물가 속에서 아트 바젤 파리가 조기 폐막하고 루브르 박물관이 문을 닫는다. 뉴욕 지하철과 미술계 자선 만찬, 그리고 인공지능이 쓴 텍스트의 허구성이 교차하며 자본과 계급의 충돌을 드러낸다.",
+  "lens": "화려한 미술 시장의 이면에서 충돌하는 자본과 계급의 풍경을 냉소적으로 포착한다.",
+  "why_now": "예술계가 마주한 생성형 인공지능의 남용과 사회적 불평등이 동시대 미술 현장의 모순을 적나라하게 드러내기 때문이다.",
+  "mechanism": "지하철의 소음과 전광판의 로또 번호, 폐쇄된 미술관의 풍경을 대조하며 거친 리얼리티를 구축한다.",
+  "sensory": "이스트 강을 건너는 지하철의 덜컹거림, 맨해튼의 과도한 네온사인, 그리고 미술관 앞 타는 플라스틱 냄새가 엉킨다.",
+  "transfer": "도시 빈민가와 자선 만찬장의 낙차를 대비시키는 오프닝 시퀀스 콘티에 활용한다.",
+  "context": "미술계의 경제적 불평등과 사회적 파업 국면을 다룬 이번 리포트는 동시대 예술 제도가 지닌 구조적 한계를 짚는다.",
+  "findings": [
+   {
+    "text": "카지미르 말레비치는 1915년에 순수 기하학적 추상인 절대주의를 소개했다.",
+    "s": 1,
+    "quote": "In 1915, working in a Cubo-Futurist mode, Malevich developed Suprematism, a system of pure geometric abstraction on monochromatic grounds."
+   },
+   {
+    "text": "미국 증권거래위원회는 2018년에 테라노스와 엘리자베스 홈즈를 사기 혐의로 기소했다.",
+    "s": 2,
+    "quote": "In 2018, the U.S. Securities and Exchange Commission (SEC) charged Theranos, Holmes, and former Theranos chief operating officer (COO) Ramesh 'Sunny' Balwani with raising $700 million from investors through a fraud"
+   }
+  ],
+  "keywords": [
+   "계급갈등",
+   "미술시장",
+   "파리시위",
+   "인공지능비평"
+  ],
+  "evidence": "The subway car rattles, shakes, and screeches as it tunnels us from Brooklyn to Manhattan underneath the East River.",
+  "kind": "뉴스·이슈",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "원문의 다양한 미술계 이슈와 사회적 풍경을 포착했으나 단순 라운드업 성격의 기사다.",
+  "v": 2,
+  "url": "https://hyperallergic.com/this-is-class-war/",
+  "original_title": "This Is Class War",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 8519,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-24 21:34",
+  "research": {
+   "entities": [
+    "Kazimir Malevich",
+    "Elizabeth Holmes",
+    "Albrecht Dürer",
+    "Rembrandt van Rijn",
+    "Maurits C. Escher"
+   ],
+   "questions": [
+    "생성형 AI가 작성한 예술 비평이나 에세이 텍스트가 지닌 고유한 문체적 특징과 문제점은 무엇인가?",
+    "미술계와 문화계에서 자본, 계급 갈등, 그리고 인공지능 활용은 어떤 방식으로 얽혀 있는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Kazimir Malevich",
+     "url": "https://en.wikipedia.org/wiki/Kazimir%20Malevich"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Elizabeth Holmes",
+     "url": "https://en.wikipedia.org/wiki/Elizabeth%20Holmes"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "엘리자베스 홈즈의 렌트 가구, 그 무해한 백색소음",
+     "url": "https://www.architecturaldigest.com/story/you-can-see-everything-elizabeth-holmes-homes-deception"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3
+   ],
+   "chars": 3102
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "yatzer.com/city-guide-thessaloniki-greece": {
+  "title_ko": "유적과 아르데코 사이, 테살로니키의 공간 레이어",
+  "summary_ko": "그리스 테살로니키는 로마 유적과 비잔틴 교회, 오스만 모뉴먼트가 공존하는 다층적 도시이다. 아르데코 건물과 1970년대 오피스를 개조한 호텔들은 역사적 유산과 동시대 디자인을 결합하며 도시의 새로운 정체성을 만든다.",
+  "lens": "오래된 건물의 구조적 뼈대를 남기고 그 안에 당대 디자이너의 가구를 채워 세월의 층위를 시각화한다.",
+  "why_now": "도시의 유산이 현대적 인테리어와 결합하며 새로운 감각의 로컬 스테이로 거듭나는 전환점을 보여준다.",
+  "mechanism": "1920년대 아르데코 파사드와 테라조 계단 같은 원형을 보존하고 브라스 조명과 블랙 래커를 대비해 시대적 간극을 만든다.",
+  "sensory": "거친 콘크리트 질감과 대비되는 따뜻한 목재, 광택 처리된 대리석과 브라스 디테일이 공간의 무게감을 조율한다.",
+  "transfer": "공간 연출 시 역사적 건물의 원형 몰딩을 살리고 미드센추리 가구를 배치해 시대적 충돌을 유도한다.",
+  "context": "토마스 딕슨은 영국 출신의 산업 디자이너이자 브랜드 톰 딕슨의 크리에이티브 디렉터로 활동하며 공간 디자인 영역으로 확장해왔다.",
+  "findings": [
+   {
+    "text": "토마스 딕슨은 조명, 가구 브랜드 톰 딕슨의 크리에이티브 디렉터이다.",
+    "s": 1,
+    "quote": "He is the creative director of the lighting, furniture, and household accessories brand \"Tom Dixon.\""
+   }
+  ],
+  "keywords": [
+   "테살로니키",
+   "아르데코",
+   "공간개조",
+   "도시가이드"
+  ],
+  "evidence": "From restored Art Deco hotels to spice-rich kitchens and bougatsa at dawn, our city guide traces Thessaloniki's many-layered character.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "도시 내 여러 공간을 소개하는 라운드업 기사로 구체적인 건축적 특징이 잘 드러난다.",
+  "v": 2,
+  "url": "https://www.yatzer.com/city-guide-thessaloniki-greece",
+  "original_title": "Thessaloniki City Guide",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 9000,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-24 21:34",
+  "research": {
+   "entities": [
+    "Daios Luxury Living",
+    "Electra Palace Thessaloniki",
+    "MOMus",
+    "Tom Dixon",
+    "Makedonia Palace"
+   ],
+   "questions": [
+    "테살로니키가 유네스코 미식 창의도시로 선정된 역사적, 문화적 배경은 무엇인가요?",
+    "테살로니키의 건축 양식에 반영된 그리스, 유대, 오스만 제국 등 다양한 문화적 층위는 어떻게 나타나나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Tom Dixon (industrial designer)",
+     "url": "https://en.wikipedia.org/wiki/Tom%20Dixon%20%28industrial%20designer%29"
+    },
+    {
+     "n": 2,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "유리의 흐름을 붙잡는 물결, 톰 딕슨의 스플래시 유리잔",
+     "url": "https://www.wallpaper.com/design-interiors/splash-out-on-tom-dixons-new-glassware-collection-for-nude"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 1022
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "dezeen.com/2026/10/24/nakshabid-architects-project-roundup": {
+  "title_ko": "방글라데시 낙샤비드 아키텍츠: 사회적 맥락과 기후를 엮는 건축적 해법",
+  "summary_ko": "바예지드 콘도커가 설립한 낙샤비드 아키텍츠는 방글라데시의 사회·생태적 맥락을 건축으로 치환하는 작업을 수행한다. 최근 RIBA 국제상을 수상한 그린 필드 팩토리를 비롯해 모스크, 박물관, 주거 단지에 이르기까지 기후 대응과 공동체 결속을 위한 공간을 구축한다.",
+  "lens": "기능적 프로그램을 공동체적 모임의 장으로 변모시키는 이들의 전략은 건물의 형태보다 그 건물이 점유하는 사회적 관계망에 집중한다.",
+  "why_now": "기후 위기 시대에 수동적 디자인 원칙과 현지 재료를 활용해 노동자의 존엄과 지역의 일상을 조율하는 방식은 건축의 사회적 책무를 다시 묻는다.",
+  "mechanism": "수동적 환기와 생태적 설계를 통해 건물 내부의 열 획득을 제어하고, 전통적인 방글라데시 가옥의 구조를 현대적 프로그램에 이식하여 공간의 위계와 밀도를 조정한다.",
+  "sensory": "벽돌의 거친 질감과 콘크리트의 육중한 볼륨 사이로 뚫린 삼각형·사각형 개구부가 빛을 걸러내며, 수직 정원과 테라스의 식생이 건물을 수직적 풍경으로 바꾼다.",
+  "transfer": "공간의 물리적 경계를 허물기 위해 루버와 캔틸레버 발코니를 활용해 외부 시선과 빛의 유입을 조절하고, 공용 공간을 중심에 배치하여 사용자 간의 자연스러운 조우를 유도한다.",
+  "context": "2003년 설립된 낙샤비드 아키텍츠는 26년간 방글라데시를 거점으로 공공과 민간 프로젝트를 수행해 왔다. 최근 그린 필드 팩토리로 RIBA 국제상을 수상했으며, 바예지드 콘도커는 2023년 아카시아 건축상에서 금메달 2개를 획득하며 국제적 입지를 굳혔다.",
+  "findings": [
+   {
+    "text": "바예지드 마부브 콘도커는 2023년 아카시아 건축상에서 두 개의 금메달을 수상했다.",
+    "s": 1,
+    "quote": "At the ARCASIA Awards for Architecture-2023, Architect Bayejid Mahbub Khondker, the principal architect of Nakshabid Architects won two Gold Medals."
+   },
+   {
+    "text": "낙샤비드 아키텍츠는 약 26년간 건축 실무를 이어오며 도시 문제와 기후 변화에 대응하는 설계를 지속해 왔다.",
+    "s": 1,
+    "quote": "With practice over 26 years, we are confident in our ability to meet future challenges such as growing cities, urban issues, and inclusive climate-sensible design."
+   }
+  ],
+  "keywords": [
+   "방글라데시건축",
+   "수동적설계",
+   "공동체공간",
+   "낙샤비드아키텍츠"
+  ],
+  "evidence": "We believe that architecture must respond directly to its socio-ecological context, transforming ordinary programmes into meaningful collective experiences.",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "RIBA 수상작을 포함한 주요 프로젝트의 설계 철학과 구체적인 기후 대응 기법을 명확하게 다루고 있다.",
+  "v": 2,
+  "url": "https://www.dezeen.com/2026/10/24/nakshabid-architects-project-roundup/",
+  "original_title": "Seven projects by RIBA award-winning Nakshabid Architects",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 5538,
+  "fetch": "ok",
+  "cliche_hits": [
+   "경계를 허"
+  ],
+  "read_at": "2026-10-24 21:34",
+  "research": {
+   "entities": [
+    "Nakshabid Architects",
+    "Bayejid Khondoker",
+    "Royal Institute of British Architects",
+    "Green Field Factory",
+    "Bangladesh Military Museum"
+   ],
+   "questions": [
+    "낙샤비드 아키텍츠(Nakshabid Architects)가 설계한 Green Field Factory가 RIBA 국제상을 수상하게 된 핵심적인 친환경 디자인 요소는 무엇인가?",
+    "방글라데시의 사회적·생태적 맥락이 이들의 건축 프로젝트(예: 아만 모스크, 샤프탁 인시그니아 등)에 어떻게 반영되어 있는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Home",
+     "url": "https://nakshabid.com/"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Royal Institute of British Architects",
+     "url": "https://en.wikipedia.org/wiki/Royal%20Institute%20of%20British%20Architects"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "영국 왕립 건축가 협회, 전 회장과의 법적 분쟁 종결에 합의금 지급",
+     "url": "https://www.dezeen.com/2026/09/30/riba-alan-jones-legal-dispute/"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "경사지와 주차장 터를 살린 고밀도 주거, RIBA 斯特林상 수상",
+     "url": "https://www.archdaily.com/1186944/lion-green-road-by-mary-duggan-architects-and-ruffarchitects-wins-riba-stirling-prize-2026"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "지형과 풍경을 최우선에 둔 주거단지, 2026 RIBA 스털링 상 수상",
+     "url": "https://www.wallpaper.com/architecture/riba-stirling-prize-2026-winner"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 4392
+  },
+  "depth_raw": 4,
+  "depth_v": 2
  }
 }
