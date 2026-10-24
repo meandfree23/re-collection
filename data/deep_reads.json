@@ -214419,5 +214419,67 @@
   },
   "depth_raw": 3,
   "depth_v": 2
+ },
+ "archdaily.com/1019867/colien-house-alvaro-siza-vieira-plus-alvaro-fonseca": {
+  "title_ko": "알바루 시자가 바르셀로나 경사지에 세운 간결한 볼륨, 콜리엔 하우스",
+  "summary_ko": "건축가 알바루 시자 비에이라가 스페인 바르셀로나에 설계한 콜리엔 하우스가 완성되었다. 진입 도로와의 높낮이 차이를 고려하고 지형과 식생을 최소한으로 건드리는 방식을 택했다. 컴팩트한 볼륨이 지형의 경사를 따라 계단식으로 내려앉는 구조를 취한다.",
+  "lens": "지형의 낙차를 거스르지 않고 볼륨을 계단식으로 밀어 넣어 대지와 결합한다.",
+  "why_now": "대지 조형을 최소화하면서 경사지 주거의 해답을 찾고자 하는 흐름 속에서 완공되었다.",
+  "mechanism": "진입 도로와 대지의 경사 관계를 바탕으로 필수적인 요소만 남기고 볼륨을 분할하여 지형을 따라 내려가도록 배치했다.",
+  "sensory": "주변 식생과 대지의 지형이 건물 표면과 맞닿으며 거친 콘크리트와 자연 지형의 대비를 이룬다.",
+  "transfer": "경사지 공간을 연출할 때 볼륨을 한 번에 올리지 않고 지형 단차를 따라 계단식으로 분할해 시선의 깊이를 만든다.",
+  "context": "포르츠칼의 건축가 알바루 시자 비에이라(Álvaro Siza Vieira)가 설계한 주거 프로젝트다.",
+  "findings": [
+   {
+    "text": "알바루 시자 비에이라는 포르투갈의 건축가이자 건축 교육자이다.",
+    "s": 1,
+    "quote": "Álvaro Joaquim de Melo Siza Vieira (born 25 June 1933) is a Portuguese architect, and architectural educator."
+   }
+  ],
+  "keywords": [
+   "알바루시자",
+   "경사지건축",
+   "바르셀로나주택",
+   "건축설계"
+  ],
+  "evidence": "The slope related to the access street and the willingness to act just on the essentials, regarding the topography and site vegetation, guided the program organization of Colien House into a compact volume that staged descends the terrain slope.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "알바루 시자의 완공 프로젝트에 대한 기본 정보와 배치 원칙이 확인되나 상세 도면이나 내부 공간 설명이 부족하다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1019867/colien-house-alvaro-siza-vieira-plus-alvaro-fonseca",
+  "original_title": "Colien House / Álvaro Siza Vieira",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 1377,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-24 10:31",
+  "research": {
+   "entities": [
+    "Álvaro Siza Vieira",
+    "Colien House",
+    "Aresta",
+    "GOP"
+   ],
+   "questions": [
+    "알바루 시자 비에이라가 경사지 지형을 활용하여 주거 공간을 구성하는 방식은 무엇인가요?",
+    "Colien House의 설계 과정에서 지형과 식생을 보존하기 위해 어떤 건축적 전략이 사용되었나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Álvaro Siza Vieira",
+     "url": "https://en.wikipedia.org/wiki/%C3%81lvaro%20Siza%20Vieira"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 257
+  },
+  "depth_raw": 3,
+  "depth_v": 2
  }
 }
