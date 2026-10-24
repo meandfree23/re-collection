@@ -215138,5 +215138,233 @@
   },
   "depth_raw": 3,
   "depth_v": 2
+ },
+ "design-milk.com/napa-bistro-charlotte-fictionworks": {
+  "title_ko": "나파 밸리의 온기와 파리의 서사, 샬럿의 나파 비스트로",
+  "summary_ko": "노스캐롤라이나주 샬럿에 위치한 나파 비스트로 앤 와인 바 스톤크레스트는 픽션웍스(FictionWorks)의 설계로 1976년 파리 와인 테이스팅의 역사적 사건을 공간화했다. 기존 타코 레스토랑의 평면적인 구조를 6,500평방피트 규모의 다층적인 공간으로 재편하며 나파 밸리의 포도밭과 파리 비스트로의 미학을 결합했다.",
+  "lens": "역사적 사건의 서사를 공간의 레이어와 재료로 치환하여, 단순한 식당을 넘어 브랜드의 정체성을 물리적 경험으로 구축했다.",
+  "why_now": "상업 공간이 단순한 기능적 배치를 넘어 브랜드의 고유한 이야기와 맥락을 담아내는 서사적 건축의 중요성이 커지고 있다.",
+  "mechanism": "바스바 어쿠스틱스(Baswa Acoustics) 시스템을 적용한 곡선형 볼트 천장으로 공간의 리듬감을 만들고, 예산의 우선순위를 스테인드글라스와 조명 등 핵심 요소에 집중해 공간의 밀도를 높였다.",
+  "sensory": "깊은 녹색과 호박색, 청동색이 어우러진 색채가 숙성된 와인의 풍미를 시각화하며, 낡은 가죽 가구와 핸드 블로운 유리 장식은 촉각적 안락함을 제공한다.",
+  "transfer": "기존의 평면적인 오픈 플랜 구조를 가벽과 조명 연출로 나누어, 고객의 동선에 따라 변화하는 심리적 거리감과 시각적 밀도를 콘티에 반영할 수 있다.",
+  "context": "인 시투 스튜디오(In Situ Studio)가 건축을 담당했으며, 픽션웍스는 뉴욕과 마이애미 등지에서 환대 산업 공간을 전문으로 다뤄온 디자인 스튜디오다. 이번 프로젝트는 기존 구조의 한계를 극복하기 위해 9개월 미만의 짧은 기간 동안 전략적인 예산 운용과 디자인 위계 설정에 집중했다.",
+  "findings": [
+   {
+    "text": "픽션웍스는 환대 산업 분야의 전문성을 바탕으로 호텔, 레스토랑, 주거 공간을 설계하는 부티크 디자인 스튜디오다.",
+    "s": 1,
+    "quote": "FictionWorks is a boutique design studio rooted in hospitality expertise. Founded by Andreas De Camps and Olivia King, the studio creates storied spaces within hotels, restaurants, residential development, and select pri"
+   }
+  ],
+  "keywords": [
+   "상업공간",
+   "공간브랜딩",
+   "픽션웍스",
+   "서사적건축"
+  ],
+  "evidence": "The restaurant draws from this spirit of transformation, not to recreate history, but to honor and reimagine it.",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "기존 공간의 한계를 극복한 전략적 디자인 위계와 역사적 서사를 공간적 장치로 치환한 구체적인 방법론이 명확하다.",
+  "v": 2,
+  "url": "https://design-milk.com/napa-bistro-charlotte-fictionworks/",
+  "original_title": "Napa Valley Meets Paris in This Charlotte Bistro by FictionWorks",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 5736,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-25 01:46",
+  "research": {
+   "entities": [
+    "FictionWorks",
+    "In Situ Studio",
+    "Baswa Acoustics",
+    "Napa Bistro and Wine Bar Stonecrest"
+   ],
+   "questions": [
+    "1976년 파리 와인 테이스팅(Judgment of Paris)이 인테리어 디자인의 서사적 영감으로 어떻게 활용되었는가?",
+    "기존의 평면적인 상업 공간을 다층적인 분위기의 레스토랑으로 변모시키기 위해 FictionWorks가 선택한 핵심 디자인 전략은 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "FictionWorks | Hospitality Design Studio",
+     "url": "https://www.fiction-works.com/"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Napa Bistro & Wine Bar Stonecrest | Napa Restaurants",
+     "url": "https://www.naparestaurantgroup.com/stonecrest"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 1665
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "archdaily.com/1186828/field-shelter-in-nara": {
+  "title_ko": "일본 나라의 농경지를 가로지르는 목조 쉼터의 구조",
+  "summary_ko": "스튜디오 아미티지(Studio Armitage)가 스페이스 데파트먼트(Space Department)와 협력하여 일본 나라현 아마가츠지의 논밭 사이에 쉼터를 설계했다. 이 구조물은 주변 농경지에서 일하는 이들이 날씨를 피하고 휴식을 취할 수 있는 공간을 제공한다. 목재 골조를 바탕으로 주변 농경지 환경과 조화를 이룬다.",
+  "lens": "논밭 사이에 세워진 목조 골조가 농경지의 풍경과 물리적으로 어떻게 결합하는지 보여준다.",
+  "why_now": "도심 속 대형 건축이 아닌 농경지 소규모 공공 건축을 통해 지역 커뮤니티와 노동을 지원하는 방식을 환기한다.",
+  "mechanism": "주변의 논과 분양지 사이에 배치되어 작업자들이 바람과 비를 피할 수 있도록 단순하고 개방된 목재 구조로 건물을 지었다.",
+  "sensory": "주변에 펼쳐진 논과 밭의 풍경 속에서 목재의 질감이 그대로 드러나며 자연광과 바람이 거침없이 통과한다.",
+  "transfer": "야외 로케이션이나 농촌 배경의 씬에서 자연물을 배경으로 한 소규모 목조 구조물과 인물의 동선을 짜는 참고 자료로 활용한다.",
+  "context": "스튜디오 아미티지가 일본 나라 지역의 농경지에서 작업한 목조 파빌리온 프로젝트다.",
+  "findings": [
+   {
+    "text": "스튜디오 아미티지가 일본 나라 지역의 농경지에서 일하는 이들을 위한 목조 파빌리온을 설계했다.",
+    "s": 2,
+    "quote": "스튜디오 아미티지(Studio Armitage)가 일본 나라 지역의 농경지에서 일하는 이들을 위한 목조 파빌리온을 설계했다."
+   }
+  ],
+  "keywords": [
+   "목조 파빌리온",
+   "스튜디오 아미티지",
+   "농경지 쉼터",
+   "공공 건축"
+  ],
+  "evidence": "Field Shelter sits among the allotments and rice fields of Amagatsuji in Nara, Japan. Designed and built by Studio Armitage in collaboration with Space Department, it provides a place for people working on the surrounding plots to sit, rest, and shelter from the weather.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "농경지 속 소규모 목조 쉼터라는 구체적 프로젝트이나 정보가 간략하다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1186828/field-shelter-in-nara",
+  "original_title": "Field Shelter in Nara / Studio Armitage",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 940,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-25 01:46",
+  "research": {
+   "entities": [
+    "Studio Armitage",
+    "Space Department",
+    "Field Shelter in Nara"
+   ],
+   "questions": [
+    "Studio Armitage가 추구하는 건축적 철학이나 지속 가능성에 대한 접근 방식은 무엇인가요?",
+    "아마가츠지 지역의 농경지 환경이 이 쉼터의 설계와 재료 선택에 어떤 영향을 미쳤나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Richard Armitage (actor)",
+     "url": "https://en.wikipedia.org/wiki/Richard%20Armitage%20%28actor%29"
+    },
+    {
+     "n": 2,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "일본 나라의 농경지를 지탱하는 스튜디오 아미티지의 목조 쉼터",
+     "url": "https://www.dezeen.com/2026/10/03/studio-armitage-field-shelter/"
+    }
+   ],
+   "used": [
+    2
+   ],
+   "chars": 1632
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "archdaily.com/1187184/camposoto-health-center-estudio-suarez-corchete": {
+  "title_ko": "스페인 주거 블록 속 공공 보건 시설, 캄포소토 헬스 센터",
+  "summary_ko": "스페인 산페르난도에 완공된 2167제곱미터 규모의 캄포소토 헬스 센터는 다세대 주택과 단독주택이 혼재된 도시 확장 지역의 공공 시설 블록에 자리 잡았다. 에스투디오 수아레스 코르체테가 설계를 맡았으며 페르난도 알다가 사진을 촬영했다.",
+  "lens": "도시의 거친 확장 속에서 공공 시설 블록이 주거 환경과 결합하는 방식.",
+  "why_now": "도심 확장 구역에서 주거지와 공공 시설이 물리적으로 맞닿는 지점의 건축적 해법을 보여준다.",
+  "mechanism": "공공 시설용 블록 내부의 대지를 활용해 다세대 주택과 단독주택이 혼재된 주변 환경과 매스 시각적 균형을 맞춘다.",
+  "sensory": "주거 블록 사이에서 드러나는 간결하고 정돈된 매스와 주변 건물의 스카이라인이 만드는 대비.",
+  "transfer": "단순한 매스 배치 속에서 주변 주거 환경과의 밀도를 맞추는 공간 분할 샷으로 활용한다.",
+  "context": "에스투디오 수아레스 코르체테가 스페인 산페르난도에 완공한 프로젝트다.",
+  "findings": [],
+  "keywords": [
+   "헬스센터",
+   "공공건축",
+   "스페인건축"
+  ],
+  "evidence": "Completed in 2026 in San Fernando, Spain. Images by Fernando Alda.",
+  "kind": "프로젝트",
+  "depth": 2,
+  "grounding": "thin",
+  "depth_reason": "원문 본문의 설명이 매우 제한적이고 데이터 중심이라 깊이 있는 해석을 전개하기 어렵다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1187184/camposoto-health-center-estudio-suarez-corchete",
+  "original_title": "\"Camposoto\" Health Center / Estudio Suárez Corchete",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 1209,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-25 01:46",
+  "research": {
+   "entities": [
+    "Estudio Suárez Corchete",
+    "Fernando Suárez Corchete",
+    "Fernando Alda"
+   ],
+   "questions": [
+    "Camposoto 헬스 센터의 건축적 설계가 주변 주거 환경과 어떻게 조화를 이루고 있나요?",
+    "이 의료 시설이 지속 가능성을 확보하기 위해 적용한 구체적인 건축 전략은 무엇인가요?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 2,
+  "depth_v": 2
+ },
+ "minimalissimo.com/articles/rondo-mirror": {
+  "title_ko": "오스카르 지엥타의 론도 미러: 금속을 팽창시켜 조각이 된 반사체",
+  "summary_ko": "오스카르 지엥타(Oskar Zięta)가 디자인한 론도(RONDO)는 지름 200cm에 달하는 원형 거울이다. 피두(FiDU) 기술로 금속 내부의 압력을 조절해 성형했다. 단순한 벽면 장식을 넘어 공간의 빛과 움직임을 왜곡하며 조각적 존재감을 드러낸다.",
+  "lens": "평면 거울을 압력으로 부풀려 볼륨을 확보함으로써, 반사체라는 기능을 넘어 공간을 왜곡하는 거대한 조각으로 전환했다.",
+  "why_now": "디지털 보정으로 매끈한 표면을 만드는 시대에, 물리적 압력으로 금속의 성질을 변형해 얻은 비정형의 볼륨이 역설적인 생동감을 준다.",
+  "mechanism": "피두(FiDU) 기술을 이용해 금속판 내부를 공기압으로 팽창시켜 성형한다. 이 과정에서 금속은 액체처럼 휘어지며 빛과 주변 공간을 왜곡하는 볼록한 곡면을 형성한다.",
+  "sensory": "스테인리스 스틸의 차가운 금속성과 액체처럼 일렁이는 표면이 대비된다. 빛이 굴절되는 곡면은 시시각각 변하며 주변의 건축적 스케일을 거울 안으로 끌어들인다.",
+  "transfer": "공간 연출 시 거울을 벽에 붙이지 않고 띄워 설치해, 굴절된 반사상이 벽면의 빛과 섞이도록 배치한다. 영상 촬영 시에는 이 볼록한 곡면을 피사체 뒤에 두어 배경을 왜곡하는 렌즈처럼 활용한다.",
+  "context": "오스카르 지엥타는 금속 성형 기술인 피두(FiDU)를 기반으로 가구와 조형물을 제작하며, 금속의 물리적 한계를 탐구하는 작업을 이어오고 있다.",
+  "findings": [],
+  "keywords": [
+   "오스카르지엥타",
+   "론도미러",
+   "피두기술",
+   "금속조형",
+   "반사표면"
+  ],
+  "evidence": "Produced through Zięta’s FiDU technology, which uses internal pressure to shape metal, RONDO takes on a volume that feels closer to sculpture than conventional wall decoration.",
+  "kind": "제품·오브제",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "기술의 원리와 결과물인 오브제의 조형적 특성은 명확하나, 작가의 포트폴리오 맥락이 제한적이다.",
+  "v": 2,
+  "url": "https://minimalissimo.com/articles/rondo-mirror",
+  "original_title": "Rondo Mirror",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 902,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-25 01:46",
+  "research": {
+   "entities": [
+    "Oskar Zięta",
+    "RONDO",
+    "FiDU"
+   ],
+   "questions": [
+    "FiDU 기술은 금속을 성형할 때 구체적으로 어떤 원리로 내부 압력을 이용하는가?",
+    "Oskar Zięta의 다른 대형 거울 및 메탈 조형물 작업에는 어떤 것들이 있는가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
  }
 }

@@ -2558,5 +2558,44 @@
   "v": 3,
   "model": "gemini-3.5-flash-lite",
   "written_at": "2026-10-24 09:27"
+ },
+ "2026-10-25": {
+  "date": "2026-10-25",
+  "headline": "부풀어 오른 금속 거울과 논밭을 가로지르는 목조 뼈대",
+  "editorial": "오스카르 지엥타의 론도 미러는 금속을 팽창시켜 평면 너머의 왜곡된 입체를 드러낸다. 이는 논밭 사이에 놓인 목조 쉼터가 농경지의 빈틈을 구조물로 채우는 방식과 닮았다. 샬럿의 나파 비스트로 역시 역사를 물리적 재료로 치환하여 머무는 이에게 특정 장면을 경험하게 한다. 사물이 공간을 점유하고 변화시키는 방식에 집중한 결과물들을 모았다.",
+  "threads": [
+   {
+    "name": "재료가 만드는 굴곡",
+    "note": "금속과 나무라는 서로 다른 재료가 압력과 구조를 통해 평면을 입체로 변환하는 과정을 살핀다.",
+    "items": [
+     {
+      "title": "일본 나라의 농경지를 가로지르는 목조 쉼터의 구조",
+      "url": "https://www.archdaily.com/1186828/field-shelter-in-nara"
+     },
+     {
+      "title": "오스카르 지엥타의 론도 미러: 금속을 팽창시켜 조각이 된 반사체",
+      "url": "https://minimalissimo.com/articles/rondo-mirror"
+     }
+    ]
+   },
+   {
+    "name": "환경을 잇는 구조물",
+    "note": "농경지와 비스트로라는 서로 다른 배경 속에서 건축이 어떻게 주변과 결합하는지 보여준다.",
+    "items": [
+     {
+      "title": "나파 밸리의 온기와 파리의 서사, 샬럿의 나파 비스트로",
+      "url": "https://design-milk.com/napa-bistro-charlotte-fictionworks/"
+     },
+     {
+      "title": "일본 나라의 농경지를 가로지르는 목조 쉼터의 구조",
+      "url": "https://www.archdaily.com/1186828/field-shelter-in-nara"
+     }
+    ]
+   }
+  ],
+  "based_on": 4,
+  "v": 3,
+  "model": "gemini-3.1-flash-lite",
+  "written_at": "2026-10-25 01:46"
  }
 }

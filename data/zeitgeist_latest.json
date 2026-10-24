@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-10-24 21:58 KST",
-  "period": "2026.10.17 - 2026.10.24",
-  "total_articles": 428,
+  "generated_at": "2026-10-25 01:46 KST",
+  "period": "2026.10.18 - 2026.10.25",
+  "total_articles": 409,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 203
+      "count": 192
     },
     {
       "genre": "동시대 미술",
-      "count": 167
+      "count": 159
     },
     {
       "genre": "아방가르드 패션",
@@ -23,8 +23,8 @@
   "themes": [
     {
       "keyword": "박물관·전시",
-      "count": 42,
-      "previous_count": 33,
+      "count": 41,
+      "previous_count": 32,
       "trend": "rising",
       "items": [
         {
@@ -86,38 +86,6 @@
       ]
     },
     {
-      "keyword": "미니멀리즘",
-      "count": 8,
-      "previous_count": 3,
-      "trend": "rising",
-      "items": [
-        {
-          "title": "Télégraphe",
-          "url": "https://leibal.com/interiors/telegraphe/",
-          "image_url": "https://leibal.com/wp-content/uploads/2026/10/leibal_telegraphe_bureau-invisible_06.jpg",
-          "source_name": "Leibal"
-        },
-        {
-          "title": "카사 카스텔라르 바이 솔라",
-          "url": "https://minimalissimo.com/articles/casa-castelar-by-solar",
-          "image_url": "https://minimalissimo.com/api/media/file/casa-castelar-by-solar-gallery-3-v20261022-1200x630.jpg",
-          "source_name": "Minimalissimo"
-        },
-        {
-          "title": "Everything Moist Seems Alive 설치의 \"Hydrofeminism\" 및 새는 성도 기능",
-          "url": "https://www.dezeen.com/2026/10/22/hydrofeminism-everything-moist-seems-alive-installation/",
-          "image_url": "https://static-2026.dezeen.com/uploads/2026/10/everything-moist-seems-alive-maison-the-faux-boris-acket-dutch-design-week_dezeen_1704_sq-1024x1024.jpg",
-          "source_name": "Dezeen"
-        },
-        {
-          "title": "불가리 호텔 앤 리조트의 카르미나티 리프트 앤 슬라이드 창문 프레임 두바이 스카이라인",
-          "url": "https://www.dezeen.com/2026/10/22/carminati-lift-slide-windows-frame-dubai-skyline-bvlgari-hotel-resort/",
-          "image_url": "https://static-2026.dezeen.com/uploads/2026/10/SQ_dezeen_1704_col_0-1024x1024.jpg",
-          "source_name": "Dezeen"
-        }
-      ]
-    },
-    {
       "keyword": "해변·리조트 건축",
       "count": 7,
       "previous_count": 4,
@@ -150,40 +118,72 @@
       ]
     },
     {
-      "keyword": "목재 건축",
-      "count": 10,
-      "previous_count": 10,
+      "keyword": "레스토랑·호스피탈리티",
+      "count": 6,
+      "previous_count": 6,
       "trend": "steady",
       "items": [
+        {
+          "title": "FictionWorks의 이 샬롯 비스트로에서 나파 밸리와 파리의 만남",
+          "url": "https://design-milk.com/napa-bistro-charlotte-fictionworks/",
+          "image_url": "https://design-milk.com/images/2026/10/Napa-Charlotte-Napa-Bistro0679-Edit-e1792698823198-1500x1000.jpeg",
+          "source_name": "Design Milk"
+        },
+        {
+          "title": "Blu Pizzeria Jeddah / movs studio",
+          "url": "https://www.archdaily.com/1187269/blu-pizzeria-jeddah-movs-studio",
+          "image_url": "https://images.adsttc.com/media/images/6ad8/b475/3271/8400/01d0/d862/large_jpg/_MOVS_BLU_cover.jpg?1792586895",
+          "source_name": "ArchDaily"
+        },
+        {
+          "title": "Węzeł Cieplny: 그단스크의 레스토랑으로서 새로운 따뜻함을 찾는 전 난방 변전소",
+          "url": "https://www.yatzer.com/wezel-cieplny-con-s-gdansk-poland",
+          "image_url": "https://media.yatzer.com/c-Wezel-Cieplny-Gdansk-CON-S-photo-Moodauthors-yatzer-1400x864.jpg",
+          "source_name": "Yatzer"
+        },
+        {
+          "title": "스네글",
+          "url": "https://leibal.com/lighting/snegl/",
+          "image_url": "https://leibal.com/wp-content/uploads/2026/09/leibal-snegl-russo-betak-2.jpg",
+          "source_name": "Leibal"
+        }
+      ]
+    },
+    {
+      "keyword": "미니멀리즘",
+      "count": 6,
+      "previous_count": 5,
+      "trend": "steady",
+      "items": [
+        {
+          "title": "Télégraphe",
+          "url": "https://leibal.com/interiors/telegraphe/",
+          "image_url": "https://leibal.com/wp-content/uploads/2026/10/leibal_telegraphe_bureau-invisible_06.jpg",
+          "source_name": "Leibal"
+        },
+        {
+          "title": "카사 카스텔라르 바이 솔라",
+          "url": "https://minimalissimo.com/articles/casa-castelar-by-solar",
+          "image_url": "https://minimalissimo.com/api/media/file/casa-castelar-by-solar-gallery-3-v20261022-1200x630.jpg",
+          "source_name": "Minimalissimo"
+        },
+        {
+          "title": "Everything Moist Seems Alive 설치의 \"Hydrofeminism\" 및 새는 성도 기능",
+          "url": "https://www.dezeen.com/2026/10/22/hydrofeminism-everything-moist-seems-alive-installation/",
+          "image_url": "https://static-2026.dezeen.com/uploads/2026/10/everything-moist-seems-alive-maison-the-faux-boris-acket-dutch-design-week_dezeen_1704_sq-1024x1024.jpg",
+          "source_name": "Dezeen"
+        },
         {
           "title": "불가리 호텔 앤 리조트의 카르미나티 리프트 앤 슬라이드 창문 프레임 두바이 스카이라인",
           "url": "https://www.dezeen.com/2026/10/22/carminati-lift-slide-windows-frame-dubai-skyline-bvlgari-hotel-resort/",
           "image_url": "https://static-2026.dezeen.com/uploads/2026/10/SQ_dezeen_1704_col_0-1024x1024.jpg",
           "source_name": "Dezeen"
-        },
-        {
-          "title": "Dosorozco는 멕시코 숲의 질감 있는 집에 돌과 검게 칠한 목재를 사용합니다.",
-          "url": "https://www.dezeen.com/2026/10/21/dosorozco-casa-sima/",
-          "image_url": "https://static-2026.dezeen.com/uploads/2026/10/casa-sima-dosorozco-mexico-houses-residential-architecture_dezeen_2364_sq-1024x1024.jpg",
-          "source_name": "Dezeen"
-        },
-        {
-          "title": "브라질에 있는 이 수변 주택의 규모와 드라마를 감추는 단순한 목재 봉투",
-          "url": "https://www.wallpaper.com/architecture/residential/a-simple-timber-envelope-conceals-the-scale-and-drama-of-this-waterfront-house-in-brazil",
-          "image_url": "https://cdn.mos.cms.futurecdn.net/5nsCp8mhExDt9Puv2hTXEC-1920-80.jpg",
-          "source_name": "Wallpaper*"
-        },
-        {
-          "title": "에스피가 하우스/그루포 프리미티보",
-          "url": "https://www.archdaily.com/1187171/espiga-house-grupo-primitivo",
-          "image_url": "https://images.adsttc.com/media/images/6ad5/f6fc/aadf/a000/01e3/ae86/large_jpg/DSC02082.jpg?1792407356",
-          "source_name": "ArchDaily"
         }
       ]
     },
     {
       "keyword": "콘크리트 물성",
-      "count": 7,
+      "count": 6,
       "previous_count": 7,
       "trend": "steady",
       "items": [
