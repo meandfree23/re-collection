@@ -2514,12 +2514,12 @@
  },
  "2026-10-24": {
   "date": "2026-10-24",
-  "headline": "로스앤젤레스의 거대한 벽화와 우주의 시공간을 접어 올린 캔버스",
-  "editorial": "주디 바카가 시민의 목소리로 확장한 로스앤젤레스의 벽화는 폴 페게르셸드가 캔버스 위에 펼친 우주의 시공간과 맞닿는다. 그레이스 장은 금융 시장의 차트를 오트 쿠튀르의 패턴으로 엮어내며, 김수빈은 추상적인 철학의 심신 문제를 동화책의 스크롤로 직관화한다. 이들은 고정된 평면을 넘어 각기 다른 질서와 구조를 하나의 화면 위에 정렬한다.",
+  "headline": "캔버스 위로 접힌 우주의 시공간과 핑크 천장의 타운하우스",
+  "editorial": "폴 페게르셸드의 에르고스피어는 3차원의 방대한 우주를 2차원 캔버스로 압축해 지각적 경계를 무너뜨린다. 런던 타운하우스의 핑크 천장은 모더니즘의 건조함과 패브릭의 포근함을 교차하며 공간의 이견을 조율한다. 에마누엘라 레키치의 회화는 종이 극장을 통해 정돈된 공간 이면의 긴장감을 증명한다. 이처럼 평면과 입체를 오가는 구조적 시도는 일상과 우주의 경계에서 새로운 질서를 구축한다.",
   "threads": [
    {
-    "name": "평면을 넘는 구조",
-    "note": "우주의 시공간과 금융 데이터, 철학적 개념을 평면 위로 끌어들여 시각화한다.",
+    "name": "평면과 입체의 구조",
+    "note": "우주의 시공간과 금융 데이터, 회화적 패턴을 하나의 평면 위로 정렬하는 기하학적 시도다.",
     "items": [
      {
       "title": "폴 페게르셸드의 에르고스피어: 캔버스 위로 접어 올린 우주의 시공간",
@@ -2530,29 +2530,33 @@
       "url": "https://design-milk.com/friday-five-grace-zhang-artist/"
      },
      {
-      "title": "철학의 심신 문제와 동화책의 물성을 결합한 애니메이션",
-      "url": "https://www.stashmedia.tv/mind-body-get-it-together-in-kim-soobins-new-short-film/"
+      "title": "에마누엘라 레키치의 회화, 종이 극장으로 구축한 안식처의 이면",
+      "url": "https://www.booooooom.com/2026/10/23/marvelous-problems-by-artist-emanuela-lekic/"
      }
     ]
    },
    {
-    "name": "도시와 거리의 형태",
-    "note": "로스앤젤레스의 벽화와 아프리카의 거리를 무대 삼아 일상의 역동성을 포착한다.",
+    "name": "공간의 조율과 동선",
+    "note": "건축적 골격과 평면의 위계를 뒤집어 거주자와 방문객의 심리적 밀도를 조율한다.",
     "items": [
      {
-      "title": "주디 바카, 로스앤젤레스의 거대한 벽화를 1960년대로 확장하다",
-      "url": "https://hyperallergic.com/skirball-cultural-center-presents-the-1960s-a-generation-on-fire-judy-bacas-great-wall-of-los-angeles/"
+      "title": "빌바오 바스크 박물관, 17세기 예수회 대학의 현대적 재생",
+      "url": "https://www.archdaily.com/1187258/basque-museum-bilbao-vaillo-plus-architects"
      },
      {
-      "title": "33인의 시선으로 포착한 아프리카의 거리, ‘스트리트 포토그래피 아프리카’",
-      "url": "https://www.thisiscolossal.com/2026/10/street-photography-africa-book/"
+      "title": "에스투디오 세미브레브: 거주 논리를 뒤집은 55제곱미터의 역전된 동선",
+      "url": "https://www.archdaily.com/1187236/estudio-semibreve-estudio-clara-nahas"
+     },
+     {
+      "title": "취향의 타협점, 런던 타운하우스의 핑크 천장",
+      "url": "https://www.architecturaldigest.com/story/london-town-house-leonora-hamill"
      }
     ]
    }
   ],
-  "based_on": 13,
+  "based_on": 24,
   "v": 3,
   "model": "gemini-3.5-flash-lite",
-  "written_at": "2026-10-24 02:56"
+  "written_at": "2026-10-24 09:27"
  }
 }

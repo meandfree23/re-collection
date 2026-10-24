@@ -1,32 +1,38 @@
 {
-  "generated_at": "2026-10-24 02:53 KST",
+  "generated_at": "2026-10-24 09:25 KST",
   "period": "2026.10.17 - 2026.10.24",
-  "total_articles": 399,
+  "total_articles": 418,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 188
+      "count": 198
     },
     {
       "genre": "동시대 미술",
-      "count": 155
+      "count": 162
     },
     {
       "genre": "아방가르드 패션",
-      "count": 41
+      "count": 42
     },
     {
       "genre": "미디어 파사드·3D",
-      "count": 15
+      "count": 16
     }
   ],
   "themes": [
     {
       "keyword": "박물관·전시",
-      "count": 41,
+      "count": 42,
       "previous_count": 33,
       "trend": "rising",
       "items": [
+        {
+          "title": "빌바오 바스크 박물관/베일로 + 건축가",
+          "url": "https://www.archdaily.com/1187258/basque-museum-bilbao-vaillo-plus-architects",
+          "image_url": "https://images.adsttc.com/media/images/6ad8/93dc/20d6/d801/8852/00db/large_jpg/basque-museum-bilbao-vaillo-plus-architects_5.jpg?1792578535",
+          "source_name": "ArchDaily"
+        },
         {
           "title": "오 르부아르, 아트 바젤 파리",
           "url": "https://hyperallergic.com/au-revoir-art-basel-paris/",
@@ -44,12 +50,38 @@
           "url": "https://www.archdaily.com/1187409/chybik-plus-kristof-turns-aedes-into-a-live-architecture-studio-to-develop-four-berlin-projects",
           "image_url": "https://images.adsttc.com/media/images/6adb/28b4/db5c/2001/882c/fd5b/large_jpg/chybik-plus-kristof-turns-aedes-into-a-live-architecture-studio-to-develop-four-berlin-projects_6.jpg?1792747794",
           "source_name": "ArchDaily"
+        }
+      ]
+    },
+    {
+      "keyword": "빛과 조명",
+      "count": 9,
+      "previous_count": 7,
+      "trend": "rising",
+      "items": [
+        {
+          "title": "2026년 네덜란드 디자인 주간 하이라이트: '아인트호벤은 배경이 아니라 공동 큐레이터입니다'",
+          "url": "https://www.wallpaper.com/design-interiors/design-events/dutch-design-week-2026",
+          "image_url": "https://cdn.mos.cms.futurecdn.net/o5RDw47Joej3n2znsVe24L-1920-80.jpg",
+          "source_name": "Wallpaper*"
         },
         {
-          "title": "Mecanoo, 로테르담의 Boijmans Van Beuningen 리노베이션 박물관의 새로운 이미지 공개",
-          "url": "https://www.archdaily.com/1187399/mecanoo-releases-new-images-of-the-museum-boijmans-van-beuningen-renovation-in-rotterdam",
-          "image_url": "https://images.adsttc.com/media/images/6ada/4ae7/20d6/d80c/d572/ccb1/large_jpg/mecanoo-releases-new-images-of-the-museum-boijmans-van-beuningen-renovation-in-rotterdam_1.jpg?1792690967",
-          "source_name": "ArchDaily"
+          "title": "제5막: 아프사네에서 페르시아 신화를 탐구하는 장치",
+          "url": "https://design-milk.com/apparatus-act-v-afsaneh-collection/",
+          "image_url": "https://design-milk.com/images/2026/10/APPARATUS_ACTV_ENV_002-1500x958.jpg",
+          "source_name": "Design Milk"
+        },
+        {
+          "title": "평범한 사람들이 강력하고 새로운 단편 영화에서 \"거리\" 를 간다.",
+          "url": "https://www.stashmedia.tv/ordinary-folk-goes-the-distance-in-powerful-new-short-film/",
+          "image_url": "http://www.stashmedia.tv/wp-content/uploads/Distance-Short-Film-by-Ordinary-Folk-STASH-MAGAZINE5.jpg",
+          "source_name": "Stash Media"
+        },
+        {
+          "title": "이 새로운 전시회는 펑크 음악에 숨겨진 여성의 역사를 조명합니다.",
+          "url": "https://www.dazeddigital.com/music/article/71198/1/new-exhibition-up-yours-history-women-punk-museum-of-youth-culture-camden?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=this-new-exhibition-spotlights-the-hidden-history-of-women-in-punk-music",
+          "image_url": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/7/1457901.jpg",
+          "source_name": "Dazed"
         }
       ]
     },
@@ -146,38 +178,6 @@
           "url": "https://www.archdaily.com/1187171/espiga-house-grupo-primitivo",
           "image_url": "https://images.adsttc.com/media/images/6ad5/f6fc/aadf/a000/01e3/ae86/large_jpg/DSC02082.jpg?1792407356",
           "source_name": "ArchDaily"
-        }
-      ]
-    },
-    {
-      "keyword": "빛과 조명",
-      "count": 8,
-      "previous_count": 7,
-      "trend": "steady",
-      "items": [
-        {
-          "title": "제5막: 아프사네에서 페르시아 신화를 탐구하는 장치",
-          "url": "https://design-milk.com/apparatus-act-v-afsaneh-collection/",
-          "image_url": "https://design-milk.com/images/2026/10/APPARATUS_ACTV_ENV_002-1500x958.jpg",
-          "source_name": "Design Milk"
-        },
-        {
-          "title": "평범한 사람들이 강력하고 새로운 단편 영화에서 \"거리\" 를 간다.",
-          "url": "https://www.stashmedia.tv/ordinary-folk-goes-the-distance-in-powerful-new-short-film/",
-          "image_url": "http://www.stashmedia.tv/wp-content/uploads/Distance-Short-Film-by-Ordinary-Folk-STASH-MAGAZINE5.jpg",
-          "source_name": "Stash Media"
-        },
-        {
-          "title": "이 새로운 전시회는 펑크 음악에 숨겨진 여성의 역사를 조명합니다.",
-          "url": "https://www.dazeddigital.com/music/article/71198/1/new-exhibition-up-yours-history-women-punk-museum-of-youth-culture-camden?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=this-new-exhibition-spotlights-the-hidden-history-of-women-in-punk-music",
-          "image_url": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/7/1457901.jpg",
-          "source_name": "Dazed"
-        },
-        {
-          "title": "마르셀",
-          "url": "https://leibal.com/lighting/marcelle/",
-          "image_url": "https://leibal.com/wp-content/uploads/2026/10/leibal-marcelle-clement-pasquier-2.jpg",
-          "source_name": "Leibal"
         }
       ]
     },
