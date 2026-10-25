@@ -2561,16 +2561,16 @@
  },
  "2026-10-25": {
   "date": "2026-10-25",
-  "headline": "모노스 본사의 푹신한 카펫과 1917년 농가의 거친 돌벽",
-  "editorial": "모노스 밴쿠버 본사는 업무 공간에 거주지의 온기를 들여보내 딱딱했던 사무실의 문턱을 낮춘다. 이처럼 기존의 틀을 유지하며 새로운 쓰임을 찾는 시도는 알렌테주 농가나 발리의 트리하우스에서도 발견된다. 헤르다데 다 마티냐 컨트리 하우스는 1917년의 낡은 뼈대를 그대로 살려 시간을 잇고, 레곰방 트리하우스는 나무를 베어내는 대신 구조체로 받아들인다. 이들은 굳이 무언가를 부수지 않고도 장소의 성격을 바꾸는 유연한 태도를 보여준다.",
+  "headline": "햄릿의 걸음걸이와 천 년을 견디는 현무암의 균열",
+  "editorial": "톰 요크가 앨범의 트랙 순서를 따라 햄릿의 감정을 몸짓으로 구현할 때, 무대 위에는 고전과 현대가 겹쳐진 새로운 궤적이 그려진다. 네비아의 현무암 조각은 풍화라는 물리적 변화를 받아들이며 천 년의 시간을 돌 안에 새긴다. 헤르다데 다 마티냐 컨트리 하우스 역시 낡은 뼈대를 지우지 않고 알렌테주의 시간을 겹겹이 쌓아 올려 과거와 현재를 잇는다. 이들은 모두 고정된 상태를 거부하고, 시간과 움직임에 따라 변모하는 사물의 가능성에 주목한다.",
   "threads": [
    {
-    "name": "오래된 뼈대에 입힌 새 숨결",
-    "note": "기존 건축물이나 자연 지형을 훼손하지 않고 현재의 용도로 전환한 사례들이다.",
+    "name": "시간이 새긴 흔적",
+    "note": "사물이나 건축물이 지닌 고유한 시간성을 보존하거나 풍화의 과정을 통해 드러내는 방식에 관한 흐름이다.",
     "items": [
      {
-      "title": "발리의 나무를 엮어 만든 집, 레곰방 트리하우스",
-      "url": "https://www.archdaily.com/1186813/legombang-treehouse-cave-urban"
+      "title": "천 년 동안 풍화되는 돌, 네비아의 명상적 포털",
+      "url": "https://www.wallpaper.com/design-interiors/nebbia-interlude-new-zealand-paererewa"
      },
      {
       "title": "1917년의 기억을 잇는 알렌테주 농가: 헤르다데 다 마티냐 컨트리 하우스",
@@ -2579,23 +2579,23 @@
     ]
    },
    {
-    "name": "기능을 넘어선 공간의 표정",
-    "note": "업무 공간이나 식당이 단순한 용도를 넘어 거주나 서사를 담는 장소로 변화하는 흐름이다.",
+    "name": "움직임과 반응하는 구조",
+    "note": "정적인 대상에 물리적 실험이나 감정적 흐름을 대입하여 새로운 관계를 맺는 사례들을 묶었다.",
     "items": [
      {
-      "title": "주거의 온기를 입은 오피스, 모노스 밴쿠버 본사",
-      "url": "https://www.dezeen.com/2026/10/24/monos-headquarters-vancouver-ste-marie/"
+      "title": "라디오헤드 앨범과 햄릿의 충돌, 톰 요크의 ‘햄릿: 도둑에게 보내는 햄릿 만세’",
+      "url": "https://www.wallpaper.com/art/exhibitions-shows/radiohead-thom-yorke-on-hamlet-hail-to-the-thief-interview"
      },
      {
-      "title": "나파 밸리의 온기와 파리의 서사, 샬럿의 나파 비스트로",
-      "url": "https://design-milk.com/napa-bistro-charlotte-fictionworks/"
+      "title": "오스카르 지엥타의 론도 미러: 금속을 팽창시켜 조각이 된 반사체",
+      "url": "https://minimalissimo.com/articles/rondo-mirror"
      }
     ]
    }
   ],
-  "based_on": 9,
+  "based_on": 12,
   "v": 3,
   "model": "gemini-3.1-flash-lite",
-  "written_at": "2026-10-25 08:51"
+  "written_at": "2026-10-25 14:38"
  }
 }
