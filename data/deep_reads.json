@@ -215707,5 +215707,52 @@
   },
   "depth_raw": 3,
   "depth_v": 2
+ },
+ "archdaily.com/1186237/ikebukuro-living-furniture-tram-stop-yosuke-sagoshi-atelier": {
+  "title_ko": "사고시 요스케 아틀리에가 복원한 이케부쿠로의 노면전차 정류장 가구",
+  "summary_ko": "일본 도시마구에서 사고시 요스케 아틀리에가 설계한 이케부쿠로 리빙 퍼니처 트램 정류장이 2024년에 완공되었다. 이 도로는 과거 노면전차가 지나던 터미널이었던 장소로, 옛 트램 정류장의 기억을 담아 공공 공간을 재구성했다. 하세가와 켄타와 미야타 사라가 사진을 촬영했다.",
+  "lens": "과거 노면전차 정류장의 기억을 가구라는 스케일로 압축해 도시의 공공 공간을 재정의한다.",
+  "why_now": "도시 인프라가 대중교통 중심에서 보행자 중심의 일상적 거점으로 전환되는 흐름을 보여준다.",
+  "mechanism": "역 앞 대중교통 터미널의 역사적 맥락을 가구적 스케일의 구조물로 치환하여 보행로와 공공 공간을 매개한다.",
+  "sensory": "과거 전차가 오가던 넓은 거리의 개방감 속에 놓인 가구 구조물이 보행자의 휴식과 시선을 붙잡는다.",
+  "transfer": "광장이나 보행로 콘티에서 역사적 장소의 기억을 대형 조형물이 아닌 가구 스케일의 구조물로 연출할 때 활용한다.",
+  "context": "사고시 요스케 아틀리에가 일본 도시마구에서 2024년에 완료한 어반즘 및 공공 공간 프로젝트다.",
+  "findings": [],
+  "keywords": [
+   "공공공간",
+   "도시재생",
+   "스트리트퍼니처",
+   "이케부쿠로"
+  ],
+  "evidence": "This broad avenue, extending from Ikebukuro Station toward Marunouchi, was once traversed by Toden trams",
+  "kind": "프로젝트",
+  "depth": 2,
+  "grounding": "thin",
+  "depth_reason": "원문 설명이 짧아 과거 노면전차의 역사와 가구 디자인의 구체적 연계 방식을 충분히 확인하기 어렵다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1186237/ikebukuro-living-furniture-tram-stop-yosuke-sagoshi-atelier",
+  "original_title": "Ikebukuro Living Furniture - Tram Stop / Yosuke SAGOSHI Atelier",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 1073,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-25 11:17",
+  "research": {
+   "entities": [
+    "Yosuke SAGOSHI Atelier",
+    "Ikebukuro",
+    "Toden Arakawa Line",
+    "Musashi Paint Co.,Ltd."
+   ],
+   "questions": [
+    "이케부쿠로의 과거 노면전차 역사가 현대 도시 재생 프로젝트인 'Living Furniture'에 어떤 방식으로 반영되었는가?",
+    "공공 공간으로서의 'Living Furniture'가 지역 주민들의 일상적인 보행 환경과 커뮤니티 형성에 어떤 영향을 미치고 있는가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
  }
 }
