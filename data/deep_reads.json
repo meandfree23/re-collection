@@ -216503,5 +216503,98 @@
   },
   "depth_raw": 3,
   "depth_v": 2
+ },
+ "archdaily.com/1187180/plaza-salamero-infrastructure-landscape-and-city-hector-fernandez-elorza": {
+  "title_ko": "지하 주차장 결함을 도심 공원 면모로 바꾸는 광장 리모델링",
+  "summary_ko": "스페인 사라고사 시의회가 지하 주차장의 심각한 구조적 고장을 계기로 진행한 공모를 통해 1만 1000제곱미터 규모의 살라메로 광장을 새롭게 개조했다. 헥토르 페르난데스 엘로르자는 구조물 보강이라는 제약을 역사적 도심 속 새로운 도시 공원을 구축하는 기회로 전환했다.",
+  "lens": "지하 인프라의 구조적 사고를 지상 공공 공간의 확장 국면으로 전환한다.",
+  "why_now": "노후된 도시 기반 시설의 물리적 한계를 단순한 보수가 아니라 전면적인 경관 재편으로 풀어내는 설계적 태도를 보여준다.",
+  "mechanism": "지하 주차장 지붕 슬래브를 교체하는 공학적 보수 작업을 광장 전체의 지형과 식재를 재조정하는 도시 설계 공정으로 직접 연결했다.",
+  "sensory": "1만 1000제곱미터의 넓은 대지 위에서 단단한 콘크리트 인프라와 부드러운 조경 요소가 시각적으로 교차한다.",
+  "transfer": "도시 인프라의 구조적 한계를 공간 디자인의 전기로 삼는 레이아웃 구성을 콘티의 공간 배경 설정에 적용한다.",
+  "context": "스페인 사라고사에서 2023년에 완공된 이 프로젝트는 2020년 발생한 지하 주차장 구조 고장에 대응하여 시작된 공모전의 결과물이다.",
+  "findings": [],
+  "keywords": [
+   "공공공간",
+   "도시재생",
+   "인프라",
+   "조경건축"
+  ],
+  "evidence": "The remodeling of Plaza de Salamero arose from a public competition launched by the Zaragoza City Council to replace the roof slab of the existing underground parking garage",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "구조적 사고를 경관 재편으로 바꾼 명확한 사례이나 세부 기법 설명이 다소 짧다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1187180/plaza-salamero-infrastructure-landscape-and-city-hector-fernandez-elorza",
+  "original_title": "Plaza Salamero: Infrastructure, Landscape, and City / Hector Fernández Elorza",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 1161,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-26 02:16",
+  "research": {
+   "entities": [
+    "Héctor Fernández Elorza",
+    "Plaza de Salamero",
+    "Montse Zamorano"
+   ],
+   "questions": [
+    "살라메罗 광장의 지하 주차장 구조적 결함은 어떻게 해결되었는가?",
+    "이번 리노베이션 프로젝트가 역사적 도심의 공공 공간에 미친 영향은 무엇인가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "archdaily.com/1187401/dunhua-tower-oyler-wu-collaborative": {
+  "title_ko": "타이베이의 고층 주거를 뒤트는 L자형 기하학, 둔화 타워",
+  "summary_ko": "오일러 우 콜라보레이티브가 타이베이에 설계한 17층 규모의 둔화 타워는 L자형 평면을 통해 상반된 두 개의 파사드를 형성한다. 총 45세대의 주거 공간을 수용하며, 정교한 물성과 기하학적 구조로 도시 맥락에 대응한다.",
+  "lens": "단순한 고층 주거를 넘어 L자형 볼륨으로 두 개의 전혀 다른 도시적 표정을 만들어낸다.",
+  "why_now": "대도시의 밀도 높은 주거 환경 속에서 형태와 평면의 변주로 조망과 채광을 확보하는 설계 방식이 주목받고 있다.",
+  "mechanism": "L자형 풋프린트가 날렵한 파사드와 묵직한 파사드를 동시에 만들어내며, 도시 가로변의 스케일과 자연스럽게 맞물린다.",
+  "sensory": "17층 높이에서 타이베이의 산책로를 내려다보며 극대화된 자연채광과 이중적 볼륨의 대비를 시각적으로 체감한다.",
+  "transfer": "도시 배경 속에서 건물의 비대칭적 볼륨이나 L자형 매스를 활용해 한 화면에 두 가지 전혀 다른 스케일감을 연출할 때 적용한다.",
+  "context": "오일러 우 콜라보레이티브(Oyler Wu Collaborative)가 타이베이에 완성한 주거 건축 프로젝트다.",
+  "findings": [],
+  "keywords": [
+   "오일러우",
+   "타이베이건축",
+   "주거타워",
+   "L자형평면"
+  ],
+  "evidence": "Rising 17 stories above one of Taipei's principal promenades, Dunhua Tower redefines the residential high-rise typology through a sophisticated interplay of materiality, geometry, and sustainable design.",
+  "kind": "프로젝트",
+  "depth": 2,
+  "grounding": "thin",
+  "depth_reason": "원문 중심의 공간 소개로 정보는 있으나 세부 공법이나 도면 데이터가 부족하다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1187401/dunhua-tower-oyler-wu-collaborative",
+  "original_title": "Dunhua Tower / Oyler Wu Collaborative",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 1737,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-26 02:16",
+  "research": {
+   "entities": [
+    "Oyler Wu Collaborative",
+    "Dwayne Oyler",
+    "Jenny Wu",
+    "Dunhua Tower"
+   ],
+   "questions": [
+    "둔화 타워의 L자형 평면 구조가 타이베이의 도시 맥락과 자연채광에 어떻게 기여하는가?",
+    "오일러 우 콜라보레이티브가 이 주거용 고층 빌딩 프로젝트에서 강조한 지속 가능성 디자인 요소는 무엇인가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
  }
 }
