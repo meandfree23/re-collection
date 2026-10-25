@@ -2561,41 +2561,45 @@
  },
  "2026-10-25": {
   "date": "2026-10-25",
-  "headline": "햄릿의 걸음걸이와 천 년을 견디는 현무암의 균열",
-  "editorial": "톰 요크가 앨범의 트랙 순서를 따라 햄릿의 감정을 몸짓으로 구현할 때, 무대 위에는 고전과 현대가 겹쳐진 새로운 궤적이 그려진다. 네비아의 현무암 조각은 풍화라는 물리적 변화를 받아들이며 천 년의 시간을 돌 안에 새긴다. 헤르다데 다 마티냐 컨트리 하우스 역시 낡은 뼈대를 지우지 않고 알렌테주의 시간을 겹겹이 쌓아 올려 과거와 현재를 잇는다. 이들은 모두 고정된 상태를 거부하고, 시간과 움직임에 따라 변모하는 사물의 가능성에 주목한다.",
+  "headline": "거울로 지운 식탁의 끝과 풍화하는 돌의 포털",
+  "editorial": "권력의 식탁은 전시장 중앙의 거울을 통해 산업 위계의 끝을 지우고, 네비아의 명상적 포털은 현무암의 풍화와 균열을 허락하며 천 년의 시간을 정의한다. 두 작업은 매끈한 보존 대신 물리적 변형과 왜곡을 통해 구조의 본질을 드러낸다. 론도 미러 역시 금속을 팽창시켜 반사체라는 기능을 넘어 공간을 왜곡하는 거대한 조각으로 확장된다.",
   "threads": [
    {
-    "name": "시간이 새긴 흔적",
-    "note": "사물이나 건축물이 지닌 고유한 시간성을 보존하거나 풍화의 과정을 통해 드러내는 방식에 관한 흐름이다.",
+    "name": "구조의 왜곡과 변형",
+    "note": "거울과 금속, 돌을 활용해 공간의 물리적 경계와 기능을 비틀어 새로운 인상을 만든다.",
     "items": [
+     {
+      "title": "권력의 식탁, 디자인 산업의 위계를 비추는 거울과 금속의 연출",
+      "url": "https://www.dezeen.com/2026/10/25/collectible-furniture-dutch-design-week-table-of-power/"
+     },
      {
       "title": "천 년 동안 풍화되는 돌, 네비아의 명상적 포털",
       "url": "https://www.wallpaper.com/design-interiors/nebbia-interlude-new-zealand-paererewa"
-     },
-     {
-      "title": "1917년의 기억을 잇는 알렌테주 농가: 헤르다데 다 마티냐 컨트리 하우스",
-      "url": "https://www.archdaily.com/1187439/herdade-da-matinha-country-house-sabrab"
-     }
-    ]
-   },
-   {
-    "name": "움직임과 반응하는 구조",
-    "note": "정적인 대상에 물리적 실험이나 감정적 흐름을 대입하여 새로운 관계를 맺는 사례들을 묶었다.",
-    "items": [
-     {
-      "title": "라디오헤드 앨범과 햄릿의 충돌, 톰 요크의 ‘햄릿: 도둑에게 보내는 햄릿 만세’",
-      "url": "https://www.wallpaper.com/art/exhibitions-shows/radiohead-thom-yorke-on-hamlet-hail-to-the-thief-interview"
      },
      {
       "title": "오스카르 지엥타의 론도 미러: 금속을 팽창시켜 조각이 된 반사체",
       "url": "https://minimalissimo.com/articles/rondo-mirror"
      }
     ]
+   },
+   {
+    "name": "시간의 층위를 쌓는 건축",
+    "note": "오래된 성벽과 농가의 낡은 뼈대를 지우지 않고 현대적 재료를 덧대어 시간의 깊이를 포개어 낸다.",
+    "items": [
+     {
+      "title": "천 년의 성벽을 잇는 환대, 사우스티롤 카스텔 바디아의 복원",
+      "url": "https://www.yatzer.com/castel-badia-south-tyrol-italy"
+     },
+     {
+      "title": "1917년의 기억을 잇는 알렌테주 농가: 헤르다데 다 마티냐 컨트리 하우스",
+      "url": "https://www.archdaily.com/1187439/herdade-da-matinha-country-house-sabrab"
+     }
+    ]
    }
   ],
-  "based_on": 12,
+  "based_on": 20,
   "v": 3,
-  "model": "gemini-3.1-flash-lite",
-  "written_at": "2026-10-25 14:38"
+  "model": "gemini-3.5-flash-lite",
+  "written_at": "2026-10-25 21:53"
  }
 }

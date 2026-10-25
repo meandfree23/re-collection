@@ -216118,5 +216118,390 @@
   },
   "depth_raw": 5,
   "depth_v": 2
+ },
+ "dezeen.com/2026/10/25/arup-pilen-viewpoint-fehmarnbelt-tunnel": {
+  "title_ko": "해저 터널의 규모를 체감하는 217미터 화살표 전망대",
+  "summary_ko": "엔지니어링 회사 아룹이 덴마크에 조성한 임시 전망대 필렌은 페마른벨트 해저 터널 공사 현장을 조망하는 구조물이다. 217미터 길이의 경사진 램프는 터널 콘크리트 요소 하나의 크기를 그대로 반영하며 독일 방향을 가리킨다. 매립용 목재와 강철로 지어져 터널 완공 후 완전히 해체되어 재사용되도록 설계되었다.",
+  "lens": "거대한 토목 공사의 스케일을 지그재그 램프와 건축적 비례로 환산한다.",
+  "why_now": "대규모 인프라 건설 과정에서 공사 현장을 은폐하는 대신 대중에게 개방하고 임시 구조물로 자원 순환까지 증명하는 태도가 요구되는 시점이다.",
+  "mechanism": "217미터 길이의 구조물이 독일을 향하는 나침반 바늘처럼 기능하며, 녹지가 조성된 데크 위로 지그재그 보행 동선이 24미터 높이까지 상승한다.",
+  "sensory": "매립용 목재와 철재의 단단한 물성 위로 지역 식생의 초록이 겹치고, 해안 풍경 속에서 고저 차를 이동하며 시야가 넓어진다.",
+  "transfer": "현장 스케일을 공간에 담을 때 대상의 실제 치수를 램프 길이나 동선의 비례로 치환해 관람객이 체감하게 만든다.",
+  "context": "영국의 다국적 엔지니어링 기업 아룹은 시드니 오페라하우스부터 복잡한 대규모 인프라 설계를 수행해 왔다.",
+  "findings": [],
+  "keywords": [
+   "임시건축",
+   "인프라",
+   "지그재그동선",
+   "자원순환",
+   "스케일체감"
+  ],
+  "evidence": "Pilen, whose name means “the arrow” in Danish, offers views of its construction site to help the public gain an understanding of its scale.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "대규모 터널 공사를 조망하는 임시 전망대의 구조와 설계 의도를 선명하게 보여준다.",
+  "v": 2,
+  "url": "https://www.dezeen.com/2026/10/25/arup-pilen-viewpoint-fehmarnbelt-tunnel/",
+  "original_title": "Arup creates arrow-shaped viewpoint for Fehmarnbelt Tunnel project",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 3595,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-25 21:52",
+  "research": {
+   "entities": [
+    "Arup",
+    "Fehmarnbelt Tunnel",
+    "Kristian Winther",
+    "Femern",
+    "Pilen"
+   ],
+   "questions": [
+    "덴마크와 독일을 연결하는 페마르벨트 해저터널(Fehmarnbelt Tunnel) 프로젝트의 전체 규모와 완공 시 예상되는 경제적·교통적 파급효과는 무엇인가?",
+    "임시 건축물인 필렌(Pilen) 전망대가 해체 이후 자원의 순환과 재사용을 위해 적용한 구체적인 친환경 설계 방식은 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Planning, designing and engineering the future",
+     "url": "https://www.arup.com/"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Arup Group",
+     "url": "https://en.wikipedia.org/wiki/Arup%20Group"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 3265
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "archdaily.com/1186113/residential-house-in-vilnius-architectural-bureau-gnatkevicius-and-partners": {
+  "title_ko": "빌뉴스 숲속의 주택: 지형의 고저차를 활용한 건축적 배치",
+  "summary_ko": "리투아니아 빌뉴스의 아욱슈타기리스 지형 보호구역 내에 위치한 166㎡ 규모의 주택이다. 건축사사무소 G.나트케비추스 앤 파트너스는 보호림과 언덕 지형을 설계의 핵심 축으로 삼았다. 대지의 경사를 따라 건물을 배치하여 자연광을 최대로 확보하고 숲의 조망을 창으로 끌어들였다.",
+  "lens": "경사진 지형을 훼손하지 않고 건물을 앉혀, 자연과 건축물이 물리적 충돌 없이 공존하는 방식을 보여준다.",
+  "why_now": "환경 보호 구역 내에서 지형의 제약을 극복하는 대신 지형에 순응하며 건축적 이득을 취하는 설계 전략이 중요해지고 있다.",
+  "mechanism": "대지의 언덕 지형을 따라 건물의 높낮이를 조절하여 자연스러운 동선을 유도하고, 경사면을 활용해 창의 위치와 크기를 최적화했다.",
+  "sensory": "숲의 수직적인 나무 기둥과 주택의 수평적인 외관이 대비되며, 창을 통해 숲의 계절감을 실내로 들이는 몰입감을 제공한다.",
+  "transfer": "경사지 촬영 시 카메라의 높이를 지형의 흐름에 맞춰 낮게 설정하여, 건축물이 대지에 자연스럽게 안착하는 느낌을 강조한다.",
+  "context": "건축사사무소 G.나트케비추스 앤 파트너스는 리투아니아 빌뉴스를 거점으로 자연 지형과 조화를 이루는 주거 프로젝트를 지속적으로 수행해 왔다.",
+  "findings": [],
+  "keywords": [
+   "지형건축",
+   "빌뉴스",
+   "숲속주택",
+   "지속가능성"
+  ],
+  "evidence": "The protected forest environment and hilly terrain became the main axis of this architectural concept.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "지형 활용에 대한 설계 의도는 명확하나, 구체적인 구조적 디테일이나 재료에 대한 정보가 부족하여 일반적인 수준의 소개에 그친다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1186113/residential-house-in-vilnius-architectural-bureau-gnatkevicius-and-partners",
+  "original_title": "Residential house in Vilnius / Architectural Bureau G.Natkevicius & Partners",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 1278,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-25 21:52",
+  "research": {
+   "entities": [
+    "Architectural Bureau G.Natkevicius & Partners",
+    "Gintautas Natkevičius"
+   ],
+   "questions": [
+    "Aukštagiris Geomorphological Reserve의 지형적 특성이 건축 설계에 어떤 구체적인 제약을 주었는가?",
+    "자연 보호 구역 내 건축 시 지속 가능성을 확보하기 위해 어떤 건축적 전략이 사용되었는가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "leibal.com/interiors/building-49": {
+  "title_ko": "실리콘밸리의 낡은 상업 빌딩을 브론즈와 벽돌로 재구성한 공유 오피스, 빌딩 49",
+  "summary_ko": "펠드먼 아키텍처(Feldman Architecture)가 캘리포니아주 팔로알토에 위치한 3층짜리 상업 건물을 인공지능과 벤처캐피털 업계 종사자를 위한 부티크 공유 오피스로 리노베이션했다. 기존의 분홍색 돌과 주름진 금속 사이딩을 철거하고, 저층부는 다크 브론즈 패널과 대형 유리창으로, 상층부는 벽돌과 스코코 마감으로 교체했다. 내부는 톤온톤 마감과 헤링본 패턴의 원목 마루를 적용해 차분한 질감의 업무 환경을 조성했다.",
+  "lens": "금속과 벽돌의 명도 차이로 건물의 층위를 읽게 만드는 외장 디자인이다.",
+  "why_now": "디지털 스타트업 밀집 지역에서 일률적인 유리 빌딩 대신 지역 맥락에 스며드는 따뜻한 물성의 공유 공간이 주목받는다.",
+  "mechanism": "도로 면에는 저층부 다크 브론즈와 상층부 벽돌을 배치해 입면의 위계를 나누고, 내부에는 폭포 형태의 아일랜드 식탁을 두어 공간의 중심을 잡는다.",
+  "sensory": "헤링본 패턴의 원목 바루와 질감이 살아있는 벽돌, 톤온톤으로 정돈된 마감재가 시각적 소란함을 지운다.",
+  "transfer": "공유 공간의 동선을 설계할 때 로비와 업무 공간의 탕비기 색상을 밝고 어두운 톤으로 대비시켜 영역을 자연스럽게 구분한다.",
+  "context": "펠드먼 아키텍처는 사람과 장소에 반응하는 지속 가능한 건축을 지향하며, 이번 프로젝트에서도 지역 커뮤니티와 조화되는 재료를 선택했다.",
+  "findings": [],
+  "keywords": [
+   "공유오피스",
+   "리노베이션",
+   "외장재",
+   "공간디자인"
+  ],
+  "evidence": "Pink stone and corrugated metal siding once wrapped the three-story commercial building now known as Building 49",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "기존 건물을 리노베이션한 구체적 공간 프로젝트이나 보도자료 중심의 평범한 소개다.",
+  "v": 2,
+  "url": "https://leibal.com/interiors/building-49/",
+  "original_title": "Building 49",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 2299,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-25 21:52",
+  "research": {
+   "entities": [
+    "Feldman Architecture",
+    "Fyrn",
+    "Muuto",
+    "Audo Copenhagen"
+   ],
+   "questions": [
+    "Feldman Architecture가 추구하는 상업 공간의 디자인 철학은 무엇이며, 이번 프로젝트에서 어떻게 구현되었는가?",
+    "Declare 라벨이 건축 자재 및 가구 선택에 미치는 영향과 그 중요성은 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Feldman Architecture",
+     "url": "https://feldmanarchitecture.com"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Muuto",
+     "url": "https://en.wikipedia.org/wiki/Muuto"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "바르샤바 포비실레의 자연과 호흡하는 주거, SAR 아파트",
+     "url": "https://leibal.com/interiors/sar/"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "콜린 킹의 맨해튼 아파트: 미니멀리즘을 넘어선 층위의 공간",
+     "url": "https://www.architecturaldigest.com/story/colin-king-trades-a-minimalist-loft-for-a-manhattan-aerie-brimming-with-choice-finds"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 3324
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "yatzer.com/castel-badia-south-tyrol-italy": {
+  "title_ko": "천 년의 성벽을 잇는 환대, 사우스티롤 카스텔 바디아의 복원",
+  "summary_ko": "남티롤 푸스테르 계곡의 중세 성곽인 카스텔 바디아가 3년간의 복원을 거쳐 부티크 호텔로 문을 열었다. 건축 스튜디오 눌17이 보존을 주도하고 드룰러 아키텍처가 인테리어를 맡아 로마네스크 양식의 아치와 고딕 디테일을 살렸다. 베네딕토회 수녀원의 역사적 층위를 보존하면서도 현대적인 알파인 감각을 더했다.",
+  "lens": "중세의 엄격한 석조 구조와 현대적인 부드러운 패브릭을 병치해, 시간의 층위가 충돌하지 않고 겹쳐지도록 조율했다.",
+  "why_now": "역사적 유산을 보존하는 것을 넘어, 공간의 용도 변화를 건축적 층위로 인정하고 현대의 기능과 조화시키는 재생 방식이 주목받는다.",
+  "mechanism": "로마네스크 볼트와 고딕 디테일 등 원형을 보존한 공간에 수공예 석고 벽, 소나무 바닥, 벨벳과 리넨을 배치해 차가운 석재의 물성을 중화했다.",
+  "sensory": "높은 리브 볼트 아래 타는 듯한 오렌지색 벤치와 거친 질감의 목재 가구가 어우러지며, 차가운 석재와 따뜻한 직물의 대비가 공간을 채운다.",
+  "transfer": "역사적 건축물의 벽면을 그대로 노출하되, 그 앞에 낮은 채도의 무광 가구와 곡선형 조명을 배치해 과거와 현재의 시각적 간극을 좁히는 연출을 권한다.",
+  "context": "11세기 오트빈 폰 룬가우 백작이 세운 성으로, 이후 베네딕토회 수녀원으로 운영되다 1785년 해체되었다. 1960년대 카를 크뇌티그가 호텔로 재건한 후, 현재는 알도 멜피냐노와 크론플라츠 홀딩 등의 파트너십으로 재탄생했다.",
+  "findings": [],
+  "keywords": [
+   "공간재생",
+   "알파인디자인",
+   "건축복원",
+   "부티크호텔"
+  ],
+  "evidence": "Original frescoes, Romanesque vaults and Gothic details have been meticulously conserved.",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "중세 건축의 원형 보존과 현대적 인테리어의 결합 과정을 재료와 공간 구성 측면에서 명확히 서술했다.",
+  "v": 2,
+  "url": "https://www.yatzer.com/castel-badia-south-tyrol-italy",
+  "original_title": "Castel Badia Brings Contemporary Alpine Hospitality to a Medieval Landmark in South Tyrol",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 6343,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-25 21:52",
+  "research": {
+   "entities": [
+    "Castel Badia",
+    "Null17",
+    "Droulers Architecture",
+    "Marta Ferri",
+    "Aldo Melpignano"
+   ],
+   "questions": [
+    "카스텔 바디아(Castel Badia)의 3년 간의 복원 과정에서 문화재 보호 당국과 건축가들이 가장 중점을 둔 역사적 보존 요소는 무엇인가요?",
+    "중세 베네딕토회 수녀원에서 부티크 호텔로 변모한 이 공간이 알프스 전통 환대 문화를 현대적으로 재해석한 구체적인 인테리어 디자인 특징은 무엇인가요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Home en - Castel Badia",
+     "url": "https://castelbadia.com/"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 2227
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "wallpaper.com/architecture/cine-tutu-sao-paulo-cinema-isay-weinfeld-brazil": {
+  "title_ko": "이자이 바인펠트가 설계한 상파울루의 영화관, 시네 투투",
+  "summary_ko": "건축가 이자이 바인펠트가 상파울루 빌라 마다렌나에 114석 규모의 독립 영화관 시네 투투를 설계했다. 방치되었던 건물을 재해석해 영화 관람 과정을 일련의 장면으로 구성했으며, 바루슈 카페와 라운지, 상영관을 잇는 공간적 서사를 완성했다. 현재 제50회 상파울루 국제 영화제 상영관으로 사용되고 있다.",
+  "lens": "영화광인 건축가가 자신의 열망을 공간으로 옮겨, 영화관을 단순한 상영 공간이 아닌 관람객의 경험이 이어지는 연속적인 무대로 구축했다.",
+  "why_now": "쇼핑몰 멀티플렉스가 점령한 영화 관람 방식에서 벗어나, 지역성과 건축가의 미학이 결합된 독립 상영관의 가치가 재조명된다.",
+  "mechanism": "스테인리스 스틸과 따뜻한 목재의 대비, 중앙 기둥을 감싸는 올리브 그린 벤치, 천장을 비추는 샹들리에의 조명 설계를 통해 공간마다 각기 다른 시각적 리듬을 생성한다.",
+  "sensory": "열대 식물이 보이는 유리 파사드 너머로 버터 향 가득한 팝콘 냄새가 흐르고, 좌석을 덮은 앙트레포스社의 화려한 꽃무늬 직물이 시각적 밀도를 높인다.",
+  "transfer": "공간의 시퀀스를 영화의 씬 단위로 설계하여, 로비에서 상영관으로 이동하는 동선마다 조명과 가구의 질감을 달리해 관객의 몰입도를 단계적으로 높이는 전략을 취한다.",
+  "context": "이자이 바인펠트는 이전 작업인 111 하우스에서 노출 콘크리트와 수직 정원을 결합해 건축과 자연의 경계를 지운 바 있다. 이번 시네 투투에서는 영화에 대한 자신의 오랜 열정을 반영해 건물의 본래 용도였던 극장 기능을 복원했다.",
+  "findings": [
+   {
+    "text": "파운드상 아르만두 알바레스 펜테아두는 예술과 문화 교육을 지원하기 위해 1947년에 설립된 기관이다.",
+    "s": 1,
+    "quote": "Fundação Armando Álvares Penteado (Armando Álvares Penteado Foundation, also referred as FAAP) was founded in 1947 by earl Armando Álvares Penteado, whose objective was to support, promote and develop the plastic and sce"
+   },
+   {
+    "text": "상파울루 국제 영화제는 매년 10월 상파울루에서 개최되는 비영리 영화제이다.",
+    "s": 2,
+    "quote": "The São Paulo International Film Festival (Portuguese: Mostra Internacional de Cinema de São Paulo), also known internationally as Mostra, is an annual film festival held in the city of São Paulo, Brazil. A non-profit ev"
+   }
+  ],
+  "keywords": [
+   "이자이 바인펠트",
+   "시네 투투",
+   "상파울루",
+   "영화관 건축",
+   "공간 시퀀스"
+  ],
+  "evidence": "Weinfeld has staged the experience as a sequence of scenes, each a sophisticated take on the moviegoing ritual",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "건축가의 영화적 취향이 공간의 동선과 디테일에 구체적으로 반영된 사례로, 상업 공간의 연출 기법을 명확하게 제시한다.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/architecture/cine-tutu-sao-paulo-cinema-isay-weinfeld-brazil",
+  "original_title": "Catch a movie at Cine Tutu, the new São Paulo cinema by Isay Weinfeld",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 3587,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-25 21:52",
+  "research": {
+   "entities": [
+    "Isay Weinfeld",
+    "Fundação Armando Álvares Penteado",
+    "Entreposto",
+    "São Paulo International Film Festival"
+   ],
+   "questions": [
+    "이세이 바인펠드(Isay Weinfeld)의 건축적 특징이 영화관 공간 디자인에 어떻게 반영되었는가?",
+    "시네 투투(Cine Tutu)가 상파울루 빌라 마다렌나 지역의 문화 및 상권에 미치는 영향은 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Fundação Armando Álvares Penteado",
+     "url": "https://en.wikipedia.org/wiki/Funda%C3%A7%C3%A3o%20Armando%20%C3%81lvares%20Penteado"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "São Paulo International Film Festival",
+     "url": "https://en.wikipedia.org/wiki/S%C3%A3o%20Paulo%20International%20Film%20Festival"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "상파울루 111 하우스: 노출 콘크리트와 수직 정원이 빚어내는 모더니즘의 변주",
+     "url": "https://www.wallpaper.com/architecture/residential/sao-paulo-house-isay-weinfeld-rodrigo-oliveira-brazil"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "아마존의 신성한 기하학을 그리는 작가, 사라 플로레스",
+     "url": "https://hyperallergic.com/sara-flores-paints-what-the-world-stands-to-lose/"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3
+   ],
+   "chars": 2659
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "dezeen.com/2026/10/25/uncanny-venues-frightful-interiors-lookbooks": {
+  "title_ko": "죽은 곤충과 도축장 레일로 채운 다섯 가지 기이한 공간들",
+  "summary_ko": "데진이 핼러윈 시즌을 맞아 인조 신체 부위와 박제 곤충, 도축장 기계 등 파격적인 장식을 활용한 세계 다섯 곳의 바와 클럽을 조명한다. 상하이의 바와 발렌시아의 나이트클럽, 런던의 펍 등이 독특한 물성과 장치로 공간의 서사를 완성한다.",
+  "lens": "곤충 박제와 도축장 레일을 인테리어 재료로 삼아 공간의 기괴한 서사를 완성한다.",
+  "why_now": "익숙한 공간에 낯선 물성을 이식해 감각적 자극을 극대화하는 인테리어 접근법이 주목받고 있다.",
+  "mechanism": "상하이 바는 유리 벽돌과 목재 그리드에 곤충 표본을 격자 형태로 밀집시키고, 코펜하겐의 양조장은 과거 도축장에서 쓰던 쇠고기 매달기 레일을 그대로 노출해 공간의 원형을 유지한다.",
+  "sensory": "붉은 조명과 스테인리스스틸, 탄 듯한 질감의 목재가 뒤섞여 오븐 속에 들어온 듯한 열기와 시각적 압박감을 유발한다.",
+  "transfer": "세트나 공간 연출에서 신체 부위나 박제 같은 낯선 오브제를 벽면과 가구에 매립해 불길하면서도 주도적인 긴장감을 유발하는 미장센으로 활용한다.",
+  "context": "디자인 매거진 데진의 아카이브에서 발췌한 룩북 시리즈의 일환으로, 런던, 코펜하겐, 상하이 등 전 세계 바와 클럽의 이색적인 공간 디자인을 모았다.",
+  "findings": [],
+  "keywords": [
+   "인테리어",
+   "공간디자인",
+   "박제",
+   "도축장",
+   "바디자인"
+  ],
+  "evidence": "With spooky season in full swing and Halloween rapidly approaching, this lookbook rounds up five venues featuring unusual decor, including faux body parts, dead insects and slaughterhouse machinery.",
+  "kind": "리스트·라운드업",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "여러 기이한 공간 인테리어를 모아 소개하는 룩북 기사로 정보 전달 중심의 평범한 구성이다.",
+  "v": 2,
+  "url": "https://www.dezeen.com/2026/10/25/uncanny-venues-frightful-interiors-lookbooks/",
+  "original_title": "Five uncanny venues where guests are treated to frightfully unique interiors",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 3194,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-25 21:52",
+  "research": {
+   "entities": [
+    "Atelier XY",
+    "Clap Studio",
+    "Laplace",
+    "Pihlmann Architects",
+    "The Audley"
+   ],
+   "questions": [
+    "공간 디자인에서 기괴함(uncanny)을 연출하기 위해 어떤 재료와 조명 기법이 주로 사용되었는가?",
+    "기존의 용도(도축장 등)를 유지하거나 재해석한 인테리어 디자인이 공간의 서사에 어떤 영향을 미치는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "스페인의 전설적인 나이트클럽, 순수한 음향의 공간으로 재탄생하다",
+     "url": "https://design-milk.com/clap-studio-spook-nightclub-valencia/"
+    }
+   ],
+   "used": [],
+   "chars": 292
+  },
+  "depth_raw": 3,
+  "depth_v": 2
  }
 }
