@@ -2601,5 +2601,44 @@
   "v": 3,
   "model": "gemini-3.5-flash-lite",
   "written_at": "2026-10-25 21:53"
+ },
+ "2026-10-26": {
+  "date": "2026-10-26",
+  "headline": "주유소의 탄산음료와 번개의 궤적",
+  "editorial": "매들린 루파드는 미국 서부의 주유소와 탄산음료를 판타지 게임의 아이템처럼 묘사하며 일상을 비현실적인 오픈월드로 치환한다. 이어서 바르셀로나 렐람파고 하우스는 번개의 불규칙한 선을 벽체와 조명이라는 물리적 장치로 고정해 정적인 주거에 시각적 긴장감을 부여한다. 한편 템퍼와 호노의 애니메이션 패키징은 60개의 병을 통해 4초의 랠리 시간을 물리적 공간으로 확장한다. 이들은 일상의 사물과 비정형의 궤적을 고유한 장치로 고정하며 도시와 주거의 풍경을 새롭게 구축한다.",
+  "threads": [
+   {
+    "name": "비정형 선과 물리적 장치",
+    "note": "불규칙한 궤적과 실수를 디자인의 규칙이나 건축적 구조로 고정한다.",
+    "items": [
+     {
+      "title": "도시의 파편과 우연한 실수로 구축하는 실험적 포스터",
+      "url": "https://www.itsnicethat.com/features/braulio-amado-graphic-design-spotlight-261026"
+     },
+     {
+      "title": "번개의 궤적을 실내로, 바르셀로나 렐람파고 하우스의 공간 구조",
+      "url": "https://www.archdaily.com/1010715/relampago-house-h3o-architects"
+     }
+    ]
+   },
+   {
+    "name": "일상의 사물과 풍경의 치환",
+    "note": "주유소와 탄산음료, 테니스 랠리 같은 익숙한 요소를 비일상적인 세계관이나 물리적 공간으로 확장한다.",
+    "items": [
+     {
+      "title": "매들린 루파드: 미국 서부의 일상과 자본주의를 잇는 아날로그적 숭고함",
+      "url": "https://www.itsnicethat.com/articles/madeline-rupard-2002-forrester-subaru-art-discover-261026"
+     },
+     {
+      "title": "60개의 병으로 재현한 4초의 랠리, 템퍼와 호노의 애니메이션 패키징",
+      "url": "https://www.itsnicethat.com/articles/studio-hono-temper-branding-project-261026"
+     }
+    ]
+   }
+  ],
+  "based_on": 10,
+  "v": 3,
+  "model": "gemini-3.5-flash-lite",
+  "written_at": "2026-10-26 08:46"
  }
 }
