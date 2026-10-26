@@ -217162,5 +217162,90 @@
   },
   "depth_raw": 3,
   "depth_v": 2
+ },
+ "yellowtrace.com.au/ysg-studio-the-gentleman-macleay-st-potts-point-apartment": {
+  "title_ko": "신체 스케일에 맞춘 1929년 아르데코 아파트의 변주",
+  "summary_ko": "시드니의 와이에스지 스튜디오(YSG Studio)가 2미터가 넘는 거주자를 위해 포츠 포인트에 위치한 95제곱미터 규모의 1929년 아르데코 아파트를 개조했다. 유산으로 보호된 공간의 역사적 구조를 유지하면서 키가 큰 인체의 동선에 맞춰 가구와 공간감을 재조율했다.",
+  "lens": "유산으로 보호된 좁은 아르데코 구조 속에서 2미터의 신체 스케일을 수용하는 물리적 해법.",
+  "why_now": "보존 구역의 물리적 제약을 철거 없이 신체 조건과 감각적 취향의 확장으로 돌파하는 인테리어 접근법이다.",
+  "mechanism": "낮은 천장고와 유산 보호 규정이라는 제약 속에서 맞춤형 가구 스케일과 동선 배치를 통해 거주자의 신체적 불편을 해소한다.",
+  "sensory": "1929년 아르데코 건축의 역사적 골조 사이로 거주자의 거대한 신체 스케일이 맞물려 만들어내는 독특한 비례감.",
+  "transfer": "공간의 물리적 제약이나 거주자의 특수한 신체 조건이 주어질 때, 구조 철거 대신 가구 스케일과 동선의 변형으로 해결하는 방식을 콘티에 적용한다.",
+  "context": "시드니 기반의 와이에스지 스튜디오(YSG Studio)는 기존 건축물의 골조를 유지하면서도 과감한 물성과 맞춤형 디테일로 공간의 문법을 전환하는 작업을 이어왔다.",
+  "findings": [
+   {
+    "text": "시드니 기반의 와이에스지 스튜디오(YSG Studio)가 발리 우붓의 방치된 저택을 5개 스위트룸을 갖춘 호텔 문 갱(Hotel Moon Gang)으로 탈바꿈시켰다.",
+    "s": 2,
+    "quote": "시드니 기반의 와이에스지 스튜디오(YSG Studio)가 발리 우붓의 방치된 저택을 5개 스위트룸을 갖춘 호텔 문 갱(Hotel Moon Gang)으로 탈바꿈시켰다."
+   },
+   {
+    "text": "시드니의 와이에스지 스튜디오(YSG Studio)가 발리 우붓의 낡은 사적 거주를 철거 없이 구조를 정돈해 5개 스위트룸을 갖춘 문 갱(Moon Gang) 호텔로 개조했다.",
+    "s": 3,
+    "quote": "시드니의 와이에스지 스튜디오(YSG Studio)가 발리 우붓의 낡은 사적 거주를 철거 없이 구조를 정돈해 5개 스위트룸을 갖춘 문 갱(Moon Gang) 호텔로 개조했다."
+   }
+  ],
+  "keywords": [
+   "YSG Studio",
+   "아르데코",
+   "공간디자인",
+   "스케일",
+   "주거재생"
+  ],
+  "evidence": "The Gentleman by YSG Studio: A 1929 Potts Point Apartment Built for Two Very Tall People.",
+  "kind": "프로젝트",
+  "depth": 2,
+  "grounding": "thin",
+  "depth_reason": "원문 본문이 수집되지 않고 메타 정보만 남아 있어 세부 디자인 장치에 대한 서술이 제한적이다.",
+  "v": 2,
+  "url": "https://www.yellowtrace.com.au/ysg-studio-the-gentleman-macleay-st-potts-point-apartment/",
+  "original_title": "The Gentleman by YSG Studio: A 1929 Potts Point Apartment Built for Two Very Tall People.",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 0,
+  "fetch": "fetch_error:HTTPError",
+  "cliche_hits": [],
+  "read_at": "2026-10-26 11:22",
+  "research": {
+   "entities": [
+    "YSG Studio",
+    "Potts Point"
+   ],
+   "questions": [
+    "YSG Studio가 1929년 아르데코 양식의 아파트를 리노베이션할 때 보존과 현대적 기능성을 어떻게 조화시켰는가?",
+    "키가 매우 큰 거주자를 위해 공간의 높이와 가구 배치를 어떻게 최적화했는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "List of Yamaha Corporation products",
+     "url": "https://en.wikipedia.org/wiki/List%20of%20Yamaha%20Corporation%20products"
+    },
+    {
+     "n": 2,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "발리의 낡은 빌라를 음악과 초현실주의로 채운 호텔 문 갱",
+     "url": "https://www.yatzer.com/moon-gang-bali-ysg-studio"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "방치된 콘크리트 벙커를 거친 물성으로 재조립한 우붓의 호텔 문 갱",
+     "url": "https://www.yellowtrace.com.au/ysg-studio-moon-gang-ubud-suites-bali-hotel/"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "문손잡이가 묻는 존재의 감각: 뱅크스톤과 포 스케일의 촉각적 선언",
+     "url": "https://www.yellowtrace.com.au/bankston-for-scale-door-hardware-nycxdesign-3daysofdesign/"
+    }
+   ],
+   "used": [
+    2,
+    3
+   ],
+   "chars": 1304
+  },
+  "depth_raw": 2,
+  "depth_v": 2
  }
 }
