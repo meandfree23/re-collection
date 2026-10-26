@@ -217447,5 +217447,413 @@
   },
   "depth_raw": 3,
   "depth_v": 2
+ },
+ "dezeen.com/2026/10/26/think-architecture-hillside-house-lake-zurich": {
+  "title_ko": "취리히 호숫가 경사면을 따라 분절된 씽크 아키텍처의 하우스 온 어 슬로프",
+  "summary_ko": "스위스 건축 사무소 씽크 아키텍처(Think Architecture)가 취리히 호수가 내려다보이는 가파른 경사지에 1,000제곱미터 규모의 주택을 설계했다. 건물은 두 개의 독립된 블록으로 분절되어 있으며, 지하의 예술 복도와 중앙 정원을 통해 연결된다. 어두운 석회암과 삼나무를 주재료로 사용하여 주변 지형과 자연스럽게 섞이도록 구성했다.",
+  "lens": "거대한 단일 매스를 피하고 지형의 리듬을 따라 볼륨을 쪼개어, 경사지라는 물리적 제약을 주변 마을의 풍경과 동화시키는 전략이 돋보인다.",
+  "why_now": "대규모 주거 프로그램을 좁고 가파른 대지에 안착시키기 위해 건축물을 파편화하여 주변 주택의 스케일과 조화를 꾀하는 방식은 밀도 높은 환경에서의 건축적 해법을 제시한다.",
+  "mechanism": "지상층의 주거 블록과 하부의 보호받는 블록을 지하 복도로 연결하고, 그 사이를 중앙 정원으로 비워내어 외부와 내부의 재료가 연속되도록 설계했다.",
+  "sensory": "늪지 참나무, 삼나무, 벨기에 청석, 테라조, 녹청이 핀 황동 등 시간이 흐를수록 깊이를 더하는 재료를 사용하여 차분하고 감싸 안는 듯한 실내 분위기를 조성했다.",
+  "transfer": "경사지 촬영 시 단일 오브제로서의 건물이 아닌, 지형을 따라 흩어진 여러 구조물의 집합체로 프레임을 구성하여 공간의 깊이감을 확보한다.",
+  "context": "씽크 아키텍처는 최근 취리히 호수를 조망하는 언덕 위 주택이나 포도밭 옆 주택 등 경사지 주거 프로젝트를 지속적으로 완성해왔다.",
+  "findings": [],
+  "keywords": [
+   "씽크아키텍처",
+   "취리히주택",
+   "경사지건축",
+   "분절된볼륨"
+  ],
+  "evidence": "Breaking the residence into smaller volumes allowed us to respond to that context without losing the generosity of the interior",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "경사지 건축의 매스 분절 전략과 재료의 물성 활용이 구체적으로 제시되어 실무적 참고 가치가 높다.",
+  "v": 2,
+  "url": "https://www.dezeen.com/2026/10/26/think-architecture-hillside-house-lake-zurich/",
+  "original_title": "Think Architecture's fragmented House on a Slope overlooks Lake Zurich",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 4043,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-26 17:20",
+  "research": {
+   "entities": [
+    "Think Architecture",
+    "Marco Zbinden",
+    "House on a Slope"
+   ],
+   "questions": [
+    "경사지에 위치한 주택을 설계할 때 Think Architecture가 주변 환경과의 조화를 위해 고려한 건축적 전략은 무엇인가?",
+    "이 주택에서 사용된 석회암, 삼나무, 늪지 참나무 등 재료의 선택이 공간의 분위기와 노후화 과정에 어떤 영향을 미치는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "WAI Architecture Think Tank",
+     "url": "https://en.wikipedia.org/wiki/WAI%20Architecture%20Think%20Tank"
+    }
+   ],
+   "used": [],
+   "chars": 168
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "creativeboom.com/insight/stocksys-2027-visual-insights-report-explores-why-some-images-connect-with-audiences-and-others-dont": {
+  "title_ko": "생성형 이미지 시대의 시각 문법, 다섯 가지 전치사로 읽는 구조",
+  "summary_ko": "스톡 미디어 협동조합 스톡시(Stocksy)는 2027년 비주얼 인사이트 보고서를 통해 이미지가 대중과 연결되는 방식이 단순한 분위기가 아니라 구조에 있다고 주장한다. 보고서는 창작의 저작권과 목적, 존재 방식, 긴장감, 시각적 저항을 다루는 다섯 가지 전치사(by, for, with, between, against)를 시각 문법으로 제시한다.",
+  "lens": "형용사와 무드 대신 전치사로 관계의 구조를 짜야 콘티가 단단해진다.",
+  "why_now": "누구나 AI로 이미지를 무한정 생성할 수 있는 시대에, 단순한 표현력은 변별력을 잃었기 때문이다.",
+  "mechanism": "이미지를 명사가 아닌 전치사 중심의 관계망으로 재정의하여 촬영자, 피사체, 관객 사이의 긴장과 의도를 시각화한다.",
+  "sensory": "매끄럽고 무난한 평균값을 거부하고, 거친 질감과 선명한 마찰음이 화면을 지배한다.",
+  "transfer": "광고나 영상 콘티를 짤 때 모호한 형용사 대신 '누가 만들었고 누구를 겨누며 무엇에 저항하는지' 한 문장으로 적고 촬영에 들어간다.",
+  "context": "프랑스 문학 이론가 롤랑 바르트(Roland Barthes)의 텍스트 목적론과 구조주의 비평 개념을 빌려와 시각 매체의 저작과 수용 관계를 해부한다.",
+  "findings": [
+   {
+    "text": "롤랑 바르트는 1915년에 태어나 구조주의와 기호학을 바탕으로 대중문화와 저작권의 개념을 비평했다.",
+    "s": 1,
+    "quote": "Roland Gérard Barthes (; French: [ʁɔlɑ̃ baʁt]; 12 November 1915 – 26 March 1980) was a French literary theorist, essayist, philosopher, critic, and semiotician."
+   }
+  ],
+  "keywords": [
+   "시각문법",
+   "스톡시",
+   "생성형이미지",
+   "관계성",
+   "구조주의"
+  ],
+  "evidence": "In an era when any image can be generated, Stocksy's annual report argues that representation is no longer enough.",
+  "kind": "뉴스·이슈",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "스톡시의 최신 보고서 내용을 명확한 근거와 5가지 전치사 축으로 충실히 해설했다.",
+  "v": 2,
+  "url": "https://www.creativeboom.com/insight/stocksys-2027-visual-insights-report-explores-why-some-images-connect-with-audiences-and-others-dont/",
+  "original_title": "Stocksy's 2027 Visual Insights Report explores why some images connect with audiences so well",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 9000,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-26 17:20",
+  "research": {
+   "entities": [
+    "Stocksy",
+    "Herm&egrave;s",
+    "Roland Barthes"
+   ],
+   "questions": [
+    "Stocksy의 2027 Visual Insights Report가 제시하는 5가지 전치사(by, for, with, between, against)는 각각 어떤 시각적 의미를 담고 있는가?",
+    "AI 생성 이미지가 범람하는 시대에 스톡 미디어 협동조합인 Stocksy가 '관계성과 구조'를 강조하는 이유는 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Roland Barthes",
+     "url": "https://en.wikipedia.org/wiki/Roland%20Barthes"
+    },
+    {
+     "n": 2,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "카롤리네 로레 테스톤: 관계와 시선을 기록하는 아날로그 사진",
+     "url": "https://elephant.art/carolyne-loree-teston-on-the-art-of-seeing-and-being-seen/"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 1118
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "creativeboom.com/insight/lego-and-daft-punks-team-up-highlights-exactly-how-brands-should-interact-with-fans": {
+  "title_ko": "레고와 다프트 펑크, 팬의 아이디어를 브랜드 서사로 치환하는 법",
+  "summary_ko": "레고가 전자음악 듀오 다프트 펑크와 파트너십을 맺고 제품과 콘텐츠를 선보인다. 2007년 'Alive' 투어의 피라미드 무대를 재현한 이 세트는 팬이 직접 설계해 레고 아이디어스 플랫폼에서 1만 명의 지지를 얻은 프로젝트에서 시작되었다. 브랜드는 티저 공개부터 제품 개발까지 팬을 단순 소비자가 아닌 공동 작업자로 대우하며 긴 호흡의 협업을 이어간다.",
+  "lens": "브랜드의 일방적인 제품 출시가 아닌, 팬의 창의적 결과물을 브랜드의 공식 서사로 편입시켜 참여형 생태계를 구축한다.",
+  "why_now": "브랜드 간의 경쟁보다 팬덤과의 공동 작업이 브랜드 가치를 증명하는 핵심 동력이 된 현재의 시장 흐름을 반영한다.",
+  "mechanism": "2x4 레고 블록의 내부 튜브를 스피커 우퍼처럼 시각화한 티저로 팬들의 해석을 유도하고, 레고의 블록과 다프트 펑크의 네온·와이어프레임 기법을 조화시켜 브랜드 정체성을 균형 있게 병치한다.",
+  "sensory": "레고 미니피규어로 재탄생한 다프트 펑크의 로봇 외형과 붉은 블록이 발산하는 네온 빛, 홀로그램 건축물이 어우러진 기하학적 공간감이 강조된다.",
+  "transfer": "팬의 제안을 제품의 공식 기획으로 채택하는 상향식 프로세스를 도입하고, 브랜드 로고를 나란히 배치하는 대신 양측의 시각 언어를 결합한 새로운 미학적 접점을 찾아라.",
+  "context": "레고는 1999년 스타워즈 세트를 시작으로 아디다스, 빈센트 반 고흐 등 다양한 분야와 협업하며 팬 커뮤니티 기반의 창작 생태계를 유지해 왔다. 다프트 펑크는 1993년 결성된 이후 로봇 페르소나를 통해 음악적 정체성을 구축했으며, 이번 협업은 그들의 시각적 상징성을 물리적 블록으로 확장하는 사례다.",
+  "findings": [
+   {
+    "text": "다프트 펑크의 레고 협업은 2026년 10월 21일 WDPK 라디오 라이브 방송을 통해 암호화된 티저로 처음 공개되었다.",
+    "s": 1,
+    "quote": "Earlier today, the official Daft Punk YouTube channel broadcast a live stream called WDPK RADIO LIVE, which featured some of Daft Punk’s iconic songs. But at the end of the broadcast, a mysterious teaser played"
+   },
+   {
+    "text": "레고는 1949년부터 덴마크 빌룬드를 거점으로 아크릴로니트릴 부타디엔 스티렌(ABS) 소재의 인터로킹 블록을 생산해 왔다.",
+    "s": 2,
+    "quote": "Lego consists of variously coloured interlocking plastic bricks made of acrylonitrile butadiene styrene (ABS) that accompany an array of gears, figurines called minifigures"
+   },
+   {
+    "text": "다프트 펑크는 1999년부터 2021년까지 은색과 금색 헬멧을 쓴 로봇 페르소나를 유지하며 대중 앞에 나타났다.",
+    "s": 3,
+    "quote": "Between 1999 and 2021, Daft Punk assumed robot personas for their rare public and media appearances, with helmets, outfits and gloves to disguise their identities"
+   }
+  ],
+  "keywords": [
+   "레고",
+   "다프트 펑크",
+   "공동 작업",
+   "팬덤",
+   "브랜드 협업"
+  ],
+  "evidence": "This collab came from the bottom up, not the top down.",
+  "kind": "브랜드·캠페인",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "팬 참여형 플랫폼을 통한 제품 개발 프로세스와 브랜드 간 시각 언어의 조화 방식을 구체적으로 분석했다.",
+  "v": 2,
+  "url": "https://www.creativeboom.com/insight/lego-and-daft-punks-team-up-highlights-exactly-how-brands-should-interact-with-fans/",
+  "original_title": "Lego and Daft Punk's team-up highlights exactly how brands should interact with fans",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 8670,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-26 17:20",
+  "research": {
+   "entities": [
+    "Lego",
+    "Daft Punk",
+    "Ikea",
+    "Adidas",
+    "Vincent van Gogh"
+   ],
+   "questions": [
+    "레고와 다프트 펑크의 협업 제품인 'Alive 투어 피라미드 무대' 세트는 어떤 과정을 거쳐 출시되었나요?",
+    "팬들이 직접 참여하는 레고 아이디어스(Lego Ideas) 플랫폼은 브랜드와 소비자 관계에 어떤 변화를 가져왔나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Daft Punk LEGO Set Teased - BricksFanz",
+     "url": "https://bricksfanz.com/daft-punk-lego-set-teased/"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Lego",
+     "url": "https://en.wikipedia.org/wiki/Lego"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Daft Punk",
+     "url": "https://en.wikipedia.org/wiki/Daft%20Punk"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "시몬 로샤의 2027 봄/여름 컬렉션: 일상과 바로크의 충돌",
+     "url": "https://www.anothermag.com/fashion-beauty/17499/simone-rocha-spring-summer-2027-ss27-review-interview-womenswear?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=simone-rocha-revelations-of-the-everyday"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "강철의 물성을 벼린 쐐기형 실루엣, 현대자동차 아이오닉 3",
+     "url": "https://www.wallpaper.com/transportation/hyundai-ioniq-3-review"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "골판지 상자를 세라믹으로 빚는 자크 모네로의 작업실 사운드트랙",
+     "url": "https://www.designboom.com/art/designboom-listens-jacques-monneraud-inspiration-music-silence-interview/"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3
+   ],
+   "chars": 5237
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "creativeboom.com/work/this-floating-saunas-brand-uses-a-simple-typographic-trick-to-stunning-effect": {
+  "title_ko": "온도 기호 하나로 완성한 사우나 브랜드, 피오르드(Fjord)의 타이포그래피 전략",
+  "summary_ko": "샌프란시스코 베이에 위치한 수상 사우나 피오르드(Fjord)는 런던의 디자인 스튜디오 더치스콧(DutchScot)과 함께 웰니스 업계의 정형화된 시각 언어를 탈피한 브랜드 정체성을 구축했다. 이들은 사우나의 핵심인 온도에 집중해 로고의 'o'를 도(degree) 기호로 치환하고, 덴마크 파운드리 플레이타입(Playtype)과 협업한 굵고 견고한 서체를 통해 산업적인 현장감을 강조했다.",
+  "lens": "웰니스라는 추상적 개념을 온도라는 물리적 수치로 치환해, 부드러운 이미지 대신 조선소의 투박한 기계적 질감을 브랜드의 핵심으로 삼았다.",
+  "why_now": "웰니스 시장의 범람으로 인해 유사한 시각적 관습이 반복되는 가운데, 특정 업의 본질을 가장 단순한 기호로 압축해 차별화된 인상을 남긴다.",
+  "mechanism": "로고의 'o'를 도(degree) 기호로 대체하고 이를 모노그램(F°)으로 확장해 온도를 시각화했다. 웹사이트 스크롤 시 온도계 눈금처럼 움직이는 내비게이션과 흑백의 강렬한 대비를 통해 사우나의 기능을 직관적으로 전달한다.",
+  "sensory": "흑백 사진 속 증기가 피어오르는 사우나 돌, 차가운 바닷물에 뛰어드는 순간의 대비가 주는 서늘하고도 뜨거운 감각이 묵직한 서체와 어우러진다.",
+  "transfer": "브랜드의 핵심 기능을 상징하는 기호를 타이포그래피에 삽입하여 로고 자체를 인포그래픽으로 활용하라. 공간의 사인물과 굿즈에도 동일한 기호를 반복 배치해 일관된 시각적 리듬을 만든다.",
+  "context": "더치스콧은 디자인 컨설팅 스튜디오로, 이번 프로젝트에서 웰니스 업계의 통상적인 '부드러운 세리프'와 '눈을 감은 인물 사진' 대신 산업적 과거를 반영한 흑백 시스템을 택했다. 이는 RE:COLLECTION에서 다룬 스크로겟(Skroget) 사우나가 선박 선체를 건축적 언어로 치환한 것과 궤를 같이하며, 사우나를 단순한 스파 서비스가 아닌 물리적 경험으로 정의한다.",
+  "findings": [
+   {
+    "text": "더치스콧은 런던에 기반을 둔 디자인 및 브랜딩 컨설턴트로, 아이디어와 발명, 직관과 경험을 결합하여 브랜드 변화를 이끈다.",
+    "s": 2,
+    "quote": "We are a design & branding consultancy, colliders of ideas and invention, relevance and difference, intuition and experience, substance and soul – working from our studio in London"
+   },
+   {
+    "text": "피오르드는 샌프란시스코 베이의 수상 사우나이자 플런지 시설로, 캘리포니아의 경관을 단순히 보는 것을 넘어 신체적으로 느끼는 경험을 제공한다.",
+    "s": 1,
+    "quote": "Fjord is a FLOATING SAUNA and PLUNGE experience on the SAN FRANCISCO BAY. It’s an escape from climate controlled comfort zones and uninspired routines. And that California's dazzling landscape should be more than just se"
+   }
+  ],
+  "keywords": [
+   "피오르드",
+   "더치스콧",
+   "타이포그래피",
+   "브랜딩",
+   "시각디자인"
+  ],
+  "evidence": "turns a single degree symbol into a whole brand system.",
+  "kind": "브랜드·캠페인",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "로고의 기호를 브랜드 시스템 전체로 확장하는 구체적인 전략이 확인되며, 웰니스 업계의 관습을 타파한 시각적 논리가 명확하다.",
+  "v": 2,
+  "url": "https://www.creativeboom.com/work/this-floating-saunas-brand-uses-a-simple-typographic-trick-to-stunning-effect/",
+  "original_title": "This floating sauna's brand uses a simple typographic trick to stunning effect",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 7796,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-26 17:20",
+  "research": {
+   "entities": [
+    "DutchScot",
+    "Fjord",
+    "Playtype"
+   ],
+   "questions": [
+    "DutchScot이 Fjord의 브랜드 아이덴티티를 구축할 때 웰니스 업계의 일반적인 관습을 피하기 위해 어떤 디자인 전략을 사용했나요?",
+    "Fjord의 로고와 타이포그래피에서 '도(degree)' 기호를 활용한 디자인이 브랜드의 정체성을 어떻게 효과적으로 전달하고 있나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Fjord - Feel Something",
+     "url": "https://www.thisisfjord.com/"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "DutchScot",
+     "url": "https://dutch.scot/"
+    },
+    {
+     "n": 3,
+     "type": "공식·1차",
+     "title": "Frontpage",
+     "url": "https://playtype.com/"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "노르웨이 보츠피오르의 항구 풍경을 닮은 목재 골격 사우나, 스크로겟",
+     "url": "https://www.dezeen.com/2026/09/30/rare-collectiv-skroget-sauna/"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    4
+   ],
+   "chars": 6030
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "creativeboom.com/work/michelle-gruppettas-riso-printed-animation-reveals-what-sound-sensitivity-actually-feels-like": {
+  "title_ko": "미셸 그루페타의 ‘미소포니아’, 리소 프린트의 거친 질감으로 재현한 청각 과민증의 세계",
+  "summary_ko": "몰타의 애니메이터 미셸 그루페타(Michelle Gruppetta)는 데뷔 단편 ‘미소포니아’를 통해 특정 소리에 격렬한 감정적 반응을 보이는 청각 과민증의 경험을 시각화한다. 작가는 리소그래프 인쇄 특유의 입자감과 의도적인 인쇄 어긋남을 활용해 일상적인 소음이 어떻게 개인을 압도하는지 묘사한다. 이 작품은 전통적인 서사 구조 대신, 불편한 사운드스케이프와 시각적 자극을 결합해 관객이 해당 증상을 직접 체험하도록 유도한다.",
+  "lens": "단순한 재현을 넘어 리소 프린트의 불완전한 질감과 인쇄 어긋남을 청각 과민증의 심리적 불안정성과 동기화한 감각적 설계다.",
+  "why_now": "소음 공해와 감각 과부하가 일상이 된 현대 사회에서, 타인의 일상적 소음이 누군가에게는 폭력적인 자극이 될 수 있음을 시각 언어로 환기한다.",
+  "mechanism": "오렌지, 틸, 블랙의 제한된 팔레트와 리소 프린트의 거친 질감을 결합해 시각적 긴장감을 조성하고, 이를 특정 소음과 결합해 관객의 도피 반응을 유도한다.",
+  "sensory": "스파게티를 씹는 입, 겹쳐지는 숟가락 등 일상적 사물을 과장된 클로즈업으로 배치해 시각적 피로감을 유발하며, 리소 인쇄 특유의 입자감이 화면 전반에 불쾌한 촉각적 경험을 더한다.",
+  "transfer": "불안이나 강박을 표현할 때, 깨끗한 디지털 그래픽 대신 인쇄 과정의 오류나 거친 질감을 의도적으로 활용해 심리적 동요를 시각화하는 기법을 적용할 수 있다.",
+  "context": "미셸 그루페타는 덴마크의 애니메이션 워크숍(The Animation Workshop)에서 수학한 후, 현재 몰타에서 리소 프린트 스튜디오를 운영하며 인쇄 매체와 애니메이션의 결합을 탐구한다. 픽토플라즈마(Pictoplasma) 등 국제적인 애니메이션 페스티벌에서 상영된 이 작품은 캐릭터 중심의 스토리텔링을 넘어 감각적 경험을 전달하는 데 집중한다.",
+  "findings": [
+   {
+    "text": "애니메이션 워크숍은 덴마크 비보르에 위치한 애니메이션 학교로, 현대적인 커뮤니케이션 과정에서 기능적 애니메이션의 역할을 탐구한다.",
+    "s": 1,
+    "quote": "TAW has played a role in many international projects, which seek to improve and create an understanding of the role functional animation and applied comics can play in public discourse, learning and modern communication "
+   },
+   {
+    "text": "픽토플라즈마는 1999년부터 캐릭터 디자인을 주류 예술로 끌어올리기 위해 컨퍼런스 개최와 아카이브 운영을 지속해온 조직이다.",
+    "s": 2,
+    "quote": "Pictoplasma is an organisation dedicated to the art of character design, and are notable for bringing it into the mainstream. Since 1999, they have encouraged the international character design scene by publishing collec"
+   }
+  ],
+  "keywords": [
+   "미소포니아",
+   "리소그래프",
+   "감각과부하",
+   "애니메이션",
+   "미셸그루페타"
+  ],
+  "evidence": "The visuals are as confrontational as the audio. Close-ups of mouths slurping spaghetti, spoons multiplying as they approach lips, a tipped-over mug and a half-eaten biscuit",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "청각 과민증이라는 추상적인 상태를 리소 프린트의 물성과 사운드스케이프로 구체화한 연출 방식이 독창적이다.",
+  "v": 2,
+  "url": "https://www.creativeboom.com/work/michelle-gruppettas-riso-printed-animation-reveals-what-sound-sensitivity-actually-feels-like/",
+  "original_title": "Michelle Gruppetta's riso-printed animation reveals what sound sensitivity actually feels like",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 8579,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-26 17:20",
+  "research": {
+   "entities": [
+    "Michelle Gruppetta",
+    "Misophonia",
+    "The Animation Workshop",
+    "Pictoplasma",
+    "Annecy International Animation Festival"
+   ],
+   "questions": [
+    "미소포니아(청각과민증)가 일상생활과 심리 상태에 미치는 구체적인 영향은 무엇인가?",
+    "리소그래피 인쇄 기법의 시각적 질감이 애니메이션의 서사적 몰입감을 어떻게 높이는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "The Animation Workshop",
+     "url": "https://en.wikipedia.org/wiki/The%20Animation%20Workshop"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Pictoplasma",
+     "url": "https://en.wikipedia.org/wiki/Pictoplasma"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "픽토플라즈마 NYC 2026: BUCK과 듀오링고가 말하는 캐릭터 스토리텔링의 전략",
+     "url": "https://www.stashmedia.tv/pictoplasma-nyc-2026-industry-focus-session-presents-buck-duolingo-sept-18/"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "런던 왕립예술대학으로 돌아온 픽토플라즈마 컨퍼런스",
+     "url": "https://www.stashmedia.tv/pictoplasma-returns-to-rca-in-london-october-30th/"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "단 두 개의 점으로 완성한 픽토플라즈마의 얼굴, 파레이돌리아 브랜딩",
+     "url": "https://www.creativeboom.com/work/how-two-simple-dots-gave-pictoplasma-a-face-after-20-years-of-neutral-design/"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 2298
+  },
+  "depth_raw": 4,
+  "depth_v": 2
  }
 }

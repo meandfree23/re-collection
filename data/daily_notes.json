@@ -2604,41 +2604,45 @@
  },
  "2026-10-26": {
   "date": "2026-10-26",
-  "headline": "주유소의 탄산음료와 번개의 궤적을 심은 거실",
-  "editorial": "매들린 루파드의 회화가 미국 서부의 주유소를 비현실적인 게임 세계관으로 치환하고, 렐람파고 하우스는 번개의 불규칙한 선을 벽체와 조명으로 고정해 정적인 주거에 긴장감을 불어넣는다. 도시의 파편과 우연한 실수를 규칙으로 삼은 브라울리오 아마두의 포스터는 매너리즘을 정면으로 격파한다. 이들의 작업은 일상의 풍경과 통제되지 않은 자극을 물리적 장치로 붙잡아 새로운 국면으로 확장한다.",
+  "headline": "취리히 호숫가의 분절된 볼륨과 바르셀로나의 번개 궤적",
+  "editorial": "취리히 호숫가 경사면의 씽크 아키텍처는 지형의 리듬을 따라 볼륨을 쪼개며 물리적 제약을 주변 풍경과 동화시킨다. 이와 유사하게 바르셀로나 렐람파고 하우스는 번개의 불규칙한 선을 벽체와 조명으로 고정해 정적인 공간에 긴장감을 불어넣는다. 두 건축적 시도는 고정된 틀을 거부하고 물리적 환경의 결을 공간 구조로 밀어 넣는 방식을 보여준다.",
   "threads": [
    {
-    "name": "우연과 일상의 재배치",
-    "note": "도시의 부산물이나 주유소 같은 일상의 요소를 규칙과 판타지로 치환하여 새로운 질서를 만든다.",
+    "name": "지형과 공간의 결합",
+    "note": "지형의 물리적 제약이나 기억을 건축적 볼륨과 동선으로 치환한다.",
     "items": [
      {
-      "title": "도시의 파편과 우연한 실수로 구축하는 실험적 포스터",
-      "url": "https://www.itsnicethat.com/features/braulio-amado-graphic-design-spotlight-261026"
+      "title": "취리히 호숫가 경사면을 따라 분절된 씽크 아키텍처의 하우스 온 어 슬로프",
+      "url": "https://www.dezeen.com/2026/10/26/think-architecture-hillside-house-lake-zurich/"
      },
      {
-      "title": "매들린 루파드: 미국 서부의 일상과 자본주의를 잇는 아날로그적 숭고함",
-      "url": "https://www.itsnicethat.com/articles/madeline-rupard-2002-forrester-subaru-art-discover-261026"
+      "title": "안성 크리스밸리 CC 클럽하우스, 인공적 대지와 풍경을 잇는 매개적 건축",
+      "url": "https://www.archdaily.com/1187088/creasvalley-cc-clubhouse-ljl-architects"
+     },
+     {
+      "title": "지형의 기억을 잇는 방식, 포르투갈 옴브리아 호텔",
+      "url": "https://www.archdaily.com/1187100/ombria-hotel-and-apartments-loule-promontorio"
      }
     ]
    },
    {
-    "name": "공간을 가르는 물리적 궤적",
-    "note": "번개의 궤적이나 랠리의 시간을 벽체와 패키징이라는 물리적 장치로 고정해 역동성을 부여한다.",
+    "name": "불규칙한 선의 고정",
+    "note": "번개의 궤적이나 불안정한 감각을 물리적 장치로 공간에 안착시킨다.",
     "items": [
+     {
+      "title": "미셸 그루페타의 ‘미소포니아’, 리소 프린트의 거친 질감으로 재현한 청각 과민증의 세계",
+      "url": "https://www.creativeboom.com/work/michelle-gruppettas-riso-printed-animation-reveals-what-sound-sensitivity-actually-feels-like/"
+     },
      {
       "title": "번개의 궤적을 실내로, 바르셀로나 렐람파고 하우스의 공간 구조",
       "url": "https://www.archdaily.com/1010715/relampago-house-h3o-architects"
-     },
-     {
-      "title": "60개의 병으로 재현한 4초의 랠리, 템퍼와 호노의 애니메이션 패키징",
-      "url": "https://www.itsnicethat.com/articles/studio-hono-temper-branding-project-261026"
      }
     ]
    }
   ],
-  "based_on": 14,
+  "based_on": 19,
   "v": 3,
   "model": "gemini-3.5-flash-lite",
-  "written_at": "2026-10-26 14:43"
+  "written_at": "2026-10-26 17:20"
  }
 }
