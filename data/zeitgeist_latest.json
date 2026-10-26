@@ -1,58 +1,26 @@
 {
-  "generated_at": "2026-10-26 23:33 KST",
-  "period": "2026.10.19 - 2026.10.26",
-  "total_articles": 412,
+  "generated_at": "2026-10-27 00:45 KST",
+  "period": "2026.10.20 - 2026.10.27",
+  "total_articles": 340,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 205
+      "count": 169
     },
     {
       "genre": "동시대 미술",
-      "count": 151
+      "count": 126
     },
     {
       "genre": "아방가르드 패션",
-      "count": 41
+      "count": 33
     },
     {
       "genre": "미디어 파사드·3D",
-      "count": 15
+      "count": 12
     }
   ],
   "themes": [
-    {
-      "keyword": "박물관·전시",
-      "count": 39,
-      "previous_count": 35,
-      "trend": "rising",
-      "items": [
-        {
-          "title": "파리에서 연대하기",
-          "url": "https://hyperallergic.com/from-paris-in-solidarity/",
-          "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/10/PHOTO-2026-10-24-14-26-14-8-1-1.jpg",
-          "source_name": "Hyperallergic"
-        },
-        {
-          "title": "네덜란드 디자인 위크 (Dutch Design Week) 의 권력 표에서 수집 가능한 가구와 문화 비평의 만남",
-          "url": "https://www.dezeen.com/2026/10/25/collectible-furniture-dutch-design-week-table-of-power/",
-          "image_url": "https://static-2026.dezeen.com/uploads/2026/10/table-of-power-show-not-show-design_dezeen_2364_sq-1024x1024.jpg",
-          "source_name": "Dezeen"
-        },
-        {
-          "title": "프랑스에서 대규모 시위가 벌어지는 가운데 거리로 나선 예술가들",
-          "url": "https://hyperallergic.com/artists-take-to-the-streets-amid-massive-protests-in-france/",
-          "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/10/GettyImages-2301256119--1-.jpg",
-          "source_name": "Hyperallergic"
-        },
-        {
-          "title": "빌바오 바스크 박물관/베일로 + 건축가",
-          "url": "https://www.archdaily.com/1187258/basque-museum-bilbao-vaillo-plus-architects",
-          "image_url": "https://images.adsttc.com/media/images/6ad8/93dc/20d6/d801/8852/00db/large_jpg/basque-museum-bilbao-vaillo-plus-architects_5.jpg?1792578535",
-          "source_name": "ArchDaily"
-        }
-      ]
-    },
     {
       "keyword": "해변·리조트 건축",
       "count": 7,
@@ -86,40 +54,40 @@
       ]
     },
     {
-      "keyword": "빛과 조명",
-      "count": 8,
-      "previous_count": 9,
+      "keyword": "미니멀리즘",
+      "count": 6,
+      "previous_count": 6,
       "trend": "steady",
       "items": [
         {
-          "title": "Relámpago House  / h3o architects",
-          "url": "https://www.archdaily.com/1010715/relampago-house-h3o-architects",
-          "image_url": "https://images.adsttc.com/media/images/656f/44fd/f84b/cc06/ab19/cdbf/large_jpg/casa-relampago-h3o-architects_1.jpg?1701790992",
-          "source_name": "ArchDaily"
-        },
-        {
-          "title": "2026년 네덜란드 디자인 주간 하이라이트: '아인트호벤은 배경이 아니라 공동 큐레이터입니다'",
-          "url": "https://www.wallpaper.com/design-interiors/design-events/dutch-design-week-2026",
-          "image_url": "https://cdn.mos.cms.futurecdn.net/o5RDw47Joej3n2znsVe24L-1920-80.jpg",
+          "title": "전직 바브카 공장에서 즐기는 미니멀리스트 브루클린 듀플렉스 투어",
+          "url": "https://www.wallpaper.com/design-interiors/interior-design/tour-a-minimalist-brooklyn-duplex-inside-a-former-babka-factory",
+          "image_url": "https://cdn.mos.cms.futurecdn.net/BYMwBypW9w9VwCmoGWa5BQ-1920-80.jpg",
           "source_name": "Wallpaper*"
         },
         {
-          "title": "제5막: 아프사네에서 페르시아 신화를 탐구하는 장치",
-          "url": "https://design-milk.com/apparatus-act-v-afsaneh-collection/",
-          "image_url": "https://design-milk.com/images/2026/10/APPARATUS_ACTV_ENV_002-1500x958.jpg",
-          "source_name": "Design Milk"
+          "title": "Télégraphe",
+          "url": "https://leibal.com/interiors/telegraphe/",
+          "image_url": "https://leibal.com/wp-content/uploads/2026/10/leibal_telegraphe_bureau-invisible_06.jpg",
+          "source_name": "Leibal"
         },
         {
-          "title": "평범한 사람들이 강력하고 새로운 단편 영화에서 \"거리\" 를 간다.",
-          "url": "https://www.stashmedia.tv/ordinary-folk-goes-the-distance-in-powerful-new-short-film/",
-          "image_url": "http://www.stashmedia.tv/wp-content/uploads/Distance-Short-Film-by-Ordinary-Folk-STASH-MAGAZINE5.jpg",
-          "source_name": "Stash Media"
+          "title": "카사 카스텔라르 바이 솔라",
+          "url": "https://minimalissimo.com/articles/casa-castelar-by-solar",
+          "image_url": "https://minimalissimo.com/api/media/file/casa-castelar-by-solar-gallery-3-v20261022-1200x630.jpg",
+          "source_name": "Minimalissimo"
+        },
+        {
+          "title": "Everything Moist Seems Alive 설치의 \"Hydrofeminism\" 및 새는 성도 기능",
+          "url": "https://www.dezeen.com/2026/10/22/hydrofeminism-everything-moist-seems-alive-installation/",
+          "image_url": "https://static-2026.dezeen.com/uploads/2026/10/everything-moist-seems-alive-maison-the-faux-boris-acket-dutch-design-week_dezeen_1704_sq-1024x1024.jpg",
+          "source_name": "Dezeen"
         }
       ]
     },
     {
       "keyword": "레스토랑·호스피탈리티",
-      "count": 6,
+      "count": 5,
       "previous_count": 5,
       "trend": "steady",
       "items": [
@@ -150,41 +118,9 @@
       ]
     },
     {
-      "keyword": "미니멀리즘",
-      "count": 5,
-      "previous_count": 6,
-      "trend": "steady",
-      "items": [
-        {
-          "title": "Télégraphe",
-          "url": "https://leibal.com/interiors/telegraphe/",
-          "image_url": "https://leibal.com/wp-content/uploads/2026/10/leibal_telegraphe_bureau-invisible_06.jpg",
-          "source_name": "Leibal"
-        },
-        {
-          "title": "카사 카스텔라르 바이 솔라",
-          "url": "https://minimalissimo.com/articles/casa-castelar-by-solar",
-          "image_url": "https://minimalissimo.com/api/media/file/casa-castelar-by-solar-gallery-3-v20261022-1200x630.jpg",
-          "source_name": "Minimalissimo"
-        },
-        {
-          "title": "Everything Moist Seems Alive 설치의 \"Hydrofeminism\" 및 새는 성도 기능",
-          "url": "https://www.dezeen.com/2026/10/22/hydrofeminism-everything-moist-seems-alive-installation/",
-          "image_url": "https://static-2026.dezeen.com/uploads/2026/10/everything-moist-seems-alive-maison-the-faux-boris-acket-dutch-design-week_dezeen_1704_sq-1024x1024.jpg",
-          "source_name": "Dezeen"
-        },
-        {
-          "title": "불가리 호텔 앤 리조트의 카르미나티 리프트 앤 슬라이드 창문 프레임 두바이 스카이라인",
-          "url": "https://www.dezeen.com/2026/10/22/carminati-lift-slide-windows-frame-dubai-skyline-bvlgari-hotel-resort/",
-          "image_url": "https://static-2026.dezeen.com/uploads/2026/10/SQ_dezeen_1704_col_0-1024x1024.jpg",
-          "source_name": "Dezeen"
-        }
-      ]
-    },
-    {
       "keyword": "리노베이션·재생",
-      "count": 5,
-      "previous_count": 4,
+      "count": 4,
+      "previous_count": 5,
       "trend": "steady",
       "items": [
         {
@@ -212,6 +148,70 @@
           "source_name": "Wallpaper*"
         }
       ]
+    },
+    {
+      "keyword": "박물관·전시",
+      "count": 28,
+      "previous_count": 38,
+      "trend": "falling",
+      "items": [
+        {
+          "title": "파리에서 연대하기",
+          "url": "https://hyperallergic.com/from-paris-in-solidarity/",
+          "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/10/PHOTO-2026-10-24-14-26-14-8-1-1.jpg",
+          "source_name": "Hyperallergic"
+        },
+        {
+          "title": "네덜란드 디자인 위크 (Dutch Design Week) 의 권력 표에서 수집 가능한 가구와 문화 비평의 만남",
+          "url": "https://www.dezeen.com/2026/10/25/collectible-furniture-dutch-design-week-table-of-power/",
+          "image_url": "https://static-2026.dezeen.com/uploads/2026/10/table-of-power-show-not-show-design_dezeen_2364_sq-1024x1024.jpg",
+          "source_name": "Dezeen"
+        },
+        {
+          "title": "프랑스에서 대규모 시위가 벌어지는 가운데 거리로 나선 예술가들",
+          "url": "https://hyperallergic.com/artists-take-to-the-streets-amid-massive-protests-in-france/",
+          "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/10/GettyImages-2301256119--1-.jpg",
+          "source_name": "Hyperallergic"
+        },
+        {
+          "title": "빌바오 바스크 박물관/베일로 + 건축가",
+          "url": "https://www.archdaily.com/1187258/basque-museum-bilbao-vaillo-plus-architects",
+          "image_url": "https://images.adsttc.com/media/images/6ad8/93dc/20d6/d801/8852/00db/large_jpg/basque-museum-bilbao-vaillo-plus-architects_5.jpg?1792578535",
+          "source_name": "ArchDaily"
+        }
+      ]
+    },
+    {
+      "keyword": "가구 디자인",
+      "count": 8,
+      "previous_count": 13,
+      "trend": "falling",
+      "items": [
+        {
+          "title": "전직 바브카 공장에서 즐기는 미니멀리스트 브루클린 듀플렉스 투어",
+          "url": "https://www.wallpaper.com/design-interiors/interior-design/tour-a-minimalist-brooklyn-duplex-inside-a-former-babka-factory",
+          "image_url": "https://cdn.mos.cms.futurecdn.net/BYMwBypW9w9VwCmoGWa5BQ-1920-80.jpg",
+          "source_name": "Wallpaper*"
+        },
+        {
+          "title": "Marfa Stance의 데뷔 가구는 Gee's Bend 퀼트로 장식되어 있습니다.",
+          "url": "https://www.wallpaper.com/design-interiors/furniture/marfa-stance-furniture-stephen-kenn-studio-gees-bend",
+          "image_url": "https://cdn.mos.cms.futurecdn.net/ykzCPsoEfkGSqUmXCoEAHX-1920-80.jpg",
+          "source_name": "Wallpaper*"
+        },
+        {
+          "title": "네덜란드 디자인 위크 (Dutch Design Week) 의 권력 표에서 수집 가능한 가구와 문화 비평의 만남",
+          "url": "https://www.dezeen.com/2026/10/25/collectible-furniture-dutch-design-week-table-of-power/",
+          "image_url": "https://static-2026.dezeen.com/uploads/2026/10/table-of-power-show-not-show-design_dezeen_2364_sq-1024x1024.jpg",
+          "source_name": "Dezeen"
+        },
+        {
+          "title": "이케부쿠로 생활 가구 - 트램 정류장/사고시 요스케 아틀리에",
+          "url": "https://www.archdaily.com/1186237/ikebukuro-living-furniture-tram-stop-yosuke-sagoshi-atelier",
+          "image_url": "https://images.adsttc.com/media/images/6abf/a79d/07c3/d100/017f/cbfb/large_jpg/IMG_8131.jpg?1790945202",
+          "source_name": "ArchDaily"
+        }
+      ]
     }
   ],
   "notable_names": [
@@ -219,13 +219,10 @@
     "Art Basel Paris",
     "DAGA Architects",
     "Daft Punk",
-    "Nakshabid Architects",
     "Fred Again",
     "Doja Cat",
     "Alice Diop",
-    "Miu Miu",
-    "Lucy Bridge",
-    "Venice Architecture Biennale"
+    "Miu Miu"
   ],
   "has_comparison": true
 }

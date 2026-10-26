@@ -2648,5 +2648,40 @@
   "v": 3,
   "model": "gemini-3.1-flash-lite",
   "written_at": "2026-10-26 23:41"
+ },
+ "2026-10-27": {
+  "date": "2026-10-27",
+  "headline": "브루클린 로프트의 미니멀리즘과 빈티지 엽서의 거대 생명체",
+  "editorial": "브루클린 바브카 공장의 변신, 스튜디오 자이츠의 미니멀리즘 듀플렉스는 건축적 원형을 보존하며 가구 철학을 구조와 일체화한다. 빈티지 엽서 위로 침범한 거대 생명체, 로즈 샌더슨의 초현실적 풍경은 평온한 일상을 기묘한 꿈의 영역으로 바꾼다. 비밀 무대와 성에서의 하룻밤: 글래스고 인터내셔널 어셈블리 2026은 물리적 장치로 크리에이터의 연대를 조직한다.",
+  "threads": [
+   {
+    "name": "공장과 성의 공간 변형",
+    "note": "오래된 공장과 성이라는 물리적 장소를 각각 거주 공간과 무대로 고쳐 쓴다.",
+    "items": [
+     {
+      "title": "브루클린 바브카 공장의 변신, 스튜디오 자이츠의 미니멀리즘 듀플렉스",
+      "url": "https://www.wallpaper.com/design-interiors/interior-design/tour-a-minimalist-brooklyn-duplex-inside-a-former-babka-factory"
+     },
+     {
+      "title": "비밀 무대와 성에서의 하룻밤: 글래스고 인터내셔널 어셈블리 2026",
+      "url": "https://www.creativeboom.com/news/international-assembly-2026-glasgows-design-festival-turns-with-a-secret-stage-and-a-night-in-a-medieval-castle/"
+     }
+    ]
+   },
+   {
+    "name": "엽서 위의 초현실적 풍경",
+    "note": "과거의 기록물인 빈티지 엽서에 이질적인 거대 생명체를 덧입혀 일상을 재배치한다.",
+    "items": [
+     {
+      "title": "빈티지 엽서 위로 침범한 거대 생명체, 로즈 샌더슨의 초현실적 풍경",
+      "url": "https://www.thisiscolossal.com/2026/10/rose-sanderson-vintage-postcard-paintings/"
+     }
+    ]
+   }
+  ],
+  "based_on": 3,
+  "v": 3,
+  "model": "gemini-3.5-flash-lite",
+  "written_at": "2026-10-27 00:46"
  }
 }
