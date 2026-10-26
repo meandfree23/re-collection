@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-10-27 00:45 KST",
+  "generated_at": "2026-10-27 04:28 KST",
   "period": "2026.10.20 - 2026.10.27",
-  "total_articles": 340,
+  "total_articles": 358,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 169
+      "count": 177
     },
     {
       "genre": "동시대 미술",
-      "count": 126
+      "count": 131
     },
     {
       "genre": "아방가르드 패션",
-      "count": 33
+      "count": 36
     },
     {
       "genre": "미디어 파사드·3D",
-      "count": 12
+      "count": 14
     }
   ],
   "themes": [
@@ -54,6 +54,38 @@
       ]
     },
     {
+      "keyword": "레스토랑·호스피탈리티",
+      "count": 6,
+      "previous_count": 5,
+      "trend": "steady",
+      "items": [
+        {
+          "title": "돈도 레스토랑/코스타 + 에레라 아르키텍토스",
+          "url": "https://www.archdaily.com/1177056/dondoh-restaurant-costa-plus-herrera-arquitectos",
+          "image_url": "https://images.adsttc.com/media/images/6130/2942/25f7/0e01/6663/f4c9/large_jpg/dondoh-julio-4.jpg?1630546310",
+          "source_name": "ArchDaily"
+        },
+        {
+          "title": "FictionWorks의 이 샬롯 비스트로에서 나파 밸리와 파리의 만남",
+          "url": "https://design-milk.com/napa-bistro-charlotte-fictionworks/",
+          "image_url": "https://design-milk.com/images/2026/10/Napa-Charlotte-Napa-Bistro0679-Edit-e1792698823198-1500x1000.jpeg",
+          "source_name": "Design Milk"
+        },
+        {
+          "title": "Blu Pizzeria Jeddah / movs studio",
+          "url": "https://www.archdaily.com/1187269/blu-pizzeria-jeddah-movs-studio",
+          "image_url": "https://images.adsttc.com/media/images/6ad8/b475/3271/8400/01d0/d862/large_jpg/_MOVS_BLU_cover.jpg?1792586895",
+          "source_name": "ArchDaily"
+        },
+        {
+          "title": "Węzeł Cieplny: 그단스크의 레스토랑으로서 새로운 따뜻함을 찾는 전 난방 변전소",
+          "url": "https://www.yatzer.com/wezel-cieplny-con-s-gdansk-poland",
+          "image_url": "https://media.yatzer.com/c-Wezel-Cieplny-Gdansk-CON-S-photo-Moodauthors-yatzer-1400x864.jpg",
+          "source_name": "Yatzer"
+        }
+      ]
+    },
+    {
       "keyword": "미니멀리즘",
       "count": 6,
       "previous_count": 6,
@@ -82,38 +114,6 @@
           "url": "https://www.dezeen.com/2026/10/22/hydrofeminism-everything-moist-seems-alive-installation/",
           "image_url": "https://static-2026.dezeen.com/uploads/2026/10/everything-moist-seems-alive-maison-the-faux-boris-acket-dutch-design-week_dezeen_1704_sq-1024x1024.jpg",
           "source_name": "Dezeen"
-        }
-      ]
-    },
-    {
-      "keyword": "레스토랑·호스피탈리티",
-      "count": 5,
-      "previous_count": 5,
-      "trend": "steady",
-      "items": [
-        {
-          "title": "FictionWorks의 이 샬롯 비스트로에서 나파 밸리와 파리의 만남",
-          "url": "https://design-milk.com/napa-bistro-charlotte-fictionworks/",
-          "image_url": "https://design-milk.com/images/2026/10/Napa-Charlotte-Napa-Bistro0679-Edit-e1792698823198-1500x1000.jpeg",
-          "source_name": "Design Milk"
-        },
-        {
-          "title": "Blu Pizzeria Jeddah / movs studio",
-          "url": "https://www.archdaily.com/1187269/blu-pizzeria-jeddah-movs-studio",
-          "image_url": "https://images.adsttc.com/media/images/6ad8/b475/3271/8400/01d0/d862/large_jpg/_MOVS_BLU_cover.jpg?1792586895",
-          "source_name": "ArchDaily"
-        },
-        {
-          "title": "Węzeł Cieplny: 그단스크의 레스토랑으로서 새로운 따뜻함을 찾는 전 난방 변전소",
-          "url": "https://www.yatzer.com/wezel-cieplny-con-s-gdansk-poland",
-          "image_url": "https://media.yatzer.com/c-Wezel-Cieplny-Gdansk-CON-S-photo-Moodauthors-yatzer-1400x864.jpg",
-          "source_name": "Yatzer"
-        },
-        {
-          "title": "스네글",
-          "url": "https://leibal.com/lighting/snegl/",
-          "image_url": "https://leibal.com/wp-content/uploads/2026/09/leibal-snegl-russo-betak-2.jpg",
-          "source_name": "Leibal"
         }
       ]
     },
@@ -151,10 +151,22 @@
     },
     {
       "keyword": "박물관·전시",
-      "count": 28,
+      "count": 30,
       "previous_count": 38,
       "trend": "falling",
       "items": [
+        {
+          "title": "존 딜그의 대지에 대한 경외심",
+          "url": "https://hyperallergic.com/john-dilgs-down-to-earth-reverence/",
+          "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/10/PF9832_Dilg_Wild-Life_2024.jpeg",
+          "source_name": "Hyperallergic"
+        },
+        {
+          "title": "파리 바젤 미술관 하이라이트 투어",
+          "url": "https://www.anothermag.com/art-photography/17603/highlights-from-art-basel-paris-2026?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=highlights-from-art-basel-paris",
+          "image_url": "https://images-prod.anothermag.com/786/azure/another-prod/470/9/479860.jpg",
+          "source_name": "AnOther Magazine"
+        },
         {
           "title": "파리에서 연대하기",
           "url": "https://hyperallergic.com/from-paris-in-solidarity/",
@@ -166,18 +178,6 @@
           "url": "https://www.dezeen.com/2026/10/25/collectible-furniture-dutch-design-week-table-of-power/",
           "image_url": "https://static-2026.dezeen.com/uploads/2026/10/table-of-power-show-not-show-design_dezeen_2364_sq-1024x1024.jpg",
           "source_name": "Dezeen"
-        },
-        {
-          "title": "프랑스에서 대규모 시위가 벌어지는 가운데 거리로 나선 예술가들",
-          "url": "https://hyperallergic.com/artists-take-to-the-streets-amid-massive-protests-in-france/",
-          "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/10/GettyImages-2301256119--1-.jpg",
-          "source_name": "Hyperallergic"
-        },
-        {
-          "title": "빌바오 바스크 박물관/베일로 + 건축가",
-          "url": "https://www.archdaily.com/1187258/basque-museum-bilbao-vaillo-plus-architects",
-          "image_url": "https://images.adsttc.com/media/images/6ad8/93dc/20d6/d801/8852/00db/large_jpg/basque-museum-bilbao-vaillo-plus-architects_5.jpg?1792578535",
-          "source_name": "ArchDaily"
         }
       ]
     },
@@ -215,9 +215,10 @@
     }
   ],
   "notable_names": [
-    "Apple Music",
     "Art Basel Paris",
+    "Apple Music",
     "DAGA Architects",
+    "Public Space",
     "Daft Punk",
     "Fred Again",
     "Doja Cat",
