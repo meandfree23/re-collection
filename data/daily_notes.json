@@ -2604,45 +2604,49 @@
  },
  "2026-10-26": {
   "date": "2026-10-26",
-  "headline": "취리히 호숫가의 분절된 볼륨과 바르셀로나의 번개 궤적",
-  "editorial": "취리히 호숫가 경사면의 씽크 아키텍처는 지형의 리듬을 따라 볼륨을 쪼개며 물리적 제약을 주변 풍경과 동화시킨다. 이와 유사하게 바르셀로나 렐람파고 하우스는 번개의 불규칙한 선을 벽체와 조명으로 고정해 정적인 공간에 긴장감을 불어넣는다. 두 건축적 시도는 고정된 틀을 거부하고 물리적 환경의 결을 공간 구조로 밀어 넣는 방식을 보여준다.",
+  "headline": "전통 그림자의 톱니 지붕과 구워지지 않은 흙의 다공성",
+  "editorial": "태국 카오야이 마운틴 그라운디드 빌라는 전통 그림자극의 빛과 그림자를 건축적 장치로 삼아 주거의 형태를 빚어낸다. 이와 같은 맥락에서 헤센의 다짐육 아일랜드는 주변 산업 유산의 거친 벽돌 사이에서 구워지지 않은 흙의 다공성 질감을 드러내며 공간의 독립적인 부피감을 구축한다. 지형에 스며드는 가마야 파머스 에코 리조트 또한 건축물을 짓는 대신 땅의 일부로 숨어들어 풍경과의 조화를 꾀한다. 우리는 건축이 주변 환경과 물리적으로 충돌하기보다 그 일부가 되어 조용히 스며드는 방식에 주목한다.",
   "threads": [
    {
-    "name": "지형과 공간의 결합",
-    "note": "지형의 물리적 제약이나 기억을 건축적 볼륨과 동선으로 치환한다.",
+    "name": "지형에 스며든 건축",
+    "note": "인위적인 구조물을 세우는 대신 주변 지형과 풍경의 일부로 동화되는 설계 방식을 다룬다.",
     "items": [
+     {
+      "title": "태국 카오야이 마운틴 그라운디드 빌라, 전통 그림자극을 건축의 언어로 재해석하다",
+      "url": "https://www.wallpaper.com/architecture/residential/khao-yai-mountain-grounded-villa-has-design-and-research-thailand"
+     },
+     {
+      "title": "지형에 스며드는 돌과 흙의 위장: 가마야 파머스 에코 리조트",
+      "url": "https://www.dezeen.com/2026/10/26/gamaya-farms-biome-environmental-solutions/"
+     },
      {
       "title": "취리히 호숫가 경사면을 따라 분절된 씽크 아키텍처의 하우스 온 어 슬로프",
       "url": "https://www.dezeen.com/2026/10/26/think-architecture-hillside-house-lake-zurich/"
-     },
-     {
-      "title": "안성 크리스밸리 CC 클럽하우스, 인공적 대지와 풍경을 잇는 매개적 건축",
-      "url": "https://www.archdaily.com/1187088/creasvalley-cc-clubhouse-ljl-architects"
-     },
-     {
-      "title": "지형의 기억을 잇는 방식, 포르투갈 옴브리아 호텔",
-      "url": "https://www.archdaily.com/1187100/ombria-hotel-and-apartments-loule-promontorio"
      }
     ]
    },
    {
-    "name": "불규칙한 선의 고정",
-    "note": "번개의 궤적이나 불안정한 감각을 물리적 장치로 공간에 안착시킨다.",
+    "name": "산업 유산의 질감",
+    "note": "과거 산업 현장의 거친 재료를 현대적 주거와 가구 디자인의 핵심 요소로 치환한다.",
     "items": [
      {
-      "title": "미셸 그루페타의 ‘미소포니아’, 리소 프린트의 거친 질감으로 재현한 청각 과민증의 세계",
-      "url": "https://www.creativeboom.com/work/michelle-gruppettas-riso-printed-animation-reveals-what-sound-sensitivity-actually-feels-like/"
+      "title": "헤센: 산업 유산 속 다짐육으로 빚은 독립적 부피감",
+      "url": "https://leibal.com/interiors/hessen/"
      },
      {
-      "title": "번개의 궤적을 실내로, 바르셀로나 렐람파고 하우스의 공간 구조",
-      "url": "https://www.archdaily.com/1010715/relampago-house-h3o-architects"
+      "title": "스테파노 보에리 아키테티, 트빌리시 소비에트 공장을 주거 단지로 재생",
+      "url": "https://www.dezeen.com/2026/10/26/loco-park-masterplan-stefano-boeri/"
+     },
+     {
+      "title": "트빌리시의 옛 기관차 공장을 녹색 주거 지구로 바꾸는 마스터플랜",
+      "url": "https://www.archdaily.com/1187468/stefano-boeri-architetti-selected-to-transform-former-locomotive-factory-into-green-neighbourhood-in-tbilisi"
      }
     ]
    }
   ],
-  "based_on": 19,
+  "based_on": 24,
   "v": 3,
-  "model": "gemini-3.5-flash-lite",
-  "written_at": "2026-10-26 17:20"
+  "model": "gemini-3.1-flash-lite",
+  "written_at": "2026-10-26 23:41"
  }
 }

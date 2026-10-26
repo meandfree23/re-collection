@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-10-26 17:20 KST",
+  "generated_at": "2026-10-26 23:33 KST",
   "period": "2026.10.19 - 2026.10.26",
-  "total_articles": 389,
+  "total_articles": 412,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 191
+      "count": 205
     },
     {
       "genre": "동시대 미술",
-      "count": 146
+      "count": 151
     },
     {
       "genre": "아방가르드 패션",
-      "count": 37
+      "count": 41
     },
     {
       "genre": "미디어 파사드·3D",
@@ -23,10 +23,16 @@
   "themes": [
     {
       "keyword": "박물관·전시",
-      "count": 38,
+      "count": 39,
       "previous_count": 35,
       "trend": "rising",
       "items": [
+        {
+          "title": "파리에서 연대하기",
+          "url": "https://hyperallergic.com/from-paris-in-solidarity/",
+          "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/10/PHOTO-2026-10-24-14-26-14-8-1-1.jpg",
+          "source_name": "Hyperallergic"
+        },
         {
           "title": "네덜란드 디자인 위크 (Dutch Design Week) 의 권력 표에서 수집 가능한 가구와 문화 비평의 만남",
           "url": "https://www.dezeen.com/2026/10/25/collectible-furniture-dutch-design-week-table-of-power/",
@@ -44,21 +50,21 @@
           "url": "https://www.archdaily.com/1187258/basque-museum-bilbao-vaillo-plus-architects",
           "image_url": "https://images.adsttc.com/media/images/6ad8/93dc/20d6/d801/8852/00db/large_jpg/basque-museum-bilbao-vaillo-plus-architects_5.jpg?1792578535",
           "source_name": "ArchDaily"
-        },
-        {
-          "title": "오 르부아르, 아트 바젤 파리",
-          "url": "https://hyperallergic.com/au-revoir-art-basel-paris/",
-          "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/10/Credit_ULAE_KikiSmith_2000_PoolOfTearsII-1.jpg",
-          "source_name": "Hyperallergic"
         }
       ]
     },
     {
       "keyword": "해변·리조트 건축",
-      "count": 6,
+      "count": 7,
       "previous_count": 4,
       "trend": "rising",
       "items": [
+        {
+          "title": "돌로 덮인 지붕은 인도의 가마야 농장 생태 리조트에 \"절대적인 위장\" 을 제공합니다.",
+          "url": "https://www.dezeen.com/2026/10/26/gamaya-farms-biome-environmental-solutions/",
+          "image_url": "https://static-2026.dezeen.com/uploads/2026/10/gamaya-farms-biome-environmental-solutions-architecture-india-hyderabad-stone-earth_dezeen_2364_sq-1024x1024.jpg",
+          "source_name": "Dezeen"
+        },
         {
           "title": "알바니아는 트럼프와 관련된 리조트에서 논란이 되고 있는 패스트트랙 혐의로 기소되었습니다.",
           "url": "https://www.dezeen.com/2026/10/22/albania-sazan-island-resort/",
@@ -76,12 +82,6 @@
           "url": "https://www.dezeen.com/2026/10/22/carminati-lift-slide-windows-frame-dubai-skyline-bvlgari-hotel-resort/",
           "image_url": "https://static-2026.dezeen.com/uploads/2026/10/SQ_dezeen_1704_col_0-1024x1024.jpg",
           "source_name": "Dezeen"
-        },
-        {
-          "title": "아모 리조트, 고대 그리스의 장인 정신을 로도스 해안에 전하다",
-          "url": "https://design-milk.com/amoh-resort-rhodes-studio-lost/",
-          "image_url": "https://design-milk.com/images/2026/10/1.-drz_By-Studio-LOST_AMOH_By-Studio-LOST_5_By-Studio-LOST_58818-e1792508299127-1500x1000.jpg",
-          "source_name": "Design Milk"
         }
       ]
     },
@@ -215,11 +215,11 @@
     }
   ],
   "notable_names": [
+    "Apple Music",
     "Art Basel Paris",
     "DAGA Architects",
     "Daft Punk",
     "Nakshabid Architects",
-    "Apple Music",
     "Fred Again",
     "Doja Cat",
     "Alice Diop",
