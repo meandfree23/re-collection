@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-10-27 17:49 KST",
+  "generated_at": "2026-10-27 22:32 KST",
   "period": "2026.10.20 - 2026.10.27",
-  "total_articles": 386,
+  "total_articles": 415,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 190
+      "count": 206
     },
     {
       "genre": "동시대 미술",
-      "count": 146
+      "count": 154
     },
     {
       "genre": "아방가르드 패션",
-      "count": 36
+      "count": 41
     },
     {
       "genre": "미디어 파사드·3D",
@@ -23,10 +23,16 @@
   "themes": [
     {
       "keyword": "해변·리조트 건축",
-      "count": 7,
+      "count": 8,
       "previous_count": 4,
       "trend": "rising",
       "items": [
+        {
+          "title": "리조트 나시마/스튜디오 마두",
+          "url": "https://www.archdaily.com/1187277/resort-nasima-studio-madouh",
+          "image_url": "https://images.adsttc.com/media/images/6ad8/b968/3271/8400/01d0/d8fa/large_jpg/SM_-_RN_-_13.jpg?1792588202",
+          "source_name": "ArchDaily"
+        },
         {
           "title": "돌로 덮인 지붕은 인도의 가마야 농장 생태 리조트에 \"절대적인 위장\" 을 제공합니다.",
           "url": "https://www.dezeen.com/2026/10/26/gamaya-farms-biome-environmental-solutions/",
@@ -44,12 +50,38 @@
           "url": "https://www.archdaily.com/1182304/integrating-wellness-into-residential-interiors",
           "image_url": "https://images.adsttc.com/media/images/6a74/47b6/5c0b/ae01/8ae4/b58c/large_jpg/integrating-wellness-into-residential-interiors_1.jpg?1786005454",
           "source_name": "ArchDaily"
+        }
+      ]
+    },
+    {
+      "keyword": "미니멀리즘",
+      "count": 7,
+      "previous_count": 6,
+      "trend": "steady",
+      "items": [
+        {
+          "title": "마이아홈즈, 미술 애호가를 위한 손뜨개 문양 러그 제작",
+          "url": "https://design-milk.com/maia-homes-hand-tufted-rugs/",
+          "image_url": "https://design-milk.com/images/2026/09/evolving-shapes-hand-tufted-rug-room-scene-1280x900-1.jpg",
+          "source_name": "Design Milk"
         },
         {
-          "title": "불가리 호텔 앤 리조트의 카르미나티 리프트 앤 슬라이드 창문 프레임 두바이 스카이라인",
-          "url": "https://www.dezeen.com/2026/10/22/carminati-lift-slide-windows-frame-dubai-skyline-bvlgari-hotel-resort/",
-          "image_url": "https://static-2026.dezeen.com/uploads/2026/10/SQ_dezeen_1704_col_0-1024x1024.jpg",
-          "source_name": "Dezeen"
+          "title": "전직 바브카 공장에서 즐기는 미니멀리스트 브루클린 듀플렉스 투어",
+          "url": "https://www.wallpaper.com/design-interiors/interior-design/tour-a-minimalist-brooklyn-duplex-inside-a-former-babka-factory",
+          "image_url": "https://cdn.mos.cms.futurecdn.net/BYMwBypW9w9VwCmoGWa5BQ-1920-80.jpg",
+          "source_name": "Wallpaper*"
+        },
+        {
+          "title": "Télégraphe",
+          "url": "https://leibal.com/interiors/telegraphe/",
+          "image_url": "https://leibal.com/wp-content/uploads/2026/10/leibal_telegraphe_bureau-invisible_06.jpg",
+          "source_name": "Leibal"
+        },
+        {
+          "title": "카사 카스텔라르 바이 솔라",
+          "url": "https://minimalissimo.com/articles/casa-castelar-by-solar",
+          "image_url": "https://minimalissimo.com/api/media/file/casa-castelar-by-solar-gallery-3-v20261022-1200x630.jpg",
+          "source_name": "Minimalissimo"
         }
       ]
     },
@@ -86,43 +118,17 @@
       ]
     },
     {
-      "keyword": "미니멀리즘",
-      "count": 6,
-      "previous_count": 6,
-      "trend": "steady",
-      "items": [
-        {
-          "title": "전직 바브카 공장에서 즐기는 미니멀리스트 브루클린 듀플렉스 투어",
-          "url": "https://www.wallpaper.com/design-interiors/interior-design/tour-a-minimalist-brooklyn-duplex-inside-a-former-babka-factory",
-          "image_url": "https://cdn.mos.cms.futurecdn.net/BYMwBypW9w9VwCmoGWa5BQ-1920-80.jpg",
-          "source_name": "Wallpaper*"
-        },
-        {
-          "title": "Télégraphe",
-          "url": "https://leibal.com/interiors/telegraphe/",
-          "image_url": "https://leibal.com/wp-content/uploads/2026/10/leibal_telegraphe_bureau-invisible_06.jpg",
-          "source_name": "Leibal"
-        },
-        {
-          "title": "카사 카스텔라르 바이 솔라",
-          "url": "https://minimalissimo.com/articles/casa-castelar-by-solar",
-          "image_url": "https://minimalissimo.com/api/media/file/casa-castelar-by-solar-gallery-3-v20261022-1200x630.jpg",
-          "source_name": "Minimalissimo"
-        },
-        {
-          "title": "Everything Moist Seems Alive 설치의 \"Hydrofeminism\" 및 새는 성도 기능",
-          "url": "https://www.dezeen.com/2026/10/22/hydrofeminism-everything-moist-seems-alive-installation/",
-          "image_url": "https://static-2026.dezeen.com/uploads/2026/10/everything-moist-seems-alive-maison-the-faux-boris-acket-dutch-design-week_dezeen_1704_sq-1024x1024.jpg",
-          "source_name": "Dezeen"
-        }
-      ]
-    },
-    {
       "keyword": "리노베이션·재생",
-      "count": 4,
+      "count": 5,
       "previous_count": 5,
       "trend": "steady",
       "items": [
+        {
+          "title": "클린턴힐 레지던스",
+          "url": "https://leibal.com/interiors/clinton-hill-residence/",
+          "image_url": "https://leibal.com/wp-content/uploads/2026/10/leibal-clinton-hill-residence-office-of-tangible-space-2.jpg",
+          "source_name": "Leibal"
+        },
         {
           "title": "인테리어 건축으로서의 비계: 임시 구조물의 수명",
           "url": "https://www.archdaily.com/1187248/scaffolding-as-interior-architecture-the-longevity-of-temporary-structures",
@@ -140,75 +146,69 @@
           "url": "https://www.architecturaldigest.com/story/the-frankfurt-kitchen-changed-design-history-forever-inside-the-race-to-save-it-from-extinction",
           "image_url": "https://media.architecturaldigest.com/photos/6acf98fd6996a76491fae8cc/master/pass/3BRNF4T.jpg",
           "source_name": "Architectural Digest"
-        },
-        {
-          "title": "애틀랜타에 위치한 이 창고형 아트 센터는 '댄 플래빈 온 스테로이드' 처럼 빛납니다.",
-          "url": "https://www.wallpaper.com/architecture/public-buildings/loop-art-centre-atlanta-georgia-jennifer-bonner-mall",
-          "image_url": "https://cdn.mos.cms.futurecdn.net/fuYeR57xXcu3b2ivXL7kaJ-1920-80.png",
-          "source_name": "Wallpaper*"
         }
       ]
     },
     {
       "keyword": "박물관·전시",
-      "count": 32,
+      "count": 35,
       "previous_count": 38,
       "trend": "falling",
       "items": [
+        {
+          "title": "뷔로 지유 장 (Büro Ziyu Zhuang) 은 중국 박물관 클러스터를 초원에 \"매끄럽게 혼합\" 할 수 있도록 설계합니다.",
+          "url": "https://www.dezeen.com/2026/10/27/buro-ziyu-zhuang-zi-museum-cluster-xianning/",
+          "image_url": "https://static-2026.dezeen.com/uploads/2026/10/zi-museum-Buro-Ziyu-Zhuang_dezeen_2364_col_sq5-1024x1024.jpg",
+          "source_name": "Dezeen"
+        },
+        {
+          "title": "RAMSA, 시카고 그리핀 과학 산업 박물관에서 새로운 웰컴 홀 계획 발표",
+          "url": "https://www.archdaily.com/1187581/ramsa-unveils-plans-for-new-welcome-hall-at-chicagos-griffin-museum-of-science-and-industry",
+          "image_url": "https://images.adsttc.com/media/images/6ae0/6b4f/db5c/2001/882d/08ee/large_jpg/ramsa-unveils-plans-for-new-welcome-hall-at-chicagos-griffin-museum-of-science-and-industry_1.jpg?1793092474",
+          "source_name": "ArchDaily"
+        },
+        {
+          "title": "휘트니 뮤지엄 x 갭 리히텐슈타인 양말 상자 양말",
+          "url": "https://coolhunting.com/buy/whitney-museum-x-gap-lichtenstein-sock-box-socks/",
+          "image_url": "https://coolhunting.com/wp-content/uploads/2026/10/whitney_sock_box_liechtenstein_box-768x768.png",
+          "source_name": "Cool Hunting"
+        },
         {
           "title": "디자인 박물관 회고전의 에스 데블린 (Es Devlin) 은 \"모든 것은 정말 단순한 제스처에서 시작됩니다.\" 라고 말합니다.",
           "url": "https://www.dezeen.com/2026/10/27/other-worlds-es-devlin-exhibition-retrospective-design-museum-london-interview-video/",
           "image_url": "https://static-2026.dezeen.com/uploads/2026/10/other-worlds-es-devlin-exhibition-retrospective-design-museum-london-video-sq_dezeen_2364_col_0-1024x1024.jpg",
           "source_name": "Dezeen"
-        },
-        {
-          "title": "Mamdani는 Met에서 일찍 투표합니다. 다른 뉴욕시 박물관에는 투표소가 있나요?",
-          "url": "https://hyperallergic.com/mamdani-votes-early-at-the-met-what-other-nyc-museums-are-polling-sites/",
-          "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/10/Screenshot-2026-10-26-at-1.24.16---PM.png",
-          "source_name": "Hyperallergic"
-        },
-        {
-          "title": "존 딜그의 대지에 대한 경외심",
-          "url": "https://hyperallergic.com/john-dilgs-down-to-earth-reverence/",
-          "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/10/PF9832_Dilg_Wild-Life_2024.jpeg",
-          "source_name": "Hyperallergic"
-        },
-        {
-          "title": "파리 바젤 미술관 하이라이트 투어",
-          "url": "https://www.anothermag.com/art-photography/17603/highlights-from-art-basel-paris-2026?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=highlights-from-art-basel-paris",
-          "image_url": "https://images-prod.anothermag.com/786/azure/another-prod/470/9/479860.jpg",
-          "source_name": "AnOther Magazine"
         }
       ]
     },
     {
-      "keyword": "가구 디자인",
-      "count": 8,
+      "keyword": "목재 건축",
+      "count": 9,
       "previous_count": 13,
       "trend": "falling",
       "items": [
         {
-          "title": "전직 바브카 공장에서 즐기는 미니멀리스트 브루클린 듀플렉스 투어",
-          "url": "https://www.wallpaper.com/design-interiors/interior-design/tour-a-minimalist-brooklyn-duplex-inside-a-former-babka-factory",
-          "image_url": "https://cdn.mos.cms.futurecdn.net/BYMwBypW9w9VwCmoGWa5BQ-1920-80.jpg",
-          "source_name": "Wallpaper*"
-        },
-        {
-          "title": "Marfa Stance의 데뷔 가구는 Gee's Bend 퀼트로 장식되어 있습니다.",
-          "url": "https://www.wallpaper.com/design-interiors/furniture/marfa-stance-furniture-stephen-kenn-studio-gees-bend",
-          "image_url": "https://cdn.mos.cms.futurecdn.net/ykzCPsoEfkGSqUmXCoEAHX-1920-80.jpg",
-          "source_name": "Wallpaper*"
-        },
-        {
-          "title": "네덜란드 디자인 위크 (Dutch Design Week) 의 권력 표에서 수집 가능한 가구와 문화 비평의 만남",
-          "url": "https://www.dezeen.com/2026/10/25/collectible-furniture-dutch-design-week-table-of-power/",
-          "image_url": "https://static-2026.dezeen.com/uploads/2026/10/table-of-power-show-not-show-design_dezeen_2364_sq-1024x1024.jpg",
+          "title": "마요르카의 Terreno Barrio Hotel의 오래되고 새로운 건물에서 색상 차단 및 코르크를 이용한 OHLAB 실험",
+          "url": "https://www.dezeen.com/2026/10/27/ohlab-experiments-with-colour-blocking-and-cork-in-old-and-new-buildings-of-terreno-barrio-hotel-in-mallorca/",
+          "image_url": "https://static-2026.dezeen.com/uploads/2026/10/terreno-barrio-hotel-ohlab_dezeen_2364_sq_1-1024x1024.jpg",
           "source_name": "Dezeen"
         },
         {
-          "title": "이케부쿠로 생활 가구 - 트램 정류장/사고시 요스케 아틀리에",
-          "url": "https://www.archdaily.com/1186237/ikebukuro-living-furniture-tram-stop-yosuke-sagoshi-atelier",
-          "image_url": "https://images.adsttc.com/media/images/6abf/a79d/07c3/d100/017f/cbfb/large_jpg/IMG_8131.jpg?1790945202",
+          "title": "Modified Wood란 무엇인가요? 기술이 목재의 기능을 확장하는 방법",
+          "url": "https://www.archdaily.com/1186758/what-is-modified-wood-how-technology-is-expanding-what-wood-can-do",
+          "image_url": "https://images.adsttc.com/media/images/6ace/751d/7887/fb01/8910/6df9/large_jpg/what-is-modified-wood-understanding-acetylation-and-its-architectural-applications_6.jpg?1791915406",
+          "source_name": "ArchDaily"
+        },
+        {
+          "title": "MOKUZAI / IT'S Studio",
+          "url": "https://www.archdaily.com/1186694/mokuzai-its-studio",
+          "image_url": "https://images.adsttc.com/media/images/6acc/d85a/b2c4/c300/0178/ea02/large_jpg/ITSVISION_MOKUZAI_002B.jpg?1791809644",
+          "source_name": "ArchDaily"
+        },
+        {
+          "title": "레곰방 트리하우스/케이브 어반",
+          "url": "https://www.archdaily.com/1186813/legombang-treehouse-cave-urban",
+          "image_url": "https://images.adsttc.com/media/images/6acf/83d8/51c8/2d01/89ac/0499/large_jpg/legombang-treehouse-cave-urban_12.jpg?1791984628",
           "source_name": "ArchDaily"
         }
       ]
@@ -218,13 +218,15 @@
     "Art Basel Paris",
     "Apple Music",
     "DAGA Architects",
+    "Paul Pfeiffer",
+    "Dezeen Awards",
+    "Lance Oppenheim",
     "Artist Spotlight",
     "Public Space",
     "Daft Punk",
     "Fred Again",
     "Doja Cat",
-    "Alice Diop",
-    "Miu Miu"
+    "Alice Diop"
   ],
   "has_comparison": true
 }
