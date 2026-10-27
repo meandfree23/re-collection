@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-10-27 14:41 KST",
+  "generated_at": "2026-10-27 17:49 KST",
   "period": "2026.10.20 - 2026.10.27",
-  "total_articles": 377,
+  "total_articles": 386,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 186
+      "count": 190
     },
     {
       "genre": "동시대 미술",
-      "count": 141
+      "count": 146
     },
     {
       "genre": "아방가르드 패션",
@@ -151,10 +151,16 @@
     },
     {
       "keyword": "박물관·전시",
-      "count": 31,
+      "count": 32,
       "previous_count": 38,
       "trend": "falling",
       "items": [
+        {
+          "title": "디자인 박물관 회고전의 에스 데블린 (Es Devlin) 은 \"모든 것은 정말 단순한 제스처에서 시작됩니다.\" 라고 말합니다.",
+          "url": "https://www.dezeen.com/2026/10/27/other-worlds-es-devlin-exhibition-retrospective-design-museum-london-interview-video/",
+          "image_url": "https://static-2026.dezeen.com/uploads/2026/10/other-worlds-es-devlin-exhibition-retrospective-design-museum-london-video-sq_dezeen_2364_col_0-1024x1024.jpg",
+          "source_name": "Dezeen"
+        },
         {
           "title": "Mamdani는 Met에서 일찍 투표합니다. 다른 뉴욕시 박물관에는 투표소가 있나요?",
           "url": "https://hyperallergic.com/mamdani-votes-early-at-the-met-what-other-nyc-museums-are-polling-sites/",
@@ -172,12 +178,6 @@
           "url": "https://www.anothermag.com/art-photography/17603/highlights-from-art-basel-paris-2026?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=highlights-from-art-basel-paris",
           "image_url": "https://images-prod.anothermag.com/786/azure/another-prod/470/9/479860.jpg",
           "source_name": "AnOther Magazine"
-        },
-        {
-          "title": "파리에서 연대하기",
-          "url": "https://hyperallergic.com/from-paris-in-solidarity/",
-          "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/10/PHOTO-2026-10-24-14-26-14-8-1-1.jpg",
-          "source_name": "Hyperallergic"
         }
       ]
     },
