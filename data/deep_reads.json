@@ -222386,5 +222386,51 @@
   },
   "depth_raw": 4,
   "depth_v": 2
+ },
+ "archdaily.com/1187539/casa-cardona-sensacional-dinamica-mexicana": {
+  "title_ko": "사막의 조건을 일상의 공간으로 확장하는 카사 카르도나",
+  "summary_ko": "멕시코 산루이스포토시에서 센사시오날 디나미카 멕시카나가 설계한 165제곱미터 규모의 주택이다. 상업적 부동산 개발로 시작했으나 사막 환경과의 친밀한 대화를 통해 문화적, 인간적 가치를 구축하는 주거 경험을 만든다.",
+  "lens": "상업적 개발 단지의 한계를 사막이라는 지리적 조건과의 대화로 돌파한다.",
+  "why_now": "천편일률적인 부동산 개발 방식에서 벗어나 지역 고유의 환경적 특성을 건축적 언어로 전환하는 태도가 요구되는 시점이다.",
+  "mechanism": "사막의 주변 환경을 건축 내부로 끌어들이는 공간 배치를 통해 일상적인 주거 경험을 재구성한다.",
+  "sensory": "건조한 사막의 풍경과 거친 주변 환경이 거주자의 일상적 동선과 직접 맞닿는 감각을 형성한다.",
+  "transfer": "황량한 대지나 극한의 환경을 배경으로 인물과 공간의 고립감을 연출하는 씬의 로케이션 콘셉트로 활용한다.",
+  "context": "센사시오날 디나미카 멕시카나가 멕시코 산루이스포토시에서 완성한 165제곱미터 규모의 주거 프로젝트다.",
+  "findings": [],
+  "keywords": [
+   "카사카르도나",
+   "사막건축",
+   "주거공간",
+   "멕시코건축"
+  ],
+  "evidence": "Initially conceived as a conventional 165 m² real estate development, the residence demonstrates how an architectural proposal can transcend commercial parameters to create spatial, cultural, and human value.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "상업 개발에서 사막 주거로의 전환이라는 개념은 흥미로우나 상세한 도면이나 물성 정보가 부족하다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1187539/casa-cardona-sensacional-dinamica-mexicana",
+  "original_title": "Casa Cardona  / Sensacional Dinámica Mexicana",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 984,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-27 11:14",
+  "research": {
+   "entities": [
+    "Sensacional Dinámica Mexicana",
+    "LGM Studio",
+    "Casa Cardona"
+   ],
+   "questions": [
+    "Casa Cardona 프로젝트는 사막의 주변 환경을 어떻게 건축적 공간으로 해석했는가?",
+    "상업적 부동산 개발이었던 이 주택이 어떻게 문화적, 인간적 가치를 창출할 수 있었는가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
  }
 }
