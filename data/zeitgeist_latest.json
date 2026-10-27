@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-10-27 22:32 KST",
-  "period": "2026.10.20 - 2026.10.27",
-  "total_articles": 415,
+  "generated_at": "2026-10-28 00:00 KST",
+  "period": "2026.10.21 - 2026.10.28",
+  "total_articles": 419,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 206
+      "count": 208
     },
     {
       "genre": "동시대 미술",
-      "count": 154
+      "count": 156
     },
     {
       "genre": "아방가르드 패션",
@@ -21,6 +21,38 @@
     }
   ],
   "themes": [
+    {
+      "keyword": "미니멀리즘",
+      "count": 8,
+      "previous_count": 6,
+      "trend": "rising",
+      "items": [
+        {
+          "title": "에너지와 물 부족 사이의 저주: 그랜드 에티오피아 르네상스 댐과 나일강",
+          "url": "https://www.archdaily.com/1186770/dammed-between-energy-and-water-scarcity-the-grand-ethiopian-renaissance-dam-and-the-nile",
+          "image_url": "https://images.adsttc.com/media/images/6ad8/af5a/db5c/2001/882c/f440/large_jpg/dammed-between-sovereignty-and-security-why-is-ethiopias-renaissance-critical-to-sudan-and-egypt_1.jpg?1792585574",
+          "source_name": "ArchDaily"
+        },
+        {
+          "title": "마이아홈즈, 미술 애호가를 위한 손뜨개 문양 러그 제작",
+          "url": "https://design-milk.com/maia-homes-hand-tufted-rugs/",
+          "image_url": "https://design-milk.com/images/2026/09/evolving-shapes-hand-tufted-rug-room-scene-1280x900-1.jpg",
+          "source_name": "Design Milk"
+        },
+        {
+          "title": "전직 바브카 공장에서 즐기는 미니멀리스트 브루클린 듀플렉스 투어",
+          "url": "https://www.wallpaper.com/design-interiors/interior-design/tour-a-minimalist-brooklyn-duplex-inside-a-former-babka-factory",
+          "image_url": "https://cdn.mos.cms.futurecdn.net/BYMwBypW9w9VwCmoGWa5BQ-1920-80.jpg",
+          "source_name": "Wallpaper*"
+        },
+        {
+          "title": "Télégraphe",
+          "url": "https://leibal.com/interiors/telegraphe/",
+          "image_url": "https://leibal.com/wp-content/uploads/2026/10/leibal_telegraphe_bureau-invisible_06.jpg",
+          "source_name": "Leibal"
+        }
+      ]
+    },
     {
       "keyword": "해변·리조트 건축",
       "count": 8,
@@ -50,38 +82,6 @@
           "url": "https://www.archdaily.com/1182304/integrating-wellness-into-residential-interiors",
           "image_url": "https://images.adsttc.com/media/images/6a74/47b6/5c0b/ae01/8ae4/b58c/large_jpg/integrating-wellness-into-residential-interiors_1.jpg?1786005454",
           "source_name": "ArchDaily"
-        }
-      ]
-    },
-    {
-      "keyword": "미니멀리즘",
-      "count": 7,
-      "previous_count": 6,
-      "trend": "steady",
-      "items": [
-        {
-          "title": "마이아홈즈, 미술 애호가를 위한 손뜨개 문양 러그 제작",
-          "url": "https://design-milk.com/maia-homes-hand-tufted-rugs/",
-          "image_url": "https://design-milk.com/images/2026/09/evolving-shapes-hand-tufted-rug-room-scene-1280x900-1.jpg",
-          "source_name": "Design Milk"
-        },
-        {
-          "title": "전직 바브카 공장에서 즐기는 미니멀리스트 브루클린 듀플렉스 투어",
-          "url": "https://www.wallpaper.com/design-interiors/interior-design/tour-a-minimalist-brooklyn-duplex-inside-a-former-babka-factory",
-          "image_url": "https://cdn.mos.cms.futurecdn.net/BYMwBypW9w9VwCmoGWa5BQ-1920-80.jpg",
-          "source_name": "Wallpaper*"
-        },
-        {
-          "title": "Télégraphe",
-          "url": "https://leibal.com/interiors/telegraphe/",
-          "image_url": "https://leibal.com/wp-content/uploads/2026/10/leibal_telegraphe_bureau-invisible_06.jpg",
-          "source_name": "Leibal"
-        },
-        {
-          "title": "카사 카스텔라르 바이 솔라",
-          "url": "https://minimalissimo.com/articles/casa-castelar-by-solar",
-          "image_url": "https://minimalissimo.com/api/media/file/casa-castelar-by-solar-gallery-3-v20261022-1200x630.jpg",
-          "source_name": "Minimalissimo"
         }
       ]
     },
