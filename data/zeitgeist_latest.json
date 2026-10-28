@@ -1,125 +1,61 @@
 {
-  "generated_at": "2026-10-28 23:37 KST",
-  "period": "2026.10.21 - 2026.10.28",
-  "total_articles": 427,
+  "generated_at": "2026-10-29 00:26 KST",
+  "period": "2026.10.22 - 2026.10.29",
+  "total_articles": 349,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 215
+      "count": 178
     },
     {
       "genre": "동시대 미술",
-      "count": 157
+      "count": 127
     },
     {
       "genre": "아방가르드 패션",
-      "count": 42
+      "count": 34
     },
     {
       "genre": "미디어 파사드·3D",
-      "count": 13
+      "count": 10
     }
   ],
   "themes": [
     {
-      "keyword": "박물관·전시",
-      "count": 36,
-      "previous_count": 34,
+      "keyword": "가구 디자인",
+      "count": 10,
+      "previous_count": 7,
       "trend": "rising",
       "items": [
         {
-          "title": "마얀송 (Ma Yansong) 은 미국과 중국은 \"새로운 것과 혁신\" 에 대한 사랑을 공유한다고 말합니다.",
-          "url": "https://www.dezeen.com/2026/10/28/ma-yansong-interview-lucas-museum/",
-          "image_url": "https://static-2026.dezeen.com/uploads/2026/10/ma-yansong-headshot-1024x1024.jpg",
+          "title": "Dezeen Showroom의 Flokk 디자인 전진 좌석 기능",
+          "url": "https://www.dezeen.com/2026/10/28/flokk-design-forward-seating-task-chairs-modular-dezeen-showroom/",
+          "image_url": "https://static-2026.dezeen.com/uploads/2026/10/Flokk-chair_dezeen_2364_col_0-1024x1024.jpg",
           "source_name": "Dezeen"
         },
         {
-          "title": "AD-WO, 피츠버그 카네기 미술관 하인즈 건축 센터 리노베이션",
-          "url": "https://www.archdaily.com/1187645/ad-wo-to-renovate-the-heinz-architectural-center-at-pittsburghs-carnegie-museum-of-art",
-          "image_url": "https://images.adsttc.com/media/images/6ae1/57bb/db5c/2001/882d/0d18/large_jpg/heinz-architectural-center_3.jpg?1793152992",
-          "source_name": "ArchDaily"
-        },
-        {
-          "title": "Obra Blanca 2026은 7번째 에디션으로 23,000명 이상의 업계 전문가를 모았습니다.",
-          "url": "https://www.archdaily.com/1187618/obra-blanca-2026-brought-together-more-than-23000-industry-professionals-in-its-seventh-edition",
-          "image_url": "https://images.adsttc.com/media/images/6ad8/ea7c/db5c/2001/882c/f640/large_jpg/obra-blanca-2026-conecta-los-materiales-con-la-practica-arquitectonica_11.jpg?1792600708",
-          "source_name": "ArchDaily"
-        },
-        {
-          "title": "A2 유형은 상징적 인 기관을위한 서체의 레퍼토리에 루이지애나 현대 미술관을 추가합니다",
-          "url": "https://www.itsnicethat.com/articles/a2-type-louisiana-museum-of-modern-art-graphic-design-project-281026",
-          "image_url": "https://admin.itsnicethat.com/images/zW8Vv5Hg2pGTvlgNoTrVKPksD94=/283691/width-1440/A2-TYPE-Louisiana-Museum-of-Modern-Art_page_001.jpg",
-          "source_name": "It's Nice That"
-        }
-      ]
-    },
-    {
-      "keyword": "해변·리조트 건축",
-      "count": 8,
-      "previous_count": 4,
-      "trend": "rising",
-      "items": [
-        {
-          "title": "리조트 나시마/스튜디오 마두",
-          "url": "https://www.archdaily.com/1187277/resort-nasima-studio-madouh",
-          "image_url": "https://images.adsttc.com/media/images/6ad8/b968/3271/8400/01d0/d8fa/large_jpg/SM_-_RN_-_13.jpg?1792588202",
-          "source_name": "ArchDaily"
-        },
-        {
-          "title": "돌로 덮인 지붕은 인도의 가마야 농장 생태 리조트에 \"절대적인 위장\" 을 제공합니다.",
-          "url": "https://www.dezeen.com/2026/10/26/gamaya-farms-biome-environmental-solutions/",
-          "image_url": "https://static-2026.dezeen.com/uploads/2026/10/gamaya-farms-biome-environmental-solutions-architecture-india-hyderabad-stone-earth_dezeen_2364_sq-1024x1024.jpg",
-          "source_name": "Dezeen"
-        },
-        {
-          "title": "알바니아는 트럼프와 관련된 리조트에서 논란이 되고 있는 패스트트랙 혐의로 기소되었습니다.",
-          "url": "https://www.dezeen.com/2026/10/22/albania-sazan-island-resort/",
-          "image_url": "https://static-2026.dezeen.com/uploads/2026/10/sazan-island-flamingo-revolution-news_dezeen_2364_sq-1024x1024.jpg",
-          "source_name": "Dezeen"
-        },
-        {
-          "title": "주거 인테리어에서 휴식을 취할 수 있는 공간 만들기",
-          "url": "https://www.archdaily.com/1182304/integrating-wellness-into-residential-interiors",
-          "image_url": "https://images.adsttc.com/media/images/6a74/47b6/5c0b/ae01/8ae4/b58c/large_jpg/integrating-wellness-into-residential-interiors_1.jpg?1786005454",
-          "source_name": "ArchDaily"
-        }
-      ]
-    },
-    {
-      "keyword": "레스토랑·호스피탈리티",
-      "count": 6,
-      "previous_count": 4,
-      "trend": "rising",
-      "items": [
-        {
-          "title": "돈도 레스토랑/코스타 + 에레라 아르키텍토스",
-          "url": "https://www.archdaily.com/1177056/dondoh-restaurant-costa-plus-herrera-arquitectos",
-          "image_url": "https://images.adsttc.com/media/images/6130/2942/25f7/0e01/6663/f4c9/large_jpg/dondoh-julio-4.jpg?1630546310",
-          "source_name": "ArchDaily"
-        },
-        {
-          "title": "FictionWorks의 이 샬롯 비스트로에서 나파 밸리와 파리의 만남",
-          "url": "https://design-milk.com/napa-bistro-charlotte-fictionworks/",
-          "image_url": "https://design-milk.com/images/2026/10/Napa-Charlotte-Napa-Bistro0679-Edit-e1792698823198-1500x1000.jpeg",
+          "title": "룰루와 조지아, 첫 로스앤젤레스 쇼룸 개장",
+          "url": "https://design-milk.com/lulu-and-georgia-showroom-los-angeles/",
+          "image_url": "https://design-milk.com/images/2026/10/Lulu-and-Georgia_Dining_0379_Lifestyle-e1793125359146-1500x1000.jpg",
           "source_name": "Design Milk"
         },
         {
-          "title": "Blu Pizzeria Jeddah / movs studio",
-          "url": "https://www.archdaily.com/1187269/blu-pizzeria-jeddah-movs-studio",
-          "image_url": "https://images.adsttc.com/media/images/6ad8/b475/3271/8400/01d0/d862/large_jpg/_MOVS_BLU_cover.jpg?1792586895",
-          "source_name": "ArchDaily"
+          "title": "숙소를 매력적으로 꾸밀 수 있는 최고의 식사 공간 조명 아이디어",
+          "url": "https://www.architecturaldigest.com/story/best-dining-room-lighting-ideas",
+          "image_url": "https://media.architecturaldigest.com/photos/6ae0c80a684c49c7d03350e0/master/pass/3_GoeslingGroup_01_PhotoCredit_Ryan%20McDonald.jpg",
+          "source_name": "Architectural Digest"
         },
         {
-          "title": "Węzeł Cieplny: 그단스크의 레스토랑으로서 새로운 따뜻함을 찾는 전 난방 변전소",
-          "url": "https://www.yatzer.com/wezel-cieplny-con-s-gdansk-poland",
-          "image_url": "https://media.yatzer.com/c-Wezel-Cieplny-Gdansk-CON-S-photo-Moodauthors-yatzer-1400x864.jpg",
-          "source_name": "Yatzer"
+          "title": "전직 바브카 공장에서 즐기는 미니멀리스트 브루클린 듀플렉스 투어",
+          "url": "https://www.wallpaper.com/design-interiors/interior-design/tour-a-minimalist-brooklyn-duplex-inside-a-former-babka-factory",
+          "image_url": "https://cdn.mos.cms.futurecdn.net/BYMwBypW9w9VwCmoGWa5BQ-1920-80.jpg",
+          "source_name": "Wallpaper*"
         }
       ]
     },
     {
       "keyword": "빛과 조명",
-      "count": 9,
+      "count": 8,
       "previous_count": 9,
       "trend": "steady",
       "items": [
@@ -150,41 +86,9 @@
       ]
     },
     {
-      "keyword": "미니멀리즘",
-      "count": 7,
-      "previous_count": 6,
-      "trend": "steady",
-      "items": [
-        {
-          "title": "에너지와 물 부족 사이의 저주: 그랜드 에티오피아 르네상스 댐과 나일강",
-          "url": "https://www.archdaily.com/1186770/dammed-between-energy-and-water-scarcity-the-grand-ethiopian-renaissance-dam-and-the-nile",
-          "image_url": "https://images.adsttc.com/media/images/6ad8/af5a/db5c/2001/882c/f440/large_jpg/dammed-between-sovereignty-and-security-why-is-ethiopias-renaissance-critical-to-sudan-and-egypt_1.jpg?1792585574",
-          "source_name": "ArchDaily"
-        },
-        {
-          "title": "마이아홈즈, 미술 애호가를 위한 손뜨개 문양 러그 제작",
-          "url": "https://design-milk.com/maia-homes-hand-tufted-rugs/",
-          "image_url": "https://design-milk.com/images/2026/09/evolving-shapes-hand-tufted-rug-room-scene-1280x900-1.jpg",
-          "source_name": "Design Milk"
-        },
-        {
-          "title": "전직 바브카 공장에서 즐기는 미니멀리스트 브루클린 듀플렉스 투어",
-          "url": "https://www.wallpaper.com/design-interiors/interior-design/tour-a-minimalist-brooklyn-duplex-inside-a-former-babka-factory",
-          "image_url": "https://cdn.mos.cms.futurecdn.net/BYMwBypW9w9VwCmoGWa5BQ-1920-80.jpg",
-          "source_name": "Wallpaper*"
-        },
-        {
-          "title": "Télégraphe",
-          "url": "https://leibal.com/interiors/telegraphe/",
-          "image_url": "https://leibal.com/wp-content/uploads/2026/10/leibal_telegraphe_bureau-invisible_06.jpg",
-          "source_name": "Leibal"
-        }
-      ]
-    },
-    {
       "keyword": "리노베이션·재생",
       "count": 6,
-      "previous_count": 7,
+      "previous_count": 6,
       "trend": "steady",
       "items": [
         {
@@ -212,20 +116,113 @@
           "source_name": "Leibal"
         }
       ]
+    },
+    {
+      "keyword": "박물관·전시",
+      "count": 25,
+      "previous_count": 45,
+      "trend": "falling",
+      "items": [
+        {
+          "title": "필라델피아 미술관에서 마르셀 뒤샹 둘러보기",
+          "url": "https://hyperallergic.com/discover-marcel-duchamp-at-the-philadelphia-museum-of-art/",
+          "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/10/1148-MKTG-DuchampHyperAllergicNewsLetter_10.8.jpg",
+          "source_name": "Hyperallergic"
+        },
+        {
+          "title": "마얀송 (Ma Yansong) 은 미국과 중국은 \"새로운 것과 혁신\" 에 대한 사랑을 공유한다고 말합니다.",
+          "url": "https://www.dezeen.com/2026/10/28/ma-yansong-interview-lucas-museum/",
+          "image_url": "https://static-2026.dezeen.com/uploads/2026/10/ma-yansong-headshot-1024x1024.jpg",
+          "source_name": "Dezeen"
+        },
+        {
+          "title": "AD-WO, 피츠버그 카네기 미술관 하인즈 건축 센터 리노베이션",
+          "url": "https://www.archdaily.com/1187645/ad-wo-to-renovate-the-heinz-architectural-center-at-pittsburghs-carnegie-museum-of-art",
+          "image_url": "https://images.adsttc.com/media/images/6ae1/57bb/db5c/2001/882d/0d18/large_jpg/heinz-architectural-center_3.jpg?1793152992",
+          "source_name": "ArchDaily"
+        },
+        {
+          "title": "Obra Blanca 2026은 7번째 에디션으로 23,000명 이상의 업계 전문가를 모았습니다.",
+          "url": "https://www.archdaily.com/1187618/obra-blanca-2026-brought-together-more-than-23000-industry-professionals-in-its-seventh-edition",
+          "image_url": "https://images.adsttc.com/media/images/6ad8/ea7c/db5c/2001/882c/f640/large_jpg/obra-blanca-2026-conecta-los-materiales-con-la-practica-arquitectonica_11.jpg?1792600708",
+          "source_name": "ArchDaily"
+        }
+      ]
+    },
+    {
+      "keyword": "목재 건축",
+      "count": 8,
+      "previous_count": 12,
+      "trend": "falling",
+      "items": [
+        {
+          "title": "해로우온더힐",
+          "url": "https://leibal.com/interiors/harrow-on-the-hill/",
+          "image_url": "https://leibal.com/wp-content/uploads/2026/10/leibal-harrow-on-the-hill-inglis-badrashi-loddo-11.jpg",
+          "source_name": "Leibal"
+        },
+        {
+          "title": "Page\\ Park는 에든버러의 학교 웰빙 허브에 현지 석재와 목재를 사용합니다.",
+          "url": "https://www.dezeen.com/2026/10/28/pagepark-allardice-centre/",
+          "image_url": "https://static-2026.dezeen.com/uploads/2026/10/allardice-centre-fettes-college-page-park-edinburgh-scotland-education-wellbeing-architecture_dezeen_2364_sq-1024x1024.jpg",
+          "source_name": "Dezeen"
+        },
+        {
+          "title": "CS3 - 이벤트 및 스포츠 파빌리온/HA + MA",
+          "url": "https://www.archdaily.com/1187143/cs3-event-and-sports-pavilion-ha-plus-ma",
+          "image_url": "https://images.adsttc.com/media/images/6ad6/4dae/aadf/a000/01e3/b12f/large_jpg/HCC_Building_Exterior_12.jpg?1792429551",
+          "source_name": "ArchDaily"
+        },
+        {
+          "title": "전문가에 따르면 나무 그루터기를 죽이는 방법과 마당의 건강에 중요한 이유",
+          "url": "https://www.architecturaldigest.com/story/how-to-remove-a-tree-stump",
+          "image_url": "https://media.architecturaldigest.com/photos/68af4a961eb957cb2bea714d/master/pass/GettyImages-1435890181.jpg",
+          "source_name": "Architectural Digest"
+        }
+      ]
+    },
+    {
+      "keyword": "사진",
+      "count": 5,
+      "previous_count": 10,
+      "trend": "falling",
+      "items": [
+        {
+          "title": "사진: 90 년대가 아일랜드 북부의 정치를 초월한 방법",
+          "url": "https://www.dazeddigital.com/art-photography/article/71248/1/photos-90s-rave-transcended-politics-north-ireland-gareth-mcconnell-an-illusion?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=in-pictures-how-90s-rave-transcended-politics-in-the-north-of-ireland",
+          "image_url": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/8/1458417.jpg",
+          "source_name": "Dazed"
+        },
+        {
+          "title": "멕시코 사진작가가 국가를 만든 방법",
+          "url": "https://hyperallergic.com/how-mexican-photographers-made-a-nation/",
+          "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/10/Copy-of-gm_35391501-1.jpg",
+          "source_name": "Hyperallergic"
+        },
+        {
+          "title": "사진작가 타라 베루즈 (Tara Behruz) 의 “합계가 부분보다 큽니다”",
+          "url": "https://www.booooooom.com/2026/10/22/the-sum-is-greater-than-its-parts-by-photographer-tara-behruz/",
+          "image_url": "https://cdn.booooooom.com/wp-content/uploads/2026/10/Tara1.jpg",
+          "source_name": "BOOOOOOOM"
+        },
+        {
+          "title": "‘아프리카 거리 사진 촬영’ 은 대륙 전역에 걸친 다채롭고 활기찬 설문 조사입니다.",
+          "url": "https://www.thisiscolossal.com/2026/10/street-photography-africa-book/",
+          "image_url": "https://www.thisiscolossal.com/wp-content/uploads/2026/10/spa-5.jpg",
+          "source_name": "This Is Colossal"
+        }
+      ]
     }
   ],
   "notable_names": [
-    "Apple Music",
     "Art Basel Paris",
     "Dezeen Awards",
     "DAGA Architects",
+    "Apple Music",
     "Tom Hegen",
     "Aston Martin",
     "Paul Pfeiffer",
-    "Artist Spotlight",
-    "Public Space",
-    "Daft Punk",
-    "Fred Again"
+    "Daft Punk"
   ],
   "has_comparison": true
 }
