@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-10-28 03:31 KST",
+  "generated_at": "2026-10-28 09:54 KST",
   "period": "2026.10.21 - 2026.10.28",
-  "total_articles": 372,
+  "total_articles": 389,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 190
+      "count": 199
     },
     {
       "genre": "동시대 미술",
-      "count": 132
+      "count": 140
     },
     {
       "genre": "아방가르드 패션",
@@ -86,32 +86,6 @@
       ]
     },
     {
-      "keyword": "키네틱 조형",
-      "count": 3,
-      "previous_count": 0,
-      "trend": "new",
-      "items": [
-        {
-          "title": "글로벌 강자 White & Case에 대한 Uncommon의 리브랜딩은 모든 로펌의 진부함을 저버립니다.",
-          "url": "https://www.creativeboom.com/work/this-rebrand-ditches-every-law-firm-cliche-as-white-case-loses-the-navy-blue/",
-          "image_url": "https://media.creativeboom.com/4828e893-b90a-4e9a-b4e2-2d7bef3780a7/conversions/686eee571f5b0986d31de2e54877a183e7a25628-medium.webp",
-          "source_name": "Creative Boom"
-        },
-        {
-          "title": "사카모토 요타로 (yotaro sakamoto) 의 키네틱 스레드 컬럼은 인간의 존재를 변화하는 그림자로 바꿉니다.",
-          "url": "https://www.designboom.com/art/yotaro-sakamoto-kinetic-thread-column-human-presence-shifting-shadows-schattenrequisit/",
-          "image_url": "https://www.designboom.com/wp-content/dbsub/470016/2026-10-19/yotaro-sakamotos-kinetic-thread-column-transforms-human-presence-into-shifting-shadows-1-6ad6999f33417.jpg",
-          "source_name": "Designboom Art"
-        },
-        {
-          "title": "코드/유형/음악: Microsoft Foundry Labs용 Ranger & Fox",
-          "url": "https://www.stashmedia.tv/code-type-music-ranger-fox-for-microsoft-foundry-labs/",
-          "image_url": "http://www.stashmedia.tv/wp-content/uploads/Microsoft-Foundry-Labs-Brand-Film-by-Ranger-Fox-STASH-MAGAZINE3-1920x1080.jpg",
-          "source_name": "Stash Media"
-        }
-      ]
-    },
-    {
       "keyword": "미니멀리즘",
       "count": 7,
       "previous_count": 6,
@@ -177,10 +151,16 @@
     },
     {
       "keyword": "가구 디자인",
-      "count": 7,
+      "count": 8,
       "previous_count": 12,
       "trend": "falling",
       "items": [
+        {
+          "title": "숙소를 매력적으로 꾸밀 수 있는 최고의 식사 공간 조명 아이디어",
+          "url": "https://www.architecturaldigest.com/story/best-dining-room-lighting-ideas",
+          "image_url": "https://media.architecturaldigest.com/photos/6ae0c80a684c49c7d03350e0/master/pass/3_GoeslingGroup_01_PhotoCredit_Ryan%20McDonald.jpg",
+          "source_name": "Architectural Digest"
+        },
         {
           "title": "전직 바브카 공장에서 즐기는 미니멀리스트 브루클린 듀플렉스 투어",
           "url": "https://www.wallpaper.com/design-interiors/interior-design/tour-a-minimalist-brooklyn-duplex-inside-a-former-babka-factory",
@@ -198,11 +178,37 @@
           "url": "https://www.dezeen.com/2026/10/25/collectible-furniture-dutch-design-week-table-of-power/",
           "image_url": "https://static-2026.dezeen.com/uploads/2026/10/table-of-power-show-not-show-design_dezeen_2364_sq-1024x1024.jpg",
           "source_name": "Dezeen"
+        }
+      ]
+    },
+    {
+      "keyword": "목재 건축",
+      "count": 7,
+      "previous_count": 14,
+      "trend": "falling",
+      "items": [
+        {
+          "title": "CS3 - 이벤트 및 스포츠 파빌리온/HA + MA",
+          "url": "https://www.archdaily.com/1187143/cs3-event-and-sports-pavilion-ha-plus-ma",
+          "image_url": "https://images.adsttc.com/media/images/6ad6/4dae/aadf/a000/01e3/b12f/large_jpg/HCC_Building_Exterior_12.jpg?1792429551",
+          "source_name": "ArchDaily"
         },
         {
-          "title": "이케부쿠로 생활 가구 - 트램 정류장/사고시 요스케 아틀리에",
-          "url": "https://www.archdaily.com/1186237/ikebukuro-living-furniture-tram-stop-yosuke-sagoshi-atelier",
-          "image_url": "https://images.adsttc.com/media/images/6abf/a79d/07c3/d100/017f/cbfb/large_jpg/IMG_8131.jpg?1790945202",
+          "title": "전문가에 따르면 나무 그루터기를 죽이는 방법과 마당의 건강에 중요한 이유",
+          "url": "https://www.architecturaldigest.com/story/how-to-remove-a-tree-stump",
+          "image_url": "https://media.architecturaldigest.com/photos/68af4a961eb957cb2bea714d/master/pass/GettyImages-1435890181.jpg",
+          "source_name": "Architectural Digest"
+        },
+        {
+          "title": "마요르카의 Terreno Barrio Hotel의 오래되고 새로운 건물에서 색상 차단 및 코르크를 이용한 OHLAB 실험",
+          "url": "https://www.dezeen.com/2026/10/27/ohlab-experiments-with-colour-blocking-and-cork-in-old-and-new-buildings-of-terreno-barrio-hotel-in-mallorca/",
+          "image_url": "https://static-2026.dezeen.com/uploads/2026/10/terreno-barrio-hotel-ohlab_dezeen_2364_sq_1-1024x1024.jpg",
+          "source_name": "Dezeen"
+        },
+        {
+          "title": "Modified Wood란 무엇인가요? 기술이 목재의 기능을 확장하는 방법",
+          "url": "https://www.archdaily.com/1186758/what-is-modified-wood-how-technology-is-expanding-what-wood-can-do",
+          "image_url": "https://images.adsttc.com/media/images/6ace/751d/7887/fb01/8910/6df9/large_jpg/what-is-modified-wood-understanding-acetylation-and-its-architectural-applications_6.jpg?1791915406",
           "source_name": "ArchDaily"
         }
       ]
@@ -212,6 +218,7 @@
     "Art Basel Paris",
     "Apple Music",
     "DAGA Architects",
+    "Aston Martin",
     "Paul Pfeiffer",
     "Dezeen Awards",
     "Artist Spotlight",
