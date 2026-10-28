@@ -1,32 +1,44 @@
 {
-  "generated_at": "2026-10-29 00:26 KST",
+  "generated_at": "2026-10-29 04:10 KST",
   "period": "2026.10.22 - 2026.10.29",
-  "total_articles": 349,
+  "total_articles": 367,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 178
+      "count": 186
     },
     {
       "genre": "동시대 미술",
-      "count": 127
+      "count": 133
     },
     {
       "genre": "아방가르드 패션",
-      "count": 34
+      "count": 37
     },
     {
       "genre": "미디어 파사드·3D",
-      "count": 10
+      "count": 11
     }
   ],
   "themes": [
     {
       "keyword": "가구 디자인",
-      "count": 10,
+      "count": 12,
       "previous_count": 7,
       "trend": "rising",
       "items": [
+        {
+          "title": "콜로세움 플레이스 저렴한 주택/데이비드 베이커 건축가",
+          "url": "https://www.archdaily.com/1024398/coliseum-place-building-david-baker-architects",
+          "image_url": "https://images.adsttc.com/media/images/6751/8dfd/3080/cf00/0100/d010/large_jpg/21503_ColiseumPlace_BruceDamonte_02.jpg?1733398062",
+          "source_name": "ArchDaily"
+        },
+        {
+          "title": "하이 포인트 마켓에서 디자이너들은 AD와 함께 주요 시어도어 알렉산더 마일스톤을 기념합니다",
+          "url": "https://www.architecturaldigest.com/story/at-high-point-market-designers-celebrate-a-major-theodore-alexander-milestone-with-ad",
+          "image_url": "https://media.architecturaldigest.com/photos/6ae22448a28783e40ffe4f9f/master/pass/aa_AGV7845.jpeg",
+          "source_name": "Architectural Digest"
+        },
         {
           "title": "Dezeen Showroom의 Flokk 디자인 전진 좌석 기능",
           "url": "https://www.dezeen.com/2026/10/28/flokk-design-forward-seating-task-chairs-modular-dezeen-showroom/",
@@ -38,18 +50,6 @@
           "url": "https://design-milk.com/lulu-and-georgia-showroom-los-angeles/",
           "image_url": "https://design-milk.com/images/2026/10/Lulu-and-Georgia_Dining_0379_Lifestyle-e1793125359146-1500x1000.jpg",
           "source_name": "Design Milk"
-        },
-        {
-          "title": "숙소를 매력적으로 꾸밀 수 있는 최고의 식사 공간 조명 아이디어",
-          "url": "https://www.architecturaldigest.com/story/best-dining-room-lighting-ideas",
-          "image_url": "https://media.architecturaldigest.com/photos/6ae0c80a684c49c7d03350e0/master/pass/3_GoeslingGroup_01_PhotoCredit_Ryan%20McDonald.jpg",
-          "source_name": "Architectural Digest"
-        },
-        {
-          "title": "전직 바브카 공장에서 즐기는 미니멀리스트 브루클린 듀플렉스 투어",
-          "url": "https://www.wallpaper.com/design-interiors/interior-design/tour-a-minimalist-brooklyn-duplex-inside-a-former-babka-factory",
-          "image_url": "https://cdn.mos.cms.futurecdn.net/BYMwBypW9w9VwCmoGWa5BQ-1920-80.jpg",
-          "source_name": "Wallpaper*"
         }
       ]
     },
@@ -118,11 +118,55 @@
       ]
     },
     {
+      "keyword": "레스토랑·호스피탈리티",
+      "count": 5,
+      "previous_count": 6,
+      "trend": "steady",
+      "items": [
+        {
+          "title": "올 11월, 기발한 먹거리와 마실 거리",
+          "url": "https://www.anothermag.com/design-living/17586/brilliant-things-to-eat-and-drink-this-november?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=brilliant-things-to-eat-and-drink-this-november",
+          "image_url": "https://images-prod.anothermag.com/786/azure/another-prod/470/9/479930.jpeg",
+          "source_name": "AnOther Magazine"
+        },
+        {
+          "title": "돈도 레스토랑/코스타 + 에레라 아르키텍토스",
+          "url": "https://www.archdaily.com/1177056/dondoh-restaurant-costa-plus-herrera-arquitectos",
+          "image_url": "https://images.adsttc.com/media/images/6130/2942/25f7/0e01/6663/f4c9/large_jpg/dondoh-julio-4.jpg?1630546310",
+          "source_name": "ArchDaily"
+        },
+        {
+          "title": "FictionWorks의 이 샬롯 비스트로에서 나파 밸리와 파리의 만남",
+          "url": "https://design-milk.com/napa-bistro-charlotte-fictionworks/",
+          "image_url": "https://design-milk.com/images/2026/10/Napa-Charlotte-Napa-Bistro0679-Edit-e1792698823198-1500x1000.jpeg",
+          "source_name": "Design Milk"
+        },
+        {
+          "title": "Blu Pizzeria Jeddah / movs studio",
+          "url": "https://www.archdaily.com/1187269/blu-pizzeria-jeddah-movs-studio",
+          "image_url": "https://images.adsttc.com/media/images/6ad8/b475/3271/8400/01d0/d862/large_jpg/_MOVS_BLU_cover.jpg?1792586895",
+          "source_name": "ArchDaily"
+        }
+      ]
+    },
+    {
       "keyword": "박물관·전시",
-      "count": 25,
+      "count": 27,
       "previous_count": 45,
       "trend": "falling",
       "items": [
+        {
+          "title": "샌프란시스코의 갤러리에서 생존을 위한 대체 경로 탐색하기",
+          "url": "https://hyperallergic.com/san-franciscos-galleries-explore-alternative-routes-for-survival/",
+          "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/10/Kevin-Cohya-Valor-and-family--Cushion-Works--2026.jpeg",
+          "source_name": "Hyperallergic"
+        },
+        {
+          "title": "마음 박물관/CF 뮐러",
+          "url": "https://www.archdaily.com/1187560/mind-museum-cf-moller",
+          "image_url": "https://images.adsttc.com/media/images/6adf/8cc2/3271/8400/01d0/ec79/large_jpg/04_MIND_Photo_by_Kirstine_Mengel.jpg?1793035560",
+          "source_name": "ArchDaily"
+        },
         {
           "title": "필라델피아 미술관에서 마르셀 뒤샹 둘러보기",
           "url": "https://hyperallergic.com/discover-marcel-duchamp-at-the-philadelphia-museum-of-art/",
@@ -134,18 +178,6 @@
           "url": "https://www.dezeen.com/2026/10/28/ma-yansong-interview-lucas-museum/",
           "image_url": "https://static-2026.dezeen.com/uploads/2026/10/ma-yansong-headshot-1024x1024.jpg",
           "source_name": "Dezeen"
-        },
-        {
-          "title": "AD-WO, 피츠버그 카네기 미술관 하인즈 건축 센터 리노베이션",
-          "url": "https://www.archdaily.com/1187645/ad-wo-to-renovate-the-heinz-architectural-center-at-pittsburghs-carnegie-museum-of-art",
-          "image_url": "https://images.adsttc.com/media/images/6ae1/57bb/db5c/2001/882d/0d18/large_jpg/heinz-architectural-center_3.jpg?1793152992",
-          "source_name": "ArchDaily"
-        },
-        {
-          "title": "Obra Blanca 2026은 7번째 에디션으로 23,000명 이상의 업계 전문가를 모았습니다.",
-          "url": "https://www.archdaily.com/1187618/obra-blanca-2026-brought-together-more-than-23000-industry-professionals-in-its-seventh-edition",
-          "image_url": "https://images.adsttc.com/media/images/6ad8/ea7c/db5c/2001/882c/f640/large_jpg/obra-blanca-2026-conecta-los-materiales-con-la-practica-arquitectonica_11.jpg?1792600708",
-          "source_name": "ArchDaily"
         }
       ]
     },
@@ -178,38 +210,6 @@
           "url": "https://www.architecturaldigest.com/story/how-to-remove-a-tree-stump",
           "image_url": "https://media.architecturaldigest.com/photos/68af4a961eb957cb2bea714d/master/pass/GettyImages-1435890181.jpg",
           "source_name": "Architectural Digest"
-        }
-      ]
-    },
-    {
-      "keyword": "사진",
-      "count": 5,
-      "previous_count": 10,
-      "trend": "falling",
-      "items": [
-        {
-          "title": "사진: 90 년대가 아일랜드 북부의 정치를 초월한 방법",
-          "url": "https://www.dazeddigital.com/art-photography/article/71248/1/photos-90s-rave-transcended-politics-north-ireland-gareth-mcconnell-an-illusion?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=in-pictures-how-90s-rave-transcended-politics-in-the-north-of-ireland",
-          "image_url": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/8/1458417.jpg",
-          "source_name": "Dazed"
-        },
-        {
-          "title": "멕시코 사진작가가 국가를 만든 방법",
-          "url": "https://hyperallergic.com/how-mexican-photographers-made-a-nation/",
-          "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/10/Copy-of-gm_35391501-1.jpg",
-          "source_name": "Hyperallergic"
-        },
-        {
-          "title": "사진작가 타라 베루즈 (Tara Behruz) 의 “합계가 부분보다 큽니다”",
-          "url": "https://www.booooooom.com/2026/10/22/the-sum-is-greater-than-its-parts-by-photographer-tara-behruz/",
-          "image_url": "https://cdn.booooooom.com/wp-content/uploads/2026/10/Tara1.jpg",
-          "source_name": "BOOOOOOOM"
-        },
-        {
-          "title": "‘아프리카 거리 사진 촬영’ 은 대륙 전역에 걸친 다채롭고 활기찬 설문 조사입니다.",
-          "url": "https://www.thisiscolossal.com/2026/10/street-photography-africa-book/",
-          "image_url": "https://www.thisiscolossal.com/wp-content/uploads/2026/10/spa-5.jpg",
-          "source_name": "This Is Colossal"
         }
       ]
     }

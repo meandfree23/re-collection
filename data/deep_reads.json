@@ -231930,5 +231930,1571 @@
   },
   "depth_raw": 3,
   "depth_v": 2
+ },
+ "hyperallergic.com/im-an-epstein-survivor-moma-must-drop-leon-black": {
+  "title_ko": "미술관의 권위는 누구를 위한 방패인가",
+  "summary_ko": "제프리 엡스타인에게 학대를 당한 생존자가 뉴욕 현대미술관(MoMA) 이사회에 레온 블랙의 퇴출을 요구한다. 미술관이라는 거대한 기관의 권위와 침묵이 어떻게 권력자의 폭력을 은폐하고 가해를 용인했는지 고발한다.",
+  "lens": "예술 기관의 명성이 권력자의 범죄를 정당화하는 방패로 쓰일 때, 침묵은 곧 방조다.",
+  "why_now": "문화예술 기관이 보유한 자본과 이사회의 도덕적 책임에 대한 동시대적 검증 요구가 거세지고 있다.",
+  "mechanism": "생존자의 개인적 고통에 대한 증언과 미술관 이사회의 구조적 무관심을 직접적으로 대비시켜 제도의 위선을 드러낸다.",
+  "sensory": "화려한 미술관 공간 뒤에 숨겨진 어둡고 침묵하는 권력의 공백을 차갑게 환기한다.",
+  "transfer": "사회적 권력 구조를 다루는 다큐멘터리나 영상 연출에서, 인물의 내레이션과 대조되는 거대한 공공 건축물의 차가운 물성을 롱테이크로 포착한다.",
+  "context": "레온 블랙은 제프리 엡스타인과의 재정적 거래가 밝혀진 후 뉴욕 현대미술관 이사장직에서 사임한 바 있다.",
+  "findings": [
+   {
+    "text": "레온 블랙은 제프리 엡스타인에게 세무 및 금융 서비스를 명목으로 1억 7천만 달러를 지급했다.",
+    "s": 2,
+    "quote": "Between 2012 and 2017, Black paid Epstein a total of $170 million for 'tax and financial services' that reportedly saved him over $1 billion in taxes."
+   },
+   {
+    "text": "레온 블랙은 제프리 엡스타인과의 관계가 폭로된 이후 뉴욕 현대미술관 이사장직에서 사임했다.",
+    "s": 2,
+    "quote": "Black resigned from both Apollo Global Management and the Museum of Modern Art in the wake of revelations about his business ties to the New York financier and child sex offender, Jeffrey Epstein."
+   }
+  ],
+  "keywords": [
+   "미술관",
+   "권력구조",
+   "윤리",
+   "기관의책임"
+  ],
+  "evidence": "Institutions must reckon with the possibility that their prestige can be used to legitimize people whose conduct warrants serious investigations.",
+  "kind": "뉴스·이슈",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "미술관 이사회의 윤리적 책임을 다룬 중요한 이슈이나 원문의 논평 성격이 강하다.",
+  "v": 2,
+  "url": "https://hyperallergic.com/im-an-epstein-survivor-moma-must-drop-leon-black/",
+  "original_title": "I’m an Epstein Survivor. MoMA Must Drop Leon Black.",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 1377,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-29 04:10",
+  "research": {
+   "entities": [
+    "Jeffrey Epstein",
+    "Leon Black",
+    "Museum of Modern Art"
+   ],
+   "questions": [
+    "Leon Black과 Jeffrey Epstein 사이의 금전적, 개인적 관계는 무엇인가?",
+    "MoMA와 같은 주요 예술 기관이 이사회 구성원의 윤리적 논란에 대해 어떤 책임을 져야 하는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Jeffrey Epstein",
+     "url": "https://en.wikipedia.org/wiki/Jeffrey%20Epstein"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Leon Black",
+     "url": "https://en.wikipedia.org/wiki/Leon%20Black"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "맨해튼 크라운 빌딩의 재탄생, 아만 뉴욕이 선보이는 7개의 프라이빗 홈",
+     "url": "https://www.wallpaper.com/travel/hotels/aman-new-york-homes"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "역사의 권력 구조를 비추는 거울, 모건 라이브러리의 타로 전시",
+     "url": "https://hyperallergic.com/how-tarot-survived-for-500-years/"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "사라 미켈슨의 무용 연대기, 미술관을 점유하는 자기 참조적 궤적",
+     "url": "https://hyperallergic.com/sarah-michelsons-delicate-fetish-play/"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 3443
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "hyperallergic.com/tacita-deans-truth-in-materials": {
+  "title_ko": "타시타 딘, 35mm 필름의 물리적 질감으로 구현한 아날로그의 진실",
+  "summary_ko": "타시타 딘(Tacita Dean)의 2011년 설치 작업 '필름(FILM)'이 로스앤젤레스 마르시아노 미술관에서 공개되었다. 31피트 높이의 기둥에 투사된 이 영상은 먼지와 빛의 노출, 필름의 입자감을 그대로 드러내며 디지털 이미지의 매끄러움과 대비되는 물질성을 강조한다. 테이트 모던 터빈 홀에서 처음 선보였던 이 작품은 아날로그 필름이라는 매체 자체가 지닌 시각적 서사를 탐구한다.",
+  "lens": "디지털의 무결한 매끄러움에 저항하며, 필름의 입자와 먼지, 빛의 노출 과잉을 통해 영상이 지닌 물리적 실체를 증명한다.",
+  "why_now": "이미지가 생성형 AI와 필터로 가공되는 시대에, 필름의 화학적 반응과 기계적 구동이 만드는 불완전한 이미지를 통해 매체의 본질을 질문한다.",
+  "mechanism": "아나모픽 렌즈를 90도 회전시켜 수직으로 투사하고, 가장자리에 필름의 스프로킷 홀을 노출해 스크린 자체가 거대한 필름 스트립처럼 작동하게 구성했다.",
+  "sensory": "프로젝터의 낮은 회전음과 바닥에 반사된 빛의 웅덩이가 공간을 채우고, 먼지와 입자가 섞인 거친 영상이 시각적 촉각을 자극한다.",
+  "transfer": "영상의 매끄러움을 덜어내고 렌즈의 플레어, 필름의 노이즈, 기계적 소음을 의도적으로 배치하여 시청각적 물질감을 극대화하는 연출에 활용한다.",
+  "context": "타시타 딘은 16mm 필름의 생산 중단 위기 속에서 아날로그 기술을 예술적 매체로 고수해 온 작가다. 테이트 모던 터빈 홀의 거대한 공간성을 활용했던 이전 작업의 맥락을 이어, 마르시아노 미술관의 극장 갤러리에서 필름의 물리적 서사를 다시 펼친다.",
+  "findings": [
+   {
+    "text": "타시타 딘은 16mm 필름의 생산 중단이 자신의 작업 방식과 예술적 생태계에 심각한 위협이 된다고 경고하며, 필름을 단순한 도구가 아닌 화학적 반응의 결과물로 정의했다.",
+    "s": 1,
+    "quote": "Film is chemistry: chemistry that has produced the miracle of the moving image. Decades of knowledge, skill and experience have gone into my saying, \"I think that shot is too green, but the next one is too pink.\""
+   },
+   {
+    "text": "타시타 딘은 영국 출신의 시각 예술가로, 주로 필름을 매체로 작업하며 1998년 터너상 후보에 올랐고 2006년 휴고 보스 상을 수상했다.",
+    "s": 2,
+    "quote": "Tacita Charlotte Dean CBE, RA (born 1965) is a British visual artist who works primarily in film. She was a nominee for the Turner Prize in 1998, won the Hugo Boss Prize in 2006"
+   }
+  ],
+  "keywords": [
+   "타시타 딘",
+   "아날로그 필름",
+   "물질성",
+   "설치 미술",
+   "매체 미학"
+  ],
+  "evidence": "Instead of the slick, frictionless stream of homogeneous imagery circulating the internet, the moving pictures projected onto a 31-foot-tall column are insistently material.",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "필름이라는 매체의 물리적 속성을 동시대 디지털 이미지와 대비하여 분석하고, 작가의 작업적 태도를 구체적인 기법과 연결했기 때문이다.",
+  "v": 2,
+  "url": "https://hyperallergic.com/tacita-deans-truth-in-materials/",
+  "original_title": "​​Tacita Dean’s Truth in Materials",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 2428,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-29 04:10",
+  "research": {
+   "entities": [
+    "Tacita Dean",
+    "FILM",
+    "Tate Modern",
+    "Marciano Art Foundation"
+   ],
+   "questions": [
+    "타시타 딘의 작품 FILM이 아날로그 필름 매체를 활용하여 전달하고자 하는 미학적 메시지는 무엇인가?",
+    "테이트 모던의 터빈 홀에서 처음 선보인 이 대형 설치 작업이 미국 마르시아노 미술관에서 재공개되면서 갖는 의의는 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Save celluloid, for art's sake",
+     "url": "https://www.theguardian.com/artanddesign/2011/feb/22/tacita-dean-16mm-film?ref=hyperallergic.com"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Tacita Dean",
+     "url": "https://en.wikipedia.org/wiki/Tacita%20Dean"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Tate Modern",
+     "url": "https://en.wikipedia.org/wiki/Tate%20Modern"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "헨리 웨셀, 운전석에서 포착한 캘리포니아의 우연한 질감",
+     "url": "https://www.thisiscolossal.com/2026/09/henry-wessel-grolier-club-photography-california/"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "테이트 모던의 콘크리트 지하를 짐바브웨의 신성한 바위산으로 바꾼 노라 치파우미레",
+     "url": "https://elephant.art/nora-chipaumires-gadzi-amplifies-the-sacred/"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "에스 데블린의 30년, 스튜디오에서 라이브러리까지 이어지는 창작의 궤적",
+     "url": "https://www.wallpaper.com/design-interiors/design-events/es-devlin-design-museum-london"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3
+   ],
+   "chars": 4725
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "stashmedia.tv/hornet-signs-uk-director-troy-browne-to-global-roster": {
+  "title_ko": "트로이 브라운, 호넷 합류: 큐비즘적 실험과 애니메이션의 조우",
+  "summary_ko": "영국 감독 트로이 브라운(Troy Browne)이 제작 스튜디오 호넷(Hornet)의 글로벌 디렉터 로스터에 합류했다. 그는 애니메이션 ‘아키라(Akira)’에서 얻은 시각적 영감을 바탕으로 2D 콜라주와 3D 모션을 결합한 실험적 스토리텔링을 선보인다. 애플, 어도비, 성인용 애니메이션 채널 어덜트 스윔(Adult Swim) 등 다양한 클라이언트와 협업하며 독자적인 시각 언어를 구축해 왔다.",
+  "lens": "단순한 기법의 나열을 넘어, 2D 콜라주와 3D 모션을 충돌시켜 화면에 큐비즘적인 긴장감을 불어넣는 연출력이 핵심이다.",
+  "why_now": "디지털 매체 간 경계가 희미해진 현재, 파편화된 소스 자료를 재조합하여 서사의 밀도를 높이는 그의 방식은 광고 영상의 새로운 문법을 제시한다.",
+  "mechanism": "애프터 이펙트의 자동화된 익스프레션과 수작업 콜라주를 교차 편집하여 정형화된 모션 그래픽의 틀을 깬다. 파운드 푸티지를 해체하고 재구성해 시각적 에너지를 극대화하는 방식을 취한다.",
+  "sensory": "거칠고 원색적인 색감과 날카로운 실루엣이 교차하며, 음악의 비트와 동기화된 파격적인 움직임이 화면 전체를 지배한다.",
+  "transfer": "기존 영상 소스를 큐비즘적 관점에서 해체한 뒤, 2D 콜라주 레이어를 3D 공간에 배치해 깊이감을 왜곡하는 레이어링 기법을 활용하라.",
+  "context": "호넷은 최근 크리스토퍼 러틀리지와 아말가메이션 컬렉션을 영입하며 제작 역량을 다변화하고 있다. 트로이 브라운의 합류는 스튜디오가 추구하는 다분야 제작 파이프라인 확장과 맥을 같이 한다.",
+  "findings": [
+   {
+    "text": "어덜트 스윔은 성인 관객을 대상으로 실험적이고 초현실적인 애니메이션을 방영하는 미국의 프로그래밍 블록이다.",
+    "s": 1,
+    "quote": "Adult Swim is programmed by Williams Street, a subsidiary of The Cartoon Network, Inc. that also produces much of the block's original programming. Launched on September 2, 2001, Adult Swim has frequently aired animated "
+   },
+   {
+    "text": "1988년 개봉한 애니메이션 아키라는 사이버펑크 장르의 기념비적 작품으로, 이후 성인 애니메이션과 일본 애니메이션 발전에 큰 영향을 끼쳤다.",
+    "s": 2,
+    "quote": "A landmark in Japanese animation, the film is widely cited as an influential work in the development of anime, adult animation, and Japanese cinema."
+   }
+  ],
+  "keywords": [
+   "트로이 브라운",
+   "호넷",
+   "모션 그래픽",
+   "콜라주",
+   "큐비즘"
+  ],
+  "evidence": "His ability to transform source material into a kind of cubist experiment gives each project a unique visual energy, all connected by his unmistakable creative voice.",
+  "kind": "뉴스·이슈",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "감독의 합류라는 뉴스성 정보에 기반하되, 그의 시각적 연출 기법을 구체적으로 분석하여 실무적 적용점을 도출했다.",
+  "v": 2,
+  "url": "https://www.stashmedia.tv/hornet-signs-uk-director-troy-browne-to-global-roster/",
+  "original_title": "Hornet Signs UK Director Troy Browne to Global Roster",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 3396,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-29 04:10",
+  "research": {
+   "entities": [
+    "Troy Browne",
+    "Hornet",
+    "Natalie Labarre",
+    "Adult Swim",
+    "Akira"
+   ],
+   "questions": [
+    "Troy Browne 감독이 Hornet에 합류하기 전 주요 작업물과 대표적인 연출 스타일은 무엇인가요?",
+    "Hornet은 어떤 기준으로 글로벌 디렉터 로스터를 구성하며, 이번 영입이 스튜디오의 방향성에 미치는 영향은 무엇인가요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Adult Swim",
+     "url": "https://en.wikipedia.org/wiki/Adult%20Swim"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Akira (1988 film)",
+     "url": "https://en.wikipedia.org/wiki/Akira%20%281988%20film%29"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "클레이메이션 매버릭과 만나는 노팅엄의 애니메이션 밤",
+     "url": "https://www.stashmedia.tv/animorsels-returns-to-nottingham-oct-27-with-lee-hardcastle/"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "빅(BIG)이 설계한 마콘도 파크, 가변적 건축으로 재현한 문학적 풍경",
+     "url": "https://www.archdaily.com/1185625/bigs-macondo-park-opens-as-a-temporary-cultural-landscape-for-shakiras-madrid-residency"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "호넷, 크리스토퍼 러틀리지와 크리에이티브 컬렉티브 '아말가메이션' 영입",
+     "url": "https://www.stashmedia.tv/hornet-adds-christopher-rutledge-and-his-amalgamation-collective-to-roster/"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    5
+   ],
+   "chars": 3551
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "hyperallergic.com/cici-wus-memory-lanterns": {
+  "title_ko": "치치 우: 기억의 등불로 엮은 식민지와 이주사의 잔상",
+  "summary_ko": "작가 치치 우(Cici Wu)는 뉴욕 47 캐널(47 Canal)에서 열린 전시 ‘올드 랭 사인(Auld Lang Syne, prelude)’을 통해 11점의 등불 조각을 선보인다. 대나무, 버들가지, 한지로 제작된 등불은 바리공주와 관음보살 등 동아시아의 신화적 도상과 1914년 일본 시즈오카의 여학교 사진을 결성한다. 작가는 노래 ‘올드 랭 사인’이 거쳐 온 이주와 변용의 역사를 조각과 빛으로 재구성한다.",
+  "lens": "역사의 파편을 16mm 필름의 깜박임과 한지 등불의 은은한 빛으로 치환해, 식민지 시대의 잔재를 물리적 감각으로 현현시킨다.",
+  "why_now": "서구의 선교 활동에서 일본의 식민지 통치를 거쳐 현재 일본 소매점의 퇴근 알림곡으로 정착한 노래의 궤적을 통해, 이주와 변용의 역사를 시각화한다.",
+  "mechanism": "18세기 스코틀랜드 민요 ‘올드 랭 사인’의 리듬에 맞춰 전구의 점멸을 제어하며, 등불 내부의 빛이 어두운 지하 전시장을 채우도록 설계했다.",
+  "sensory": "어두운 지하 갤러리 속에서 한지와 먹, 수채화 물감이 덧입혀진 등불이 따뜻한 빛을 발산하며 무속적이고 신비로운 분위기를 조성한다.",
+  "transfer": "역사적 기록 사진을 등불 형태의 오브제로 입체화하고, 특정 사운드 트랙의 박자에 맞춰 조명의 명멸을 동기화하여 공간의 리듬감을 형성하는 방식을 차용한다.",
+  "context": "47 캐널은 2011년 마가렛 리와 올리버 뉴턴이 설립한 뉴욕의 동시대 미술 갤러리다. 치치 우는 영상과 조각, 회화를 가로지르며 이주와 역사적 서사를 다루는 작업을 지속해 왔다.",
+  "findings": [
+   {
+    "text": "47 캐널은 2011년 예술가 마가렛 리와 아트 딜러 올리버 뉴턴이 뉴욕에 설립한 동시대 미술 갤러리다.",
+    "s": 1,
+    "quote": "47 Canal is a contemporary art gallery in New York City. It was founded in 2011 by artist Margaret Lee and art dealer Oliver Newton."
+   },
+   {
+    "text": "관음보살은 동아시아 전역에서 자비의 상징으로 숭배되며, 불교뿐만 아니라 도교와 민간 신앙에도 통합되어 있다.",
+    "s": 2,
+    "quote": "Guanyin is a common Chinese name of the Bodhisattva associated with compassion known as Avalokiteśvara. Guanyin has been incorporated in other religions, including Taoism and Chinese folk religion."
+   }
+  ],
+  "keywords": [
+   "치치 우",
+   "47 캐널",
+   "등불 조각",
+   "올드 랭 사인",
+   "식민지 역사"
+  ],
+  "evidence": "The projector and the shamanic deity are among 11 lantern sculptures made of bamboo, willow withies, and mulberry paper, glowing from within and illuminating the otherwise pitch-black basement gallery.",
+  "kind": "전시",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "전시된 오브제의 재료와 역사적 맥락을 구체적으로 연결하여 작가의 조형적 의도를 명확히 분석했다.",
+  "v": 2,
+  "url": "https://hyperallergic.com/cici-wus-memory-lanterns/",
+  "original_title": "Cici Wu's Memory Lanterns",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 2184,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-29 04:10",
+  "research": {
+   "entities": [
+    "Cici Wu",
+    "47 Canal",
+    "Princess Bari",
+    "Kuan-yin"
+   ],
+   "questions": [
+    "작가 Cici Wu가 'Auld Lang Syne'이라는 노래를 통해 탐구하고자 하는 역사적, 문화적 맥락은 무엇인가?",
+    "전시된 등불 조각들이 한국의 무속 신앙과 일본의 식민지 역사, 그리고 불교적 도상과 어떻게 연결되는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "47 Canal",
+     "url": "https://en.wikipedia.org/wiki/47%20Canal"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Guanyin",
+     "url": "https://en.wikipedia.org/wiki/Guanyin"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 1532
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "hyperallergic.com/san-franciscos-galleries-explore-alternative-routes-for-survival": {
+  "title_ko": "샌프란시스코의 갤러리들, 비영리 전환으로 생존의 경로를 다시 쓰다",
+  "summary_ko": "샌프란시스코는 높은 생활비와 예술 교육 기관의 폐쇄로 예술가와 갤러리의 이탈이 가속화되는 위기를 겪고 있다. 미션 디스트릭트의 갤러리 쿠션 워크스(Cushion Works)는 지난해 비영리 단체로 전환하고 멤버십 프로그램을 도입하며 지역 기반의 예술 생태계를 유지하기 위한 새로운 운영 모델을 실험한다.",
+  "lens": "상업적 갤러리 모델이 한계에 봉착한 도시에서, 운영의 지속 가능성을 비영리 구조와 커뮤니티 멤버십으로 치환해 공간의 생명을 연장한다.",
+  "why_now": "도시의 경제적 위기가 예술 활동의 물리적 기반을 위협하는 상황에서, 공간 운영의 목적을 수익 창출이 아닌 지역 기록과 공동체 유지로 재정의하는 움직임이 두드러진다.",
+  "mechanism": "쿠션 워크스는 독립 예술 미디어(Independent Arts & Media)를 재정 후원자로 두어 세금 공제가 가능한 기부금 체계를 구축하고 멤버십을 통해 운영 자금을 확보한다.",
+  "sensory": "지역 전설적인 작가부터 외부인, 휘트니 미술관 전시 작가까지 폭넓은 스펙트럼을 다루며, 샌프란시스코 베이 지역의 고유한 맥락이 겹쳐진 아카이브적 질감을 형성한다.",
+  "transfer": "공간 운영이 어려울 때 전시를 단순 판매의 장이 아닌 멤버십 기반의 커뮤니티 허브로 전환하여 고정적인 후원층을 확보하는 운영 전략을 고려할 수 있다.",
+  "context": "쿠션 워크스는 2018년 조던 스타인(Jordan Stein)이 설립한 공간으로, 로버트 크럼(R. Crumb)과 같은 지역 작가부터 동시대 작가까지 아우르는 전시와 출판을 이어왔다. 이는 샌프란시스코 예술계의 경제적 이탈 현상 속에서 지역성과 예술적 실천을 보존하려는 시도 중 하나다.",
+  "findings": [
+   {
+    "text": "쿠션 워크스는 독립 예술 미디어를 재정 후원자로 지정하여 기부금 기반의 운영 체계를 갖추었다.",
+    "s": 2,
+    "quote": "Gifts via DAF can be directed to “Independent Arts & Media,” our fiscal sponsor."
+   },
+   {
+    "text": "로버트 크럼은 1960년대 언더그라운드 코믹스 운동의 핵심 인물로, 19세기 말과 20세기 초 미국 민속 문화에 대한 향수를 작업에 투영한다.",
+    "s": 3,
+    "quote": "His work displays a nostalgia for American folk culture of the late 19th and early 20th centuries, and satire of contemporary American culture."
+   }
+  ],
+  "keywords": [
+   "쿠션워크스",
+   "비영리갤러리",
+   "샌프란시스코",
+   "예술생태계",
+   "커뮤니티"
+  ],
+  "evidence": "Those who are sticking around are turning to alternative models to survive and foster community, from nonprofit status to retail business.",
+  "kind": "뉴스·이슈",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "지역 예술계의 구조적 문제를 구체적인 갤러리 사례로 연결했으나, 비영리 전환 외의 다른 생존 전략에 대한 상세 정보가 부족하다.",
+  "v": 2,
+  "url": "https://hyperallergic.com/san-franciscos-galleries-explore-alternative-routes-for-survival/",
+  "original_title": "San Francisco’s Galleries Explore Alternative Routes for Survival",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 1943,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-29 04:10",
+  "research": {
+   "entities": [
+    "Cushion Works",
+    "Jordan Stein",
+    "R. Crumb",
+    "Dewey Crumpler",
+    "Grace Rosario Perkins"
+   ],
+   "questions": [
+    "샌프란시스코의 예술 생태계가 직면한 경제적 위기와 갤러리들의 생존 전략은 무엇인가?",
+    "Cushion Works와 같은 비영리 전환 모델이 지역 예술 커뮤니티 유지에 어떤 영향을 미치는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Cushion Works",
+     "url": "https://www.cushionworks.org/?ref=hyperallergic.com"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Cushion Works - Support",
+     "url": "https://www.cushionworks.org/support?ref=hyperallergic.com"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Robert Crumb",
+     "url": "https://en.wikipedia.org/wiki/Robert%20Crumb"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3
+   ],
+   "chars": 4509
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "archdaily.com/1187234/goldring-woldenberg-riverfront-park-eskew-plus-dumez-plus-ripple": {
+  "title_ko": "창고와 펜싱을 걷어내고 미시시피를 연 시선",
+  "summary_ko": "에스큐 듀메즈 리플(Eskew+Dumez+Ripple)과 하그리브스 존스(Hargreaves Jones)가 미국 뉴올리언스의 골드링 볼덴버그 강변 공원을 재설계했다. 허리케인 카트리나 이후 수십 년간 창고와 트럭으로 막혀 있던 산업용 수변 공간을 공공 광장과 연속된 보행로로 전환했다.",
+  "lens": "산업용 철제 펜스로 가로막힌 수변을 걷어내고 도시와 강을 직접 이어준다.",
+  "why_now": "재난 이후 도시 인프라가 단순한 방재를 넘어 시민의 일상적 공공 공간으로 어떻게 편입되는지 보여주는 사례다.",
+  "mechanism": "미시시피강을 가로막던 보안 펜스와 창고 시설을 철거하고, 강변을 따라 연속된 보행 동선을 구축해 시야를 개방했다.",
+  "sensory": "거친 철제 울타리와 화물 트럭이 사라진 자리에 탁 트인 강바람과 수평선이 펼쳐진다.",
+  "transfer": "공간을 가로막는 장애물을 제거하여 시야를 확보하고 동선의 연속성을 만드는 롱테이크 샷 설계에 활용한다.",
+  "context": "오랫동안 뉴올리언스를 기반으로 활동해 온 에스큐 듀메즈 리플이 오두본 자연연구소(Audubon Nature Institute)와 협력하여 수변 재생 프로젝트를 완성했다.",
+  "findings": [
+   {
+    "text": "에스큐디메즈리플은 1989년 앨런 에스큐가 루이지애나주 뉴올리언스에 설립한 미국 건축 사무소다.",
+    "s": 1,
+    "quote": "EskewDumezRipple is an American architecture practice based in New Orleans, Louisiana founded by Allen Eskew in 1989."
+   },
+   {
+    "text": "오두본 자연연구소는 루이지애나주 뉴올리언스에 본정을 둔 자연 관련 박물관 및 공원 그룹이다.",
+    "s": 2,
+    "quote": "The Audubon Nature Institute is a family of museums and parks dedicated to nature based in New Orleans, Louisiana, US."
+   }
+  ],
+  "keywords": [
+   "수변공원",
+   "도시재생",
+   "조경건축",
+   "미시시피강"
+  ],
+  "evidence": "For decades, the riverfront at Goldring Woldenberg Riverfront Park was a hard industrial edge: sheds, trucks, and security fencing separating residents and visitors from the Mississippi.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "수변 공간의 변화 과정을 보여주나 세부 조경 기법에 대한 정보가 제한적이다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1187234/goldring-woldenberg-riverfront-park-eskew-plus-dumez-plus-ripple",
+  "original_title": "Goldring Woldenberg Riverfront Park  / Eskew+Dumez+Ripple",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 1980,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-29 04:10",
+  "research": {
+   "entities": [
+    "Goldring Woldenberg Riverfront Park",
+    "Eskew+Dumez+Ripple",
+    "Hargreaves Jones",
+    "Audubon Nature Institute"
+   ],
+   "questions": [
+    "Reinventing the Crescent 계획이 뉴올리언스 도시 재생과 수변 공간 활용에 어떤 영향을 미쳤나요?",
+    "허리케인 카트리나 이후 Goldring Woldenberg Riverfront Park가 도시의 회복탄력성을 높이기 위해 어떤 설계적 전략을 취했나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "EskewDumezRipple",
+     "url": "https://en.wikipedia.org/wiki/EskewDumezRipple"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Audubon Nature Institute",
+     "url": "https://en.wikipedia.org/wiki/Audubon%20Nature%20Institute"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 828
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "archdaily.com/1187662/dust-egypts-forgotten-architecture-revised-and-expanded-edition": {
+  "title_ko": "시간에 갇힌 카이로의 궁전들: 더스트, 이집트의 잊혀진 건축",
+  "summary_ko": "1860년부터 1940년 사이 이집트 대도시에서 일어난 건설 붐은 보자르와 아르데코 양식에 현지 재료를 결합한 건축물을 탄생시켰다. 사진가 크세니아 니콜스카야(Xenia Nikolskaya)는 카이로, 알렉산드리아 등지에서 방치된 이 공간들을 기록했다. 이 기록은 2012년 출간된 사진집의 개정 증보판으로 다시 묶였다.",
+  "lens": "화려한 장식 뒤로 쇠락해가는 이집트 근대 건축의 물성을 통해, 급격한 도시화가 유산의 시간을 어떻게 지우는지 관찰한다.",
+  "why_now": "부동산 개발과 인구 과밀로 인해 사라져가는 근대 건축 자산의 기록적 가치가 재조명되는 시점이다.",
+  "mechanism": "유럽의 장식적 양식과 이집트 현지 재료의 결합으로 형성된 독특한 질감이, 방치된 공간의 빛과 그림자를 통해 기록된다.",
+  "sensory": "시간의 흐름에 따라 낡아가는 석재의 표면과 먼지 쌓인 인테리어, 정지된 공간 속 무거운 공기의 감각을 담아낸다.",
+  "transfer": "역사적 건물의 쇠락한 디테일을 촬영할 때, 인위적인 조명 대신 자연광의 방향을 활용해 질감의 깊이를 강조하는 방식을 참조한다.",
+  "context": "사진가 크세니아 니콜스카야가 2006년부터 이집트 전역의 30여 개 장소를 기록한 작업의 연장선에 있다.",
+  "findings": [],
+  "keywords": [
+   "근대건축",
+   "이집트",
+   "아르데코",
+   "도시기록",
+   "보자르"
+  ],
+  "evidence": "Between 1860 and 1940, Cairo and other large cities in Egypt witnessed a major construction boom that gave birth to extraordinary palaces and lavish buildings.",
+  "kind": "뉴스·이슈",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "건축 기록물로서의 가치는 높으나, 원문 내 구체적인 건축적 분석이나 기술적 디테일이 제한적이다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1187662/dust-egypts-forgotten-architecture-revised-and-expanded-edition",
+  "original_title": "Dust Egypt's Forgotten Architecture, Revised and Expanded Edition",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 1206,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-29 04:10",
+  "research": {
+   "entities": [
+    "Xenia Nikolskaya",
+    "Dust: Egypt's Forgotten Architecture"
+   ],
+   "questions": [
+    "1860년부터 1940년 사이 이집트 건축물에 나타난 Beaux-Arts와 Art Deco 양식의 구체적인 특징은 무엇인가?",
+    "현재 이집트의 도시 재개발과 인구 문제로 인해 역사적 건축물들이 겪고 있는 구체적인 위협 요소는 무엇인가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "dezeen.com/2026/10/28/kpf-texas-tallest-skyscraper-waterline-austin": {
+  "title_ko": "텍사스 오스틴의 수직적 지질학, KPF의 마천루 워터라인",
+  "summary_ko": "뉴욕의 건축 스튜디오 케이피에프(KPF)가 텍사스 오스틴에 312미터 높이의 초고층 빌딩 '워터라인(Waterline)'을 완공했다. 레이디 버드 레이크를 향해 경사지며 솟아오르는 이 건물은 하단에 호텔과 오피스, 상단에 주거 시설을 배치한 복합 용도 건축물이다. 위워크(WeWork)의 초기 계획을 이어받아 도시와 수변을 잇는 공공성을 강조했다.",
+  "lens": "수직으로 솟은 마천루를 단순한 타워가 아닌, 도시의 지형과 수변을 연결하는 하나의 거대한 지질학적 풍경으로 치환했다.",
+  "why_now": "팬데믹 이후 도심 복합 용도 공간의 기능적 유연성이 중요해진 시점에, 폐쇄적인 단일 타워가 아닌 보행자와 도시를 향해 열린 공간 모델을 제시한다.",
+  "mechanism": "건물 하단에 거대한 기둥으로 지지되는 개방형 포디움을 조성하고, 레이디 버드 레이크로 이어지는 보행로를 배치해 도시와 수변의 물리적 연결성을 확보했다.",
+  "sensory": "녹슨 색조의 디테일이 가미된 레이스 형태의 파사드는 텍사스의 지질을 연상시키며, 층마다 변하는 그리드와 기둥의 리듬은 거대한 암석 틈새를 보는 듯한 깊이감을 만든다.",
+  "transfer": "건물의 하단 포디움을 단순히 출입구로 쓰지 않고, 기둥의 배치를 조정해 도시의 보행 흐름을 건물 내부로 끌어들이는 '어반 드라마' 연출을 도입할 수 있다.",
+  "context": "케이피에프는 도시 맥락과 craft를 결합한 설계를 지향하며, 선전베이 믹스씨와 같이 인프라와 상업 공간을 통합하는 복합 프로젝트에서 일관된 방법론을 보여왔다. 본 프로젝트는 위워크의 경영 위기로 중단된 초기 BIG의 설계를 이어받아, 케이피에프 특유의 구조적 유연함으로 재해석했다.",
+  "findings": [
+   {
+    "text": "케이피에프는 도시의 맥락과 공예적 완성도, 그리고 성능을 중심으로 도시를 변모시키는 것을 건축의 임무로 삼는다.",
+    "s": 1,
+    "quote": "Our mission as architects is to transform cities through context, craft, and performance."
+   },
+   {
+    "text": "위워크는 2019년 기업 공개 실패와 기업 지배구조 문제로 인해 경영진 교체와 사업 축소 과정을 겪었다.",
+    "s": 3,
+    "quote": "In September 2019, the company filed documentation to become a public company and revealed issues with corporate governance. Investors forced both the cancellation of the IPO and the resignation of Neumann."
+   }
+  ],
+  "keywords": [
+   "KPF",
+   "초고층빌딩",
+   "복합용도",
+   "텍사스오스틴",
+   "어반드라마"
+  ],
+  "evidence": "It inflects towards Lady Bird Lake, and I think that was a powerful profile in everybody’s estimation, because it says something about a vertical structure becoming a piece of landscape or geology.",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "건축적 의도와 구조적 해결책이 명확하며, 위워크의 실패라는 맥락을 거쳐 공공성을 확보한 과정이 구체적으로 서술됨.",
+  "v": 2,
+  "url": "https://www.dezeen.com/2026/10/28/kpf-texas-tallest-skyscraper-waterline-austin/",
+  "original_title": "KPF completes Texas' tallest skyscraper in Austin",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 6505,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-29 04:10",
+  "research": {
+   "entities": [
+    "Kohn Pedersen Fox",
+    "WeWork",
+    "BIG",
+    "James von Klemperer",
+    "Waterline"
+   ],
+   "questions": [
+    "위워크의 몰락 이후 KPF가 이 프로젝트를 이어받아 디자인을 어떻게 발전시켰나요?",
+    "오스틴의 레이디 버드 레이크와 주변 환경을 고려한 이 초고층 빌딩의 건축적 특징은 무엇인가요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Home | KPF",
+     "url": "https://www.kpf.com/"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Kohn Pedersen Fox",
+     "url": "https://en.wikipedia.org/wiki/Kohn%20Pedersen%20Fox"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "WeWork",
+     "url": "https://en.wikipedia.org/wiki/WeWork"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "도시 인프라와 상업 공간의 결합, 선전베이 믹스씨 2단계",
+     "url": "https://www.archdaily.com/1184408/shenzhen-bay-mixc-phase-ii-ippolito-fleitz-group"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "chars": 3955
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "archdaily.com/1187560/mind-museum-cf-moller": {
+  "title_ko": "덴마크 마인드 뮤지엄, 정신병원의 엄격한 동선을 전시 서사로 치환하다",
+  "summary_ko": "덴마크 미델파르트에 위치한 마인드 뮤지엄은 과거 정신과 환자 수용 건물을 현대적 박물관으로 탈바꿈한 프로젝트다. 씨에프 뮐러는 기존 건축의 명확한 복도 체계와 공간 구조를 보존하며, 폐쇄적인 의료 시설의 동선을 전시 관람을 위한 선형적 서사로 재편했다.",
+  "lens": "의료 시설의 엄격한 격리 동선을 전시를 위한 선형적 서사로 치환하여, 공간의 과거를 지우지 않고 새로운 맥락을 입힌다.",
+  "why_now": "기존 건물의 역사적 맥락을 유지하면서도 용도를 완전히 전환하는 적응형 재사용(Adaptive Reuse) 방식이 박물관 건축의 새로운 표준으로 자리 잡고 있다.",
+  "mechanism": "기존 정신병원이 지닌 격리 중심의 복도 체계를 관람객의 이동을 안내하는 서사적 흐름으로 치환하여 공간의 밀도를 조절했다.",
+  "sensory": "건물의 원형이 가진 폐쇄적이고 정적인 물성이 현대적인 전시 환경과 결합하여 묵직한 역사적 무게감을 전달한다.",
+  "transfer": "기존 공간의 구조적 제약을 동선 설계의 핵심 장치로 활용하여, 공간의 역사성을 관람객의 이동 경험으로 직접 치환하는 연출을 적용한다.",
+  "context": "씨에프 뮐러는 1924년 설립된 덴마크 최대 규모의 건축 사무소로, 병원과 공공 건축 프로젝트에 강점을 지닌다. 이번 작업은 과거 의료 시설의 강제적 동선을 전시 관람의 서사로 전환하는 실험적 접근을 보여준다.",
+  "findings": [
+   {
+    "text": "씨에프 뮐러는 1924년 설립된 덴마크 최대 건축 사무소로, 병원 건축과 공공 프로젝트에 특화되어 있다.",
+    "s": 1,
+    "quote": "Founded in 1924 by C. F. Møller, it is today the largest architectural firm in Denmark based on number of employed architects."
+   }
+  ],
+  "keywords": [
+   "적응형재사용",
+   "씨에프뮐러",
+   "박물관건축",
+   "공간동선"
+  ],
+  "evidence": "MIND Museum is a former psychiatric patient building transformed into a contemporary museum that both preserves the site's history and creates new, flexible settings.",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "의료 시설의 동선을 전시 서사로 치환하는 구체적인 건축적 전략이 명확히 드러나 있어 공간 설계의 실무적 참고가 가능하다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1187560/mind-museum-cf-moller",
+  "original_title": "MIND Museum / C.F. Møller",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 981,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-29 04:10",
+  "research": {
+   "entities": [
+    "C.F. Møller",
+    "MIND Museum",
+    "Kirstine Mengel",
+    "Kumulus Agency"
+   ],
+   "questions": [
+    "MIND 박물관으로 리노베이션되기 전 건물의 역사적 배경과 기존 건축적 특징은 무엇인가요?",
+    "덴마크 정신의학의 역사를 전달하기 위해 이 공간이 어떻게 유연하게 재구성되었나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "C. F. Møller Architects",
+     "url": "https://en.wikipedia.org/wiki/C.%20F.%20M%C3%B8ller%20Architects"
+    },
+    {
+     "n": 2,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "버려진 5갤런 물통과 대나무로 엮은 베를린의 미래 생태계",
+     "url": "https://www.ignant.com/2025/12/11/worlds-between-water-and-waste-leeroy-new-at-futuriums-ocean-futures/"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "정신병원의 명확한 동선을 박물관의 서사로, 씨에프 뮐러의 마인드 뮤지엄",
+     "url": "https://www.dezeen.com/2026/10/01/cf-moller-mind-museum/"
+    }
+   ],
+   "used": [
+    1,
+    3
+   ],
+   "chars": 1409
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "archdaily.com/1187657/metamorphosis-from-lines-to-space-an-international-architectural-idea-competition": {
+  "title_ko": "선에서 공간으로: 다포딜 국제대학교의 건축 아이디어 공모전",
+  "summary_ko": "방글라데시 다포딜 국제대학교 건축학과가 주최하는 국제 건축 아이디어 공모전 '메타모포시스'가 열린다. 추상적인 사고와 스케치가 어떻게 실질적인 건축 개념과 공간적 경험으로 변모하는지 탐구하는 것이 핵심이다.",
+  "lens": "2차원적 선의 궤적이 3차원 공간의 물리적 질서로 치환되는 과정에서 발생하는 논리적 비약을 시각화하는 데 집중한다.",
+  "why_now": "디지털 도구로 설계하는 시대에 역설적으로 손으로 그린 선의 원형적 가치와 공간 구성의 기본 원리를 되묻는 흐름을 반영한다.",
+  "mechanism": "추상적인 아이디어 단계를 구체적인 건축적 개념으로 구체화하는 변환 과정을 논리적 설계안으로 제시하도록 요구한다.",
+  "sensory": "평면상의 선이 가진 긴장감과 그것이 입체적 볼륨으로 확장될 때 발생하는 공간의 밀도 변화에 주목한다.",
+  "transfer": "드로잉의 선을 단순한 외곽선이 아닌 공간을 분할하고 빛을 투과시키는 구조적 프레임으로 해석하는 연출을 적용한다.",
+  "context": "방글라데시 사바르에 위치한 다포딜 국제대학교는 2002년 설립된 사립 연구 중심 대학으로, 이번 공모전은 건축 축제인 아치페스트 2026의 일환으로 진행된다.",
+  "findings": [
+   {
+    "text": "다포딜 국제대학교는 2002년 방글라데시 사바르에 설립된 사립 연구 중심 대학이다.",
+    "s": 1,
+    "quote": "Daffodil International University (DIU; Bengali: ড্যাফোডিল আন্তর্জাতিক বিশ্ববিদ্যালয়) is a private research university located in Daffodil Smart City, Savar, Bangladesh. It was established on 24 January 2002"
+   }
+  ],
+  "keywords": [
+   "건축공모전",
+   "공간설계",
+   "건축개념",
+   "다포딜국제대학교"
+  ],
+  "evidence": "METAMORPHOSIS: From Lines to Space",
+  "kind": "행사·공모",
+  "depth": 2,
+  "grounding": "partial",
+  "depth_reason": "공모전의 취지는 설명되나 구체적인 심사 기준이나 설계 주제의 상세 정보가 부족하여 정보 전달 수준에 머문다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1187657/metamorphosis-from-lines-to-space-an-international-architectural-idea-competition",
+  "original_title": "\"METAMORPHOSIS: From Lines to Space,\" an International Architectural Idea Competition",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 1084,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-29 04:10",
+  "research": {
+   "entities": [
+    "Daffodil International University",
+    "ARCHFEST"
+   ],
+   "questions": [
+    "Daffodil International University에서 주최하는 ARCHFEST의 목적과 이전 개최 사례는 무엇인가요?",
+    "이번 건축 아이디어 공모전 'METAMORPHOSIS: From Lines to Space'가 요구하는 구체적인 설계 주제와 심사 기준은 무엇인가요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Daffodil International University",
+     "url": "https://en.wikipedia.org/wiki/Daffodil%20International%20University"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 322
+  },
+  "depth_raw": 2,
+  "depth_v": 2
+ },
+ "architecturaldigest.com/story/rahul-ghera-dyali-chelsea-small-space-studio": {
+  "title_ko": "8인치 단위로 재단한 15평 첼시 스튜디오의 공간 해부학",
+  "summary_ko": "미국 로스앤젤레스의 스타트업 컨설턴트가 뉴욕 첼시에 소유한 540제곱피트 아파트를 디자이너 라훌 게라가 개조했다. 월투월 캐비닛과 월넛 밀워크를 활용해 수납과 기능을 극대화하고, 엠파이어 스테이트 빌딩 조망을 끌어들였다.",
+  "lens": "15평의 협소한 면적을 밀도 높은 호텔 스위트처럼 압축해 공간의 결을 재단한다.",
+  "why_now": "교외의 넓은 주거 대신 도시 중심부의 소형 공간을 자신만의 밀도 있는 취향으로 채우려는 1인 가구의 주거 방식을 보여준다.",
+  "mechanism": "침실에서 거실까지 이어지는 가로형 월투월 캐비닛이 시선을 창밖 수평선으로 확장하고, 접이식 가구를 배치해 모임 규모에 따라 공간을 변형한다.",
+  "sensory": "짙은 호두나무 결의 밀워크와 욕실을 채운 석류석 색상의 타일이 묵직하고 차분한 어두운 감도를 만든다.",
+  "transfer": "공간을 가로지르는 수평선을 창틀과 일치시켜 시선을 확장하는 미장센을 세트 디자인에 적용한다.",
+  "context": "디자이너 라훌 게라가 설립한 스튜디오 다얄리의 작업이다.",
+  "findings": [],
+  "keywords": [
+   "소형아파트",
+   "월넛밀워크",
+   "공간디자인",
+   "뉴욕인테리어"
+  ],
+  "evidence": "Working within the constraints of such a small studio left little margin for error. Rather than letting it faze him, Ghera worked “down to the eighth of an inch,” he says.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "540제곱피트 공간의 수납과 재료 운용을 구체적으로 다뤘으나 일반적인 주거 프로젝트 소개다.",
+  "v": 2,
+  "url": "https://www.architecturaldigest.com/story/rahul-ghera-dyali-chelsea-small-space-studio",
+  "original_title": "This Serene 540-Square-Foot Apartment With Sweeping NYC Views Is Designed Down to an Eighth of an Inch",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 5543,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-29 04:10",
+  "research": {
+   "entities": [
+    "Dyali",
+    "Rahul Ghera",
+    "Carl Hansen & Søn",
+    "Gubi"
+   ],
+   "questions": [
+    "540제곱피트 아파트의 공간 효율성을 극대화하기 위해 사용된 월투월 캐비닛의 구조적 특징은 무엇인가?",
+    "디자이너 Rahul Ghera가 이 소형 아파트 인테리어에서 의도한 무드와 자재 팔레트의 특징은 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Carl Hansen & Søn",
+     "url": "https://en.wikipedia.org/wiki/Carl%20Hansen%20%26%20S%C3%B8n"
+    },
+    {
+     "n": 2,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "어른의 명작을 축소한 작은 의자, 그 거대한 실험",
+     "url": "https://www.architecturaldigest.com/story/tiny-chairs"
+    }
+   ],
+   "used": [],
+   "chars": 613
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "archdaily.com/1024398/coliseum-place-building-david-baker-architects": {
+  "title_ko": "데이비드 베이커 아키텍츠가 설계한 오클랜드 콜로세움 플레이스",
+  "summary_ko": "미국 오클랜드에 위치한 콜로세움 플레이스는 저소득층과 주거 취약 가정을 위해 설계된 6층 규모의 공동주택이다. 데이비드 베이커 아키텍츠가 설계를 맡아 총 59세대의 주거 공간과 사회복지 서비스를 위한 시설을 갖췄으며, 오클랜드 주택청과 협력하여 주거 안정을 도모한다.",
+  "lens": "단순한 주거 공급을 넘어, 도시의 유휴 부지를 사회적 안전망으로 치환하는 건축의 기능적 효율성에 집중했다.",
+  "why_now": "도시 내 주거 양극화가 심화되는 가운데, 공공 주택이 갖춰야 할 물리적 환경과 사회적 포용성의 균형을 보여준다.",
+  "mechanism": "6층의 밀도 높은 수직 구성을 통해 제한된 부지 내에서 최대의 주거 효율을 확보하고, 커뮤니티 공간을 배치해 거주자 간의 사회적 연결을 유도했다.",
+  "sensory": "셔윈-윌리엄스 페인트와 인터페이스의 마감재를 활용해 실내의 시각적 무게를 조절하고, 거주자에게 정서적 안정을 주는 차분한 톤을 유지한다.",
+  "transfer": "공공 프로젝트의 외장재 선정 시, 유지보수가 용이하면서도 지역의 톤앤매너를 해치지 않는 중립적인 색채 조합을 콘티에 적용할 수 있다.",
+  "context": "데이비드 베이커 아키텍츠는 1982년 설립 이후 샌프란시스코를 거점으로 저렴한 주택 프로젝트와 산업 시설의 용도 변경 작업에 주력해 왔다. 이번 프로젝트는 오클랜드 주택청의 주거 바우처 프로그램과 결합하여 도시 주거 정책의 연장선상에서 수행되었다.",
+  "findings": [
+   {
+    "text": "데이비드 베이커 아키텍츠는 1982년 설립되어 저렴한 주택 설계와 산업 시설의 용도 변경 프로젝트를 전문으로 한다.",
+    "s": 1,
+    "quote": "The 62-employee firm, formerly known as David Baker & Associates, was formed in 1982 and is based in San Francisco's Clocktower Building, a condominium conversion Baker designed"
+   },
+   {
+    "text": "오클랜드 주택청은 저소득층을 위한 주택 바우처 프로그램을 운영하며 도시 내 주거 안정을 지원하는 공공 기관이다.",
+    "s": 2,
+    "quote": "The Oakland Housing Authority (OHA) is the public housing agency for the city of Oakland, California. The Oakland Housing Authority's largest department, the Leased Housing Department, is responsible for administering th"
+   }
+  ],
+  "keywords": [
+   "오클랜드",
+   "공공주택",
+   "주거건축",
+   "도시재생"
+  ],
+  "evidence": "The six-level building includes 59 affordable homes and social services for low-income and formerly unhoused families",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "저소득층 주거라는 명확한 사회적 목표를 지닌 프로젝트이나, 구체적인 설계 기법이나 평면 구성의 독창성을 보여주는 상세 자료가 부족하다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1024398/coliseum-place-building-david-baker-architects",
+  "original_title": "Coliseum Place Affordable Housing  / David Baker Architects",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 1355,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-29 04:10",
+  "research": {
+   "entities": [
+    "David Baker Architects",
+    "Bruce Damonte",
+    "Oakland Housing Authority",
+    "Daltile",
+    "Sherwin-Williams"
+   ],
+   "questions": [
+    "Coliseum Place Affordable Housing 프로젝트가 오클랜드 지역사회와 저소득층 주거 안정에 기여한 구체적인 건축적 특징은 무엇인가?",
+    "David Baker Architects는 이 주거용 건물의 지속 가능성을 높이기 위해 어떤 설계 전략과 자재를 사용했는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "David Baker (architect)",
+     "url": "https://en.wikipedia.org/wiki/David%20Baker%20%28architect%29"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Oakland Housing Authority",
+     "url": "https://en.wikipedia.org/wiki/Oakland%20Housing%20Authority"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "미국 인테리어의 반전, 어두운 색상도 차갑지 않고 묵직한 웜톤으로 흐른다",
+     "url": "https://design-milk.com/american-paint-color-trends-samplize-2026/"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "셔윈-윌리엄스의 2027년, 채도 낮은 녹색 ‘셀러리’로 그리는 자연의 회복",
+     "url": "https://design-milk.com/sherwin-williams-2027-color-of-the-year-celery/"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "chars": 1616
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "architecturaldigest.com/story/at-high-point-market-designers-celebrate-a-major-theodore-alexander-milestone-with-ad": {
+  "title_ko": "시어도어 알렉산더 30년, 하이포인트 마켓에 세운 15피트 치펜데일의 의미",
+  "summary_ko": "가구 제조사 시어도어 알렉산더가 창립 30주년을 맞아 하이포인트 마켓에서 치펜데일 스타일의 15피트 대형 의자 조형물을 선보였다. 이번 행사는 창립자 폴 메이틀랜드 스미스를 추모하고, 수공예적 기법을 강조한 신규 컬렉션과 뉴욕 맨해셋 플래그십 스토어의 확장된 운영 체제를 공유하는 자리로 마련되었다.",
+  "lens": "거대한 치펜데일 의자는 브랜드의 정체성인 장인 정신을 물리적 스케일로 과시하며, 산업 박람회 공간에서 시각적 랜드마크로서 기능한다.",
+  "why_now": "디지털 제조가 가속화되는 시점에 수공예적 디테일과 아카이브의 재해석을 통해 브랜드의 역사적 가치를 재확인하는 움직임이 뚜렷하다.",
+  "mechanism": "15피트 높이의 거대 조형물을 입구에 배치하여 방문객의 시선을 점유하고, 쇼룸 내부의 앰버 조명을 활용해 따뜻하고 고전적인 분위기를 조성한다.",
+  "sensory": "수작업으로 칠한 옴브레 테이블의 섬세한 결, 목재 상감 기법의 리듬감, 금박 입힌 암체어와 자수 실크 쿠션의 촉각적 질감이 공존한다.",
+  "transfer": "공간의 입구에 브랜드 상징물을 극단적인 스케일로 변주하여 배치함으로써 방문객의 즉각적인 사진 촬영과 공유를 유도하는 전략을 활용한다.",
+  "context": "시어도어 알렉산더는 1996년 설립 이후 수공예 기법을 강조해 왔으며, 최근 뉴욕 맨해셋에 대중과 전문가 모두에게 개방된 4만 평방피트 규모의 플래그십 스토어를 열었다. 이는 기존의 B2B 중심 쇼룸 운영에서 벗어나 고객 접점을 넓히는 전략적 변화를 의미한다.",
+  "findings": [
+   {
+    "text": "시어도어 알렉산더는 6,000개 이상의 SKU를 보유하고 있으며 전통적인 스타일부터 현대적인 스타일까지 폭넓은 제품군을 제공한다.",
+    "s": 1,
+    "quote": "With more than 6,000 SKUs represented on the floor, the collection spans a broad range of styles, from traditional to modern and everything in between"
+   },
+   {
+    "text": "하이포인트 마켓은 매년 4월과 10월 두 차례 열리며 약 7만~8만 명의 방문객이 찾는 세계 최대 규모의 가구 박람회다.",
+    "s": 4,
+    "quote": "The market holds two major shows each year in April and October, and attracts between 70,000 and 80,000 attendees."
+   }
+  ],
+  "keywords": [
+   "시어도어알렉산더",
+   "하이포인트마켓",
+   "수공예가구",
+   "플래그십스토어"
+  ],
+  "evidence": "The Chippendale-style seat, a towering 15-feet tall, standing sentinel outside Theodore Alexander",
+  "kind": "브랜드·캠페인",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "브랜드의 30주년 기념 행사와 공간적 브랜딩 전략을 잘 보여주나, 기술적 혁신보다는 전통적 공예 가치 계승에 집중하고 있다.",
+  "v": 2,
+  "url": "https://www.architecturaldigest.com/story/at-high-point-market-designers-celebrate-a-major-theodore-alexander-milestone-with-ad",
+  "original_title": "At High Point Market, Designers Celebrate a Major Theodore Alexander Milestone With AD",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 4222,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-29 04:10",
+  "research": {
+   "entities": [
+    "Theodore Alexander",
+    "High Point Market",
+    "Alexa Hampton",
+    "Paul Maitland Smith",
+    "Judith Leiber Couture"
+   ],
+   "questions": [
+    "Theodore Alexander가 30년간 강조해 온 장인 정신과 가구 제작 방식의 핵심 특징은 무엇인가?",
+    "최근 오픈한 Manhasset 플래그십 스토어는 기존의 쇼룸 운영 방식과 어떤 차별점을 가지고 있는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Theodore Alexander Manhasset Design Center | Theodore Alexander",
+     "url": "https://theodorealexander.com/manhasset"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Raith Design | Luxury Interior Architecture Studio",
+     "url": "https://www.raith.design/"
+    },
+    {
+     "n": 3,
+     "type": "공식·1차",
+     "title": "Lisa Mende Design",
+     "url": "https://lisamende.com/"
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "High Point Market",
+     "url": "https://en.wikipedia.org/wiki/High%20Point%20Market"
+    },
+    {
+     "n": 5,
+     "type": "위키백과",
+     "title": "Alexa Hampton",
+     "url": "https://en.wikipedia.org/wiki/Alexa%20Hampton"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "2026년 가을 하이포인트 마켓이 포착한 네 가지 인테리어 트렌드",
+     "url": "https://www.architecturaldigest.com/story/the-high-point-market-report-emerging-design-trends-from-fall-2026-market"
+    }
+   ],
+   "used": [
+    1,
+    4,
+    6
+   ],
+   "chars": 2906
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "wallpaper.com/tech/new-remote-working-gadgets": {
+  "title_ko": "로드 워리어의 귀환: 현장을 바꾸는 초경량 모바일 기기 8선",
+  "summary_ko": "월페이퍼가 원격 근무 환경과 이동 중 생산성을 유지하기 위해 엄선한 최신 모바일 가젯 8가지를 조명한다. 무게 799g의 에이서 스위프트 블레이드 14 노트북부터 1mm 두께의 렉사 뮤즈 외장 SSD, 65W 출력을 지원하는 크래프티드 에지 보조배터리까지 물리적 한계를 지운 장비들을 다룬다.",
+  "lens": "무게와 두께를 극단적으로 덜어내어 물리적 이동을 편집의 연장선으로 만든다.",
+  "why_now": "팬데믹 이후 고정된 사무실을 벗어나 카페와 현장을 오가는 원격 근무자가 늘면서, 장비의 하중과 배터리 압박을 동시에 해소하는 초슬림 하드웨어가 필수가 되었다.",
+  "mechanism": "알루미늄 유니바디와 해양 플라스틱 같은 재생 소재를 결합해 두께를 줄이고, 65W 고속 충전과 자석 부착형 슬롯으로 장치 간 연결 속도를 극대화했다.",
+  "sensory": "손끝에 걸리는 부담이 없는 1mm 두께의 메탈 질감과 마시멜로 컬러의 매트한 촉감이 이동 중인 작업 공간에 정돈된 감각을 부여한다.",
+  "transfer": "현장 로케이션 촬영 콘티에서 스태프들의 기기 충전 동선을 최소화하는 백스테이지 전원 솔루션으로 곧바로 응용할 수 있다.",
+  "context": "에이서는 대만 신베이시 시즈구에 본사를 둔 글로벌 하드웨어 기업으로 최근 몇 년간 초경량 노트북과 친환경 소재 결합에 주력하고 있다. 렉사는 미국 샌타클래라에 기반을 둔 플래시 메모리 전문 기업으로 초소형 스토리지 라인업을 확장해왔다.",
+  "findings": [
+   {
+    "text": "에이서 스위프트 블레이드 14는 무게가 799g이며 14인치 OLED 화면과 인텔 코어 시리즈 3 프로세서를 탑재했다.",
+    "s": 4,
+    "quote": "Acer Inc. ( AY-sər) is a New Taipei City-based Taiwanese multinational company that produces computer hardware and electronics"
+   },
+   {
+    "text": "렉사 뮤즈 울트라 슬림 포터블 SSD는 가장 얇은 곳의 두께가 1mm이며 무게는 26.5g이다.",
+    "s": 2,
+    "quote": "Precision-machined from solid aluminum, Muse features a unibody design with minimal seams and a clean, refined finish. 1 mm at Its Thinnest Point"
+   },
+   {
+    "text": "크래프티드 에지의 배터리는 알루미늄 합금 베이스와 해양 플라스틱 상판을 결합한 구조다.",
+    "s": 1,
+    "quote": "Housing: Aircraft grade aluminium, eco materials, ocean-bound plastic components"
+   }
+  ],
+  "keywords": [
+   "초경량노트북",
+   "포터블SSD",
+   "모바일가젯",
+   "원격근무"
+  ],
+  "evidence": "One of the thinnest and lightest laptops on the market, the new Acer Swift Blade 14 weighs in at just 799 grams.",
+  "kind": "제품·오브제",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "원격 근무를 위한 최신 모바일 가젯들의 스펙과 디자인 특징을 충실히 소개했으나 단순 라인업 소개 성격이 강하다.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/tech/new-remote-working-gadgets",
+  "original_title": "Working on the move? 10 gadgets to make mobile productivity go with a swing",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 8408,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-29 04:11",
+  "research": {
+   "entities": [
+    "Acer",
+    "Lexar",
+    "Anker",
+    "Timekettle"
+   ],
+   "questions": [
+    "원격 근무 환경에서 생산성을 높이기 위해 새롭게 주목받는 모바일 가젯들의 공통적인 기술적 특징은 무엇인가?",
+    "경량화된 노트북과 보조 배터리 등의 모바일 액세서리 디자인이 지속가능성(친환경 소재 등)과 어떻게 결합하고 있는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Edge | Ultra-Slim Laptop Power Bank by Krafted",
+     "url": "https://www.kraftedtech.com/products/edge"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Lexar Muse Ultra-Slim Portable SSD",
+     "url": "https://www.lexar.com/global/products/Lexar-Muse-Ultra-Slim-Portable-SSD/"
+    },
+    {
+     "n": 3,
+     "type": "공식·1차",
+     "title": "Anker Universal Charger (4-in-1, 100W, Smart Display, 1 - Pack)",
+     "url": "https://click.linksynergy.com/deeplink?id=kXQk6%2AivFEQ&mid=43469&u1=wallpaper-us-1130038234731560524&murl=https%3A%2F%2Fwww.anker.com%2Fuk%2Fproducts%2Fa140a-anker-universal-charger-4-in-1-100w"
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "Acer Inc.",
+     "url": "https://en.wikipedia.org/wiki/Acer%20Inc."
+    },
+    {
+     "n": 5,
+     "type": "위키백과",
+     "title": "Lexar",
+     "url": "https://en.wikipedia.org/wiki/Lexar"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "chars": 7361
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "dazeddigital.com/beauty/gallery/34249/0/in-photos-the-beauty-evolution-of-winona-ryder": {
+  "title_ko": "위노나 라이더, 90년대 뱀파이어 고스부터 픽시 컷까지의 미학적 궤적",
+  "summary_ko": "배우 위노나 라이더의 생일을 맞아 90년대부터 이어진 그의 헤어와 메이크업 스타일 변천사를 조명한다. 영화 '비틀쥬스'와 '드라큘라' 등을 통해 구축한 뱀파이어 고스 룩과 상징적인 픽시 컷 등 동시대 뷰티 트렌드를 선도했던 주요 장면들을 되짚어본다.",
+  "lens": "90년대 대중문화의 이면을 대변한 위노나 라이더의 스타일은 정형화된 미의 기준을 벗어난 서늘하고도 지적인 분위기를 완성했다.",
+  "why_now": "90년대 미니멀리즘과 고스 패션이 다시금 유행하며, 당시 독보적인 캐릭터를 구축했던 라이더의 스타일링이 현대적인 재해석의 레퍼런스로 주목받는다.",
+  "mechanism": "창백한 피부 톤과 대비되는 짙은 립 컬러, 정교하게 다듬은 픽시 컷은 인물의 이목구비를 강조하며 고전적이면서도 반항적인 이미지를 동시에 형성한다.",
+  "sensory": "무채색의 의상과 대조를 이루는 창백한 피부 질감, 그리고 짧은 머리 사이로 드러나는 날카로운 턱선이 시각적인 긴장감을 유발한다.",
+  "transfer": "광고나 화보 촬영 시, 인물의 개성을 극대화하기 위해 과감한 쇼트 헤어와 절제된 색조 메이크업을 조합하여 인물의 표정에 집중하는 클로즈업 샷을 구성한다.",
+  "context": "위노나 라이더는 80년대 후반 '비틀쥬스'로 주목받은 이후, 90년대 '가위손'과 '드라큘라' 등에서 독특한 캐릭터를 연기하며 당대 패션 아이콘으로 자리 잡았다.",
+  "findings": [
+   {
+    "text": "위노나 라이더는 1980년대 후반 독특한 캐릭터를 연기하며 주목받기 시작했고 1990년대에 들어서며 연기력을 인정받았다.",
+    "s": 1,
+    "quote": "Having come to attention playing \"quirky\" characters in the late 1980s, she achieved success with her more dramatic performances in the 1990s."
+   }
+  ],
+  "keywords": [
+   "위노나라이더",
+   "90년대패션",
+   "고스룩",
+   "뷰티아카이브"
+  ],
+  "evidence": "90년대 뱀파이어 고스 룩부터 뾰족한 픽시 컷까지",
+  "kind": "뉴스·이슈",
+  "depth": 2,
+  "grounding": "thin",
+  "depth_reason": "원문 본문이 부재하여 리서치 자료를 바탕으로 스타일의 맥락만을 간략히 정리했기 때문이다.",
+  "v": 2,
+  "url": "https://www.dazeddigital.com/beauty/gallery/34249/0/in-photos-the-beauty-evolution-of-winona-ryder?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=in-pictures-the-beauty-evolution-of-winona-ryder",
+  "original_title": "In pictures: The beauty evolution of Winona Ryder",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 0,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-29 04:11",
+  "research": {
+   "entities": [
+    "Winona Ryder"
+   ],
+   "questions": [
+    "위노나 라이더가 90년대 패션 아이콘으로 자리 잡게 된 시대적 배경은 무엇인가?",
+    "위노나 라이더의 스타일 변화가 당시 대중문화와 뷰티 트렌드에 어떤 영향을 미쳤는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Winona Ryder",
+     "url": "https://en.wikipedia.org/wiki/Winona%20Ryder"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 1400
+  },
+  "depth_raw": 2,
+  "depth_v": 2
+ },
+ "wallpaper.com/design-interiors/furniture/fernand-mastrangelo-territories-furniture": {
+  "title_ko": "모래와 유리 가루로 빚어낸 지정학적 분쟁 지역의 풍경",
+  "summary_ko": "작가 페르난도 마스트란젤로가 뉴욕 크리스티나 그라할레스 갤러리에서 분쟁 지역을 주제로 한 가구와 회화 전시를 선보인다. 그는 폼이카 목형틀에 염색된 모래와 유리 가루를 0.5인치 틈으로 조금씩 흘려 넣는 방식으로 산맥과 지평선의 질감을 구현한다.",
+  "lens": "눈먼 모래 흘리기 기법으로 추상적 지정학을 거친 물성의 가구로 번역한다.",
+  "why_now": "영토 분쟁과 인간의 탐욕이라는 무거운 주제를 가구라는 일상적 매개체로 끌어들여 감각적 긴장감을 만든다.",
+  "mechanism": "0.5인치 틈으로 모래를 조금씩 흘려 넣고 막대기로 다진 뒤 몰드를 제거하여 색상과 깊이의 층위를 만든다.",
+  "sensory": "손으로 염색한 모래와 유리 가루가 자아내는 거칠고 영롱한 색채의 결이 표면의 입체감을 증폭시킨다.",
+  "transfer": "영상의 질감이나 세트의 벽면에 모래와 유리 가루를 적층해 가상의 지형을 입체적으로 구현할 수 있다.",
+  "context": "뉴욕 허드슨밸리를 기반으로 활동하는 페르난도 마스트란젤로는 소금 등 자연 재료와 독특한 캐스팅 기법을 결합해 조각적인 가구를 선보여 왔다.",
+  "findings": [
+   {
+    "text": "페르난도 마스트란젤로는 뉴욕 기반의 아티스트로 컬렉터블 디자인과 대형 조각, 몰입형 설치 작업으로 잘 알려져 있다.",
+    "s": 1,
+    "quote": "Fernando Mastrangelo (born 1978) is a New York-based artist best known for his collectible design, as well as his large scale sculptures and experiential installations."
+   }
+  ],
+  "keywords": [
+   "페르난도마스트란젤로",
+   "지정학적풍경",
+   "모래캐스팅",
+   "컬렉터블디자인"
+  ],
+  "evidence": "I drizzle sand into the mould little by little through a half-inch sliver",
+  "kind": "전시",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "모래와 유리 가루를 활용한 독창적인 캐스팅 기법과 지정학적 주제를 가구에 결합한 과정이 뚜렷하다.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/design-interiors/furniture/fernand-mastrangelo-territories-furniture",
+  "original_title": "Look closely: This table actually tells a story about geopolitics",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 4016,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-29 04:11",
+  "research": {
+   "entities": [
+    "Fernando Mastrangelo",
+    "Cristina Grajales Gallery",
+    "Kashmir",
+    "Golan Heights",
+    "Nagorno-Karabakh"
+   ],
+   "questions": [
+    "페르난도 마스트란젤로가 모래와 유리 가루를 사용하여 지형의 질감을 표현하는 구체적인 제작 기법은 무엇인가?",
+    "작가가 'Territories' 전시를 통해 분쟁 지역의 풍경을 가구 디자인에 접목함으로써 전달하고자 하는 지정학적 메시지는 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Fernando Mastrangelo",
+     "url": "https://en.wikipedia.org/wiki/Fernando%20Mastrangelo"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 234
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "dazeddigital.com/music/article/71243/1/meet-the-winners-of-the-club-nothing-r-fund": {
+  "title_ko": "클럽 나싱 펀드, 독립 음악 생태계를 지탱하는 네 개의 경로",
+  "summary_ko": "테크 브랜드 나싱(Nothing)이 독립 음악 문화를 지원하는 글로벌 이벤트 시리즈 '클럽 나싱(Club Nothing)'의 우승팀을 선정했다. 블랙 베이스 콜렉티브, 오로코 라디오, 오르차타, 시그널 등 4개 팀은 각각 1만 달러의 기금을 받아 지역 공동체 기반의 나이트라이프 프로젝트를 전개한다. 이들은 단순한 파티를 넘어 소외된 창작자에게 경제적 자립과 예술적 연대의 장을 제공한다.",
+  "lens": "기술 기업이 나이트라이프의 인프라를 직접 보조하며, 파티를 문화적 저항과 공동체 결속의 도구로 재정의한다.",
+  "why_now": "디지털 플랫폼의 파편화 속에서 물리적 공간의 공동체성이 다시금 창작의 핵심 동력으로 부상하고 있다.",
+  "mechanism": "기존의 상업적 기획에서 벗어나 지역 라디오와 소규모 커뮤니티가 직접 프로그래밍을 주도하게 하여, 이벤트의 기획 권한을 로컬 창작자에게 완전히 위임한다.",
+  "sensory": "밤새 춤을 추며 느끼는 신체적 해방감과, 각기 다른 지역 문화가 교차하며 발생하는 소리의 진동이 현장을 채운다.",
+  "transfer": "공간 연출 시 특정 장르의 문법을 따르기보다, 지역 공동체의 서사를 반영한 큐레이션으로 파티의 정체성을 구축한다.",
+  "context": "데이즈드(Dazed)는 1991년 창간 이후 독립 문화와 패션을 기록해온 매체로, 이번 펀드 지원 프로젝트를 통해 나이트라이프 현장의 최전선을 조명한다. 나싱은 예술적 개입을 최소화하고 환경의 기록에 집중하는 부재의 미학적 태도를 브랜드 운영에 투영하고 있다.",
+  "findings": [
+   {
+    "text": "데이즈드는 1991년 제퍼슨 핵과 랭킨이 설립한 영국 청년 문화 잡지이다.",
+    "s": 1,
+    "quote": "Dazed (Dazed & Confused until February 2014) is a quarterly British youth culture magazine founded in 1991."
+   }
+  ],
+  "keywords": [
+   "나이트라이프",
+   "공동체",
+   "독립음악",
+   "나싱",
+   "문화기금"
+  ],
+  "evidence": "the initiative puts community at the centre, backing ideas that might otherwise struggle to get off the ground.",
+  "kind": "뉴스·이슈",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "독립 음악 생태계를 지원하는 기금의 취지와 우승팀의 철학을 다루고 있으나, 개별 프로젝트의 구체적인 연출 기법보다는 기획적 의도에 집중되어 있다.",
+  "v": 2,
+  "url": "https://www.dazeddigital.com/music/article/71243/1/meet-the-winners-of-the-club-nothing-r-fund?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=meet-the-winners-of-the-club-nothing-r-fund",
+  "original_title": "Meet the winners of the Club Nothing (R) fund",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 9000,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-29 04:11",
+  "research": {
+   "entities": [
+    "Nothing",
+    "Black Bass Collective",
+    "Oroko Radio",
+    "Manuka Honey",
+    "Dazed"
+   ],
+   "questions": [
+    "Club Nothing (R) 펀드의 지원을 받게 된 4개 우승팀(Black Bass Collective, Oroko Radio, Whorechata, Signal)의 구체적인 프로젝트 내용은 무엇인가?",
+    "테크 기업인 Nothing이 독립 음악 문화와 나이트라이프 이벤트 지원 펀드를 조성하게 된 배경은 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Dazed",
+     "url": "https://en.wikipedia.org/wiki/Dazed"
+    },
+    {
+     "n": 2,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "데이즈드와 YMC, 1996년 아카이브를 소환한 펑크적 재해석",
+     "url": "https://www.dazeddigital.com/fashion/article/71035/1/here-s-what-happened-when-dazed-launched-a-t-shirt-with-ymc?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=here-s-what-happened-when-dazed-launched-a-t-shirt-with-ymc"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "부재의 미학: 예술이 스스로를 지울 때 드러나는 것들",
+     "url": "https://www.designboom.com/art/nothing-absence-spectacle/"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "르네 레비가 헤이워드 갤러리의 콘크리트 외벽을 회화의 캔버스로 치환하다",
+     "url": "https://www.dazeddigital.com/art-photography/article/71023/1/art-writers-apply-to-interview-rene-levi-for-dazed-hayward-gallery?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=art-writers-join-dazed-club-for-your-chance-to-interview-renee-levi-for-us"
+    }
+   ],
+   "used": [
+    1,
+    3
+   ],
+   "chars": 1456
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "anothermag.com/design-living/17586/brilliant-things-to-eat-and-drink-this-november": {
+  "title_ko": "런던 미식 지도를 바꾸는 11월의 공간들: 감각적 미식과 공간의 결합",
+  "summary_ko": "11월 런던은 카멜리나스, 루넷 등 새로운 다이닝 공간이 문을 열며 활기를 띤다. 셰프들은 제철 식재료를 활용한 독창적인 메뉴를 선보이고, 각 공간은 고유한 인테리어와 컨셉으로 미식 경험을 완성한다. 전통적인 바 문화부터 현대적인 미식 실험까지, 런던의 식문화는 다채로운 방식으로 확장 중이다.",
+  "lens": "공간의 물성과 조명은 단순한 배경이 아니라, 요리의 온도를 결정하고 방문객의 체류 시간을 조율하는 핵심 장치다.",
+  "why_now": "팬데믹 이후 런던 미식 업계는 셰프의 개인적 서사가 담긴 소규모 레스토랑과 기존 레스토랑의 헤리티지를 잇는 동문 협업 프로젝트를 통해 브랜드의 깊이를 더하고 있다.",
+  "mechanism": "카멜리나스는 레드 디어(Red Deer)가 설계한 낮은 조도의 녹색 다이닝 룸으로 정적인 몰입감을 조성하고, 파이브 피트(Five Feet)는 매장 내 제분실을 투명한 유리벽으로 노출해 식재료의 가공 과정을 시각화한다.",
+  "sensory": "루넷(Lunette)의 수제 유리 식기와 깃털 모양 스테이크 나이프는 차가운 금속성과 투명한 유리의 질감을 대비시킨다. 카멜리나스의 서리 낀 샹들리에와 짙은 녹색 벽면은 공간의 밀도를 높여 아늑한 저녁 시간을 연출한다.",
+  "transfer": "공간의 조명을 낮추고 테이블 위로 집중 조명을 배치해 음식의 색감을 강조하는 연출을 추천한다. 소규모 공간이라면 바 카운터의 곡선 형태와 어두운 목재 마감을 활용해 친밀하고 밀도 높은 동선을 설계할 수 있다.",
+  "context": "플로렌스 나이트(Florence Knight)는 폴페토(Polpetto) 시절부터 제철 식재료를 활용한 섬세한 요리로 주목받았으며, 이번 루넷은 그의 첫 단독 레스토랑으로 미식계의 기대를 모은다. 모로(Moro)의 동문 시리즈는 30주년을 앞두고 과거의 유산을 현대적인 협업으로 재해석하는 시도다.",
+  "findings": [
+   {
+    "text": "카멜리나스는 최대 115명까지 수용 가능한 규모의 레스토랑이다.",
+    "s": 1,
+    "quote": "The maximum capacity for a restaurant buyout is ~115 guests."
+   },
+   {
+    "text": "플로렌스 나이트는 런던 폴페토 레스토랑에서의 작업으로 가장 잘 알려진 영국 셰프다.",
+    "s": 2,
+    "quote": "Florence Knight is a British chef and newspaper columnist, best known for her work at the restaurant Polpetto in London."
+   }
+  ],
+  "keywords": [
+   "런던미식",
+   "공간디자인",
+   "셰프협업",
+   "다이닝",
+   "식문화"
+  ],
+  "evidence": "In the low-lit, forest-green dining room, designed by Red Deer, frosted-glass chandeliers hang above tables",
+  "kind": "리스트·라운드업",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "런던의 최신 미식 공간들을 디자인적 관점에서 분류하고, 각 공간의 연출 장치를 구체적으로 분석했다.",
+  "v": 2,
+  "url": "https://www.anothermag.com/design-living/17586/brilliant-things-to-eat-and-drink-this-november?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=brilliant-things-to-eat-and-drink-this-november",
+  "original_title": "Brilliant Things to Eat and Drink This November",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 7352,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-29 04:11",
+  "research": {
+   "entities": [
+    "Carmelina’s",
+    "Barrafina",
+    "Moro",
+    "Florence Knight",
+    "Tim Siadatan"
+   ],
+   "questions": [
+    "런던의 미식 트렌드에서 'Alumni Series'와 같은 셰프 협업 프로젝트가 갖는 문화적 의미는 무엇인가요?",
+    "최근 런던 레스토랑 업계에서 인테리어 디자인(예: Red Deer의 작업)이 고객 경험에 미치는 영향은 무엇인가요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Carmelina's — 62 Lincoln's Inn Fields, London",
+     "url": "https://carmelinas.co.uk/"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Florence Knight",
+     "url": "https://en.wikipedia.org/wiki/Florence%20Knight"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 515
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "design-milk.com/wyoming-mountain-home-embraces-landscape": {
+  "title_ko": "와이오밍 산비탈에 접힌 부메랑 형태의 캔틸레버 주택",
+  "summary_ko": "미국 씨엘비 아키텍츠(CLB Architects)가 와이오밍의 41에이커 대지에 7,000제곱피트 규모의 부메랑 형태 주택 부메랑 레지던스(Boomerang Residence)를 설계했다. 꺾인 평면 구조를 통해 바깥 풍경을 향한 조망과 안쪽의 중정이라는 이중적 공간감을 동시에 형성한다. 콘크리트 기단 위에 목재와 강철을 조합해 거친 지형 속에서 자연스럽게 은폐된다.",
+  "lens": "꺾인 평면을 축 삼아 바깥의 거친 산세와 안쪽의 고요한 중정을 교차시킨다.",
+  "why_now": "대형 유리와 노출 콘크리트로 주변을 압도하는 산장 대신 풍경 속에 몸을 낮추는 지형 순응형 건축의 밀도를 보여준다.",
+  "mechanism": "부메랑 형태의 꺾인 평면이 시선을 분산시켜 내부에서는 산맥과 중정을 각각 다른 각도로 포착하고, 하부 콘크리트 플린트가 거친 지형 위에 건물을 단단히 안착시킨다.",
+  "sensory": "화이트워시 처리한 더글러스 퍼 천장과 바닥이 검은색 철재 및 송판 무늬 콘크리트의 차가운 물성과 대조를 이룬다.",
+  "transfer": "광고나 공간 콘티에서 두 공간의 성격을 나눌 때, 벽체를 세우는 대신 평면을 꺾어 시선의 방향을 강제하는 구조를 적용한다.",
+  "context": "미국 록키산맥 서부의 지형적 맥락을 바탕으로 장소 특유의 감각을 담아내는 작업들을 이어온 씨엘비 아키텍츠의 최근 프로젝트다.",
+  "findings": [
+   {
+    "text": "외부 재료 팔레트는 송판 노출 콘크리트, 삼나무, 따뜻한 헴록으로 구성된다.",
+    "s": 2,
+    "quote": "An exterior material palette of board-formed concrete, cedar, and warm hemlock echoes the land’s rugged elegance."
+   }
+  ],
+  "keywords": [
+   "부메랑주택",
+   "씨엘비아키텍츠",
+   "와이오밍건축",
+   "캔틸레버"
+  ],
+  "evidence": "Perched above 41 acres of rugged Wyoming terrain, a cantilevered, boomerang-shaped residence folds into the mountainside.",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "구체적인 지형 조건과 평면의 작동 방식을 명확히 보여주나 산장 건축이라는 선례의 범주 안에 머문다.",
+  "v": 2,
+  "url": "https://design-milk.com/wyoming-mountain-home-embraces-landscape/",
+  "original_title": "A Boomerang-Shaped Home Cantilevers Over the Wyoming Landscape",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 5556,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-29 04:11",
+  "research": {
+   "entities": [
+    "CLB Architects",
+    "Boomerang Residence",
+    "Eric Logan"
+   ],
+   "questions": [
+    "부메랑 형태의 평면 구조가 와이오밍의 지형적 특성과 어떻게 상호작용하며 거주 경험을 극대화하는가?",
+    "CLB Architects가 이 프로젝트에서 환경적 지속가능성을 확보하기 위해 적용한 건축적 기술과 재료는 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "CLB Architects",
+     "url": "https://clbarchitects.com/"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Boomerang | CLB Architects",
+     "url": "https://clbarchitects.com/projects/boomerang/"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Four Seasons Hotel Denver",
+     "url": "https://en.wikipedia.org/wiki/Four%20Seasons%20Hotel%20Denver"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 3271
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "design-milk.com/lulu-and-georgia-showroom-los-angeles": {
+  "title_ko": "밀라노와 파리의 주거를 이식하다, 룰루 앤 조지아의 첫 로스앤젤레스 쇼룸",
+  "summary_ko": "온라인 가구 브랜드 룰루 앤 조지아가 로스앤젤레스 웨스트 할리우드에 첫 오프라인 쇼룸을 열었다. 디자이너 케빈 클라인과 협업해 설계한 이 공간은 전통적인 건축 디테일과 현대적인 가구를 결합하여 주거 공간의 분위기를 구현했다. 일반적인 매장 동선 대신 거실과 침실 등 실제 주거 환경을 재현한 구성을 택했다.",
+  "lens": "고전적 건축 요소와 현대적 가구의 배치를 통해 상업 공간을 주거의 안락함으로 치환하는 설계 전략이 돋보인다.",
+  "why_now": "디지털 기반 브랜드가 물리적 공간을 구축할 때 단순한 판매 기능을 넘어, 브랜드의 미학을 체험하는 거주형 쇼룸으로 진화하고 있다.",
+  "mechanism": "전형적인 매장 조명과 계산대를 제거하고, 자연광을 활용한 스카이라이트와 주거용 조명 기구를 배치해 공간의 밀도를 높였다.",
+  "sensory": "입구의 꽃무늬 모자이크 타일이 주는 장식적 촉감과 그 위로 쏟아지는 자연광의 대비가 공간의 첫인상을 결정짓는다.",
+  "transfer": "상업 공간 설계 시 계산대를 생기고 환대 중심의 상담 구역을 배치하여, 고객의 동선을 판매 중심에서 경험 중심으로 전환할 수 있다.",
+  "context": "디자이너 케빈 클라인은 역사적 재료와 현대적 기술을 결합하여 장소의 층위를 쌓는 작업을 지속해 왔다. 룰루 앤 조지아는 이니 리 파커 등 디자이너들과의 협업을 통해 일상적 사물을 조형적 오브제로 변주하며 브랜드의 미적 범위를 확장해 왔다.",
+  "findings": [],
+  "keywords": [
+   "공간 설계",
+   "리테일 디자인",
+   "케빈 클라인",
+   "주거형 쇼룸"
+  ],
+  "evidence": "The space trades conventional retail displays for a series of inviting, residential-inspired rooms",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "온라인 브랜드가 물리적 공간으로 진화하는 구체적인 설계 전략과 조명, 동선 등 실무적 장치를 상세히 다루고 있다.",
+  "v": 2,
+  "url": "https://design-milk.com/lulu-and-georgia-showroom-los-angeles/",
+  "original_title": "Lulu and Georgia Opens Its First Los Angeles Showroom",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 5062,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-29 04:11",
+  "research": {
+   "entities": [
+    "Lulu and Georgia",
+    "Kevin Klein"
+   ],
+   "questions": [
+    "Lulu and Georgia의 첫 번째 로스앤젤레스 쇼룸은 어떤 디자인 콘셉트로 기획되었는가?",
+    "디자이너 Kevin Klein은 쇼룸 공간을 설계할 때 밀라노와 파리의 주거 공간에서 어떤 요소를 영감으로 받았는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Lulu and Georgia",
+     "url": "https://www.luluandgeorgia.com/"
+    },
+    {
+     "n": 2,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "하이디 카일리어의 샌프란시스코 자택, 빅토리아풍 주택에 더한 강렬한 색채와 패턴",
+     "url": "https://www.architecturaldigest.com/story/heidi-caillier-returns-to-san-francisco-and-makes-a-victorian-her-forever-home"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "케빈 클라인이 발견한 디자인의 원천: 단청의 규칙과 페라리의 기하학",
+     "url": "https://design-milk.com/kevin-klein-designer-friday-five/"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "일상의 사물을 초현실적 조명으로, 이니 리 파커의 새로운 조명 컬렉션",
+     "url": "https://www.architecturaldigest.com/story/lulu-and-georgia-x-eny-lee-parker"
+    }
+   ],
+   "used": [
+    3,
+    4
+   ],
+   "chars": 1554
+  },
+  "depth_raw": 4,
+  "depth_v": 2
  }
 }

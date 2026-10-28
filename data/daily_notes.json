@@ -2754,5 +2754,44 @@
   "v": 3,
   "model": "gemini-3.1-flash-lite-preview",
   "written_at": "2026-10-28 09:55"
+ },
+ "2026-10-29": {
+  "date": "2026-10-29",
+  "headline": "16mm 필름의 깜박이는 빛과 거대한 치펜데일 의자의 그림자",
+  "editorial": "치치 우는 16mm 필름의 잔상으로 식민지 역사를 붙잡고, 타시타 딘은 필름 입자의 거친 질감으로 아날로그의 물리적 실체를 증명한다. 두 작업은 매체의 물리적 한계를 통해 잊혀가는 시간을 현재의 공간으로 소환한다. 한편, 15피트 크기의 치펜데일 의자는 장인 정신이라는 추상적 가치를 거대한 물리적 스케일로 치환하여 박람회장의 랜드마크로 세운다. 이들은 모두 보이지 않는 가치를 만질 수 있는 형태로 구축하여 대상을 마주하는 방식을 바꾼다.",
+  "threads": [
+   {
+    "name": "필름에 맺힌 잔상",
+    "note": "매체의 물리적 질감을 통해 과거의 기억과 시간을 현재로 소환하는 작업이다.",
+    "items": [
+     {
+      "title": "치치 우: 기억의 등불로 엮은 식민지와 이주사의 잔상",
+      "url": "https://hyperallergic.com/cici-wus-memory-lanterns/"
+     },
+     {
+      "title": "타시타 딘, 35mm 필름의 물리적 질감으로 구현한 아날로그의 진실",
+      "url": "https://hyperallergic.com/tacita-deans-truth-in-materials/"
+     }
+    ]
+   },
+   {
+    "name": "확장된 사물의 물리적 크기",
+    "note": "사물의 스케일이나 재료를 과장하거나 변형하여 시각적 존재감을 극대화한다.",
+    "items": [
+     {
+      "title": "모래와 유리 가루로 빚어낸 지정학적 분쟁 지역의 풍경",
+      "url": "https://www.wallpaper.com/design-interiors/furniture/fernand-mastrangelo-territories-furniture"
+     },
+     {
+      "title": "시어도어 알렉산더 30년, 하이포인트 마켓에 세운 15피트 치펜데일의 의미",
+      "url": "https://www.architecturaldigest.com/story/at-high-point-market-designers-celebrate-a-major-theodore-alexander-milestone-with-ad"
+     }
+    ]
+   }
+  ],
+  "based_on": 24,
+  "v": 3,
+  "model": "gemini-3.1-flash-lite",
+  "written_at": "2026-10-29 04:11"
  }
 }
