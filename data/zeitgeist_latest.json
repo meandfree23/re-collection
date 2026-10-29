@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-29 15:50 KST",
+  "generated_at": "2026-10-29 18:27 KST",
   "period": "2026.10.22 - 2026.10.29",
-  "total_articles": 381,
+  "total_articles": 386,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
@@ -9,7 +9,7 @@
     },
     {
       "genre": "동시대 미술",
-      "count": 139
+      "count": 144
     },
     {
       "genre": "아방가르드 패션",
@@ -151,10 +151,16 @@
     },
     {
       "keyword": "박물관·전시",
-      "count": 30,
+      "count": 31,
       "previous_count": 45,
       "trend": "falling",
       "items": [
+        {
+          "title": "헨리 샬판트의 전설적인 뉴욕 지하철 그래피티 사진이 실물 크기로 암스테르담에 도착하다",
+          "url": "https://www.creativeboom.com/news/art-is-not-a-crime/",
+          "image_url": "https://media.creativeboom.com/89cf7ce7-b585-46f5-96da-2be7d5ebb95b/conversions/feab9163325c2fada2ee0f13c555e4896e4144b7-medium.webp",
+          "source_name": "Creative Boom"
+        },
         {
           "title": "Simone은 갤러리, 이벤트 공간 또는 청음실로 두 배가되는 코펜하겐 서점입니다.",
           "url": "https://www.dezeen.com/2026/10/29/simone-book-services-copenhagen/",
@@ -172,12 +178,6 @@
           "url": "https://www.archdaily.com/1187725/miaa-iberian-museum-of-archaeology-and-art-carrilho-da-graca-arquitectos",
           "image_url": "https://images.adsttc.com/media/images/6ae0/fcee/3271/8400/01d0/f38e/large_jpg/RitaBurmester_CG_MIAA_0220_2208.jpg?1793129753",
           "source_name": "ArchDaily"
-        },
-        {
-          "title": "샌프란시스코의 갤러리에서 생존을 위한 대체 경로 탐색하기",
-          "url": "https://hyperallergic.com/san-franciscos-galleries-explore-alternative-routes-for-survival/",
-          "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/10/Kevin-Cohya-Valor-and-family--Cushion-Works--2026.jpeg",
-          "source_name": "Hyperallergic"
         }
       ]
     },

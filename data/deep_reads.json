@@ -234513,5 +234513,401 @@
   },
   "depth_raw": 4,
   "depth_v": 2
+ },
+ "creativeboom.com/work/why-studio-atipus-designed-a-wine-label-to-look-like-its-been-shot-from-a-speeding-train": {
+  "title_ko": "빠르게 지나치는 풍경을 병에 담다, 비냐 라르가의 와인 라벨 디자인",
+  "summary_ko": "바르셀로나 스튜디오 아티푸스(Atipus)는 마리아 리골 오르디(Maria Rigol Ordi)의 첫 스틸 와인 '비냐 라르가(Vinya Llarga)'를 위해 라벨을 디자인했다. '긴 포도밭'이라는 이름의 의미를 살려, 병을 가로지르는 노란색·녹색·파란색의 긴 색띠를 배치해 고속 열차에서 본 풍경처럼 연출했다.",
+  "lens": "고정된 라벨이라는 평면적 제약을 속도감 있는 색띠의 연속성으로 해결하여, 와인의 서사를 시각적 잔상으로 치환했다.",
+  "why_now": "전통적인 와인 라벨의 관습에서 벗어나, 이름의 의미를 직관적이고 추상적인 그래픽으로 변환하는 접근이 브랜드의 새로운 시작을 효과적으로 알린다.",
+  "mechanism": "병 전체를 두르는 긴 색띠를 통해 시각적 리듬을 만들고, 뒷면으로 갈수록 색띠가 잎사귀의 형상으로 명확해지며 초점이 맞춰지는 서사를 구현했다.",
+  "sensory": "텍스처가 있는 흰색 종이 라벨과 왁스로 밀봉된 캡슐이 시각적 강렬함과 대비되는 촉각적 무게감을 제공한다.",
+  "transfer": "정적인 공간이나 제품에 동적인 잔상을 입힐 때, 특정 색상 밴드를 반복 배치하여 속도감을 부여하는 기법을 적용할 수 있다.",
+  "context": "바르셀로나 기반의 아티푸스는 패키징 디자인 분야에서 다수의 라우스 어워드(Laus Awards)를 수상하며 정교한 시각 언어를 구축해 왔다. 이번 작업은 기존 카바(Cava) 생산자가 스틸 와인이라는 새로운 영역으로 확장하는 시점에 맞춰, 전통적인 공예적 가치와 현대적인 표현을 결합하는 데 집중했다.",
+  "findings": [
+   {
+    "text": "아티푸스는 바르셀로나에 위치한 디자인 스튜디오로 패키징 및 브랜딩 분야에서 다수의 라우스 어워드를 수상했다.",
+    "s": 1,
+    "quote": "2025Bronze Laus, CampaignBronze Laus, CampaignInbook Laus, PackagingBronze Laus, Campaign 2024Bronze Laus, Editorial Bronze Laus, AportaSilver Laus, CampaignSilver Laus, Branding"
+   }
+  ],
+  "keywords": [
+   "패키징디자인",
+   "아티푸스",
+   "와인라벨",
+   "시각언어"
+  ],
+  "evidence": "a band of yellow, green and blue streaks that runs right around the bottle",
+  "kind": "제품·오브제",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "이름의 의미를 직관적인 그래픽 장치로 치환한 논리가 명확하며, 패키징 디자인의 조형적 전략이 구체적으로 드러난다.",
+  "v": 2,
+  "url": "https://www.creativeboom.com/work/why-studio-atipus-designed-a-wine-label-to-look-like-its-been-shot-from-a-speeding-train/",
+  "original_title": "Why Studio Atipus designed a wine label to look like it's been shot from a speeding train",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 6028,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-29 18:27",
+  "research": {
+   "entities": [
+    "Atipus",
+    "Maria Rigol Ordi",
+    "Vinya Llarga"
+   ],
+   "questions": [
+    "Atipus 스튜디오가 와인 라벨 디자인에서 '긴 포도밭'이라는 의미를 시각적으로 구현하기 위해 어떤 조형적 요소를 활용했는가?",
+    "전통적인 와인 라벨 디자인 관습에서 벗어나 현대적인 감각을 전달하기 위해 Atipus가 선택한 전략은 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Atipus – Design studio in Barcelona",
+     "url": "https://atipus.com/"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 1173
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "creativeboom.com/news/art-is-not-a-crime": {
+  "title_ko": "뉴욕 지하철의 파편을 실물 크기로, 헨리 찰펀트의 기록이 암스테르담에 닿다",
+  "summary_ko": "암스테르담의 스트라트 미술관이 1980년대 뉴욕 지하철 그래피티를 기록한 헨리 찰펀트의 사진전을 개최한다. 찰펀트는 당시 지하철 차량을 4~5개 프레임으로 분할 촬영하고 수작업으로 이어 붙여 기록했다. 전시는 이 사진들을 실제 지하철 크기로 인화하고 지하철역 소음을 더해 당시의 현장감을 재현한다.",
+  "lens": "거리의 휘발성 기록을 미술관이라는 정적인 공간으로 옮기되, 사진을 실물 스케일로 확장해 그 시절 지하철이 가진 압도적 물리량을 복원한다.",
+  "why_now": "도시의 쇠락과 젠트리피케이션 사이에서 예술이 어떻게 생성되고 소멸하는지, 그 순환의 역사를 기록의 관점에서 재조명한다.",
+  "mechanism": "메탈릭 페이퍼에 출력한 실물 크기 사진과 백라이트 스크린을 결합해 지하철이 역으로 진입하는 시각적 환영을 만든다. 실제 지하철역 벤치와 소음 효과음을 배치해 관람객의 청각과 신체 감각을 전시장으로 끌어들인다.",
+  "sensory": "거대한 창고형 미술관의 차가운 금속성 공간과 1980년대 뉴욕 지하철의 거친 질감이 겹쳐진다. 백라이트에서 뿜어져 나오는 빛과 덜컹거리는 열차 소음이 공간의 스케일을 압도한다.",
+  "transfer": "공간 연출 시 특정 오브제의 스케일을 1:1로 구현하고, 사운드와 조명을 동기화해 관람객이 특정 시간과 장소에 놓인 듯한 착각을 유도하는 동선 설계에 활용한다.",
+  "context": "스트라트 미술관은 과거 조선소 부지를 재생한 공간으로, 거리 예술의 맥락을 보존하는 데 집중한다. 찰펀트는 1984년 마사 쿠퍼와 함께 '서브웨이 아트'를 출간하며 그래피티를 유럽에 알린 핵심 인물이다.",
+  "findings": [
+   {
+    "text": "헨리 찰펀트는 그래피티, 브레이크 댄스, 힙합 문화를 기록한 미국 사진가이자 비디오그래퍼이다.",
+    "s": 1,
+    "quote": "Henry Chalfant (born January 2, 1940) is an American photographer and videographer most notable for his work on graffiti, breakdance, and hip hop culture."
+   },
+   {
+    "text": "스트라트 미술관은 2020년 10월 9일 개관했으며 8,000제곱미터 규모의 공간에 170명 이상의 작가가 참여한 180여 점의 작품을 상설 전시한다.",
+    "s": 2,
+    "quote": "Opened on October 9, 2020, its 86,000-square-foot (8,000 m2) space contains a permanent exhibition with more than 180 works from over 170 artists"
+   }
+  ],
+  "keywords": [
+   "그래피티",
+   "헨리찰펀트",
+   "스트라트미술관",
+   "도시기록",
+   "공간재생"
+  ],
+  "evidence": "the images are presented life/train size, on metallic paper, with a huge backlit screen showing cars \"running\" into the station.",
+  "kind": "전시",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "기록의 물리적 스케일을 확장해 현장성을 재구축한 전시 기법이 명확하고, 작가와 미술관의 맥락이 충분히 확인된다.",
+  "v": 2,
+  "url": "https://www.creativeboom.com/news/art-is-not-a-crime/",
+  "original_title": "Henry Chalfant's legendary New York subway graffiti photos pull into Amsterdam at life size",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 9000,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-29 18:27",
+  "research": {
+   "entities": [
+    "Henry Chalfant",
+    "Straat Museum",
+    "NDSM"
+   ],
+   "questions": [
+    "헨리 찰펀트가 기록한 1980년대 뉴욕 지하철 그래피티 사진들이 갖는 역사적 가치는 무엇인가?",
+    "암스테르담의 Straat Museum은 거리 예술을 미술관 공간으로 옮겨오는 과정에서 어떤 전시 방식을 취하고 있는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Henry Chalfant",
+     "url": "https://en.wikipedia.org/wiki/Henry%20Chalfant"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "STRAAT Museum",
+     "url": "https://en.wikipedia.org/wiki/STRAAT%20Museum"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 826
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "wallpaper.com/architecture/bjarke-ingles-group-refugee-cities": {
+  "title_ko": "난민 캠프에서 경제 허브로, 비야케 인겔스 그룹의 ‘난민 도시’ 프로젝트",
+  "summary_ko": "비야케 인겔스 그룹(BIG)이 투닷오르그(to.org)와 협력해 난민 거주지를 자립형 경제 도시로 전환하는 ‘난민 도시(Refugee Cities)’ 프로젝트를 발표했다. 이 프로젝트는 모듈형 주거 단위를 기반으로 상업 시설과 공유 인프라를 결합해, 단기적 구호가 아닌 기관 투자 기반의 장기적 도시 모델을 구축하는 데 목적을 둔다.",
+  "lens": "임시 거주지를 도시라는 경제 단위로 재정의하여, 건축적 모듈화를 통해 난민 캠프의 고착화된 비효율을 생산적 인프라로 치환한다.",
+  "why_now": "2050년 난민 인구 12억 명 돌파가 예상되는 시점에, 일회성 구호가 아닌 지속 가능한 도시 경제 모델로서의 건축적 대응이 필요하다.",
+  "mechanism": "가족 단위의 모듈형 주거를 클러스터로 묶어 점진적으로 확장하며, 제조·농업 시설을 결합해 상업적 수익을 창출하는 ‘기회 구역(Opportunity Zones)’을 설정한다.",
+  "sensory": "모듈형 구조체가 단일 주거에서 점차 거대한 도시 조직으로 증식하며, 시장과 기술 워크숍 등 공유 공간이 활기를 더하는 스케일의 변화를 시각화한다.",
+  "transfer": "모듈형 비계나 경량 패브릭 같은 가변적 건축 요소를 활용해, 이벤트 공간을 넘어 거주와 생산이 공존하는 복합 단지의 동선을 설계할 때 참고할 수 있다.",
+  "context": "비야케 인겔스 그룹은 마콘도 파크에서 모듈형 비계로 임시 문화 공간을 구현한 바 있으며, 이번 프로젝트는 그 가변적 건축 전략을 난민 주거라는 사회적 인프라로 확장한다. 이는 사기시마섬 빌라에서 보여준 지형과 지속 가능성의 결합을 도시 단위의 경제 모델로 변주한 시도다.",
+  "findings": [
+   {
+    "text": "비야케 인겔스 그룹은 2006년 설립 이후 8 하우스, VIA 57 웨스트 등 대규모 주거 복합 단지를 설계하며 건축적 입지를 다졌다.",
+    "s": 2,
+    "quote": "In 2006 he founded Bjarke Ingels Group, which grew to a staff of 400 by 2015, with noted projects including the 8 House housing complex, VIA 57 West in Manhattan"
+   }
+  ],
+  "keywords": [
+   "난민도시",
+   "비야케인겔스",
+   "모듈형건축",
+   "지속가능성",
+   "도시경제"
+  ],
+  "evidence": "If we start thinking of cities rather than camps, then charity becomes investments into the future",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "난민 문제를 도시 경제 모델로 전환하려는 구체적 전략과 BIG의 기존 모듈형 건축 문법이 결합된 프로젝트다.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/architecture/bjarke-ingles-group-refugee-cities",
+  "original_title": "BIG presents ‘Refugee Cities,’ a proposal to redefine emergency housing, and more",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 3358,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-29 18:27",
+  "research": {
+   "entities": [
+    "BIG",
+    "Bjarke Ingels",
+    "to.org",
+    "Refugee Cities",
+    "Bidi Bidi Performing Arts Centre"
+   ],
+   "questions": [
+    "Refugee Cities 프로젝트가 난민 수용국의 법적, 규제적 장벽을 어떻게 극복할 계획인가요?",
+    "난민 도시의 장기적 재정 자립을 위해 기관투자가들이 기대할 수 있는 상업적 수익 모델은 무엇인가요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "to.org",
+     "url": "http://to.org"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Bjarke Ingels",
+     "url": "https://en.wikipedia.org/wiki/Bjarke%20Ingels"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "빅(BIG)이 설계한 마콘도 파크, 가변적 건축으로 재현한 문학적 풍경",
+     "url": "https://www.archdaily.com/1185625/bigs-macondo-park-opens-as-a-temporary-cultural-landscape-for-shakiras-madrid-residency"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "레고 하우스의 포뮬러 1 체험, 빌룬드에서 설계하고 테스트하는 모터스포츠",
+     "url": "https://www.wallpaper.com/transportation/lego-teams-up-with-formula-1-to-create-new-family-activities-at-billunds-lego-house"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "사기시마섬의 지형을 품은 세 채의 빌라, 비오이유가 완성한 재팬디의 풍경",
+     "url": "https://www.architecturaldigest.com/story/this-stunning-resort-built-into-an-island-marks-a-new-wave-of-japandi-design"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3,
+    5
+   ],
+   "chars": 2087
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "creativeboom.com/news/a-new-halloween-game-turns-your-unread-emails-into-zombies-you-can-actually-kill": {
+  "title_ko": "지메일의 좀비들: 언커먼이 제안하는 이메일 삭제의 새로운 방식",
+  "summary_ko": "언커먼 크리에이티브 스튜디오와 디지털 스튜디오 레즈엔이 협업하여 지메일과 연동되는 브라우저 게임 '더 언레드'를 출시했다. 사용자는 게임 속 좀비를 처치함으로써 실제 읽지 않은 이메일을 지메일 휴지통으로 삭제할 수 있다. 이메일 관리라는 반복적인 업무를 게임화하여 사용자의 심리적 부담을 해소한다.",
+  "lens": "지루한 관리 업무를 즉각적인 물리적 타격감으로 치환하여, 디지털 과부하를 유머와 유희로 돌파하는 영리한 인터페이스 설계다.",
+  "why_now": "자동화 기술이 감정을 배제하는 방식으로 디지털 피로를 해결하려 할 때, 오히려 인간의 본능적인 유희와 파괴 욕구를 활용해 행동을 유도한다.",
+  "mechanism": "지메일의 API를 활용해 이메일 데이터를 좀비 캐릭터로 시각화하고, 사용자의 처치 동작을 삭제 명령으로 변환하는 실용적인 유틸리티를 게임 내부에 숨겼다.",
+  "sensory": "고어한 좀비 처치 연출이 주는 시각적 자극과 함께, 쌓여있던 메일이 삭제될 때의 즉각적인 해방감이 결합되어 카타르시스를 유발한다.",
+  "transfer": "콘티 작업 시, 지루한 일상적 행위를 시각적으로 과장된 액션 게임의 문법으로 재구성하여 사용자의 능동적인 참여를 끌어내는 연출 장치로 활용할 수 있다.",
+  "context": "언커먼 크리에이티브 스튜디오는 에코버의 세탁 금지 티셔츠 캠페인처럼 기존의 통념을 뒤집는 우회적인 방식을 즐겨 사용한다. 이번 작업은 이들이 가진 브랜드 메시지 전달의 유희적 접근 방식을 디지털 툴 영역까지 확장한 사례다.",
+  "findings": [
+   {
+    "text": "더 언레드는 지메일의 읽지 않은 메일을 분류하고 삭제하기 위해 지메일 계정의 읽기 및 수정 권한을 필요로 한다.",
+    "s": 1,
+    "quote": "The Unread is a gamified inbox management tool. It requires read access to count and categorise your unread emails, and modify access to move emails you 'destroy' in the game to your Gmail Trash."
+   }
+  ],
+  "keywords": [
+   "언커먼",
+   "게임화",
+   "디지털웰빙",
+   "인터페이스",
+   "지메일"
+  ],
+  "evidence": "It's a utility disguised as a game – or maybe a game disguised as a utility.",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "단순한 게임 홍보를 넘어 디지털 생산성 도구의 새로운 인터페이스 가능성을 구체적인 작동 원리와 함께 제시했다.",
+  "v": 2,
+  "url": "https://www.creativeboom.com/news/a-new-halloween-game-turns-your-unread-emails-into-zombies-you-can-actually-kill/",
+  "original_title": "A new Halloween game turns your unread emails into zombies you can actually kill",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 6355,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-29 18:27",
+  "research": {
+   "entities": [
+    "Uncommon Creative Studio",
+    "Resn",
+    "The Unread",
+    "Gmail",
+    "Nils Leonard"
+   ],
+   "questions": [
+    "The Unread 게임이 이메일 관리라는 지루한 업무를 어떻게 심리적 보상과 연결하여 생산성을 높이고자 하는가?",
+    "디지털 과부하 문제를 해결하기 위해 자동화 기술 대신 게임화(Gamification)와 유머를 도입하는 것이 어떤 효과를 가지는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "The Unread",
+     "url": "https://www.the-unread.com/"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Gmail",
+     "url": "https://en.wikipedia.org/wiki/Gmail"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "뷰티 업계의 허울뿐인 언어, 언커먼의 '주기율표'가 블랙 펜슬을 얻은 방식",
+     "url": "https://www.creativeboom.com/insight/beauty-brands-were-writing-ai-slop-before-ai-heres-how-uncommon-won-a-dad-black-pencil-for-calling-it-out/"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "세탁하지 않는 티셔츠로 던지는 지속 가능성의 역설",
+     "url": "https://www.creativeboom.com/news/why-a-laundry-brand-made-t-shirts-youre-not-supposed-to-wash/"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "워싱턴 포스트의 탐사보도를 짓누르는 거친 질감의 긴박감",
+     "url": "https://www.stashmedia.tv/sabih-mahmoods-relentless-motion-for-washington-post/"
+    }
+   ],
+   "used": [
+    1,
+    3,
+    4,
+    5
+   ],
+   "chars": 2861
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "creativeboom.com/dear-boom/dear-boom-how-do-i-exorcise-a-nightmare-client-and-ensure-they-dont-rise-from-the-dead": {
+  "title_ko": "끝나지 않는 수정 지옥: 악몽 같은 클라이언트와 결별하는 실전 기술",
+  "summary_ko": "크리에이티브 매거진 크리에이티브 붐이 소모적인 클라이언트 관계를 정리하는 구체적인 방법을 커뮤니티 전문가들의 조언을 통해 짚어본다. 계약서 재검토부터 명확한 종료일을 명시한 이메일 작성법, 추가 업무 여지를 남기지 않는 경계 설정까지 다룬다.",
+  "lens": "관계 유지를 위한 변명을 지우고, 마감일과 종료 선언으로 협상 테이블의 주도권을 되찾는다.",
+  "why_now": "무한 수정과 모호한 브리프가 일상화된 크리에이티브 업계에서 개인 작업자의 소진을 막고 작업 주도권을 지키는 실무 지침이 절실하기 때문이다.",
+  "mechanism": "이메일 본문에서 협상의 여지를 주는 수식어를 배제하고 종료 시점과 파일 전달 일정을 단단하게 못 박아 추가 소통의 가능성을 차단한다.",
+  "sensory": "일요일 저녁에 울리는 메신저 알림음과 끊임없이 되살아나는 추가 수정 요청이 주는 심리적 압박감을 끊어낸다.",
+  "transfer": "프로젝트 종료 이메일을 작성할 때 미안함을 담은 수식어를 모두 지우고 명확한 철수 일자와 최종 산출물 전달 시기만 남기는 문장 구조로 활용한다.",
+  "context": "크리에이티브 붐의 상담 코너를 통해 클라이언트와의 소통 단절이나 계약 종료에 대한 실무 대응법을 다룬다.",
+  "findings": [],
+  "keywords": [
+   "클라이언트",
+   "계약 종료",
+   "크리에이티브",
+   "실무 가이드"
+  ],
+  "evidence": "How do I exorcise a nightmare client and ensure they don't rise from the dead?",
+  "kind": "뉴스·이슈",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "까다로운 클라이언트와 관계를 끊는 실무 팁을 다룬 유용한 가이드이나 새로운 조형적 기법은 아니다.",
+  "v": 2,
+  "url": "https://www.creativeboom.com/dear-boom/dear-boom-how-do-i-exorcise-a-nightmare-client-and-ensure-they-dont-rise-from-the-dead/",
+  "original_title": "How do I exorcise a nightmare client and ensure they don't rise from the dead?",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 9000,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-29 18:27",
+  "research": {
+   "entities": [
+    "Creative Boom",
+    "Keiron Lewis",
+    "Nicholas Robb",
+    "Csaba Klement",
+    "Paul Leon"
+   ],
+   "questions": [
+    "프리랜서가 까다로운 클라이언트와 계약을 원만하게 종료하기 위해 이메일에서 지켜야 할 핵심 원칙은 무엇인가?",
+    "계약서가 없는 프리랜서 프로젝트의 경우, 클라이언트와의 관계를 끊을 때 법적 또는 도의적으로 어디까지 책임을 져야 하는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "U037 Design Home. We provide creative & design thinking. U037 Design",
+     "url": "https://www.u037.com/"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "home - designoMatt",
+     "url": "https://designomatt.com/"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "AI가 밀어낸 자리에서 싹트는 6만 명의 수작업 애니메이션",
+     "url": "https://www.creativeboom.com/work/ester-pazur-on-being-a-pessimist-the-power-of-stop-motion-and-why-handmade-art-still-matters/"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "시간대와 마우스에 반응하는 크리에이티브 붐의 눈 마스코트",
+     "url": "https://www.creativeboom.com/news/the-eyes-have-it-how-we-brought-creative-booms-mascot-to-life-in-different-time-zones/"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "잠수 탄 클라이언트 앞에서 주도권을 쥐는 실무 대응법",
+     "url": "https://www.creativeboom.com/dear-boom/are-you-getting-ghosted-more-than-ever-youre-not-alone/"
+    }
+   ],
+   "used": [],
+   "chars": 2254
+  },
+  "depth_raw": 3,
+  "depth_v": 2
  }
 }
