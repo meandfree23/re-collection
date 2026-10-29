@@ -233496,5 +233496,595 @@
   },
   "depth_raw": 4,
   "depth_v": 2
+ },
+ "archdaily.com/1187678/yakisugi-house-estudio-mazara": {
+  "title_ko": "야키스기 하우스, 도미니카 공화국의 열대 풍경을 담는 수평적 건축",
+  "summary_ko": "도미니카 공화국에 완공된 야키스기 하우스는 마자라 에스튜디오 아르키텍투라가 설계한 개인 주택이다. 가늘고 긴 수평 볼륨과 가벼운 경사 지붕을 조합하고 천연석과 나무, 어두운 구조재를 사용해 열대 자연과 긴밀한 대화를 시도한다.",
+  "lens": "수평으로 길게 뻗은 볼륨과 경량 지붕을 통해 열대 기후의 개방감을 확보하면서도, 어두운 톤의 재료로 시각적 무게감을 조절한다.",
+  "why_now": "기후 변화에 대응하는 경량 구조와 지역적 재료를 결합한 주거 형태가 열대 지역 건축의 새로운 표준으로 자리 잡고 있다.",
+  "mechanism": "가늘고 긴 수평 볼륨을 배치하여 대지의 경관을 최대한 가로로 길게 받아들이고, 경사 지붕을 올려 열대 기후의 통풍과 배수를 해결한다.",
+  "sensory": "어두운 톤의 구조재와 나무의 거친 질감이 천연석의 단단함과 대비되며, 열대 식생의 밝은 녹색과 극명한 색채 대비를 이룬다.",
+  "transfer": "영상 촬영 시 수평으로 긴 프레임을 활용해 공간의 깊이감을 극대화하고, 어두운 목재 구조와 자연광의 대비를 통해 인물의 실루엣을 강조하는 조명을 설계한다.",
+  "context": "도미니카 공화국은 카사 로사바야와 같이 좁은 해안 대지를 활용한 기하학적 주거 설계가 꾸준히 시도되는 지역이다. 마자라 에스튜디오 아르키텍투라는 이러한 지역적 맥락 속에서 자연 환경과 건축물의 긴밀한 조화를 추구한다.",
+  "findings": [
+   {
+    "text": "도미니카 공화국의 카사 로사바야 프로젝트는 37미터의 좁은 해안 대지 위에 12개의 모든 침실을 바다를 향해 배치하는 기하학적 해법을 보여주었다.",
+    "s": 1,
+    "quote": "도미니카공화국에 세워진 아르키나(Arkina)의 카사 로사바야는 37미터의 좁은 해안 대지 위에 12개의 침실 모두가 바다를 향하도록 배치한 주거 프로젝트다."
+   }
+  ],
+  "keywords": [
+   "열대건축",
+   "수평볼륨",
+   "야키스기",
+   "도미니카공화국",
+   "주거설계"
+  ],
+  "evidence": "The architectural composition brings together elongated horizontal volumes, lightweight pitched roofs, and a restrained material palette of natural stone, wood, and dark-toned structural elements.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "원문 정보가 제한적이나 주거 프로젝트의 공간 구성 방식과 재료 활용을 명확히 설명하고 있다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1187678/yakisugi-house-estudio-mazara",
+  "original_title": "Yakisugi House / Estudio Mazara",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 965,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-29 10:40",
+  "research": {
+   "entities": [
+    "Estudio Mazara",
+    "Victor Stonem"
+   ],
+   "questions": [
+    "Estudio Mazara는 도미니카 공화국에서 어떤 건축적 특징을 주로 선보이나요?",
+    "야키수기(Yakisugi) 전통 기법이 이 주택의 재료 팔레트에 어떻게 적용되었나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "37미터의 해안선에 12개의 방을 올리다, 카사 로사바야",
+     "url": "https://www.archdaily.com/1184902/casa-rosabaya-arkina"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 247
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "hyperallergic.com/vatican-exhibition-series-centers-fundamentally-human-art-over-ai": {
+  "title_ko": "바티칸이 소집한 100인의 예술가, AI를 거부하고 인간성을 증명하다",
+  "summary_ko": "바티칸이 주관하는 제1회 가톨릭 대학교 국제 미술 트리엔날레(ArtCut)가 브라질, 이탈리아, 미국 등 7개국에서 동시에 개막했다. 아서 자파, 제레미 프레이, 모나 하툼 등 100명 이상의 예술가가 참여해 인공지능의 확산에 맞서 감정과 성찰에 기반한 인간 중심의 창의성을 조명한다.",
+  "lens": "기술의 연산 능력이 모방할 수 없는 감정의 결을 물질과 신체로 고정한다.",
+  "why_now": "인공지능의 빠른 확산 속에서 창작의 주체성과 인간 노동의 실존적 가치를 다시 묻는 시도다.",
+  "mechanism": "브라질과 칠레 등 7개국 가톨릭 대학교의 공간을 연결하여, 기술적 진보 대신 공감과 자기 성찰을 중심에 두는 주제적 연출을 취한다.",
+  "sensory": "전통적인 수공예 바구니부터 비디오 아트를 아우르며, 기계적 완결성 대신 인간 신체의 노동과 흔적이 남긴 물성을 드러낸다.",
+  "transfer": "기계의 속도감에 맞서는 느린 호흡의 신체적 퍼포먼스나 수공예적 질감을 콘티에 도입한다.",
+  "context": "바티칸 문화교육부 장관 톨렌티누 드 멘돈사 추기경이 기획을 위임했으며, 인공지능이 감정적, 관계적 시각을 결여하고 있다는 교황의 메시지에서 출발한다.",
+  "findings": [
+   {
+    "text": "제레미 프레이는 조상 대대로 내려오는 와바나키 파사마쿼디 전통 기법을 사용하여 재료를 채집하고 바구니를 엮는다.",
+    "s": 2,
+    "quote": "Jeremy Frey (born 1978) is a Passamaquoddy basket maker from the U.S. state of Maine. He harvests materials and weaves baskets using ancestral Wabanaki Passamaquoddy techniques."
+   }
+  ],
+  "keywords": [
+   "바티칸",
+   "트리엔날레",
+   "인간성",
+   "공예",
+   "미디어아트"
+  ],
+  "evidence": "An exhibition series organized by the Vatican brings together more than 100 artists — including Arthur Jafa, Jeremy Frey, and Mona Hatoum — to celebrate “fundamentally human” creativity in the face of AI's rapid rise.",
+  "kind": "전시",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "바티칸이 주최하는 대규모 국제 전시에 대한 정보는 분명하나 구체적인 작품 연출 방식보다 기획 의도와 선언에 집중된다.",
+  "v": 2,
+  "url": "https://hyperallergic.com/vatican-exhibition-series-centers-fundamentally-human-art-over-ai/",
+  "original_title": "Vatican Exhibition Series Centers \"Fundamentally Human\" Art Over AI",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 2066,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-29 10:40",
+  "research": {
+   "entities": [
+    "Arthur Jafa",
+    "Jeremy Frey",
+    "Mona Hatoum",
+    "Dicastery for Culture and Education",
+    "Catholic Universities Art Triennale"
+   ],
+   "questions": [
+    "바티칸이 주최하는 Catholic Universities Art Triennale(ArtCut)의 기획 의도와 AI 기술에 대한 가톨릭 교회의 공식적인 입장은 무엇인가?",
+    "전시에 참여한 아티스트들이 '인간성'을 표현하기 위해 어떤 예술적 접근 방식을 취하고 있는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Arthur Jafa",
+     "url": "https://en.wikipedia.org/wiki/Arthur%20Jafa"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Jeremy Frey",
+     "url": "https://en.wikipedia.org/wiki/Jeremy%20Frey"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "아서 자파: 파편화된 역사와 이미지의 충돌로 빚어낸 거대한 서사",
+     "url": "https://hyperallergic.com/arthur-jafa-king-of-pop/"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "뉴욕 아모리 위크, 도시의 빈틈을 점유하는 동시대 미술의 풍경",
+     "url": "https://hyperallergic.com/armory-week-is-here/"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "뉴욕의 거리와 미술관 사이, 예술이 마주한 불균형의 풍경",
+     "url": "https://hyperallergic.com/thanks-im-just-looking/"
+    }
+   ],
+   "used": [
+    2
+   ],
+   "chars": 1327
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "hyperallergic.com/philadelphians-to-vote-on-permanent-arts-and-culture-office-on-election-day": {
+  "title_ko": "필라델피아, 예술 문화 사무소의 시 헌장 편입을 위한 주민 투표 실시",
+  "summary_ko": "필라델피아 시민들이 11월 3일 선거에서 예술 문화 사무소인 ‘크리에이티브 필라델피아’를 시 헌장에 명시된 영구 기구로 격상할지 결정한다. 1984년 윌슨 W. 구드 시장 시절 설립된 이 사무소는 그간 시장 교체 때마다 행정적 변동을 겪어왔다. 이번 투표가 통과되면 사무소의 존립 근거가 강화되고 최고 문화 책임자 직위 또한 안정적인 지위를 확보하게 된다.",
+  "lens": "행정적 변덕에 노출된 문화 기구를 법적 헌장으로 고정해 정책의 연속성을 확보하려는 도시 단위의 제도적 실험이다.",
+  "why_now": "정치적 리더십 교체에 따라 문화예술 지원 체계가 흔들리는 현상을 방지하고, 예술 정책을 도시 운영의 상수로 배치하려는 시도다.",
+  "mechanism": "기존 행정 명령에 의존하던 조직을 시 헌장으로 옮겨 시장의 의지에 따른 임의적 폐지나 개편을 불가능하게 만드는 구조적 안전장치를 마련한다.",
+  "sensory": "도시 곳곳의 공공 예술 공간과 무료 문화 행사가 일시적 프로젝트가 아닌, 도시의 일상적 풍경으로 정착하는 스케일을 상상하게 한다.",
+  "transfer": "공공 프로젝트 기획 시, 일회성 이벤트가 아닌 지속 가능한 운영 체계를 확보하기 위해 행정적 근거를 어디에 둘 것인지 구조를 설계하는 참고 사례로 활용한다.",
+  "context": "1984년 윌슨 W. 구드 시장이 설립한 이후 필라델피아의 예술 문화 사무소는 여러 시장의 정책 변화에 따라 부침을 겪어왔다. 현재 체렐 파커 시장 하에서 ‘크리에이티브 필라델피아’라는 이름으로 운영 중인 이 기구는 이번 투표를 통해 독립적인 지위를 확보하고자 한다.",
+  "findings": [
+   {
+    "text": "체렐 파커는 2024년부터 필라델피아 시장직을 수행 중인 100대 시장이자 해당 도시 최초의 여성 시장이다.",
+    "s": 1,
+    "quote": "Cherelle Lesley Parker (born September 9, 1972) is an American politician and former educator serving as the 100th mayor of Philadelphia since 2024. A member of the Democratic Party, she is the first woman to hold the of"
+   },
+   {
+    "text": "윌슨 W. 구드는 1984년부터 1992년까지 재임한 필라델피아 최초의 흑인 시장이다.",
+    "s": 2,
+    "quote": "Woodrow Wilson Goode Sr. (born August 19, 1938) is an American politician and former Mayor of Philadelphia and the first African American to hold that office. He served from 1984 to 1992"
+   }
+  ],
+  "keywords": [
+   "필라델피아",
+   "공공예술",
+   "문화행정",
+   "시민투표"
+  ],
+  "evidence": "The ballot measure would ensure that Creative Philadelphia, the name of the arts and culture office under Mayor Cherelle Parker, is immune to overhauls from current or future mayoral administrations.",
+  "kind": "뉴스·이슈",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "도시 행정 체계 내 문화 기구의 위상을 다루는 제도적 변화를 다루고 있으나, 구체적인 예산이나 실무적 변화의 디테일은 부족하다.",
+  "v": 2,
+  "url": "https://hyperallergic.com/philadelphians-to-vote-on-permanent-arts-and-culture-office-on-election-day/",
+  "original_title": "Philadelphians to Vote on Permanent Arts and Culture Office on Election Day",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 1960,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-29 10:40",
+  "research": {
+   "entities": [
+    "Creative Philadelphia",
+    "Cherelle Parker",
+    "Wilson W. Goode",
+    "Valerie V. Gay",
+    "Isaiah Thomas"
+   ],
+   "questions": [
+    "필라델피아의 문화예술국이 시헌장에 영구적으로 편입될 경우 행정과 예산 집행에 어떤 구체적인 변화가 생기는가?",
+    "역대 필라델피아 시장들의 행정부 개편 속에서 해당 문화예술 조직이 겪어온 부침과 주요 성과는 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Cherelle Parker",
+     "url": "https://en.wikipedia.org/wiki/Cherelle%20Parker"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Wilson Goode",
+     "url": "https://en.wikipedia.org/wiki/Wilson%20Goode"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 1174
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "archdaily.com/1187653/open-call-the-tycoons-last-desire-the-client-the-house-and-the-architecture-of-power": {
+  "title_ko": "거부하는 자를 위한 집: 권력의 건축 공모전",
+  "summary_ko": "아키피드(Archifeed)가 주최하고 테이무르 쿠리(Teymour Khoury)가 기획한 건축 공모전 '타이쿤의 마지막 욕망'이 레바논 파크라 지역에 세울 주택 설계를 공개 모집한다. 이 공모전은 브라질계 레바논인 클라이언트의 전기적 모순과 야망을 바탕으로 통제를 거부하는 인물을 담을 공간적 방식을 묻는다.",
+  "lens": "통제를 거부하는 권력자의 서사를 건축적 장치로 시각화하는 공모전이다.",
+  "why_now": "개인의 복잡한 정체성과 권력의 욕망을 공간 구조로 번역하는 실험적 설계가 주목받는 시점이다.",
+  "mechanism": "가상의 클라이언트가 지닌 모순된 야망과 자서전적 서사를 물리적 공간과 평면 배치로 번역하도록 유도한다.",
+  "sensory": "레바논 파크라의 지형 위에 세워질, 거주자의 통제 불가능한 성향을 반영한 날것의 물성과 구조적 긴장감.",
+  "transfer": "인물의 복잡한 심리와 권력 관계를 공간의 레벨 차이와 동선 분기로 콘티에 시각화할 수 있다.",
+  "context": "아키피드가 주최하고 테이무르 쿠리가 큐레이팅한 이번 공모전은 신진 건축가들을 대상으로 파크라 지역의 주택 설계를 요구한다.",
+  "findings": [],
+  "keywords": [
+   "건축공모전",
+   "권력의건축",
+   "레바논파크라",
+   "주택설계"
+  ],
+  "evidence": "Organized by Archifeed and curated by Teymour Khoury, The Tycoon's Last Desire is an architectural competition and exhibition inviting emerging architects to design a house in Faqra, Lebanon",
+  "kind": "행사·공모",
+  "depth": 2,
+  "grounding": "thin",
+  "depth_reason": "건축 공모전 안내 공고 원문으로, 구체적인 당선작이나 설계 결과물 없이 아이디어 공모 요강만 제공되기 때문이다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1187653/open-call-the-tycoons-last-desire-the-client-the-house-and-the-architecture-of-power",
+  "original_title": "Open Call: The Tycoon's Last Desire - The Client, the House and the Architecture of Power",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 1163,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-29 10:40",
+  "research": {
+   "entities": [
+    "Archifeed",
+    "Teymour Khoury",
+    "Faqra"
+   ],
+   "questions": [
+    "이 건축 공모전이 요구하는 '브라질계 레바논인 클라이언트'의 서사가 건축적 설계에 어떤 영향을 미치도록 의도되었는가?",
+    "파크라(Faqra) 지역의 지리적, 문화적 특성이 권력의 건축을 표현하는 데 어떤 맥락을 제공하는가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "archdaily.com/1187725/miaa-iberian-museum-of-archaeology-and-art-carrilho-da-graca-arquitectos": {
+  "title_ko": "지형의 연장선 위로 구축된 요새, 이베리아 고고학 및 미술 박물관",
+  "summary_ko": "포르투갈 아브란테스에 위치한 이베리아 고고학 및 미술 박물관(MIAA)은 도시의 역사적 지형을 반영한 문화 건축물이다. 카릴료 다 그라사 아르키텍토스(Carrilho da Graça Arquitectos)는 지형의 기하학적 중심이자 경관의 전이 지대인 이곳에 기존 맥락과 결합한 박물관을 설계했다.",
+  "lens": "지형의 고저 차를 건물 내부로 끌어들여 도시의 역사적 맥락과 박물관의 물리적 구조를 동기화했다.",
+  "why_now": "지정학적 요충지라는 장소의 특수성을 건축적 언어로 번역해 도시의 랜드마크를 재정의한다.",
+  "mechanism": "도시의 물리적 경계와 지형적 형태를 건축 설계에 이식해, 건물이 주변 경관을 관찰하는 망루이자 요새의 역할을 수행하도록 배치했다.",
+  "sensory": "높은 지대에 자리 잡은 건물의 스케일은 주변 풍경을 조망하는 개방감을 주며, 견고한 매스는 역사적 요새의 육중한 물성을 드러낸다.",
+  "transfer": "장소의 지형적 높낮이를 활용해 관람 동선을 설계하고, 외부 경관이 내부 공간의 일부로 읽히도록 창의 위치와 크기를 조절한다.",
+  "context": "카릴료 다 그라사 아르키텍토스는 아브란테스의 역사적 위치를 해석하여 도시의 지형적 특징과 결합된 박물관을 완성했다.",
+  "findings": [],
+  "keywords": [
+   "지형건축",
+   "이베리아박물관",
+   "아브란테스",
+   "카릴료다그라사"
+  ],
+  "evidence": "The city of Abrantes is, materially and historically, a landmark within a broader territory",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "건축적 의도와 장소성은 명확하나, 내부 공간의 구체적인 마감이나 상세 설계 기법에 대한 정보가 부족하다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1187725/miaa-iberian-museum-of-archaeology-and-art-carrilho-da-graca-arquitectos",
+  "original_title": "MIAA - Iberian Museum of Archaeology and Art / Carrilho da Graça Arquitectos",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 2568,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-29 10:40",
+  "research": {
+   "entities": [
+    "Carrilho da Graça Arquitectos",
+    "João Luís Carrilho da Graça",
+    "Abrantes"
+   ],
+   "questions": [
+    "MIAA(이베리아 고고학 및 미술 박물관)의 건축적 특징과 주변 지형과의 관계는 무엇인가?",
+    "설계를 맡은 Carrilho da Graça Arquitectos의 이전 주요 문화 건축 프로젝트에는 어떤 것이 있는가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "archdaily.com/1187661/a-geometric-ruin": {
+  "title_ko": "코르도바의 광활한 대지에 세운 기하학적 중정 주택",
+  "summary_ko": "아르헨티나 빌라 라 볼사에 완공된 140제곱미터 규모의 저비용 주거 프로젝트다. 건축사사무소 00L은 광활한 코르도바 내륙 풍경 속에서 사적 공간과 외부를 구분하기 위해 파티오를 건축의 생성 원리로 채택했다. 요른 우촌의 킹고 하우스와 알바르 알토의 무라트살로 실험 주택을 참조하여 L자형 평면을 구성했다.",
+  "lens": "광활한 대지를 격리하는 대신 파티오를 중앙에 심어 사적 질서와 풍경을 직교로 엮는다.",
+  "why_now": "대규모 자본 대신 명확한 기하학적 원리와 중정 형식을 통해 저비용 주거의 공간적 깊이를 회복하려는 시도다.",
+  "mechanism": "L자형 매스로 대지의 경계를 규정하고, 중심에 비워둔 개방 공간인 파티오를 통해 실내의 모든 동선과 시선을 내부로 수렴한다.",
+  "sensory": "외부의 거친 대지 풍경과 대비되는 안쪽의 폐쇄된 중정에서 밀도 높은 사생활과 고요한 빛의 유입을 경험한다.",
+  "transfer": "공간을 가르는 파티션을 세우는 대신 하나의 비워진 마당을 중심으로 방들의 시선을 한곳으로 모으는 숏 구성을 시도한다.",
+  "context": "이 프로젝트는 요른 우촌의 킹고 하우스와 알바르 알토의 무라트살로 실험 주택이 보여준 L자형 주거 형식을 현대의 저비용 예산에 맞춰 재해석했다.",
+  "findings": [
+   {
+    "text": "요른 우촌은 덴마크의 전통 농가와 중국 및 이슬람 주거에서 영감을 받아 헬싱외르에 중정을 갖춘 L자형 킹고 하우스를 설계했다.",
+    "s": 2,
+    "quote": "Kingo Houses is a housing development designed by architect Jørn Utzon in Helsingør, Denmark. The development consists of 60 L-shaped houses based upon the design of traditional Danish farmhouses with central courtyards "
+   }
+  ],
+  "keywords": [
+   "중정주택",
+   "아르헨티나",
+   "L자형",
+   "저비용주거"
+  ],
+  "evidence": "this low-cost residential project adopts the patio as the generative principle of its architectural layout, drawing on a dwelling type deeply rooted in the history of architecture.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "역사적 주거 형식을 저비용 프로젝트에 명확히 적용했으나 평범한 주거 소개에 가깝다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1187661/a-geometric-ruin",
+  "original_title": "A Geometric Ruin / 00L",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 1284,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-29 10:40",
+  "research": {
+   "entities": [
+    "00L",
+    "Jørn Utzon",
+    "Kingo Houses",
+    "Alvar Aalto",
+    "Muuratsalo Experimental House"
+   ],
+   "questions": [
+    "중정형 주택 구조가 코르도바 지역의 기후와 지형적 특성에 어떻게 대응하는가?",
+    "00L 스튜디오가 언급한 킹고 하우스와 무라트살로 실험 주택의 공간적 개념이 이 프로젝트에 어떻게 재해석되었는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Jørn Utzon",
+     "url": "https://en.wikipedia.org/wiki/J%C3%B8rn%20Utzon"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Kingo Houses",
+     "url": "https://en.wikipedia.org/wiki/Kingo%20Houses"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "리스본의 상 호세 다 보아비스타 교회, 광장을 품은 현대적 성소",
+     "url": "https://www.yatzer.com/church-of-sao-jose-da-boavista-lisbon"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "리스본 마르빌라의 시간, 엑스트라스튜디오의 블루 하우스",
+     "url": "https://leibal.com/interiors/blue-house-2/"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "죽음의 경계에서 읽어내는 건축과 조경의 풍경",
+     "url": "https://www.architecturaldigest.com/gallery/most-beautiful-cemeteries-around-the-world"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 2002
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "thisiscolossal.com/2026/10/romuald-hazoume-plastic-jug-mask-sculptures": {
+  "title_ko": "플라스틱 주전자의 변주, 로무알드 하주메의 가면이 묻는 현대의 비극",
+  "summary_ko": "베냉 출신 작가 로무알드 하주메(Romuald Hazoumè)가 런던 옥토버 갤러리(October Gallery)에서 개인전 '나의 블루 시대(My Blue Period)'를 연다. 작가는 폐기된 플라스틱 주전자에 깃털, 그물, 붓 등 일상의 파편을 결합해 인간의 얼굴을 형상화한 '가짜 가면(masques bidons)' 시리즈를 선보인다. 이는 식민주의와 기후 위기, 전쟁으로 희생된 이들을 기리는 증언의 기록이다.",
+  "lens": "플라스틱 주전자의 입구와 손잡이를 가면의 입과 코로 치환하여, 소비 사회의 쓰레기가 어떻게 인간의 표정을 획득하는지 증명한다.",
+  "why_now": "전쟁과 기후 재난이 일상화된 시대에, 작가는 피카소의 '블루 시대'를 빌려와 고통을 마주하는 애도의 방식을 제안한다.",
+  "mechanism": "플라스틱 주전자의 구조적 형태를 유지하면서 부속물을 덧대어 추상적 인물을 구축한다. 관람객이 주전자의 물성을 인지하는 동시에 그 위에 투영된 얼굴을 믿게 만드는 이중적 시각 장치를 활용한다.",
+  "sensory": "주전자의 매끄러운 플라스틱 질감과 거친 깃털, 마른 붓의 대비가 시각적 긴장을 만든다. 요루바 문화에서 치유를 상징하는 푸른색을 주조색으로 사용하여 전쟁의 붉은 피와 대비되는 차분한 애도의 분위기를 조성한다.",
+  "transfer": "인물 촬영 시 오브제의 본래 용도를 완전히 지우지 않고 형상만 빌려와, 관객이 사물의 실체와 투영된 이미지를 동시에 인지하게 만드는 심리적 거리감을 연출한다.",
+  "context": "하주메는 1980년대 중반부터 버려진 휘발유 통을 활용해 아프리카의 역사와 정체성을 다뤄왔다. 그는 2007년 대서양 노예 무역의 비극을 다룬 대규모 설치 작업 '왕의 입(La Bouche du Roi)'으로 국제적 주목을 받았다. 이번 전시는 피카소의 아프리카 시기가 지닌 전유적 맥락을 비판적으로 수용하며, 개인적 우울을 넘어선 전 지구적 비극을 다룬다.",
+  "findings": [
+   {
+    "text": "로무알드 하주메는 베냉 출신의 요루바 예술가로, 1980년대 중반부터 버려진 휘발유 통을 이용한 가면 시리즈를 제작해왔다.",
+    "s": 3,
+    "quote": "Hazoumè is also known for his mask series, which he started in the mid-1980s. These masks, made from discarded gasoline canisters, resemble those used in traditional African culture and ceremonies."
+   },
+   {
+    "text": "그의 작업은 소비 사회의 쓰레기를 다시 서구 사회로 돌려보낸다는 정치적 함의를 지닌다.",
+    "s": 3,
+    "quote": "I send back to the West that which belongs to them, that is to say, the refuse of consumer society that invades us every day."
+   },
+   {
+    "text": "옥토버 갤러리는 1979년 설립되어 초문화적 아방가르드 운동인 '트랜스방가르드(Transvangarde)'를 표방하는 예술가들을 소개해왔다.",
+    "s": 4,
+    "quote": "It is notable for promoting the work of artists of the \"Transvangarde\" or trans-cultural avant-garde movement."
+   }
+  ],
+  "keywords": [
+   "로무알드하주메",
+   "파운드오브젝트",
+   "옥토버갤러리",
+   "트랜스방가르드",
+   "오브제"
+  ],
+  "evidence": "My intention is always to create works where no single element is ever overtaken by another",
+  "kind": "전시",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "작가의 작업 맥락과 재료의 물성을 구체적으로 연결하여 전시의 의도를 명확히 분석했다.",
+  "v": 2,
+  "url": "https://www.thisiscolossal.com/2026/10/romuald-hazoume-plastic-jug-mask-sculptures/",
+  "original_title": "Found Object Masks by Romuald Hazoumè Counter Sorrow with Sympathy",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 3533,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-29 10:40",
+  "research": {
+   "entities": [
+    "Romuald Hazoumè",
+    "October Gallery",
+    "Pablo Picasso",
+    "masques bidons"
+   ],
+   "questions": [
+    "로무알드 하주메의 'masques bidons' 시리즈가 아프리카 전통 가면과 피카소의 작품 세계를 어떻게 재해석하고 있는지 궁금합니다.",
+    "작가가 언급한 '블루(Blue)'라는 색상이 요루바 문화와 현대의 지정학적 비극 사이에서 어떤 상징적 의미를 갖는지 알고 싶습니다."
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Romuald Hazoumè",
+     "url": "https://www.octobergallery.co.uk/artists/hazoume"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "October Gallery",
+     "url": "https://www.octobergallery.co.uk/"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Romuald Hazoumè",
+     "url": "https://en.wikipedia.org/wiki/Romuald%20Hazoum%C3%A8"
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "October Gallery",
+     "url": "https://en.wikipedia.org/wiki/October%20Gallery"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "헨리 테일러, 일상의 파편으로 엮어낸 비정형의 서사",
+     "url": "https://elephant.art/henry-taylor-and-the-weight-of-the-ordinary/"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "chars": 6360
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "hyperallergic.com/lisa-sanditzs-seismic-sublime": {
+  "title_ko": "리사 샌디츠, 인공의 색채로 그려낸 풍경의 붕괴",
+  "summary_ko": "리사 샌디츠가 10년 만에 뉴욕 알렉상드르 갤러리에서 개인전 '미싱 마운틴'을 연다. 작가는 중국의 단일 산업 도시와 미국 허드슨 밸리의 탈산업화 현장을 관찰하며, 인간의 개입으로 훼손된 풍경을 아크릴 물감의 인공적인 색채로 재구성한다.",
+  "lens": "환경 파괴라는 무거운 주제를 계몽적 태도 대신 아크릴 물감의 인공적이고 확장적인 색채를 통해 회화적 유희로 치환한다.",
+  "why_now": "기후 위기와 인간의 무분별한 개입이 가속화되는 시대에, 샌디츠는 비판적 의식을 유지하면서도 회화 고유의 조형적 즐거움을 포기하지 않는 태도를 보여준다.",
+  "mechanism": "서로 다른 회화적 언어를 병치하는 포스트모던한 접근을 취하며, 관찰과 기억, 상상을 혼합해 풍경의 물리적 변형을 시각화한다.",
+  "sensory": "아크릴 물감 특유의 매끄럽고 평면적인 질감과 채도가 높은 인공적 색채가 훼손된 자연의 풍경과 대비를 이루며 시각적 긴장감을 만든다.",
+  "transfer": "공간 연출 시 자연적인 소재와 인공적인 마감재를 의도적으로 충돌시켜, 환경의 변형을 시각적 레이어로 구현할 수 있다.",
+  "context": "샌디츠는 마스든 하틀리(Marsden Hartley)와 알렉스 카츠(Alex Katz)로 이어지는 모더니즘 풍경화의 계보를 잇되, 이를 포스트모던한 시각으로 재해석한다. 이는 단순한 기록을 넘어 인간의 개입이 남긴 흔적을 다층적인 회화 언어로 풀어내는 방식이다.",
+  "findings": [
+   {
+    "text": "마스든 하틀리는 파리와 베를린의 입체파 예술가들을 관찰하며 회화 능력을 발전시켰다.",
+    "s": 1,
+    "quote": "Hartley developed his painting abilities by observing Cubist artists in Paris and Berlin."
+   },
+   {
+    "text": "알렉스 카츠는 대담한 단순함과 강렬한 색채를 특징으로 하는 대형 회화로 유명하며, 이는 팝 아트의 선구자로 간주된다.",
+    "s": 2,
+    "quote": "He is well known for his large paintings, whose bold simplicity and heightened colors are considered as precursors to Pop Art."
+   }
+  ],
+  "keywords": [
+   "리사 샌디츠",
+   "포스트모던 풍경화",
+   "인공 색채",
+   "환경 회화"
+  ],
+  "evidence": "Sanditz continues to pursue her understanding of the relationship between human intervention and the landscape, paying particular attention to fitting together different pictorial languages.",
+  "kind": "전시",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "전시의 핵심 주제와 작가의 조형적 태도를 명확히 짚었으나, 구체적인 회화 기법에 대한 시각적 묘사가 원문에 다소 제한적이다.",
+  "v": 2,
+  "url": "https://hyperallergic.com/lisa-sanditzs-seismic-sublime/",
+  "original_title": "Lisa Sanditz’s Seismic Sublime",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 2509,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-29 10:40",
+  "research": {
+   "entities": [
+    "Lisa Sanditz",
+    "Alexandre Gallery",
+    "Marsden Hartley",
+    "Alex Katz"
+   ],
+   "questions": [
+    "리사 샌디츠가 풍경화를 통해 인간의 개입과 환경 파괴를 표현하는 방식은 무엇인가?",
+    "포스트모던 풍경화가로서 샌디츠가 사용하는 '다양한 회화적 언어'란 구체적으로 어떤 기법을 의미하는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Marsden Hartley",
+     "url": "https://en.wikipedia.org/wiki/Marsden%20Hartley"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Alex Katz",
+     "url": "https://en.wikipedia.org/wiki/Alex%20Katz"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "닉 키블렌, 정교한 완벽주의를 버리고 기록한 인간의 궤적",
+     "url": "https://elephant.art/nick-kivlen-is-done-playing-by-the-rules/"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "메인주의 두 박물관이 재조명하는 모더니스트 칼 스프린콘",
+     "url": "https://hyperallergic.com/discover-carl-sprinchorn-at-two-maine-museums-this-fall/"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 1125
+  },
+  "depth_raw": 3,
+  "depth_v": 2
  }
 }
