@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-29 10:40 KST",
+  "generated_at": "2026-10-29 11:27 KST",
   "period": "2026.10.22 - 2026.10.29",
-  "total_articles": 375,
+  "total_articles": 377,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 190
+      "count": 191
     },
     {
       "genre": "동시대 미술",
@@ -17,7 +17,7 @@
     },
     {
       "genre": "미디어 파사드·3D",
-      "count": 11
+      "count": 12
     }
   ],
   "themes": [
@@ -86,6 +86,38 @@
       ]
     },
     {
+      "keyword": "레스토랑·호스피탈리티",
+      "count": 6,
+      "previous_count": 6,
+      "trend": "steady",
+      "items": [
+        {
+          "title": "Trattoria Breda by Allen Kaufmann Architekten Flirts With Ugly and Lands Firmly on Cool.",
+          "url": "https://www.yellowtrace.com.au/allen-kaufmann-architekten-trattoria-breda-berlin-orange-dining-room/",
+          "image_url": "https://assets.yellowtrace.com.au/wp-content/uploads/2026/10/07151150/Yellowtrace-Allen-Kaufmann-Architekten-Trattoria-Breda-Berlin-Orange-Dining-Room-14_opt80.jpg",
+          "source_name": "Yellowtrace"
+        },
+        {
+          "title": "올 11월, 기발한 먹거리와 마실 거리",
+          "url": "https://www.anothermag.com/design-living/17586/brilliant-things-to-eat-and-drink-this-november?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=brilliant-things-to-eat-and-drink-this-november",
+          "image_url": "https://images-prod.anothermag.com/786/azure/another-prod/470/9/479930.jpeg",
+          "source_name": "AnOther Magazine"
+        },
+        {
+          "title": "돈도 레스토랑/코스타 + 에레라 아르키텍토스",
+          "url": "https://www.archdaily.com/1177056/dondoh-restaurant-costa-plus-herrera-arquitectos",
+          "image_url": "https://images.adsttc.com/media/images/6130/2942/25f7/0e01/6663/f4c9/large_jpg/dondoh-julio-4.jpg?1630546310",
+          "source_name": "ArchDaily"
+        },
+        {
+          "title": "FictionWorks의 이 샬롯 비스트로에서 나파 밸리와 파리의 만남",
+          "url": "https://design-milk.com/napa-bistro-charlotte-fictionworks/",
+          "image_url": "https://design-milk.com/images/2026/10/Napa-Charlotte-Napa-Bistro0679-Edit-e1792698823198-1500x1000.jpeg",
+          "source_name": "Design Milk"
+        }
+      ]
+    },
+    {
       "keyword": "리노베이션·재생",
       "count": 6,
       "previous_count": 6,
@@ -114,38 +146,6 @@
           "url": "https://leibal.com/interiors/clinton-hill-residence/",
           "image_url": "https://leibal.com/wp-content/uploads/2026/10/leibal-clinton-hill-residence-office-of-tangible-space-2.jpg",
           "source_name": "Leibal"
-        }
-      ]
-    },
-    {
-      "keyword": "레스토랑·호스피탈리티",
-      "count": 5,
-      "previous_count": 6,
-      "trend": "steady",
-      "items": [
-        {
-          "title": "올 11월, 기발한 먹거리와 마실 거리",
-          "url": "https://www.anothermag.com/design-living/17586/brilliant-things-to-eat-and-drink-this-november?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=brilliant-things-to-eat-and-drink-this-november",
-          "image_url": "https://images-prod.anothermag.com/786/azure/another-prod/470/9/479930.jpeg",
-          "source_name": "AnOther Magazine"
-        },
-        {
-          "title": "돈도 레스토랑/코스타 + 에레라 아르키텍토스",
-          "url": "https://www.archdaily.com/1177056/dondoh-restaurant-costa-plus-herrera-arquitectos",
-          "image_url": "https://images.adsttc.com/media/images/6130/2942/25f7/0e01/6663/f4c9/large_jpg/dondoh-julio-4.jpg?1630546310",
-          "source_name": "ArchDaily"
-        },
-        {
-          "title": "FictionWorks의 이 샬롯 비스트로에서 나파 밸리와 파리의 만남",
-          "url": "https://design-milk.com/napa-bistro-charlotte-fictionworks/",
-          "image_url": "https://design-milk.com/images/2026/10/Napa-Charlotte-Napa-Bistro0679-Edit-e1792698823198-1500x1000.jpeg",
-          "source_name": "Design Milk"
-        },
-        {
-          "title": "Blu Pizzeria Jeddah / movs studio",
-          "url": "https://www.archdaily.com/1187269/blu-pizzeria-jeddah-movs-studio",
-          "image_url": "https://images.adsttc.com/media/images/6ad8/b475/3271/8400/01d0/d862/large_jpg/_MOVS_BLU_cover.jpg?1792586895",
-          "source_name": "ArchDaily"
         }
       ]
     },
