@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-10-29 18:27 KST",
+  "generated_at": "2026-10-29 23:37 KST",
   "period": "2026.10.22 - 2026.10.29",
-  "total_articles": 386,
+  "total_articles": 412,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 193
+      "count": 207
     },
     {
       "genre": "동시대 미술",
-      "count": 144
+      "count": 151
     },
     {
       "genre": "아방가르드 패션",
-      "count": 37
+      "count": 42
     },
     {
       "genre": "미디어 파사드·3D",
@@ -23,10 +23,16 @@
   "themes": [
     {
       "keyword": "가구 디자인",
-      "count": 13,
+      "count": 14,
       "previous_count": 7,
       "trend": "rising",
       "items": [
+        {
+          "title": "몬태나, 지속 가능한 가구 메이커 Takt 인수",
+          "url": "https://www.dezeen.com/2026/10/29/montana-takt-acquisition/",
+          "image_url": "https://static-2026.dezeen.com/uploads/2026/10/sq-montana-takt_dezeen_2364_col_0-1024x1024.jpg",
+          "source_name": "Dezeen"
+        },
         {
           "title": "Simone은 갤러리, 이벤트 공간 또는 청음실로 두 배가되는 코펜하겐 서점입니다.",
           "url": "https://www.dezeen.com/2026/10/29/simone-book-services-copenhagen/",
@@ -44,12 +50,6 @@
           "url": "https://www.architecturaldigest.com/story/at-high-point-market-designers-celebrate-a-major-theodore-alexander-milestone-with-ad",
           "image_url": "https://media.architecturaldigest.com/photos/6ae22448a28783e40ffe4f9f/master/pass/aa_AGV7845.jpeg",
           "source_name": "Architectural Digest"
-        },
-        {
-          "title": "Dezeen Showroom의 Flokk 디자인 전진 좌석 기능",
-          "url": "https://www.dezeen.com/2026/10/28/flokk-design-forward-seating-task-chairs-modular-dezeen-showroom/",
-          "image_url": "https://static-2026.dezeen.com/uploads/2026/10/Flokk-chair_dezeen_2364_col_0-1024x1024.jpg",
-          "source_name": "Dezeen"
         }
       ]
     },
@@ -87,10 +87,16 @@
     },
     {
       "keyword": "레스토랑·호스피탈리티",
-      "count": 6,
+      "count": 7,
       "previous_count": 6,
       "trend": "steady",
       "items": [
+        {
+          "title": "미미 카쿠시, 마이애미 비치에 일본의 매력을 더하다",
+          "url": "https://design-milk.com/mimi-kakushi-delano-miami-pirajean-lees/",
+          "image_url": "https://design-milk.com/images/2026/10/Pirajean-Lees-x-Mimi-Kakushi-Delano-Miami-Mimi-Kakushi-00587Robert-Reiger-e1792856834637-1500x1000.jpg",
+          "source_name": "Design Milk"
+        },
         {
           "title": "Trattoria Breda by Allen Kaufmann Architekten Flirts With Ugly and Lands Firmly on Cool.",
           "url": "https://www.yellowtrace.com.au/allen-kaufmann-architekten-trattoria-breda-berlin-orange-dining-room/",
@@ -108,12 +114,6 @@
           "url": "https://www.archdaily.com/1177056/dondoh-restaurant-costa-plus-herrera-arquitectos",
           "image_url": "https://images.adsttc.com/media/images/6130/2942/25f7/0e01/6663/f4c9/large_jpg/dondoh-julio-4.jpg?1630546310",
           "source_name": "ArchDaily"
-        },
-        {
-          "title": "FictionWorks의 이 샬롯 비스트로에서 나파 밸리와 파리의 만남",
-          "url": "https://design-milk.com/napa-bistro-charlotte-fictionworks/",
-          "image_url": "https://design-milk.com/images/2026/10/Napa-Charlotte-Napa-Bistro0679-Edit-e1792698823198-1500x1000.jpeg",
-          "source_name": "Design Milk"
         }
       ]
     },
@@ -151,10 +151,22 @@
     },
     {
       "keyword": "박물관·전시",
-      "count": 31,
+      "count": 33,
       "previous_count": 45,
       "trend": "falling",
       "items": [
+        {
+          "title": "MoMA를 위한 엡스타인 생존자의 메시지",
+          "url": "https://hyperallergic.com/an-epstein-survivors-message-for-moma/",
+          "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/10/moma1200.jpg",
+          "source_name": "Hyperallergic"
+        },
+        {
+          "title": "뷔로 올레 셰렌 (Büro Ole Scheeren) 은 한국의 구불구불한 콘크리트 갤러리를 \"전통적인 문턱 없이\" 디자인합니다.",
+          "url": "https://www.dezeen.com/2026/10/29/buro-ole-scheeren-suseong-continuum-gallery-south-korea/",
+          "image_url": "https://static-2026.dezeen.com/uploads/2026/10/buro-ole-scheeren-suseong-continuum-gallery-south-korea-sq_dezeen_2364_col_0-1024x1024.jpg",
+          "source_name": "Dezeen"
+        },
         {
           "title": "헨리 샬판트의 전설적인 뉴욕 지하철 그래피티 사진이 실물 크기로 암스테르담에 도착하다",
           "url": "https://www.creativeboom.com/news/art-is-not-a-crime/",
@@ -166,27 +178,21 @@
           "url": "https://www.dezeen.com/2026/10/29/simone-book-services-copenhagen/",
           "image_url": "https://static-2026.dezeen.com/uploads/2026/10/simone-book-services-armin-tehrani_dezeen_2364_sq_0-1024x1024.jpg",
           "source_name": "Dezeen"
-        },
-        {
-          "title": "바티칸 전시 시리즈는 인공지능보다 \"근본적으로 인간적인\" 예술을 중심으로 합니다.",
-          "url": "https://hyperallergic.com/vatican-exhibition-series-centers-fundamentally-human-art-over-ai/",
-          "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/10/ART-CUT-Broteria-Foto-2.jpg",
-          "source_name": "Hyperallergic"
-        },
-        {
-          "title": "MIAA - 이베리아 고고학 및 예술 박물관/카릴료 다 그라사 아르키텍토스",
-          "url": "https://www.archdaily.com/1187725/miaa-iberian-museum-of-archaeology-and-art-carrilho-da-graca-arquitectos",
-          "image_url": "https://images.adsttc.com/media/images/6ae0/fcee/3271/8400/01d0/f38e/large_jpg/RitaBurmester_CG_MIAA_0220_2208.jpg?1793129753",
-          "source_name": "ArchDaily"
         }
       ]
     },
     {
       "keyword": "목재 건축",
-      "count": 8,
+      "count": 9,
       "previous_count": 12,
       "trend": "falling",
       "items": [
+        {
+          "title": "몬태나, 지속 가능한 가구 메이커 Takt 인수",
+          "url": "https://www.dezeen.com/2026/10/29/montana-takt-acquisition/",
+          "image_url": "https://static-2026.dezeen.com/uploads/2026/10/sq-montana-takt_dezeen_2364_col_0-1024x1024.jpg",
+          "source_name": "Dezeen"
+        },
         {
           "title": "해로우온더힐",
           "url": "https://leibal.com/interiors/harrow-on-the-hill/",
@@ -204,12 +210,6 @@
           "url": "https://www.archdaily.com/1187143/cs3-event-and-sports-pavilion-ha-plus-ma",
           "image_url": "https://images.adsttc.com/media/images/6ad6/4dae/aadf/a000/01e3/b12f/large_jpg/HCC_Building_Exterior_12.jpg?1792429551",
           "source_name": "ArchDaily"
-        },
-        {
-          "title": "전문가에 따르면 나무 그루터기를 죽이는 방법과 마당의 건강에 중요한 이유",
-          "url": "https://www.architecturaldigest.com/story/how-to-remove-a-tree-stump",
-          "image_url": "https://media.architecturaldigest.com/photos/68af4a961eb957cb2bea714d/master/pass/GettyImages-1435890181.jpg",
-          "source_name": "Architectural Digest"
         }
       ]
     }
