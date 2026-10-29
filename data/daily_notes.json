@@ -2793,5 +2793,48 @@
   "v": 3,
   "model": "gemini-3.1-flash-lite",
   "written_at": "2026-10-29 04:11"
+ },
+ "2026-10-30": {
+  "date": "2026-10-30",
+  "headline": "현장의 거친 톱밥과 긋고 지운 얼굴의 틈새",
+  "editorial": "발사 크로세토 피아치는 건축을 고정된 결과가 아닌 재료가 흐르는 플랫폼으로 설계한다. 이러한 태도는 릭 오웬스가 고통을 미학으로 치환하는 방식이나, 젠틀 몬스터 속 인물이 자신의 어둠을 응시하는 방식과 닿아 있다. 이들은 모두 정해진 형상을 맹신하지 않고, 제작의 공정과 심리적 파괴를 통해 대상의 이면을 드러낸다. 완성된 껍데기보다 그 안의 균열과 생산의 과정이 우리를 더 깊은 곳으로 이끈다.",
+  "threads": [
+   {
+    "name": "제작의 흔적과 고통의 물리적 각인",
+    "note": "완성된 결과물보다 그것을 만드는 과정과 인물의 심리적 상태를 표면에 투영하는 방식에 주목한다.",
+    "items": [
+     {
+      "title": "발사 크로세토 피아치: 건축을 고정된 결과물이 아닌 과정의 플랫폼으로",
+      "url": "https://www.archdaily.com/1187467/constructed-fictions-inside-the-work-of-balsa-crosetto-piazzi"
+     },
+     {
+      "title": "릭 오웬스가 마주한 스파이크 퍽: 파괴와 재구성의 서사",
+      "url": "https://www.dazeddigital.com/music/article/71253/1/rick-owens-interviews-spike-fuck-evidence-2026?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=do-you-miss-heroin-rick-owens-interviews-musician-spike-fuck"
+     },
+     {
+      "title": "할리 퀸의 무질서한 매력, 스크림이 제안하는 현대적 뷰티 재해석",
+      "url": "https://www.dazeddigital.com/beauty/article/71262/1/how-to-recreate-an-easy-harley-quinn-beat-for-halloween-skreem-make-up-artist?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=how-to-recreate-an-easy-harley-quinn-beat-for-halloween"
+     }
+    ]
+   },
+   {
+    "name": "산업의 골격과 일상의 연결",
+    "note": "기존 산업 시설의 구조를 활용하여 도시의 흐름을 내부로 끌어들이는 공간 설계의 사례를 잇는다.",
+    "items": [
+     {
+      "title": "이탈리아 우디네의 옛 산업 단지를 교육과 공공의 거점으로 재생한 스파치오 빌랄타",
+      "url": "https://www.archdaily.com/1187413/spazio-villalta-artico-fracassi-plus-marco-zito"
+     },
+     {
+      "title": "메리든 시니어 스쿨 디자인 및 창의 예술 빌딩: 제작의 과정을 투영한 학습 공간",
+      "url": "https://www.archdaily.com/1187431/meriden-senior-school-design-and-creative-arts-building-architectus"
+     }
+    ]
+   }
+  ],
+  "based_on": 9,
+  "v": 3,
+  "model": "gemini-3.1-flash-lite",
+  "written_at": "2026-10-30 00:57"
  }
 }
