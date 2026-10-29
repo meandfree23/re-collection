@@ -237526,5 +237526,1329 @@
   },
   "depth_raw": 4,
   "depth_v": 2
+ },
+ "hyperallergic.com/artpowers-new-platform-helps-artists-build-financial-confidence": {
+  "title_ko": "예술가의 노동 가치를 산정하는 금융 플랫폼, 토터스(tortoise)",
+  "summary_ko": "예술가들이 겪는 불규칙한 수입과 다중 수익 구조를 지원하기 위해 아트파워(ARTPOWER)가 금융 플랫폼 토터스를 출시했다. 이 플랫폼은 유연한 예산 관리와 예술가들의 경험 및 생활 임금 데이터를 결합한 요금 계산기를 제공하여 창작자가 자신의 노동 가치를 객관적으로 책정하도록 돕는다.",
+  "lens": "창작자에게 가장 난해한 질문인 '내 작업의 가격은 얼마인가'를 데이터 기반의 투명한 지표로 치환하여 예술가의 경제적 자립을 돕는다.",
+  "why_now": "창작 노동의 가치를 개인의 직관에 의존하던 관행에서 벗어나, 동료 예술가들의 데이터를 공유하고 표준화하려는 움직임이 가시화되고 있다.",
+  "mechanism": "예술가의 불규칙한 수입을 반영한 유연한 예산 관리 시스템과 실제 예술가 1,000여 명의 데이터를 기반으로 한 요금 계산기를 통해 재무 계획을 구조화한다.",
+  "sensory": "개별 예술가의 파편화된 수입 데이터를 하나의 통합된 대시보드로 시각화하여, 막연한 불안감을 수치화된 명확함으로 전환한다.",
+  "transfer": "프로젝트 기반으로 일하는 크리에이터라면, 자신의 작업 시간과 생활 임금 데이터를 역산하여 클라이언트에게 제시할 객관적인 가격 산출 근거를 마련할 수 있다.",
+  "context": "아트파워는 예술가의 금융 자립을 위한 인프라 구축을 목표로 하며, 토터스는 그 생태계의 핵심 기둥으로 설계되었다.",
+  "findings": [],
+  "keywords": [
+   "아트파워",
+   "예술가금융",
+   "노동가치",
+   "토터스"
+  ],
+  "evidence": "Its tools are built around how artists actually work — from flexible budgeting that adapts to irregular income to a free Rate Calculator",
+  "kind": "뉴스·이슈",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "예술가의 재무적 어려움을 해결하기 위한 구체적인 도구와 플랫폼의 목적을 명확히 설명하고 있다.",
+  "v": 2,
+  "url": "https://hyperallergic.com/artpowers-new-platform-helps-artists-build-financial-confidence/",
+  "original_title": "ARTPOWER’s New Platform Helps Artists Build Financial Confidence",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 2955,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-30 04:21",
+  "research": {
+   "entities": [
+    "ARTPOWER",
+    "tortoise",
+    "Janera Solomon"
+   ],
+   "questions": [
+    "예술가의 불규칙한 수입 구조를 보완하기 위해 tortoise 플랫폼은 구체적으로 어떤 재무 관리 기능을 제공하는가?",
+    "예술가들이 자신의 노동 가치를 책정할 때 겪는 어려움을 해결하기 위해 'Artist Rate Database'와 같은 데이터 공유가 어떤 역할을 하는가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "hyperallergic.com/before-ai-there-was-the-octopus": {
+  "title_ko": "구리빛 혈액과 문어의 지능, 투오마스 라이티넨의 사이펀",
+  "summary_ko": "핀란드 예술가 투오마스 라이티넨은 뉴욕 파이오니어 웍스에서 구리의 지정학적 역사를 문어의 생물학적 특성과 연결한 전시 '사이펀'을 선보인다. 전시장은 문어 피부를 추상화한 거대 영상과 작가가 직접 제작한 유리 조형물, 이케바나 거장 고센 오츠보의 식물 설치로 구성된다. 공간 전반에는 케냐 작곡가 뇨카비 카리우키의 음향 작업이 초음파 스피커를 통해 흐른다.",
+  "lens": "중앙 집중식 뇌가 없는 문어의 지능을 구리라는 전도성 물질과 결합해, 인간 중심적 인식을 벗어난 비선형적 공간 경험을 설계한다.",
+  "why_now": "인공지능이라는 중앙 통제적 지능에 의존하는 시대에, 신체 곳곳에 분산된 문어의 감각 체계는 새로운 지각 모델을 제시한다.",
+  "mechanism": "벽면을 채운 열화상 색감의 영상과 8개의 초음파 스피커를 배치해, 관람객의 이동에 따라 소리가 나타나고 사라지는 비정형적 음향 동선을 구축한다.",
+  "sensory": "구리 혈액을 상징하는 마젠타와 호박색 영상이 공간을 압도하고, 유리관과 콩, 땅콩 등 유기적 재료가 섞인 이케바나 설치물이 차가운 기계적 투사체와 대조를 이룬다.",
+  "transfer": "공간 연출 시 특정 구역에만 소리를 전달하는 초음파 스피커를 활용해 관람객의 위치에 따라 정보가 변하는 개인화된 청각 레이어를 설계할 수 있다.",
+  "context": "전시가 열리는 파이오니어 웍스는 2012년 더스틴 옐린이 설립한 브루클린의 비영리 예술 센터로, 과학과 예술의 융합을 지향하는 공간이다. RE:COLLECTION은 과거 이곳에서 핀네건 섀넌이 시스템의 취약성을 다룬 설치 작업을 선보였음을 다룬 바 있다.",
+  "findings": [
+   {
+    "text": "파이오니어 웍스는 브루클린 레드훅에 위치한 비영리 예술 센터로 2012년 더스틴 옐린이 설립했다.",
+    "s": 1,
+    "quote": "Pioneer Works is a nonprofit cultural arts center in the Red Hook neighborhood of Brooklyn, New York City. It was founded by the artist Dustin Yellin in 2012."
+   },
+   {
+    "text": "오키나와 과학기술대학원대학교는 일본 오키나와현 온나촌에 위치한 학제 간 대학원이다.",
+    "s": 2,
+    "quote": "Okinawa Institute of Science and Technology (Japanese: 沖縄科学技術大学院大学, Hepburn: Okinawa Kagaku Gijutsu Daigakuin Daigaku; OIST) is a private, interdisciplinary graduate school located in Onna, Okinawa Prefecture, Japan."
+   }
+  ],
+  "keywords": [
+   "투오마스 라이티넨",
+   "파이오니어 웍스",
+   "비중심적 지능",
+   "이케바나",
+   "초음파 스피커"
+  ],
+  "evidence": "That conductive thread runs through the installation at Pioneer Works, where in the cavernous Main Hall, wall-scale projections of abstracted octopus skin flood the room in thermal magentas and molten ambers.",
+  "kind": "전시",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "구리, 문어, 유리, 이케바나 등 이질적인 재료를 지능의 비중심성이라는 주제 아래 논리적으로 엮어내어 공간 연출의 구체적 방법론을 제시한다.",
+  "v": 2,
+  "url": "https://hyperallergic.com/before-ai-there-was-the-octopus/",
+  "original_title": "Before AI There Was the Octopus",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 1976,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-30 04:21",
+  "research": {
+   "entities": [
+    "Tuomas Laitinen",
+    "Pioneer Works",
+    "Okinawa Institute of Science and Technology",
+    "Kosen Ohtsubo",
+    "Nyokabi Kariuki"
+   ],
+   "questions": [
+    "투오마스 라이티넨의 전시 'Siphon'에서 구리와 문어는 어떤 상징적 의미로 연결되는가?",
+    "이케바나 거장 고센 오츠보와 협업한 유리 조형물과 식물 설치 작업은 전체 전시 공간에서 어떤 역할을 하는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Pioneer Works",
+     "url": "https://en.wikipedia.org/wiki/Pioneer%20Works"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Okinawa Institute of Science and Technology",
+     "url": "https://en.wikipedia.org/wiki/Okinawa%20Institute%20of%20Science%20and%20Technology"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "멈춘 컨베이어 벨트가 드러낸 접근성의 실체: 핀네건 섀넌의 전시",
+     "url": "https://hyperallergic.com/when-the-accessibility-conveyor-belt-jams/"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3
+   ],
+   "chars": 930
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "dezeen.com/2026/10/29/get-featured-in-dezeens-digital-guide-to-miami-art-week-2026": {
+  "title_ko": "2026 마이애미 아트 위크, 디진이 제안하는 디지털 가이드와 공간 탐색",
+  "summary_ko": "영국 건축 디자인 매체 디진(Dezeen)이 2026년 11월 30일부터 12월 6일까지 열리는 마이애미 아트 위크의 디지털 가이드를 공개한다. 이 가이드는 디자인 마이애미(Design Miami)와 아트 바젤 마이애미 비치(Art Basel Miami Beach)를 포함한 주요 박람회와 전시, 쇼룸, 팝업 행사 정보를 담는다. 또한 도시 전역에 흩어진 행사들을 효율적으로 관람하도록 돕는 인터랙티브 맵을 함께 제공한다.",
+  "lens": "글로벌 매체가 구축한 디지털 가이드는 파편화된 도시 이벤트들을 하나의 데이터베이스로 묶어 관람객의 동선을 최적화하는 전략적 큐레이션이다.",
+  "why_now": "대규모 아트 페어 기간 동안 도시 전체로 확산하는 수많은 이벤트를 효율적으로 분류하고 시각화하는 데이터 기반의 가이드가 필수적이다.",
+  "mechanism": "인터랙티브 맵을 통해 마이애미 비치와 디자인 디스트릭트 등 주요 거점을 중심으로 흩어진 행사들을 위치 기반으로 시각화하여 관람 효율을 높인다.",
+  "sensory": "디지털 인터페이스를 통해 복잡한 도시의 물리적 거리감을 조절하며, 개별 행사의 성격에 따라 관람 동선을 직관적으로 재구성한다.",
+  "transfer": "공간이나 이벤트 기획 시, 방문객의 동선을 고려한 인터랙티브 맵을 도입하여 파편화된 콘텐츠를 하나의 흐름으로 연결하는 UX를 설계한다.",
+  "context": "디진은 런던에 본사를 둔 건축·디자인 매체로, 매년 세계 주요 디자인 행사를 기록하고 분석하는 가이드를 운영한다. 마이애미 아트 위크는 디자인 마이애미와 아트 바젤 등 대형 박람회가 집중되는 기간으로, 디진은 매년 이 기간에 맞춘 디지털 가이드를 발행하여 글로벌 디자인 흐름을 추적한다.",
+  "findings": [
+   {
+    "text": "디진은 런던에 본사를 두고 뉴욕과 상하이에 사무소를 운영하는 건축 및 디자인 매체다.",
+    "s": 1,
+    "quote": "Dezeen is an online architecture, interiors and design magazine based in London, with offices in Hoxton, as well as New York City and Shanghai."
+   },
+   {
+    "text": "디자인 마이애미는 2005년 부동산 개발업자 크레이그 로빈스가 설립하여 마이애미 디자인 디스트릭트를 디자인 허브로 탈바꿈시켰다.",
+    "s": 2,
+    "quote": "Design Miami/ was founded in 2005 by entrepreneur, real estate developer, and art and design collector Craig Robins. In 2000, Robins began working to transform the previously-abandoned Miami Design District into a center"
+   }
+  ],
+  "keywords": [
+   "마이애미아트위크",
+   "디진",
+   "데이터큐레이션",
+   "공간디자인",
+   "인터랙티브맵"
+  ],
+  "evidence": "The guide highlights the key events taking place in Miami from 30 November to 6 December 2026",
+  "kind": "뉴스·이슈",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "행사 참여를 독려하는 매체의 홍보성 정보로, 구체적인 기획이나 디자인적 방법론보다는 정보 제공의 성격이 강하다.",
+  "v": 2,
+  "url": "https://www.dezeen.com/2026/10/29/get-featured-in-dezeens-digital-guide-to-miami-art-week-2026/",
+  "original_title": "Get featured in Dezeen's digital guide to Miami art week 2026",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 2456,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-30 04:21",
+  "research": {
+   "entities": [
+    "Dezeen",
+    "Design Miami",
+    "Art Basel",
+    "Scope Art Show",
+    "Miami Beach Convention Center"
+   ],
+   "questions": [
+    "마이애미 아트 위크 기간 동안 개최되는 주요 디자인 및 예술 박람회들의 성격과 차이점은 무엇인가요?",
+    "Dezeen Events Guide가 제공하는 디지털 가이드와 인터랙티브 맵은 방문객들에게 어떤 실질적인 정보를 제공하나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Dezeen",
+     "url": "https://en.wikipedia.org/wiki/Dezeen"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Design Miami",
+     "url": "https://en.wikipedia.org/wiki/Design%20Miami"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "디진 어워즈 2026 마스터 심사위원단이 던진 질문",
+     "url": "https://www.dezeen.com/2026/09/24/dezeen-awards-2026-trimble-master-jury-video/"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "디진 어워드 2026 건축 부문 최종 후보 152선 공개",
+     "url": "https://www.dezeen.com/2026/09/21/dezeen-awards-2026-architecture-shortlist/"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "런던 디자인 페스티벌 2026, 기술과 공예의 교차점을 기록하다",
+     "url": "https://www.dezeen.com/2026/09/11/dezeen-dispatch-ldf-2026/"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 2277
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "hyperallergic.com/hell-takes-the-form-of-state-repression-in-1971s-the-devils": {
+  "title_ko": "국가의 폭력과 신체: 켄 러셀의 악마들 4K 복원",
+  "summary_ko": "켄 러셀 감독이 연출하고 데릭 자만이 세트 디자인을 맡은 1971년 작 영화 악마들이 4K 복원판으로 극장가에 재개봉한다. 17세기 프랑스 루덩의 수녀원 집단 광기와 성직자 처형을 통해 전체주의 국가의 통제와 세뇌를 고발한다.",
+  "lens": "국가의 폭력이 개인의 신체를 장악하고 파괴하는 과정을 거대한 연극적 미장센으로 폭로한다.",
+  "why_now": "디지털 검열과 정치적 억압이 반복되는 동시대에, 50년 전 제작된 문제작의 4K 복원은 국가 권력의 메커니즘을 다시 심문한다.",
+  "mechanism": "보티첼리의 비너스를 연상시키는 연극 무대와 성벽이 무너지는 오프닝 롱숏을 통해 개인의 자유가 국가 권력에 해체되는 과정을 공간적 대비로 시각화한다.",
+  "sensory": "불에 타 무너지는 도시의 성벽과 종교적 광기에 사로잡힌 수녀들의 왜곡된 신체 질감이 거칠고 날카롭게 스크린을 채운다.",
+  "transfer": "권력의 통제와 집단 히스테리를 연출할 때, 인물의 클로즈업 대신 거대한 건축적 구조물과 파괴되는 공간의 스케일을 대비시켜 압박감을 극대화한다.",
+  "context": "감독 켄 러셀은 이 작품을 자신의 유일한 정치 영화로 규정하며 세뇌와 국가의 통제를 다루고자 했다.",
+  "findings": [
+   {
+    "text": "켄 러셀은 더 데빌스를 자신의 유일한 정치 영화라고 불렀다.",
+    "s": 1,
+    "quote": "For myself, although I am not a political creature, I always viewed The Devils as my one political film."
+   },
+   {
+    "text": "영화는 17세기 프랑스 루덩에서 도시의 성벽을 허물어 무력화하려던 추기경과 왕의 음모를 배경으로 한다.",
+    "s": 1,
+    "quote": "According to Huxley’s The Devils of Loudun, in 17th-century France there was a crisis caused by the desire of Cardinal Richelieu, the king and their cohorts to pull down the walls of the city of Loudun."
+   },
+   {
+    "text": "데릭 자만은 화가로 훈련받은 뒤 1960년대 후반에 켄 러셀의 영화 더 데빌스의 무대 디자인에 참여했다.",
+    "s": 2,
+    "quote": "Trained originally as a painter, he moved into stage and production design in the late 1960s, including work on Ken Russell's controversial historical 1971 film The Devils"
+   }
+  ],
+  "keywords": [
+   "켄러셀",
+   "데릭자مان",
+   "더데빌스",
+   "4K복원",
+   "정치영화"
+  ],
+  "evidence": "Ken Russell’s film designed by Derek Jarman, newly released in a 4K restoration, mirrors the horrors unfolding outside our windows.",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "거장 감독의 대표작 4K 복원과 역사적 배경이 명확하며 연출적 장치가 구체적이다.",
+  "v": 2,
+  "url": "https://hyperallergic.com/hell-takes-the-form-of-state-repression-in-1971s-the-devils/",
+  "original_title": "Hell Takes the Form of State Repression in 1971’s “The Devils”",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 2751,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-30 04:21",
+  "research": {
+   "entities": [
+    "Derek Jarman",
+    "Ken Russell",
+    "The Devils",
+    "Aldous Huxley",
+    "Urbain Grandier"
+   ],
+   "questions": [
+    "영화 'The Devils'가 개봉 당시 종교계와 평단으로부터 논란을 일으켰던 구체적인 이유는 무엇인가?",
+    "켄 러셀 감독이 언급한 '국가에 의한 세뇌'라는 주제가 17세기 루덩 사건을 통해 어떻게 영화적으로 형상화되었는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "“My one political film”: Ken Russell on The Devils",
+     "url": "https://www.bfi.org.uk/sight-and-sound/interviews/my-one-political-film-ken-russell-devils?ref=hyperallergic.com"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Derek Jarman",
+     "url": "https://en.wikipedia.org/wiki/Derek%20Jarman"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Ken Russell",
+     "url": "https://en.wikipedia.org/wiki/Ken%20Russell"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "캐서린 오피가 노르웨이 북부에서 포착한 산의 초상",
+     "url": "https://elephant.art/a-norwegian-road-trip-with-catherine-opie/"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "런던 영화제의 신작 라인업과 아날로그의 물리적 결",
+     "url": "https://www.anothermag.com/design-living/17495/10-must-see-picks-at-this-years-london-film-festival-2026?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=10-must-sees-at-this-year-s-london-film-festival"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 5821
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "thisiscolossal.com/2026/10/gretchen-scherer-in-time-paintings-art-history-interiors": {
+  "title_ko": "그레첸 셰러가 그리는 예술로 가득 찬 가상의 궁전과 실내 공간",
+  "summary_ko": "그레첸 셰러는 미술관, 응접실, 궁전 등 역사적 실내 공간을 재해석한 유화 연작을 선보인다. 실제 장소에서 영감을 얻은 공간에 명화들을 살롱식으로 배치하고 밝은 색채를 더해 시각적 밀도를 높였다. 뉴욕 모냐 로웨 갤러리에서 열리는 개인전 'In Time'은 2025년 1월 9일까지 이어진다.",
+  "lens": "역사적 실내의 복잡한 레이어 위에 명화를 덧입혀, 물리적 공간의 확장을 캔버스 안에서 구현한다.",
+  "why_now": "디지털 정보의 범람 속에서 수작업의 질감과 아날로그적 밀도를 통해 예술적 몰입의 가치를 되묻는다.",
+  "mechanism": "벽면을 가득 채운 살롱식 배치와 명화들의 비현실적 병치를 통해, 정적인 실내를 시각적 정보가 팽창하는 공간으로 전환한다.",
+  "sensory": "유화 특유의 묵직한 물성과 화려한 벽지 패턴이 겹쳐지며, 고전적 건축의 스케일과 장식성이 시각적 포만감을 준다.",
+  "transfer": "공간 연출 시 특정 시대의 명화들을 밀도 높게 배치하여, 공간 자체가 하나의 거대한 콜라주이자 큐레이션이 되도록 구성한다.",
+  "context": "그레첸 셰러는 이전부터 역사적 실내 공간을 다뤄왔으며, 모냐 로웨 갤러리는 에린 마일즈와 같은 작가를 통해 현대적 고립과 도시 공간의 질감을 지속적으로 탐구해 온 곳이다.",
+  "findings": [
+   {
+    "text": "구스타프 클림트는 빈 분리파의 창립 멤버이자 아르누보 양식을 유럽에 정착시킨 인물이다.",
+    "s": 1,
+    "quote": "Gustav Klimt (14 July 1862 – 6 February 1918) was an Austrian symbolist painter and a founding member of the Vienna Secession movement. His work helped define the Art Nouveau style in Europe."
+   },
+   {
+    "text": "앙리 드 툴루즈 로트레크는 19세기 말 파리의 퇴폐적이고 연극적인 벨 에포크 문화를 화폭에 담은 포스트 인상주의 화가다.",
+    "s": 2,
+    "quote": "His immersion in the colourful and theatrical life of Paris's Belle Époque in the late 19th century allowed him to produce popular works of art from decadent affairs."
+   }
+  ],
+  "keywords": [
+   "그레첸 셰러",
+   "실내 회화",
+   "살롱식 배치",
+   "모냐 로웨 갤러리",
+   "미술사적 공간"
+  ],
+  "evidence": "Gretchen Scherer’s paintings of affluent homes, studios, and libraries appear to expand before our eyes.",
+  "kind": "전시",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "역사적 공간과 명화의 재구성을 통해 시각적 밀도를 다루는 기법이 명확하지만, 작가의 작업 세계에 대한 심층적 분석보다는 전반적인 소개에 집중한다.",
+  "v": 2,
+  "url": "https://www.thisiscolossal.com/2026/10/gretchen-scherer-in-time-paintings-art-history-interiors/",
+  "original_title": "Escape into Gretchen Scherer’s Maximalist Paintings of Palatial, Art-Filled Spaces",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 2502,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-30 04:21",
+  "research": {
+   "entities": [
+    "Gretchen Scherer",
+    "Monya Rowe Gallery",
+    "Gustav Klimt",
+    "Henri de Toulouse-Lautrec"
+   ],
+   "questions": [
+    "그레첸 셰러(Gretchen Scherer)의 작품에 등장하는 가상의 공간들은 구체적으로 어떤 역사적 장소들에서 영감을 받았는가?",
+    "모나 로우 갤러리(Monya Rowe Gallery)에서 개최된 전시 'In Time'의 주요 출품작들은 어떤 특징을 공유하는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Gustav Klimt",
+     "url": "https://en.wikipedia.org/wiki/Gustav%20Klimt"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Henri de Toulouse-Lautrec",
+     "url": "https://en.wikipedia.org/wiki/Henri%20de%20Toulouse-Lautrec"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "에린 마일즈가 포착한 붐비는 도시 속 고립과 단절",
+     "url": "https://www.thisiscolossal.com/2026/09/erin-milez-everything-the-light-touches-city-paintings/"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "뉴욕의 여름, 갤러리라는 이름의 서늘한 은신처에서 마주할 6개의 전시",
+     "url": "https://elephant.art/the-six-best-nyc-art-shows-to-escape-to-this-june/"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3
+   ],
+   "chars": 2736
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "archdaily.com/1187554/piodao-plaza-and-tourist-office-branco-delrio-arquitectos": {
+  "title_ko": "가파른 슬로프의 유일한 평지, 피오당 광장과 관광 안내소",
+  "summary_ko": "포르투갈 피오당 마을의 가파른 경사면에 자리 잡은 광장과 관광 안내소 프로젝트다. 마을 최저점에 위치해 유일하게 평평하고 장애물이 없는 라르고 코네고 마누엘 페르난데스 노게이라 광장을 정비했다. 주민과 관광객의 이동뿐만 아니라 고립된 지역의 물류 공급을 담당하는 핵심 공간이다.",
+  "lens": "오직 하나의 평평한 광장에 마을의 모든 동선과 물류를 밀어 넣어 지형의 한계를 인프라로 바꾼다.",
+  "why_now": "역사적 산지 마을의 고유한 지형적 제약을 인공적인 대형 개발 대신 최소한의 인프라 정비로 해결하는 태도가 요구되는 시점이다.",
+  "mechanism": "유일한 개방 평지라는 지형적 조건을 활용해 주민과 관광객, 물류 차량의 동선을 단일 레벨에서 교차하도록 설계했다.",
+  "sensory": "거친 점판암 건물들이 에워싼 원형 극장 같은 광장 한가운데서 무거운 돌바닥과 보행자의 발소리가 메아리친다.",
+  "transfer": "산지나 단차를 가진 공간을 연출할 때, 여러 레벨을 쪼개지 않고 유일한 평지에 동선을 집중시키는 레이아웃으로 활용한다.",
+  "context": "포르투갈의 건축가 스튜디오 브랑코-델리오 아르키텍토스(Branco-DelRio Arquitectos)가 설계했으며 면적은 1,767제곱미터다.",
+  "findings": [],
+  "keywords": [
+   "광장 건축",
+   "공공 인프라",
+   "산지 지형",
+   "포르투갈 건축",
+   "지형 설계"
+  ],
+  "evidence": "The village of Piódão, nestled on a steep slope, forms an amphitheater of schist houses traversed by steep, narrow streets, also made of schist.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "마을의 지형적 특성과 광장의 기능은 명확히 드러나나 상세한 설계 기법 서술이 부족하다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1187554/piodao-plaza-and-tourist-office-branco-delrio-arquitectos",
+  "original_title": "Piódão Plaza and Tourist Office / Branco-DelRio Arquitectos",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 1288,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-30 04:21",
+  "research": {
+   "entities": [
+    "Branco-DelRio Arquitectos",
+    "Piódão",
+    "Serra de Açor"
+   ],
+   "questions": [
+    "피오당(Piódão) 마을의 전통적인 건축 양식인 '스키스트(schist)' 건축의 특징은 무엇인가요?",
+    "Branco-DelRio Arquitectos가 이 광장 프로젝트를 통해 마을의 기존 경관과 어떻게 조화를 이루고자 했나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "브랑코-델리오의 산타 마리아 다 페이라 주택: 경사와 식생을 보존한 리노베이션",
+     "url": "https://www.archdaily.com/1187112/house-in-santa-maria-da-feira-branco-delrio-arquitectos"
+    }
+   ],
+   "used": [],
+   "chars": 282
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "archdaily.com/1024034/grey-house-adam-kane-architects": {
+  "title_ko": "단일한 회색의 확장, 애덤 케인 아키텍츠의 그레이 하우스",
+  "summary_ko": "애덤 케인 아키텍츠가 호주 데일즈포드에 완공한 250㎡ 규모의 주택이다. 내부의 모든 표면을 회색으로 통일하여 중립적이고 차분한 분위기를 조성했다. 얼룩진 회색 마감재와 구름 같은 질감의 스테인리스 스틸 요소를 조합하여 현대적인 감각을 더했다.",
+  "lens": "회색이라는 단일 색채 안에서 마감재의 질감 차이만으로 공간의 깊이를 조절하는 미니멀리즘의 정수를 보여준다.",
+  "why_now": "시각적 과잉이 일상화된 환경에서, 단일 색조를 통해 거주자의 내면 성찰을 돕는 건축적 장치가 주목받는다.",
+  "mechanism": "섬유 시멘트 패널의 불규칙한 회색 질감과 구름 무늬를 입힌 스테인리스 스틸의 반사광을 대비시켜, 단조로울 수 있는 공간에 입체감을 부여한다.",
+  "sensory": "흐린 날의 공기처럼 차분하고 건조한 회색 질감이 실내를 채우며, 금속 표면에 맺히는 빛이 공간의 경계를 모호하게 만든다.",
+  "transfer": "공간 연출 시 단색 배경을 선택할 경우, 소재의 반사율과 표면 거칠기(Cloudy finish)를 다르게 구성하여 조명 없이도 명암을 만드는 방식을 참고할 수 있다.",
+  "context": "애덤 케인 아키텍츠는 단순함과 조화라는 건축 철학을 바탕으로 재료의 물성을 극대화하는 작업을 이어오고 있다.",
+  "findings": [
+   {
+    "text": "스위스퍼얼은 유럽 최대의 섬유 시멘트 생산 업체 중 하나로, 파사드와 지붕재 등을 제조한다.",
+    "s": 1,
+    "quote": "Swisspearl is a Swiss building-materials company... one of the largest fibre cement producers in Europe."
+   }
+  ],
+  "keywords": [
+   "미니멀리즘",
+   "스테인리스스틸",
+   "섬유시멘트",
+   "회색",
+   "애덤케인"
+  ],
+  "evidence": "Grey, symbolizing neutrality and introspection, dominates every surface, creating a sense of calm and clarity.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "재료의 대비를 통한 공간 구성은 명확하나, 건축가의 구체적인 철학적 배경과 상세 도면 정보가 부족하다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1024034/grey-house-adam-kane-architects",
+  "original_title": "Grey House / Adam Kane Architects",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 1030,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-30 04:21",
+  "research": {
+   "entities": [
+    "Adam Kane Architects",
+    "Adam Kane",
+    "Focus",
+    "Swisspearl",
+    "Grey House"
+   ],
+   "questions": [
+    "Adam Kane Architects가 추구하는 미니멀리즘 건축 철학은 무엇인가요?",
+    "Grey House 프로젝트에서 사용된 스테인리스 스틸과 Swisspearl 소재가 공간의 분위기에 어떤 영향을 미치나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Swisspearl",
+     "url": "https://en.wikipedia.org/wiki/Swisspearl"
+    },
+    {
+     "n": 2,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "휴대폰 화면 속으로 들어간 자연, 단편영화 '더 스펙타클'",
+     "url": "https://www.thisiscolossal.com/2026/09/the-spectacle-short-film-new-yorker/"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "픽토플라즈마 NYC 2026: BUCK과 듀오링고가 말하는 캐릭터 스토리텔링의 전략",
+     "url": "https://www.stashmedia.tv/pictoplasma-nyc-2026-industry-focus-session-presents-buck-duolingo-sept-18/"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "건축의 도피주의: 현실의 땅과 가상의 세계 사이에서",
+     "url": "https://www.archdaily.com/1184284/escapism-in-architecture-archdailys-september-editorial-focus"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 1224
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "dezeen.com/2026/10/29/herzog-de-meuron-field-operations-ehdd-eames-institute-infinite-curiosity": {
+  "title_ko": "임스 인스티튜트, 1960년대 산업 창고를 잇는 스테인리스 스틸 브릿지",
+  "summary_ko": "캘리포니아 나바토에 위치한 임스 인스티튜트 오브 인피니트 큐리어시티(Eames Institute of Infinite Curiosity)가 마스터 플랜을 공개했다. 헤르조그 앤 드 뫼롱(Herzog & de Meuron)과 이에이치디디(EHDD)가 1965년 지어진 창고 건물을 리노베이션하며, 필드 오퍼레이션스(Field Operations)가 조경을 맡았다. 내부는 거대한 톱니 모양 지붕 아래 갤러리와 작업실을 배치하고, 이를 120피트 길이의 스테인리스 스틸 브릿지로 연결한다.",
+  "lens": "기존 산업 구조의 거친 콘크리트 베벨과 정교하게 가공된 스테인리스 스틸 브릿지를 대비시켜, 과거의 기능적 골격 위에 새로운 관람 동선을 얹어낸다.",
+  "why_now": "기존 건축물의 물리적 흔적을 보존하는 동시에, 현대적인 재료를 삽입해 공공 문화 시설로 전환하는 적응형 재사용(Adaptive Reuse)의 전형을 보여준다.",
+  "mechanism": "1960년대 창고의 톱니형 지붕과 콘크리트 구조를 노출한 채, 색을 입힌 합판과 석고, 알루미늄 창호를 덧대어 시각적 대조를 유도한다.",
+  "sensory": "폴리싱 처리된 스테인리스 스틸 브릿지의 매끄러운 금속 질감이 노출 콘크리트의 거친 물성과 대비되며, 개방형 평면 구조를 통해 빛의 깊이감을 극대화한다.",
+  "transfer": "광고나 영상 연출 시, 산업적 스케일의 공간을 가로지르는 금속 브릿지를 시점 샷으로 활용해 공간의 압도적인 규모와 현대적 개입을 동시에 강조하라.",
+  "context": "헤르조그 앤 드 뫼롱은 애머스트 칼리지 프로젝트에서 기존 콘크리트 기초 위에 매스팀버를 얹어 건물의 생애 주기를 연장하는 등, 기존 구조를 존중하는 설계를 지속해왔다. 이번 프로젝트는 임스 부부의 디자인 철학인 '실용적이고 기능적인 것에서의 아름다움'을 1960년대 창고의 리노베이션 과정에 투영한다.",
+  "findings": [
+   {
+    "text": "헤르조그 앤 드 뫼롱은 1978년 설립되어 40개국에서 600개 이상의 프로젝트를 수행했다.",
+    "s": 2,
+    "quote": "Founded in 1978 by Jacques Herzog and Pierre de Meuron, the practice's portfolio includes more than 600 projects in 40 countries."
+   },
+   {
+    "text": "찰스와 레이 임스는 현대 가구와 건축 발전에 지대한 기여를 한 산업 디자이너 부부다.",
+    "s": 3,
+    "quote": "Charles Eames Jr. and Ray-Bernice Eames, an American married couple of industrial designers, made significant historical contributions to the development of modern architecture and furniture."
+   }
+  ],
+  "keywords": [
+   "헤르조그앤드뫼롱",
+   "적응형재사용",
+   "산업건축",
+   "임스인스티튜트"
+  ],
+  "evidence": "create a dialogue between old and new",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "구체적인 건축적 장치와 재료의 대비가 명확하며, 기존 구조를 활용하는 맥락이 충분히 설명된다.",
+  "v": 2,
+  "url": "https://www.dezeen.com/2026/10/29/herzog-de-meuron-field-operations-ehdd-eames-institute-infinite-curiosity/",
+  "original_title": "Herzog & de Meuron and Field Operations release visuals of Eames Institute of Infinite Curiosity",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 4996,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-30 04:21",
+  "research": {
+   "entities": [
+    "Herzog & de Meuron",
+    "Eames Institute of Infinite Curiosity",
+    "Field Operations",
+    "Charles and Ray Eames",
+    "EHDD"
+   ],
+   "questions": [
+    "임스 부부의 디자인 철학이 이 박물관의 공간 구성과 건축적 리노베이션에 어떻게 반영되었나요?",
+    "기존의 산업용 창고 건물을 공공 문화 시설로 전환할 때 헤르조그 앤 드 뫼롱이 중점을 둔 건축적 전략은 무엇인가요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "EHDD Architecture, Interiors, Planning, SF Architects",
+     "url": "https://ehdd.com/"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Herzog & de Meuron",
+     "url": "https://en.wikipedia.org/wiki/Herzog%20%26%20de%20Meuron"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Charles and Ray Eames",
+     "url": "https://en.wikipedia.org/wiki/Charles%20and%20Ray%20Eames"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "헤르조그 앤 드 뫼롱, 애머스트 칼리지의 기존 기초 위에 쌓은 매스팀버",
+     "url": "https://www.dezeen.com/2026/09/24/herzog-de-meuron-mass-timber-massachusetts-school-amherst/"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "완공 10주년을 맞은 헤르조그 앤 드 뫼롱의 엘브필하모니",
+     "url": "https://www.wallpaper.com/architecture/elbphilharmonie-anniversary-book-germany"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "포르투갈 아탈라이아의 붉은 기하학, 엑스트라스튜디오의 카사 플라즈",
+     "url": "https://www.ignant.com/2025/08/25/time-softens-at-extrastudios-casa-plaj-a-coastal-retreat-in-portugal/"
+    }
+   ],
+   "used": [
+    2,
+    3,
+    4,
+    5
+   ],
+   "chars": 2248
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "archdaily.com/1187551/cottage-archicraft": {
+  "title_ko": "규제를 매스로 치환한 체코의 박공지붕 오두막",
+  "summary_ko": "체코의 건축사무소 아키크래프트가 기존 오두막을 철거하고 그 자리에 새로운 주거용 오두막을 완공했다. 현지 규정에 따라 기존 건물의 바닥면적과 박공지붕 형태를 그대로 유지하면서, 숲을 향한 면을 비우는 방식으로 매스를 구성했다.",
+  "lens": "엄격한 지역 건축 규제를 형태 조형의 유일한 도구로 전환했다.",
+  "why_now": "건축 규제가 창작의 제약이 아니라 고유한 형태를 도출하는 명확한 알고리즘이 될 수 있음을 보여준다.",
+  "mechanism": "기존 건물의 바닥면적과 지상 1층 및 주거용 다락이라는 층수 제한을 그대로 수용해 단순한 박공지붕 형태로 매스를 결정했다.",
+  "sensory": "숲에 면한 방향을 비워두어 인위적인 차단벽 없이 주변 자연 풍경이 공간 안으로 그대로 스며든다.",
+  "transfer": "규제나 제약 조건의 수치를 공간 배치의 레이아웃으로 직결시키는 콘티 구성에 적용할 수 있다.",
+  "context": "아키크래프트(Archicraft)가 체코에서 진행한 주거 건축 프로젝트다.",
+  "findings": [],
+  "keywords": [
+   "아키크래프트",
+   "체코건축",
+   "오두막",
+   "박공지붕"
+  ],
+  "evidence": "the new building had to sit on the same footprint as the original, keep to one above-ground floor plus a residential attic",
+  "kind": "프로젝트",
+  "depth": 2,
+  "grounding": "thin",
+  "depth_reason": "원문 분량이 짧고 규제에 따른 형태 변화라는 하나의 아이디어만 명확하게 확인된다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1187551/cottage-archicraft",
+  "original_title": "Cottage  / Archicraft",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 1371,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-30 04:21",
+  "research": {
+   "entities": [
+    "Archicraft",
+    "Petr Polák",
+    "Tomas Ciesla"
+   ],
+   "questions": [
+    "체코의 지역 건축 규제가 이 프로젝트의 매스킹과 형태에 어떤 영향을 미쳤는가?",
+    "기존에 있던 오락용 오뚝이(cottage) 건물의 철거와 신축 과정에서 건축가들이 가장 중요하게 고려한 디자인 요소는 무엇인가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "archdaily.com/1187149/from-atoms-to-universes-the-architecture-of-everything-in-the-age-of-ai": {
+  "title_ko": "원자에서 우주까지: AI 시대, 건축가의 설계는 어떻게 진화하는가",
+  "summary_ko": "건축가는 인공지능을 생산성 도구가 아닌 지식 시스템 설계자로 활용해야 한다. 텍스트를 예측하는 언어 모델을 넘어, 물리적 환경과 공간 역학을 학습하는 월드 모델을 통해 건축가는 설계 단계부터 환경 반응성을 시뮬레이션한다. 마드리드 공과대학교의 마인드허브(MIAWS)는 이러한 공간 지능을 건축 실무에 통합하는 교육 과정을 운영한다.",
+  "lens": "건축가는 이제 형태를 만드는 저자에서 물리적 환경의 인과관계를 예측하고 조정하는 지식 시스템의 설계자로 이동한다.",
+  "why_now": "대규모 언어 모델의 통계적 확률을 넘어, 물리 법칙과 공간 역학을 이해하는 월드 모델이 건축 시뮬레이션의 핵심으로 떠올랐다.",
+  "mechanism": "열 확산, 습도, 풍향, 인구 흐름 등 물리적 변수를 데이터로 입력하여 설계안이 환경에 어떻게 반응하는지 실시간 피드백을 구축한다.",
+  "sensory": "형태의 미학보다 빛과 바람, 중력과 같은 보이지 않는 물리적 힘이 공간의 질감을 결정하고 변화시키는 과정을 시각화한다.",
+  "transfer": "콘티 작업 시 공간의 물리적 변화를 단순 연출이 아닌 데이터 기반 시뮬레이션으로 접근하여, 빛의 궤적과 공기 흐름을 반영한 동선을 설계한다.",
+  "context": "마드리드 공과대학교의 마인드허브는 건축 실무자가 AI를 설계 전 과정에 통합하도록 돕는 대학원 과정이다. 페이페이 리(Fei-Fei Li)가 강조한 공간 지능을 건축 영역에서 구체화하며, 도구 사용법이 아닌 설계 프로세스 단계별 적용을 다룬다.",
+  "findings": [
+   {
+    "text": "마인드허브는 도구가 아닌 설계 프로세스의 단계별 구조에 기반한 AI 건축 교육 프로그램을 제공한다.",
+    "s": 1,
+    "quote": "MIAWS: a postgraduate program structured by phases of the design process, not by tools."
+   }
+  ],
+  "keywords": [
+   "공간지능",
+   "월드모델",
+   "건축시뮬레이션",
+   "디지털건축"
+  ],
+  "evidence": "A model of text cannot anticipate how physical and social reality responds to a project, while a model of space enables simulating scenarios.",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "건축과 AI의 기술적 차이를 명확히 구분하고 실무 교육 프로그램까지 구체적으로 연결하여 분석했다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1187149/from-atoms-to-universes-the-architecture-of-everything-in-the-age-of-ai",
+  "original_title": "From Atoms to Universes: The Architecture of Everything in the Age of AI",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 4333,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-30 04:21",
+  "research": {
+   "entities": [
+    "Jean-Fran&ccedil;ois Lyotard",
+    "Fei-Fei Li",
+    "Mindhub for Intelligent Artificial Worlds"
+   ],
+   "questions": [
+    "건축 분야에서 대규모 언어 모델(LLM)과 월드 모델(World Models)의 결정적인 차이점은 무엇인가?",
+    "공간 지능(Spatial Intelligence)을 갖춘 인공지능이 건축가의 역할과 디자인 프로세스를 어떻게 변화시키는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "MIAWS — Postgraduate AI for Architecture",
+     "url": "https://miaws.com/?utm_medium=website&utm_source=archdaily.com"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "MIAWS — Postgraduate AI for Architecture",
+     "url": "https://miaws.com/foundations?utm_medium=website&utm_source=archdaily.com"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Fei-Fei Li",
+     "url": "https://en.wikipedia.org/wiki/Fei-Fei%20Li"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3
+   ],
+   "chars": 6600
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "architecturaldigest.com/story/where-does-christine-baranski-live-heres-the-gilded-age-stars-real-estate-portfolio": {
+  "title_ko": "크리스틴 바란스키의 거주지: 18세기 농가와 맨해튼 듀플렉스의 이중주",
+  "summary_ko": "배우 크리스틴 바란스키는 코네티컷주 리치필드 카운티의 18세기 농가에 뿌리를 두고, 맨해튼 어퍼 이스트 사이드에 듀플렉스 아파트를 소유하며 도시와 자연을 오가는 삶을 산다. 그녀는 1920년대 건축물인 맨해튼 자택을 업그레이드하며 개인적인 취향을 반영한 공간을 구축했고, 동시에 지역 환경 단체인 하우사토닉 밸리 협회 이사로 활동하며 거주지와의 깊은 유대를 유지한다.",
+  "lens": "고전적 건축의 뼈대를 보존하면서도 현대적 필요에 맞춰 내부를 재구성하는 바란스키의 주거 선택은, 연기자로서의 효율성과 개인적 정체성을 동시에 확보하는 전략적 공간 운용이다.",
+  "why_now": "도시의 파이드 아 테르와 근교의 영구 거주지를 병행하는 방식은, 일과 삶의 물리적·심리적 분리를 원하는 창작자들에게 유효한 주거 모델을 제시한다.",
+  "mechanism": "1920년대 아파트의 아치형 출입구와 벽난로 등 건축적 원형을 유지하되, 기존의 좁은 주방을 확장하고 층별로 공용과 사적 영역을 엄격히 구분하는 평면 구성을 취한다.",
+  "sensory": "100년 된 호숫가 선착장의 물비린내와 여름날의 고요한 저녁, 그리고 맨해튼 듀플렉스의 묵직한 하드우드 바닥재가 주는 안정적인 촉각이 대비를 이룬다.",
+  "transfer": "공간의 역사성을 살리기 위해 기존의 아치형 문틀과 벽난로 위치를 유지하고, 층간 계단을 중심으로 동선을 분리하여 공적·사적 영역의 밀도를 조절하는 콘티를 구성한다.",
+  "context": "크리스틴 바란스키는 드라마 '길디드 에이지'에서 19세기 뉴욕 상류층 아그네스 반 라인 역을 맡아 시대극의 전형을 보여주었으며, 실제 거주지 또한 유서 깊은 건축물에 대한 선호를 드러낸다. 이는 1980년대부터 이어진 코네티컷 정착 생활과 맨해튼의 도시적 삶을 잇는 그녀만의 독특한 라이프스타일 계보를 형성한다.",
+  "findings": [
+   {
+    "text": "크리스틴 바란스키는 드라마 '길디드 에이지'에서 아그네스 반 라인 역을 맡아 에미상 후보에 올랐다.",
+    "s": 1,
+    "quote": "Baranski is also known for her roles as Diane Lockhart in the legal drama series The Good Wife (2009–2016) and its spin-off series The Good Fight (2017–2022), and as Agnes van Rhijn in the period drama series The Gilded "
+   }
+  ],
+  "keywords": [
+   "주거 공간",
+   "리치필드 카운티",
+   "어퍼 이스트 사이드",
+   "건축적 원형"
+  ],
+  "evidence": "Baranski remains deeply rooted in his hometown. The Mamma Mia! star is so entrenched in the community that she became active in the Housatonic Valley Association",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "배우의 부동산 포트폴리오를 통해 공간 선택의 맥락과 주거 철학을 구체적으로 설명했으나, 건축적 실험보다는 개인의 라이프스타일 기록에 가깝다.",
+  "v": 2,
+  "url": "https://www.architecturaldigest.com/story/where-does-christine-baranski-live-heres-the-gilded-age-stars-real-estate-portfolio",
+  "original_title": "Where Does Christine Baranski Live? Exploring the Gilded Age Star’s Real Estate Portfolio",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 6129,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-30 04:21",
+  "research": {
+   "entities": [
+    "Christine Baranski",
+    "The Gilded Age",
+    "Matthew Cowles",
+    "Housatonic Valley Association",
+    "The Good Wife"
+   ],
+   "questions": [
+    "크리스틴 바란스키가 리치필드 카운티의 지역 사회 활동에 참여하게 된 계기와 그 의미는 무엇인가?",
+    "배우의 주거지 선택이 그녀의 연기 경력과 개인적인 삶의 균형에 어떤 영향을 미쳤는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Christine Baranski",
+     "url": "https://en.wikipedia.org/wiki/Christine%20Baranski"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "The Gilded Age (TV series)",
+     "url": "https://en.wikipedia.org/wiki/The%20Gilded%20Age%20%28TV%20series%29"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 2166
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "design-milk.com/west-coast-modern-architecture": {
+  "title_ko": "해안 절벽에 층층이 안착한 브리티시컬럼비아의 모더니즘 주택",
+  "summary_ko": "캐나다 빅토리아의 샐리시해를 조망하는 절벽에 건축 사무소 보폼과 인테리어 스튜디오 비드굿이 400제곱미터 규모의 3개 층 주택을 완성했다. 노출 보와 벽돌, 테라조 등의 물성을 통해 세기 중반의 온화한 감성을 거친 해안 환경에 맞춰 풀어냈다.",
+  "lens": "거친 해안의 자연광을 따뜻한 벽돌과 목재로 받아내며 세기 중반의 모더니즘을 재해석한다.",
+  "why_now": "실내외의 경계를 허물고 지역의 지형 조건에 밀착하는 주거 공간 설계가 주목받는 동시대적 흐름을 보여준다.",
+  "mechanism": "건물 주변을 감싼 대형 유리창을 통해 외부 풍경을 실내로 끌어들이고, 경사지를 따라 3개 층을 계단식으로 배치해 공간의 독립성을 확보했다.",
+  "sensory": "밝은 톤의 벽돌과 테라조, 석재, 목재가 어우러져 차가운 해풍이 감도는 절벽 위에서 시각적이고 촉각적인 온기를 만든다.",
+  "transfer": "거친 자연을 배경으로 한 공간 연출 시, 창가 벤치와 벽난로를 동일한 벽돌 마감으로 이어 붙여 시선과 동선의 연속성을 만드는 기법으로 차용할 수 있다.",
+  "context": "캐나다 빅토리아를 기반으로 활동하는 인테리어 스튜디오 비드굿은 지역의 자연적 맥락을 반영하며 질감과 풍부한 재료를 다루는 작업으로 알려져 있다.",
+  "findings": [
+   {
+    "text": "비드굿은 캐나다 서해안에 위치한 빅토리아에 거점을 둔 인테리어 디자인 스튜디오다.",
+    "s": 1,
+    "quote": "We are an award-winning interior design studio based in Victoria British Columbia on the West Coast of Canada."
+   }
+  ],
+  "keywords": [
+   "모더니즘",
+   "해안주택",
+   "인테리어",
+   "재료",
+   "공간설계"
+  ],
+  "evidence": "BoForm and Bidgood bring mid-century warmth to a cliffside home on the Salish Sea",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "구체적인 해안가 주택 프로젝트의 공간 구성과 재료 사용을 충실히 다루나 전형적인 건축 소개에 가깝다.",
+  "v": 2,
+  "url": "https://design-milk.com/west-coast-modern-architecture/",
+  "original_title": "A Modernist Home in British Columbia Embraces Its Coastal Setting",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 4853,
+  "fetch": "ok",
+  "cliche_hits": [
+   "경계를 허"
+  ],
+  "read_at": "2026-10-30 04:21",
+  "research": {
+   "entities": [
+    "BoForm",
+    "Bidgood"
+   ],
+   "questions": [
+    "브리티시 컬럼비아 지역의 웨스트 코스트 모더니즘 건축이 캘리포니아 모더니즘과 구별되는 주요 특징은 무엇인가요?",
+    "경사지에 위치한 주택에서 실내외 공간의 경계를 허물기 위해 건축가와 인테리어 디자이너가 주로 사용하는 설계 전략은 무엇인가요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Interior Design Studio - Bidgood",
+     "url": "https://www.bidgood.co/"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 385
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "itsnicethat.com/articles/air-has-built-an-ai-agent-for-creative-tasks-creative-industry-sponsored-content-291026": {
+  "title_ko": "창작의 잡무를 자동화하는 에이전트, 에어(Air)의 크리에이티브 워크플로우",
+  "summary_ko": "에어(Air)가 크리에이티브 팀의 반복적인 자산 관리 업무를 자동화하는 AI 에이전트를 출시했다. 이 도구는 파일 태깅, 리사이징, 버전 관리 등 창작자가 작업 시간의 20%를 낭비하게 만드는 운영 업무를 대신 수행한다. 창작자가 본연의 기획과 의사결정에 집중할 수 있도록 돕는 것이 핵심이다.",
+  "lens": "창작자가 도구와 씨름하는 시간을 줄이고, 오직 '무엇을 만들 것인가'라는 인간 고유의 의사결정에 집중하게 만드는 운영 자동화 에이전트다.",
+  "why_now": "생성형 AI가 창작의 결과물을 대체하려 할 때, 오히려 창작의 물리적·운영적 장애물을 제거해 인간의 창의성을 보호하겠다는 역발상적 접근이 주목받는다.",
+  "mechanism": "사용자가 이미 구축한 자산 라이브러리의 맥락을 학습한 AI가 대화형 명령을 통해 수천 개의 에셋을 일괄 편집하고, 캠페인에 필요한 다양한 포맷으로 변환하며, 워크플로우를 체계화한다.",
+  "sensory": "복잡한 폴더 구조와 수동 리사이징 작업이 사라진 정돈된 디지털 워크스페이스, 그리고 수십 년 된 아카이브에서 원하는 클립을 즉시 호출하는 매끄러운 검색 경험을 제공한다.",
+  "transfer": "영상 감독이나 크리에이티브 디렉터는 반복적인 리사이징과 버전 관리 업무를 AI에 위임하고, 확보된 시간을 콘티의 미세한 톤앤매너 조정이나 시각적 서사 구성에 투입할 수 있다.",
+  "context": "에어는 8년간 크리에이티브 현장의 작업 방식을 관찰하며 운영 플랫폼을 구축해 왔다. 이전 프로젝트인 'A View on AI(r)'를 통해 창작자들이 반복 업무에 느끼는 피로감을 기록했으며, 이번 에이전트 업데이트는 그 연장선에서 실무 효율을 극대화하려는 시도다.",
+  "findings": [
+   {
+    "text": "에어의 에이전트는 50개 이상의 AI 모델을 통합하여 사용자가 별도의 구독 없이도 창작물을 다양한 채널에 맞춰 변환할 수 있게 한다.",
+    "s": 3,
+    "quote": "Access 50+ models without extra subscriptions. Use them in Air Canvas to multiply your creative across every channel."
+   }
+  ],
+  "keywords": [
+   "크리에이티브 오퍼레이션",
+   "워크플로우 자동화",
+   "에어(Air)",
+   "디지털 자산 관리",
+   "생성형 AI"
+  ],
+  "evidence": "Air is less interested in AI that one-shots the creative work that you love, and more interested in AI that can do all of the work that you hate.",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "창작자의 실제 고충인 '운영 업무'에 집중하여 AI의 역할을 명확히 정의했고, 구체적인 기술적 적용 범위가 확인되기 때문이다.",
+  "v": 2,
+  "url": "https://www.itsnicethat.com/articles/air-has-built-an-ai-agent-for-creative-tasks-creative-industry-sponsored-content-291026",
+  "original_title": "Air has built an agent for creative tasks – creative teams are paying attention",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 6390,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-30 04:21",
+  "research": {
+   "entities": [
+    "Air",
+    "Shane Hegde",
+    "Tyler Strand",
+    "PM1"
+   ],
+   "questions": [
+    "Air가 제공하는 AI 에이전트가 기존의 생성형 AI 도구들과 차별화되는 핵심 기능은 무엇인가요?",
+    "창작자들이 자산 관리 및 운영 업무에 겪는 비효율성을 해결하기 위해 Air는 어떤 기술적 접근 방식을 취하고 있나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "A View on AI(r) ",
+     "url": "https://air.inc/a-view-on-air"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Your agent for creative tasks.",
+     "url": "https://air.inc/agent?utm_source=itsnicethat&utm_medium=paid_newsletter&utm_campaign=agent_for_creative_tasks&utm_adset=&utm_content="
+    },
+    {
+     "n": 3,
+     "type": "공식·1차",
+     "title": "Air | Your agent for creative tasks",
+     "url": "https://air.inc/?utm_source=itsnicethat&utm_medium=partner&utm_campaign=march_release&utm_content=beautifully_illogical"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3
+   ],
+   "chars": 6023
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "architecturaldigest.com/story/neworleans-whit-hotel-design": {
+  "title_ko": "시간의 결을 겹쳐 세운 뉴올리언스의 고딕 호텔, 더 휫",
+  "summary_ko": "뉴올리언스 가든 디스트릭트에 위치한 1857년 준공된 그리스 리바이벌 양식의 저택이 로컬 디자인 스튜디오 로건 킬렌의 손을 거쳐 부티크 호텔 '더 휫'으로 재탄생했다. 오랜 세월 쌓인 역사적 층위를 보존하면서 맞춤형 격자 카펫과 피에르 프레이 벽지로 공간마다 서로 다른 서사를 부여했다.",
+  "lens": "가짜 역사를 덧칠하는 대신 서로 다른 시대의 가구와 질감을 병치해 공간에 겹겹이 쌓인 시간을 드러낸다.",
+  "why_now": "과거의 서사를 일률적으로 지우던 방식에서 벗어나, 공간이 품어온 이질적인 시간의 층위를 감각적인 재료로 복원하는 리노베이션 문법이 주목받고 있다.",
+  "mechanism": "낮에는 청명하고 밤에는 온화한 파란색 페인트와 맞춤형 격자 카펫을 겹쳐 넓은 라운지 공간에 밀도를 더했다.",
+  "sensory": "마호가니 패널로 마감된 도서관과 광택 있는 옥혈색 벽의 가든 룸이 어두우면서도 깊은 질감의 시각적 대비를 이룬다.",
+  "transfer": "공간의 역사적 제약을 극복하기 위해 가짜 고증 대신 아르데코 같은 명확한 스타일을 선택하는 연출 전략을 세트에 적용한다.",
+  "context": "미국 시인 월트 휘트먼의 이름에서 영감을 받은 호텔은 1857년 지어진 유서 깊은 저택의 골격을 유지하며 지역의 독립 서점과 아티스트들의 작품을 공간에 담아냈다.",
+  "findings": [
+   {
+    "text": "1857년 그리스 리바이벌 저택은 면화 상인 알렉산더 해리스가 아내 리지를 위해 지었으며 이후 황열병으로 사망한 장소다.",
+    "s": 1,
+    "quote": "The Greek Revival mansion was built in 1857 by James Calrow and owned by Alexander Harris, a very prominent Sephardic Jew that lived in New Orleans. He had the house built for his wife Lizzie."
+   },
+   {
+    "text": "프랑스 인테리어 브랜드 피에르 프레이는 1935년에 설립되어 전통적인 프랑스 패브릭과 벽지를 제작해 온 가족 기업이다.",
+    "s": 3,
+    "quote": "Pierre Frey SA is a French interior design company founded in 1935 by designer Pierre Frey. The family-owned company designs and manufactures traditional French fabrics, wallpapers, carpets, rugs and furniture."
+   }
+  ],
+  "keywords": [
+   "공간 디자인",
+   "호텔 리노베이션",
+   "뉴올리언스",
+   "인테리어",
+   "물성"
+  ],
+  "evidence": "The Greek Revival mansion that sits at the corner of Prytania Street and Jackson Avenue in New Orleans’s Garden District wouldn’t know “dull” if it came up and rang the doorbell.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "역사적 저택의 흥미로운 서사와 구체적인 디자인 전략을 담았으나 전형적인 호텔 리노베이션 프로젝트의 범위를 넘지 않는다.",
+  "v": 2,
+  "url": "https://www.architecturaldigest.com/story/neworleans-whit-hotel-design",
+  "original_title": "How This New Orleans Hotel Went From Former Haunted House  to Chic Destination",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 4215,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-30 04:21",
+  "research": {
+   "entities": [
+    "The Whit",
+    "Logan Killen",
+    "Walt Whitman",
+    "Pierre Frey",
+    "Faulkner House Books"
+   ],
+   "questions": [
+    "뉴올리언스의 역사적인 저택을 호텔로 리모델링할 때 준수해야 하는 역사적 보존 규정(Landmark rules)은 어떤 제약을 포함하는가?",
+    "Logan Killen 디자인 스튜디오가 추구하는 'polish and patina'의 미학적 특징과 이를 구현하기 위해 사용한 구체적인 인테리어 요소는 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Magnolia Mansion- 2127 Prytania ",
+     "url": "https://hauntedhistorytours.com/blog/magnolia-mansion-2127-prytania/"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Walt Whitman",
+     "url": "https://en.wikipedia.org/wiki/Walt%20Whitman"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Pierre Frey",
+     "url": "https://en.wikipedia.org/wiki/Pierre%20Frey"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "슬론 스퀘어에 상륙한 파인딩 브라세리, 브라세리 올리비아",
+     "url": "https://www.wallpaper.com/travel/restaurants/brasserie-olivia-london-review"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "시간을 겹쳐 쓰는 방식, 모스크바의 아파트 리빙 룸",
+     "url": "https://leibal.com/interiors/living-room/"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "취향의 타협점, 런던 타운하우스의 핑크 천장",
+     "url": "https://www.architecturaldigest.com/story/london-town-house-leonora-hamill"
+    }
+   ],
+   "used": [
+    1,
+    3
+   ],
+   "chars": 4887
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "wallpaper.com/fashion-beauty/ten-c-comoli-collaboration": {
+  "title_ko": "테크니컬 웨어와 천연 섬유의 조우, 텐씨와 코모리의 캡슐 컬렉션",
+  "summary_ko": "테크니컬 웨어 브랜드 텐씨(Ten c)가 일본 브랜드 코모리(Comoli)와 협업한 8종의 캡슐 컬렉션을 공개했다. 텐씨의 시그니처 소재인 OJJ(Original Japanese Jersey)와 코모리가 즐겨 사용하는 천연 섬유인 울 플란넬을 결합해 질감의 대비를 강조했다. 모든 제품은 블랙 색상을 기반으로 하며, 리버시블 구조를 통해 안팎의 물성 차이를 드러낸다.",
+  "lens": "기능적 테크니컬 웨어와 일상적 천연 섬유를 한 벌의 옷 안에 배치해, 오직 질감의 차이만으로 구조를 정의하는 정교한 설계다.",
+  "why_now": "유행을 좇는 대신 착용자의 신체에 맞춰 변형되는 옷의 본질에 집중하는 태도가 다시금 주목받는 시점이다.",
+  "mechanism": "텐씨의 고밀도 OJJ와 코모리의 부드러운 플란넬을 리버시블 구조로 결합해, 뒤집을 때마다 달라지는 촉감과 빛 반사율로 의복의 내외부를 구분한다.",
+  "sensory": "단단하고 거친 OJJ의 기계적인 질감과 울 플란넬의 포근하고 깊은 블랙 색감이 시각적, 촉각적 대비를 이룬다.",
+  "transfer": "광고 촬영 시 조명을 낮게 설정해 옷감의 질감 차이를 극대화하고, 모델의 움직임에 따라 뒤집히는 안감의 물성이 드러나도록 클로즈업 샷을 활용하라.",
+  "context": "텐씨는 스톤 아일랜드와 C.P. 컴퍼니 출신 디자이너들이 설립한 브랜드로, 군용 의류의 모듈형 구조와 고기능성 소재를 계승한다. 코모리의 디자이너 코모리 케이지로는 장식을 배제하고 일상 속에서 자연스럽게 길들여지는 옷을 지향하며, 이번 협업은 두 브랜드가 공유하는 '의도된 디자인'이라는 가치를 바탕으로 이루어졌다.",
+  "findings": [
+   {
+    "text": "텐씨와 코모리의 협업 컬렉션은 2026년 10월 23일 도쿄에서 처음 공개되었다.",
+    "s": 1,
+    "quote": "Ten c x COMOLI. A first collaboration, eight pieces in black. Tokyo, 23 October 2026."
+   }
+  ],
+  "keywords": [
+   "텐씨",
+   "코모리",
+   "OJJ",
+   "테크니컬웨어",
+   "리버시블"
+  ],
+  "evidence": "juxtaposition of textures is instead used to define the interior and exteriors of garments.",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "두 브랜드의 철학적 공통점과 소재의 물성 대비를 구체적으로 분석하여 실무적 적용점을 제시했다.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/fashion-beauty/ten-c-comoli-collaboration",
+  "original_title": "Ten c’s capsule collection with cult Japanese label Comoli is made for fabric obsessives",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 3743,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-30 04:21",
+  "research": {
+   "entities": [
+    "Ten c",
+    "Comoli",
+    "Alessandro Pungetti",
+    "C.P. Company",
+    "Stone Island"
+   ],
+   "questions": [
+    "Ten c의 시그니처 소재인 OJJ(Original Japanese Jersey)는 어떤 특징을 가지고 있는가?",
+    "일본 브랜드 Comoli의 디자이너 코모리 케이지로가 추구하는 디자인 철학은 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Ten c’s online store",
+     "url": "https://www.tenc.com/"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "C.P. Company",
+     "url": "https://en.wikipedia.org/wiki/C.P.%20Company"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Stone Island",
+     "url": "https://en.wikipedia.org/wiki/Stone%20Island"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "농촌의 독립적 정신을 기록하다: 샐리 카이트의 '코인 포 스케일'",
+     "url": "https://www.dazeddigital.com/fashion/article/71041/1/designer-sally-kite-is-making-a-case-for-west-country-fashion?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=designer-sally-kite-is-making-a-case-for-west-country-fashion"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "스톤 아일랜드의 살아있는 아카이브, 윌로 페론이 설계한 런던 셀프리지 팝업",
+     "url": "https://www.wallpaper.com/fashion-beauty/fashion-beauty-events/stone-island-selfridges-corner-shop-willo-perron"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "찰튼 헤스턴의 주거 연대기: 뉴욕의 작은 단칸방에서 베벌리힐스의 요새까지",
+     "url": "https://www.architecturaldigest.com/story/charlton-heston-at-home-photos"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 3567
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "dazeddigital.com/beauty/article/61197/1/watch-halloween-scary-fairy-make-up-tutorial-by-vlad-von-kitsch": {
+  "title_ko": "공포와 요정의 결합: 블라드 폰 키치의 고어레스크 메이크업 튜토리얼",
+  "summary_ko": "드래그 아티스트이자 메이크업 아티스트인 블라드 폰 키치가 공포 영화와 드래그 문화를 결합한 고어레스크 스타일의 요정 할로윈 메이크업을 선보인다. 메론 클라운 화이트와 그리마스 크림 메이크업으로 만든 에메랄드빛 베이스 위에 뺨에 여분의 눈을 그려 넣고 균열을 모사한 입술 분장으로 마무리한다.",
+  "lens": "클래식한 요정의 외형에 인조 피부와 찢어진 입술의 질감을 겹쳐 익숙한 도상을 기괴하게 비튼다.",
+  "why_now": "고유한 하위문화의 문법을 대중적인 할로윈 코스튬 영역으로 확장하며 디지털 튜토리얼 형식을 통해 시각적 충격을 전달한다.",
+  "mechanism": "잉글롯 젤 라이너에 두랄린을 섞어 점성과 지속력을 높인 뒤, 입술 주변으로 나뭇가지가 갈라지는 형태의 검은 선을 방사형으로 뻗어 나가게 그려 균열의 착시를 만든다.",
+  "sensory": "메론 클라운 화이트가 주는 무광의 완벽한 백색 베이스와 짙은 에메랄드빛 그림자가 대조를 이루며 기묘한 입체감을 자아낸다.",
+  "transfer": "인물의 얼굴에 실제 균열이나 나뭇가지 모양의 라인을 방사형으로 그려 넣어 그로테스크한 질감을 연출하는 뷰티 숏 콘티에 활용한다.",
+  "context": "드래그 아티스트 블라드 폰 키치는 호러 영화와 얼터너티브 음악에 대한 깊은 관심을 바탕으로 공포와 화려함을 오가는 독자적인 고어레스크 뷰티 스타일을 구축해 왔다.",
+  "findings": [
+   {
+    "text": "메론의 클라운 화이트는 뛰어난 커버력과 매트한 마감으로 유명하다.",
+    "s": 1,
+    "quote": "Mehron’s Clown White is the top choice for professional clowns and mimes, known for its exceptional quality and coverage. This super smooth white cream makeup provides ultra-opaque coverage without dryness or cracking"
+   },
+   {
+    "text": "잉글롯 코스메틱스는 폴란드 프셰미실에 본사를 둔 화장품 기업이다.",
+    "s": 2,
+    "quote": "Inglot Cosmetics is a Polish cosmetics company headquartered in Przemyśl, south-eastern Poland, specializing in the manufacturing of make-up products."
+   }
+  ],
+  "keywords": [
+   "고어레스크",
+   "드래그아트",
+   "할로윈메이크업",
+   "특수분장"
+  ],
+  "evidence": "The drag artist and MUA is known for their signature ‘gorelesque’ style and beauty looks that combine his deep passion for horror movies, drag and alternative music.",
+  "kind": "영상·필름",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "구체적인 메이크업 단계와 제품 활용법이 담긴 튜토리얼 기사이나 형식상 일회성 행사 소개에 가깝다.",
+  "v": 2,
+  "url": "https://www.dazeddigital.com/beauty/article/61197/1/watch-halloween-scary-fairy-make-up-tutorial-by-vlad-von-kitsch?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=scary-fairy-tutorial-learn-how-to-do-gorelesque-halloween-make-up",
+  "original_title": "Scary fairy tutorial: Learn how to do ‘gorelesque’ Halloween make-up",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 3288,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-30 04:21",
+  "research": {
+   "entities": [
+    "Vlad Von Kitsch",
+    "Mehron",
+    "Grimas",
+    "Inglot Cosmetics"
+   ],
+   "questions": [
+    "고어레스크(Gorelesque) 스타일은 어떤 미학적 특징을 가지고 있으며, 드래그 문화와 어떻게 결합되는가?",
+    "할로윈 메이크업에서 특수 분장 기법을 활용해 일상적인 캐릭터를 기괴하게 재해석하는 방식은 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Clown White",
+     "url": "https://www.mehron.com/clown-white/"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Inglot Cosmetics",
+     "url": "https://en.wikipedia.org/wiki/Inglot%20Cosmetics"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 1328
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "wallpaper.com/design-interiors/corporate-design-branding/los-angeles-hopes-the-stars-will-align-for-their-third-shot-at-olympic-glory-in-2028": {
+  "title_ko": "LA28 올림픽, 도시의 파편을 잇는 다이내믹 엠블럼과 13개의 블룸",
+  "summary_ko": "2028년 로스앤젤레스 하계 올림픽이 'Stars Align'을 슬로건으로 내세우며 새로운 브랜드 아이덴티티를 공개했다. 남부 캘리포니아의 사막 슈퍼블룸에서 영감을 얻은 13개의 패턴과 도시의 타이포그래피를 반영한 4개의 서체를 결합했다. 올림픽 역사상 처음으로 'A'를 지속적으로 변화시키는 다이내믹 엠블럼을 도입해 다양성을 시각화했다.",
+  "lens": "고정된 로고 대신 도시의 풍경을 끊임없이 순환시키는 다이내믹 엠블럼으로 거대 도시의 복잡성을 브랜드의 핵심 동력으로 치환한다.",
+  "why_now": "단일한 상징으로 정체성을 강요하던 과거 올림픽 브랜딩과 달리, 파편화된 도시의 개별 서사를 포용하는 가변적 디자인이 요구되는 시점이다.",
+  "mechanism": "L, 2, 8은 고정된 서체로 유지하고 A만 도시의 그래픽 요소로 교체하는 순환 구조를 통해 로고의 확장성을 확보한다.",
+  "sensory": "사막의 꽃이 일제히 피어나는 슈퍼블룸의 강렬한 색채와 길거리 간판에서 추출한 거친 질감의 서체가 대비를 이룬다.",
+  "transfer": "고정된 로고 대신 브랜드의 핵심 문자를 변수로 두고, 그 자리에 도시의 다양한 텍스처나 데이터를 투영하는 모션 그래픽 시스템을 구축한다.",
+  "context": "로스앤젤레스는 1932년과 1984년에 이어 세 번째로 올림픽을 개최하며, 런던과 파리에 이어 세 번째로 세 번 이상 올림픽을 치르는 도시가 된다.",
+  "findings": [
+   {
+    "text": "로스앤젤레스는 1932년과 1984년에 이어 올림픽을 세 번 개최하는 세 번째 도시가 된다.",
+    "s": 2,
+    "quote": "Los Angeles has previously hosted the Summer Olympics in 1932 and 1984, and will become the third three-time host city after London (1908, 1948, 2012) and Paris (1900, 1924, 2024)"
+   }
+  ],
+  "keywords": [
+   "LA28",
+   "다이내믹엠블럼",
+   "슈퍼블룸",
+   "타이포그래피",
+   "도시브랜딩"
+  ],
+  "evidence": "For the first time, the LA28 Olympic emblem emblem will be a dynamic one, cycling through the first dynamic Olympic emblem",
+  "kind": "브랜드·캠페인",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "올림픽 브랜딩의 역사적 맥락과 구체적인 디자인 구현 방식을 다이내믹 엠블럼이라는 기술적 장치와 함께 분석했다.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/design-interiors/corporate-design-branding/los-angeles-hopes-the-stars-will-align-for-their-third-shot-at-olympic-glory-in-2028",
+  "original_title": "Los Angeles hopes the stars will align for their third shot at Olympic glory in 2028",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 3433,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-30 04:21",
+  "research": {
+   "entities": [
+    "LA28",
+    "Joachim Roncin",
+    "Ric Edwards",
+    "Alex Merchán",
+    "Red Hot Chili Peppers"
+   ],
+   "questions": [
+    "LA28의 브랜드 아이덴티티를 구성하는 13개의 '블룸(blooms)' 패턴과 그 속에 담긴 지역적 의미는 무엇인가?",
+    "LA28이 올림픽 역사상 최초로 도입한 다이내믹 엠블럼의 디자인적 특징과 그 의도는 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "LA 2028",
+     "url": "https://la28.org/en.html"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "2028 Summer Olympics",
+     "url": "https://en.wikipedia.org/wiki/2028%20Summer%20Olympics"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Red Hot Chili Peppers",
+     "url": "https://en.wikipedia.org/wiki/Red%20Hot%20Chili%20Peppers"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3
+   ],
+   "chars": 5034
+  },
+  "depth_raw": 4,
+  "depth_v": 2
  }
 }

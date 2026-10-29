@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-10-30 00:55 KST",
+  "generated_at": "2026-10-30 04:21 KST",
   "period": "2026.10.23 - 2026.10.30",
-  "total_articles": 344,
+  "total_articles": 361,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 167
+      "count": 176
     },
     {
       "genre": "동시대 미술",
-      "count": 128
+      "count": 135
     },
     {
       "genre": "아방가르드 패션",
-      "count": 40
+      "count": 41
     },
     {
       "genre": "미디어 파사드·3D",
@@ -107,10 +107,22 @@
     },
     {
       "keyword": "박물관·전시",
-      "count": 24,
+      "count": 26,
       "previous_count": 44,
       "trend": "falling",
       "items": [
+        {
+          "title": "Dezeen의 2026년 마이애미 미술 주간 디지털 가이드에 소개",
+          "url": "https://www.dezeen.com/2026/10/29/get-featured-in-dezeens-digital-guide-to-miami-art-week-2026/",
+          "image_url": "https://static-2026.dezeen.com/uploads/2026/10/Dezeen-Events-Guide-Miami-art-week-2026_dezeen_2364_col_1-1024x1024.jpg",
+          "source_name": "Dezeen"
+        },
+        {
+          "title": "Herzog & de Meuron and Field Operations release visuals of Eames Institute of Infinite Curiosity",
+          "url": "https://www.dezeen.com/2026/10/29/herzog-de-meuron-field-operations-ehdd-eames-institute-infinite-curiosity/",
+          "image_url": "https://static-2026.dezeen.com/uploads/2026/10/eames-institute-of-infinite-curiosity-california-herzog-de-meuron-ehdd-field-operations_dezeen_2364_sq-1-1024x1024.jpg",
+          "source_name": "Dezeen"
+        },
         {
           "title": "MoMA를 위한 엡스타인 생존자의 메시지",
           "url": "https://hyperallergic.com/an-epstein-survivors-message-for-moma/",
@@ -121,18 +133,6 @@
           "title": "뷔로 올레 셰렌 (Büro Ole Scheeren) 은 한국의 구불구불한 콘크리트 갤러리를 \"전통적인 문턱 없이\" 디자인합니다.",
           "url": "https://www.dezeen.com/2026/10/29/buro-ole-scheeren-suseong-continuum-gallery-south-korea/",
           "image_url": "https://static-2026.dezeen.com/uploads/2026/10/buro-ole-scheeren-suseong-continuum-gallery-south-korea-sq_dezeen_2364_col_0-1024x1024.jpg",
-          "source_name": "Dezeen"
-        },
-        {
-          "title": "헨리 샬판트의 전설적인 뉴욕 지하철 그래피티 사진이 실물 크기로 암스테르담에 도착하다",
-          "url": "https://www.creativeboom.com/news/art-is-not-a-crime/",
-          "image_url": "https://media.creativeboom.com/89cf7ce7-b585-46f5-96da-2be7d5ebb95b/conversions/feab9163325c2fada2ee0f13c555e4896e4144b7-medium.webp",
-          "source_name": "Creative Boom"
-        },
-        {
-          "title": "Simone은 갤러리, 이벤트 공간 또는 청음실로 두 배가되는 코펜하겐 서점입니다.",
-          "url": "https://www.dezeen.com/2026/10/29/simone-book-services-copenhagen/",
-          "image_url": "https://static-2026.dezeen.com/uploads/2026/10/simone-book-services-armin-tehrani_dezeen_2364_sq_0-1024x1024.jpg",
           "source_name": "Dezeen"
         }
       ]
@@ -204,6 +204,7 @@
   ],
   "notable_names": [
     "Dezeen Awards",
+    "Los Angeles",
     "Apple Music",
     "Tom Hegen",
     "Aston Martin",
