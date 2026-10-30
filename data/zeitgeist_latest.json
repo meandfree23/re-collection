@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-10-30 18:15 KST",
+  "generated_at": "2026-10-30 23:40 KST",
   "period": "2026.10.23 - 2026.10.30",
-  "total_articles": 385,
+  "total_articles": 411,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 190
+      "count": 203
     },
     {
       "genre": "동시대 미술",
-      "count": 144
+      "count": 151
     },
     {
       "genre": "아방가르드 패션",
-      "count": 41
+      "count": 47
     },
     {
       "genre": "미디어 파사드·3D",
@@ -23,10 +23,16 @@
   "themes": [
     {
       "keyword": "가구 디자인",
-      "count": 13,
+      "count": 14,
       "previous_count": 7,
       "trend": "rising",
       "items": [
+        {
+          "title": "사빈 마르셀리스 (Sabine Marcelis) 의 용암 램프 세계는 분홍색으로 장식되어 있습니다. 조각을 구입할 수 있습니다.",
+          "url": "https://www.wallpaper.com/design-interiors/lighting/sabine-marcelis-bubblegum-pink-lava-lamp-for-mathmos",
+          "image_url": "https://cdn.mos.cms.futurecdn.net/VX7V9ScabLfFemn6j7FFyC-1920-80.jpg",
+          "source_name": "Wallpaper*"
+        },
         {
           "title": "현대적인 사무실을 위한 디자인: Brunner와 Doshi Levien, 유연한 가구 컬렉션 출시",
           "url": "https://www.wallpaper.com/design-interiors/furniture/brunner-group-doshi-levien-session-collection-office-furniture",
@@ -44,12 +50,6 @@
           "url": "https://www.dezeen.com/2026/10/29/simone-book-services-copenhagen/",
           "image_url": "https://static-2026.dezeen.com/uploads/2026/10/simone-book-services-armin-tehrani_dezeen_2364_sq_0-1024x1024.jpg",
           "source_name": "Dezeen"
-        },
-        {
-          "title": "콜로세움 플레이스 저렴한 주택/데이비드 베이커 건축가",
-          "url": "https://www.archdaily.com/1024398/coliseum-place-building-david-baker-architects",
-          "image_url": "https://images.adsttc.com/media/images/6751/8dfd/3080/cf00/0100/d010/large_jpg/21503_ColiseumPlace_BruceDamonte_02.jpg?1733398062",
-          "source_name": "ArchDaily"
         }
       ]
     },
@@ -86,11 +86,55 @@
       ]
     },
     {
+      "keyword": "빛과 조명",
+      "count": 9,
+      "previous_count": 10,
+      "trend": "steady",
+      "items": [
+        {
+          "title": "가을을 위한 실내별 레이어 조명 가이드",
+          "url": "https://design-milk.com/govee-room-by-room-layered-lighting-guide-for-fall/",
+          "image_url": "https://design-milk.com/images/2026/10/Image_20260929151414_232_5-1500x844.jpg",
+          "source_name": "Design Milk"
+        },
+        {
+          "title": "Signify의 Sameer Sodhi는 조명 디자인을 \"전략적 경제 투자\" 라고 말합니다.",
+          "url": "https://www.dezeen.com/2026/10/30/lighting-design-strategic-economic-signifys-sameer-sodhi/",
+          "image_url": "https://static-2026.dezeen.com/uploads/2026/10/Signify_dezeen_2364_col_6-852x852.jpg",
+          "source_name": "Dezeen"
+        },
+        {
+          "title": "최고의 침대 옆 램프 및 테이블 램프 10개 (2026)",
+          "url": "https://www.architecturaldigest.com/gallery/best-table-lamps-and-bedside-lamps",
+          "image_url": "https://media.architecturaldigest.com/photos/66db37e55ec07661c0789355/master/pass/ADShopping_Lamps_header%20copy.jpg",
+          "source_name": "Architectural Digest"
+        },
+        {
+          "title": "니시자와 류에의 빛나는 전망대는 일본 쓰레기 매립지 내에 우뚝 솟아 있습니다.",
+          "url": "https://www.dezeen.com/2026/10/28/ryue-nishizawa-viewpoint-setouchi-art-industry/",
+          "image_url": "https://static-2026.dezeen.com/uploads/2026/10/final-disposal-site-observation-deck-ryue-nishizawa-setouchi-art-and-industry-architecture-art-installations-japan-shikoku_dezeen_1704_sq-1024x1024.jpg",
+          "source_name": "Dezeen"
+        }
+      ]
+    },
+    {
       "keyword": "사진",
-      "count": 7,
+      "count": 9,
       "previous_count": 8,
       "trend": "steady",
       "items": [
+        {
+          "title": "할리 위어 (Harley Weir) 와 딜라라 펀디코울루 (Dilara Fındıkoğlu) 의 뉴진 (New Zine) 에서 마녀",
+          "url": "https://www.anothermag.com/art-photography/17616/harley-weir-dilara-findikoglu-reclaiming-the-witch-zine-idea-books-romania?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=meet-the-witches-in-harley-weir-and-dilara-fi-ndi-kog-lu-s-new-zine",
+          "image_url": "https://images-prod.anothermag.com/786/azure/another-prod/470/9/479969.jpeg",
+          "source_name": "AnOther Magazine"
+        },
+        {
+          "title": "할리 위어의 현대 마녀에 대한 광활하고 강력한 비전",
+          "url": "https://www.dazeddigital.com/art-photography/article/71266/1/harley-weir-witches-witch-idea-photo-book-romania-photogrpahy-dilara-findikoglu?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=harley-weir-s-expansive-powerful-vision-of-modern-day-witches",
+          "image_url": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/8/1458502.jpeg",
+          "source_name": "Dazed"
+        },
         {
           "title": "로컬 인프라로서의 사진 스튜디오/ArchTank",
           "url": "https://www.archdaily.com/1186440/photography-studio-as-local-infrastructure-archtank",
@@ -102,18 +146,38 @@
           "url": "https://www.wallpaper.com/travel/in-transit-with-nuria-val",
           "image_url": "https://cdn.mos.cms.futurecdn.net/AVzdF8HZdZPsWqJPJnHZBa-1920-80.jpg",
           "source_name": "Wallpaper*"
+        }
+      ]
+    },
+    {
+      "keyword": "리노베이션·재생",
+      "count": 5,
+      "previous_count": 6,
+      "trend": "steady",
+      "items": [
+        {
+          "title": "누녜스데발보아",
+          "url": "https://leibal.com/interiors/nunez-de-balboa/",
+          "image_url": "https://leibal.com/wp-content/uploads/2026/10/leibal_nunez-de-balboa_emechaves-studio_01.jpg",
+          "source_name": "Leibal"
         },
         {
-          "title": "사진작가 Jennilee Marigomen의 '베일'",
-          "url": "https://www.booooooom.com/2026/10/29/veil-by-photographer-jennilee-marigomen/",
-          "image_url": "https://cdn.booooooom.com/wp-content/uploads/2026/10/Marigomen1.jpg",
-          "source_name": "BOOOOOOOM"
+          "title": "AD-WO, 피츠버그 카네기 미술관 하인즈 건축 센터 리노베이션",
+          "url": "https://www.archdaily.com/1187645/ad-wo-to-renovate-the-heinz-architectural-center-at-pittsburghs-carnegie-museum-of-art",
+          "image_url": "https://images.adsttc.com/media/images/6ae1/57bb/db5c/2001/882d/0d18/large_jpg/heinz-architectural-center_3.jpg?1793152992",
+          "source_name": "ArchDaily"
         },
         {
-          "title": "사진: 90 년대가 아일랜드 북부의 정치를 초월한 방법",
-          "url": "https://www.dazeddigital.com/art-photography/article/71248/1/photos-90s-rave-transcended-politics-north-ireland-gareth-mcconnell-an-illusion?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=in-pictures-how-90s-rave-transcended-politics-in-the-north-of-ireland",
-          "image_url": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/8/1458417.jpg",
-          "source_name": "Dazed"
+          "title": "하우스 위/웨스피 드 뫼롱 로미오 건축가",
+          "url": "https://www.archdaily.com/1186943/house-we-wespi-de-meuron-romeo-architects",
+          "image_url": "https://images.adsttc.com/media/images/6ad0/e600/b2c4/c300/0178/fa0b/large_jpg/Casa_WE_Albo-32.jpg?1792075283",
+          "source_name": "ArchDaily"
+        },
+        {
+          "title": "Grande Nef de l 'Île-des-Vannes 리노베이션/샤티용 건축가",
+          "url": "https://www.archdaily.com/1019486/grande-nef-de-lile-des-vannes-renovation-chatillon-architectes",
+          "image_url": "https://images.adsttc.com/media/images/66a8/d58a/aa9b/6b14/33f2/40f6/large_jpg/grande-nef-de-lile-des-vannes-renovation-chatillon-architectes_12.jpg?1722340770",
+          "source_name": "ArchDaily"
         }
       ]
     },
@@ -148,62 +212,12 @@
           "source_name": "ArchDaily"
         }
       ]
-    },
-    {
-      "keyword": "타이포그래피",
-      "count": 2,
-      "previous_count": 1,
-      "trend": "steady",
-      "items": [
-        {
-          "title": "A2 유형은 상징적 인 기관을위한 서체의 레퍼토리에 루이지애나 현대 미술관을 추가합니다",
-          "url": "https://www.itsnicethat.com/articles/a2-type-louisiana-museum-of-modern-art-graphic-design-project-281026",
-          "image_url": "https://admin.itsnicethat.com/images/zW8Vv5Hg2pGTvlgNoTrVKPksD94=/283691/width-1440/A2-TYPE-Louisiana-Museum-of-Modern-Art_page_001.jpg",
-          "source_name": "It's Nice That"
-        },
-        {
-          "title": "이 수상 사우나 브랜드는 간단한 타이포그래피 트릭을 사용하여 놀라운 효과를 냅니다.",
-          "url": "https://www.creativeboom.com/work/this-floating-saunas-brand-uses-a-simple-typographic-trick-to-stunning-effect/",
-          "image_url": "https://media.creativeboom.com/e33fc889-9c44-42d5-86e3-6370d193ac6a/conversions/a0be498f254822a98b48deeabe9feb38c7bbe1e8-medium.webp",
-          "source_name": "Creative Boom"
-        }
-      ]
-    },
-    {
-      "keyword": "박물관·전시",
-      "count": 28,
-      "previous_count": 44,
-      "trend": "falling",
-      "items": [
-        {
-          "title": "멕시코시티의 주멕스 박물관 (museo jumex) 에서 알바로 우르바노 (álvaro urbano) 가 카사 쿠에바의 식물학적 추억을 되살려드립니다.",
-          "url": "https://www.designboom.com/art/alvaro-urbano-helen-casa-cueva-museo-jumex/",
-          "image_url": "https://www.designboom.com/wp-content/uploads/2026/10/alvaro-urbano-helen-casa-cueva-museo-jumex-designboom-1-1.jpg",
-          "source_name": "Designboom Art"
-        },
-        {
-          "title": "Herzog & de Meuron은 오래된 Birkenstock 창고를 Charles와 Ray Eames 전용 디자인 박물관으로 탈바꿈시키고 있습니다. 렌더링 보기",
-          "url": "https://www.wallpaper.com/architecture/public-buildings/eames-institute-of-infinite-curiosity",
-          "image_url": "https://cdn.mos.cms.futurecdn.net/bn8gb5fyMeHLzamgV5GafV-1920-80.jpg",
-          "source_name": "Wallpaper*"
-        },
-        {
-          "title": "Dezeen의 2026년 마이애미 미술 주간 디지털 가이드에 소개",
-          "url": "https://www.dezeen.com/2026/10/29/get-featured-in-dezeens-digital-guide-to-miami-art-week-2026/",
-          "image_url": "https://static-2026.dezeen.com/uploads/2026/10/Dezeen-Events-Guide-Miami-art-week-2026_dezeen_2364_col_1-1024x1024.jpg",
-          "source_name": "Dezeen"
-        },
-        {
-          "title": "Herzog & de Meuron and Field Operations release visuals of Eames Institute of Infinite Curiosity",
-          "url": "https://www.dezeen.com/2026/10/29/herzog-de-meuron-field-operations-ehdd-eames-institute-infinite-curiosity/",
-          "image_url": "https://static-2026.dezeen.com/uploads/2026/10/eames-institute-of-infinite-curiosity-california-herzog-de-meuron-ehdd-field-operations_dezeen_2364_sq-1-1024x1024.jpg",
-          "source_name": "Dezeen"
-        }
-      ]
     }
   ],
   "notable_names": [
+    "Harley Weir",
     "Dezeen Awards",
+    "Oxford Street",
     "Los Angeles",
     "Apple Music",
     "Tom Hegen",
