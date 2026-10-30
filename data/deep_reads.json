@@ -242923,5 +242923,624 @@
   },
   "depth_raw": 4,
   "depth_v": 2
+ },
+ "archdaily.com/1187840/gca-architects": {
+  "title_ko": "바르셀로나의 40년, GCA 아키텍츠가 구축한 기업과 주거의 풍경",
+  "summary_ko": "1986년 설립된 바르셀로나 기반의 건축 스튜디오 GCA 아키텍츠(GCA Architects)의 40년 궤적을 326페이지로 엮었다. 최근 15년간의 작업을 중심으로 기업 사옥, 호텔, 주거 건축 등 19개 프로젝트를 통해 건축과 인테리어 디자인을 통합하는 이들의 설계 방식을 조명한다.",
+  "lens": "올림픽 이후 바르셀로나의 도시 확장과 함께 성장한 스튜디오가 어떻게 건축과 인테리어를 단일한 마감의 언어로 통합하는지 확인해야 한다.",
+  "why_now": "에너지 효율과 수동형 기후 제어를 설계의 기본 방법론으로 내재화하며 도시적 규모의 건축을 수행하는 실무적 태도가 중요해졌다.",
+  "mechanism": "건축 외피와 내부 공간의 재료를 일치시켜 경계를 지우고, 에너지 효율을 높이는 수동형 기후 제어 장치를 구조체 내부에 통합한다.",
+  "sensory": "도시의 파사드와 내부 인테리어가 하나의 흐름으로 연결되는 균질한 공간감과 재료의 물성을 강조한 디테일을 보여준다.",
+  "transfer": "오피스나 호텔 프로젝트 수행 시 건축물의 외관 재료를 로비와 복도까지 연장하여 공간의 연속성을 확보하는 연출을 적용할 수 있다.",
+  "context": "GCA 아키텍츠는 1986년 요셉 후안페레(Josep Juanpere)와 안토니오 푸이그(Antonio Puig)가 설립했으며, 바르셀로나 올림픽 이후 변화하는 도시 환경 속에서 기업 사옥과 주거지를 설계하며 실무적 벤치마크로 자리 잡았다.",
+  "findings": [],
+  "keywords": [
+   "건축아카이브",
+   "바르셀로나",
+   "통합설계",
+   "수동형건축"
+  ],
+  "evidence": "This issue brings together, across 326 pages, forty years of work by the Barcelona-based studio GCA Architects",
+  "kind": "뉴스·이슈",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "스튜디오의 40년 역사를 정리한 아카이브 성격의 기사로, 구체적인 설계 방법론보다는 포트폴리오의 흐름을 소개하는 데 집중한다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1187840/gca-architects",
+  "original_title": "GCA Architects",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 1477,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-31 00:26",
+  "research": {
+   "entities": [
+    "GCA Architects",
+    "Josep Juanpere",
+    "Antonio Puig",
+    "Puig T1",
+    "Cuatrecasas"
+   ],
+   "questions": [
+    "GCA Architects가 바르셀로나의 올림픽 이후 도시 변화 과정에서 수행한 구체적인 역할은 무엇인가요?",
+    "이들이 최근 건축 프로젝트에서 에너지 효율성과 수동형 기후 제어를 구현하는 주요 설계 방식은 무엇인가요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Narendra Modi Stadium",
+     "url": "https://en.wikipedia.org/wiki/Narendra%20Modi%20Stadium"
+    }
+   ],
+   "used": [],
+   "chars": 1400
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "hyperallergic.com/otis-college-of-art-and-design-in-la-offers-a-two-year-mfa-degree-program": {
+  "title_ko": "로스앤젤레스 오티스 예술 디자인 대학, 2년제 MFA 미술 학위 프로그램 운영",
+  "summary_ko": "오티스 예술 디자인 대학(Otis College of Art and Design)이 2년제 MFA 미술 프로그램을 통해 예술 제작의 다양한 접근 방식을 탐구하는 학습 환경을 제공한다. 학생들은 연중무휴 개인 스튜디오와 회화, 조각, 영상 등 전문 실습실을 이용하며, 교육 인턴십 및 조교 기회를 보장받는다.",
+  "lens": "예술가의 사회적 참여를 강조하며, 24시간 개방된 스튜디오와 실습실을 통해 창작의 물리적 밀도를 높이는 교육 구조를 갖췄다.",
+  "why_now": "예술 교육이 학문적 연구를 넘어 실제 창작 현장과 어떻게 결합하는지 보여주는 사례다.",
+  "mechanism": "개인 스튜디오 24시간 개방과 학기별 인턴십·조교 제도 운영으로 창작과 교육 실무를 병행하는 구조를 만든다.",
+  "sensory": "목공, 금속, 세라믹 등 물리적 재료를 다루는 전문 작업실과 전시를 위한 갤러리 공간이 결합되어 있다.",
+  "transfer": "공간 연출 시 작업실의 24시간 개방성을 반영해, 창작자의 도구와 재료가 쌓인 흔적을 그대로 노출하는 레이아웃을 구성한다.",
+  "context": "1918년 로스앤젤레스 최초의 독립 예술 전문 학교로 설립되었다. 카라 워커 등 저명한 예술가들이 참여한 아인슈타인 초청 강연 시리즈를 통해 교육과 실무의 연결을 시도한다.",
+  "findings": [
+   {
+    "text": "오티스 예술 디자인 대학은 1918년 로스앤젤레스에 설립된 최초의 독립 예술 전문 학교다.",
+    "s": 1,
+    "quote": "Established in 1918, it was the city's first independent professional school of art."
+   },
+   {
+    "text": "카라 워커는 오티스 대학의 아인슈타인 초청 강연 시리즈에 참여한 예술가 중 한 명이다.",
+    "s": 3,
+    "quote": "카라 워커, 데이비드 호크니, 엘 아나츠이 등 거장들이 참여해 관객과 무대 사이의 경계를 재정의한다."
+   }
+  ],
+  "keywords": [
+   "오티스대학",
+   "MFA",
+   "미술교육",
+   "로스앤젤레스"
+  ],
+  "evidence": "In the MFA Fine Arts program at Otis College of Art and Design, we believe artists thrive when they can explore a wide range of approaches in artmaking.",
+  "kind": "뉴스·이슈",
+  "depth": 2,
+  "grounding": "full",
+  "depth_reason": "대학 프로그램 홍보를 위한 정보 전달 위주의 기사로, 구체적인 교육 철학이나 실무적 장치가 제한적으로 언급됨.",
+  "v": 2,
+  "url": "https://hyperallergic.com/otis-college-of-art-and-design-in-la-offers-a-two-year-mfa-degree-program/",
+  "original_title": "Otis College of Art and Design in LA Offers a Two-Year MFA Fine Arts Degree Program",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 2606,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-31 00:26",
+  "research": {
+   "entities": [
+    "Otis College of Art and Design",
+    "Carlos Almaraz",
+    "Alison Saar",
+    "Masami Teraoka",
+    "Kara Walker"
+   ],
+   "questions": [
+    "Otis College of Art and Design의 MFA Fine Arts 프로그램이 추구하는 교육 철학은 무엇인가요?",
+    "이 프로그램에서 제공하는 Graduate Teaching Internship 및 Assistantship의 구체적인 혜택과 역할은 무엇인가요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Otis College of Art and Design",
+     "url": "https://en.wikipedia.org/wiki/Otis%20College%20of%20Art%20and%20Design"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Carlos Almaraz",
+     "url": "https://en.wikipedia.org/wiki/Carlos%20Almaraz"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "방화벽을 거대한 화폭으로 바꾸는 빈 국립오페라좌의 무대 실험",
+     "url": "https://www.designboom.com/art/safety-curtain-series-contemporary-art-center-stage-vienna-state-opera/"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "켄지 시오카와: 콤튼의 창고에서 길어 올린 유기적 조각의 연대기",
+     "url": "https://hyperallergic.com/kenzi-shiokava-did-it-for-the-love-of-it/"
+    }
+   ],
+   "used": [
+    1,
+    3,
+    4
+   ],
+   "chars": 1364
+  },
+  "depth_raw": 2,
+  "depth_v": 2
+ },
+ "archdaily.com/1187844/villa-moderne-in-search-of-hong-kong-modern-homes": {
+  "title_ko": "홍콩의 언덕과 해안을 채운 모더니즘 저택의 궤적",
+  "summary_ko": "1930년대부터 1980년대까지 홍콩의 언덕과 해안가에 지어진 현대식 저택들을 조명한다. 스페인 건축부터 북미 교외 양식까지 다양한 유행을 흡수한 이 주택들이 홍콩의 도시 역사와 주거 문화를 형성한 과정을 추적한다.",
+  "lens": "고밀도 도시 홍콩의 이면에 숨겨진 교외 주거의 이질적 지오그래피.",
+  "why_now": "고층 스카이라인으로 대변되는 홍콩의 도시사에서 저택과 단독주거가 남긴 미학적 원형을 다시 살핀다.",
+  "mechanism": "스페인 양식, 영국 전원도시, 중국 전통 정원, 북미 교외 양식을 시기별로 흡수하여 지역 지형과 결합했다.",
+  "sensory": "밀집한 빌딩 숲을 벗어나 언덕과 해안가에 펼쳐진 저택들의 이국적인 물성과 정원 담벼락의 질감.",
+  "transfer": "이국적인 교외 주거 양식이 혼재된 공간 배경을 단발성 로케이션이나 독특한 시대극 세트 콘셉트로 활용한다.",
+  "context": "1930년대부터 1980년대까지 홍콩의 현대식 주택과 상류층 라이프스타일을 다룬 건축 서적을 소개하는 원문이다.",
+  "findings": [],
+  "keywords": [
+   "모던주택",
+   "홍콩건축",
+   "주거문화",
+   "도시역사"
+  ],
+  "evidence": "Recreating the modern villas that shaped Hong Kong from the 1930s to the 1980s, this book offers a glimpse into the architecture and lifestyles of high society",
+  "kind": "프로젝트",
+  "depth": 2,
+  "grounding": "thin",
+  "depth_reason": "단순 도서 소개 기사이므로 가치 점수를 낮게 책정함",
+  "v": 2,
+  "url": "https://www.archdaily.com/1187844/villa-moderne-in-search-of-hong-kong-modern-homes",
+  "original_title": "Villa Moderne: In Search of Hong Kong Modern Homes",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 1216,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-31 00:26",
+  "research": {
+   "entities": [
+    "Villa Moderne: In Search of Hong Kong Modern Homes"
+   ],
+   "questions": [
+    "1930년대부터 1980년대까지 홍콩의 현대적 빌라 건축이 홍콩의 도시 경관과 주거 문화 형성에 어떤 구체적인 영향을 미쳤는가?",
+    "홍콩의 현대적 빌라 건축 양식에 반영된 스페인, 영국, 중국, 북미 건축 스타일의 혼합적 특징은 무엇인가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 2,
+  "depth_v": 2
+ },
+ "archdaily.com/1187829/adventure-play-student-design-challenge": {
+  "title_ko": "런던 어린이들을 위한 어드벤처 플레이 학생 디자인 공모",
+  "summary_ko": "아치데일리(ArchDaily)가 주관하는 어드벤처 플레이 학생 디자인 챌린지는 런던의 어린이들에게 수준 높은 놀이 경험을 선사할 아이디어를 모집한다. 학생과 최근 졸업생을 대상으로 하며, 무료 혹은 저렴한 재료를 활용하고 자원봉사자가 직접 시공할 수 있는 단순한 구조를 지향한다. 당선작은 실제 어드벤처 플레이그라운드에 시공되며, 설계자는 협의와 건설 과정에 참여할 수 있다.",
+  "lens": "저비용 재료와 자원봉사자의 손끝으로 완성되는 최소한의 구축적 문법을 시험한다.",
+  "why_now": "값비싼 스마트 기기와 정형화된 놀이터 시설에서 벗어나, 저렴한 재료와 자발적 노동으로 공공의 놀이 공간을 되찾는 방식을 묻는다.",
+  "mechanism": "비전문가인 자원봉사자가 조립할 수 있도록 단순한 조인트와 규격화된 저가 재료를 활용해 물리적 구조를 최소화한다.",
+  "sensory": "가공되지 않은 원자재의 거친 질감과 아이들의 신체 움직임이 직접 부딪히는 날것의 물리적 촉감이 현장을 채운다.",
+  "transfer": "저예산 공간이나 오픈 세트를 구성할 때, 규격 자재와 최소한의 결합 방식만으로 현장감 있는 구조물을 만드는 콘티에 적용한다.",
+  "context": "건축 뉴스 및 공모 정보를 다루는 플랫폼 아치데일리(ArchDaily)를 통해 접수된 오픈 콜 프로젝트다.",
+  "findings": [],
+  "keywords": [
+   "어드벤처플레이",
+   "디자인공모",
+   "공공공간",
+   "저비용재료"
+  ],
+  "evidence": "Adventure Play Student Design Challenge",
+  "kind": "행사·공모",
+  "depth": 2,
+  "grounding": "thin",
+  "depth_reason": "단순한 공모전 안내 공고이며 세부 설계안이나 구체적 심사 기준이 없어 가치 점수를 낮게 책정함",
+  "v": 2,
+  "url": "https://www.archdaily.com/1187829/adventure-play-student-design-challenge",
+  "original_title": "Adventure Play Student Design Challenge",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 1074,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-31 00:27",
+  "research": {
+   "entities": [
+    "ArchDaily"
+   ],
+   "questions": [
+    "어드벤처 플레이그라운드(Adventure Playground)의 개념과 역사적 배경은 무엇인가?",
+    "저비용 재료를 활용한 놀이 공간 설계 시 고려해야 할 안전 및 지속 가능성 기준은 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "ArchDaily",
+     "url": "https://en.wikipedia.org/wiki/ArchDaily"
+    },
+    {
+     "n": 2,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "백송의 밀도 속에 심은 140제곱미터의 여름 거처",
+     "url": "https://www.archdaily.com/1185721/a-house-with-one-hundred-pines-luis-barandiaran"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "유토피아와 디스토피아 사이, 기후 전환을 상상하는 법",
+     "url": "https://www.archdaily.com/1185529/between-burning-forests-and-utopian-cities-designing-the-climate-transition"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "백만 제곱미터의 생태 축: 마드리드 푸에르타 데 마드리드 도시 계획 공모",
+     "url": "https://www.archdaily.com/1184822/jury-led-design-competition-for-sustainable-and-innovative-urban-planning-proposals-for-the-puerta-de-madrid-area-in-leganes-madrid"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 985
+  },
+  "depth_raw": 2,
+  "depth_v": 2
+ },
+ "archdaily.com/1187565/rotiers-renovation-of-46-housing-units-in-brussels-multiple-architecture-and-urbanism": {
+  "title_ko": "소니언 숲가에 선 1960년대 사회주택의 레이어 리노베이션",
+  "summary_ko": "멀티플 아키텍처 앤 어반즘(MULTIPLE Architecture & Urbanism)은 벨기에 브뤼셀에서 1960년대 사회주택 46세대를 리노베이션했다. 소니언 숲 가장자리에 위치한 이 건물은 주변의 성숙한 나무들과 밀접하게 호흡하며, 단지 입구와 공용 야외 공간의 일상적 경험을 개선한다.",
+  "lens": "오래된 사회주택의 외피를 숲의 풍경과 결합해 새로운 위상을 만든다.",
+  "why_now": "획일적인 철거와 신축 대신 기존 주거 단지의 물리적 자산을 보존하면서 환경적 가치를 회복하는 태도가 표준이 된다.",
+  "mechanism": "건물의 네이버후드 통합부터 거주자의 일상적 경험까지 다양한 스케일을 동시에 조정하여 공간의 구조를 바꾼다.",
+  "sensory": "숲을 두른 거대한 나무들과 건물 외피가 맞닿으며 차분한 녹음의 그라데이션이 실내로 스며든다.",
+  "transfer": "자연 경관을 배경으로 한 공간 연출 시, 창밖의 수목 밀도를 시각적 레이어로 활용해 깊이감을 더한다.",
+  "context": "멀티플 아키텍처 앤 어반즘이 벨기에 브뤼셀에서 수행한 3916제곱미터 규모의 주거 리노베이션 프로젝트다.",
+  "findings": [],
+  "keywords": [
+   "사회주택",
+   "리노베이션",
+   "브뤼셀",
+   "소니언숲",
+   "주거건축"
+  ],
+  "evidence": "The Rotiers project aims to give a renewed architectural identity to a 1960s social housing building while preserving the qualities of its setting.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "1960년대 사회주택 리노베이션의 방향성을 보여주나 세부 디테일이 부족하다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1187565/rotiers-renovation-of-46-housing-units-in-brussels-multiple-architecture-and-urbanism",
+  "original_title": "Rotiers - Renovation of 46 housing units in Brussels  / MULTIPLE Architecture & Urbanism",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 1343,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-31 00:27",
+  "research": {
+   "entities": [
+    "MULTIPLE Architecture & Urbanism",
+    "FP architecture",
+    "Sonian Forest"
+   ],
+   "questions": [
+    "1960년대 사회주택의 건축적 특징을 유지하면서 현대적인 주거 환경으로 개선하기 위해 어떤 리노베이션 전략을 사용했는가?",
+    "소니언 숲(Sonian Forest)이라는 자연 환경과 건축물의 조화를 위해 외부 공간과 입면 디자인에 어떤 변화를 주었는가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "dazeddigital.com/beauty/article/71263/1/witches-advice-how-reconnect-body-oura-data-beauty": {
+  "title_ko": "데이터를 지우고 감각을 켜는 현대 마녀들의 신체 회복법",
+  "summary_ko": "네덜란드 우드워터 마을의 역사적 마녀 계량 주택에서 출발해, 현대 사회가 웨어러블 기기와 알고리즘으로 여성의 신체를 통제하고 최적화하는 방식을 조명한다. 현대의 마녀와 약초학자들은 데이터 대신 맨발로 흙을 밟거나 오감에 집중하는 등 일상의 감각을 회복하는 구체적인 실천법을 제안한다.",
+  "lens": "숫자와 알고리즘으로 계량화된 신체 감각을 거두고, 날것의 오감과 계절의 주기로 돌아간다.",
+  "why_now": "수면 점수와 러닝 기록 등 데이터가 신체 감각을 대체하는 피크 최적화 시대에, 몸을 기술이 아닌 거주하는 공간으로 되돌리기 위함이다.",
+  "mechanism": "웨어러블 기기와 알림을 끄고 발바닥에서 정수리까지 감각을 이동시키는 바디 스캔과, 폰 없이 자연의 소리와 냄새를 알아차리는 명상적 보행으로 작동한다.",
+  "sensory": "화면에서 눈을 떼고 맨발에 닿는 잔디의 서늘함, 숲의 냄새, 머리 위에 얹는 찬물의 감촉으로 채워진다.",
+  "transfer": "인물의 심리적 해체나 고립을 연출할 때, 스마트폰 화면이나 데이터 UI 대신 피부에 닿는 차가운 물과 숲의 질감 같은 날것의 촉각을 클로즈업 샷으로 포착한다.",
+  "context": "15세기부터 18세기까지 유럽의 마녀사냥 속에서 여성의 몸이 어떻게 증거로 채택되고 통제되었는지 역사적 맥락을 짚는다.",
+  "findings": [],
+  "keywords": [
+   "신체 감각",
+   "웨어러블",
+   "자연 리듬",
+   "오감",
+   "대안적 실천"
+  ],
+  "evidence": "treating the body as something to inhabit, rather than tech to be constantly optimised.",
+  "kind": "작가·인터뷰",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "현대인의 데이터 중심 신체 관리에 대한 대안적 실천을 인터뷰로 다루나 선례나 기법 면에서 평이하다.",
+  "v": 2,
+  "url": "https://www.dazeddigital.com/beauty/article/71263/1/witches-advice-how-reconnect-body-oura-data-beauty?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=witches-give-advice-on-how-to-reconnect-with-your-body",
+  "original_title": "Witches give advice on how to reconnect with your body",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 7740,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-31 00:27",
+  "research": {
+   "entities": [
+    "Kristen J. Sollée",
+    "Oudewater",
+    "Samhain"
+   ],
+   "questions": [
+    "역사적으로 마녀 사냥과 여성의 신체에 대한 통제가 어떤 연관성을 가지고 발전해 왔는가?",
+    "현대 사회의 데이터 중심적인 신체 관리 방식이 인간의 신체 감각과 자연스러운 리듬에 어떤 영향을 미치고 있는가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "dazeddigital.com/film-tv/article/71267/1/gentle-monster-marie-kreutze-lea-seydoux-interview-new-film-2026": {
+  "title_ko": "젠틀 몬스터: 레아 세이두가 연주하는 불안과 타인의 불가지성",
+  "summary_ko": "마리 크로이처 감독의 영화 젠틀 몬스터는 남편의 아동 성착취물 소지 혐의를 마주한 팝 가수 루시 바이스의 심리적 붕괴를 다룬다. 레아 세이두는 주인공 루시 역을 맡아 글라스 하모니움과 피아노를 연주하며 극 중 인물의 혼란을 신체적으로 구현한다. 영화는 가해자를 향한 이분법적 시선을 넘어, 우리가 믿었던 타인의 내면이 가진 불가지성을 파고든다.",
+  "lens": "가해자의 범죄라는 외부적 충격보다, 그를 완전히 알 수 없다는 사실에서 오는 주인공의 내밀한 파멸과 고립을 집요하게 응시한다.",
+  "why_now": "타인의 실체를 완벽히 파악할 수 없다는 현대의 불신과 고립감을, 익숙한 가족이라는 공간 내부의 균열을 통해 드러낸다.",
+  "mechanism": "주인공이 공연 중 피아노의 마이너 코드를 강하게 타격하는 행위는 억눌린 분노와 부정의 심리를 청각적으로 치환한다. 동시에 글라스 하모니움의 날카로운 공명은 인물의 불안한 심리 상태를 시각적·청각적 긴장으로 증폭시킨다.",
+  "sensory": "글라스 하모니움이 만들어내는 유리 특유의 차갑고 예리한 진동이 주인공의 심리적 균열과 겹쳐지며 서늘한 공포를 조성한다.",
+  "transfer": "감정의 폭발을 대사 대신 악기 연주나 반복적인 물리적 행위로 대체하여, 인물의 억눌린 내면을 시각화하는 콘티를 구성할 수 있다.",
+  "context": "마리 크로이처는 전작 코르사주에서 규칙을 깨는 여성상을 다뤘으며, 당시 주연 배우의 스캔들을 겪으며 예술과 작가의 도덕적 분리에 대한 질문을 영화적 서사로 확장해왔다. 레아 세이두는 초기작 아름다운 사람부터 최근작에 이르기까지 내면의 우울과 혼돈을 연기해왔으며, 이번 작품에서 그 연장선상에 있는 인물의 붕괴를 다룬다.",
+  "findings": [
+   {
+    "text": "레아 세이두는 2027년 제52회 세자르 영화제 시상식의 회장을 맡을 예정이다.",
+    "s": 1,
+    "quote": "In 2026, the Académie des César announced that she will be the president of the 52nd César Awards ceremony, to be held on February 25, 2027."
+   },
+   {
+    "text": "마리 크로이처는 2022년 영화 코르사주로 국제적 명성을 얻었다.",
+    "s": 2,
+    "quote": "Marie Kreutzer (born 25 August 1977) is an Austrian film director and screenwriter, most known for Corsage (2022)."
+   }
+  ],
+  "keywords": [
+   "불가지성",
+   "심리적붕괴",
+   "레아세이두",
+   "마리크로이처",
+   "글라스하모니움"
+  ],
+  "evidence": "Lucy will never know what Philip has done, and she will maybe never know what happened, or didn’t happen, to Johnny",
+  "kind": "프로젝트",
+  "depth": 5,
+  "grounding": "full",
+  "depth_reason": "스캔들을 겪은 감독의 경험을 예술적 통찰로 승화시킨 과정과, 악기 연주를 통해 심리를 시각화하는 구체적인 연출 장치가 선명하다.",
+  "v": 2,
+  "url": "https://www.dazeddigital.com/film-tv/article/71267/1/gentle-monster-marie-kreutze-lea-seydoux-interview-new-film-2026?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=lea-seydoux-on-gentle-monster-this-halloween-s-most-unsettling-drama",
+  "original_title": "Léa Seydoux on Gentle Monster, this Halloween’s most unsettling drama",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 8792,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-31 00:27",
+  "research": {
+   "entities": [
+    "Léa Seydoux",
+    "Marie Kreutzer",
+    "Catherine Deneuve",
+    "Jella Haase",
+    "Netflix"
+   ],
+   "questions": [
+    "영화 Gentle Monster가 다루는 타인에 대한 불가지성과 신뢰의 문제는 감독이 의도한 핵심 주제인가?",
+    "주인공 루시 바이스가 연주하는 글라스 하모니움과 피아노 연주 장면은 극 중 인물의 심리 상태를 어떻게 시각화하고 있는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Léa Seydoux",
+     "url": "https://en.wikipedia.org/wiki/L%C3%A9a%20Seydoux"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Marie Kreutzer",
+     "url": "https://en.wikipedia.org/wiki/Marie%20Kreutzer"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "인플루언서 알릭스 얼의 거주 공간과 부동산 포트폴리오",
+     "url": "https://www.architecturaldigest.com/story/where-does-alix-earle-live-real-estate-portfolio-09-10-2026"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "이창동과 마리 크로이처가 파헤치는 계급과 침묵의 실체",
+     "url": "https://www.anothermag.com/design-living/17487/what-to-watch-film-cinema-october-2026?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=the-films-we-re-talking-about-this-october"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "악당의 얼굴을 지우고 균열을 응시하다, 영화 젠틀 몬스터",
+     "url": "https://www.anothermag.com/design-living/17614/marie-kreutzer-lea-seydoux-gentle-monster-interview?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=marie-kreutzer-and-lea-seydoux-on-looking-beyond-the-villain-stereotype"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    4,
+    5
+   ],
+   "chars": 2281
+  },
+  "depth_raw": 5,
+  "depth_v": 2
+ },
+ "hyperallergic.com/a-view-from-the-easel-anna-pajak": {
+  "title_ko": "스웨덴 숲속의 회화 예배당: 안나 파작의 작업실",
+  "summary_ko": "안나 파작(Anna Pajak)은 스웨덴 팅스뤼드(Tingsryd)의 작업실에서 대칭적 형태의 도깨비불을 그린다. 그는 두 개의 캔버스를 자매처럼 나란히 두고 작업하며, 창밖의 하늘색이 오렌지에서 연두색으로 변하는 그라데이션을 마감의 신호로 삼는다.",
+  "lens": "창밖의 자연광이 만드는 미묘한 색채 변화를 작업의 물리적 한계선으로 삼아, 캔버스를 일종의 신성한 예배당으로 구축한다.",
+  "why_now": "디지털 과잉 시대에 작가가 신체적 리듬과 자연의 빛에 의존해 회화의 물리적 시간을 통제하는 방식은 유효한 창작의 태도다.",
+  "mechanism": "두 개의 캔버스를 동시에 진행하며 대칭적 구도를 완성하고, 작업의 몰입도를 높이기 위해 복잡한 계산이 필요한 순간에는 소음을 차단하는 침묵의 동선을 택한다.",
+  "sensory": "오렌지에서 연두색으로 흐르는 창밖의 그라데이션과 캔버스 위에 짜낸 물감의 질감이 공간의 주된 감각을 형성한다.",
+  "transfer": "공간의 빛이 변하는 시간을 촬영의 마감 시간으로 설정하여, 자연광의 변화를 영상의 톤앤매너를 결정짓는 핵심 지표로 활용할 수 있다.",
+  "context": "안나 파작은 스웨덴 남부의 환경 속에서 자신의 작업실을 신념을 담아내는 예배당과 같은 공간으로 정의한다.",
+  "findings": [],
+  "keywords": [
+   "안나파작",
+   "회화",
+   "스웨덴",
+   "작업실",
+   "대칭"
+  ],
+  "evidence": "I wanted it to feel like a chapel, a place for everything I believe in. My painting chapel.",
+  "kind": "작가·인터뷰",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "작가의 작업 태도와 공간 활용 방식을 구체적으로 다루었으나, 작품의 예술적 맥락에 대한 심층적 정보는 부족하다.",
+  "v": 2,
+  "url": "https://hyperallergic.com/a-view-from-the-easel-anna-pajak/",
+  "original_title": "A View From the Easel: Anna Pajak",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 2080,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-31 00:27",
+  "research": {
+   "entities": [
+    "Anna Pajak"
+   ],
+   "questions": [
+    "Anna Pajak의 회화 작업에서 나타나는 대칭적이고 신비로운 도상들은 어떤 예술적 맥락을 가지고 있는가?",
+    "스웨덴 남부의 자연환경이 Anna Pajak의 작업 방식과 색채 선택에 어떠한 영향을 미치는가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "archdaily.com/1187824/international-open-call-for-cultural-projects-for-mugak-basque-country-international-architecture-biennial": {
+  "title_ko": "바스크 국제 건축 비엔날레 '무각(Mugak/)' 2027년 공식 프로그램 공모",
+  "summary_ko": "바스크 국제 건축 비엔날레 무각(Mugak/)이 2027년 10월부터 2028년 2월까지 열리는 제6회 행사의 공식 프로그램을 구성할 문화 프로젝트를 공모한다. 총 예산 15만 유로 규모로 전 세계 누구나 참여할 수 있으며, 접수 마감은 2026년 11월 25일까지다.",
+  "lens": "건축을 단일 장르가 아닌 문화적 담론의 접점으로 확장해 도시와 지역 사회의 변화를 이끌어내는 실험적 시도를 찾는다.",
+  "why_now": "건축 비엔날레가 결과물 전시를 넘어, 지역 내 문화적 이니셔티브를 공식 프로그램으로 수용하며 생태계 확장을 꾀하고 있다.",
+  "mechanism": "개별 프로젝트가 비엔날레의 공식 일정이 되는 구조를 통해, 건축 담론을 지역의 문화적 맥락과 물리적으로 결합한다.",
+  "sensory": "바스크 지역의 건축적 배경과 문화적 층위가 섞이며 발생하는 다층적인 공간 경험을 지향한다.",
+  "transfer": "지역 기반 프로젝트 기획 시, 단순 전시가 아닌 현지 커뮤니티와 결합된 프로그램이 어떻게 비엔날레의 공식 의제로 작동하는지 그 구조를 분석할 것.",
+  "context": "무각은 바스크 지역의 건축적 가치를 조명하는 국제 비엔날레로, 이번 공모를 통해 2027년 개최되는 6번째 에디션의 외연을 넓히고자 한다.",
+  "findings": [],
+  "keywords": [
+   "바스크",
+   "건축비엔날레",
+   "문화기획",
+   "공모"
+  ],
+  "evidence": "Mugak/ has launched OPEN Mugak/ 2027, an open call inviting cultural projects to become part of the official programme of its sixth edition",
+  "kind": "행사·공모",
+  "depth": 2,
+  "grounding": "partial",
+  "depth_reason": "단순 행사 공고이며 프로젝트의 구체적인 선정 기준이나 이전 사례에 대한 정보가 부족하다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1187824/international-open-call-for-cultural-projects-for-mugak-basque-country-international-architecture-biennial",
+  "original_title": "International open call for cultural projects for Mugak/ Basque Country International Architecture Biennial",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 1204,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-31 00:28",
+  "research": {
+   "entities": [
+    "Mugak/"
+   ],
+   "questions": [
+    "Mugak/ 바스크 국제 건축 비엔날레가 추구하는 핵심 가치와 이전 에디션의 주요 주제는 무엇인가?",
+    "이번 OPEN Mugak/ 2027 공모에서 선정된 프로젝트들은 어떤 기준으로 공식 프로그램에 포함되는가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 2,
+  "depth_v": 2
+ },
+ "stashmedia.tv/em-cooper-tonic-dna-paint-a-true-romance-for-porsche": {
+  "title_ko": "유화 애니메이션으로 되살린 포르쉐 912의 여정",
+  "summary_ko": "영국 감독 엠 쿠퍼와 몬트리올 스튜디오 토닉 DNA가 포르쉐를 위해 제작한 광고 필름이다. 1966년형 포르쉐 912를 함께 복원한 후 로스앤젤레스에서 샌프란시스코까지 운전해 결혼식을 올린 제프와 몰리 스톡웰 부부의 실화를 바탕으로 한다. 손으로 직접 그린 유화 애니메이션 기법을 적용해 실제 삶의 로맨스를 극적으로 시각화했다.",
+  "lens": "디지털 프레임 속에 물감의 두께와 붓질의 결을 남겨 기계적인 자동차에 인간의 손길을 입힌다.",
+  "why_now": "디지털 렌더링이 보편화된 매체 환경에서 전통적인 회화의 물성과 수작업 질감을 역설적으로 소환한다.",
+  "mechanism": "유화 물감을 한 프레임씩 직접 그려가며 움직임을 만드는 애니메이션 기법을 활용해 물리적 시간과 감정의 잔상을 동시에 포착한다.",
+  "sensory": "매끄러운 차체 표면 대신 손으로 문지른 듯한 붓 자국과 거친 질감이 화면 전체에 일렁이며 아날로그적 감각을 극대화한다.",
+  "transfer": "광고 콘티 작성 시 차가운 금속 소재의 기계류를 다룰 때 수채화나 유화 같은 회화적 질감을 레이어로 얹어 서사적 온도를 조절한다.",
+  "context": "토닉 DNA는 전통 2D부터 3D, AI 파이프라인까지 수용하며 감독 중심의 제작 모델을 유지해 온 40년 역사의 애니메이션 스튜디오다.",
+  "findings": [],
+  "keywords": [
+   "유화애니메이션",
+   "포르쉐912",
+   "토닉DNA",
+   "엠쿠퍼",
+   "실화바탕"
+  ],
+  "evidence": "uses her signature animated oil paintings to amplify the real-life romance in this new spot for Porsche",
+  "kind": "영상·필름",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "실화 기반의 유화 애니메이션 광고라는 제작 방식이 흥미롭지만 장르적 선례가 명확하다.",
+  "v": 2,
+  "url": "https://www.stashmedia.tv/em-cooper-tonic-dna-paint-a-true-romance-for-porsche/",
+  "original_title": "Em Cooper & Tonic DNA Paint a True Romance for Porsche",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 1898,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-31 00:29",
+  "research": {
+   "entities": [
+    "Em Cooper",
+    "Tonic DNA",
+    "Porsche",
+    "adam&eveDDB",
+    "Porsche 912"
+   ],
+   "questions": [
+    "Em Cooper가 사용하는 애니메이션 유화 기법의 특징과 제작 과정은 무엇인가요?",
+    "실제 Jeff와 Molly Stockwell 부부의 이야기가 포르쉐 브랜드 이미지와 어떻게 연결되어 광고로 재구성되었나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Porsche",
+     "url": "https://en.wikipedia.org/wiki/Porsche"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Porsche 912",
+     "url": "https://en.wikipedia.org/wiki/Porsche%20912"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "포르쉐 550 스파이더의 축소판, 80% 스케일로 구현한 전기차 550 J",
+     "url": "https://design-milk.com/porsche-550-j-hedley-studios/"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "싱어와 루이 비통이 재해석한 포르쉐 911, 시계와 항해의 미학을 입다",
+     "url": "https://design-milk.com/louis-vuitton-singer-porsche-911/"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "토닉 DNA: 40년의 서사를 잇는 애니메이션 스튜디오의 리프레시",
+     "url": "https://motionographer.com/2026/09/29/the-studio-that-refused-to-be-one-thing/"
+    }
+   ],
+   "used": [
+    5
+   ],
+   "chars": 3398
+  },
+  "depth_raw": 3,
+  "depth_v": 2
  }
 }

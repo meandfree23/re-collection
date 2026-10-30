@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-10-30 23:40 KST",
-  "period": "2026.10.23 - 2026.10.30",
-  "total_articles": 411,
+  "generated_at": "2026-10-31 00:26 KST",
+  "period": "2026.10.24 - 2026.10.31",
+  "total_articles": 379,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 203
+      "count": 187
     },
     {
       "genre": "동시대 미술",
-      "count": 151
+      "count": 138
     },
     {
       "genre": "아방가르드 패션",
-      "count": 47
+      "count": 45
     },
     {
       "genre": "미디어 파사드·3D",
-      "count": 10
+      "count": 9
     }
   ],
   "themes": [
     {
       "keyword": "가구 디자인",
-      "count": 14,
-      "previous_count": 7,
+      "count": 13,
+      "previous_count": 6,
       "trend": "rising",
       "items": [
         {
@@ -56,7 +56,7 @@
     {
       "keyword": "목재 건축",
       "count": 10,
-      "previous_count": 11,
+      "previous_count": 10,
       "trend": "steady",
       "items": [
         {
@@ -87,8 +87,8 @@
     },
     {
       "keyword": "빛과 조명",
-      "count": 9,
-      "previous_count": 10,
+      "count": 8,
+      "previous_count": 9,
       "trend": "steady",
       "items": [
         {
@@ -119,8 +119,8 @@
     },
     {
       "keyword": "사진",
-      "count": 9,
-      "previous_count": 8,
+      "count": 8,
+      "previous_count": 7,
       "trend": "steady",
       "items": [
         {
@@ -151,10 +151,16 @@
     },
     {
       "keyword": "리노베이션·재생",
-      "count": 5,
+      "count": 6,
       "previous_count": 6,
       "trend": "steady",
       "items": [
+        {
+          "title": "로티어 - 브뤼셀의 46개 주택 리노베이션/다중 건축 및 도시주의",
+          "url": "https://www.archdaily.com/1187565/rotiers-renovation-of-46-housing-units-in-brussels-multiple-architecture-and-urbanism",
+          "image_url": "https://images.adsttc.com/media/images/6adf/8efb/3271/8400/01d0/ecee/large_jpg/Rotiers_08_Bruno_Dias_Ventura.jpg?1793036122",
+          "source_name": "ArchDaily"
+        },
         {
           "title": "누녜스데발보아",
           "url": "https://leibal.com/interiors/nunez-de-balboa/",
@@ -171,12 +177,6 @@
           "title": "하우스 위/웨스피 드 뫼롱 로미오 건축가",
           "url": "https://www.archdaily.com/1186943/house-we-wespi-de-meuron-romeo-architects",
           "image_url": "https://images.adsttc.com/media/images/6ad0/e600/b2c4/c300/0178/fa0b/large_jpg/Casa_WE_Albo-32.jpg?1792075283",
-          "source_name": "ArchDaily"
-        },
-        {
-          "title": "Grande Nef de l 'Île-des-Vannes 리노베이션/샤티용 건축가",
-          "url": "https://www.archdaily.com/1019486/grande-nef-de-lile-des-vannes-renovation-chatillon-architectes",
-          "image_url": "https://images.adsttc.com/media/images/66a8/d58a/aa9b/6b14/33f2/40f6/large_jpg/grande-nef-de-lile-des-vannes-renovation-chatillon-architectes_12.jpg?1722340770",
           "source_name": "ArchDaily"
         }
       ]
@@ -218,7 +218,6 @@
     "Harley Weir",
     "Dezeen Awards",
     "Oxford Street",
-    "Los Angeles",
     "Apple Music",
     "Tom Hegen",
     "Aston Martin",
