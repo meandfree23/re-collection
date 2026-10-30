@@ -240300,5 +240300,163 @@
   },
   "depth_raw": 5,
   "depth_v": 2
+ },
+ "dezeen.com/2026/10/30/al-jawad-pike-aesop-store-harrods-terracotta-counter": {
+  "title_ko": "고대 페르시아의 건축과 해로즈의 벽돌을 엮은 이솝 매장",
+  "summary_ko": "건축 스튜디오 알 자와드 파이크가 런던 해로즈 백화점 내 이솝 매장을 테라코타 타일 카운터 중심 형태로 새롭게 단장했다. 고대 페르시아 건축과 백화점의 붉은 벽돌 외관에서 영감을 얻었으며, 향기를 품는 유약 테라코타와 구리 파이프 구조의 후각적 조각을 도입했다.",
+  "lens": "작은 매장 카운터를 미니어처 건축물로 다뤄 향수 생산의 역사적 계보를 물성과 구조로 구현한다.",
+  "why_now": "뷰티 공간이 단순한 제품 진열대를 넘어 브랜드의 역사와 향의 서사를 공간적 물성으로 체화하는 방식을 보여준다.",
+  "mechanism": "이탈리아산 유약 테라코타 타일로 카운터를 감싸고, 구리 파이프와 불어 만든 유리로 구성된 후각적 조각을 통해 향이 주입된 공기를 깔때기로 밀어낸다.",
+  "sensory": "붉은빛의 거대한 모놀리식 테라코타 질감과 무광으로 브러시 처리된 구리 파이프가 대비를 이루며, 향을 머금은 공기가 공간을 채운다.",
+  "transfer": "공간 무대나 세트 디자인에서 소형 구조물을 거대한 건축적 스케일처럼 보이게 만드는 물성 연출과 금속 관을 활용한 향기 인터랙션 장치로 활용한다.",
+  "context": "알 자와드 파이크는 이솝과 오랜 기간 협력해 온 스튜디오이며, 이솝은 전 세계 매장마다 건축가와 디자이너와의 협업을 통해 고유한 공간 서사를 구축하는 것으로 잘 알려져 있다.",
+  "findings": [
+   {
+    "text": "이솝은 각 매장마다 고유한 인테리어 디자인을 선보인다.",
+    "s": 1,
+    "quote": "Each Aesop store has a unique interior design developed in collaboration with architects, interior designers and artists."
+   }
+  ],
+  "keywords": [
+   "공간건축",
+   "이솝",
+   "테라코타",
+   "매장디자인"
+  ],
+  "evidence": "Local studio Al-Jawad Pike has given skincare brand Aesop’s shop in London department store Harrods a revamp, centred on a terracotta-clad counter designed to have “the qualities of a miniature building”.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "구체적인 매장 리뉴얼 프로젝트이나 기존 이솝 공간 디자인의 연장선상에 있어 선례가 뚜렷하다.",
+  "v": 2,
+  "url": "https://www.dezeen.com/2026/10/30/al-jawad-pike-aesop-store-harrods-terracotta-counter/",
+  "original_title": "Al-Jawad Pike refreshes Aesop store with terracotta-tiled counter evoking ancient Persia",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 3413,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-30 15:53",
+  "research": {
+   "entities": [
+    "Al-Jawad Pike",
+    "Aesop",
+    "Harrods"
+   ],
+   "questions": [
+    "Al-Jawad Pike가 테라코타 타일을 선택한 건축적, 문화적 이유는 무엇인가요?",
+    "Aesop 매장 디자인에서 '올팩토리 스컬프처(olfactory sculpture)'는 어떤 역할을 하며 어떻게 작동하나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Aesop (brand)",
+     "url": "https://en.wikipedia.org/wiki/Aesop%20%28brand%29"
+    },
+    {
+     "n": 2,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "이솝, 향수 보틀 리디자인으로 완성한 공간의 서사",
+     "url": "https://www.wallpaper.com/fashion-beauty/aesops-creative-director-unforeseen-aer"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "8월의 뷰티 캠페인, 감각적 물성과 서사를 입히는 방식",
+     "url": "https://www.dazeddigital.com/beauty/article/70862/1/paloma-elsesser-dakota-johnson-alexander-skarsgrd-keeping-it-hot-this-month?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=all-the-august-2026-beauty-drops-you-need-to-know"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "웨스트윙, 24가지 디자인 오브제로 채운 하우스형 어드벤트 캘린더",
+     "url": "https://www.wallpaper.com/design-interiors/interior-accessories/westwing-advent-calendar-2026"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 1808
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "dezeen.com/2026/10/30/lighting-design-strategic-economic-signifys-sameer-sodhi": {
+  "title_ko": "조명은 어떻게 도시의 경제적 자산이 되는가: 시그니파이의 제언",
+  "summary_ko": "조명 브랜드 시그니파이(Signify)의 사미어 소디(Sameer Sodhi)는 건축 조명이 단순한 마감이 아닌 도시 재생과 지역 경제를 견인하는 전략적 인프라라고 강조한다. 그는 미국 내 4개 사례를 분석한 연구를 통해 조명이 커뮤니티 참여, 관광, 상권 활성화를 이끌어 초기 투자 비용을 상회하는 경제적 효과를 창출함을 입증했다.",
+  "lens": "조명을 시각적 장식이 아닌, 체류 시간을 늘리고 지역 정체성을 구축하는 물리적 인프라로 재정의한다.",
+  "why_now": "건축물의 가치를 에너지 효율과 건축비로만 평가하던 관습에서 벗어나, 야간 경험과 사회적 상호작용을 통한 실질적 경제 가치 창출이 도시 설계의 핵심 지표로 부상했다.",
+  "mechanism": "건축물 표면에 프로그래밍 가능한 조명을 통합하여, 계절과 행사에 따라 건물의 외관을 바꾸는 동적 연출로 일회성 방문객을 반복적인 시민 참여자로 전환한다.",
+  "sensory": "건물 외벽이 단순한 배경에서 벗어나 도시의 서사를 전달하는 매체로 변모하며, 빛의 색과 움직임을 통해 공공장소의 분위기를 실시간으로 제어한다.",
+  "transfer": "공간 연출 시 조명을 초기 설계 단계부터 인프라로 통합하여, 특정 시간대에만 작동하는 조명이 아닌 도시의 아이덴티티를 형성하는 캔버스로 활용한다.",
+  "context": "시그니파이는 런던 아이(London Eye), 마라카낭 경기장 등 글로벌 랜드마크의 조명 솔루션을 제공해 온 기업이다. 이번 보고서는 자회사 컬러 키네틱스(Color Kinetics)의 연구를 바탕으로 조명 투자가 가져오는 구체적인 경제적 수익률을 수치화하여 제시했다.",
+  "findings": [],
+  "keywords": [
+   "건축조명",
+   "도시재생",
+   "시그니파이",
+   "인프라디자인",
+   "상권활성화"
+  ],
+  "evidence": "When thoughtfully integrated from the earliest stages of design, lighting becomes a strategic investment rather than an aesthetic upgrade.",
+  "kind": "뉴스·이슈",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "조명 투자의 경제적 효과를 구체적인 사례와 수치로 입증하여 건축과 도시 계획 분야에 실질적인 전략적 관점을 제시한다.",
+  "v": 2,
+  "url": "https://www.dezeen.com/2026/10/30/lighting-design-strategic-economic-signifys-sameer-sodhi/",
+  "original_title": "Lighting design a \"strategic economic investment\" says Signify's Sameer Sodhi",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 5237,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-30 15:53",
+  "research": {
+   "entities": [
+    "Signify",
+    "Sameer Sodhi",
+    "Colour Kinetics",
+    "Daniel Hoan Memorial Bridge",
+    "Philadelphia City Hall"
+   ],
+   "questions": [
+    "조명 디자인이 도시 재생과 지역 경제 활성화에 구체적으로 어떤 경제적 가치를 창출하는가?",
+    "건축 조명을 단순한 장식 요소가 아닌 도시 인프라로 바라보는 관점은 현대 도시 계획에서 어떤 변화를 가져오는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Government and Landmarks | Color Kinetics",
+     "url": "https://www.colorkinetics.com/global/solutions/gov-landmarks"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Home | Signify United Kingdom",
+     "url": "https://www.signify.com/en-gb"
+    },
+    {
+     "n": 3,
+     "type": "공식·1차",
+     "title": "Home | Color Kinetics",
+     "url": "https://www.colorkinetics.com/global"
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "Philadelphia City Hall",
+     "url": "https://en.wikipedia.org/wiki/Philadelphia%20City%20Hall"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "chars": 6049
+  },
+  "depth_raw": 4,
+  "depth_v": 2
  }
 }

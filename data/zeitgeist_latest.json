@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-30 12:31 KST",
+  "generated_at": "2026-10-30 15:53 KST",
   "period": "2026.10.23 - 2026.10.30",
-  "total_articles": 378,
+  "total_articles": 380,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 185
+      "count": 187
     },
     {
       "genre": "동시대 미술",
@@ -171,10 +171,16 @@
     },
     {
       "keyword": "빛과 조명",
-      "count": 7,
+      "count": 8,
       "previous_count": 10,
       "trend": "falling",
       "items": [
+        {
+          "title": "Signify의 Sameer Sodhi는 조명 디자인을 \"전략적 경제 투자\" 라고 말합니다.",
+          "url": "https://www.dezeen.com/2026/10/30/lighting-design-strategic-economic-signifys-sameer-sodhi/",
+          "image_url": "https://static-2026.dezeen.com/uploads/2026/10/Signify_dezeen_2364_col_6-852x852.jpg",
+          "source_name": "Dezeen"
+        },
         {
           "title": "최고의 침대 옆 램프 및 테이블 램프 10개 (2026)",
           "url": "https://www.architecturaldigest.com/gallery/best-table-lamps-and-bedside-lamps",
@@ -192,12 +198,6 @@
           "url": "https://www.archdaily.com/1187618/obra-blanca-2026-brought-together-more-than-23000-industry-professionals-in-its-seventh-edition",
           "image_url": "https://images.adsttc.com/media/images/6ad8/ea7c/db5c/2001/882c/f640/large_jpg/obra-blanca-2026-conecta-los-materiales-con-la-practica-arquitectonica_11.jpg?1792600708",
           "source_name": "ArchDaily"
-        },
-        {
-          "title": "숙소를 매력적으로 꾸밀 수 있는 최고의 식사 공간 조명 아이디어",
-          "url": "https://www.architecturaldigest.com/story/best-dining-room-lighting-ideas",
-          "image_url": "https://media.architecturaldigest.com/photos/6ae0c80a684c49c7d03350e0/master/pass/3_GoeslingGroup_01_PhotoCredit_Ryan%20McDonald.jpg",
-          "source_name": "Architectural Digest"
         }
       ]
     }
