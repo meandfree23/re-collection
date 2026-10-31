@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-10-31 03:33 KST",
+  "generated_at": "2026-10-31 10:35 KST",
   "period": "2026.10.24 - 2026.10.31",
-  "total_articles": 396,
+  "total_articles": 415,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 196
+      "count": 208
     },
     {
       "genre": "동시대 미술",
-      "count": 144
+      "count": 151
     },
     {
       "genre": "아방가르드 패션",
@@ -55,10 +55,22 @@
     },
     {
       "keyword": "사진",
-      "count": 9,
+      "count": 11,
       "previous_count": 7,
       "trend": "rising",
       "items": [
+        {
+          "title": "Pipo Nguyen-duy, 사랑하는 사진 교수, 64세에 살해됨",
+          "url": "https://hyperallergic.com/pipo-nguyen-duy-beloved-photography-professor-murdered-at-64/",
+          "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/10/RS93607_PipoNguyen-duy-007_lpr.jpg",
+          "source_name": "Hyperallergic"
+        },
+        {
+          "title": "사진작가 스즈키 준야의 '그 후의 미학'",
+          "url": "https://www.booooooom.com/2026/10/30/aesthetic-of-after-by-photographer-junya-suzuki/",
+          "image_url": "https://cdn.booooooom.com/wp-content/uploads/2026/09/Junya1.jpg",
+          "source_name": "BOOOOOOOM"
+        },
         {
           "title": "희귀병과 아날로그 사진이 결합하는 자기 발견의 초상화",
           "url": "https://www.thisiscolossal.com/2026/10/everything-twice-cy-kuckenbaker-film/",
@@ -70,18 +82,6 @@
           "url": "https://www.anothermag.com/art-photography/17616/harley-weir-dilara-findikoglu-reclaiming-the-witch-zine-idea-books-romania?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=meet-the-witches-in-harley-weir-and-dilara-fi-ndi-kog-lu-s-new-zine",
           "image_url": "https://images-prod.anothermag.com/786/azure/another-prod/470/9/479969.jpeg",
           "source_name": "AnOther Magazine"
-        },
-        {
-          "title": "할리 위어의 현대 마녀에 대한 광활하고 강력한 비전",
-          "url": "https://www.dazeddigital.com/art-photography/article/71266/1/harley-weir-witches-witch-idea-photo-book-romania-photogrpahy-dilara-findikoglu?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=harley-weir-s-expansive-powerful-vision-of-modern-day-witches",
-          "image_url": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/8/1458502.jpeg",
-          "source_name": "Dazed"
-        },
-        {
-          "title": "로컬 인프라로서의 사진 스튜디오/ArchTank",
-          "url": "https://www.archdaily.com/1186440/photography-studio-as-local-infrastructure-archtank",
-          "image_url": "https://images.adsttc.com/media/images/6ac5/4c1f/90e2/9d10/2520/8b91/large_jpg/hinomarusyasinkan-archtank_1.jpg?1791314991",
-          "source_name": "ArchDaily"
         }
       ]
     },
@@ -119,10 +119,16 @@
     },
     {
       "keyword": "빛과 조명",
-      "count": 8,
+      "count": 9,
       "previous_count": 9,
       "trend": "steady",
       "items": [
+        {
+          "title": "대담한 중동 디자인을 기념하는 두바이 디자인 위크 12회",
+          "url": "https://www.dezeen.com/2026/10/30/dubai-design-week-downtown-design-12-edition/",
+          "image_url": "https://static-2026.dezeen.com/uploads/2026/10/Dubai-Design-Week-2026_dezeen_2364_col_0-1024x1024.jpg",
+          "source_name": "Dezeen"
+        },
         {
           "title": "가을을 위한 실내별 레이어 조명 가이드",
           "url": "https://design-milk.com/govee-room-by-room-layered-lighting-guide-for-fall/",
@@ -140,12 +146,6 @@
           "url": "https://www.architecturaldigest.com/gallery/best-table-lamps-and-bedside-lamps",
           "image_url": "https://media.architecturaldigest.com/photos/66db37e55ec07661c0789355/master/pass/ADShopping_Lamps_header%20copy.jpg",
           "source_name": "Architectural Digest"
-        },
-        {
-          "title": "니시자와 류에의 빛나는 전망대는 일본 쓰레기 매립지 내에 우뚝 솟아 있습니다.",
-          "url": "https://www.dezeen.com/2026/10/28/ryue-nishizawa-viewpoint-setouchi-art-industry/",
-          "image_url": "https://static-2026.dezeen.com/uploads/2026/10/final-disposal-site-observation-deck-ryue-nishizawa-setouchi-art-and-industry-architecture-art-installations-japan-shikoku_dezeen_1704_sq-1024x1024.jpg",
-          "source_name": "Dezeen"
         }
       ]
     },
