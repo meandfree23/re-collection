@@ -246497,5 +246497,94 @@
   },
   "depth_raw": 3,
   "depth_v": 2
+ },
+ "dezeen.com/2026/10/31/foster-partners-replacement-san-siro-stadium": {
+  "title_ko": "밀라노 산 시로의 퇴장, 포스터 파트너스의 신축 구장 공개",
+  "summary_ko": "영국 건축 스튜디오 포스터 파트너스와 미국 스튜디오 매니카가 이탈리아 밀라노에 신축할 제네랄리 스타디움 디자인을 공개했다. 7만 1500석 규모의 이 경기장은 99년 역사의 산 시로 스타디움 인근에 건립되며, 길게 뻗은 X자 프레임 콘크리트 지지 구조로 정의된다.",
+  "lens": "99년 세월의 축구를 지워내고 거대한 X자 콘크리트 골격으로 새로운 세기의 경기를 지지한다.",
+  "why_now": "도시의 역사적 스포츠 유산이 철거되고 새로운 하이테크 구조물로 대체되는 전환점을 보여준다.",
+  "mechanism": "길게 늘어선 X자 형태의 콘크리트 서포트를 외관 구조로 노출해 하중을 분산하고 시각적 리듬을 만든다.",
+  "sensory": "거대한 콘크리트 격자 파사드가 드리우는 깊은 음영과 7만여 석의 거대한 스케일감이 현장을 압도한다.",
+  "transfer": "콘크리트 X자 프레임을 로케이션 파사드나 스튜디오 배경의 반복 구조물로 활용해 공간에 중량감을 부여한다.",
+  "context": "노먼 포스터가 이끄는 포스터 파트너스는 하이테크 건축과 구조적 명료함을 바탕으로 공항, 문화 시설, 고층 오피스 등 전 세계 대형 프로젝트를 수행해 왔다.",
+  "findings": [
+   {
+    "text": "포스터 파트너스는 1967년 영국의 건축가 노먼 포스터가 설립한 국제적인 건축사사무소다.",
+    "s": 1,
+    "quote": "Foster and Partners is a British international architecture firm, which is headquartered in London, England. It was founded in 1967 by British architect and designer Norman Foster."
+   }
+  ],
+  "keywords": [
+   "포스터파트너스",
+   "스타디움",
+   "콘크리트구조",
+   "밀라노",
+   "산시로"
+  ],
+  "evidence": "Generali Stadium will be defined by a structural facade composed of elongated X-framed concrete supports.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "대형 스타디움 프로젝트의 구조적 특징과 맥락이 명확하지만 라운드업 기사의 일부를 발췌하여 소개한다.",
+  "v": 2,
+  "url": "https://www.dezeen.com/2026/10/31/foster-partners-replacement-san-siro-stadium/",
+  "original_title": "This week Foster + Partners unveiled the replacement for San Siro stadium",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 3311,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-31 15:44",
+  "research": {
+   "entities": [
+    "Foster + Partners",
+    "San Siro",
+    "Norman Foster",
+    "Frank Gehry",
+    "Schemata Architects"
+   ],
+   "questions": [
+    "밀라노의 새로운 제네랄리 스타디움은 기존 산 시로 스타디움과 비교해 어떤 건축적 특징과 차이점을 가지나요?",
+    "프랭크 게리가 아부다비에 설계한 새로운 콘서트홀 프로젝트의 주요 디자인 컨셉은 무엇인가요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Foster and Partners",
+     "url": "https://en.wikipedia.org/wiki/Foster%20and%20Partners"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "San Siro",
+     "url": "https://en.wikipedia.org/wiki/San%20Siro"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "이스탄불 건축 주간에서 열린 프랭크 게리 추모 프로그램",
+     "url": "https://www.archdaily.com/1185548/frank-gehry-illuminations"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "캘거리에 상륙한 1960년대 캘리포니아 모더니즘, 스테이블 팜스 클럽",
+     "url": "https://www.wallpaper.com/travel/restaurants/stable-palms-club-calgary-review"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "월페이퍼 30주년, 17인의 크리에이터가 빚어낸 케이크의 형상들",
+     "url": "https://www.wallpaper.com/art/wallpaper-30-birthday-cakes"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 3200
+  },
+  "depth_raw": 3,
+  "depth_v": 2
  }
 }
