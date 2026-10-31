@@ -246586,5 +246586,348 @@
   },
   "depth_raw": 3,
   "depth_v": 2
+ },
+ "hyperallergic.com/to-live-is-to-believe": {
+  "title_ko": "도심의 거리와 파티장을 가로지르는 예술가들의 퍼포먼스",
+  "summary_ko": "하이퍼알러지크(Hyperallergic)의 핼러윈 파티와 뉴욕 퀸즈 거리에서 포착된 도끼를 든 여성의 모습 등 예술과 일상의 경계를 넘나드는 퍼포먼스의 순간들을 조명한다. 마르셀 뒤샹의 영상 속 발언과 파티에 모인 예술가들의 모습은 일상 속에서 예술적 행위가 작동하는 방식을 보여준다.",
+  "lens": "일상과 비일상의 경계에서 도구와 신체로 수행되는 도시의 퍼포먼스를 포착한다.",
+  "why_now": "예술계가 제도적 공간을 벗어나 거리와 파티라는 날것의 현장으로 확장되는 동시대적 국면을 드러낸다.",
+  "mechanism": "빨간 드레스와 도끼 같은 소품, 경찰차의 사이렌 소리, 그리고 거리의 군중이라는 물리적 요소들이 긴장감을 형성한다.",
+  "sensory": "차가운 도끼 날의 금속 질감과 붉은 피, 멀리서 울리는 사이렌 소리가 도시의 거친 현실감을 전달한다.",
+  "transfer": "도시 거리 씬에서 소품과 인물의 빠른 걸음걸이를 통해 서사적 긴장감을 연출하는 콘티에 적용한다.",
+  "context": "미술 매체 하이버알러지크가 주최한 핼러윈 파티와 편집장 시나 나자피(Sina Najafi)가 이끄는 캐비닛 매거진의 아카이브적 시도가 교차한다.",
+  "findings": [
+   {
+    "text": "시나 나자피는 뉴욕에 본거지를 둔 캐비닛 매거진의 설립자이자 편집장이다.",
+    "s": 1,
+    "quote": "Sina Najafi is an American cultural journalist. He is the founder and editor-in-chief of New York-based Cabinet Magazine."
+   },
+   {
+    "text": "마르셀 뒤샹은 미국 아방가르드 발전의 핵심적인 역할을 한 프랑스계 미국인 예술가이다.",
+    "s": 2,
+    "quote": "Henri-Robert-Marcel Duchamp (28 July 1887 – 2 October 1968) was a French-American artist, chess player, and inventor who played a key role in the development of the avant-garde in the United States"
+   }
+  ],
+  "keywords": [
+   "퍼포먼스",
+   "도시",
+   "핼러윈",
+   "마르셀 뒤샹"
+  ],
+  "evidence": "On a fair afternoon in Queens, New York, a woman in a red dress crosses the street in front of me with an actual axe under her arm.",
+  "kind": "뉴스·이슈",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "예술 매체의 행사이슈와 거리의 퍼포먼스를 포착한 에세이로 정보와 현장감이 공존한다.",
+  "v": 2,
+  "url": "https://hyperallergic.com/to-live-is-to-believe/",
+  "original_title": "To Live Is to Believe",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 9000,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-31 23:24",
+  "research": {
+   "entities": [
+    "Sina Najafi",
+    "Marcel Duchamp",
+    "Cabinet Magazine",
+    "Hyperallergic",
+    "Ursula von Rydingsvard"
+   ],
+   "questions": [
+    "하이버올릭(Hyperallergic)의 핼러윈 파티가 지역 예술 커뮤니티에서 갖는 문화적 의미는 무엇인가?",
+    "본문에서 언급된 마르셀 뒤샹의 영상과 예술가들의 거리 퍼포먼스는 어떤 연관성을 가지는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Sina Najafi",
+     "url": "https://en.wikipedia.org/wiki/Sina%20Najafi"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Marcel Duchamp",
+     "url": "https://en.wikipedia.org/wiki/Marcel%20Duchamp"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "칠십 년간 검열에 맞선 시선, 세 명의 예술가를 기리며",
+     "url": "https://hyperallergic.com/remembering-lucia-laguna-rodrigo-cass-and-nelson-garrido/"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "알렉시스 폴린 검스가 다시 읽는 앨마 토마스의 색채 밭",
+     "url": "https://hyperallergic.com/poems-for-alma-thomas/"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "성인 잡지에서 건져 올린 환희, 윌리엄 코플리의 X-Rated",
+     "url": "https://www.juxtapoz.com/news/painting/william-n-copley-x-rated-1972-1974-galerie-max-hetzler-berlin/"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 2547
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "archdaily.com/1187414/simple-structures-multiple-uses-rethinking-the-schoolyard-and-its-canopy-127af": {
+  "title_ko": "아스팔트를 걷어낸 운동장, 단순한 구조로 재정의한 학교 캐노피",
+  "summary_ko": "프랑스 이테빌의 폴 베르 초등학교에서 건축 사무소 127af가 아스팔트 운동장을 식재 조경으로 바꾸고 새로운 캐노피를 건설했다. 단순한 재료와 건축 방식을 활용해 아이들을 위한 시원하고 포용적인 환경을 구축한다.",
+  "lens": "아스팔트를 걷어낸 자리에 단순한 구조의 캐노피와 식재를 놓아 학교 마당의 기능을 확장한다.",
+  "why_now": "도시 학교에서 아스팔트 마당을 생태적 풍경으로 전환하고 기후 변화에 대응하는 방식이 중요한 과제로 떠오른다.",
+  "mechanism": "간단한 재료와 구축 방식을 적용한 캐노피를 세워 그늘을 만들고, 포장면을 줄여 열섬 현상을 완화한다.",
+  "sensory": "차가운 아스팔트 대신 초록색 식재와 나무 그늘이 만드는 서늘한 공기와 빛의 변화를 느낄 수 있다.",
+  "transfer": "야외 공간이나 로케이션 촬영에서 단순한 철골이나 목재 프레임으로 그늘과 동선을 만드는 미니멀한 구조물 연출에 참고한다.",
+  "context": "프랑스 이테빌의 폴 베르 초등학교에서 진행된 1600제곱미터 규모의 프로젝트다.",
+  "findings": [],
+  "keywords": [
+   "학교운동장",
+   "캐노피",
+   "조경건축",
+   "지속가능성"
+  ],
+  "evidence": "At Paul Bert Elementary School in Itteville, south of Paris, the transformation of an asphalt schoolyard into a planted landscape and the construction of a new canopy explore how simple materials and construction techniques can create a cooler, more inclusive environment for children.",
+  "kind": "프로젝트",
+  "depth": 2,
+  "grounding": "thin",
+  "depth_reason": "아스팔트 운동장 개조와 캐노피 설치 프로젝트를 간결하게 소개하나 상세한 도면이나 기법 설명이 부족하다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1187414/simple-structures-multiple-uses-rethinking-the-schoolyard-and-its-canopy-127af",
+  "original_title": "Simple Structures, Multiple Uses: Rethinking the Schoolyard and Its Canopy / 127af",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 1201,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-31 23:24",
+  "research": {
+   "entities": [
+    "127af",
+    "Deborah Feldman",
+    "Baptiste Potier",
+    "Collectif l'Hydre",
+    "Paul Bert Elementary School"
+   ],
+   "questions": [
+    "프랑스 이테빌(Itteville)의 폴 베르(Paul Bert) 초등학교 운동장 개조 프로젝트는 아스팔트를 어떻게 친환경적인 공간으로 바꾸었나요?",
+    "건축 사무소 127af가 설계한 캐노피 구조물은 학생들에게 어떤 기능적, 교육적 이점을 제공하나요?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "designboom.com/art/in-this-video-game-moths-and-wolves-play-out-a-nearby-climate-future": {
+  "title_ko": "나방과 늑대의 눈으로 본 로스앤젤레스의 기후 미래",
+  "summary_ko": "아티스트 앨리스 버크넬이 제작한 비디오 게임 '디 어루비얼스'는 모래가 뒤덮은 미래의 로스앤젤레스를 배경으로 한다. 플레이어는 나방, 늑대, 나무 등 비인간 NPC의 시점을 오가며 기후 위기와 생태계 붕괴를 탐험한다. 이 프로젝트는 게임 엔진을 통해 생태 중심적 사고와 대안적 감각을 시각화한다.",
+  "lens": "인간 중심의 시선을 지우고 나방과 늑대의 비인간적 시점으로 기후 위기를 체감하게 만든다.",
+  "why_now": "기후 위기와 인류세 논의 속에서 인간 중심적 세계관에서 벗어나 자연의 논리를 탐색하는 동시대 예술의 흐름을 보여준다.",
+  "mechanism": "게임 엔진을 활용해 네 개의 레벨을 구성하고, 플레이어가 나방, 나무, 늑대 등의 시점을 직접 체화하도록 설계했다.",
+  "sensory": "붉은 숲과 백색의 모래 입자, 푸른 안개 글씨가 황혼의 빛 속에서 기괴하고 황량한 분위기를 자아낸다.",
+  "transfer": "가상의 디스토피아 공간이나 생태계 변화를 연출할 때 인간이 아닌 동식물의 시각에서 카메라 렌즈를 운용하는 콘티에 적용할 수 있다.",
+  "context": "작가 앨리스 버크넬은 게임 엔진을 매개로 투기적 미래와 생태적 이슈를 탐구하는 디지털 영상 및 게임 작업을 지속해 왔다.",
+  "findings": [
+   {
+    "text": "통바 족은 로스앤젤레스 분지와 남부 채널 제도 지역의 캘리포니아 원주민이다.",
+    "s": 1,
+    "quote": "The Tongva are an indigenous people of California from the Los Angeles Basin and the Southern Channel Islands"
+   }
+  ],
+  "keywords": [
+   "비디오게임",
+   "기후위기",
+   "비인간시점",
+   "생태미술",
+   "로스앤젤레스"
+  ],
+  "evidence": "alice bucknell's work, the alluvials, turns drought and ecological collapse into an unsettling vision of los angeles in the near future.",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "비인간 NPC 시점을 활용한 독창적인 게임 메커니즘과 공간 전시 사례가 구체적으로 제시되어 있다.",
+  "v": 2,
+  "url": "https://www.designboom.com/art/in-this-video-game-moths-and-wolves-play-out-a-nearby-climate-future/",
+  "original_title": "in this video game, moths and wolves play out a nearby climate future",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 8382,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-31 23:24",
+  "research": {
+   "entities": [
+    "Alice Bucknell",
+    "The Alluvials",
+    "Tongva"
+   ],
+   "questions": [
+    "앨리스 버크넬의 비디오 게임 'The Alluvials'가 기후 위기를 다루는 독창적인 게임 메커니즘은 무엇인가?",
+    "작품에서 LA의 지리적·역사적 맥락(통바 원주민, 로스앤젤레스 강 등)은 어떻게 시각화되었는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Tongva",
+     "url": "https://en.wikipedia.org/wiki/Tongva"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 1400
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "dezeen.com/2026/10/31/osullivan-skoufoglou-architects-garden-studio": {
+  "title_ko": "빅토리아 주택 정원에 심은 벽돌과 목재의 작업실",
+  "summary_ko": "오설리반 스코포글루 아키텍츠가 런던 하이버리의 빅토리아 시대 주택 정원 끝에 창의적인 부부를 위한 목재 구조의 작업실을 완공했다. 낮은 벽돌 기단 위에 가벼운 목재 골조를 얹고 동쪽 창을 따라 긴 책상을 배치해 자연광과 풍경을 작업 환경으로 끌어들였다.",
+  "lens": "낮은 벽돌 기단과 목재 구조로 정원의 풍경을 거스르지 않고 스며드는 작업실의 물성.",
+  "why_now": "도시 주거지에서 독립된 창작 공간이 요구되는 시대에, 기존 주거지와 조화를 이루며 최소한의 시각적 개입으로 풍경에 안착하는 건축적 해법을 보여준다.",
+  "mechanism": "하부의 낮은 벽돌 벽체가 주택의 경계 벽과 전통 온실의 비례를 이어받고, 그 위로 가벼운 목재 골조를 올려 건물의 시각적 무게를 덜어냈다.",
+  "sensory": "노출된 목재 지붕 골조와 벽돌 질감, 도장한 소나무 벽면 사이로 동쪽 창을 통해 시시각각 변하는 정원의 자연광이 작업 표면 위로 직접 떨어진다.",
+  "transfer": "공간 촬영이나 인터뷰 세트에서 창가에 긴 책상을 붙이고 측면 개구부로 시선을 제한해, 외부 풍경을 배경이 아닌 화면 안쪽으로 깊숙이 끌어들이는 구도로 활용한다.",
+  "context": "오설리반 스코포글루 아키텍츠가 런던의 빅토리아 시대 주택 정원 환경을 고려하여 정원 끝에 배치한 작업실 프로젝트다.",
+  "findings": [],
+  "keywords": [
+   "정원스튜디오",
+   "목재구조",
+   "벽돌기단",
+   "자연광"
+  ],
+  "evidence": "A low brick base anchors the timber structure of this pared-back garden studio",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "구체적인 정원 스튜디오 프로젝트이나 선례가 아주 드물지 않고 평범한 소개에 가깝다.",
+  "v": 2,
+  "url": "https://www.dezeen.com/2026/10/31/osullivan-skoufoglou-architects-garden-studio/",
+  "original_title": "O'Sullivan Skoufoglou Architects creates \"quiet yet present\" garden studio in London",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 3757,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-31 23:24",
+  "research": {
+   "entities": [
+    "O’Sullivan Skoufoglou Architects",
+    "Amalia Skoufoglou",
+    "Highbury"
+   ],
+   "questions": [
+    "O’Sullivan Skoufoglou Architects가 이 프로젝트에서 빅토리아 시대 주택과 조화를 이루기 위해 사용한 구체적인 건축적 기법은 무엇인가요?",
+    "이 정원 스튜디오의 내부 공간 구성과 채광을 극대화하기 위한 디자인 특징에는 어떤 것이 있나요?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "wallpaper.com/travel/alur-delsey-paris-aluminium-luggage": {
+  "title_ko": "탄소섬유의 결을 품은 알루미늄, 델시의 80주년 캐리어 알루르",
+  "summary_ko": "프랑스 여행 가방 브랜드 델시 파리스가 창립 80주년을 맞아 첫 번째 알루미늄 컬렉션 '알루르'를 출시했다. 55cm 기내용과 76cm 화물용 두 가지 크기로 선보이며, 브러시 처리된 알루미늄 표면에 탄소섬유 패턴을 더했다. 가죽 손잡이와 이중 TSA 잠금장치, 블루투스 트래커 수납공간을 적용했다.",
+  "lens": "고전적인 알루미늄 케이스의 무쇠 같은 표면에 탄소섬유의 결을 이식해 금속의 물성을 비틀어낸다.",
+  "why_now": "알루미늄 하드셸 러기지 시장 경쟁이 치열해진 가운데, 전통적인 은색을 넘어 과감한 색상과 가공 질감으로 차별화를 시도하는 국면이다.",
+  "mechanism": "고급 알루미늄 표면을 브러시 처리하고 탄소섬유 직조 패턴에서 영감을 받은 질감을 입혀 빛의 각도에 따라 입체적인 반사를 만든다. 6.8kg의 무게와 보강된 모서리, 충격 흡수 더블 휠로 내구성을 높였다.",
+  "sensory": "차가운 금속 질감과 손에 닿는 천연 가죽 핸들의 온도가 대비를 이루며, 묵직한 프레임이 맞물리는 소리가 단단한 밀폐감을 준다.",
+  "transfer": "금속 소재의 소품이나 하드웨어를 클로즈업할 때, 헤어라인 브러시 가공과 미세한 패턴을 조합해 빛 반사의 왜곡을 유도하는 질감 연출에 활용한다.",
+  "context": "프랑스 파리 인근 트랑블레앙프랑스에 본사를 둔 델시는 창립 80주년을 맞아 첫 알루미늄 라인업인 알루르를 선보였다.",
+  "findings": [
+   {
+    "text": "알루르는 브러시 알루미늄 셸과 탄소섬유 인스파이어드 텍스처, 제뉴인 가죽 핸들을 특징으로 한다.",
+    "s": 1,
+    "quote": "Featuring a brushed aluminum shell, a carbon fiber-inspired texture, and genuine leather handles, this anniversary collection is built like a vault"
+   },
+   {
+    "text": "델시는 프랑스 파리 교외의 트랑블레앙프랑스에 본사를 두고 있다.",
+    "s": 2,
+    "quote": "It is based in Tremblay-en-France, in the suburbs of Paris."
+   }
+  ],
+  "keywords": [
+   "알루미늄",
+   "하드셸",
+   "러기지",
+   "탄소섬유",
+   "브러시가공"
+  ],
+  "evidence": "Featuring a brushed aluminum shell, a carbon fiber-inspired texture, and genuine leather handles, this anniversary collection is built like a vault",
+  "kind": "제품·오브제",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "브랜드의 첫 알루미늄 시도와 소재 질감의 변화가 명확하나 카테고리의 전형성을 완전히 벗어나지는 않는다.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/travel/alur-delsey-paris-aluminium-luggage",
+  "original_title": "There’s a new player in the aluminium luggage game: meet Alu’r from Delsey Paris",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 2495,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-10-31 23:24",
+  "research": {
+   "entities": [
+    "Delsey Paris",
+    "Alu'r",
+    "Coralie Lindvay",
+    "Carl Friedrik",
+    "Jonathan Bell"
+   ],
+   "questions": [
+    "델시(Delsey Paris)가 창립 80주년을 맞아 출시한 첫 번째 알루미늄 캐리어 컬렉션 'Alu'r'의 디자인 특징과 차별점은 무엇인가?",
+    "기존 알루미늄 러기지 시장에서 델시의 새로운 시도가 경쟁 브랜드 제품들과 비교해 어떤 시장 반응을 이끌어내고 있는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Alu'r",
+     "url": "https://go.redirectingat.com?id=92X1650074&xcust=wallpaper_us_1361406935314918056&xs=1&url=https%3A%2F%2Fwww.delsey.com%2Fen-gb%2Fcollections%2Falur&sref=https%3A%2F%2Fwww.wallpaper.com"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Delsey",
+     "url": "https://en.wikipedia.org/wiki/Delsey"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "알루미늄의 빛과 효율, 루메의 가장 가벼운 카라반 레인저",
+     "url": "https://www.wallpaper.com/transportation/lume-ranger-caravan"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "알루미늄과 탄도 나일론으로 재해석한 하드셸 여행 가방 5선",
+     "url": "https://www.wallpaper.com/travel/new-hard-sided-designer-luggage"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "스피도 아이큐, 수영의 궤적을 시각화하는 데이터 웨어러블",
+     "url": "https://www.wallpaper.com/tech/speedo-iq-is-a-new-system-that-brings-tracking-and-metrics-to-the-world-of-serious-swimming"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 3728
+  },
+  "depth_raw": 3,
+  "depth_v": 2
  }
 }
