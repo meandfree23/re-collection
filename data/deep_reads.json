@@ -246929,5 +246929,53 @@
   },
   "depth_raw": 3,
   "depth_v": 2
+ },
+ "archdaily.com/1187679/alonakia-react-architects": {
+  "title_ko": "에게 해의 가파른 절벽을 지형의 일부로 품은 알로나키아 하우스",
+  "summary_ko": "그리스 안티파로스의 가파른 서향 경사면에 세워진 350제곱미터 규모의 주택이다. 리액트 아키텍트는 건물을 풍경 속의 이질적인 오브제가 아니라 기존 지형의 연장선으로 설계했다. 키클라데스 풍경의 특성을 현대적인 거주 공간으로 번역해 땅을 빚어내는 방식으로 건물을 안착시켰다.",
+  "lens": "단순한 건축적 조형을 넘어 거친 지형을 깎고 다듬어 지층의 일부로 스며드는 방식을 택한다.",
+  "why_now": "주변 풍경을 압도하는 건축 대신 지형과 완전히 결합하여 자연과 주거의 경계를 허무는 태도가 주목받는 시점이다.",
+  "mechanism": "급경사지의 지형적 조건을 그대로 활용하여 건물을 땅속으로 파묻거나 지형의 흐름에 맞춰 배치한다.",
+  "sensory": "거친 바위 지형과 에게 해의 푸른 수평선이 대비되며, 서향의 깊은 빛이 실내 깊숙이 스며든다.",
+  "transfer": "현장 촬영이나 공간 디자인 시 지형의 낙차를 그대로 이용해 인위적 요소를 최소화하는 구도를 짠다.",
+  "context": "리액트 아키텍트가 그리스 안티파로스의 험준한 지형 속에서 자연과 주거의 연속성을 탐구한 프로젝트다.",
+  "findings": [],
+  "keywords": [
+   "지형건축",
+   "그리스건축",
+   "경사지주택",
+   "지속가능성"
+  ],
+  "evidence": "Instead of introducing a singular object onto the hillside, the project is conceived as a continuation of the existing topography",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "경사지 지형과 건축의 결합이라는 명확한 설계 개념이 있으나 세부적인 도면이나 평면 구성 데이터가 부족하다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1187679/alonakia-react-architects",
+  "original_title": "Alonakia House / React Architects",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 1744,
+  "fetch": "ok",
+  "cliche_hits": [
+   "경계를 허"
+  ],
+  "read_at": "2026-11-01 00:16",
+  "research": {
+   "entities": [
+    "React Architects",
+    "Alonakia House",
+    "Antiparos"
+   ],
+   "questions": [
+    "키클라데스 건축의 지형적 특징을 현대 주거 공간에 어떻게 반영했는가?",
+    "경사지라는 지형적 제약을 극복하기 위해 어떤 설계 전략을 사용했는가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
  }
 }
