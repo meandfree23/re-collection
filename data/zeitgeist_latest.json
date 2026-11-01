@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-01 19:16 KST",
-  "period": "2026.10.25 - 2026.11.01",
-  "total_articles": 415,
+  "generated_at": "2026-11-02 00:02 KST",
+  "period": "2026.10.26 - 2026.11.02",
+  "total_articles": 420,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 209
+      "count": 213
     },
     {
       "genre": "동시대 미술",
-      "count": 150
+      "count": 151
     },
     {
       "genre": "아방가르드 패션",
@@ -23,10 +23,22 @@
   "themes": [
     {
       "keyword": "가구 디자인",
-      "count": 12,
+      "count": 14,
       "previous_count": 8,
       "trend": "rising",
       "items": [
+        {
+          "title": "10월에 선보이는 Dezeen의 인기 가구 및 가정용품",
+          "url": "https://www.dezeen.com/2026/11/01/dezeens-favourite-furniture-homeware-october/",
+          "image_url": "https://static-2026.dezeen.com/uploads/2026/10/sq-october-product-favourites_dezeen_2364_col_0-1024x1024.jpg",
+          "source_name": "Dezeen"
+        },
+        {
+          "title": "KOI 레스토랑/SOA Architekti",
+          "url": "https://www.archdaily.com/1187623/koi-soa-architekti",
+          "image_url": "https://images.adsttc.com/media/images/6ae0/d075/20d6/d801/8852/1884/large_jpg/koi-soa-architekti_3.jpg?1793118369",
+          "source_name": "ArchDaily"
+        },
         {
           "title": "아스펜 골란 (Aspen Golann) 의 17세기 자수와 손으로 조각한 나무 그릇의 만남",
           "url": "https://www.thisiscolossal.com/2026/10/aspen-golann-woodworking-embroidery-vessels-sculpture/",
@@ -38,18 +50,6 @@
           "url": "https://www.wallpaper.com/design-interiors/lighting/sabine-marcelis-bubblegum-pink-lava-lamp-for-mathmos",
           "image_url": "https://cdn.mos.cms.futurecdn.net/VX7V9ScabLfFemn6j7FFyC-1920-80.jpg",
           "source_name": "Wallpaper*"
-        },
-        {
-          "title": "현대적인 사무실을 위한 디자인: Brunner와 Doshi Levien, 유연한 가구 컬렉션 출시",
-          "url": "https://www.wallpaper.com/design-interiors/furniture/brunner-group-doshi-levien-session-collection-office-furniture",
-          "image_url": "https://cdn.mos.cms.futurecdn.net/5VhRei5XAXKpiYiqXVgFPk-1920-80.jpg",
-          "source_name": "Wallpaper*"
-        },
-        {
-          "title": "몬태나, 지속 가능한 가구 메이커 Takt 인수",
-          "url": "https://www.dezeen.com/2026/10/29/montana-takt-acquisition/",
-          "image_url": "https://static-2026.dezeen.com/uploads/2026/10/sq-montana-takt_dezeen_2364_col_0-1024x1024.jpg",
-          "source_name": "Dezeen"
         }
       ]
     },
@@ -82,6 +82,38 @@
           "url": "https://www.anothermag.com/art-photography/17616/harley-weir-dilara-findikoglu-reclaiming-the-witch-zine-idea-books-romania?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=meet-the-witches-in-harley-weir-and-dilara-fi-ndi-kog-lu-s-new-zine",
           "image_url": "https://images-prod.anothermag.com/786/azure/another-prod/470/9/479969.jpeg",
           "source_name": "AnOther Magazine"
+        }
+      ]
+    },
+    {
+      "keyword": "콘크리트 물성",
+      "count": 8,
+      "previous_count": 6,
+      "trend": "rising",
+      "items": [
+        {
+          "title": "콘크리트 뉴욕은 조각 건축 디자인에 대한 최신 블루 크로우 가이드북입니다",
+          "url": "https://www.wallpaper.com/architecture/concrete-new-york-is-the-latest-blue-crow-guidebook-to-sculptural-architectural-design",
+          "image_url": "https://cdn.mos.cms.futurecdn.net/ZxzDauezhhbQkQ8kbspPBM-1920-80.jpg",
+          "source_name": "Wallpaper*"
+        },
+        {
+          "title": "아이슬란드의 대마초 통나무집은 '영혼을 위한 집‘ 입니다.",
+          "url": "https://www.wallpaper.com/architecture/hempcrete-biobuilding-ludica-iceland",
+          "image_url": "https://cdn.mos.cms.futurecdn.net/QX3h7wowrKEqTrRYRwE4vn-1920-80.jpg",
+          "source_name": "Wallpaper*"
+        },
+        {
+          "title": "콘야 광장 주택 및 자전거 박물관 확장/얄린 건축 디자인",
+          "url": "https://www.archdaily.com/1187508/konya-square-houses-and-bicycle-museum-extension-yalin-architectural-design",
+          "image_url": "https://images.adsttc.com/media/images/6ae0/af72/db5c/2001/882d/0aa3/large_jpg/konya-square-houses-and-bicycle-museum-extension-yalin-architectural-design_25.jpg?1793109879",
+          "source_name": "ArchDaily"
+        },
+        {
+          "title": "올라버, \"랜턴 같은\" 유리 블록 외관이 있는 다목적 골목길 스튜디오 공개",
+          "url": "https://www.dezeen.com/2026/10/30/olaver-laneway-studio-glass-block-facade-melbourne/",
+          "image_url": "https://static-2026.dezeen.com/uploads/2026/10/Square-Olaver-Laneway-Studio_dezeen_2364_col_13-1024x1024.jpg",
+          "source_name": "Dezeen"
         }
       ]
     },
@@ -150,66 +182,34 @@
       ]
     },
     {
-      "keyword": "콘크리트 물성",
-      "count": 7,
+      "keyword": "레스토랑·호스피탈리티",
+      "count": 6,
       "previous_count": 6,
       "trend": "steady",
       "items": [
         {
-          "title": "아이슬란드의 대마초 통나무집은 '영혼을 위한 집‘ 입니다.",
-          "url": "https://www.wallpaper.com/architecture/hempcrete-biobuilding-ludica-iceland",
-          "image_url": "https://cdn.mos.cms.futurecdn.net/QX3h7wowrKEqTrRYRwE4vn-1920-80.jpg",
-          "source_name": "Wallpaper*"
-        },
-        {
-          "title": "콘야 광장 주택 및 자전거 박물관 확장/얄린 건축 디자인",
-          "url": "https://www.archdaily.com/1187508/konya-square-houses-and-bicycle-museum-extension-yalin-architectural-design",
-          "image_url": "https://images.adsttc.com/media/images/6ae0/af72/db5c/2001/882d/0aa3/large_jpg/konya-square-houses-and-bicycle-museum-extension-yalin-architectural-design_25.jpg?1793109879",
+          "title": "KOI 레스토랑/SOA Architekti",
+          "url": "https://www.archdaily.com/1187623/koi-soa-architekti",
+          "image_url": "https://images.adsttc.com/media/images/6ae0/d075/20d6/d801/8852/1884/large_jpg/koi-soa-architekti_3.jpg?1793118369",
           "source_name": "ArchDaily"
         },
         {
-          "title": "올라버, \"랜턴 같은\" 유리 블록 외관이 있는 다목적 골목길 스튜디오 공개",
-          "url": "https://www.dezeen.com/2026/10/30/olaver-laneway-studio-glass-block-facade-melbourne/",
-          "image_url": "https://static-2026.dezeen.com/uploads/2026/10/Square-Olaver-Laneway-Studio_dezeen_2364_col_13-1024x1024.jpg",
-          "source_name": "Dezeen"
-        },
-        {
-          "title": "뷔로 올레 셰렌 (Büro Ole Scheeren) 은 한국의 구불구불한 콘크리트 갤러리를 \"전통적인 문턱 없이\" 디자인합니다.",
-          "url": "https://www.dezeen.com/2026/10/29/buro-ole-scheeren-suseong-continuum-gallery-south-korea/",
-          "image_url": "https://static-2026.dezeen.com/uploads/2026/10/buro-ole-scheeren-suseong-continuum-gallery-south-korea-sq_dezeen_2364_col_0-1024x1024.jpg",
-          "source_name": "Dezeen"
-        }
-      ]
-    },
-    {
-      "keyword": "리노베이션·재생",
-      "count": 6,
-      "previous_count": 5,
-      "trend": "steady",
-      "items": [
-        {
-          "title": "로티어 - 브뤼셀의 46개 주택 리노베이션/다중 건축 및 도시주의",
-          "url": "https://www.archdaily.com/1187565/rotiers-renovation-of-46-housing-units-in-brussels-multiple-architecture-and-urbanism",
-          "image_url": "https://images.adsttc.com/media/images/6adf/8efb/3271/8400/01d0/ecee/large_jpg/Rotiers_08_Bruno_Dias_Ventura.jpg?1793036122",
+          "title": "AEME Building / Paz Arquitectura",
+          "url": "https://www.archdaily.com/994469/edificio-aeme-paz-arquitectura",
+          "image_url": "https://images.adsttc.com/media/images/63ab/2234/adb1/7440/9e70/d1c9/large_jpg/aeme-paz-arquitectura_7.jpg?1672159805",
           "source_name": "ArchDaily"
         },
         {
-          "title": "누녜스데발보아",
-          "url": "https://leibal.com/interiors/nunez-de-balboa/",
-          "image_url": "https://leibal.com/wp-content/uploads/2026/10/leibal_nunez-de-balboa_emechaves-studio_01.jpg",
-          "source_name": "Leibal"
+          "title": "미미 카쿠시, 마이애미 비치에 일본의 매력을 더하다",
+          "url": "https://design-milk.com/mimi-kakushi-delano-miami-pirajean-lees/",
+          "image_url": "https://design-milk.com/images/2026/10/Pirajean-Lees-x-Mimi-Kakushi-Delano-Miami-Mimi-Kakushi-00587Robert-Reiger-e1792856834637-1500x1000.jpg",
+          "source_name": "Design Milk"
         },
         {
-          "title": "AD-WO, 피츠버그 카네기 미술관 하인즈 건축 센터 리노베이션",
-          "url": "https://www.archdaily.com/1187645/ad-wo-to-renovate-the-heinz-architectural-center-at-pittsburghs-carnegie-museum-of-art",
-          "image_url": "https://images.adsttc.com/media/images/6ae1/57bb/db5c/2001/882d/0d18/large_jpg/heinz-architectural-center_3.jpg?1793152992",
-          "source_name": "ArchDaily"
-        },
-        {
-          "title": "하우스 위/웨스피 드 뫼롱 로미오 건축가",
-          "url": "https://www.archdaily.com/1186943/house-we-wespi-de-meuron-romeo-architects",
-          "image_url": "https://images.adsttc.com/media/images/6ad0/e600/b2c4/c300/0178/fa0b/large_jpg/Casa_WE_Albo-32.jpg?1792075283",
-          "source_name": "ArchDaily"
+          "title": "Trattoria Breda by Allen Kaufmann Architekten Flirts With Ugly and Lands Firmly on Cool.",
+          "url": "https://www.yellowtrace.com.au/allen-kaufmann-architekten-trattoria-breda-berlin-orange-dining-room/",
+          "image_url": "https://assets.yellowtrace.com.au/wp-content/uploads/2026/10/07151150/Yellowtrace-Allen-Kaufmann-Architekten-Trattoria-Breda-Berlin-Orange-Dining-Room-14_opt80.jpg",
+          "source_name": "Yellowtrace"
         }
       ]
     }
