@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-11-02 00:02 KST",
+  "generated_at": "2026-11-02 00:52 KST",
   "period": "2026.10.26 - 2026.11.02",
-  "total_articles": 420,
+  "total_articles": 378,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 213
+      "count": 189
     },
     {
       "genre": "동시대 미술",
-      "count": 151
+      "count": 138
     },
     {
       "genre": "아방가르드 패션",
-      "count": 47
+      "count": 43
     },
     {
       "genre": "미디어 파사드·3D",
-      "count": 9
+      "count": 8
     }
   ],
   "themes": [
     {
       "keyword": "가구 디자인",
-      "count": 14,
+      "count": 13,
       "previous_count": 8,
       "trend": "rising",
       "items": [
@@ -56,7 +56,7 @@
     {
       "keyword": "사진",
       "count": 11,
-      "previous_count": 7,
+      "previous_count": 5,
       "trend": "rising",
       "items": [
         {
@@ -120,8 +120,8 @@
     {
       "keyword": "목재 건축",
       "count": 10,
-      "previous_count": 9,
-      "trend": "steady",
+      "previous_count": 7,
+      "trend": "rising",
       "items": [
         {
           "title": "O'Sullivan Skoufoglou Architects는 런던에 \"조용하면서도 현재적인\" 정원 스튜디오를 만듭니다.",
@@ -150,9 +150,41 @@
       ]
     },
     {
+      "keyword": "콘크리트 물성",
+      "count": 8,
+      "previous_count": 4,
+      "trend": "rising",
+      "items": [
+        {
+          "title": "콘크리트 뉴욕은 조각 건축 디자인에 대한 최신 블루 크로우 가이드북입니다",
+          "url": "https://www.wallpaper.com/architecture/concrete-new-york-is-the-latest-blue-crow-guidebook-to-sculptural-architectural-design",
+          "image_url": "https://cdn.mos.cms.futurecdn.net/ZxzDauezhhbQkQ8kbspPBM-1920-80.jpg",
+          "source_name": "Wallpaper*"
+        },
+        {
+          "title": "아이슬란드의 대마초 통나무집은 '영혼을 위한 집‘ 입니다.",
+          "url": "https://www.wallpaper.com/architecture/hempcrete-biobuilding-ludica-iceland",
+          "image_url": "https://cdn.mos.cms.futurecdn.net/QX3h7wowrKEqTrRYRwE4vn-1920-80.jpg",
+          "source_name": "Wallpaper*"
+        },
+        {
+          "title": "콘야 광장 주택 및 자전거 박물관 확장/얄린 건축 디자인",
+          "url": "https://www.archdaily.com/1187508/konya-square-houses-and-bicycle-museum-extension-yalin-architectural-design",
+          "image_url": "https://images.adsttc.com/media/images/6ae0/af72/db5c/2001/882d/0aa3/large_jpg/konya-square-houses-and-bicycle-museum-extension-yalin-architectural-design_25.jpg?1793109879",
+          "source_name": "ArchDaily"
+        },
+        {
+          "title": "올라버, \"랜턴 같은\" 유리 블록 외관이 있는 다목적 골목길 스튜디오 공개",
+          "url": "https://www.dezeen.com/2026/10/30/olaver-laneway-studio-glass-block-facade-melbourne/",
+          "image_url": "https://static-2026.dezeen.com/uploads/2026/10/Square-Olaver-Laneway-Studio_dezeen_2364_col_13-1024x1024.jpg",
+          "source_name": "Dezeen"
+        }
+      ]
+    },
+    {
       "keyword": "빛과 조명",
-      "count": 9,
-      "previous_count": 9,
+      "count": 8,
+      "previous_count": 8,
       "trend": "steady",
       "items": [
         {
@@ -216,11 +248,10 @@
   ],
   "notable_names": [
     "Harley Weir",
-    "Dezeen Awards",
     "Sabine Marcelis",
     "San Siro",
     "Oxford Street",
-    "Apple Music",
+    "Dezeen Awards",
     "Tom Hegen",
     "Aston Martin",
     "Paul Pfeiffer",

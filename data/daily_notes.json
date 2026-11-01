@@ -2956,5 +2956,44 @@
   "v": 3,
   "model": "gemini-3.1-flash-lite-preview",
   "written_at": "2026-11-01 19:17"
+ },
+ "2026-11-02": {
+  "date": "2026-11-02",
+  "headline": "마드리드의 주거 파편과 뉴욕의 거친 콘크리트",
+  "editorial": "이번 호는 역사적 건축의 파편을 수집해 하나의 공간으로 엮어낸 빌라 2030에서 출발한다. 이는 화려한 수직 도시의 이면에서 거친 콘크리트가 지탱해온 구조적 뼈대를 포착한 콘크리트로 기록한 뉴욕과 맞닿아 있다. 과거의 기억을 보존하는 코시체 KOI 레스토랑의 모퉁이 공간은 이 도시의 뼈대와 파편들이 어떻게 현재의 삶과 교류하는지 보여준다.",
+  "threads": [
+   {
+    "name": "건축의 파편과 뼈대",
+    "note": "역사적 건축의 파편과 거친 콘크리트 구조물이 도시의 뼈대를 형성하는 방식을 다룬다.",
+    "items": [
+     {
+      "title": "빌라 2030: 1930년대 모더니즘의 파편을 재조립한 마드리드의 주거 실험",
+      "url": "https://www.yatzer.com/villa-2030-studio-plutarco-madrid-spain"
+     },
+     {
+      "title": "콘크리트로 기록한 뉴욕: 50여 개 구조물로 읽는 도시의 물성",
+      "url": "https://www.wallpaper.com/architecture/concrete-new-york-is-the-latest-blue-crow-guidebook-to-sculptural-architectural-design"
+     }
+    ]
+   },
+   {
+    "name": "도시의 모퉁이와 거점",
+    "note": "관문과 레스토랑 등 도시의 특정 지점이 새로운 교류와 연결의 거점으로 기능하는 사례다.",
+    "items": [
+     {
+      "title": "심천-홍콩 국경의 관문, 에이다스의 층계형 이민 허브",
+      "url": "https://www.dezeen.com/2026/11/01/new-huanggang-port-development-aedas-shenzhen-hong-kong/"
+     },
+     {
+      "title": "역사적 도심의 모퉁이를 채우는 대화: 코시체 KOI 레스토랑",
+      "url": "https://www.archdaily.com/1187623/koi-soa-architekti"
+     }
+    ]
+   }
+  ],
+  "based_on": 5,
+  "v": 3,
+  "model": "gemini-3.5-flash-lite",
+  "written_at": "2026-11-02 00:52"
  }
 }
