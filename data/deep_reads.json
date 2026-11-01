@@ -247661,5 +247661,54 @@
   },
   "depth_raw": 3,
   "depth_v": 2
+ },
+ "wallpaper.com/architecture/hempcrete-biobuilding-ludica-iceland": {
+  "title_ko": "아이슬란드 헴프크리트 오두막, 재료의 현지화와 생태적 건축의 실험",
+  "summary_ko": "아이슬란드의 신생 스튜디오 루디카가 그리므스네스 지역에 '바이오빌딩'을 완공했다. 이들은 현지에서 재배한 산업용 헴프를 활용한 헴프크리트 구조를 통해, 수입 의존도가 높은 아이슬란드 건축 산업의 대안적 가능성을 실험한다. 2년간의 성능 모니터링을 거쳐 현지 건축 규제와 재료 수급의 한계를 실증적으로 기록했다.",
+  "lens": "헴프크리트라는 생물학적 재료를 통해 아이슬란드의 척박한 수입 의존형 건축 환경에 물리적, 제도적 질문을 던지는 실험적 사례다.",
+  "why_now": "기성 건축 자재의 탄소 발자국을 줄이기 위해 지역 기반의 생물학적 재료를 탐구하는 동시대 건축의 태도를 보여준다.",
+  "mechanism": "일본 다실의 비례를 차용해 시선을 지면과 산맥으로 제한하고, 헴프크리트 본체에 해조류 직물과 라임 플라스터 등 자연 재료를 결합해 열적 성능과 공간감을 조절한다.",
+  "sensory": "이끼 낀 지면을 향해 낮게 배치된 창을 통해 외부의 습한 공기와 대지의 질감을 실내로 끌어들이며, 헴프크리트 특유의 거친 벽면과 양모의 부드러운 질감이 대비된다.",
+  "transfer": "공간 연출 시 특정 재료를 사용한 실험적 구조물을 '데몬스트레이터'로 정의하고, 완공 후 2년간의 환경 데이터를 수집해 규제 개선을 제안하는 방식은 프로젝트의 진정성을 확보하는 좋은 전략이다.",
+  "context": "루디카는 런던에서 아이슬란드로 이주한 안나 칼스도티르와 얀 도브로볼스키가 설립한 스튜디오로, 아이슬란드의 전통적인 잔디 집에서 영감을 받아 지역 재료를 활용한 건축을 지향한다.",
+  "findings": [],
+  "keywords": [
+   "헴프크리트",
+   "아이슬란드건축",
+   "지속가능한건축",
+   "루디카",
+   "바이오빌딩"
+  ],
+  "evidence": "This new hempcrete structure by architecture studio Lúdika is a case study for material experimentation",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "헴프크리트라는 재료의 실험을 넘어 데이터 모니터링과 제도적 한계까지 다루는 구체적인 방법론이 제시되어 있다.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/architecture/hempcrete-biobuilding-ludica-iceland",
+  "original_title": "A hempcrete cabin in Iceland is a ‘house for the soul’",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 4203,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-01 19:17",
+  "research": {
+   "entities": [
+    "Lúdika",
+    "Anna Karlsdóttir",
+    "Jan Dobrowolski",
+    "Alberte Bojesen",
+    "Biobuilding"
+   ],
+   "questions": [
+    "아이슬란드에서 산업용 헴프(hemp) 재배 합법화가 건축 자재 시장에 어떤 변화를 가져왔는가?",
+    "헴프크리트(hempcrete)와 전통적인 아이슬란드 잔디 집(turf houses)의 건축적 공통점과 차이점은 무엇인가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 4,
+  "depth_v": 2
  }
 }

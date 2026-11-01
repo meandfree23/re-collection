@@ -2920,41 +2920,41 @@
  },
  "2026-11-01": {
   "date": "2026-11-01",
-  "headline": "낡은 책의 단면이 빚는 빛과 무기 공장의 차가운 가상 세계",
-  "editorial": "멕시코시티의 지하 바는 켜켜이 쌓인 책의 단면으로 빛의 통로를 만들고, 라코루냐의 폐쇄된 무기 공장은 디지털 가상 세계를 위한 스튜디오로 다시 태어났다. 사빈 마르셀리스는 빛과 거울의 반사를 통해 사물의 겉면을 지우고 무한한 시각적 깊이를 구축한다. 각기 다른 쓰임을 다한 장소들이 빛과 재료의 배치를 바꿔 새로운 기능의 그릇으로 변모하는 과정에 주목했다.",
+  "headline": "아이슬란드 헴프크리트 벽체와 로테르담 폐로프의 의자",
+  "editorial": "아이슬란드의 헴프크리트 오두막은 현지에서 조달한 식물 재료로 척박한 기후를 견디는 벽을 세운다. 로테르담의 부표형 공공 의자는 버려진 해양 로프를 3D 프린터로 엮어 항구 도시의 부산물을 가구로 바꾼다. 이들은 건축과 사물이 놓인 환경에서 재료를 길어 올려 새로운 쓸모를 찾는다. 멕시코시티 지하 바가 책의 단면을 켜켜이 쌓아 빛을 가두는 방식 또한 재료를 다루는 태도의 연장선이다.",
   "threads": [
    {
-    "name": "재료로 빚은 빛의 경로",
-    "note": "기존의 사물이나 장소를 구성하던 재료를 활용하여 빛을 제어하고 새로운 시각적 경험을 만든다.",
+    "name": "현지 재료의 재발견",
+    "note": "주변에서 쉽게 구할 수 있거나 버려진 재료를 건축과 가구의 핵심 자원으로 전환한다.",
+    "items": [
+     {
+      "title": "아이슬란드 헴프크리트 오두막, 재료의 현지화와 생태적 건축의 실험",
+      "url": "https://www.wallpaper.com/architecture/hempcrete-biobuilding-ludica-iceland"
+     },
+     {
+      "title": "로테르담의 폐해양 로프를 3D 프린팅으로 재탄생시킨 부표형 공공 의자",
+      "url": "https://www.dezeen.com/2026/11/01/buoy-stools-the-new-raw/"
+     }
+    ]
+   },
+   {
+    "name": "쌓이고 겹쳐진 마감",
+    "note": "책의 단면이나 층층이 쌓인 구조를 활용해 공간의 깊이와 빛의 맺힘을 조절한다.",
     "items": [
      {
       "title": "멕시코시티 지하 바, 책의 단면으로 빚어낸 빛의 층위",
       "url": "https://www.dezeen.com/2026/10/31/libreria-valladolid-mexico-city-bar-em-estudio/"
      },
      {
-      "title": "사빈 마르셀리스의 15년, 빛과 색채가 만든 가변의 공간",
-      "url": "https://www.wallpaper.com/design-interiors/design-events/sabine-marcelis-light-and-color-zurich-museum-fur-gestaltung-exhibition-review"
-     }
-    ]
-   },
-   {
-    "name": "쓰임을 바꾼 산업 유산",
-    "note": "본래의 목적을 잃은 공간이 현대적인 제작 시설이나 문화적 장소로 전환되는 방식을 다룬다.",
-    "items": [
-     {
-      "title": "뉴욕 퀸즈의 수직적 사운드스테이지, 서니사이드 스튜디오",
-      "url": "https://www.archdaily.com/1187610/sunnyside-studios-gluck-plus"
-     },
-     {
-      "title": "과거의 무기 공장, 디지털 가상 세계를 위한 스튜디오로 재생되다",
-      "url": "https://www.archdaily.com/1187911/virtual-studio-at-the-cidade-das-tic-a-coruna-arms-factory-diaz-y-diaz-architects"
+      "title": "튀르키예 콘야의 기억을 잇는 방식, 콘야 광장 주택과 자전거 박물관 확장",
+      "url": "https://www.archdaily.com/1187508/konya-square-houses-and-bicycle-museum-extension-yalin-architectural-design"
      }
     ]
    }
   ],
-  "based_on": 8,
+  "based_on": 11,
   "v": 3,
-  "model": "gemini-3.1-flash-lite",
-  "written_at": "2026-11-01 09:43"
+  "model": "gemini-3.1-flash-lite-preview",
+  "written_at": "2026-11-01 19:17"
  }
 }
