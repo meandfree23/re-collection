@@ -2917,5 +2917,44 @@
   "v": 3,
   "model": "gemini-3.5-flash-lite",
   "written_at": "2026-10-31 03:34"
+ },
+ "2026-11-01": {
+  "date": "2026-11-01",
+  "headline": "낡은 책의 단면이 빚는 빛과 무기 공장의 차가운 가상 세계",
+  "editorial": "멕시코시티의 지하 바는 켜켜이 쌓인 책의 단면으로 빛의 통로를 만들고, 라코루냐의 폐쇄된 무기 공장은 디지털 가상 세계를 위한 스튜디오로 다시 태어났다. 사빈 마르셀리스는 빛과 거울의 반사를 통해 사물의 겉면을 지우고 무한한 시각적 깊이를 구축한다. 각기 다른 쓰임을 다한 장소들이 빛과 재료의 배치를 바꿔 새로운 기능의 그릇으로 변모하는 과정에 주목했다.",
+  "threads": [
+   {
+    "name": "재료로 빚은 빛의 경로",
+    "note": "기존의 사물이나 장소를 구성하던 재료를 활용하여 빛을 제어하고 새로운 시각적 경험을 만든다.",
+    "items": [
+     {
+      "title": "멕시코시티 지하 바, 책의 단면으로 빚어낸 빛의 층위",
+      "url": "https://www.dezeen.com/2026/10/31/libreria-valladolid-mexico-city-bar-em-estudio/"
+     },
+     {
+      "title": "사빈 마르셀리스의 15년, 빛과 색채가 만든 가변의 공간",
+      "url": "https://www.wallpaper.com/design-interiors/design-events/sabine-marcelis-light-and-color-zurich-museum-fur-gestaltung-exhibition-review"
+     }
+    ]
+   },
+   {
+    "name": "쓰임을 바꾼 산업 유산",
+    "note": "본래의 목적을 잃은 공간이 현대적인 제작 시설이나 문화적 장소로 전환되는 방식을 다룬다.",
+    "items": [
+     {
+      "title": "뉴욕 퀸즈의 수직적 사운드스테이지, 서니사이드 스튜디오",
+      "url": "https://www.archdaily.com/1187610/sunnyside-studios-gluck-plus"
+     },
+     {
+      "title": "과거의 무기 공장, 디지털 가상 세계를 위한 스튜디오로 재생되다",
+      "url": "https://www.archdaily.com/1187911/virtual-studio-at-the-cidade-das-tic-a-coruna-arms-factory-diaz-y-diaz-architects"
+     }
+    ]
+   }
+  ],
+  "based_on": 8,
+  "v": 3,
+  "model": "gemini-3.1-flash-lite",
+  "written_at": "2026-11-01 09:43"
  }
 }
