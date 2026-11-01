@@ -247560,5 +247560,106 @@
   },
   "depth_raw": 4,
   "depth_v": 2
+ },
+ "dezeen.com/2026/11/01/buoy-stools-the-new-raw": {
+  "title_ko": "로테르담의 폐해양 로프를 3D 프린팅으로 재탄생시킨 부표형 공공 의자",
+  "summary_ko": "로테르담 스튜디오 더 뉴 로(The New Raw)가 항구에서 수거한 폐기 해양 로프를 재활용해 공공 의자 '부표(Buoy)'를 제작했다. 로프를 분쇄해 펠릿으로 만든 뒤 3D 프린팅 공정을 거쳐 완성했으며, 부표의 움직임을 모방한 뾰족한 하단부로 앉았을 때 흔들리는 경험을 제공한다.",
+  "lens": "폐기물의 물성을 항구 도시의 정체성과 연결해, 도시의 부산물을 물리적인 움직임이 있는 공공 가구로 치환했다.",
+  "why_now": "도시 내 버려진 자원을 지역 네트워크 안에서 순환시키며, 그 지역의 환경적 맥락을 디자인에 직접 투영하는 실천적 사례다.",
+  "mechanism": "로프를 세척·분쇄해 만든 폴리프로필렌 펠릿을 3D 프린팅으로 적층하며, 하단부를 팽이처럼 뾰족하게 설계해 사용자의 무게 중심에 따라 부표처럼 흔들리게 했다.",
+  "sensory": "원재료인 로프의 색상에 따라 의자마다 미세하게 다른 색조를 띠며, 3D 프린팅 특유의 적층 질감이 표면에 고스란히 드러난다.",
+  "transfer": "공공 공간 연출 시 특정 지역의 폐기물을 수거해 오브제로 제작하면, 관객에게 해당 장소의 서사를 전달하는 물리적 매개체로 활용할 수 있다.",
+  "context": "더 뉴 로는 2016년 설립 이후 플라스틱 폐기물을 3D 프린팅하여 가구를 제작해왔으며, 이전에도 스튜디오 자체 폐기물을 활용한 에르미스(Ermis) 의자 등을 선보인 바 있다.",
+  "findings": [],
+  "keywords": [
+   "더뉴로",
+   "3D프린팅",
+   "업사이클링",
+   "공공가구",
+   "로테르담"
+  ],
+  "evidence": "The stools were also designed with spinning top-style pointed bases, so that they rock when the user sits down.",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "폐기물의 수거부터 재가공, 3D 프린팅을 통한 형태 구현까지의 공정이 명확하며, 지역적 맥락을 움직임이라는 감각적 장치로 연결한 점이 돋보인다.",
+  "v": 2,
+  "url": "https://www.dezeen.com/2026/11/01/buoy-stools-the-new-raw/",
+  "original_title": "Scrapped marine rope recast as stools that rock like buoys",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 3902,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-01 16:20",
+  "research": {
+   "entities": [
+    "The New Raw",
+    "Foteini Setaki",
+    "Panos Sakkas",
+    "Buoy"
+   ],
+   "questions": [
+    "로테르담 항구의 폐기된 해양 로프를 재활용하여 3D 프린팅 가구를 만드는 구체적인 공정 과정은 어떠한가?",
+    "부표의 움직임을 모방한 흔들리는 형태의 공공 가구 Buoy가 도시 공공장소에 주는 사용자 경험적 가치는 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Raw Power",
+     "url": "https://en.wikipedia.org/wiki/Raw%20Power"
+    }
+   ],
+   "used": [],
+   "chars": 1264
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "archdaily.com/1187508/konya-square-houses-and-bicycle-museum-extension-yalin-architectural-design": {
+  "title_ko": "튀르키예 콘야의 기억을 잇는 방식, 콘야 광장 주택과 자전거 박물관 확장",
+  "summary_ko": "얄린 건축 디자인(Yalin Architectural Design)이 튀르키예 콘야에 위치한 13개 철근 콘크리트 건물을 복합 문화 공간으로 재구성했다. 2005년 완공된 기존 건물을 활용해 1955년까지 존재했던 전통적 주거 양식과 지역 직물을 현대적 맥락에서 재해석한 프로젝트다.",
+  "lens": "기존 철근 콘크리트 구조물의 골격을 유지하면서, 사라진 전통 주거의 공간적 문법을 입혀 도시의 시간적 층위를 복원한다.",
+  "why_now": "기존 건축물을 철거하지 않고 보존하며 새로운 기능을 부여하는 적응형 재사용이 도시 재생의 핵심 전략으로 자리 잡았다.",
+  "mechanism": "2005년 건립된 13개 건물의 군집을 박물관 및 복합 시설로 통합하며, 과거 주거 단지의 밀도와 배치 방식을 현대적 요구에 맞춰 재구성했다.",
+  "sensory": "철근 콘크리트의 견고한 질감과 전통 가옥 특유의 조밀한 동선이 교차하며, 도시의 역사를 물리적 덩어리로 경험하게 한다.",
+  "transfer": "기존 건축물의 그리드를 유지한 채 내부 파티션을 조정해 박물관 동선을 확보하고, 외부 마감재를 지역 전통 색채에 맞추어 보수한다.",
+  "context": "이 프로젝트는 1955년 이전 콘야의 전통적인 주거 형태를 참조하여, 과거의 도시 조직을 현대 건축 언어로 치환하는 데 집중했다.",
+  "findings": [],
+  "keywords": [
+   "적응형재사용",
+   "도시재생",
+   "콘야",
+   "얄린건축디자인"
+  ],
+  "evidence": "Konya Square Houses consists of 13 reinforced-concrete buildings constructed in 2005, drawing on the traditional Konya houses and neighborhood fabric that existed on the site until 1955.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "기존 건물의 활용과 역사적 맥락에 대한 설명은 명확하나, 구체적인 설계 기법이나 내부 상세 디테일이 부족하다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1187508/konya-square-houses-and-bicycle-museum-extension-yalin-architectural-design",
+  "original_title": "Konya Square Houses and Bicycle Museum Extension / Yalin Architectural Design",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 1746,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-01 16:20",
+  "research": {
+   "entities": [
+    "Yalin Architectural Design",
+    "Konya Square Houses",
+    "Ömer Selçuk Baz"
+   ],
+   "questions": [
+    "코냐(Konya)의 전통 주거 양식과 이 프로젝트가 어떻게 조화를 이루고 있나요?",
+    "기존 2005년에 지어진 철근 콘크리트 건물을 어떻게 현대적인 복합 문화 공간으로 재해석했나요?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
  }
 }
