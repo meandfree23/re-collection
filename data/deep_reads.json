@@ -252620,5 +252620,811 @@
   },
   "depth_raw": 4,
   "depth_v": 2
+ },
+ "archdaily.com/1187925/herzog-and-de-meuron-and-ehdd-to-transform-a-mid-century-warehouse-into-the-eames-institutes-museum-archives": {
+  "title_ko": "콘크리트 지붕 아래 펼쳐지는 임스의 무한한 기록 창고",
+  "summary_ko": "스위스 건축 사무소 헤르조그 앤 드 뫼롱과 EHDD가 캘리포니아 노바토에 위치한 1960년대 창고를 임스 인스티튜트의 문화 복합 공간으로 개조하는 마스터플랜을 공개했다. 폴란드계 미국인 건축가 존 루비치니치(Jan Lubicz-Nycz)가 설계한 종이접기 형태의 콘크리트 지붕을 보존하며, 내부에 120피트 길이의 스테인리스 스틸 브리지와 갤러리 공간을 구축한다. 주변 88.5에이커 부지의 조경은 필드 오퍼레이션스가 맡아 마린 카운티의 자연 지형을 복원한다.",
+  "lens": "오래된 산업용 콘크리트 지붕 아래 예리한 알루미늄과 유리 파사드를 찔러 넣어 보존과 개입의 긴장감을 만든다.",
+  "why_now": "기존 건축물의 물리적 뼈대를 남기는 대규모 적응적 재사용이 단순한 보존을 넘어 동시대 문화 생산의 거점으로 진화하는 흐름을 보여준다.",
+  "mechanism": "기존의 쌍곡 포물면 콘크리트 지붕을 그대로 유지하면서 남북 측면에 움푹 파인 유리 파사드를 삽입해 외부 자연광과 풍경을 내부로 깊숙이 끌어들인다.",
+  "sensory": "거친 질감의 콘크리트 지붕과 대조되는 매끄러운 120피트 폴리시드 스테인리스 스틸 브리지가 공간 가로지르며 시각적 긴장을 유발한다.",
+  "transfer": "공간 배경 속에서 빛이 굴절되는 스테인리스 스틸 교량과 콘크리트 표면의 질감 대비를 인물 이동 샷의 주요 프레임으로 삼는다.",
+  "context": "스위스 건축 사무소 헤르조그 앤 드 뫼롱(Herzog & de Meuron)은 과거 런던의 테이트 모던이나 함부르크의 엘브필하모니처럼 산업 유산을 문화 공간으로 탈바꿈하는 대규모 적응적 재사용 프로젝트에서 독보적인 기조를 보여왔다.",
+  "findings": [
+   {
+    "text": "헤르조그 앤 드 뫼롱은 스위스 바젤에 본사를 둔 국제적인 건축 사무소다.",
+    "s": 2,
+    "quote": "Herzog & de Meuron Basel Ltd. is an international architecture firm headquartered in Basel, Switzerland"
+   },
+   {
+    "text": "EHDD는 미국 샌프란시스코 베이 지역에 본사를 둔 상위 건축 사무소 중 하나다.",
+    "s": 3,
+    "quote": "Esherick Homsey Dodge and Davis (also known as EHDD Architecture) is a United States–based architecture, interiors, planning and urban design firm."
+   }
+  ],
+  "keywords": [
+   "임스인스티튜트",
+   "헤르조그앤드뫼롱",
+   "적응적재사용",
+   "콘크리트지붕",
+   "문화복합공간"
+  ],
+  "evidence": "The project, designed by Swiss architects Herzog & de Meuron and Bay Area-based EHDD, transforms a mid-century modern warehouse into a cultural destination",
+  "kind": "프로젝트",
+  "depth": 5,
+  "grounding": "full",
+  "depth_reason": "세계적인 건축가들의 대규모 적응적 재사용 마스터플랜으로 구체적 조경 및 공간 장치가 선명하다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1187925/herzog-and-de-meuron-and-ehdd-to-transform-a-mid-century-warehouse-into-the-eames-institutes-museum-archives",
+  "original_title": "Herzog & de Meuron and EHDD to Transform a Mid-Century Warehouse into the Eames Institute of Infinite Curiosity",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 6815,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-03 04:02",
+  "research": {
+   "entities": [
+    "Herzog & de Meuron",
+    "EHDD",
+    "Eames Institute of Infinite Curiosity",
+    "Charles and Ray Eames",
+    "Field Operations"
+   ],
+   "questions": [
+    "헤르조그 앤 드뫼롱과 EHDD는 미드센추리 창고 건물의 독특한 콘크리트 지붕과 구조를 어떻게 보존하고 재해석하는가?",
+    "임스 인스티튜트의 새로운 문화 복합 공간은 찰스 앤 레이 임스의 유산을 넘어 어떤 프로그램과 전시를 선보일 예정인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Field Operations",
+     "url": "https://www.fieldoperations.net/project/presidio-tunnel-tops?utm_medium=website&utm_source=archdaily.com"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Herzog & de Meuron",
+     "url": "https://en.wikipedia.org/wiki/Herzog%20%26%20de%20Meuron"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "EHDD",
+     "url": "https://en.wikipedia.org/wiki/EHDD"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "헤르조그 앤 드 뫼롱, 애머스트 칼리지의 기존 기초 위에 쌓은 매스팀버",
+     "url": "https://www.dezeen.com/2026/09/24/herzog-de-meuron-mass-timber-massachusetts-school-amherst/"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "완공 10주년을 맞은 헤르조그 앤 드 뫼롱의 엘브필하모니",
+     "url": "https://www.wallpaper.com/architecture/elbphilharmonie-anniversary-book-germany"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "포르투갈 아탈라이아의 붉은 기하학, 엑스트라스튜디오의 카사 플라즈",
+     "url": "https://www.ignant.com/2025/08/25/time-softens-at-extrastudios-casa-plaj-a-coastal-retreat-in-portugal/"
+    }
+   ],
+   "used": [
+    2,
+    3
+   ],
+   "chars": 3311
+  },
+  "depth_raw": 5,
+  "depth_v": 2
+ },
+ "hyperallergic.com/how-former-theater-kid-james-talarico-stands-up-for-the-arts-in-texas": {
+  "title_ko": "텍사스 정치판에서 예술 예산을 외치는 전직 연극 소년, 제임스 탈라리코",
+  "summary_ko": "미국 텍사스주 하원의원 제임스 탈라리코가 공립학교 예술 교육 재정 지원 법안을 공동 발의하며 정치적 입지를 다지고 있다. 그는 과거 고등학교 연극반 활동 경험을 바탕으로 음악, 무용, 미술, 연극 프로그램 예산 확대를 주장해 왔다. 보수 성향의 텍사스 정치 환경 속에서 창작의 자유와 공교육 예술 예산을 지키려는 그의 행보가 주목받고 있다.",
+  "lens": "정치적 격전지에서 문화예술 예산을 전면에 내세우며 공공성의 실종에 맞선다.",
+  "why_now": "예술 교육 예산 삭감과 검열이 이어진 텍사스주에서 공립학교 예술 지원 법안이 다시 논의되는 시점이기 때문이다.",
+  "mechanism": "정치적 투쟁 구호 대신 교육 경험과 구체적인 공립학교 예술 프로그램 예산 수치를 결합해 정책 의제로 전환한다.",
+  "sensory": "연극 무대에서 다진 화법과 소셜미디어 성명이 맞물려 대중의 이목을 집중시키는 정치적 현장감.",
+  "transfer": "공공 프로젝트나 정치적 내러티브를 다룰 때, 추상적 구호 대신 개인의 구체적인 유년기 경험과 실무적 예산 데이터를 연결해 설득력을 높인다.",
+  "context": "텍사스주 하원의원인 제임스 탈라리코는 교육과 공공 예술 지원을 중심으로 입법 활동을 펼쳐왔으며, 2026년 미국 상원의원 선거의 민주당 후보로 나선 상태다.",
+  "findings": [
+   {
+    "text": "제임스 탈라리코는 2018년부터 텍사스주 하원의원으로 재직 중이며, 2026년 미국 상원의원 선거에 민주당 후보로 출마했다.",
+    "s": 1,
+    "quote": "serving since 2018 as a member of the Texas House of Representatives. He is the Democratic nominee in the 2026 U.S. Senate election in Texas."
+   },
+   {
+    "text": "탈라리코는 정치에 입문하기 전 중학교 영어 교사 및 교육 관련 비영리단체의 사무총장으로 일했다.",
+    "s": 1,
+    "quote": "Before entering politics, he was a middle school English teacher and an executive director for an education nonprofit."
+   },
+   {
+    "text": "켄 팩스턴은 2015년부터 텍사스주 법무장관으로 재직 중이며, 2026년 미국 상원의원 선거에 공화당 후보로 지명되었다.",
+    "s": 2,
+    "quote": "has served as the 51st attorney general of Texas since 2015. He is the Republican Party nominee in the 2026 United States Senate election in Texas."
+   }
+  ],
+  "keywords": [
+   "제임스탈라리코",
+   "예술교육",
+   "텍사스주",
+   "정치캠페인",
+   "공립학교"
+  ],
+  "evidence": "Among the bills he has co-authored is one that focuses on fine arts funding for public schools.",
+  "kind": "뉴스·이슈",
+  "depth": 2,
+  "grounding": "full",
+  "depth_reason": "정치인의 예술 교육 지원 법안 발의를 다룬 뉴스 기사로 정보 전달 중심이며 예술 작업 자체의 기법적 혁신은 없다.",
+  "v": 2,
+  "url": "https://hyperallergic.com/how-former-theater-kid-james-talarico-stands-up-for-the-arts-in-texas/",
+  "original_title": "How Former Theater Kid James Talarico Stands Up for the Arts in Texas",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 2564,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-03 04:02",
+  "research": {
+   "entities": [
+    "James Talarico",
+    "Ken Paxton",
+    "Actors' Equity Association",
+    "Texas House of Representatives",
+    "Kemper Museum of Contemporary Art"
+   ],
+   "questions": [
+    "제임스 탈라리코가 발의한 공립학교 예술 교육 재정 지원 법안의 주요 내용은 무엇인가?",
+    "텍사스 주의 예술 교육 현장이 직면한 재정 삭감과 검열의 배경은 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "James Talarico",
+     "url": "https://en.wikipedia.org/wiki/James%20Talarico"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Ken Paxton",
+     "url": "https://en.wikipedia.org/wiki/Ken%20Paxton"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "반복되는 페인트의 섬세한 필라멘트로 우주적 공간을 그리는 화가",
+     "url": "https://hyperallergic.com/beer-with-a-painter-barbara-takenaga/"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "바바라 타케나가: 캔버스 위로 팽창하는 우주적 추상과 미세한 패턴의 질서",
+     "url": "https://hyperallergic.com/barbara-takenagas-awestruck/"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 3080
+  },
+  "depth_raw": 2,
+  "depth_v": 2
+ },
+ "archdaily.com/1187572/how-surface-materials-shape-contemporary-interiors": {
+  "title_ko": "무광과 유광의 교차, 에거의 퍼펙트센스 앰비언스 표면재",
+  "summary_ko": "에거(EGGER)의 퍼펙트센스 프리미엄 앰비언스(PerfectSense Premium Ambiance)는 벨벳 같은 무광 표면에 데코레이션 패턴과 일치하는 부분 유광 효과를 결합한 인테리어 마감재 시스템이다. 지문 방지 기능과 동기화된 질감을 통해 시각적 깊이감과 촉각적 경험을 동시에 구현하며 수직 및 수평 면에 걸쳐 일관된 디자인 언어를 제공한다.",
+  "lens": "무광의 깊이와 부분 유광의 반사를 동기화해 재료의 물성을 역전시킨다.",
+  "why_now": "디자인의 완성도가 시각을 넘어 손끝의 촉감과 일상적인 유지 관리의 편의성까지 포괄하는 방향으로 진화하고 있기 때문이다.",
+  "mechanism": "기초 패턴과 정밀하게 일치하는 부분 유광 영역이 각도와 빛의 변화에 따라 미세한 대비를 만들어내며, 지문 방지 특성을 지닌 벨벳 무광 래커층이 촉각적 몰입감을 높인다.",
+  "sensory": "빛의 입사각에 따라 무광의 건조한 질감 사이로 미세한 광택의 결이 드러나며, 손끝에 닿는 촉감은 매끄러우면서도 깊은 밀도를 전달한다.",
+  "transfer": "근접 촬영 씬에서 배경 패널이나 가구 표면재로 사용하여, 조명 각도에 따라 패턴의 윤곽이 은은하게 서서히 드러나는 질감 연출에 활용한다.",
+  "context": "1961년 오스트리아 티롤에서 설립된 목질 패널 기업 에거는 데코레이션 컬렉션 26+를 통해 수직·수평면을 아우르는 통합 마감 솔루션을 확장하고 있다.",
+  "findings": [
+   {
+    "text": "에거의 퍼펙트센스 프리미엄 앰비언스는 매트와 글라스 효과가 동기화된 텍스처드 래커 표면이다.",
+    "s": 3,
+    "quote": "With PerfectSense Premium Ambiance (PA), we are expanding our PerfectSense portfolio with a visually and haptically synchronised textured lacquer surface, whose partial gloss effects are perfectly matched to the respecti"
+   },
+   {
+    "text": "F199 블랙 앰비언스 대리석 버전은 금색 맥들이 더해진 슈퍼 매트 표면을 특징으로 한다.",
+    "s": 1,
+    "quote": "The F199 Black Ambiance Marble version has a super-matt surface that is enhanced by sophisticated golden vein inclusions."
+   },
+   {
+    "text": "에거는 1961년 오스트리아 티롤에서 설립된 글로벌 가족 기업이다.",
+    "s": 4,
+    "quote": "EGGER is a global family company founded in 1961 in Tyrol, Austria, where it is currently based."
+   }
+  ],
+  "keywords": [
+   "마감재",
+   "퍼펙트센스",
+   "무광유광",
+   "인테리어"
+  ],
+  "evidence": "PerfectSense Ambiance is the latest innovation in the PefectSense family of surfaces. It stands out thanks to the matt-gloss effect, which is also emphasised at the tactile level via synchronised texture depths.",
+  "kind": "제품·오브제",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "구체적인 소재와 가공 기술을 상세히 다루나 일반적인 신제품 소개 범위를 크게 벗어나지 않는다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1187572/how-surface-materials-shape-contemporary-interiors",
+  "original_title": "How Surface Materials Shape Contemporary Interiors",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 6920,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-03 04:02",
+  "research": {
+   "entities": [
+    "EGGER",
+    "PerfectSense",
+    "iF Design Award"
+   ],
+   "questions": [
+    "EGGER의 PerfectSense 포트폴리오는 인테리어 마감재 시장에서 어떤 기술적 차별점을 가지고 있는가?",
+    "매트한 표면 마감과 부분 광택 효과의 결합이 현대 인테리어 디자인의 시각적, 촉각적 경험에 어떤 영향을 미치는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "EGGER's PerfectSense Premium Ambiance",
+     "url": "https://to.egger.link/perfectsense-ambiance-award-archdaily?utm_medium=website&utm_source=archdaily.com"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "EGGER Decorative Collection 26+",
+     "url": "https://to.egger.link/edc26-launch-novelties-archdaily?utm_medium=website&utm_source=archdaily.com"
+    },
+    {
+     "n": 3,
+     "type": "공식·1차",
+     "title": "EGGER's PerfectSense portfolio",
+     "url": "https://to.egger.link/perfectsense-portfolio-archdaily?utm_medium=website&utm_source=archdaily.com"
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "Egger (company)",
+     "url": "https://en.wikipedia.org/wiki/Egger%20%28company%29"
+    },
+    {
+     "n": 5,
+     "type": "위키백과",
+     "title": "IF Product Design Award",
+     "url": "https://en.wikipedia.org/wiki/IF%20Product%20Design%20Award"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "글로벌 디자인의 향방을 가르는 기준, iF 디자인 어워드 2027",
+     "url": "https://design-milk.com/what-the-if-design-award-reveals-about-where-global-design-is-heading-next/"
+    },
+    {
+     "n": 7,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "일상의 수리를 미학으로, 샤오미 정밀 무선 드라이버",
+     "url": "https://minimalissimo.com/articles/xiaomi-mi-precision-cordless-screwdriver"
+    },
+    {
+     "n": 8,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "샌프란시스코 아트 앤 워터, 유연한 흐름을 담은 시각 정체성",
+     "url": "https://www.creativeboom.com/work/macfadden-thorpe-gives-dave-eggerss-free-alternative-to-art-school-a-bendy-salty-identity/"
+    }
+   ],
+   "used": [
+    1,
+    3,
+    4
+   ],
+   "chars": 8914
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "wallpaper.com/travel/hotels/serras-seville-review": {
+  "title_ko": "1915년의 세비야 저택, 세라스 세비야 호텔로 재탄생하다",
+  "summary_ko": "세비야 구도심 아베니다 데 라 콘스티투시온에 새로 문을 연 세라스 세비야는 1915년 아니발 곤살레스가 설계한 역사적 건물 카사 알바로 다빌라를 호텔로 탈바꿈시켰다. 디자이너 에바 마르티네스는 원형의 높은 천장과 대리석 기둥을 살리면서, 지역 장인이 수제작한 세라믹과 안달루시아풍 색채를 공간에 겹쳤다.",
+  "lens": "백 년 넘은 저택의 골조와 현대적 공예를 엮어 도시의 밀도를 감각한다.",
+  "why_now": "보존된 유산과 동시대 디자인의 접점을 찾는 최근 하스피탈리티 공간의 흐름을 보여준다.",
+  "mechanism": "높은 층고와 유리 파사드로 확보한 자연광 위에 모래색과 테라코타 톤, 수제 타일 헤드보드를 얹어 지역성을 구축했다.",
+  "sensory": "창밖으로는 세계 최대 고딕 대성당의 첨탑이 손에 닿을 듯 다가오고, 실내는 테라코타와 모래색 질감으로 차분하게 감싸인다.",
+  "transfer": "역사적 건축물의 원형 기둥과 높은 층고를 배경으로 로컬 공예품을 배치하는 공간 미장센을 레퍼런스로 삼는다.",
+  "context": "세라스 세비야는 바르셀로나와 안도라에 이어 세라스 컬렉션이 선보이는 세 번째 호텔이다. 원래 빌라마르타 후작의 저택이었던 까사 알바로 다빌라는 안달루시아 건축의 거장 아니발 곤살레스가 1915년에 설계했다.",
+  "findings": [],
+  "keywords": [
+   "세라스 세비야",
+   "부티크 호텔",
+   "스페인 건축",
+   "인테리어 디자인"
+  ],
+  "evidence": "Serras Sevilla brings Aníbal González architecture into the present with bespoke interiors, cathedral views and a rooftop plunge pool.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "역사적 건물의 리노베이션 사례와 공간 구성이 구체적이나 전형적인 호텔 소개에 가깝다.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/travel/hotels/serras-seville-review",
+  "original_title": "Serras Sevilla is a new design hotel in a 1915 architectural gem",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 5448,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-03 04:02",
+  "research": {
+   "entities": [
+    "Serras Sevilla",
+    "Aníbal González",
+    "Eva Martínez",
+    "Seville Cathedral",
+    "Fismuler"
+   ],
+   "questions": [
+    "세라스 세비야(Serras Sevilla) 호텔이 위치한 까사 알바로 다빌라(Casa Álvaro Dávila)는 원래 어떤 역사적 배경을 지닌 건물인가요?",
+    "호텔 내부 인테리어를 맡은 디자이너 에바 마르티네스(Eva Martínez)는 안달루시아의 지역적 아이덴티티를 공간에 어떻게 녹여냈나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Serras Sevilla - Serras Sevilla",
+     "url": "https://serrassevilla.com/"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Seville Cathedral",
+     "url": "https://en.wikipedia.org/wiki/Seville%20Cathedral"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 4000
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "wallpaper.com/architecture/public-buildings/hirshhorn-sculpture-garden-hiroshi-sugimoto": {
+  "title_ko": "스기모토 히로시의 손으로 다시 쓴 허쉬혼 조각 정원",
+  "summary_ko": "사진작가이자 건축가인 스기모토 히로시가 이끄는 신소재연구소와 윤아키텍처가 워싱턴 디씨 허쉬혼 미술관의 조각 정원을 전면 개편했다. 매스오브제 중심의 기존 고든 번샤프트 설계에서 벗어나, 매사추세츠산 수공업 적층 석재와 57그루의 신규 식재를 도입해 전시작을 60점으로 늘렸다. 닫혀 있던 지하 통로를 복원하고 내셔널 몰과 정원을 직접 연결해 개방감을 극대화했다.",
+  "lens": "차가운 브루탈리즘 콘크리트 구조물 사이에 일본 전통 정원의 공허와 수공업 적층 석재의 물성을 이식해 거대한 대화의 광장으로 탈바꿈시킨다.",
+  "why_now": "보존가들과의 마찰 속에서도 기존 건물의 단점을 과감히 해체하고 동시대 조각 작품과 자연 식재를 유기적으로 결합한 대규모 공공 문화 공간 개편의 선례를 보여준다.",
+  "mechanism": "14피트 지하에 침전되어 있던 1.3에이커 규모의 공간에 폐쇄되었던 통로를 다시 열고 북쪽 출입구를 확장해 내셔널 몰에서 정원으로 곧바로 진입하는 동선을 완성했다. 중앙에 도쿄 노 극장에서 영감을 받은 공연용 플랫폼과 두 개의 반사 연못을 배치하고, 매사추세츠산 화강암 950톤을 일본 전통 석공의 방식으로 쌓아 올려 그늘과 좌석을 확보했다.",
+  "sensory": "미국 동부의 무더운 여름 기후 속에서도 울창한 잎을 드리우는 아메리칸 느릅나무와 계절별 수종, 그리고 4만 그루 이상의 식물이 콘크리트 벽체의 단단한 물성과 강렬한 대비를 이룬다. 스테인리스 스틸 소재의 거울면 같은 연못과 수공예 석재 표면이 햇빛을 각도에 따라 다르게 반사하며 명상적인 깊이감을 만든다.",
+  "transfer": "야외 시퀀스를 촬영할 때 인공적인 대형 콘크리트 벽체와 거친 질감의 자연석을 인물 뒤에 배치해 수직적 위압감과 정교한 수공예적 질감이 동시에 느껴지는 미장센을 구성한다. 지하 공간으로 내려가는 롱쇼트에서 정면의 수평 수면과 숨겨진 통로의 축을 활용해 공간의 깊이와 확장감을 시각화한다.",
+  "context": "일본의 건축가이자 사진작가인 스기모토 히로시는 도쿄 기반의 건축 사무소 신소재연구소를 이끌며 전통 소재와 현대적 건축 언어의 결합을 지속적으로 실험해 왔다. 고든 번샤프트가 설계한 허쉬혼 미술관은 스미소니언 소속 기관 중 하나로, 2018년 스기모토는 미술관 로비를 새롭게 단장한 바 있다.",
+  "findings": [
+   {
+    "text": "히로시 스기모토는 도쿄 기반의 건축 사무소 신소재연구소를 이끈다.",
+    "s": 3,
+    "quote": "He leads the Tokyo-based architectural firm New Material Research Laboratory."
+   },
+   {
+    "text": "고든 번샤프트는 40년 이상 스키드모어 오윙스 앤 메릴(SOM)의 파트너로 활동한 대표적인 20세기 중반 모더니즘 건축가다.",
+    "s": 4,
+    "quote": "A partner in Skidmore, Owings & Merrill (SOM), Bunshaft joined the firm in 1937 and remained with it for more than 40 years."
+   }
+  ],
+  "keywords": [
+   "스기모토히로시",
+   "허쉬혼미술관",
+   "조각정원",
+   "브루탈리즘",
+   "신소재연구소"
+  ],
+  "evidence": "Sugimoto’s architecture office, New Material Research Laboratory, in collaboration with New York-based YUN Architecture.",
+  "kind": "프로젝트",
+  "depth": 5,
+  "grounding": "full",
+  "depth_reason": "구체적인 공간 설계와 조경 개편 전과 후의 수치, 철학적 배경이 명확하며 내일 현장에 적용 가능한 공간 연출 장치가 선명하다.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/architecture/public-buildings/hirshhorn-sculpture-garden-hiroshi-sugimoto",
+  "original_title": "The Hirshhorn's Brutalist sculpture garden just got a makeover, thanks to photographer and architect Hiroshi Sugimoto",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 5473,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-03 04:02",
+  "research": {
+   "entities": [
+    "Hiroshi Sugimoto",
+    "Gordon Bunshaft",
+    "Hirshhorn Museum and Sculpture Garden",
+    "New Material Research Laboratory",
+    "YUN Architecture"
+   ],
+   "questions": [
+    "히로시 스기모토의 허시혼 미술관 조각공원 리디자인이 기존 브루탈리즘 건축 양식과 조화를 이루는지에 대한 논란의 핵심은 무엇인가?",
+    "새롭게 리노베이션된 조각공원에 적용된 일본 전통 정원과 노(Noh) 극장의 철학은 구체적으로 어떻게 구현되었는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "New Material Research Laboratory｜SHINSOKEN",
+     "url": "https://shinsoken.jp/en/"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "YUN Architecture – Home",
+     "url": "https://www.yunarchitecture.com/"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Hiroshi Sugimoto",
+     "url": "https://en.wikipedia.org/wiki/Hiroshi%20Sugimoto"
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "Gordon Bunshaft",
+     "url": "https://en.wikipedia.org/wiki/Gordon%20Bunshaft"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "chars": 1684
+  },
+  "depth_raw": 5,
+  "depth_v": 2
+ },
+ "dazeddigital.com/life-culture/article/71277/1/hidden-app-tiktok-of-porn-social-media-sex-workers": {
+  "title_ko": "성노동자들이 직접 설계하는 성인 플랫폼 히든",
+  "summary_ko": "성인 콘텐츠 크리에이터 스텔라 베레이, 아리 킷샤, 라나 로즈가 주도하여 출시한 플랫폼 히든은 틱톡의 세로형 무한 스크롤 인터페이스를 차용한다. 기존 대형 플랫폼들이 검열과 결제 시스템 문제로 크리에이터를 차단하는 구조에 대응해, 이용자가 단 몇 번의 클릭만으로 콘텐츠를 구매하고 소통할 수 있는 구조를 지향한다.",
+  "lens": "검열과 수수료 구조에 종속된 플랫폼 경제에서 생산자가 주권을 되찾는 기술적 대안.",
+  "why_now": "주류 소셜 미디어의 엄격한 알고리즘 검열과 기존 성인 플랫폼의 일방적 정책 변경 속에서, 크리에이터들이 직접 인프라를 소유하려는 움직임이 가속화되고 있다.",
+  "mechanism": "틱톡과 유사한 세로형 피드 형식과 직관적인 결제 동선을 결합하여, 일반 소셜 미디어의 가벼운 탐색 경험을 유료 성인 콘텐츠 소비로 즉각 연결한다.",
+  "sensory": "화면을 가득 채우는 수직형 프레임과 일상적 SNS 피드와 유사한 비주얼 톤을 통해, 기존 성인물의 이질감을 지우고 친밀한 사생활을 엿보는 듯한 감각을 유도한다.",
+  "transfer": "광고나 단편 영화에서 주류 플랫폼의 검열을 우회하는 인터페이스 연출이나, 대중적 피드 UX를 특수 목적의 커머스 화면으로 직접 연결하는 쇼트폼 동선 설계에 적용할 수 있다.",
+  "context": "온라인 성인 콘텐츠 산업은 오랫동안 결제 대행사와 대형 플랫폼의 정책 변화에 따라 크리에이터가 축출되는 구조를 반복해 왔다.",
+  "findings": [
+   {
+    "text": "온라인 성인 콘텐츠 서비스 온리팬스는 2021년 결제 대행사의 압박으로 성적으로 노골적인 콘텐츠를 금지하려다 사용자 반발로 철회한 바 있다.",
+    "s": 2,
+    "quote": "In August 2021, a campaign to investigate the company began in the United States Congress, and it was reported that from October 2021 onward it would no longer allow sexually explicit material, due to pressure from banks"
+   }
+  ],
+  "keywords": [
+   "플랫폼",
+   "숏폼",
+   "크리에이터",
+   "인터페이스"
+  ],
+  "evidence": "Hidden, launched in 2025, was founded by three of the biggest names in the industry: Stella Barey, Ari Kytsya and Lana Rhoades.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "성인 크리에이터들이 주도하는 새로운 플랫폼의 구조와 배경을 구체적으로 다루나 기술적 혁신보다는 비즈니스 모델 변화에 가깝다.",
+  "v": 2,
+  "url": "https://www.dazeddigital.com/life-culture/article/71277/1/hidden-app-tiktok-of-porn-social-media-sex-workers?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=the-tiktok-of-porn-is-being-built-by-sex-workers",
+  "original_title": "The ‘TikTok of porn’ is being built by sex workers",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 9000,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-03 04:02",
+  "research": {
+   "entities": [
+    "Hidden",
+    "Stella Barey",
+    "Ari Kytsya",
+    "Lana Rhoades",
+    "OnlyFans"
+   ],
+   "questions": [
+    "성인 노동자 소유 플랫폼인 Hidden이 기존 플랫폼(OnlyFans 등)과 차별화되는 기술적, 사업적 특징은 무엇인가?",
+    "성인 콘텐츠 크리에이터들이 주류 소셜 미디어와 기존 성인 플랫폼에서 겪어온 검열과 소외의 문제는 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Hidden",
+     "url": "https://hidden.com/"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "OnlyFans",
+     "url": "https://en.wikipedia.org/wiki/OnlyFans"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "프레드 홀링스워스가 설계한 1952년작 마호가니 하우스, 반세기 만의 공개",
+     "url": "https://www.wallpaper.com/architecture/residential/fred-hollingsworths-mahogany-house-is-a-hidden-jewel-of-mid-century-modernism"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "성노동자가 직접 만드는 매거진 독시와 서브컬처의 생태계",
+     "url": "https://www.dazeddigital.com/life-culture/article/70936/1/doxy-magazine-launch-ari-kytsya-porn-star-sex-work?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=meet-the-sex-workers-behind-doxy-the-magazine-for-the-working-girl"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "리카르도 루에바노스: 도쿄에서 마주하는 불가능과 희망의 물리적 궤적",
+     "url": "https://www.designboom.com/art/broken-ladders-bird-sculptures-hidden-faces-ricardo-luevano-tokyo-exhibition-the-sky-promised-nothing/"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 2035
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "hyperallergic.com/ana-mendietas-lasting-imprint-on-art": {
+  "title_ko": "아나 멘디에타, 흙과 신체로 새긴 망명의 지형학",
+  "summary_ko": "테이트 모던에서 열리는 아나 멘디에타의 대규모 회고전은 작가의 실루에타 연작을 포함한 주요 작업을 조명한다. 전시는 연대기적 구성을 배제하고 그로브, 스쿨, 세이크리드 그라운드 등 물리적·은유적 장소성을 중심으로 작품을 배치하여 작가의 망명 경험과 모성적 근원으로의 회귀를 추적한다.",
+  "lens": "신체를 흙과 자연의 일부로 환원하며, 부재를 통해 오히려 현존의 강도를 극대화하는 멘디에타의 흔적에 주목한다.",
+  "why_now": "예술가의 신체적 고통과 망명이라는 정치적 서사를 자연의 물성과 결합하여, 공간의 의미를 재구성하는 방식이 오늘날 장소 특정적 예술의 원형을 제시한다.",
+  "mechanism": "연대기적 나열 대신 장소의 성격에 따라 전시를 구성하여, 관람객이 작가의 창작 동기인 모성적 근원과 생태적 현장을 직접 대면하도록 동선을 설계한다.",
+  "sensory": "마른 강둑의 진흙, 나뭇잎, 꽃 등 유기적 재료가 빚어낸 거칠고 덧없는 질감과, 선사 시대 암각화에서 차용한 바위의 묵직한 물성이 대비를 이룬다.",
+  "transfer": "공간 연출 시 특정 장소의 역사성을 반영한 오브제를 배치하고, 조명을 낮춰 피사체의 윤곽이 주변 환경과 동화되도록 유도하여 몰입감을 높인다.",
+  "context": "아나 멘디에타는 쿠바 망명 후 미국에서 활동하며 신체와 자연을 결합한 '대지-신체' 예술로 독자적인 영역을 구축했다. 이번 전시는 1980년대 후반의 후기 작업까지 포괄하며, 2004년 허시혼 미술관 회고전 이후 작가의 작업을 재평가하는 중요한 분기점이 된다.",
+  "findings": [
+   {
+    "text": "아나 멘디에타는 1948년 쿠바에서 태어나 12세의 나이에 페드로 판 작전을 통해 미국으로 이주했다.",
+    "s": 1,
+    "quote": "Born in Havana, Cuba, Mendieta left for the United States in 1961. She was sent at age 12 with her sister through Operations Pedro Pan"
+   },
+   {
+    "text": "1983년 미국 로마 아카데미로부터 로마상을 수상하며 예술적 성취를 인정받았다.",
+    "s": 1,
+    "quote": "She was awarded the Roma Prize by the American Academy in Rome in 1983"
+   },
+   {
+    "text": "테이트 모던은 런던 뱅크사이드 화력발전소를 개조하여 지어진 세계 최대 규모의 현대미술관 중 하나이다.",
+    "s": 2,
+    "quote": "Tate Modern is an art gallery in London, housing the United Kingdom's national collection of international modern and contemporary art. It is located in the former Bankside Power Station"
+   }
+  ],
+  "keywords": [
+   "아나멘디에타",
+   "대지미술",
+   "장소특정성",
+   "테이트모던",
+   "망명"
+  ],
+  "evidence": "Mendieta described her practice as an “attempt to return to the maternal source,” in response to being “cast from the womb (Nature)” through her exile from Cuba as a child.",
+  "kind": "전시",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "작가의 망명 서사와 장소 특정적 전시 구성의 상관관계를 명확히 분석하여 예술적 맥락이 충분히 전달된다.",
+  "v": 2,
+  "url": "https://hyperallergic.com/ana-mendietas-lasting-imprint-on-art/",
+  "original_title": "Ana Mendieta's Lasting Imprint on Art",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 2494,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-03 04:03",
+  "research": {
+   "entities": [
+    "Ana Mendieta",
+    "Tate Modern",
+    "Siluetas",
+    "Ochún"
+   ],
+   "questions": [
+    "아나 멘디에타의 실루에타(Siluetas) 연작이 쿠바 망명 경험과 생태적 은유에서 갖는 미술사적 의미는 무엇인가?",
+    "테이트 모던(Tate Modern)에서 열린 이번 대규모 회고전은 기존의 연대기적 구성 대신 어떤 공간적·은유적 주제로 작품을 재조명했는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Ana Mendieta",
+     "url": "https://en.wikipedia.org/wiki/Ana%20Mendieta"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Tate Modern",
+     "url": "https://en.wikipedia.org/wiki/Tate%20Modern"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "헨리 웨셀, 운전석에서 포착한 캘리포니아의 우연한 질감",
+     "url": "https://www.thisiscolossal.com/2026/09/henry-wessel-grolier-club-photography-california/"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "테이트 모던의 콘크리트 지하를 짐바브웨의 신성한 바위산으로 바꾼 노라 치파우미레",
+     "url": "https://elephant.art/nora-chipaumires-gadzi-amplifies-the-sacred/"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "에스 데블린의 30년, 스튜디오에서 라이브러리까지 이어지는 창작의 궤적",
+     "url": "https://www.wallpaper.com/design-interiors/design-events/es-devlin-design-museum-london"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 3128
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "archdaily.com/1026761/buriti-apartment-pont": {
+  "title_ko": "브라질 세하두의 색채를 담은 65㎡ 아파트, 부리티 아파트",
+  "summary_ko": "브라질 브라질리아에 위치한 65㎡ 규모의 부리티 아파트는 기존 가구와 예술품을 보존하며 새롭게 구성되었다. 설계 스튜디오 폰토 디(ponto.d)는 브라질 세하두 지역의 자생 식물인 부리티 나무에서 영감을 얻어 공간의 색상과 질감을 결정했다.",
+  "lens": "자생 식물의 색채와 질감을 인테리어의 팔레트로 치환해, 거주자의 기존 소장품이 공간의 서사를 완성하도록 유도한다.",
+  "why_now": "기존 소장품을 버리지 않고 공간의 핵심 요소로 활용하는 리노베이션 방식은 지속 가능한 주거의 실질적인 대안이다.",
+  "mechanism": "부리티 나무의 고유한 색감과 거친 질감을 마감재와 가구 배치에 반영하여, 실내를 자연의 연장선으로 재해석했다.",
+  "sensory": "세하두 지역의 자연을 닮은 차분한 톤의 마감재가 소장품의 질감과 어우러지며, 65㎡의 면적을 밀도 높은 휴식처로 만든다.",
+  "transfer": "소장품의 색상 코드를 추출해 벽면과 가구 마감재에 적용하면, 공간과 물건 사이의 물리적 이질감을 줄일 수 있다.",
+  "context": "브라질리아를 기반으로 활동하는 사진가 조아나 프랑사(Joana França)가 기록한 이번 프로젝트는 지역적 맥락을 공간에 투영하는 브라질 건축의 흐름을 잇는다. 이는 앞서 소개한 에스콰드라 아르키테토스의 바란다 하우스가 세하두의 식생을 주거로 전이시킨 방식과 궤를 같이한다.",
+  "findings": [],
+  "keywords": [
+   "브라질리아",
+   "리노베이션",
+   "세하두",
+   "인테리어"
+  ],
+  "evidence": "Inspired by the buriti palm, a native tree of the brazilian cerrado, the concept permeated the entire project, influencing mainly the choices of colors and textures.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "기존 가구와 예술품을 활용한 리노베이션의 방향성은 명확하나, 구체적인 시공 디테일과 공간 배치 전략에 대한 정보가 부족하다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1026761/buriti-apartment-pont",
+  "original_title": "Buriti Apartment / ponto.d",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 1177,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-03 04:03",
+  "research": {
+   "entities": [
+    "ponto.d",
+    "Danilo Fleury",
+    "Joana França",
+    "Buriti"
+   ],
+   "questions": [
+    "브라질 세하두 지역의 부리티(Buriti) 나무가 인테리어의 색감과 질감에 구체적으로 어떻게 반영되었는가?",
+    "65m²의 소형 아파트 공간에서 기존 가구와 예술품을 조화롭게 배치하기 위해 어떤 공간 설계 전략을 사용했는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "연속성과 물성으로 구축한 브라질리아의 테조 엔지니어링 오피스",
+     "url": "https://www.archdaily.com/1184700/tejo-engenharia-sainz-arquitetura"
+    },
+    {
+     "n": 2,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "레오 로마노의 에스파토디아스 하우스: 대지 위를 부유하는 콘크리트 지붕의 구축",
+     "url": "https://www.archdaily.com/1184749/espatodias-house-leo-romano"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "브라질 세라도의 풍경을 수용하는 법, 에스콰드라 아르키테토스의 바란다 하우스",
+     "url": "https://www.archdaily.com/1034564/varanda-house-esquadra-arquitetos"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3
+   ],
+   "chars": 759
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "archdaily.com/1187856/lion-green-road": {
+  "title_ko": "백악 분지의 8미터 경사를 풀어낸 157채의 고밀도 주거",
+  "summary_ko": "메리 더건 아키텍츠가 설계한 런던 크로이던의 라이언 그린 로드는 9,549제곱미터 부지에 5개 동, 157세대를 배치한 주거 단지다. 지리적 백악 분지의 초록빛 풍경 속에 자리 잡고 있으며, 기존 주차장 부지를 활용해 사유지와 공공 임대 주택을 결합했다.",
+  "lens": "지형의 높낮이를 깎아내지 않고 건물의 회전과 배치를 통해 백악 분지의 풍경에 스며든다.",
+  "why_now": "교외 지역의 고밀도 개발이 요구되는 시점에서, 지형적 제약을 대지 훼손 없이 풀어낸 건축적 해법을 보여준다.",
+  "mechanism": "8미터의 고저 차가 있는 경사지에 5개 동을 유기적으로 분산 배치하고, 주변 녹지 공간과 동선을 긴밀하게 연결했다.",
+  "sensory": "초록색 풍경과 맞닿은 저층부의 외관과 백악 분지 특유의 지형이 만들어내는 입체적인 스케일감을 드러낸다.",
+  "transfer": "경사지에 오브제를 배치할 때 지형을 평탄화하는 대신 건물의 각도를 비틀어 자연스러운 시선과 동선을 만든다.",
+  "context": "영국 왕립 건축가 협회는 메리 더건 아키텍츠와 러프아키텍츠가 크로이던 의회를 위해 설계한 이 프로젝트를 2026년 스털링상 수상작으로 선정했다.",
+  "findings": [
+   {
+    "text": "영국 왕립 건축가 협회(RIBA)는 사우스 런던의 라이언 그린 로드 주거 단지를 2026년 스털링상 수상작으로 선정했다.",
+    "s": 2,
+    "quote": "영국 왕립 건축가 협회(RIBA)는 사우스 런던의 라이언 그린 로드 주거 단지를 2026년 스털링상 수상작으로 선정했다."
+   },
+   {
+    "text": "메리 더건 아키텍츠와 러프아키텍츠가 크로이던 의회를 위해 설계한 이 프로젝트는 8미터 경사지에 5개 동, 157세대를 배치했다.",
+    "s": 2,
+    "quote": "메리 더건 아키텍츠와 러프아키텍츠가 크로이던 의회를 위해 설계한 이 프로젝트는 8미터 경사지에 5개 동, 157세대를 배치했다."
+   }
+  ],
+  "keywords": [
+   "메리더건아키텍츠",
+   "스털링상",
+   "런던크로이던",
+   "고밀도주거"
+  ],
+  "evidence": "Lion Green Road is a residential-led scheme comprising five buildings containing 157 dwellings.",
+  "kind": "프로젝트",
+  "depth": 5,
+  "grounding": "full",
+  "depth_reason": "스털링상 수상작으로서 명확한 설계 장치와 지형 대응 방식을 보여주는 완성도 높은 프로젝트다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1187856/lion-green-road",
+  "original_title": "Lion Green Road / Mary Duggan Architects",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 1998,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-03 04:03",
+  "research": {
+   "entities": [
+    "Mary Duggan Architects",
+    "Brick by Brick",
+    "London Borough of Croydon",
+    "RUFFARCHITECTS",
+    "Lion Green Road"
+   ],
+   "questions": [
+    "Lion Green Road 프로젝트가 위치한 Coulsdon 지역의 지형적 특성이 건축 설계에 어떤 영향을 미쳤나요?",
+    "Brick by Brick과 Croydon 자치구가 협력한 이 주거 단지 개발의 주요 목적과 사회적 배경은 무엇인가요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "London Borough of Croydon",
+     "url": "https://en.wikipedia.org/wiki/London%20Borough%20of%20Croydon"
+    },
+    {
+     "n": 2,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "경사지와 주차장 터를 살린 고밀도 주거, RIBA 斯特林상 수상",
+     "url": "https://www.archdaily.com/1186944/lion-green-road-by-mary-duggan-architects-and-ruffarchitects-wins-riba-stirling-prize-2026"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "지형과 풍경을 최우선에 둔 주거단지, 2026 RIBA 스털링 상 수상",
+     "url": "https://www.wallpaper.com/architecture/riba-stirling-prize-2026-winner"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "경사지와 주차장 터를 일군 고밀도 주거, RIBA 스털링상 수상",
+     "url": "https://www.dezeen.com/2026/10/15/lion-green-road-riba-stirling-prize-2026/"
+    }
+   ],
+   "used": [
+    2,
+    3,
+    4
+   ],
+   "chars": 2222
+  },
+  "depth_raw": 5,
+  "depth_v": 2
  }
 }
