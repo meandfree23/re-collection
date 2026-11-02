@@ -248638,5 +248638,72 @@
   },
   "depth_raw": 4,
   "depth_v": 2
+ },
+ "yellowtrace.com.au/partners-hill-studio-8-compact-living-australian-architecture": {
+  "title_ko": "유산 건물 지하의 변주, 로이 그라운즈의 퀀비 아래 자리 잡은 스튜디오 8",
+  "summary_ko": "건축가 파트너스 힐이 멜버른 투락에 위치한 로이 그라운즈의 1941년 유산 아파트 블록 퀀비 아래의 버려진 지하 세탁소를 스튜디오 8이라는 공간으로 재탄생시켰다. 원문의 상세한 본문을 가져오지 못해 메타 정보와 건축가 배경을 바탕으로 신중하게 구성했다.",
+  "lens": "역사적 건물의 지하 공간을 새로운 작업실로 탈바꿈시켜 시간의 층위를 드러낸다.",
+  "why_now": "보존 대상인 헤리티지 건물의 물리적 제약을 새로운 평면 계획의 동력으로 삼는 태도가 주목받는 시점이다.",
+  "mechanism": "지하라는 한정된 공간 특성과 기존 유산 블록의 구조적 틀을 유지하며 내부 기능을 재배치했다.",
+  "sensory": "오래된 아파트 하부 구조가 주는 무게감과 지하 공간 특유의 밀도가 물리적 감각을 형성한다.",
+  "transfer": "유사한 지하실이나 저층 유산 건물을 리노베이션할 때 기존의 콘크리트 골조를 노출하는 로케이션 연출에 응용할 수 있다.",
+  "context": "로이 그라운즈는 빅토리아주 모더니즘 건축의 선구자로 잘 알려진 호주의 건축가다.",
+  "findings": [
+   {
+    "text": "로이 그라운즈는 빅토리아주 모더니즘 건축 발전의 최전선에 자주 섰던 호주 건축가다.",
+    "s": 2,
+    "quote": "Sir Roy Burman Grounds (18 December 1905 – 2 March 1981) was an Australian architect, based in Melbourne, Victoria. He is noted as often being at the forefront of the development of Modernism in Victoria"
+   }
+  ],
+  "keywords": [
+   "공간건축",
+   "리노베이션",
+   "헤리티지",
+   "지하공간"
+  ],
+  "evidence": "Studio 8 by Partners Hill Finds a Home Under a Roy Grounds Heritage Block.",
+  "kind": "프로젝트",
+  "depth": 2,
+  "grounding": "thin",
+  "depth_reason": "원문 본문을 수집하지 못하고 메타 정보와 제한된 리서치 자료에 의존하여 가치 점수를 낮게 책정했다.",
+  "v": 2,
+  "url": "https://www.yellowtrace.com.au/partners-hill-studio-8-compact-living-australian-architecture/",
+  "original_title": "Studio 8 by Partners Hill Finds a Home Under a Roy Grounds Heritage Block.",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 0,
+  "fetch": "fetch_error:HTTPError",
+  "cliche_hits": [],
+  "read_at": "2026-11-02 11:10",
+  "research": {
+   "entities": [
+    "Partners Hill",
+    "Roy Grounds",
+    "Quamby"
+   ],
+   "questions": [
+    "로이 그라운즈가 설계한 퀀비(Quamby) 아파트의 건축적 특징은 무엇인가요?",
+    "파트너스 힐(Partners Hill)이 유산 건물의 지하 공간을 현대적인 주거 공간으로 재해석한 방식은 무엇인가요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Oak Hill Capital Partners",
+     "url": "https://en.wikipedia.org/wiki/Oak%20Hill%20Capital%20Partners"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Roy Grounds",
+     "url": "https://en.wikipedia.org/wiki/Roy%20Grounds"
+    }
+   ],
+   "used": [
+    2
+   ],
+   "chars": 1521
+  },
+  "depth_raw": 2,
+  "depth_v": 2
  }
 }
