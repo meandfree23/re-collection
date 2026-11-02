@@ -248705,5 +248705,54 @@
   },
   "depth_raw": 2,
   "depth_v": 2
+ },
+ "archdaily.com/1187664/se-house-kantor-gunawan-gunawan": {
+  "title_ko": "수라바야의 열대 주거, 안뜰을 중심으로 공기의 흐름을 조율하다",
+  "summary_ko": "인도네시아 수라바야에 완공된 SE 하우스는 칸토어 구나완 구나완이 설계한 2500㎡ 규모의 주거 공간이다. 호주 건축 양식을 열대 기후에 맞춰 재해석했으며, 중심부의 안뜰을 통해 자연스러운 통풍과 녹지와의 연결을 극대화했다. 화려한 장식 대신 재료의 물성과 공간의 동선을 통해 거주자의 일상과 자연을 밀착시킨다.",
+  "lens": "화려한 녹지 연출을 배제하고 안뜰이라는 물리적 비움을 통해 열대 기후의 습도를 제어하고 공기 순환을 유도하는 방식이 인상적이다.",
+  "why_now": "과잉된 조경 디자인에서 벗어나 공간의 구조적 투과성을 활용해 기후 문제를 해결하는 미니멀한 열대 건축의 대안을 제시한다.",
+  "mechanism": "건물 중심에 배치한 안뜰이 공기 흐름의 통로 역할을 하며, 공간 곳곳의 투과성을 높여 내부와 외부의 경계를 허물고 자연스러운 환기를 유도한다.",
+  "sensory": "안뜰을 통해 유입되는 바람의 감각과 실내외를 넘나드는 식물의 질감이 공간의 정적인 분위기를 완성한다.",
+  "transfer": "영상 촬영 시 인위적인 조명 대신 안뜰에서 쏟아지는 자연광과 식물의 그림자를 활용해 층별로 깊이감 있는 명암 대비를 연출할 수 있다.",
+  "context": "칸토어 구나완 구나완은 인도네시아 수라바야를 기반으로 활동하며, 지역적 맥락과 현대적인 디자인 언어를 결합한 주거 프로젝트를 수행한다.",
+  "findings": [],
+  "keywords": [
+   "열대건축",
+   "안뜰",
+   "수라바야",
+   "통풍",
+   "공간동선"
+  ],
+  "evidence": "Anchored by a courtyard that reflects the owner's attentiveness to landscape, the residence embodies natural sensibilities through design choices that promote airflow, permeability, and daily connection to foliage",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "열대 기후 대응을 위한 공간적 장치는 명확하나, 세부적인 재료나 구체적인 도면 정보가 부족하여 일반적인 건축 소개의 범위를 넘지 않는다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1187664/se-house-kantor-gunawan-gunawan",
+  "original_title": "SE House / Kantor Gunawan Gunawan",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 1293,
+  "fetch": "ok",
+  "cliche_hits": [
+   "경계를 허"
+  ],
+  "read_at": "2026-11-02 12:32",
+  "research": {
+   "entities": [
+    "Kantor Gunawan Gunawan",
+    "Giovanni Gunawan",
+    "Joel Ludong"
+   ],
+   "questions": [
+    "인도네시아 수라바야의 기후적 특성이 SE House의 공간 설계와 통풍 전략에 어떻게 반영되었는가?",
+    "호주 건축 스타일이 열대 기후인 인도네시아 주거 환경에 어떻게 재해석되어 적용되었는가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
  }
 }
