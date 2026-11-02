@@ -248322,5 +248322,321 @@
   },
   "depth_raw": 3,
   "depth_v": 2
+ },
+ "archdaily.com/1186481/house-in-yakami-enter-archi": {
+  "title_ko": "주고쿠 산맥의 적설과 산세를 꺾인 지붕으로 받아들인 목조 주택",
+  "summary_ko": "일본 시마네현 오난정 야카미에 위치한 면적 113제곱미터의 단층 주택이다. 건축 스튜디오 엔터 아르치(enter-archi)가 설계했으며, 주고쿠 산맥으로 둘러싸인 부지에서 풍경을 시각적으로 소비하는 대신 신체적 경험으로 마주하도록 기획했다. 요시카쓰 이리구치(Yoshikatsu Iriguchi)가 사진을 촬영했다.",
+  "lens": "지붕의 경사를 물리적으로 꺾어 산세의 압박과 적설이라는 환경적 조건을 공간적 경험으로 치환한다.",
+  "why_now": "시각적 관람 대상으로서의 풍경 재현에서 벗어나, 지역의 기후와 지형이라는 물리적 제약을 공간 구조에 직접 개입시키는 태도가 두드러진다.",
+  "mechanism": "겨울철 적설량과 산세를 고려해 지붕의 각도를 분절하고, 내부 동선과 신체의 높낮이를 조절하여 자연에 반응하는 신체 감각을 유도한다.",
+  "sensory": "113제곱미터의 목조 공간 안에서 분절된 천장 아래로 떨어지는 자연광의 각도와 나무 구조의 결을 신체로 감각하게 된다.",
+  "transfer": "공간 무대나 세트를 설계할 때 완만한 개방감 대신 각진 천장 면과 바닥 단차를 활용해 특정 방향으로 시선과 움직임을 강제할 수 있다.",
+  "context": "일본 시마네현 야카미에 세워진 이 주택은 엔터 아르치가 지역의 눈 무게와 산세를 구조적 해법으로 풀어낸 작업이다.",
+  "findings": [
+   {
+    "text": "일본 시마네현의 야카미 지역에 위치한 단층 목조 주택이다.",
+    "s": 1,
+    "quote": "일본 시마네현의 야카미 지역에 위치한 단층 목조 주택이다."
+   },
+   {
+    "text": "건축 스튜디오 엔터 아르치(Enter-Archi)가 설계했으며, 산의 경관을 조망하는 동시에 겨울철 적설량을 고려해 지붕의 경사를 분절했다.",
+    "s": 1,
+    "quote": "건축 스튜디오 엔터 아르치(Enter-Archi)가 설계했으며, 산의 경관을 조망하는 동시에 겨울철 적설량을 고려해 지붕의 경사를 분절했다."
+   }
+  ],
+  "keywords": [
+   "엔터아르치",
+   "목조주택",
+   "지붕설계",
+   "시마네현"
+  ],
+  "evidence": "House in Yakami explores how architecture can respond to the landscape through bodily experience, rather than simply consuming its beauty as a view.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "풍경과 기후 조건을 구조로 풀어낸 단층 주택의 사례이나 적용 범위가 개별 주거 프로젝트로 한정된다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1186481/house-in-yakami-enter-archi",
+  "original_title": "House in Yakami / enter-archi",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 1050,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-02 10:33",
+  "research": {
+   "entities": [
+    "enter-archi",
+    "Yoshikatsu Iriguchi",
+    "Umezawa Structural Engineers"
+   ],
+   "questions": [
+    "House in Yakami가 주변 풍경을 시각적 소비가 아닌 신체적 경험으로 받아들이도록 설계된 구체적인 건축적 장치는 무엇인가?",
+    "시마네현 오난정 야카미 지역의 지형적 특성이 이 주택의 구조와 공간 배치에 어떤 영향을 미쳤는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "일본 시마네현 야카미, 눈의 무게와 산세를 고려한 부서진 지붕의 목조 주택",
+     "url": "https://www.dezeen.com/2026/10/02/house-yakami-enter-archi-japan/"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 194
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "archdaily.com/1018550/the-house-of-courtyards-studio-vdga": {
+  "title_ko": "두바이의 사막 건축을 재해석한 4,000제곱미터 규모의 코트야드 하우스",
+  "summary_ko": "스튜디오 VDGA가 설계한 두바이의 대형 빌라는 고층 빌딩과 화려한 저택이 혼재된 도시 맥락 속에서 사막 건축의 원형을 현대적으로 구현했다. 4,000제곱미터에 달하는 이 주택은 여러 번의 설계 수정 끝에 중정을 중심으로 공간을 배치하며 사막 기후에 최적화된 거주 환경을 조성했다.",
+  "lens": "화려한 도시 두바이에서 장식적인 요소를 걷어내고 사막 건축의 본질인 중정 구조를 통해 폐쇄적이면서도 개방적인 주거의 밀도를 확보했다.",
+  "why_now": "무분별한 현대적 박스형 구조가 범람하는 도시 환경에서 지역의 기후적 특성을 반영한 건축적 해법이 다시 주목받고 있다.",
+  "mechanism": "중정을 중심으로 실내외 동선을 유기적으로 연결하여 외부의 시선을 차단하고 내부로 자연광과 환기를 끌어들인다.",
+  "sensory": "코르텐 강철의 거친 금속 질감이 사막의 건조한 풍경과 대조를 이루며, 중정의 깊은 그림자가 강렬한 두바이의 태양 빛을 완화한다.",
+  "transfer": "공간 연출 시 시선이 닿는 곳마다 중정을 배치하여 외부와의 단절 없이도 프라이버시를 확보하는 레이어링 기법을 적용할 수 있다.",
+  "context": "스튜디오 VDGA는 두바이의 다양한 건축 언어 속에서 사막 건축의 원형을 찾아내어 이를 현대적인 주거 공간으로 재해석했다.",
+  "findings": [],
+  "keywords": [
+   "중정",
+   "사막건축",
+   "스튜디오VDGA",
+   "코르텐강철",
+   "두바이건축"
+  ],
+  "evidence": "Various themes were scrapped, and many ideas were renegotiated till we found a form that very closely mirrors desert architecture.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "사막 건축의 재해석이라는 개념은 명확하나 중정의 구체적인 평면 구성이나 기후 대응의 상세 원리가 본문에 부족하다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1018550/the-house-of-courtyards-studio-vdga",
+  "original_title": "The House of Courtyards / Studio VDGA",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 1544,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-02 10:33",
+  "research": {
+   "entities": [
+    "Studio VDGA",
+    "Dubai"
+   ],
+   "questions": [
+    "Studio VDGA는 두바이의 건축적 맥락 속에서 사막 건축을 어떻게 현대적인 주거 공간으로 재해석했는가?",
+    "이 주택 프로젝트에서 '중정(Courtyards)' 구조는 기후적 특성과 프라이버시 요구를 어떻게 충족시키는가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "archdaily.com/1187900/hotel-casa-cuenca-taller-ivan-esqueda-plus-gala-sanchez-renero-estudio-plus-mara-sanchez-renero": {
+  "title_ko": "멕시코시티 콘데사, 기존 골조 위에 쌓아 올린 열 개의 방 '카사 쿠엔카'",
+  "summary_ko": "멕시코시티 콘데사 지역의 기존 건물을 리노베이션하고 확장해 10개의 객실을 갖춘 부티크 호텔 카사 쿠엔카(Casa Cuenca)가 완성되었다. 탈레르 이반 에스케다(Taller Ivan Esqueda)와 갈라 산체스-레네로 에스튜디오(Gala Sánchez-Renero Estudio), 마라 산체스-레네로(Mara Sánchez-Renero)가 설계를 맡아 712㎡ 규모의 공간을 재구성했다.",
+  "lens": "기존 건축의 골조를 유지하면서 현대적 마감재와 수공예 조명을 배치해 멕시코 전통과 동시대적 감각을 층층이 쌓아 올렸다.",
+  "why_now": "도시의 역사적 맥락이 담긴 기존 건물을 철거하지 않고 증축과 리모델링을 통해 새로운 기능을 부여하는 재생 건축의 흐름을 보여준다.",
+  "mechanism": "다비드 폼파(David Pompa)의 조명 시스템을 도입해 빛의 방향과 공간의 분위기를 물리적으로 제어하며, 리노베이션과 확장이 만나는 지점에 수공예 타일과 금속 마감재를 교차 배치했다.",
+  "sensory": "거친 질감의 타일과 섬세하게 직조된 팔마(palma) 소재가 조화를 이루며, 자석 조명 시스템이 만드는 빛의 궤적이 공간의 깊이를 결정한다.",
+  "transfer": "기존 건물의 벽면을 일부 노출하고 그 위에 현대적인 조명 기기를 설치해 과거와 현재의 시각적 대조를 강조하는 연출을 시도할 수 있다.",
+  "context": "본 프로젝트는 다비드 폼파와 같은 멕시코 디자이너들의 수공예 기반 조명 시스템을 적극적으로 활용하여 지역적 정체성을 공간에 투영했다. 이는 RE:COLLECTION에서 다룬 유 키 하우스(Yuu' Kee' House)가 자연 지형을 공간 구조로 치환했던 방식과 마찬가지로, 현지의 맥락을 건축적 장치로 변환하는 시도와 궤를 같이한다.",
+  "findings": [],
+  "keywords": [
+   "부티크호텔",
+   "리노베이션",
+   "멕시코시티",
+   "건축재생",
+   "공간디자인"
+  ],
+  "evidence": "Casa Cuenca is a ten-room boutique hotel located in the Condesa neighborhood of Mexico City.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "건축적 리노베이션의 구체적인 장치와 지역적 맥락을 다루었으나, 원문의 정보량이 제한적이다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1187900/hotel-casa-cuenca-taller-ivan-esqueda-plus-gala-sanchez-renero-estudio-plus-mara-sanchez-renero",
+  "original_title": "Hotel Casa Cuenca / Taller Ivan Esqueda + Gala Sánchez-Renero Estudio + Mara Sánchez-Renero",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 1219,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-02 10:33",
+  "research": {
+   "entities": [
+    "Taller Ivan Esqueda",
+    "Gala Sánchez-Renero Estudio",
+    "Mara Sánchez-Renero",
+    "David Pompa",
+    "Bandido Studio"
+   ],
+   "questions": [
+    "Casa Cuenca 프로젝트에서 기존 건물의 리노베이션과 확장이 어떤 방식으로 조화를 이루었나요?",
+    "멕시코시티 콘데사 지역의 건축적 맥락이 이 부티크 호텔의 디자인에 어떤 영향을 미쳤나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "데이비드 폼파, 팔마 직조와 자석으로 빚은 조명 시스템 실리아",
+     "url": "https://minimalissimo.com/articles/cilia-by-david-pompa"
+    },
+    {
+     "n": 2,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "멕시코 산 페드로 포출라의 돌 개울을 따라 잇는 집, 유 키 하우스",
+     "url": "https://www.archdaily.com/1186092/yuu-kee-house-em-estudio"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 506
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "creativeboom.com/news/christmas-adverts-of-2026": {
+  "title_ko": "2026년 크리스마스 광고, 스크루지와 노스탤지어의 귀환",
+  "summary_ko": "2026년 크리스마스 시즌을 맞아 유통 및 패션 브랜드들이 연말 캠페인을 공개했다. 테스코(Tesco)와 아르고스(Argos)는 스크루지 서사를 차용해 노스탤지어와 관계 회복을 강조하며, 프라다(Prada)는 수작업 애니메이션을 결합해 브랜드의 장인 정신을 시각화한다. 월마트(Walmart) 또한 머펫(The Muppets)을 활용한 메타적 서사로 축제 분위기를 조성한다.",
+  "lens": "스크루지 서사를 차용해 고립된 현대인에게 관계의 회복이라는 정서적 보상을 제시하며, 2026년 광고 시장은 차가운 소비주의 대신 따뜻한 연결을 지향한다.",
+  "why_now": "불확실한 경제 상황과 사회적 고립감이 지속되는 가운데, 브랜드들은 친숙한 고전 서사를 빌려 소비자의 정서적 경계심을 낮추고 브랜드 충성도를 높이려 한다.",
+  "mechanism": "테스코는 로드무비 형식의 3분짜리 시네마틱 서사로, 아르고스는 과거의 기억을 소환하는 판타지적 연출로 브랜드의 가치를 일상적 경험 안에 자연스럽게 녹여낸다.",
+  "sensory": "프라다 캠페인은 실사 배경 위로 얹힌 수작업 애니메이션의 거친 질감을 통해 디지털 시대에 희소해진 인간적 손길의 온기를 전달한다.",
+  "transfer": "광고 연출 시, 익숙한 고전 캐릭터를 현대적 일상 공간에 배치하여 관객의 향수를 자극하고, 메타적인 대사를 통해 브랜드의 마케팅 의도를 스스로 희화화함으로써 거부감을 줄이는 방식을 차용할 수 있다.",
+  "context": "테스코는 영국 시장에서 'Every Little Helps'라는 플랫폼 아래 일상적 연결을 강조하는 반면, 아일랜드에서는 지역적 맥락을 고려한 친근한 판타지 서사를 구축하며 시장별 맞춤 전략을 선보인다.",
+  "findings": [
+   {
+    "text": "데번햄스는 2021년 온라인 유통사 부후(Boohoo)에 인수되어 오프라인 매장 없이 웹사이트 기반으로 운영된다.",
+    "s": 1,
+    "quote": "The Debenhams brand and website were purchased by the online retailer Boohoo for £55M in January 2021. However, Boohoo did not retain any stores"
+   },
+   {
+    "text": "테스코는 1990년대부터 저가형 브랜드에서 프리미엄 라인인 테스코 파이니스트(Tesco Finest)를 도입하며 시장 지배력을 확대했다.",
+    "s": 2,
+    "quote": "In the 1990s, Tesco re-positioned itself from being a downmarket high-volume low-cost retailer, attempting to attract a range of social groups with its low-cost \"Tesco Value\" range (launched 1993) and premium \"Tesco Fine"
+   }
+  ],
+  "keywords": [
+   "크리스마스광고",
+   "노스탤지어",
+   "스크루지",
+   "브랜드캠페인",
+   "시네마틱광고"
+  ],
+  "evidence": "Ebenezer Scrooge seems to be everywhere this year. Two brands have already borrowed Dickens for their festive spots",
+  "kind": "리스트·라운드업",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "여러 브랜드의 캠페인을 다각도로 조명했으나, 원문이 뉴스레터 형식의 요약본이라 분석의 깊이가 다소 제한적이다.",
+  "v": 2,
+  "url": "https://www.creativeboom.com/news/christmas-adverts-of-2026/",
+  "original_title": "Christmas adverts 2026: Scrooges, Muppets and a BFG with the sniffles – the best festive ads so far",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 9000,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-02 10:33",
+  "research": {
+   "entities": [
+    "Debenhams",
+    "Tesco",
+    "Pulse Films",
+    "BBH",
+    "Ebenezer Scrooge"
+   ],
+   "questions": [
+    "2026년 크리스마스 광고 시장에서 '찰스 디킨스의 스크루지' 테마가 반복적으로 등장하는 마케팅적 배경은 무엇인가?",
+    "영국과 아일랜드의 테스코(Tesco)가 각각 다른 크리에이티브 전략을 취하는 이유는 무엇이며, 이것이 브랜드 정체성에 어떤 영향을 미치는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Debenhams",
+     "url": "https://en.wikipedia.org/wiki/Debenhams"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Tesco",
+     "url": "https://en.wikipedia.org/wiki/Tesco"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 2417
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "stashmedia.tv/henry-scholfield-saga-track-crown-royal-through-time": {
+  "title_ko": "90년의 시간을 잇는 CG, 크라운 로얄의 시대별 공간 고증",
+  "summary_ko": "감독 헨리 스콜필드와 모션 스튜디오 사가가 위스키 브랜드 크라운 로얄의 90년 역사를 CG로 재구성했다. 500개 이상의 맞춤형 소품과 시대별 건축, 가구, 조명을 정교하게 모델링하여 캐나다의 일상적인 공간을 구현했다. 완성된 디지털 영상은 8mm, 16mm, 35mm 필름과 VHS로 변환해 질감과 온기를 더했다.",
+  "lens": "디지털로 구현한 정교한 시대적 환경에 아날로그 필름의 물리적 결함을 덧입혀, 데이터가 아닌 기억의 기록으로 치환한다.",
+  "why_now": "디지털 기술이 완벽한 재현을 지향할 때, 오히려 필름의 노이즈와 왜곡을 통해 역사적 서사에 진정성을 부여하는 역설적 연출이 주목받는다.",
+  "mechanism": "500여 개의 개별 자산을 모델링하고 각 사물에 마모와 사용 흔적을 입힌 뒤, 이를 8mm, 16mm, 35mm, VHS 등 다양한 물리적 매체로 전사하여 입자감과 온기를 생성한다.",
+  "sensory": "매체별로 다른 입자 크기와 색감의 왜곡, VHS 특유의 따뜻하고 불안정한 질감이 화면 전반에 묻어난다.",
+  "transfer": "공간 연출 시 새 가구 대신 마모된 흔적이 있는 오브제를 배치하고, 디지털 렌더링 결과물에 실제 필름 스캔 소스를 레이어로 얹어 인위적인 매끈함을 상쇄한다.",
+  "context": "크라운 로얄은 1939년 캐나다 왕실 방문을 기념해 새뮤얼 브론프먼이 만든 위스키로, 본 프로젝트는 브랜드의 90년 역사를 시각화하는 데 집중했다. 사가는 시대별 건축과 조명을 철저히 고증하여 단순히 제품을 나열하는 방식에서 벗어났다.",
+  "findings": [
+   {
+    "text": "크라운 로얄은 1939년 캐나다 왕실 방문을 기념하여 새뮤얼 브론프먼에 의해 처음 소개되었다.",
+    "s": 1,
+    "quote": "The whisky was introduced in 1939 by Samuel Bronfman for the 1939 royal tour of Canada."
+   }
+  ],
+  "keywords": [
+   "크라운로얄",
+   "모션디자인",
+   "CG고증",
+   "필름질감",
+   "시대재현"
+  ],
+  "evidence": "The result feels less like a digital recreation of history and more like a memory captured in time.",
+  "kind": "브랜드·캠페인",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "디지털 에셋에 물리적 매체의 결함을 결합하여 서사의 질감을 완성하는 구체적인 제작 공정이 명확하다.",
+  "v": 2,
+  "url": "https://www.stashmedia.tv/henry-scholfield-saga-track-crown-royal-through-time/",
+  "original_title": "Henry Scholfield & SAGA Track Crown Royal Through Time",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 3079,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-02 10:34",
+  "research": {
+   "entities": [
+    "Crown Royal",
+    "Henry Scholfield",
+    "SAGA",
+    "Spy Films",
+    "Joey Recoskie"
+   ],
+   "questions": [
+    "SAGA 스튜디오는 크라운 로얄의 90년 역사를 CG로 구현하기 위해 어떤 고증 과정을 거쳤는가?",
+    "최종 디지털 제작물을 8mm, 16mm, 35mm, VHS 등 실제 필름으로 변환한 이유는 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Crown Royal",
+     "url": "https://en.wikipedia.org/wiki/Crown%20Royal"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 447
+  },
+  "depth_raw": 4,
+  "depth_v": 2
  }
 }
