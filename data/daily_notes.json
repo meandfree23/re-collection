@@ -3011,5 +3011,48 @@
   "v": 3,
   "model": "gemini-3.5-flash-lite",
   "written_at": "2026-11-02 19:34"
+ },
+ "2026-11-03": {
+  "date": "2026-11-03",
+  "headline": "코펜하겐의 붉은 벽돌 타워와 런던 킹스크로스의 2층 아치",
+  "editorial": "코펜하겐 페이퍼 아일랜드에 솟은 수제 벽돌의 다섯 탑은 수영장을 조각적 랜드마크로 바꾸고, 런던 킹스크로스의 케이던스는 2층 높이의 아치로 공공과 사적 영역의 경계에서 환대를 만든다. 스트링스 컷은 107편의 할리우드 영화를 80초의 키네틱 실험으로 압축하며 편집의 엄격한 제약을 드러낸다. 공간과 화면을 구축하는 이 구체적인 구조물들은 도시와 영상 속에서 단단한 물리적 형식으로 마주한다.",
+  "threads": [
+   {
+    "name": "벽돌과 아치의 거대한 형태",
+    "note": "수제 벽돌과 아치 구조를 통해 도시의 공공 공간에 독특한 물리적 볼륨을 세운다.",
+    "items": [
+     {
+      "title": "코펜하겐 페이퍼 아일랜드에 솟은 수제 벽돌의 다섯 탑, 카이 워터 컬처 하우스",
+      "url": "https://www.dezeen.com/2026/11/02/kengo-kuma-kai-water-culture-house-copenhagen/"
+     },
+     {
+      "title": "런던 킹스크로스 케이던스, 2층 높이 아치로 완성한 도시의 환대",
+      "url": "https://www.dezeen.com/2026/11/02/cadence-court-alison-brooks-architects-kings-cross/"
+     },
+     {
+      "title": "런던 킹스크로스의 케이던스, 프리패브 공법으로 구축한 붉은 벽돌의 주거 단지",
+      "url": "https://www.wallpaper.com/architecture/residential/cadence-kings-cross-alison-brooks-uk"
+     }
+    ]
+   },
+   {
+    "name": "화면과 프레임의 편집 장치",
+    "note": "영화와 디지털 도구를 통해 편집과 워크플로우의 물리적 제약을 실험한다.",
+    "items": [
+     {
+      "title": "107편의 할리우드 영화를 잇는 80초의 키네틱 실험, 스트링스 컷",
+      "url": "https://motionographer.com/quickie/strings-cut-nikita-didenko/"
+     },
+     {
+      "title": "스케치부터 레이아웃까지, 아이패드용 어피니티 통합 앱 출시",
+      "url": "https://www.creativeboom.com/tools/behold-affinity-for-ipad-the-app-that-wants-to-retire-your-four-other-apps/"
+     }
+    ]
+   }
+  ],
+  "based_on": 24,
+  "v": 3,
+  "model": "gemini-3.5-flash-lite",
+  "written_at": "2026-11-03 02:45"
  }
 }

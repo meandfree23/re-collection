@@ -1,32 +1,44 @@
 {
-  "generated_at": "2026-11-02 19:34 KST",
-  "period": "2026.10.26 - 2026.11.02",
-  "total_articles": 400,
+  "generated_at": "2026-11-03 02:38 KST",
+  "period": "2026.10.27 - 2026.11.03",
+  "total_articles": 354,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 200
+      "count": 176
     },
     {
       "genre": "동시대 미술",
-      "count": 148
+      "count": 128
     },
     {
       "genre": "아방가르드 패션",
-      "count": 43
+      "count": 40
     },
     {
       "genre": "미디어 파사드·3D",
-      "count": 9
+      "count": 10
     }
   ],
   "themes": [
     {
       "keyword": "가구 디자인",
-      "count": 13,
+      "count": 14,
       "previous_count": 8,
       "trend": "rising",
       "items": [
+        {
+          "title": "이 그림처럼 완벽한 교외 주방은 최대 저장 공간, 스마트 가전 제품 및 맞춤형 가구를 위한 논쟁입니다.",
+          "url": "https://www.architecturaldigest.com/story/mason-and-brass-smart-family-kitchen",
+          "image_url": "https://media.architecturaldigest.com/photos/6ae5e7965467833382fc7c74/master/pass/mason-and-brass-fall-2026-hires-19.jpg",
+          "source_name": "Architectural Digest"
+        },
+        {
+          "title": "아야 무그 (Aya Moug) 의 파피루스 가구는 이집트의 뿌리와 현대적인 디자인을 연결합니다.",
+          "url": "https://www.wallpaper.com/design-interiors/aya-moug-papyrus-furniture-design-doha",
+          "image_url": "https://cdn.mos.cms.futurecdn.net/7uAKq2xv6yP8q698KdLhHP-1920-80.jpg",
+          "source_name": "Wallpaper*"
+        },
         {
           "title": "10월에 선보이는 Dezeen의 인기 가구 및 가정용품",
           "url": "https://www.dezeen.com/2026/11/01/dezeens-favourite-furniture-homeware-october/",
@@ -38,24 +50,12 @@
           "url": "https://www.archdaily.com/1187623/koi-soa-architekti",
           "image_url": "https://images.adsttc.com/media/images/6ae0/d075/20d6/d801/8852/1884/large_jpg/koi-soa-architekti_3.jpg?1793118369",
           "source_name": "ArchDaily"
-        },
-        {
-          "title": "아스펜 골란 (Aspen Golann) 의 17세기 자수와 손으로 조각한 나무 그릇의 만남",
-          "url": "https://www.thisiscolossal.com/2026/10/aspen-golann-woodworking-embroidery-vessels-sculpture/",
-          "image_url": "https://www.thisiscolossal.com/wp-content/uploads/2026/10/golann-6.jpg",
-          "source_name": "This Is Colossal"
-        },
-        {
-          "title": "사빈 마르셀리스 (Sabine Marcelis) 의 용암 램프 세계는 분홍색으로 장식되어 있습니다. 조각을 구입할 수 있습니다.",
-          "url": "https://www.wallpaper.com/design-interiors/lighting/sabine-marcelis-bubblegum-pink-lava-lamp-for-mathmos",
-          "image_url": "https://cdn.mos.cms.futurecdn.net/VX7V9ScabLfFemn6j7FFyC-1920-80.jpg",
-          "source_name": "Wallpaper*"
         }
       ]
     },
     {
       "keyword": "사진",
-      "count": 11,
+      "count": 10,
       "previous_count": 5,
       "trend": "rising",
       "items": [
@@ -86,40 +86,8 @@
       ]
     },
     {
-      "keyword": "목재 건축",
-      "count": 10,
-      "previous_count": 7,
-      "trend": "rising",
-      "items": [
-        {
-          "title": "O'Sullivan Skoufoglou Architects는 런던에 \"조용하면서도 현재적인\" 정원 스튜디오를 만듭니다.",
-          "url": "https://www.dezeen.com/2026/10/31/osullivan-skoufoglou-architects-garden-studio/",
-          "image_url": "https://static-2026.dezeen.com/uploads/2026/10/garden-studio-osullivan-skoufoglou-architects-office-architecture-london-highbury-brick-timber_dezeen_2364_sq2-1024x1024.jpg",
-          "source_name": "Dezeen"
-        },
-        {
-          "title": "벽돌 구조물/코포 아틀리에 위에 있는 목재 구조물",
-          "url": "https://www.archdaily.com/1187639/wood-structure-on-top-of-brick-structure-corpo-atelier",
-          "image_url": "https://images.adsttc.com/media/images/6ae0/fba4/3271/8400/01d0/f37b/large_jpg/4.jpg?1793129450",
-          "source_name": "ArchDaily"
-        },
-        {
-          "title": "몬태나, 지속 가능한 가구 메이커 Takt 인수",
-          "url": "https://www.dezeen.com/2026/10/29/montana-takt-acquisition/",
-          "image_url": "https://static-2026.dezeen.com/uploads/2026/10/sq-montana-takt_dezeen_2364_col_0-1024x1024.jpg",
-          "source_name": "Dezeen"
-        },
-        {
-          "title": "해로우온더힐",
-          "url": "https://leibal.com/interiors/harrow-on-the-hill/",
-          "image_url": "https://leibal.com/wp-content/uploads/2026/10/leibal-harrow-on-the-hill-inglis-badrashi-loddo-11.jpg",
-          "source_name": "Leibal"
-        }
-      ]
-    },
-    {
       "keyword": "콘크리트 물성",
-      "count": 8,
+      "count": 6,
       "previous_count": 4,
       "trend": "rising",
       "items": [
@@ -150,41 +118,9 @@
       ]
     },
     {
-      "keyword": "텍스타일·직물",
-      "count": 5,
-      "previous_count": 3,
-      "trend": "rising",
-      "items": [
-        {
-          "title": "파리 에스파스에서 카펫 디엠과 1000개의 화병이 섬유, 세라믹, 유리 예술을 결합합니다.",
-          "url": "https://www.designboom.com/art/carpet-diem-1000-vases-textile-ceramic-glass-art-espace-commines-paris/",
-          "image_url": "https://www.designboom.com/wp-content/dbsub/467727/2026-10-29/carpet-diem-and-1000-vases-bring-contemporary-textile-ceramic-and-glass-art-together-in-paris-8-6ae319c967310.jpg",
-          "source_name": "Designboom Art"
-        },
-        {
-          "title": "콘야 광장 주택 및 자전거 박물관 확장/얄린 건축 디자인",
-          "url": "https://www.archdaily.com/1187508/konya-square-houses-and-bicycle-museum-extension-yalin-architectural-design",
-          "image_url": "https://images.adsttc.com/media/images/6ae0/af72/db5c/2001/882d/0aa3/large_jpg/konya-square-houses-and-bicycle-museum-extension-yalin-architectural-design_25.jpg?1793109879",
-          "source_name": "ArchDaily"
-        },
-        {
-          "title": "제레미아 브렌트 (Jeremiah Brent), 롤로이 러그 (Loloi Rugs) 에 건축적 영향력 제공",
-          "url": "https://design-milk.com/jeremiah-brent-loloi-collection/",
-          "image_url": "https://design-milk.com/images/2026/10/Jeremiah_Brent_MAP_Portrait_Stairs_H-1500x1125.jpg",
-          "source_name": "Design Milk"
-        },
-        {
-          "title": "두이한은 상하이 저택 내부에 비에서 영감을 얻은 직물 청취 정원을 설치합니다.",
-          "url": "https://www.designboom.com/art/duyi-han-rain-inspired-textile-listening-garden-shanghai-villa/",
-          "image_url": "https://www.designboom.com/wp-content/dbsub/418542/2026-10-24/duyi-han-creates-a-listening-garden-in-textile-at-a-shanghai-villa-1-6adc8a035ecfc.jpg",
-          "source_name": "Designboom Art"
-        }
-      ]
-    },
-    {
       "keyword": "빛과 조명",
-      "count": 8,
-      "previous_count": 8,
+      "count": 7,
+      "previous_count": 7,
       "trend": "steady",
       "items": [
         {
@@ -212,18 +148,80 @@
           "source_name": "Architectural Digest"
         }
       ]
+    },
+    {
+      "keyword": "레스토랑·호스피탈리티",
+      "count": 5,
+      "previous_count": 6,
+      "trend": "steady",
+      "items": [
+        {
+          "title": "KOI 레스토랑/SOA Architekti",
+          "url": "https://www.archdaily.com/1187623/koi-soa-architekti",
+          "image_url": "https://images.adsttc.com/media/images/6ae0/d075/20d6/d801/8852/1884/large_jpg/koi-soa-architekti_3.jpg?1793118369",
+          "source_name": "ArchDaily"
+        },
+        {
+          "title": "AEME Building / Paz Arquitectura",
+          "url": "https://www.archdaily.com/994469/edificio-aeme-paz-arquitectura",
+          "image_url": "https://images.adsttc.com/media/images/63ab/2234/adb1/7440/9e70/d1c9/large_jpg/aeme-paz-arquitectura_7.jpg?1672159805",
+          "source_name": "ArchDaily"
+        },
+        {
+          "title": "미미 카쿠시, 마이애미 비치에 일본의 매력을 더하다",
+          "url": "https://design-milk.com/mimi-kakushi-delano-miami-pirajean-lees/",
+          "image_url": "https://design-milk.com/images/2026/10/Pirajean-Lees-x-Mimi-Kakushi-Delano-Miami-Mimi-Kakushi-00587Robert-Reiger-e1792856834637-1500x1000.jpg",
+          "source_name": "Design Milk"
+        },
+        {
+          "title": "Trattoria Breda by Allen Kaufmann Architekten Flirts With Ugly and Lands Firmly on Cool.",
+          "url": "https://www.yellowtrace.com.au/allen-kaufmann-architekten-trattoria-breda-berlin-orange-dining-room/",
+          "image_url": "https://assets.yellowtrace.com.au/wp-content/uploads/2026/10/07151150/Yellowtrace-Allen-Kaufmann-Architekten-Trattoria-Breda-Berlin-Orange-Dining-Room-14_opt80.jpg",
+          "source_name": "Yellowtrace"
+        }
+      ]
+    },
+    {
+      "keyword": "리노베이션·재생",
+      "count": 5,
+      "previous_count": 5,
+      "trend": "steady",
+      "items": [
+        {
+          "title": "로티어 - 브뤼셀의 46개 주택 리노베이션/다중 건축 및 도시주의",
+          "url": "https://www.archdaily.com/1187565/rotiers-renovation-of-46-housing-units-in-brussels-multiple-architecture-and-urbanism",
+          "image_url": "https://images.adsttc.com/media/images/6adf/8efb/3271/8400/01d0/ecee/large_jpg/Rotiers_08_Bruno_Dias_Ventura.jpg?1793036122",
+          "source_name": "ArchDaily"
+        },
+        {
+          "title": "누녜스데발보아",
+          "url": "https://leibal.com/interiors/nunez-de-balboa/",
+          "image_url": "https://leibal.com/wp-content/uploads/2026/10/leibal_nunez-de-balboa_emechaves-studio_01.jpg",
+          "source_name": "Leibal"
+        },
+        {
+          "title": "AD-WO, 피츠버그 카네기 미술관 하인즈 건축 센터 리노베이션",
+          "url": "https://www.archdaily.com/1187645/ad-wo-to-renovate-the-heinz-architectural-center-at-pittsburghs-carnegie-museum-of-art",
+          "image_url": "https://images.adsttc.com/media/images/6ae1/57bb/db5c/2001/882d/0d18/large_jpg/heinz-architectural-center_3.jpg?1793152992",
+          "source_name": "ArchDaily"
+        },
+        {
+          "title": "하우스 위/웨스피 드 뫼롱 로미오 건축가",
+          "url": "https://www.archdaily.com/1186943/house-we-wespi-de-meuron-romeo-architects",
+          "image_url": "https://images.adsttc.com/media/images/6ad0/e600/b2c4/c300/0178/fa0b/large_jpg/Casa_WE_Albo-32.jpg?1792075283",
+          "source_name": "ArchDaily"
+        }
+      ]
     }
   ],
   "notable_names": [
     "Harley Weir",
+    "Kengo Kuma",
+    "Election Day",
     "Sabine Marcelis",
     "San Siro",
-    "Oxford Street",
-    "Dezeen Awards",
     "Tom Hegen",
-    "Aston Martin",
-    "Paul Pfeiffer",
-    "Art Basel Paris"
+    "Aston Martin"
   ],
   "has_comparison": true
 }
