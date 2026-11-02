@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-02 16:21 KST",
+  "generated_at": "2026-11-02 19:34 KST",
   "period": "2026.10.26 - 2026.11.02",
-  "total_articles": 390,
+  "total_articles": 400,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 197
+      "count": 200
     },
     {
       "genre": "동시대 미술",
-      "count": 141
+      "count": 148
     },
     {
       "genre": "아방가르드 패션",
@@ -150,6 +150,38 @@
       ]
     },
     {
+      "keyword": "텍스타일·직물",
+      "count": 5,
+      "previous_count": 3,
+      "trend": "rising",
+      "items": [
+        {
+          "title": "파리 에스파스에서 카펫 디엠과 1000개의 화병이 섬유, 세라믹, 유리 예술을 결합합니다.",
+          "url": "https://www.designboom.com/art/carpet-diem-1000-vases-textile-ceramic-glass-art-espace-commines-paris/",
+          "image_url": "https://www.designboom.com/wp-content/dbsub/467727/2026-10-29/carpet-diem-and-1000-vases-bring-contemporary-textile-ceramic-and-glass-art-together-in-paris-8-6ae319c967310.jpg",
+          "source_name": "Designboom Art"
+        },
+        {
+          "title": "콘야 광장 주택 및 자전거 박물관 확장/얄린 건축 디자인",
+          "url": "https://www.archdaily.com/1187508/konya-square-houses-and-bicycle-museum-extension-yalin-architectural-design",
+          "image_url": "https://images.adsttc.com/media/images/6ae0/af72/db5c/2001/882d/0aa3/large_jpg/konya-square-houses-and-bicycle-museum-extension-yalin-architectural-design_25.jpg?1793109879",
+          "source_name": "ArchDaily"
+        },
+        {
+          "title": "제레미아 브렌트 (Jeremiah Brent), 롤로이 러그 (Loloi Rugs) 에 건축적 영향력 제공",
+          "url": "https://design-milk.com/jeremiah-brent-loloi-collection/",
+          "image_url": "https://design-milk.com/images/2026/10/Jeremiah_Brent_MAP_Portrait_Stairs_H-1500x1125.jpg",
+          "source_name": "Design Milk"
+        },
+        {
+          "title": "두이한은 상하이 저택 내부에 비에서 영감을 얻은 직물 청취 정원을 설치합니다.",
+          "url": "https://www.designboom.com/art/duyi-han-rain-inspired-textile-listening-garden-shanghai-villa/",
+          "image_url": "https://www.designboom.com/wp-content/dbsub/418542/2026-10-24/duyi-han-creates-a-listening-garden-in-textile-at-a-shanghai-villa-1-6adc8a035ecfc.jpg",
+          "source_name": "Designboom Art"
+        }
+      ]
+    },
+    {
       "keyword": "빛과 조명",
       "count": 8,
       "previous_count": 8,
@@ -178,38 +210,6 @@
           "url": "https://www.architecturaldigest.com/gallery/best-table-lamps-and-bedside-lamps",
           "image_url": "https://media.architecturaldigest.com/photos/66db37e55ec07661c0789355/master/pass/ADShopping_Lamps_header%20copy.jpg",
           "source_name": "Architectural Digest"
-        }
-      ]
-    },
-    {
-      "keyword": "레스토랑·호스피탈리티",
-      "count": 6,
-      "previous_count": 6,
-      "trend": "steady",
-      "items": [
-        {
-          "title": "KOI 레스토랑/SOA Architekti",
-          "url": "https://www.archdaily.com/1187623/koi-soa-architekti",
-          "image_url": "https://images.adsttc.com/media/images/6ae0/d075/20d6/d801/8852/1884/large_jpg/koi-soa-architekti_3.jpg?1793118369",
-          "source_name": "ArchDaily"
-        },
-        {
-          "title": "AEME Building / Paz Arquitectura",
-          "url": "https://www.archdaily.com/994469/edificio-aeme-paz-arquitectura",
-          "image_url": "https://images.adsttc.com/media/images/63ab/2234/adb1/7440/9e70/d1c9/large_jpg/aeme-paz-arquitectura_7.jpg?1672159805",
-          "source_name": "ArchDaily"
-        },
-        {
-          "title": "미미 카쿠시, 마이애미 비치에 일본의 매력을 더하다",
-          "url": "https://design-milk.com/mimi-kakushi-delano-miami-pirajean-lees/",
-          "image_url": "https://design-milk.com/images/2026/10/Pirajean-Lees-x-Mimi-Kakushi-Delano-Miami-Mimi-Kakushi-00587Robert-Reiger-e1792856834637-1500x1000.jpg",
-          "source_name": "Design Milk"
-        },
-        {
-          "title": "Trattoria Breda by Allen Kaufmann Architekten Flirts With Ugly and Lands Firmly on Cool.",
-          "url": "https://www.yellowtrace.com.au/allen-kaufmann-architekten-trattoria-breda-berlin-orange-dining-room/",
-          "image_url": "https://assets.yellowtrace.com.au/wp-content/uploads/2026/10/07151150/Yellowtrace-Allen-Kaufmann-Architekten-Trattoria-Breda-Berlin-Orange-Dining-Room-14_opt80.jpg",
-          "source_name": "Yellowtrace"
         }
       ]
     }
