@@ -248754,5 +248754,172 @@
   },
   "depth_raw": 3,
   "depth_v": 2
+ },
+ "creativeboom.com/work/swiss-typefaces-crafts-a-warmer-friendlier-custom-font-for-swiss-post": {
+  "title_ko": "스위스 우체국을 위한 서체, 스위스 포스트 산스: 제약 속에서 찾은 인문주의적 온기",
+  "summary_ko": "스위스 타이프페이시스가 3년에 걸쳐 스위스 우체국을 위한 전용 서체 '스위스 포스트 산스'를 개발했다. 기존 레이아웃을 수정 없이 대체해야 하는 제약 아래, 가독성과 실용성을 최우선으로 하되 'i'와 'j'의 점을 둥글게 다듬어 인문주의적 온기를 불어넣었다.",
+  "lens": "기존 서체를 완벽히 대체해야 하는 기술적 강박을 인문주의적 디테일로 풀어내며 공공 디자인의 정석을 보여준다.",
+  "why_now": "디지털 환경에서 브랜드의 목소리를 일관되게 전달하기 위해, 기교를 덜어내고 기능적 완성도에 집중한 서체 디자인의 중요성이 다시금 강조된다.",
+  "mechanism": "기존 서체와 동일한 타이포그래피 볼륨을 유지해 레이아웃 변경을 방지했으며, 숫자 폰트는 기본적으로 표 형식을 지원하도록 설계해 데이터 가독성을 확보했다.",
+  "sensory": "직선과 곡선이 교차하는 서체 구조는 정갈한 인상을 주며, 특히 이탤릭체에서 드러나는 캘리그래피적 곡선은 딱딱한 공공 정보에 유연한 리듬감을 부여한다.",
+  "transfer": "공간 디자인이나 영상 자막 작업 시, 기존 레이아웃을 해치지 않으면서도 폰트의 획 끝(terminal)을 둥글게 다듬는 것만으로 브랜드의 인상을 부드럽게 전환할 수 있다.",
+  "context": "스위스 타이프페이시스는 디자이너를 위한 그래픽 머신을 지향하는 스튜디오로, 이번 프로젝트에서는 스위스 우체국의 공공성과 역사적 맥락을 현대적으로 재해석했다.",
+  "findings": [
+   {
+    "text": "스위스 타이프페이시스는 디자이너를 위해 설계된 그래픽 머신으로서의 서체를 제작한다.",
+    "s": 1,
+    "quote": "Our typefaces are made by designers, for designers. They are graphical machines, engineered to capture the vibes of the now, and capable of generating vanguard visuals."
+   },
+   {
+    "text": "스위스 우체국은 스위스 연방이 소유한 공기업으로, 스위스 내 두 번째로 큰 고용주이다.",
+    "s": 2,
+    "quote": "A public company owned by the Swiss Confederation, it is the country's second largest employer with about 54,000 employees."
+   }
+  ],
+  "keywords": [
+   "스위스포스트산스",
+   "서체디자인",
+   "공공디자인",
+   "타이포그래피",
+   "스위스타이프페이시스"
+  ],
+  "evidence": "make a new font that nobody would notice at all",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "제약 조건이 명확한 프로젝트에서 기술적 해결책과 디자인적 의도를 구체적으로 서술하고 있다.",
+  "v": 2,
+  "url": "https://www.creativeboom.com/work/swiss-typefaces-crafts-a-warmer-friendlier-custom-font-for-swiss-post/",
+  "original_title": "Swiss Typefaces crafts a warmer, friendlier custom font for Swiss Post",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 7200,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-02 16:22",
+  "research": {
+   "entities": [
+    "Swiss Typefaces",
+    "Swiss Post",
+    "Swiss Post Sans"
+   ],
+   "questions": [
+    "스위스 우체국(Swiss Post)이 기존 서체를 교체하기 위해 스위스 타이프페이시스(Swiss Typefaces)와 협력하여 개발한 'Swiss Post Sans'의 디자인 특징과 인체공학적 요소는 무엇인가?",
+    "다국어 지원과 탭ULAR 숫자 정렬 등 실용적 제약 조건을 해결하기 위해 서체 개발 과정에서 어떤 테스트와 기술적 접근이 사용되었는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Swiss Typefaces",
+     "url": "https://www.swisstypefaces.com/"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Swiss Post",
+     "url": "https://en.wikipedia.org/wiki/Swiss%20Post"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 901
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "dezeen.com/2026/11/02/lacaton-vassal-le-prix-charlotte-perriand-2027": {
+  "title_ko": "라카통 앤 바살, 샬럿 페리앙 상 2027 수상",
+  "summary_ko": "프랑스 건축 스튜디오 라카통 앤 바살 아키텍츠가 크리에이터스 디자인 어소시에이션 앤 어워즈로부터 르 프리 샬럿 페리앙 2027 수상자로 선정됐다. 이들은 기존 건물을 철거하는 대신 변형하고 개선해 거주자의 삶의 질을 높인 공로를 인정받았다. 시상식은 2027년 1월 16일 파리 샹그릴라 호텔에서 열린다.",
+  "lens": "기존 건물을 부수지 않고 고쳐 쓰는 태도로 자원과 기억의 레이어를 잇는다.",
+  "why_now": "신축 중심의 개발 방식을 넘어 이미 존재하는 공간의 구조를 보존하고 재해석하는 태도가 동시대 건축의 핵심 화두로 자리 잡았다.",
+  "mechanism": "기존 건축물의 골조와 형태를 유지하면서 내부 공간을 확장하고 단열과 채광 같은 거주 환경을 실질적으로 개선하는 방식을 취한다.",
+  "sensory": "화려한 장식 대신 날것의 구조체와 풍부한 자연광이 만들어내는 투명하고 일상적인 공간감.",
+  "transfer": "공간이나 세트를 연출할 때 새로운 자재를 더하기보다 기존 벽체와 마감의 질감을 그대로 노출해 시간의 흔적을 살린다.",
+  "context": "안느 라카통과 장 필립 바살이 1987년에 설립한 라카통 앤 바살은 사회주택 개조와 경제적인 재료 사용으로 잘 알려져 있으며 2021년 프리츠커상을 수상했다.",
+  "findings": [
+   {
+    "text": "라카통 앤 바살은 1987년에 안느 라카통과 장 필립 바살이 설립한 건축 사무소다.",
+    "s": 1,
+    "quote": "Lacaton & Vassal is an architecture agency founded by Anne Lacaton and Jean-Philippe Vassal in 1987."
+   },
+   {
+    "text": "안느 라카통은 1955년 8월 2일에 태어난 프랑스의 건축가이자 교육자다.",
+    "s": 2,
+    "quote": "Anne Lacaton (born 2 August 1955) is a French architect and educator."
+   }
+  ],
+  "keywords": [
+   "라카통앤바살",
+   "샬럿페리앙",
+   "건축재생",
+   "사회주택"
+  ],
+  "evidence": "The Créateurs Design Association & Awards has named Pritzker Prize-winning French studio Lacaton & Vassal Architectes the recipient of the Le Prix Charlotte Perriand 2027.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "프리츠커상 수상 스튜디오의 주요 수상 소식을 다룬 명확한 사실 중심의 보도 기사다.",
+  "v": 2,
+  "url": "https://www.dezeen.com/2026/11/02/lacaton-vassal-le-prix-charlotte-perriand-2027/",
+  "original_title": "Lacaton & Vassal wins Le Prix Charlotte Perriand 2027",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 3740,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-02 16:22",
+  "research": {
+   "entities": [
+    "Lacaton & Vassal",
+    "Anne Lacaton",
+    "Jean-Philippe Vassal",
+    "Charlotte Perriand",
+    "Créateurs Design Association"
+   ],
+   "questions": [
+    "Lacaton & Vassal이 추구하는 '기존 건물의 변형과 개선'이라는 건축 철학은 무엇인가요?",
+    "Charlotte Perriand의 건축적 가치와 Lacaton & Vassal의 작업 방식 사이에는 어떤 공통점이 있나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Lacaton & Vassal",
+     "url": "https://en.wikipedia.org/wiki/Lacaton%20%26%20Vassal"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Anne Lacaton",
+     "url": "https://en.wikipedia.org/wiki/Anne%20Lacaton"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "로즈 유니악이 구현한 런던 아파트, 시대를 가로지르는 물성의 대화",
+     "url": "https://www.wallpaper.com/design-interiors/interior-design/rose-uniacke-west-london-apartment"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "버질 아블로와 거장들의 가구를 1달러에 소장하는 공간 드로우",
+     "url": "https://www.wallpaper.com/design-interiors/basic-space-apple-pay-virgil-abloh-foundation-drawing"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "장 프루베의 조립식 집, 리비에라의 올리브 나무 아래로 돌아오다",
+     "url": "https://www.wallpaper.com/travel/you-can-now-stay-in-this-restored-jean-prouve-house-on-the-french-riviera"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 1523
+  },
+  "depth_raw": 3,
+  "depth_v": 2
  }
 }
