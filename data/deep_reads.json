@@ -255493,5 +255493,251 @@
   },
   "depth_raw": 3,
   "depth_v": 2
+ },
+ "dezeen.com/2026/11/03/batek-architekten-hey-orthodontic-clinic": {
+  "title_ko": "파스텔 옐로우와 무광 실버로 공포를 지운 베를린 교정 클리닉",
+  "summary_ko": "독일 베를린의 바텍 아키텍텐이 178제곱미터 규모의 전직 약국 공간을 교정 클리닉 '헤이'로 개조했다. 파스텔 옐로우 색상과 식물성 레진 바닥재를 사용해 의료 시설 특유의 무균적이고 차가운 느낌을 지웠다. 접수대의 접긴 철제 카운터와 유리섬유 강화 플라스틱 벽면으로 갤러리 같은 감각을 더했다.",
+  "lens": "의료 공간에서 흔한 흰색과 무균의 공포를 단색의 파스텔 톤과 정교한 바닥 레진 마감으로 완전히 해체한다.",
+  "why_now": "어린 환자와 청소년이 자주 찾는 병원 환경에서 무서운 분위기 대신 심리적 안정감을 주는 인테리어 설계가 대안으로 떠오르고 있다.",
+  "mechanism": "바닥부터 벽까지 이어지는 파스텔 옐로우 색상이 공간을 감싸 안는 분위기를 만들고, 철제 접수대와 유리섬유 벽체가 기하학적 긴장감을 만든다.",
+  "sensory": "이음새 없이 매끄럽게 이어진 노란색 식물성 레진 바닥의 촉감과 무광 실버 집기, 천장을 가로지르는 조명 튜브의 선적인 빛이 공간을 채운다.",
+  "transfer": "세트나 공간 디자인에서 차가운 금속 소재와 부드러운 단색 레진 바닥을 조합해 의료적이거나 실험실 같은 분위기를 세련된 갤러리처럼 연출한다.",
+  "context": "바텍 아키텍텐은 베를린에서 티7.2 치과 클리닉을 개조하고 역사적인 영화관을 리노베이션하는 등 지역 내 다양한 상업 및 의료 공간 작업을 진행해 왔다.",
+  "findings": [
+   {
+    "text": "바텍 아키텍텐은 베를린에서 T7.2 치과 클리닉을 개조한 경험이 있다.",
+    "s": 2,
+    "quote": "Berlin Smile ZahnzentrumBerlin 2020"
+   }
+  ],
+  "keywords": [
+   "공간디자인",
+   "인테리어",
+   "의료공간",
+   "바텍아키텍텐",
+   "베를린"
+  ],
+  "evidence": "Avoiding the sterile appearance of most medical interiors, Berlin-based Batek Architekten used soothing shades of pastel yellow and matt silver to bring a sense of softness to orthodontic clinic Hey.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "의료 공간의 고정관념을 깬 완성도 높은 디자인이나 선례가 명확해 상위 수준의 평범한 소개에 해당한다.",
+  "v": 2,
+  "url": "https://www.dezeen.com/2026/11/03/batek-architekten-hey-orthodontic-clinic/",
+  "original_title": "Batek Architekten designs Berlin orthodontic clinic that looks more like a boutique or gallery",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 3826,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-03 16:55",
+  "research": {
+   "entities": [
+    "Batek Architekten",
+    "Patrick Batek",
+    "Julia Jensen",
+    "Bailey und Bailey",
+    "Julie Charlotte Angrick"
+   ],
+   "questions": [
+    "Batek Architekten은 이전의 다른 치과 인테리어 프로젝트와 이번 Hey 교정 클리닉 디자인에서 어떤 차별점을 두었는가?",
+    "어린 환자들의 치과 공포감을 줄이기 위해 사용된 파스텔 옐로우 색상과 식물성 레진 바닥재 등 구체적인 디자인 요소는 기능성과 위생을 어떻게 충족하고 있는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Hey",
+     "url": "https://hey-kieferorthopaedie.de"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Batek Architekten / Batek Architekten",
+     "url": "https://batekarchitekten.com"
+    },
+    {
+     "n": 3,
+     "type": "공식·1차",
+     "title": "Bailey und Bailey",
+     "url": "https://baileyundbailey.de"
+    }
+   ],
+   "used": [
+    2
+   ],
+   "chars": 2485
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "creativeboom.com/work/how-elie-nguessan-makes-everyday-london-look-like-a-movie": {
+  "title_ko": "런던의 이면을 영화적 장면으로 바꾸는 사진가 엘리 은게산",
+  "summary_ko": "센트럴 세인트 마틴에서 제품 디자인을 전공한 런던 출신의 사진가 엘리 은게산(Elie N'Guessan)은 일상적인 공간과 계획되지 않은 순간에서 영감을 받아 작업을 전개한다. 아디다스(Adidas) 가상의 상업 프로젝트부터 개인적인 서사가 담긴 인물 사진까지, 인화 후 재스캔 과정을 거쳐 독특한 질감을 만들어낸다.",
+  "lens": "완벽히 제어된 스튜디오 대신 런던의 콘크리트 벽과 자동차 문틈을 프레임 삼아 거친 입자의 질감을 끌어낸다.",
+  "why_now": "디지털 보정이 보편화된 시점에서, 아날로그 인화와 스캔을 거쳐 생겨나는 미세한 먼지와 결이 오히려 날것의 실감과 영화적 분위기를 부여한다.",
+  "mechanism": "촬영을 마친 이미지를 실제로 인화한 뒤 다시 스캔하여 의도적인 먼지와 입자감을 더하고, 익숙한 도시 환경을 조명과 구도로 극적인 장면으로 바꾼다.",
+  "sensory": "코랄 레드 컬러의 벽과 콘크리트의 거친 표면 위로 아날로그 필름 특유의 그레인과 먼지 질감이 중첩되어 시각적 밀도를 높인다.",
+  "transfer": "광고 콘티 작성 시 깔끔한 디지털 소스 대신 차 안이나 축구 골대 같은 일상적 구조물 속에서 모델에게 자연스러운 비정형적 움직임을 유도한다.",
+  "context": "센트럴 세인트 마틴에서 제품 디자인을 전공한 작가는 대학 시절 취미로 시작한 카메라를 통해 런던의 문화와 사람들을 기록하며 패션 및 상업 사진으로 영역을 넓혔다.",
+  "findings": [],
+  "keywords": [
+   "엘리은게산",
+   "런던사진",
+   "아날로그스캔",
+   "시네마틱포토",
+   "패션포트레이트"
+  ],
+  "evidence": "From an impromptu shoot with four curious kids to a sportswear campaign concept staged inside a car, the London photographer finds inspiration in familiar places and unplanned moments.",
+  "kind": "작가·인터뷰",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "런던 기반 신진 사진가의 작업 방식을 구체적으로 보여주나, 상업 및 개인 작업의 범주를 크게 벗어나지 않는 평범한 소개다.",
+  "v": 2,
+  "url": "https://www.creativeboom.com/work/how-elie-nguessan-makes-everyday-london-look-like-a-movie/",
+  "original_title": "How Elie N’Guessan makes everyday London look like a movie",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 8083,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-03 16:55",
+  "research": {
+   "entities": [
+    "Elie N'Guessan",
+    "Central Saint Martins",
+    "Gabriel Moses",
+    "Adidas"
+   ],
+   "questions": [
+    "Elie N'Guessan이 사진을 인화한 뒤 다시 스캔하는 아날로그적 방식은 그의 최종 결과물에 어떤 시각적 특성을 부여하는가?",
+    "그의 대표작인 'Dobs on the Back Seat'와 'God Helps Us All'은 각각 상업적 작업과 개인적 작업에서 어떤 차별점을 보여주는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Central Saint Martins",
+     "url": "https://en.wikipedia.org/wiki/Central%20Saint%20Martins"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Adidas",
+     "url": "https://en.wikipedia.org/wiki/Adidas"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "시몬 로샤의 2027 봄/여름 컬렉션: 일상과 바로크의 충돌",
+     "url": "https://www.anothermag.com/fashion-beauty/17499/simone-rocha-spring-summer-2027-ss27-review-interview-womenswear?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=simone-rocha-revelations-of-the-everyday"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "폭풍우가 치고 난 런던의 잔해, 리자 킨의 잿빛 데뷔전",
+     "url": "https://www.dazeddigital.com/fashion/article/71003/1/liza-keane-ss27-london-fashion-week-lfw-newgen-rising-designer?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=liza-keane-is-london-fashion-week-s-dark-and-stormy-saviour"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "눈물의 질감과 색채로 직조한 폴린 뒤장쿠르의 2027 봄·여름 컬렉션",
+     "url": "https://www.anothermag.com/fashion-beauty/17497/pauline-dujancourt-show-review-spring-summer-2027-ss27-dsm?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=pauline-dujancourt-imagines-emotions-in-textures-and-colours"
+    }
+   ],
+   "used": [],
+   "chars": 2614
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "dezeen.com/2026/11/03/pratts-courses-shift-creative-practice": {
+  "title_ko": "프랫 인스티튜트, 유동적인 크리에이티브 커리어를 위한 교육 과정 개편",
+  "summary_ko": "프랫 인스티튜트 지속교육 및 전문연구 과정(SCPS)이 그래픽 디자인, 순수미술, AI 디자인 등 세 가지 유연한 인증 프로그램을 새롭게 선보였다. 디자이너들이 디지털과 물리적 환경을 넘나들며 새로운 도구를 익힐 수 있도록 맨해튼과 브루클린 캠퍼스에서 온오프라인 병행 형태로 운영한다.",
+  "lens": "기술을 대체재가 아닌 확장 도구로 삼아 창의적 실천의 지형을 넓힌다.",
+  "why_now": "디자이너들이 스튜디오와 스타트업을 넘나들며 빠르게 변하는 기술 환경에 대응해야 하는 실무적 요구를 반영했다.",
+  "mechanism": "AI를 리서치와 시각화 과정에 결합하되 저작권과 윤리적 책임을 함께 다루는 모듈식 커리큘럼으로 작동한다.",
+  "sensory": "맨해튼과 브루클린의 전용 스튜디오에서 건축가, 예술가, 기술자들이 모여 물리적 매체와 디지털 인터페이스를 교차하며 토론한다.",
+  "transfer": "새로운 제작 툴을 도입할 때 자동화된 결과물 대신 프롬프트 설계 과정과 인간의 개입 지점을 콘티에 명시한다.",
+  "context": "1887년 설립된 프랫 인스티튜트는 뉴욕 브루클린과 맨해튼에 캠퍼스를 두고 건축과 디자인 교육을 선도해 온 사립 대학이다.",
+  "findings": [
+   {
+    "text": "AI 디자인 과정은 리서치, 아이디어 구상, 제작 과정에서 인공지능을 창의적 도구로 다루며 책임감 있는 디자인을 탐구한다.",
+    "s": 3,
+    "quote": "Seamlessly integrate AI into your design approach for research, user personas, journey maps, idea generation, and rapid prototyping."
+   },
+   {
+    "text": "프랫 인스티튜트는 1887년에 설립되어 뉴욕 브루클린과 맨해튼에 캠퍼스를 두고 있다.",
+    "s": 4,
+    "quote": "Pratt Institute is a private university with its main campus in Brooklyn, New York. It has an additional campus in Manhattan and an extension campus in Utica, New York at the Munson-Williams-Proctor Arts Institute. The i"
+   }
+  ],
+  "keywords": [
+   "프랫인스티튜트",
+   "디자인교육",
+   "AI디자인",
+   "그래픽디자인"
+  ],
+  "evidence": "From architects using digital fabrication tools to how graphic designers can enhance their work with AI, Pratt Institute has responded to the increasing fluidity of creative careers by launching three new flexible programmes.",
+  "kind": "뉴스·이슈",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "교육 기관의 신규 커리큘럼 개편을 다룬 뉴스 기사로 동시대 실무 변화를 보여준다.",
+  "v": 2,
+  "url": "https://www.dezeen.com/2026/11/03/pratts-courses-shift-creative-practice/",
+  "original_title": "Pratt's evolving courses reflect \"broader shift in creative practice\"",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 3950,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-03 16:55",
+  "research": {
+   "entities": [
+    "Pratt Institute"
+   ],
+   "questions": [
+    "Pratt Institute의 지속교육 및 전문연구 과정(SCPS)이 새롭게 도입한 3가지 프로그램의 커리큘럼은 기존 과정과 어떻게 다른가?",
+    "디자인 산업에서 인공지능(AI) 도구 도입에 따른 윤리적 문제와 인간 창의성의 역할은 어떻게 재정의되고 있는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Homepage",
+     "url": "https://www.pratt.edu/continuing-and-professional-studies/"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Graphic Design",
+     "url": "https://www.pratt.edu/continuing-and-professional-studies/certificates/graphic-design/"
+    },
+    {
+     "n": 3,
+     "type": "공식·1차",
+     "title": "AI Design",
+     "url": "https://www.pratt.edu/continuing-and-professional-studies/certificates/ai-design/"
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "Pratt Institute",
+     "url": "https://en.wikipedia.org/wiki/Pratt%20Institute"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "2000년대 서울 청년들의 일탈과 교복 패션을 담은 신작 사진집",
+     "url": "https://www.anothermag.com/art-photography/17535/sung-jin-park-kid-echo-interview-seoul-teenagers-photography?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=sung-jin-park-s-portraits-of-seoul-youth-in-the-2000s"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "chars": 8013
+  },
+  "depth_raw": 3,
+  "depth_v": 2
  }
 }
