@@ -258088,5 +258088,471 @@
   },
   "depth_raw": 3,
   "depth_v": 2
+ },
+ "stashmedia.tv/blinkink-gets-fuzzy-at-a-cabin-in-the-woods-for-levis": {
+  "title_ko": "리바이스와 블링크인크의 공포 영화 오마주 스톱모션",
+  "summary_ko": "감독 듀오 스티비 지와 에시 메이가 이끄는 블링크인크가 리바이스 홀리데이 광고를 스톱모션 애니메이션으로 제작했다. 6주 반 동안 6명의 제작진이 2천 시간 이상을 들여 세 개의 서로 다른 크기의 오락실 세트와 400그루의 미니어처 나무를 직접 만들었다. 의복과 머리카락을 매 프레임 만져가며 질감을 살리는 보일링 기법을 적용했다.",
+  "lens": "미니어처 세트의 물리적 흔들림을 고스란히 담아 손때 묻은 질감을 만든다.",
+  "why_now": "디지털 합성 대신 장인의 손으로 빚어낸 물리적 질감과 세공이 광고 매체의 주목도를 높인다.",
+  "mechanism": "애니메이터가 매 프레임 미니어처 의류를 직접 만지는 보일링 기법을 사용해 의상과 머리카락에 끊임없이 흔들리는 생동감을 부여한다.",
+  "sensory": "400그루의 미니어처 나무와 수작업으로 칠한 세트가 만들어내는 투박하고도 정교한 아날로그 질감이 화면을 채운다.",
+  "transfer": "미니어처 세트를 제작할 때 디지털 후가공 대신 인위적인 손길로 재질을 흔들어 아날로그 질감을 연출한다.",
+  "context": "제작 스튜디오 블링크인크는 독창적인 애니메이션 감독들과 협업하며 장난스러운 초현실주의 세계를 구축해 왔다.",
+  "findings": [],
+  "keywords": [
+   "스톱모션",
+   "블링크인크",
+   "미니어처",
+   "리바이스"
+  ],
+  "evidence": "Over six and a half weeks, a six-person build team spent more than 2,000 hours crafting and painting the sets, including three cabins at different scales and 400 individually made miniature trees.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "구체적인 스톱모션 제작 공정과 수작업 과정을 상세히 담았으나 기존 애니메이션 연출의 범주를 벗어나지 않는다.",
+  "v": 2,
+  "url": "https://www.stashmedia.tv/blinkink-gets-fuzzy-at-a-cabin-in-the-woods-for-levis/",
+  "original_title": "Blinkink Gets Fuzzy at a Cabin in the Woods For Levi’s",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 3894,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-04 01:38",
+  "research": {
+   "entities": [
+    "Blinkink",
+    "Levi's",
+    "Stevie Gee",
+    "Essy May",
+    "Andy Biddle"
+   ],
+   "questions": [
+    "리바이스 홀리데이 광고 'Let’s Get Fuzzy' 제작에 참여한 블링크인크(Blinkink)의 스톱모션 기법과 디테일한 세트 제작 과정은 어떠한가?",
+    "호러 장르를 오마주한 이번 스톱모션 애니메이션 광고에서 스티비 지나 에시 메이 감독은 어떤 연출 의도를 담았는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Levi Strauss & Co.",
+     "url": "https://en.wikipedia.org/wiki/Levi%20Strauss%20%26%20Co."
+    },
+    {
+     "n": 2,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "암스테르담의 빈티지 숍, Nhỏgirl이 구축한 쿨걸의 비주얼 문법",
+     "url": "https://www.highsnobiety.com/p/nhogirl-amsterdam-amy-pham-thi/"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "애니메이터 리암 아치볼드, 블링킹크 글로벌 감독 명단 합류",
+     "url": "https://www.stashmedia.tv/director-liam-archibald-signs-to-blinkink-roster-for-worldwide-commercial-representation/"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "블링크, 애니메이션 감독 라데야 장 영입으로 상업 영상의 외연 확장",
+     "url": "https://www.stashmedia.tv/blinkink-signs-australian-director-radheya-jang-for-worldwide-representation/"
+    }
+   ],
+   "used": [],
+   "chars": 1318
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "stashmedia.tv/motion-north-2027-goes-big-march-10-11-in-manchester": {
+  "title_ko": "맨체스터에서 열리는 모션 노스 2027, 20명 이상의 연사 라인업 공개",
+  "summary_ko": "영국 맨체스터의 프레이트 아일랜드에서 3월 10일부터 11일까지 이틀간 열리는 디자인 및 크리에이티브 페스티벌 모션 노스 2027이 주요 라인업을 발표했다. 이번 행사는 20명 이상의 연사와 세 개의 무대, 워크숍을 비롯해 독립 아티스트들이 작품을 판매하는 신설 프로그램 마켓플레이스를 선보인다.",
+  "lens": "독립 아티스트들의 마켓플레이스와 실무 연사들의 강연을 결합해 지역 디자인 생태계의 실질적인 협업을 이끌어낸다.",
+  "why_now": "동시대 모션 그래픽과 시각효과(VFX) 분야의 실무 흐름을 한자리에서 조망할 수 있는 기회다.",
+  "mechanism": "20명이 넘는 연사 강연과 소프트웨어 데모, 세 개의 무대 프로그램을 병행해 이론과 실무의 접점을 만든다.",
+  "sensory": "프레이트 아일랜드의 개방된 공간에서 펼쳐지는 다양한 워크숍과 그래픽 프린트, 서적의 질감이 현장을 채운다.",
+  "transfer": "독립 아티스트들의 크래프트와 그래픽 프린트를 오프라인 쇼케이스 형태로 연출하는 방식을 로케이션 팝업이나 전시 기획에 활용할 수 있다.",
+  "context": "영국 맨체스터를 기반으로 활동하는 모션 노스는 모션 디자이너와 애니메이터, 영화 제작자들을 위한 커뮤니티로 연중 행사를 개최해왔다.",
+  "findings": [
+   {
+    "text": "모션 노스는 영국 맨체스터에 기반을 둔 모션 디자이너와 애니메이터, 영화 제작자, 시각효과 아티스트들의 커뮤니티다.",
+    "s": 1,
+    "quote": "Based in Manchester, UK, we're a welcoming community of Motion Designers, Animators, Film Makers, VFX Artists, Illustrators, Artists, Designers and enthusiasts."
+   },
+   {
+    "text": "디디이이지(DNEG)는 1998년 런던에서 설립된 영국의 시각효과 및 컴퓨터 애니메이션 디지털 스튜디오다.",
+    "s": 2,
+    "quote": "DNEG (formerly known as Double Negative and pronounced D-NEG) is a British visual effects, computer animation and stereo conversion digital studio that was founded in 1998 in London"
+   }
+  ],
+  "keywords": [
+   "모션노스",
+   "맨체스터",
+   "디자인페스티벌",
+   "모션그래픽"
+  ],
+  "evidence": "Manchester-based design and creative festival Motion North has announced the line up for Motion North 2027, the two day festival landing March 10-11th at Freight Island, Manchester.",
+  "kind": "행사·공모",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "행사 개최와 연사 라인업을 소개하는 평범한 안내 성격의 기사다.",
+  "v": 2,
+  "url": "https://www.stashmedia.tv/motion-north-2027-goes-big-march-10-11-in-manchester/",
+  "original_title": "Motion North 2027 Goes Big, March 10-11 in Manchester",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 2411,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-04 01:38",
+  "research": {
+   "entities": [
+    "Motion North",
+    "Lucas Zanotto",
+    "Nice Shit",
+    "Margherita Premuroso",
+    "DNEG"
+   ],
+   "questions": [
+    "Motion North 2027 페스티벌의 주요 연사와 프로그램 구성은 어떻게 되는가?",
+    "맨체스터의 Freight Island에서 개최되는 이번 행사의 신설 프로그램인 The Marketplace의 세부 운영 방식은 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Motion North | Manchester",
+     "url": "https://www.motionnorth.uk"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "DNEG",
+     "url": "https://en.wikipedia.org/wiki/DNEG"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 3944
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "archdaily.com/1187145/architecture-and-neurodivergence-designing-for-different-ways-of-perceiving-space": {
+  "title_ko": "법적 접근성을 넘어서는 공간: 신경다양성을 위한 감각 설계",
+  "summary_ko": "넓은 출입구와 엘리베이터 같은 물리적 기준을 충족해도 밝은 빛이나 소음 같은 감각 조건 때문에 건물을 이용하지 못하는 사람들이 존재한다. 존스턴 아키텍츠(Johnston Architects)의 파트너 잭 채핀(Jack Chaffin)은 감각적 과부하와 혼란스러운 동선이 여전히 보이지 않는 장벽으로 작용한다고 지적한다.",
+  "lens": "법적 기준을 통과한 공간이 감각적 과부하로 인해 배제하는 신체적 반응들을 응시한다.",
+  "why_now": "장애인 중심의 물리적 기준을 넘어 다양한 인지적 특성을 포용하는 감각 중심의 공간 설계 기준이 요구되는 시점이다.",
+  "mechanism": "빛의 강도, 소음의 간섭, 동선의 복잡성을 조절하여 감각적 피로와 방향 상실을 최소화하는 방식으로 작동한다.",
+  "sensory": "형광등의 차가운 눈부심이나 겹치는 소음이 제거된, 조용하고 예측 가능한 결의 공간 감각을 형성한다.",
+  "transfer": "장면 전환이나 공간 연출 시 강한 자극 대신 빛의 명암과 잔향을 조절하여 관객의 시각적 피로도를 제어한다.",
+  "context": "아키데일리(ArchDaily)는 건축 뉴스, 프로젝트, 인터뷰 등을 다루며 전 세계 건축가와 디자이너를 위한 플랫폼으로 운영된다.",
+  "findings": [],
+  "keywords": [
+   "신경다양성",
+   "감각설계",
+   "공간접근성",
+   "존스턴아키텍츠"
+  ],
+  "evidence": "A building may therefore comply with accessibility codes and still be functionally inaccessible to someone who becomes overwhelmed, disoriented, or exhausted by it.",
+  "kind": "뉴스·이슈",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "신경다양성 건축의 필요성을 다룬 인터뷰 기반 이슈이나 구체적인 설계 기법의 예시는 부족하다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1187145/architecture-and-neurodivergence-designing-for-different-ways-of-perceiving-space",
+  "original_title": "Architecture and Neurodivergence: Designing for Different Ways of Perceiving Space",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 1077,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-04 01:38",
+  "research": {
+   "entities": [
+    "Jack Chaffin",
+    "Johnston Architects",
+    "ArchDaily"
+   ],
+   "questions": [
+    "신경다양성(Neurodivergence)을 고려한 건축 설계는 일반적인 접근성 디자인과 어떻게 다른가요?",
+    "건축에서 감각적 과부하를 줄이기 위해 적용할 수 있는 구체적인 공간 디자인 기법에는 어떤 것이 있나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "ArchDaily",
+     "url": "https://en.wikipedia.org/wiki/ArchDaily"
+    },
+    {
+     "n": 2,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "백송의 밀도 속에 심은 140제곱미터의 여름 거처",
+     "url": "https://www.archdaily.com/1185721/a-house-with-one-hundred-pines-luis-barandiaran"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "유토피아와 디스토피아 사이, 기후 전환을 상상하는 법",
+     "url": "https://www.archdaily.com/1185529/between-burning-forests-and-utopian-cities-designing-the-climate-transition"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "백만 제곱미터의 생태 축: 마드리드 푸에르타 데 마드리드 도시 계획 공모",
+     "url": "https://www.archdaily.com/1184822/jury-led-design-competition-for-sustainable-and-innovative-urban-planning-proposals-for-the-puerta-de-madrid-area-in-leganes-madrid"
+    }
+   ],
+   "used": [],
+   "chars": 985
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "thisiscolossal.com/2026/11/collins-obijiaku-portraits-oil-paintings": {
+  "title_ko": "콜린스 오비지아쿠의 초상화, 나이지리아의 기억과 르네상스 도상을 잇다",
+  "summary_ko": "나이지리아 카두나 출신 작가 콜린스 오비지아쿠가 로스앤젤레스 로버츠 프로젝트에서 개인전 '어디에 있든, 나를 기억해(Wherever You Are, Remember Me)'를 연다. 작가는 유년 시절 나이지리아 왕실 행렬의 경험과 초기 르네상스 회화의 선형적 도상을 결합해, 타지에서 느끼는 거리감과 기억 속 존재를 유화로 구현한다.",
+  "lens": "르네상스 회화의 엄격한 선형적 질서와 나이지리아의 개인적 기억을 겹쳐, 시대를 초월한 초상화의 새로운 형식을 제시한다.",
+  "why_now": "이주라는 물리적 이동이 가져오는 감각적 공백을, 과거의 도상과 기억의 파편을 재조합하여 채워 넣는 작업이다.",
+  "mechanism": "인물의 시선을 정면으로 배치하여 관객의 주의를 강제하고, 붓질이 강조된 색면 배경과 정교한 선묘의 대비를 통해 인물을 부각한다.",
+  "sensory": "흙빛부터 보석처럼 선명한 색조까지 폭넓은 팔레트를 사용하며, 인물의 눈빛과 배경의 거친 질감이 몽환적인 현장감을 조성한다.",
+  "transfer": "인물의 정면 응시를 활용해 관객과의 심리적 거리를 좁히고, 특정 시대의 도상을 현대적 인물화에 차용하여 서사의 깊이를 더하는 연출이 가능하다.",
+  "context": "작가는 나이지리아에서 시카고로 이주한 후 겪은 거리감과 일상의 친숙함을 작업의 동력으로 삼는다. 르네상스 화가 프라 안젤리코(Fra Angelico)의 선형적 관점을 참조하며, 이는 최근 동시대 미술에서 중세·르네상스 도상을 현대적 여성 서사나 개인의 기억과 결합하는 흐름과 궤를 같이한다.",
+  "findings": [
+   {
+    "text": "프라 안젤리코는 초기 피렌체 르네상스 시기에 활동하며 선형적 원근법과 형태의 깊이를 탐구한 화가이다.",
+    "s": 2,
+    "quote": "Angelico was a pioneer of the artistic trends that came to distinguish the early Renaissance, namely linear perspective and a greater attention to depth and form"
+   },
+   {
+    "text": "로버츠 프로젝트에서 열리는 콜린스 오비지아쿠의 개인전은 2026년 11월 7일부터 12월 19일까지 진행된다.",
+    "s": 1,
+    "quote": "November 7 - December 19, 2026 Opening Recpetion Saturday, November 7, 5-7pm"
+   }
+  ],
+  "keywords": [
+   "콜린스오비지아쿠",
+   "초상화",
+   "르네상스도상",
+   "회화",
+   "로버츠프로젝트"
+  ],
+  "evidence": "Obijiaku relishes how everyday experiences have the potential to prompt memories.",
+  "kind": "전시",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "작가의 개인적 기억과 서양 미술사적 도상을 연결하는 구체적 기법이 드러나며, 전시 맥락과 작가의 배경이 명확히 확인된다.",
+  "v": 2,
+  "url": "https://www.thisiscolossal.com/2026/11/collins-obijiaku-portraits-oil-paintings/",
+  "original_title": "Collins Obijiaku’s Tender Portraits Conjure Memories and Community",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 2319,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-04 01:39",
+  "research": {
+   "entities": [
+    "Collins Obijiaku",
+    "Roberts Projects",
+    "Fra Angelico"
+   ],
+   "questions": [
+    "콜린스 오비지아쿠(Collins Obijiaku)의 작품에서 나이지리아에서의 유년 시절 기억은 어떻게 시각적으로 표현되는가?",
+    "로버츠 프로젝트(Roberts Projects)에서 열린 개인전 'Wherever You Are, Remember Me'의 주요 주제와 출품작의 특징은 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Roberts Projects",
+     "url": "https://www.robertsprojectsla.com/"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Fra Angelico - Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Fra_Angelico"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Fra Angelico",
+     "url": "https://en.wikipedia.org/wiki/Fra%20Angelico"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "사라 안스티스의 파스텔화, 신화와 르네상스를 소환하다",
+     "url": "https://www.thisiscolossal.com/2026/09/sara-anstis-pastels-renaissance-women-drawings/"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    4
+   ],
+   "chars": 4064
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "dezeen.com/2026/11/03/holst-completes-adjaye-designed-mass-timber-library-oregon": {
+  "title_ko": "숲의 경관을 들이는 대량 목재 도서관, 홀스트가 완성한 이스트 카운티 도서관",
+  "summary_ko": "미국 건축 스튜디오 홀스트가 오리건주에 사다리꼴 지붕과 중앙 아트리움을 갖춘 매스 팀버 도서관을 완공했다. 이 프로젝트는 당초 아자예 어소시에이츠가 설계했으나 성추문 의혹 이후 홀스트가 인계받아 대량 목재 구조를 최적화했다. 입구의 거대한 집성목 기둥과 톱니바퀴 형태의 천장 채광창을 통해 내부로 자연광을 끌어들인다.",
+  "lens": "거대한 목재 기둥에 홈을 파서 구조적 스케일과 가구 같은 세밀함을 동시에 붙잡는다.",
+  "why_now": "스타 건축가의 이탈이라는 위기를 거버넌스의 전환과 지역 자재 수급을 통한 실리적 설계로 돌파한 동시대 건축의 실천적 사례다.",
+  "mechanism": "현지 목재 공급업체와 협력해 제작한 집성목 기둥과 보의 홈 속에 기계 설비와 조명을 숨겨 천장 평면을 정돈했다.",
+  "sensory": "높은 목재 기둥이 늘어선 출입구와 녹색 카펫이 깔린 실내가 어우러져 거대한 숲속 공터에 들어선 듯한 촉각적 인상을 준다.",
+  "transfer": "공간이나 세트 중앙에 더블 하이트 아트리움을 배치하고 목재 슬랫 계단을 세워 시선을 위로 모으는 동선 연출로 쓴다.",
+  "context": "홀스트는 포틀랜드의 고층 매스 팀버 건축물 작업을 비롯해 지역 자재를 활용한 목조 건축 프로젝트를 이어왔다.",
+  "findings": [],
+  "keywords": [
+   "매스팀버",
+   "홀스트",
+   "목조도서관",
+   "오리건"
+  ],
+  "evidence": "US architecture studio Holst has created a mass-timber library in Oregon, with a series of tall columns at the entrance and a central atrium, after taking over the project from Adjaye Associates.",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "건축 스튜디오의 교체 과정과 구체적인 목재 디테일이 분명하게 드러나나 선례의 특수성이 강하다.",
+  "v": 2,
+  "url": "https://www.dezeen.com/2026/11/03/holst-completes-adjaye-designed-mass-timber-library-oregon/",
+  "original_title": "Holst completes Adjaye-designed mass-timber library in Oregon",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 5265,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-04 01:39",
+  "research": {
+   "entities": [
+    "Holst",
+    "Adjaye Associates",
+    "David Adjaye",
+    "TimberLab",
+    "East County Library"
+   ],
+   "questions": [
+    "Holst가 Adjaye Associates로부터 프로젝트를 인계받은 후, 설계 과정에서 유지한 핵심 요소와 변경된 부분은 무엇인가?",
+    "매스 팀버(Mass-timber) 공법이 East County Library의 건축적 미학과 구조적 기능에 어떤 영향을 미쳤는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Holst",
+     "url": "https://www.holstarc.com/"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Mass Timber Construction and Innovation",
+     "url": "https://timberlab.com/"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "David Adjaye",
+     "url": "https://en.wikipedia.org/wiki/David%20Adjaye"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "스타 시스템 너머의 건축: 제이 맥스 본드 주니어와 국립 아프리카계 미국인 역사 문화 박물관",
+     "url": "https://hyperallergic.com/the-overlooked-black-architect-who-shaped-a-landmark-smithsonian-museum/"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "산과 숲을 향해 열린 캘리포니아 유대교 회당 건축",
+     "url": "https://www.dezeen.com/2026/10/06/herman-coliver-locus-congregatio-rodef-sholom-synagogue/"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "코펜하겐 발비의 사과나무 아래, 풍경을 투영하는 도예 공방",
+     "url": "https://www.archdaily.com/1186614/ceramics-workshop-in-copenhagen-jesper-kusk-arkitekter"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 6387
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "wallpaper.com/watches-jewellery/first-look-louis-vuitton-tambour-convergence-mirror-steel-watch": {
+  "title_ko": "거울처럼 빛나는 의료용 강철로 조각한 루이 비통의 새 기셰 시계",
+  "summary_ko": "루이 비통이 의료용으로 쓰이는 고강도 강철을 고광택으로 연마해 제작한 탬버 컨버전스 미러 스틸을 공개했다. 작은 창과 회전 디스크로 시간을 표시하며 아스니에르 저택의 아르누보 건축 양식을 다이얼 창 테두리에 반영했다. 라 파브리크 뒤 탕 루이 비통의 예술 감독 마티외 에기는 빈티지와 현대성이 결합된 독창적인 미학이라고 설명한다.",
+  "lens": "차가운 의료용 강철을 거울처럼 연마해 기계적 정밀함과 극단적인 물성을 동시에 구축한다.",
+  "why_now": "귀금속과 보석에 의존하던 전통적 고급 시계 제작에서 벗어나, 특수 산업용 소재의 물성을 전면에 내세우는 실험이 가속화되고 있다.",
+  "mechanism": "의료용으로 쓰이는 독점적인 고강도 강철 소재를 사용하여 긁힘에 강한 표면을 만들고, 이를 거울처럼 완벽하게 광택 가공하는 수공정에 기존 모델보다 세 배 긴 시간을 투입한다.",
+  "sensory": "차가운 금속이 거울처럼 주변의 빛과 색을 반사하며, 작은 창 속에서 회전하는 디스크가 시간의 흐름을 날카롭게 응축시킨다.",
+  "transfer": "금속 소품이나 세트 디자인에서 무광이나 헤어라인 대신 극한의 거울 광택을 적용해 공간의 시각적 긴장감을 높이는 장치로 활용한다.",
+  "context": "루이 비통의 인하우스 공방 라 파브리크 뒤 탕 루이 비통이 2025년에 선보인 최초의 기셰 시계 라인업을 잇는 후속작이다.",
+  "findings": [],
+  "keywords": [
+   "루이비통",
+   "기셰시계",
+   "스틸케이스",
+   "미러폴리싱",
+   "시계디자인"
+  ],
+  "evidence": "Unveiled today, this is a new iteration of the Louis Vuitton Tambour Convergence, the first guichet watch created fully at La Fabrique du Temps Louis Vuitton, which made its debut in 2025.",
+  "kind": "제품·오브제",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "특수 강철 소재와 미러 폴리싱 가공 기법을 다뤘으나 신제품 소개 수준을 크게 벗어나지 않는다.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/watches-jewellery/first-look-louis-vuitton-tambour-convergence-mirror-steel-watch",
+  "original_title": "First look: up close with the Louis Vuitton Tambour Convergence Mirror Steel",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 1917,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-04 01:39",
+  "research": {
+   "entities": [
+    "Louis Vuitton",
+    "La Fabrique du Temps Louis Vuitton",
+    "Tambour Convergence"
+   ],
+   "questions": [
+    "루이비통의 '기셰(guichet)' 시계가 가진 디자인적 특징과 역사적 의미는 무엇인가요?",
+    "라 파브리크 뒤 탕 루이비통(La Fabrique du Temps Louis Vuitton)은 어떤 과정을 통해 시계 제조의 혁신을 이루고 있나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Louis Vuitton",
+     "url": "https://en.wikipedia.org/wiki/Louis%20Vuitton"
+    },
+    {
+     "n": 2,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "하이 주얼리의 변주, 대담한 커팅과 실루엣으로 정의하는 현대적 조형미",
+     "url": "https://www.wallpaper.com/watches-jewellery/high-jewellery-a-w-2026"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "멕시코계 아티스트 마르카27, 금속과 레진으로 이민 단속을 조형하다",
+     "url": "https://www.thisiscolossal.com/2026/08/marka27-ni-de-aqui-ni-de-alla-portraits/"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "싱어와 루이 비통이 재해석한 포르쉐 911, 시계와 항해의 미학을 입다",
+     "url": "https://design-milk.com/louis-vuitton-singer-porsche-911/"
+    }
+   ],
+   "used": [],
+   "chars": 2179
+  },
+  "depth_raw": 3,
+  "depth_v": 2
  }
 }
