@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-11-03 19:40 KST",
-  "period": "2026.10.27 - 2026.11.03",
-  "total_articles": 396,
+  "generated_at": "2026-11-04 00:55 KST",
+  "period": "2026.10.28 - 2026.11.04",
+  "total_articles": 348,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 196
+      "count": 177
     },
     {
       "genre": "동시대 미술",
-      "count": 143
+      "count": 124
     },
     {
       "genre": "아방가르드 패션",
-      "count": 43
+      "count": 35
     },
     {
       "genre": "미디어 파사드·3D",
-      "count": 14
+      "count": 12
     }
   ],
   "themes": [
@@ -27,6 +27,12 @@
       "previous_count": 8,
       "trend": "rising",
       "items": [
+        {
+          "title": "핏 아웃을 오래 지속할 수 있는 가구 디자인하기",
+          "url": "https://www.archdaily.com/1187518/designing-furniture-to-outlast-the-fit-out",
+          "image_url": "https://images.adsttc.com/media/images/6adf/5431/db5c/2001/882d/04d1/large_jpg/designing-furniture-to-outlast-the-fit-out_1.jpg?1793021036",
+          "source_name": "ArchDaily"
+        },
         {
           "title": "부리티 아파트/ponto.d",
           "url": "https://www.archdaily.com/1026761/buriti-apartment-pont",
@@ -44,18 +50,12 @@
           "url": "https://www.wallpaper.com/design-interiors/aya-moug-papyrus-furniture-design-doha",
           "image_url": "https://cdn.mos.cms.futurecdn.net/7uAKq2xv6yP8q698KdLhHP-1920-80.jpg",
           "source_name": "Wallpaper*"
-        },
-        {
-          "title": "10월에 선보이는 Dezeen의 인기 가구 및 가정용품",
-          "url": "https://www.dezeen.com/2026/11/01/dezeens-favourite-furniture-homeware-october/",
-          "image_url": "https://static-2026.dezeen.com/uploads/2026/10/sq-october-product-favourites_dezeen_2364_col_0-1024x1024.jpg",
-          "source_name": "Dezeen"
         }
       ]
     },
     {
       "keyword": "사진",
-      "count": 12,
+      "count": 10,
       "previous_count": 5,
       "trend": "rising",
       "items": [
@@ -86,11 +86,49 @@
       ]
     },
     {
+      "keyword": "콘크리트 물성",
+      "count": 7,
+      "previous_count": 3,
+      "trend": "rising",
+      "items": [
+        {
+          "title": "모니터 하우스",
+          "url": "https://leibal.com/interiors/house-of-monitors/",
+          "image_url": "https://leibal.com/wp-content/uploads/2026/10/leibal-house-of-monitors-williamson-williamson-11.jpg",
+          "source_name": "Leibal"
+        },
+        {
+          "title": "지붕 위 산책: 린나홀과 탈린의 변화하는 해안선",
+          "url": "https://www.archdaily.com/1187476/a-walk-on-the-roof-linnahall-and-tallinns-shifting-shoreline",
+          "image_url": "https://images.adsttc.com/media/images/6ae4/b738/a04f/d001/89cd/426e/large_jpg/a-walk-on-the-roof-linnahall-and-tallinns-shifting-shoreline_17.jpg?1793374067",
+          "source_name": "ArchDaily"
+        },
+        {
+          "title": "콘크리트 뉴욕은 조각 건축 디자인에 대한 최신 블루 크로우 가이드북입니다",
+          "url": "https://www.wallpaper.com/architecture/concrete-new-york-is-the-latest-blue-crow-guidebook-to-sculptural-architectural-design",
+          "image_url": "https://cdn.mos.cms.futurecdn.net/ZxzDauezhhbQkQ8kbspPBM-1920-80.jpg",
+          "source_name": "Wallpaper*"
+        },
+        {
+          "title": "아이슬란드의 대마초 통나무집은 '영혼을 위한 집‘ 입니다.",
+          "url": "https://www.wallpaper.com/architecture/hempcrete-biobuilding-ludica-iceland",
+          "image_url": "https://cdn.mos.cms.futurecdn.net/QX3h7wowrKEqTrRYRwE4vn-1920-80.jpg",
+          "source_name": "Wallpaper*"
+        }
+      ]
+    },
+    {
       "keyword": "텍스타일·직물",
       "count": 6,
       "previous_count": 4,
       "trend": "rising",
       "items": [
+        {
+          "title": "크리스티나 보울비 (Christina Bowlby) 는 벤틀리 밀스 (Bentley Mills) 의 집 근처에서 영감을 얻",
+          "url": "https://design-milk.com/christina-bowlby-bentley-mills/",
+          "image_url": "https://design-milk.com/images/2026/10/BLOCK-PARTY_PLAYA-NOCHE_BROADLOOM-X-LUCKY-ME_PAYA-NOCHE_ASHLAR-e1793375275102-1500x1000.jpg",
+          "source_name": "Design Milk"
+        },
         {
           "title": "세라믹, 스폰지 및 섬유 악센트가 쉴라 & 카리디 수제 거울로 조립됩니다.",
           "url": "https://www.designboom.com/art/ceramic-sponge-textile-accents-scilla-cariddi-hand-crafted-mirrors-marlisa-marasco/",
@@ -108,122 +146,81 @@
           "url": "https://www.designboom.com/art/carpet-diem-1000-vases-textile-ceramic-glass-art-espace-commines-paris/",
           "image_url": "https://www.designboom.com/wp-content/dbsub/467727/2026-10-29/carpet-diem-and-1000-vases-bring-contemporary-textile-ceramic-and-glass-art-together-in-paris-8-6ae319c967310.jpg",
           "source_name": "Designboom Art"
-        },
-        {
-          "title": "콘야 광장 주택 및 자전거 박물관 확장/얄린 건축 디자인",
-          "url": "https://www.archdaily.com/1187508/konya-square-houses-and-bicycle-museum-extension-yalin-architectural-design",
-          "image_url": "https://images.adsttc.com/media/images/6ae0/af72/db5c/2001/882d/0aa3/large_jpg/konya-square-houses-and-bicycle-museum-extension-yalin-architectural-design_25.jpg?1793109879",
-          "source_name": "ArchDaily"
         }
       ]
     },
     {
-      "keyword": "콘크리트 물성",
+      "keyword": "레스토랑·호스피탈리티",
       "count": 6,
-      "previous_count": 4,
-      "trend": "rising",
-      "items": [
-        {
-          "title": "콘크리트 뉴욕은 조각 건축 디자인에 대한 최신 블루 크로우 가이드북입니다",
-          "url": "https://www.wallpaper.com/architecture/concrete-new-york-is-the-latest-blue-crow-guidebook-to-sculptural-architectural-design",
-          "image_url": "https://cdn.mos.cms.futurecdn.net/ZxzDauezhhbQkQ8kbspPBM-1920-80.jpg",
-          "source_name": "Wallpaper*"
-        },
-        {
-          "title": "아이슬란드의 대마초 통나무집은 '영혼을 위한 집‘ 입니다.",
-          "url": "https://www.wallpaper.com/architecture/hempcrete-biobuilding-ludica-iceland",
-          "image_url": "https://cdn.mos.cms.futurecdn.net/QX3h7wowrKEqTrRYRwE4vn-1920-80.jpg",
-          "source_name": "Wallpaper*"
-        },
-        {
-          "title": "콘야 광장 주택 및 자전거 박물관 확장/얄린 건축 디자인",
-          "url": "https://www.archdaily.com/1187508/konya-square-houses-and-bicycle-museum-extension-yalin-architectural-design",
-          "image_url": "https://images.adsttc.com/media/images/6ae0/af72/db5c/2001/882d/0aa3/large_jpg/konya-square-houses-and-bicycle-museum-extension-yalin-architectural-design_25.jpg?1793109879",
-          "source_name": "ArchDaily"
-        },
-        {
-          "title": "올라버, \"랜턴 같은\" 유리 블록 외관이 있는 다목적 골목길 스튜디오 공개",
-          "url": "https://www.dezeen.com/2026/10/30/olaver-laneway-studio-glass-block-facade-melbourne/",
-          "image_url": "https://static-2026.dezeen.com/uploads/2026/10/Square-Olaver-Laneway-Studio_dezeen_2364_col_13-1024x1024.jpg",
-          "source_name": "Dezeen"
-        }
-      ]
-    },
-    {
-      "keyword": "빛과 조명",
-      "count": 7,
-      "previous_count": 7,
+      "previous_count": 6,
       "trend": "steady",
       "items": [
         {
-          "title": "대담한 중동 디자인을 기념하는 두바이 디자인 위크 12회",
-          "url": "https://www.dezeen.com/2026/10/30/dubai-design-week-downtown-design-12-edition/",
-          "image_url": "https://static-2026.dezeen.com/uploads/2026/10/Dubai-Design-Week-2026_dezeen_2364_col_0-1024x1024.jpg",
-          "source_name": "Dezeen"
+          "title": "귀하의 서비스에서",
+          "url": "https://coolhunting.com/buy/at-your-service/",
+          "image_url": "https://coolhunting.com/wp-content/uploads/2026/11/A18479C_E_08X1-Cropped.png",
+          "source_name": "Cool Hunting"
         },
         {
-          "title": "가을을 위한 실내별 레이어 조명 가이드",
-          "url": "https://design-milk.com/govee-room-by-room-layered-lighting-guide-for-fall/",
-          "image_url": "https://design-milk.com/images/2026/10/Image_20260929151414_232_5-1500x844.jpg",
+          "title": "KOI 레스토랑/SOA Architekti",
+          "url": "https://www.archdaily.com/1187623/koi-soa-architekti",
+          "image_url": "https://images.adsttc.com/media/images/6ae0/d075/20d6/d801/8852/1884/large_jpg/koi-soa-architekti_3.jpg?1793118369",
+          "source_name": "ArchDaily"
+        },
+        {
+          "title": "AEME Building / Paz Arquitectura",
+          "url": "https://www.archdaily.com/994469/edificio-aeme-paz-arquitectura",
+          "image_url": "https://images.adsttc.com/media/images/63ab/2234/adb1/7440/9e70/d1c9/large_jpg/aeme-paz-arquitectura_7.jpg?1672159805",
+          "source_name": "ArchDaily"
+        },
+        {
+          "title": "미미 카쿠시, 마이애미 비치에 일본의 매력을 더하다",
+          "url": "https://design-milk.com/mimi-kakushi-delano-miami-pirajean-lees/",
+          "image_url": "https://design-milk.com/images/2026/10/Pirajean-Lees-x-Mimi-Kakushi-Delano-Miami-Mimi-Kakushi-00587Robert-Reiger-e1792856834637-1500x1000.jpg",
           "source_name": "Design Milk"
-        },
-        {
-          "title": "Signify의 Sameer Sodhi는 조명 디자인을 \"전략적 경제 투자\" 라고 말합니다.",
-          "url": "https://www.dezeen.com/2026/10/30/lighting-design-strategic-economic-signifys-sameer-sodhi/",
-          "image_url": "https://static-2026.dezeen.com/uploads/2026/10/Signify_dezeen_2364_col_6-852x852.jpg",
-          "source_name": "Dezeen"
-        },
-        {
-          "title": "최고의 침대 옆 램프 및 테이블 램프 10개 (2026)",
-          "url": "https://www.architecturaldigest.com/gallery/best-table-lamps-and-bedside-lamps",
-          "image_url": "https://media.architecturaldigest.com/photos/66db37e55ec07661c0789355/master/pass/ADShopping_Lamps_header%20copy.jpg",
-          "source_name": "Architectural Digest"
         }
       ]
     },
     {
-      "keyword": "리노베이션·재생",
-      "count": 6,
-      "previous_count": 5,
-      "trend": "steady",
+      "keyword": "박물관·전시",
+      "count": 25,
+      "previous_count": 36,
+      "trend": "falling",
       "items": [
         {
-          "title": "부리티 아파트/ponto.d",
-          "url": "https://www.archdaily.com/1026761/buriti-apartment-pont",
-          "image_url": "https://images.adsttc.com/media/images/67aa/7fcf/ea72/f101/8803/419d/large_jpg/apartamento-buriti-coarquitetos_24.jpg?1739227097",
-          "source_name": "ArchDaily"
+          "title": "사빈 마르셀리스 (Sabine Marcelis) 는 잠시 시간을 내어 첫 번째 박물관 전시회에 반영합니다.",
+          "url": "https://www.dezeen.com/2026/11/03/sabine-marcelis-exhibition-zurich-museum-fuer-gestaltung/",
+          "image_url": "https://static-2026.dezeen.com/uploads/2026/11/sq-sabine-marcelis-light-and-color_dezeen_2364_col_0-1024x1024.jpg",
+          "source_name": "Dezeen"
         },
         {
-          "title": "로티어 - 브뤼셀의 46개 주택 리노베이션/다중 건축 및 도시주의",
-          "url": "https://www.archdaily.com/1187565/rotiers-renovation-of-46-housing-units-in-brussels-multiple-architecture-and-urbanism",
-          "image_url": "https://images.adsttc.com/media/images/6adf/8efb/3271/8400/01d0/ecee/large_jpg/Rotiers_08_Bruno_Dias_Ventura.jpg?1793036122",
-          "source_name": "ArchDaily"
+          "title": "Batek Architekten은 부티크나 갤러리처럼 보이는 베를린 교정 클리닉을 디자인합니다",
+          "url": "https://www.dezeen.com/2026/11/03/batek-architekten-hey-orthodontic-clinic/",
+          "image_url": "https://static-2026.dezeen.com/uploads/2026/10/hey-batek-architekten-orthodontists_dezeen_2364_sq_0-1024x1024.jpg",
+          "source_name": "Dezeen"
         },
         {
-          "title": "누녜스데발보아",
-          "url": "https://leibal.com/interiors/nunez-de-balboa/",
-          "image_url": "https://leibal.com/wp-content/uploads/2026/10/leibal_nunez-de-balboa_emechaves-studio_01.jpg",
-          "source_name": "Leibal"
+          "title": "프랑스 갤러리들은 아트 바젤 파리를 \"무례함, 심지어 경멸\" 이라고 비난합니다.",
+          "url": "https://hyperallergic.com/french-galleries-accuse-art-basel-paris-of-disrespect-even-contempt/",
+          "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/11/GettyImages-2301366203.jpg",
+          "source_name": "Hyperallergic"
         },
         {
-          "title": "AD-WO, 피츠버그 카네기 미술관 하인즈 건축 센터 리노베이션",
-          "url": "https://www.archdaily.com/1187645/ad-wo-to-renovate-the-heinz-architectural-center-at-pittsburghs-carnegie-museum-of-art",
-          "image_url": "https://images.adsttc.com/media/images/6ae1/57bb/db5c/2001/882d/0d18/large_jpg/heinz-architectural-center_3.jpg?1793152992",
-          "source_name": "ArchDaily"
+          "title": "사진작가 겸 건축가인 스기모토 히로시 (Hiroshi Sugimoto) 덕분에 허쉬혼의 브루탈리스트 조각 정원이 새롭게 단장했습니다.",
+          "url": "https://www.wallpaper.com/architecture/public-buildings/hirshhorn-sculpture-garden-hiroshi-sugimoto",
+          "image_url": "https://cdn.mos.cms.futurecdn.net/KrKJXk24bSe5K3NZJTiJ6n-1920-80.jpg",
+          "source_name": "Wallpaper*"
         }
       ]
     }
   ],
   "notable_names": [
+    "Sabine Marcelis",
     "San Siro",
     "Harley Weir",
     "Eames Institute",
     "Infinite Curiosity",
-    "Kengo Kuma",
-    "Election Day",
-    "Sabine Marcelis",
-    "Tom Hegen",
-    "Aston Martin"
+    "Election Day"
   ],
   "has_comparison": true
 }
