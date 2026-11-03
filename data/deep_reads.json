@@ -254603,5 +254603,895 @@
   },
   "depth_raw": 5,
   "depth_v": 2
+ },
+ "hyperallergic.com/10-art-books-to-curl-up-with-this-november": {
+  "title_ko": "로이 리히텐슈타인과 셀리아 폴의 신간 아트북이 겨누는 시선",
+  "summary_ko": "하이퍼알레르기(Hyperallergic) 편집장 하킴 비샤라가 추천하는 올가을 주요 아트북 신간 목록이다. 휘트니 미술관의 로이 리히텐슈타인 대규모 회고 카탈로그와 셀리아 폴의 베네치아 레지던시 회고록, 아를린 다빌라의 라틴계 시각문화 비평서가 포함되었다.",
+  "lens": "기계적 인쇄물처럼 보이는 화면을 손으로 그려내던 긴장의 실체를 도감 형식의 도판으로 재조명한다.",
+  "why_now": "기계 복제 이미지와 수공예적 터치의 경계가 모호해진 동시대 시각 환경에서, 작가들이 축적해 온 스크랩북과 준비 드로잉은 창작의 원형을 되짚게 한다.",
+  "mechanism": "연대기적 서사를 배제하고 벤데이 닷과 기하학적 패턴의 반복, 예기치 않은 작품 쌍의 배치를 통해 시각적 시뮬레이션의 구조를 해체한다.",
+  "sensory": "7.50×10인치의 판형 위에 300여 점의 컬러 도판을 얹어 인쇄 질감과 원화의 붓질이 아슬아슬하게 교차하는 물성을 전달한다.",
+  "transfer": "광고 콘티나 공간 디스플레이에서 정형화된 그리드 배치를 깨고, 전혀 이질적인 스틸 컷들을 나란히 배치해 시각적 긴장을 유발하는 연출로 차용할 수 있다.",
+  "context": "휘트니 미술관(Whitney Museum of American Art)에서 열린 회고전과 연계된 이번 카탈로그는 알렉스 다 코르테와 메그 온리가 편집을 맡아 리히텐슈타인의 초기작부터 만년에 이르는 제작 방식을 새롭게 엮었다.",
+  "findings": [
+   {
+    "text": "휘트니 미술관은 2026년 10월 14일부터 2027년 5월 10일까지 로이 리히텐슈타인 전시를 개최한다.",
+    "s": 1,
+    "quote": "Whitney Museum of American Art, New York(October 14, 2026–May 10, 2027)"
+   },
+   {
+    "text": "이 카탈로그는 연대기적 서사를 배제하고 예기치 않은 작품 쌍과 그룹화를 통해 반복과 시뮬레이션을 탐구한다.",
+    "s": 1,
+    "quote": "It eschews traditional chronology in favor of unexpected pairings and groupings that reveal the artist’s lifelong engagement with repetition, simulation, and the aesthetics of mass culture"
+   }
+  ],
+  "keywords": [
+   "아트북",
+   "로이리히텐슈타인",
+   "셀리아폴",
+   "시각문화"
+  ],
+  "evidence": "Roy Lichtenstein: Like New, edited by Alex Da Corte and Meg Onli | Whitney Museum of American Art, November 3",
+  "kind": "리스트·라운드업",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "여러 신간 아트북을 소개하는 라운드업 기사이나 개별 도서의 맥락이 명확하다.",
+  "v": 2,
+  "url": "https://hyperallergic.com/10-art-books-to-curl-up-with-this-november/",
+  "original_title": "10 Art Books to Curl Up With This November",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 3206,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-03 12:33",
+  "research": {
+   "entities": [
+    "Roy Lichtenstein",
+    "Celia Paul",
+    "Whitney Museum of American Art",
+    "Arlene Dávila",
+    "Duke University Press"
+   ],
+   "questions": [
+    "로이 리히텐슈타인의 작품 세계에서 'Like New' 전시가 기존의 해석과 차별화되는 지점은 무엇인가요?",
+    "아를린 다빌라가 'Visualizing Latinx'를 통해 비판하고자 하는 주류 문화의 라틴계 예술 소비 방식은 무엇인가요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Roy Lichtenstein",
+     "url": "https://yalebooks.yale.edu/book/9780300292930/roy-lichtenstein/?ref=hyperallergic.com"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Visualizing Latinx: Creative Practices in Fashion, Film, and Beyond",
+     "url": "https://www.dukeupress.edu/visualizing-latinx?ref=hyperallergic.com"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Roy Lichtenstein",
+     "url": "https://en.wikipedia.org/wiki/Roy%20Lichtenstein"
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "Celia Paul",
+     "url": "https://en.wikipedia.org/wiki/Celia%20Paul"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "브루어 빌딩과 아모리 쇼가 드러낸 뉴욕 아트페어의 풍경",
+     "url": "https://hyperallergic.com/should-you-sit-out-the-armory-show/"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "뉴욕 미술계의 이면, 파업과 폐쇄가 드러내는 제도적 균열",
+     "url": "https://hyperallergic.com/the-cathedral-of-joy/"
+    },
+    {
+     "n": 7,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "쿠사마 야요이, 점과 거울로 구축한 무한의 세계를 남기고 떠나다",
+     "url": "https://www.designboom.com/art/yayoi-kusama-japanese-artist-infinity-single-dot-97/"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 6137
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "hyperallergic.com/a-midterm-election-guide-for-artists-and-arts-workers": {
+  "title_ko": "미국 중간선거, 연방 예술 기금과 창작 노동의 향방",
+  "summary_ko": "미국 중간선거를 앞두고 연방 예술 기금과 예술가 복지 문제가 주요 쟁점으로 떠오르다. 의회의 다수당 구도에 따라 국립예술기금(NEA) 예산과 예술가 건강보험 지원 정책이 직접적인 영향을 받는다. 미시간주 상원 선거에 출마한 압둘 엘 사예드는 보편적 의료 보장과 노동조합 연대를 공약으로 내세우다.",
+  "lens": "예술가의 생존권과 표현의 자유가 예산 배정과 노동법이라는 차가운 정치적 현실 속에서 어떻게 작동하는지 증명한다.",
+  "why_now": "트럼프 행정부의 연방 기관 검열과 예산 삭감 기조 속에서, 다가오는 의회 권력 구도가 미국 문화예술계의 재정적 명운을 결정짓기 때문이다.",
+  "mechanism": "의회가 연방 예술 기금 예산을 심의하고 결정하는 구조를 통해, 특정 정치 세력의 입법 우위가 곧바로 문화계 검열과 지원 중단으로 직결된다.",
+  "sensory": "선거 유세장의 확성기 소리와 정책 보고서의 건조한 수치, 그리고 미술관 현장에서 예산을 상실한 예술가들의 물리적 불안감이 대비된다.",
+  "transfer": "정치적 검열이나 예산 삭감이라는 거대한 구조적 압박 속에서 창작자들이 생존을 모색하는 디스토피아적 서사의 배경 설정을 구축할 때 이 정책적 현실을 인용한다.",
+  "context": "미국 연방정부의 독립 기관인 국립예술기금(NEA)은 1965년 의회 법안으로 설립되어 예술 프로젝트를 지원해 왔으나, 최근 행정명령과 예산 삭감 압박에 직면해 있다. 미시간주 연방 상원 민주당 후보로 나선 역학자 압둘 엘 사예드는 보편적 의료 서비스와 노동조합 연대를 주장하며 문화예술계 노동 환경 개선을 공약으로 강조하다.",
+  "findings": [
+   {
+    "text": "미국 예술가의 84퍼센트가 건강보험에 접근할 수 있지만 대다수는 주업에서 보험을 얻지 못한다.",
+    "s": 1,
+    "quote": "84 percent had access to health insurance, but the majority did not access it through their primary job"
+   },
+   {
+    "text": "미국 국립예술기금(NEA)은 1965년 미국 의회 법안에 의해 연방정부의 독립 기관으로 창설되었다.",
+    "s": 3,
+    "quote": "The National Endowment for the Arts (NEA) is an independent agency of the United States federal government that offers support and funding for projects exhibiting artistic excellence. It was created in 1965 as an indepen"
+   }
+  ],
+  "keywords": [
+   "중간선거",
+   "예술기금",
+   "노동조합",
+   "예술가복지",
+   "미국정치"
+  ],
+  "evidence": "Issues touching on arts funding, censorship, AI regulation, and more are at stake for the country’s cultural sectors across key Senate, House, and Gubernatorial races.",
+  "kind": "뉴스·이슈",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "선거와 문화 정책의 상관관계를 통계와 후보 공약으로 구체적으로 다루었으나 정책 안내 성격이 강하다.",
+  "v": 2,
+  "url": "https://hyperallergic.com/a-midterm-election-guide-for-artists-and-arts-workers/",
+  "original_title": "A Midterm Election Guide for Artists and Arts Workers",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 3978,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-03 12:33",
+  "research": {
+   "entities": [
+    "Abdul El-Sayed",
+    "Mike Rogers",
+    "National Endowment for the Arts",
+    "National Opinion Research Center",
+    "Kemper Museum of Contemporary Art"
+   ],
+   "questions": [
+    "미국 중간선거 결과가 연방 예술 기금과 문화 정책에 구체적으로 어떤 영향을 미치는가?",
+    "미국 예술가들의 건강보험 가입률과 노동 조합 가맹 현황은 어떠한가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "The National Survey of Artists | NORC at the University of Chicago",
+     "url": "https://www.norc.org/research/projects/national-survey-of-artists.html?ref=hyperallergic.com"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Abdul El-Sayed",
+     "url": "https://en.wikipedia.org/wiki/Abdul%20El-Sayed"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "National Endowment for the Arts",
+     "url": "https://en.wikipedia.org/wiki/National%20Endowment%20for%20the%20Arts"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "반복되는 페인트의 섬세한 필라멘트로 우주적 공간을 그리는 화가",
+     "url": "https://hyperallergic.com/beer-with-a-painter-barbara-takenaga/"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "미시간의 젊은 유권자가 압둘 엘 사예드를 선택하는 방식",
+     "url": "https://www.dazeddigital.com/life-culture/article/71260/1/abdul-el-sayed-michigan-midterms-elections-gaza-vote-democrats?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=why-young-people-in-michigan-are-backing-abdul-el-sayed"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "바바라 타케나가: 캔버스 위로 팽창하는 우주적 추상과 미세한 패턴의 질서",
+     "url": "https://hyperallergic.com/barbara-takenagas-awestruck/"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3
+   ],
+   "chars": 5956
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "archdaily.com/1187965/akartz-house-apiron": {
+  "title_ko": "멕시코 토도스 산토스의 아카르츠 주택, 지형과 태양을 읽는 독립적 볼륨의 구축",
+  "summary_ko": "멕시코 토도스 산토스에 완공된 아카르츠 주택(Akartz House)은 독립된 여러 볼륨을 조합해 구성했다. 설계 스튜디오 아피론(Ápiron)은 대지의 불규칙한 기하학적 형태와 지형적 변화, 그리고 태양의 궤적을 고려해 각 볼륨의 위치를 배치했다. 총면적 420제곱미터 규모의 주거 건축물이다.",
+  "lens": "단일 매스 대신 분절된 볼륨을 선택해 대지의 거친 지형을 건축적 리듬으로 치환했다.",
+  "why_now": "대규모 개발보다 대지의 고유한 물리적 조건에 반응하는 정밀한 건축적 대응이 주거 설계의 핵심으로 자리 잡고 있다.",
+  "mechanism": "일조량과 지형에 따라 독립적인 볼륨을 배치하여 자연스러운 동선과 시각적 개방감을 확보하고 대지의 불규칙성을 건축적 질서로 정리했다.",
+  "sensory": "멕시코의 강렬한 햇빛이 분절된 볼륨 사이의 틈을 통과하며 벽면에 만드는 그림자의 변화가 공간의 깊이를 결정한다.",
+  "transfer": "공간 구성 시 단일 평면의 한계를 극복하기 위해 매스를 분리하고, 각 사이 공간을 외부와 연결되는 전이 영역으로 활용하는 배치를 적용한다.",
+  "context": "아피론은 멕시코의 지형적 특수성을 건축적 언어로 번역하는 작업을 이어오고 있다. 본 프로젝트에 사용된 콜러(Kohler)의 설비 제품은 일상적 위생 공간에 기능적 신뢰를 더하는 표준적인 선택지로 활용되었다.",
+  "findings": [
+   {
+    "text": "콜러는 1873년 존 마이클 콜러가 설립한 미국 기업으로, 위생 도기뿐만 아니라 가구, 타일 등 주거 공간 전반의 제품을 생산한다.",
+    "s": 1,
+    "quote": "Kohler Co., is an American manufacturing company founded in 1873 by John Michael Kohler, based in Kohler, Wisconsin. Kohler is best known for its plumbing products, but the company also manufactures furniture, cabinetry,"
+   }
+  ],
+  "keywords": [
+   "아카르츠주택",
+   "아피론",
+   "매스분절",
+   "멕시코건축",
+   "대지응답"
+  ],
+  "evidence": "Casa Akartz was developed from a composition of independent volumes whose arrangement responds to solar orientation, the irregular geometry of the site, and its topographic variations.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "대지의 조건에 반응하는 볼륨 배치를 설명하나, 구체적인 도면이나 상세한 설계 의도에 대한 정보가 부족하다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1187965/akartz-house-apiron",
+  "original_title": "Akartz House / Ápiron",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 911,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-03 12:33",
+  "research": {
+   "entities": [
+    "Ápiron",
+    "Akartz House",
+    "Antonio Irigoyen",
+    "Rafael Palacios Macías",
+    "Kohler"
+   ],
+   "questions": [
+    "아카르츠 주택(Akartz House)의 독립된 볼륨들은 일조량과 지형에 따라 구체적으로 어떻게 배치되었는가?",
+    "건축가 안토니오 이리고옌(Antonio Irigoyen)이 속한 아피론(Ápiron) 스튜디오의 디자인 철학은 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Kohler Co.",
+     "url": "https://en.wikipedia.org/wiki/Kohler%20Co."
+    },
+    {
+     "n": 2,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "맥기 앤 코의 오프라인 안착, 디지털 경험을 물리적 공간으로 옮기는 법",
+     "url": "https://www.architecturaldigest.com/story/shea-mcgees-retail-empire-is-just-getting-started"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "유토피아가 남긴 비관과 키치: 1925-1985의 주거 미래주의",
+     "url": "https://www.wallpaper.com/art/lacma-home-of-the-future-1925-1985-book-review"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "에어린 로더와 콜러가 재해석한 17세기 네덜란드 타일의 식물적 문양",
+     "url": "https://www.architecturaldigest.com/story/aerin-lauder-teams-up-with-kohler-to-add-dutch-florals-to-powder-room-classics"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 1765
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "archdaily.com/1187932/foster-plus-partners-and-manica-unveil-design-for-new-stadium-to-replace-milans-san-siro": {
+  "title_ko": "산 시로의 역사 위에 세워질 제네랄리 스타디움의 X자 구조",
+  "summary_ko": "포스터 앤 파트너스와 매니카가 이탈리아 밀라노에 위치한 7만 1500석 규모의 제네랄리 스타디움 디자인을 공개했다. 기존 산 시로 경기장 인근 부지에 건립되며, 2031-32 시즌 개장을 목표로 한다. 콘크리트 X프레임 구조와 태양광 패널을 결합해 탄소 중립을 지향한다.",
+  "lens": "콘크리트 X프레임과 다이아몬드형 입구로 밀라노의 건축 유산을 경기장 외피에 직조한다.",
+  "why_now": "역사적인 산 시로 철거를 둘러싼 논란 속에서, 거대 스포츠 시설이 탄소 중립과 지역 재개발을 동시에 해결해야 하는 압박을 보여준다.",
+  "mechanism": "외관의 콘크리트 X프레임 구조가 콜로네이드에서 지붕까지 하중을 지지하고, 244 곱하기 270 미터 규모의 스포크휠 지붕에 2만 7500제곱미터의 태양광 패널을 장착한다.",
+  "sensory": "지붕 아래 360도로 이어지는 단일 관람석 볼 형태와 경사진 서포터즈 구역이 관중석을 피치에 바짝 붙여 함성의 밀도를 높인다.",
+  "transfer": "광고 배경이나 공간 오프닝 샷에서 거대한 콘크리트 트러스 구조와 다이아몬드 패턴의 파사드를 투사해 기하학적 긴장감을 만든다.",
+  "context": "노먼 포스터가 설립한 영국의 포스터 앤 파트너스는 첨단 건축과 지속 가능한 설계를 결합해왔으며, 미국 매니카와의 협업으로 대형 스포츠 시설을 완성한다.",
+  "findings": [
+   {
+    "text": "포스터 앤 파트너스는 영국 런던에 본사를 둔 국제 건축 사무소이며 1967년 영국의 건축가이자 디자이너인 노먼 포스터가 설립했다.",
+    "s": 1,
+    "quote": "Foster and Partners (styled as Foster + Partners) is a British international architecture firm, which is headquartered in London, England. It was founded in 1967 by British architect and designer Norman Foster."
+   },
+   {
+    "text": "매니카는 2007년 데이비드 매니카가 미국 캔자스주 캔자스시티에서 설립한 건축 사무소이다.",
+    "s": 2,
+    "quote": "Manica is an American architectural firm. The firm was formed in 2007 by David Manica in Kansas City, Kansas."
+   }
+  ],
+  "keywords": [
+   "스타디움",
+   "포스터앤파트너스",
+   "지속가능성",
+   "구조디자인"
+  ],
+  "evidence": "Designed by Foster + Partners and MANICA, the new stadium will be built alongside the existing San Siro as part of a 281,000-square-meter redevelopment of the surrounding area.",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "세계적 건축사무소들의 대규모 스타디움 프로젝트로 구체적인 구조와 친환경 장치가 뚜렷하다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1187932/foster-plus-partners-and-manica-unveil-design-for-new-stadium-to-replace-milans-san-siro",
+  "original_title": "Foster + Partners and MANICA Unveil Design for New Stadium to Replace Milan's San Siro",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 4748,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-03 12:33",
+  "research": {
+   "entities": [
+    "Foster + Partners",
+    "MANICA",
+    "AC Milan",
+    "FC Internazionale Milano",
+    "San Siro"
+   ],
+   "questions": [
+    "기존 산 시로 경기장을 철거하거나 재개발하는 과정에서 제기된 문화유산 보존 논란의 핵심 쟁점은 무엇인가?",
+    "새로운 제네랄리 스타디움 설계가 밀라노의 건축적 유산과 지속 가능한 친환경 기술을 어떻게 결합하고 있는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Foster and Partners",
+     "url": "https://en.wikipedia.org/wiki/Foster%20and%20Partners"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Manica Architecture",
+     "url": "https://en.wikipedia.org/wiki/Manica%20Architecture"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "캘거리에 상륙한 1960년대 캘리포니아 모더니즘, 스테이블 팜스 클럽",
+     "url": "https://www.wallpaper.com/travel/restaurants/stable-palms-club-calgary-review"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "지역성을 조각하다: 세계 공항 터미널이 보여주는 건축적 진화",
+     "url": "https://www.architecturaldigest.com/story/the-most-beautiful-airport-terminals-in-the-world-including-two-in-the-us"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "목재 건축의 자동화를 겨냥한 포스터 앤 파트너스의 스위프트 빌드",
+     "url": "https://www.dezeen.com/2026/08/28/swift-build-robot-construction-foster-partners/"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 2196
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "archdaily.com/1187775/synthesis-of-the-arts-the-case-for-beauty-in-architecture-and-the-city": {
+  "title_ko": "측정할 수 없는 가치, 건축과 도시의 예술적 종합을 묻다",
+  "summary_ko": "아르키데일리와 코베가 공동 발행한 인쇄 신문 '시리즈 임계점'의 기사다. 모더니즘 이후 효율성과 객관적 수치에 집중해온 건축에서 예술과 아름다움이 갖는 의미를 조명한다. 측정 불가능한 가치인 공공 미술이 건축과 도시 디자인에서 인간적인 질문과 모호성을 회복하는 방안을 제안한다.",
+  "lens": "효율성과 수치로 환원되지 않는 건축의 아름다움을 공공 미술의 통합에서 찾는다.",
+  "why_now": "객관적 데이터와 성능 위주로 경직된 동시대 건축 설계에 질문과 의심이라는 인간적 모호성을 복원해야 하기 때문이다.",
+  "mechanism": "건축물과 도시 공간에 공공 미술을 직접 결합하여 측정 가능한 효율성 중심의 설계 프로세스에 균열을 낸다.",
+  "sensory": "철저하게 계산된 도시의 물성 속에서 직관과 불확실성이 교차하는 감각적 틈새를 마주하게 한다.",
+  "transfer": "공간이나 영상 연출 시 완벽하게 통제된 데이터와 세트 디자인 사이에 의도적인 비문과 여백을 남겨 긴장감을 만든다.",
+  "context": "덴마크 코펜하겐에 본사를 둔 건축사사무소 코베(Cobe)와 건축 미디어 아르키데일리(ArchDaily)가 협력해 발행한 특별 인쇄 신문 'Thresholds'의 논고다.",
+  "findings": [
+   {
+    "text": "아르키데일리는 건축 뉴스, 프로젝트, 제품, 이벤트, 인터뷰, 평론 등을 다루는 웹사이트다.",
+    "s": 1,
+    "quote": "ArchDaily is a website covering architectural news, projects, products, events, interviews and competitions, opinion pieces, among others, catering to architects, designers and other interested parties."
+   },
+   {
+    "text": "코베는 단 스타베르고르가 소유하고 운영하는 코펜하겐 기반의 건축사사무소다.",
+    "s": 2,
+    "quote": "Cobe is a Copenhagen-based architectural firm owned and managed by architect Dan Stubbergaard."
+   }
+  ],
+  "keywords": [
+   "공공미술",
+   "도시디자인",
+   "모더니즘",
+   "건축이론",
+   "물성"
+  ],
+  "evidence": "This article is part of 'Thresholds', a special edition printed newspaper by Cobe Notes x ArchDaily.",
+  "kind": "뉴스·이슈",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "건축과 예술의 관계를 다룬 담론형 기사로 구체적인 설계 사례보다 개념 제시에 집중한다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1187775/synthesis-of-the-arts-the-case-for-beauty-in-architecture-and-the-city",
+  "original_title": "Synthesis of the Arts: The Case for Beauty in Architecture and the City",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 1431,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-03 12:33",
+  "research": {
+   "entities": [
+    "ArchDaily",
+    "Cobe"
+   ],
+   "questions": [
+    "모더니즘 건축 이후 건축과 예술의 통합은 현대 도시에서 어떤 방식으로 나타나고 있는가?",
+    "측정할 수 없는 가치인 '아름다움'과 '예술성'이 공공 건축과 도시 디자인에서 갖는 실질적 역할은 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "ArchDaily",
+     "url": "https://en.wikipedia.org/wiki/ArchDaily"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Cobe (architectural firm)",
+     "url": "https://en.wikipedia.org/wiki/Cobe%20%28architectural%20firm%29"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "백송의 밀도 속에 심은 140제곱미터의 여름 거처",
+     "url": "https://www.archdaily.com/1185721/a-house-with-one-hundred-pines-luis-barandiaran"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "유토피아와 디스토피아 사이, 기후 전환을 상상하는 법",
+     "url": "https://www.archdaily.com/1185529/between-burning-forests-and-utopian-cities-designing-the-climate-transition"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "백만 제곱미터의 생태 축: 마드리드 푸에르타 데 마드리드 도시 계획 공모",
+     "url": "https://www.archdaily.com/1184822/jury-led-design-competition-for-sustainable-and-innovative-urban-planning-proposals-for-the-puerta-de-madrid-area-in-leganes-madrid"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 1284
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "design-milk.com/dia-de-muertos-altar-mestiz": {
+  "title_ko": "맨해튼 플랫아이언 광장에 핀 7단 금잔화 제단",
+  "summary_ko": "멕시코 디자이너 다니엘 발레로가 이끄는 메스티즈와 브루클린의 제작 조직 파워하우스 아츠가 협업해 맨해튼 플랫아이언 노스 플라자에 7단 제단 설치 작업을 선보였다. 나우아틀어로 20개의 꽃잎을 뜻하는 cempōhualxōchitl에서 착안한 이 공공 미술은 전통 위패 제단을 도심 속 거대 조형물로 확장했다.",
+  "lens": "전통 제례의 일회적 소품을 도심 광장의 7단 철제 프레임으로 건축화해 사적 애도를 공공의 행위로 바꾼다.",
+  "why_now": "디아 데 무에르토스 전통이 이주민 사회의 사적 기념을 넘어 뉴욕 도심 한복판에서 대규모 공공 예술과 문화적 교류의 장으로 자리 잡고 있음을 보여준다.",
+  "mechanism": "멕시코 테키스키아판 공방에서 고유의 위빙 기법으로 수공예 버들개미를 제작하고, 브루클린에서는 금잔화 주황색으로 도색한 슬림한 스틸 프레임을 설계해 무게감을 지탱한다.",
+  "sensory": "따뜻한 촛불 조명 아래 촘촘하게 엮인 주황색 직물 꽃잎들이 맨해튼의 차가운 보행로 스케일과 대조를 이루며 도심 한복판에서 압도적인 유기적 질감을 드러낸다.",
+  "transfer": "도심 공공 공간에서 이벤트를 연출할 때 임시 가설물 대신 모듈형 스틸 프레임과 자연 소재 위빙을 결합하여 철거와 재설치가 가능한 입체 조형물로 구현한다.",
+  "context": "멕시코 산 미겔 데 아옌데에 기반을 둔 메스티즈는 지역의 공예 전통과 현대 디자인을 결합해 가전, 조명, 공간 설치 작업을 전개해 왔다.",
+  "findings": [
+   {
+    "text": "메스티즈 스튜디오는 멕시코 산 미겔 데 아옌데에 기반을 두고 공예 전통을 현대적 가구와 설치 미술로 풀어내는 스튜디오다.",
+    "s": 2,
+    "quote": "Mestiz is an artisanal design studio based in San Miguel de Allende, Mexico, creating handcrafted furniture, lighting, objects, and immersive installations inspired by Mexico’s landscapes, color, cultural syncretism, and"
+   }
+  ],
+  "keywords": [
+   "디아데무에르토스",
+   "공공미술",
+   "메스티즈",
+   "파워하우스아츠",
+   "설치건축"
+  ],
+  "evidence": "Twenty Petal Flower, the installation was commissioned by the Flatiron NoMad Partnership and created through a collaboration between Valero’s Mexico-based design studio, Mestiz, and Brooklyn-based fabrication organization Powerhouse Arts.",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "멕시코 수공예 위빙과 브루클린의 스틸 프레임 제작 협업 과정이 구체적이며 공공 미술의 구조적 해법이 돋보인다.",
+  "v": 2,
+  "url": "https://design-milk.com/dia-de-muertos-altar-mestiz/",
+  "original_title": "Mestiz Installs Monumental Día de Muertos Altar in NYC",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 7733,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-03 12:33",
+  "research": {
+   "entities": [
+    "Daniel Valero",
+    "Mestiz",
+    "Powerhouse Arts",
+    "Flatiron NoMad Partnership",
+    "Twenty Petal Flower"
+   ],
+   "questions": [
+    "메스티즈(Mestiz)와 파워하우스 아츠(Powerhouse Arts)는 이 거대한 제단 설치 작업을 위해 어떻게 협업했나요?",
+    "디아 데 무에르토스(Día de Muertos)의 전통적인 제단(ofrenda) 형식이 현대 공공 미술로 어떻게 재해석되었나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Flatiron NoMad",
+     "url": "https://flatironnomad.nyc/"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Mestiz ",
+     "url": "https://www.mestiz.mx/"
+    },
+    {
+     "n": 3,
+     "type": "공식·1차",
+     "title": "Powerhouse Arts | Historic Brooklyn Arts Facility & Fabrication Hub",
+     "url": "https://powerhousearts.org/"
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "Powerhouse Arts District",
+     "url": "https://en.wikipedia.org/wiki/Powerhouse%20Arts%20District"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "메스티자 스튜디오의 카니카 브랜딩: 기하학적 구성주의와 유기적 선의 공존",
+     "url": "https://www.itsnicethat.com/articles/mestiza-studio-canica-graphic-design-project-240926"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "프라도 미술관의 명화 속으로, 브루클린 파워하우스 아츠의 프리 로밍 VR",
+     "url": "https://www.designboom.com/art/prado-museum-masterpieces-free-roam-virtual-tour-brooklyn/"
+    },
+    {
+     "n": 7,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "맨해튼 플랫아이언 광장에 핀 거대한 금잔화, ‘스무 개의 꽃잎’",
+     "url": "https://hyperallergic.com/giant-ofrenda-arrives-in-manhattan-ahead-of-dia-de-muertos/"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3,
+    7
+   ],
+   "chars": 6819
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "architecturaldigest.com/story/322-square-foot-apartment-gives-classic-style-a-contemporary-update": {
+  "title_ko": "322제곱피트의 한계, 고전적 디테일과 월넛으로 완성한 밀도 높은 거주",
+  "summary_ko": "모스크바 인근 비드니 고로드에 위치한 322제곱피트 아파트가 거주자의 취향을 반영한 맞춤형 공간으로 재탄생했다. 인테리어 디자이너 폴리나 추마코바는 구조적 제약인 내력벽을 수납장으로 통합하고, 유연한 가구 배치와 조명 설계를 통해 공간의 개방감을 확보했다.",
+  "lens": "고정된 벽을 가구의 일부로 은폐하고 조명 시나리오를 층위별로 분산해, 물리적 면적을 넘어선 시각적 깊이를 확보했다.",
+  "why_now": "소형 주거에서 공간의 기능을 단순화하기보다, 다목적 가구와 정교한 수납 계획을 통해 거주자의 일상적 행위를 온전히 담아내는 설계가 주목받는다.",
+  "mechanism": "내력벽을 현관 수납장 내부로 매립하여 돌출부를 제거하고, 식탁 위 고정 조명 대신 가변적인 조명 체계를 도입해 공간의 유연성을 높였다.",
+  "sensory": "올리브 그린과 밀키 화이트의 차분한 색감에 자연스러운 월넛 소재의 질감이 더해져 따뜻한 분위기를 형성한다. 몰딩의 리듬감이 벽면에 깊이감을 부여하며 빛의 반사를 조절한다.",
+  "transfer": "현장 조명 설계 시 천장 매립등, 펜던트, 스포트라이트 등 5가지 유형을 혼합해 시간대별로 공간의 인상을 바꾸는 시나리오를 구성하라.",
+  "context": "인테리어 디자이너 폴리나 추마코바가 설립한 라골가 부로(Lagolga Buro)의 작업으로, 기존 건축의 구조적 한계를 디자인적 요소로 전환하는 데 집중했다.",
+  "findings": [],
+  "keywords": [
+   "소형아파트",
+   "맞춤형가구",
+   "조명설계",
+   "내력벽통합"
+  ],
+  "evidence": "The original floor plan had issues that required a careful reorganization of the space.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "소형 평형의 구조적 한계를 극복하는 실무적인 수납과 조명 솔루션을 구체적으로 제시함.",
+  "v": 2,
+  "url": "https://www.architecturaldigest.com/story/322-square-foot-apartment-gives-classic-style-a-contemporary-update",
+  "original_title": "This 322-Square-Foot Apartment Gives Classic Style a Contemporary Update",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 7402,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-03 12:33",
+  "research": {
+   "entities": [
+    "Lagolga Buro",
+    "Polina Chumakova"
+   ],
+   "questions": [
+    "322제곱피트의 소형 아파트에서 공간 활용을 극대화하기 위해 적용된 구체적인 수납 솔루션은 무엇인가?",
+    "자연광이 부족한 환경을 극복하기 위해 인테리어 디자인에서 선택한 색상과 조명 계획의 특징은 무엇인가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "stashmedia.tv/merijn-hoss-flora-takes-flight-for-down-the-rabbit-hole": {
+  "title_ko": "메리진 호스가 구축한 음악 축제의 유기적 판타지 브랜딩",
+  "summary_ko": "네덜란드 음악 축제 다운 더 래빗 홀 2026 에디션이 위트레흐트 기반의 아티스트 메리진 호스의 유기적 판타지 스타일 브랜딩을 공개했다. 이번 여름 개최를 앞두고 일러스트레이터와의 협업을 통해 시각적 세계관을 확장한다.",
+  "lens": "일러스트레이터의 유기적 판타지를 축제 브랜딩으로 확장해 시각적 밀도를 높인다.",
+  "why_now": "대규모 음악 축제가 고유의 정체성을 구축하기 위해 독창적인 일러스트레이션 세계관을 전면에 내세우는 흐름을 보여준다.",
+  "mechanism": "아티스트 고유의 유기적인 드로잉과 일러스트레이션 요소를 축제 전반의 시각 매체에 일관되게 적용한다.",
+  "sensory": "화려한 식물 형태와 환상적인 그래픽 요소가 축제 공간과 매체 전반에 생동감 있는 질감을 부여한다.",
+  "transfer": "환상적인 분위기를 연출하는 뮤직비디오나 페스티벌 오프닝 시퀀스의 키아트와 그래픽 모티브로 활용할 수 있다.",
+  "context": "위트레흐트 출신의 일러스트레이터 메리진 호스가 네덜란드 음악 축제 다운 더 래빗 홀의 브랜딩 작업을 맡았다.",
+  "findings": [],
+  "keywords": [
+   "브랜딩",
+   "일러스트레이션",
+   "페스티벌",
+   "시각예술"
+  ],
+  "evidence": "",
+  "kind": "브랜드·캠페인",
+  "depth": 2,
+  "grounding": "thin",
+  "depth_reason": "원문 본문이 수집되지 않고 메타 정보만 남아 있어 구체적 작동 방식과 심층적 분석에 한계가 있다.",
+  "v": 2,
+  "url": "https://www.stashmedia.tv/merijn-hoss-flora-takes-flight-for-down-the-rabbit-hole/",
+  "original_title": "Merijn Hos’s Flora Takes Flight for Down The Rabbit Hole",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 0,
+  "fetch": "fetch_error:TimeoutError",
+  "cliche_hits": [],
+  "read_at": "2026-11-03 12:33",
+  "research": {
+   "entities": [
+    "Merijn Hos",
+    "Down the Rabbit Hole"
+   ],
+   "questions": [
+    "Merijn Hos가 추구하는 유기적인 판타지 스타일의 시각적 특징은 무엇인가요?",
+    "Down the Rabbit Hole 축제의 브랜딩이 매년 어떤 방식으로 아티스트와 협업하여 변화해왔나요?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 2,
+  "depth_v": 2
+ },
+ "stashmedia.tv/versus-launches-new-quartery-print-magazine-we-are": {
+  "title_ko": "속도를 멈추고 종이로 돌아가는 버서스의 새로운 시도, 매거진 '위 아'",
+  "summary_ko": "크리에이티브 스튜디오 버서스(Versus)가 170페이지 분량의 분기별 인쇄 매거진 '위 아(WE ARE)'를 창간했다. 디지털 콘텐츠의 즉각적인 소비와 AI 생성물에 대응해 크리에이티브와 크래프트, 문화를 기록하는 물리적 매체로서의 가치를 제안한다.",
+  "lens": "디지털 과잉 시대에 스튜디오가 자체 매거진을 발행하는 것은 작업의 맥락을 물리적 질감으로 고정하려는 전략적 선택이다.",
+  "why_now": "디지털 콘텐츠의 휘발성에 반기를 들고, 스튜디오가 지향하는 완성도와 공정을 긴 호흡으로 기록하기 위함이다.",
+  "mechanism": "170페이지라는 물리적 물성을 통해 콘텐츠의 소비 속도를 강제로 늦추고, 디지털 스크린 너머의 편집 디자인과 지면 구성을 경험하게 한다.",
+  "sensory": "종이의 질감과 인쇄 잉크의 냄새, 페이지를 넘길 때의 물리적 저항감이 디지털 스크린의 매끄러운 표면과 대조된다.",
+  "transfer": "디지털 프로젝트의 결과물을 단순히 영상으로 나열하지 말고, 제작 과정의 미학을 담은 물리적 인쇄물로 구성해 클라이언트에게 브랜드의 깊이를 전달한다.",
+  "context": "디지털 중심의 에이전시가 학술적 깊이나 공예적 태도를 실무와 결합하려는 시도로, 이는 스튜디오가 실무적 성과를 넘어 자체적인 비평적 목소리를 내기 시작했음을 보여준다.",
+  "findings": [],
+  "keywords": [
+   "버서스",
+   "인쇄 매거진",
+   "디지털 피로",
+   "크래프트"
+  ],
+  "evidence": "Versus is making a case for slowing down.",
+  "kind": "뉴스·이슈",
+  "depth": 2,
+  "grounding": "thin",
+  "depth_reason": "원문 본문을 확보하지 못해 발행 배경과 구체적인 지면 구성에 대한 상세 정보를 확인할 수 없다.",
+  "v": 2,
+  "url": "https://www.stashmedia.tv/versus-launches-new-quartery-print-magazine-we-are/",
+  "original_title": "Versus Launches New Quarterly Print Magazine “WE ARE”",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 0,
+  "fetch": "fetch_error:TimeoutError",
+  "cliche_hits": [],
+  "read_at": "2026-11-03 12:33",
+  "research": {
+   "entities": [
+    "Versus"
+   ],
+   "questions": [
+    "버서스가 디지털 중심의 환경에서 인쇄 매거진 WE ARE를 발행한 배경은 무엇인가?",
+    "WE ARE 매거진이 다루는 크리에이티브, 크래프트, 컬처의 구체적인 내용은 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "전통적 에이전시에서 학술적 지식을 실무적 성과로 전환하는 법",
+     "url": "https://www.itsnicethat.com/articles/creative-career-condundrums-if-you-could-jobs-advice-021126"
+    }
+   ],
+   "used": [],
+   "chars": 279
+  },
+  "depth_raw": 2,
+  "depth_v": 2
+ },
+ "designboom.com/art/ceramic-sponge-textile-accents-scilla-cariddi-hand-crafted-mirrors-marlisa-marasco": {
+  "title_ko": "메시나 해협의 괴물을 거울로, 말리사 마라스코의 쉴라 & 카리디",
+  "summary_ko": "말리사 마라스코가 살로네 사텔리테 2026에서 공개한 쉴라 & 카리디는 지중해 메시나 해협의 신화를 조각 거울로 치환한 작업이다. 유약을 바른 세라믹, 다중 배율의 반사 유리, 목재, 섬유를 혼합해 괴물의 형상을 조형적 거울로 재구성했다. 관람객은 파편화된 거울 면을 통해 자신의 이미지가 왜곡되는 상호작용을 경험한다.",
+  "lens": "신화 속 괴물의 형상을 기능적 오브제로 옮겨, 거울을 보는 행위를 관찰자와 대상이 뒤섞이는 연극적 사건으로 전환한다.",
+  "why_now": "디지털 가상 현실이 익숙한 시대에, 신화적 서사를 물리적 질감과 반사라는 아날로그 장치로 구현해 시각적 몰입을 유도한다.",
+  "mechanism": "다양한 배율의 거울 면을 겹치고 어긋나게 배치해 관람객의 반사상을 파편화한다. 세라믹 소용돌이와 뱀 머리 형상을 거울 프레임에 통합해 조각적 부피감을 더했다.",
+  "sensory": "매끄러운 세라믹의 광택과 거친 스폰지의 질감이 대비를 이루며, 굴절된 반사상이 공간의 깊이감을 시각적으로 교란한다.",
+  "transfer": "거울을 단순한 반사체가 아닌 레이어드된 오브제로 간주하고, 피사체의 일부를 의도적으로 절단하거나 확대하는 프레임 구성에 활용한다.",
+  "context": "살로네 사텔리테는 신진 디자이너를 발굴하는 밀라노 디자인 위크의 핵심 플랫폼이다. 신화적 서사를 가구 디자인으로 치환하는 방식은 루카 구아다니노 등 영화적 세계관을 인테리어로 확장하는 동시대 흐름과 궤를 같이한다.",
+  "findings": [
+   {
+    "text": "살로네 델 모빌레는 매년 밀라노에서 열리는 세계 최대 규모의 가구 박람회다.",
+    "s": 1,
+    "quote": "Salone del Mobile or Milan Design Week is a furniture fair held annually in Milan. It is the largest trade fair of its kind in the world."
+   },
+   {
+    "text": "쉴라와 카리디는 메시나 해협 양쪽에 사는 전설적인 괴물로, 고대 그리스 신화에서 유래했다.",
+    "s": 2,
+    "quote": "Scylla is a legendary, man-eating monster that lives on one side of a narrow channel of water, opposite her counterpart, the sea-swallowing monster Charybdis."
+   }
+  ],
+  "keywords": [
+   "오브제",
+   "조각거울",
+   "살로네사텔리테",
+   "신화적해석"
+  ],
+  "evidence": "Scilla features a crown of six glazed ceramic serpent heads paired with a secondary magnifying mirror that evokes the creature’s eye",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "신화적 서사를 구체적인 재료 혼합과 반사 기법으로 치환한 논리가 명확하며, 디자인 오브제로서의 조형적 장치가 상세히 기술됨.",
+  "v": 2,
+  "url": "https://www.designboom.com/art/ceramic-sponge-textile-accents-scilla-cariddi-hand-crafted-mirrors-marlisa-marasco/",
+  "original_title": "ceramic, sponge, and textile accents assemble into scilla & cariddi hand-crafted mirrors",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 3893,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-03 12:33",
+  "research": {
+   "entities": [
+    "Marlisa Marasco",
+    "SaloneSatellite",
+    "Salone del Mobile",
+    "Scylla",
+    "Charybdis"
+   ],
+   "questions": [
+    "Marlisa Marasco의 Scilla & Cariddi 거울이 메시나 해협의 신화를 시각적으로 해석한 구체적인 디자인 요소는 무엇인가?",
+    "SaloneSatellite 2026에서 이 작품이 어떻게 전시되었으며 관람객에게 어떤 경험을 제공하는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Salone del Mobile",
+     "url": "https://en.wikipedia.org/wiki/Salone%20del%20Mobile"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Scylla",
+     "url": "https://en.wikipedia.org/wiki/Scylla"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "영화감독의 세트가 집으로 들어올 때, 린치와 구아다니노의 인테리어",
+     "url": "https://www.designboom.com/art/guadagnino-lynch-movie-directors-design-interior-spaces/"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3
+   ],
+   "chars": 2397
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "architecturaldigest.com/story/best-expensive-gifts": {
+  "title_ko": "일상의 궤도를 바꾸는 럭셔리 오브제: 2026년의 사물들",
+  "summary_ko": "건축 전문지 아키텍처럴 다이제스트가 선정한 2026년 럭셔리 기프트 리스트는 단순한 소유를 넘어 사용자의 일상 동선을 정교하게 설계하는 제품에 주목한다. 조나단 앤더슨의 조형적 가방부터 리모와의 알루미늄 바 케이스, 발뮤다의 전기 티포트까지 기능과 미학이 결합된 오브제들을 소개한다.",
+  "lens": "럭셔리는 과시가 아니라 사물의 형태와 기능이 사용자의 일상적 행위를 얼마나 더 우아하게 재구성하는가에 달려 있다.",
+  "why_now": "디지털 과잉 시대에 물리적 질감과 정교한 기계적 조작이 주는 확실한 감각적 만족감이 다시 중요해지고 있다.",
+  "mechanism": "발뮤다의 문케틀처럼 전통적인 찻주전자의 외형에 정밀한 온도 제어와 소음 없는 가열 시스템을 결합하여, 사용자의 행위를 방해하지 않는 고요한 인터페이스를 구축한다.",
+  "sensory": "차가운 알루미늄의 금속성 질감과 손에 쥐었을 때 느껴지는 묵직한 무게감, 혹은 캐시미어의 부드러운 촉감이 사용자의 감각적 경험을 극대화한다.",
+  "transfer": "공간 연출 시, 단순히 값비싼 가구를 배치하기보다 리모와 케이스나 로에베 캔들처럼 형태가 명확한 오브제를 배치해 시선의 중심점(Focal Point)을 만든다.",
+  "context": "조나단 앤더슨은 패션과 공예의 경계를 허무는 조형적 실험으로 2026년 런던 디자인 메달을 수상하며 그 영향력을 입증했다. 리모와는 LVMH 그룹 편입 이후 하드쉘의 알루미늄 그루브를 유지하면서도, 최근 엄버와 울트라마린 등 예술적 색채를 결합해 브랜드의 서사를 확장하고 있다.",
+  "findings": [
+   {
+    "text": "조나단 앤더슨은 패션과 예술, 공예를 융합한 작업으로 2026년 런던 디자인 메달을 수상했다.",
+    "s": 3,
+    "quote": "JW 앤더슨(JW Anderson)의 창립자 조나단 앤더슨(Jonathan Anderson)과 슈퍼플럭스(Superflux) 공동 창업자 아나브 자인(Anab Jain)이 올해 런던 디자인 메달 수상자로 선정되었다."
+   },
+   {
+    "text": "리모와는 2016년 LVMH 그룹에 인수된 이후 예술사적 맥락을 반영한 색채 전략을 강화하고 있다.",
+    "s": 4,
+    "quote": "리모와(Rimowa)가 이번 시즌 새로운 색상인 엄버(Umber)와 울트라마린(Ultramarine)을 에센셜 및 그루브 컬렉션에 적용했다."
+   }
+  ],
+  "keywords": [
+   "기능적럭셔리",
+   "조나단앤더슨",
+   "리모와",
+   "오브제",
+   "라이프스타일"
+  ],
+  "evidence": "the best luxury gifts rise to those special occasions during the holidays or beyond when it’s appropriate to go all out",
+  "kind": "리스트·라운드업",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "럭셔리 제품의 리스트업을 넘어, 제품이 가진 조형적 가치와 기능적 맥락을 디자인 관점에서 해석했기 때문이다.",
+  "v": 2,
+  "url": "https://www.architecturaldigest.com/story/best-expensive-gifts",
+  "original_title": "31 Best Luxury Gifts That Are Worth the Splurge in 2026",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 9000,
+  "fetch": "ok",
+  "cliche_hits": [
+   "경계를 허"
+  ],
+  "read_at": "2026-11-03 12:34",
+  "research": {
+   "entities": [
+    "JW Anderson",
+    "Rimowa",
+    "Lauren Manoogian",
+    "Alyssa Kapito",
+    "Savette"
+   ],
+   "questions": [
+    "럭셔리 기프트 선정 시 고려해야 할 '투자 가치'와 '실용성'의 균형을 맞추는 기준은 무엇인가?",
+    "최근 인테리어 및 라이프스타일 분야에서 '기능적 럭셔리(Functional Luxury)'가 주목받는 이유는 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "JW Anderson",
+     "url": "https://en.wikipedia.org/wiki/JW%20Anderson"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Rimowa",
+     "url": "https://en.wikipedia.org/wiki/Rimowa"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "조나단 앤더슨과 아나브 자인, 2026 런던 디자인 메달 수상",
+     "url": "https://www.dezeen.com/2026/09/10/london-design-medal-2026-jonathan-anderson/"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "리모와가 선택한 엄버와 울트라마린, 색채로 빚어낸 여행의 서사",
+     "url": "https://www.wallpaper.com/travel/rimowa-new-suitcase-colours-umber-ultramarine"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "chars": 1791
+  },
+  "depth_raw": 3,
+  "depth_v": 2
  }
 }
