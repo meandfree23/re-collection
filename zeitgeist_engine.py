@@ -43,6 +43,10 @@ KEYWORD_DICTIONARY = {
     "레스토랑·호스피탈리티": ["레스토랑", "restaurant design", "hospitality design", "카페 디자인"],
     "컬러·색채": ["색채", "컬러 팔레트", "color palette", "colour palette"],
     "AI·제너레이티브 아트": ["제너레이티브", "generative art", "ai 아트", "ai-generated"],
+    "기후 순응·적설 지붕": ["적설", "기후 대응", "snow", "climate-responsive", "지형 순응"],
+    "산업 골조·적응형 재사용": ["adaptive reuse", "골조", "적응형 재사용", "외골격", "exoskeleton"],
+    "아날로그 질감·16mm 필름": ["16mm", "아날로그", "film grain", "필름 질감"],
+    "공공 동선·문턱 해체": ["공공 동선", "문턱", "루프탑 광장", "열린 공간", "public circulation"],
 }
 
 GENRE_LABELS_KO = {
