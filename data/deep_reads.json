@@ -260870,5 +260870,99 @@
   },
   "depth_raw": 3,
   "depth_v": 2
+ },
+ "hyperallergic.com/haunted-ride-on-the-3-train": {
+  "title_ko": "지하철 터널 속 할로윈, 도시의 냉소와 예술 기관의 윤리",
+  "summary_ko": "할로윈 밤 뉴욕 지하철 3호선이 사고로 멈춰 서자, 분장한 승객들은 비극적 상황 앞에서 냉소와 피로감을 드러내며 서로를 외면했다. 그러나 응급 상황이 발생하자 승객들은 즉각적으로 협력하며 상반된 태도를 보였다. 이는 메트로폴리탄 미술관에 익명으로 작품을 설치한 작가의 저항이나, 현대 미술관(MoMA) 이사회 내 부적절한 권력 관계를 고발하는 운동과 궤를 같이한다.",
+  "lens": "비극적 사고 앞의 집단적 무관심과 예술 기관의 기부자 윤리는 권력의 그늘 아래 방치된 고통을 외면하는 동일한 구조적 냉소를 가리킨다.",
+  "why_now": "예술 기관이 자본의 권력 구조와 결탁할 때 발생하는 도덕적 해이는 더 이상 내부의 문제가 아니라 도시의 공공적 책임과 맞닿아 있다.",
+  "mechanism": "승객들이 지하철이라는 밀폐된 공간에서 겪은 90분의 고립은 외부 세계의 고통을 차단한 채 화려한 코스튬 뒤로 숨는 현대인의 익명성을 극대화한다.",
+  "sensory": "어두운 지하 터널 속 전원이 꺼진 열차의 정적, 그리고 비극적 사고를 지우려는 강요된 유쾌함이 빚어내는 기괴한 긴장감이 현장을 지배한다.",
+  "transfer": "사고 현장의 무관심과 극적인 구조적 연대를 교차 편집하여, 도시의 익명성이 어떻게 개인의 윤리적 결단으로 전환되는지 그 찰나의 동선을 설계하라.",
+  "context": "메트로폴리탄 미술관은 1870년 설립 이후 뉴욕 미술계의 중심지로 자리 잡았으나, 최근에는 기관의 공공성과 기부자 윤리에 대한 비판이 거세다. 현대 미술관은 1929년 설립 이래 유럽 모더니즘의 성지로 기능했으나, 레온 블랙과 같은 인물의 이사회 참여는 기관의 도덕적 정당성을 묻는 지속적인 논란의 대상이다.",
+  "findings": [
+   {
+    "text": "메트로폴리탄 미술관은 1870년 설립되었으며 현재 17개의 큐레이터 부서로 나뉘어 운영된다.",
+    "s": 1,
+    "quote": "The Metropolitan Museum of Art was founded in 1870. The collection is divided into 17 curatorial departments."
+   },
+   {
+    "text": "현대 미술관은 1939년 현재의 53번가 위치로 이전하였으며 건축가 필립 L. 굿윈과 에드워드 듀렐 스톤이 설계했다.",
+    "s": 2,
+    "quote": "In 1939, the museum moved to its current location on West 53rd Street designed by architects Philip L. Goodwin and Edward Durell Stone."
+   }
+  ],
+  "keywords": [
+   "도시 냉소",
+   "기관 윤리",
+   "사회적 연대",
+   "현대 미술관",
+   "권력 구조"
+  ],
+  "evidence": "The city’s collective jadedness with the inconvenience of fatality culminated in a veneer of forced levity to hide an ugly, unsympathetic frustration.",
+  "kind": "뉴스·이슈",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "도시적 일상과 예술 기관의 정치적 책임을 연결했으나, 구체적인 작업물보다는 현상에 대한 비평적 서술에 집중되어 있다.",
+  "v": 2,
+  "url": "https://hyperallergic.com/haunted-ride-on-the-3-train/",
+  "original_title": "Haunted Ride on the 3 Train",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 7996,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-04 12:32",
+  "research": {
+   "entities": [
+    "Metropolitan Museum of Art",
+    "Museum of Modern Art",
+    "Leon Black",
+    "Claire Valdez",
+    "Danielle Bensky"
+   ],
+   "questions": [
+    "뉴욕 지하철 내 사고와 같은 비극적 상황에서 나타나는 도시인의 무관심과 집단적 냉소주의는 어떤 사회적 맥락을 반영하는가?",
+    "예술 기관의 이사회 구성과 기부자 윤리 문제는 현대 미술관의 공공성과 책임성에 어떤 영향을 미치는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Metropolitan Museum of Art",
+     "url": "https://en.wikipedia.org/wiki/Metropolitan%20Museum%20of%20Art"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Museum of Modern Art",
+     "url": "https://en.wikipedia.org/wiki/Museum%20of%20Modern%20Art"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "맨해튼 크라운 빌딩의 재탄생, 아만 뉴욕이 선보이는 7개의 프라이빗 홈",
+     "url": "https://www.wallpaper.com/travel/hotels/aman-new-york-homes"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "바이올리니스트의 신체를 악보 삼아 공감각을 빛으로 번역하다",
+     "url": "https://www.designboom.com/art/synesthesia-light-audrey-wright-musical-body-metropolitan-museum-geoff-robertson-stephanie-ann-boyd/"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "역사의 권력 구조를 비추는 거울, 모건 라이브러리의 타로 전시",
+     "url": "https://hyperallergic.com/how-tarot-survived-for-500-years/"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 3668
+  },
+  "depth_raw": 3,
+  "depth_v": 2
  }
 }
