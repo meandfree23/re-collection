@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-05 01:14 KST",
+  "generated_at": "2026-11-05 02:09 KST",
   "period": "2026.10.29 - 2026.11.05",
-  "total_articles": 350,
+  "total_articles": 352,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
@@ -9,7 +9,7 @@
     },
     {
       "genre": "동시대 미술",
-      "count": 126
+      "count": 128
     },
     {
       "genre": "아방가르드 패션",
@@ -23,10 +23,16 @@
   "themes": [
     {
       "keyword": "사진",
-      "count": 12,
+      "count": 13,
       "previous_count": 6,
       "trend": "rising",
       "items": [
+        {
+          "title": "미국 서부를 여행하는 동안 이반 매클렐런은 블랙 카우보이 문화에 뛰어들었습니다.",
+          "url": "https://www.wallpaper.com/art/photography/eight-seconds-legacy-in-motion-book-by-ivan-mcclellan",
+          "image_url": "https://cdn.mos.cms.futurecdn.net/UauEYunboSqpZXX7LGQWn-1920-80.jpg",
+          "source_name": "Wallpaper*"
+        },
         {
           "title": "인사이드 바디 하이, 미니애폴리스의 ’다크, 섹시, 브라티’ 레이브",
           "url": "https://www.dazeddigital.com/life-culture/article/71292/1/inside-body-high-minneapolis-queer-bipoc-rave-state-of-youth?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=inside-body-high-minneapolis-dark-sexy-bratty-rave",
@@ -44,12 +50,6 @@
           "url": "https://www.thisiscolossal.com/2026/11/ivan-mclellan-eight-seconds-legacy-in-motion/",
           "image_url": "https://www.thisiscolossal.com/wp-content/uploads/2026/11/mcclellan-4.jpg",
           "source_name": "This Is Colossal"
-        },
-        {
-          "title": "엘리 은게산 (Elie N'Guessan) 이 런던을 영화처럼 만드는 방법",
-          "url": "https://www.creativeboom.com/work/how-elie-nguessan-makes-everyday-london-look-like-a-movie/",
-          "image_url": "https://media.creativeboom.com/fd71d5e7-0488-4f87-9d17-4223b35bf6f4/conversions/08078ea0eebf7aa582c3e0ef45f0556826f8856c-medium.webp",
-          "source_name": "Creative Boom"
         }
       ]
     },
