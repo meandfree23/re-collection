@@ -261101,5 +261101,169 @@
   },
   "depth_raw": 3,
   "depth_v": 2
+ },
+ "dezeen.com/2026/11/04/jeju-restaurant-daughters": {
+  "title_ko": "밴쿠버 제주 레스토랑, 현무암과 정낭으로 빚은 제주의 시간",
+  "summary_ko": "캐나다 스튜디오 앤도터스(&Daughters)가 밴쿠버의 한식당 제주(Jeju)를 설계하며 제주도 전통 가옥의 요소를 현대적 공간으로 재해석했다. 현무암, 코르크, 초가 등 가공되지 않은 재료를 사용하여 제주의 자연 풍경을 실내로 옮겨왔으며, 전통 정낭을 영업 시간을 알리는 기능적 장치로 변주했다.",
+  "lens": "전통의 상징을 단순한 장식이 아닌, 일상의 리듬을 제어하는 기능적 장치로 치환하여 공간의 서사를 완성한다.",
+  "why_now": "디지털 피로도가 높은 시대에 현무암, 초가와 같은 날것의 물성을 공간의 핵심으로 삼아 물리적 현장감을 회복하려는 시도가 주목받는다.",
+  "mechanism": "제주도 전통 정낭을 입구 글레이징 옆에 설치하여, 직원이 매일 막대를 내리고 올리는 행위를 통해 레스토랑의 개점과 마감을 알리는 사회적 시노그래피를 구축했다.",
+  "sensory": "현무암의 거친 다공성 질감과 코르크 패널의 부드러운 흡음 효과가 대비되며, 천장에 매달린 손으로 엮은 초가의 볏짚이 공간에 유기적인 무게감을 더한다.",
+  "transfer": "공간의 개폐 여부를 물리적 오브제(막대, 문, 조명 등)의 위치 변화로 표현하여, 방문객이 공간의 상태를 직관적으로 인지하게 만드는 동선 설계에 활용한다.",
+  "context": "앤도터스는 밴쿠버를 중심으로 상업 공간의 본질적인 서사를 물리적 재료로 번역하는 작업을 이어왔다. 이번 프로젝트는 제주도라는 특정 지형의 기후와 건축 유산을 밴쿠버라는 이국적 환경에 이식한 사례다.",
+  "findings": [
+   {
+    "text": "제주 레스토랑의 입구에 설치된 정낭은 실제 영업 시간을 알리는 수동 장치로 작동하며, 앤도터스는 이를 통해 전통 건축 요소를 일상의 활기찬 일부로 변주했다.",
+    "s": 2,
+    "quote": "입구의 정낭은 영업 시간을 알리는 수동 장치로, 천장에 매달린 초가집 형태의 조명은 현지에서 채취한 풀을 엮어 제작했다."
+   }
+  ],
+  "keywords": [
+   "제주도 건축",
+   "물성",
+   "정낭",
+   "앤도터스",
+   "공간 서사"
+  ],
+  "evidence": "Basalt, cork, concrete, thatch and wood to design Jeju",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "전통 건축 요소를 기능적 장치로 치환한 구체적인 설계 방식과 재료 해석이 명확하여 공간 디자인의 실무적 참고 가치가 높다.",
+  "v": 2,
+  "url": "https://www.dezeen.com/2026/11/04/jeju-restaurant-daughters/",
+  "original_title": "\"Direct and unrefined\" materials create tactile interior at Jeju restaurant by &Daughters",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 3843,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-04 16:41",
+  "research": {
+   "entities": [
+    "&Daughters",
+    "Jeju Island"
+   ],
+   "questions": [
+    "캐나다 스튜디오 &Daughters는 밴쿠버의 레스토랑 제주(Jeju)의 공간 디자인에 제주도의 전통 건축 요소를 어떻게 현대적으로 재해석했는가?",
+    "제주(Jeju) 레스토랑의 인테리어에 사용된 현무암, 초가, 코르크 등의 가공되지 않은 천연 소재들이 공간의 시각적·촉각적 분위기에 어떤 영향을 미치는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "&Daughters",
+     "url": "https://and-daughters.com/"
+    },
+    {
+     "n": 2,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "밴쿠버의 제주, 전통 정낭과 초가집을 재해석한 44석의 공간",
+     "url": "https://leibal.com/interiors/jeju/"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 581
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "wallpaper.com/architecture/residential/connaught-house-valouran-london-uk": {
+  "title_ko": "런던 코넛 하우스, 1841년 신고전주의 예배당에서 5개의 현대적 주거로",
+  "summary_ko": "런던 세인트 존스 우드에 위치한 2등급 보호 건축물 코넛 하우스(Connaught House)가 5개의 부티크 주거 공간으로 재탄생했다. 건축가 존 타링(John Tarring)이 설계한 1841년 신고전주의 예배당의 원형을 복원하고, 영국 현지 장인들이 제작한 요소들을 채워 역사적 시간과 현대적 기능을 결합했다.",
+  "lens": "사라졌던 돔(Cupola)을 복원하고 아치형 창문을 보존하여, 예배당의 공간적 위계가 주거의 평면 구성에 자연스럽게 스며들도록 설계했다.",
+  "why_now": "도시 유산의 뼈대를 박제하지 않고, 동시대의 주거 문법을 덧입혀 건물의 생명력을 연장하는 재생 건축의 흐름을 보여준다.",
+  "mechanism": "건물 전면의 아치형 창문과 신고전주의 비례를 살린 고전적 평면과, 후면의 현대적 설계를 대비시켜 하나의 건물 안에 두 가지 시간의 층위를 배치했다.",
+  "sensory": "높은 층고와 정교한 코린트식 기둥이 만드는 수직적 공간감, 그리고 영국 제작 목재와 석재의 중성적인 색감이 주는 차분한 물성을 강조했다.",
+  "transfer": "공간의 역사적 비례를 존중하되, 현대적 가구와 조명을 배치할 때 동일한 철물과 마감재를 사용하여 서로 다른 시대의 공간을 하나의 시각적 언어로 묶는 연출 기법을 참고하라.",
+  "context": "코넛 하우스는 애비 로드 스튜디오(Abbey Road Studios) 인근의 역사적 지점에 위치하며, 과거 예배당에서 스쿼시 클럽, 퀸(Queen)의 녹음 스튜디오로 용도가 변해왔다. 개발사 발로란(Valouran)은 런던 내 유서 깊은 건물을 보존하며 주거 가치를 극대화하는 프로젝트를 지속해왔다.",
+  "findings": [
+   {
+    "text": "코넛 하우스는 1841년에 지어진 신고전주의 건축물로, 런던 세인트 존스 우드 지역의 2등급 보호 건축물이다.",
+    "s": 3,
+    "quote": "The historic, Grade II listed Connaught House is being exquisitely transformed into four of St John’s Wood’s most distinguished private residences."
+   },
+   {
+    "text": "인테리어 디자인을 맡은 군터 앤 코(Gunter and Co)는 프로젝트의 약 80퍼센트를 영국 제작 요소로 채워 장인 정신을 강조했다.",
+    "s": 1,
+    "quote": "With an extensive network of accomplished craftsmen and suppliers across the globe, we never fail to exceed our client’s expectations."
+   }
+  ],
+  "keywords": [
+   "재생건축",
+   "영국건축",
+   "신고전주의",
+   "공간복원",
+   "인테리어"
+  ],
+  "evidence": "The original chapel's striking crowning cupola, which was lost for almost 100 years due to past alterations, was beautifully restored.",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "역사적 건축물의 원형 복원과 현대적 주거 기능의 결합 과정을 구체적인 설계 전략과 재료적 관점에서 충실히 다루고 있다.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/architecture/residential/connaught-house-valouran-london-uk",
+  "original_title": "Connaught House is a north London landmark reborn as five boutique homes",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 4245,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-04 16:42",
+  "research": {
+   "entities": [
+    "Connaught House",
+    "John Tarring",
+    "Darling Associates",
+    "Gunter and Co",
+    "Abbey Road Studios"
+   ],
+   "questions": [
+    "Connaught House의 역사적 건축 양식과 이번 리노베이션에서 복원된 주요 특징은 무엇인가?",
+    "런던의 유서 깊은 건물을 주거 공간으로 전환할 때 적용되는 법적, 건축적 제약 사항은 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Gunter & Co | London Interior Designer & Architecture ",
+     "url": "https://www.gunterandco.com/"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Homepage: Valouran",
+     "url": "https://valouran.com/"
+    },
+    {
+     "n": 3,
+     "type": "공식·1차",
+     "title": "Overview - Connaught House",
+     "url": "https://www.connaught-house.com/"
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "Abbey Road Studios",
+     "url": "https://en.wikipedia.org/wiki/Abbey%20Road%20Studios"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "죽은 별의 신호와 밴드의 궤적을 엮은 조이 디비전의 기록 상자",
+     "url": "https://www.wallpaper.com/art/music/joy-division-boxset-eternal-live"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "chars": 5952
+  },
+  "depth_raw": 4,
+  "depth_v": 2
  }
 }

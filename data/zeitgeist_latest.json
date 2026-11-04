@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-04 13:26 KST",
+  "generated_at": "2026-11-04 16:41 KST",
   "period": "2026.10.28 - 2026.11.04",
-  "total_articles": 386,
+  "total_articles": 388,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 192
+      "count": 193
     },
     {
       "genre": "동시대 미술",
-      "count": 141
+      "count": 142
     },
     {
       "genre": "아방가르드 패션",
@@ -86,6 +86,38 @@
       ]
     },
     {
+      "keyword": "콘크리트 물성",
+      "count": 8,
+      "previous_count": 3,
+      "trend": "rising",
+      "items": [
+        {
+          "title": "\"직접적이고 정제되지 않은\" 재료는 & Daughters의 제주 레스토랑에서 촉각적인 인테리어를 만듭니다.",
+          "url": "https://www.dezeen.com/2026/11/04/jeju-restaurant-daughters/",
+          "image_url": "https://static-2026.dezeen.com/uploads/2026/11/jeju-restaurant-daughters-vancouver_dezeen_2364_col_sq2-1024x1024.jpg",
+          "source_name": "Dezeen"
+        },
+        {
+          "title": "모니터 하우스",
+          "url": "https://leibal.com/interiors/house-of-monitors/",
+          "image_url": "https://leibal.com/wp-content/uploads/2026/10/leibal-house-of-monitors-williamson-williamson-11.jpg",
+          "source_name": "Leibal"
+        },
+        {
+          "title": "지붕 위 산책: 린나홀과 탈린의 변화하는 해안선",
+          "url": "https://www.archdaily.com/1187476/a-walk-on-the-roof-linnahall-and-tallinns-shifting-shoreline",
+          "image_url": "https://images.adsttc.com/media/images/6ae4/b738/a04f/d001/89cd/426e/large_jpg/a-walk-on-the-roof-linnahall-and-tallinns-shifting-shoreline_17.jpg?1793374067",
+          "source_name": "ArchDaily"
+        },
+        {
+          "title": "콘크리트 뉴욕은 조각 건축 디자인에 대한 최신 블루 크로우 가이드북입니다",
+          "url": "https://www.wallpaper.com/architecture/concrete-new-york-is-the-latest-blue-crow-guidebook-to-sculptural-architectural-design",
+          "image_url": "https://cdn.mos.cms.futurecdn.net/ZxzDauezhhbQkQ8kbspPBM-1920-80.jpg",
+          "source_name": "Wallpaper*"
+        }
+      ]
+    },
+    {
       "keyword": "텍스타일·직물",
       "count": 8,
       "previous_count": 4,
@@ -118,43 +150,17 @@
       ]
     },
     {
-      "keyword": "콘크리트 물성",
-      "count": 7,
-      "previous_count": 3,
-      "trend": "rising",
-      "items": [
-        {
-          "title": "모니터 하우스",
-          "url": "https://leibal.com/interiors/house-of-monitors/",
-          "image_url": "https://leibal.com/wp-content/uploads/2026/10/leibal-house-of-monitors-williamson-williamson-11.jpg",
-          "source_name": "Leibal"
-        },
-        {
-          "title": "지붕 위 산책: 린나홀과 탈린의 변화하는 해안선",
-          "url": "https://www.archdaily.com/1187476/a-walk-on-the-roof-linnahall-and-tallinns-shifting-shoreline",
-          "image_url": "https://images.adsttc.com/media/images/6ae4/b738/a04f/d001/89cd/426e/large_jpg/a-walk-on-the-roof-linnahall-and-tallinns-shifting-shoreline_17.jpg?1793374067",
-          "source_name": "ArchDaily"
-        },
-        {
-          "title": "콘크리트 뉴욕은 조각 건축 디자인에 대한 최신 블루 크로우 가이드북입니다",
-          "url": "https://www.wallpaper.com/architecture/concrete-new-york-is-the-latest-blue-crow-guidebook-to-sculptural-architectural-design",
-          "image_url": "https://cdn.mos.cms.futurecdn.net/ZxzDauezhhbQkQ8kbspPBM-1920-80.jpg",
-          "source_name": "Wallpaper*"
-        },
-        {
-          "title": "아이슬란드의 대마초 통나무집은 '영혼을 위한 집‘ 입니다.",
-          "url": "https://www.wallpaper.com/architecture/hempcrete-biobuilding-ludica-iceland",
-          "image_url": "https://cdn.mos.cms.futurecdn.net/QX3h7wowrKEqTrRYRwE4vn-1920-80.jpg",
-          "source_name": "Wallpaper*"
-        }
-      ]
-    },
-    {
       "keyword": "레스토랑·호스피탈리티",
-      "count": 6,
+      "count": 7,
       "previous_count": 6,
       "trend": "steady",
       "items": [
+        {
+          "title": "\"직접적이고 정제되지 않은\" 재료는 & Daughters의 제주 레스토랑에서 촉각적인 인테리어를 만듭니다.",
+          "url": "https://www.dezeen.com/2026/11/04/jeju-restaurant-daughters/",
+          "image_url": "https://static-2026.dezeen.com/uploads/2026/11/jeju-restaurant-daughters-vancouver_dezeen_2364_col_sq2-1024x1024.jpg",
+          "source_name": "Dezeen"
+        },
         {
           "title": "귀하의 서비스에서",
           "url": "https://coolhunting.com/buy/at-your-service/",
@@ -172,12 +178,6 @@
           "url": "https://www.archdaily.com/994469/edificio-aeme-paz-arquitectura",
           "image_url": "https://images.adsttc.com/media/images/63ab/2234/adb1/7440/9e70/d1c9/large_jpg/aeme-paz-arquitectura_7.jpg?1672159805",
           "source_name": "ArchDaily"
-        },
-        {
-          "title": "미미 카쿠시, 마이애미 비치에 일본의 매력을 더하다",
-          "url": "https://design-milk.com/mimi-kakushi-delano-miami-pirajean-lees/",
-          "image_url": "https://design-milk.com/images/2026/10/Pirajean-Lees-x-Mimi-Kakushi-Delano-Miami-Mimi-Kakushi-00587Robert-Reiger-e1792856834637-1500x1000.jpg",
-          "source_name": "Design Milk"
         }
       ]
     },
