@@ -260871,39 +260871,175 @@
   "depth_raw": 3,
   "depth_v": 2
  },
- "hyperallergic.com/haunted-ride-on-the-3-train": {
-  "title_ko": "지하철 터널 속 할로윈, 도시의 냉소와 예술 기관의 윤리",
-  "summary_ko": "할로윈 밤 뉴욕 지하철 3호선이 사고로 멈춰 서자, 분장한 승객들은 비극적 상황 앞에서 냉소와 피로감을 드러내며 서로를 외면했다. 그러나 응급 상황이 발생하자 승객들은 즉각적으로 협력하며 상반된 태도를 보였다. 이는 메트로폴리탄 미술관에 익명으로 작품을 설치한 작가의 저항이나, 현대 미술관(MoMA) 이사회 내 부적절한 권력 관계를 고발하는 운동과 궤를 같이한다.",
-  "lens": "비극적 사고 앞의 집단적 무관심과 예술 기관의 기부자 윤리는 권력의 그늘 아래 방치된 고통을 외면하는 동일한 구조적 냉소를 가리킨다.",
-  "why_now": "예술 기관이 자본의 권력 구조와 결탁할 때 발생하는 도덕적 해이는 더 이상 내부의 문제가 아니라 도시의 공공적 책임과 맞닿아 있다.",
-  "mechanism": "승객들이 지하철이라는 밀폐된 공간에서 겪은 90분의 고립은 외부 세계의 고통을 차단한 채 화려한 코스튬 뒤로 숨는 현대인의 익명성을 극대화한다.",
-  "sensory": "어두운 지하 터널 속 전원이 꺼진 열차의 정적, 그리고 비극적 사고를 지우려는 강요된 유쾌함이 빚어내는 기괴한 긴장감이 현장을 지배한다.",
-  "transfer": "사고 현장의 무관심과 극적인 구조적 연대를 교차 편집하여, 도시의 익명성이 어떻게 개인의 윤리적 결단으로 전환되는지 그 찰나의 동선을 설계하라.",
-  "context": "메트로폴리탄 미술관은 1870년 설립 이후 뉴욕 미술계의 중심지로 자리 잡았으나, 최근에는 기관의 공공성과 기부자 윤리에 대한 비판이 거세다. 현대 미술관은 1929년 설립 이래 유럽 모더니즘의 성지로 기능했으나, 레온 블랙과 같은 인물의 이사회 참여는 기관의 도덕적 정당성을 묻는 지속적인 논란의 대상이다.",
+ "archdaily.com/1187993/amares-cel-ras-arquitectura": {
+  "title_ko": "대서양과 열대 숲 사이에 자리한 호텔 아마레스",
+  "summary_ko": "셀라스 아르키텍투라(Cel-Ras Arquitectura)가 도미니카 공화국 사마나 반도의 플라야 엘 에스틸레로 해변에 호텔 아마레스를 완공했다. 대서양과 코코넛 야자수, 열대 숲 사이에 위치한 이 대지는 대규모 관광 개발에서 벗어난 자연 그대로의 해안 환경을 품고 있다.",
+  "lens": "개발되지 않은 해안의 지형을 거스르지 않고 자연의 경계에 안착한다.",
+  "why_now": "대규모 리조트 개발이 해안 생태계를 잠식하는 시대에, 원시 자연의 지형을 그대로 보존하는 방식의 환대 건축이 요구된다.",
+  "mechanism": "1만 4천 제곱미터가 넘는 부지 위에서 대서양의 바다와 열대 숲 사이의 완충 지대를 찾아 건물을 배치했다.",
+  "sensory": "거친 대서양의 파도 소리와 빽빽한 코코넛 야자수 숲이 만드는 깊은 그늘이 공존한다.",
+  "transfer": "자연 지형과 인공 건축물이 만나는 경계면에 벽체 대신 식생과 모래사장을 두는 로케이션 콘티에 적용한다.",
+  "context": "셀라스 아르키텍투라가 도미니카 공화국 사마나 반도 북부 해안의 자연 지형을 존중하며 진행한 환대 건축 프로젝트다.",
+  "findings": [],
+  "keywords": [
+   "호텔아마레스",
+   "셀라스아르키텍투라",
+   "도미니카공화국",
+   "해변건축",
+   "환대건축"
+  ],
+  "evidence": "Amares stands on a 14,152 m² beachfront site on Playa El Estillero, near El Limón, on the northern coast of the Samaná Peninsula in the Dominican Republic.",
+  "kind": "프로젝트",
+  "depth": 2,
+  "grounding": "thin",
+  "depth_reason": "원문 설명이 장소 소개와 기본 면적 위주로만 구성되어 있어 구체적인 설계 기법을 파악하기 어렵다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1187993/amares-cel-ras-arquitectura",
+  "original_title": "Hotel Amares / Cel-Ras Arquitectura",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 1098,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-04 13:26",
+  "research": {
+   "entities": [
+    "Cel-Ras Arquitectura",
+    "Hotel Amares",
+    "Playa El Estillero",
+    "Samaná Peninsula"
+   ],
+   "questions": [
+    "Cel-Ras Arquitectura가 Hotel Amares 설계에서 지속가능성을 구현하기 위해 적용한 구체적인 건축적 전략은 무엇인가?",
+    "도미니카 공화국의 자연환경을 보존하면서 대규모 관광 개발과 차별화된 호텔 디자인을 완성하기 위해 어떤 설계 원칙이 고려되었는가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "stashmedia.tv/alt-western-buck-opens-bass-x-machina-on-netflix": {
+  "title_ko": "스팀펑크와 선전 포스터의 충돌: 베이스 X 마키나 타이틀 시퀀스",
+  "summary_ko": "넷플릭스 애니메이션 베이스 X 마키나는 실존 인물 배스 리브스를 사이보그 보안관으로 재해석한 스팀펑크 웨스턴이다. 디자인 스튜디오 벅(BUCK)은 오프닝 시퀀스에서 선전 포스터의 그래픽 실루엣과 적·백·청의 제한된 색채를 사용해 주인공의 파편화된 정체성과 미국적 상징을 시각화했다.",
+  "lens": "선전 포스터의 경직된 그래픽과 스팀펑크의 기계적 무질서를 충돌시켜, 영웅이자 도망자라는 주인공의 모순적 내면을 시각적 불협화음으로 구현했다.",
+  "why_now": "역사적 인물의 서사를 장르적 변주로 해체할 때, 고전적 그래픽 언어를 현대적 모션 기법으로 재조합하는 방식은 서사의 밀도를 높이는 유효한 전략이다.",
+  "mechanism": "적·백·청의 제한된 색상 팔레트와 대담한 그래픽 실루엣을 결합해 역사적 사실과 악몽 같은 환상을 교차시킨다. 정지된 포스터의 조형성을 모션으로 확장하여 주인공의 심리적 불안을 강조했다.",
+  "sensory": "강렬한 대비를 이루는 삼색의 색채와 기계 부품이 얽힌 실루엣이 교차하며, 차갑고 건조한 금속성 질감과 불안한 리듬감이 화면을 지배한다.",
+  "transfer": "콘티 작업 시 흑백 혹은 제한된 삼색 팔레트를 사용해 인물의 심리적 파편을 강조하라. 정적인 그래픽 소스를 레이어링하여 인물의 과거와 현재가 겹치는 몽환적 연출을 시도할 수 있다.",
+  "context": "본 작품은 리션 토마스가 창작하고 한국의 스튜디오 미르가 애니메이션을 제작했다. 벅은 2004년 설립된 크리에이티브 스튜디오로, 이번 작업에서 로고 디자인부터 오프닝 시퀀스까지 시각적 언어를 통합적으로 설계했다.",
   "findings": [
    {
-    "text": "메트로폴리탄 미술관은 1870년 설립되었으며 현재 17개의 큐레이터 부서로 나뉘어 운영된다.",
+    "text": "벅은 2004년 제프 엘러마이어, 라이언 허니, 오리온 테이트가 설립한 디자인 및 제작사다.",
     "s": 1,
-    "quote": "The Metropolitan Museum of Art was founded in 1870. The collection is divided into 17 curatorial departments."
+    "quote": "Buck (stylized in all caps) is an American creative design and production company founded in 2004 by Jeff Ellermeyer, Ryan Honey, and Orion Tait."
    },
    {
-    "text": "현대 미술관은 1939년 현재의 53번가 위치로 이전하였으며 건축가 필립 L. 굿윈과 에드워드 듀렐 스톤이 설계했다.",
+    "text": "서울에 본사를 둔 스튜디오 미르는 다수의 미국 애니메이션 시리즈를 제작해온 스튜디오다.",
     "s": 2,
-    "quote": "In 1939, the museum moved to its current location on West 53rd Street designed by architects Philip L. Goodwin and Edward Durell Stone."
+    "quote": "Studio Mir Co., Ltd. (Korean: 주식회사 스튜디오 미르; RR: Jusikhoesa Seutyudio Mireu) is a South Korean animation studio based in Seoul."
    }
   ],
   "keywords": [
-   "도시 냉소",
-   "기관 윤리",
+   "스팀펑크",
+   "모션그래픽",
+   "그래픽실루엣",
+   "배스리브스",
+   "타이틀시퀀스"
+  ],
+  "evidence": "The visual style paired propaganda poster art with bold graphic silhouettes. A restricted red, white, and blue palette captured symbols of America and Bass’ fractured sense of belonging.",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "스팀펑크 장르와 선전 포스터 기법의 조형적 결합 방식을 구체적으로 분석하여 연출적 적용점을 명확히 제시했다.",
+  "v": 2,
+  "url": "https://www.stashmedia.tv/alt-western-buck-opens-bass-x-machina-on-netflix/",
+  "original_title": "Alt Western: Buck Opens Bass X Machina on Netflix",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 3601,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-04 13:26",
+  "research": {
+   "entities": [
+    "BUCK",
+    "Studio Mir",
+    "LeSean Thomas",
+    "Bass Reeves",
+    "Bass X Machina"
+   ],
+   "questions": [
+    "Bass X Machina의 오프닝 타이틀 시퀀스에서 사용된 선전 포스터 스타일과 색채가 작품의 주제 의식을 어떻게 시각적으로 표현하고 있나요?",
+    "실존 인물인 배스 리브스의 역사를 스팀펑크 장르와 결합하여 재해석할 때 어떤 서사적 장치들이 활용되었나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Buck (design company)",
+     "url": "https://en.wikipedia.org/wiki/Buck%20%28design%20company%29"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Studio Mir",
+     "url": "https://en.wikipedia.org/wiki/Studio%20Mir"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "세네갈 다카르, 버려진 건물을 이탈리아 비즈니스 거점으로 재활용하다",
+     "url": "https://www.archdaily.com/1186426/ita-italian-trade-agency-dakar-most-monti-studio"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "미라도르 데 그라시아: 도시와 자연을 잇는 시니어 거주 공동체의 인테리어",
+     "url": "https://www.archdaily.com/1186767/mirador-de-gracia-miriam-castells"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 1362
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "hyperallergic.com/haunted-ride-on-the-3-train": {
+  "title_ko": "지하철의 정적과 할로윈의 가면, 뉴욕의 냉소적 일상을 관통하는 시선",
+  "summary_ko": "할로윈 밤, 뉴욕 지하철 3호선이 사고로 멈추자 코스튬을 입은 승객들은 무관심과 짜증으로 응대한다. 그러나 응급 상황이 발생하자 승객들은 즉각적으로 협력하며 숨겨진 연대감을 드러낸다. 이는 화려한 문화 예술계의 이면과 그 안에서 자본과 결탁한 기관에 저항하는 시민들의 움직임과 겹쳐진다.",
+  "lens": "사고로 멈춘 지하철이라는 폐쇄된 공간에서 드러나는 타인에 대한 무관심과 돌발적인 연대, 그 이중적 심리를 포착한다.",
+  "why_now": "예술 기관이 자본의 권력 구조와 맺는 유착 관계가 대중의 감시와 저항에 직면하며, 기관의 윤리적 책임이 어느 때보다 엄격히 요구된다.",
+  "mechanism": "지하철 터널이라는 폐쇄된 물리적 환경이 승객들의 가면 뒤에 숨겨진 냉소적 본성을 드러내고, 위기 상황에서의 즉각적인 대응이 그 가면을 해체하는 장치로 작동한다.",
+  "sensory": "어둠이 깔린 지하 50피트 터널 속 멈춘 열차의 적막, 코스튬의 비정형적 질감과 응급 상황에서 오가는 다급한 호흡이 대비된다.",
+  "transfer": "군중 신 촬영 시, 인물의 표정을 고정하기보다 외부적 사건(사고, 정전)에 반응하는 신체적 긴장과 이후의 급격한 태도 변화를 교차 편집하여 도시적 소외를 시각화한다.",
+  "context": "메트로폴리탄 미술관(The Met)과 현대미술관(MoMA)은 뉴욕의 권위 있는 예술 기관이나, 최근 자본과의 유착 및 권력 구조에 대한 비판적 목소리가 예술가와 활동가들을 중심으로 거세지고 있다. RE:COLLECTION은 과거 모건 라이브러리의 타로 전시를 통해 시각 매체가 권력 체계에 저항하는 도구로 활용되는 양상을 다룬 바 있다.",
+  "findings": [
+   {
+    "text": "메트로폴리탄 미술관은 1870년에 설립되었으며 17개의 큐레이터 부서로 구성된 미국 최대 규모의 예술 박물관이다.",
+    "s": 1,
+    "quote": "The Metropolitan Museum of Art, colloquially referred to as the Met, is an encyclopedic art museum in New York City. The collection is divided into 17 curatorial departments."
+   },
+   {
+    "text": "현대미술관은 1929년 애비 올드리치 록펠러를 포함한 창립자들에 의해 설립되었으며, 현재 20만 점 이상의 현대 예술 작품을 소장하고 있다.",
+    "s": 2,
+    "quote": "The institution was conceived in 1929 by Abby Aldrich Rockefeller, Lillie P. Bliss, and Mary Quinn Sullivan. MoMA's collection spans the late 19th century to the present, and includes over 200,000 works."
+   }
+  ],
+  "keywords": [
+   "뉴욕 지하철",
+   "도시 냉소주의",
    "사회적 연대",
-   "현대 미술관",
-   "권력 구조"
+   "기관 비판",
+   "할로윈"
   ],
   "evidence": "The city’s collective jadedness with the inconvenience of fatality culminated in a veneer of forced levity to hide an ugly, unsympathetic frustration.",
   "kind": "뉴스·이슈",
   "depth": 3,
-  "grounding": "full",
-  "depth_reason": "도시적 일상과 예술 기관의 정치적 책임을 연결했으나, 구체적인 작업물보다는 현상에 대한 비평적 서술에 집중되어 있다.",
+  "grounding": "partial",
+  "depth_reason": "도시의 사회적 단면과 기관 비판을 연결했으나, 구체적인 예술적 기법보다는 사회 비평적 관점에 치중되어 있다.",
   "v": 2,
   "url": "https://hyperallergic.com/haunted-ride-on-the-3-train/",
   "original_title": "Haunted Ride on the 3 Train",
@@ -260911,18 +261047,18 @@
   "source_chars": 7996,
   "fetch": "ok",
   "cliche_hits": [],
-  "read_at": "2026-11-04 12:32",
+  "read_at": "2026-11-04 13:26",
   "research": {
    "entities": [
-    "Metropolitan Museum of Art",
-    "Museum of Modern Art",
-    "Leon Black",
+    "The Met",
     "Claire Valdez",
-    "Danielle Bensky"
+    "Danielle Bensky",
+    "Museum of Modern Art",
+    "Leon Black"
    ],
    "questions": [
-    "뉴욕 지하철 내 사고와 같은 비극적 상황에서 나타나는 도시인의 무관심과 집단적 냉소주의는 어떤 사회적 맥락을 반영하는가?",
-    "예술 기관의 이사회 구성과 기부자 윤리 문제는 현대 미술관의 공공성과 책임성에 어떤 영향을 미치는가?"
+    "뉴욕 지하철 사고와 할로윈 파티 풍경을 통해 글쓴이가 비판하고자 한 도시의 냉소주의와 사회적 고립의 본질은 무엇인가?",
+    "문화예술 기관과 자본의 유착 관계(예: MoMA와 레온 블랙)에 대한 운동가들의 비판은 실제 제도적 변화로 이어지고 있는가?"
    ],
    "sources": [
     {
@@ -260958,9 +261094,10 @@
    ],
    "used": [
     1,
-    2
+    2,
+    5
    ],
-   "chars": 3668
+   "chars": 3649
   },
   "depth_raw": 3,
   "depth_v": 2
