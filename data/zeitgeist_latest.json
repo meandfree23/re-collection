@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-04 16:41 KST",
+  "generated_at": "2026-11-04 19:16 KST",
   "period": "2026.10.28 - 2026.11.04",
-  "total_articles": 388,
+  "total_articles": 393,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 193
+      "count": 194
     },
     {
       "genre": "동시대 미술",
-      "count": 142
+      "count": 146
     },
     {
       "genre": "아방가르드 패션",
@@ -23,10 +23,16 @@
   "themes": [
     {
       "keyword": "가구 디자인",
-      "count": 16,
+      "count": 17,
       "previous_count": 8,
       "trend": "rising",
       "items": [
+        {
+          "title": "AI 기반 다도와 와시 종이 가구로 도쿄로 돌아온 ALTER DESIGN 전시회",
+          "url": "https://www.dezeen.com/2026/11/04/alter-design-exhibition-tokyo/",
+          "image_url": "https://static-2026.dezeen.com/uploads/2026/11/sq-ater-designart-tokyo-2026_dezeen_2364_col_0-1024x1024.jpg",
+          "source_name": "Dezeen"
+        },
         {
           "title": "건축가로서의 가구: 리빙 엣지 (Living Edge) 에서 현대적인 생활을 한 세기에 걸친 놀 (Knoll) 의 컬렉션.",
           "url": "https://www.yellowtrace.com.au/living-edge-knoll-collection-furniture-as-architecture/",
@@ -44,12 +50,6 @@
           "url": "https://www.archdaily.com/1026761/buriti-apartment-pont",
           "image_url": "https://images.adsttc.com/media/images/67aa/7fcf/ea72/f101/8803/419d/large_jpg/apartamento-buriti-coarquitetos_24.jpg?1739227097",
           "source_name": "ArchDaily"
-        },
-        {
-          "title": "이 그림처럼 완벽한 교외 주방은 최대 저장 공간, 스마트 가전 제품 및 맞춤형 가구를 위한 논쟁입니다.",
-          "url": "https://www.architecturaldigest.com/story/mason-and-brass-smart-family-kitchen",
-          "image_url": "https://media.architecturaldigest.com/photos/6ae5e7965467833382fc7c74/master/pass/mason-and-brass-fall-2026-hires-19.jpg",
-          "source_name": "Architectural Digest"
         }
       ]
     },
@@ -183,10 +183,16 @@
     },
     {
       "keyword": "박물관·전시",
-      "count": 26,
+      "count": 27,
       "previous_count": 36,
       "trend": "falling",
       "items": [
+        {
+          "title": "AI 기반 다도와 와시 종이 가구로 도쿄로 돌아온 ALTER DESIGN 전시회",
+          "url": "https://www.dezeen.com/2026/11/04/alter-design-exhibition-tokyo/",
+          "image_url": "https://static-2026.dezeen.com/uploads/2026/11/sq-ater-designart-tokyo-2026_dezeen_2364_col_0-1024x1024.jpg",
+          "source_name": "Dezeen"
+        },
         {
           "title": "살아있는 아카이브로서의 전시: 1950년대 아랍에미리트의 바그다드 모던 아트 그룹 투데이",
           "url": "https://hyperallergic.com/exhibition-as-living-archive-the-1950s-baghdad-modern-art-group-in-the-uae-today/",
@@ -204,12 +210,6 @@
           "url": "https://www.dezeen.com/2026/11/03/batek-architekten-hey-orthodontic-clinic/",
           "image_url": "https://static-2026.dezeen.com/uploads/2026/10/hey-batek-architekten-orthodontists_dezeen_2364_sq_0-1024x1024.jpg",
           "source_name": "Dezeen"
-        },
-        {
-          "title": "프랑스 갤러리들은 아트 바젤 파리를 \"무례함, 심지어 경멸\" 이라고 비난합니다.",
-          "url": "https://hyperallergic.com/french-galleries-accuse-art-basel-paris-of-disrespect-even-contempt/",
-          "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/11/GettyImages-2301366203.jpg",
-          "source_name": "Hyperallergic"
         }
       ]
     }

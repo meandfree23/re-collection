@@ -261265,5 +261265,426 @@
   },
   "depth_raw": 4,
   "depth_v": 2
+ },
+ "creativeboom.com/news/film-is-breaking-out-of-its-box-and-this-cathedral-tour-is-showing-the-way": {
+  "title_ko": "대성당과 오케스트라가 확장하는 스노우맨의 시간",
+  "summary_ko": "캐럿 프로덕션이 레이먼드 브릭스의 고전 애니메이션 스노우맨을 리버풀과 더럼 등 네 곳의 대성당을 포함한 14개 장소에서 라이브 오케스트라 연주와 함께 상영한다. 대사가 없는 원작의 특성을 살려 오케스트라 선율이 서사를 이끌며 지역 합창단과 수어 통역이 함께하는 관객 참여형 무대로 확장된다.",
+  "lens": "완성된 결과물을 박제하는 대신 공간과 사운드를 덧입혀 생명을 연장한다.",
+  "why_now": "안방 스트리밍과 멀티플렉스 관람의 경계가 무너진 시대에 극장 밖 비전통적 공간이 지닌 물리적 현장성이 관객을 불러 모으는 대안적 무대가 된다.",
+  "mechanism": "하워드 블레이크의 악보를 라이브 오케스트라가 실시간으로 연주하고 화면 아래로 수어와 가사를 대형 스크린에 띄워 시청각적 몰입을 극대화한다.",
+  "sensory": "높은 아치형 천장을 지닌 거대한 대성당 공간에 울려 퍼지는 오케스트라의 웅장한 잔향과 지역 소년소녀 합창단의 목소리가 신체적 감각을 일깨운다.",
+  "transfer": "공간 연출 콘티에서 전통적인 화이트 큐브나 스크린 상영관을 벗어나 종교 건축이나 산업 유산의 거대한 음향 반사 구조를 활용해 몰입감을 설계한다.",
+  "context": "레이먼드 브릭스의 원작 그림책을 바탕으로 한 스노우맨 애니메이션은 매년 크리스마스 시즌마다 방영되어 영국 문화의 고정 자산으로 자리 잡았다.",
+  "findings": [
+   {
+    "text": "레이먼드 브릭스는 대사 없는 이야기 구조의 스노우맨을 비롯해 영국 도서관협회로부터 케이트 그린어웨이 메달을 수상한 일러스트레이터이자 작가이다.",
+    "s": 2,
+    "quote": "Raymond Redvers Briggs (18 January 1934 – 9 August 2022) was an English illustrator, cartoonist, graphic novelist and author."
+   }
+  ],
+  "keywords": [
+   "라이브오케스트라",
+   "공간확장",
+   "대성당상영",
+   "물리적현장성"
+  ],
+  "evidence": "Forty-four years after it first aired, The Snowman is touring with an orchestra, including shows in four cathedrals.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "고전 콘텐츠가 라이브 오케스트라와 비전통적 공간을 만나 확장되는 방식을 구체적으로 보여준다.",
+  "v": 2,
+  "url": "https://www.creativeboom.com/news/film-is-breaking-out-of-its-box-and-this-cathedral-tour-is-showing-the-way/",
+  "original_title": "Film is breaking out of its box, and this orchestral tour is showing the way",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 7766,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-04 19:17",
+  "research": {
+   "entities": [
+    "The Snowman",
+    "Raymond Briggs",
+    "Carrot Productions",
+    "Shaun the Sheep",
+    "Aardman"
+   ],
+   "questions": [
+    "카테드랄 같은 비전통적 공간에서의 영화 상영과 라이브 오케스트라 결합이 관객에게 주는 문화적 경험의 차별점은 무엇인가?",
+    "집에서도 손쉽게 콘텐츠를 소비할 수 있는 시대에 오케스트라 라이브 공연형 영화 상영이 인기를끄는 배경은 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Films with Live Orchestra, Music Hire, Snowman Wallace & Gromit, Pride | Carrot Production",
+     "url": "https://www.carrotproductions.com/"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Raymond Briggs",
+     "url": "https://en.wikipedia.org/wiki/Raymond%20Briggs"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Shaun the Sheep",
+     "url": "https://en.wikipedia.org/wiki/Shaun%20the%20Sheep"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "창의적 의무감에서 벗어나기: 번아웃을 방지하는 창작 리듬의 기술",
+     "url": "https://www.itsnicethat.com/articles/creative-career-condundrums-if-you-could-jobs-advice-121026"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 2821
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "wallpaper.com/travel/restaurants/lunette-florence-knight-london-review": {
+  "title_ko": "런던 템플 가든스 위에 세워진 미식의 로프트, 루네트",
+  "summary_ko": "셰프 플로렌스 나이트가 런던의 세인트 클레멘트 호텔 11층에 첫 단독 레스토랑 루네트를 열었다. 이글 앤 호지스가 디자인한 오프화이트 톤의 실내와 장 프루베의 인사 패널, 데본 턴불의 사운드 시스템을 결합해 큐레이팅된 아파트 같은 공간을 완성했다. 정교하고 자연주의적인 요리와 시각적 물성이 어우러진다.",
+  "lens": "음식과 공간을 가르는 경계를 지우고, 철제와 종이의 물성으로 채운 미식의 거실.",
+  "why_now": "디자이너와 셰프의 경계가 희미해진 시대에 공간, 소리, 기물이 요리의 맛과 하나의 언어로 묶이는 총체적 미식을 보여준다.",
+  "mechanism": "장 프루베의 금속 패널과 투명한 양파 껍질 같은 커튼이 빛을 걸러내고, 강철 테이블과 도자 기물이 단단함과 부드러움의 대비를 만든다.",
+  "sensory": "이른 가을의 자연광이 오프화이트 팔레트와 엷은 목재 위로 스며들고, 데본 턴불이 설계한 스피커에서 흘러나오는 소리가 공간을 부드럽게 감싼다.",
+  "transfer": "공간 촬영이나 미식 콘티에서 차가운 스틸 테이블과 투명한 패브릭 커튼을 배치해 빛의 반사와 투과를 동시에 담아내는 앵글을 짠다.",
+  "context": "세션스 아츠 클럽을 떠난 셰프 플로렌스 나이트가 이글 앤 호지스와 손잡고 만든 첫 단독 프로젝트다.",
+  "findings": [
+   {
+    "text": "플로렌스 나이트는 영국 셰프이자 신문 칼럼니스트로 런던의 레스토랑 폴페토에서의 작업으로 가장 잘 알려져 있다.",
+    "s": 1,
+    "quote": "Florence Knight is a British chef and newspaper columnist, best known for her work at the restaurant Polpetto in London."
+   },
+   {
+    "text": "르 코르뷔지에능 장 프루베를 건축과 엔지니어링을 혼합한 콩스트뤼크퇴르로 지정했다.",
+    "s": 2,
+    "quote": "Le Corbusier designated Prouvé a constructeur, blending architecture and engineering."
+   }
+  ],
+  "keywords": [
+   "루네트",
+   "플로렌스나이트",
+   "장프루베",
+   "이글앤호지스",
+   "미식공간"
+  ],
+  "evidence": "Flooded with early autumn light, its off-white palette, swathes of pale wood, steel tabletops, artist monographs artfully arranged on a coffee table and an abundance of Jean Prouvé’s modernist ‘INSA’ panels lining the walls make it resemble a curated loft apartment as much as a dining room.",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "구체적인 공간과 요리 철학이 잘 드러나 있으나 브랜드 협업 중심의 인테리어 프로젝트라는 선례가 뚜렷하다.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/travel/restaurants/lunette-florence-knight-london-review",
+  "original_title": "At Lunette, Florence Knight brings an artist’s eye to the table",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 5836,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-04 19:17",
+  "research": {
+   "entities": [
+    "Florence Knight",
+    "Lunette",
+    "Sessions Arts Club",
+    "Eagle + Hodges",
+    "Jean Prouvé"
+   ],
+   "questions": [
+    "플로렌스 나이트(Florence Knight)가 새롭게 오픈한 레스토랑 루네트(Lunette)의 인테리어와 요리 철학은 이전의 세션스 아츠 클럽(Sessions Arts Club)과 어떻게 다른가?",
+    "이글 + 호지스(Eagle + Hodges)와 데본 턴불(Devon Turnbull) 등 협업 아티스트들이 루네트의 공간 완성도에 기여한 구체적인 방식은 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Florence Knight",
+     "url": "https://en.wikipedia.org/wiki/Florence%20Knight"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Jean Prouvé",
+     "url": "https://en.wikipedia.org/wiki/Jean%20Prouv%C3%A9"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "로즈 유니악이 구현한 런던 아파트, 시대를 가로지르는 물성의 대화",
+     "url": "https://www.wallpaper.com/design-interiors/interior-design/rose-uniacke-west-london-apartment"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "유리, 철, 그리고 기억의 공간: 도예가 선샤인 태커의 허드슨 밸리 집",
+     "url": "https://www.architecturaldigest.com/story/artist-sunshine-thacker-builds-her-dream-house-in-the-woods"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "장 프루베의 조립식 집, 리비에라의 올리브 나무 아래로 돌아오다",
+     "url": "https://www.wallpaper.com/travel/you-can-now-stay-in-this-restored-jean-prouve-house-on-the-french-riviera"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3,
+    5
+   ],
+   "chars": 1523
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "creativeboom.com/inspiration/burger-trees-spying-fruit-and-flying-taxis-discover-the-digital-clay-world-of-daniel-jurman": {
+  "title_ko": "디지털 점토로 빚어낸 1990년대 MTV의 초현실적 질감",
+  "summary_ko": "뉴욕의 일러스트레이터 다니엘 주르만이 1990년대 MTV의 기묘한 애니메이션 범퍼에서 영감을 받아 제작한 7편의 미니 애니메이션을 공개했다. 운동화를 신은 냉장고가 러닝머신을 뛰거나 버거가 나무에서 열리는 등 디지털 픽셀로 스톱모션의 수제 질감을 구현했다.",
+  "lens": "매끄러운 CG의 광택을 거부하고 손으로 빚은 듯한 투박한 질감으로 디지털 화면에 물성의 무게를 되살린다.",
+  "why_now": "지나친 디지털 그래픽의 매끄러움에 피로감을 느낀 크리에이터들이 1990년대 매체 고유의 노이즈와 아날로그적 감각을 재해석하는 흐름 속에 있다.",
+  "mechanism": "디지털 점토를 활용해 덩어리와 주름을 의도적으로 남기는 방식으로 픽셀 환경에서도 손으로 반죽한 듯한 착시를 유발한다.",
+  "sensory": "화면 속 사물들이 손으로 짓이긴 듯한 투박한 표면감과 짧은 순간에 밀도 높게 전개되는 초현실적 움직임이 시각적 자극을 만든다.",
+  "transfer": "광고나 영상 콘티에서 매끄러운 3D 그래픽 대신 의도적인 표면 요철과 덩어리감을 강조하는 질감 연출 소스로 활용한다.",
+  "context": "다니엘 주르만은 뉴욕에서 그래픽 디자인을 전공한 뒤 팬데믹 기간 일러스트레이션으로 전향해 애플, 뉴욕타임스 등과 협업해왔으며, 크리에이티브 리뷰는 그의 작업 방식을 테크노스탤지어로 명명했다.",
+  "findings": [],
+  "keywords": [
+   "디지털점토",
+   "스톱모션",
+   "모션그래픽",
+   "테크노스탤지어"
+  ],
+  "evidence": "Using something akin to digital clay, everything looks as if it's been pinched into shape by hand, with lumps and creases left in.",
+  "kind": "영상·필름",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "1990년대 MTV 감성을 디지털 점토로 재해석하는 작업의 미학적 특징과 사례를 충분히 전달한다.",
+  "v": 2,
+  "url": "https://www.creativeboom.com/inspiration/burger-trees-spying-fruit-and-flying-taxis-discover-the-digital-clay-world-of-daniel-jurman/",
+  "original_title": "Burger trees, spying fruit and flying taxis: the digital clay world of Daniel Jurman",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 6024,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-04 19:17",
+  "research": {
+   "entities": [
+    "Daniel Jurman",
+    "Apple",
+    "The New York Times",
+    "The New Yorker",
+    "The Economist"
+   ],
+   "questions": [
+    "다니엘 주르만(Daniel Jurman)이 디지털 작업으로 스톱모션 같은 질감을 구현하는 구체적인 3D 그래픽 기법은 무엇인가?",
+    "1990년대 MTV 애니메이션 범퍼가 현대 모션 그래픽 아티스트들에게 영감을 주는 미학적 특징은 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Apple Inc.",
+     "url": "https://en.wikipedia.org/wiki/Apple%20Inc."
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "The New York Times",
+     "url": "https://en.wikipedia.org/wiki/The%20New%20York%20Times"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "애플 아이폰 듀오, 접이식 스마트폰의 주류 진입을 견인할 것인가",
+     "url": "https://www.dezeen.com/2026/09/25/iphone-duo-folding-smartphones-washington-triumphal-arch-dezeen-weekly/"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "애플, 런던 배터시 발전소에 600석 규모 음악 공연장 조성",
+     "url": "https://www.dezeen.com/2026/09/23/apple-music-hall-battersea-power-station/"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "세라믹의 물성을 세 번 구워 완성한 애플 워치 시리즈 12",
+     "url": "https://coolhunting.com/tech/apple-watch-series-12-returns-to-ceramic-fired-three-times-over/"
+    }
+   ],
+   "used": [],
+   "chars": 3531
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "dezeen.com/2026/11/04/alter-design-exhibition-tokyo": {
+  "title_ko": "도쿄 디자인 전람회 알터, 인공지능 다도와 와시 종이 가구로 획일성에 균열을 내다",
+  "summary_ko": "도쿄 중심부에서 제2회 신진 디자이너 전시회 알터(Alter)가 개막했다. 전시는 전 세계 75명의 젊은 크리에이터가 참여해 일본 삼나무 통나무 전체를 활용한 스툴, 와시 종이를 엮은 가구, 인공지능이 세계 환경 데이터를 기반으로 형상화한 그릇을 통한 다도 등을 선보인다.",
+  "lens": "단순한 기교를 넘어 재료의 물성과 지역적 생태계의 불균형을 전시장 안으로 곧바로 끌어들인다.",
+  "why_now": "세계적으로 고착화된 디자인 유통 구조와 획일화된 생산 방식을 거부하며, 지역 공예의 원천적 가치와 물성으로 회귀하는 동시대 크리에이터들의 태도를 보여준다.",
+  "mechanism": "세계 각지의 환경 센서 데이터를 인공지능 알고리즘이 유기적인 형태로 변환하고 이를 블로우 몰딩 기법으로 성형해 관람객이 직접 사용하는 차 도구를 만든다.",
+  "sensory": "표면의 광택과 질감이 극대화된 라커 가구, 폐를 닮은 폴리우레탄 램프의 은은한 빛, 그리고 삼나무 통나무의 나이테가 거대한 기둥 형태로 시각적 압박감을 준다.",
+  "transfer": "공간 연출에서 삼나무 디스크나 와시 종이 섬유처럼 버려지는 부산물의 단면을 거대한 토템 기둥으로 쌓아 올리는 질감 중심의 미장센 콘티로 활용한다.",
+  "context": "도쿄에서 개최되는 디자인아트 도쿄(Designart Tokyo)의 일환으로 열린 이번 전시는 획일화된 도시 디자인 시장에 대안을 제시하기 위해 기획된 실험적 플랫폼이다.",
+  "findings": [],
+  "keywords": [
+   "알터",
+   "디자인아트도쿄",
+   "와시종이",
+   "삼나무스툴",
+   "인공지능다도"
+  ],
+  "evidence": "The second edition of young designers’ exhibition Alter has opened in central Tokyo, featuring a glowing lung-like lamp and Japanese cedar stools made from every part of the log.",
+  "kind": "전시",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "신진 디자이너들의 구체적인 물성 실험과 지역 산업의 구조적 문제를 다룬 실질적인 작업들이 명확하게 드러난다.",
+  "v": 2,
+  "url": "https://www.dezeen.com/2026/11/04/alter-design-exhibition-tokyo/",
+  "original_title": "Alter design exhibition returns to Tokyo with AI-powered tea ceremony and washi paper furniture",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 4533,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-04 19:17",
+  "research": {
+   "entities": [
+    "Audrey Large",
+    "Tim Teven",
+    "Yuma Kano",
+    "Designart Tokyo",
+    "Pan Projects"
+   ],
+   "questions": [
+    "도쿄에서 열린 Alter 디자인 전에 참가한 신진 디자이너들은 제품 디자인의 어떤 고질적인 문제에 도전하고 있는가?",
+    "타리키 연구소가 선보인 AI 기반의 '주인 없는 차 다도' 프로젝트는 전통적인 다도를 어떻게 현대적으로 재해석했는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "alter. | alter.は、次世代を担う多様な領域のクリエイターによるプロトタイピングやコラボレーションを促進し、オルタナティブなプロダクトデザインのあり方を提示する実験的な",
+     "url": "https://altertokyo.com/2026/en/"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Designart Tokyo",
+     "url": "https://www.designart.jp/"
+    },
+    {
+     "n": 3,
+     "type": "공식·1차",
+     "title": "NOU｜狩野佑真",
+     "url": "https://yumakano.com/"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 3631
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "wallpaper.com/design-interiors/the-new-palace-flagship-in-london-is-a-cathedral-to-skate-culture": {
+  "title_ko": "런던 소호의 성전, 스케이트 문화로 지어 올린 팰리스 플래그십",
+  "summary_ko": "런던 소호에 문을 연 스케이트웨어 브랜드 팰리스의 새로운 플래그십 스토어는 아시아 외 지역에서 처음으로 2개 층으로 구성된 매장이다. 서울 기반의 디자이너 스티브 오가 공간을 설계했으며, 브리티시 박물관의 대형 홀 구조를 차용해 브랜드의 역사와 아카이브를 순차적으로 펼쳐 보인다.",
+  "lens": "상업 공간을 박물관의 열린 동선으로 번역해 하위문화를 공공의 성전으로 격상시킨다.",
+  "why_now": "디지털 피로도가 극에 달한 시점에서 하위문화가 지닌 물리적 아카이브와 장소 특정적 물성이 오프라인 리테일의 새로운 생존 전략으로 부상하고 있다.",
+  "mechanism": "공간을 뮤지엄의 앙필라드 구조처럼 연결된 방들로 분할하고, 브러시드 스테인리스와 화이트 대리석 사이에 스코틀랜드 스튜디오 파빌리온 파빌리온이 제작한 스테인드글라스 패널을 배치해 성스러운 분위기를 조성했다.",
+  "sensory": "상층부의 쪽모이 세공 마루와 거친 콘크리트의 대비, 롤스로이스 그릴과 엘리자베스 2세의 초상화가 자아내는 기묘한 위엄이 공간을 채운다.",
+  "transfer": "공간의 시퀀스를 설계할 때 박물관의 열린 복도 구조를 차용해 관람객이 동선을 따라 자연스럽게 아카이브를 마주하도록 세팅한다.",
+  "context": "팔라스 스케이트보드는 2009년 런던 사우스뱅크에서 스케이트를 타던 레브 탄주와 가레스 스큐이스가 설립한 브랜드로, 런던 브루어 스트리트의 첫 매장을 시작으로 전 세계에 플래그십을 확장해 왔다. 공간을 설계한 스티브 오(Steve Oh)는 아시아 지역의 팰리스 매장들을 도맡아 왔으며, 이번 소호 점은 그의 첫 유럽 프로젝트다.",
+  "findings": [
+   {
+    "text": "Palace Skateboards is a London-based skateboard brand established in 2009.",
+    "s": 1,
+    "quote": "Palace Skateboards (or simply Palace) is a London-based skateboard brand established in 2009."
+   },
+   {
+    "text": "Fergus Purcell created the Penrose triangle Tri-Ferg logo for Palace Skateboards.",
+    "s": 2,
+    "quote": "He created the Penrose triangle \"Tri-Ferg\" logo for Palace Skateboards"
+   }
+  ],
+  "keywords": [
+   "팰리스",
+   "리테일디자인",
+   "공간설계",
+   "하위문화"
+  ],
+  "evidence": "Designed by Seoul-based designer Steve Oh, the new Palace skateboards flagship in London's Soho is a community-building space and an opportunity to display the history of the brand",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "구체적인 매장 설계와 역사적 오브제의 배치가 명확하지만 기존 스토어 확장의 연장선에 있다.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/design-interiors/the-new-palace-flagship-in-london-is-a-cathedral-to-skate-culture",
+  "original_title": "The new Palace flagship in London is a cathedral to skate culture",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 6111,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-04 19:17",
+  "research": {
+   "entities": [
+    "Palace Skateboards",
+    "Lev Tanju",
+    "Gareth Skewis",
+    "Fergus Purcell",
+    "Pavilion Pavilion"
+   ],
+   "questions": [
+    "팰리스 스케이트보드의 새로운 런던 플래그십 스토어 인테리어는 기존 매장들과 비교해 어떤 차별점을 가지는가?",
+    "디자이너 스티브 오(Steve Oh)는 런던 소호의 새로운 매장 공간을 기획하면서 영국의 어떤 문화적 요소를 차용했는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Palace Skateboards",
+     "url": "https://en.wikipedia.org/wiki/Palace%20Skateboards"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Fergus \"Fergadelic\" Purcell",
+     "url": "https://en.wikipedia.org/wiki/Fergus%20%22Fergadelic%22%20Purcell"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "에스 데블린의 16페이지 콘서티나 커버, 월페이퍼 30주년의 기록",
+     "url": "https://www.wallpaper.com/design-interiors/es-devlin-16-page-concertina-cover-for-october-2026-wallpaper"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "월페이퍼 30주년, 17인의 크리에이터가 빚어낸 케이크의 형상들",
+     "url": "https://www.wallpaper.com/art/wallpaper-30-birthday-cakes"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "스케이트보드와 축구 키트 사이: 디자이너 벤 드루리의 작업 세계",
+     "url": "https://www.wallpaper.com/design-interiors/visual-comms/ben-drury-interview-palace-creative-universe"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 2166
+  },
+  "depth_raw": 4,
+  "depth_v": 2
  }
 }
