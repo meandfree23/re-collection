@@ -266377,5 +266377,445 @@
   },
   "depth_raw": 3,
   "depth_v": 2
+ },
+ "archdaily.com/1187981/suria-library-javier-de-las-heras-sole": {
+  "title_ko": "수리아 도서관: 반복의 패턴으로 지은 시민 중심의 공공 공간",
+  "summary_ko": "하비에르 데 라스 헤라스 솔레가 스페인 바르셀로나에 완공한 수리아 도서관은 화려한 장식을 배제하고 반복과 패턴을 활용해 시민들이 자발적으로 점유할 수 있는 공공 장소를 제안한다. 기존의 물리적, 문화적, 역사적 요소를 존중하며 장소의 맥락에 통합되는 건축적 태도를 보여준다.",
+  "lens": "불필요한 조형적 수사를 걷어내고 반복된 구조물 자체를 공공의 도구로 만든다.",
+  "why_now": "기능 과잉의 건축에서 벗어나 시민의 행위와 일상을 수용하는 기본적이고 담백한 공간 구조의 가치가 대두되고 있다.",
+  "mechanism": "규칙적인 패턴과 반복적인 구조 시스템을 통해 공간의 위계를 없애고, 시민들이 자유롭게 머물고 모일 수 있는 평등한 장소를 형성한다.",
+  "sensory": "불필요한 시각적 소음을 지운 간결한 구조체 사이로 떨어지는 빛과 시민들의 소리가 겹치며 밀도 높은 공공의 고요함을 만든다.",
+  "transfer": "장면의 배경이 되는 공간 콘티에서 화려한 세트를 배제하고, 규칙적인 기둥과 반복되는 구조물의 배열만으로 인물의 동선에 긴장감을 부여한다.",
+  "context": "바르셀로나를 기반으로 활동하는 하비에르 데 라스 헤라스 솔레는 장소의 기존 물리적 유산과 문맥을 존중하며 불필요한 제스처를 최소화하는 공공 건축 작업을 전개해 왔다.",
+  "findings": [],
+  "keywords": [
+   "공공도서관",
+   "바르셀로나건축",
+   "시민공간",
+   "반복구조"
+  ],
+  "evidence": "Through repetition and pattern, this project proposes an architecture that eschews gratuitous gestures, one in which the focus is on the citizen and the ways in which they use the space.",
+  "kind": "프로젝트",
+  "depth": 2,
+  "grounding": "thin",
+  "depth_reason": "구체적인 도서관 프로젝트이나 원문 정보가 짧고 디자인의 세부 구조 수치가 부족하다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1187981/suria-library-javier-de-las-heras-sole",
+  "original_title": "Súria Library / Javier de las Heras Solé",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 1470,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-05 12:12",
+  "research": {
+   "entities": [
+    "Javier de las Heras Solé",
+    "José Hevia"
+   ],
+   "questions": [
+    "수리아 도서관(Súria Library) 프로젝트가 주변의 문화적, 물리적 유산과 어떻게 조화를 이루고 있는가?",
+    "건축가 Javier de las Heras Solé가 반복과 패턴을 통해 시민 중심의 공공 공간을 구현한 구체적인 방식은 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "페리스+토랄이 설계한 54세대 사회주택, 베르소스의 사회적 아트리움",
+     "url": "https://www.archdaily.com/1184012/social-atrium-54-social-housing-units-in-besos-peris-plus-torarquitectes"
+    },
+    {
+     "n": 2,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "시간의 궤적을 보존하는 방식: 라울 산체스의 라 카사 델 피라타",
+     "url": "https://www.yellowtrace.com.au/raul-sanchez-la-casa-del-pirata-mataro-heritage-renovation/"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "번개의 궤적을 실내로, 바르셀로나 렐람파고 하우스의 공간 구조",
+     "url": "https://www.archdaily.com/1010715/relampago-house-h3o-architects"
+    }
+   ],
+   "used": [],
+   "chars": 697
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "archdaily.com/1187924/the-work-of-keeping-a-public-building-public-the-drill-hall-in-johannesburg": {
+  "title_ko": "건축 이후의 삶: 요하네스버그 드릴 홀이 증명하는 공공성의 지속",
+  "summary_ko": "남아프리카공화국 요하네스버그 중심부에 위치한 드릴 홀(Drill Hall)은 완공 이후 시대적 요구에 따라 용도와 관리 주체가 끊임없이 변해온 공간이다. 이 건축물은 물리적 구조를 넘어, 그 안에서 이루어지는 활동과 사람들의 관계 맺기를 통해 공공 시설로서의 생명력을 유지하고 있다.",
+  "lens": "완공 이후의 건축은 설계 도면이 아니라 그 공간을 점유하고 운영하는 사람들의 협상과 활동으로 비로소 완성된다.",
+  "why_now": "건축물에 부여된 본래 목적이 시대 변화에 따라 퇴색할 때, 물리적 보존을 넘어 사회적 기능을 어떻게 재정의할 것인가에 대한 질문이 중요해졌다.",
+  "mechanism": "건물의 물리적 상태보다 내부에서 일어나는 문화적, 교육적 활동을 우선시하며 관리 주체와 사용자 간의 지속적인 협상을 통해 공간의 성격을 규정한다.",
+  "sensory": "오랜 시간 축적된 시간의 층위가 드러나는 거친 벽면과 그 사이를 채우는 사람들의 소음, 그리고 끊임없이 변화하는 빛의 동선이 공간의 물리적 무게를 만든다.",
+  "transfer": "공간 콘티 작업 시, 건물의 고정된 용도 대신 특정 시간대에 발생하는 사용자들의 행위와 그들이 만들어내는 동선을 중심으로 장면을 구성한다.",
+  "context": "드릴 홀은 역사적으로 다양한 용도로 사용되어 왔으며, 현재는 제도적 한계 속에서도 도시의 문화와 커뮤니티를 위한 거점으로 기능하고 있다.",
+  "findings": [],
+  "keywords": [
+   "공공건축",
+   "도시재생",
+   "공간운영",
+   "커뮤니티"
+  ],
+  "evidence": "Its history is marked by changes in use, occupation and institutional responsibility, but also by repeated attempts to imagine what the building could offer the city.",
+  "kind": "프로젝트",
+  "depth": 2,
+  "grounding": "thin",
+  "depth_reason": "원문의 정보가 일반적인 건축의 사회적 가치론에 머물러 있어 구체적인 리모델링 기법이나 공간적 장치를 확인하기 어렵다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1187924/the-work-of-keeping-a-public-building-public-the-drill-hall-in-johannesburg",
+  "original_title": "The Work of Keeping a Public Building Public: The Drill Hall in Johannesburg",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 1262,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-05 12:12",
+  "research": {
+   "entities": [
+    "Drill Hall, Johannesburg"
+   ],
+   "questions": [
+    "요하네스버그의 드릴 홀(Drill Hall)이 역사적으로 어떤 용도로 사용되어 왔으며, 현재는 어떤 사회적 기능을 수행하고 있나요?",
+    "건축물이 완공된 이후에도 그 '공공성'을 유지하기 위해 필요한 제도적, 사회적 노력은 무엇인가요?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 2,
+  "depth_v": 2
+ },
+ "archdaily.com/1187828/time-space-existence-2027-asks-what-it-means-to-design-with-change": {
+  "title_ko": "변화를 설계의 동력으로, 베니스 건축 비엔날레 ‘시공의 실존 2027’",
+  "summary_ko": "베니스에서 열리는 제8회 ‘시공의 실존(Time Space Existence)’ 전시가 200여 개 팀의 참여로 변화와 적응을 주제로 열린다. 이번 전시는 건축을 고정된 결과물이 아닌 불확실성과 시간의 흐름을 수용하는 능동적인 행위로 정의하며, 팔라초 모라, 팔라초 벰보, 마리나레사 정원에서 프로젝트를 공개한다.",
+  "lens": "건축을 환경에 대응하는 수동적 객체가 아니라, 시간의 흐름과 맥락의 변이를 스스로 주도하는 능동적 힘으로 재정의한다.",
+  "why_now": "기후 위기와 자원 고갈로 인해 건축의 영속성보다 변화에 유연하게 대응하는 적응적 설계가 필수적인 시대적 과제가 되었다.",
+  "mechanism": "디지털 파라메트릭 설계와 로봇 제작 기술을 재료 실험과 결합하여, 구축과 해체가 용이한 순환적 건축 구조를 제안한다.",
+  "sensory": "역사적인 베니스의 석조 공간과 대비되는 첨단 프로토타입의 정밀함, 그리고 미완의 상태로 전시되는 실험적 재료의 질감이 공존한다.",
+  "transfer": "공간 연출 시 고정된 벽체 대신 가변적인 모듈형 구조를 도입하고, 시간에 따라 산화하거나 변형되는 소재를 사용하여 공간의 서사를 시간의 흐름에 맡긴다.",
+  "context": "유럽문화센터(European Cultural Centre)가 주최하는 이 전시는 과거 MVRDV, 스뇌헤타(Snøhetta), 알레한드로 아라베나(Alejandro Aravena) 등 세계적 건축가들의 실험적 작업을 소개해왔다. 이전 에디션이 수리, 재생, 재사용에 집중했다면 2027년은 변화 그 자체를 건축의 본질로 수용하는 데 초점을 맞춘다.",
+  "findings": [],
+  "keywords": [
+   "건축비엔날레",
+   "적응적설계",
+   "순환건축",
+   "가변적공간"
+  ],
+  "evidence": "Architecture does not only respond. It acts. It shapes behaviours and emotions, transforms communities, redirects resources, and reimagines what is possible.",
+  "kind": "전시",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "건축 담론의 변화를 잘 짚어냈으나, 특정 프로젝트의 구체적 기술보다는 전시의 방향성과 철학적 담론 위주로 서술됨.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1187828/time-space-existence-2027-asks-what-it-means-to-design-with-change",
+  "original_title": "Time Space Existence 2027 Asks What It Means to Design with Change",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 3543,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-05 12:12",
+  "research": {
+   "entities": [
+    "Time Space Existence",
+    "European Cultural Centre",
+    "Palazzo Mora",
+    "Palazzo Bembo"
+   ],
+   "questions": [
+    "Time Space Existence 전시가 건축 담론에서 가지는 의의와 이전 에디션들과의 차별점은 무엇인가?",
+    "이번 2027년 에디션이 강조하는 '변화에 순응하는 건축(Design with Change)'의 구체적인 방법론은 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "European Cultural Centre of Delphi",
+     "url": "https://en.wikipedia.org/wiki/European%20Cultural%20Centre%20of%20Delphi"
+    }
+   ],
+   "used": [],
+   "chars": 1400
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "archdaily.com/1188046/the-architecture-drawing-prize-2026-recognizes-11-distinct-drawings": {
+  "title_ko": "건축 드로잉의 경계 확장, 2026 아키텍처 드로잉 프라이즈 수상작 11선",
+  "summary_ko": "메이크 아키텍츠와 존 소안 경의 박물관이 공동 주관하는 2026 아키텍처 드로잉 프라이즈가 168개의 응모작 중 11개의 수상작을 발표했다. 이번 선정은 AI 도구의 영향력을 수용하며 기억, 기후, 중독 등 사회적 담론을 다루는 다양한 형식의 드로잉을 조명했다. 수상작은 2027년 1월 런던에서 전시될 예정이다.",
+  "lens": "AI 도구의 기술적 숙련도보다 건축적 아이디어를 구체화하는 서사적 깊이와 사회적 맥락의 해석력을 우선순위에 둔다.",
+  "why_now": "디지털 생성 도구의 범람 속에서 건축적 사고의 본질인 '관찰과 기록'의 가치가 드로잉이라는 매체를 통해 재정의되고 있다.",
+  "mechanism": "카테고리 구분 없이 드로잉의 기술적 완성도와 아이디어 전달력을 통합 평가하여, 전통적 수작업부터 추상적 개념화까지 폭넓은 표현 기법을 수용한다.",
+  "sensory": "글래스고 예술학교의 비계(scaffolding)를 묘사한 연필 선의 긴장감, 49개 패널로 구성된 거대한 서사적 지도 등 물질적 정밀함과 스케일의 대비가 두드러진다.",
+  "transfer": "공간의 물리적 시간성을 기록할 때, 대상의 형태보다 그 주변을 감싼 구조물(비계)의 반복적인 선을 강조해 영구성과 일시성의 충돌을 시각화하라.",
+  "context": "메이크 아키텍츠 설립자 켄 셔틀워스가 심사위원장을 맡으며 건축 실무와 이론의 접점을 탐구한다. 존 소안 경의 박물관은 건축가 존 소안의 컬렉션을 보존하는 장소로, 매년 건축적 사유를 기념하는 상을 후원하며 건축 담론의 중심지 역할을 이어간다.",
+  "findings": [
+   {
+    "text": "메이크 아키텍츠는 2004년 포스터 앤 파트너스 출신의 켄 셔틀워스가 설립한 런던 기반의 건축 사무소이다.",
+    "s": 1,
+    "quote": "Founded in 2004 by former Foster + Partners architect Ken Shuttleworth."
+   },
+   {
+    "text": "존 소안 경의 박물관은 1833년 제정된 법안에 따라 건축가 존 소안의 자택과 컬렉션을 보존하기 위해 설립되었다.",
+    "s": 2,
+    "quote": "The museum was established during Soane's lifetime by a private act of Parliament, Sir John Soane's Museum Act 1833"
+   }
+  ],
+  "keywords": [
+   "드로잉",
+   "서사적 건축",
+   "기록",
+   "공간 시노그래피"
+  ],
+  "evidence": "The awards are judged on an overall basis rather than in category silos.",
+  "kind": "뉴스·이슈",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "건축 드로잉의 변화하는 정의를 다루고 있으나, 수상작 개별의 구체적인 조형적 분석보다는 경향성 위주로 서술되어 있다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1188046/the-architecture-drawing-prize-2026-recognizes-11-distinct-drawings",
+  "original_title": "The Architecture Drawing Prize Announces 11 Recipients for Its 2026 Edition",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 5004,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-05 12:12",
+  "research": {
+   "entities": [
+    "The Architecture Drawing Prize",
+    "Make Architects",
+    "Sir John Soane's Museum",
+    "World Architecture Festival",
+    "Iris Ceramica Group"
+   ],
+   "questions": [
+    "The Architecture Drawing Prize가 건축 드로잉의 예술적 가치를 평가할 때 AI 도구의 활용을 어떻게 수용하고 판단하고 있나요?",
+    "올해 수상작들이 다루는 주제(기억, 중독, 기후 등)가 현대 건축 담론에서 어떤 의미를 갖나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Make Architects",
+     "url": "https://en.wikipedia.org/wiki/Make%20Architects"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Sir John Soane's Museum",
+     "url": "https://en.wikipedia.org/wiki/Sir%20John%20Soane%27s%20Museum"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "파시드 무사비, 건축과 이론의 실천으로 2026 소안 메달 수상",
+     "url": "https://www.archdaily.com/1185957/farshid-moussavi-receives-the-2026-soane-medal"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 2132
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "archdaily.com/1187663/villa-sahar-mahfoud-laasri-architecte-mla": {
+  "title_ko": "빌라 사하르, 새벽의 빛을 조각하는 카사블랑카의 매스",
+  "summary_ko": "모로코 카사블랑카에 위치한 빌라 사하르는 동쪽을 향한 파사드를 통해 새벽 직전의 빛을 공간 내부로 끌어들인다. 마흐푸드 라스리 아키텍트가 설계한 이 주택은 965㎡ 규모로, 육중한 매스와 투명한 재료를 대비시켜 건축과 풍경의 긴밀한 상호작용을 구현했다.",
+  "lens": "동향 파사드를 통해 유입되는 이른 아침의 빛을 건축의 물리적 정체성으로 치환하여, 매스의 무게감과 빛의 투명성을 극명하게 대비시켰다.",
+  "why_now": "디지털 피로도가 높은 환경에서 빛의 시간성을 건축의 구조적 언어로 번역해 공간의 물리적 깊이를 확보하는 시도가 주목받는다.",
+  "mechanism": "동쪽을 향해 열린 파사드와 투명한 유리 소재를 활용해 아침 빛이 실내 깊숙이 침투하도록 설계했다. 육중한 벽체 매스와 대비되는 개구부의 배치는 빛의 흐름을 따라 공간의 위계를 형성한다.",
+  "sensory": "새벽의 차가운 푸른 빛이 투명한 유리 표면을 통과하며 거친 매스 표면에 맺히는 대비가 강조된다. 아침마다 변하는 빛의 각도는 공간의 질감을 시시각각 다르게 조율한다.",
+  "transfer": "콘티 작업 시, 새벽 직전의 낮은 조도를 활용해 실내의 정적인 매스를 강조하고, 동쪽에서 유입되는 빛이 피사체의 윤곽을 어떻게 깎아내는지 롱테이크로 포착하라.",
+  "context": "마흐푸드 라스리 아키텍트는 카사블랑카의 기후적 특성을 반영해 건축물과 외부 풍경의 경계를 해체하는 방식을 지속적으로 탐구해 왔다. 생고뱅 등 글로벌 건축 자재를 활용하여 구조적 안정성과 투명성을 동시에 확보하는 전략을 취한다.",
+  "findings": [
+   {
+    "text": "생고뱅은 1665년 파리에서 거울 제조사로 설립되어 현재는 건설 자재를 생산하는 다국적 기업이다.",
+    "s": 1,
+    "quote": "Compagnie de Saint-Gobain S.A. is a French multinational corporation, founded in 1665 in Paris as the Manufacture royale de glaces de miroirs, and today headquartered on the outskirts of Paris, at La Défense and in Courb"
+   },
+   {
+    "text": "로카는 스페인 바르셀로나에 본사를 둔 욕실 공간 제품 제조 기업으로 전 세계 170개 이상의 시장에 진출해 있다.",
+    "s": 2,
+    "quote": "Roca Corporación Empresarial is a Spanish company dedicated to the design, production and marketing of products for bathroom spaces. Roca has its headquarters in Barcelona and is present in more than 170 markets."
+   }
+  ],
+  "keywords": [
+   "카사블랑카",
+   "건축 매스",
+   "빛의 연출",
+   "동향 파사드",
+   "물질성"
+  ],
+  "evidence": "Sahar is a private residence in Casablanca conceived around the interplay of mass and lightness, materiality and transparency, and architecture and landscape.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "건축적 의도는 명확하나 구체적인 구조적 디테일이나 평면 구성에 관한 정보가 부족하여 일반적인 프로젝트 소개 수준에 머문다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1187663/villa-sahar-mahfoud-laasri-architecte-mla",
+  "original_title": "Villa Sahar / Mahfoud Laasri Architecte - MLA",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 1275,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-05 12:12",
+  "research": {
+   "entities": [
+    "Mahfoud Laasri Architecte - MLA",
+    "Mahfoud Laasri",
+    "Saint-Gobain",
+    "Roca"
+   ],
+   "questions": [
+    "Villa Sahar의 건축적 특징인 '질량과 가벼움', '물성과 투명성'의 대비가 구체적으로 어떻게 구현되었는가?",
+    "카사블랑카의 기후와 동쪽을 향한 파사드가 아침 빛을 활용하는 방식에 어떤 영향을 미쳤는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Saint-Gobain",
+     "url": "https://en.wikipedia.org/wiki/Saint-Gobain"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Roca (company)",
+     "url": "https://en.wikipedia.org/wiki/Roca%20%28company%29"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "망고 나무를 중심축으로 삼은 칸누르의 주거, 하우스 비욘드 더 망고 트리",
+     "url": "https://www.archdaily.com/1186152/house-beyond-the-mango-trees-inle-architects"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 1521
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "architecturaldigest.com/story/were-suddenly-feeling-leather-sofas": {
+  "title_ko": "시간의 층위를 입는 가죽 소파: 공간의 밀도를 결정하는 7가지 시선",
+  "summary_ko": "아키텍처럴 다이제스트(Architectural Digest) 에디터들이 내구성과 질감을 기준으로 선별한 2026년형 가죽 소파 7종을 분석한다. 탑그레인부터 풀아닐린 가죽까지, 소재의 물성과 형태적 실루엣이 거실이라는 공간의 무게감을 어떻게 재편하는지 살핀다. 단순한 가구를 넘어 공간의 중심을 잡는 앵커(Anchor)로서의 기능에 주목한다.",
+  "lens": "가죽의 산화와 마모를 시간의 기록으로 치환하여, 공간에 정적인 무게감을 부여하는 가구의 물성에 집중한다.",
+  "why_now": "디지털 피로도가 높은 환경에서, 사용자의 움직임에 따라 표면이 변하는 가죽의 가변적 물성은 공간에 생명력을 더하는 중요한 장치가 된다.",
+  "mechanism": "풀아닐린 가죽의 유연한 질감과 오버스터프(Overstuffed)된 쿠션 구조를 결합해, 시각적인 부피감과 물리적인 안락함을 동시에 구현한다.",
+  "sensory": "왁스와 오일로 마감된 풀업 가죽의 매끄러운 촉감, 그리고 시간이 흐를수록 깊어지는 색감의 변화가 공간의 온도를 바꾼다.",
+  "transfer": "콘티 작업 시, 낮은 무게중심의 소파를 배치하여 천장이 높은 공간의 개방감을 강조하거나, 톤온톤 가죽 질감을 활용해 인물의 정적인 대화 씬에 깊이를 더한다.",
+  "context": "아키텍처럴 다이제스트는 이전 리서치에서 슬리퍼 소파의 다기능적 구조나 못을 배제한 결구의 미학을 다루며 가구의 물리적 전환을 탐구해 왔다. 본 리스트는 이러한 기능적 가구론을 넘어, 가죽이라는 소재가 가진 시간적 레이어에 주목한다. 캐슬리(Castlery)와 무토(Muuto) 등은 기존 RE:COLLECTION에서 다룬 공간 리노베이션 프로젝트와 함께 현대적 인테리어의 핵심 요소로 반복 등장하는 브랜드다.",
+  "findings": [
+   {
+    "text": "인디애나 브라운 색상의 풀업 가죽은 왁스와 오일 처리를 통해 매끄러운 촉감을 구현하며 시간이 지날수록 고유한 질감이 발현된다.",
+    "s": 2,
+    "quote": "Upholstered in Indiana Brown, our \"pull-up\" leather that's been treated with wax and oil for a smooth touch and evolving look"
+   },
+   {
+    "text": "무토는 덴마크 코펜하겐에 기반을 둔 스칸디나비아 디자인 기업으로 가구 및 다양한 디자인 제품을 생산한다.",
+    "s": 3,
+    "quote": "Muuto is a Scandinavian design company based in Copenhagen, Denmark. The product range includes furniture and other design products."
+   },
+   {
+    "text": "아르하우스는 1986년 설립된 미국 홈 퍼니싱 기업으로 지속 가능성과 장인 정신을 핵심 가치로 삼는다.",
+    "s": 4,
+    "quote": "Founded in 1986 with a focus on sustainability and artisanship in product quality, Arhaus provides a diversified assortment of specialty goods"
+   }
+  ],
+  "keywords": [
+   "가죽소파",
+   "물성",
+   "미드센추리",
+   "공간디자인",
+   "가구큐레이션"
+  ],
+  "evidence": "The best leather sofas adhere to the ABCs of great seating: agnostic design, beautiful texture, and classic silhouettes.",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "가죽 소재의 물성 변화와 공간 내에서의 구조적 역할을 구체적인 제품 사례와 연결하여 분석했다.",
+  "v": 2,
+  "url": "https://www.architecturaldigest.com/story/were-suddenly-feeling-leather-sofas",
+  "original_title": "18 Best Leather Sofas of 2026: Couches That Are Editor-Approved",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 9000,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-05 12:12",
+  "research": {
+   "entities": [
+    "Castlery",
+    "Article",
+    "Muuto",
+    "Arhaus",
+    "Tobia Scarpa"
+   ],
+   "questions": [
+    "가죽 소파를 고를 때 탑그레인(Top-grain)과 풀아닐린(Full-aniline) 가죽은 어떤 차이가 있나요?",
+    "미드센추리 현대(Midcentury-modern) 디자인의 가죽 소파가 인테리어에서 가지는 미학적 특징은 무엇인가요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Jonathan Leather Extended Sofa with Ottoman | Castlery US",
+     "url": "https://cna.st/affiliate-link/53NXSZk29WKfLeTCsAS6QdbbrYN1szuKFd8VzSBHXEXPdXyBWTURAMtKqc3eQtVbiRkq36BY8k9FUuUAbXvj39jFwxhtG6r2g7MbRqVVrTwGrEY66kGgZqALMLhnqBGDRz4dZ1V8mbzrBPZTReCfNZ4FK7Cinu33hdLbKcd3fiMXrkvJan3oztacShgdAiy9nGpQsnoiE2U4dDTJHrXEA59zyxTiY7JajL9xk5Sv8JKT97wircHYwN8cknpsZe1NSRkvWKaqzpW6si3k96DjgVZqBLYdTgFcYbsSRTavNHT4FDqRLiZTsTwKRphhFgXddP3wRNigQvFWAsPQV8yPzG3LsYdK7SLkrvkEGNd2hPKPfu9nFDT8WHLXZjz2dte8"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Cigar 92\" Leather Sofa - Indiana Brown",
+     "url": "https://cna.st/affiliate-link/RADNkTB2Qu41sHYXiNQDmDAinapQ26Xa1affHQ3vsmToZvfvwYjJ3eKLH7pm7urEBQYjqLGV3DKHgecfV6fQcLdMsM3cHs2Rje6qebJcUUCNfSPs8dQTEtMe2o8uCLsAQb4cn5sLftcCEPehq68qTUgt1AZQLFCpkqvE1RcDkPGe23bUUTBUvrwvXFhADW88LCTYMVgQRhVPcn36yv4SyPDoV4Mr8Q7KAd4GNtksUXz9FWo4J7A82QAFwSKQ7cYXhowdz4PPZGn4x4R1tz33ocEhX5oZ7Q2ytu4RvrmyEXU1UfLFoW4yz8Sqz6d51R2RT2LzKwDn3hpRdbfsR64Yw5PBLVk28XYvbsgJkCHDMwUzDRJUgyoE28"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Muuto",
+     "url": "https://en.wikipedia.org/wiki/Muuto"
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "Arhaus",
+     "url": "https://en.wikipedia.org/wiki/Arhaus"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "구조와 휴식을 동시에 담는 15가지 슬리퍼 소파의 실루엣",
+     "url": "https://www.architecturaldigest.com/story/the-very-best-sleeper-sofas-tested-and-reviewed-by-our-editors"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "구조의 힘을 조율하는 침대 프레임 큐레이션",
+     "url": "https://www.architecturaldigest.com/story/best-bed-frames-2025"
+    },
+    {
+     "n": 7,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "실리콘밸리의 낡은 상업 빌딩을 브론즈와 벽돌로 재구성한 공유 오피스, 빌딩 49",
+     "url": "https://leibal.com/interiors/building-49/"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "chars": 5886
+  },
+  "depth_raw": 4,
+  "depth_v": 2
  }
 }
