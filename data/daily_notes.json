@@ -3170,5 +3170,56 @@
   "v": 3,
   "model": "gemini-3.5-flash-lite",
   "written_at": "2026-11-05 02:12"
+ },
+ "2026-11-06": {
+  "date": "2026-11-06",
+  "headline": "낡은 산업의 철골과 신체 곡선에 맞춘 가죽의 굴절",
+  "editorial": "샤르자 건축 트리엔날레는 도시를 유동적인 인프라로 정의하며 고정된 구조물에 균열을 낸다. 이처럼 기존의 틀을 비트는 시도는 항저우 젠 호텔의 산업 유산 위로 얹힌 전통 목공, 레 텔스의 인체 곡선을 따라 흐르는 가죽 가방에서도 발견된다. 콩코드의 초음속 비행이 빚어낸 날카로운 델타 윙과 도리스 살세도의 조각이 증언하는 부재의 윤곽은 모두 결과물 너머 제작의 공정과 흔적을 쫓는다. 우리는 완성된 상태보다 그 상태에 이르기까지 겹겹이 쌓인 시간과 물리적 파동에 집중한다.",
+  "threads": [
+   {
+    "name": "고정된 틀을 벗어난 유동적 형태",
+    "note": "물리적 구조나 사물의 형태를 고정하지 않고 신체와 환경의 흐름에 맞춰 변주하는 시도들이다.",
+    "items": [
+     {
+      "title": "샤르자 건축 트리엔날레 2026: 시민 인프라로 재구성하는 집단적 미래",
+      "url": "https://www.archdaily.com/1188119/sharjah-architecture-triennial-2026-announces-opening-programme-featuring-performances-films-and-conference"
+     },
+     {
+      "title": "아지무트 마젤라노 27M: 빛과 로지아로 바다를 거실로 들이다",
+      "url": "https://coolhunting.com/design/aboard-azimuts-magellano-27m/"
+     },
+     {
+      "title": "신체 곡선을 따라 흐르는 가죽, 레 텔스의 인체 공학적 핸드백",
+      "url": "https://design-milk.com/les-tells-handbags-brianna-tell/"
+     }
+    ]
+   },
+   {
+    "name": "제작의 흔적이 남긴 시간의 무게",
+    "note": "매끈한 결과물보다 창작 과정의 실패와 손길, 그리고 재료가 가진 고유한 물리적 시간을 기록한다.",
+    "items": [
+     {
+      "title": "항저우 젠 호텔: 산업 유산의 골조 위에 얹은 전통 목공의 서사",
+      "url": "https://www.dezeen.com/2026/11/05/linehouse-jen-hotel-hangzhou/"
+     },
+     {
+      "title": "크리스토퍼 존 로저스, 스튜디오의 우연을 직조한 러그 컬렉션",
+      "url": "https://www.architecturaldigest.com/story/fashion-maverick-christopher-john-rogers-unveils-bold-new-carpets-for-the-rug-company"
+     },
+     {
+      "title": "포르마판타스마, 디자인의 실패와 투쟁을 기록하는 법",
+      "url": "https://www.wallpaper.com/design-interiors/formafantasma-monograph-phaidon-simone-farresin-interview"
+     },
+     {
+      "title": "도시의 파열된 층위, 우연한 콜라주가 기록하는 시간의 퇴적",
+      "url": "https://www.itsnicethat.com/articles/dr-me-waiting-room-press-accidental-collage-advertising-publication-project-051126"
+     }
+    ]
+   }
+  ],
+  "based_on": 24,
+  "v": 3,
+  "model": "gemini-3.1-flash-lite-preview",
+  "written_at": "2026-11-06 00:58"
  }
 }
