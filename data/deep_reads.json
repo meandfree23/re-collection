@@ -271479,5 +271479,1009 @@
   },
   "depth_raw": 5,
   "depth_v": 2
+ },
+ "thisiscolossal.com/2026/11/maria-tomazou-i-made-a-film-in-excel": {
+  "title_ko": "데이터 시트의 오용, 엑셀로 구현한 무목적의 애니메이션",
+  "summary_ko": "런던에서 활동하는 마리아 토마주(Maria Tomazou)는 마이크로소프트 엑셀을 활용해 스톱모션 애니메이션을 제작했다. 효율과 계산을 목적으로 설계된 스프레드시트 환경에서, 작가는 오직 창작의 순수한 충동만으로 긴 시간 동안 프레임을 쌓아 올렸다.",
+  "lens": "도구의 본래 목적을 배반하는 행위가 어떻게 디지털 환경에서 새로운 미적 질감을 형성하는지 보여준다.",
+  "why_now": "생산성과 최적화가 강제되는 디지털 도구 환경에서, 비효율적인 수작업을 고집하는 태도가 예술적 저항으로 작동한다.",
+  "mechanism": "데이터 입력을 위한 셀 격자를 프레임 단위로 점유하고, 각 셀의 색상과 경계선을 조절해 정지된 이미지를 연속적으로 배치하는 방식을 취한다.",
+  "sensory": "격자무늬의 기하학적 질서와 픽셀 단위로 끊어지는 투박한 움직임이 아날로그 스톱모션과는 다른 디지털 특유의 건조한 리듬감을 만든다.",
+  "transfer": "정형화된 그리드 시스템을 영상의 레이아웃으로 차용하거나, 데이터 시각화 툴을 의도적으로 왜곡해 기계적인 미감을 콘티에 적용할 수 있다.",
+  "context": "작가는 이전에도 엑셀을 활용해 일본 풍경을 묘사하는 등 도구의 한계를 시험하는 작업을 지속해왔다.",
+  "findings": [],
+  "keywords": [
+   "디지털 아트",
+   "엑셀 애니메이션",
+   "비전형적 도구",
+   "수작업"
+  ],
+  "evidence": "I made a film in Excel",
+  "kind": "영상·필름",
+  "depth": 2,
+  "grounding": "thin",
+  "depth_reason": "기술적 구체성이 부족하고 단순한 작업 소개에 그쳐 깊이 있는 분석이 어렵다.",
+  "v": 2,
+  "url": "https://www.thisiscolossal.com/2026/11/maria-tomazou-i-made-a-film-in-excel/",
+  "original_title": "An Animated Film Made in Excel Sums Up the Pointless Impulse to Create",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 1171,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-06 06:10",
+  "research": {
+   "entities": [
+    "Maria Tomazou",
+    "Microsoft Excel"
+   ],
+   "questions": [
+    "마리아 토마주(Maria Tomazou)가 엑셀을 활용해 애니메이션을 제작한 구체적인 기술적 방식은 무엇인가?",
+    "엑셀과 같은 비전형적인 도구를 활용한 디지털 예술 작업이 현대 예술계에서 갖는 의미는 무엇인가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 2,
+  "depth_v": 2
+ },
+ "hyperallergic.com/the-glimchers-cant-keep-up-the-pace": {
+  "title_ko": "메가 갤러리의 구조적 재편과 인적 쇄신이 가리키는 미술 시장의 변곡점",
+  "summary_ko": "페이스 갤러리(Pace Gallery)가 540만 달러의 손실과 대규모 인력 감축을 겪으며 경영 효율화에 나섰다. 한편 마리안 굿맨 갤러리(Marian Goodman Gallery)는 에보니 L. 헤인즈(Ebony L. Haynes)를 영입하며 큐레이팅 조직의 세대교체를 단행했다. 이는 거대 갤러리들이 시장 침체에 대응해 물리적 공간을 축소하고 운영 구조를 재설계하는 흐름을 보여준다.",
+  "lens": "거대 갤러리의 물리적 확장 시대가 저물고, 자본과 인력의 밀도를 재조정하는 효율 중심의 공간 운영이 시작되었다.",
+  "why_now": "글로벌 미술 시장의 위축이 대형 갤러리의 지점 폐쇄와 자산 구조 변경으로 가시화되면서, 공간의 물리적 점유보다 기획의 밀도가 중요한 시점이 되었다.",
+  "mechanism": "페이스 갤러리는 부채를 주식으로 전환하는 자본 구조 개선과 함께, 기업형 대형 공간을 정리하고 유연한 규모의 거점을 찾는 방식으로 공간 전략을 수정한다.",
+  "sensory": "과잉된 화이트 큐브의 스케일에서 벗어나, 작가와 관객의 밀착도를 높이는 보다 작고 밀도 있는 공간의 감각이 강조된다.",
+  "transfer": "공간 설계 시 고정 비용을 유발하는 대형 전시장의 유지보다, 필요에 따라 가변적으로 운용 가능한 모듈형 공간 배치와 운영 효율화를 우선순위에 둔다.",
+  "context": "페이스 갤러리는 1960년 아르네 글림처(Arne Glimcher)가 설립한 이후 수십 년간 팽창해왔으나 최근 시장 변화에 직면했다. 에보니 L. 헤인즈는 데이비드 즈워너(David Zwirner) 산하 52 워커(52 Walker)에서 흑인 스태프 중심의 실험적 운영을 이끈 바 있다.",
+  "findings": [
+   {
+    "text": "마리안 굿맨은 2026년 1월 사망했으며, 갤러리는 그녀의 유산을 계승하며 새로운 리더십 체제로 전환했다.",
+    "s": 4,
+    "quote": "Marian Goodman (born Marian Ruth Geller; June 15, 1928 – January 22, 2026) was an American contemporary art gallerist."
+   }
+  ],
+  "keywords": [
+   "갤러리 경영",
+   "공간 효율화",
+   "미술 시장",
+   "큐레이팅",
+   "구조조정"
+  ],
+  "evidence": "The beleaguered Pace Gallery is in the news again, this time after its United Kingdom tax filings revealed that it lost $5.4 million last year",
+  "kind": "뉴스·이슈",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "대형 갤러리의 경영 위기와 인적 쇄신이라는 구체적 사례를 통해 시장의 구조적 변화를 명확히 짚어냈다.",
+  "v": 2,
+  "url": "https://hyperallergic.com/the-glimchers-cant-keep-up-the-pace/",
+  "original_title": "The Glimchers Can’t Keep Up the Pace",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 4310,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-06 06:10",
+  "research": {
+   "entities": [
+    "Pace Gallery",
+    "Ebony L. Haynes",
+    "Marian Goodman Gallery",
+    "David Zwirner",
+    "Manifesta"
+   ],
+   "questions": [
+    "Pace Gallery가 최근 대규모 구조조정과 지점 축소를 단행하게 된 경영상의 배경은 무엇인가?",
+    "Ebony L. Haynes가 52 Walker에서 보여준 큐레이팅 방식이 Marian Goodman Gallery의 향후 운영에 어떤 변화를 가져올 것으로 예상되는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Pace Gallery Reports Losses of 35.5 Percent for 2024 With ‘Real Change’ Underway",
+     "url": "https://www.artnews.com/art-news/market/pace-gallery-reports-losses-2024-gallery-makes-real-change-1234804003/?ref=hyperallergic.com"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "The Vilcek Foundation Awards $212,000 to U.S. Nonprofits in 2026 Grant Cycle",
+     "url": "https://www.prnewswire.com/news-releases/the-vilcek-foundation-awards-212-000-to-us-nonprofits-in-2026-grant-cycle-302925339.html?ref=hyperallergic.com"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Pace Gallery",
+     "url": "https://en.wikipedia.org/wiki/Pace%20Gallery"
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "Marian Goodman",
+     "url": "https://en.wikipedia.org/wiki/Marian%20Goodman"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "뉴욕 9월의 아트 리셋: 주목해야 할 5가지 전시와 공간의 재발견",
+     "url": "https://elephant.art/the-great-new-york-art-reset-the-six-best-shows-to-see-this-september/"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "데이비드 린치, 로스앤젤레스의 빛과 연기로 쓴 사후 사진전",
+     "url": "https://www.wallpaper.com/art/photography/david-lynch-la-pace-gallery"
+    },
+    {
+     "n": 7,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "유휴 교회와 산업 유산의 교차점, 마니페스토 16의 공간 개입",
+     "url": "https://www.designboom.com/art/manifesta-16-past-present-future-ruhr-churches/"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "chars": 7278
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "stashmedia.tv/more-holiday-warmth-and-wit-from-wallace-gromit": {
+  "title_ko": "월레스와 그로밋의 스톱모션, 바버의 유산과 만나다",
+  "summary_ko": "아드만 스튜디오가 영국 패션 브랜드 바버와 협업하여 홀리데이 시즌 단편 애니메이션을 공개했다. 스톱모션 기법으로 구현된 월레스와 그로밋의 눈 덮인 산책길은 바버의 의류와 조우하며 영국적 전통과 장인 정신, 축제의 유머를 결합한 서사를 완성한다.",
+  "lens": "디지털 피로를 돌파하는 스톱모션의 물리적 질감과, 브랜드 유산을 캐릭터 서사에 자연스럽게 녹여낸 시노그래피의 결합이다.",
+  "why_now": "디지털 생성형 영상이 범람하는 시대에, 점토와 천이라는 아날로그 물성이 주는 촉각적 신뢰감이 브랜드 가치를 보존하는 강력한 장치가 된다.",
+  "mechanism": "월레스의 엉뚱한 발명품과 바버의 기능적 의류를 서사의 핵심 도구로 배치하여, 캐릭터의 행동과 브랜드 제품의 실용성을 유기적으로 연결했다.",
+  "sensory": "눈 덮인 질감의 스톱모션 배경과 바버 특유의 왁스 재킷이 가진 묵직하고 거친 텍스처가 대비를 이루며 계절감을 극대화한다.",
+  "transfer": "제품을 직접 노출하기보다 캐릭터의 위기 상황을 해결하는 '도구'로 등장시켜, 관객이 제품의 기능성을 서사 안에서 자연스럽게 인지하도록 유도한다.",
+  "context": "아드만은 클레이 애니메이션 기술을 고수하며 캐릭터의 생명력을 유지해왔다. 과거 스노우맨의 라이브 오케스트라 결합 사례처럼, 아드만은 기존 자산을 현대적 맥락으로 확장하는 데 능숙하다.",
+  "findings": [
+   {
+    "text": "아드만 스튜디오는 영국 브리스톨에 본사를 두고 있으며, 월레스와 그로밋을 비롯한 클레이 애니메이션 기법으로 세계적인 명성을 얻었다.",
+    "s": 1,
+    "quote": "Aardman Animations Limited, known simply as Aardman, is a British animation studio based in Bristol, England... It is known for films and television series made using stop-motion and clay animation techniques, particular"
+   }
+  ],
+  "keywords": [
+   "스톱모션",
+   "아드만",
+   "바버",
+   "물성",
+   "브랜드서사"
+  ],
+  "evidence": "With its combination of British heritage, craftsmanship, friendship and festive humor, the film celebrates the simple joy of giving and receiving a thoughtful gift at Christmas.",
+  "kind": "브랜드·캠페인",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "브랜드 유산과 애니메이션 캐릭터의 서사를 기술적 결함 없이 결합한 사례로, 상업적 영상 연출의 좋은 준거를 제공한다.",
+  "v": 2,
+  "url": "https://www.stashmedia.tv/more-holiday-warmth-and-wit-from-wallace-gromit/",
+  "original_title": "More Holiday Warmth and Wit from Wallace & Gromit",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 2711,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-06 06:10",
+  "research": {
+   "entities": [
+    "Aardman",
+    "Barbour",
+    "Wallace & Gromit",
+    "Steve Harding-Hill"
+   ],
+   "questions": [
+    "아드만 스튜디오의 스톱모션 애니메이션 제작 방식과 이번 협업 영상의 기술적 특징은 무엇인가요?",
+    "바버(Barbour)와 월레스와 그로밋의 협업이 브랜드 이미지에 어떤 영향을 미치고 있나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Aardman Animations",
+     "url": "https://en.wikipedia.org/wiki/Aardman%20Animations"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Barbour",
+     "url": "https://en.wikipedia.org/wiki/Barbour"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "폴 스미스와 바버, 하이랜드 게임의 전통을 입히다",
+     "url": "https://www.wallpaper.com/fashion-beauty/paul-smith-barbour-collaboration-aw-2026"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "창의적 의무감에서 벗어나기: 번아웃을 방지하는 창작 리듬의 기술",
+     "url": "https://www.itsnicethat.com/articles/creative-career-condundrums-if-you-could-jobs-advice-121026"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "대성당과 오케스트라가 확장하는 스노우맨의 시간",
+     "url": "https://www.creativeboom.com/news/film-is-breaking-out-of-its-box-and-this-cathedral-tour-is-showing-the-way/"
+    }
+   ],
+   "used": [
+    1,
+    3,
+    4,
+    5
+   ],
+   "chars": 3233
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "motionographer.com/quickie/volleyball-world-vnl-trailer-musclebeaver": {
+  "title_ko": "스포츠의 속도를 재단하는 방식: 머슬비버의 발리볼 네이션스 리그 트레일러",
+  "summary_ko": "모션 스튜디오 머슬비버(Musclebeaver)가 2026 발리볼 네이션스 리그(VNL)를 위한 트레일러를 제작했다. 이들은 애니메이션풍의 캐릭터 일러스트와 그래픽 토너먼트 시퀀스를 교차시켜 국제 배구의 긴장감을 압축했다. 제한된 예산 내에서 불렛 타임(bullet-time) 기법과 치밀한 편집 전략을 활용해 방송용 광고의 에너지를 구현했다.",
+  "lens": "정지된 이미지와 빠른 전환의 대비를 통해 스포츠가 가진 찰나의 폭발력을 시각적 리듬으로 치환한다.",
+  "why_now": "디지털 매체에서 스포츠 콘텐츠는 단순 중계를 넘어, 경기 외부의 서사와 캐릭터성을 강조하는 방향으로 확장하고 있다.",
+  "mechanism": "선택적 애니메이션과 불렛 타임 기법을 결합해 정적인 구간과 동적인 구간의 밀도를 조절하며, 편집의 호흡을 타이트하게 설계하여 예산 효율성과 몰입감을 동시에 확보한다.",
+  "sensory": "애니메이션 특유의 과장된 캐릭터 움직임과 날카로운 그래픽 요소가 충돌하며 속도감 있는 시각적 타격감을 형성한다.",
+  "transfer": "광고 콘티 작성 시, 정적인 인물 샷 사이에 불렛 타임 시퀀스를 삽입하여 시간의 흐름을 인위적으로 왜곡하고 긴장감을 증폭시키는 기법을 적용한다.",
+  "context": "머슬비버는 모션 디자인과 일러스트레이션을 결합해 브랜드 맞춤형 콘텐츠를 제작하는 부티크 스튜디오다. 이번 작업은 배구의 기술적 데이터와 문화적 서사를 결합하는 발리볼 월드의 최근 브랜딩 방향성과 궤를 같이한다.",
+  "findings": [
+   {
+    "text": "머슬비버는 모션 디자인과 일러스트레이션을 전문으로 하는 부티크 스튜디오다.",
+    "s": 1,
+    "quote": "We're MUSCLEBEAVER,a studio for motion design and illustration. With the agility of a BOUTIQUE STUDIO, we design custom creative solutions shaped by each project’s individual goals."
+   },
+   {
+    "text": "2025년부터 발리볼 네이션스 리그는 기존의 코어 및 챌린지 팀 제도를 폐지하고 18개 팀 체제로 확대 개편되었다.",
+    "s": 4,
+    "quote": "In February 2024, the FIVB announced that the competition will be expanded to 18 teams from the 2025 edition onwards while the core and challenge teams' status will be abolished with the reformed format."
+   }
+  ],
+  "keywords": [
+   "모션그래픽",
+   "스포츠브랜딩",
+   "불렛타임",
+   "편집디자인"
+  ],
+  "evidence": "The studio built the film around strong compositions and a tightly planned edit, using selective animation and bullet-time moments to keep the pace high within a limited budget.",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "제한된 예산 안에서 시각적 밀도를 높이는 편집 전략과 기법이 구체적으로 제시되어 실무적 활용도가 높다.",
+  "v": 2,
+  "url": "https://motionographer.com/quickie/volleyball-world-vnl-trailer-musclebeaver/",
+  "original_title": "Volleyball World – VNL Trailer | Musclebeaver",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 818,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-06 06:10",
+  "research": {
+   "entities": [
+    "Musclebeaver",
+    "Volleyball Nations League",
+    "Volleyball World",
+    "Akkordarbeit"
+   ],
+   "questions": [
+    "Musclebeaver가 이번 프로젝트에서 애니메이션 스타일과 실사 영상의 조화를 위해 어떤 모션 그래픽 기법을 사용했는가?",
+    "제한된 예산 내에서 높은 에너지의 영상을 구현하기 위해 사용된 'bullet-time' 기법과 편집 전략은 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Work",
+     "url": "https://www.musclebeaver.com/"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Volleyball World | Live Volleyball, Schedule, Rankings and News",
+     "url": "https://en.volleyballworld.com/"
+    },
+    {
+     "n": 3,
+     "type": "공식·1차",
+     "title": "Musclebeaver – Volleyball World VNL Trailer",
+     "url": "https://www.musclebeaver.com/project/volleyball-world-vnl-trailer"
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "FIVB Men's Volleyball Nations League",
+     "url": "https://en.wikipedia.org/wiki/FIVB%20Men%27s%20Volleyball%20Nations%20League"
+    }
+   ],
+   "used": [
+    1,
+    3,
+    4
+   ],
+   "chars": 6343
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "archdaily.com/1188061/backyard-townhouses-behin-ha": {
+  "title_ko": "저지 시티의 150년 된 골조를 활용한 도시 밀도 재구성",
+  "summary_ko": "미국 저지 시티의 하이츠 지구에 위치한 백야드 타운하우스는 150년 된 기존 주택을 복원하고 후면 마당에 3채의 현대식 타운하우스를 증축했다. 베랑 베힌과 앤 하가 이끄는 스튜디오 비힌 하(Behin Ha)는 철거가 중단된 부지를 활용해 역사적 거리 경관을 유지하면서 주거 수용 능력을 3배 가까이 확장했다.",
+  "lens": "역사적 외피를 보존한 채 후면의 비어있는 밀도를 채워 넣어, 도시의 시간과 현대적 주거 요구를 물리적으로 결합한다.",
+  "why_now": "도시의 역사적 맥락을 훼손하지 않으면서 주거 밀도를 높여야 하는 현대 도시 건축의 고민을 실천적 해법으로 제시한다.",
+  "mechanism": "기존 건물의 전면 가로 경관을 박제하듯 유지하고, 후면 마당이라는 비가시적 영역에 신축 타운하우스를 배치해 시각적 충돌 없이 밀도를 확보했다.",
+  "sensory": "150년 된 건축물의 거친 벽체와 현대적 타운하우스의 매끈한 마감재가 교차하며 시간의 층위를 시각적으로 대비시킨다.",
+  "transfer": "기존 건축물의 후면이나 측면 유휴 공간을 활용하여, 파사드를 건드리지 않고도 새로운 매스를 삽입하는 공간 설계 콘티에 적용 가능하다.",
+  "context": "앤 하가 이끄는 스튜디오 비힌 하의 작업은 역사적 건축물의 원형을 보존하면서도 현대적 기능의 레이어를 얹는 방식을 취한다. 이는 과거 곤잘레스 하세 AAS가 하우스 데스 킨데스의 구조를 드러내며 시공간을 재편한 방식과 맥을 같이 한다.",
+  "findings": [],
+  "keywords": [
+   "도시 밀도",
+   "리노베이션",
+   "역사적 경관",
+   "후면 개발"
+  ],
+  "evidence": "restores a nearly 150-year-old house while introducing three contemporary townhouses in its rear yard, nearly tripling the site's residential capacity without altering the historic streetscape.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "역사적 거리 경관을 보존하며 밀도를 높이는 구체적인 공간 전략을 제시했으나, 상세한 재료나 조명 기법 등 기술적 디테일이 부족하다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1188061/backyard-townhouses-behin-ha",
+  "original_title": "Backyard Townhouses / Behin Ha",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 1337,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-06 06:10",
+  "research": {
+   "entities": [
+    "Behin Ha",
+    "Behrang Behin",
+    "Ann Ha"
+   ],
+   "questions": [
+    "저지 시티의 역사적인 거리 경관을 보존하면서 어떻게 주거 밀도를 높이는 설계를 구현했는가?",
+    "150년 된 기존 주택의 리노베이션과 신축 타운하우스의 조화를 위해 어떤 건축적 전략을 사용했는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "역사의 골조 위에 세운 미래, 베를린 아이데 하우스",
+     "url": "https://www.ignant.com/2026/01/07/aeyde-haus-by-gonzalez-haase-aas-marks-a-new-era-for-an-east-berlin-landmark/"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 334
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "archdaily.com/986670/suspension-house-fougeron-architecture": {
+  "title_ko": "서스펜션 하우스: 캘리포니아 협곡 위, 지형을 가로지르는 강철의 부유",
+  "summary_ko": "푸제론 아키텍처(Fougeron Architecture)가 캘리포니아 언덕 사이 개울을 가로질러 기존 주택을 리모델링하고 확장했다. 자연 지형 위에 건물을 띄워 폭포와 계곡의 흐름을 유지하며, 2,500평방피트 규모의 공간을 자연 속에 안착시켰다. 2022년 완공된 이 프로젝트는 인공 구조물과 자연 환경 사이의 긴장감을 건축적 장치로 풀어냈다.",
+  "lens": "지형을 훼손하지 않고 협곡 위에 건물을 매달아, 자연의 물리적 흐름을 공간의 내부로 관통시키는 구조적 결단이 돋보인다.",
+  "why_now": "건축이 자연을 점유하는 방식에서 벗어나, 지형의 낙차와 수계(水系)를 보존하며 그 위에 구조물을 얹는 생태적 순응의 가치가 높아지고 있다.",
+  "mechanism": "협곡 양측 언덕에 하중을 분산하는 구조적 설계를 통해 개울 위로 건물을 띄우고, 투명한 벽체와 확장된 창호를 사용하여 실내와 자연의 시각적 문턱을 제거한다.",
+  "sensory": "개울의 물소리가 건물 하부를 타고 흐르며, 금속성 마감재와 자연석이 어우러져 차갑고 단단한 물성이 숲의 습도와 대비되는 감각을 형성한다.",
+  "transfer": "협곡이나 경사지 촬영 시, 지면을 딛지 않는 캔틸레버 구조를 활용해 피사체가 공중에 부유하는 듯한 긴장감 있는 숏을 설계할 수 있다.",
+  "context": "앤 푸제론(Anne Fougeron)은 역사적 건물 유형을 재해석하고 복잡한 구조적 난제를 미학적으로 해결하는 작업으로 알려져 있다. 이번 프로젝트는 그녀가 강조해 온 맥락과 빛, 구조에 대한 세심한 고려가 험준한 지형이라는 물리적 제약 속에서 구현된 결과물이다.",
+  "findings": [
+   {
+    "text": "앤 푸제론은 복잡한 구조적 난제를 미학적 희생 없이 해결하는 건축가로 평가받는다.",
+    "s": 1,
+    "quote": "She is known for taking on difficult projects \"without sacrificing aesthetics.\""
+   },
+   {
+    "text": "그녀의 작업은 건축적 기회를 대립 속에서 발견하며, 프로그램과 역사적 유형을 재정의하는 특징을 가진다.",
+    "s": 1,
+    "quote": "The Princeton Architectural Press described her style as \"embrac[ing] architectural opportunities found in opposition, creating buildings that redefine program, reinvent historical building types, and reinvigorate civic "
+   }
+  ],
+  "keywords": [
+   "캔틸레버",
+   "지형순응",
+   "리노베이션",
+   "구조미학"
+  ],
+  "evidence": "Suspended between two beautiful California hills, this remodel spans a creek and boasts a waterfall in the back yard.",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "험준한 지형을 극복하는 공학적 해결책과 리노베이션의 맥락이 명확히 제시되어 건축적 영감을 준다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/986670/suspension-house-fougeron-architecture",
+  "original_title": "Suspension House / Fougeron Architecture",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 1388,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-06 06:10",
+  "research": {
+   "entities": [
+    "Fougeron Architecture",
+    "Anne Fougeron",
+    "Suspension House",
+    "Endres Studio",
+    "Ground Studio"
+   ],
+   "questions": [
+    "Suspension House가 계곡 위에 위치한 지형적 특성을 극복하기 위해 어떤 구조적 공학 기술이 적용되었는가?",
+    "기존 건물을 리노베이션하고 확장하는 과정에서 자연 경관을 보존하기 위해 Fougeron Architecture가 고려한 설계 원칙은 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Anne Fougeron",
+     "url": "https://en.wikipedia.org/wiki/Anne%20Fougeron"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 888
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "archdaily.com/1187771/school-de-hagewinde-roeselare": {
+  "title_ko": "벨기에 데 하게빈데 학교, 경사 지붕과 평지붕의 교차로 만든 학습 공간",
+  "summary_ko": "벨기에 루셀라르의 데 하게빈데 학교(De Hagewinde School)가 라아란드 아키텍텐(laagland architecten)의 설계로 645㎡ 규모의 교실 및 다목적 홀 확장을 완료했다. 건축가는 경사 지붕과 평지붕을 혼합한 비정형 볼륨을 도입하여 내부 학습 공간의 입체감을 높이고 학교에 독자적인 건축적 정체성을 부여했다.",
+  "lens": "지붕의 경사도를 시각적 장치로 활용해 단조로운 학교 내부의 수직적 볼륨을 변주하고, 빛의 유입 각도를 제어하여 학습 환경의 질을 설계했다.",
+  "why_now": "기능 위주의 학교 건축에서 벗어나, 지붕의 형태적 결합만으로 공간의 위계를 설정하는 건축적 어휘가 교육 시설의 새로운 표준으로 자리 잡고 있다.",
+  "mechanism": "박공지붕과 평지붕을 교차 배치함으로써 천장 높이의 변화를 유도하고, 이를 통해 자연광이 실내 깊숙이 도달하도록 동선을 최적화했다.",
+  "sensory": "높은 층고의 박공지붕 아래 형성된 개방감과 평지붕 구간의 안정적인 조도가 대비를 이루며, 벨룩스(VELUX) 천창을 통해 투과되는 빛이 공간의 밀도를 결정한다.",
+  "transfer": "천장고가 낮은 공간에 박공 형태의 구조물을 부분적으로 삽입해 시각적 확장감을 주는 조명 및 촬영 콘티를 구성할 수 있다.",
+  "context": "라아란드 아키텍텐은 벨기에를 기반으로 교육 시설을 포함한 다수의 공공 프로젝트를 수행하며 지역적 맥락을 고려한 확장을 선보여 왔다. 이번 프로젝트에 사용된 벨룩스 천창은 채광과 환기를 동시에 해결하는 기능적 요소로, 이전의 지속 가능한 건축 사례들에서도 공간의 질을 높이는 핵심 장치로 활용된 바 있다.",
+  "findings": [
+   {
+    "text": "벨룩스 그룹은 1941년 설립된 덴마크 기업으로 지붕 창문과 천창을 전문적으로 생산한다.",
+    "s": 2,
+    "quote": "VELUX A/S is a Danish manufacturing company that specialises in roof windows, skylights, sun tunnels and related accessories, such as blinds, shutters, sunshades and mosquito nets."
+   },
+   {
+    "text": "레이나스 알루미늄은 벨기에 뒤펠에 본사를 둔 건축용 알루미늄 제품 개발사이다.",
+    "s": 1,
+    "quote": "Reynaers Aluminium is a European developer of aluminium products for the building sector. Headquartered in Duffel, Belgium."
+   }
+  ],
+  "keywords": [
+   "학교건축",
+   "지붕설계",
+   "공간확장",
+   "교육시설"
+  ],
+  "evidence": "The new volumes adopt a dynamic architectural language, combining pitched and flat roofs to enhance the spatial quality of the learning spaces",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "학교 확장의 구체적인 볼륨 구성 방식은 확인되나, 교육 철학이나 공간의 세부적인 사용성 데이터가 부족하여 중급의 가치를 부여함.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1187771/school-de-hagewinde-roeselare",
+  "original_title": "School De Hagewinde Roeselare / laagland architecten",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 1332,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-06 06:10",
+  "research": {
+   "entities": [
+    "laagland architecten",
+    "School De Hagewinde",
+    "Thibaut Vandousselaere",
+    "Reynaers Aluminium",
+    "VELUX Group"
+   ],
+   "questions": [
+    "laagland architecten이 학교 건축에서 지향하는 공간적 특징과 교육 철학은 무엇인가요?",
+    "경사 지붕과 평지붕을 혼합한 건축적 언어가 학습 공간의 질을 어떻게 향상시키나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Reynaers Aluminium",
+     "url": "https://en.wikipedia.org/wiki/Reynaers%20Aluminium"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "VELUX",
+     "url": "https://en.wikipedia.org/wiki/VELUX"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "오스트리아 호엔엠스, 시장 거리의 틈을 메우는 재밀도화 전략",
+     "url": "https://www.archdaily.com/1184624/market-street-52-mwarchitekten"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 1207
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "dezeen.com/2026/11/05/studio-shea-south-carolina-library": {
+  "title_ko": "클린턴 공공도서관: 산업 유산과 지역 목재로 엮은 커뮤니티 거실",
+  "summary_ko": "미국 사우스캐롤라이나주 클린턴에 위치한 클린턴 공공도서관은 지역의 농업 및 섬유 제조 유산을 현대적 금속 외장재와 낮은 경사의 지붕으로 재해석했다. 스튜디오 셰아는 대지 내 참나무를 활용해 가구를 제작하고, 중앙 아트리움을 중심으로 열린 동선을 설계하여 도서관을 지역 사회의 거실로 기능하게 했다.",
+  "lens": "산업적 금속 외피와 지역 수종의 결합을 통해 척박한 철도 도시의 맥락을 환대하는 공공 공간으로 변환했다.",
+  "why_now": "디지털 정보 중심의 도서관에서 탈피해 물리적 재료와 빛의 조율을 통해 지역 공동체의 결속을 유도하는 사회적 건축의 전형을 보여준다.",
+  "mechanism": "건물 외벽의 깊은 처마와 금속 외장재는 지역의 산업적 정서를 반영하며, 중앙 아트리움의 클리어스토리 채광창은 낮에는 자연광을 깊숙이 끌어들이고 밤에는 외부로 빛을 발산하는 등대 역할을 수행한다.",
+  "sensory": "금속의 차가운 질감과 현장에서 채취한 참나무 가구의 거친 목질이 대비를 이루며, 아트리움을 통과하는 부드러운 빛이 공간 전체에 고르게 퍼진다.",
+  "transfer": "공간 연출 시 건물 입구의 깊은 처마를 활용해 관람객의 심리적 진입 장벽을 낮추고, 가구와 건축 구조를 동일한 소재로 통합하여 공간의 연속성을 강화하는 방식을 제안한다.",
+  "context": "스튜디오 셰아는 이번 프로젝트에서 도서관을 단순한 자료 보관소가 아닌 지역 주민이 참여하는 사회적 거실로 정의했다. 피드먼트 기술 대학과의 협업을 통해 대지 내 자원을 건축 요소로 치환한 점이 특징이다.",
+  "findings": [
+   {
+    "text": "피드먼트 기술 대학은 지역 비즈니스 커뮤니티에 긍정적인 영향을 미치며 주요 이해관계자에게 투자 수익을 제공하는 교육 기관이다.",
+    "s": 1,
+    "quote": "Piedmont Technical College (PTC) creates a significant positive impact on the business community and generates a return on investment to its major stakeholder groups—students, taxpayers, and society."
+   }
+  ],
+  "keywords": [
+   "커뮤니티 거실",
+   "산업 유산",
+   "아트리움",
+   "공공 건축",
+   "스튜디오 셰아"
+  ],
+  "evidence": "The deep roof overhang creates a shaded front porch that recalls the familiar social role of the porch as a place for gathering",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "지역 산업 유산과 대지 내 자원을 건축적 장치로 치환한 구체적인 방법론이 명확히 제시됨.",
+  "v": 2,
+  "url": "https://www.dezeen.com/2026/11/05/studio-shea-south-carolina-library/",
+  "original_title": "Studio Shea designs South Carolina library as \"community living room\"",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 4707,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-06 06:10",
+  "research": {
+   "entities": [
+    "Studio Shea",
+    "Clinton Public Library",
+    "Justin Shea",
+    "Keith Isaacs",
+    "Piedmont Technical College"
+   ],
+   "questions": [
+    "클린턴 공공도서관(Clinton Public Library) 건축 프로젝트에서 지역 사회의 역사와 정체성은 어떻게 공간과 재료에 반영되었는가?",
+    "스튜디오 셰아(Studio Shea)는 도서관 내부의 채광과 공간 배치를 통해 어떤 공공적 가치를 구현하고자 했는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Piedmont Technical College",
+     "url": "https://www.ptc.edu/"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Georgia Piedmont Technical College",
+     "url": "https://en.wikipedia.org/wiki/Georgia%20Piedmont%20Technical%20College"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 1729
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "design-milk.com/best-gifts-under-25": {
+  "title_ko": "예산 25달러, 일상의 무게를 바꾸는 디자인 오브제 12선",
+  "summary_ko": "디자인 밀크(Design Milk)가 25달러 이하의 예산으로 일상에 감각적인 변화를 줄 수 있는 생활 소품들을 선정했다. 뉴욕 현대미술관(MoMA)의 결정체 화병부터 앤스로폴로지(Anthropologie)의 식기, 파스타를 테마로 재해석한 타로 카드까지, 단순한 기능 이상의 서사와 시각적 유희를 담은 제품들을 소개한다.",
+  "lens": "작은 사물에 투영된 위트 있는 형태와 색감은 익숙한 일상 공간에 의외의 긴장감을 불어넣는 시각적 촉매제다.",
+  "why_now": "불안정한 시대일수록 원초적인 색채와 놀이의 요소를 일상으로 끌어들여 심리적 환기를 꾀하는 디자인 전략이 유효하다.",
+  "mechanism": "비정형의 곡선, 과감한 원색, 혹은 일상적 사물을 낯선 재료로 치환하는 방식을 통해 사물의 존재감을 강조한다.",
+  "sensory": "매끄러운 유리와 차가운 석재, 묵직한 필기구의 무게감 등 손끝에 닿는 물성이 디지털 피로를 상쇄하며 공간에 뚜렷한 질감을 더한다.",
+  "transfer": "콘티 내 소품 배치 시, 뻔한 오브제 대신 장난감 같은 형태나 과감한 패턴의 식기를 활용해 화면 속 공간의 성격을 즉각적으로 규정하라.",
+  "context": "앤스로폴로지는 독창적인 하드웨어와 협업 컬렉션을 통해 일상 기물에 개인적 서사를 입히는 데 능숙한 브랜드다. 뉴욕 현대미술관 디자인 스토어는 키덜트 미학을 성인의 공간으로 이식하며 불안을 해소하는 디자인 흐름을 주도하고 있다.",
+  "findings": [
+   {
+    "text": "파스타 타로 카드는 78장의 카드로 구성되어 있으며, 메이저 아르카나에 파스타와 드래그 퀸, 아이코닉한 디바들을 결합했다.",
+    "s": 1,
+    "quote": "The Major Arcana is bursting with pasta, drag queens, and iconic divas."
+   },
+   {
+    "text": "앤스로폴로지는 의류와 가구, 인테리어 소품을 판매하는 미국 기반의 리테일러로 어반 아웃피터스 브랜드 그룹에 속해 있다.",
+    "s": 2,
+    "quote": "Anthropologie is an American retailer operating in the U.S., Canada, France, Germany and the UK that sells clothing, jewelry, home furniture, decorations, beauty products, and gifts."
+   }
+  ],
+  "keywords": [
+   "일상디자인",
+   "오브제",
+   "공간스타일링",
+   "키덜트미학"
+  ],
+  "evidence": "Good design doesn’t require a big budget",
+  "kind": "리스트·라운드업",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "저가형 제품을 큐레이션한 리스트 형식의 기사로, 디자인적 해석은 흥미로우나 개별 제품의 심층적 분석보다는 정보 전달에 치중했다.",
+  "v": 2,
+  "url": "https://design-milk.com/best-gifts-under-25/",
+  "original_title": "The Best Gifts Under $25 (That Don’t Look or Feel Cheap)",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 9000,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-06 06:10",
+  "research": {
+   "entities": [
+    "MoMA Design Store",
+    "Anthropologie",
+    "Lindsay Mound"
+   ],
+   "questions": [
+    "저렴한 가격대임에도 불구하고 디자인적 가치가 높은 제품을 선정하는 기준은 무엇인가요?",
+    "일상적인 소품에 예술적 요소를 결합하는 디자인 트렌드가 소비자들에게 어떤 심리적 만족감을 주나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "The Pasta Tarot",
+     "url": "https://pieceworkpuzzles.com/products/the-pasta-tarot"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Anthropologie",
+     "url": "https://en.wikipedia.org/wiki/Anthropologie"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "작은 손잡이로 공간을 고치는 아키텍처럴 다이제스트의 하드웨어 가이드",
+     "url": "https://www.architecturaldigest.com/story/best-hardware-brands-interior-monologue"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "유치원 미학의 부상: 디자인계가 어린 시절로 돌아가는 이유",
+     "url": "https://www.architecturaldigest.com/story/next-big-design-movement-is-childlike-design"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "튀니지와 루이지애나의 교차점, 존 바티스트와 술레이카 자우아드의 튀니지아나 컬렉션",
+     "url": "https://www.architecturaldigest.com/story/jon-batiste-and-suleika-jaouad-anthropologie-collection"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "chars": 3130
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "architecturaldigest.com/story/victorian-architecture-meets-mediterranean-charm-in-this-5400-square-foot-home": {
+  "title_ko": "런던 빅토리아 양식 주택에 얹은 지중해적 느긋함의 대화",
+  "summary_ko": "인테리어 디자이너 마르타 데 라 리카가 런던 배터시에 위치한 1879년 건축된 4층 규모의 빅토리아 양식 주택을 리모델링했다. 기존의 높은 천장과 베이 윈도우, 계단 등 고유 골격을 보존하면서 스페인 가족의 생활 양식에 맞춰 따뜻한 색감과 수공예적 디테일을 더했다. 주방과 다이닝룸을 연결해 일상적이고 유연한 주거 공간으로 재구성했다.",
+  "lens": "빅토리아 양식의 엄격한 수직적 위계에 지중해의 개방적인 평면을 이식해, 고전적 공간이 현대적 가족의 일상을 수용하는 방식을 제안한다.",
+  "why_now": "역사적 골조를 박제하지 않고 현대적 라이프스타일의 동선으로 재해석하는 '산업 유산의 전유' 방식이 주거 건축에서도 유효함을 보여준다.",
+  "mechanism": "지하실 신설을 위해 철거했던 선룸을 재건축하며 정원과 실내를 직접 연결하는 동선을 확보해, 폐쇄적인 빅토리아 양식에 개방성을 부여했다.",
+  "sensory": "높은 천장과 베이 윈도우가 만드는 빛의 부피감 위에 따뜻한 색감의 마감재와 수공예 디테일이 얹혀, 웅장함과 안락함이 동시에 느껴진다.",
+  "transfer": "공간의 역사적 뼈대를 유지하되, 주방과 다이닝룸을 하나의 개방형 공간으로 통합하여 형식에 얽매이지 않는 자연스러운 시퀀스를 연출할 것.",
+  "context": "마르타 데 라 리카는 빌바오에서의 작업 경험을 바탕으로, 영국 건축의 정체성과 스페인식 생활 양식 사이의 문화적 대화를 공간에 투영했다.",
+  "findings": [],
+  "keywords": [
+   "빅토리아양식",
+   "공간리모델링",
+   "지중해스타일",
+   "주거건축"
+  ],
+  "evidence": "The project became a dialogue between English interior design and a more relaxed, Mediterranean lifestyle.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "전형적인 빅토리아 양식 주택의 개조 사례로, 보존과 변화의 균형을 다루고 있으나 새로운 기법적 시도보다는 주거의 본질적 안락함에 집중했다.",
+  "v": 2,
+  "url": "https://www.architecturaldigest.com/story/victorian-architecture-meets-mediterranean-charm-in-this-5400-square-foot-home",
+  "original_title": "Victorian Architecture Meets Mediterranean Charm in This Warm and Whimsical London Home",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 5253,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-06 06:10",
+  "research": {
+   "entities": [
+    "Marta de la Rica",
+    "Matthew Wilson",
+    "Victorian architecture",
+    "Battersea"
+   ],
+   "questions": [
+    "빅토리아 시대 건축 양식의 핵심적인 특징과 현대적인 인테리어 디자인을 조화시키는 방법은 무엇인가?",
+    "스페인과 영국의 서로 다른 주거 문화가 한 공간 안에서 어떻게 시각적, 기능적으로 융합될 수 있는가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "itsnicethat.com/features/starting-a-creative-career-has-never-felt-harder-27-industry-voices-on-what-comes-next": {
+  "title_ko": "창의 산업의 허리 끊기: 주니어 고용 빙하기를 돌파하는 27인의 전략",
+  "summary_ko": "디자인 채용사 리프리젠트(Represent)의 데이터에 따르면 주니어 채용 규모가 2016년 대비 81% 급감했다. 코로나19, 경제 불안, 생성형 AI의 확산이 겹친 결과다. 업계 전문가들은 주니어 역할을 단순 보조가 아닌, AI 도구를 활용해 스튜디오의 판단력을 보완하는 전략적 투자처로 재정의해야 한다고 진단한다.",
+  "lens": "주니어의 가치는 제작 속도가 아닌, 알고리즘이 흉내 낼 수 없는 판단력과 비일상적인 경험을 결합한 해석력에 있다.",
+  "why_now": "생성형 AI가 제작의 기술적 장벽을 낮추면서, 숙련된 기술자보다 '무엇을 남기고 무엇을 버릴지' 결정하는 판단력이 크리에이티브의 핵심 역량으로 부상했다.",
+  "mechanism": "스튜디오는 주니어를 단순 실무자가 아닌, 신기술을 실험하고 기존의 관습적 워크플로우를 해체하는 파트너로 격상시켜 양방향 학습 구조를 설계한다.",
+  "sensory": "디지털 피로도를 유발하는 정형화된 알고리즘 결과물에서 벗어나, 손으로 빚은 듯한 질감과 낯선 장소에서 얻은 개인적 서사를 작업의 중심에 둔다.",
+  "transfer": "콘티 작업 시 AI가 생성한 매끄러운 이미지에 의존하기보다, 감독이 직접 수집한 낯선 레퍼런스와 개인적인 관찰을 결합해 결과물의 '판단 근거'를 강화하는 샷을 설계한다.",
+  "context": "리프리젠트는 블링킹크(Blinkink) 등 글로벌 스튜디오와 협업하는 감독들의 채용과 성장을 지원해 온 채용사다. 업계의 채용 구조 변화는 니콜라스 멘데스(Nicolas Mendez)나 리암 아치볼드(Liam Archibald)처럼 독자적인 서사를 구축하는 감독들의 등장 배경과 맞물려 있다.",
+  "findings": [],
+  "keywords": [
+   "주니어 채용",
+   "생성형 AI",
+   "판단력",
+   "워크플로우"
+  ],
+  "evidence": "In 2016, design recruitment company Represent worked on 118 junior roles. So far this year, they’ve worked on 22, an 81% drop.",
+  "kind": "뉴스·이슈",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "업계의 구조적 변화를 데이터로 제시하고, 이에 대응하는 구체적인 실무 전략을 전문가들의 목소리로 균형 있게 담아냈다.",
+  "v": 2,
+  "url": "https://www.itsnicethat.com/features/starting-a-creative-career-has-never-felt-harder-27-industry-voices-on-what-comes-next",
+  "original_title": "Starting a creative career has never felt harder – 27 industry voices on what comes next",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 9000,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-06 06:10",
+  "research": {
+   "entities": [
+    "Represent",
+    "Creative Lives in Progress",
+    "How & How",
+    "Ragged Edge",
+    "DixonBaxi"
+   ],
+   "questions": [
+    "현재 창의 산업에서 주니어 채용이 급감한 구조적 원인은 무엇이며, 이를 해결하기 위해 스튜디오들은 어떤 전략을 고려하고 있나요?",
+    "생성형 AI의 등장이 주니어 크리에이터의 역할과 스튜디오 내 지식 공유 방식에 어떤 변화를 가져오고 있나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "캐비어 파리, 스페인 감독 니콜라스 멘데스 영입으로 시각적 서사 강화",
+     "url": "https://www.stashmedia.tv/caviar-paris-announces-signing-of-director-nicolas-mendez-for-french-representation/"
+    },
+    {
+     "n": 2,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "애니메이터 리암 아치볼드, 블링킹크 글로벌 감독 명단 합류",
+     "url": "https://www.stashmedia.tv/director-liam-archibald-signs-to-blinkink-roster-for-worldwide-commercial-representation/"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "블링크, 애니메이션 감독 라데야 장 영입으로 상업 영상의 외연 확장",
+     "url": "https://www.stashmedia.tv/blinkink-signs-australian-director-radheya-jang-for-worldwide-representation/"
+    }
+   ],
+   "used": [],
+   "chars": 890
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "architecturaldigest.com/story/eneby-home-doug-carina-jenkins-midcentury-nashville-home": {
+  "title_ko": "내슈빌의 1970년대 주택, 불완전한 물성으로 빚어낸 시간의 레이어",
+  "summary_ko": "앤티크 가구 딜러 부부가 1970년에 지어진 내슈빌 주택을 리노베이션하며 미드센추리 모던의 골조를 재해석했다. 건축가 그렉 더튼(Greg Dutton)은 화이트 오크와 100년 된 유럽 블루스톤 등 세월의 흔적이 깃든 재료를 사용하여 공간에 온기를 더했다. 2000년 전 로마 시대의 조각과 무지개색 모자이크 창문을 배치해 과거와 현재를 잇는 정적인 갤러리 공간을 완성했다.",
+  "lens": "매끈한 현대적 마감 대신 100년 된 석재와 구리 벽난로 등 불완전한 재료를 배치해 공간에 물리적인 시간의 무게를 입힌다.",
+  "why_now": "디지털 피로도가 높은 시대에, 건축가가 의도적으로 선택한 '불완전함'은 공간에 머무는 이들에게 정서적 안정감과 영속성을 제공한다.",
+  "mechanism": "벽체를 해체하고 동선을 재구성한 뒤, 100년 넘은 유럽산 블루스톤과 화이트 오크를 바닥과 마감재로 사용하여 건물이 마치 그 자리에 오래전부터 존재했던 것 같은 착시를 유도한다.",
+  "sensory": "오후 6시 37분, 정면으로 쏟아지는 햇살이 무지개색 모자이크 창문을 통과하며 흙빛 인테리어 위로 다채로운 색채의 그림자를 드리운다.",
+  "transfer": "공간 콘티 작업 시, 매끈한 새 자재 대신 텍스처가 살아있는 고재(reclaimed material)를 사용하여 조명 반사율을 낮추고 공간의 깊이감을 확보하는 연출을 권장한다.",
+  "context": "앤티크 딜러 부부의 컬렉션인 세르주 무이유(Serge Mouille) 조명과 루이스 폴센(Louis Poulsen)의 아티초크 펜던트는 단순한 가구가 아니라 공간의 조형적 중심을 잡는 장치로 활용된다. 이는 과거 RE:COLLECTION에서 다룬 조명의 조형적 역할에 대한 논의와 궤를 같이한다.",
+  "findings": [
+   {
+    "text": "세르주 무이유는 프랑스의 산업 디자이너이자 금세공인으로 조명 디자인으로 가장 잘 알려져 있다.",
+    "s": 1,
+    "quote": "Serge Mouille (24 December 1922 – 1988) was a French industrial designer and goldsmith. He is best known for his light fixture designs."
+   },
+   {
+    "text": "루이스 폴센은 1874년 설립된 덴마크의 조명 제조사로 폴 헤닝센 등의 디자이너와 협업했다.",
+    "s": 2,
+    "quote": "Louis Poulsen is a Danish lighting manufacturer that was founded in 1874. Louis Poulsen Lighting is represented by subsidiaries, distribution offices and agents around the world."
+   }
+  ],
+  "keywords": [
+   "미드센추리",
+   "고재",
+   "조형적 조명",
+   "공간 리노베이션"
+  ],
+  "evidence": "Flaws make the house feel better, not worse",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "건축적 리노베이션 전략과 재료의 물성이 공간의 시간성을 어떻게 구축하는지 구체적인 사례를 통해 논리적으로 설명한다.",
+  "v": 2,
+  "url": "https://www.architecturaldigest.com/story/eneby-home-doug-carina-jenkins-midcentury-nashville-home",
+  "original_title": "In This Midcentury Nashville Home a Mosaic Rainbow-Hued Window Brings Color to the Earthy Interiors",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 5119,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-06 06:11",
+  "research": {
+   "entities": [
+    "Serge Mouille",
+    "Louis Poulsen",
+    "Borge Mogensen",
+    "Dutton Studio",
+    "Vipp"
+   ],
+   "questions": [
+    "미드센추리 모던 건축의 특징을 유지하면서 현대적인 리노베이션을 진행할 때 고려해야 할 핵심 요소는 무엇인가?",
+    "인테리어 디자인에서 '고유한 불완전함(inherent imperfection)'을 가진 소재를 사용하는 것이 공간의 분위기에 어떤 영향을 미치는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Serge Mouille",
+     "url": "https://en.wikipedia.org/wiki/Serge%20Mouille"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Louis Poulsen",
+     "url": "https://en.wikipedia.org/wiki/Louis%20Poulsen"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "일상의 밀도를 높이는 사물들: 2026년 남성을 위한 큐레이션",
+     "url": "https://www.architecturaldigest.com/story/best-gifts-for-men"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "음표의 선율을 닮은 조명, 루이스 폴센의 PH 1/1 피아노 램프 재발행",
+     "url": "https://www.wallpaper.com/design-interiors/lighting/louis-poulsen-piano-lamp-poul-henningsen"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "chars": 1085
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "wallpaper.com/design-interiors/interior-accessories/christopher-john-rogers-the-rug-company": {
+  "title_ko": "크리스토퍼 존 로저스의 도안, 카펫 위에서 다시 쓰는 패션의 서사",
+  "summary_ko": "패션 디자이너 크리스토퍼 존 로저스(Christopher John Rogers)가 더 러그 컴퍼니(The Rug Company)와 협업해 10종의 러그 컬렉션 '더 스튜디오(The Studio)'를 선보였다. 그는 의복 제작 과정에서 발생하는 마커 자국, 붓질, 재단 표식 등 사소한 파편을 확대하고 추상화하여 카펫의 패턴으로 치환했다. 이는 패션의 시각적 언어를 신체 너머 공간의 영역으로 확장하려는 시도다.",
+  "lens": "의복을 짓기 위한 무용한 흔적을 거대한 면적의 러그로 확대하여, 제작의 공정 그 자체를 공간의 장식적 언어로 전이한다.",
+  "why_now": "디지털 피로도가 높은 시대에, 손으로 긋고 칠한 아날로그적 제작 과정의 흔적을 물리적 공간의 중심인 바닥으로 끌어들여 물질성을 회복한다.",
+  "mechanism": "재단 전 원단에 남기는 마커 선이나 붓질의 질감을 스케일 업(scale-up)하여 기하학적 패턴으로 재구성하고, 채도를 낮춘 색감을 적용해 주거 공간과의 조화를 꾀했다.",
+  "sensory": "확대된 붓질의 거친 질감과 겹쳐진 색면이 바닥이라는 넓은 평면 위에서 회화적 깊이감을 형성하며, 촘촘한 매듭과 평직의 물성이 시각적 밀도를 더한다.",
+  "transfer": "콘티 내 배경 설정 시, 의상 제작의 실무적인 마킹이나 도안을 그래픽 소스로 활용해 공간 전체의 톤앤매너를 규정하는 배경막이나 카펫 패턴으로 치환하라.",
+  "context": "더 러그 컴퍼니는 과거 비비안 웨스트우드 등 패션 디자이너들과 협업하며 의복의 태도를 공간으로 이식해 왔다. 크리스토퍼 존 로저스는 뉴올리언스의 다문화적 색채와 에토레 소트사스의 조형 언어에서 영감을 얻어 작업하는 디자이너로, 이번 협업을 통해 자신의 디자인 세계를 신체에서 공간으로 확장했다.",
+  "findings": [
+   {
+    "text": "크리스토퍼 존 로저스는 뉴올리언스의 아프리카, 스페인, 프랑스 미학이 섞인 독특한 시각적 언어에 영향을 받았다.",
+    "s": 2,
+    "quote": "The mix of African, Spanish and French aesthetics creates something truly idiosyncratic that can't really be replicated."
+   },
+   {
+    "text": "그는 에토레 소트사스의 단순한 형태와 색채 사용에서 영감을 받아 조형적 명료함을 추구한다.",
+    "s": 2,
+    "quote": "I really love his clarity of vision, his use of color and how he takes very simple shapes, simple lines and simple ideas and manifest them into monumental works of art."
+   }
+  ],
+  "keywords": [
+   "크리스토퍼 존 로저스",
+   "더 러그 컴퍼니",
+   "공간 디자인",
+   "패턴 연구",
+   "물리적 확장"
+  ],
+  "evidence": "I've never really thought about CJR as something that should only exist on the body",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "패션 디자이너의 제작 공정을 공간 오브제로 치환하는 구체적 기법과 철학이 명확히 드러나며, 협업의 맥락이 충분히 기술됨.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/design-interiors/interior-accessories/christopher-john-rogers-the-rug-company",
+  "original_title": "Christopher John Rogers teams up with The Rug Company: 'There's a larger visual language that we're developing'",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 3512,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-06 06:11",
+  "research": {
+   "entities": [
+    "Christopher John Rogers",
+    "The Rug Company",
+    "Orior",
+    "Marni",
+    "Vivienne Westwood"
+   ],
+   "questions": [
+    "Christopher John Rogers가 패션 디자인에서 사용하는 시각적 언어를 인테리어 소품인 러그로 확장할 때 어떤 조형적 고민을 거쳤는가?",
+    "The Rug Company가 과거 패션 브랜드들과 협업해온 방식과 이번 Christopher John Rogers와의 협업이 가지는 차별점은 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "The Rug Company",
+     "url": "https://www.therugcompany.com/"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Christopher John Rogers featuring the Lia chair",
+     "url": "https://oriorfurniture.com/in-real-life/stories/christopher-john-rogers"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Christopher John Rogers",
+     "url": "https://en.wikipedia.org/wiki/Christopher%20John%20Rogers"
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "Vivienne Westwood",
+     "url": "https://en.wikipedia.org/wiki/Vivienne%20Westwood"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "메릴 로그의 마르니, 뼈대만 남긴 급진적 해부",
+     "url": "https://www.anothermag.com/fashion-beauty/17507/marni-spring-summer-2027-ss27-meryll-rogge-review?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=the-curious-world-of-meryll-rogge-s-marni"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "찰리 XCX와 팬덤 '엔젤스': 훼손된 티셔츠로 재구성하는 동시대의 유니폼",
+     "url": "https://www.dazeddigital.com/music/article/71032/1/meet-charli-xcx-s-most-dedicated-nyc-angels?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=in-pictures-charli-xcx-s-most-dedicated-nyc-angels"
+    },
+    {
+     "n": 7,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "올리버 스티프, 비비안 웨스트우드 데드스탁으로 직조한 패션 가구",
+     "url": "https://www.dezeen.com/2026/09/07/oliver-stiff-fashion-furniture-chairs/"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "chars": 5081
+  },
+  "depth_raw": 4,
+  "depth_v": 2
  }
 }
