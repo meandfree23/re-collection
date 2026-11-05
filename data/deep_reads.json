@@ -266877,5 +266877,187 @@
   },
   "depth_raw": 4,
   "depth_v": 2
+ },
+ "wallpaper.com/architecture/residential/washerwomens-house-raul-sanchez-barcelona-spain": {
+  "title_ko": "바르셀로나 아이구아프레다, 빨래꾼의 집을 잇는 푸른 빛의 레이어",
+  "summary_ko": "건축가 라울 산체스(Raúl Sánchez)가 바르셀로나 에이샴플라 지구의 유서 깊은 '빨래꾼의 집(Casa de las Lavanderas)'을 복원했다. 1.5미터의 지대 차이를 극복하는 동선 설계와 함께, 과거 빨래터의 흔적을 코발트 블루 래커로 재해석하여 현대적인 주거 공간에 녹여냈다.",
+  "lens": "역사적 장소의 서사를 기능적 조형으로 치환하여, 과거의 노동이 머물던 공간을 현대의 일상적 층위로 변환한다.",
+  "why_now": "건축물의 원형을 박제하기보다, 특정 장소의 역사적 맥락을 색채와 빛으로 번역하여 공간의 깊이를 더하는 방식이 유효하기 때문이다.",
+  "mechanism": "건물 중심부에 배치한 채광창과 이를 감싼 광택 있는 코발트 블루 래커가 빛을 반사하며 지하 공간까지 빛을 끌어들인다.",
+  "sensory": "테라코타 타일의 투박한 질감과 강렬한 코발트 블루 래커의 매끄러운 대비가 공간의 시간적 층위를 시각적으로 강조한다.",
+  "transfer": "역사적 장소의 흔적을 특정 컬러 팔레트와 빛의 유입 경로로 치환하여, 공간의 서사를 조명 연출이나 세트 디자인의 핵심 장치로 활용한다.",
+  "context": "라울 산체스는 이전 작업인 '라 카사 델 피라타'에서 노후된 벽면 흔적을 보존하고 스테인리스 스틸을 결합해 파편화된 시간을 묶어내는 방식을 선보인 바 있다. 이번 프로젝트에서도 역사적 맥락을 훼손하지 않으면서 새로운 현대적 층위를 덧입히는 그의 일관된 복원 철학이 드러난다.",
+  "findings": [],
+  "keywords": [
+   "라울산체스",
+   "공간복원",
+   "바르셀로나",
+   "서사적건축"
+  ],
+  "evidence": "The well of light, with the glossy blue lacquer, is the element which creates the entire project",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "역사적 장소의 맥락을 색채와 빛이라는 구체적 장치로 번역해낸 점이 명확하며, 이전 작업과의 철학적 연속성까지 확인됨.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/architecture/residential/washerwomens-house-raul-sanchez-barcelona-spain",
+  "original_title": "In Barcelona, a historical washerwomen’s house is restored with a clean new look",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 3183,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-05 16:48",
+  "research": {
+   "entities": [
+    "Raúl Sánchez",
+    "Eixample",
+    "Casa de las Lavanderas"
+   ],
+   "questions": [
+    "바르셀로나 에이샴블레 지구의 까예 아이구아프레다(Calle Aiguafreda)와 빨래꾼들의 역사적 배경은 무엇인가요?",
+    "건축가 Raúl Sánchez는 역사적인 세탁부의 집을 현대적인 주거 공간으로 리노베이션하면서 어떤 디자인적 요소를 강조했나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "시간의 궤적을 보존하는 방식: 라울 산체스의 라 카사 델 피라타",
+     "url": "https://www.yellowtrace.com.au/raul-sanchez-la-casa-del-pirata-mataro-heritage-renovation/"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 249
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "designboom.com/art/spy-giant-black-triangle-madrid-square-urban-surveillance-panopticon": {
+  "title_ko": "마드리드 시벨레스 광장의 검은 삼각형, 파놉티콘이 던지는 감시의 역설",
+  "summary_ko": "스페인 도시 예술가 스파이(SpY)가 마드리드 시벨레스 광장에 20미터 높이의 정삼각형 구조물 '파놉티콘(PANOPTICON)'을 설치했다. 이 거대한 검은 구조물은 주변의 역사적 건축물과 강렬한 대비를 이루며, 꼭짓점에 설치된 CCTV가 촬영한 광장의 실시간 파편적 영상을 내부 모니터를 통해 관람객에게 송출한다.",
+  "lens": "도시를 조망하는 시선을 차단하고, 그 자리에 감시의 기술을 치환하여 관람객을 관찰자이자 피관찰자로 위치시키는 공간적 전복이다.",
+  "why_now": "디지털 추적과 공공 데이터 수집이 일상이 된 현대 도시에서, 보이지 않는 감시 체계를 물리적 형태와 영상 매체로 시각화해 그 권력 구조를 직면하게 한다.",
+  "mechanism": "20미터 규모의 불투명한 기하학적 매스가 도시의 파노라마 뷰를 물리적으로 차단하고, 그 경계에 배치된 틈을 통해 CCTV가 포착한 파편적 영상을 내부에서 재생하는 구조다.",
+  "sensory": "역사적 건물의 장식적 파사드와 대비되는 무겁고 단단한 검은색의 비정형적 질감, 그리고 차가운 모니터 속에서 끊임없이 재생되는 도시의 소란스러운 파편들이 교차한다.",
+  "transfer": "공간 연출 시 특정 구역의 시야를 의도적으로 차단한 뒤, 그 틈으로 외부의 실시간 영상을 투사하여 관람객이 물리적 공간과 매개된 영상 사이를 오가게 구성한다.",
+  "context": "스파이는 도시 환경을 캔버스 삼아 공공 예술의 영역을 확장해 온 작가로, 이전 작업들에서도 키네틱 조형물과 빛을 활용해 공간의 지각 방식을 비틀어왔다. 이번 작업은 제레미 벤담(Jeremy Bentham)의 파놉티콘 모델을 현대적 감시 기술과 결합하여 도시 공간의 통제와 사생활 문제를 탐구한다.",
+  "findings": [
+   {
+    "text": "스파이는 도시 예술에서 공공 예술로의 진화 과정에서 가장 독창적인 기여를 하는 작가 중 한 명이다.",
+    "s": 1,
+    "quote": "The contextual art projects of Spanish artist SpY are among the most original and talked-about contributions in the evolution from urban art to public art."
+   },
+   {
+    "text": "제레미 벤담은 공리주의의 창시자로, 감시 체계인 파놉티콘 모델을 제안한 철학자이다.",
+    "s": 3,
+    "quote": "Jeremy Bentham was an English philosopher, jurist, and social reformer regarded as the founder of modern utilitarianism."
+   }
+  ],
+  "keywords": [
+   "파놉티콘",
+   "도시감시",
+   "스파이",
+   "공공예술",
+   "시각적개입"
+  ],
+  "evidence": "PANOPTICON by urban artist SpY is a large-scale temporary architectural installation configured as an equilateral black triangle measuring 20 meters on each side.",
+  "kind": "프로젝트",
+  "depth": 5,
+  "grounding": "full",
+  "depth_reason": "철학적 개념인 파놉티콘을 물리적 건축 설치로 치환하여 감시와 시선의 역학 관계를 명확한 기법으로 구현했기 때문이다.",
+  "v": 2,
+  "url": "https://www.designboom.com/art/spy-giant-black-triangle-madrid-square-urban-surveillance-panopticon/",
+  "original_title": "SpY installs giant black triangle in madrid square to explore urban surveillance",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 4007,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-05 16:48",
+  "research": {
+   "entities": [
+    "SpY",
+    "PANOPTICON",
+    "Palacio de Cibeles",
+    "Jeremy Bentham"
+   ],
+   "questions": [
+    "제레미 벤담의 파놉티콘 모델이 현대 도시의 감시 체계와 어떻게 연결되는가?",
+    "SpY의 설치 미술이 물리적 구조물과 CCTV 영상을 결합하여 관람객에게 전달하고자 하는 메시지는 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Urban and Public art",
+     "url": "https://spy-urbanart.com/"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Espionage",
+     "url": "https://en.wikipedia.org/wiki/Espionage"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Jeremy Bentham",
+     "url": "https://en.wikipedia.org/wiki/Jeremy%20Bentham"
+    }
+   ],
+   "used": [
+    1,
+    3
+   ],
+   "chars": 2955
+  },
+  "depth_raw": 5,
+  "depth_v": 2
+ },
+ "creativeboom.com/insight/tomas-brousil-on-what-separates-a-true-type-system-from-a-merely-large-font-family": {
+  "title_ko": "서체의 실전적 구축: 수트케이스 타입 파운드리가 제안하는 시스템 중심의 서체 선택법",
+  "summary_ko": "프라하의 수트케이스 타입 파운드리(Suitcase Type Foundry) 설립자 토마시 브로우실(Tomáš Brousil)이 실무 프로젝트에서 서체를 선택하는 4가지 기준을 제시한다. 그는 단순히 시각적 화려함에 현혹되기보다 서체의 위계, 기술적 확장성, 그리고 실제 사용 환경을 고려한 시스템적 접근의 중요성을 강조한다.",
+  "lens": "목업의 화려함 뒤에 숨은 서체의 본질을 보려면, 폰트의 시각적 매력이 아닌 위계와 기술적 실용성이 결합된 시스템 전체를 설계해야 한다.",
+  "why_now": "디지털 환경에서 서체는 단순한 디자인 요소를 넘어 정보의 위계와 브랜드 아이덴티티를 조율하는 핵심 인프라로 작동하기 때문이다.",
+  "mechanism": "광학 사이즈(optical grades)와 잉크 트랩(ink traps) 같은 기술적 장치를 활용해, 동일한 서체 패밀리 내에서도 본문과 캡션의 가독성을 유지하며 시각적 일관성을 확보한다.",
+  "sensory": "본문용 서체의 정갈한 가독성부터 디스플레이용 서체의 극단적인 대비와 굵기까지, 인쇄 매체와 스크린 환경에서 느껴지는 물리적 밀도와 질감의 차이를 체감하게 한다.",
+  "transfer": "광고 콘티나 공간 사이니지 설계 시, 서체의 크기 변화에 의존하지 말고 서체 패밀리 내의 서로 다른 분류를 조합해 시각적 위계를 구성하는 방식을 시도하라.",
+  "context": "수트케이스 타입 파운드리는 2003년부터 프라하를 거점으로 50여 개의 리테일 서체 패밀리와 기업 맞춤형 서체 제작을 병행해 왔다. 토마시 브로우실은 10년에 걸쳐 타박(Tabac) 슈퍼패밀리를 완성하며 서체의 광학적 조정이 실무에서 어떻게 기능하는지 실증했다.",
+  "findings": [],
+  "keywords": [
+   "타이포그래피",
+   "타입 시스템",
+   "서체 설계",
+   "브랜드 아이덴티티"
+  ],
+  "evidence": "A mockup is just an attractive simulation in which the designers present their typeface under ideal conditions.",
+  "kind": "작가·인터뷰",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "서체 선택의 실무적 기준을 시스템적 관점에서 체계적으로 정리했으나, 새로운 기술적 발명보다는 기존 원칙의 재해석에 가깝다.",
+  "v": 2,
+  "url": "https://www.creativeboom.com/insight/tomas-brousil-on-what-separates-a-true-type-system-from-a-merely-large-font-family/",
+  "original_title": "Tomáš Brousil on how to choose typefaces that work in the real world",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 9000,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-05 16:48",
+  "research": {
+   "entities": [
+    "Tomáš Brousil",
+    "Suitcase Type Foundry",
+    "Tabac"
+   ],
+   "questions": [
+    "타이포그래피에서 '시스템'으로서의 서체란 무엇이며, 왜 단순히 글자 크기보다 중요한가요?",
+    "실제 프로젝트에서 서체를 선택할 때 시각적 화려함 외에 고려해야 할 기술적 세부 사항에는 어떤 것들이 있나요?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
  }
 }
