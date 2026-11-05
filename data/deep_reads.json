@@ -266817,5 +266817,65 @@
   },
   "depth_raw": 4,
   "depth_v": 2
+ },
+ "archdaily.com/1187279/funamoto-dental-clinic-studio-aluc": {
+  "title_ko": "후나모토 치과: 동해의 강풍과 흐린 하늘을 네 개의 볼륨으로 길들이는 법",
+  "summary_ko": "일본 이시카와현 우치나다에 위치한 후나모토 치과는 스튜디오 알룩이 건축부터 인테리어, 가구까지 전 과정을 설계한 프로젝트다. 동해에서 불어오는 강한 바람과 호쿠리쿠 지역 특유의 흐린 기후를 고려해, 불규칙한 삼각형 대지 위에 네 개의 볼륨을 엇갈리게 배치하는 방식을 택했다.",
+  "lens": "기후의 악조건을 정면 돌파하지 않고, 매스를 분절하고 엇갈려 배치함으로써 바람의 길을 열고 내부로 유입되는 빛의 밀도를 조절했다.",
+  "why_now": "기후 위기 시대, 건축이 외부 환경과 대립하지 않고 지형과 기후의 물리적 압력을 형태적 논리로 번역하는 설계 전략이 필수적이다.",
+  "mechanism": "불규칙한 대지 경계에 맞춰 네 개의 볼륨을 엇갈리게 배치하여 건물 사이의 틈을 만들고, 이 틈을 통해 흐린 날에도 균일한 채광을 실내로 끌어들인다.",
+  "sensory": "동해의 거친 바람을 견디는 단단한 매스감과, 엇갈린 볼륨 사이로 쏟아지는 호쿠리쿠 특유의 부드럽고 확산된 빛의 대비가 공간의 핵심이다.",
+  "transfer": "공간 연출 시 매스를 하나로 묶지 않고 분절하여 관람객의 동선에 따라 빛의 양과 시야가 변화하는 리듬감을 설계에 반영한다.",
+  "context": "스튜디오 알룩은 나즈나 하코네 미야노시타 프로젝트에서 목조 건축의 문법을 철근 콘크리트 구조로 치환하며 공간의 밀도를 다룬 바 있다. 이번 프로젝트는 기존의 리노베이션 작업에서 보여준 재료적 해석을 넘어, 기후와 대지라는 물리적 환경에 대응하는 건축적 해법으로 영역을 확장했다.",
+  "findings": [
+   {
+    "text": "스튜디오 알룩은 나즈나 하코네 미야노시타 호텔 리노베이션을 통해 목조 건축의 문법을 철근 콘크리트로 치환하는 작업을 수행했다.",
+    "s": 1,
+    "quote": "스튜디오 알룩(STUDIO ALUC)은 일본 오다와라에 위치한 나즈나 하코네 미야노시타 호텔의 리노베이션을 설계했다. 교토의 목조 마치야를 현대적으로 재해석해온 나즈나 브랜드의 정체성을 철근 콘크리트 구조의 하코네 현장에 이식하는 데 집중했다."
+   }
+  ],
+  "keywords": [
+   "기후순응",
+   "볼륨분절",
+   "스튜디오알룩",
+   "건축디자인"
+  ],
+  "evidence": "Strong winds sweeping in from the Sea of Japan and the overcast skies of Hokuriku—guided by this climate and an irregular triangular site, the architecture takes the form of four staggered volumes.",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "지역 기후와 대지 조건을 해결하기 위한 매스 분절 전략이 명확하며, 건축부터 가구까지 통합적 디자인을 수행한 구체적인 사례다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1187279/funamoto-dental-clinic-studio-aluc",
+  "original_title": "Funamoto Dental Clinic / STUDIO ALUC",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 1375,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-05 13:26",
+  "research": {
+   "entities": [
+    "STUDIO ALUC",
+    "Kenta Hasegawa"
+   ],
+   "questions": [
+    "후나모토 치과(Funamoto Dental Clinic)의 독특한 엇갈린 네 개의 볼륨 형태는 지역의 기후 조건과 어떻게 연관되어 있나요?",
+    "STUDIO ALUC는 이 프로젝트에서 건축부터 인테리어와 맞춤형 가구 디자인까지 어떻게 일관성을 유지했나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "나즈나 하코네 미야노시타: 철근 콘크리트 구조로 재해석한 교토의 공간 감각",
+     "url": "https://www.archdaily.com/1187278/nazuna-hakone-miyanoshita-hotel-studio-aluc"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 225
+  },
+  "depth_raw": 4,
+  "depth_v": 2
  }
 }
