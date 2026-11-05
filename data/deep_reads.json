@@ -265397,5 +265397,985 @@
   },
   "depth_raw": 3,
   "depth_v": 2
+ },
+ "yellowtrace.com.au/nielsen-jenkins-with-michael-lumby-stuartholme-house-australian-architecture": {
+  "title_ko": "브리즈번의 전후 주택을 재구성한 스튜어트홀름 하우스",
+  "summary_ko": "닐슨 젠킨스(Nielsen Jenkins)와 마이클 럼비(Michael Lumby)가 호주 브리즈번의 전후 전원주택을 확장하여 안뜰과 새로운 거주 공간을 배치했다. 쿠트 산의 수풀을 배경으로 자리 잡은 이 프로젝트는 기존 구조에 새로운 프로그램과 동선을 더해 공간을 다층적으로 재편한다.",
+  "lens": "전후의 소박한 주택 구조를 확장하며 자연 지형과 안뜰을 긴밀하게 엮어낸다.",
+  "why_now": "도시 외곽의 오래된 주택을 완전히 허물지 않고 지형과 수풀에 순응하는 방식으로 고쳐 쓰는 흐름을 보여준다.",
+  "mechanism": "전용 안뜰을 중심으로 라운지 룸과 메인 침실 스위트를 배치하여 건물 내부로 외부 풍경을 끌어들이고 동선을 유도한다.",
+  "sensory": "쿠트 산의 짙은 수풀이 창을 통해 시각적으로 깊이 들어오며 안뜰을 거치는 빛의 변화가 공간의 감각을 바꾼다.",
+  "transfer": "공간 콘티에서 실내와 외부 안뜰을 맞닿게 두고 자연광이 깊숙이 스며드는 시퀀스를 설계할 때 참고한다.",
+  "context": "브리즈번 서쪽의 긴 블록에 위치한 전후 전원주택을 대상으로 닐슨 젠킨스와 마이클 럼비가 공동으로 설계했다.",
+  "findings": [],
+  "keywords": [
+   "브리즈번 주택",
+   "건축 리노베이션",
+   "안뜰",
+   "자연 순응"
+  ],
+  "evidence": "Stuartholme House by Nielsen Jenkins with Michael Lumby",
+  "kind": "프로젝트",
+  "depth": 2,
+  "grounding": "thin",
+  "depth_reason": "원문 본문을 가져오지 못하고 메타 정보와 RSS 요약만으로 작성되어 정보가 제한적이다.",
+  "v": 2,
+  "url": "https://www.yellowtrace.com.au/nielsen-jenkins-with-michael-lumby-stuartholme-house-australian-architecture/",
+  "original_title": "Stuartholme House Turns a Post-War Brisbane Cottage Into an Architecture of Quiet Intelligence.",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 0,
+  "fetch": "fetch_error:HTTPError",
+  "cliche_hits": [],
+  "read_at": "2026-11-05 11:05",
+  "research": {
+   "entities": [
+    "Nielsen Jenkins",
+    "Michael Lumby",
+    "Stuartholme House",
+    "Mt Coot-tha"
+   ],
+   "questions": [
+    "Stuartholme House의 건축적 특징과 전후 브리즈번 주택 양식의 연관성은 무엇인가?",
+    "Nielsen Jenkins와 Michael Lumby는 이번 프로젝트에서 어떤 디자인 철학을 적용했는가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 2,
+  "depth_v": 2
+ },
+ "thisiscolossal.com/2026/11/great-art-explained-henri-matisse-the-red-studio-video": {
+  "title_ko": "모든 원칙을 지운 단 하나의 붉은 방, 마티스의 붉은 아틀리에",
+  "summary_ko": "미술사학자 제임스 페인의 다큐멘터리 쇼트는 앙리 마티스가 1911년 제작한 유화 '붉은 아틀리에'의 역사를 추적한다. 원근법을 지우고 베네치안 레드 단색으로 화면을 채운 이 파격적인 작업은 당시 대중과 비평가에게 철저히 외면받았으나 현재 뉴욕 현대미술관(MoMA) 소장품으로 자리 잡았다.",
+  "lens": "원근과 선을 지우고 단색의 면으로 공간을 압축해 평면성의 극한을 연출한다.",
+  "why_now": "시각적 자극이 넘치는 매체 환경 속에서 단일한 색면과 재료의 물성만으로 공간의 깊이를 재정의하는 고전적 실험의 가치가 다시 주목받는다.",
+  "mechanism": "베네치안 레드 색상을 화면 전면에 빠르게 칠해 원근법적 깊이감을 지우고 가구와 사물을 단순한 외곽선으로만 표현했다.",
+  "sensory": "캔버스를 가득 채운 압도적인 붉은색 면과 바늘 없는 시계가 만들어내는 시간의 정지된 질감.",
+  "transfer": "공간을 촬영할 때 단일한 컬러 필터와 최소한의 외곽선만 남긴 조명을 사용해 원근감을 의도적으로 지우는 콘티로 응용한다.",
+  "context": "프랑스 화가 앙리 마티스는 1900년에서 1905년 사이 야수파 운동을 이끌며 강렬한 색채를 실험했고 1911년작 '붉은 아틀리에(L'Atelier Rouge)'는 2004년 미술 전문가 투표에서 가장 영향력 있는 현대 미술 작품 5위에 올랐다.",
+  "findings": [
+   {
+    "text": "앙리 마티스의 1911년 작 유화 '붉은 아틀리에'는 뉴욕 현대미술관 소장품이다.",
+    "s": 4,
+    "quote": "The Red Studio (French: L'Atelier Rouge) is an oil on canvas painting by French artist Henri Matisse from 1911. It is held in the collection of the Museum of Modern Art, in New York."
+   },
+   {
+    "text": "2004년 '붉은 아틀리에'는 500명의 미술 전문가가 투표한 가장 영향력 있는 현대 미술 작품 순위에서 5위를 차지했다.",
+    "s": 4,
+    "quote": "In 2004, L'Atelier Rouge came in at No. 5 in a poll of 500 art experts voting for the most influential of all works of modern art"
+   },
+   {
+    "text": "앙리 마티스는 1917년에 프랑스 리비에라의 니스 교외로 거주지를 옮겼다.",
+    "s": 3,
+    "quote": "In 1917, he relocated to a suburb of Nice on the French Riviera"
+   }
+  ],
+  "keywords": [
+   "앙리 마티스",
+   "붉은 아틀리에",
+   "평면성",
+   "색채",
+   "MoMA"
+  ],
+  "evidence": "Matisse flattened the picture plane, removing the usual cues about perspective and depth with a quickly applied swath of Venetian red.",
+  "kind": "영상·필름",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "미술사적 명작의 배경을 다큐멘터리 쇼트를 통해 흥미롭게 조명했으나 기존 미술사 연구의 범주를 크게 벗어나지 않는다.",
+  "v": 2,
+  "url": "https://www.thisiscolossal.com/2026/11/great-art-explained-henri-matisse-the-red-studio-video/",
+  "original_title": "Great Art Explained Traces the Incredible Story of Henri Matisse’s ‘The Red Studio’",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 3331,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-05 11:07",
+  "research": {
+   "entities": [
+    "Henri Matisse",
+    "The Red Studio",
+    "Gustave Moreau",
+    "Marcel Duchamp",
+    "Museum of Modern Art"
+   ],
+   "questions": [
+    "앙리 마티스의 '붉은 아틀리에'가 당시 미술계와 대중에게 거센 비판을 받았던 조형적·예술사적 이유는 무엇인가?",
+    "이 작품이 런던의 나이트클럽에서 전시되는 등 오랜 기간 저평가되다가 현대에 이르러 걸작으로 재평가되기까지 어떤 과정을 거쳤는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Introduction",
+     "url": "https://archive.artic.edu/armoryshow/"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Marcel Duchamp, Nude Descending a Staircase (No. 2), 1912",
+     "url": "https://www.philamuseum.org/objects/51449"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Henri Matisse",
+     "url": "https://en.wikipedia.org/wiki/Henri%20Matisse"
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "The Red Studio",
+     "url": "https://en.wikipedia.org/wiki/The%20Red%20Studio"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "맨해튼 크라운 빌딩의 재탄생, 아만 뉴욕이 선보이는 7개의 프라이빗 홈",
+     "url": "https://www.wallpaper.com/travel/hotels/aman-new-york-homes"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "역사의 권력 구조를 비추는 거울, 모건 라이브러리의 타로 전시",
+     "url": "https://hyperallergic.com/how-tarot-survived-for-500-years/"
+    },
+    {
+     "n": 7,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "사라 미켈슨의 무용 연대기, 미술관을 점유하는 자기 참조적 궤적",
+     "url": "https://hyperallergic.com/sarah-michelsons-delicate-fetish-play/"
+    }
+   ],
+   "used": [
+    3,
+    4
+   ],
+   "chars": 5267
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "archdaily.com/1188090/tabasco-267-apartment-caam-arquitectos": {
+  "title_ko": "시간의 뼈대를 원료 삼다, 멕시코시티 타바스코 267 아파트",
+  "summary_ko": "멕시코시티 로마 노르테 지역에 위치한 90제곱미터 규모의 아파트를 CAAM 아르키텍토스가 개조했다. 건축가는 기존 건물의 상태를 주된 재료로 삼아 평면 배치와 천장, 마감재, 조명을 전면 수정했다.",
+  "lens": "기존의 흔적을 지우지 않고 건물의 뼈대를 그대로 전용해 공간의 밀도를 채운다.",
+  "why_now": "새로운 자재를 소비하기보다 공간이 지닌 과거의 레이어를 그대로 노출해 시간성을 확보하는 방식이 주목받는다.",
+  "mechanism": "기존 공간의 구조와 마감 조건을 철거하지 않고 디자인의 원료로 편입해 레이아웃과 빛의 방향을 바꾼다.",
+  "sensory": "오래된 건물의 거친 물성과 새롭게 가공된 마감재가 충돌하며 공간 전체에 독특한 시각적 무게를 만든다.",
+  "transfer": "오래된 벽면이나 천장의 원형을 그대로 남긴 채 부분적인 조명과 금속 구조물만 더하는 공간 콘티에 활용한다.",
+  "context": "CAAM 아르키텍토스가 설계하고 자익스 모즈가 사진을 촬영한 이 프로젝트는 멕시코시티 로마 노르테의 주거 공간을 새롭게 해석한다.",
+  "findings": [],
+  "keywords": [
+   "공간개조",
+   "아파트인테리어",
+   "멕시코시티",
+   "주거디자인"
+  ],
+  "evidence": "Tabasco 267 is the renovation of a 90-square-meter (968-square-foot) apartment in the Roma Norte neighborhood of Mexico City.",
+  "kind": "프로젝트",
+  "depth": 2,
+  "grounding": "thin",
+  "depth_reason": "구체적인 개조 프로젝트이나 원문 분량이 짧아 세부 기법 확인이 제한적이다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1188090/tabasco-267-apartment-caam-arquitectos",
+  "original_title": "Tabasco 267 Apartment / CAAM Arquitectos",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 1051,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-05 11:07",
+  "research": {
+   "entities": [
+    "CAAM Arquitectos",
+    "Zaicks Moz",
+    "Roma Norte",
+    "Mexico City"
+   ],
+   "questions": [
+    "Tabasco 267 아파트의 기존 구조적 특징은 리노베이션 과정에서 어떻게 활용되었나요?",
+    "Roma Norte 지역의 건축적 특성이 이 아파트 인테리어 디자인에 어떤 영향을 미쳤나요?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "archdaily.com/1034969/sewing-atelier-studio-atelier-77-plus-materia-base": {
+  "title_ko": "200년 된 석축 옹벽 위에 얹은 리오데자네이루의 재봉 아틀리에",
+  "summary_ko": "브라질 리오데자네이루의 역사적인 산타 테레사 동네에 위치한 이 재봉 스튜디오는 아틀리에 77과 마테리아 베이스가 설계했다. 200여 년 전에 축조된 석조 옹벽으로 둘러싸인 플랫폼 위에 건물을 올려, 기존의 묵직한 구조물이 신축 건축의 물리적 경계이자 구조적 지지대 역할을 담당한다.",
+  "lens": "200년 된 거친 석축 옹벽을 신축 건물의 구조적 뼈대로 삼아 시간을 겹쳐 쌓는다.",
+  "why_now": "도시 유산을 허물고 새로 짓는 방식 대신, 백 년이 넘은 기존 축조물을 새로운 건축의 골조로 끌어안는 태도가 도시 재생의 핵심으로 자리 잡는다.",
+  "mechanism": "200년 전 세워진 석조 옹벽이 플랫폼의 경계를 한정하고 하중을 견디는 기초 구조체로 기능하며, 그 위에 새로운 건축 개입이 얹힌다.",
+  "sensory": "시간의 풍파를 고스란히 품은 거친 석재 표면과 그 위로 밀착된 현대적 건축 매스가 만들어내는 극단적인 물성의 대비가 현장을 지배한다.",
+  "transfer": "영상 콘티에서 과거의 낡은 시멘트나 석재 벽체를 그대로 백드롭으로 세우고, 그 앞에 매끄러운 금속이나 유리 소재의 소품을 배치해 시간 차를 시각화하는 장치로 쓴다.",
+  "context": "아틀리에 77과 마테리아 베이스가 협업하여 리오데자네이루의 역사적 지구인 산타 테레사에 완성한 프로젝트다.",
+  "findings": [],
+  "keywords": [
+   "석조옹벽",
+   "도시재생",
+   "리오데자네이루",
+   "아틀리에"
+  ],
+  "evidence": "Located in the historic neighborhood of Santa Teresa in Rio de Janeiro, this sewing studio occupies a platform surrounded by a stone retaining wall, built over 200 years ago",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "역사적 석축 옹벽을 구조적 지지대로 활용하는 접근이 흥미롭지만 원문 설명이 짧다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1034969/sewing-atelier-studio-atelier-77-plus-materia-base",
+  "original_title": "Sewing Atelier Studio / Atelier 77 + Matéria Base",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 1457,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-05 11:07",
+  "research": {
+   "entities": [
+    "Atelier 77",
+    "Matéria Base",
+    "Federico Cairoli",
+    "Nanda Eskes"
+   ],
+   "questions": [
+    "리오데자네이루 산타 테레사 지역의 역사적 맥락이 이 건축 프로젝트에 어떻게 반영되었는가?",
+    "200년 된 석축 옹벽 위에 지어진 구조물은 신축 개입 과정에서 어떤 방식으로 결합되었는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "PH 딕맨: 좁은 필지에서 발휘되는 건축적 유연함과 밀도",
+     "url": "https://www.archdaily.com/1186772/ph-dickman-ph-tipo-casa"
+    },
+    {
+     "n": 2,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "브라질 산악 계곡의 풍경을 담는 메인 하우스",
+     "url": "https://www.archdaily.com/1034259/house-sede-messina-rivas"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "숲과 강 사이에 숨겨진 구조, 카사 카날 주택",
+     "url": "https://www.archdaily.com/1187072/casa-canal-este-norte-estudio"
+    }
+   ],
+   "used": [],
+   "chars": 660
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "hyperallergic.com/so-youve-been-invited-to-documenta-16-heres-our-advice": {
+  "title_ko": "도큐멘타 16의 초대장, 예술가들이 마주한 검열과 선택의 기로",
+  "summary_ko": "다가오는 도큐멘타 16의 참여를 제안받은 예술가들이 수락 여부를 두고 고민하고 있다. 이전 회차인 도큐멘타 15 당시 팔레스타인 지지 예술가들을 향했던 독일 언론과 정치권의 공격 경험이 원인이다. 독일 문화계가 국가 예산 지원 조건과 연계된 반유대주의 정의 및 보이콧 규제 속에서 독립성을 잃었다는 비판이 제기된다.",
+  "lens": "예술 제도가 국가 권력의 연장선이 될 때, 창작자는 어디까지 침묵을 강요받는가.",
+  "why_now": "도큐멘타 16이 예술가들의 잇따른 참여 거부와 검열 논란 속에서 기관의 신뢰 회복을 시험받고 있다.",
+  "mechanism": "독일 연방의회의 결의안과 공적 자금 지원 조건이 예술가의 발언을 억제하는 정치적 도구로 작동한다.",
+  "sensory": "국가 예산에 종속된 문화 기관들이 침묵 속에서 잃어버린 신뢰와 공허한 전시장 내부의 긴장감.",
+  "transfer": "공공 자금과 기관의 검열에 직면한 프로젝트에서 창작자가 자신의 독립성을 지키기 위한 계약 및 협상 콘티를 설계할 때 참고한다.",
+  "context": "도큐멘타(documenta)는 독일 카셀에서 5년마다 열리는 현대미술 전시다. 2019년 독일 하원의회는 보이콧·철수·제재(BDS) 운동을 지지하는 단체에 연방 기금을 지원하지 않는 결의안을 통과시킨 바 있다.",
+  "findings": [
+   {
+    "text": "독일 연방의회는 BDS 운동을 비난하고 이 운동을 적극 지상하는 조직에 대한 자금 지원을 중단하는 결의안을 통과시켰다.",
+    "s": 1,
+    "quote": "A cross-party alliance in the German parliament on Friday passed a resolution condemning the Boycott, Divestment, Sanctions (BDS) campaign, and cutting off funding to any organizations that \"actively support\" the BDS mov"
+   },
+   {
+    "text": "도큐멘타는 독일 카셀에서 5년마다 개최되는 현대미술 전시이다.",
+    "s": 3,
+    "quote": "Documenta is an exhibition of contemporary art which takes place every five years in Kassel, Germany."
+   }
+  ],
+  "keywords": [
+   "도큐멘타 16",
+   "예술 검열",
+   "국가 지원금",
+   "지정학적 갈등",
+   "표현의 자유"
+  ],
+  "evidence": "An invitation to documenta is not something one receives thoughtlessly. It is hard to turn down, and these days, it is also becoming hard to accept.",
+  "kind": "뉴스·이슈",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "도큐멘타 16을 둘러싼 예술가의 윤리적 딜레마와 제도적 압박을 다룬 현장 증언으로 정보가 구체적이다.",
+  "v": 2,
+  "url": "https://hyperallergic.com/so-youve-been-invited-to-documenta-16-heres-our-advice/",
+  "original_title": "So You’ve Been Invited to Documenta 16. Here’s Our Advice.",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 4734,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-05 11:07",
+  "research": {
+   "entities": [
+    "documenta",
+    "Bundestag",
+    "International Holocaust Remembrance Alliance"
+   ],
+   "questions": [
+    "documenta 15 당시 발생한 반유대주의 논란과 그로 인해 독일 예술계가 겪은 변화는 무엇인가요?",
+    "독일의 예술 지원 정책과 BDS 결의안이 예술가의 표현의 자유와 기관의 독립성에 어떤 영향을 미치고 있나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Lawmakers condemn 'anti-Semitic' BDS movement",
+     "url": "https://www.dw.com/en/german-parliament-condemns-anti-semitic-bds-movement/a-48779516?ref=hyperallergic.com"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "A new German resolution seeks to deprive Israel critics of public money",
+     "url": "https://www.middleeasteye.net/news/german-government-antisemitism-resolution-causes-outcry?ref=hyperallergic.com"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Documenta",
+     "url": "https://en.wikipedia.org/wiki/Documenta"
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "Bundestag",
+     "url": "https://en.wikipedia.org/wiki/Bundestag"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "도큐멘타 16의 나오미 벡위드, 예술적 자유와 지정학적 긴장 사이의 대화",
+     "url": "https://hyperallergic.com/naomi-beckwith-says-shes-not-afraid-of-pro-palestine-protest-at-documenta-16/"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "2026년 9월 주목할 예술 공모 및 레지던시: 지원 전략과 체크리스트",
+     "url": "https://www.thisiscolossal.com/2026/08/september-2026-open-calls-residencies-artist-grants/"
+    },
+    {
+     "n": 7,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "안드레아스 안젤리다키스, 가상과 폐허 사이를 유영하는 사운드스케이프",
+     "url": "https://www.designboom.com/art/designboom-listens-andreas-angelidakis-music-making-remembering-escaping-interview/"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "chars": 8331
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "dezeen.com/2026/11/04/hemlock-house-ontario-brian-o-brian": {
+  "title_ko": "농장 건물의 기억을 현대적 주거로 번역한 온타리오 헴록 하우스",
+  "summary_ko": "토론토 건축가 브라이언 오브라이언이 온타리오주 마크데일의 72에이커 대지에 주말 주택 헴록 하우스를 완공했다. 기존 농가 건물의 형태를 현대적으로 재해석하여 긴 직사각형 매스와 박스형 볼륨을 결합했으며, 주름 금속 외관과 녹지 지붕을 통해 주변 지형과 조화를 꾀했다.",
+  "lens": "농업용 창고의 폐쇄적인 금속 외피와 주거의 개방적인 목재 파사드를 대비시켜 관찰자의 접근에 따라 변하는 건물의 표정을 설계했다.",
+  "why_now": "기존 농업 유산의 골조를 박제하지 않고 현대적 주거 기능으로 치환하여, 지역적 맥락과 동시대 거주 방식을 잇는 절충적 접근이 요구되는 시점이다.",
+  "mechanism": "북측의 주름 금속 벽면에 슬라이딩 방식의 타공 강철 패널을 설치해 시선과 빛을 조절하며, 남측에는 헴록 사이딩과 대형 창호를 배치해 자연광을 적극적으로 수용한다.",
+  "sensory": "산화된 금속의 차가운 질감과 헴록 목재의 따뜻한 물성이 콘크리트 바닥과 만나 공간 전체에 일관된 산업적 무게감을 형성한다.",
+  "transfer": "외벽의 타공 강철 패널을 상하로 개폐하는 기법을 활용해, 촬영 시 빛의 투과율과 프레임 내부의 피사체 노출도를 조절하는 콘티로 활용 가능하다.",
+  "context": "브라이언 오브라이언은 과거 19세기 학교 건물을 주택으로 개조한 경험을 바탕으로, 이번 프로젝트에서도 기존 농가 건물의 어휘를 현대적 주거 형태로 확장했다.",
+  "findings": [],
+  "keywords": [
+   "농업 건축",
+   "주름 금속",
+   "헴록 목재",
+   "지형 순응"
+  ],
+  "evidence": "extends the language of agricultural buildings into a contemporary domestic form",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "농업 유산을 현대적 주거로 번역하는 방식이 구체적이나, 재료와 기법의 독창성 면에서 표준적인 현대 건축의 범주를 크게 벗어나지 않는다.",
+  "v": 2,
+  "url": "https://www.dezeen.com/2026/11/04/hemlock-house-ontario-brian-o-brian/",
+  "original_title": "Ontario house by Brian O'Brian takes cues from farm buildings",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 3650,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-05 11:07",
+  "research": {
+   "entities": [
+    "Brian O’Brian",
+    "Hemlock House",
+    "UUfie",
+    "Barbora Vokac Taylor"
+   ],
+   "questions": [
+    "캐나다 온타리오 지역의 농업용 건축 양식이 현대 주거 디자인에 어떻게 응용되었는가?",
+    "Hemlock House의 내부 공간 구성에서 공용 공간과 사적인 공간은 어떤 자재와 구조로 분리되어 있는가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "archdaily.com/1188054/latin-america-in-focus-this-month-in-architecture-social-housing-and-heritage-recovery": {
+  "title_ko": "라틴 아메리카의 지형과 밀도, 도심 속 사회주택과 유산 복구의 전술",
+  "summary_ko": "올해 10월 라틴 아메리카 건축계는 부에노스아이레스 건축비엔날레와 멕시코시티 디자인 위크를 통해 거주, 물성, 지역 정체성을 논의의 중심에 세웠다. 산티아고에서는 폭 9미터의 협소한 대지에 대중교통과 결합한 사회주택이 완공되었고, 산토도밍고와 콜롬비아에서는 기후변화 대응과 지진 피해 문화유산 복구 작업이 진행되었다.",
+  "lens": "9미터의 좁은 대지와 척박한 도심 인프라를 구조적 해법으로 돌파한다.",
+  "why_now": "도심 지가 상승으로 외곽으로 밀려나는 주거 취약 계층의 현실과 기후 위기 속에서 도시 유산을 지켜야 하는 실질적 압박이 맞물려 있다.",
+  "mechanism": "산타 로사 사회주택은 타공 처리된 푸른색 금속 스크린으로 직사광선을 차단하고 노출 콘크리트 골조를 감싸며, 북측 파사드의 광고 수익으로 공용 공간을 유지 관리한다.",
+  "sensory": "거친 노출 콘크리트의 무게감과 타공 스크린 사이로 쏟아지는 서늘한 푸른 빛이 도시의 소음 속에서 대비를 이룬다.",
+  "transfer": "공간 연출 시 좁은 복도와 메자닌 구조의 듀플렉스 유닛을 활용해 층고의 대비를 극대화하는 수직적 동선 콘티로 적용한다.",
+  "context": "칠레 산티아고의 산타 로사 사회주택은 상승하는 지가로 인해 도시 주변부로 밀려나는 주거 현실에 대응하며 도심 내부에 구축된 2337제곱미터 규모의 프로젝트다.",
+  "findings": [
+   {
+    "text": "건축사사무소 파 프론 앤 로하스(FAR frohn&rojas)가 칠레 산티아고에 산타 로사 사회주택을 완공했다.",
+    "s": 5,
+    "quote": "건축사사무소 파 프론 앤 로하스(FAR frohn&rojas)가 칠레 산티아고에 산타 로사 사회주택을 완공했다."
+   }
+  ],
+  "keywords": [
+   "사회주택",
+   "도시재생",
+   "물성",
+   "라틴아메리카"
+  ],
+  "evidence": "Located along Avenida Santa Rosa in central Santiago, Santa Rosa Social Housing by FAR frohn&rojas explores an alternative approach to social housing",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "구체적인 도심 사회주택과 파사드 유지 관리 시스템 등 실무적 적용 장치가 돋보인다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1188054/latin-america-in-focus-this-month-in-architecture-social-housing-and-heritage-recovery",
+  "original_title": "Latin America in Focus: This Month in Architecture, Social Housing, and Heritage Recovery",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 8039,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-05 11:07",
+  "research": {
+   "entities": [
+    "Smiljan Radić",
+    "Solano Benitez",
+    "Andrés Jaque",
+    "Marina Otero Verzier",
+    "FAR frohn&rojas"
+   ],
+   "questions": [
+    "라틴 아메리카의 최근 건축 비엔날레와 디자인 위크는 지역 사회 주거 문제와 문화유산 보존에 어떤 구체적인 대안을 제시하고 있는가?",
+    "산티아고의 좁은 대지를 활용한 'Santa Rosa Social Housing' 프로젝트는 도시 기반 시설과 주거 공간을 어떻게 유기적으로 결합했는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Smiljan Radić Clarke",
+     "url": "https://en.wikipedia.org/wiki/Smiljan%20Radi%C4%87%20Clarke"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Francisco Solano López",
+     "url": "https://en.wikipedia.org/wiki/Francisco%20Solano%20L%C3%B3pez"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "부에노스아이레스 건축비엔날레, 40주년 주제 '거주'로 확장하다",
+     "url": "https://www.archdaily.com/1184927/buenos-aires-architecture-biennial-celebrates-40-years-with-a-free-program-under-the-theme-of-inhabiting"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "암스테르담 베스터하스에서 열리는 제1회 아모도 아키텍처 데이즈",
+     "url": "https://www.archdaily.com/1186296/ammodo-architecture-announces-first-edition-of-architecture-days-in-amsterdam"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "도시 외곽으로 밀려난 사회주택, 도심 속에서 대안을 찾다",
+     "url": "https://www.archdaily.com/1187477/santa-rosa-social-housing-far-frohn-and-rojas"
+    }
+   ],
+   "used": [
+    3,
+    5
+   ],
+   "chars": 2267
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "hyperallergic.com/france-opens-war-crimes-investigation-into-israeli-airstrike-that-killed-artist-ali-cherris-parents": {
+  "title_ko": "알리 체리의 가족을 앗아간 베이루트 공습, 디지털 재구성으로 전쟁 범죄를 추적하다",
+  "summary_ko": "프랑스 전쟁범죄 수사과가 예술가 알리 체리의 베이루트 자택을 타격한 이스라엘 공습 사건 조사에 착수했다. 2024년 11월 발생한 이 공습으로 체리의 부모를 포함한 민간인들이 사망했다. 체리는 포렌식 아키텍처와 협력해 사건 현장을 디지털로 재구성하며 이스라엘의 민간인 공격에 대한 법적 대응을 이어가고 있다.",
+  "lens": "디지털 모델링이 단순한 재현을 넘어, 파괴된 물리적 공간의 진실을 증명하고 전쟁 범죄의 증거로 기능하는 방식에 주목한다.",
+  "why_now": "디지털 기술을 활용한 공간 재구성이 분쟁 지역의 물리적 파괴를 기록하고 증거화하는 핵심적인 조사 수단으로 자리 잡았다.",
+  "mechanism": "포렌식 아키텍처는 목격자 증언과 현장 기록을 바탕으로 12층 건물의 구조적 손상을 디지털로 재구성하여, 군사적 목표물이 부재했음을 시각적으로 증명한다.",
+  "sensory": "12층 주거 건물의 7층부터 10층 동측 면에 집중된 구조적 파괴와 그 잔해 속에 남겨진 개인의 일상을 디지털 입자로 정밀하게 복원한다.",
+  "transfer": "사건 현장의 파괴된 구조물을 디지털로 재구성할 때, 파편의 위치와 손상 범위를 역추적하여 외부 충격의 궤적을 시각화하는 기법을 차용할 수 있다.",
+  "context": "알리 체리는 고고학, 문화유산, 레바논의 자연환경을 다루는 영상 및 설치 미술을 전개해 온 예술가다. 이번 조사는 국제인권연맹과 함께 진행하며, 이전의 예술적 실천을 인권 증명을 위한 조사적 도구로 확장했다.",
+  "findings": [
+   {
+    "text": "암네스티 인터내셔널은 이스라엘의 공습 현장에 군사적 목표물이 있었다는 증거를 찾지 못했다고 밝혔다.",
+    "s": 1,
+    "quote": "Amnesty International’s research into these attacks did not identify military objectives in the vicinity of these sites at the time they were struck."
+   },
+   {
+    "text": "알리 체리는 파리에 거주하며 고고학과 문화유산을 주제로 작업하는 레바논 출신 예술가다.",
+    "s": 2,
+    "quote": "Ali Cherri (born 1976) is a Lebanese contemporary artist and film maker based in Paris. His practice incorporates video, installation, and mixed media, with a focus on themes related to archaeology, cultural heritage, an"
+   }
+  ],
+  "keywords": [
+   "디지털재구성",
+   "포렌식아키텍처",
+   "전쟁범죄",
+   "공간기록"
+  ],
+  "evidence": "intentionally directing an attack against a civilian object",
+  "kind": "뉴스·이슈",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "예술가의 개인적 비극이 포렌식 아키텍처라는 구체적인 조사 기법과 결합하여 전쟁 범죄의 증거로 전환되는 과정을 명확히 다룬다.",
+  "v": 2,
+  "url": "https://hyperallergic.com/france-opens-war-crimes-investigation-into-israeli-airstrike-that-killed-artist-ali-cherris-parents/",
+  "original_title": "France Opens War Crimes Investigation Into Israeli Airstrike That Killed Artist Ali Cherri's Parents",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 2635,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-05 11:07",
+  "research": {
+   "entities": [
+    "Ali Cherri",
+    "Amnesty International",
+    "Forensic Architecture",
+    "International Federation for Human Rights"
+   ],
+   "questions": [
+    "프랑스 전쟁범죄 수사과가 해외에서 발생한 공습 사건에 대해 관할권을 행사하여 수사하게 된 법적 근거는 무엇인가?",
+    "Forensic Architecture와 암네스티 인터내셔널은 베이루트 공습 사건 조사에서 각각 어떤 방식으로 증거를 수집하고 분석했는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Lebanon: Israeli strikes on densely populated residential areas killed civilians without w",
+     "url": "https://www.amnesty.org/en/documents/mde18/0679/2026/en/?ref=hyperallergic.com"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Ali Cherri",
+     "url": "https://en.wikipedia.org/wiki/Ali%20Cherri"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Amnesty International",
+     "url": "https://en.wikipedia.org/wiki/Amnesty%20International"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 2284
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "architecturaldigest.com/story/billy-joel-at-home-photos-of-the-piano-man-through-the-decades": {
+  "title_ko": "뉴욕의 뼈대 위에서 건져 올린 피아노 맨의 주거 연대기",
+  "summary_ko": "뮤지션 빌리 조엘의 맨해튼 아파트부터 롱아이랜드의 유리 주택까지, 뉴욕을 기반으로 전개된 삶의 궤적을 아카이브 사진 10장을 통해 조명한다. 브롱크스 출신인 그는 오이스터 보트 선원 시절을 거쳐 성공을 거둔 뒤에도 뉴욕의 풍경과 정서를 음악과 공간의 원동력으로 삼았다.",
+  "lens": "화려한 부의 축적보다 소박한 출발점인 뉴욕의 물성을 가식 없이 주거 공간에 이식한다.",
+  "why_now": "대규모 자본으로 지어진 저택 대신 삶의 흔적이 누적된 건축적 유산이 지닌 가치가 재조명받고 있다.",
+  "mechanism": "바다가 내려다보이는 롱아이랜드 북쇼어의 유리 주택은 바깥 풍경을 내부로 여과 없이 끌어들이는 투명한 개방성으로 작동한다.",
+  "sensory": "롱아이랜드 사운드의 차가운 수면 위로 부서지는 아침 햇살과 거친 바닷바람의 질감이 층고 높은 유리 벽을 관통한다.",
+  "transfer": "공간 디자인 시 주변 지형과 자연광이 실내로 유입되는 투명한 시선 차단을 콘티의 주요 광원으로 활용한다.",
+  "context": "빌리 조엘은 1970년대 초 LA 시기에 느꼈던 이질감을 뒤로하고 뉴욕으로 돌아와 앨범 턴스틸이스를 작업했으며, 화려한 저택 대신 모기지와 대중적인 주거 방식을 택했다.",
+  "findings": [
+   {
+    "text": "빌리 조엘은 1970년대 초 로스앤젤레스에서 3년을 보낸 뒤 뉴욕으로 돌아와 네 번째 스튜디오 앨범 턴스틸이스를 완성했다.",
+    "s": 4,
+    "quote": "From 1971 to 1993, Joel released 12 entirely self-written studio albums spanning the genres of pop and rock"
+   }
+  ],
+  "keywords": [
+   "뉴욕",
+   "주거 공간",
+   "아카이브",
+   "롱아이랜드"
+  ],
+  "evidence": "From the musician’s Manhattan apartment to his iconic Long Island glass house, Joel has spent plenty of time in a New York state of mind",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "유명 뮤지션의 주거 공간과 삶의 궤적을 다룬 흥미로운 아카이브이나 건축적 구조나 기법에 대한 깊은 분석은 제한적이다.",
+  "v": 2,
+  "url": "https://www.architecturaldigest.com/story/billy-joel-at-home-photos-of-the-piano-man-through-the-decades",
+  "original_title": "Billy Joel at Home: 10 Photos of the Piano Man Through the Decades",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 8760,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-05 11:08",
+  "research": {
+   "entities": [
+    "Billy Joel",
+    "Columbia Records",
+    "Turnstiles",
+    "The Stranger",
+    "Glass Houses"
+   ],
+   "questions": [
+    "빌리 조엘의 음악적 정체성을 형성하는 데 뉴욕이라는 장소가 구체적으로 어떤 영향을 미쳤는가?",
+    "빌리 조엘의 앨범 커버와 가사에 반영된 그의 주거 철학은 초기 성공 이후 어떻게 변화했는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Billy Joel — DAVID SHEFF",
+     "url": "https://www.davidsheff.com/billy-joel"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "On the road with Billy Joel: The Piano Man talks Trump, L.A. — and new music?",
+     "url": "https://www.latimes.com/entertainment/music/la-ca-ms-billy-joel-20170504-htmlstory.html"
+    },
+    {
+     "n": 3,
+     "type": "공식·1차",
+     "title": "Billy Joel, Thirty-Three-Hit Wonder",
+     "url": "https://www.newyorker.com/magazine/2014/10/27/billy-joel-profile-thirty-three-hit-wonder"
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "Billy Joel",
+     "url": "https://en.wikipedia.org/wiki/Billy%20Joel"
+    },
+    {
+     "n": 5,
+     "type": "위키백과",
+     "title": "Columbia Records",
+     "url": "https://en.wikipedia.org/wiki/Columbia%20Records"
+    }
+   ],
+   "used": [
+    4
+   ],
+   "chars": 9815
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "archdaily.com/1188096/coco-house-cva-arquitectos": {
+  "title_ko": "코코 하우스: 콜롬비아 레티로의 급경사 지형을 타고 흐르는 주거",
+  "summary_ko": "콜롬비아 레티로에 위치한 코코 하우스(Coco House)는 건축가 크리스티나 벨레스 오르티스(Cristina Vélez Ortiz)가 설계한 230㎡ 규모의 주말 거주지다. 급경사 지형의 기존 식생을 보존하며 건축물을 대지에 밀착시켜 풍경의 일부가 되도록 설계했다. 자연과 건축물을 분리할 수 없는 하나의 유기적 개체로 상정했다.",
+  "lens": "급경사지에 건물을 얹는 대신 지형의 흐름에 순응해 건축물과 땅의 경계를 지운 조형적 태도가 돋보인다.",
+  "why_now": "인공적인 구조물이 환경을 압도하는 방식에서 벗어나, 지형의 기울기를 건축의 내부 동선으로 치환하는 생태적 순응 방식이 주목받고 있다.",
+  "mechanism": "급경사를 따라 건물을 계단식으로 배치해 대지와의 접점을 극대화하고, 건축물의 볼륨을 주변 식생 사이로 분산해 시각적 개입을 최소화했다.",
+  "sensory": "가파른 경사면을 따라 층층이 쌓인 공간에서 느껴지는 지면과의 밀착감과, 창밖으로 펼쳐지는 콜롬비아 고산 지대의 수직적 자연 풍경이 지배적이다.",
+  "transfer": "경사지 촬영 시 카메라 앵글을 수평이 아닌 지형의 기울기에 맞춰 배치해, 건축물이 대지에 파묻히는 듯한 롱 샷을 구성하라.",
+  "context": "콜롬비아 건축 사무소 CVA 아르키텍토스(CVA Arquitectos)가 설계한 이 프로젝트는 건축가 개인의 거주 목적을 넘어 지형과 건축의 밀착이라는 실무적 탐구를 담고 있다.",
+  "findings": [],
+  "keywords": [
+   "지형순응",
+   "경사지건축",
+   "콜롬비아",
+   "생태건축"
+  ],
+  "evidence": "the house harmoniously adapts to the steep slope, merging with it and becoming an integral part of the landscape.",
+  "kind": "프로젝트",
+  "depth": 2,
+  "grounding": "thin",
+  "depth_reason": "급경사 지형에 대응하는 기본적인 건축적 태도를 보여주나, 세부적인 평면 구성이나 구조적 상세 데이터가 부족하다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1188096/coco-house-cva-arquitectos",
+  "original_title": "Coco House / CVA Arquitectos",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 1194,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-05 11:08",
+  "research": {
+   "entities": [
+    "CVA Arquitectos",
+    "Cristina Vélez Ortiz"
+   ],
+   "questions": [
+    "CVA Arquitectos는 콜롬비아 레티로의 급경사 지형에서 자연과의 조화를 어떻게 건축적으로 풀어냈는가?",
+    "주말 피난처이자 건축가 자신의 거주지인 'Coco House'의 평면 및 공간 구성 특징은 무엇인가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "archdaily.com/1187161/why-bim-still-doesnt-know-what-your-building-is-made-of": {
+  "title_ko": "형상과 자재의 단절, BIM이 놓친 마지막 공백을 잇다",
+  "summary_ko": "건축 정보 모델링(BIM) 소프트웨어인 레빗(Revit)의 초기 개발을 이끈 데이브 레몬트는 지오메트리와 자재 데이터 사이의 단절을 지적한다. 에이스랩(Acelab)의 머티리얼 인텔리전스 모델은 구조화된 단일 제품 레코드를 통해 사양서, 일정표, 도면을 실시간으로 동기화한다. 이를 통해 건축가는 파편화된 스프레드시트나 PDF 대신 통합된 데이터베이스를 기반으로 자재를 선택할 수 있다.",
+  "lens": "형상의 변화는 즉각 도면에 반영되면서도 자재 사양은 여전히 흩어져 있는 BIM의 구조적 균열을 파고든다.",
+  "why_now": "디지털 모델링의 정밀함이 높아졌음에도 자재의 환경성, 비용, 수급 정보는 여전히 파편화되어 설계 후반의 비용 오류와 시공 지연을 유발하기 때문이다.",
+  "mechanism": "단일화된 제품 레코드가 사양서, 키노트, 도면과 직접 연결되어 하나의 데이터가 수정되면 모든 문서의 관련 항목이 동시에 갱신된다.",
+  "sensory": "디지털 화면 속 3차원 모델링과 수십 주 소요되는 자재 리드타임, 인증서, 탄소 배출량 수치가 실시간으로 교차하며 물성의 무게가 데이터로 환산된다.",
+  "transfer": "공간 설계와 무대 콘티 작업 시, 자재 변경에 따른 예산과 수급 변동을 시뮬레이션하는 실시간 데이터 연동 프로세스를 도입한다.",
+  "context": "오토데스크 레빗은 1997년 찰스 리버 소프트웨어가 개발하여 2002년 오토데스크에 인수된 건축 정보 모델링 애플리케이션이다. 찰스 리버 소프트웨어를 창립하고 레빗 기술을 이끌었던 데이브 레몬트는 현재 에이스랩의 임원으로서 자재 정보와 모델의 간극을 좁히고 있다.",
+  "findings": [
+   {
+    "text": "오토데스크 레빗은 건축가, 구조 기술사, 설비 기술사 및 시공사가 사용하는 빌딩 정보 모델링 소프트웨어다.",
+    "s": 1,
+    "quote": "Autodesk Revit is a building information modeling software for architects, structural engineers, mechanical, electrical, and plumbing (MEP) engineers and contractors."
+   },
+   {
+    "text": "레빗의 원래 소프트웨어는 1997년에 설립된 찰스 리버 소프트웨어에 의해 개발되었으며, 2000년에 레빗 테크놀로지 코퍼레이션으로 사명을 변경한 뒤 2002년에 오토데스크에 인수되었다.",
+    "s": 1,
+    "quote": "The original software was developed by Charles River Software, founded in 1997, renamed Revit Technology Corporation in 2000 and acquired by Autodesk in 2002."
+   },
+   {
+    "text": "에이스랩의 머티리얼 허브는 성능, 인증, 탄소 배출량 등의 자재 정보를 구조화된 데이터로 관리하여 사양서와 도면을 동기화한다.",
+    "s": 3,
+    "quote": "에이스랩의 머티리얼 허브는 성능, 인증, 탄소 배출량 등의 자재 정보를 구조화된 데이터로 관리하여 사양서와 도면을 동기화한다."
+   }
+  ],
+  "keywords": [
+   "BIM",
+   "레빗",
+   "자재데이터",
+   "에이스랩",
+   "건축정보"
+  ],
+  "evidence": "Move a wall in Revit and every plan, section and schedule follows. Change a material, though, and the team is often back in specifications, spreadsheets and drawings",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "BIM 소프트웨어의 역사적 맥락과 자재 데이터 단절 문제를 구체적으로 짚고 있으나 솔루션 적용 범위가 건축 실무로 한정된다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1187161/why-bim-still-doesnt-know-what-your-building-is-made-of",
+  "original_title": "Why BIM Still Doesn't Know What Your Building Is Made Of",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 8663,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-05 11:08",
+  "research": {
+   "entities": [
+    "Revit",
+    "Autodesk",
+    "Acelab",
+    "Dave Lemont",
+    "BIM"
+   ],
+   "questions": [
+    "BIM 모델링에서 기하학적 정보와 달리 재료 정보가 파편화되어 관리되는 근본적인 기술적 이유는 무엇인가?",
+    "Acelab이 제안하는 'Material Intelligence Model'은 기존의 BIM 워크플로우와 비교했을 때 어떤 방식으로 데이터 일관성을 유지하는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Autodesk Revit",
+     "url": "https://en.wikipedia.org/wiki/Autodesk%20Revit"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Autodesk",
+     "url": "https://en.wikipedia.org/wiki/Autodesk"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "BIM이 놓치는 자재의 데이터, 머티리얼 인텔리전스로 잇다",
+     "url": "https://www.archdaily.com/1183861/how-material-intelligence-solves-what-bim-cant"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "82분의 반란, 토마스 만의 귀국을 담은 파벨 파블리코프스키의 신작",
+     "url": "https://www.anothermag.com/design-living/17508/pawel-pawlikowski-on-fatherland-and-the-beauty-of-brevity?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=pawel-pawlikowski-on-fatherland-and-the-beauty-of-brevity"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3
+   ],
+   "chars": 2699
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "architecturaldigest.com/story/the-worlds-most-famous-architects-are-building-in-albania": {
+  "title_ko": "스타건축가들의 도시 실험이 촉발한 알바니아의 정치적 균열",
+  "summary_ko": "알바니아 총리 에디 라마가 주도한 도시 재개발 사업이 해외 스타건축가들의 참여 속에서 수도 티라나를 바꾸고 있다. 하지만 이 과정에서 지역 건축가들의 소외와 시민들의 반발이 격화되며 폭력 시위와 정치적 갈등으로 이어지고 있다.",
+  "lens": "화려한 스타건축의 이면에 놓인 정치적 균열과 지역 사회의 마찰을 직시한다.",
+  "why_now": "공공 건축을 통한 국가 브랜딩이 사회적 반발과 충돌을 낳는 동시대 도시정치의 단면을 보여준다.",
+  "mechanism": "국제 설계 공모를 통한 해외 스튜디오 유치와 현지 건축가들의 의무 협업 구조로 작동한다.",
+  "sensory": "원색으로 붉게 칠해진 콘크리트 빌딩과 파괴된 보도블록, 최루탄의 연기가 뒤섞인 도시의 긴장감.",
+  "transfer": "도시 폭동과 정치적 대립을 배경으로 한 공간 시퀀스에서 날것의 파괴된 물성을 프레임에 담는다.",
+  "context": "알바니아는 공산주의 정권 붕괴 이후 문화적·사회적 전환기를 겪고 있으며 에디 라마 총리는 다선 집권 동안 수십 건의 국제 건축 공모를 주도했다.",
+  "findings": [
+   {
+    "text": "알바니아는 공산주의 정권 붕괴 이후 수십 년 동안 문화적, 사회적, 건축적 전환기에 놓여 있다.",
+    "s": 1,
+    "quote": "Three decades after the collapse of the communist regime, Albania remains in transition – culturally, socially and architecturally."
+   },
+   {
+    "text": "에디 라마는 2013년부터 알바니아 총리로 재임하며 네 차례 연속 승리한 유일한 총리다.",
+    "s": 2,
+    "quote": "has served as prime minister of Albania since 2013... Rama is the only Albanian prime minister to have won four consecutive terms."
+   }
+  ],
+  "keywords": [
+   "도시재개발",
+   "스타건축가",
+   "티라나",
+   "공공건축",
+   "정치적갈등"
+  ],
+  "evidence": "Architecture has the power to change societies. It’s like a strong medicine. It can heal, or it can kill.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "건축을 통한 국가 브랜딩과 그에 따른 사회적 갈등을 다룬 심층 기사이나 리서치 자료의 깊이가 제한적이다.",
+  "v": 2,
+  "url": "https://www.architecturaldigest.com/story/the-worlds-most-famous-architects-are-building-in-albania",
+  "original_title": "The World’s Most Famous Architects Are Building in Albania. I Had to Find Out Why",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 9000,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-05 11:09",
+  "research": {
+   "entities": [
+    "Edi Rama",
+    "Pablo Bofill",
+    "Bjarke Ingels",
+    "Alejandro Aravena",
+    "Ai Weiwei"
+   ],
+   "questions": [
+    "에디 라마 총리가 추진하는 대규모 건축 프로젝트들이 알바니아 사회와 경제에 실제로 어떤 영향을 미쳤는가?",
+    "스타건축가들의 참여가 알바니아의 정치적 갈등과 시민들의 반발을 초래한 근본적인 이유는 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "The Albanian Files",
+     "url": "https://www.lars-mueller-publishers.com/albanian-files?srsltid=AYCX9vInOw3-qTjrZnwgXB2eEqUo_RV3wFI4y0eu0dw9vqP3jgI_8EFG"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Edi Rama",
+     "url": "https://en.wikipedia.org/wiki/Edi%20Rama"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Bjarke Ingels",
+     "url": "https://en.wikipedia.org/wiki/Bjarke%20Ingels"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "빅(BIG)이 설계한 마콘도 파크, 가변적 건축으로 재현한 문학적 풍경",
+     "url": "https://www.archdaily.com/1185625/bigs-macondo-park-opens-as-a-temporary-cultural-landscape-for-shakiras-madrid-residency"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "뤄양의 렌즈가 포착한 뉴욕 차이나타운의 디아스포라 여성들",
+     "url": "https://elephant.art/luo-yangs-diaspora-birds-lands-in-nyc-chinatown/"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "레고 하우스의 포뮬러 1 체험, 빌룬드에서 설계하고 테스트하는 모터스포츠",
+     "url": "https://www.wallpaper.com/transportation/lego-teams-up-with-formula-1-to-create-new-family-activities-at-billunds-lego-house"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 5573
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "hyperallergic.com/the-prior-occupants-of-westbeth-are-just-beyond-reach": {
+  "title_ko": "기밀 문서와 파편적 역사 사이: 웨스트베스의 유령들을 소환하는 단편 영화",
+  "summary_ko": "뉴욕 맨해튼의 하이라인 근처에서 상영되는 앨리슨 누옌의 14분짜리 단편 영화 'Prior Occupants'는 웨스트베스 아티스트 하우징 단지의 역사를 다룬다. 벨 연구소의 기밀 파일과 맨해튼 프로젝트 등 과거의 파편들을 모호하고 단편적인 정보로 구성하여 관람객의 호기심을 자극한다.",
+  "lens": "불완전한 아카이브의 파편을 의도적으로 흐려 관객을 정보의 미로 속으로 밀어 넣는다.",
+  "why_now": "디지털 시대의 정보 과잉 속에서 오히려 역사적 사실을 모호하게 은폐하고 파편화하는 방식이 새로운 내러티브 장치로 작동한다.",
+  "mechanism": "미국 산업 개발 회사인 벨 연구소의 기밀 문서와 맨해튼 프로젝트 등 역사적 단서들을 스쳐 지나가는 언급과 모호한 시각적 장치로 배치한다.",
+  "sensory": "14분의 러닝타임 동안 불친절하게 흩어지는 정보와 비밀스러운 문서의 질감이 전시장 공간에 건조하고 음산한 긴장감을 만든다.",
+  "transfer": "영상 콘티에서 역사적 사건이나 장소의 서사를 직접적으로 설명하지 않고 파편화된 기밀 문서와 모호한 단서만으로 긴장감을 유발하는 오프닝 시퀀스에 적용한다.",
+  "context": "작품의 배경이 되는 웨스트베스 아티스트 하우징 단지가 위치한 뉴욕 463 웨스트 스트리트는 과거 벨 연구소가 자리했던 곳으로, 이곳에서 통신 및 과학 기술의 혁신이 이루어진 역사가 존재한다.",
+  "findings": [
+   {
+    "text": "The laboratory began operating in the late 19th century as the Western Electric Engineering Department, located at 463 West Street in New York City.",
+    "s": 1,
+    "quote": "The laboratory began operating in the late 19th century as the Western Electric Engineering Department, located at 463 West Street in New York City."
+   }
+  ],
+  "keywords": [
+   "웨스트베스",
+   "벨연구소",
+   "단편영화",
+   "아카이브"
+  ],
+  "evidence": "Alison Nguyen's 14-minute film “Prior Occupants” (2026) skates on vague fragments of information that do better to incite curiosity rather than illustrate outright.",
+  "kind": "영상·필름",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "전시와 단편 영화를 다룬 평론 기사이나 구체적인 연출 기법이나 비주얼 디테일이 충분히 드러나지 않아 3점을 부여한다.",
+  "v": 2,
+  "url": "https://hyperallergic.com/the-prior-occupants-of-westbeth-are-just-beyond-reach/",
+  "original_title": "The Prior Occupants of Westbeth Are Just Beyond Reach",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 1729,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-05 11:10",
+  "research": {
+   "entities": [
+    "Alison Nguyen",
+    "Westbeth Artists Housing",
+    "Bell Laboratories"
+   ],
+   "questions": [
+    "앨리슨 누옌의 단편 영화 'Prior Occupants'는 웨스트베스 아티스트 하우징의 역사적 배경을 어떻게 시각화하고 있는가?",
+    "벨 연구소와 맨해튼 프로젝트 및 탄도미사일 부품 개발의 역사적 연관성은 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Bell Labs",
+     "url": "https://en.wikipedia.org/wiki/Bell%20Labs"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 1400
+  },
+  "depth_raw": 3,
+  "depth_v": 2
  }
 }
