@@ -272483,5 +272483,983 @@
   },
   "depth_raw": 4,
   "depth_v": 2
+ },
+ "hyperallergic.com/mfa-boston-to-allow-visitors-to-watch-live-conservation-of-dutch-painting": {
+  "title_ko": "보스턴 미술관, 17세기 네덜란드 회화 복원 현장을 투명한 스튜디오로 개방",
+  "summary_ko": "보스턴 미술관(MFA)이 니콜라스 엘리아스 피케노이의 1625년 작 '암스테르담 와인 상인 길드 창립자들'의 1년간 복원 과정을 관람객에게 공개한다. 12월 9일부터 미술관 내 네덜란드 미술 센터(Center for Netherlandish Art) 이노베이션 갤러리에 팝업 스튜디오를 설치해 보존가와 연구진의 작업 현장을 직접 들여다볼 수 있게 했다.",
+  "lens": "복원이라는 은밀한 사후 작업을 전시의 핵심 서사로 전환하여, 관람객을 단순한 감상자에서 시간의 층위를 목격하는 증인으로 격상시킨다.",
+  "why_now": "디지털 복제와 가공이 일상화된 시대에, 원본의 물리적 노후와 이를 되살리는 인간의 노동을 가시화하여 예술의 실재감을 환기한다.",
+  "mechanism": "갤러리 내에 팝업 스튜디오를 설치하여 보존가와 과학자, 미술사학자가 교차하는 작업 동선을 외부로 노출하고, 복원 과정을 하나의 라이브 퍼포먼스로 치환한다.",
+  "sensory": "17세기 유화의 산화된 바니시를 걷어내는 용제의 향, 현미경과 정밀 도구의 금속성, 그리고 수 세기 전의 안료가 현대의 빛 아래에서 다시 선명해지는 시각적 대비가 핵심이다.",
+  "transfer": "작업의 결과물뿐만 아니라, 그에 도달하기까지의 물리적 시간을 콘티의 레이어로 활용하라. 특정 사물이 마모되거나 수리되는 과정을 롱테이크로 담아 대상의 서사를 완성하는 장치로 사용한다.",
+  "context": "보스턴 미술관은 1870년 설립되어 50만 점 이상의 방대한 컬렉션을 보유한 세계적인 기관이다. 이번 프로젝트는 2016년 터프츠 대학교(Tufts University)로 SMFA 운영권을 이관한 이후, 미술관 내부 연구 및 교육 기능을 강화하려는 시도의 일환으로 보인다.",
+  "findings": [
+   {
+    "text": "보스턴 미술관은 1870년 코플리 광장에서 설립되었으며 1909년 현재의 펜웨이 위치로 이전했다.",
+    "s": 1,
+    "quote": "Founded in 1870 in Copley Square, the museum moved to its current Fenway location in 1909."
+   }
+  ],
+  "keywords": [
+   "보스턴미술관",
+   "복원현장",
+   "네덜란드회화",
+   "팝업스튜디오",
+   "물리적시간"
+  ],
+  "evidence": "museumgoers can watch as conservators, scientists, art historians, and curators cycle through a pop-up studio",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "복원 과정을 공개하는 방식이 창의적이나, 작업 자체의 기술적 특수성이나 새로운 재료적 해석보다는 운영 방식의 변화에 초점이 맞춰져 있다.",
+  "v": 2,
+  "url": "https://hyperallergic.com/mfa-boston-to-allow-visitors-to-watch-live-conservation-of-dutch-painting/",
+  "original_title": "MFA Boston to Allow Visitors to Watch Live Conservation of Dutch Painting",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 1397,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-06 11:05",
+  "research": {
+   "entities": [
+    "Museum of Fine Arts, Boston",
+    "Nicolaes Eliasz Pickenoy"
+   ],
+   "questions": [
+    "보스턴 미술관(MFA)의 네덜란드 미술 센터(Center for Netherlandish Art)는 어떤 목적과 프로그램으로 운영되는가?",
+    "니콜라스 엘리아스 피케노이(Nicolaes Eliasz. Pickenoy)의 작품 'The Founders of the Amsterdam Wine Merchants Guild'는 어떤 역사적 배경을 지니고 있는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Museum of Fine Arts, Boston",
+     "url": "https://en.wikipedia.org/wiki/Museum%20of%20Fine%20Arts%2C%20Boston"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 661
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "stashmedia.tv/infinte-invisible-bleed-get-clean-with-lola-mullenlowe": {
+  "title_ko": "유기적 생명체와 정교한 기하학의 결합, 프로바이오틱스 기술의 3차원 가시화",
+  "summary_ko": "파올로 카발리에리 감독과 부에노스아이레스 스튜디오 블리드가 유니레버의 프로바이오틱스 클리너 브랜드 Cif 인피니트의 글로벌 런칭을 위해 보이지 않는 기술을 시각화했다. 이들은 패키지 아트워크의 모래시계 형태에서 영감을 받아 3차원 캡슐을 고안해 냈으며, 이를 통해 제품의 미생물 기술을 유형화하고 브랜드의 핵심 시각 언어로 확장했다.",
+  "lens": "보이지 않는 미생물 기술을 정밀한 기하학과 유연한 세포막의 충돌로 붙잡는다.",
+  "why_now": "디지털 화면 속에서 과학적 효능을 신뢰도 높은 물성으로 전환하려는 모션 그래픽의 시도가 늘고 있다.",
+  "mechanism": "패키지의 모래시계 형태를 3차원 캡슐 구조로 치환하고, 미세 입자와 유체 소재의 움직임을 유기적 생명체와 교차하여 시각 시스템을 구축했다.",
+  "sensory": "차가운 공학적 기하학과 부드러운 유기적 막이 대비되며 화면 위에서 미끄러지듯 움직이는 미세 입자의 질감.",
+  "transfer": "과학 기술이나 보이지 않는 효능을 콘티에 담을 때, 제품 패키지의 실루엣을 기하학적 3차원 캡슐 오브제로 확장하여 모션의 중심 축으로 삼는다.",
+  "context": "부에노스아이레스의 스튜디오 블리드는 파올로 카발리에리 감독과의 협업을 통해 시각적 연구개발을 제작과 분리하지 않고 전 과정에 걸쳐 일관된 조형 언어로 다듬었다.",
+  "findings": [],
+  "keywords": [
+   "모션그래픽",
+   "3D캡슐",
+   "시각화",
+   "프로바이오틱스"
+  ],
+  "evidence": "The challenge wasn’t simply to visualize probiotic technology, but to translate an invisible innovation into something tangible, trustworthy, and immediately recognizable as part of the Cif brand.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "글로벌 클리너 브랜드의 프로바이오틱스 기술 시각화 과정을 다룬 구체적인 프로젝트이나 선례와 완전히 차별화되는 서사는 부족하다.",
+  "v": 2,
+  "url": "https://www.stashmedia.tv/infinte-invisible-bleed-get-clean-with-lola-mullenlowe/",
+  "original_title": "Infinte & Invisible: Bleed Get Clean With LOLA MullenLowe",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 3238,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-06 11:05",
+  "research": {
+   "entities": [
+    "Paolo Cavalieri",
+    "Bleed",
+    "LOLA MullenLowe",
+    "Unilever",
+    "Cif"
+   ],
+   "questions": [
+    "프로바이오틱스 기술이라는 보이지 않는 개념을 시각화하기 위해 어떤 디자인적 요소와 모션 그래픽 기법이 사용되었는가?",
+    "피치 단계에서 제안된 3D 캡슐 컨셉이 실제 캠페인에서 브랜드 아이덴티티를 어떻게 강화하고 확장했는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Unilever",
+     "url": "https://en.wikipedia.org/wiki/Unilever"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Cif",
+     "url": "https://en.wikipedia.org/wiki/Cif"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "SKINDEEP: 베를린 창고에서 신체와 건축이 맺는 폭력적이고도 연약한 관계",
+     "url": "https://www.dazeddigital.com/beauty/article/71157/1/photos-skindeep-berlin-performance-night-artists-bleed-strip-and-heal?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=in-pictures-the-berlin-night-where-artists-bleed-strip-and-heal"
+    }
+   ],
+   "used": [],
+   "chars": 1978
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "dezeen.com/2026/11/05/fragile-lighting-marset-furniture-tiles-products-dezeen-showroom": {
+  "title_ko": "유리 조형의 반복과 변주, 마르셋의 프래자일 조명 컬렉션",
+  "summary_ko": "디자이너 하우메 라미레스(Jaume Ramírez)가 마르셋(Marset)을 위해 설계한 프래자일(Fragile) 조명 컬렉션은 구형과 피라미드 형태를 기본 단위로 삼는다. 테이블 램프에서 시작된 이 조형 언어는 벽부등과 펜던트 조명으로 확장되어 다양한 규모의 공간에 대응한다. 섬세한 유리를 재료로 사용하여 빛을 투과하고 반사하는 방식을 정교하게 조율했다.",
+  "lens": "단순한 기하학적 형태를 반복적으로 배치해 조명이라는 기능적 오브제를 공간의 리듬을 만드는 시각적 장치로 치환한다.",
+  "why_now": "디지털 피로도가 높은 환경에서 유리의 투명도와 물리적 물성이 주는 정적인 안정감이 공간의 밀도를 높이는 요소로 주목받는다.",
+  "mechanism": "구형의 베이스와 뾰족한 갓의 대조적인 기하학적 결합을 통해 빛이 맺히는 각도를 제어하며, 동일한 조형 언어를 다양한 스케일로 변주해 통일감을 확보한다.",
+  "sensory": "투명하거나 반투명한 유리를 통과한 빛이 피라미드 형태의 갓 아래로 부드럽게 번지며, 표면의 매끄러운 질감이 빛의 산란을 유도한다.",
+  "transfer": "공간 내 조명 배치 시 구형과 피라미드라는 상반된 형태를 반복해 시선의 흐름을 유도하는 리듬감을 콘티에 적용할 수 있다.",
+  "context": "마르셋은 하우메 라미레스와 협업하여 조명의 본질적인 형태를 탐구해왔다. 이탈리아 가구 브랜드 라팔마(Lapalma)가 프란체스코 로타의 모듈형 시스템 허브(HUB)를 통해 공간의 유연한 구획을 제안했듯, 프래자일 컬렉션 역시 다양한 규모의 실내 환경에 대응하는 유연한 조명 솔루션을 지향한다.",
+  "findings": [],
+  "keywords": [
+   "마르셋",
+   "하우메 라미레스",
+   "유리 조명",
+   "기하학적 조형",
+   "공간 연출"
+  ],
+  "evidence": "Fragile is now a full collection spanning table, wall and pendant lights of varying scales, providing elegant lighting solutions for spaces of all sizes.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "구체적인 조형 기법과 조명 컬렉션의 확장 방식이 명확하며, 공간 설계에 적용 가능한 시각적 전략을 담고 있다.",
+  "v": 2,
+  "url": "https://www.dezeen.com/2026/11/05/fragile-lighting-marset-furniture-tiles-products-dezeen-showroom/",
+  "original_title": "Fragile lighting collection by Marset among 15 new products on Dezeen Showroom",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 6210,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-06 11:05",
+  "research": {
+   "entities": [
+    "Marset",
+    "Jaume Ramírez",
+    "Fogia",
+    "Kokuyo",
+    "Lapalma"
+   ],
+   "questions": [
+    "Fragile 컬렉션의 디자인 언어인 구형과 피라미드 형태가 조명 기능과 어떻게 결합되어 있는지 궁금합니다.",
+    "Dezeen Showroom에 소개된 다양한 가구 브랜드들이 지속 가능성을 위해 어떤 소재나 설계 방식을 채택하고 있나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Sebastián Marset",
+     "url": "https://en.wikipedia.org/wiki/Sebasti%C3%A1n%20Marset"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Kokuyo Camlin",
+     "url": "https://en.wikipedia.org/wiki/Kokuyo%20Camlin"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "라팔마, 금속과 목재를 관통하는 크로매틱 알파벳 시스템 공개",
+     "url": "https://www.dezeen.com/2026/11/04/lapalma-colourways-furniture-seating-dezeen-showroom/"
+    }
+   ],
+   "used": [
+    3
+   ],
+   "chars": 1245
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "hyperallergic.com/its-time-to-talk-about-classism-in-the-art-world": {
+  "title_ko": "예술계가 침묵해 온 경제적 불평등과 계급주의의 민낯",
+  "summary_ko": "아티스트이자 작가인 마크 앨리스 듀란트는 신간 회고록에서 예술계 전반을 지배하는 경제적 불평등과 계급 문제를 다룬다. 보스턴의 노동자 계층 출신인 그는 예술가로 살아가며 겪었던 심리적 단절과 방황을 고백한다. 이는 창작의 기회와 결과물을 좌우하면서도 터부시되어 온 미술계의 구조적 침묵을 깬다.",
+  "lens": "노동자 계층 출신 아티스트의 시선으로 예술계가 은폐해 온 계급적 균열을 파헤친다.",
+  "why_now": "신생 지붕 아래 자본이 지배하는 동시대 미술계에서 창작의 주체성과 계급적 배경 사이의 관계를 묻는다.",
+  "mechanism": "작가 개인의 생애사와 자서전적 소설의 형식을 결합해 경제적 불평등이라는 거대 구조를 개인이 겪는 감각적 단절로 치환한다.",
+  "sensory": "보스턴의 거친 노동자 구역과 쥘 브통의 회화 속 전원 풍경이 대비되며 계급 이동이 남기는 정서적 공백을 환기한다.",
+  "transfer": "계급적 배경에서 오는 소외와 이질감을 시각화할 때, 화려한 전시장 대신 건조하고 생생한 일상의 노동 현장을 오버랩한다.",
+  "context": "마크 앨리스 듀란트는 사진과 텍스트를 결합한 회고적 서사를 꾸준히 출판해 왔다. 라이너 마리아 릴케의 '젊은 시인에게 보내는 편지' 형식을 빌려와 자본주의 시대 예술가의 조건을 재정의한다.",
+  "findings": [
+   {
+    "text": "세인트 루시 북스는 2017년에 작가이자 필자인 마크 앨리스 듀란트에 의해 설립되었다.",
+    "s": 2,
+    "quote": "Saint Lucy Books was established by artist and writer Mark Alice Durant in 2017"
+   }
+  ],
+  "keywords": [
+   "계급주의",
+   "예술계",
+   "회고록",
+   "노동자"
+  ],
+  "evidence": "the issue of class is rarely discussed in the art world",
+  "kind": "작가·인터뷰",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "예술계의 계급 문제를 다룬 회고록의 내용과 맥락을 충실히 전달하나 구조나 기법의 혁신보다는 주제적 논의에 치중한다.",
+  "v": 2,
+  "url": "https://hyperallergic.com/its-time-to-talk-about-classism-in-the-art-world/",
+  "original_title": "It’s Time to Talk About Classism in the Art World",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 2025,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-06 11:05",
+  "research": {
+   "entities": [
+    "Mark Alice Durant",
+    "Rainer Maria Rilke",
+    "Saint Lucy Books",
+    "Jules Breton"
+   ],
+   "questions": [
+    "미술계에서 계급주의가 예술가들의 창작 과정과 기회에 미치는 영향은 무엇인가?",
+    "마크 앨리스 듀란트의 회고록 'Confessions of a Working Class Artist'가 다루는 핵심 주제는 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Mark Alice Durant : Summer of the White Fox, and After — Saint Lucy Books",
+     "url": "https://www.saintlucybooks.com/shop/p/summer-of-the-white-fox-and-after?ref=hyperallergic.com"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Saint Lucy Books",
+     "url": "https://www.saintlucybooks.com/?ref=hyperallergic.com"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Rainer Maria Rilke",
+     "url": "https://en.wikipedia.org/wiki/Rainer%20Maria%20Rilke"
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "Jules Breton",
+     "url": "https://en.wikipedia.org/wiki/Jules%20Breton"
+    }
+   ],
+   "used": [
+    2,
+    3,
+    4
+   ],
+   "chars": 4497
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "dezeen.com/2026/11/05/swa-cool-connected-corridors-houston": {
+  "title_ko": "휴스턴의 폭염을 돌파하는 모듈식 그늘, 쿨 앤 커넥티드 코리더스",
+  "summary_ko": "조경 스튜디오 에스더블유에이(SWA)가 휴스턴 도심 보행 환경 개선을 위해 '쿨 앤 커넥티드 코리더스(Cool & Connected Corridors)' 프로젝트를 선보였다. 꽃잎 모양의 스테인리스강 그늘 구조물과 모듈식 식재 침대, 조명 시스템을 조합해 보행로 곳곳에 배치했다. 이를 통해 지표면 온도를 최대 16도까지 낮추며 도시 가로의 물리적 쾌적성을 확보했다.",
+  "lens": "기후 위기 속 도시의 보행로를 단순한 통로가 아닌, 온도와 빛을 조절하는 능동적인 기후 대응 장치로 재설계했다.",
+  "why_now": "기록적인 폭염이 일상이 된 도시에서, 인프라를 전면 교체하는 대신 기존 가로망에 즉각 결합 가능한 모듈식 툴킷으로 도시의 회복탄력성을 높인다.",
+  "mechanism": "비드 블라스팅 처리된 스테인리스강과 그라데이션 메쉬 막을 활용한 꽃잎 구조물이 낮에는 직사광선을 차단하고, 밤에는 나무 캐노피에서 하향식 조명을 투사해 보행자의 시각적 안전을 확보한다.",
+  "sensory": "금속의 차가운 질감과 푸른색·보라색 메쉬 막이 만드는 서늘한 그림자가 도심의 열기를 상쇄하며, 구조물들이 군집을 이뤄 보행자에게 명확한 이정표 역할을 한다.",
+  "transfer": "콘티 연출 시 좁은 골목이나 광장에 동일한 모듈을 반복 배치해 리듬감을 만들고, 구조물 하단에 열화상 카메라로 측정한 온도 차를 시각화하여 기후 변화를 직관적으로 표현할 수 있다.",
+  "context": "에스더블유에이는 조경을 필수 인프라로 정의하며 커뮤니티와 자연의 연결을 지향한다. 이번 프로젝트는 휴스턴시의 공공 영역 실행 계획(Public Realm Action Plan)의 일환으로, 오엠에이(OMA) 등이 참여하는 휴스턴 도심 재생 사업과 궤를 같이한다.",
+  "findings": [
+   {
+    "text": "휴스턴 도심의 공공 영역 실행 계획은 거리와 공원을 활기차고 사람 친화적인 장소로 변모시키는 전략을 담고 있다.",
+    "s": 1,
+    "quote": "The Public Realm Action Plan lays out strategies to transform our streets, parks and plazas into vibrant, people-friendly places."
+   },
+   {
+    "text": "에스더블유에이는 조경이 단순한 장식이 아닌 도시를 지탱하는 필수 인프라라고 믿는다.",
+    "s": 2,
+    "quote": "We believe landscape is essential infrastructure."
+   },
+   {
+    "text": "하울러+윤은 2004년 에릭 하울러와 미진 윤이 설립한 보스턴 기반의 건축 스튜디오다.",
+    "s": 4,
+    "quote": "Höweler+Yoon (HYA) is a design-driven architecture practice and creative studio based in Boston, Massachusetts. It was founded in 2004 by Eric Höweler and Meejin Yoon."
+   }
+  ],
+  "keywords": [
+   "기후 적응",
+   "모듈식 건축",
+   "도시 조경",
+   "열 쾌적성"
+  ],
+  "evidence": "thermal infrared readings of ground surfaces beneath the shade structures show an average temperature reduction of 10°F (5°C), with reductions of up to 30°F (16°C) in some locations",
+  "kind": "프로젝트",
+  "depth": 5,
+  "grounding": "full",
+  "depth_reason": "모듈식 구조물의 기후 대응 기법과 도시 인프라 통합 방식이 구체적이며, 실제 온도 저감 수치를 통해 설계의 실효성을 입증했다.",
+  "v": 2,
+  "url": "https://www.dezeen.com/2026/11/05/swa-cool-connected-corridors-houston/",
+  "original_title": "SWA implements modular \"toolkit\" for a more walkable Houston",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 4339,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-06 11:05",
+  "research": {
+   "entities": [
+    "SWA Group",
+    "Höweler + Yoon",
+    "Cool & Connected Corridors",
+    "Public Realm Action Plan"
+   ],
+   "questions": [
+    "휴스턴의 기후 특성을 고려할 때, 'Cool & Connected Corridors' 프로젝트가 보행 환경 개선을 위해 도입한 핵심 전략은 무엇인가요?",
+    "모듈형 툴킷 시스템이 기존 도시 인프라와 결합하여 어떻게 보행자의 열 쾌적성을 높이고 도시 경관을 변화시키고 있나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Public Realm Action Plan",
+     "url": "https://downtownhouston.org/about/dth-builds/public-realm-action-plan"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Home",
+     "url": "https://www.swagroup.com/"
+    },
+    {
+     "n": 3,
+     "type": "공식·1차",
+     "title": "Höweler + Yoon",
+     "url": "https://www.howeleryoon.com/"
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "Höweler+Yoon",
+     "url": "https://en.wikipedia.org/wiki/H%C3%B6weler%2BYoon"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "OMA가 재해석한 휴스턴 커피 공장, 음악과 예술을 품은 학교로",
+     "url": "https://www.archdaily.com/1186703/oma-jason-long-is-transforming-houstons-historic-folger-coffee-plant-into-a-music-and-arts-school"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "chars": 3733
+  },
+  "depth_raw": 5,
+  "depth_v": 2
+ },
+ "archdaily.com/1188048/santo-antonio-primary-school-requalification-and-modernization-project-bfj-arquitectos": {
+  "title_ko": "산토안토니오 초등학교: 1950년대 근대 유산의 기능적 재편",
+  "summary_ko": "포르투갈 리스본의 산토안토니오 초등학교는 1947년 이나시오 페레스 페르난데스가 설계한 1950년대 근대 건축 유산이다. 비에프제이 아르키텍토스(BFJ Arquitectos)는 기존의 남녀 분리 운영을 위해 이원화되었던 공간 구조를 현대적 혼성 교육 환경에 맞춰 통합하고 효율화했다. 원형의 역사적 가치를 보존하면서도 급식 시설 등 비효율적인 동선을 개선하는 데 집중했다.",
+  "lens": "근대 학교 건축의 평면적 질서를 유지하면서, 시대적 요구에 맞지 않는 분리된 동선을 해체해 공간의 연속성을 확보한다.",
+  "why_now": "과거 도시 계획의 유산인 학교 건물을 박제하지 않고, 현재의 교육 방식과 운영 체계에 맞춰 물리적 효율을 재설계하는 사례다.",
+  "mechanism": "남녀 분리 운영을 위해 중복 배치되었던 카페테리아를 하나로 통합하여 주방 운영의 효율을 극대화하고 공간의 낭비를 제거했다.",
+  "sensory": "1950년대 건축이 지닌 정갈한 비례와 입면의 질감을 유지하며, 현대적 설비를 매립하여 시각적인 방해 없이 공간의 원형을 드러낸다.",
+  "transfer": "기존 공간의 레이어를 유지한 채 동선의 중복을 제거하여 버려진 면적을 활성화하는 공간 재배치 기법으로 활용 가능하다.",
+  "context": "이 학교는 1950년대 포르투갈의 학교 건축 계획인 플라노 도스 센테나리오스(Plano dos Centenários)의 초기 단계 유산으로, 알발라드 지역의 도시 단위 모델을 대표한다.",
+  "findings": [],
+  "keywords": [
+   "근대건축",
+   "공간재생",
+   "학교건축",
+   "동선최적화"
+  ],
+  "evidence": "The complex retains most of its original features and is recognised as representative heritage of the first phase of this plan.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "근대 유산의 보존과 현대적 기능의 통합이라는 명확한 전략을 보여주나, 세부적인 리모델링 기법에 대한 정보가 제한적이다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1188048/santo-antonio-primary-school-requalification-and-modernization-project-bfj-arquitectos",
+  "original_title": "Santo António Primary School Requalification and Modernization Project / BFJ Arquitectos",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 1961,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-06 11:05",
+  "research": {
+   "entities": [
+    "BFJ Arquitectos",
+    "Inácio Peres Fernandes",
+    "Plano dos Centenários",
+    "Alvalade"
+   ],
+   "questions": [
+    "Plano dos Centenários가 포르투갈의 학교 건축 역사에서 갖는 의미는 무엇인가요?",
+    "1950년대 설계된 학교의 원형을 보존하면서 현대적인 교육 환경으로 개선하기 위해 어떤 건축적 전략을 사용했나요?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "dezeen.com/2026/11/05/perrier-jouet-iris-van-herpen-partnership-biological-processes": {
+  "title_ko": "페리에 주에와 아이리스 반 헤르펜, 보이지 않는 진동을 조형화하다",
+  "summary_ko": "샴페인 하우스 페리에 주에가 디자이너 아이리스 반 헤르펜과 협업하여 자연의 보이지 않는 힘을 형상화한 컬렉션을 공개했다. 반 헤르펜은 포도밭의 소리 주파수를 사이매틱스 기술로 시각화해 샴페인 병을 감싸는 실크와 22K 금 조형물 심포닉 블룸을 제작했다. 이는 아르누보의 유산과 재생 농업 철학을 결합한 결과물이다.",
+  "lens": "보이지 않는 소리의 파동을 물리적 금속과 실크의 궤적으로 치환하여, 정적인 샴페인 병에 생물학적 생동감을 부여한다.",
+  "why_now": "디지털 데이터로만 소비되던 비가시적 주파수를 수공예적 물성으로 고착화하여, 브랜드의 지속가능성 철학을 시각적 서사로 확장한다.",
+  "mechanism": "사이매틱스 기법을 활용해 소리 주파수를 샌드 패턴으로 추출하고, 이를 3D 조형물로 번역하여 병의 곡선을 따라 회전하는 유기적 형태를 구축한다.",
+  "sensory": "22K 금과 실크가 얽힌 미세한 금속성 질감과, 샴페인 병의 매끄러운 유리 표면이 대비되는 촉각적 긴장감을 자아낸다.",
+  "transfer": "콘티 연출 시 소리의 파동을 물리적 오브제의 배치나 조명 산란으로 시각화하여, 정적인 공간에 시간성을 부여하는 장치로 활용한다.",
+  "context": "페리에 주에는 1811년 설립 이후 아르누보 양식과 깊은 미학적 연대를 맺어왔으며, 현재 페르노리카 그룹 산하에서 벨 에포크 라벨을 중심으로 예술적 협업을 지속한다. 아이리스 반 헤르펜은 2007년 자신의 레이블을 런칭한 이후, 전통적 오트 쿠튀르와 첨단 기술을 융합하는 실험적 작업을 이어오고 있다.",
+  "findings": [
+   {
+    "text": "페리에 주에는 1811년 피에르 니콜라 페리에와 로즈 아델라이드 주에가 설립했다.",
+    "s": 1,
+    "quote": "The house was founded in 1811 by Pierre-Nicolas Perrier and Rose Adélaide Jouët"
+   },
+   {
+    "text": "아이리스 반 헤르펜은 2007년 자신의 브랜드를 설립하고 파리 패션 위크에서 컬렉션을 선보여 왔다.",
+    "s": 2,
+    "quote": "Van Herpen opened her own label, Iris van Herpen, in 2007. Since then, she has continuously exhibited her new collections at Paris Fashion Week."
+   }
+  ],
+  "keywords": [
+   "사이매틱스",
+   "아르누보",
+   "재생농업",
+   "물성실험"
+  ],
+  "evidence": "documenting acoustic patterns via cymatics – a technology that makes sound waves visible via sand or water.",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "소리 주파수를 물리적 조형물로 변환하는 구체적 기법과 브랜드 철학의 결합이 명확하여 실무적 적용 가능성이 높다.",
+  "v": 2,
+  "url": "https://www.dezeen.com/2026/11/05/perrier-jouet-iris-van-herpen-partnership-biological-processes/",
+  "original_title": "Perrier-Jouët and Iris van Herpen partnership celebrates “biological processes that shape life”",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 5376,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-06 11:05",
+  "research": {
+   "entities": [
+    "Perrier-Jouët",
+    "Iris van Herpen",
+    "Symphonic Bloom",
+    "Loïe Fuller",
+    "Art Nouveau"
+   ],
+   "questions": [
+    "사이매틱스(Cymatics) 기술을 활용해 소리를 시각적 패턴으로 변환하는 원리는 무엇인가요?",
+    "페리에 주에(Perrier-Jouët)가 추구하는 재생 농업(Regenerative viticulture) 프로그램은 구체적으로 어떤 방식으로 토양 건강을 회복하나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Perrier-Jouët",
+     "url": "https://en.wikipedia.org/wiki/Perrier-Jou%C3%ABt"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Iris van Herpen",
+     "url": "https://en.wikipedia.org/wiki/Iris%20van%20Herpen"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 1161
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "archdaily.com/1188093/casa-del-loro-workshop-diseno-y-construccion": {
+  "title_ko": "유카탄 정글 속으로 스며든 스튜디오, 카사 델 로로",
+  "summary_ko": "멕시코 메리다 외곽 크사나툰에 위치한 카사 델 로로(Casa del Loro)는 360㎡ 규모의 스튜디오 하우스다. 유카탄 정글의 식생과 인접한 헤네켄 아시엔다의 역사적 맥락을 배경으로 삼아 설계되었다. 워크숍 디자인 이 콘스트루시온(Workshop, Diseño y Construcción)이 설계를 맡아 자연과 건축의 밀착을 시도했다.",
+  "lens": "정글의 밀도와 아시엔다의 시간성을 건축적 골조로 치환하여 장소의 고유한 호흡을 실내로 끌어들인다.",
+  "why_now": "디지털 환경의 피로감이 높아질수록 정글이라는 거친 자연을 공간의 배경으로 삼아 물리적 현장성을 회복하려는 시도가 주목받는다.",
+  "mechanism": "주변 정글의 식생을 조망하는 개구부 배치와 아시엔다의 역사적 흔적을 건축적 질감으로 변주하여 외부 환경을 실내의 확장된 일부로 기능하게 한다.",
+  "sensory": "거친 정글의 습도와 빛이 콘크리트 및 전통 타일 마감재와 만나 만들어내는 서늘하고도 묵직한 물성이 공간을 채운다.",
+  "transfer": "정글의 층위를 활용한 샷 구성 시, 창을 통해 들어오는 빛의 각도를 조절하여 내부 벽면의 입자감을 강조하는 조명 연출을 제안한다.",
+  "context": "워크숍 디자인 이 콘스트루시온은 멕시코 유카탄 지역의 기후와 전통 건축 유산을 현대적 주거 공간으로 재해석하는 작업을 지속해왔다.",
+  "findings": [],
+  "keywords": [
+   "공간건축",
+   "유카탄",
+   "정글",
+   "스튜디오하우스"
+  ],
+  "evidence": "Casa de Loro is a studio house located on the outskirts of the city of Mérida, immersed in the Yucatecan jungle, just steps away from an old henequen hacienda.",
+  "kind": "프로젝트",
+  "depth": 2,
+  "grounding": "thin",
+  "depth_reason": "원문 정보가 제한적이며 프로젝트의 구체적인 건축적 기법보다는 장소성에 대한 설명 위주로 기술되어 있다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1188093/casa-del-loro-workshop-diseno-y-construccion",
+  "original_title": "Casa del Loro / Workshop, Diseño y Construcción",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 960,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-06 11:05",
+  "research": {
+   "entities": [
+    "Workshop, Diseño y Construcción",
+    "Francisco Bernés",
+    "Fabián Gutiérrez",
+    "Manolo R. Solís",
+    "Casa del Loro"
+   ],
+   "questions": [
+    "카사 델 로로(Casa del Loro) 프로젝트는 유카탄 정글의 자연환경과 전통적인 헤네켄 하시다의 맥락을 어떻게 건축적으로 해석했는가?",
+    "건축가 프란시스코 베르네스와 파비안 구티에레스가 이끄는 워크숍 디자인 이 콘스트루시온(Workshop, Diseño y Construcción)의 주요 디자인 철학은 무엇인가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "archdaily.com/1188153/instructions-for-talking-to-birds-anti-pavilion-yemail-arquitectura": {
+  "title_ko": "태평양의 바람과 시인의 기억을 엮은 안티 파빌리온",
+  "summary_ko": "칠레 라스 크루세스의 푼타 델 라초 해안에 세워진 '새들과 대화하기 위한 지침 반전시관'은 예마일 아키텍투라가 설계했다. 바다와 바람, 그리고 시인들의 문화적 기억이 교차하는 태평양 지형 위에 자리 잡고 있다. 인간과 비인간 생명체가 공유하는 취약한 생태적 조건을 건축적 장치로 풀어낸다.",
+  "lens": "인간 중심의 공간을 거부하고 해안의 바람과 생명체에게 자리를 내어주는 비정형적 개입이다.",
+  "why_now": "개발 중심의 건축에서 벗어나 자연 생태계와 공존하는 해안 지형학적 실천이 절실한 시점이다.",
+  "mechanism": "해안의 거친 바람과 지형의 파고를 그대로 수용하며, 구조물이 자연을 압도하지 않고 지형의 일부로 스며들도록 배치했다.",
+  "sensory": "태평양의 거센 바람 소리와 바다의 짠 냄새, 거친 바위의 질감이 생생하게 밀려오는 현장이다.",
+  "transfer": "해안이나 절벽 로케이션 촬영 시, 자연을 가리는 인공 세트 대신 주변 지형과 바람을 그대로 끌어들이는 프레임으로 활용한다.",
+  "context": "칠레의 시인 비센테 후이도브로, 파블로 네루다, 니카노르 파라의 발자취가 남은 시인들의 해안에 위치한다.",
+  "findings": [],
+  "keywords": [
+   "안티파빌리온",
+   "해안건축",
+   "생태지형",
+   "칠레"
+  ],
+  "evidence": "Instructions for Talking to Birds Anti-Pavilion / Yemail Arquitectura",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "독창적인 해안 생태 파빌리온이나 원문의 프로젝트 설명이 짧아 일반적인 소개에 그친다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1188153/instructions-for-talking-to-birds-anti-pavilion-yemail-arquitectura",
+  "original_title": "Instructions for Talking to Birds Anti-Pavilion / Yemail Arquitectura",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 1386,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-06 11:05",
+  "research": {
+   "entities": [
+    "Yemail Arquitectura",
+    "Antonio Yemail",
+    "Vicente Huidobro",
+    "Pablo Neruda",
+    "Nicanor Parra"
+   ],
+   "questions": [
+    "이 반전시관(Anti-Pavilion) 프로젝트가 지역 생태계와 조류 보호에 구체적으로 어떤 기여를 하는가?",
+    "칠레 시인의 해안(Coast of the Poets)이라는 문화적 맥락이 건축 디자인에 어떻게 반영되었는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Vicente Huidobro",
+     "url": "https://en.wikipedia.org/wiki/Vicente%20Huidobro"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Pablo Neruda",
+     "url": "https://en.wikipedia.org/wiki/Pablo%20Neruda"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "권력과 검열에 맞선 렌즈, 사진가 넬슨 가리도를 기리며",
+     "url": "https://hyperallergic.com/photographer-nelson-garrido-who-embraced-an-aesthetics-of-the-ugly-dies-at-73/"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "무티 토마토 캔: 일상적 소비재에 담긴 이탈리아의 여름과 기호학",
+     "url": "https://www.wallpaper.com/architecture/mutti-tomato-tin-objectify-carlo-ratti-italy"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 2310
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "architecturaldigest.com/story/best-oushak-rugs": {
+  "title_ko": "오스만 제국의 유산, 우샤크 러그로 구축하는 공간의 서사",
+  "summary_ko": "터키 우샤크 지역에서 기원한 우샤크 러그는 오스만 제국 시대부터 유럽으로 수출되며 대형 메달리온과 기하학적 테두리, 식물 문양을 정립했다. 현대의 주거 공간에서 이 전통적인 수제 바닥재는 중립적인 배경에 질감을 더하거나, 고전적인 패턴으로 공간의 중심을 잡는 역할을 한다.",
+  "lens": "역사적 장식성을 덜어낸 채, 옅어진 파티나와 기하학적 대칭성을 현대적 미니멀리즘 공간의 바닥에 배치해 시각적 무게를 조절한다.",
+  "why_now": "디지털 피로가 극에 달한 공간에 손으로 짠 울(wool)의 불규칙한 물성을 도입하여 물리적인 시간의 층위를 쌓기 위함이다.",
+  "mechanism": "대형 메달리온과 식물 모티프의 반복적 배치를 통해 공간의 중심을 고정하며, 색도를 낮춘 파스텔 톤을 사용하여 장식적 요소가 공간의 정체성을 압도하지 않도록 제어한다.",
+  "sensory": "0.5cm 이하의 낮은 파일 높이에서 느껴지는 단단한 울의 질감과, 세월에 의해 자연스럽게 바랜 듯한 색감이 발끝에 닿는 촉각적 깊이를 제공한다.",
+  "transfer": "공간 콘티 구성 시, 미니멀한 가구 아래에 옅은 장미색이나 slate gray 계열의 우샤크 러그를 배치해 차가운 금속·유리 재질의 가구와 극명한 대비를 유도한다.",
+  "context": "우샤크 러그는 14세기부터 20세기 초까지 아나톨리아를 중심으로 유럽과 중동을 잇는 가교 역할을 했던 오스만 제국의 예술적 전통을 계승한다. 메달리온과 꽃 문양은 당시 제국의 건축과 예술에서 영감을 받아 정형화되었다.",
+  "findings": [
+   {
+    "text": "오스만 제국은 14세기부터 20세기 초까지 동남유럽, 서아시아, 북아프리카에 걸쳐 형성된 국가이다.",
+    "s": 1,
+    "quote": "The Ottoman Empire, also known historically as Turkey or the Turkish Empire, was a state that spanned much of Southeastern Europe, West Asia, and North Africa from the 14th century to the early 20th century"
+   }
+  ],
+  "keywords": [
+   "우샤크러그",
+   "오스만예술",
+   "텍스타일",
+   "공간디자인",
+   "물성"
+  ],
+  "evidence": "Their designs are recognizable for their large-scale medallions, geometric borders, and floral motifs, many of which drew inspiration from Ottoman art and architecture.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "전통적 공예품을 현대 인테리어에 적용하는 구체적인 방식과 시각적 장치를 다루었으나, 프로젝트의 규모가 제품 소개에 국한되어 있다.",
+  "v": 2,
+  "url": "https://www.architecturaldigest.com/story/best-oushak-rugs",
+  "original_title": "7 Best Oushak Rugs Fit for Royalty, Vetted by AD (2026)",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 5759,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-06 11:05",
+  "research": {
+   "entities": [
+    "Oushak rug",
+    "Ottoman Empire",
+    "Annie Selke",
+    "Uşak"
+   ],
+   "questions": [
+    "우샤크(Oushak) 러그가 오스만 제국 시대부터 유럽으로 수출되며 디자인적으로 어떤 특징을 갖게 되었나요?",
+    "현대적인 인테리어에서 전통적인 우샤크 러그의 문양과 색감을 어떻게 조화롭게 활용할 수 있을까요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Ottoman Empire",
+     "url": "https://en.wikipedia.org/wiki/Ottoman%20Empire"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 1400
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "architecturaldigest.com/story/best-floor-cushions": {
+  "title_ko": "지면과 밀착하는 감각, 일상을 재구성하는 15가지 바닥 쿠션",
+  "summary_ko": "건축가와 패션 디자이너의 협업부터 일본 전통 수공예 방식까지, 공간의 밀도를 조절하는 바닥 쿠션 15종을 소개한다. 이들은 좁은 주거 환경에서 가변적인 좌석을 확보하거나, 명상과 휴식을 위한 독립된 영역을 설정하는 도구로 기능한다. 소재와 형태에 따라 실내외를 넘나들며 공간의 경계를 유연하게 확장한다.",
+  "lens": "고정된 가구에서 벗어나 바닥이라는 지면을 적극적으로 점유함으로써, 공간의 위계와 동선을 사용자의 행위에 맞춰 재편하는 장치다.",
+  "why_now": "주거 공간의 밀도가 높아질수록 거주자는 물리적 가구를 덜어내고, 필요에 따라 즉각적으로 공간을 변형할 수 있는 유연한 물성을 요구한다.",
+  "mechanism": "손잡이 부착, 접이식 구조, 혹은 스태킹 방식을 통해 가구의 이동성과 수납 효율을 극대화하며, 퀼팅과 텍스처를 활용해 바닥 위에서도 시각적 무게감을 유지한다.",
+  "sensory": "러시 스트로의 거친 촉감부터 린넨의 부드러움, 폴리스티렌 비즈의 비정형적 지지력까지, 신체가 지면과 직접 닿으며 느끼는 물리적 밀착감을 강조한다.",
+  "transfer": "공간 연출 시 가구의 높이를 낮춰 시야를 확보하고, 패션 디자이너 유슬린 마누울라의 작업처럼 노출된 봉제선과 과감한 색상 대비를 통해 바닥을 하나의 오브제 존으로 설정한다.",
+  "context": "스노우피크는 캠핑을 자연 속 의식으로 치환하며 쥬바코 캐빈 등 물리적 환경을 재해석해왔다. 웨스트 엘름은 현대적 주거의 수직적 효율과 색채를 통한 공간 구획을 제안하며 인테리어의 배경을 구성한다.",
+  "findings": [
+   {
+    "text": "웨스트 엘름은 윌리엄스-소노마의 자회사로, 미국을 비롯해 멕시코, 호주, 영국 등 글로벌 시장에서 현대적 가구를 판매한다.",
+    "s": 1,
+    "quote": "West Elm is a retail store that features contemporary furniture designs and other housewares. It is a wholly owned subsidiary of Williams-Sonoma, Inc."
+   }
+  ],
+  "keywords": [
+   "바닥 좌석",
+   "공간 밀도",
+   "가변적 가구",
+   "텍스처",
+   "지면 점유"
+  ],
+  "evidence": "a collection of floor cushions is all you need to create ample options for guests",
+  "kind": "제품·오브제",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "바닥 쿠션을 활용한 공간 구성의 실용적 접근을 다루었으나, 제품 소개 중심의 리스트 형식이라 해석의 폭이 제한적이다.",
+  "v": 2,
+  "url": "https://www.architecturaldigest.com/story/best-floor-cushions",
+  "original_title": "15 Best Floor Cushions for Grounded Seating (2026)",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 7582,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-06 11:05",
+  "research": {
+   "entities": [
+    "Loloi Rugs",
+    "West Elm",
+    "Lulu and Georgia",
+    "Snow Peak",
+    "GreenRow"
+   ],
+   "questions": [
+    "바닥 좌석(Floor cushion)을 인테리어에 조화롭게 활용하는 스타일링 팁은 무엇인가?",
+    "다양한 브랜드의 바닥 쿠션 소재와 기능성은 어떻게 다른가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "West Elm",
+     "url": "https://en.wikipedia.org/wiki/West%20Elm"
+    },
+    {
+     "n": 2,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "스노우피크 캠프필드, 숲과 일상을 잇는 건축적 제의",
+     "url": "https://coolhunting.com/travel/a-stay-at-snow-peaks-first-american-campground/"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "수직 공간의 재발견: 공간감을 확장하는 19가지 플로팅 선반",
+     "url": "https://www.architecturaldigest.com/story/best-floating-shelves"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "32평이 아닌 345제곱피트, 무용수를 위한 뉴욕 스튜디오의 정교한 밀도",
+     "url": "https://www.architecturaldigest.com/story/chun-wai-chan-345-square-foot-nyc-apartment"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 1073
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "coolhunting.com/buy/sorel-x-maharish-daystorm-horizon-zip-gtx-boots": {
+  "title_ko": "혹한과 습기를 격리하는 장치, 소렐과 마하리시의 지퍼 부츠",
+  "summary_ko": "소렐(Sorel)과 마하리시(Maharishi)가 협업해 선보인 데이스톰 호라이즌 지퍼 GTX 부츠는 고어텍스 방수 부티와 비브람 엑스에스 트렉 에보 밑창을 장착해 혹한과 습기에 대응한다. 탈부착 가능한 지퍼 슈라우드와 마하리시의 디피엠 본사이 카모 프린트를 갑피와 혀에 적용해 실용성과 시각적 밀도를 높였다.",
+  "lens": "기능성 방수 구조와 밀리터리 카모플라주 패턴을 결합해 혹한용 장비를 도심형 유틸리티 오브제로 전환한다.",
+  "why_now": "아웃도어 기어의 투박한 기술적 사양이 도심 패션의 핵심 레이어로 편입되는 동시대적 흐름을 반영한다.",
+  "mechanism": "탈부착 가능한 지퍼 슈라우드가 신발 끈과 혀를 감싸 오염을 차단하고, 비브람 밑창이 미끄러운 지형에서 접지력을 확보한다.",
+  "sensory": "가죽 압인 패치와 고무 토캡, 매트한 카모플라주 패턴이 어우러져 단단하고 거친 물리적 물성을 전달한다.",
+  "transfer": "진흙이나 눈을 헤쳐 나가는 시퀀스에서 부츠의 지퍼 슈라우드가 열리는 클로즈업 샷을 통해 기계적인 장갑의 해체 과정을 연출한다.",
+  "context": "콜롬비아 스포츠웨어(Columbia Sportswear) 산하의 오리건주 포틀랜드 기반 신발 브랜드 소렐과, 하디 블레흐만(Hardy Blechman)이 1994년 런던에서 설립해 업사이클링과 밀리터리 유산을 다뤄온 마하리시가 손을 잡았다.",
+  "findings": [
+   {
+    "text": "소렐은 오리건주 포틀랜드에 본사를 둔 콜롬비아 스포츠웨어의 자회사다.",
+    "s": 4,
+    "quote": "Sorel is a subsidiary of Columbia Sportswear based in Portland, Oregon"
+   },
+   {
+    "text": "마하리시는 1994년 하디 블레흐만이 런던에 설립한 회사다.",
+    "s": 5,
+    "quote": "Maharishi is a London based company founded in 1994 by Hardy Blechman"
+   }
+  ],
+  "keywords": [
+   "소렐",
+   "마하리시",
+   "고어텍스",
+   "비브람",
+   "유틸리티 부츠"
+  ],
+  "evidence": "Sorel and Maharishi have you set with style for wet and wintery weather with their new Sorel X Maharishi Daystorm Horizon Zip GTX Boots",
+  "kind": "제품·오브제",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "브랜드 간 협업 제품의 스펙과 디자인 특징을 충실히 전달하나 새로운 기법의 혁신성보다는 일반적인 제품 소개에 가깝다.",
+  "v": 2,
+  "url": "https://coolhunting.com/buy/sorel-x-maharish-daystorm-horizon-zip-gtx-boots/",
+  "original_title": "Sorel X Maharishi Daystorm Horizon Zip GTX Boots",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 9000,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-06 11:05",
+  "research": {
+   "entities": [
+    "Sorel",
+    "Maharishi",
+    "Assouline",
+    "Farm to Feet",
+    "Man Ray"
+   ],
+   "questions": [
+    "Maharishi의 DPM Bonsai Camo 패턴이 브랜드 정체성에서 갖는 의미는 무엇인가요?",
+    "Man Ray가 디자인한 체스 세트의 기하학적 형태는 당시 예술 사조와 어떤 연관이 있나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Luxury Board Games, Chess & Backgammon Sets | ASSOULINE",
+     "url": "https://www.assouline.com/collections/game-room"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Empire Chess Set in Walnut and Leather | ASSOULINE",
+     "url": "https://www.assouline.com/products/empire-chess-set"
+    },
+    {
+     "n": 3,
+     "type": "공식·1차",
+     "title": "Pebble Backgammon Set in Leather, Camel | ASSOULINE",
+     "url": "https://www.assouline.com/products/pebble-backgammon-set-camel"
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "Sorel (brand)",
+     "url": "https://en.wikipedia.org/wiki/Sorel%20%28brand%29"
+    },
+    {
+     "n": 5,
+     "type": "위키백과",
+     "title": "Maharishi (brand)",
+     "url": "https://en.wikipedia.org/wiki/Maharishi%20%28brand%29"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "성인 잡지에서 건져 올린 환희, 윌리엄 코플리의 X-Rated",
+     "url": "https://www.juxtapoz.com/news/painting/william-n-copley-x-rated-1972-1974-galerie-max-hetzler-berlin/"
+    },
+    {
+     "n": 7,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "맨 레이의 옵틱 토픽 마스크: 시선을 가두고 해방하는 금속의 미학",
+     "url": "https://elephant.art/man-ray-optic-topic-mask-1974-78/"
+    },
+    {
+     "n": 8,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "대성당과 오케스트라가 확장하는 스노우맨의 시간",
+     "url": "https://www.creativeboom.com/news/film-is-breaking-out-of-its-box-and-this-cathedral-tour-is-showing-the-way/"
+    }
+   ],
+   "used": [
+    4,
+    5
+   ],
+   "chars": 8799
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "architecturaldigest.com/gallery/desks-for-small-spaces": {
+  "title_ko": "작은 방을 위한 9가지 책상: 수직 벽면부터 접이식 구조까지",
+  "summary_ko": "아키텍처럴 다이제스트가 소규모 주거 공간을 위해 수직 벽면을 활용하거나 3인치 미만으로 접히는 9가지 책상을 선정했다. 브랜치, 허먼밀러, 웨스트 엘름 등의 제품을 통해 바닥 면적을 최소화하면서도 작업 환경을 확보하는 방식을 제안한다.",
+  "lens": "가구를 바닥에 두는 대신 벽면에 밀착시키거나 수직으로 세워 한 평의 공간도 남기지 않는다.",
+  "why_now": "초소형 주거와 재택근무가 겹치는 도심 속에서 책상은 물리적 영역을 최소화하면서도 작업의 밀도를 유지해야 하는 과제를 안고 있다.",
+  "mechanism": "벽면 프레임에 선반을 매달아 수직 공간을 점유하거나, 접이식 경첩 구조를 활용해 사용하지 않을 때 벽이나 문 뒤로 완전히 숨긴다.",
+  "sensory": "분체 도장된 강철 프레임과 원목 베니어의 질감이 맞부딪치며 좁은 방 안에서도 시각적 무게 중심을 단단히 잡는다.",
+  "transfer": "공간 콘티에서 좁은 방의 수납을 연출할 때, 가구를 세우는 대신 벽면 수직 프레임을 레일처럼 활용해 소품을 매달고 바닥 동선을 비우는 샷으로 구성한다.",
+  "context": "웨스트 엘름(West Elm)은 윌리엄스 소노마(Williams-Sonoma) 산하의 현대 가구 브랜드로 주거 공간의 효율적인 수납 방식을 탐구해 왔다.",
+  "findings": [
+   {
+    "text": "West Elm is a wholly owned subsidiary of Williams-Sonoma, Inc.",
+    "s": 3,
+    "quote": "It is a wholly owned subsidiary of Williams-Sonoma, Inc."
+   }
+  ],
+  "keywords": [
+   "소형책상",
+   "수직수납",
+   "접이식가구",
+   "공간설계"
+  ],
+  "evidence": "Nine wall, folding, and sit-to-stand designs that won't dominate your space",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "소규모 주거를 위한 구체적인 가구 9가지를 큐레이션했으나 제품 소개 중심이라 해석의 폭이 넓지는 않다.",
+  "v": 2,
+  "url": "https://www.architecturaldigest.com/gallery/desks-for-small-spaces",
+  "original_title": "9 Best Desks for Small Spaces That Offer Savvy Organization (2026)",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 9000,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-06 11:05",
+  "research": {
+   "entities": [
+    "Branch",
+    "Article",
+    "Castlery",
+    "West Elm",
+    "Herman Miller"
+   ],
+   "questions": [
+    "좁은 공간에서 가구의 효율성을 극대화하기 위해 고려해야 할 핵심 설계 요소는 무엇인가요?",
+    "모듈형 가구 시스템이 소규모 주거 환경의 작업 공간 구성에 어떤 이점을 제공하나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Mini Motia Sit-to-Stand Desk, 23\" x 34\" – Design Within Reach",
+     "url": "https://cna.st/affiliate-link/6UTpXEdi6sJuJjiahBjsUEde7FTbfmJMAeXxoJumqCtPLEyQ6ZZh7VPjRx1rRDt2dVzGBDGaxdPt8RQneZc5hovYpBejb8td52DLQnoHtVCn6tbSCb6iinb1Nq7XS3wyh1kJdtmV1v2BNUPANb7dz6wSTU9tzwj7KFpnafTjLrmwrmrphZr1sLdXAVeS81XwAqmqjU2Y8qW9Tg3n3tFx263Tn69GFWU4TSUcV2hRjWV2u4VHs1rvsYzHUMyNbK4PWdFRyqB7C6cVhq9SWw4wHKj9PLhpCWty2DkdR8Gabn3ZiNgcXkcgRwq4AvhdJ9tqoGrQJnEQmrXdShj3H9RNoL9nfpLKQ7k4JMWbGzyjPRyR43AYD4huu"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Branch (company)",
+     "url": "https://en.wikipedia.org/wiki/Branch%20%28company%29"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "West Elm",
+     "url": "https://en.wikipedia.org/wiki/West%20Elm"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "일상의 밀도를 높이는 사물들: 2026년 남성을 위한 큐레이션",
+     "url": "https://www.architecturaldigest.com/story/best-gifts-for-men"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "수직 공간의 재발견: 공간감을 확장하는 19가지 플로팅 선반",
+     "url": "https://www.architecturaldigest.com/story/best-floating-shelves"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "32평이 아닌 345제곱피트, 무용수를 위한 뉴욕 스튜디오의 정교한 밀도",
+     "url": "https://www.architecturaldigest.com/story/chun-wai-chan-345-square-foot-nyc-apartment"
+    }
+   ],
+   "used": [
+    3,
+    5
+   ],
+   "chars": 2508
+  },
+  "depth_raw": 3,
+  "depth_v": 2
  }
 }
