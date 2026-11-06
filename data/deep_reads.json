@@ -273461,5 +273461,288 @@
   },
   "depth_raw": 3,
   "depth_v": 2
+ },
+ "dezeen.com/2026/11/06/dado-furniture-allen-kaufmann": {
+  "title_ko": "단 하나의 조인트로 완성하는 구조, 다도 가구 시스템",
+  "summary_ko": "베를린의 앨런 카우프만 아키텍텐은 전통적인 다도 조인트를 45도 각도로 재해석해 접착제나 나사 없이 조립 가능한 가구 시스템을 개발했다. 수직, 수평, 대각선 요소를 하나의 지점에서 맞물리게 설계하여 도구 없이도 견고한 구조체를 형성한다. CNC 정밀 가공을 통해 전 세계 어디서든 표준화된 부품 생산이 가능하도록 했다.",
+  "lens": "고정 장치를 제거하고 조인트 자체를 구조와 디자인의 유일한 언어로 치환하여, 가구의 조립 원리를 사용자에게 투명하게 드러낸다.",
+  "why_now": "부품의 분실과 파손으로 폐기되는 기존 플랫팩 가구의 한계를 넘어, 구조적 직관성을 통해 가구의 수명과 재사용성을 극대화하려는 시도다.",
+  "mechanism": "45도 각도로 교차하는 다도 절개면은 수직재와 수평재, 두 개의 대각선 버팀대를 한 점에 고정한다. 이 기하학적 맞물림은 목재 구조물 내부의 힘을 분산시키며 별도의 철물 없이 자립하는 프레임을 만든다.",
+  "sensory": "CNC 밀링으로 구현된 단면의 기계적 정밀함과 목재 고유의 따뜻한 물성이 대비된다. 노출된 조인트는 구조적 긴장감을 시각화하며, 거대한 목재 헛간의 내부 골조를 연상시키는 리듬감을 공간에 부여한다.",
+  "transfer": "공간 연출 시 가구의 조립 과정을 노출하여 기능적 정직함을 강조하라. 영상 콘티에서는 45도 각도로 결합되는 조인트의 접점을 클로즈업하여, 철물 없이도 유지되는 물리적 결합의 긴장감을 포착하라.",
+  "context": "앨런 카우프만 아키텍텐은 전통 목공 기술을 현대적 구조 시스템으로 치환하는 데 집중한다. 이번 작업은 복잡한 하드웨어를 배제하고 기하학적 원리만으로 구조를 해결하려는 스튜디오의 철학을 보여준다.",
+  "findings": [],
+  "keywords": [
+   "다도조인트",
+   "플랫팩",
+   "구조미학",
+   "지속가능한디자인",
+   "목재가구"
+  ],
+  "evidence": "The connection remains visible, so the joint becomes the detail, the structure, the assembly and ultimately the design",
+  "kind": "프로젝트",
+  "depth": 5,
+  "grounding": "full",
+  "depth_reason": "전통 목공 기법을 현대적 구조 역학으로 재해석한 구체적인 기하학적 장치가 명확하며, 지속가능성과 제작 효율성을 동시에 확보한 논리적 완결성이 높다.",
+  "v": 2,
+  "url": "https://www.dezeen.com/2026/11/06/dado-furniture-allen-kaufmann/",
+  "original_title": "Nothing but a single joint holds together Dado furniture",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 3980,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-06 16:49",
+  "research": {
+   "entities": [
+    "Allen Kaufmann Architekten",
+    "Justin Allen",
+    "Norman Foster",
+    "Michael Anastassiades",
+    "Jaime Hayon"
+   ],
+   "questions": [
+    "Allen Kaufmann Architekten이 개발한 Dado 가구의 45도 각도 다도 조인트(dado joint)는 구조적으로 어떤 원리를 통해 네 개의 목재 요소를 고정하나요?",
+    "CNC 밀링 머신을 활용한 Dado 가구 제작 방식이 기존 플랫팩(flat-pack) 가구의 물류 및 지속가능성 문제를 어떻게 해결합니까?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Norman Foster",
+     "url": "https://en.wikipedia.org/wiki/Norman%20Foster"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Jaime Hayon",
+     "url": "https://en.wikipedia.org/wiki/Jaime%20Hayon"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "월페이퍼 30주년, 17인의 크리에이터가 빚어낸 케이크의 형상들",
+     "url": "https://www.wallpaper.com/art/wallpaper-30-birthday-cakes"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "에메코, 노먼 포스터 디자인 의자 복제 혐의로 자라홈 제소",
+     "url": "https://www.dezeen.com/2026/09/03/emeco-sues-zara-home-20-06-chair-norman-foster/"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "무라노의 빛을 재해석하다: 베니스 유리 주간의 12개 현대적 샹들리에",
+     "url": "https://www.wallpaper.com/design-interiors/design-events/venice-glass-week-2026-norman-foster-chandelier"
+    }
+   ],
+   "used": [],
+   "chars": 3710
+  },
+  "depth_raw": 5,
+  "depth_v": 2
+ },
+ "wallpaper.com/architecture/asif-khan-profile-london-museum-uk": {
+  "title_ko": "아시프 칸이 설계한 런던 뮤지엄, 도시의 삶을 흡수하는 유연한 그릇",
+  "summary_ko": "런던 뮤지엄의 스미스필드 시장 이전 프로젝트에서 아시프 칸은 일반 시장 건물의 지상부 인테리어와 외부 공간 설계를 총괄했다. 그는 역사적 상점 단위를 12개의 집으로 재구성해 박물관을 도시 활동이 교차하는 인큐베이터로 설계했다. 스탠튼 윌리엄스 및 줄리안 해럽 아키텍츠와 협업하며 박물관을 고정된 역사 저장소가 아닌 변화하는 도시의 거점으로 전환한다.",
+  "lens": "박물관을 완결된 전시 공간이 아닌, 도시의 활동과 시간을 끊임없이 흡수하고 배출하는 스펀지 같은 유기적 구조체로 정의한다.",
+  "why_now": "디지털 정보가 범람하는 시대에, 도시의 물리적 기억을 간직한 장소를 커뮤니티가 직접 점유하고 변주할 수 있는 가변적 플랫폼으로 설계하는 태도가 필요하다.",
+  "mechanism": "48개의 역사적 상점 단위를 12개의 집으로 통합하여 박물관과 외부 벤처가 공존하게 만들고, 공간의 용도를 고정하지 않아 변화하는 도시의 요구를 수용한다.",
+  "sensory": "과거 시장의 골조가 가진 시간의 무게와 현대적 공공 공간의 개방감이 교차하며, 도시의 일상이 박물관 내부로 자연스럽게 스며드는 흐름을 만든다.",
+  "transfer": "공간 내에 고정된 벽 대신 가변적 모듈을 배치하여, 특정 행사가 끝난 뒤에도 용도가 계속해서 진화할 수 있는 비어 있는 구조적 뼈대를 콘티에 적용한다.",
+  "context": "아시프 칸은 2007년 스튜디오 설립 이후 런던 올림픽 코카콜라 비트박스 파빌리온 등을 통해 공간의 상호작용을 탐구해 왔다. 현재 그는 바비칸 센터 리뉴얼의 공동 리드 아키텍트를 맡고 있으며, 개인적 서사가 깃든 장소에만 작업하는 원칙을 고수한다.",
+  "findings": [
+   {
+    "text": "런던 뮤지엄은 2024년 7월 이전 준비를 위해 명칭을 변경했으며, 2026년 스미스필드 시장으로 재개관할 예정이다.",
+    "s": 4,
+    "quote": "The museum changed its name and branding to \"London Museum\" in July 2024 in advance of the move. In December 2022, the museum permanently closed its site at London Wall in preparation for reopening in 2026 at Smithfield "
+   },
+   {
+    "text": "스탠튼 윌리엄스는 2012년 케임브리지 세인즈버리 연구소로 RIBA 스털링 상을 수상한 이력이 있다.",
+    "s": 5,
+    "quote": "In 2012 their Sainsbury Laboratory in Cambridge was awarded the RIBA Stirling Prize."
+   }
+  ],
+  "keywords": [
+   "런던뮤지엄",
+   "아시프칸",
+   "도시재생",
+   "스미스필드",
+   "가변적공간"
+  ],
+  "evidence": "Khan describes the new museum as a ‘sponge for city life’, and it's easy to see why, as it has been designed to be able to absorb different uses, meanings and activities.",
+  "kind": "프로젝트",
+  "depth": 5,
+  "grounding": "full",
+  "depth_reason": "건축가의 개인적 서사와 도시의 역사적 장소를 결합하는 구체적 설계 전략이 명확히 제시되어 있다.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/architecture/asif-khan-profile-london-museum-uk",
+  "original_title": "Asif Khan on future thinking and helping design the museum of the 21st century",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 6282,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-06 16:49",
+  "research": {
+   "entities": [
+    "Asif Khan",
+    "London Museum",
+    "Stanton Williams",
+    "Julian Harrap Architects",
+    "Barbican Centre"
+   ],
+   "questions": [
+    "런던 뮤지엄(London Museum) 프로젝트에서 아시프 칸(Asif Khan)이 맡은 공간 디자인의 구체적인 특징은 무엇인가?",
+    "아시프 칸이 스튜디오를 설립한 이후 진행해 온 주요 공공 프로젝트들은 어떤 철학을 담고 있는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Home",
+     "url": "https://www.londonmuseum.org.uk/"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "asif-khan.com",
+     "url": "http://asif-khan.com"
+    },
+    {
+     "n": 3,
+     "type": "공식·1차",
+     "title": "Home",
+     "url": "http://londonmuseum.org.uk"
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "London Museum",
+     "url": "https://en.wikipedia.org/wiki/London%20Museum"
+    },
+    {
+     "n": 5,
+     "type": "위키백과",
+     "title": "Stanton Williams",
+     "url": "https://en.wikipedia.org/wiki/Stanton%20Williams"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "640년 역사의 윈체스터 칼리지, 스탠튼 윌리엄스가 설계한 현대적 기숙사",
+     "url": "https://www.dezeen.com/2026/09/29/stanton-williams-winchester-college/"
+    },
+    {
+     "n": 7,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "후지와라 타츠야, 바비칸에서 무라카미 하루키의 세계를 소환하다",
+     "url": "https://www.wallpaper.com/art/tatsuya-fujiwara-haruki-murakami-barbican-london"
+    },
+    {
+     "n": 8,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "진흙과 상징만 남긴 연극, 런던 바비칸에 서다",
+     "url": "https://www.anothermag.com/design-living/17550/armando-babaioff-tom-na-fazenda-barbican-interview?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=the-brazilian-play-that-became-armando-babaioff-s-life-s-work"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "chars": 6205
+  },
+  "depth_raw": 5,
+  "depth_v": 2
+ },
+ "dezeen.com/2026/11/06/4space-cultural-significance-arabian-horses-uae-restaurant": {
+  "title_ko": "아라비안 마의 해부학과 궤적을 깎아 만든 아부다비의 식공간 팔와",
+  "summary_ko": "디자인 스튜디오 포스페이스(4Space)가 아부다비 왕립 승마 예술 아카데미 내에 현대 아랍에미리트 레스토랑 팔와를 설계했다. 아라비안 마의 골격 구조와 유기적인 움직임을 반영해 곡면 벽체와 먼지 낀 듯한 흰색 광물 석고 마감을 적용했다. 세부적으로는 안장에서 영감을 받은 가죽 스트랩 의자와 스테판 디에스(Stefan Diez)의 조명 시스템을 도입했다.",
+  "lens": "동물의 해부학적 긴장감과 골격을 건축의 유기적 곡선과 재료 물성으로 치환한다.",
+  "why_now": "말의 해를 맞아 전통적 아이콘을 단순한 시각적 장식이 아닌 구조와 동선의 물리적 언어로 번역하는 시도가 늘고 있다.",
+  "mechanism": "말의 털과 뼈 구조를 모사한 광물 석고 벽체와 곡면 벽이 시간에 따라 변하는 자연광과 인공광을 받아 입체적인 그림자를 만든다.",
+  "sensory": "광택을 낸 브레치아 오로라 대리석 바닥의 차가운 물성과 붉은빛이 감도는 황토색 가죽, 거친 질감의 석고 벽이 대조를 이룬다.",
+  "transfer": "공간 촬영 시 단단한 측면 조명을 활용해 곡면 석고 벽에 드리워지는 불규칙한 그림자의 결을 강조한다.",
+  "context": "두바이 기반의 인테리어 디자인 회사 포스페이스는 공간 전반을 아우르는 일체화된 디자인 솔루션을 선보여 왔다. 이번 프로젝트는 아부다비 왕립 승마 예술 아카데미라는 특수 맥락 속에서 지역의 문화적 상징을 공간적 경험으로 확장했다.",
+  "findings": [],
+  "keywords": [
+   "포스페이스",
+   "아부다비",
+   "승마 공간",
+   "유기적 곡면",
+   "석고 마감"
+  ],
+  "evidence": "Design studio 4Space “explored the physical and kinetic qualities” of horses for the fluid, organic design of Falwa, an Abu Dhabi restaurant celebrating modern Emirati cuisine.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "말의 해부학적 특징을 공간의 곡선과 재료로 구체화한 흥미로운 사례이나 레스토랑 인테리어 범주에 머문다.",
+  "v": 2,
+  "url": "https://www.dezeen.com/2026/11/06/4space-cultural-significance-arabian-horses-uae-restaurant/",
+  "original_title": "4Space draws on cultural significance of Arabian horses for UAE restaurant",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 4106,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-06 16:49",
+  "research": {
+   "entities": [
+    "4Space",
+    "Faisal Alharmoodi",
+    "Sheikh Zayed bin Sultan Al Nahyan",
+    "Stefan Diez",
+    "Vibia"
+   ],
+   "questions": [
+    "아랍 문화에서 아라비안 마(Arabian mare)가 가지는 상징적 의미와 역사적 중요성은 무엇인가?",
+    "4Space는 말의 해부학적 구조와 움직임을 건축적 요소로 변환하기 위해 어떤 구체적인 디자인 전략을 사용했는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Best Interior Design Company in Dubai. UAE - 4SPACE",
+     "url": "https://4space.ae/"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Falwa — Where tradition meets the table",
+     "url": "https://falwadining.app/"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Zayed bin Sultan Al Nahyan",
+     "url": "https://en.wikipedia.org/wiki/Zayed%20bin%20Sultan%20Al%20Nahyan"
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "Stefan Diez",
+     "url": "https://en.wikipedia.org/wiki/Stefan%20Diez"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "신트라의 소나무 숲과 포도밭 사이에 스며든 주거 리노베이션",
+     "url": "https://www.archdaily.com/1187054/colares-sintra-house-sabrab"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "우루과이 라 바라의 소나무 숲, 풍경을 시작점으로 삼은 안야 하우스",
+     "url": "https://www.archdaily.com/1187114/anja-house-ihouse-estudio"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 5010
+  },
+  "depth_raw": 3,
+  "depth_v": 2
  }
 }
