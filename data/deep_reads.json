@@ -276445,5 +276445,641 @@
   },
   "depth_raw": 4,
   "depth_v": 2
+ },
+ "archdaily.com/1188166/powerhouse-parramatta-museum-to-open-on-november-7-2026-in-sydney": {
+  "title_ko": "시드니 파워하우스 파라마타: 거대 철골 격자가 빚어낸 무주 공간의 미학",
+  "summary_ko": "프랑스계 일본인 건축가 모로 쿠수노키와 현지 건축사 젠튼이 설계한 파워하우스 파라마타가 2026년 11월 7일 시드니 서부에 개관한다. 시드니 오페라 하우스 이후 호주 최대 규모의 문화 인프라 프로젝트로, 2,000제곱미터에 달하는 무주 전시 공간을 중심으로 지역 재생과 결합한 복합 문화 거점을 지향한다.",
+  "lens": "삼중 철골 격자 외피가 구조적 하중을 전담하여, 내부 기둥 없이 2,000제곱미터 규모의 가변적 전시 공간을 확보한 점이 핵심이다.",
+  "why_now": "급성장하는 서부 시드니의 도시 재생과 맞물려, 공공 문화 시설이 어떻게 인접한 교통 인프라 및 주거 단지와 통합될 수 있는지 실증하는 사례다.",
+  "mechanism": "삼중 철골 격자 구조를 통해 기둥을 외곽으로 밀어내고, 건물 곳곳에 일본의 '마' 개념을 적용한 유리 온실과 중층 공간을 배치해 자연광을 투과시킨다.",
+  "sensory": "철골 격자의 기하학적 반복이 만드는 차가운 물성과, 유리 온실을 통해 실내로 깊숙이 스며드는 자연광의 대비가 공간의 밀도를 결정한다.",
+  "transfer": "광고나 영상 콘티 구성 시, 거대한 무주 공간의 개방감을 강조하기 위해 광각 렌즈를 사용하고, 철골 격자 사이로 들어오는 빛의 궤적을 활용한 로우 앵글 샷을 권장한다.",
+  "context": "파워하우스 파라마타는 뉴사우스웨일스주 정부가 추진하는 시드니 서부 도시 재생의 핵심이며, 인근 지하철역인 파라마타 메트로 역을 포함한 복합 개발 계획의 일부다. 박물관은 호주 전역에서 가장 오래된 문화 기관 중 하나인 파워하우스 박물관 네트워크의 일원으로, 기존 울티모 시설의 노후화를 대체하는 새로운 거점이다.",
+  "findings": [
+   {
+    "text": "파라마타 메트로 역 인근에는 470가구의 임대 주택과 500실 규모의 학생 숙소를 포함한 4개 동의 복합 단지가 조성된다.",
+    "s": 1,
+    "quote": "The planned precinct includes four buildings: a 43-storey build-to-rent residential tower with 470 apartments, a 29-storey commercial tower, 24-storey building with 500 student accommodation units and an eight-storey hot"
+   },
+   {
+    "text": "박물관 부지 인근 메트로 역 건설 과정에서 1790년대 죄수 오두막 유적을 포함한 10만 점 이상의 유물이 발굴되었다.",
+    "s": 1,
+    "quote": "These works also saw the largest archaeological investigations ever undertaken in New South Wales at the Parramatta Metro station site, uncovering more than 100,000 artefacts spanning thousands of years."
+   }
+  ],
+  "keywords": [
+   "파워하우스파라마타",
+   "모로쿠수노키",
+   "무주공간",
+   "철골격자",
+   "도시재생"
+  ],
+  "evidence": "The building features an 18-meter-high, roughly 2,000-square-meter exhibition space on the ground level, one of the largest column-free exhibition spaces in the country.",
+  "kind": "프로젝트",
+  "depth": 5,
+  "grounding": "full",
+  "depth_reason": "구조적 해법과 공간적 특징이 명확하며, 도시 재생 맥락과 연계된 구체적인 건축적 장치를 갖추고 있다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1188166/powerhouse-parramatta-museum-to-open-on-november-7-2026-in-sydney",
+  "original_title": "Powerhouse Parramatta Museum to Open on November 7, 2026, in Sydney",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 4907,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-07 01:52",
+  "research": {
+   "entities": [
+    "Powerhouse Parramatta",
+    "Moreau Kusunoki",
+    "Genton",
+    "OPEN Architecture",
+    "OMA"
+   ],
+   "questions": [
+    "Powerhouse Parramatta 건립이 서부 시드니 지역의 도시 재생과 문화적 지형에 어떤 영향을 미칠 것으로 예상되나요?",
+    "박물관 개관을 둘러싼 재정적, 행정적 논란의 핵심 쟁점은 무엇이며, 지역 사회와의 갈등은 어떻게 전개되고 있나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Big boost in homes for Parramatta Metro station development",
+     "url": "https://www.nsw.gov.au/ministerial-releases/big-boost-homes-for-parramatta-metro-station-development?utm_medium=website&utm_source=archdaily.com"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Powerhouse Museum",
+     "url": "https://en.wikipedia.org/wiki/Powerhouse%20Museum"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Open architecture",
+     "url": "https://en.wikipedia.org/wiki/Open%20architecture"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "철골 격자와 일본의 '간' 개념으로 완성한 시드니 파워하우스 파라마타",
+     "url": "https://www.dezeen.com/2026/11/06/sydney-powerhouse-parramatta-revealed-opening/"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    4
+   ],
+   "chars": 5685
+  },
+  "depth_raw": 5,
+  "depth_v": 2
+ },
+ "thisiscolossal.com/2026/11/james-wines-site-book-what-else-could-it-mean": {
+  "title_ko": "건축의 관성을 비틀다: 제임스 와인즈와 SITE가 설계한 50년의 실험",
+  "summary_ko": "건축가 제임스 와인즈(James Wines)가 설립한 환경 예술 조직 SITE의 50년 궤적을 담은 모노그래프 'What Else Could It Mean?'이 출간되었다. 이 책은 베스트 프로덕츠(BEST Products)의 파격적인 상업 공간 실험부터 '유령 주차장'과 같은 공공 예술 프로젝트까지, 건축을 스스로를 비판하는 도구로 활용한 SITE의 작업 세계를 아카이브 사진과 스케치로 재조명한다.",
+  "lens": "건축을 견고한 구조물이 아닌, 디자인의 기대를 배반하고 공간의 문맥을 뒤집는 비판적 매체로 전환한다.",
+  "why_now": "상업 공간이 소비를 넘어 도시의 서사를 구축하는 강력한 방법론을 요구받는 지금, 건축의 고정관념을 해체한 SITE의 실험은 유효한 준거점이 된다.",
+  "mechanism": "건물의 입면을 물리적으로 분리하거나 지면으로 침몰시키는 등 건축적 기대를 의도적으로 배반하여 관람객의 참여와 질문을 유도한다.",
+  "sensory": "아스팔트 아래 매몰된 자동차의 무게감과 붕괴된 듯한 파사드의 비정형적인 파편들이 도시의 일상적 풍경에 낯선 균열을 만든다.",
+  "transfer": "콘티 설계 시 고정관념을 깨는 반전 요소를 위해, 익숙한 구조물의 일부가 물리적으로 이탈하거나 해체되는 순간을 롱테이크로 포착하여 공간의 서사를 뒤틀어 보라.",
+  "context": "제임스 와인즈는 1970년 SITE를 설립하여 건축과 예술의 경계를 허무는 작업을 지속해왔다. 베스트 프로덕츠와의 협업은 그의 대표적인 상업 건축 실험으로, 건축적 장식의 해체를 통해 상업 공간의 권위를 전복했다.",
+  "findings": [
+   {
+    "text": "제임스 와인즈가 설계한 휴스턴의 '불확정적 파사드'는 20세기 건축 서적에 가장 많이 등장한 현대 건축물 중 하나로 기록되었다.",
+    "s": 1,
+    "quote": "This building purportedly \"appeared in more books on 20th-century architecture than photographs of any other modern structure\"."
+   },
+   {
+    "text": "SITE는 1970년부터 건축, 환경 예술, 조경, 산업 디자인 등 다학제적 영역에서 150개 이상의 프로젝트를 수행했다.",
+    "s": 2,
+    "quote": "In total, Wines has designed more than 150 projects for private and municipal clients in eleven countries."
+   }
+  ],
+  "keywords": [
+   "제임스와인즈",
+   "SITE",
+   "해체주의",
+   "상업건축",
+   "공공예술"
+  ],
+  "evidence": "architecture as a critique of itself, as an inversion of design expectations, as humorous insights and the absorption of context as a motivating source of ideas",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "건축과 예술의 경계를 해체한 구체적인 사례와 철학적 배경이 아카이브 자료를 통해 명확히 제시되어 실무적 적용 가능성이 높다.",
+  "v": 2,
+  "url": "https://www.thisiscolossal.com/2026/11/james-wines-site-book-what-else-could-it-mean/",
+  "original_title": "What Else Could It Mean? A Book Surveys the Playful, Iconoclastic Works of James Wines",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 3606,
+  "fetch": "ok",
+  "cliche_hits": [
+   "경계를 허"
+  ],
+  "read_at": "2026-11-07 01:52",
+  "research": {
+   "entities": [
+    "James Wines",
+    "SITE",
+    "BEST Products Company",
+    "Skira",
+    "Ghost Parking Lot"
+   ],
+   "questions": [
+    "제임스 와인즈와 SITE가 추구한 '건축을 통한 비판'과 '디자인 기대의 전복'은 구체적으로 어떤 철학적 배경을 가지고 있나요?",
+    "BEST Products 쇼룸 프로젝트가 당시 상업 건축과 공공 예술의 경계를 어떻게 허물었는지 그 의의가 궁금합니다."
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Best Products - Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Best_Products"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "James Wines",
+     "url": "https://en.wikipedia.org/wiki/James%20Wines"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Best Products",
+     "url": "https://en.wikipedia.org/wiki/Best%20Products"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "건축을 해체하고 비틀다: 제임스 와인즈와 SITE의 포스트모더니즘 아카이브",
+     "url": "https://www.wallpaper.com/architecture/what-else-could-it-mean-james-wines-site-book-review"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    4
+   ],
+   "chars": 4727
+  },
+  "depth_raw": 5,
+  "depth_v": 2
+ },
+ "architecturaldigest.com/story/inside-the-governors-mansions-that-will-soon-be-home-to-19-newly-elected-leaders": {
+  "title_ko": "권력의 무대이자 박제된 유산, 미국 주지사 관저의 공간적 변주",
+  "summary_ko": "미국 19개 주에서 새로 선출된 주지사들이 취임과 함께 공식 관저에 입주한다. 주지사 관저는 19세기 빅토리아 양식부터 미드센추리 모던까지 각 주를 상징하는 역사적 건축물로 구성되며, 일부는 박물관이나 이벤트 공간으로 활용되어 공적 영역과 사적 주거가 교차하는 독특한 시노그래피를 형성한다.",
+  "lens": "관저는 단순한 거처가 아니라 지역의 역사적 층위와 권력의 무게를 물리적 재료로 증명하는 지형지물이다.",
+  "why_now": "공적 공간의 경계가 모호해지는 동시대에, 주거와 집무, 전시 기능이 공존하는 관저의 운영 방식은 공공 건축의 새로운 활용 가능성을 시사한다.",
+  "mechanism": "역사적 골조를 보존하면서 내부를 현대적 집무 환경으로 개조하거나, 1층을 대중에게 개방하여 관람 동선과 거주 동선을 분리하는 방식으로 공간의 문턱을 조절한다.",
+  "sensory": "이탈리아산 대리석 벽난로, 원목 마루의 묵직한 질감과 함께 정원, 온실, 마차 보관소로 이어지는 확장된 대지의 스케일이 권위적인 공간감을 조성한다.",
+  "transfer": "역사적 건축물의 정체성을 유지하면서 현대적 기능을 덧입히는 레이어링 기법을 활용해, 공간의 시간적 깊이를 강조하는 로케이션 연출에 적용 가능하다.",
+  "context": "앨라배마 주지사 관저는 1907년 건축된 신고전주의 양식의 저택으로, 이전 관저가 고속도로 건설로 철거된 후 주지사의 의지로 현재의 공간을 확보했다. 콜로라도의 '콜로라도의 집'은 1908년 준공된 사저를 1960년 관저로 전환한 사례로, 2006년 마차 보관소 개조와 방문자 센터 증축을 통해 공공 활용도를 높였다.",
+  "findings": [
+   {
+    "text": "앨라배마 주지사 관저는 1907년 건축가 T. 웨더리 카터가 설계한 신고전주의 양식의 저택이다.",
+    "s": 1,
+    "quote": "The current mansion is Alabama’s second. Our state first acquired a residence for its governors in 1911, during the term of Governor Emmett O’Neal. Before that time, governors resided in private homes or even local hotel"
+   },
+   {
+    "text": "콜로라도 관저는 1908년 사저로 건축되었으며, 1960년부터 주지사 공식 거처로 사용되었다.",
+    "s": 2,
+    "quote": "Built as a private residence in 1908, the house has been available for use by Governors since 1960, serving both as a family home, and site for official Governor's functions."
+   }
+  ],
+  "keywords": [
+   "공공건축",
+   "역사적유산",
+   "시노그래피",
+   "공간레이어링",
+   "미국주지사관저"
+  ],
+  "evidence": "These executive residences tend to be grand in style and scale, often possessing a long, rich history—even some haunted ones.",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "미국 주지사 관저라는 구체적인 건축 유산의 사례를 통해 공간의 공적·사적 기능 분리와 역사적 적응 방식을 명확히 분석했다.",
+  "v": 2,
+  "url": "https://www.architecturaldigest.com/story/inside-the-governors-mansions-that-will-soon-be-home-to-19-newly-elected-leaders",
+  "original_title": "Inside the Governor’s Mansions That Will Soon Be Home to 19 Newly Elected Leaders",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 8762,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-07 01:52",
+  "research": {
+   "entities": [
+    "Terrace Hill",
+    "Ronald Reagan",
+    "Nancy Reagan",
+    "John Hickenlooper"
+   ],
+   "questions": [
+    "미국 주지사 관저가 단순한 주거 공간을 넘어 역사적·문화적 유산으로서 어떻게 관리되고 있나요?",
+    "일부 주지사들이 공식 관저를 사용하지 않고 사저를 선택하는 주요 이유는 무엇인가요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "History -",
+     "url": "https://governor.alabama.gov/governor/mansion/history/"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Colorado’s Home",
+     "url": "https://governor-residence.colorado.gov/"
+    },
+    {
+     "n": 3,
+     "type": "공식·1차",
+     "title": "Home",
+     "url": "https://terracehill.iowa.gov/"
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "Ronald Reagan",
+     "url": "https://en.wikipedia.org/wiki/Ronald%20Reagan"
+    },
+    {
+     "n": 5,
+     "type": "위키백과",
+     "title": "Nancy Reagan",
+     "url": "https://en.wikipedia.org/wiki/Nancy%20Reagan"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3
+   ],
+   "chars": 8967
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "motionographer.com/quickie/comotion-2026-energy-in-flux": {
+  "title_ko": "에너지의 궤적을 쫓는 30인의 모션 시퀀스, 코모션 2026",
+  "summary_ko": "사바나예술디자인대학교(SCAD)의 학생 주도 컨퍼런스 코모션 2026(CoMotion 2026) 오프닝 타이틀 시퀀스는 기계적 움직임과 빛, 사운드를 결합해 에너지의 흐름을 시각화했다. 아나이사 루이즈 테하다(Anaissa Ruiz Tejada)와 크리스티안 산도발(Cristian Sandoval)이 감독을 맡고 30명 이상의 학생이 참여하여 컨퍼런스 전반의 시각적 정체성을 구축했다.",
+  "lens": "에너지라는 추상적 개념을 기계적 물성과 빛의 산란으로 치환하여, 정적인 그래픽을 동적인 물리 현상으로 변모시킨다.",
+  "why_now": "디지털 모션 그래픽이 범람하는 시대에, 물리적 역학 관계를 모방한 질감과 빛의 연출로 시각적 신뢰도를 확보하려는 시도다.",
+  "mechanism": "기계적 구동 원리를 모션의 리듬으로 차용하고, 빛의 잔상과 사운드의 파형을 동기화하여 에너지가 공간을 관통하는 듯한 착시를 구현한다.",
+  "sensory": "금속성 기계 부품이 맞물리는 건조한 마찰음과 그 사이를 파고드는 날카로운 빛의 궤적이 화면 전체를 긴장감 있게 채운다.",
+  "transfer": "광고 콘티 작성 시, 제품의 기능을 직접 보여주는 대신 부품의 미세한 진동과 빛의 파동을 클로즈업하여 기술적 에너지를 암시하는 몽타주 기법으로 활용 가능하다.",
+  "context": "사바나예술디자인대학교(SCAD)는 미국 조지아주에 위치한 예술 대학으로, 동문들이 디자인 마이애미 파리 등 글로벌 무대에서 역사적 건축물에 동시대적 텍스처를 덧씌우는 실험적인 설치 작업을 지속하고 있다. 본 작업은 이러한 학교의 학제적 역량을 바탕으로 모션 그래픽을 단순한 영상이 아닌 공간과 브랜드의 정체성을 규정하는 핵심 언어로 확장한다.",
+  "findings": [
+   {
+    "text": "사바나예술디자인대학교는 1978년 설립된 사립 예술 대학으로, 미국과 해외에서 온 17,000명 이상의 학생이 재학 중이다.",
+    "s": 1,
+    "quote": "Savannah College of Art and Design (SCAD) is a private art school with locations in Savannah and Atlanta, Georgia, United States, and Lacoste, France. It was founded in 1978"
+   }
+  ],
+  "keywords": [
+   "모션그래픽",
+   "시각적정체성",
+   "물리적역학",
+   "디지털미디어"
+  ],
+  "evidence": "follows energy through mechanics, light, sound and human perception",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "학생 주도의 협업 프로젝트로서 모션 그래픽의 시각적 정체성 구축 과정을 잘 보여주나, 구체적인 기술적 기법의 차별점은 다소 평이하다.",
+  "v": 2,
+  "url": "https://motionographer.com/quickie/comotion-2026-energy-in-flux/",
+  "original_title": "CoMotion 2026: Energy in Flux | Anaissa Ruiz Tejada and Cristian Sandoval",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 597,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-07 01:52",
+  "research": {
+   "entities": [
+    "Anaissa Ruiz Tejada",
+    "Cristian Sandoval",
+    "Savannah College of Art and Design"
+   ],
+   "questions": [
+    "CoMotion 2026 오프닝 타이틀 시퀀스 제작에 참여한 학생들은 어떤 방식으로 시각적 언어를 확장했나요?",
+    "에너지의 흐름을 표현하기 위해 메카닉, 빛, 사운드, 인간의 지각 요소를 어떻게 결합했나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Savannah College of Art and Design",
+     "url": "https://en.wikipedia.org/wiki/Savannah%20College%20of%20Art%20and%20Design"
+    },
+    {
+     "n": 2,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "고무 밴드와 양모로 쌓아 올린 텍스처의 물성",
+     "url": "https://design-milk.com/friday-five-hannah-buechler/"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "반려견의 털빛과 캘리포니아 풍경을 엮은 카펫 컬렉션",
+     "url": "https://design-milk.com/christina-bowlby-bentley-mills/"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "18세기 파리 저택의 계단을 덮은 아메리칸 사우스웨스트의 색채",
+     "url": "https://www.dezeen.com/2026/11/04/scad-installation-design-miami-paris/"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 1634
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "dazeddigital.com/music/article/71308/1/the-fork-knife-the-5-best-tracks-from-skepta-new-album-ranking": {
+  "title_ko": "스켑타의 포크 앤 나이프: 그라임의 왕이 기록한 생존과 성숙의 서사",
+  "summary_ko": "영국 그라임 씬의 상징적 래퍼 스켑타(Skepta)가 7년 만의 정규 앨범 '더 포크 앤 나이프(The Fork & Knife)'를 발매했다. 그는 이 앨범을 통해 토트넘에서의 거친 성장기부터 현재에 이르기까지의 삶을 회고하며, 이민자 가정에서 배운 노동의 가치와 가장으로서의 책임감을 음악적 자서전으로 풀어냈다.",
+  "lens": "성공한 래퍼가 과거의 결핍을 어떻게 현재의 정제된 언어로 치환하는지, 그라임의 속도감과 중년의 사색을 겹쳐 보여준다.",
+  "why_now": "성공 이후의 삶을 고민하는 아티스트가 자신의 과거를 재료 삼아 다음 세대를 위한 서사를 구축하는 시점이다.",
+  "mechanism": "어린 시절의 기억을 소환하는 동요풍 비트와 현재의 무게감을 담은 가사를 교차 배치하여 시간의 층위를 쌓는다.",
+  "sensory": "드럼 앤 베이스의 폭발적인 타격감과 이민자의 고단함이 묻어나는 건조한 독백이 대비를 이루며 청각적 긴장감을 조성한다.",
+  "transfer": "과거의 투쟁을 현재의 성취와 병치하는 교차 편집 기법을 콘티에 도입하고, 날것의 현장감과 절제된 조명을 활용해 인물의 깊이를 드러낸다.",
+  "context": "스켑타는 2005년 보이 베터 노(Boy Better Know)를 설립하며 그라임 씬을 개척했다. 이번 앨범은 2019년 '이그노런스 이즈 블리스(Ignorance Is Bliss)' 이후 오랜 공백기를 거쳐 완성되었으며, 패션 브랜드 메인스(Mains) 운영 등 다방면의 활동을 반영한다.",
+  "findings": [],
+  "keywords": [
+   "스켑타",
+   "그라임",
+   "이민자서사",
+   "음악적자서전",
+   "영국힙합"
+  ],
+  "evidence": "The project is at its best when it’s embracing this position of elder statesman.",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "아티스트의 개인적 서사와 음악적 변화를 구체적인 트랙과 맥락으로 연결하여 분석했다.",
+  "v": 2,
+  "url": "https://www.dazeddigital.com/music/article/71308/1/the-fork-knife-the-5-best-tracks-from-skepta-new-album-ranking?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=the-fork-knife-the-5-best-tracks-from-skepta-s-new-album",
+  "original_title": "The Fork  Knife: The 5 best tracks from Skepta’s new album",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 7822,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-07 01:52",
+  "research": {
+   "entities": [
+    "Skepta",
+    "Mains",
+    "Meridian Crew",
+    "The Fork & Knife",
+    "Ignorance Is Bliss"
+   ],
+   "questions": [
+    "Skepta가 언급한 'Underdog psychosis'는 그의 음악적 커리어와 심리 상태에 어떤 영향을 미쳤는가?",
+    "앨범 제목인 'The Fork & Knife'가 상징하는 이민자 가정의 서사와 그가 추구하는 가치는 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "‘Ignorance towards immigration is horrible. It’s not British’: Skepta on his long-awaited ",
+     "url": "https://www.theguardian.com/music/2026/oct/30/skepta-interview-the-fork-and-knife-album"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Skepta takes his victory lap",
+     "url": "https://www.gq-magazine.co.uk/article/skepta-men-of-the-year-interview-2025"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Skepta",
+     "url": "https://en.wikipedia.org/wiki/Skepta"
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "Ignorance Is Bliss (Skepta album)",
+     "url": "https://en.wikipedia.org/wiki/Ignorance%20Is%20Bliss%20%28Skepta%20album%29"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "애플 아이폰 듀오, 접이식 스마트폰의 주류 진입을 견인할 것인가",
+     "url": "https://www.dezeen.com/2026/09/25/iphone-duo-folding-smartphones-washington-triumphal-arch-dezeen-weekly/"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "런던 언더그라운드의 시각적 계보, 리들리 로드 스튜디오와 할레스덴 하이 스트리트",
+     "url": "https://elephant.art/multi-tracking-ridley-road-and-harlesden-the-studio-returns-to-the-high-street/"
+    },
+    {
+     "n": 7,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "신체를 조각하는 주얼리, 아트 스미스가 남긴 모더니즘의 궤적",
+     "url": "https://www.wallpaper.com/watches-jewellery/discover-art-smith-the-legendary-modernist-jewellery-designer"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "chars": 7913
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "archdaily.com/1187739/al-mastaba-installation-at-amman-design-week-2026-laith-matarweh-studio-for-architecture": {
+  "title_ko": "마스타바: 암만의 일상을 무대화하는 전통적 경계의 재해석",
+  "summary_ko": "라이스 마타르웨 스튜디오(Laith Matarweh Studio)는 2026년 암만 디자인 위크에서 레반트 지역의 전통 건축 요소인 '마스타바'를 현대적 임시 설치물로 구현했다. 이는 대지를 평탄하게 고르거나 앉기 위해 높인 표면을 의미하며, 실내와 외부를 잇는 문턱으로서 일상적인 만남과 사회적 교류가 일어나는 공간을 창출한다.",
+  "lens": "실내 바닥을 외부로 확장해 사적인 일상을 공적인 도시의 무대로 치환하며, 고정된 벽체 없이 수평적 단차만으로 사회적 시노그래피를 설계한다.",
+  "why_now": "도시의 공공 공간이 정형화된 시설물로 채워지는 가운데, 지형을 다루는 전통적인 수평적 개입이 어떻게 사람을 머물게 하는지 보여준다.",
+  "mechanism": "전통 주거의 마스타바가 실내외를 잇는 완충지대였던 점에 착안해, 대지의 높낮이를 조정하는 수평면을 구축하여 관람객의 자연스러운 착석과 체류를 유도한다.",
+  "sensory": "주변 환경과 연속되는 수평적 단차에서 오는 안정감과, 인위적인 칸막이 없이 시야가 트인 개방적인 스케일을 경험하게 한다.",
+  "transfer": "공간의 경계를 명확한 벽 대신 단차(Leveling)를 활용한 플랫폼으로 연출하여, 관람객의 동선을 자연스럽게 멈춤과 소통의 장으로 전환하는 콘티에 활용한다.",
+  "context": "본 프로젝트는 '누적(Accumulations)'을 주제로 2026년 암만 디자인 위크에서 진행되었다. 재료와 기억이 겹겹이 쌓이는 도시의 층위를 탐구하는 이번 디자인 위크의 맥락 속에서, 전통 건축의 구조적 논리를 현대적 공공 설치물로 재해석했다.",
+  "findings": [
+   {
+    "text": "암만 디자인 위크는 2016년 라나 베이루티와 아비르 세이칼리가 공동 창립한 디자인 비엔날레다.",
+    "s": 1,
+    "quote": "Amman Design Week is a design biennale held in Amman, Jordan, co-founded in 2016 by Rana Beiruti and Abeer Seikaly through an initiative of Queen Rania Al Abdullah."
+   },
+   {
+    "text": "2026년 암만 디자인 위크는 '누적'을 주제로 암만과 아카바 전역에서 전시와 공공 프로젝트를 펼쳤다.",
+    "s": 4,
+    "quote": "7년 만에 돌아온 암만 디자인 위크는 ‘축적(Accumulations)’을 주제로 암만 전역과 아카바에서 전시와 공공 프로젝트를 펼쳤다."
+   }
+  ],
+  "keywords": [
+   "마스타바",
+   "암만디자인위크",
+   "공공설치물",
+   "수평적개입",
+   "사회적시노그래피"
+  ],
+  "evidence": "In traditional houses, the mastaba often extends the interior floor outward, forming a threshold between domestic life and the surrounding environment.",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "전통 건축 요소를 현대적 공공 공간의 사회적 장치로 번역한 구체적인 논리가 돋보이며, 암만 디자인 위크의 맥락과 잘 연결된다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1187739/al-mastaba-installation-at-amman-design-week-2026-laith-matarweh-studio-for-architecture",
+  "original_title": "Al-Mastaba Installation at Amman Design Week 2026 / Laith Matarweh Studio for Architecture",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 1206,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-07 01:52",
+  "research": {
+   "entities": [
+    "Amman Design Week",
+    "Laith Matarweh Studio for Architecture",
+    "Laith Matarweh",
+    "Hanan Salameh"
+   ],
+   "questions": [
+    "암만 디자인 위크(Amman Design Week) 2026에서 'Al-Mastaba' 설치 미술이 전달하고자 하는 핵심 메시지는 무엇인가요?",
+    "전통적인 레반트 지역의 'Mastaba' 개념이 현대 건축 및 임시 설치물 디자인에 어떻게 적용되었나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Amman Design Week",
+     "url": "https://en.wikipedia.org/wiki/Amman%20Design%20Week"
+    },
+    {
+     "n": 2,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "암만 디자인 위크 2026: 도시의 층위를 쌓아 올리는 ‘누적’의 미학",
+     "url": "https://www.archdaily.com/1186204/amman-design-week-2026-returns-with-accumulations-exploring-the-layers-of-place-material-and-memory"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "암만 디자인 위크 2026: 위삼 알 아살리의 타슈비크, 전통 공예와 구조의 결합",
+     "url": "https://www.archdaily.com/1186763/tasbik-wesam-al-asali"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "암만 디자인 위크 2026: 도시의 층위를 쌓아 올리는 ‘누적’의 미학",
+     "url": "https://www.archdaily.com/1187222/what-accumulates-lessons-on-materiality-memory-and-public-space-from-amman-design-week-2026"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "chars": 1053
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "dazeddigital.com/fashion/article/71309/1/jude-bellingham-goes-nude-for-calvin-klein-mariah-carey-gucci-dior": {
+  "title_ko": "연말의 서사: 캘빈 클라인의 주드 벨링엄과 럭셔리 하우스의 기록법",
+  "summary_ko": "캘빈 클라인은 축구 선수 주드 벨링엄을 내세운 언더웨어 캠페인을 공개하며 브랜드 아이콘의 정의를 확장했다. 이와 동시에 구찌의 머라이어 캐리 캠페인, 클로에의 2026 홀리데이 컬렉션, 테임즈 앤 허드슨의 루이비통 아카이브 북 출간 등 연말을 겨냥한 브랜드들의 다채로운 시각적 서사가 이어졌다.",
+  "lens": "단순한 상품 노출을 넘어, 신체적 퍼포먼스와 아카이브 기록을 통해 브랜드의 서사를 물리적 실체로 구축한다.",
+  "why_now": "연말 홀리데이 시즌을 맞아 브랜드들은 일시적인 마케팅을 넘어, 아카이브 기록과 인물 중심의 서사로 브랜드 정체성을 공고히 한다.",
+  "mechanism": "캘빈 클라인은 벨링엄의 상징적인 세리머니 동작을 언더웨어 착용 샷과 교차시켜 신체적 역동성을 브랜드 물성과 결합한다.",
+  "sensory": "금속성 체인과 실크 라메의 차가운 광택, 그리고 19세기 창고와 같은 거친 배경이 대비되며 시각적 긴장감을 조성한다.",
+  "transfer": "광고 콘티 구성 시, 인물의 전형적인 동작(세리머니 등)을 제품 착용 샷과 0.5초 단위로 몽타주하여 움직임의 잔상을 강조하라.",
+  "context": "캘빈 클라인은 과거 월터 드 마리아의 미니멀리즘 조각을 쇼스페이스에 배치해 브랜드 본질을 시각화한 바 있다. 테임즈 앤 허드슨은 가상 공간과 건축 도면을 다룬 출판물로 디지털 유산을 물리적 도서로 기록해왔다.",
+  "findings": [
+   {
+    "text": "주드 벨링엄은 2023년 레알 마드리드에 입단하여 라리가 올해의 선수로 선정되었고, 2024년 발롱도르 투표에서 3위를 기록했다.",
+    "s": 2,
+    "quote": "Bellingham signed for Real Madrid in 2023 for €103 million. In his first season, he was the club's top league scorer, helping them to the league title and Champions League, and was voted La Liga Player of the Season."
+   }
+  ],
+  "keywords": [
+   "주드 벨링엄",
+   "아카이브",
+   "브랜드 서사",
+   "캘빈 클라인",
+   "물성"
+  ],
+  "evidence": "The Cotton Stretch underwear campaign features Bellingham in jeans and a white tank before stripping down to his briefs.",
+  "kind": "뉴스·이슈",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "여러 브랜드의 연말 캠페인과 기록 방식을 정리했으나, 각 사례의 기법적 깊이는 일반적인 뉴스 수준에 머무른다.",
+  "v": 2,
+  "url": "https://www.dazeddigital.com/fashion/article/71309/1/jude-bellingham-goes-nude-for-calvin-klein-mariah-carey-gucci-dior?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=jude-goes-nude-for-calvin-klein-plus-more-of-this-week-s-fashion-news",
+  "original_title": "Jude goes nude for Calvin Klein, plus more of this week’s fashion news",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 5131,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-07 01:52",
+  "research": {
+   "entities": [
+    "Jude Bellingham",
+    "Calvin Klein",
+    "Martine Rose",
+    "Mariah Carey",
+    "Thames & Hudson"
+   ],
+   "questions": [
+    "최근 패션 업계에서 브랜드들이 연말 홀리데이 캠페인을 통해 소비자에게 전달하고자 하는 브랜드 이미지의 변화는 무엇인가?",
+    "럭셔리 패션 하우스들이 출판사와의 협업을 통해 아카이브를 기록하는 방식이 브랜드 가치 제고에 어떤 영향을 미치는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "here",
+     "url": "https://www.chloe.com/en-gb/c/new-arrivals"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Jude Bellingham",
+     "url": "https://en.wikipedia.org/wiki/Jude%20Bellingham"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Calvin Klein",
+     "url": "https://en.wikipedia.org/wiki/Calvin%20Klein"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "월터 드 마리아의 미니멀리즘 조각으로 채운 캘빈 클라인 쇼스페이스",
+     "url": "https://www.wallpaper.com/fashion-beauty/calvin-klein-collection-walter-de-maria-veronica-leoni-antwaun-sargent"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "가상 도시와 아케이드의 원점을 해부하는 세 권의 신간",
+     "url": "https://www.wallpaper.com/tech/three-new-titles-explore-the-art-of-digital-world-building-in-cult-computers-and-early-arcades"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "구조물과 잔해 사이: S/S 2027 패션위크 무대 연출 해부",
+     "url": "https://www.wallpaper.com/fashion-beauty/best-runway-show-sets-fashion-week-ss-2027"
+    }
+   ],
+   "used": [
+    2,
+    4,
+    5,
+    6
+   ],
+   "chars": 5003
+  },
+  "depth_raw": 3,
+  "depth_v": 2
  }
 }
