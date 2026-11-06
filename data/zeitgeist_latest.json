@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-11-07 01:51 KST",
+  "generated_at": "2026-11-07 05:22 KST",
   "period": "2026.10.31 - 2026.11.07",
-  "total_articles": 382,
+  "total_articles": 397,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 182
+      "count": 188
     },
     {
       "genre": "동시대 미술",
-      "count": 139
+      "count": 145
     },
     {
       "genre": "아방가르드 패션",
-      "count": 40
+      "count": 41
     },
     {
       "genre": "미디어 파사드·3D",
-      "count": 21
+      "count": 23
     }
   ],
   "themes": [
@@ -118,6 +118,38 @@
       ]
     },
     {
+      "keyword": "박물관·전시",
+      "count": 31,
+      "previous_count": 30,
+      "trend": "steady",
+      "items": [
+        {
+          "title": "멕 온리와 잭 위노커, 2028 휘트니 비엔날레 큐레이팅",
+          "url": "https://hyperallergic.com/meg-onli-and-zack-winokur-to-curate-2028-whitney-biennial/",
+          "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/11/whitney2028biennial0818-copy-1.jpeg",
+          "source_name": "Hyperallergic"
+        },
+        {
+          "title": "Jordan Poorman Cocker’s Vision of Global Indigeneity",
+          "url": "https://hyperallergic.com/jordan-poorman-cockers-vision-of-global-indigeneity/",
+          "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/11/IMG_7503-1-1.jpg",
+          "source_name": "Hyperallergic"
+        },
+        {
+          "title": "AI 슬로프에서 탈출하고 싶으신가요? 이번 주말 뉴욕에서 열리는 아방가르드 디자인 박람회인 콜렉터블 (Collectible) 로 이동하세요.",
+          "url": "https://www.wallpaper.com/design-interiors/design-events/collectible-design-fair-new-york-2026",
+          "image_url": "https://cdn.mos.cms.futurecdn.net/zH7aSJ6hcLrfKxpJhDtsTV-1920-80.jpg",
+          "source_name": "Wallpaper*"
+        },
+        {
+          "title": "파워하우스 파라마타 박물관, 2026년 11월 7일 시드니에서 개관",
+          "url": "https://www.archdaily.com/1188166/powerhouse-parramatta-museum-to-open-on-november-7-2026-in-sydney",
+          "image_url": "https://images.adsttc.com/media/images/6aed/4588/d2cc/6001/8a4f/72b5/large_jpg/powerhouse-parramatta-to-open-on-november-7-2026_29.jpg?1793934747",
+          "source_name": "ArchDaily"
+        }
+      ]
+    },
+    {
       "keyword": "가구 디자인",
       "count": 15,
       "previous_count": 14,
@@ -180,41 +212,10 @@
           "source_name": "ArchDaily"
         }
       ]
-    },
-    {
-      "keyword": "콘크리트 물성",
-      "count": 6,
-      "previous_count": 5,
-      "trend": "steady",
-      "items": [
-        {
-          "title": "\"직접적이고 정제되지 않은\" 재료는 & Daughters의 제주 레스토랑에서 촉각적인 인테리어를 만듭니다.",
-          "url": "https://www.dezeen.com/2026/11/04/jeju-restaurant-daughters/",
-          "image_url": "https://static-2026.dezeen.com/uploads/2026/11/jeju-restaurant-daughters-vancouver_dezeen_2364_col_sq2-1024x1024.jpg",
-          "source_name": "Dezeen"
-        },
-        {
-          "title": "모니터 하우스",
-          "url": "https://leibal.com/interiors/house-of-monitors/",
-          "image_url": "https://leibal.com/wp-content/uploads/2026/10/leibal-house-of-monitors-williamson-williamson-11.jpg",
-          "source_name": "Leibal"
-        },
-        {
-          "title": "지붕 위 산책: 린나홀과 탈린의 변화하는 해안선",
-          "url": "https://www.archdaily.com/1187476/a-walk-on-the-roof-linnahall-and-tallinns-shifting-shoreline",
-          "image_url": "https://images.adsttc.com/media/images/6ae4/b738/a04f/d001/89cd/426e/large_jpg/a-walk-on-the-roof-linnahall-and-tallinns-shifting-shoreline_17.jpg?1793374067",
-          "source_name": "ArchDaily"
-        },
-        {
-          "title": "콘크리트 뉴욕은 조각 건축 디자인에 대한 최신 블루 크로우 가이드북입니다",
-          "url": "https://www.wallpaper.com/architecture/concrete-new-york-is-the-latest-blue-crow-guidebook-to-sculptural-architectural-design",
-          "image_url": "https://cdn.mos.cms.futurecdn.net/ZxzDauezhhbQkQ8kbspPBM-1920-80.jpg",
-          "source_name": "Wallpaper*"
-        }
-      ]
     }
   ],
   "notable_names": [
+    "Mexico City",
     "Martine Rose",
     "Dezeen Showroom",
     "Sabine Marcelis"
