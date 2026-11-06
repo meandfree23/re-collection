@@ -3221,5 +3221,52 @@
   "v": 3,
   "model": "gemini-3.1-flash-lite-preview",
   "written_at": "2026-11-06 00:58"
+ },
+ "2026-11-07": {
+  "date": "2026-11-07",
+  "headline": "공중에 띄운 벽난로와 이쑤시개로 새긴 에비스의 기억",
+  "editorial": "식기를 신체와 상호작용하는 조각으로 탈바꿈시킨 휴스턴의 만찬은 일상의 동선을 실험의 장으로 바꾼다. 메종 마르지엘라의 에비스 플래그십은 이쑤시개라는 원초적 도구로 공간의 시간을 긁어내며 흔적을 복원했다. 멕시코 아반다로의 산악 주거 역시 공중에 띄운 벽난로를 중심으로 벽체 없이 동선을 얽어내며 공간의 밀도를 완성한다. 익숙한 사물과 물리적 골조에 새로운 의미를 부여하는 시도들이 돋보인다.",
+  "threads": [
+   {
+    "name": "사물로 빚은 동선",
+    "note": "식기나 벽난로, 이쑤시개 같은 사물을 통해 공간의 흐름과 사람의 움직임을 제어하는 방식이다.",
+    "items": [
+     {
+      "title": "공예의 재발견, 휴스턴 현대 공예 센터 25주년 실험적 만찬",
+      "url": "https://design-milk.com/steinbeisser-houston-center-contemporary-craft/"
+     },
+     {
+      "title": "멕시코 아반다로의 산악 주거, 매달린 벽난로로 빚은 공간의 중심",
+      "url": "https://leibal.com/interiors/mesa-de-gallos/"
+     },
+     {
+      "title": "메종 마르지엘라, 이쑤시개로 기록한 도쿄 에비스 플래그십의 기억",
+      "url": "https://www.designboom.com/art/toothpick-drawn-manga-celebrates-maison-martin-margiela-tokyo-flagship-anniversary-takehito-moriizumi-ebisu/"
+     }
+    ]
+   },
+   {
+    "name": "지형에 맞춘 건축",
+    "note": "주변의 물리적 환경이나 지형을 활용하여 건축물의 구조와 내부 경험을 결정짓는 사례들이다.",
+    "items": [
+     {
+      "title": "라카노 오세앙의 세 갈래 주거, 테라코타 타일로 빚은 작은 마을",
+      "url": "https://www.wallpaper.com/architecture/residential/atlantic-coast-house-bal-architectes-france"
+     },
+     {
+      "title": "크레타의 암반 위에 띄운 수평선, 클리프 하우스",
+      "url": "https://www.archdaily.com/1187693/cliff-house"
+     },
+     {
+      "title": "화재가 남긴 상흔 위에 세우는 재난 회복 주거의 청사진",
+      "url": "https://www.archdaily.com/1187589/rebuilding-after-wildfires-means-rethinking-residential-design"
+     }
+    ]
+   }
+  ],
+  "based_on": 24,
+  "v": 3,
+  "model": "gemini-3.1-flash-lite",
+  "written_at": "2026-11-07 00:33"
  }
 }
