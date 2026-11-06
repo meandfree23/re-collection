@@ -273744,5 +273744,357 @@
   },
   "depth_raw": 3,
   "depth_v": 2
+ },
+ "archdaily.com/1186233/shimizu-clinic-yano-aoyama-architecture-design": {
+  "title_ko": "두 개의 과목이 하나의 볼륨으로 엮인 마쓰야마의 시미즈 클리닉",
+  "summary_ko": "일본 마쓰야마의 교통량이 많은 교외 도로 변에 위치한 시미즈 클리닉은 야노 아오야마 건축 디자인이 설계했다. 비뇨기과와 내과를 각각 운영하는 부부 의사의 요구에 따라, 서로 다른 두 전문 과목의 진료 공간이 하나의 통합된 건축적 볼륨으로 병합되었다.",
+  "lens": "서로 다른 진료 과목을 하나의 볼륨으로 묶어 교외 도로변의 소음을 거스르지 않는 밀도를 만든다.",
+  "why_now": "의료 시설이 기능적 분할을 넘어 하나의 유기적인 볼륨으로 통합되는 공간적 결합 방식을 보여준다.",
+  "mechanism": "교통량이 많은 교외 코너 대지에 두 개의 진료 영역을 하나의 거대한 매스로 병합해 외부 시선과 소음을 차단한다.",
+  "sensory": "교외 도로의 복잡한 움직임 속에서 단단한 단일 볼륨이 만들어내는 엄숙한 정적이 시각적 무게를 더한다.",
+  "transfer": "공간 콘티에서 서로 다른 성격의 두 방을 하나의 단일 벽체와 매스로 묶어 외부와 단절된 고요한 숏을 구성할 때 참고한다.",
+  "context": "야노 아오야마 건축 디자인(Yano Aoyama Architecture Design)은 일본 마쓰야마를 기반으로 활동하며, 국가 행사를 위한 일시적 파빌리온 오노다테쇼를 설계한 이력이 있다.",
+  "findings": [
+   {
+    "text": "야노 아오야마 건축 디자인은 일본 마쓰야마에서 열린 제76회 전국 식수제를 위해 오노다테쇼 파빌리온을 설계했다.",
+    "s": 1,
+    "quote": "일본 마쓰야마에서 열린 제76회 전국 식수제를 위해 야노 아오야마 건축 디자인이 오노다테쇼 파빌리온을 설계했다."
+   }
+  ],
+  "keywords": [
+   "의료건축",
+   "야노아오야마",
+   "마쓰야마",
+   "통합볼륨"
+  ],
+  "evidence": "A couple practicing urology and internal medicine approached our office with a concise but challenging brief: two clinics of different specialties merged into one unified volume.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "두 과목을 하나의 볼륨으로 통합한 기획은 흥미로우나 공간 내부 평면과 상세한 디테일이 원문에 부족하다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1186233/shimizu-clinic-yano-aoyama-architecture-design",
+  "original_title": "Shimizu Clinic / Yano Aoyama Architecture Design",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 1028,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-06 19:08",
+  "research": {
+   "entities": [
+    "Yano Aoyama Architecture Design",
+    "Masao Nishikawa",
+    "Matsuyama"
+   ],
+   "questions": [
+    "비뇨기과와 내과라는 서로 다른 전문 과목의 두 클리닉이 하나의 볼륨으로 통합되면서 공간 배치가 어떻게 이루어졌나요?",
+    "일본 마쓰야마의 교외 교통량이 많은 도로변이라는 대지 조건이 클리닉의 건축적 디자인에 어떤 영향을 미쳤나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "제76회 일본 전국 식수제, 야노 아오야마의 일시적 의례 공간 오노다테쇼",
+     "url": "https://www.archdaily.com/1186227/onodatesho-pavilion-at-the-76th-japans-national-tree-planting-festival-yano-aoyama-architecture-design"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 269
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "dezeen.com/2026/11/06/collective-architecture-paisley-central-library-rias-doolan-award": {
+  "title_ko": "낡은 하이 스트리트 건물의 변신, 페이즐리 중앙 도서관",
+  "summary_ko": "스코틀랜드 스튜디오 콜렉티브 아키텍처가 낡은 고층 건물을 페이즐리 중앙 도서관으로 개조했다. 이 프로젝트는 책을 읽는 기능보다 누구나 머물 수 있는 공공적 시노그래피를 우선하여 설계되었다. RIAS 앤드루 둘란 베스트 빌딩 인 스코틀랜드 어워드 후보에 올랐으며, 짐 스티븐슨의 영상으로 소개되었다.",
+  "lens": "책을 읽는 행위보다 머무는 행위를 우선하여 도서관의 문턱을 낮춘다.",
+  "why_now": "도시 유산을 부수지 않고 고쳐 쓰는 개조 작업이 커뮤니티 복원의 핵심 대안으로 떠오른다.",
+  "mechanism": "독서 공간, 이벤트 공간, 스터디룸을 유기적으로 배치하여 다양한 사회적 계층이 자연스럽게 섞이도록 동선을 짰다.",
+  "sensory": "오래된 도심 속 구조물 내부에서 빛과 사람이 교차하며 만들어내는 서늘하면서도 밀도 높은 공기감.",
+  "transfer": "공간 다큐멘터리나 인터뷰 숏을 촬영할 때, 인물의 연출보다 공간의 개방적 동선과 체류를 강조하는 와이드 숏을 구성한다.",
+  "context": "콜렉티브 아키텍처는 공공성과 지역 커뮤니티에 기반한 다수의 도시 재생 프로젝트를 진행해 왔다. 이번 페이즐리 중앙 도서관은 스코틀랜드 왕립건축가협회(RIAS)가 주관하는 앤드루 둘란 어워드 후보에 올랐다.",
+  "findings": [],
+  "keywords": [
+   "도서관개조",
+   "공공공간",
+   "도시재생",
+   "건축유산"
+  ],
+  "evidence": "The conversion of a dilapidated high-street building into a public library in Paisley, Scotland, shortlisted for the RIAS Andrew Doolan Best Building in Scotland Award, features in this video by photographer Jim Stephenson.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "구체적인 건축적 개조 사례와 인터뷰 내용이 있으나 선례를 압도하는 혁신적 기법까지는 확인되지 않는다.",
+  "v": 2,
+  "url": "https://www.dezeen.com/2026/11/06/collective-architecture-paisley-central-library-rias-doolan-award/",
+  "original_title": "Library by Collective Architecture breathes new life into Scottish high street",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 2598,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-06 19:08",
+  "research": {
+   "entities": [
+    "Collective Architecture",
+    "Paisley Central Library",
+    "Royal Incorporation of Architects in Scotland",
+    "Andrew Doolan Best Building in Scotland Award",
+    "Jim Stephenson"
+   ],
+   "questions": [
+    "Collective Architecture가 페이즐리 중앙 도서관을 설계할 때 '사람들이 머무는 공간'을 구현하기 위해 적용한 구체적인 건축적 전략은 무엇인가요?",
+    "RIAS가 올해의 건축상 후보작들을 선정하며 강조한 '재사용(reuse)'과 '개조(retrofit)'가 스코틀랜드 도시 재생에 어떤 의미를 갖나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Collective Architecture",
+     "url": "https://www.collectivearchitecture.co.uk/"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Royal Incorporation of Architects in Scotland",
+     "url": "https://en.wikipedia.org/wiki/Royal%20Incorporation%20of%20Architects%20in%20Scotland"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 2709
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "archdaily.com/1186996/chunan-distillery-pra": {
+  "title_ko": "백색의 비움과 흑색의 구축, 첸다오 호수 춘안 증류소의 후이 스타일 해석",
+  "summary_ko": "항저우 첸다오 호수 인근에 위치한 춘안 증류소는 후이(Hui) 스타일 건축의 핵심인 백색 벽과 흑색 처마의 대비를 현대적으로 재해석했다. PRA(Project for Research and Architecture)는 전통 건축의 밀도 높은 복도와 비어있는 공간의 미학을 증류소 동선에 도입하여, 거대한 규모 속에서도 느린 속도감을 구현했다.",
+  "lens": "후이 스타일의 백색 벽과 흑색 처마를 단순한 외형 모사가 아닌, 비어있는 공간과 채워진 공간의 철학적 대비로 치환하여 증류소의 기능적 동선을 구축했다.",
+  "why_now": "디지털 환경의 과잉 속에서 전통 건축이 지닌 물리적 여백과 흑백의 강렬한 대비는 공간에 묵직한 속도감을 부여한다.",
+  "mechanism": "후이 건축의 굽이치는 복도 구조를 차용하여 내부 활동 공간 사이로 비어있는 공간을 흐르게 함으로써, 활기찬 증류 과정과 대비되는 정적인 감각을 유도한다.",
+  "sensory": "흰 벽이 만드는 빛의 확산과 짙은 색조의 처마가 만드는 그림자의 깊이가 공간의 무게를 결정짓는다.",
+  "transfer": "공간 연출 시 화이트 월의 면적을 극대화해 빛을 포용하고, 블랙 스틸이나 어두운 목재로 에지를 잡아 시각적 명료함과 깊이를 확보하는 샷을 설계한다.",
+  "context": "PRA는 첸다오 호수 지역의 지리적 특성과 후이 스타일의 유산적 디테일을 현대적 산업 시설인 증류소에 이식하는 작업을 수행했다.",
+  "findings": [],
+  "keywords": [
+   "후이건축",
+   "공간철학",
+   "비움의미학",
+   "산업건축"
+  ],
+  "evidence": "Chinese architecture in this style reinforces the philosophical emptiness of white and the solidity of black.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "전통 건축 양식의 현대적 해석이라는 관점은 흥미로우나, 구체적인 기술적 디테일이나 재료의 물성 변화에 대한 상세한 설명이 부족하다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1186996/chunan-distillery-pra",
+  "original_title": "Chun’an Distillery / PRA",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 2256,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-06 19:08",
+  "research": {
+   "entities": [
+    "PRA",
+    "AND Structure",
+    "On earth studio",
+    "Forsyths Ltd."
+   ],
+   "questions": [
+    "휘(Hui) 스타일 건축의 미학적 특징이 현대적인 위스키 증류소 설계에 어떻게 반영되었는가?",
+    "치안다오 호수(Qiandao Lake) 지역의 자연환경과 전통 건축 양식을 조화시키기 위해 어떤 설계 전략이 사용되었는가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "wallpaper.com/transportation/brabus-motor-yachts-ceo-constantin-buschmann-interview": {
+  "title_ko": "브라부스, '다크 럭셔리'로 모터 요트의 기계적 미학을 재정의하다",
+  "summary_ko": "독일의 고성능 자동차 튜닝 기업 브라부스(Brabus)가 넥스트 요트 그룹(Next Yacht Group)의 에이비 요트(AB Yachts)와 협업하여 신규 요트 라인업을 공개했다. 탄소 섬유와 LED 조명 등 브라부스 고유의 자동차 디자인 문법을 적용한 AB95와 AB110 모델은 48노트의 고속 주행 성능과 함께 강렬한 존재감을 드러낸다.",
+  "lens": "자동차 튜닝 브랜드가 선박이라는 거대한 물리적 플랫폼을 슈퍼카의 문법으로 재해석하여, 속도와 존재감을 시각화하는 방식에 주목한다.",
+  "why_now": "기술적 성능을 넘어 브랜드의 고유한 미학적 태도가 라이프스타일 전반으로 확장되는 동시대 럭셔리 산업의 전형을 보여준다.",
+  "mechanism": "항공우주 분야의 선체 설계 기술을 차용해 속도를 최적화하고, 노출 탄소 섬유와 발광 루프 스포일러 등 자동차의 디테일을 선박 외관에 이식하여 시각적 긴장감을 조성한다.",
+  "sensory": "검은색을 기조로 한 차가운 탄소 섬유의 질감과 예리하게 꺾인 LED 조명이 물 위에서 묵직하면서도 날카로운 기계적 존재감을 뿜어낸다.",
+  "transfer": "콘티 작업 시, 금속과 탄소 섬유의 무광 질감을 강조한 클로즈업 샷을 활용해 강력한 기계적 에너지를 표현하고, 조명 장치를 구조물에 결합해 빛의 흐름으로 속도감을 연출할 것.",
+  "context": "브라부스는 1977년 설립된 이후 메르세데스-벤츠 등을 튜닝하며 고성능 자동차 시장에서 입지를 다져왔다. 최근에는 선리프 요트와의 협업을 통해 울티마 55를 선보이는 등 해양 모빌리티로 영역을 지속적으로 확장하고 있다.",
+  "findings": [
+   {
+    "text": "브라부스 AB95 모델은 MAN V12X 엔진을 탑재하여 최대 48노트의 속도를 낸다.",
+    "s": 2,
+    "quote": "Powered by three MAN V12X 2200 engines producing 1,620 kW / 2,200 hp each and a state-of-the-art waterjet propulsion system, the BRABUS AB95 reaches a maximum speed of 48 knots"
+   },
+   {
+    "text": "브라부스는 1977년 독일 보트로프에서 설립된 고성능 자동차 튜닝 기업이다.",
+    "s": 3,
+    "quote": "Brabus GmbH (stylized in uppercase) is a German automotive aftermarket high-performance tuning company founded in 1977 in Bottrop (Ruhr area)."
+   }
+  ],
+  "keywords": [
+   "브라부스",
+   "다크럭셔리",
+   "탄소섬유",
+   "에이비요트",
+   "모빌리티디자인"
+  ],
+  "evidence": "A Brabus yacht has to look like it means business. It’s serious, something like a Batmobile for the water",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "자동차 디자인 언어를 요트라는 거대한 스케일로 성공적으로 이식한 기법이 명확하고, 브랜드 전략과 디자인 철학의 연결 지점이 구체적이다.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/transportation/brabus-motor-yachts-ceo-constantin-buschmann-interview",
+  "original_title": "Brabus is bringing its ‘dark luxury’ aesthetic to the rarefied world of motor yachts",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 3393,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-06 19:08",
+  "research": {
+   "entities": [
+    "Brabus",
+    "Constantin Buschmann",
+    "Next Yacht Group",
+    "AB Yachts"
+   ],
+   "questions": [
+    "브라부스가 자동차 튜닝 기업에서 라이프스타일 럭셔리 브랜드로 확장하는 전략적 배경은 무엇인가?",
+    "브라부스가 정의하는 '다크 럭셔리(Dark Luxury)' 디자인 철학이 요트 설계에 구체적으로 어떻게 적용되었는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Next Yacht Group – Luxury Yachts of Excellence",
+     "url": "https://www.nextyachtgroup.com/"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "BRABUS AB - AB Yachts",
+     "url": "https://www.abyachts.com/brabus-ab/"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Brabus",
+     "url": "https://en.wikipedia.org/wiki/Brabus"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "브라부스 디자인 DNA를 입힌 55피트 카타마란, 울티마 55",
+     "url": "https://www.wallpaper.com/transportation/sunreef-brabus-ultima-55"
+    }
+   ],
+   "used": [
+    2,
+    3,
+    4
+   ],
+   "chars": 4119
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "dazeddigital.com/fashion/article/71297/1/martine-rose-new-balenciaga-creative-director-appointment-pierpaolo-piccioli": {
+  "title_ko": "마틴 로즈의 발렌시아가 합류, 조각적 변주와 하위문화의 귀환",
+  "summary_ko": "마틴 로즈(Martine Rose)가 발렌시아가(Balenciaga)의 새로운 크리에이티브 디렉터로 임명되었다. 2015년부터 3년간 남성복 컨설턴트로 활동하며 브랜드의 초기 정체성 구축에 기여했던 그는, 이제 남성·여성·꾸뛰르 전 컬렉션을 총괄한다. 11월 16일부터 공식 업무를 시작하며 내년 여름 첫 컬렉션을 선보일 예정이다.",
+  "lens": "조각적 실루엣에 대한 집요한 탐구와 언더그라운드 댄스 문화의 에너지를 결합해, 브랜드의 아카이브를 거리의 언어로 재번역한다.",
+  "why_now": "디자이너의 개인적 서사와 하위문화의 파편을 럭셔리 하우스의 구조 안에 이식함으로써, 정체된 브랜드에 즉각적인 긴장감을 부여하려는 시도다.",
+  "mechanism": "크리스토발 발렌시아가가 정의한 건축적 형태미에 마틴 로즈 특유의 비정형적 비례와 박시한 숄더 라인을 겹쳐, 고전적 조형성과 현대적 스트리트 감각을 동기화한다.",
+  "sensory": "팽팽하게 당겨진 허리선과 대비되는 풍선처럼 부푼 봄버 재킷의 볼륨감, 거친 스트리트 캐스팅 모델들이 뿜어내는 날것의 에너지가 런웨이를 채운다.",
+  "transfer": "콘티 연출 시, 정형화된 모델 대신 특정 하위문화 집단을 캐스팅하여 공간의 맥락을 형성하고, 의상의 부피감을 극대화하는 로우 앵글 샷으로 조각적 실루엣을 강조한다.",
+  "context": "마틴 로즈는 2015년 뎀나(Demna)의 제안으로 발렌시아가 남성복 론칭을 도왔으며, 이는 자신의 브랜드가 시장의 주목을 받는 결정적 계기가 되었다. 뎀나가 구찌에서 보여준 매장 공간의 전유와 하위문화의 아카이브 결합 방식은 로즈가 발렌시아가에서 펼칠 전략의 예고편과 같다.",
+  "findings": [
+   {
+    "text": "피에르파올로 피치올리는 2025년 7월 발렌시아가 크리에이티브 디렉터로 부임했으나 18개월 만에 퇴임했다.",
+    "s": 2,
+    "quote": "Italian designer Pierpaolo Piccioli became Creative Director of Balenciaga in July 2025. His departure was announced in November 2026, after less than 18 months in the role."
+   }
+  ],
+  "keywords": [
+   "마틴 로즈",
+   "발렌시아가",
+   "조각적 실루엣",
+   "하위문화",
+   "스트리트 캐스팅"
+  ],
+  "evidence": "Martine Rose is headed to Balenciaga to take over the men’s, women’s and couture collections.",
+  "kind": "뉴스·이슈",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "브랜드의 역사적 맥락과 디자이너의 과거 기여도를 연결하여 향후 방향성을 구체적으로 분석했다.",
+  "v": 2,
+  "url": "https://www.dazeddigital.com/fashion/article/71297/1/martine-rose-new-balenciaga-creative-director-appointment-pierpaolo-piccioli?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=five-reasons-why-martine-rose-is-the-perfect-balenciaga-creative-director",
+  "original_title": "Five reasons why Martine Rose is the perfect Balenciaga creative director",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 7601,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-06 19:08",
+  "research": {
+   "entities": [
+    "Martine Rose",
+    "Balenciaga",
+    "Kering",
+    "Demna",
+    "Vetements"
+   ],
+   "questions": [
+    "마틴 로즈가 과거 발렌시아가에서 컨설턴트로 활동하며 남긴 디자인적 유산은 무엇인가?",
+    "마틴 로즈의 독자적인 브랜드 철학인 '스트리트 캐스팅'과 '다양성'이 발렌시아가의 하이엔드 브랜드 정체성과 어떻게 결합될 것으로 예상되는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Martine Rose",
+     "url": "https://en.wikipedia.org/wiki/Martine%20Rose"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Balenciaga",
+     "url": "https://en.wikipedia.org/wiki/Balenciaga"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "구찌의 신전, 부서진 부르주아를 소환하다",
+     "url": "https://www.wallpaper.com/fashion-beauty/gucci-ss-2027-demna-show-review-milan-fashion-week"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "트랙슈트와 노나 사이, 뎀나가 밀라노에서 뒤섞은 구찌의 기억",
+     "url": "https://www.dazeddigital.com/fashion/article/71042/1/demna-hits-shuffle-on-gucci-stereotypes-for-ss27-milan-fashion-week?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=from-rappers-to-nonnas-demna-hits-shuffle-on-gucci-stereotypes-for-ss27"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "유쾌한 혼돈의 런던: SS27 스트리트 스타일에 담긴 풍자와 하위문화",
+     "url": "https://www.dazeddigital.com/fashion/article/71037/1/from-maga-puns-to-princess-diana-the-best-street-style-from-lfw-ss27?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=from-maga-puns-to-princess-diana-the-best-street-style-from-lfw-ss27"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "chars": 2099
+  },
+  "depth_raw": 4,
+  "depth_v": 2
  }
 }
