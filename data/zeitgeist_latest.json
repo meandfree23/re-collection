@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-07 19:01 KST",
+  "generated_at": "2026-11-07 23:40 KST",
   "period": "2026.10.31 - 2026.11.07",
-  "total_articles": 410,
+  "total_articles": 419,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 195
+      "count": 198
     },
     {
       "genre": "동시대 미술",
-      "count": 151
+      "count": 157
     },
     {
       "genre": "아방가르드 패션",
@@ -22,11 +22,55 @@
   ],
   "themes": [
     {
+      "keyword": "박물관·전시",
+      "count": 33,
+      "previous_count": 30,
+      "trend": "rising",
+      "items": [
+        {
+          "title": "런던의 디자인 박물관 (Design Museum) 의 새로운 전시가 우리에게 상기시켜주기 때문에 블랙 디자인은 모놀리스가 아닙니다.",
+          "url": "https://www.wallpaper.com/design-interiors/design-events/nue-black-aesthetic-design-museum",
+          "image_url": "https://cdn.mos.cms.futurecdn.net/VFD4otWVL79GF3uuFY7Ta3-1920-80.jpg",
+          "source_name": "Wallpaper*"
+        },
+        {
+          "title": "콘크리트로 예술적으로 만든 8개의 갤러리",
+          "url": "https://www.dezeen.com/2026/11/07/concrete-art-galleries-roundup/",
+          "image_url": "https://static-2026.dezeen.com/uploads/2011/03/dzn_Casa-das-Historias-Paula-Rego-by-Eduardo-Souto-de-Moura-1.jpg",
+          "source_name": "Dezeen"
+        },
+        {
+          "title": "멕 온리와 잭 위노커, 2028 휘트니 비엔날레 큐레이팅",
+          "url": "https://hyperallergic.com/meg-onli-and-zack-winokur-to-curate-2028-whitney-biennial/",
+          "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/11/whitney2028biennial0818-copy-1.jpeg",
+          "source_name": "Hyperallergic"
+        },
+        {
+          "title": "Jordan Poorman Cocker’s Vision of Global Indigeneity",
+          "url": "https://hyperallergic.com/jordan-poorman-cockers-vision-of-global-indigeneity/",
+          "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/11/IMG_7503-1-1.jpg",
+          "source_name": "Hyperallergic"
+        }
+      ]
+    },
+    {
       "keyword": "콘크리트 물성",
-      "count": 7,
+      "count": 9,
       "previous_count": 5,
       "trend": "rising",
       "items": [
+        {
+          "title": "콘크리트로 예술적으로 만든 8개의 갤러리",
+          "url": "https://www.dezeen.com/2026/11/07/concrete-art-galleries-roundup/",
+          "image_url": "https://static-2026.dezeen.com/uploads/2011/03/dzn_Casa-das-Historias-Paula-Rego-by-Eduardo-Souto-de-Moura-1.jpg",
+          "source_name": "Dezeen"
+        },
+        {
+          "title": "키가 큰 알베르토 칼레하 (Alberto Calleja) 가 멕시코 해안의 나무가 우거진 곳으로 콘크리트 카사 노바 (Casa Nova) 를 둘러싸",
+          "url": "https://www.dezeen.com/2026/11/07/taller-alberto-calleja-casa-nova/",
+          "image_url": "https://static-2026.dezeen.com/uploads/2026/11/taller-alberto-calleja-casa-nova-concrete-home-mexico-sq_dezeen_2364_col_0-1024x1024.jpg",
+          "source_name": "Dezeen"
+        },
         {
           "title": "콘크리트 주택/비에르나9 + 시랄 아르키텍토스",
           "url": "https://www.archdaily.com/1188203/concrete-house-vierna9-plus-ciral-arquitectos",
@@ -38,18 +82,6 @@
           "url": "https://www.dezeen.com/2026/11/04/jeju-restaurant-daughters/",
           "image_url": "https://static-2026.dezeen.com/uploads/2026/11/jeju-restaurant-daughters-vancouver_dezeen_2364_col_sq2-1024x1024.jpg",
           "source_name": "Dezeen"
-        },
-        {
-          "title": "모니터 하우스",
-          "url": "https://leibal.com/interiors/house-of-monitors/",
-          "image_url": "https://leibal.com/wp-content/uploads/2026/10/leibal-house-of-monitors-williamson-williamson-11.jpg",
-          "source_name": "Leibal"
-        },
-        {
-          "title": "지붕 위 산책: 린나홀과 탈린의 변화하는 해안선",
-          "url": "https://www.archdaily.com/1187476/a-walk-on-the-roof-linnahall-and-tallinns-shifting-shoreline",
-          "image_url": "https://images.adsttc.com/media/images/6ae4/b738/a04f/d001/89cd/426e/large_jpg/a-walk-on-the-roof-linnahall-and-tallinns-shifting-shoreline_17.jpg?1793374067",
-          "source_name": "ArchDaily"
         }
       ]
     },
@@ -118,70 +150,6 @@
       ]
     },
     {
-      "keyword": "설치 미술",
-      "count": 4,
-      "previous_count": 0,
-      "trend": "new",
-      "items": [
-        {
-          "title": "2026년 암만 디자인 위크 (Amman Design Week)/건축을 위한 라이스 마타르웨 스튜디오 (Laith Matarweh Studio) 에 알 마스타바 설치",
-          "url": "https://www.archdaily.com/1187739/al-mastaba-installation-at-amman-design-week-2026-laith-matarweh-studio-for-architecture",
-          "image_url": "https://images.adsttc.com/media/images/6ae3/1f5d/3271/8400/01d0/fb25/large_jpg/11_Al-Mastaba_Installation_Mohanad_Jihad.jpg?1793269936",
-          "source_name": "ArchDaily"
-        },
-        {
-          "title": "SCAD 동문들은 디자인 마이애미 파리 동안 18세기 계단을 다채로운 설치물로 탈바꿈시켰습니다.",
-          "url": "https://www.dezeen.com/2026/11/04/scad-installation-design-miami-paris/",
-          "image_url": "https://static-2026.dezeen.com/uploads/2026/10/SCAD-sq1-1024x1024.jpg",
-          "source_name": "Dezeen"
-        },
-        {
-          "title": "jakob kudsk steensen의 이 설치물은 생명의 기원과 선택의지를 고려합니다.",
-          "url": "https://www.designboom.com/art/this-installation-by-jakob-kudsk-steensen-considers-the-origins-and-agency-of-life/",
-          "image_url": "https://www.designboom.com/wp-content/uploads/2026/11/jks-psychosphere-designboom-05.jpg",
-          "source_name": "Designboom Art"
-        },
-        {
-          "title": "타티아나 빌바오 (Tatiana Bilbao) 가 아트 오미 (Art Omi) 에서 램드 어스 (rammed",
-          "url": "https://www.dezeen.com/2026/11/03/tatiana-bilbao-creates-rammed-earth-installation-at-art-omi/",
-          "image_url": "https://static-2026.dezeen.com/uploads/2026/10/borrowed-earth-tatiana-bilbao-art-omi_dezeen_2364_sq-1-1024x1024.jpg",
-          "source_name": "Dezeen"
-        }
-      ]
-    },
-    {
-      "keyword": "박물관·전시",
-      "count": 31,
-      "previous_count": 30,
-      "trend": "steady",
-      "items": [
-        {
-          "title": "멕 온리와 잭 위노커, 2028 휘트니 비엔날레 큐레이팅",
-          "url": "https://hyperallergic.com/meg-onli-and-zack-winokur-to-curate-2028-whitney-biennial/",
-          "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/11/whitney2028biennial0818-copy-1.jpeg",
-          "source_name": "Hyperallergic"
-        },
-        {
-          "title": "Jordan Poorman Cocker’s Vision of Global Indigeneity",
-          "url": "https://hyperallergic.com/jordan-poorman-cockers-vision-of-global-indigeneity/",
-          "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/11/IMG_7503-1-1.jpg",
-          "source_name": "Hyperallergic"
-        },
-        {
-          "title": "AI 슬로프에서 탈출하고 싶으신가요? 이번 주말 뉴욕에서 열리는 아방가르드 디자인 박람회인 콜렉터블 (Collectible) 로 이동하세요.",
-          "url": "https://www.wallpaper.com/design-interiors/design-events/collectible-design-fair-new-york-2026",
-          "image_url": "https://cdn.mos.cms.futurecdn.net/zH7aSJ6hcLrfKxpJhDtsTV-1920-80.jpg",
-          "source_name": "Wallpaper*"
-        },
-        {
-          "title": "파워하우스 파라마타 박물관, 2026년 11월 7일 시드니에서 개관",
-          "url": "https://www.archdaily.com/1188166/powerhouse-parramatta-museum-to-open-on-november-7-2026-in-sydney",
-          "image_url": "https://images.adsttc.com/media/images/6aed/4588/d2cc/6001/8a4f/72b5/large_jpg/powerhouse-parramatta-to-open-on-november-7-2026_29.jpg?1793934747",
-          "source_name": "ArchDaily"
-        }
-      ]
-    },
-    {
       "keyword": "가구 디자인",
       "count": 15,
       "previous_count": 14,
@@ -210,6 +178,38 @@
           "url": "https://www.architecturaldigest.com/story/best-oushak-rugs",
           "image_url": "https://media.architecturaldigest.com/photos/6aecafabb4c7563f3845b906/master/pass/HendricksChurchill_Litchfield_10280.jpg",
           "source_name": "Architectural Digest"
+        }
+      ]
+    },
+    {
+      "keyword": "빛과 조명",
+      "count": 10,
+      "previous_count": 9,
+      "trend": "steady",
+      "items": [
+        {
+          "title": "SWA는 좀 더 걷기 좋은 휴스턴을 위해 모듈식 \"툴킷\" 을 구현합니다",
+          "url": "https://www.dezeen.com/2026/11/05/swa-cool-connected-corridors-houston/",
+          "image_url": "https://static-2026.dezeen.com/uploads/2026/11/cool-connected-swa-houston-texas_dezeen_2364_sq-1-1024x1024.jpg",
+          "source_name": "Dezeen"
+        },
+        {
+          "title": "Dezeen Showroom의 15개 신제품 중 Marset의 깨지기 쉬운 조명 컬렉션",
+          "url": "https://www.dezeen.com/2026/11/05/fragile-lighting-marset-furniture-tiles-products-dezeen-showroom/",
+          "image_url": "https://static-2026.dezeen.com/uploads/2026/11/fragile-lighting-collection-marset-showroom_dezeen_2364_col_0-1024x1024.jpg",
+          "source_name": "Dezeen"
+        },
+        {
+          "title": "자연광 액자 만들기: 캐빈 아키텍처의 5가지 주간 조명 전략",
+          "url": "https://www.archdaily.com/1187986/framing-natural-light-five-daylighting-strategies-in-cabin-architecture",
+          "image_url": "https://images.adsttc.com/media/images/6ae9/10a2/62dc/0e01/8725/78e3/large_jpg/_32.jpg?1793659050",
+          "source_name": "ArchDaily"
+        },
+        {
+          "title": "밀라노의 뉴 산 시로 스타디움과 BIAU의 12개 수상 프로젝트: 이번 주 리뷰",
+          "url": "https://www.archdaily.com/1188109/milans-new-san-siro-stadium-and-the-biaus-12-awarded-projects-this-weeks-review",
+          "image_url": "https://images.adsttc.com/media/images/6aec/0e71/c723/9a01/895a/2979/large_jpg/a-new-stadium-replacing-milans-san-siro-and-the-unveiling-of-the-biaus-12-awarded-projects-this-weeks-review_6.jpg?1793855130",
+          "source_name": "ArchDaily"
         }
       ]
     }
