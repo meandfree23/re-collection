@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-07 10:40 KST",
+  "generated_at": "2026-11-07 11:49 KST",
   "period": "2026.10.31 - 2026.11.07",
-  "total_articles": 403,
+  "total_articles": 406,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 191
+      "count": 194
     },
     {
       "genre": "동시대 미술",
@@ -21,6 +21,38 @@
     }
   ],
   "themes": [
+    {
+      "keyword": "콘크리트 물성",
+      "count": 7,
+      "previous_count": 5,
+      "trend": "rising",
+      "items": [
+        {
+          "title": "콘크리트 주택/비에르나9 + 시랄 아르키텍토스",
+          "url": "https://www.archdaily.com/1188203/concrete-house-vierna9-plus-ciral-arquitectos",
+          "image_url": "https://images.adsttc.com/media/images/6a9e/da4a/de72/0d00/014c/cf88/large_jpg/Casa_de_Hormig_n__7_.jpg?1788795559",
+          "source_name": "ArchDaily"
+        },
+        {
+          "title": "\"직접적이고 정제되지 않은\" 재료는 & Daughters의 제주 레스토랑에서 촉각적인 인테리어를 만듭니다.",
+          "url": "https://www.dezeen.com/2026/11/04/jeju-restaurant-daughters/",
+          "image_url": "https://static-2026.dezeen.com/uploads/2026/11/jeju-restaurant-daughters-vancouver_dezeen_2364_col_sq2-1024x1024.jpg",
+          "source_name": "Dezeen"
+        },
+        {
+          "title": "모니터 하우스",
+          "url": "https://leibal.com/interiors/house-of-monitors/",
+          "image_url": "https://leibal.com/wp-content/uploads/2026/10/leibal-house-of-monitors-williamson-williamson-11.jpg",
+          "source_name": "Leibal"
+        },
+        {
+          "title": "지붕 위 산책: 린나홀과 탈린의 변화하는 해안선",
+          "url": "https://www.archdaily.com/1187476/a-walk-on-the-roof-linnahall-and-tallinns-shifting-shoreline",
+          "image_url": "https://images.adsttc.com/media/images/6ae4/b738/a04f/d001/89cd/426e/large_jpg/a-walk-on-the-roof-linnahall-and-tallinns-shifting-shoreline_17.jpg?1793374067",
+          "source_name": "ArchDaily"
+        }
+      ]
+    },
     {
       "keyword": "텍스타일·직물",
       "count": 7,
@@ -178,38 +210,6 @@
           "url": "https://www.architecturaldigest.com/story/best-oushak-rugs",
           "image_url": "https://media.architecturaldigest.com/photos/6aecafabb4c7563f3845b906/master/pass/HendricksChurchill_Litchfield_10280.jpg",
           "source_name": "Architectural Digest"
-        }
-      ]
-    },
-    {
-      "keyword": "빛과 조명",
-      "count": 10,
-      "previous_count": 9,
-      "trend": "steady",
-      "items": [
-        {
-          "title": "SWA는 좀 더 걷기 좋은 휴스턴을 위해 모듈식 \"툴킷\" 을 구현합니다",
-          "url": "https://www.dezeen.com/2026/11/05/swa-cool-connected-corridors-houston/",
-          "image_url": "https://static-2026.dezeen.com/uploads/2026/11/cool-connected-swa-houston-texas_dezeen_2364_sq-1-1024x1024.jpg",
-          "source_name": "Dezeen"
-        },
-        {
-          "title": "Dezeen Showroom의 15개 신제품 중 Marset의 깨지기 쉬운 조명 컬렉션",
-          "url": "https://www.dezeen.com/2026/11/05/fragile-lighting-marset-furniture-tiles-products-dezeen-showroom/",
-          "image_url": "https://static-2026.dezeen.com/uploads/2026/11/fragile-lighting-collection-marset-showroom_dezeen_2364_col_0-1024x1024.jpg",
-          "source_name": "Dezeen"
-        },
-        {
-          "title": "자연광 액자 만들기: 캐빈 아키텍처의 5가지 주간 조명 전략",
-          "url": "https://www.archdaily.com/1187986/framing-natural-light-five-daylighting-strategies-in-cabin-architecture",
-          "image_url": "https://images.adsttc.com/media/images/6ae9/10a2/62dc/0e01/8725/78e3/large_jpg/_32.jpg?1793659050",
-          "source_name": "ArchDaily"
-        },
-        {
-          "title": "밀라노의 뉴 산 시로 스타디움과 BIAU의 12개 수상 프로젝트: 이번 주 리뷰",
-          "url": "https://www.archdaily.com/1188109/milans-new-san-siro-stadium-and-the-biaus-12-awarded-projects-this-weeks-review",
-          "image_url": "https://images.adsttc.com/media/images/6aec/0e71/c723/9a01/895a/2979/large_jpg/a-new-stadium-replacing-milans-san-siro-and-the-unveiling-of-the-biaus-12-awarded-projects-this-weeks-review_6.jpg?1793855130",
-          "source_name": "ArchDaily"
         }
       ]
     }
