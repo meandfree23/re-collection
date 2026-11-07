@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-08 00:52 KST",
+  "generated_at": "2026-11-08 03:21 KST",
   "period": "2026.11.01 - 2026.11.08",
-  "total_articles": 421,
+  "total_articles": 411,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 198
+      "count": 187
     },
     {
       "genre": "동시대 미술",
-      "count": 159
+      "count": 160
     },
     {
       "genre": "아방가르드 패션",
@@ -23,8 +23,8 @@
   "themes": [
     {
       "keyword": "박물관·전시",
-      "count": 34,
-      "previous_count": 30,
+      "count": 33,
+      "previous_count": 29,
       "trend": "rising",
       "items": [
         {
@@ -54,41 +54,9 @@
       ]
     },
     {
-      "keyword": "콘크리트 물성",
-      "count": 9,
-      "previous_count": 5,
-      "trend": "rising",
-      "items": [
-        {
-          "title": "콘크리트로 예술적으로 만든 8개의 갤러리",
-          "url": "https://www.dezeen.com/2026/11/07/concrete-art-galleries-roundup/",
-          "image_url": "https://static-2026.dezeen.com/uploads/2011/03/dzn_Casa-das-Historias-Paula-Rego-by-Eduardo-Souto-de-Moura-1.jpg",
-          "source_name": "Dezeen"
-        },
-        {
-          "title": "키가 큰 알베르토 칼레하 (Alberto Calleja) 가 멕시코 해안의 나무가 우거진 곳으로 콘크리트 카사 노바 (Casa Nova) 를 둘러싸",
-          "url": "https://www.dezeen.com/2026/11/07/taller-alberto-calleja-casa-nova/",
-          "image_url": "https://static-2026.dezeen.com/uploads/2026/11/taller-alberto-calleja-casa-nova-concrete-home-mexico-sq_dezeen_2364_col_0-1024x1024.jpg",
-          "source_name": "Dezeen"
-        },
-        {
-          "title": "콘크리트 주택/비에르나9 + 시랄 아르키텍토스",
-          "url": "https://www.archdaily.com/1188203/concrete-house-vierna9-plus-ciral-arquitectos",
-          "image_url": "https://images.adsttc.com/media/images/6a9e/da4a/de72/0d00/014c/cf88/large_jpg/Casa_de_Hormig_n__7_.jpg?1788795559",
-          "source_name": "ArchDaily"
-        },
-        {
-          "title": "\"직접적이고 정제되지 않은\" 재료는 & Daughters의 제주 레스토랑에서 촉각적인 인테리어를 만듭니다.",
-          "url": "https://www.dezeen.com/2026/11/04/jeju-restaurant-daughters/",
-          "image_url": "https://static-2026.dezeen.com/uploads/2026/11/jeju-restaurant-daughters-vancouver_dezeen_2364_col_sq2-1024x1024.jpg",
-          "source_name": "Dezeen"
-        }
-      ]
-    },
-    {
       "keyword": "텍스타일·직물",
-      "count": 7,
-      "previous_count": 3,
+      "count": 6,
+      "previous_count": 4,
       "trend": "rising",
       "items": [
         {
@@ -118,40 +86,40 @@
       ]
     },
     {
-      "keyword": "팝업·플래그십",
-      "count": 5,
+      "keyword": "설치 미술",
+      "count": 4,
       "previous_count": 0,
       "trend": "new",
       "items": [
         {
-          "title": "메종 마르지엘라, 이쑤시개로 그린 만화로 도쿄 플래그십 기념일 축하",
-          "url": "https://www.designboom.com/art/toothpick-drawn-manga-celebrates-maison-martin-margiela-tokyo-flagship-anniversary-takehito-moriizumi-ebisu/",
-          "image_url": "https://www.designboom.com/wp-content/uploads/2026/11/toothpick-drawn-manga-celebrates-maison-martin-margiela-tokyo-flagship-anniversary-takehito-moriizumi-ebisu-designboom-07.jpg",
+          "title": "2026년 암만 디자인 위크 (Amman Design Week)/건축을 위한 라이스 마타르웨 스튜디오 (Laith Matarweh Studio) 에 알 마스타바 설치",
+          "url": "https://www.archdaily.com/1187739/al-mastaba-installation-at-amman-design-week-2026-laith-matarweh-studio-for-architecture",
+          "image_url": "https://images.adsttc.com/media/images/6ae3/1f5d/3271/8400/01d0/fb25/large_jpg/11_Al-Mastaba_Installation_Mohanad_Jihad.jpg?1793269936",
+          "source_name": "ArchDaily"
+        },
+        {
+          "title": "SCAD 동문들은 디자인 마이애미 파리 동안 18세기 계단을 다채로운 설치물로 탈바꿈시켰습니다.",
+          "url": "https://www.dezeen.com/2026/11/04/scad-installation-design-miami-paris/",
+          "image_url": "https://static-2026.dezeen.com/uploads/2026/10/SCAD-sq1-1024x1024.jpg",
+          "source_name": "Dezeen"
+        },
+        {
+          "title": "jakob kudsk steensen의 이 설치물은 생명의 기원과 선택의지를 고려합니다.",
+          "url": "https://www.designboom.com/art/this-installation-by-jakob-kudsk-steensen-considers-the-origins-and-agency-of-life/",
+          "image_url": "https://www.designboom.com/wp-content/uploads/2026/11/jks-psychosphere-designboom-05.jpg",
           "source_name": "Designboom Art"
         },
         {
-          "title": "줄을 서서 기다리는 것이 언제부터 활동이 되었나요?",
-          "url": "https://www.dazeddigital.com/life-culture/article/71303/1/when-did-waiting-in-line-become-the-activity-tiktok-reels-trend-queues?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=when-did-waiting-in-line-become-the-activity",
-          "image_url": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/8/1458875.png",
-          "source_name": "Dazed"
-        },
-        {
-          "title": "런던의 새로운 팰리스 플래그십은 스케이트 문화를 즐길 수 있는 대성당입니다.",
-          "url": "https://www.wallpaper.com/design-interiors/the-new-palace-flagship-in-london-is-a-cathedral-to-skate-culture",
-          "image_url": "https://cdn.mos.cms.futurecdn.net/uzVBd5jKwrn2DPrWTustCZ-1920-80.jpg",
-          "source_name": "Wallpaper*"
-        },
-        {
-          "title": "Jaguar는 Knightsbridge 플래그십을 Type 01 전기 자동차의 \"물리적 표현\" 으로 설계합니다.",
-          "url": "https://www.dezeen.com/2026/11/02/jaguar-flagship-store-knightsbridge-london-type-01/",
-          "image_url": "https://static-2026.dezeen.com/uploads/2026/11/jaguar-flagship-store-knightsbridge-london-type-01_dezeen_2364_sq_25-1024x1024.jpg",
+          "title": "타티아나 빌바오 (Tatiana Bilbao) 가 아트 오미 (Art Omi) 에서 램드 어스 (rammed",
+          "url": "https://www.dezeen.com/2026/11/03/tatiana-bilbao-creates-rammed-earth-installation-at-art-omi/",
+          "image_url": "https://static-2026.dezeen.com/uploads/2026/10/borrowed-earth-tatiana-bilbao-art-omi_dezeen_2364_sq-1-1024x1024.jpg",
           "source_name": "Dezeen"
         }
       ]
     },
     {
       "keyword": "가구 디자인",
-      "count": 15,
+      "count": 13,
       "previous_count": 14,
       "trend": "steady",
       "items": [
@@ -212,15 +180,45 @@
           "source_name": "ArchDaily"
         }
       ]
+    },
+    {
+      "keyword": "해변·리조트 건축",
+      "count": 5,
+      "previous_count": 4,
+      "trend": "steady",
+      "items": [
+        {
+          "title": "비치 하우스/세바스찬 호네르",
+          "url": "https://www.archdaily.com/1187683/beach-house",
+          "image_url": "https://images.adsttc.com/media/images/6ae1/fddc/3271/8400/01d0/f633/large_jpg/6259861-89.jpg?1793195516",
+          "source_name": "ArchDaily"
+        },
+        {
+          "title": "프랑스 대서양 연안의 이 세 부분으로 이루어진 숙소는 독립된 마을에 가깝습니다.",
+          "url": "https://www.wallpaper.com/architecture/residential/atlantic-coast-house-bal-architectes-france",
+          "image_url": "https://cdn.mos.cms.futurecdn.net/JFhVGfaZd5DcUgjr3NDqsB-1920-80.jpg",
+          "source_name": "Wallpaper*"
+        },
+        {
+          "title": "리비아 프랜치니: 떠오르는 파도, 더 어두운 비밀",
+          "url": "https://www.anothermag.com/design-living/17528/a-novel-of-rising-tides-and-darker-secrets?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=livia-franchini-rising-tides-darker-secrets",
+          "image_url": "https://images-prod.anothermag.com/716/azure/another-prod/470/9/479157.png",
+          "source_name": "AnOther Magazine"
+        },
+        {
+          "title": "호텔 아마레스/셀라스 아르키텍투라",
+          "url": "https://www.archdaily.com/1187993/amares-cel-ras-arquitectura",
+          "image_url": "https://images.adsttc.com/media/images/6ae9/a52d/bcbc/3500/01ae/b0d1/large_jpg/JPG_HD_Amares_color-0062.jpg?1793697101",
+          "source_name": "ArchDaily"
+        }
+      ]
     }
   ],
   "notable_names": [
     "Kengo Kuma",
     "Yemail Arquitectura",
-    "Mexico City",
     "Martine Rose",
-    "Dezeen Showroom",
-    "Sabine Marcelis"
+    "Dezeen Showroom"
   ],
   "has_comparison": true
 }

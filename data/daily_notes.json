@@ -3268,5 +3268,44 @@
   "v": 3,
   "model": "gemini-3.1-flash-lite",
   "written_at": "2026-11-07 00:33"
+ },
+ "2026-11-08": {
+  "date": "2026-11-08",
+  "headline": "날개 위 전기 모터와 페루자의 가파른 계단",
+  "editorial": "활주로를 벗어나 공기 흐름을 제어하는 항공 설계는 이동의 물리적 문법을 근본부터 바꾼다. 이와 같은 태도는 페루자의 역사적 계단에 자리 잡은 독립 출판 키오스크에서도 발견된다. 기존의 공항 인프라가 지닌 위압감을 삭제하고 비정형적 지형을 출판물의 전시장으로 바꾸는 시도는 모두 고정된 역할을 뒤집는 행위다. 미술가의 언어로 새 모이통을 짓는 처프 컴퍼니 또한 이처럼 작고 낯선 방식으로 세계를 재정의한다.",
+  "threads": [
+   {
+    "name": "고정된 틀의 삭제와 전환",
+    "note": "기존 인프라와 지형의 역할을 해체하여 새로운 쓰임새를 부여한다.",
+    "items": [
+     {
+      "title": "활주로의 종말, 60미터 위에서 시작되는 항공 이동의 새로운 문법",
+      "url": "https://www.wallpaper.com/transportation/electra-aero-el9-high-lift-blown-wings"
+     },
+     {
+      "title": "페루자의 역사적 계단에 자리한 독립 출판 키오스크, 에디콜라 518",
+      "url": "https://www.archdaily.com/1187621/edicola-518-giuseppe-arezzi"
+     }
+    ]
+   },
+   {
+    "name": "작은 단위의 설계",
+    "note": "거대한 대상보다 작고 세밀한 오브제와 동선에 집중하여 관계를 맺는다.",
+    "items": [
+     {
+      "title": "프렌치 블룸이 제안하는 무알콜 호스팅, 파티의 문턱을 낮추는 법",
+      "url": "https://www.wallpaper.com/entertaining/how-we-host-french-bloom"
+     },
+     {
+      "title": "거장의 조형 언어로 빚어낸 소형 건축, 처프 컴퍼니의 새 모이통",
+      "url": "https://www.wallpaper.com/design-interiors/chirp-artist-birdfeeders"
+     }
+    ]
+   }
+  ],
+  "based_on": 6,
+  "v": 3,
+  "model": "gemini-3.1-flash-lite-preview",
+  "written_at": "2026-11-08 03:21"
  }
 }
