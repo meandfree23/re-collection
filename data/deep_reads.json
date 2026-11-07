@@ -278937,5 +278937,80 @@
   },
   "depth_raw": 4,
   "depth_v": 2
+ },
+ "wallpaper.com/travel/hotels/amansara-review": {
+  "title_ko": "시엠레아프의 정적, 1960년대 크메르 모더니즘을 복원하다",
+  "summary_ko": "캄보디아 시엠레아프에 위치한 아만사라는 1962년 건축가 로랑 몽데가 설계한 왕실 게스트하우스 빌라 프린시에르를 개조한 호텔이다. 케리 힐 아키텍츠는 1960년대 뉴 크메르 건축의 곡선미와 개방적 구조를 보존하며 현대적 편의 시설을 더했다. 24개의 스위트룸과 수영장, 왕실 식당을 중심으로 당시의 미니멀리즘을 유지하고 있다.",
+  "lens": "단순한 복원을 넘어 1960년대 크메르 모더니즘의 곡선과 개방성을 현대적 휴식의 문법으로 치환한 공간이다.",
+  "why_now": "디지털 과잉 시대에 과거의 뼈대를 보존하며 기후와 지형에 순응하는 저층 건축의 물리적 시간성이 재조명받고 있다.",
+  "mechanism": "긴 복도와 개방형 공간을 통해 자연 통풍을 극대화하고, 원형 식당과 곡선형 수영장 등 기하학적 형태를 통해 내부와 외부의 경계를 완화한다.",
+  "sensory": "먼지 섞인 갈색과 흰색, 검은색의 절제된 색채가 빚어내는 정적인 분위기에 승려의 가사에서 따온 사프란 컬러가 점묘처럼 박혀 있다.",
+  "transfer": "공간 연출 시 긴 복도와 낮은 층고를 활용해 시선을 수평으로 확장하고, 벽면의 질감을 살린 화이트 톤에 강렬한 기하학적 오브제를 배치해 시각적 긴장감을 조절한다.",
+  "context": "빌라 프린시에르는 노로돔 시아누크 왕이 의뢰한 두 개의 국빈 게스트하우스 중 하나로 1960년대 크메르 건축의 정수를 보여준다. 케리 힐 아키텍츠는 열대 지역의 기후에 최적화된 파빌리온 구조와 물을 활용한 조경으로 현대 건축의 거장으로 평가받는다.",
+  "findings": [
+   {
+    "text": "노로돔 시아누크는 1960년 부친 사망 후 국가 원수직을 맡았으며, 재임 중 프랑스 식민지 시대의 잔재를 벗어난 독자적인 건축 양식을 장려했다.",
+    "s": 1,
+    "quote": "After his father died in 1960, Sihanouk assumed a new position as Chief of State of Cambodia."
+   },
+   {
+    "text": "케리 힐은 열대 아시아 호텔 설계의 대가로, 현지 전통을 현대적 미니멀리즘으로 번역하는 이른바 '케리 힐 터치'로 유명하다.",
+    "s": 2,
+    "quote": "Hill has been widely named as an influential figure in refining tropical modernist architecture and defining the Bali architectural style for his works on numerous hotels on the island."
+   }
+  ],
+  "keywords": [
+   "뉴 크메르 건축",
+   "케리 힐",
+   "열대 모더니즘",
+   "공간 복원"
+  ],
+  "evidence": "1960s New Khmer architecture, a shift in Cambodian design that moved away from French colonial nostalgia in favour of expressive curvilinear forms, layered concrete, and plenty of open-air spaces.",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "역사적 건축물의 보존 방식과 현대적 기능의 결합을 구체적인 건축 양식과 함께 분석했다.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/travel/hotels/amansara-review",
+  "original_title": "Amansara: a revived royal guesthouse in Siem Reap",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 6754,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-07 15:51",
+  "research": {
+   "entities": [
+    "Amansara",
+    "Norodom Sihanouk",
+    "Laurent Mondet",
+    "Kerry Hill Architects",
+    "Aman"
+   ],
+   "questions": [
+    "아만사라(Amansara)의 전신인 빌라 프린시에르(Villa Princière)는 1960년대 건축 역사에서 어떤 의미를 가지는가?",
+    "크메르 건축(New Khmer Architecture)의 특징과 이 호텔 디자인에 어떻게 반영되었는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Norodom Sihanouk",
+     "url": "https://en.wikipedia.org/wiki/Norodom%20Sihanouk"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Kerry Hill",
+     "url": "https://en.wikipedia.org/wiki/Kerry%20Hill"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 2086
+  },
+  "depth_raw": 4,
+  "depth_v": 2
  }
 }
