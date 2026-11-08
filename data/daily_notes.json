@@ -3271,49 +3271,41 @@
  },
  "2026-11-08": {
   "date": "2026-11-08",
-  "headline": "빛을 품은 900개의 이름과 60미터 위로 솟은 날개",
-  "editorial": "시에라리온 프리타운 기념관은 5km 반경까지 뻗어 나가는 빛의 매체로 역사적 이름을 밝히고, 활주로의 종말은 60미터 상공에서 전기 모터로 지형의 제약을 넘어선다. 맨해튼의 산업적 골조는 둥근 곡선으로 유연하게 이어지고, 페루자의 역사적 계단에 놓인 키오스크는 유휴 공간을 문화적 장치로 바꾼다. 이처럼 오늘은 갇힌 구조를 빛과 동선으로 확장하는 물리적 시도들이 도시와 공간의 문법을 새로 쓴다.",
+  "headline": "빛으로 잇는 900개의 이름과 60미터 위를 나는 전기 모터",
+  "editorial": "시에라리온 프리타운 기념관은 900개의 이름을 빛의 매체로 변환하여 물리적 한계를 넘어선 공공의 시노그래피를 제시한다. 활주로의 종말을 고하는 하이브리드 항공기 역시 기존 인프라를 지우고 분산형 추진이라는 새로운 문법으로 지형의 제약을 돌파한다. 고정된 틀을 벗어나 빛과 공기 흐름으로 공간의 정의를 확장하는 이들의 시도는 우리가 딛고 선 도시의 물리적 한계를 정면으로 응시하게 한다.",
   "threads": [
    {
-    "name": "빛과 창이 만든 공간의 반전",
-    "note": "물리적 한계를 지닌 좁고 어두운 구조를 창과 빛으로 열어젖힌다.",
+    "name": "인프라의 새로운 문법",
+    "note": "기존의 기념비나 공항 인프라를 빛과 분산형 추진으로 대체하여 기능적 한계를 돌파하는 방식이다.",
     "items": [
      {
       "title": "시에라리온 프리타운 기념관, 900개의 이름을 빛으로 잇는 기념비적 확장",
       "url": "https://www.wallpaper.com/architecture/freetown-memorial-oshinowo-studio-sierra-leone"
      },
      {
-      "title": "밀라 하우스, 좁고 긴 대지에 빛을 들이는 여덟 가지 창의 방식",
-      "url": "https://www.archdaily.com/1027157/mila-house-isla-architects"
-     },
-     {
-      "title": "어두운 주거 공간의 반전, 상파울루 아마빌레 아파트 리노베이션",
-      "url": "https://www.archdaily.com/1188223/amabile-apartment-denis-joelsons"
+      "title": "활주로의 종말, 60미터 위에서 시작되는 항공 이동의 새로운 문법",
+      "url": "https://www.wallpaper.com/transportation/electra-aero-el9-high-lift-blown-wings"
      }
     ]
    },
    {
-    "name": "도시의 뼈대와 유휴지의 쓰임",
-    "note": "오래된 산업 골조와 역사적 계단, 도시의 남겨진 틈새를 새로운 거주와 문화의 장치로 바꾼다.",
+    "name": "철거 현장의 임시 건축",
+    "note": "사라지는 도시의 흔적이나 철거 현장을 비계와 같은 임시 구조물로 점유하여 공공성을 부여한다.",
     "items": [
      {
-      "title": "맨해튼의 산업적 골조를 둥근 곡선과 녹색으로 유연하게 잇다",
-      "url": "https://www.dezeen.com/2026/11/07/sabo-project-soft-divisions-apartment-renovation-lower-east-side/"
+      "title": "철거 현장의 비계와 안전망으로 구축한 루가노의 관측 플랫폼",
+      "url": "https://www.designboom.com/art/scaffolding-safety-mesh-observation-platforms-lugano-demolition-sites-sit-for-a-while-sknypl/"
      },
      {
       "title": "페루자의 역사적 계단에 자리한 독립 출판 키오스크, 에디콜라 518",
       "url": "https://www.archdaily.com/1187621/edicola-518-giuseppe-arezzi"
-     },
-     {
-      "title": "역사적 아파트의 뼈대 위에 얹은 동시대의 주거 감각",
-      "url": "https://www.archdaily.com/1187909/masso-apartment-castroferro-arquitectura"
      }
     ]
    }
   ],
-  "based_on": 13,
+  "based_on": 19,
   "v": 3,
-  "model": "gemini-3.5-flash-lite",
-  "written_at": "2026-11-08 10:36"
+  "model": "gemini-3.1-flash-lite",
+  "written_at": "2026-11-08 16:19"
  }
 }
