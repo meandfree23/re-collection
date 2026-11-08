@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-09 00:38 KST",
+  "generated_at": "2026-11-09 04:02 KST",
   "period": "2026.11.02 - 2026.11.09",
-  "total_articles": 409,
+  "total_articles": 412,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 188
+      "count": 190
     },
     {
       "genre": "동시대 미술",
-      "count": 158
+      "count": 159
     },
     {
       "genre": "아방가르드 패션",
@@ -183,10 +183,16 @@
     },
     {
       "keyword": "리노베이션·재생",
-      "count": 5,
+      "count": 6,
       "previous_count": 6,
       "trend": "steady",
       "items": [
+        {
+          "title": "푸엔테사우코 약국/데이비드 에르난데스 아르키텍투라",
+          "url": "https://www.archdaily.com/1188185/fuentesauco-pharmacy-david-hernandez-arquitectura",
+          "image_url": "https://images.adsttc.com/media/images/6ae2/f733/3271/8400/01d0/fa5c/large_jpg/01_Exterior_01_David_Hernandez_Sergio_Murillo.jpg?1793259355",
+          "source_name": "ArchDaily"
+        },
         {
           "title": "Bilbao/BABELstudio Ensanche의 아파트 리노베이션",
           "url": "https://www.archdaily.com/1188205/apartment-renovation-in-the-ensanche-of-bilbao-babelstudio",
@@ -204,12 +210,6 @@
           "url": "https://www.yatzer.com/stepwell-house-london-wadhal-max-radford",
           "image_url": "https://media.yatzer.com/12-Stepwell-House-Studio-Wadhal-London-England-photo-Genevieve-Lutkin-yatzer-1400x934.jpg",
           "source_name": "Yatzer"
-        },
-        {
-          "title": "핏 아웃을 오래 지속할 수 있는 가구 디자인하기",
-          "url": "https://www.archdaily.com/1187518/designing-furniture-to-outlast-the-fit-out",
-          "image_url": "https://images.adsttc.com/media/images/6adf/5431/db5c/2001/882d/04d1/large_jpg/designing-furniture-to-outlast-the-fit-out_1.jpg?1793021036",
-          "source_name": "ArchDaily"
         }
       ]
     }

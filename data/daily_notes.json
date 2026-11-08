@@ -3333,5 +3333,44 @@
   "v": 3,
   "model": "gemini-3.1-flash-lite-preview",
   "written_at": "2026-11-08 23:49"
+ },
+ "2026-11-09": {
+  "date": "2026-11-09",
+  "headline": "폰다치오네 프라다의 고대 유물과 푸엔테사우코의 낡은 약국",
+  "editorial": "폰다치오네 프라다의 '글로벌 앤티쿼티'는 고대 무역로를 따라 흩어진 유물로 인류의 연결망을 드러낸다. 푸엔테사우코 약국은 사라져가는 마을에 새로운 거점을 세워 일상을 붙든다. 브라티슬라바 플로리안 레지던스의 아트리움은 거친 도시 속에서 머무는 이들에게 빛을 건넨다. 이들은 각기 다른 시공간에서 저마다의 방식으로 사람과 사람 사이의 틈을 메운다.",
+  "threads": [
+   {
+    "name": "흩어진 점을 잇는 힘",
+    "note": "단절된 지역이나 문명 사이에 물리적인 연결고리를 만들어 공동체를 복원한다.",
+    "items": [
+     {
+      "title": "고대 유물로 읽는 인류의 연결망: 폰다치오네 프라다의 '글로벌 앤티쿼티'",
+      "url": "https://www.designboom.com/art/how-human-history-is-remembered-in-coins-silks-and-steles-at-fondazione-pradas-global-antiquity/"
+     },
+     {
+      "title": "소멸하는 마을에 심은 공공의 거점: 푸엔테사우코 약국 리노베이션",
+      "url": "https://www.archdaily.com/1188185/fuentesauco-pharmacy-david-hernandez-arquitectura"
+     }
+    ]
+   },
+   {
+    "name": "머무는 곳에 빛을 들이는 방식",
+    "note": "공공 건축과 주거 공간이 빛과 유물을 활용하여 머무는 장소에 생기를 불어넣는다.",
+    "items": [
+     {
+      "title": "고대 유물로 읽는 인류의 연결망: 폰다치오네 프라다의 '글로벌 앤티쿼티'",
+      "url": "https://www.designboom.com/art/how-human-history-is-remembered-in-coins-silks-and-steles-at-fondazione-pradas-global-antiquity/"
+     },
+     {
+      "title": "브라티슬라바의 새 지구를 여는 플로리안 레지던스 1",
+      "url": "https://www.archdaily.com/1188055/florian-residence-1-benthem-crouwel-architects"
+     }
+    ]
+   }
+  ],
+  "based_on": 3,
+  "v": 3,
+  "model": "gemini-3.1-flash-lite-preview",
+  "written_at": "2026-11-09 04:05"
  }
 }
