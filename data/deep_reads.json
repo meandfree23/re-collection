@@ -280969,5 +280969,75 @@
   },
   "depth_raw": 5,
   "depth_v": 2
+ },
+ "wallpaper.com/transportation/gta6-real-world-cars": {
+  "title_ko": "가상에서 도로로, 락스타 게임즈가 현실에 구현한 GTA 차량들",
+  "summary_ko": "락스타 게임즈가 출시를 앞둔 그랜드 테프트 오토 6의 홍보를 위해 게임 속 가상 차량 6종을 실제 주행 가능한 차량으로 제작했다. LA의 커스텀 차량 제작 업체 웨스트 코스트 커스텀즈가 금속 가공과 CNC 가공을 거쳐 페라리 테스타로사, 람보르기니 우라칸 등을 오마주한 가상 모델을 현실에 재현했다. 이 차량들은 마이애미의 도로를 달리며 게임 속 건축물인 마이애미 해양 경기장과 헤르조그 앤 드 메롱의 1111 링컨 로드 주차장을 배경으로 등장한다.",
+  "lens": "가상의 디지털 객체를 물리적 판금과 도색으로 실체화해 화면과 현실의 경계를 지운다.",
+  "why_now": "가상 세계의 지형과 구조물이 실제 도시 공간과 교차하는 순간을 포착한다.",
+  "mechanism": "웨스트 코스트 커스텀즈는 금속 가공과 CNC 가공을 활용해 실제 차량의 뼈대 위에 가상 모델의 외형과 트림을 그대로 덧씌웠다.",
+  "sensory": "1980년대 미국의 마이너 문화와 과장된 차체 비례가 실제 아스팔트 위에서 거친 엔진 소음과 함께 물질감으로 드러난다.",
+  "transfer": "가상 세계의 소품을 실물로 제작할 때, 실제 차량의 스펙트럼 위에 가상의 앰블럼과 그릴을 정밀 가공하여 현실감을 높이는 방식으로 콘티에 적용한다.",
+  "context": "락스타 게임즈는 그랜드 테프트 오토 시리즈를 통해 가상 공간과 실제 도시를 결합하는 작업을 지속해 왔으며, 이번 프로젝트에는 커스텀 차량 제작 업체인 웨스트 코스트 커스텀즈가 협업했다.",
+  "findings": [],
+  "keywords": [
+   "웨스트코스트커스텀즈",
+   "그랜드테프트오토",
+   "차량커스텀",
+   "마이애미"
+  ],
+  "evidence": "Rockstar has allowed the virtual to spill over into the real world, with six fully driveable versions of their digital counterparts seeded on the streets of Miami, Florida",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "게임 속 가상을 실물로 구현한 흥미로운 프로젝트이나 마케팅 행사의 성격이 짙다.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/transportation/gta6-real-world-cars",
+  "original_title": "The vehicles of Vice City join the real world courtesy of LA-based West Coast Customs",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 4232,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-08 12:43",
+  "research": {
+   "entities": [
+    "Rockstar Games",
+    "West Coast Customs",
+    "Grand Theft Auto",
+    "Miami Vice",
+    "Martin Amis"
+   ],
+   "questions": [
+    "락스타 게임즈가 게임 내 가상 차량을 현실 세계의 커스텀 차량으로 제작한 구체적인 마케팅 의도는 무엇인가?",
+    "GTA 시리즈의 차량 디자인이 실제 자동차 브랜드의 저작권을 피하면서도 고유한 개성을 유지하는 방식은 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Rockstar Games",
+     "url": "https://en.wikipedia.org/wiki/Rockstar%20Games"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "West Coast Customs",
+     "url": "https://en.wikipedia.org/wiki/West%20Coast%20Customs"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "신체의 해방과 시대의 어둠을 기록하는 데이즈드의 뉴 아이돌스",
+     "url": "https://www.dazeddigital.com/magazine?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=buy-dazed-magazine"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 3078
+  },
+  "depth_raw": 3,
+  "depth_v": 2
  }
 }
