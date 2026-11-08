@@ -3271,12 +3271,30 @@
  },
  "2026-11-08": {
   "date": "2026-11-08",
-  "headline": "빛으로 잇는 900개의 이름과 60미터 위를 나는 전기 모터",
-  "editorial": "시에라리온 프리타운 기념관은 900개의 이름을 빛의 매체로 변환하여 물리적 한계를 넘어선 공공의 시노그래피를 제시한다. 활주로의 종말을 고하는 하이브리드 항공기 역시 기존 인프라를 지우고 분산형 추진이라는 새로운 문법으로 지형의 제약을 돌파한다. 고정된 틀을 벗어나 빛과 공기 흐름으로 공간의 정의를 확장하는 이들의 시도는 우리가 딛고 선 도시의 물리적 한계를 정면으로 응시하게 한다.",
+  "headline": "엇갈린 층계의 수직적 거실과 프리타운을 밝히는 빛의 기둥",
+  "editorial": "프라하의 미니멀 맥시멈 하우스는 복도를 덜어내고 층위를 엇갈리게 배치하여 좁은 공간을 확장하는 힘을 보여준다. 시에라리온 프리타운 기념관은 고립된 기념비를 빛의 매체로 치환해 도시 전체로 그 존재를 넓힌다. 이처럼 고정된 구조를 뒤흔들어 공간의 물리적 밀도를 달리하는 시도들은, 고대 메소아메리카의 논리를 콘크리트로 재현한 현대 멕시코의 건축과 맞닿아 있다. 단단한 껍질 안에서 새로운 흐름을 길어 올리는 이들의 시도는 우리가 발 딛고 선 지형의 가능성을 다시 정의한다.",
   "threads": [
    {
-    "name": "인프라의 새로운 문법",
-    "note": "기존의 기념비나 공항 인프라를 빛과 분산형 추진으로 대체하여 기능적 한계를 돌파하는 방식이다.",
+    "name": "수직으로 겹쳐진 공간의 밀도",
+    "note": "한정된 대지의 수직적 한계를 층간 배치의 변화로 극복하는 건축적 전략을 살핀다.",
+    "items": [
+     {
+      "title": "프라하의 좁은 경사지를 수직으로 관통하는 미니멀 맥시멈 하우스",
+      "url": "https://www.wallpaper.com/architecture/residential/architects-house-in-prague-small-site"
+     },
+     {
+      "title": "빌바오 앙상슈의 1970년대 아파트, 파편화된 공간의 통합과 재구성",
+      "url": "https://www.archdaily.com/1188205/apartment-renovation-in-the-ensanche-of-bilbao-babelstudio"
+     },
+     {
+      "title": "밀라 하우스, 좁고 긴 대지에 빛을 들이는 여덟 가지 창의 방식",
+      "url": "https://www.archdaily.com/1027157/mila-house-isla-architects"
+     }
+    ]
+   },
+   {
+    "name": "고정된 구조를 깨는 빛과 매체",
+    "note": "기념비나 도시 인프라처럼 고정된 대상을 빛이나 유동적 매체로 바꾸어 새로운 역할을 부여한다.",
     "items": [
      {
       "title": "시에라리온 프리타운 기념관, 900개의 이름을 빛으로 잇는 기념비적 확장",
@@ -3285,16 +3303,24 @@
      {
       "title": "활주로의 종말, 60미터 위에서 시작되는 항공 이동의 새로운 문법",
       "url": "https://www.wallpaper.com/transportation/electra-aero-el9-high-lift-blown-wings"
+     },
+     {
+      "title": "철거 현장의 비계와 안전망으로 구축한 루가노의 관측 플랫폼",
+      "url": "https://www.designboom.com/art/scaffolding-safety-mesh-observation-platforms-lugano-demolition-sites-sit-for-a-while-sknypl/"
      }
     ]
    },
    {
-    "name": "철거 현장의 임시 건축",
-    "note": "사라지는 도시의 흔적이나 철거 현장을 비계와 같은 임시 구조물로 점유하여 공공성을 부여한다.",
+    "name": "역사와 전통을 잇는 구조적 언어",
+    "note": "과거의 공간 문법을 현대적인 소재와 기술로 옮겨와 대지의 기억을 보존하는 방식이다.",
     "items": [
      {
-      "title": "철거 현장의 비계와 안전망으로 구축한 루가노의 관측 플랫폼",
-      "url": "https://www.designboom.com/art/scaffolding-safety-mesh-observation-platforms-lugano-demolition-sites-sit-for-a-while-sknypl/"
+      "title": "메소아메리카의 기억을 잇는 현대 멕시코의 공간 문법",
+      "url": "https://www.dezeen.com/2026/11/08/mesoamerican-modern-book-mexico-architecture/"
+     },
+     {
+      "title": "스톡홀름 우드 시티, 25만 제곱미터 대지에 세워지는 거대 목재 도시",
+      "url": "https://www.wallpaper.com/architecture/wood-city-stockholm-oskar-norelius-white-arkitekter-interview"
      },
      {
       "title": "페루자의 역사적 계단에 자리한 독립 출판 키오스크, 에디콜라 518",
@@ -3303,9 +3329,9 @@
     ]
    }
   ],
-  "based_on": 19,
+  "based_on": 24,
   "v": 3,
-  "model": "gemini-3.1-flash-lite",
-  "written_at": "2026-11-08 16:19"
+  "model": "gemini-3.1-flash-lite-preview",
+  "written_at": "2026-11-08 23:49"
  }
 }

@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-08 18:51 KST",
+  "generated_at": "2026-11-08 23:47 KST",
   "period": "2026.11.01 - 2026.11.08",
-  "total_articles": 426,
+  "total_articles": 431,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 195
+      "count": 199
     },
     {
       "genre": "동시대 미술",
-      "count": 167
+      "count": 168
     },
     {
       "genre": "아방가르드 패션",
@@ -118,6 +118,38 @@
       ]
     },
     {
+      "keyword": "팝업·플래그십",
+      "count": 5,
+      "previous_count": 1,
+      "trend": "rising",
+      "items": [
+        {
+          "title": "뮐레 플래그십 스토어",
+          "url": "https://leibal.com/interiors/muhle-flagship-store/",
+          "image_url": "https://leibal.com/wp-content/uploads/2026/11/leibal-muhle-flagship-store-atelier-st-9.jpg",
+          "source_name": "Leibal"
+        },
+        {
+          "title": "메종 마르지엘라, 이쑤시개로 그린 만화로 도쿄 플래그십 기념일 축하",
+          "url": "https://www.designboom.com/art/toothpick-drawn-manga-celebrates-maison-martin-margiela-tokyo-flagship-anniversary-takehito-moriizumi-ebisu/",
+          "image_url": "https://www.designboom.com/wp-content/uploads/2026/11/toothpick-drawn-manga-celebrates-maison-martin-margiela-tokyo-flagship-anniversary-takehito-moriizumi-ebisu-designboom-07.jpg",
+          "source_name": "Designboom Art"
+        },
+        {
+          "title": "줄을 서서 기다리는 것이 언제부터 활동이 되었나요?",
+          "url": "https://www.dazeddigital.com/life-culture/article/71303/1/when-did-waiting-in-line-become-the-activity-tiktok-reels-trend-queues?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=when-did-waiting-in-line-become-the-activity",
+          "image_url": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/8/1458875.png",
+          "source_name": "Dazed"
+        },
+        {
+          "title": "런던의 새로운 팰리스 플래그십은 스케이트 문화를 즐길 수 있는 대성당입니다.",
+          "url": "https://www.wallpaper.com/design-interiors/the-new-palace-flagship-in-london-is-a-cathedral-to-skate-culture",
+          "image_url": "https://cdn.mos.cms.futurecdn.net/uzVBd5jKwrn2DPrWTustCZ-1920-80.jpg",
+          "source_name": "Wallpaper*"
+        }
+      ]
+    },
+    {
       "keyword": "가구 디자인",
       "count": 13,
       "previous_count": 14,
@@ -177,38 +209,6 @@
           "title": "핏 아웃을 오래 지속할 수 있는 가구 디자인하기",
           "url": "https://www.archdaily.com/1187518/designing-furniture-to-outlast-the-fit-out",
           "image_url": "https://images.adsttc.com/media/images/6adf/5431/db5c/2001/882d/04d1/large_jpg/designing-furniture-to-outlast-the-fit-out_1.jpg?1793021036",
-          "source_name": "ArchDaily"
-        }
-      ]
-    },
-    {
-      "keyword": "해변·리조트 건축",
-      "count": 5,
-      "previous_count": 4,
-      "trend": "steady",
-      "items": [
-        {
-          "title": "비치 하우스/세바스찬 호네르",
-          "url": "https://www.archdaily.com/1187683/beach-house",
-          "image_url": "https://images.adsttc.com/media/images/6ae1/fddc/3271/8400/01d0/f633/large_jpg/6259861-89.jpg?1793195516",
-          "source_name": "ArchDaily"
-        },
-        {
-          "title": "프랑스 대서양 연안의 이 세 부분으로 이루어진 숙소는 독립된 마을에 가깝습니다.",
-          "url": "https://www.wallpaper.com/architecture/residential/atlantic-coast-house-bal-architectes-france",
-          "image_url": "https://cdn.mos.cms.futurecdn.net/JFhVGfaZd5DcUgjr3NDqsB-1920-80.jpg",
-          "source_name": "Wallpaper*"
-        },
-        {
-          "title": "리비아 프랜치니: 떠오르는 파도, 더 어두운 비밀",
-          "url": "https://www.anothermag.com/design-living/17528/a-novel-of-rising-tides-and-darker-secrets?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=livia-franchini-rising-tides-darker-secrets",
-          "image_url": "https://images-prod.anothermag.com/716/azure/another-prod/470/9/479157.png",
-          "source_name": "AnOther Magazine"
-        },
-        {
-          "title": "호텔 아마레스/셀라스 아르키텍투라",
-          "url": "https://www.archdaily.com/1187993/amares-cel-ras-arquitectura",
-          "image_url": "https://images.adsttc.com/media/images/6ae9/a52d/bcbc/3500/01ae/b0d1/large_jpg/JPG_HD_Amares_color-0062.jpg?1793697101",
           "source_name": "ArchDaily"
         }
       ]
