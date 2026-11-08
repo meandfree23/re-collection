@@ -281339,5 +281339,186 @@
   },
   "depth_raw": 4,
   "depth_v": 2
+ },
+ "wallpaper.com/art/inside-the-art-worlds-most-intriguing-new-cookbook-featuring-recipes-by-cindy-sherman-and-frank-bowling": {
+  "title_ko": "하우저 앤 워스의 식탁, 예술가의 작업실과 일상을 잇는 200가지 레시피",
+  "summary_ko": "하우저 앤 워스(Hauser & Wirth) 설립자 이완과 마누엘라 워스가 200여 명의 예술가와 큐레이터에게 받은 레시피를 엮은 요리책 '이완을 위한 요리책: 스튜디오에서 스토브까지(A Cookbook for Iwan: From Studio to Stove)'를 출간했다. 신디 셔먼, 프랭크 볼링, 로나 심슨 등 동시대 미술계 인물들이 참여해 각자의 작업 방식이 묻어나는 개인적이고 실용적인 식사 기록을 공유한다.",
+  "lens": "예술가의 요리는 창작의 연장선이다. 재료를 다루는 태도와 시간을 견디는 방식이 식탁 위에서 어떻게 시각적·물리적 질감으로 치환되는지 관찰한다.",
+  "why_now": "디지털 과잉 시대에 예술가들이 반복하는 일상의 물리적 행위는 창작의 본질을 환기한다.",
+  "mechanism": "프랭크 볼링의 스튜는 밤새 고기를 고아 뼈와 살을 분리하는 시간의 축적을, 신디 셔먼의 수프는 마늘과 빵이라는 최소한의 재료로 맛을 구축하는 간결한 구조를 보여준다.",
+  "sensory": "주철 냄비에서 뭉근하게 끓어오르는 스튜의 묵직한 열기, 바삭하게 구운 빵의 질감, 그리고 재료가 섞이며 발생하는 투박한 냄새가 공간을 채운다.",
+  "transfer": "콘티 연출 시 인물의 일상을 보여주는 오브제로 '정형화된 식단' 대신 '작업실 구석에서 끓고 있는 냄비'를 배치해 시간의 흐름을 시각화한다.",
+  "context": "하우저 앤 워스는 스위스에 본사를 둔 글로벌 갤러리로, 예술가들의 아카이브를 출판물과 전시로 확장하는 데 능숙하다. 이번 프로젝트는 갤러리의 커뮤니티를 단순한 비즈니스 관계를 넘어 사적인 일상의 공유로 확장하려는 시도다.",
+  "findings": [
+   {
+    "text": "하우저 앤 워스는 스위스에 본사를 둔 현대 미술 갤러리로 유럽, 아시아, 북미에 지점을 두고 있다.",
+    "s": 1,
+    "quote": "Hauser & Wirth is a contemporary and modern art gallery headquartered in Switzerland. They have gallery locations in Europe, Asia, and North America."
+   },
+   {
+    "text": "신디 셔먼은 사진 속에서 다양한 가상의 인물을 연기하며 자아를 탐구하는 미국 예술가다.",
+    "s": 2,
+    "quote": "American artist whose work consists primarily of photographic self-portraits, depicting herself in many different contexts and as various imagined characters."
+   }
+  ],
+  "keywords": [
+   "하우저앤워스",
+   "예술가의일상",
+   "아카이브",
+   "물리적시간"
+  ],
+  "evidence": "A Cookbook for Iwan: From Studio to Stove",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "예술가들의 사적 일상을 갤러리 아카이브로 연결한 흥미로운 시도이나, 레시피 자체가 창작 기법과 직접적으로 결합하는 구체적 해석은 제한적이다.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/art/inside-the-art-worlds-most-intriguing-new-cookbook-featuring-recipes-by-cindy-sherman-and-frank-bowling",
+  "original_title": "Inside the art world's most intriguing new cookbook, featuring recipes by Cindy Sherman and Frank Bowling",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 3950,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-08 18:51",
+  "research": {
+   "entities": [
+    "Hauser & Wirth",
+    "Cindy Sherman",
+    "Frank Bowling",
+    "Lorna Simpson",
+    "Louise Bourgeois"
+   ],
+   "questions": [
+    "하우저 앤 워스(Hauser & Wirth)가 출판한 이 요리책의 정확한 제목과 출판 배경은 무엇인가요?",
+    "예술가들이 공유하는 레시피가 그들의 예술적 작업 방식이나 철학과 어떤 연관성을 가지고 있나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Hauser & Wirth",
+     "url": "https://en.wikipedia.org/wiki/Hauser%20%26%20Wirth"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Cindy Sherman",
+     "url": "https://en.wikipedia.org/wiki/Cindy%20Sherman"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "시간을 가로지르는 대화: 맥스 래드포드와 크리스토퍼 파의 가구와 러그",
+     "url": "https://www.wallpaper.com/design-interiors/max-radford-christopher-farr-london-design-festival-2026"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "여름 뉴욕, 주목해야 할 6가지 전시: 기록을 덧쓰고 금기를 해체하는 시선들",
+     "url": "https://elephant.art/art-isnt-dead-in-the-summer-here-are-the-six-best-nyc-art-shows-to-see/"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "메이페어에 세워진 임시 스튜디오, 마일스 알드리지의 폴라로이드 초상",
+     "url": "https://www.wallpaper.com/travel/mount-street-neighbourhood-arts-festival-2026"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 1358
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "dezeen.com/2026/11/08/matteo-thun-torre-velasca-interiors": {
+  "title_ko": "토레 벨라스카, 핑크빛 외벽에서 길어 올린 72개의 주거 층위",
+  "summary_ko": "건축가 마테오 툰이 밀라노의 상징적 고층 빌딩 토레 벨라스카의 상층부 72개 주거 공간을 새롭게 설계했다. 그는 1950년대 비비피알(BBPR)이 구축한 건축 원형을 보존하며, 타워 외벽의 특수 석고 색조를 실내 마감재와 가구 팔레트로 치환했다. 기존의 창틀과 타일 등 오리지널 디테일을 현대적 가구와 결합해 시간의 층위를 쌓았다.",
+  "lens": "건축물 자체를 유일한 디자인 지표로 삼아 외벽의 특수 석고 색감을 실내 벨벳 벽면으로 전이하며 공간의 연속성을 확보한다.",
+  "why_now": "기존 건축물의 골조를 박제하지 않고, 그 안에서 발견한 색채와 물성을 현대적 주거의 질감으로 번역하는 리노베이션의 정교한 태도가 요구되는 시점이다.",
+  "mechanism": "타워 외벽의 핑크빛 석고를 데다(Dedar) 사의 맞춤형 벨벳 벽지로 치환하고, 로지아와 내부 공간에 사용된 녹색과 청색 타일의 명도를 조절해 각 실의 위계를 설정한다.",
+  "sensory": "외벽의 거친 석고 질감이 실내의 부드러운 벨벳과 매끄러운 타일로 변주되며, 1950년대부터 80년대까지의 밀라노 디자인 유산이 층층이 겹쳐지는 촉각적 밀도를 경험하게 한다.",
+  "transfer": "공간의 색채를 결정할 때 외장재의 색상을 실내 마감재의 텍스처로 치환하는 방식을 활용하라. 특히 특정 시간대 빛을 받은 외벽의 색을 조명 설계의 기준점으로 삼아 실내 조도를 조정하는 콘티를 구성한다.",
+  "context": "토레 벨라스카는 1958년 비비피알이 설계한 포스트 합리주의적 브루탈리즘 건축물로 2011년 역사적 건축물로 지정되었다. 마테오 툰은 이전에도 더 줄리어스 프라하 호텔 등 역사적 맥락을 현대적 기능과 결합하는 작업을 수행해왔다.",
+  "findings": [
+   {
+    "text": "토레 벨라스카는 1958년에 완공되어 1961년에 개관했으며, 26층 높이의 포스트 합리주의적 브루탈리즘 건축물이다.",
+    "s": 3,
+    "quote": "The construction was achieved in 1958, and inaugurated in 1961. Measuring 106 metres (348 ft) in height to the roof, the tower has 26 stories. The building is considered one of the few Italian examples of post-rationalis"
+   },
+   {
+    "text": "비비피알은 1932년 밀라노에서 설립된 건축 파트너십으로 지안 루이지 반피, 로도비코 바르비아노 디 벨지오조소, 엔리코 페레수티, 에르네스토 네이선 로저스가 창립했다.",
+    "s": 1,
+    "quote": "The name of the firm was an acronym derived from the first letter of each of the partners' family name: Gian Luigi Banfi (1910–1945), Lodovico Barbiano di Belgiojoso (1909–2004), Enrico Peressutti (1908–1976), and Ernest"
+   }
+  ],
+  "keywords": [
+   "토레벨라스카",
+   "마테오툰",
+   "밀라노건축",
+   "공간리노베이션",
+   "비비피알"
+  ],
+  "evidence": "The building itself was our starting point",
+  "kind": "프로젝트",
+  "depth": 5,
+  "grounding": "full",
+  "depth_reason": "건축물의 외장 색채를 실내 마감재로 치환하는 구체적 설계 논리가 명확하며, 역사적 건축물의 보존과 재해석의 방법론이 실무적 적용 가능성을 갖췄다.",
+  "v": 2,
+  "url": "https://www.dezeen.com/2026/11/08/matteo-thun-torre-velasca-interiors/",
+  "original_title": "Matteo Thun designs Torre Velasca interiors using \"building itself as the starting point\"",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 3987,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-08 18:51",
+  "research": {
+   "entities": [
+    "Matteo Thun",
+    "Torre Velasca",
+    "BBPR",
+    "Dedar"
+   ],
+   "questions": [
+    "밀라노의 랜드마크인 Torre Velasca가 가진 건축적 특징과 BBPR의 설계 철학은 무엇인가요?",
+    "Matteo Thun은 기존 건축물의 원형을 보존하면서 현대적인 주거 공간으로 재해석하기 위해 어떤 디자인 전략을 사용했나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "BBPR - Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/BBPR"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Matteo Thun",
+     "url": "https://en.wikipedia.org/wiki/Matteo%20Thun"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Torre Velasca",
+     "url": "https://en.wikipedia.org/wiki/Torre%20Velasca"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "밀라노 브루탈리즘의 상징, 토레 벨라스카가 현대적 주거로 재구성되다",
+     "url": "https://www.wallpaper.com/architecture/residential/torre-velasca-matteo-thun-milan"
+    }
+   ],
+   "used": [
+    1,
+    3,
+    4
+   ],
+   "chars": 3786
+  },
+  "depth_raw": 5,
+  "depth_v": 2
  }
 }

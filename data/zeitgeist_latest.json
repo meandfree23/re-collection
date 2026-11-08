@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-08 16:18 KST",
+  "generated_at": "2026-11-08 18:51 KST",
   "period": "2026.11.01 - 2026.11.08",
-  "total_articles": 424,
+  "total_articles": 426,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 194
+      "count": 195
     },
     {
       "genre": "동시대 미술",
-      "count": 166
+      "count": 167
     },
     {
       "genre": "아방가르드 패션",
@@ -23,10 +23,16 @@
   "themes": [
     {
       "keyword": "박물관·전시",
-      "count": 33,
+      "count": 34,
       "previous_count": 29,
       "trend": "rising",
       "items": [
+        {
+          "title": "신디 셔먼 (Cindy Sherman) 과 프랭크 볼링 (Frank Bowling) 의 레시피가 담긴 세계에서 가장 흥미로운 요리책 속으로",
+          "url": "https://www.wallpaper.com/art/inside-the-art-worlds-most-intriguing-new-cookbook-featuring-recipes-by-cindy-sherman-and-frank-bowling",
+          "image_url": "https://cdn.mos.cms.futurecdn.net/s86RdFyqtsHf3WVL3ySXzm-1920-80.png",
+          "source_name": "Wallpaper*"
+        },
         {
           "title": "작은 책의 시각적 즐거움을 보여주는 로스앤젤레스의 새로운 전시회",
           "url": "https://www.wallpaper.com/design-interiors/veronica-ditting-small-print-exhibition-los-angeles",
@@ -44,12 +50,6 @@
           "url": "https://www.dezeen.com/2026/11/07/concrete-art-galleries-roundup/",
           "image_url": "https://static-2026.dezeen.com/uploads/2011/03/dzn_Casa-das-Historias-Paula-Rego-by-Eduardo-Souto-de-Moura-1.jpg",
           "source_name": "Dezeen"
-        },
-        {
-          "title": "멕 온리와 잭 위노커, 2028 휘트니 비엔날레 큐레이팅",
-          "url": "https://hyperallergic.com/meg-onli-and-zack-winokur-to-curate-2028-whitney-biennial/",
-          "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/11/whitney2028biennial0818-copy-1.jpeg",
-          "source_name": "Hyperallergic"
         }
       ]
     },
@@ -215,6 +215,7 @@
     }
   ],
   "notable_names": [
+    "Torre Velasca",
     "Kengo Kuma",
     "Yemail Arquitectura",
     "Martine Rose",
