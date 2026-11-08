@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-08 03:21 KST",
+  "generated_at": "2026-11-08 10:36 KST",
   "period": "2026.11.01 - 2026.11.08",
-  "total_articles": 411,
+  "total_articles": 418,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 187
+      "count": 193
     },
     {
       "genre": "동시대 미술",
-      "count": 160
+      "count": 161
     },
     {
       "genre": "아방가르드 패션",
@@ -54,6 +54,38 @@
       ]
     },
     {
+      "keyword": "빛과 조명",
+      "count": 11,
+      "previous_count": 9,
+      "trend": "rising",
+      "items": [
+        {
+          "title": "새로워진 프리타운 기념관은 빛의 광경이자 '희망의 메시지‘ 입니다.",
+          "url": "https://www.wallpaper.com/architecture/freetown-memorial-oshinowo-studio-sierra-leone",
+          "image_url": "https://cdn.mos.cms.futurecdn.net/WLMLcE7DE4i8jxJMjdZWcj-1920-80.jpg",
+          "source_name": "Wallpaper*"
+        },
+        {
+          "title": "SWA는 좀 더 걷기 좋은 휴스턴을 위해 모듈식 \"툴킷\" 을 구현합니다",
+          "url": "https://www.dezeen.com/2026/11/05/swa-cool-connected-corridors-houston/",
+          "image_url": "https://static-2026.dezeen.com/uploads/2026/11/cool-connected-swa-houston-texas_dezeen_2364_sq-1-1024x1024.jpg",
+          "source_name": "Dezeen"
+        },
+        {
+          "title": "Dezeen Showroom의 15개 신제품 중 Marset의 깨지기 쉬운 조명 컬렉션",
+          "url": "https://www.dezeen.com/2026/11/05/fragile-lighting-marset-furniture-tiles-products-dezeen-showroom/",
+          "image_url": "https://static-2026.dezeen.com/uploads/2026/11/fragile-lighting-collection-marset-showroom_dezeen_2364_col_0-1024x1024.jpg",
+          "source_name": "Dezeen"
+        },
+        {
+          "title": "자연광 액자 만들기: 캐빈 아키텍처의 5가지 주간 조명 전략",
+          "url": "https://www.archdaily.com/1187986/framing-natural-light-five-daylighting-strategies-in-cabin-architecture",
+          "image_url": "https://images.adsttc.com/media/images/6ae9/10a2/62dc/0e01/8725/78e3/large_jpg/_32.jpg?1793659050",
+          "source_name": "ArchDaily"
+        }
+      ]
+    },
+    {
       "keyword": "텍스타일·직물",
       "count": 6,
       "previous_count": 4,
@@ -82,38 +114,6 @@
           "url": "https://www.designboom.com/art/ceramic-sponge-textile-accents-scilla-cariddi-hand-crafted-mirrors-marlisa-marasco/",
           "image_url": "https://www.designboom.com/wp-content/dbsub/466392/2026-10-29/scilla-cariddi-reimagine-the-myth-of-the-strait-of-messina-through-sculptural-mirrors-4-6ae337fe23ca1.jpg",
           "source_name": "Designboom Art"
-        }
-      ]
-    },
-    {
-      "keyword": "설치 미술",
-      "count": 4,
-      "previous_count": 0,
-      "trend": "new",
-      "items": [
-        {
-          "title": "2026년 암만 디자인 위크 (Amman Design Week)/건축을 위한 라이스 마타르웨 스튜디오 (Laith Matarweh Studio) 에 알 마스타바 설치",
-          "url": "https://www.archdaily.com/1187739/al-mastaba-installation-at-amman-design-week-2026-laith-matarweh-studio-for-architecture",
-          "image_url": "https://images.adsttc.com/media/images/6ae3/1f5d/3271/8400/01d0/fb25/large_jpg/11_Al-Mastaba_Installation_Mohanad_Jihad.jpg?1793269936",
-          "source_name": "ArchDaily"
-        },
-        {
-          "title": "SCAD 동문들은 디자인 마이애미 파리 동안 18세기 계단을 다채로운 설치물로 탈바꿈시켰습니다.",
-          "url": "https://www.dezeen.com/2026/11/04/scad-installation-design-miami-paris/",
-          "image_url": "https://static-2026.dezeen.com/uploads/2026/10/SCAD-sq1-1024x1024.jpg",
-          "source_name": "Dezeen"
-        },
-        {
-          "title": "jakob kudsk steensen의 이 설치물은 생명의 기원과 선택의지를 고려합니다.",
-          "url": "https://www.designboom.com/art/this-installation-by-jakob-kudsk-steensen-considers-the-origins-and-agency-of-life/",
-          "image_url": "https://www.designboom.com/wp-content/uploads/2026/11/jks-psychosphere-designboom-05.jpg",
-          "source_name": "Designboom Art"
-        },
-        {
-          "title": "타티아나 빌바오 (Tatiana Bilbao) 가 아트 오미 (Art Omi) 에서 램드 어스 (rammed",
-          "url": "https://www.dezeen.com/2026/11/03/tatiana-bilbao-creates-rammed-earth-installation-at-art-omi/",
-          "image_url": "https://static-2026.dezeen.com/uploads/2026/10/borrowed-earth-tatiana-bilbao-art-omi_dezeen_2364_sq-1-1024x1024.jpg",
-          "source_name": "Dezeen"
         }
       ]
     },
@@ -150,33 +150,33 @@
       ]
     },
     {
-      "keyword": "빛과 조명",
-      "count": 10,
-      "previous_count": 9,
+      "keyword": "리노베이션·재생",
+      "count": 5,
+      "previous_count": 6,
       "trend": "steady",
       "items": [
         {
-          "title": "SWA는 좀 더 걷기 좋은 휴스턴을 위해 모듈식 \"툴킷\" 을 구현합니다",
-          "url": "https://www.dezeen.com/2026/11/05/swa-cool-connected-corridors-houston/",
-          "image_url": "https://static-2026.dezeen.com/uploads/2026/11/cool-connected-swa-houston-texas_dezeen_2364_sq-1-1024x1024.jpg",
-          "source_name": "Dezeen"
-        },
-        {
-          "title": "Dezeen Showroom의 15개 신제품 중 Marset의 깨지기 쉬운 조명 컬렉션",
-          "url": "https://www.dezeen.com/2026/11/05/fragile-lighting-marset-furniture-tiles-products-dezeen-showroom/",
-          "image_url": "https://static-2026.dezeen.com/uploads/2026/11/fragile-lighting-collection-marset-showroom_dezeen_2364_col_0-1024x1024.jpg",
-          "source_name": "Dezeen"
-        },
-        {
-          "title": "자연광 액자 만들기: 캐빈 아키텍처의 5가지 주간 조명 전략",
-          "url": "https://www.archdaily.com/1187986/framing-natural-light-five-daylighting-strategies-in-cabin-architecture",
-          "image_url": "https://images.adsttc.com/media/images/6ae9/10a2/62dc/0e01/8725/78e3/large_jpg/_32.jpg?1793659050",
+          "title": "Bilbao/BABELstudio Ensanche의 아파트 리노베이션",
+          "url": "https://www.archdaily.com/1188205/apartment-renovation-in-the-ensanche-of-bilbao-babelstudio",
+          "image_url": "https://images.adsttc.com/media/images/6ad0/d744/b2c4/c300/0178/f8e4/large_jpg/ENSANCHE_002.jpg?1792071512",
           "source_name": "ArchDaily"
         },
         {
-          "title": "밀라노의 뉴 산 시로 스타디움과 BIAU의 12개 수상 프로젝트: 이번 주 리뷰",
-          "url": "https://www.archdaily.com/1188109/milans-new-san-siro-stadium-and-the-biaus-12-awarded-projects-this-weeks-review",
-          "image_url": "https://images.adsttc.com/media/images/6aec/0e71/c723/9a01/895a/2979/large_jpg/a-new-stadium-replacing-milans-san-siro-and-the-unveiling-of-the-biaus-12-awarded-projects-this-weeks-review_6.jpg?1793855130",
+          "title": "다빌로드",
+          "url": "https://leibal.com/interiors/darville-road/",
+          "image_url": "https://leibal.com/wp-content/uploads/2026/10/leibal-darville-road-max-radford-9.jpg",
+          "source_name": "Leibal"
+        },
+        {
+          "title": "런던의 빅토리아풍 테라스 하우스 프라이빗 아트 갤러리로 두 배로 성장하는 사이드스텝스 컨벤션",
+          "url": "https://www.yatzer.com/stepwell-house-london-wadhal-max-radford",
+          "image_url": "https://media.yatzer.com/12-Stepwell-House-Studio-Wadhal-London-England-photo-Genevieve-Lutkin-yatzer-1400x934.jpg",
+          "source_name": "Yatzer"
+        },
+        {
+          "title": "핏 아웃을 오래 지속할 수 있는 가구 디자인하기",
+          "url": "https://www.archdaily.com/1187518/designing-furniture-to-outlast-the-fit-out",
+          "image_url": "https://images.adsttc.com/media/images/6adf/5431/db5c/2001/882d/04d1/large_jpg/designing-furniture-to-outlast-the-fit-out_1.jpg?1793021036",
           "source_name": "ArchDaily"
         }
       ]

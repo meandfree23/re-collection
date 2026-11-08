@@ -3271,41 +3271,49 @@
  },
  "2026-11-08": {
   "date": "2026-11-08",
-  "headline": "날개 위 전기 모터와 페루자의 가파른 계단",
-  "editorial": "활주로를 벗어나 공기 흐름을 제어하는 항공 설계는 이동의 물리적 문법을 근본부터 바꾼다. 이와 같은 태도는 페루자의 역사적 계단에 자리 잡은 독립 출판 키오스크에서도 발견된다. 기존의 공항 인프라가 지닌 위압감을 삭제하고 비정형적 지형을 출판물의 전시장으로 바꾸는 시도는 모두 고정된 역할을 뒤집는 행위다. 미술가의 언어로 새 모이통을 짓는 처프 컴퍼니 또한 이처럼 작고 낯선 방식으로 세계를 재정의한다.",
+  "headline": "빛을 품은 900개의 이름과 60미터 위로 솟은 날개",
+  "editorial": "시에라리온 프리타운 기념관은 5km 반경까지 뻗어 나가는 빛의 매체로 역사적 이름을 밝히고, 활주로의 종말은 60미터 상공에서 전기 모터로 지형의 제약을 넘어선다. 맨해튼의 산업적 골조는 둥근 곡선으로 유연하게 이어지고, 페루자의 역사적 계단에 놓인 키오스크는 유휴 공간을 문화적 장치로 바꾼다. 이처럼 오늘은 갇힌 구조를 빛과 동선으로 확장하는 물리적 시도들이 도시와 공간의 문법을 새로 쓴다.",
   "threads": [
    {
-    "name": "고정된 틀의 삭제와 전환",
-    "note": "기존 인프라와 지형의 역할을 해체하여 새로운 쓰임새를 부여한다.",
+    "name": "빛과 창이 만든 공간의 반전",
+    "note": "물리적 한계를 지닌 좁고 어두운 구조를 창과 빛으로 열어젖힌다.",
     "items": [
      {
-      "title": "활주로의 종말, 60미터 위에서 시작되는 항공 이동의 새로운 문법",
-      "url": "https://www.wallpaper.com/transportation/electra-aero-el9-high-lift-blown-wings"
+      "title": "시에라리온 프리타운 기념관, 900개의 이름을 빛으로 잇는 기념비적 확장",
+      "url": "https://www.wallpaper.com/architecture/freetown-memorial-oshinowo-studio-sierra-leone"
      },
      {
-      "title": "페루자의 역사적 계단에 자리한 독립 출판 키오스크, 에디콜라 518",
-      "url": "https://www.archdaily.com/1187621/edicola-518-giuseppe-arezzi"
+      "title": "밀라 하우스, 좁고 긴 대지에 빛을 들이는 여덟 가지 창의 방식",
+      "url": "https://www.archdaily.com/1027157/mila-house-isla-architects"
+     },
+     {
+      "title": "어두운 주거 공간의 반전, 상파울루 아마빌레 아파트 리노베이션",
+      "url": "https://www.archdaily.com/1188223/amabile-apartment-denis-joelsons"
      }
     ]
    },
    {
-    "name": "작은 단위의 설계",
-    "note": "거대한 대상보다 작고 세밀한 오브제와 동선에 집중하여 관계를 맺는다.",
+    "name": "도시의 뼈대와 유휴지의 쓰임",
+    "note": "오래된 산업 골조와 역사적 계단, 도시의 남겨진 틈새를 새로운 거주와 문화의 장치로 바꾼다.",
     "items": [
      {
-      "title": "프렌치 블룸이 제안하는 무알콜 호스팅, 파티의 문턱을 낮추는 법",
-      "url": "https://www.wallpaper.com/entertaining/how-we-host-french-bloom"
+      "title": "맨해튼의 산업적 골조를 둥근 곡선과 녹색으로 유연하게 잇다",
+      "url": "https://www.dezeen.com/2026/11/07/sabo-project-soft-divisions-apartment-renovation-lower-east-side/"
      },
      {
-      "title": "거장의 조형 언어로 빚어낸 소형 건축, 처프 컴퍼니의 새 모이통",
-      "url": "https://www.wallpaper.com/design-interiors/chirp-artist-birdfeeders"
+      "title": "페루자의 역사적 계단에 자리한 독립 출판 키오스크, 에디콜라 518",
+      "url": "https://www.archdaily.com/1187621/edicola-518-giuseppe-arezzi"
+     },
+     {
+      "title": "역사적 아파트의 뼈대 위에 얹은 동시대의 주거 감각",
+      "url": "https://www.archdaily.com/1187909/masso-apartment-castroferro-arquitectura"
      }
     ]
    }
   ],
-  "based_on": 6,
+  "based_on": 13,
   "v": 3,
-  "model": "gemini-3.1-flash-lite-preview",
-  "written_at": "2026-11-08 03:21"
+  "model": "gemini-3.5-flash-lite",
+  "written_at": "2026-11-08 10:36"
  }
 }
