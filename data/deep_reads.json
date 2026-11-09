@@ -282407,5 +282407,66 @@
   },
   "depth_raw": 4,
   "depth_v": 2
+ },
+ "yellowtrace.com.au/adriana-hanna-office-collis-house-alistair-knox-home-renovation-melbourne": {
+  "title_ko": "알리스터 녹스의 뼈대 위에 얹은 최소한의 개입, 콜리스 하우스",
+  "summary_ko": "호주의 건축가 아드리아나 한나가 설계한 콜리스 하우스 리노베이션 프로젝트다. 원래 설계자인 알리스터 녹스의 합리적인 평면을 유지하면서 주방과 욕실 등 주요 공간에 최소한의 개입을 더했다. 기존의 유리 타일과 슬레이트 바닥 같은 원형의 물성을 그대로 보존했다.",
+  "lens": "기존 건축가의 뼈대를 해체하지 않고 정확한 자리에서 최소한의 밀도로만 개입한다.",
+  "why_now": "불필요한 증축과 철거를 반복하는 개발 방식에서 벗어나 기존 건물의 유산을 존중하는 정교한 리노베이션 태도가 요구된다.",
+  "mechanism": "알리스터 녹스가 구축한 원형 레이아웃의 축을 그대로 보존하면서 내부 실내 마감재와 가구 배치를 조정한다.",
+  "sensory": "오래된 슬레이트 바닥과 유리 타일의 거친 물성이 새로 정비된 가구와 대조를 이루며 시간의 층위를 드러낸다.",
+  "transfer": "공간 디자인 콘티에서 기존 바닥재와 벽체를 그대로 살린 채 가구와 조명만으로 새로운 레이어를 형성하는 씬을 구성할 때 활용한다.",
+  "context": "원 설계자인 알리스터 녹스는 호주 빅토리아주의 닐룸비크 지역을 중심으로 재활용 자재와 흙벽돌을 사용해 수많은 주택을 지은 선구자다.",
+  "findings": [
+   {
+    "text": "알리스터 녹스는 재활용 자재와 흙벽돌을 사용하여 호주 빅토리아주의 닐룸비크 지역을 비롯한 곳에 1,000채가 넘는 주택을 설계한 디자이너이자 건축가다.",
+    "s": 1,
+    "quote": "Alistair Samuel Knox (8 April 1912 – 30 July 1986) was an Australian designer, builder and landscape architect who used recycled materials and mudbrick in his constructions and is considered to be a pioneer of modern mud"
+   }
+  ],
+  "keywords": [
+   "콜리스하우스",
+   "아드리아나한나",
+   "알리스터녹스",
+   "공간리노베이션"
+  ],
+  "evidence": "Collis House by Adriana Hanna Office",
+  "kind": "프로젝트",
+  "depth": 2,
+  "grounding": "thin",
+  "depth_reason": "원문 본문을 가져오지 못해 메타 정보와 제한된 자료를 바탕으로 작성한 평이한 수준의 프로젝트 소개다.",
+  "v": 2,
+  "url": "https://www.yellowtrace.com.au/adriana-hanna-office-collis-house-alistair-knox-home-renovation-melbourne/",
+  "original_title": "Size Matters, but Collis House by Adriana Hanna Office Shows It’s What You Do With It That Counts.",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 0,
+  "fetch": "fetch_error:HTTPError",
+  "cliche_hits": [],
+  "read_at": "2026-11-09 11:38",
+  "research": {
+   "entities": [
+    "Adriana Hanna",
+    "Alistair Knox",
+    "Collis House"
+   ],
+   "questions": [
+    "Alistair Knox가 설계한 주택들의 건축적 특징과 그가 추구한 합리적인 레이아웃의 핵심은 무엇인가요?",
+    "Adriana Hanna가 Collis House 리노베이션에서 기존 건축 요소를 보존하면서 현대적 기능을 통합한 구체적인 방식은 무엇인가요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Alistair Knox",
+     "url": "https://en.wikipedia.org/wiki/Alistair%20Knox"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 358
+  },
+  "depth_raw": 3,
+  "depth_v": 2
  }
 }
