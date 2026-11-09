@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-11-09 16:42 KST",
+  "generated_at": "2026-11-09 20:06 KST",
   "period": "2026.11.02 - 2026.11.09",
-  "total_articles": 424,
+  "total_articles": 434,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 197
+      "count": 200
     },
     {
       "genre": "동시대 미술",
-      "count": 163
+      "count": 169
     },
     {
       "genre": "아방가르드 패션",
-      "count": 41
+      "count": 42
     },
     {
       "genre": "미디어 파사드·3D",
@@ -23,10 +23,16 @@
   "themes": [
     {
       "keyword": "박물관·전시",
-      "count": 35,
+      "count": 36,
       "previous_count": 28,
       "trend": "rising",
       "items": [
+        {
+          "title": "Playfool Studio spotlights hidden digital labour in data centre cleaning game at the V&A",
+          "url": "https://www.dezeen.com/2026/11/09/playfool-studio-data-server-cleaning-game-va/",
+          "image_url": "https://static-2026.dezeen.com/uploads/2026/10/Square-The-Server-Studio-Playfool_dezeen_2364_col_2-1024x1024.jpg",
+          "source_name": "Dezeen"
+        },
         {
           "title": "Chris Coombes의 매력적인 엽서 그림은 예술의 경계를 가지고 놀 수 있습니다.",
           "url": "https://www.creativeboom.com/inspiration/chris-coombes-charming-postcard-paintings-play-with-the-boundaries-of-what-art-can-be/",
@@ -43,12 +49,6 @@
           "title": "작은 책의 시각적 즐거움을 보여주는 로스앤젤레스의 새로운 전시회",
           "url": "https://www.wallpaper.com/design-interiors/veronica-ditting-small-print-exhibition-los-angeles",
           "image_url": "https://cdn.mos.cms.futurecdn.net/cfSiHyKqW8htwgdzVCBW8T-1920-80.jpg",
-          "source_name": "Wallpaper*"
-        },
-        {
-          "title": "런던의 디자인 박물관 (Design Museum) 의 새로운 전시가 우리에게 상기시켜주기 때문에 블랙 디자인은 모놀리스가 아닙니다.",
-          "url": "https://www.wallpaper.com/design-interiors/design-events/nue-black-aesthetic-design-museum",
-          "image_url": "https://cdn.mos.cms.futurecdn.net/VFD4otWVL79GF3uuFY7Ta3-1920-80.jpg",
           "source_name": "Wallpaper*"
         }
       ]
@@ -150,6 +150,38 @@
       ]
     },
     {
+      "keyword": "설치 미술",
+      "count": 5,
+      "previous_count": 0,
+      "trend": "new",
+      "items": [
+        {
+          "title": "Playfool Studio spotlights hidden digital labour in data centre cleaning game at the V&A",
+          "url": "https://www.dezeen.com/2026/11/09/playfool-studio-data-server-cleaning-game-va/",
+          "image_url": "https://static-2026.dezeen.com/uploads/2026/10/Square-The-Server-Studio-Playfool_dezeen_2364_col_2-1024x1024.jpg",
+          "source_name": "Dezeen"
+        },
+        {
+          "title": "2026년 암만 디자인 위크 (Amman Design Week)/건축을 위한 라이스 마타르웨 스튜디오 (Laith Matarweh Studio) 에 알 마스타바 설치",
+          "url": "https://www.archdaily.com/1187739/al-mastaba-installation-at-amman-design-week-2026-laith-matarweh-studio-for-architecture",
+          "image_url": "https://images.adsttc.com/media/images/6ae3/1f5d/3271/8400/01d0/fb25/large_jpg/11_Al-Mastaba_Installation_Mohanad_Jihad.jpg?1793269936",
+          "source_name": "ArchDaily"
+        },
+        {
+          "title": "SCAD 동문들은 디자인 마이애미 파리 동안 18세기 계단을 다채로운 설치물로 탈바꿈시켰습니다.",
+          "url": "https://www.dezeen.com/2026/11/04/scad-installation-design-miami-paris/",
+          "image_url": "https://static-2026.dezeen.com/uploads/2026/10/SCAD-sq1-1024x1024.jpg",
+          "source_name": "Dezeen"
+        },
+        {
+          "title": "jakob kudsk steensen의 이 설치물은 생명의 기원과 선택의지를 고려합니다.",
+          "url": "https://www.designboom.com/art/this-installation-by-jakob-kudsk-steensen-considers-the-origins-and-agency-of-life/",
+          "image_url": "https://www.designboom.com/wp-content/uploads/2026/11/jks-psychosphere-designboom-05.jpg",
+          "source_name": "Designboom Art"
+        }
+      ]
+    },
+    {
       "keyword": "가구 디자인",
       "count": 14,
       "previous_count": 13,
@@ -178,38 +210,6 @@
           "url": "https://www.dezeen.com/2026/11/05/fragile-lighting-marset-furniture-tiles-products-dezeen-showroom/",
           "image_url": "https://static-2026.dezeen.com/uploads/2026/11/fragile-lighting-collection-marset-showroom_dezeen_2364_col_0-1024x1024.jpg",
           "source_name": "Dezeen"
-        }
-      ]
-    },
-    {
-      "keyword": "리노베이션·재생",
-      "count": 7,
-      "previous_count": 6,
-      "trend": "steady",
-      "items": [
-        {
-          "title": "NH 레지던스 리노베이션/Dhanie & Sal",
-          "url": "https://www.archdaily.com/1187848/nh-residence-renovation-dhanie-and-sal",
-          "image_url": "https://images.adsttc.com/media/images/6ae4/8bd7/bfbd/4c00/01ee/58c0/large_jpg/12.jpg?1793362920",
-          "source_name": "ArchDaily"
-        },
-        {
-          "title": "푸엔테사우코 약국/데이비드 에르난데스 아르키텍투라",
-          "url": "https://www.archdaily.com/1188185/fuentesauco-pharmacy-david-hernandez-arquitectura",
-          "image_url": "https://images.adsttc.com/media/images/6ae2/f733/3271/8400/01d0/fa5c/large_jpg/01_Exterior_01_David_Hernandez_Sergio_Murillo.jpg?1793259355",
-          "source_name": "ArchDaily"
-        },
-        {
-          "title": "Bilbao/BABELstudio Ensanche의 아파트 리노베이션",
-          "url": "https://www.archdaily.com/1188205/apartment-renovation-in-the-ensanche-of-bilbao-babelstudio",
-          "image_url": "https://images.adsttc.com/media/images/6ad0/d744/b2c4/c300/0178/f8e4/large_jpg/ENSANCHE_002.jpg?1792071512",
-          "source_name": "ArchDaily"
-        },
-        {
-          "title": "다빌로드",
-          "url": "https://leibal.com/interiors/darville-road/",
-          "image_url": "https://leibal.com/wp-content/uploads/2026/10/leibal-darville-road-max-radford-9.jpg",
-          "source_name": "Leibal"
         }
       ]
     }
