@@ -282468,5 +282468,114 @@
   },
   "depth_raw": 3,
   "depth_v": 2
+ },
+ "stashmedia.tv/take-a-break-from-festive-feels-and-get-lost-in-renaud-hallees-new-short-film-plus": {
+  "title_ko": "절제된 리듬과 정밀한 픽셀, 르노 할레의 단편 영화 '플러스'",
+  "summary_ko": "몬트리올의 감독 겸 애니메이터 르노 할레(Renaud Hallée)가 신작 단편 영화 '플러스(PLUS)'를 공개했다. 이 작업은 음악과 시각 요소를 엄격하게 동기화한 리듬 중심의 모션 그래픽 프로젝트다. 리퍼(Reaper)로 사운드를 구성하고 애프터 이펙트(After Effects)를 활용해 모든 그래픽의 위치와 타이밍을 정밀하게 통제했다.",
+  "lens": "컷과 필터의 눈속임 없이 오직 음악의 타이밍과 시각 요소의 일치만으로 긴장감을 구축한다.",
+  "why_now": "감정적인 서사를 앞세운 연말 광고들의 홍수 속에서, 기계적이고 순수한 시각·청각적 구조 조율로 시선을 환기한다.",
+  "mechanism": "초기에는 수작업으로 의도적인 결과를 유도하려 했으나, 복잡도가 높아지면서 스크립트를 대거 도입해 방대한 요소들을 동시에 통제하고 기술적 한계를 돌파했다.",
+  "sensory": "화면 전환이나 필터 효과를 배제하고 오직 정확한 위치와 시간에 맞아떨어지는 요소들이 만들어내는 건조하고 정교한 시각적 박동.",
+  "transfer": "광고나 뮤직비디오 콘티에서 컷 편집에 의존하지 않고, 단일 테이크 안에서 오브제들의 등장 타이밍과 오디오 비트를 일치시키는 정밀 타이밍 연출에 적용한다.",
+  "context": "몬트리올을 기반으로 활동하는 르노 할레는 개인 스튜디오 포시블 메트릭스(Possible Metrics)를 통해 음악 주도형 단편 영화와 인터랙티브 작업을 지속해 왔다.",
+  "findings": [
+   {
+    "text": "Possible Metrics was created by Renaud Hallée to produce music-driven short films and interactive projects in Montreal.",
+    "s": 1,
+    "quote": "Possible Metrics was created by Renaud Hallée to produce music-driven short films and interactive projects in Montreal."
+   }
+  ],
+  "keywords": [
+   "모션그래픽",
+   "리듬",
+   "애프터이펙트",
+   "시각정밀도"
+  ],
+  "evidence": "Montreal director/animator Renaud Hallée just dropped us his latest personal film, an exercise in music-driven visual precision",
+  "kind": "영상·필름",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "음악 중심의 시각 정밀도라는 독창적인 작업 방식과 제작 기법을 잘 보여주나, 개인 단편 영화의 범위를 크게 벗어나지 않는다.",
+  "v": 2,
+  "url": "https://www.stashmedia.tv/take-a-break-from-festive-feels-and-get-lost-in-renaud-hallees-new-short-film-plus/",
+  "original_title": "Take a Break From Festive Feels and Get Lost in Renaud Hallée’s New Short Film “PLUS”",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 2761,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-09 12:43",
+  "research": {
+   "entities": [
+    "Renaud Hallée",
+    "Possible Metrics",
+    "After Effects",
+    "Reaper"
+   ],
+   "questions": [
+    "Renaud Hallée가 언급한 '음악 중심의 시각적 정밀함'을 구현하기 위해 사용한 기술적 워크플로우는 무엇인가?",
+    "수동 작업과 스크립트 활용 사이에서 균형을 맞추는 것이 모션 그래픽 제작 과정에서 어떤 차이를 만드는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Possible Metrics",
+     "url": "https://possiblemetrics.com"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 799
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "archdaily.com/1187848/nh-residence-renovation-dhanie-and-sal": {
+  "title_ko": "자카르타 교수 단지의 연립주택을 감싸는 테라코타의 결",
+  "summary_ko": "인도네시아 자카르타 동부 풀로 가둥 지역에 위치한 NH 레지던스는 다니 앤 살(Dhanie & Sal)이 기존 연립주택을 개조한 291제곱미터 규모의 프로젝트다. 테라코타 소재의 볼륨을 활용해 본래의 성격을 부각하고 인접한 지붕과 매끄럽게 연결했다.",
+  "lens": "테라코타 볼륨으로 오래된 연립주택의 원래 성격을 전면으로 끌어낸다.",
+  "why_now": "기존 구조를 보존하면서 지역적 맥락에 순응하는 리노베이션 방식이 주목받는다.",
+  "mechanism": "테라코타로 마감된 볼륨을 적층하여 인접한 주변 지붕선과 시각적으로 매끄럽게 엮어낸다.",
+  "sensory": "붉은빛의 테라코타 표면이 인도네시아의 강렬한 일광 아래에서 거친 물성과 고유의 색감을 드러낸다.",
+  "transfer": "공간 연출 시 외장재의 톤을 주변 건축물과 일치시켜 이질감을 지우는 방식으로 콘티를 구성한다.",
+  "context": "인도네시아 자카르타 동부의 교수 단지 내에 위치하며 다니 앤 살이 설계를 맡았다.",
+  "findings": [],
+  "keywords": [
+   "테라코타",
+   "리노베이션",
+   "연립주택",
+   "인도네시아"
+  ],
+  "evidence": "Terracotta-clad volumes highlight the original character of a renovated row house located in East Jakarta",
+  "kind": "프로젝트",
+  "depth": 2,
+  "grounding": "thin",
+  "depth_reason": "원문 설명이 짧고 추가 리서치 자료가 없어 기본적인 공간 개조 내용만 확인할 수 있다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1187848/nh-residence-renovation-dhanie-and-sal",
+  "original_title": "NH Residence Renovation / Dhanie & Sal",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 972,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-09 12:43",
+  "research": {
+   "entities": [
+    "Dhanie & Sal",
+    "Dhanie Syawalia",
+    "Salman Rimaldhi",
+    "NH Residence"
+   ],
+   "questions": [
+    "인도네시아 자카르타의 주거 환경에서 테라코타 소재가 리노베이션 프로젝트에 어떤 건축적 의미를 갖는가?",
+    "기존 연립 주택의 구조를 유지하면서 현대적인 주거 공간으로 탈바꿈하기 위해 어떤 설계 전략이 사용되었는가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
  }
 }

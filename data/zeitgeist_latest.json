@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-09 11:38 KST",
+  "generated_at": "2026-11-09 12:43 KST",
   "period": "2026.11.02 - 2026.11.09",
-  "total_articles": 417,
+  "total_articles": 419,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 194
+      "count": 195
     },
     {
       "genre": "동시대 미술",
@@ -17,7 +17,7 @@
     },
     {
       "genre": "미디어 파사드·3D",
-      "count": 22
+      "count": 23
     }
   ],
   "themes": [
@@ -183,10 +183,16 @@
     },
     {
       "keyword": "리노베이션·재생",
-      "count": 6,
+      "count": 7,
       "previous_count": 6,
       "trend": "steady",
       "items": [
+        {
+          "title": "NH 레지던스 리노베이션/Dhanie & Sal",
+          "url": "https://www.archdaily.com/1187848/nh-residence-renovation-dhanie-and-sal",
+          "image_url": "https://images.adsttc.com/media/images/6ae4/8bd7/bfbd/4c00/01ee/58c0/large_jpg/12.jpg?1793362920",
+          "source_name": "ArchDaily"
+        },
         {
           "title": "푸엔테사우코 약국/데이비드 에르난데스 아르키텍투라",
           "url": "https://www.archdaily.com/1188185/fuentesauco-pharmacy-david-hernandez-arquitectura",
@@ -204,12 +210,6 @@
           "url": "https://leibal.com/interiors/darville-road/",
           "image_url": "https://leibal.com/wp-content/uploads/2026/10/leibal-darville-road-max-radford-9.jpg",
           "source_name": "Leibal"
-        },
-        {
-          "title": "런던의 빅토리아풍 테라스 하우스 프라이빗 아트 갤러리로 두 배로 성장하는 사이드스텝스 컨벤션",
-          "url": "https://www.yatzer.com/stepwell-house-london-wadhal-max-radford",
-          "image_url": "https://media.yatzer.com/12-Stepwell-House-Studio-Wadhal-London-England-photo-Genevieve-Lutkin-yatzer-1400x934.jpg",
-          "source_name": "Yatzer"
         }
       ]
     }
