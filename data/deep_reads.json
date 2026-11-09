@@ -282577,5 +282577,419 @@
   },
   "depth_raw": 3,
   "depth_v": 2
+ },
+ "creativeboom.com/news/motion-north-2027-reveals-its-first-speakers-including-found-lucas-zanotto-and-nice-shit": {
+  "title_ko": "산업의 골조를 공유하는 연대: 맨체스터 모션 노스 2027",
+  "summary_ko": "맨체스터의 모션 디자인 페스티벌 '모션 노스(Motion North) 2027'이 3월 10일부터 11일까지 프레이트 아일랜드(Freight Island)에서 개최된다. 로컬 스튜디오 마이티 자이언트(Mighty Giant)가 주최하는 이번 행사는 20명 이상의 연사가 참여하는 세 개의 무대와 실무 워크숍, 독립 아티스트의 마켓플레이스로 구성된다.",
+  "lens": "단순한 지식 전달을 넘어, 실무자의 기술적 난제와 지역 기반의 창작 생태계를 물리적으로 연결하는 플랫폼이다.",
+  "why_now": "디지털 작업의 고립을 타파하기 위해, 실무자와 학생이 섞이는 물리적 접점과 기술적 노하우를 나누는 대면 네트워크의 중요성이 다시 강조된다.",
+  "mechanism": "2010년부터 이어진 풀뿌리 커뮤니티 성격을 유지하되, 마켓플레이스를 도입해 창작자와 소비자가 직접 교류하는 사회적 시노그래피를 구축한다.",
+  "sensory": "카발리(Cavalry)와 후디니(Houdini) 등 소프트웨어 실습 워크숍을 통해 디지털 툴의 정교한 입자감과 연산 과정을 현장에서 체감한다.",
+  "transfer": "콘티 작업 시 3D 스튜디오의 워크플로우를 참고하되, 마켓플레이스 모델을 차용해 제작 현장의 부산물이나 아카이빙된 소스를 공유하는 팝업 이벤트를 기획할 수 있다.",
+  "context": "주최사 마이티 자이언트는 복잡한 기술적 서사를 3D 애니메이션으로 명료화하는 작업을 수행하며, 이번 페스티벌을 통해 지역 디자인 생태계를 주도한다. 기존의 글래스고 인터내셔널 어셈블리와 유사하게 특정 공간을 점유하여 창작자 간 연대를 조직하는 방식을 취한다.",
+  "findings": [
+   {
+    "text": "마이티 자이언트는 복잡하고 기술적인 주제를 이해하기 쉬운 영상으로 변환하는 작업을 전문으로 한다.",
+    "s": 2,
+    "quote": "We use character, 3D and motion design to turn complex, technical and hard-to-film subjects into films people understand and remember."
+   },
+   {
+    "text": "2027년 행사에는 25세 미만이나 교육생을 위한 '넥스트 젠(Next Gen)' 티켓 카테고리가 신설되었다.",
+    "s": 1,
+    "quote": "So for 2027 we're introducing a new category: Next Gen: These are for those under 25, starting out in the industry, or in full-time education."
+   }
+  ],
+  "keywords": [
+   "모션디자인",
+   "프레이트아일랜드",
+   "커뮤니티",
+   "마이티자이언트"
+  ],
+  "evidence": "Motion North, the festival that pairs big global names with an intimate, friendly vibe",
+  "kind": "행사·공모",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "지역 기반의 커뮤니티가 기술적 실무와 마켓플레이스를 결합해 생태계를 확장하는 구체적인 전략이 확인됨.",
+  "v": 2,
+  "url": "https://www.creativeboom.com/news/motion-north-2027-reveals-its-first-speakers-including-found-lucas-zanotto-and-nice-shit/",
+  "original_title": "Motion North welcomes global design and animation talent to Manchester",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 5989,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-09 16:42",
+  "research": {
+   "entities": [
+    "Motion North",
+    "Mighty Giant",
+    "DNEG",
+    "Lucas Zanotto",
+    "Eva Cremers"
+   ],
+   "questions": [
+    "Motion North 페스티벌이 맨체스터의 모션 디자인 산업 생태계에 미치는 영향은 무엇인가요?",
+    "Mighty Giant 스튜디오가 이 페스티벌을 통해 추구하는 핵심 가치와 커뮤니티 구축 전략은 무엇인가요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Motion North | Manchester",
+     "url": "https://www.motionnorth.uk/"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Animation and Motion Design Agency | MightyGiant | Manchester",
+     "url": "https://www.mightygiant.co.uk/"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "DNEG",
+     "url": "https://en.wikipedia.org/wiki/DNEG"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "비밀 무대와 성에서의 하룻밤: 글래스고 인터내셔널 어셈블리 2026",
+     "url": "https://www.creativeboom.com/news/international-assembly-2026-glasgows-design-festival-turns-with-a-secret-stage-and-a-night-in-a-medieval-castle/"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "맨체스터에서 열리는 모션 노스 2027, 20명 이상의 연사 라인업 공개",
+     "url": "https://www.stashmedia.tv/motion-north-2027-goes-big-march-10-11-in-manchester/"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "chars": 7079
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "dezeen.com/2026/11/09/studio-aslak-curifylabs-pharmaprinter-aurum-empower-pharmacists": {
+  "title_ko": "맞춤형 의약품 조제의 표준화, 파마프린터 아우룸",
+  "summary_ko": "스튜디오 아슬락 시메스(Studio Aslak Siimes)가 큐리파이랩스(CurifyLabs)와 함께 개발한 의약품 복합 시스템 파마프린터 아우룸(PharmaPrinter Aurum)은 환자별 맞춤 의약품 조제 과정을 자동화한다. 약사가 수동으로 혼합하던 기존 방식을 대체해 정밀한 투약량과 일관된 품질을 보장하며, 정제, 필름, 좌제 등 다양한 제형을 하나의 기기에서 생산한다.",
+  "lens": "수동 조제의 불확실성을 기계적 정밀함으로 치환하여, 의료 현장의 복잡한 워크플로우를 단순한 출력 공정으로 재편한다.",
+  "why_now": "대량 생산된 의약품이 아닌 환자 개별 맞춤형 처방 비중이 30%에 육박하는 환경에서, 조제 과정의 휴먼 에러를 제거하는 표준화된 시스템이 필수적이다.",
+  "mechanism": "특허받은 그리퍼(gripper)가 주사기 플런저를 정밀하게 제어하고, 내장된 저울이 실시간으로 무게를 측정하여 조제물의 정확한 투약량을 보증한다.",
+  "sensory": "임상 현장의 차가운 금속 소재와 주사기, 알약 포장재(blister)가 결합된 기계적 질감이 주를 이루며, 조제 과정의 마찰을 제거한 매끄러운 작동감이 특징이다.",
+  "transfer": "공간 내 특정 공정을 자동화할 때, 복잡한 수동 조작 단계를 모듈형 장치로 시각화하여 사용자가 '재료 투입-버튼 조작-결과물 출력'의 단순 동선에 집중하도록 설계한다.",
+  "context": "스튜디오 아슬락 시메스는 2년 전부터 헬스케어 기술 기업 큐리파이랩스와 협업하며 의료 환경에 최적화된 산업 디자인 솔루션을 구축해왔다.",
+  "findings": [],
+  "keywords": [
+   "산업디자인",
+   "의료자동화",
+   "맞춤형조제",
+   "워크플로우"
+  ],
+  "evidence": "The PharmaPrinter Aurum was born from the realisation that almost 30 per cent – nearly a third – of all medication requires personalisation rather than being mass-manufactured",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "의료 기기의 자동화 공정을 산업 디자인 관점에서 분석했으나, 기술적 세부 사양에 대한 외부 검증 자료가 부족하여 3점을 부여함.",
+  "v": 2,
+  "url": "https://www.dezeen.com/2026/11/09/studio-aslak-curifylabs-pharmaprinter-aurum-empower-pharmacists/",
+  "original_title": "Studio Aslak Siimes designs PharmaPrinter Aurum to \"empower pharmacists\"",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 4338,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-09 16:42",
+  "research": {
+   "entities": [
+    "Studio Aslak Siimes",
+    "CurifyLabs",
+    "PharmaPrinter Aurum"
+   ],
+   "questions": [
+    "PharmaPrinter Aurum이 기존의 수동 조제 방식과 비교했을 때 약사들의 업무 효율성과 안전성을 어떻게 구체적으로 개선하나요?",
+    "CurifyLabs가 제공하는 의약품 조제 생태계에서 PharmaPrinter Aurum의 기술적 차별점은 무엇인가요?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "creativeboom.com/inspiration/chris-coombes-charming-postcard-paintings-play-with-the-boundaries-of-what-art-can-be": {
+  "title_ko": "복제된 명화를 수작업으로 환원하는 엽서 크기의 회화 연작",
+  "summary_ko": "런던 작가 크리스 쿰스는 리히터, 리히텐슈타인, 워홀 같은 거장의 작품이 담긴 박물관 기념품 엽서를 A6 구아슈 회화로 정밀하게 모사한다. 그는 원본 작품이 사진 촬영과 인쇄를 거쳐 대량 생산된 엽서로 유통되는 과정을 역으로 추적해, 인쇄물 같은 수작업 회화를 탄생시킨다. 이 과정에서 미술관 숍의 에페메라(ephemera)적 속성과 예술적 저작의 경계를 탐구한다.",
+  "lens": "기계적 인쇄물의 외피를 수작업 구아슈로 덧입혀 원본과 복제의 위계를 뒤흔든다.",
+  "why_now": "디지털 이미지와 AI 복제물이 난무하는 시점에서 손끝의 노동과 물리적 스케일의 가치를 다시 묻는다.",
+  "mechanism": "작가 스마트폰의 카메라 루시다 앱으로 10.5×14.8cm 규격의 수채 종이에 엽서 이미지를 정밀하게 옮긴 뒤, 마스킹 테이프로 엽서의 흰색 여백을 재현하고 최종적으로 바니시를 두 번 도포하여 완성한다.",
+  "sensory": "엽서라는 극도로 제한된 A6 스케일과 물성 안에 원화의 거친 붓 자국과 인쇄된 망점의 착시가 겹겹이 포개진다.",
+  "transfer": "광고나 영상 콘티에서 실물 오브제를 초소형 스케일로 정교하게 축소 촬영하거나, 디지털 소스를 아날로그 페인팅으로 수작업 변환하는 질감 연출에 활용한다.",
+  "context": "테이트 미술관 근무 경험에서 영감을 받은 런던 기반 작가 크리스 쿰스는 존재하지 않는 미술관의 숍을 표방하는 모던 브리튼을 통해 대중적 소비재와 예술의 접점을 실험해왔다.",
+  "findings": [
+   {
+    "text": "리히터의 레젠데, 리히텐슈타인의 봬움!, 브리지트 라일리의 헤지테이트 등을 포함한 작품들은 모두 10.5 × 14.8 cm 또는 14.8 × 10.5 cm 규격의 종이 위 구아슈로 제작되었다.",
+    "s": 1,
+    "quote": "Richter: Lesende (Reader), 2026Gouache on paper. 10.5 × 14.8 cm"
+   },
+   {
+    "text": "브리지트 라일리는 영국의 대표적인 옵아트 화가로 런던과 콘월 등지에서 작업해왔다.",
+    "s": 4,
+    "quote": "Bridget Louise Riley (born 24 April 1931) is an English painter known for her op art paintings. She lives and works in London, Cornwall and the Vaucluse in France."
+   }
+  ],
+  "keywords": [
+   "구아슈",
+   "복제",
+   "박물관 엽서",
+   "미니어처",
+   "아날로그 물성"
+  ],
+  "evidence": "London artist Chris Coombes hand-paints A6 gouache versions of museum postcards of works by Richter, Warhol and Riley, turning reproductions into originals.",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "대량 생산된 엽서라는 매체를 수작업 구아슈 회화로 역전시키는 구체적인 제작 공정과 개념적 장치가 뚜렷하다.",
+  "v": 2,
+  "url": "https://www.creativeboom.com/inspiration/chris-coombes-charming-postcard-paintings-play-with-the-boundaries-of-what-art-can-be/",
+  "original_title": "Chris Coombes' charming postcard paintings play with the boundaries of what art can be",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 6831,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-09 16:42",
+  "research": {
+   "entities": [
+    "Chris Coombes",
+    "Modern Britain",
+    "Tate",
+    "Bridget Riley",
+    "Museum Postcards"
+   ],
+   "questions": [
+    "크리스 쿰스가 박물관 엽서를 회화로 재해석하는 과정에서 탐구하고자 하는 예술적 권리와 복제에 대한 담론은 무엇인가?",
+    "예술 작품이 박물관 엽서라는 대량 생산된 매체로 변환되었다가 다시 수작업 회화로 돌아오는 순환 구조가 갖는 의미는 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Museum Postcards — Chris Coombes",
+     "url": "https://chriscoombes.cc/museum-postcards"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Museum Postcards",
+     "url": "https://modernbritain.co.uk/collections/museum-postcards"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Tate",
+     "url": "https://en.wikipedia.org/wiki/Tate"
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "Bridget Riley",
+     "url": "https://en.wikipedia.org/wiki/Bridget%20Riley"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    4
+   ],
+   "chars": 4329
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "dezeen.com/2026/11/09/hp-designjet-t250-printer-places-professional-printing-users-hands": {
+  "title_ko": "소규모 스튜디오를 위한 초소형 플로터, 에이치피 디자인젯 티250",
+  "summary_ko": "에이치피(HP)의 디자인젯 티250(DesignJet T250)은 대형 포맷 인쇄 기능을 소규모 사무실과 작업실에 최적화한 초소형 플로터다. 캔바(Canva)와의 협업을 통해 디자인 템플릿 제작부터 실물 출력까지의 과정을 단일 워크플로우로 통합하며, 재활용 플라스틱과 금속을 사용해 물리적 지속가능성을 구현했다.",
+  "lens": "디지털 생성의 속도와 물리적 출력의 무게를 좁혀, 기획과 결과물 사이의 지연 시간을 최소화하는 데 집중한다.",
+  "why_now": "생성형 AI로 인해 시안의 양은 폭발했으나, 이를 실제 물리적 공간에 구현하는 과정은 여전히 파편화되어 있다. 창작자가 직접 출력물을 통제하는 환경은 의사결정의 속도를 높이고 외부 의존도를 낮춘다.",
+  "mechanism": "에이치피 클릭(HP Click) 소프트웨어를 통해 다중 규격의 인쇄 작업을 수동 전환 없이 자동화하며, 자동 스케줄러로 전력 소비를 65% 절감한다.",
+  "sensory": "최소 40%의 재활용 플라스틱과 재활용 금속으로 구성된 하우징은 산업용 장비의 차가운 금속성 대신, 조밀하고 정돈된 사무 환경의 밀도를 형성한다.",
+  "transfer": "현장 시안 확인이 잦은 프로젝트라면, 외부 출력소의 일정에 구애받지 않도록 스튜디오 내부에 소형 플로터를 배치해 즉각적인 프로토타이핑 워크플로우를 구축한다.",
+  "context": "에이치피는 과거 대형 포맷 프린터 시장에서 전문가용 장비를 공급해왔으며, 최근에는 디자인 플랫폼 캔바와의 연동을 통해 비전문가 영역까지 워크플로우를 확장하고 있다. 이는 단순한 하드웨어 공급을 넘어 소프트웨어 생태계와 결합해 창작자의 독립적인 제작 환경을 지원하는 방향으로 진화 중이다.",
+  "findings": [
+   {
+    "text": "에이치피 디자인젯 티250은 최소 40% 이상의 재활용 플라스틱과 재활용 금속을 포함해 제작된 최초의 대형 포맷 플로터다.",
+    "s": 1,
+    "quote": "Made with at least 40% recycled plastic³ and the first HP large-format plotter containing recycled metal."
+   },
+   {
+    "text": "에이치피 클릭 소프트웨어를 통해 A4부터 A1까지 다양한 규격의 인쇄물을 미디어 소스 수동 교체 없이 처리할 수 있다.",
+    "s": 1,
+    "quote": "Print multi-size A4/A to A1/D projects without manually switching the media source."
+   }
+  ],
+  "keywords": [
+   "플로터",
+   "워크플로우",
+   "소규모스튜디오",
+   "지속가능성"
+  ],
+  "evidence": "Described by the brand as the “world’s smallest plotters”",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "제품의 기술적 사양과 워크플로우 통합 장점을 명확히 설명하나, 새로운 건축적/예술적 실험보다는 사무 효율 개선에 초점이 맞춰져 있다.",
+  "v": 2,
+  "url": "https://www.dezeen.com/2026/11/09/hp-designjet-t250-printer-places-professional-printing-users-hands/",
+  "original_title": "HP DesignJet T250 printer places professional printing in users’ hands",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 3465,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-09 16:42",
+  "research": {
+   "entities": [
+    "HP",
+    "DesignJet T250",
+    "Canva"
+   ],
+   "questions": [
+    "HP DesignJet T250 프린터가 소규모 사업장의 인쇄 워크플로우에 미치는 구체적인 이점은 무엇인가?",
+    "친환경 소재와 재활용 플라스틱을 활용한 HP 대형 플로터의 지속가능성 특징은 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "HP DesignJet T200 plotter series - HP DesignJet large-format printing",
+     "url": "https://www.hp.com/gb-en/printers/large-format/designjet-t200-plotter.html"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "HP Inc.",
+     "url": "https://en.wikipedia.org/wiki/HP%20Inc."
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Canva",
+     "url": "https://en.wikipedia.org/wiki/Canva"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "캔바 프로슈트 출시, 전문 디자인 툴의 통합과 워크플로우의 재편",
+     "url": "https://www.creativeboom.com/news/canva-launches-prosuite-bringing-affinity-cavalry-flourish-and-leonardo-together-with-more-than-new-100-features/"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "무한한 생성이 부른 결정 마비, 브랜드 리더들이 말하는 AI의 뒷모습",
+     "url": "https://www.creativeboom.com/state-of-play/decision-paralysis-lost-conviction-and-no-juniors-what-brand-creative-leaders-say-ai-is-exposing/"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "클라이언트의 모호한 피드백 이면, 디자인 가치를 지키는 대응 전략",
+     "url": "https://www.creativeboom.com/tips/7-lines-of-client-feedback-that-knock-you-sideways-and-how-to-stop-them-living-rent-free-in-your-head/"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "chars": 5019
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "wallpaper.com/architecture/casual-store-studio-mk27-brazil": {
+  "title_ko": "상파울루 미카사 캠퍼스의 캐주얼 스토어, 미니멀리즘을 연극적 무대로 치환하다",
+  "summary_ko": "브라질 상파울루 미카사 가구 캠퍼스에 들어선 캐주얼 스토어는 스튜디오 엠케이27이 설계한 3층 규모의 쇼룸이다. 직교하는 평면과 유리 외피, 내부의 차양 장치를 결합해 기능적인 전시 공간을 넘어선 하나의 공간적 오브제로 완성되었다. 중앙의 독립된 코어를 중심으로 전시와 행사에 따라 유연하게 변모하는 구조를 갖췄다.",
+  "lens": "단순한 쇼룸을 넘어, 투명한 외피와 내부의 차양막이 만드는 빛의 굴절로 관람객의 호기심을 자극하고 공간을 연극적 무대로 전환한다.",
+  "why_now": "디지털 피로도가 높은 시대에, 건축적 절제미와 빛의 물리적 변주를 통해 공간 자체가 콘텐츠가 되는 오프라인 소매점의 새로운 전략을 제시한다.",
+  "mechanism": "카르테시안 평면을 기반으로 설계된 직교 그리드와 중앙의 독립적 코어가 공간의 질서를 잡고, 외벽의 이중 스킨이 빛을 필터링하며 내부 동선에 역동성을 부여한다.",
+  "sensory": "외부에서 보면 불투명한 덩어리처럼 보이나 접근할수록 유리 틈새로 내부가 드러나는 시각적 긴장감을 준다. 내부는 흰색의 중성적 색채와 정돈된 표면이 만드는 고요하고 밀도 높은 감각을 제공한다.",
+  "transfer": "공간 내 독립적인 코어를 배치해 주변 동선을 자유롭게 만드는 레이아웃을 채택하라. 빛이 투과되는 이중 루버를 활용해 시간에 따라 내부 조도가 변하는 연극적 조명을 연출할 수 있다.",
+  "context": "스튜디오 엠케이27은 마르시오 코간이 설립한 사무소로, 2022년 완공된 미카사 캠퍼스의 볼륨 C를 비롯해 다수의 상업 공간을 설계했다. 마르시오 코간은 건축과 영화를 결합한 서사적 접근으로 유명하며, 이는 캐주얼 스토어의 시각적 흐름과 동선 설계에 반영되어 있다.",
+  "findings": [
+   {
+    "text": "마르시오 코간은 건축가이자 영화 제작자로, 초기 경력을 건축과 영화 분야로 나누어 활동했다.",
+    "s": 3,
+    "quote": "Marcio Kogan (born March 6, 1952, São Paulo) is a Brazilian architect and filmmaker best known for his work on private homes and retail design."
+   },
+   {
+    "text": "스튜디오 엠케이27의 프로젝트는 높은 수준의 디테일과 형태적 단순함, 그리고 외부와 내부의 강한 관계성을 특징으로 한다.",
+    "s": 3,
+    "quote": "Kogan's projects are characterized by their high level of detail, formal simplicity, strong relations between inside and outside"
+   }
+  ],
+  "keywords": [
+   "스튜디오엠케이27",
+   "상파울루건축",
+   "미니멀리즘",
+   "쇼룸디자인",
+   "공간시노그래피"
+  ],
+  "evidence": "The practice's well-established cinematic approach is ever-present in Casual Store. The double skin of glass and slim white shading fins creates a dynamism and a sense of movement",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "건축적 장치와 공간 연출의 상관관계를 명확히 분석했으며, 실제 콘티에 적용 가능한 구체적 기법을 도출했다.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/architecture/casual-store-studio-mk27-brazil",
+  "original_title": "Casual Store, a new retail space in São Paulo, elevates minimalism to theatrical effect",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 3516,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-09 16:42",
+  "research": {
+   "entities": [
+    "Studio mk27",
+    "Marcio Kogan",
+    "Micasa",
+    "Casual Store"
+   ],
+   "questions": [
+    "Studio mk27이 추구하는 미니멀리즘 건축의 핵심적인 특징과 그들이 말하는 '시네마틱한 접근'은 구체적으로 어떤 의미인가요?",
+    "Micasa 캠퍼스 내의 다른 건축물들과 비교했을 때, Casual Store가 가지는 공간적 차별점과 기능적 유연성은 무엇인가요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Casual Furniture",
+     "url": "https://casualmoveis.com.br/en/"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "mk27.com",
+     "url": "https://mk27.com/pb/shops/"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Marcio Kogan",
+     "url": "https://en.wikipedia.org/wiki/Marcio%20Kogan"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3
+   ],
+   "chars": 2960
+  },
+  "depth_raw": 4,
+  "depth_v": 2
  }
 }

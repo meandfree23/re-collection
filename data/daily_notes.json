@@ -3336,41 +3336,41 @@
  },
  "2026-11-09": {
   "date": "2026-11-09",
-  "headline": "덴버의 사시나무 파사드와 폰다치오네 프라다의 고대 유물",
-  "editorial": "포풀러스는 덴버의 사시나무 군락을 건물 외벽의 기하학적 단위로 옮겨와 도시의 생태적 리듬을 세운다. 폰다치오네 프라다의 글로벌 앤티쿼티는 문명 사이의 고대 무역로를 추적하며 단절된 인간의 연결망을 유물의 흔적으로 증명한다. 이들은 각기 다른 방식이지만 사물과 자연의 형상을 빌려 우리가 살아가는 환경의 근간을 재확인한다. 무언가를 짓고 잇는 일은 결국 고유한 단위들을 엮어 새로운 질서를 만드는 작업이다.",
+  "headline": "투명한 외피의 빛과 사시나무껍질의 기하학적 파사드",
+  "editorial": "상파울루 미카사 캠퍼스의 캐주얼 스토어는 투명한 외피와 내부 차양막의 빛 굴절로 공간을 연극적 무대로 전환한다. 포풀러스는 콜로라도 자생 사시나무의 질감을 기하학적 파사드 유닛으로 번역해 도시의 생태적 리듬을 구축한다. 고대 유물로 읽는 인류의 연결망인 폰다치오네 프라다의 글로벌 앤티쿼티는 단절된 문명을 잇는 인간의 물리적 흔적을 시각화한다.",
   "threads": [
    {
-    "name": "자연의 형상을 옮긴 구조",
-    "note": "식물의 형태나 생태적 패턴을 건축적 단위로 치환하여 설계에 반영한 사례들이다.",
+    "name": "빛과 질감의 건축",
+    "note": "투명한 외피와 나무의 형상을 파사드로 번역해 도시 공간에 새로운 리듬을 부여한다.",
     "items": [
+     {
+      "title": "상파울루 미카사 캠퍼스의 캐주얼 스토어, 미니멀리즘을 연극적 무대로 치환하다",
+      "url": "https://www.wallpaper.com/architecture/casual-store-studio-mk27-brazil"
+     },
      {
       "title": "포풀러스: 콜로라도 자생 사시나무의 성장을 건축적 골조로 치환하다",
       "url": "https://www.archdaily.com/1031563/populus-hotel-and-social-hub-studio-gang"
-     },
-     {
-      "title": "자카르타 교수 단지의 연립주택을 감싸는 테라코타의 결",
-      "url": "https://www.archdaily.com/1187848/nh-residence-renovation-dhanie-and-sal"
      }
     ]
    },
    {
-    "name": "단절을 잇는 공공의 결",
-    "note": "사라져가는 마을이나 지역 간의 물리적 경계를 보수하고 연결하는 건축적 시도들이다.",
+    "name": "문명과 유물의 흔적",
+    "note": "고대 유물과 복제된 명화를 통해 사물에 깃든 물리적 흔적과 위계를 재조명한다.",
     "items": [
      {
-      "title": "소멸하는 마을에 심은 공공의 거점: 푸엔테사우코 약국 리노베이션",
-      "url": "https://www.archdaily.com/1188185/fuentesauco-pharmacy-david-hernandez-arquitectura"
+      "title": "복제된 명화를 수작업으로 환원하는 엽서 크기의 회화 연작",
+      "url": "https://www.creativeboom.com/inspiration/chris-coombes-charming-postcard-paintings-play-with-the-boundaries-of-what-art-can-be/"
      },
      {
-      "title": "몰리나 데 세구라 보행교: 도시와 농경지, 강을 잇는 공공의 문턱",
-      "url": "https://www.archdaily.com/1188208/molina-de-segura-pedestrian-bridge-fvai"
+      "title": "고대 유물로 읽는 인류의 연결망: 폰다치오네 프라다의 '글로벌 앤티쿼티'",
+      "url": "https://www.designboom.com/art/how-human-history-is-remembered-in-coins-silks-and-steles-at-fondazione-pradas-global-antiquity/"
      }
     ]
    }
   ],
-  "based_on": 10,
+  "based_on": 15,
   "v": 3,
-  "model": "gemini-3.1-flash-lite-preview",
-  "written_at": "2026-11-09 12:43"
+  "model": "gemini-3.5-flash-lite",
+  "written_at": "2026-11-09 16:42"
  }
 }
