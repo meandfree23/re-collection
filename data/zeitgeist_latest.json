@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-10 03:25 KST",
+  "generated_at": "2026-11-10 04:29 KST",
   "period": "2026.11.03 - 2026.11.10",
-  "total_articles": 393,
+  "total_articles": 401,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 179
+      "count": 184
     },
     {
       "genre": "동시대 미술",
-      "count": 154
+      "count": 156
     },
     {
       "genre": "아방가르드 패션",
@@ -17,16 +17,22 @@
     },
     {
       "genre": "미디어 파사드·3D",
-      "count": 18
+      "count": 19
     }
   ],
   "themes": [
     {
       "keyword": "박물관·전시",
-      "count": 31,
+      "count": 32,
       "previous_count": 28,
       "trend": "rising",
       "items": [
+        {
+          "title": "벨라노 코튼밀 박물관",
+          "url": "https://www.archdaily.com/1188297/bellano-cotton-mill-museum",
+          "image_url": "https://images.adsttc.com/media/images/6af1/cbd4/4ba6/4700/01d0/82ab/large_jpg/1.1.jpg?1794231259",
+          "source_name": "ArchDaily"
+        },
         {
           "title": "쿠웨이트에서 앤디 워홀의 하비비 단계",
           "url": "https://hyperallergic.com/andy-warhols-habibi-phase-in-kuwait/",
@@ -44,12 +50,6 @@
           "url": "https://www.dezeen.com/2026/11/09/playfool-studio-data-server-cleaning-game-va/",
           "image_url": "https://static-2026.dezeen.com/uploads/2026/10/Square-The-Server-Studio-Playfool_dezeen_2364_col_2-1024x1024.jpg",
           "source_name": "Dezeen"
-        },
-        {
-          "title": "Chris Coombes의 매력적인 엽서 그림은 예술의 경계를 가지고 놀 수 있습니다.",
-          "url": "https://www.creativeboom.com/inspiration/chris-coombes-charming-postcard-paintings-play-with-the-boundaries-of-what-art-can-be/",
-          "image_url": "https://media.creativeboom.com/25aad5f1-28a1-4a4b-b2f1-f3323e52291f/conversions/e50c39afa181b64642d93d4eb376f75148e9e39d-medium.webp",
-          "source_name": "Creative Boom"
         }
       ]
     },
