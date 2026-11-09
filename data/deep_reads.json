@@ -287311,5 +287311,1177 @@
   },
   "depth_raw": 5,
   "depth_v": 2
+ },
+ "hyperallergic.com/clouds-were-once-photographys-greatest-challenge": {
+  "title_ko": "구름을 포획하려는 시도: 초기 사진 기술이 마주한 빛의 한계와 미학",
+  "summary_ko": "메트로폴리탄 미술관의 전시 '구름을 쫓아서(Chasing Clouds)'는 1800년대 초부터 1929년까지 사진이 구름을 기록하기 위해 거친 기술적 투쟁을 조명한다. 초기 사진 공정은 파란색 빛에 과민하게 반응하여 하늘을 하얀 공백으로 노출했으나, 구스타브 르 그레이(Gustave Le Gray)는 두 장의 사진을 합성하는 방식으로 이를 극복했다. 전시는 기술적 결함이 예술적 표현으로 치환되는 과정을 보여준다.",
+  "lens": "기술적 한계가 강제한 노출 과다를 오히려 추상적 여백으로 활용하거나, 이중 인화로 재구성하며 사진적 진실의 경계를 넓힌다.",
+  "why_now": "디지털 보정으로 모든 픽셀을 통제하는 시대에, 초기 사진술이 겪었던 물리적 한계와 그를 극복하기 위한 수동적 합성 기법은 이미지 제작의 본질을 되묻게 한다.",
+  "mechanism": "파란색 빛에 과도하게 반응하는 초기 감광판의 특성을 이중 인화(double exposure) 기법으로 보완하여, 지상과 하늘의 노출 값을 분리해 결합했다.",
+  "sensory": "하늘이 하얗게 날아간 미니멀한 풍경 사진에서 느껴지는 정적인 고요함과, 억지로 이어 붙인 사진 사이에서 감지되는 인위적인 물리적 레이어의 질감.",
+  "transfer": "광고나 영상 콘티에서 하늘을 단순히 배경으로 두지 말고, 노출 과다로 인한 하얀 공백을 시각적 장치로 활용하여 피사체의 고립감이나 추상성을 강조하라.",
+  "context": "메트로폴리탄 미술관은 1870년 설립되어 150만 점 이상의 작품을 소장한 세계적인 기관으로, 이번 전시는 사진 매체가 겪은 100년의 기술적 과도기를 추적한다. 구스타브 르 그레이는 19세기 가장 중요한 프랑스 사진가 중 한 명으로, 종이 네거티브 기술 개발에 기여하며 사진을 예술의 영역으로 끌어올렸다.",
+  "findings": [
+   {
+    "text": "구스타브 르 그레이는 19세기 프랑스 사진가 중 가장 중요한 인물로 평가받으며, 왁스 종이 네거티브 발전에 기여했다.",
+    "s": 2,
+    "quote": "He has been called \"the most important French photographer of the nineteenth century\" because of his technical innovations, his instruction of other noted photographers, and \"the extraordinary imagination he brought to p"
+   },
+   {
+    "text": "메트로폴리탄 미술관은 1870년에 설립되었으며 현재 150만 점 이상의 작품을 소장하고 있다.",
+    "s": 1,
+    "quote": "The Metropolitan Museum of Art was founded in 1870. ... it currently lists a total of 1.5 million works."
+   }
+  ],
+  "keywords": [
+   "초기사진",
+   "구스타브르그레이",
+   "노출",
+   "이미지합성",
+   "메트로폴리탄미술관"
+  ],
+  "evidence": "While the medium showed promise as “the pencil of nature,” its first processes were overly sensitive to blue light, registering the sky as a blank white space, impossibly overexposed.",
+  "kind": "전시",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "초기 사진의 기술적 한계가 예술적 발상으로 전환되는 지점을 명확히 짚어내며, 연출적 적용 가능성까지 제시한다.",
+  "v": 2,
+  "url": "https://hyperallergic.com/clouds-were-once-photographys-greatest-challenge/",
+  "original_title": "Clouds Were Once Photography’s Greatest Challenge",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 2435,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-10 08:42",
+  "research": {
+   "entities": [
+    "Metropolitan Museum of Art",
+    "Gustave Le Gray",
+    "John Beasley Greene"
+   ],
+   "questions": [
+    "초기 사진 기술에서 파란색 빛에 대한 과민 반응이 왜 하늘을 하얗게 표현하게 만들었나요?",
+    "구스타브 르 그레이가 사용한 두 장의 사진을 합성하는 기법은 당시 사진 예술에서 어떤 의미를 가졌나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Metropolitan Museum of Art",
+     "url": "https://en.wikipedia.org/wiki/Metropolitan%20Museum%20of%20Art"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Gustave Le Gray",
+     "url": "https://en.wikipedia.org/wiki/Gustave%20Le%20Gray"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "바이올리니스트의 신체를 악보 삼아 공감각을 빛으로 번역하다",
+     "url": "https://www.designboom.com/art/synesthesia-light-audrey-wright-musical-body-metropolitan-museum-geoff-robertson-stephanie-ann-boyd/"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "구름을 보는 새로운 방식: 메트로폴리탄 미술관의 200년 기록",
+     "url": "https://www.designboom.com/art/chasing-clouds-met-two-centuries-skywatching-metropolitan-museum-new-york-exhibition/"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "뉴욕 미술계의 이면, 파업과 폐쇄가 드러내는 제도적 균열",
+     "url": "https://hyperallergic.com/the-cathedral-of-joy/"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    4
+   ],
+   "chars": 2782
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "hyperallergic.com/is-sexy-art-back-or-is-it-just-me": {
+  "title_ko": "시카고 미술계에 번지는 에로틱한 긴장: 캔버스와 조각이 감각을 깨우는 방식",
+  "summary_ko": "시카고 미술계에서 최근 인간의 욕망과 에로티시즘을 직설적으로 다룬 전시들이 잇따라 포착된다. 앨리스 티핏의 회화부터 홀리 머커슨의 사진, 데이비드 스프레처와 네이바 멀헌의 가구 조각에 이르기까지, 작가들은 신체를 관찰하고 경험하는 새로운 방식을 제안한다. 반면 빌렘 드 쿠닝의 회고전은 여성을 묘사하는 방식에서 과거의 폭력적 시선을 노출하며 동시대적 감각과 대조를 이룬다.",
+  "lens": "에로티시즘을 단순히 관조하는 대상이 아닌, 관람객의 신체적 개입과 심리적 동요를 유도하는 공간적 장치로 재구성한다.",
+  "why_now": "중년의 욕망과 신체성을 탐구하는 서사가 대중문화와 미술계 전반으로 확장되며, 예술적 재현의 윤리와 감각적 솔직함에 대한 논의가 다시 점화되고 있다.",
+  "mechanism": "가구 조각을 직접 올라타거나 통로를 통과하게 하는 등 관람객의 신체를 공간의 일부로 강제 편입시켜 물리적인 거리감을 무너뜨린다.",
+  "sensory": "가죽과 나무의 거친 질감, 어두운 통로가 주는 밀폐된 공기, 그리고 드로잉의 긋는 흔적에서 느껴지는 긴장감이 시각을 넘어 촉각적 자극을 생성한다.",
+  "transfer": "공간 연출 시 관람객이 가구에 걸터앉거나 좁은 틈을 지나도록 설계하여, 신체가 공간의 굴곡을 직접 체험하게 함으로써 몰입도를 높이는 동선으로 활용한다.",
+  "context": "빌렘 드 쿠닝은 추상표현주의의 거장이자 뉴욕파의 핵심 인물로, 그의 여성 누드 연작은 신체 재현의 역사에서 끊임없이 논쟁의 중심에 있었다. 이번 전시는 그의 작업이 지닌 폭력적 시선과 최근의 감각적 전시 경향을 대비시키며 미술관의 비평적 역할을 환기한다.",
+  "findings": [
+   {
+    "text": "시카고의 디폴 미술관은 대학 내 미술관으로 약 4,000점의 소장품을 보유하고 있다.",
+    "s": 2,
+    "quote": "The DePaul Art Museum (DPAM) is a university art museum located on the campus of DePaul University in Chicago, Illinois. The permanent collection has nearly 4,000 objects"
+   },
+   {
+    "text": "빌렘 드 쿠닝은 1943년 화가 일레인 드 쿠닝과 결혼했으며, 뉴욕파의 일원으로 활동했다.",
+    "s": 3,
+    "quote": "In 1943, he married painter Elaine Fried. In the years after World War II, De Kooning painted in a style that came to be referred to as abstract expressionism"
+   }
+  ],
+  "keywords": [
+   "에로티시즘",
+   "신체성",
+   "공간 동선",
+   "재현의 윤리",
+   "시카고 미술"
+  ],
+  "evidence": "de Kooning’s subjects started to look like crime victims.",
+  "kind": "뉴스·이슈",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "전시의 에로틱한 경향을 포착했으나, 특정 작품의 기법적 상세보다는 현상적 서술에 치중되어 있다.",
+  "v": 2,
+  "url": "https://hyperallergic.com/is-sexy-art-back-or-is-it-just-me/",
+  "original_title": "Is Sexy Art Back, or Is It Just Me?",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 3093,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-10 08:42",
+  "research": {
+   "entities": [
+    "Alice Tippit",
+    "DePaul Art Museum",
+    "Shannon Stratton",
+    "Willem de Kooning",
+    "Art Institute of Chicago"
+   ],
+   "questions": [
+    "시카고 미술관의 빌렘 쿠닝 드로잉 전시는 작품 속 여성 인물을 어떻게 해석하고 있는가?",
+    "최근 현대 미술 전시에서 나타나는 에로틱한 표현 방식의 경향성은 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Shadow. — tête-à-tête-à-tête",
+     "url": "https://www.tete-a-tete-a-tete.com/shadow?ref=hyperallergic.com"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "DePaul Art Museum",
+     "url": "https://en.wikipedia.org/wiki/DePaul%20Art%20Museum"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Willem de Kooning",
+     "url": "https://en.wikipedia.org/wiki/Willem%20de%20Kooning"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "욕망과 반발의 사이를 그리는 화가 샬럿 폭스의 캔버스",
+     "url": "https://www.creativeboom.com/work/charlotte-fox-on-painting-the-space-between-desire-repulsion-connection-and-fantasy/"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "헤수스 힐라리오-레예스의 클럽과 스튜디오: 재난의 언어로 구축한 집단적 신체성",
+     "url": "https://elephant.art/jesus-hilario-reyes-on-freakability-techno-and-collective-embodiment/"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "자연의 정적을 톤온톤으로 기록하는 일러스트레이터 심지 박",
+     "url": "https://www.creativeboom.com/work/simji-park-creates-soft-dreamy-and-tonal-illustrations-inspired-by-nature/"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3
+   ],
+   "chars": 4809
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "thisiscolossal.com/2026/11/son-lux-alex-cook-out-into-us-music-video": {
+  "title_ko": "시간의 속도를 늦추고 더스트 볼의 먼지를 응시하는 법",
+  "summary_ko": "밴드 손 럭스(Son Lux)와 프로듀서 알렉스 쿡(Alex Cook)은 매사추세츠 현대미술관(MASS MoCA)과 파이오니어 웍스(Pioneer Works)의 공동 의뢰로 17분 분량의 영상 설치 작업 ‘Out Into Us (Slow Down)’를 선보였다. 이 작품은 더스트 볼(Dust Bowl) 시대의 비극적 환경과 서부 개척기의 낭만적 선전을 대조하며, 느려진 음악의 속도 속에서 관객이 물리적 시간과 감각의 틈을 경험하도록 설계되었다.",
+  "lens": "음악의 재생 속도를 의도적으로 늦춰, 소리가 점유하는 물리적 공간을 확장하고 그 틈새에 과거와 현재의 비극을 배치한다.",
+  "why_now": "디지털 환경의 짧고 맥락 없는 정보 소비에 대항해, 관객이 특정 시간과 공간에 머물며 감각을 재조정하게 만드는 느린 호흡의 서사가 절실하다.",
+  "mechanism": "재생 속도를 물리적으로 낮춰 음악적 긴장과 이완의 순간을 하나의 '방'처럼 구축하고, 그 안에 더스트 볼의 먼지 구름과 식탁에 둘러앉은 가족의 일상을 교차 편집해 비선형적 시간성을 구현한다.",
+  "sensory": "허드슨 강파(Hudson River School)의 이상향을 담은 퍼즐과 황폐한 더스트 볼의 거친 먼지 입자가 대비되며, 소리의 잔향이 머무는 깊은 공간감을 제공한다.",
+  "transfer": "콘티 작업 시 숏의 속도를 극단적으로 낮춰 특정 오브제(퍼즐, 먼지, 식기)의 질감을 강조하고, 사운드 데시벨을 낮춘 채 잔향을 길게 늘여 공간의 밀도를 높이는 연출을 제안한다.",
+  "context": "손 럭스는 영화 ‘에브리씽 에브리웨어 올 앳 원스’의 음악을 담당하며 서사적 긴장감을 소리로 구현하는 데 탁월한 역량을 보여왔다. 매사추세츠 현대미술관과 파이오니어 웍스는 폐공장이나 산업 유산을 예술적 실험 공간으로 전유하며, 기술과 사회적 관계를 잇는 장소 특정적 작업을 지속해왔다.",
+  "findings": [
+   {
+    "text": "손 럭스는 2015년 Bones 앨범부터 라픽 바티아와 이안 창이 합류하며 3인조 밴드로 재편되었다.",
+    "s": 3,
+    "quote": "With the release of their fourth studio album, Bones, in 2015, Rafiq Bhatia and Ian Chang joined Son Lux, transforming the project into a three-piece band."
+   },
+   {
+    "text": "파이오니어 웍스는 2012년 예술가 더스틴 옐린이 설립한 브루클린 레드훅 지역의 비영리 문화 예술 센터다.",
+    "s": 4,
+    "quote": "Pioneer Works is a nonprofit cultural arts center in the Red Hook neighborhood of Brooklyn, New York City. It was founded by the artist Dustin Yellin in 2012."
+   }
+  ],
+  "keywords": [
+   "손 럭스",
+   "더스트 볼",
+   "시간의 지연",
+   "매사추세츠 현대미술관",
+   "미디어 설치"
+  ],
+  "evidence": "When you decrease the playback speed of a piece of music, you can really linger in its hidden corners and shadows: passing tensions and moments of release become whole rooms you can step into and stay for a while.",
+  "kind": "영상·필름",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "음악의 시간성을 공간적 방으로 치환하는 독창적 해석과 구체적인 역사적 배경이 결합되어 연출적 적용 가능성이 높다.",
+  "v": 2,
+  "url": "https://www.thisiscolossal.com/2026/11/son-lux-alex-cook-out-into-us-music-video/",
+  "original_title": "Son Lux’s Music Video for ‘Out Into Us’ Is an Atmospheric Foray Between Past and Present",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 2985,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-10 08:42",
+  "research": {
+   "entities": [
+    "Son Lux",
+    "MASS MoCA",
+    "Pioneer Works",
+    "Alex Cook",
+    "Hudson River School"
+   ],
+   "questions": [
+    "더스트 볼(Dust Bowl)의 역사적 배경과 그것이 미국 서부 개척 시대의 낭만적 이상과 어떻게 충돌했나요?",
+    "음악의 재생 속도를 늦추는 행위가 청자에게 어떤 심리적, 공간적 경험을 제공한다는 것인가요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "MASS MoCA",
+     "url": "https://massmoca.org/"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Pioneer Works",
+     "url": "https://pioneerworks.org/"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Son Lux",
+     "url": "https://en.wikipedia.org/wiki/Son%20Lux"
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "Pioneer Works",
+     "url": "https://en.wikipedia.org/wiki/Pioneer%20Works"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "멈춘 컨베이어 벨트가 드러낸 접근성의 실체: 핀네건 섀넌의 전시",
+     "url": "https://hyperallergic.com/when-the-accessibility-conveyor-belt-jams/"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "브루클린을 떠나 버크셔 공장으로 향한 도예가 대니 카플란의 확장",
+     "url": "https://www.architecturaldigest.com/story/danny-kaplan-new-production-space-in-the-berkshires"
+    },
+    {
+     "n": 7,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "구리빛 혈액과 문어의 지능, 투오마스 라이티넨의 사이펀",
+     "url": "https://hyperallergic.com/before-ai-there-was-the-octopus/"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "chars": 4942
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "thisiscolossal.com/2026/11/kelly-sinnapah-mary-foliage-portraits": {
+  "title_ko": "식물과 신화가 뒤엉킨 카리브해의 초현실적 초상화",
+  "summary_ko": "과들루프 출신 작가 켈리 시나파 메리는 인간, 동식물이 뒤섞인 초현실적 인물화를 통해 식민주의와 디아스포라의 기억을 시각화한다. 그의 연작 속 중심 인물 산브라스는 덩굴 같은 식물 문신을 새긴 채 자연과 하나로 융합된다. 작가는 할머니의 정원과 인도계 이주 역사 같은 개인적 서사를 바탕으로 새로운 세계를 구축한다.",
+  "lens": "식물의 덩굴과 인간의 피부를 하나의 질감으로 엮어 식민주의의 기억을 재조립한다.",
+  "why_now": "유럽 중심적 자연관에 맞서 인간과 비인간의 경계를 허무는 디아스포라 미술의 실천이 미술관 무대로 확장되는 국면이다.",
+  "mechanism": "포화된 색채와 섬세한 유기적 질감을 겹쳐 인물이 배경 속 식물 생명체로부터 자라나 동시에 그 안에 잠식되도록 구성한다.",
+  "sensory": "화면을 가득 채운 푸른 식물의 밀도와 피부에 새겨진 덩굴 문신의 이물감이 시각적으로 충돌하며 낯선 생명력을 자아낸다.",
+  "transfer": "인물의 피부와 배경의 식물적 질감을 동일한 톤으로 일치시켜 공간과 피사체의 경계를 지우는 로케이션 연출에 응용한다.",
+  "context": "과들루프에서 태어난 켈리 시나파 메리는 19세기 아동 도서의 인물에서 착안한 산브라스를 반복 등장시켜 식민주의와 인류세의 폭력을 다뤄왔다. 아프리카계 카리브인이자 타밀나두 계약 노동자의 후손이라는 정체성은 그의 작업 전반에 깊은 뿌리를 내리고 있다.",
+  "findings": [
+   {
+    "text": "The central character who appears throughout the artist’s work is the schoolgirl Sanbras, an inventive subversion of the titular character in the late 19th-century children’s book The Story of Little Black Sambo.",
+    "s": 1,
+    "quote": "The central character who appears throughout the artist’s work is the schoolgirl Sanbras, an inventive subversion of the titular character in the late 19th-century children’s book The Story of Little Black Sambo."
+   },
+   {
+    "text": "As a child, the artist identified as Afro-Caribbean but later discovered that she is a descendant of indentured workers from the South Indian state Tamil Nadu, who were brought to the Caribbean following the abolition of slavery to replace enslaved labor.",
+    "s": 1,
+    "quote": "As a child, the artist identified as Afro-Caribbean but later discovered that she is a descendant of indentured workers from the South Indian state Tamil Nadu, who were brought to the Caribbean following the abolition of"
+   }
+  ],
+  "keywords": [
+   "초현실주의",
+   "디아스포라",
+   "식물성",
+   "회화",
+   "정체성"
+  ],
+  "evidence": "Tattooed with verdant foliage, the central figure in Kelly Sinnapah Mary’s portraits is both a product of and subsumed by the plant life that surrounds her.",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "작가 고유의 역사적 서사와 독창적인 식물-인간 하이브리드 형상이 구체적인 작품 세계로 구현되어 있다.",
+  "v": 2,
+  "url": "https://www.thisiscolossal.com/2026/11/kelly-sinnapah-mary-foliage-portraits/",
+  "original_title": "Caribbean Surrealism and Ancestral Memory Merge in Kelly Sinnapah Mary’s Lush Portraits",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 2967,
+  "fetch": "ok",
+  "cliche_hits": [
+   "경계를 허"
+  ],
+  "read_at": "2026-11-10 08:42",
+  "research": {
+   "entities": [
+    "Kelly Sinnapah Mary",
+    "The Aldrich Contemporary Art Museum",
+    "Guadeloupe",
+    "Tamil Nadu"
+   ],
+   "questions": [
+    "켈리 시나파 마리의 작품 속에서 '산브라스(Sanbras)'라는 인물이 상징하는 역사적, 사회적 의미는 무엇인가?",
+    "인도계 계약 노동자들의 이주 역사가 카리브해 지역의 시각 예술과 문화적 정체성에 어떻게 반영되는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Kelly Sinnapah Mary",
+     "url": "https://www.norrcohan.com/artists/kelly-sinnapah-mary"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Home | The Aldrich Contemporary Art Museum | Ridgefield, CT Art Museum",
+     "url": "https://thealdrich.org/"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "The Aldrich Contemporary Art Museum",
+     "url": "https://en.wikipedia.org/wiki/The%20Aldrich%20Contemporary%20Art%20Museum"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 5691
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "dezeen.com/2026/11/09/dezeen-awards-2026-trophy-cork-amorim-corticeira": {
+  "title_ko": "코르크의 표피로 빚어낸 디진 어워즈의 새로운 트로피",
+  "summary_ko": "포르투갈의 코르크 제조사 코르티세이 라모림이 디진 어워즈의 아이코닉한 D자형 트로피를 지속가능하게 수확한 코르크 소재로 새롭게 재단장했다. 이번 트로피는 런던 로열 오페라 하우스에서 열리는 디진 어워즈 파티에서 올해의 수상자들에게 처음 수여된다.",
+  "lens": "나무를 베지 않고 얻는 코르크의 거친 입자로 매끄러운 트로피의 형상에 시간의 무게를 입힌다.",
+  "why_now": "가공된 인공 소재에서 벗어나 재생 가능한 천연 재료의 물성을 디자인 전면에 내세우는 흐름을 보여준다.",
+  "mechanism": "코르크 오크의 외피를 탈거해 얻은 천연 원료를 가공해 다양한 입자와 색상 조합을 도출하고 기존 D자형 형태를 유지한다.",
+  "sensory": "손에 쥐었을 때 느껴지는 코르크 특유의 따뜻한 온도감과 표면의 미세한 입자 질감이 시각적 밀도를 더한다.",
+  "transfer": "공간 연출에서 친환경 자재의 물성을 살릴 때 매끈한 마감 대신 코르크 고유의 거친 그레인과 촉감을 전면에 노출하는 방식으로 활용한다.",
+  "context": "코르티세이 라모림은 150년 이상 포르투갈을 기반으로 코르크를 다뤄온 기업이며 에두아르두 소투 드 모라 등의 건축가와 협업한 바 있다.",
+  "findings": [],
+  "keywords": [
+   "코르크",
+   "디진어워즈",
+   "지속가능성",
+   "천연소재"
+  ],
+  "evidence": "Corticeira Amorim has used sustainably harvested cork to refresh the latest edition of Dezeen’s iconic D-shaped trophy.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "유명 트로피의 소재 변경이라는 명확한 사실을 다루나 응용 범위가 제한적이다.",
+  "v": 2,
+  "url": "https://www.dezeen.com/2026/11/09/dezeen-awards-2026-trophy-cork-amorim-corticeira/",
+  "original_title": "Dezeen Awards trophy updated using \"one of humanity's oldest natural materials\"",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 5371,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-10 08:42",
+  "research": {
+   "entities": [
+    "Corticeira Amorim",
+    "Atelier NL",
+    "Dezeen Awards",
+    "Royal Opera House",
+    "Eduardo Souto de Moura"
+   ],
+   "questions": [
+    "코르크 소재가 지속가능한 건축 및 디자인 자재로서 갖는 환경적 이점과 가공상의 특징은 무엇인가?",
+    "Atelier NL이 디자인한 기존 점토 트로피에서 코르크 소재로 전환하면서 디자인 공정과 형태 유지에 어떤 변화가 있었는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Corticeira Amorim, world’s biggest cork processing group",
+     "url": "https://www.amorim.com/en/"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Corticeira Amorim",
+     "url": "https://en.wikipedia.org/wiki/Corticeira%20Amorim"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Eduardo Souto de Moura",
+     "url": "https://en.wikipedia.org/wiki/Eduardo%20Souto%20de%20Moura"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "디진 어워즈 2026 마스터 심사위원단이 던진 질문",
+     "url": "https://www.dezeen.com/2026/09/24/dezeen-awards-2026-trimble-master-jury-video/"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "디진 어워드 2026 건축 부문 최종 후보 152선 공개",
+     "url": "https://www.dezeen.com/2026/09/21/dezeen-awards-2026-architecture-shortlist/"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "디진 어워즈 2026 유럽·중동·아프리카 지역 쇼케이스 50선",
+     "url": "https://www.dezeen.com/2026/09/09/emea-regional-showcases-dezeen-awards/"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 3963
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "archdaily.com/1188137/against-program-the-productive-ambiguity-of-contemporary-architecture": {
+  "title_ko": "나카긴 캡슐 타워가 남긴 질문: 고정된 프로그램에 저항하는 건축의 모호성",
+  "summary_ko": "구로카와 기쇼가 설계한 도쿄 나카긴 캡슐 타워는 140개의 조립식 캡슐을 핵심 구조에 부착해 필요에 따라 교체 가능한 건축을 실험했다. 그러나 50년 동안 실제 교체 시스템은 작동하지 않았고, 설비 노후화와 의사결정의 난항 끝에 2022년 철거되었다. 이 사례는 건축이 변화를 가정하고 설계되더라도 물리적·사회적 조건이 뒷받침되지 않으면 박제된 이상에 머물 수 있음을 보여준다.",
+  "lens": "변화를 전제한 건축이 시스템의 경직성으로 인해 오히려 박제되는 역설을 나카긴 캡슐 타워의 철거 과정을 통해 관찰한다.",
+  "why_now": "건축의 가변성과 지속 가능성이 화두인 시대에, 기술적 이상과 실제 운영의 간극을 직시하는 것은 공간 설계의 현실적 토대를 다지는 일이다.",
+  "mechanism": "핵심 구조와 독립된 모듈을 분리하는 방식은 유연성을 지향하지만, 유지보수를 위한 사회적 합의와 설비 관리 시스템이 부재할 경우 건축은 스스로 갱신되지 못한다.",
+  "sensory": "50년간 도심 속에서 산화된 금속 캡슐의 질감과, 끝내 교체되지 못한 채 굳어버린 모듈들의 물리적 무게가 철거라는 종착역에서 드러난다.",
+  "transfer": "공간 콘티 구성 시, 가변형 모듈을 도입할 때 운영 주체의 의사결정 구조와 설비 접근성을 고려한 시나리오를 반드시 포함해야 한다.",
+  "context": "나카긴 캡슐 타워는 일본 메타볼리즘 운동의 상징적 건축물로, 세계 최초의 캡슐 건축 사례였다. 철거 이후에도 23개의 유닛이 보존되어 재사용되는 등 건축의 생애주기에 대한 담론을 지속적으로 생성하고 있다.",
+  "findings": [
+   {
+    "text": "나카긴 캡슐 타워는 일본 메타볼리즘 운동을 대표하는 건축물로, 1970년부터 1972년까지 건설되었다.",
+    "s": 1,
+    "quote": "The Nakagin Capsule Tower Building was a mixed-use residential and office tower in the upscale Ginza district of Tokyo, Japan, designed by the architect Kisho Kurokawa. Completed in two years (1970–1972), the building wa"
+   },
+   {
+    "text": "나카긴 캡슐 타워 철거 당시 23개의 유닛은 보존을 위해 따로 분리되어 다른 곳으로 옮겨졌다.",
+    "s": 1,
+    "quote": "The building was demolished in 2022, although 23 component units were earmarked for preservation and later repurposed elsewhere."
+   }
+  ],
+  "keywords": [
+   "메타볼리즘",
+   "건축 가변성",
+   "나카긴캡슐타워",
+   "구로카와기쇼"
+  ],
+  "evidence": "individual capsules could be replaced as needs evolved, allowing the building to renew itself without dismantling its principal structure.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "건축적 실험의 실패와 그 맥락을 명확히 짚었으나, 새로운 대안적 방법론에 대한 구체적 제언은 부족하다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1188137/against-program-the-productive-ambiguity-of-contemporary-architecture",
+  "original_title": "Against Program: The Productive Ambiguity of Contemporary Architecture",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 1199,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-10 08:42",
+  "research": {
+   "entities": [
+    "Nakagin Capsule Tower",
+    "Kisho Kurokawa"
+   ],
+   "questions": [
+    "나카긴 캡슐 타워의 교체 시스템이 실제로는 구현되지 못했던 구조적, 사회적 이유는 무엇인가?",
+    "현대 건축에서 '프로그램(Program)'에 반대한다는 것은 구체적으로 어떤 건축적 태도를 의미하는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Nakagin Capsule Tower",
+     "url": "https://en.wikipedia.org/wiki/Nakagin%20Capsule%20Tower"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Kisho Kurokawa",
+     "url": "https://en.wikipedia.org/wiki/Kisho%20Kurokawa"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "수공예 세라믹과 가공 금속의 결합, 뉴욕 디자인 위크가 주목한 협업 조명",
+     "url": "https://www.sightunseen.com/2026/05/the-best-of-new-york-design-week-from-nightlights-to-fish-tables/"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 1107
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "archdaily.com/1188225/zin-51n4e-plus-iauc-plus-jaspers-eyers-architects": {
+  "title_ko": "브뤼셀 WTC 타워의 골조 전유와 볼륨 결합: ZIN 프로젝트",
+  "summary_ko": "벨기에 브뤼셀 북부 지구에 위치한 WTC I 및 II 타워를 재사용하는 ZIN 프로젝트는 기존 건물을 단순 복원하는 대신 14개층 높이의 새로운 중간 볼륨을 두 타워 사이에 연결하여 주거, 호텔, 업무, 여가 공간이 결합된 하이브리드 건축물을 완성한다.",
+  "lens": "오래된 업무용 타워의 골조를 철거하지 않고 두 동 사이에 거대한 볼륨을 신설해 수직 도시를 구축한다.",
+  "why_now": "대규모 철거와 신축 대신 기존 구조물의 뼈대를 전유하여 탄소 발자국을 줄이고 도시의 밀도를 재편하는 방식이 시급하기 때문이다.",
+  "mechanism": "1970년대 지어진 두 개의 기존 타워 사이에 14개층의 이중 높이(double-height) 볼륨을 가로로 삽입하여 거대한 허브를 형성하고 내부 공간의 기능을 다층적으로 엮는다.",
+  "sensory": "금속과 유리로 이루어진 기존 마감 사이에 대규모 녹지와 다층 구조의 개방된 볼륨이 개입하며 내부 공간 전체에 거대한 스케일의 입체적인 빛과 시선이 교차한다.",
+  "transfer": "공간 디자인 시 두 개의 독립된 볼륨 사이에 이중 높이의 브릿지나 중층 매스를 끼워 넣는 방식으로 전혀 다른 성격의 영역들을 물리적으로 결합하는 콘티에 적용한다.",
+  "context": "벨기에 브뤼셀 북부 지구의 중심부에 위치한 기존 WTC 타워 복합단지의 맥락을 이어받아 51N4E, 아이유시(I'AUC), 야스퍼스-에이어스 아키텍츠(Jaspers-Eyers Architects)가 공동으로 설계했다.",
+  "findings": [
+   {
+    "text": "WTC 타워는 벨기에 브뤼셀 북부 지구 비즈니스 중심지의 로이 알베르 2세 국왕 대로와 시몬 볼리바르 대로 교차점에 위치한 마천루 단지이다.",
+    "s": 2,
+    "quote": "The World Trade Center (WTC) is a complex of skyscrapers at the corner of the Boulevard du Roi Albert II/Koning Albert II-laan and the Boulevard Simon Bolivar/Simon Bolivarlaan in the Northern Quarter central business di"
+   }
+  ],
+  "keywords": [
+   "구조체 재사용",
+   "하이브리드 건축",
+   "브뤼셀",
+   "볼륨 결합"
+  ],
+  "evidence": "The innovative project 'ZIN in No(o)rd' aims to reuse the emblematic WTC I and II towers located in the heart of the Northern Quarter in Brussels.",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "기존 타워의 구조적 전유와 볼륨 결합 방식이 명확하며 다수의 협업 스튜디오와 구체적 면적이 확인된다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1188225/zin-51n4e-plus-iauc-plus-jaspers-eyers-architects",
+  "original_title": "ZIN  / 51N4E + I'AUC + Jaspers-Eyers Architects",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 1614,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-10 08:42",
+  "research": {
+   "entities": [
+    "51N4E",
+    "I'AUC",
+    "Jaspers-Eyers Architects",
+    "Befimmo",
+    "WTC I and II"
+   ],
+   "questions": [
+    "기존의 WTC 타워를 철거하지 않고 새로운 볼륨을 연결하여 하이브리드 건물로 재탄생시킨 건축적 의도는 무엇인가?",
+    "브뤼셀 북부 지구(Northern Quarter)의 도시 재생 맥락에서 ZIN 프로젝트가 가지는 상징성과 기능적 변화는 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Befimmo",
+     "url": "https://en.wikipedia.org/wiki/Befimmo"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "World Trade Center (Brussels)",
+     "url": "https://en.wikipedia.org/wiki/World%20Trade%20Center%20%28Brussels%29"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 1084
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "archdaily.com/1188272/ica-miami-appoints-gensler-to-design-second-museum-building-in-miami-design-district": {
+  "title_ko": "ICA 마이애미, 겐슬러와 함께 그리는 2027년의 새로운 캠퍼스 확장",
+  "summary_ko": "마이애미 현대미술관(ICA Miami)이 겐슬러(Gensler)를 설계자로 선정해 인근 건물의 리노베이션 및 확장을 진행한다. 2027년 말 개관 예정인 이 프로젝트는 기존 시설의 두 배 규모인 3만 평방피트를 확보하며, 미디어 아트 전용 갤러리와 교육 공간, 외부 커뮤니티 거점을 포함하는 다중 사이트 캠퍼스로 탈바꿈한다.",
+  "lens": "투명한 파사드와 조경된 안뜰을 통해 박물관의 문턱을 낮추고, 도시의 공공 영역과 미술관의 내부 동선을 물리적으로 결합한다.",
+  "why_now": "미술관이 단순히 작품을 보관하는 장소를 넘어, 지역 사회의 일상적 활동과 공공 프로그래밍을 수용하는 커뮤니티 인프라로 진화하고 있다.",
+  "mechanism": "기존 건물의 입구와 외관을 재설계하여 건물 안팎의 시각적 연결성을 높이고, 3층의 가변적 공간을 통해 강연과 공연 등 다양한 공공 활동을 유연하게 담아낸다.",
+  "sensory": "그늘진 안뜰과 조각적인 조경이 어우러진 외부 공간은 도시의 열기를 식히는 정적인 휴식처를 제공하며, 내부 갤러리는 미디어 아트와 영구 소장품의 물성이 대조를 이룬다.",
+  "transfer": "상업적 공간의 입구를 투명한 시퀀스로 재구성하여 내부의 활동이 외부로 자연스럽게 확장되도록 유도하고, 가변형 홀을 통해 전시와 퍼포먼스가 공존하는 동선을 구축한다.",
+  "context": "겐슬러는 텐진 비즈니스 센터의 공유 영역이나 뉴욕의 비거래적 쇼룸 설계 등을 통해 상업과 공공의 경계를 지우는 공간 전략을 꾸준히 선보여 왔다. 이번 프로젝트는 ICA 마이애미가 2017년 현재 위치에 정착한 이후 100여 회의 전시를 거치며 축적한 공공적 성격을 확장하는 과정이다.",
+  "findings": [
+   {
+    "text": "겐슬러는 2022년 기준 17억 8,500만 달러의 수익을 기록한 세계 최대 규모의 건축 사무소이다.",
+    "s": 2,
+    "quote": "In 2022, Gensler generated $1.785 billion in revenue, the most of any architecture firm in the U.S."
+   },
+   {
+    "text": "마이애미 현대미술관은 마이애미 디자인 지구에 위치한 현대 미술 전문 기관이다.",
+    "s": 1,
+    "quote": "Institute of Contemporary Art, Miami, also known as ICA Miami, is a contemporary art museum located in the Miami Design District in Miami, Florida, United States."
+   }
+  ],
+  "keywords": [
+   "ICA마이애미",
+   "겐슬러",
+   "공공건축",
+   "확장리노베이션",
+   "마이애미디자인지구"
+  ],
+  "evidence": "The design reimagines the building's entrance and facade through a more transparent arrival sequence, aiming to establish a closer relationship between the museum and the surrounding public realm.",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "미술관의 공공적 확장 전략과 겐슬러의 공간 해석을 명확히 연결하여 실무적 적용 가능성이 높다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1188272/ica-miami-appoints-gensler-to-design-second-museum-building-in-miami-design-district",
+  "original_title": "ICA Miami Appoints Gensler to Design Second Museum Building in Miami Design District",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 3565,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-10 08:42",
+  "research": {
+   "entities": [
+    "Institute of Contemporary Art, Miami",
+    "Gensler",
+    "Knight Foundation",
+    "Miami Design District"
+   ],
+   "questions": [
+    "ICA Miami의 두 번째 건물 확장 프로젝트가 지역 사회와 문화예술계에 미칠 영향은 무엇인가?",
+    "건축 사무소 겐슬러(Gensler)는 이번 마이애미 현대미술관(ICA Miami) 리노베이션에서 어떤 디자인 철학을 반영했는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Institute of Contemporary Art (Miami)",
+     "url": "https://en.wikipedia.org/wiki/Institute%20of%20Contemporary%20Art%20%28Miami%29"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Gensler",
+     "url": "https://en.wikipedia.org/wiki/Gensler"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "후쿠오카의 새로운 관문, 오마(OMA)가 설계한 텐진 비즈니스 센터 II",
+     "url": "https://www.archdaily.com/1184460/tenjin-business-center-ii-oma"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "바레인 베이의 풍경을 곡선으로 재해석한 프라이빗 레지던스",
+     "url": "https://design-milk.com/bahrain-bay-apartment/"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "거래를 지우고 경험을 채우다, 태이핑과 에드워드 필즈의 뉴욕 쇼룸",
+     "url": "https://www.wallpaper.com/design-interiors/interior-design/gensler-tai-ping-edward-fields-new-york-showroom"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "chars": 1405
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "archdaily.com/1188025/studio-for-two": {
+  "title_ko": "스톡홀름 언덕 위의 공유 작업실, 장인 정신을 담는 두 개의 레이어",
+  "summary_ko": "스톡홀름 외곽 언덕에 자리한 이 스튜디오는 목공과 바구니 세공을 즐기는 커플을 위한 공유 공간이다. 크루핀스키/크루핀스카 아르키텍터(Krupinski/Krupinska Arkitekter)는 지형의 경사를 활용해 두 사람의 서로 다른 공예 활동이 조화를 이루도록 설계했다. 2025년 완공되었으며 빅토르 요한손(Victor Johansson)이 사진으로 기록했다.",
+  "lens": "지형의 경사를 따라 배치된 매스가 작업의 성격에 맞춰 내부의 물리적 거리를 조절하는 방식이 탁월하다.",
+  "why_now": "디지털 작업이 주류인 시대에, 서로 다른 수공예적 물성을 한 공간 안에서 어떻게 분절하고 통합할 것인가에 대한 건축적 해답을 제시한다.",
+  "mechanism": "언덕의 지형을 따라 층고를 변주하거나 벽면의 구획을 통해 목공과 바구니 세공이라는 두 가지 상이한 작업 동선이 서로 방해받지 않도록 공간을 조직했다.",
+  "sensory": "스칸디나비아의 자연광이 깊게 들어오는 대형 창과 목재가 주는 온기, 그리고 수공예 도구들이 벽면에 정렬될 때 발생하는 정갈한 질감이 공간의 중심을 이룬다.",
+  "transfer": "두 인물의 작업이 겹치는 씬에서, 카메라를 고정하고 인물의 움직임에 따라 프레임 속 가구의 레이어를 활용해 공간의 깊이감을 다르게 연출할 수 있다.",
+  "context": "본 프로젝트는 스톡홀름을 기반으로 활동하는 크루핀스키/크루핀스카 아르키텍터의 최신작이다. 사진가 빅토르 요한손은 과거 디넬요한손과 협업하여 스톡홀름의 일상적 도시 가판대를 기록하는 등 지역의 장소성과 건축적 맥락을 포착하는 데 주력해 왔다.",
+  "findings": [],
+  "keywords": [
+   "스튜디오",
+   "수공예",
+   "지형건축",
+   "스톡홀름"
+  ],
+  "evidence": "The studio, beautifully situated on a hill outside Stockholm, is designed as a shared space for a couple with an interest in craftsmanship",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "스튜디오의 기능적 목적과 지형적 위치는 명확하나, 상세한 도면이나 재료의 물성 변화를 구체적으로 확인할 수 있는 정보가 부족하다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1188025/studio-for-two",
+  "original_title": "Studio for two / Krupinski/Krupinska Arkitekter",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 972,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-10 08:42",
+  "research": {
+   "entities": [
+    "Krupinski/Krupinska Arkitekter",
+    "Victor Johansson",
+    "Konrad Krupinski",
+    "Katarina Krupinska"
+   ],
+   "questions": [
+    "Krupinski/Krupinska Arkitekter는 어떤 건축 철학을 가진 스튜디오인가요?",
+    "스웨덴 스톡홀름 교외에 위치한 이 'Studio for two' 프로젝트의 건축적 특징은 무엇인가요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "스톡홀름 프리드헴스플란의 과일 가판대, 일상의 리듬을 담는 최소한의 건축",
+     "url": "https://www.archdaily.com/1184972/fruit-stand-in-fridhemsplan-dinelljohansson"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 252
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "architecturaldigest.com/story/jessica-craig-martin-upstate-victorian-home": {
+  "title_ko": "빅토리아 시대의 골조 위로 얹힌 기묘한 취향의 레이어",
+  "summary_ko": "사진작가 제시카 크레이그-마틴(Jessica Craig-Martin)은 허드슨의 1875년형 빅토리아 주택을 매입했다. 그는 기존의 고전적 구조를 유지하며, 빈티지 붉은색 주방 가구와 수집한 예술품, 기이한 오브제들을 배치해 공간을 재구성했다. 이 주택은 화려한 건축적 유산과 개인의 파격적인 취향이 공존하는 은신처가 되었다.",
+  "lens": "기존 건축의 엄격한 고전미와 거주자의 비정형적인 취향이 충돌하며 발생하는 긴장감이 공간의 서사를 만든다.",
+  "why_now": "디지털로 가공된 가짜 공간에 대한 피로감이 커지는 시기에, 역사적 골조가 가진 물리적 무게와 거주자의 실질적인 물성이 결합한 주거 형태가 주목받는다.",
+  "mechanism": "1875년 완공된 빅토리아 주택의 높은 층고와 창문을 통해 들어오는 자연광을 활용해 공간의 비움을 강조하고, 그 위에 시대와 장르를 넘나드는 오브제를 배치하여 시각적 밀도를 조절한다.",
+  "sensory": "오래된 목재 바닥의 질감과 겨울 햇살이 만드는 긴 그림자, 그리고 붉은 포마이카(Formica) 상판의 매끄러운 인공적 광택이 섞여 묘한 대비를 이룬다.",
+  "transfer": "공간 연출 시, 역사적 양식의 정교한 계단이나 창문 프레임을 배경으로 두고, 그 앞에 장난감 같은 원색의 오브제를 배치해 시대를 비트는 샷을 구성하라.",
+  "context": "제시카 크레이그-마틴은 상류 사회의 이면을 포착하는 사진작가로 활동해왔다. 그와 동행한 헬렌 마든(Helen Marden)은 휘트니 미술관 등에 작품이 소장된 예술가로, 허드슨 지역의 예술적 생태계를 형성하는 주요 인물이다.",
+  "findings": [
+   {
+    "text": "제시카 크레이그-마틴은 상류 사회의 행사와 독점적인 사교계를 촬영하는 것으로 알려진 사진작가이다.",
+    "s": 2,
+    "quote": "Jessica Craig-Martin (born 1963) is an American writer and photographer known for her images of high-society events, parties, charity galas, and exclusive social scenes."
+   },
+   {
+    "text": "헬렌 마든은 휘트니 미술관과 프린스턴 대학교 미술관에 작품이 소장된 예술가이다.",
+    "s": 3,
+    "quote": "Her work is included in the collections of the Whitney Museum of American Art and the Princeton University Art Museum."
+   }
+  ],
+  "keywords": [
+   "빅토리아주택",
+   "공간재구성",
+   "물성",
+   "허드슨밸리",
+   "오브제"
+  ],
+  "evidence": "the house absorbed my proclivity for both the ridiculous and the sublime with grace",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "역사적 건축물의 보존과 거주자의 개인적 취향이 결합하는 과정을 구체적인 재료와 공간적 장치로 잘 설명하고 있다.",
+  "v": 2,
+  "url": "https://www.architecturaldigest.com/story/jessica-craig-martin-upstate-victorian-home",
+  "original_title": "How a Society Photographer Fell in Love With an Unexpected Upstate Victorian Home",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 4583,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-10 08:42",
+  "research": {
+   "entities": [
+    "Jessica Craig-Martin",
+    "Helen Marden",
+    "Hotel Tivoli",
+    "Steuben Glass Works",
+    "Drexel Heritage"
+   ],
+   "questions": [
+    "저자 Jessica Craig-Martin은 허드슨의 빅토리아 주택을 어떻게 리노베이션했나요?",
+    "기사에 등장하는 인물 Helen Marden과 허드슨 지역의 예술적 배경은 무엇인가요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "I Regret I Am Able to Attend",
+     "url": "https://cna.st/affiliate-link/ewuwowNsRThNkKxNZRUgW4pCyWgaNmpZfbYs6eoVoSmfjTPJV5JmoamyHb7zt4xhfgQidB3KBxjmmBDdLmUQ2pwx6LFJhS3iTMJghACBK99NnGfhamuRN1Ncrh2CmqUgTU7G81BtouDRFrpEpfoVYrsfsNT52ET1P9bYGuaydyZAkYzK2hsvLzWFiXhcV5GSKGNESj4PUnARBs5pHxbqpX62pLMToFfQ3DsLzoXTnszbBSZdTmgKn8zgemRZW67MDUNa8AsrCHHfKvED7EcnbF1umdxXMQF3sDEbShhz7MKEjf1Z3UY22iyMXZfgjLUEgk8TTCy7szwoPpNmKsBw3rdbR45nKh4neq1Th4Vr2ygbBP44NgskCLzp4H9KTK26aB61D2jBCXtA6B6j3WtvHG7arqfsoYPgWN3tmjuHmofJuzj3VjDVZrjWubZC7FTnU"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Jessica Craig-Martin",
+     "url": "https://en.wikipedia.org/wiki/Jessica%20Craig-Martin"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Helen Marden",
+     "url": "https://en.wikipedia.org/wiki/Helen%20Marden"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3
+   ],
+   "chars": 3124
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "hyperallergic.com/the-zen-mona-lisa": {
+  "title_ko": "무기 파창의 '여섯 개의 감', 정지된 시간 속의 고요한 침묵",
+  "summary_ko": "뉴욕의 미술 비평가 조나가 샌프란시스코 아시아 미술관에서 송나라 시대 무기 파창의 수묵화 '여섯 개의 감(Six Persimmons)'을 마주하는 여정을 다룬다. 작가는 일상의 분주함과 비평가로서의 직업적 피로를 뒤로하고, 13세기부터 일본 다이토쿠지 주코인에 보존된 이 작품의 정적인 미학을 탐색한다. 이는 단순한 전시 관람을 넘어 예술과 삶의 본질을 반추하는 성찰적 기록이다.",
+  "lens": "텅 빈 배경 위에 놓인 여섯 개의 감이 빚어내는 불균형의 조화는, 복잡한 현대 사회의 시각적 과잉을 뚫고 나오는 정적인 힘을 증명한다.",
+  "why_now": "디지털 매체에 의한 정보의 과잉과 피로가 극에 달한 시점에, 붓질의 굵기와 농담만으로 존재감을 드러내는 수묵의 절제미는 새로운 시각적 해독제가 된다.",
+  "mechanism": "배경을 완전히 지우고 먹의 농담과 붓의 속도감만으로 감의 부피와 질감을 구현하여, 대상이 허공에 부유하는 듯한 시각적 효과를 만든다.",
+  "sensory": "종이 위에 스며든 먹의 깊은 검은색과 감의 형태를 빚어낸 거친 붓질의 질감이 정지된 시간의 무게감을 선사한다.",
+  "transfer": "공간의 여백을 물리적 진공 상태로 활용하여, 단 하나의 오브제에 조명을 집중시키고 주변을 어둠으로 침잠시키는 연출을 제안한다.",
+  "context": "무기 파창은 송나라 시대 선불교의 이상을 수묵으로 구현한 화가로, 그의 작품은 13세기부터 일본 다이토쿠지 주코인에 소장되어 왔다. 본문은 윌 하인리히의 소설 '어둠에서 어둠으로(From Darkness to Darkness)'의 발췌본으로, 작가는 실제 일본에서 어린 시절을 보낸 경험을 바탕으로 예술과 일상의 간극을 서술한다.",
+  "findings": [
+   {
+    "text": "무기 파창의 '여섯 개의 감'은 13세기 송나라 시대에 제작된 수묵화로, 현재 일본 교토 다이토쿠지의 주코인에 소장되어 있다.",
+    "s": 2,
+    "quote": "Six Persimmons (Chinese: 六柿圖; pinyin: liùshì tú) is a 13th-century Chinese painting by the monk Muqi Fachang. It was painted during the Song dynasty. It is currently in the collection of the Juko'in subtemple of Daitoku-"
+   },
+   {
+    "text": "이 작품은 붓질의 굵기와 농담을 조절하여 감의 부피감을 표현하며, 이는 선불교의 이상을 투영하는 것으로 평가받는다.",
+    "s": 2,
+    "quote": "The thick and thin brushstrokes that model the lightest of the persimmons make it seem to float in contrast to the darker one next to it. The painting is often cited as an expression of Chan Buddhist ideals."
+   }
+  ],
+  "keywords": [
+   "수묵화",
+   "무기 파창",
+   "여백의 미",
+   "선불교",
+   "미술 비평"
+  ],
+  "evidence": "passion... congealed into a stupendous calm.",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "고전 회화의 미학적 장치를 현대적 비평가의 시선으로 해석하여 시각 연출의 구체적 방법론을 제시한다.",
+  "v": 2,
+  "url": "https://hyperallergic.com/the-zen-mona-lisa/",
+  "original_title": "The Zen Mona Lisa",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 9000,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-10 08:42",
+  "research": {
+   "entities": [
+    "Six Persimmons",
+    "Asian Art Museum",
+    "Will Heinrich",
+    "Thousand Horsemen Press"
+   ],
+   "questions": [
+    "무카이 치한(Muqi Fachang)의 '여섯 개의 감(Six Persimmons)'이 미술사적으로 갖는 의미는 무엇인가요?",
+    "작가가 언급한 '선(Zen)의 모나리자'라는 표현은 이 작품의 어떤 미학적 특징을 비유하는 것인가요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "FROM DARKNESS TO DARKNESS - Thousand Horsemen Press",
+     "url": "https://thousandhorsemenpress.com/books/from-darkness-to-darkness/?ref=hyperallergic.com"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Six Persimmons",
+     "url": "https://en.wikipedia.org/wiki/Six%20Persimmons"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Asian Art Museum (San Francisco)",
+     "url": "https://en.wikipedia.org/wiki/Asian%20Art%20Museum%20%28San%20Francisco%29"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3
+   ],
+   "chars": 3054
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "wallpaper.com/architecture/residential/mesoamerican-modern": {
+  "title_ko": "메소아메리카 모던: 고대 지형과 빛의 문법을 현대 주거에 이식하는 법",
+  "summary_ko": "멕시코 건축가들이 고대 메소아메리카의 피라미드 구조, 기하학적 형태, 빛과 그림자의 조절 원리를 현대 주택 설계로 재해석하고 있다. 수 우(Su Wu)의 저서 '메소아메리카 모던'은 공공 건축의 전유물이었던 고대 모티브가 개인의 사적인 주거 공간으로 이동하며 발생하는 새로운 디자인 언어를 조명한다. 이는 과거를 박제하지 않고 거주자의 일상과 결합해 생동하는 공간으로 구현하려는 시도다.",
+  "lens": "고대 메소아메리카의 지형 순응적 배치와 빛의 조절 기법을 현대적 주거의 사적 동선으로 치환해, 거주자가 시간의 깊이를 체감하게 한다.",
+  "why_now": "국가 중심의 기념비적 건축에서 벗어나, 고대의 원리를 개인의 삶과 취향에 맞게 변주하는 '사적인 르네상스'가 현재 멕시코 주거 건축의 핵심 흐름이다.",
+  "mechanism": "산세와 자연 요소를 고려한 주택의 방향 설정, 하늘을 향해 열린 옥상 활용, 그리고 모더니즘 구조 위에 수공예적 모티프를 얹는 역방향 혼합주의로 공간의 층위를 쌓는다.",
+  "sensory": "거친 석재의 질감과 빛이 벽면을 타고 흐르는 음영의 대비, 산악 지형의 경사를 따라 배치된 창을 통해 들어오는 자연의 스케일이 공간을 압도한다.",
+  "transfer": "콘티 작업 시, 벽면의 기하학적 부조와 그림자가 시간에 따라 이동하는 롱테이크 샷을 활용해 공간의 역사성을 시각화하고, 비정형 석재와 현대적 콘크리트의 물성 대비를 강조하라.",
+  "context": "본 프로젝트는 파이돈(Phaidon)이 엮어온 건축 기록의 연장선에 있다. 멕시코의 아나우아칼리 박물관(Museo Anahuacalli)이 과거 유산을 보존하며 현대 예술과 결합하는 방식과 궤를 같이하며, 주거 공간을 건축가의 실험실로 치환하는 파이돈의 이전 기획들과 맥락을 공유한다.",
+  "findings": [
+   {
+    "text": "파이돈은 1923년 비엔나에서 설립된 이래 예술, 건축, 디자인 분야에서 1,500종 이상의 타이틀을 출간한 글로벌 출판사다.",
+    "s": 4,
+    "quote": "Since the publisher's founding in Vienna in 1923, Phaidon has sold almost 50 million books worldwide."
+   }
+  ],
+  "keywords": [
+   "메소아메리카",
+   "지형순응",
+   "주거건축",
+   "멕시코건축",
+   "파이돈"
+  ],
+  "evidence": "A new generation of architects is shaping a distinctive design language that reveres and reinterprets the forms, motifs, geometries and siting principles first employed by the Mesoamerican cultures",
+  "kind": "프로젝트",
+  "depth": 5,
+  "grounding": "full",
+  "depth_reason": "고대 건축 원리를 현대 주거의 구체적 설계 장치로 변환하는 논리가 명확하며, 건축적 기법과 철학적 배경이 충분히 제시되어 실무 적용 가능성이 높다.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/architecture/residential/mesoamerican-modern",
+  "original_title": "What is 'Mesoamerican Modern?' Get to know the emerging Latin American design movement where ancient meets new",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 6051,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-10 08:42",
+  "research": {
+   "entities": [
+    "Su Wu",
+    "Fernanda Canales",
+    "Juan O’Gorman",
+    "Museo Anahuacalli",
+    "Phaidon"
+   ],
+   "questions": [
+    "메소아메리카 건축의 형태와 기하학적 원리가 현대 멕시코 주거 건축에 어떻게 구체적으로 적용되고 있는가?",
+    "과거 국가 주도의 대규모 문화 시설에서 나타났던 메소아메리카 모티브가 최근 개인 주택으로 확장된 배경과 의미는 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Mesoamerican Modern: Ancient Ideas in Contemporary Mexican Homes | Standard Edition | 9781",
+     "url": "https://www.phaidon.com/en-us/products/mesoamerican-modern-ancient-ideas-in-contemporary-mexican-homes"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Museo Anahuacalli",
+     "url": "https://museoanahuacalli.org.mx/"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Juan O'Gorman",
+     "url": "https://en.wikipedia.org/wiki/Juan%20O%27Gorman"
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "Phaidon Press",
+     "url": "https://en.wikipedia.org/wiki/Phaidon%20Press"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "곰팡이의 시각적 계보: 파이돈이 엮은 균류의 미학적 탐구",
+     "url": "https://www.thisiscolossal.com/2026/09/spanning-200-works-a-new-book-celebrates-the-world-of-fungi/"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "일본 주택의 35가지 단면: 파이돈이 기록한 동시대 주거 건축의 풍경",
+     "url": "https://www.wallpaper.com/architecture/residential/living-in-a-japanese-house-book"
+    },
+    {
+     "n": 7,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "건축가의 사적 공간: 1950년부터 오늘까지, 200채의 주택이 증명하는 주거의 진화",
+     "url": "https://www.wallpaper.com/architecture/architects-houses-phaidon-book"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "chars": 6780
+  },
+  "depth_raw": 5,
+  "depth_v": 2
+ },
+ "architecturaldigest.com/story/best-faux-garland": {
+  "title_ko": "시간을 박제한 인조 갈란드 7선: 플라스틱의 오명을 벗는 조형적 물성",
+  "summary_ko": "아키텍처럴 다이제스트가 떨어진 낙엽과 청소의 번거로움 없이 연말 공간을 채울 수 있는 인조 갈란드 7가지를 선정했다. 철제 와이어 골조와 특수 가공된 조화 잎을 활용해 자연물의 비정형성을 구현한 제품들을 조명한다.",
+  "lens": "살아있는 낙엽의 청소를 포기하는 대신 철제 와이어와 인공 잎으로 자연의 불규칙한 볼륨을 모방한다.",
+  "why_now": "반복되는 연말 장식에서 관리의 실용성과 촉각적 완성도를 동시에 만족시키는 소재 선택이 중요하다.",
+  "mechanism": "내장된 와이어 프레임과 불규칙한 간격의 잎 배열을 통해 사용자가 원하는 곡선과 볼륨을 고정한다.",
+  "sensory": "떨어지는 솔잎의 촉감 대신 벨벳 리본과 무광 플록 가공된 구슬이 주는 묵직한 질감을 전달한다.",
+  "transfer": "공간 세팅 시 생화의 부패 걱정 없이 계단 난간이나 문지방을 두르는 연출 콘티에 와이어 프레임 소품으로 활용한다.",
+  "context": "크레이트 앤 배럴(Crate & Barrel)은 일리노이주 노스브룩에 본사를 둔 글로벌 가구 및 홈 데코 리테일 브랜드다.",
+  "findings": [
+   {
+    "text": "크레이트 앤 배럴은 미국과 캐나다 전역의 100개가 넘는 매장에서 8200명의 직원을 고용하고 있다.",
+    "s": 1,
+    "quote": "They employ 8200 employees across over 100 stores in the United States and Canada"
+   }
+  ],
+  "keywords": [
+   "인조갈란드",
+   "와이어프레임",
+   "공간스타일링",
+   "시즌데코"
+  ],
+  "evidence": "constructed with Balsam Hill’s proprietary True Needle foliage, the Fraser’s natural texture and full volume",
+  "kind": "제품·오브제",
+  "depth": 2,
+  "grounding": "full",
+  "depth_reason": "단순 제품 추천 리스트 기사로서 디자인적 혁신보다는 인테리어 소품 쇼핑 정보를 다루어 점수가 낮다.",
+  "v": 2,
+  "url": "https://www.architecturaldigest.com/story/best-faux-garland",
+  "original_title": "7 Best Faux Garlands for Long-Lasting Holiday Cheer (2026)",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 5149,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-10 08:42",
+  "research": {
+   "entities": [
+    "Afloral",
+    "Crate & Barrel",
+    "Abigail Ahern",
+    "Balsam Hill",
+    "McGee & Co."
+   ],
+   "questions": [
+    "인조 갈란드(Faux Garland)를 선택할 때 내구성과 자연스러움을 결정짓는 주요 소재와 기술적 특징은 무엇인가?",
+    "실내외 장식용 인조 갈란드를 관리하고 보관하여 매년 재사용할 수 있게 만드는 최적의 방법은 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Crate & Barrel",
+     "url": "https://en.wikipedia.org/wiki/Crate%20%26%20Barrel"
+    },
+    {
+     "n": 2,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "비너스 윌리엄스와 크레이트 앤 배럴이 빚어낸 그랜드 슬램 컬렉션",
+     "url": "https://design-milk.com/venus-williams-crate-barrel-grand-slam-collection/"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "내부를 드러내는 투명 미학, 전자 기기의 복고적 귀환",
+     "url": "https://design-milk.com/transparent-tech-gadgets-retro-design/"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "유령의 집을 우아하게 재해석하는 시크한 할로윈 공간 연출법",
+     "url": "https://www.architecturaldigest.com/gallery/tasteful-halloween-decoration-ideas"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 1165
+  },
+  "depth_raw": 2,
+  "depth_v": 2
+ },
+ "wallpaper.com/design-interiors/casa-mouda-lagos": {
+  "title_ko": "라고스의 지형과 물성을 담은 디자인 커뮤니티, 카사 무다",
+  "summary_ko": "칼린 샤구리 무다베르가 라고스에 설립한 카사 무다는 현대 아프리카 디자인을 전시하고 생산하는 복합 공간이다. 역사적 랜드마크인 에코 호텔의 아이메 갤러리와 에코 아틀란틱 마리나의 커뮤니티 허브인 아이메 콘셉트로 구성되며, 현지 제조 인프라와 결합해 아프리카 디자이너들의 제작 환경을 지원한다.",
+  "lens": "해안가 모래로 벽면을 덮고 현지 제조 공장을 디자인 실험실로 전유하여, 라고스의 지형과 산업적 한계를 공간의 언어로 치환한다.",
+  "why_now": "디자인의 가치를 전시장에 박제하지 않고, 현지 생산 시스템과 결합해 실질적인 창작 생태계를 구축하려는 시도가 주목받는다.",
+  "mechanism": "벽면을 모래로 마감하여 해안 도시의 지리적 맥락을 드러내고, 커피숍과 같은 일상적 동선을 배치해 디자인 관람의 문턱을 낮춘다.",
+  "sensory": "벽면의 거친 모래 질감과 사운드 아티스트 몰로이 제임스가 설계한 도시의 소음이 섞인 사운드스케이프가 라고스의 물리적 환경을 공간 내부로 끌어들인다.",
+  "transfer": "공간 연출 시 벽면에 지역적 토양이나 산업 폐기물을 직접 도포하여 장소성을 확보하고, 가구 전시를 단품 나열이 아닌 실제 주거 장면(tableau)으로 연출해 관객의 몰입을 유도한다.",
+  "context": "설립자 칼린 샤구리 무다베르는 2013년 라고스에서 현대 미술 갤러리 아트 21을 설립한 이력을 바탕으로, 이번 공간을 통해 디자인 생산과 커뮤니티 강화라는 새로운 과제를 수행한다.",
+  "findings": [],
+  "keywords": [
+   "라고스",
+   "아프리카디자인",
+   "지형순응",
+   "물성",
+   "커뮤니티"
+  ],
+  "evidence": "The walls are covered in sand, a nod to the coastal location, and a soundscape created in collaboration with sound artist and composer Malloy James",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "지역적 맥락을 공간 마감과 사운드로 번역한 구체적인 장치가 돋보이며, 예술과 상업의 경계를 실용적으로 조율한 사례다.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/design-interiors/casa-mouda-lagos",
+  "original_title": "Casa Mouda is the new Lagos space amplifying contemporary African design",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 5537,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-10 08:42",
+  "research": {
+   "entities": [
+    "Caline Chagoury-Moudaber",
+    "Nifemi Marcus-Bello",
+    "Papa Omotayo",
+    "Jean Servais Somian"
+   ],
+   "questions": [
+    "카사 무다(Casa Mouda)가라고스 지역의 현대 아프리카 디자인 생태계에 기여하는 구체적인 역할은 무엇인가?",
+    "아이메 갤러리(AiMe Gallery)와 아이메 콘셉트(AiMe Concept)는 공간 구성과 커뮤니티 형성에 있어 어떤 차별점을 지니는가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 4,
+  "depth_v": 2
  }
 }
