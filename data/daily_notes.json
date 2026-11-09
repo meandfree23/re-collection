@@ -3380,5 +3380,60 @@
   "v": 3,
   "model": "gemini-3.1-flash-lite-preview",
   "written_at": "2026-11-09 20:07"
+ },
+ "2026-11-10": {
+  "date": "2026-11-10",
+  "headline": "녹슨 철제 볼륨과 백색 석재 파빌리온의 단단한 결합",
+  "editorial": "엘그린 앤 드라그셋의 타원형 사무실은 권력의 장식을 걷어내고 철제 볼륨만 남겨 공간의 무게를 증명한다. 에바 아키텍츠는 오래된 농가 헛간에 백색 석재 파빌리온을 덧대어 시간의 레이어를 명료하게 대비시킨다. 두 작업은 불필요한 수식어를 지우고 원초적인 구조의 물성만을 남겨 건축과 장소의 관계를 새롭게 정의한다.",
+  "threads": [
+   {
+    "name": "구조의 뼈대와 레이어",
+    "note": "기존의 물리적 구조를 해체하거나 새로운 재료를 덧대어 시간과 공간의 층위를 시각화한다.",
+    "items": [
+     {
+      "title": "로돌프 파랑트가 재해석한 로마, 1970년대 쾌락주의와 고전의 층위",
+      "url": "https://www.yatzer.com/experimental-roma-rodolphe-parente"
+     },
+     {
+      "title": "기억의 수직적 확장, 루티엔스의 석조 기념비 위에 세운 유리 프리즘",
+      "url": "https://www.dezeen.com/2026/11/09/freetown-memorial-sierra-leone-carrier-corps-tosin-oshinowo/"
+     },
+     {
+      "title": "권력의 방을 해체하는 코텐 스틸, 엘그린 앤 드라그셋의 타원형 사무실",
+      "url": "https://www.wallpaper.com/art/exhibitions-shows/elmgreen-dragset-transition-new-york"
+     },
+     {
+      "title": "콘월의 오래된 농가 헛간, 백색 석재 기둥과 노출 목재로 되찾은 간결함",
+      "url": "https://www.dezeen.com/2026/11/09/ebba-architects-dutch-barn/"
+     }
+    ]
+   },
+   {
+    "name": "장소의 전유와 서사",
+    "note": "폐쇄적인 장소나 역사적 기억을 작가적 상상력으로 재구성하여 새로운 의미를 부여한다.",
+    "items": [
+     {
+      "title": "라에드 야신의 워홀: 1977년 쿠웨이트 방문을 재구성한 팝의 허구",
+      "url": "https://hyperallergic.com/andy-warhols-habibi-phase-in-kuwait/"
+     },
+     {
+      "title": "파리의 밤, 클럽의 문법을 뒤섞는 레퍼런스 페스티벌의 공간 전유",
+      "url": "https://elephant.art/mumi-haiati-never-left-the-club-he-just-changed-the-guest-list/"
+     },
+     {
+      "title": "세세 필립스: 잊힌 구석에서 길어 올린 내면의 우주",
+      "url": "https://elephant.art/in-the-corner-a-universe-cece-philips-at-public-gallery/"
+     },
+     {
+      "title": "휘트니 비엔날레의 차기 큐레이터 선정과 미술관을 둘러싼 공간의 정치학",
+      "url": "https://hyperallergic.com/the-people-against-the-arch/"
+     }
+    ]
+   }
+  ],
+  "based_on": 24,
+  "v": 3,
+  "model": "gemini-3.5-flash-lite",
+  "written_at": "2026-11-10 03:26"
  }
 }

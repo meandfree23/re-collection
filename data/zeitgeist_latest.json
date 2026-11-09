@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-09 20:06 KST",
-  "period": "2026.11.02 - 2026.11.09",
-  "total_articles": 434,
+  "generated_at": "2026-11-10 03:25 KST",
+  "period": "2026.11.03 - 2026.11.10",
+  "total_articles": 393,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 200
+      "count": 179
     },
     {
       "genre": "동시대 미술",
-      "count": 169
+      "count": 154
     },
     {
       "genre": "아방가르드 패션",
@@ -17,16 +17,28 @@
     },
     {
       "genre": "미디어 파사드·3D",
-      "count": 23
+      "count": 18
     }
   ],
   "themes": [
     {
       "keyword": "박물관·전시",
-      "count": 36,
+      "count": 31,
       "previous_count": 28,
       "trend": "rising",
       "items": [
+        {
+          "title": "쿠웨이트에서 앤디 워홀의 하비비 단계",
+          "url": "https://hyperallergic.com/andy-warhols-habibi-phase-in-kuwait/",
+          "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/11/warhol_kuwait.jpg",
+          "source_name": "Hyperallergic"
+        },
+        {
+          "title": "구석에서, 우주: 공공 갤러리의 Cece Philips",
+          "url": "https://elephant.art/in-the-corner-a-universe-cece-philips-at-public-gallery/",
+          "image_url": "https://elephant.art/wp-content/uploads/2026/11/Cece-Philips-To-Catch-a-Fish-2026_Detail-1-scaled.jpg",
+          "source_name": "Elephant"
+        },
         {
           "title": "Playfool Studio spotlights hidden digital labour in data centre cleaning game at the V&A",
           "url": "https://www.dezeen.com/2026/11/09/playfool-studio-data-server-cleaning-game-va/",
@@ -38,25 +50,13 @@
           "url": "https://www.creativeboom.com/inspiration/chris-coombes-charming-postcard-paintings-play-with-the-boundaries-of-what-art-can-be/",
           "image_url": "https://media.creativeboom.com/25aad5f1-28a1-4a4b-b2f1-f3323e52291f/conversions/e50c39afa181b64642d93d4eb376f75148e9e39d-medium.webp",
           "source_name": "Creative Boom"
-        },
-        {
-          "title": "신디 셔먼 (Cindy Sherman) 과 프랭크 볼링 (Frank Bowling) 의 레시피가 담긴 세계에서 가장 흥미로운 요리책 속으로",
-          "url": "https://www.wallpaper.com/art/inside-the-art-worlds-most-intriguing-new-cookbook-featuring-recipes-by-cindy-sherman-and-frank-bowling",
-          "image_url": "https://cdn.mos.cms.futurecdn.net/s86RdFyqtsHf3WVL3ySXzm-1920-80.png",
-          "source_name": "Wallpaper*"
-        },
-        {
-          "title": "작은 책의 시각적 즐거움을 보여주는 로스앤젤레스의 새로운 전시회",
-          "url": "https://www.wallpaper.com/design-interiors/veronica-ditting-small-print-exhibition-los-angeles",
-          "image_url": "https://cdn.mos.cms.futurecdn.net/cfSiHyKqW8htwgdzVCBW8T-1920-80.jpg",
-          "source_name": "Wallpaper*"
         }
       ]
     },
     {
       "keyword": "빛과 조명",
       "count": 11,
-      "previous_count": 8,
+      "previous_count": 7,
       "trend": "rising",
       "items": [
         {
@@ -88,9 +88,15 @@
     {
       "keyword": "팝업·플래그십",
       "count": 5,
-      "previous_count": 1,
+      "previous_count": 2,
       "trend": "rising",
       "items": [
+        {
+          "title": "해러즈에서 열리는 디올의 마법 같은 축제 팝업은 애니메이션 단편 ‘크리스찬 디올의 색색의 밤‘ 에서 영감을 받았습니다.",
+          "url": "https://www.wallpaper.com/fashion-beauty/dior-harrods-pop-up-sylvain-chomet-christian-diors-night-in-colour",
+          "image_url": "https://cdn.mos.cms.futurecdn.net/PpkKbXeqyZUmoxrHccn4Ma-1920-80.jpg",
+          "source_name": "Wallpaper*"
+        },
         {
           "title": "뮐레 플래그십 스토어",
           "url": "https://leibal.com/interiors/muhle-flagship-store/",
@@ -108,44 +114,6 @@
           "url": "https://www.dazeddigital.com/life-culture/article/71303/1/when-did-waiting-in-line-become-the-activity-tiktok-reels-trend-queues?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=when-did-waiting-in-line-become-the-activity",
           "image_url": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/8/1458875.png",
           "source_name": "Dazed"
-        },
-        {
-          "title": "런던의 새로운 팰리스 플래그십은 스케이트 문화를 즐길 수 있는 대성당입니다.",
-          "url": "https://www.wallpaper.com/design-interiors/the-new-palace-flagship-in-london-is-a-cathedral-to-skate-culture",
-          "image_url": "https://cdn.mos.cms.futurecdn.net/uzVBd5jKwrn2DPrWTustCZ-1920-80.jpg",
-          "source_name": "Wallpaper*"
-        }
-      ]
-    },
-    {
-      "keyword": "해변·리조트 건축",
-      "count": 5,
-      "previous_count": 3,
-      "trend": "rising",
-      "items": [
-        {
-          "title": "비치 하우스/세바스찬 호네르",
-          "url": "https://www.archdaily.com/1187683/beach-house",
-          "image_url": "https://images.adsttc.com/media/images/6ae1/fddc/3271/8400/01d0/f633/large_jpg/6259861-89.jpg?1793195516",
-          "source_name": "ArchDaily"
-        },
-        {
-          "title": "프랑스 대서양 연안의 이 세 부분으로 이루어진 숙소는 독립된 마을에 가깝습니다.",
-          "url": "https://www.wallpaper.com/architecture/residential/atlantic-coast-house-bal-architectes-france",
-          "image_url": "https://cdn.mos.cms.futurecdn.net/JFhVGfaZd5DcUgjr3NDqsB-1920-80.jpg",
-          "source_name": "Wallpaper*"
-        },
-        {
-          "title": "리비아 프랜치니: 떠오르는 파도, 더 어두운 비밀",
-          "url": "https://www.anothermag.com/design-living/17528/a-novel-of-rising-tides-and-darker-secrets?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=livia-franchini-rising-tides-darker-secrets",
-          "image_url": "https://images-prod.anothermag.com/716/azure/another-prod/470/9/479157.png",
-          "source_name": "AnOther Magazine"
-        },
-        {
-          "title": "호텔 아마레스/셀라스 아르키텍투라",
-          "url": "https://www.archdaily.com/1187993/amares-cel-ras-arquitectura",
-          "image_url": "https://images.adsttc.com/media/images/6ae9/a52d/bcbc/3500/01ae/b0d1/large_jpg/JPG_HD_Amares_color-0062.jpg?1793697101",
-          "source_name": "ArchDaily"
         }
       ]
     },
@@ -182,41 +150,74 @@
       ]
     },
     {
-      "keyword": "가구 디자인",
-      "count": 14,
-      "previous_count": 13,
+      "keyword": "리노베이션·재생",
+      "count": 6,
+      "previous_count": 6,
       "trend": "steady",
       "items": [
         {
-          "title": "상파울루의 새로운 소매 공간인 캐주얼 스토어는 미니멀리즘을 연극적인 효과로 끌어올립니다.",
-          "url": "https://www.wallpaper.com/architecture/casual-store-studio-mk27-brazil",
-          "image_url": "https://cdn.mos.cms.futurecdn.net/ZNGqY2syMuAccg8nQTKZfh-1920-80.jpg",
-          "source_name": "Wallpaper*"
+          "title": "NH 레지던스 리노베이션/Dhanie & Sal",
+          "url": "https://www.archdaily.com/1187848/nh-residence-renovation-dhanie-and-sal",
+          "image_url": "https://images.adsttc.com/media/images/6ae4/8bd7/bfbd/4c00/01ee/58c0/large_jpg/12.jpg?1793362920",
+          "source_name": "ArchDaily"
         },
         {
-          "title": "캐비닛 제작자의 가을 전시회에는 러그로 감싼 의자와 거대한 양초 홀더가 있습니다.",
-          "url": "https://www.dezeen.com/2026/11/06/cabinetmakers-autumn-exhibition-2026-danish-furniture/",
-          "image_url": "https://static-2026.dezeen.com/uploads/2026/11/cabinetmakers-autumn-exhibition_dezeen_2364_col_1a-1024x1024.jpg",
+          "title": "푸엔테사우코 약국/데이비드 에르난데스 아르키텍투라",
+          "url": "https://www.archdaily.com/1188185/fuentesauco-pharmacy-david-hernandez-arquitectura",
+          "image_url": "https://images.adsttc.com/media/images/6ae2/f733/3271/8400/01d0/fa5c/large_jpg/01_Exterior_01_David_Hernandez_Sergio_Murillo.jpg?1793259355",
+          "source_name": "ArchDaily"
+        },
+        {
+          "title": "Bilbao/BABELstudio Ensanche의 아파트 리노베이션",
+          "url": "https://www.archdaily.com/1188205/apartment-renovation-in-the-ensanche-of-bilbao-babelstudio",
+          "image_url": "https://images.adsttc.com/media/images/6ad0/d744/b2c4/c300/0178/f8e4/large_jpg/ENSANCHE_002.jpg?1792071512",
+          "source_name": "ArchDaily"
+        },
+        {
+          "title": "다빌로드",
+          "url": "https://leibal.com/interiors/darville-road/",
+          "image_url": "https://leibal.com/wp-content/uploads/2026/10/leibal-darville-road-max-radford-9.jpg",
+          "source_name": "Leibal"
+        }
+      ]
+    },
+    {
+      "keyword": "콘크리트 물성",
+      "count": 6,
+      "previous_count": 6,
+      "trend": "steady",
+      "items": [
+        {
+          "title": "콘크리트로 예술적으로 만든 8개의 갤러리",
+          "url": "https://www.dezeen.com/2026/11/07/concrete-art-galleries-roundup/",
+          "image_url": "https://static-2026.dezeen.com/uploads/2011/03/dzn_Casa-das-Historias-Paula-Rego-by-Eduardo-Souto-de-Moura-1.jpg",
           "source_name": "Dezeen"
         },
         {
-          "title": "하나의 조인트로 다도 가구를 고정하는 것 외에는 아무 것도 없습니다.",
-          "url": "https://www.dezeen.com/2026/11/06/dado-furniture-allen-kaufmann/",
-          "image_url": "https://static-2026.dezeen.com/uploads/2026/11/hero-dado-allen-kaufmann-architekten_dezeen_2364_col_0-1024x1024.jpg",
+          "title": "키가 큰 알베르토 칼레하 (Alberto Calleja) 가 멕시코 해안의 나무가 우거진 곳으로 콘크리트 카사 노바 (Casa Nova) 를 둘러싸",
+          "url": "https://www.dezeen.com/2026/11/07/taller-alberto-calleja-casa-nova/",
+          "image_url": "https://static-2026.dezeen.com/uploads/2026/11/taller-alberto-calleja-casa-nova-concrete-home-mexico-sq_dezeen_2364_col_0-1024x1024.jpg",
           "source_name": "Dezeen"
         },
         {
-          "title": "Dezeen Showroom의 15개 신제품 중 Marset의 깨지기 쉬운 조명 컬렉션",
-          "url": "https://www.dezeen.com/2026/11/05/fragile-lighting-marset-furniture-tiles-products-dezeen-showroom/",
-          "image_url": "https://static-2026.dezeen.com/uploads/2026/11/fragile-lighting-collection-marset-showroom_dezeen_2364_col_0-1024x1024.jpg",
+          "title": "콘크리트 주택/비에르나9 + 시랄 아르키텍토스",
+          "url": "https://www.archdaily.com/1188203/concrete-house-vierna9-plus-ciral-arquitectos",
+          "image_url": "https://images.adsttc.com/media/images/6a9e/da4a/de72/0d00/014c/cf88/large_jpg/Casa_de_Hormig_n__7_.jpg?1788795559",
+          "source_name": "ArchDaily"
+        },
+        {
+          "title": "\"직접적이고 정제되지 않은\" 재료는 & Daughters의 제주 레스토랑에서 촉각적인 인테리어를 만듭니다.",
+          "url": "https://www.dezeen.com/2026/11/04/jeju-restaurant-daughters/",
+          "image_url": "https://static-2026.dezeen.com/uploads/2026/11/jeju-restaurant-daughters-vancouver_dezeen_2364_col_sq2-1024x1024.jpg",
           "source_name": "Dezeen"
         }
       ]
     }
   ],
   "notable_names": [
+    "Andy Warhol",
+    "Calvin Klein",
     "Motion North",
-    "Kengo Kuma",
     "Yemail Arquitectura",
     "Martine Rose",
     "Dezeen Showroom"
