@@ -3435,5 +3435,60 @@
   "v": 3,
   "model": "gemini-3.5-flash-lite",
   "written_at": "2026-11-10 03:26"
+ },
+ "2026-11-11": {
+  "date": "2026-11-11",
+  "headline": "가파른 암반에 걸린 목조 안뜰과 덧대어진 유리 기둥의 수직적 시간",
+  "editorial": "건축은 땅의 물리적 한계를 거스르지 않고 그 위에 조용히 내려앉는다. 라 케롤라와 어슬랜드 & 스키 하우스는 거친 지형을 파헤치는 대신 지질학적 층위와 암반에 건축물을 매달아 지형을 보존한다. 이처럼 기존 구조 위에 덧대어지는 시에라리온 캐리어 군단 기념관과 다라트 알 푸눈의 시도는 과거의 흔적을 지우지 않고 현재의 빛과 예술을 겹쳐내는 방식으로 도시의 시간을 확장한다. 각기 다른 장소에서 발견되는 이 결합은 인위적인 개입을 최소화하며 장소와 건축 사이의 관계를 다시 쓴다.",
+  "threads": [
+   {
+    "name": "지형에 순응하는 건축의 물리적 태도",
+    "note": "거친 지형을 훼손하지 않고 암반과 산등성이에 건축을 안착시키는 방식을 다룬다.",
+    "items": [
+     {
+      "title": "아이슬란드 비올푸르 산등성이에 놓인 거대한 은반지, '비올푸르의 고리'",
+      "url": "https://www.dezeen.com/2026/11/10/ring-bjolfur-arkibygg-architects-esja/"
+     },
+     {
+      "title": "지질학적 층위를 빚은 산악 주거, 라 케롤라의 화재와 그 이후",
+      "url": "https://www.dezeen.com/2026/11/10/la-querola-andorra-jean-nouvel-ribas-ribas-arquitectos-fire/"
+     },
+     {
+      "title": "스타방에르의 암반 위에 띄운 목조 안뜰 주택, 어슬랜드 & 스키 하우스",
+      "url": "https://leibal.com/interiors/ersland-skeie-house/"
+     },
+     {
+      "title": "지형의 연장으로 구축된 목재 지붕, 하오탕 마을의 목수 스튜디오",
+      "url": "https://www.dezeen.com/2026/11/10/primary-architects-carpenters-home-china/"
+     }
+    ]
+   },
+   {
+    "name": "기존 구조 위에 겹쳐진 새로운 층위",
+    "note": "역사적 유적이나 기존 건물 위에 현대적 요소와 기억을 덧대어 시간의 간극을 잇는 시도다.",
+    "items": [
+     {
+      "title": "요르단 암만, 고고학적 지층 위로 확장된 예술의 집 다라트 알 푸눈",
+      "url": "https://www.archdaily.com/1187920/art-architecture-archaeology-a-refuge-for-artists-at-ammans-darat-al-funun"
+     },
+     {
+      "title": "에드윈 루티엔스의 기념비 위로 솟은 유리 기둥, 시에라리온 캐리어 군단 기념관",
+      "url": "https://www.archdaily.com/1188348/oshinowo-studio-completes-sierra-leone-carrier-corps-memorial-in-freetown"
+     },
+     {
+      "title": "이란 자브 아키텍츠의 접붙이기, 주택에서 뻗어 나온 옹브레 건축 사지",
+      "url": "https://www.dezeen.com/2026/11/10/golmorad-extension-zav-architects/"
+     },
+     {
+      "title": "뉴욕 차이나타운의 낡은 학교, 그림쇼의 손길로 다시 잇는 커뮤니티의 시간",
+      "url": "https://www.archdaily.com/1188391/grimshaw-begins-rebuilding-former-school-turned-community-center-in-chinatown-new-york-city"
+     }
+    ]
+   }
+  ],
+  "based_on": 24,
+  "v": 3,
+  "model": "gemini-3.1-flash-lite",
+  "written_at": "2026-11-11 01:14"
  }
 }

@@ -1,32 +1,38 @@
 {
-  "generated_at": "2026-11-10 20:16 KST",
-  "period": "2026.11.03 - 2026.11.10",
-  "total_articles": 434,
+  "generated_at": "2026-11-11 01:10 KST",
+  "period": "2026.11.04 - 2026.11.11",
+  "total_articles": 399,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 199
+      "count": 185
     },
     {
       "genre": "동시대 미술",
-      "count": 172
+      "count": 149
     },
     {
       "genre": "아방가르드 패션",
-      "count": 43
+      "count": 46
     },
     {
       "genre": "미디어 파사드·3D",
-      "count": 20
+      "count": 19
     }
   ],
   "themes": [
     {
       "keyword": "박물관·전시",
-      "count": 35,
-      "previous_count": 28,
+      "count": 33,
+      "previous_count": 27,
       "trend": "rising",
       "items": [
+        {
+          "title": "이 예사롭지 않은 조각품은 소비자의 욕망에 대한 가장 어두운 충동을 드러냅니다.",
+          "url": "https://www.dazeddigital.com/art-photography/article/71324/1/lorenza-longhi-art-basel-paris-2026-exhibition-protests-luxury?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=this-unassuming-sculpture-lays-bare-the-darkest-impulses-of-consumer-desire",
+          "image_url": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/9/1459035.jpg",
+          "source_name": "Dazed"
+        },
         {
           "title": "미래의 추억의 풍경을 위해 갤러리에 새싹이 돋아난 흙과 흙이 쏟아져 나옵니다.",
           "url": "https://www.designboom.com/art/sprouted-earth-soil-gallery-landscape-future-memories-installation-buro-zemla/",
@@ -44,20 +50,78 @@
           "url": "https://www.archdaily.com/1188272/ica-miami-appoints-gensler-to-design-second-museum-building-in-miami-design-district",
           "image_url": "https://images.adsttc.com/media/images/6af1/98bf/e43f/5e01/8839/8938/large_jpg/ica-miami-appoints-gensler-to-design-second-museum-building-in-miami-design-district_2.jpg?1794218187",
           "source_name": "ArchDaily"
+        }
+      ]
+    },
+    {
+      "keyword": "설치 미술",
+      "count": 6,
+      "previous_count": 1,
+      "trend": "rising",
+      "items": [
+        {
+          "title": "cERN의 예술은 우주의 메커니즘을 창의적인 설치로 번역합니다",
+          "url": "https://www.designboom.com/art/arts-at-cern-translate-the-mechanics-of-the-universe-into-creative-installations/",
+          "image_url": "https://www.designboom.com/wp-content/uploads/2026/11/arts-at-cern-designboom-16.jpg",
+          "source_name": "Designboom Art"
         },
         {
-          "title": "벨라노 코튼밀 박물관",
-          "url": "https://www.archdaily.com/1188297/bellano-cotton-mill-museum",
-          "image_url": "https://images.adsttc.com/media/images/6af1/cbd4/4ba6/4700/01d0/82ab/large_jpg/1.1.jpg?1794231259",
+          "title": "미래의 추억의 풍경을 위해 갤러리에 새싹이 돋아난 흙과 흙이 쏟아져 나옵니다.",
+          "url": "https://www.designboom.com/art/sprouted-earth-soil-gallery-landscape-future-memories-installation-buro-zemla/",
+          "image_url": "https://www.designboom.com/wp-content/dbsub/464485/2026-11-05/landscape-of-future-memories-2-6aecb8f82bb68.jpg",
+          "source_name": "Designboom Art"
+        },
+        {
+          "title": "Playfool Studio spotlights hidden digital labour in data centre cleaning game at the V&A",
+          "url": "https://www.dezeen.com/2026/11/09/playfool-studio-data-server-cleaning-game-va/",
+          "image_url": "https://static-2026.dezeen.com/uploads/2026/10/Square-The-Server-Studio-Playfool_dezeen_2364_col_2-1024x1024.jpg",
+          "source_name": "Dezeen"
+        },
+        {
+          "title": "2026년 암만 디자인 위크 (Amman Design Week)/건축을 위한 라이스 마타르웨 스튜디오 (Laith Matarweh Studio) 에 알 마스타바 설치",
+          "url": "https://www.archdaily.com/1187739/al-mastaba-installation-at-amman-design-week-2026-laith-matarweh-studio-for-architecture",
+          "image_url": "https://images.adsttc.com/media/images/6ae3/1f5d/3271/8400/01d0/fb25/large_jpg/11_Al-Mastaba_Installation_Mohanad_Jihad.jpg?1793269936",
+          "source_name": "ArchDaily"
+        }
+      ]
+    },
+    {
+      "keyword": "리노베이션·재생",
+      "count": 6,
+      "previous_count": 4,
+      "trend": "rising",
+      "items": [
+        {
+          "title": "누데라람블라",
+          "url": "https://minimalissimo.com/articles/nou-de-la-rambla",
+          "image_url": "https://minimalissimo.com/api/media/file/nou-de-la-rambla-featured-v20261110-1200x630.jpg",
+          "source_name": "Minimalissimo"
+        },
+        {
+          "title": "NH 레지던스 리노베이션/Dhanie & Sal",
+          "url": "https://www.archdaily.com/1187848/nh-residence-renovation-dhanie-and-sal",
+          "image_url": "https://images.adsttc.com/media/images/6ae4/8bd7/bfbd/4c00/01ee/58c0/large_jpg/12.jpg?1793362920",
+          "source_name": "ArchDaily"
+        },
+        {
+          "title": "푸엔테사우코 약국/데이비드 에르난데스 아르키텍투라",
+          "url": "https://www.archdaily.com/1188185/fuentesauco-pharmacy-david-hernandez-arquitectura",
+          "image_url": "https://images.adsttc.com/media/images/6ae2/f733/3271/8400/01d0/fa5c/large_jpg/01_Exterior_01_David_Hernandez_Sergio_Murillo.jpg?1793259355",
+          "source_name": "ArchDaily"
+        },
+        {
+          "title": "Bilbao/BABELstudio Ensanche의 아파트 리노베이션",
+          "url": "https://www.archdaily.com/1188205/apartment-renovation-in-the-ensanche-of-bilbao-babelstudio",
+          "image_url": "https://images.adsttc.com/media/images/6ad0/d744/b2c4/c300/0178/f8e4/large_jpg/ENSANCHE_002.jpg?1792071512",
           "source_name": "ArchDaily"
         }
       ]
     },
     {
       "keyword": "빛과 조명",
-      "count": 11,
+      "count": 8,
       "previous_count": 7,
-      "trend": "rising",
+      "trend": "steady",
       "items": [
         {
           "title": "새로워진 프리타운 기념관은 빛의 광경이자 '희망의 메시지‘ 입니다.",
@@ -86,138 +150,75 @@
       ]
     },
     {
-      "keyword": "팝업·플래그십",
+      "keyword": "목재 건축",
       "count": 5,
-      "previous_count": 2,
-      "trend": "rising",
+      "previous_count": 4,
+      "trend": "steady",
       "items": [
         {
-          "title": "해러즈에서 열리는 디올의 마법 같은 축제 팝업은 애니메이션 단편 ‘크리스찬 디올의 색색의 밤‘ 에서 영감을 받았습니다.",
-          "url": "https://www.wallpaper.com/fashion-beauty/dior-harrods-pop-up-sylvain-chomet-christian-diors-night-in-colour",
-          "image_url": "https://cdn.mos.cms.futurecdn.net/PpkKbXeqyZUmoxrHccn4Ma-1920-80.jpg",
+          "title": "Primary Architects는 기복이 심한 목재 지붕으로 중국 시골의 목수 스튜디오를 장식합니다.",
+          "url": "https://www.dezeen.com/2026/11/10/primary-architects-carpenters-home-china/",
+          "image_url": "https://static-2026.dezeen.com/uploads/2026/11/primary-architects-carpenters-home-timber-roof-china_dezeen_1704_col_3-1151x1536-1-1024x1024.jpg",
+          "source_name": "Dezeen"
+        },
+        {
+          "title": "목재로 도시 전체를 건설하는 방법은 무엇입니까? 오스카르 노렐리우스 (Oskar Norelius) 는 목재 건축을 위한 사례",
+          "url": "https://www.wallpaper.com/architecture/wood-city-stockholm-oskar-norelius-white-arkitekter-interview",
+          "image_url": "https://cdn.mos.cms.futurecdn.net/gNjTzZPPQ8hXhZGDTAE2W4-1920-80.jpg",
           "source_name": "Wallpaper*"
         },
         {
-          "title": "뮐레 플래그십 스토어",
-          "url": "https://leibal.com/interiors/muhle-flagship-store/",
-          "image_url": "https://leibal.com/wp-content/uploads/2026/11/leibal-muhle-flagship-store-atelier-st-9.jpg",
-          "source_name": "Leibal"
-        },
-        {
-          "title": "메종 마르지엘라, 이쑤시개로 그린 만화로 도쿄 플래그십 기념일 축하",
-          "url": "https://www.designboom.com/art/toothpick-drawn-manga-celebrates-maison-martin-margiela-tokyo-flagship-anniversary-takehito-moriizumi-ebisu/",
-          "image_url": "https://www.designboom.com/wp-content/uploads/2026/11/toothpick-drawn-manga-celebrates-maison-martin-margiela-tokyo-flagship-anniversary-takehito-moriizumi-ebisu-designboom-07.jpg",
-          "source_name": "Designboom Art"
-        },
-        {
-          "title": "줄을 서서 기다리는 것이 언제부터 활동이 되었나요?",
-          "url": "https://www.dazeddigital.com/life-culture/article/71303/1/when-did-waiting-in-line-become-the-activity-tiktok-reels-trend-queues?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=when-did-waiting-in-line-become-the-activity",
-          "image_url": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/8/1458875.png",
-          "source_name": "Dazed"
-        }
-      ]
-    },
-    {
-      "keyword": "설치 미술",
-      "count": 6,
-      "previous_count": 0,
-      "trend": "new",
-      "items": [
-        {
-          "title": "미래의 추억의 풍경을 위해 갤러리에 새싹이 돋아난 흙과 흙이 쏟아져 나옵니다.",
-          "url": "https://www.designboom.com/art/sprouted-earth-soil-gallery-landscape-future-memories-installation-buro-zemla/",
-          "image_url": "https://www.designboom.com/wp-content/dbsub/464485/2026-11-05/landscape-of-future-memories-2-6aecb8f82bb68.jpg",
-          "source_name": "Designboom Art"
-        },
-        {
-          "title": "Playfool Studio spotlights hidden digital labour in data centre cleaning game at the V&A",
-          "url": "https://www.dezeen.com/2026/11/09/playfool-studio-data-server-cleaning-game-va/",
-          "image_url": "https://static-2026.dezeen.com/uploads/2026/10/Square-The-Server-Studio-Playfool_dezeen_2364_col_2-1024x1024.jpg",
-          "source_name": "Dezeen"
-        },
-        {
-          "title": "2026년 암만 디자인 위크 (Amman Design Week)/건축을 위한 라이스 마타르웨 스튜디오 (Laith Matarweh Studio) 에 알 마스타바 설치",
-          "url": "https://www.archdaily.com/1187739/al-mastaba-installation-at-amman-design-week-2026-laith-matarweh-studio-for-architecture",
-          "image_url": "https://images.adsttc.com/media/images/6ae3/1f5d/3271/8400/01d0/fb25/large_jpg/11_Al-Mastaba_Installation_Mohanad_Jihad.jpg?1793269936",
+          "title": "숲속 창문이 있는 집/토미야 요스케 건축 디자인",
+          "url": "https://www.archdaily.com/1186270/house-with-forest-windows-yosuke-tomiya-architectural-design",
+          "image_url": "https://images.adsttc.com/media/images/6ac0/0585/90e2/9d01/89d2/dbf1/large_jpg/house-with-forest-windows-yosuke-tomiya-architectural-design_1.jpg?1790969246",
           "source_name": "ArchDaily"
-        },
-        {
-          "title": "SCAD 동문들은 디자인 마이애미 파리 동안 18세기 계단을 다채로운 설치물로 탈바꿈시켰습니다.",
-          "url": "https://www.dezeen.com/2026/11/04/scad-installation-design-miami-paris/",
-          "image_url": "https://static-2026.dezeen.com/uploads/2026/10/SCAD-sq1-1024x1024.jpg",
-          "source_name": "Dezeen"
-        }
-      ]
-    },
-    {
-      "keyword": "리노베이션·재생",
-      "count": 6,
-      "previous_count": 6,
-      "trend": "steady",
-      "items": [
-        {
-          "title": "NH 레지던스 리노베이션/Dhanie & Sal",
-          "url": "https://www.archdaily.com/1187848/nh-residence-renovation-dhanie-and-sal",
-          "image_url": "https://images.adsttc.com/media/images/6ae4/8bd7/bfbd/4c00/01ee/58c0/large_jpg/12.jpg?1793362920",
-          "source_name": "ArchDaily"
-        },
-        {
-          "title": "푸엔테사우코 약국/데이비드 에르난데스 아르키텍투라",
-          "url": "https://www.archdaily.com/1188185/fuentesauco-pharmacy-david-hernandez-arquitectura",
-          "image_url": "https://images.adsttc.com/media/images/6ae2/f733/3271/8400/01d0/fa5c/large_jpg/01_Exterior_01_David_Hernandez_Sergio_Murillo.jpg?1793259355",
-          "source_name": "ArchDaily"
-        },
-        {
-          "title": "Bilbao/BABELstudio Ensanche의 아파트 리노베이션",
-          "url": "https://www.archdaily.com/1188205/apartment-renovation-in-the-ensanche-of-bilbao-babelstudio",
-          "image_url": "https://images.adsttc.com/media/images/6ad0/d744/b2c4/c300/0178/f8e4/large_jpg/ENSANCHE_002.jpg?1792071512",
-          "source_name": "ArchDaily"
-        },
-        {
-          "title": "다빌로드",
-          "url": "https://leibal.com/interiors/darville-road/",
-          "image_url": "https://leibal.com/wp-content/uploads/2026/10/leibal-darville-road-max-radford-9.jpg",
-          "source_name": "Leibal"
-        }
-      ]
-    },
-    {
-      "keyword": "콘크리트 물성",
-      "count": 6,
-      "previous_count": 6,
-      "trend": "steady",
-      "items": [
-        {
-          "title": "콘크리트로 예술적으로 만든 8개의 갤러리",
-          "url": "https://www.dezeen.com/2026/11/07/concrete-art-galleries-roundup/",
-          "image_url": "https://static-2026.dezeen.com/uploads/2011/03/dzn_Casa-das-Historias-Paula-Rego-by-Eduardo-Souto-de-Moura-1.jpg",
-          "source_name": "Dezeen"
         },
         {
           "title": "키가 큰 알베르토 칼레하 (Alberto Calleja) 가 멕시코 해안의 나무가 우거진 곳으로 콘크리트 카사 노바 (Casa Nova) 를 둘러싸",
           "url": "https://www.dezeen.com/2026/11/07/taller-alberto-calleja-casa-nova/",
           "image_url": "https://static-2026.dezeen.com/uploads/2026/11/taller-alberto-calleja-casa-nova-concrete-home-mexico-sq_dezeen_2364_col_0-1024x1024.jpg",
           "source_name": "Dezeen"
-        },
+        }
+      ]
+    },
+    {
+      "keyword": "미니멀리즘",
+      "count": 4,
+      "previous_count": 4,
+      "trend": "steady",
+      "items": [
         {
-          "title": "콘크리트 주택/비에르나9 + 시랄 아르키텍토스",
-          "url": "https://www.archdaily.com/1188203/concrete-house-vierna9-plus-ciral-arquitectos",
-          "image_url": "https://images.adsttc.com/media/images/6a9e/da4a/de72/0d00/014c/cf88/large_jpg/Casa_de_Hormig_n__7_.jpg?1788795559",
+          "title": "최소 최대/스템펠 & 테사르 아키텍티",
+          "url": "https://www.archdaily.com/1188094/minimal-maximum-stempel-and-tesar-architekti",
+          "image_url": "https://images.adsttc.com/media/images/6aeb/7835/c723/9a5a/c78a/6ae7/large_jpg/minimal-maximum-stempel-and-tesar-architekti_11.jpg?1793816671",
           "source_name": "ArchDaily"
         },
         {
-          "title": "\"직접적이고 정제되지 않은\" 재료는 & Daughters의 제주 레스토랑에서 촉각적인 인테리어를 만듭니다.",
-          "url": "https://www.dezeen.com/2026/11/04/jeju-restaurant-daughters/",
-          "image_url": "https://static-2026.dezeen.com/uploads/2026/11/jeju-restaurant-daughters-vancouver_dezeen_2364_col_sq2-1024x1024.jpg",
-          "source_name": "Dezeen"
+          "title": "상파울루의 새로운 소매 공간인 캐주얼 스토어는 미니멀리즘을 연극적인 효과로 끌어올립니다.",
+          "url": "https://www.wallpaper.com/architecture/casual-store-studio-mk27-brazil",
+          "image_url": "https://cdn.mos.cms.futurecdn.net/ZNGqY2syMuAccg8nQTKZfh-1920-80.jpg",
+          "source_name": "Wallpaper*"
+        },
+        {
+          "title": "좋은 디자인을 좋아하는 미니멀리스트를 위한 최고의 선물",
+          "url": "https://design-milk.com/best-gifts-for-minimalists/",
+          "image_url": "https://design-milk.com/images/2026/11/design-milk-gifts-minimalist-2026.jpg",
+          "source_name": "Design Milk"
+        },
+        {
+          "title": "Bureaux Disma",
+          "url": "https://leibal.com/interiors/bureaux-disma/",
+          "image_url": "https://leibal.com/wp-content/uploads/2026/10/leibal_bureaux-disma_jaune_07-700x1050.jpg",
+          "source_name": "Leibal"
         }
       ]
     }
   ],
   "notable_names": [
+    "Mona Chalabi",
+    "Dezeen Awards",
     "Andy Warhol",
     "Calvin Klein",
-    "Motion North",
     "Yemail Arquitectura",
     "Martine Rose",
     "Dezeen Showroom"
