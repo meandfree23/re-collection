@@ -289281,5 +289281,379 @@
   },
   "depth_raw": 4,
   "depth_v": 2
+ },
+ "designboom.com/art/sprouted-earth-soil-gallery-landscape-future-memories-installation-buro-zemla": {
+  "title_ko": "토양의 질감으로 쓴 기억의 지도, 부로 젬라의 미래의 추억의 풍경",
+  "summary_ko": "조경 설계 스튜디오 부로 젬라(Buro Zemla)가 모스크바 에이 하우스(A-House) 갤러리에서 선보인 설치 작업이다. 전시장 내부를 가공하지 않은 흙과 토양으로 채워 물리적 지형이 관람객의 인지적 기억에 남기는 잔상을 탐구했다. 건축적 장치를 통해 공간적 경험을 집단적 기억의 서사로 치환한다.",
+  "lens": "건축을 고정된 물리적 구조물이 아닌, 인간의 인지 지도 위에 잔상을 남기는 감각적 스크립트로 재정의한다.",
+  "why_now": "디지털 피로가 극에 달한 시대에, 가공되지 않은 흙이라는 원초적 물성을 통해 공간이 어떻게 인간의 기억에 각인되는지를 실험하는 시도다.",
+  "mechanism": "갤러리 내부를 흙으로 채우는 물리적 개입과 관람객의 시선을 한곳으로 모으는 공간적 프레이밍을 통해, 건축적 경험을 정서적 기억으로 변환한다.",
+  "sensory": "발밑에서 느껴지는 흙의 질감과 실내에 흩어진 토양의 냄새, 그리고 갤러리라는 인공적 공간과 자연적 토양의 대비가 주는 낯선 감각이 핵심이다.",
+  "transfer": "공간 연출 시 바닥재를 인공 소재 대신 흙이나 모래 등 변형 가능한 원재료로 대체하여, 관람객의 동선에 따라 변화하는 지형적 서사를 콘티에 반영할 것.",
+  "context": "부로 젬라는 미하일 코즐로프(Mikhail Kozlov)가 설립한 스튜디오로, 자연과 인간의 정서적 연결을 중시하는 다학제적 접근을 취한다. 이번 작업은 건축을 단순한 구조물이 아닌 시간과 공간을 잇는 매개체로 해석하는 그들의 철학을 반영한다.",
+  "findings": [
+   {
+    "text": "부로 젬라는 미하일 코즐로프가 설립하였으며, 자연과 인간의 정서적 연결을 통해 시대를 초월한 공간을 설계하는 데 집중한다.",
+    "s": 1,
+    "quote": "Основано архитектором Михаилом Козловым и специализируется на ландшафтной архитектуре и дизайне. Мотивация бюро — придумывать вневременные решения, формируя эмоциональную связь между местом и людьми."
+   }
+  ],
+  "keywords": [
+   "부로젬라",
+   "설치미술",
+   "공간인지",
+   "토양물성",
+   "에이하우스"
+  ],
+  "evidence": "The project examines the relationship between physical topography, spatial perception, and memory retention, framing architecture as a medium that shapes emotional and mental cartographies.",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "건축과 조경을 인지 심리학과 연결해 공간의 기억 잔상을 다루는 구체적인 방법론을 제시했다.",
+  "v": 2,
+  "url": "https://www.designboom.com/art/sprouted-earth-soil-gallery-landscape-future-memories-installation-buro-zemla/",
+  "original_title": "sprouted earth and soil spill across gallery for landscape of future memories installation",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 3806,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-10 20:16",
+  "research": {
+   "entities": [
+    "Buro Zemla",
+    "Landscape of Future Memories"
+   ],
+   "questions": [
+    "Buro Zemla가 제작한 'Landscape of Future Memories' 설치 미술의 주요 개념과 물리적 토지가 기억에 미치는 영향은 무엇인가?",
+    "Architecture 1.0 전시에서 A-House 갤러리 공간이 어떻게 활용되었는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Бюро Земля — ландшафтная архитектура и дизайн",
+     "url": "https://burozemla.com"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 1361
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "archdaily.com/1188142/ambang-house-tamara-wibowo-architects": {
+  "title_ko": "암방 하우스, 인도네시아 고원의 지형을 품은 아치형 주거",
+  "summary_ko": "인도네시아 중부 자바 고원에 위치한 암방 하우스는 대가족 단지 내 중년 부부를 위해 설계된 735㎡ 규모의 개인 주택이다. 산을 배경으로 한 단지 내 클럽하우스 수영장을 향해 열린 구조를 취하며, 개방성과 거주자의 사생활 보호를 동시에 고려했다. 타마라 위보우 아키텍츠가 설계를 맡아 주변 환경과의 조화를 꾀했다.",
+  "lens": "고지대의 서늘한 기후를 수용하면서도, 외부 클럽하우스의 수영장과 산세를 내부 공간으로 끌어들이는 시각적 연결 장치에 주목한다.",
+  "why_now": "대규모 주거 단지 내에서 개인의 독립성을 유지하면서도, 공유 공간의 경관을 적극적으로 전유하는 건축적 해법이 요구되는 시점이다.",
+  "mechanism": "아치형 구조를 활용해 경관을 액자처럼 프레이밍하며, 외부의 수영장과 산을 시각적으로 주거 내부 깊숙이 투영한다.",
+  "sensory": "고산 지대의 서늘한 공기가 건물 사이로 흐르고, 클럽하우스 수영장의 물빛이 건축물의 아치 프레임을 통해 실내로 반사된다.",
+  "transfer": "광고 콘티 구성 시, 아치 형태의 프레임을 통해 피사체를 조망하게 함으로써 공간의 깊이감과 외부 풍경의 개방감을 극대화하는 샷을 설계한다.",
+  "context": "타마라 위보우 아키텍츠는 인도네시아의 환경적 맥락을 주거 공간에 녹여내는 작업을 지속하고 있으며, 본 프로젝트는 대가족 단지 내에서 개인적 휴식처를 구현하는 데 집중했다.",
+  "findings": [],
+  "keywords": [
+   "인도네시아건축",
+   "아치형구조",
+   "고지대주거",
+   "조망설계"
+  ],
+  "evidence": "Oriented toward the compound's clubhouse pool with a mountain backdrop, the architecture balances openness to its surroundings with a measured sense of retreat.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "건축적 의도와 주변 환경과의 관계는 명확하나, 세부적인 재료 적용이나 공간의 구체적 동선에 대한 정보가 제한적이다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1188142/ambang-house-tamara-wibowo-architects",
+  "original_title": "Ambang House / Tamara Wibowo Architects",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 1350,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-10 20:16",
+  "research": {
+   "entities": [
+    "Tamara Wibowo Architects",
+    "Ambang House"
+   ],
+   "questions": [
+    "Tamara Wibowo Architects가 추구하는 건축적 철학은 무엇이며, Ambang House에 어떻게 반영되었는가?",
+    "인도네시아 중부 자바의 기후와 지형적 특성이 Ambang House의 공간 구성과 개방성에 어떤 영향을 미쳤는가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "wallpaper.com/transportation/a-stylish-low-slung-concept-sports-car-the-polestar-formula-2030-is-a-mobile-manifesto": {
+  "title_ko": "폴스타 포뮬러 2030, 브랜드의 미래를 쓴 바퀴 달린 선언문",
+  "summary_ko": "폴스타 디자인 총괄 필립 뢰머스가 공개한 쇼 카 '포뮬러 2030'은 기존 SUV 중심의 라인업에서 벗어난 저상형 스포츠 에스테이트 모델이다. 틴에이지 엔지니어링 스타일의 물리적 버튼과 20인치 커브드 디스플레이를 결합해 디지털과 아날로그의 접점을 재설계했다. 브랜드의 차세대 디자인 언어를 담은 이 콘셉트는 향후 출시될 폴스타 2와 7 모델의 미학적 방향성을 제시한다.",
+  "lens": "차량의 외형을 SUV의 전형성에서 해방시키고, 조작의 감각을 물리적 버튼으로 회귀시켜 운전자 중심의 기계적 신뢰를 복원한다.",
+  "why_now": "전동화 시대의 획일화된 터치스크린 인터페이스에 대한 피로감을 물리적 조작 체계로 돌파하려는 시도다.",
+  "mechanism": "중앙 콘솔에 배치된 8개의 사용자 설정 가능 버튼과 다이얼을 통해 소프트웨어 중심의 제어 환경에 아날로그의 즉각적인 촉각을 부여한다.",
+  "sensory": "낮게 깔린 에스테이트 차체와 바이저 형태의 윈드실드, 노출된 저탄소 아연 도금 강판의 금속 질감이 차가운 기술적 정밀함을 극대화한다.",
+  "transfer": "콘티 연출 시 대시보드나 콘솔을 단순한 디스플레이 패널이 아닌, 사용자의 손가락이 닿는 물리적 조작부의 밀도 높은 배치로 구성하여 기계적 몰입감을 강조한다.",
+  "context": "필립 뢰머스는 아우디 외장 디자인을 거쳐 2025년 초 폴스타에 합류했다. 폴스타는 과거 볼보 콘셉트카를 기반으로 양산차를 개발하던 방식에서 벗어나, 이번 모델을 통해 자체적인 디자인 전략을 독자적으로 구축하고 있다.",
+  "findings": [
+   {
+    "text": "폴스타는 지리그룹의 기술 플랫폼을 활용하여 자산 경량화 전략을 취하고 있다.",
+    "s": 2,
+    "quote": "With an \"asset-light\" approach in development and manufacturing, Polestar does not have its own manufacturing facility; instead it produces cars in facilities controlled by Volvo or Geely"
+   }
+  ],
+  "keywords": [
+   "폴스타",
+   "필립뢰머스",
+   "스포츠에스테이트",
+   "아날로그인터페이스",
+   "저탄소강"
+  ],
+  "evidence": "The Polestar Formula 2030 offers a departure from the company’s aesthetic orthodoxy in several ways.",
+  "kind": "프로젝트",
+  "depth": 5,
+  "grounding": "full",
+  "depth_reason": "브랜드의 디자인 전략 변화와 구체적인 인터페이스 설계 방식이 명확히 제시되어 실무적 적용 가능성이 높다.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/transportation/a-stylish-low-slung-concept-sports-car-the-polestar-formula-2030-is-a-mobile-manifesto",
+  "original_title": "A stylish, low-slung concept sports car, the Polestar Formula 2030 is a mobile manifesto",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 5153,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-10 20:16",
+  "research": {
+   "entities": [
+    "Polestar",
+    "Philipp Römers",
+    "Maximilian Missoni",
+    "Geely"
+   ],
+   "questions": [
+    "폴스타 포뮬러 2030 콘셉트가 기존 폴스타 차량들과 디자인 측면에서 구체적으로 어떻게 다른가요?",
+    "필립 뢰머스(Philipp Römers)가 부임한 이후 폴스타의 디자인 전략과 향후 출시될 모델에는 어떤 변화가 생겼나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Polestar – Electric cars | Polestar UK",
+     "url": "https://www.polestar.com/uk/"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Polestar",
+     "url": "https://en.wikipedia.org/wiki/Polestar"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Geely",
+     "url": "https://en.wikipedia.org/wiki/Geely"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "브릭랜드가 해체한 폴스타, 추상과 실사를 잇는 후디니 시뮬레이션",
+     "url": "https://www.stashmedia.tv/brickland-blurs-the-line-for-polestars-prime-package/"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "2026 파리 모터쇼, 헤리티지 재해석으로 중국 브랜드에 맞서는 유럽의 전략",
+     "url": "https://www.wallpaper.com/transportation/paris-motor-show-2026-review"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "길이 2.74미터의 초소형 도심형 전기차, 스마트 #2",
+     "url": "https://www.wallpaper.com/transportation/smart-2-ev"
+    }
+   ],
+   "used": [
+    2
+   ],
+   "chars": 6123
+  },
+  "depth_raw": 5,
+  "depth_v": 2
+ },
+ "archdaily.com/1188141/scalpers-headquarters": {
+  "title_ko": "세비야의 기억을 잇는 안달루시아의 현대적 재해석, 스칼퍼스 본사",
+  "summary_ko": "에스투디오 아비토(Estudio Hábito)가 설계한 스칼퍼스(Scalpers) 본사는 세비야 엑스포 '92 부지 인근에 4,500㎡ 규모로 들어섰다. 안달루시아의 전통적인 건축 문법을 현대적인 관점으로 재해석하여 지역적 맥락을 공간에 투영했다. 플렉스브릭(Flexbrick)과 코르티조(Cortizo) 등 다양한 제조사와 협력하여 지속가능한 오피스 환경을 구축했다.",
+  "lens": "지역의 기후와 역사적 층위를 현대적 재료로 치환해 건물의 외피와 내부에 안달루시아의 정체성을 이식했다.",
+  "why_now": "기후 위기 대응과 지역성 회복이 화두인 가운데, 역사적 부지의 맥락을 물리적 형태와 재료로 계승하는 건축적 태도가 다시 주목받는다.",
+  "mechanism": "전통적인 안달루시아 건축의 음영과 환기 구조를 현대적인 금속 파사드와 모듈형 외피 시스템으로 재구성하여 열효율과 미학적 개성을 동시에 확보했다.",
+  "sensory": "강렬한 스페인의 햇빛을 걸러내는 금속 외피의 선명한 그림자와 내부로 유입되는 부드러운 산란광이 공간의 깊이를 만든다.",
+  "transfer": "외벽의 금속 망이나 루버를 활용해 빛을 조절하는 샷을 설계하고, 전통적인 패턴을 현대적 재료로 재해석하여 공간 내부에 시각적 리듬을 부여한다.",
+  "context": "스칼퍼스 본사는 세비야 엑스포 '92 부지라는 상징적 장소성을 바탕으로, 지역 전통 건축을 현대적 오피스 프로그램으로 치환하는 설계 전략을 취했다.",
+  "findings": [],
+  "keywords": [
+   "안달루시아건축",
+   "지속가능성",
+   "오피스설계",
+   "금속파사드"
+  ],
+  "evidence": "The new Scalpers headquarters, located near Seville's Expo '92 site, is conceived as a building deeply rooted in its context and in the Andalusian architectural tradition, reinterpreted through a contemporary perspective.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "지역 맥락을 현대적으로 해석한 시도는 명확하나, 세부적인 시공 기법이나 구체적인 공간 활용 방식에 대한 정보가 부족하다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1188141/scalpers-headquarters",
+  "original_title": "Scalpers Headquarters / Estudio Hábito",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 1323,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-10 20:16",
+  "research": {
+   "entities": [
+    "Scalpers",
+    "Estudio Hábito",
+    "Expo '92"
+   ],
+   "questions": [
+    "안달루시아의 전통 건축 양식을 현대적인 오피스 공간에 어떻게 재해석하여 적용했는가?",
+    "세비야의 Expo '92 부지라는 지리적 맥락이 본 건축물의 설계와 지속가능성 전략에 어떤 영향을 미쳤는가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "archdaily.com/1186985/bringing-the-sky-closer-4-planetariums-and-astronomical-observatories": {
+  "title_ko": "하늘을 측량하는 건축: 천문관과 천문대가 공간을 빚는 방식",
+  "summary_ko": "인류는 오랜 세월 동안 하늘을 관측하기 위해 건축을 도구로 삼았다. 프랑스, 중국, 미국의 4개 프로젝트를 통해 천문관과 천문대가 빛, 비움, 지형을 다루며 우주의 거대함을 어떻게 공간화하는지 살펴본다.",
+  "lens": "거대한 천체의 운동을 기하학과 구조물이라는 물리적 척도로 번역한다.",
+  "why_now": "디지털 스크린이 우주의 이미지를 대체하는 시대에, 물리적 공간과 빛을 통해 우주의 스케일을 체감하게 만드는 건축적 장치가 주목받는다.",
+  "mechanism": "18세기 인도 잔타르 만타르의 거대한 기하학적 구조물처럼, 형태와 방향성을 통해 천체 현상을 추적하고 건축 자체가 과학적 관측 도구로 작동한다.",
+  "sensory": "거대한 비움과 정제된 빛의 유입을 통해 인간 신체의 비대함과 우주의 압도적인 공허를 동시에 마주하게 만든다.",
+  "transfer": "광고나 공간 연출에서 거대한 스케일감을 전달할 때, 복잡한 그래픽 대신 빛의 방향과 정교한 기하학적 비움을 활용해 공간의 깊이감을 만든다.",
+  "context": "인류는 초기 문명부터 천체의 위치와 시간에 맞춰 건축을 배치하며 우주에 대한 이해를 구체화해 왔다.",
+  "findings": [],
+  "keywords": [
+   "천문대",
+   "천문관",
+   "지형순응",
+   "기하학"
+  ],
+  "evidence": "In architecture, this enduring fascination takes shape in buildings that not only facilitate observation but also heighten our awareness of the vastness that surrounds us.",
+  "kind": "리스트·라운드업",
+  "depth": 2,
+  "grounding": "thin",
+  "depth_reason": "원문이 여러 사례를 묶어 소개하는 개요 성격의 글이라 정보 전달 위주에 머문다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1186985/bringing-the-sky-closer-4-planetariums-and-astronomical-observatories",
+  "original_title": "Bringing the Sky Closer: 4 Planetariums and Astronomical Observatories",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 1444,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-10 20:16",
+  "research": {
+   "entities": [
+    "Jantar Mantar"
+   ],
+   "questions": [
+    "잔타르 만타르의 건축적 구조가 어떻게 천체 관측의 도구로 기능했는가?",
+    "현대 천문관과 고대 천문 관측소의 건축적 설계 방식에는 어떤 차이가 있는가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "dazeddigital.com/art-photography/article/71320/1/whitby-goth-weekend-festival-george-hutton-yorkshire-anime-cosplay": {
+  "title_ko": "고딕의 잔영과 일상의 충돌, 휘트비 고스 위켄드의 시각적 전유",
+  "summary_ko": "브램 스토커가 소설 드라큘라의 영감을 얻은 영국 휘트비에서 매년 열리는 고스 위켄드는 기괴한 의상을 입은 이들이 평범한 항구 마을을 점유하는 축제다. 사진가 조지 허튼은 좀비, 광대 등 파격적인 복장의 방문객들이 아이스크림 가게와 생선 튀김집 사이를 배회하는 초현실적 풍경을 기록했다. 이는 고딕적 서사와 일상적 공간의 이질적 공존을 포착한 다큐멘터리적 시선이다.",
+  "lens": "고전적 공포의 무대인 고딕 유적과 현대적 일상의 배경을 한 프레임에 담아, 이질적 물성이 충돌할 때 발생하는 서늘한 긴장감을 포착한다.",
+  "why_now": "디지털 합성으로 구현된 판타지가 범람하는 시대에, 실제 장소의 물리적 일상과 비일상적 의상이 섞이는 날것의 현장성이 새로운 시각적 자극을 준다.",
+  "mechanism": "피사체의 기괴한 의상과 마을의 평범한 일상 사물(아이스크림 콘, 생선 가게, 개를 산책시키는 주민)을 동일한 프레임에 배치해 시각적 불일치를 극대화한다.",
+  "sensory": "바람 부는 곶의 차가운 공기와 고딕 의상의 거친 질감, 그리고 마을의 소박한 일상이 뒤섞인 비현실적이고 기묘한 스케일감을 전달한다.",
+  "transfer": "광고 콘티 구성 시, 판타지적 요소를 가진 인물을 스튜디오가 아닌 지극히 평범한 로컬 상점가나 주거지 배경에 배치해 인물의 비현실성을 역설적으로 강조하는 연출을 적용한다.",
+  "context": "휘트비는 브램 스토커가 1890년 방문해 소설 드라큘라의 배경으로 삼은 장소로, 고딕 문학의 원형적 공간이다. 이는 과거 RE:COLLECTION이 다룬 고딕 서사의 현대적 디자인 재해석 및 아카데미 영화박물관의 드라큘라 의상 전시와 맥을 같이하며, 고전적 공포가 동시대 시각 예술로 변주되는 계보를 잇는다.",
+  "findings": [
+   {
+    "text": "소설 드라큘라는 서간체와 일기, 신문 기사 형식으로 구성된 고딕 호러 소설이다.",
+    "s": 2,
+    "quote": "The narrative is related through letters, diary entries, and newspaper articles. It has no single protagonist and opens with English solicitor Jonathan Harker taking a business trip to stay at the castle of a Transylvani"
+   }
+  ],
+  "keywords": [
+   "고딕미학",
+   "휘트비",
+   "조지허튼",
+   "시각적대비",
+   "다큐멘터리"
+  ],
+  "evidence": "I like to try and get something else in the frame that grounds them to just being in a seaside town",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "고딕 서사와 현대적 일상의 충돌이라는 구체적인 연출적 장치를 포착하여 창작자에게 실질적인 시각적 영감을 제공한다.",
+  "v": 2,
+  "url": "https://www.dazeddigital.com/art-photography/article/71320/1/whitby-goth-weekend-festival-george-hutton-yorkshire-anime-cosplay?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=spooky-scenes-from-whitby-goth-weekend-2026",
+  "original_title": "Spooky scenes from Whitby Goth Weekend 2026",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 3422,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-10 20:16",
+  "research": {
+   "entities": [
+    "Bram Stoker",
+    "Whitby Abbey",
+    "Dracula",
+    "Whitby Goth Weekend",
+    "George Hutton"
+   ],
+   "questions": [
+    "브램 스토커의 소설 '드라큘라'와 휘트비 지역의 역사적 연관성은 무엇인가요?",
+    "휘트비 고스 위켄드가 단순한 축제를 넘어 지역 사회와 어떻게 공존하며 독특한 미학을 형성하고 있나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Bram Stoker",
+     "url": "https://en.wikipedia.org/wiki/Bram%20Stoker"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Dracula",
+     "url": "https://en.wikipedia.org/wiki/Dracula"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "어둠을 입힌 유리와 은, 고딕 서사에서 길어 올린 5가지 오브제",
+     "url": "https://www.wallpaper.com/design-interiors/spooky-design-for-halloween"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "아카데미 뮤지엄이 조명하는 공포 영화의 시각 예술과 계보",
+     "url": "https://hyperallergic.com/why-do-horror-films-have-such-a-hold-on-our-imaginations/"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "chars": 3354
+  },
+  "depth_raw": 4,
+  "depth_v": 2
  }
 }
