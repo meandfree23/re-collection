@@ -288484,213 +288484,86 @@
   "depth_raw": 4,
   "depth_v": 2
  },
- "stashmedia.tv/david-carson-time-destination-nyc-swatch-watch-launch-film-by-joao-vaz-oliveira": {
-  "title_ko": "무질서 속의 균형, 시네마 4디로 해체한 데이비드 카슨의 시계",
-  "summary_ko": "모션 디자이너 주앙 바즈 올리베이라는 스와치와 그래픽 디자이너 데이비드 카슨의 협업을 기념하는 론칭 필름을 제작했다. 그는 약 100가지의 시계 디자인과 스케치를 하나의 영상으로 엮기 위해 시네마 4디의 클로너 시스템을 활용해 무작위로 요소를 조합했다. 데이비드 카슨의 비정형적인 타이포그래피와 질감을 모션 그래픽으로 번역하며 뉴욕의 활기를 담아냈다.",
-  "lens": "무작위성과 직관을 충돌시켜 혼돈 속에 단단한 조형적 균형을 구축한다.",
-  "why_now": "디지털 툴의 자동화 속에서 수십 년간 축적된 아날로그적 콜라주 감각을 모션으로 이식하는 태도가 요구된다.",
-  "mechanism": "시네마 4디의 클로너 시스템으로 수백 개의 시계와 스케치를 무작위로 교차시키고 시행착오를 통해 시각적 균형을 찾았다.",
-  "sensory": "예측 불가능한 타이포그래피와 수많은 시계 디자인이 화면 위에서 파편처럼 흩어지며 강렬한 시각적 속도감을 만든다.",
-  "transfer": "광고 콘티에서 수십 개의 파편화된 그래픽 소스를 클로너로 무작위 배속한 뒤 직관적으로 프레임을 편집하는 연출에 활용한다.",
-  "context": "그래픽 디자이너 데이비드 카슨은 비정형적이고 실험적인 타이포그래피로 현대 그래픽 디자인에 깊은 족적을 남겼다.",
-  "findings": [],
-  "keywords": [
-   "모션디자인",
-   "타이포그래피",
-   "시네마4디",
-   "콜라주",
-   "스와치"
-  ],
-  "evidence": "To bring everything together, I built a Cloner system in Cinema 4D that allowed me to randomly mix the different watch designs.",
-  "kind": "프로젝트",
-  "depth": 3,
-  "grounding": "full",
-  "depth_reason": "구체적인 3D 툴과 협업 과정을 다루나 전형적인 브랜드 필름 소개 범위를 넘지 않는다.",
-  "v": 2,
-  "url": "https://www.stashmedia.tv/david-carson-time-destination-nyc-swatch-watch-launch-film-by-joao-vaz-oliveira/",
-  "original_title": "David Carson Time: Destination NYC Swatch Watch Launch Film by João Vaz Oliveira",
-  "model": "gemini-3.5-flash-lite",
-  "source_chars": 3048,
-  "fetch": "ok",
-  "cliche_hits": [],
-  "read_at": "2026-11-10 13:39",
-  "research": {
-   "entities": [
-    "David Carson",
-    "João Vaz Oliveira",
-    "Swatch",
-    "Cinema 4D"
-   ],
-   "questions": [
-    "데이비드 카슨의 독창적인 타이포그래피 스타일이 모션 디자인 작업에서 어떻게 시각적으로 구현되었는가?",
-    "시네마 4D의 클로너 시스템을 활용하여 약 100개의 시계 디자인을 조화롭게 엮어낸 구체적인 연출 방식은 무엇인가?"
-   ],
-   "sources": [
-    {
-     "n": 1,
-     "type": "위키백과",
-     "title": "David Carson (graphic designer)",
-     "url": "https://en.wikipedia.org/wiki/David%20Carson%20%28graphic%20designer%29"
-    },
-    {
-     "n": 2,
-     "type": "위키백과",
-     "title": "Swatch",
-     "url": "https://en.wikipedia.org/wiki/Swatch"
-    },
-    {
-     "n": 3,
-     "type": "RE:COLLECTION 과거 기사",
-     "title": "미니어처 디오라마로 구현한 스포츠의 폭력성, 컵 스튜디오의 미니 골프",
-     "url": "https://www.stashmedia.tv/122521-2/"
-    },
-    {
-     "n": 4,
-     "type": "RE:COLLECTION 과거 기사",
-     "title": "지형 데이터와 빛의 연금술로 구축한 노르웨이 피요르드",
-     "url": "https://www.stashmedia.tv/sound-light-meets-geography-in-kim-taylors-deep-geo/"
-    },
-    {
-     "n": 5,
-     "type": "RE:COLLECTION 과거 기사",
-     "title": "연금술의 실험실, 구찌 향수 성분을 3D 물질로 치환하다",
-     "url": "https://motionographer.com/quickie/gucci-brand-film-spring-jieru-tang/"
-    }
-   ],
-   "used": [],
-   "chars": 1591
-  },
-  "depth_raw": 3,
-  "depth_v": 2
- },
- "archdaily.com/1188343/roberta-schioppa-denis-joelsons-studio": {
-  "title_ko": "관리인의 집에서 대형 아테리에로, 브라질 이타티바의 공간 전환",
-  "summary_ko": "브라질 이타티바에서 건축가 데니스 조엘슨스가 로베르타 스키오파의 기존 작업실인 전직 관리인의 집을 순수 미술 아테리에로 개조했다. 작가는 원래 주거의 분할된 방들이 대형 작업을 제한한다고 느꼈으나 기존의 가정적인 분위기는 유지하고자 했다.",
-  "lens": "잘게 쪼개진 방의 벽을 거두고 지붕 아래 하나의 거대한 볼륨을 세운다.",
-  "why_now": "파편화된 거주 공간의 구속을 깨고 대형 작업이 가능한 통합된 스튜디오 볼륨으로 확장하는 리노베이션 방식이다.",
-  "mechanism": "기존 주거 공간의 벽체를 철거하여 파편화된 방들의 경계를 지우고, 남겨진 돔 구조를 중심으로 작업 스케일을 확장하는 볼륨을 만든다.",
-  "sensory": "개조 전 관리인 주택의 아늑한 주거적 결을 남기면서도, 대형 미술품을 수용하는 높은 천장고와 탁 트인 시각적 개방감을 준다.",
-  "transfer": "벽을 허물어 좁은 방들을 하나의 거대한 스튜디오 볼륨으로 통합하는 씬 전환 콘티에 적용한다.",
-  "context": "건축가 데니스 조엘슨스는 브라질 상파울루의 아마빌레 아파트 리노베이션에서 어두운 실내와 폐쇄적인 평면을 재정비해 빛과 시선을 내부로 끌어들이는 공간 재배치 작업을 진행한 바 있다.",
+ "archdaily.com/1188143/what-materials-meet-the-demands-of-a-contemporary-kitchen": {
+  "title_ko": "주방 카운터탑의 재료 공학: 신체 척도와 물성의 결합",
+  "summary_ko": "현대 주방의 중심이 된 카운터탑은 단순한 조리대를 넘어 주거 공간 전체의 기능과 미감을 결정한다. 마시사의 MDP RH 기재와 멜라민 마감 카운터탑은 내열성, 내마모성, 내습성을 갖추어 일상적인 사용성을 높인다. 또한 24mm의 두께와 다양한 표면 마감은 가구와 건축적 요소를 시각적으로 통합한다.",
+  "lens": "카운터탑은 신체의 움직임과 재료의 물성이 만나는 건축적 결절점이다.",
+  "why_now": "주방이 거실 등 사회적 공간과 결합하는 동시대 주거 환경에서, 작업대의 재료 선택은 공간 전체의 연속성과 완성도를 좌우한다.",
+  "mechanism": "185°C의 내열성과 2만 회 이상의 마마모성을 견디는 멜라민 표면과 PUR 기술로 접합된 1.5mm PVC 에지가 이음새 없는 시각적 연속성을 만든다.",
+  "sensory": "우유니, 시에라, 사이프러스 도라도 등 무광 매트 표면의 질감이 빛의 난반사를 줄이며 공간에 차분한 깊이감을 부여한다.",
+  "transfer": "공간 연출 시 주방 작업대와 수납장 패널의 소재를 동일하게 맞춰 시각적 잡음을 지우고 면의 분할을 단순화하는 셋팅에 적용한다.",
+  "context": "칠레에 본사를 둔 목질 판상재 기업 마시사(Masisa)는 파티클보드와 MDF 등 건축용 내장재를 생산해왔으며, 본문은 이들의 기능성 표면재가 주방 공간에 적용되는 방식을 다룬다.",
   "findings": [
    {
-    "text": "브라질 상파울루에 위치한 아마빌레 아파트는 원래 어두운 실내와 주차장을 향한 사교 공간 구조를 가지고 있었다.",
+    "text": "MASISA S.A.는 칠레에 본사를 둔 목제품 회사로 칠레, 아르헨티나, 페루, 브라질, 베네수엘라, 멕시코, 미국에서 제조 사업을 운영하고 있다.",
     "s": 1,
-    "quote": "브라질 상파울루에 위치한 아마빌레 아파트는 원래 어두운 실내와 주차장을 향한 사교 공간 구조를 가지고 있었다."
+    "quote": "MASISA S.A. (BCS: MASISA) is a wood products' company headquartered in Chile with manufacturing operations in Chile, Argentina, Peru, Brazil, Venezuela, Mexico and the United States."
    }
   ],
   "keywords": [
-   "스튜디오",
-   "공간개조",
-   "브라질건축",
-   "아테리에"
+   "카운터탑",
+   "소재 물성",
+   "주방 건축",
+   "인테리어 디테일"
   ],
-  "evidence": "Roberta was already using the space as a studio when she invited me to transform the former caretaker's house into a fine arts atelier.",
+  "evidence": "The contemporary kitchen is no longer just a space for food preparation; it has become one of the most dynamic areas of the home.",
   "kind": "프로젝트",
   "depth": 3,
-  "grounding": "partial",
-  "depth_reason": "구체적인 공간 개조 프로젝트이나 원문 분량이 짧아 세부 건축 기법 확인이 제한적이다.",
+  "grounding": "full",
+  "depth_reason": "구체적인 소재 성능과 치수 정보가 있으나 일반적인 설계 지침에 가까워 평범한 수준이다.",
   "v": 2,
-  "url": "https://www.archdaily.com/1188343/roberta-schioppa-denis-joelsons-studio",
-  "original_title": "Roberta Schioppa / Denis Joelsons Studio",
+  "url": "https://www.archdaily.com/1188143/what-materials-meet-the-demands-of-a-contemporary-kitchen",
+  "original_title": "What materials meet the demands of a contemporary kitchen?",
   "model": "gemini-3.5-flash-lite",
-  "source_chars": 968,
+  "source_chars": 7517,
   "fetch": "ok",
   "cliche_hits": [],
-  "read_at": "2026-11-10 13:39",
+  "read_at": "2026-11-10 14:44",
   "research": {
    "entities": [
-    "Denis Joelsons",
-    "Roberta Schioppa",
-    "Rodrigo Fonseca",
-    "Itatiba"
+    "Masisa"
    ],
    "questions": [
-    "Denis Joelsons 스튜디오는 브라질 이타티바의 기존 관리인 주택을 어떻게 순수 미술 아테리얼로 개조했는가?",
-    "분할된 공간의 한계를 극복하면서도 기존 건물이 가진 가정적인 분위기를 유지하기 위해 어떤 건축적 전략이 사용되었는가?"
+    "현대 주방 디자인에서 카운터탑 소재를 선택할 때 가장 중요하게 고려해야 할 기술적 성능 기준은 무엇인가?",
+    "마시사 카운터탑에 사용된 MDP RH 기재와 멜라민 마감은 일상적인 주방 환경에서 어떤 내구성 이점을 제공하는가?"
    ],
    "sources": [
     {
      "n": 1,
-     "type": "RE:COLLECTION 과거 기사",
-     "title": "어두운 주거 공간의 반전, 상파울루 아마빌레 아파트 리노베이션",
-     "url": "https://www.archdaily.com/1188223/amabile-apartment-denis-joelsons"
+     "type": "위키백과",
+     "title": "Masisa",
+     "url": "https://en.wikipedia.org/wiki/Masisa"
     }
    ],
    "used": [
     1
    ],
-   "chars": 265
-  },
-  "depth_raw": 3,
-  "depth_v": 2
- },
- "archdaily.com/1188317/horizontal-house-estudio-galera": {
-  "title_ko": "소나무 숲의 가로선, 에스튜디오 갈레라의 수평 주택",
-  "summary_ko": "아르헨티나 카릴로의 콘스탄시아 지역에 완공된 연면적 305제곱미터의 수평 주택은 에스튜디오 갈레라가 2014년부터 이어온 주택 작업 주기를 마무리하는 건축물이다. 이 프로젝트는 개별 대지의 프로그램을 충족하는 동시에 아직 개발되지 않은 소나무 숲과 마주한 도시 가로변을 완성한다.",
-  "lens": "주변 숲과 대조되는 단단한 수평선으로 가로변의 건축적 마침표를 찍는다.",
-  "why_now": "도시 개발이 멈춘 숲 경계에서 건축이 어떻게 자연과 도시 사이의 완충 장치가 되는지 보여준다.",
-  "mechanism": "독립된 대지의 조건 안에서 프로그램의 요구를 해결하고 미개발된 숲을 향한 파사드를 길게 펼쳐 도시적 전면을 마감한다.",
-  "sensory": "주변을 둘러싼 빽빽한 소나무 숲의 풍경 속에서 가로로 길게 뻗은 구조물이 만들어내는 직선의 긴장감이 시각적으로 도드라진다.",
-  "transfer": "숲이나 공터 등 미개발 지역을 마주한 롱 샷에서 수평선을 강조하는 건축 파사드를 배경으로 인물의 움직임을 가로로 길게 패닝하며 담아낸다.",
-  "context": "에스튜디오 갈레라는 2014년 피린초 거리의 쿠바스 주택을 시작으로 카릴로 지역에서 일련의 주거 프로젝트를 진행해 왔다.",
-  "findings": [],
-  "keywords": [
-   "수평주택",
-   "에스튜디오갈레라",
-   "아르헨티나",
-   "건축구조"
-  ],
-  "evidence": "Horizontal House closes a cycle of works in Constancia neighborhood, in Cariló city; a process that began in 2014 with Kuvasz House",
-  "kind": "프로젝트",
-  "depth": 3,
-  "grounding": "partial",
-  "depth_reason": "구체적인 건축 프로젝트이나 상세한 도면이나 재료 공법 설명이 부족하여 평범한 소개 수준에 머문다.",
-  "v": 2,
-  "url": "https://www.archdaily.com/1188317/horizontal-house-estudio-galera",
-  "original_title": "Horizontal House / Estudio Galera",
-  "model": "gemini-3.5-flash-lite",
-  "source_chars": 1265,
-  "fetch": "ok",
-  "cliche_hits": [],
-  "read_at": "2026-11-10 13:39",
-  "research": {
-   "entities": [
-    "Estudio Galera",
-    "Cariló"
-   ],
-   "questions": [
-    "Horizontal House는 이전에 진행된 Kuvasz House와 비교하여 어떤 건축적 차이점을 가지고 있는가?",
-    "Cariló 지역의 소나무 숲이라는 자연 환경이 Horizontal House의 설계와 자재 선택에 어떤 영향을 미쳤는가?"
-   ],
-   "sources": [],
-   "used": [],
-   "chars": 0
+   "chars": 462
   },
   "depth_raw": 3,
   "depth_v": 2
  },
  "wallpaper.com/travel/restaurants/last-word-hospitality-la-restaurants-interview": {
-  "title_ko": "시간을 벼려낸 공간, 라스트 워드의 밀도 높은 레스토랑 생태계",
-  "summary_ko": "아담 바이스블랫과 홀리 폭스가 이끄는 라스트 워드 호스피탈리티는 로스앤젤레스 전역에서 파운드 오이스터와 허먼스 등 소형 공간의 밀도를 극대화한 독창적인 레스토랑들을 선보인다. 트렌드를 좇는 대신 익숙한 기획의 틀에 깊은 시간의 레이어와 날것의 개성을 더해 지역 고유의 에너지를 구축한다.",
-  "lens": "거대한 자본 대신 좁은 평면과 낡은 질감으로 도시의 감각적 밀도를 복원한다.",
-  "why_now": "디지털 피로가 극에 달한 시점에서 공간은 세련된 가짜 새로움보다 손때 묻은 물성과 현장의 온기로 승부해야 한다.",
-  "mechanism": "설계 단계에서 지나치게 넓은 통로와 대형 부스를 과감하게 도려내어 인원 간의 물리적 거리를 좁히고 친밀한 에너지를 강제한다.",
-  "sensory": "체커보드 타일 바닥과 반짝이는 디스코 볼, 황동 귀걸이에 부딪히는 햇빛이 좁은 바 공간을 시각적 질감으로 채운다.",
-  "transfer": "공간 디자인 콘티에서 불필요한 여백과 광활한 동선을 과감하게 압축하여 인물 간의 물리적 밀착감을 높이는 연출 장치로 활용한다.",
-  "context": "이들은 파운드 오이스터의 성공을 발판 삼아 바르 사토스, 퀸즈 등 로스앤젤레스 일대에 개성 있는 공간들을 연속으로 확장해 왔다.",
+  "title_ko": "유행을 지우고 시간을 쌓는 라스트 워드의 공간 전략",
+  "summary_ko": "아담 와이스블랫과 홀리 폭스가 이끄는 라스트 워드 호스피탈리티는 파운드 오이스터의 성공을 발판 삼아 LA 전역에서 각기 다른 개성을 지닌 소규모 레스토랑들을 선보인다. 이들은 트렌드를 좇는 대신 오래된 비스트로와 펍의 형식을 빌려 친밀하고 시대를 타지 않는 공간을 구축한다.",
+  "lens": "공간을 늘리는 대신 동선을 좁혀 밀도를 높이는 방식으로 유행에 의존하지 않는 장소성을 만든다.",
+  "why_now": "프랜차이즈가 지배하는 상업 공간에서 지역의 고유한 결을 살리는 독립 F&B 기획 방식이 대안적인 공간 모델로 주목받는다.",
+  "mechanism": "건축가가 그린 넓은 통로와 대형 부스를 과감히 잘라내어 방문객 사이의 물리적 거리를 좁히고 활기를 유지한다.",
+  "sensory": "체커보드 타일의 바닥과 반짝이는 미러볼, 번잡한 바 카운터가 어우러져 오랫동안 그 자리에 있었던 듯한 친밀한 질감을 만든다.",
+  "transfer": "공간의 물리적 규모를 키우는 대신 좌석 간격을 좁히고 동선을 압축하여 밀도 높은 현장감을 연출하는 미장센으로 활용한다.",
+  "context": "와이즈블랫과 폭스는 2019년 파운드 오이스터를 시작으로 바 라 산토스, 라사루마 등 LA 일대에 독창적인 식음 공간을 확장해 왔다.",
   "findings": [],
   "keywords": [
-   "공간 디자인",
-   "물리적 밀도",
-   "시간의 레이어",
-   "레스토랑 브랜딩"
+   "공간 기획",
+   "레스토랑 디자인",
+   "밀도",
+   "로컬리티"
   ],
-  "evidence": "We hate the word ‘concept’. We don’t have concepts. We find people, and we build restaurants that you've kind of heard of before.",
+  "evidence": "What’s noticeable about spending time at any of these establishments is just how distinct they all feel.",
   "kind": "프로젝트",
   "depth": 3,
   "grounding": "full",
-  "depth_reason": "독창적인 공간 기획과 운영 방식을 다루지만 전형적인 외식업 인터뷰의 범주를 크게 벗어나지 않는다.",
+  "depth_reason": "독립 레스토랑 그룹의 공간 전략과 운영 방식을 구체적으로 보여주지만 구조적 혁신보다는 기획 방향에 가깝다.",
   "v": 2,
   "url": "https://www.wallpaper.com/travel/restaurants/last-word-hospitality-la-restaurants-interview",
   "original_title": "From Found Oyster to Hermon’s, Last Word are cooking up a new generation of LA restaurants",
@@ -288698,18 +288571,18 @@
   "source_chars": 7830,
   "fetch": "ok",
   "cliche_hits": [],
-  "read_at": "2026-11-10 13:39",
+  "read_at": "2026-11-10 14:44",
   "research": {
    "entities": [
-    "Adam Weisblatt",
-    "Holly Fox",
     "Found Oyster",
     "Last Word Hospitality",
-    "Barra Santos"
+    "Barra Santos",
+    "Rasarumah",
+    "Lord Fletcher Inn"
    ],
    "questions": [
-    "Adam Weisblatt과 Holly Fox가 운영하는 Last Word Hospitality는 LA 외곽 지역을 포함해 다양한 콘셉트의 레스토랑을 성공적으로 론칭할 수 있었던 핵심적인 운영 철학은 무엇인가?",
-    "Found Oyster의 확장과 성공 과정에서 소규모 공간이 지닌 물리적 한계를 극복하고 독특한 에너지를 만들어낸 디자인 전략은 무엇인가?"
+    "Adam Weisblatt과 Holly Fox가 설립한 Last Word Hospitality는 LA 외곽 지역을 포함해 어떻게 다양한 개성을 가진 레스토랑들을 기획하고 운영하는가?",
+    "Found Oyster의 성공 이후 발표된 저서 'For The Love of Restaurants'에서는 레스토랑 창업과 운영에 관해 어떤 실무적인 조언을 담고 있는가?"
    ],
    "sources": [
     {
@@ -288727,34 +288600,205 @@
   "depth_raw": 3,
   "depth_v": 2
  },
- "hyperallergic.com/mona-chalabi-paints-a-picture-of-class-inequality": {
-  "title_ko": "차가운 통계에 인간의 결을 입히는 모나 찰라비의 데이터 일러스트레이션",
-  "summary_ko": "퓰리처상 수상 데이터 저널리스트 모나 찰라비는 신간 '텐 리브스'에서 익명의 인터뷰 대상자 열 명의 삶을 통해 미국의 계급 불평등을 시각화한다. 추상적인 경제적 지표를 손으로 그린 일러스트와 구체적인 개인의 서사로 번역하며 차가운 통계에 인간적 존엄을 복원한다.",
-  "lens": "차가운 숫자에 손으로 그린 결을 더해 거대한 경제적 불평등을 구체적인 얼굴과 감각으로 치환한다.",
-  "why_now": "디지털 데이터가 범람하는 시대에 통계를 감각적 경험과 시각적 서사로 재구성하는 작업은 정보의 피로를 돌파하는 핵심적인 방법론이다.",
-  "mechanism": "6년 동안 수집한 소득 분위별 인터뷰 데이터를 정교하게 분류하고 작가 고유의 손글씨와 수채화풍 일러스트를 결합하여 추상적인 계급 구조를 가시화한다.",
-  "sensory": "디지털 화면의 건조한 표 대신 펜선과 수채 물감이 번진 수제 질감이 통계 데이터의 무게감을 물리적인 감각으로 전달한다.",
-  "transfer": "다큐멘터리나 영상 콘티에서 방대한 통계 자료를 무미건조한 자막 대신 인물의 실제 목소리와 수공예적 질감의 그래픽으로 시각화할 때 활용한다.",
-  "context": "이라크계 영국인인 모나 찰라비(Mona Chalabi)는 뉴욕타임스와 가디언 등에서 일하며 제프 베이조스의 부와 박물관 컬렉션의 편향 등을 시각화하는 작업을 지속해 왔다.",
+ "archdaily.com/1188317/horizontal-house-estudio-galera": {
+  "title_ko": "소나무 숲의 가로선, 에스튜디오 갈레라의 연작을 닫는 수평 주택",
+  "summary_ko": "아르헨티나 카릴로의 콘스탄시아 지역에서 에스튜디오 갈레라가 설계한 연면적 305제곱미터의 수평 주택이 완공되었다. 이 프로젝트는 2014년 쿠바스 주택으로 시작된 피린초 거리 연작의 마침표이며, 미개발 부지였던 과거와 달리 현재의 소나무 숲 가로변을 완성하는 도시적 맥락을 담고 있다.",
+  "lens": "단절된 주변 숲과 건물이 수평선으로 맞닿으며 도시의 가로 벽면을 완성한다.",
+  "why_now": "주변 맥락이 부재하던 초기에 비해 성숙해진 대지 조건 속에서 건축이 도시 가로와 맺는 태도를 보여준다.",
+  "mechanism": "개별 프로그램의 요구를 수용하면서 동시에 미래의 가로변 전면을 매끄럽게 마감하는 수평적 볼륨 배치로 구조를 짰다.",
+  "sensory": "주변을 둘러싼 소나무 숲의 거친 결 사이로 건물의 정제된 수평 콘크리트 선이 날카롭게 대비된다.",
+  "transfer": "공간을 연출할 때 배경이 되는 자연의 수직 밀도에 대비되는 단단한 수평 프레임을 픽셀처럼 배치한다.",
+  "context": "에스튜디오 갈레라는 아르헨티나 카릴로의 피린초 거리에서 쿠바스 주택을 시작으로 일련의 주거 작업을 전개해 왔다.",
+  "findings": [],
+  "keywords": [
+   "수평주택",
+   "에스튜디오갈레라",
+   "아르헨티나건축",
+   "소나무숲"
+  ],
+  "evidence": "Horizontal House closes a cycle of works in Constancia neighborhood, in Cariló city; a process that began in 2014 with Kuvasz House as the first of several projects on Pirincho Street.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "구체적인 주거 건축 프로젝트이나 원문 정보가 건물의 내외부 상세 구조보다 맥락 설명에 치중되어 있다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1188317/horizontal-house-estudio-galera",
+  "original_title": "Horizontal House / Estudio Galera",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 1265,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-10 14:44",
+  "research": {
+   "entities": [
+    "Estudio Galera",
+    "Cariló"
+   ],
+   "questions": [
+    "Estudio Galera가 카릴로(Cariló) 지역에서 진행한 연작 프로젝트들은 주변 자연환경과 어떻게 조화를 이루는가?",
+    "Horizontal House가 동일한 거리의 이전 프로젝트인 Kuvasz House와 비교하여 설계 관점에서 진화한 부분은 무엇인가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "stashmedia.tv/david-carson-time-destination-nyc-swatch-watch-launch-film-by-joao-vaz-oliveira": {
+  "title_ko": "데이비드 카슨의 무질서한 그래픽 언어를 시네마 4디로 해체하고 엮다",
+  "summary_ko": "모션 디자이너 주앙 바즈 올리베이라가 그래픽 디자이너 데이비드 카슨과 협업해 스와치 시계 출시 런칭 필름을 제작했다. 100여 개의 서로 다른 시계 디자인과 스케치를 시네마 4디의 클로너 시스템을 활용해 하나의 영상으로 무작위 조합했다.",
+  "lens": "무작위성과 직관을 섞어 우연 속의 균형을 만든다.",
+  "why_now": "디지털 툴의 정밀함 속에서 아날로그적 충돌과 우연성을 시스템으로 구현하려는 시도가 늘고 있다.",
+  "mechanism": "시네마 4디의 클로너 시스템을 이용해 다수의 시계 디자인을 무작위로 섞고 시행착오를 거치며 시각적 균형을 찾았다.",
+  "sensory": "뉴욕의 활기찬 에너지가 카슨 특유의 비정형 타이포그래피와 백여 개의 시계 파편이 충돌하며 밀도 높은 시각적 혼돈을 만든다.",
+  "transfer": "다양한 형태의 그래픽 에셋을 무작위 복제하는 클로너 툴을 써서 편집 리듬의 속도감을 높이는 몽타주 콘티에 적용한다.",
+  "context": "주앙 바즈 올리베이라는 데이비드 카슨의 2022년 디자인 릴 작업을 함께 한 바 있으며 이번 스와치 콜라보레이션을 통해 그 협업을 이어갔다.",
   "findings": [
    {
-    "text": "모나 찰라비는 영국 출신의 퓰리처상 수상 데이터 저널리스트이자 일러스트레이터, 작가로 이라크 혈통이며 뉴욕타임스와 가디언에 기고했다.",
+    "text": "데이비드 카슨은 1955년생 미국의 그래픽 디자이너이자 디자인 감독이다.",
     "s": 1,
-    "quote": "Mona Chalabi is a British, Pulitzer Prize-winning data journalist, illustrator and writer of Iraqi descent, known for her articles in The New York Times and The Guardian."
+    "quote": "David Carson (born September 8, 1955) is an American graphic designer and design director."
+   },
+   {
+    "text": "스와치는 1983년 에른스트 톰케, 엘마 목, 자크 뮐러가 설립한 스위스의 시계 회사이다.",
+    "s": 2,
+    "quote": "Swatch is a Swiss watch company founded in 1983 by Ernst Thomke, Elmar Mock, and Jacques Müller."
    }
   ],
   "keywords": [
-   "데이터 시각화",
-   "계급 불평등",
+   "모션디자인",
+   "타이포그래피",
+   "시네마4디",
+   "스와치",
+   "콜라보레이션"
+  ],
+  "evidence": "To bring everything together, I built a Cloner system in Cinema 4D that allowed me to randomly mix the different watch designs.",
+  "kind": "영상·필름",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "구체적인 툴과 제작 방식이 드러나 있으나 브랜드 런칭 필름의 전형적인 범위를 크게 벗어나지 않는다.",
+  "v": 2,
+  "url": "https://www.stashmedia.tv/david-carson-time-destination-nyc-swatch-watch-launch-film-by-joao-vaz-oliveira/",
+  "original_title": "David Carson Time: Destination NYC Swatch Watch Launch Film by João Vaz Oliveira",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 3024,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-10 14:44",
+  "research": {
+   "entities": [
+    "David Carson",
+    "João Vaz Oliveira",
+    "Swatch",
+    "Cinema 4D"
+   ],
+   "questions": [
+    "데이비드 카슨의 독창적인 타이포그래피와 그래픽 언어가 모션 디자인을 통해 어떻게 시각화되었는가?",
+    "100여 개의 서로 다른 시계 디자인과 스케치를 하나의 일관된 필름으로 통합하기 위해 어떤 기술적·예술적 시도가 있었는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "David Carson (graphic designer)",
+     "url": "https://en.wikipedia.org/wiki/David%20Carson%20%28graphic%20designer%29"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Swatch",
+     "url": "https://en.wikipedia.org/wiki/Swatch"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 687
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "archdaily.com/1188343/roberta-schioppa-denis-joelsons-studio": {
+  "title_ko": "브라질의 옛 관리실, 돔 아래 거대한 회화 작업을 품은 아틀리에로 변모하다",
+  "summary_ko": "건축가 데니스 조엘슨스가 브라질 이타티바에서 로베르타 스키오파의 미술 아틀리에를 완성했다. 기존 주거 공간의 조각난 방들이 대형 작품 제작을 가로막자, 이들은 과거 관리인의 집을 리노베이션하여 아늑한 분위기를 유지하면서도 넓은 작업 반경을 확보했다.",
+  "lens": "잘게 쪼개진 방의 벽을 걷어내어 대형 작업의 물리적 한계를 정면으로 돌파한다.",
+  "why_now": "파편화된 주거 평면을 해체하여 창작의 물리적 스케일을 확장하는 건축적 개조 방식이 주목받는다.",
+  "mechanism": "기존 주거가 지닌 조각난 방들의 벽체를 허물어 공간을 확장하고, 중앙의 돔 구조를 살려 수직적 볼륨감을 확보한다.",
+  "sensory": "건물의 과거 관리실이라는 아늑한 흔적 위에 돔 아래로 쏟아지는 자연광과 넓은 작업 반경이 겹친다.",
+  "transfer": "공간 씬에서 벽을 철거해 시선을 트는 대신 기존 천장 고와 돔 구조를 살려 수직적 해방감을 주는 세트를 구성한다.",
+  "context": "건축가 데니스 조엘슨스는 브라질 상파울루의 아마빌레 아파트 리노베이션에서 폐쇄적인 평면을 재정비해 빛과 시선을 끌어들이는 공간 재배치를 선보인 바 있다.",
+  "findings": [],
+  "keywords": [
+   "공간리노베이션",
+   "아틀리에",
+   "데니스조엘슨스",
+   "브라질건축"
+  ],
+  "evidence": "Roberta was already using the space as a studio when she invited me to transform the former caretaker's house into a fine arts atelier.",
+  "kind": "프로젝트",
+  "depth": 2,
+  "grounding": "thin",
+  "depth_reason": "원문 분량이 짧아 공간의 구체적 구조 변경 방식이나 재료에 대한 정보가 제한적이다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1188343/roberta-schioppa-denis-joelsons-studio",
+  "original_title": "Roberta Schioppa / Denis Joelsons Studio",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 968,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-10 14:44",
+  "research": {
+   "entities": [
+    "Denis Joelsons",
+    "Roberta Schioppa"
+   ],
+   "questions": [
+    "Denis Joelsons 스튜디오는 기존 관리실 건물을 어떻게 미술 아테리에로 개조했는가?",
+    "이 리노베이션 프로젝트에서 공간의 개방성과 기존의 아늑한 분위기를 어떻게 조화시켰는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "어두운 주거 공간의 반전, 상파울루 아마빌레 아파트 리노베이션",
+     "url": "https://www.archdaily.com/1188223/amabile-apartment-denis-joelsons"
+    }
+   ],
+   "used": [],
+   "chars": 265
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "hyperallergic.com/mona-chalabi-paints-a-picture-of-class-inequality": {
+  "title_ko": "차가운 숫자에 체온을 불어넣는 데이터 시각화의 방식",
+  "summary_ko": "퓰리처상 수상 데이터 저널리스트 모나 찰라비가 신간 '텐 리브스'를 통해 미국 사회의 계급과 경제적 불평등을 조명한다. 6년간 익명의 인터뷰이들을 추적해 얻은 데이터를 핸드드러잉 일러스트레이션으로 번역하여 추상적인 통계를 개인의 구체적인 삶으로 치환한다.",
+  "lens": "차가운 통계의 막을 걷어내고 숫자가 지닌 인간적 무게를 손그림으로 복원한다.",
+  "why_now": "경제 위기와 시스템의 균열이 가속화되는 시대에, 거대 지표 뒤로 은폐된 개인의 실질적인 삶과 계급의 민낯을 직시하게 만든다.",
+  "mechanism": "방대한 수치와 익명 인터뷰의 기록을 세밀한 수작업 일러스트와 연결해 계급의 세부 단계를 시각적 내레이션으로 직조한다.",
+  "sensory": "디지털 화면의 건조한 표상 대신 손으로 눌러 쓴 드로잉의 질감과 온도가 통계의 무거움을 대면하게 만든다.",
+  "transfer": "다큐멘터리나 통계 기반의 영상을 연출할 때, 차가운 그래프 대신 손으로 쓴 주석과 인물의 자필 메모를 화면에 겹쳐 기록의 현장성을 높인다.",
+  "context": "영국 출신의 저널리스트이자 일러스트레이터인 모나 찰라비는 제프 베이조스의 부와 가자지구의 식량난 등 거대 자본과 권력의 횡포를 다각도로 시각화해왔다.",
+  "findings": [
+   {
+    "text": "모나 찰라비는 영국 출신의 퓰리처상 수상 데이터 저널리스트이자 일러스트레이터, 작가이다.",
+    "s": 1,
+    "quote": "Mona Chalabi is a British, Pulitzer Prize-winning data journalist, illustrator and writer"
+   }
+  ],
+  "keywords": [
+   "데이터시각화",
+   "계급불평등",
    "일러스트레이션",
-   "모나 찰라비",
-   "디지털 저널리즘"
+   "모나찰라비"
   ],
   "evidence": "Chalabi organized meticulous interviews conducted with anonymous subjects across income levels over the course of six years into 10 vividly fleshed-out characters.",
   "kind": "작가·인터뷰",
-  "depth": 3,
+  "depth": 4,
   "grounding": "full",
-  "depth_reason": "구체적인 신간 작업과 시각화 방식을 다루지만 인터뷰 기사의 범위에 머물러 적용 범위가 제한적이다.",
+  "depth_reason": "구체적인 작업과 데이터 시각화의 방법론이 명확하지만, 인터뷰 기사라는 형식의 한계로 적용 범위가 좁다.",
   "v": 2,
   "url": "https://hyperallergic.com/mona-chalabi-paints-a-picture-of-class-inequality/",
   "original_title": "Mona Chalabi Paints a Picture of Class Inequality",
@@ -288762,18 +288806,16 @@
   "source_chars": 5181,
   "fetch": "ok",
   "cliche_hits": [],
-  "read_at": "2026-11-10 13:39",
+  "read_at": "2026-11-10 14:45",
   "research": {
    "entities": [
     "Mona Chalabi",
     "Jeff Bezos",
-    "W.E.B. Du Bois",
-    "Ten Lives: How What We Have Shapes Who We Are",
-    "The Exhibit of American Negroes"
+    "W.E.B. Du Bois"
    ],
    "questions": [
-    "모나 찰라비의 신작 'Ten Lives'는 미국 경제적 불평등을 어떤 방식으로 시각화하고 있는가?",
-    "데이터 저널리즘에서 수치에 인간성과 감정을 담아내는 모나 찰라비만의 예술적 접근 방식은 무엇인가?"
+    "모나 찰라비의 신작 'Ten Lives: How What We Have Shapes Who We Are'는 경제적 불평등을 어떻게 시각화하고 있는가?",
+    "데이터 저널리즘에서 핸드드러잉과 예술적 기법이 가지는 소통의 역할은 무엇인가?"
    ],
    "sources": [
     {
@@ -288801,97 +288843,7 @@
    ],
    "chars": 1800
   },
-  "depth_raw": 3,
-  "depth_v": 2
- },
- "archdaily.com/1188143/what-materials-meet-the-demands-of-a-contemporary-kitchen": {
-  "title_ko": "주방의 물성과 인체공학: 마시사 카운터탑이 다루는 표면과 내구성의 결합",
-  "summary_ko": "현대 주방은 단순한 조리 공간을 넘어 거실과 결합된 역동적인 영역으로 진화하고 있다. 마시사 카운터탑(Masisa Countertops)은 MDP RH 기재 위에 멜라민 마감과 강화 오버레이 시트를 결합해 185°C의 내열성과 2만 회 이상의 마모 저항성을 구현한다. 두께 24밀리미터, 규격 600×2480밀리미터의 이 표면은 기능성과 심미성을 동시에 만족시키는 건축적 도구로 작동한다.",
-  "lens": "주방 상판을 단순한 가구가 아니라 인체와 일상의 마찰을 견디는 건축적 표면으로 다룬다.",
-  "why_now": "주방이 거실과 통합되는 개방형 평면이 보편화되면서, 작업대의 재료적 물성이 공간 전체의 시각적 언어를 결정하는 핵심 요소로 부상했다.",
-  "mechanism": "1.5밀리미터 두께의 PVC 에지를 PUR 기술로 접착해 이음새 없는 시각적 연속성을 만들고, 별도의 바니시 마감 없이 기계적 조립과 실란트로 수분 침투를 차단한다.",
-  "sensory": "우유니(Uyuni), 시에라(Sierra), 시프레스 도라도(Ciprés Dorado) 등 무광 매트 마감의 질감이 거실의 조명과 만나 깊이감 있는 시각적 대비를 형성한다.",
-  "transfer": "인체공학적 작업대 높이와 깊이를 설정하는 시퀀스 샷에서, 상판 에지의 디테일과 싱크대 결합부를 밀착 클로즈업하여 내구성과 정밀함을 강조한다.",
-  "context": "칠레에 본사를 둔 마시사(Masisa)는 목질 판상재와 인테리어 자재를 생산하는 미주 지역의 주요 기업이다.",
-  "findings": [
-   {
-    "text": "마시사는 칠레에 본사를 두고 있으며 칠레, 아르헨티나, 페루, 브라질, 베네수엘라, 메히코, 미국에서 제조 사업을 운영하는 목제품 회사이다.",
-    "s": 1,
-    "quote": "MASISA S.A. (BCS: MASISA) is a wood products' company headquartered in Chile with manufacturing operations in Chile, Argentina, Peru, Brazil, Venezuela, Mexico and the United States."
-   },
-   {
-    "text": "아치데일리(ArchDaily)는 건축 뉴스와 프로젝트, 제품, 이벤트 등을 다루는 웹사이트로 칠레 산티아고에 본사를 두고 베를린, 상하이, 메히코시티에 사무소를 둔다.",
-    "s": 2,
-    "quote": "ArchDaily is a website covering architectural news, projects, products, events, interviews and competitions, opinion pieces, among others, catering to architects, designers and other interested parties. It is currently b"
-   }
-  ],
-  "keywords": [
-   "주방 설계",
-   "카운터탑",
-   "재료 공학",
-   "인체공학"
-  ],
-  "evidence": "The contemporary kitchen is no longer just a space for food preparation; it has become one of the most dynamic areas of the home.",
-  "kind": "프로젝트",
-  "depth": 2,
-  "grounding": "full",
-  "depth_reason": "브랜드 자재의 기술적 특성을 소개하는 홍보성 기사로 깊이 있는 공간적 맥락이 제한적이다.",
-  "v": 2,
-  "url": "https://www.archdaily.com/1188143/what-materials-meet-the-demands-of-a-contemporary-kitchen",
-  "original_title": "What materials meet the demands of a contemporary kitchen?",
-  "model": "gemini-3.5-flash-lite",
-  "source_chars": 7517,
-  "fetch": "ok",
-  "cliche_hits": [],
-  "read_at": "2026-11-10 13:40",
-  "research": {
-   "entities": [
-    "Masisa",
-    "ArchDaily"
-   ],
-   "questions": [
-    "현대 주방 설계에서 기능성과 심미성을 동시에 충족하기 위해 고려해야 할 핵심 재료 공학적 요소는 무엇인가?",
-    "인체공학적 주방 설계를 위해 작업대(Countertop)의 규격과 재질이 사용자 경험에 미치는 영향은 무엇인가?"
-   ],
-   "sources": [
-    {
-     "n": 1,
-     "type": "위키백과",
-     "title": "Masisa",
-     "url": "https://en.wikipedia.org/wiki/Masisa"
-    },
-    {
-     "n": 2,
-     "type": "위키백과",
-     "title": "ArchDaily",
-     "url": "https://en.wikipedia.org/wiki/ArchDaily"
-    },
-    {
-     "n": 3,
-     "type": "RE:COLLECTION 과거 기사",
-     "title": "백송의 밀도 속에 심은 140제곱미터의 여름 거처",
-     "url": "https://www.archdaily.com/1185721/a-house-with-one-hundred-pines-luis-barandiaran"
-    },
-    {
-     "n": 4,
-     "type": "RE:COLLECTION 과거 기사",
-     "title": "유토피아와 디스토피아 사이, 기후 전환을 상상하는 법",
-     "url": "https://www.archdaily.com/1185529/between-burning-forests-and-utopian-cities-designing-the-climate-transition"
-    },
-    {
-     "n": 5,
-     "type": "RE:COLLECTION 과거 기사",
-     "title": "백만 제곱미터의 생태 축: 마드리드 푸에르타 데 마드리드 도시 계획 공모",
-     "url": "https://www.archdaily.com/1184822/jury-led-design-competition-for-sustainable-and-innovative-urban-planning-proposals-for-the-puerta-de-madrid-area-in-leganes-madrid"
-    }
-   ],
-   "used": [
-    1,
-    2
-   ],
-   "chars": 1447
-  },
-  "depth_raw": 2,
+  "depth_raw": 4,
   "depth_v": 2
  }
 }
