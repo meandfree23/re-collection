@@ -1,32 +1,38 @@
 {
-  "generated_at": "2026-11-11 01:10 KST",
+  "generated_at": "2026-11-11 02:11 KST",
   "period": "2026.11.04 - 2026.11.11",
-  "total_articles": 399,
+  "total_articles": 413,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 185
+      "count": 191
     },
     {
       "genre": "동시대 미술",
-      "count": 149
+      "count": 154
     },
     {
       "genre": "아방가르드 패션",
-      "count": 46
+      "count": 48
     },
     {
       "genre": "미디어 파사드·3D",
-      "count": 19
+      "count": 20
     }
   ],
   "themes": [
     {
       "keyword": "박물관·전시",
-      "count": 33,
+      "count": 34,
       "previous_count": 27,
       "trend": "rising",
       "items": [
+        {
+          "title": "2026년 가을 Yale University Press의 미술 및 건축 서적",
+          "url": "https://hyperallergic.com/fall-2026-art-and-architecture-books-from-yale-university-press/",
+          "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/11/Yale-UP-Hyperallergic-new-book-releases-Fall-2026.jpg",
+          "source_name": "Hyperallergic"
+        },
         {
           "title": "이 예사롭지 않은 조각품은 소비자의 욕망에 대한 가장 어두운 충동을 드러냅니다.",
           "url": "https://www.dazeddigital.com/art-photography/article/71324/1/lorenza-longhi-art-basel-paris-2026-exhibition-protests-luxury?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=this-unassuming-sculpture-lays-bare-the-darkest-impulses-of-consumer-desire",
@@ -44,12 +50,6 @@
           "url": "https://hyperallergic.com/is-sexy-art-back-or-is-it-just-me/",
           "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/11/SlowDance-MelanieMcLain2.png",
           "source_name": "Hyperallergic"
-        },
-        {
-          "title": "ICA 마이애미, 마이애미 디자인 디스트릭트에 위치한 디자인 세컨드 뮤지엄 빌딩에 젠슬러 임명",
-          "url": "https://www.archdaily.com/1188272/ica-miami-appoints-gensler-to-design-second-museum-building-in-miami-design-district",
-          "image_url": "https://images.adsttc.com/media/images/6af1/98bf/e43f/5e01/8839/8938/large_jpg/ica-miami-appoints-gensler-to-design-second-museum-building-in-miami-design-district_2.jpg?1794218187",
-          "source_name": "ArchDaily"
         }
       ]
     },
@@ -215,6 +215,8 @@
     }
   ],
   "notable_names": [
+    "Sharjah Architecture Triennial",
+    "Mexico City",
     "Mona Chalabi",
     "Dezeen Awards",
     "Andy Warhol",
