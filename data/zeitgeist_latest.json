@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-11 02:11 KST",
+  "generated_at": "2026-11-11 06:01 KST",
   "period": "2026.11.04 - 2026.11.11",
-  "total_articles": 413,
+  "total_articles": 427,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 191
+      "count": 197
     },
     {
       "genre": "동시대 미술",
-      "count": 154
+      "count": 161
     },
     {
       "genre": "아방가르드 패션",
@@ -17,16 +17,22 @@
     },
     {
       "genre": "미디어 파사드·3D",
-      "count": 20
+      "count": 21
     }
   ],
   "themes": [
     {
       "keyword": "박물관·전시",
-      "count": 34,
+      "count": 35,
       "previous_count": 27,
       "trend": "rising",
       "items": [
+        {
+          "title": "노출 강철 트러스와 골판지 금속 봉투 모양 강변 kogaa의 šmeral 예술 공장",
+          "url": "https://www.designboom.com/art/exposed-steel-trusses-corrugated-metal-envelope-riverfront-kogaas-smeral-art-factory/",
+          "image_url": "https://www.designboom.com/wp-content/dbsub/449140/2026-11-09/art-finds-home-in-an-old-factory-1-6af1dda538688.jpg",
+          "source_name": "Designboom Art"
+        },
         {
           "title": "2026년 가을 Yale University Press의 미술 및 건축 서적",
           "url": "https://hyperallergic.com/fall-2026-art-and-architecture-books-from-yale-university-press/",
@@ -44,12 +50,38 @@
           "url": "https://www.designboom.com/art/sprouted-earth-soil-gallery-landscape-future-memories-installation-buro-zemla/",
           "image_url": "https://www.designboom.com/wp-content/dbsub/464485/2026-11-05/landscape-of-future-memories-2-6aecb8f82bb68.jpg",
           "source_name": "Designboom Art"
+        }
+      ]
+    },
+    {
+      "keyword": "목재 건축",
+      "count": 6,
+      "previous_count": 4,
+      "trend": "rising",
+      "items": [
+        {
+          "title": "PPAA는 멕시코에 \"덜 짓기 위한 논쟁\" 으로 트윈 하우스를 만듭니다.",
+          "url": "https://www.dezeen.com/2026/11/10/ppaa-creates-twin-houses-in-mexico-as-an-argument-for-building-less/",
+          "image_url": "https://static-2026.dezeen.com/uploads/2026/10/ppaa-rejas-mexico-house_dezeen_2364_col_14-818x1024.jpg",
+          "source_name": "Dezeen"
         },
         {
-          "title": "섹시한 예술이 돌아왔나요, 아니면 저만 그런가요?",
-          "url": "https://hyperallergic.com/is-sexy-art-back-or-is-it-just-me/",
-          "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/11/SlowDance-MelanieMcLain2.png",
-          "source_name": "Hyperallergic"
+          "title": "Primary Architects는 기복이 심한 목재 지붕으로 중국 시골의 목수 스튜디오를 장식합니다.",
+          "url": "https://www.dezeen.com/2026/11/10/primary-architects-carpenters-home-china/",
+          "image_url": "https://static-2026.dezeen.com/uploads/2026/11/primary-architects-carpenters-home-timber-roof-china_dezeen_1704_col_3-1151x1536-1-1024x1024.jpg",
+          "source_name": "Dezeen"
+        },
+        {
+          "title": "목재로 도시 전체를 건설하는 방법은 무엇입니까? 오스카르 노렐리우스 (Oskar Norelius) 는 목재 건축을 위한 사례",
+          "url": "https://www.wallpaper.com/architecture/wood-city-stockholm-oskar-norelius-white-arkitekter-interview",
+          "image_url": "https://cdn.mos.cms.futurecdn.net/gNjTzZPPQ8hXhZGDTAE2W4-1920-80.jpg",
+          "source_name": "Wallpaper*"
+        },
+        {
+          "title": "숲속 창문이 있는 집/토미야 요스케 건축 디자인",
+          "url": "https://www.archdaily.com/1186270/house-with-forest-windows-yosuke-tomiya-architectural-design",
+          "image_url": "https://images.adsttc.com/media/images/6ac0/0585/90e2/9d01/89d2/dbf1/large_jpg/house-with-forest-windows-yosuke-tomiya-architectural-design_1.jpg?1790969246",
+          "source_name": "ArchDaily"
         }
       ]
     },
@@ -146,38 +178,6 @@
           "url": "https://www.archdaily.com/1187986/framing-natural-light-five-daylighting-strategies-in-cabin-architecture",
           "image_url": "https://images.adsttc.com/media/images/6ae9/10a2/62dc/0e01/8725/78e3/large_jpg/_32.jpg?1793659050",
           "source_name": "ArchDaily"
-        }
-      ]
-    },
-    {
-      "keyword": "목재 건축",
-      "count": 5,
-      "previous_count": 4,
-      "trend": "steady",
-      "items": [
-        {
-          "title": "Primary Architects는 기복이 심한 목재 지붕으로 중국 시골의 목수 스튜디오를 장식합니다.",
-          "url": "https://www.dezeen.com/2026/11/10/primary-architects-carpenters-home-china/",
-          "image_url": "https://static-2026.dezeen.com/uploads/2026/11/primary-architects-carpenters-home-timber-roof-china_dezeen_1704_col_3-1151x1536-1-1024x1024.jpg",
-          "source_name": "Dezeen"
-        },
-        {
-          "title": "목재로 도시 전체를 건설하는 방법은 무엇입니까? 오스카르 노렐리우스 (Oskar Norelius) 는 목재 건축을 위한 사례",
-          "url": "https://www.wallpaper.com/architecture/wood-city-stockholm-oskar-norelius-white-arkitekter-interview",
-          "image_url": "https://cdn.mos.cms.futurecdn.net/gNjTzZPPQ8hXhZGDTAE2W4-1920-80.jpg",
-          "source_name": "Wallpaper*"
-        },
-        {
-          "title": "숲속 창문이 있는 집/토미야 요스케 건축 디자인",
-          "url": "https://www.archdaily.com/1186270/house-with-forest-windows-yosuke-tomiya-architectural-design",
-          "image_url": "https://images.adsttc.com/media/images/6ac0/0585/90e2/9d01/89d2/dbf1/large_jpg/house-with-forest-windows-yosuke-tomiya-architectural-design_1.jpg?1790969246",
-          "source_name": "ArchDaily"
-        },
-        {
-          "title": "키가 큰 알베르토 칼레하 (Alberto Calleja) 가 멕시코 해안의 나무가 우거진 곳으로 콘크리트 카사 노바 (Casa Nova) 를 둘러싸",
-          "url": "https://www.dezeen.com/2026/11/07/taller-alberto-calleja-casa-nova/",
-          "image_url": "https://static-2026.dezeen.com/uploads/2026/11/taller-alberto-calleja-casa-nova-concrete-home-mexico-sq_dezeen_2364_col_0-1024x1024.jpg",
-          "source_name": "Dezeen"
         }
       ]
     },
