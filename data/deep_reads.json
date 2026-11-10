@@ -288845,5 +288845,73 @@
   },
   "depth_raw": 4,
   "depth_v": 2
+ },
+ "archdaily.com/1188110/master-plan-meets-land-planning-amaravati-indias-new-state-capital": {
+  "title_ko": "아마라바티: 농경지와 수로를 흡수하는 신도시 마스터플랜의 시험",
+  "summary_ko": "인도 안드라프라데시주의 새로운 주도 아마라바티는 기존 농경지와 마을, 크리슈나강을 중심으로 한 수로 체계를 기반으로 설계되었다. 2014년 주 분할 이후 본격화된 이 프로젝트는 기존 거주지의 토지 소유권을 도시 개발 과정에 편입하여 행정 중심지와 농촌 경관을 통합하는 전략을 취한다.",
+  "lens": "신도시를 빈 도화지가 아닌 기존 농경지와 수로라는 생태적·사회적 층위 위에 덧씌우는 도시 설계의 태도를 살핀다.",
+  "why_now": "급격한 도시화 속에서 기존 지형과 공동체를 훼손하지 않고 새로운 행정 기능을 이식하려는 시도는 현대 도시 계획의 핵심 과제다.",
+  "mechanism": "기존 마을과 농로를 도시의 교통망과 제도적 구획으로 재조직하여, 물리적 인프라가 기존 지형의 맥락을 따라 흐르도록 설계했다.",
+  "sensory": "크리슈나강의 범람원과 비옥한 농경지가 도시의 오픈 스페이스로 변모하며, 수평적인 농촌의 풍경과 거대한 행정 건물의 수직적 스케일이 충돌한다.",
+  "transfer": "도시 규모의 콘티를 짤 때, 신축 건물의 매스를 배치하기 전 기존 지형의 물길과 보행로를 먼저 레이어로 깔아 공간의 연속성을 확보하라.",
+  "context": "아마라바티는 2014년 텔랑가나주 분리 이후 안드라프라데시주의 새로운 수도로 지정되었다. 크리슈나강은 인도에서 세 번째로 긴 강으로, 이 지역 농업과 관개 시설의 중추적 역할을 수행하며 프로젝트의 생태적 근간을 이룬다.",
+  "findings": [
+   {
+    "text": "크리슈나강은 인도에서 갠지스강과 고다바리강 다음으로 세 번째로 긴 강이며, 데칸 고원을 가로질러 벵골만으로 흐른다.",
+    "s": 1,
+    "quote": "The Krishnā River, in full Krishnaveni, in the Deccan Plateau is the third-longest in India, after the Ganga and Godavari."
+   },
+   {
+    "text": "크리슈나강은 안드라프라데시주를 포함한 4개 주에서 농업용수 공급의 핵심적인 역할을 담당한다.",
+    "s": 1,
+    "quote": "It is a major source of irrigation in the Indian states of Maharashtra, Karnataka, Telangana and Andhra Pradesh."
+   }
+  ],
+  "keywords": [
+   "도시계획",
+   "지형순응",
+   "크리슈나강",
+   "아마라바티",
+   "인프라"
+  ],
+  "evidence": "The capital project is reorganizing this agrarian territory into a planned administrative city",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "신도시 마스터플랜의 기본 방향은 제시했으나, 구체적인 건축적 장치나 현장의 상세한 물성 정보가 부족하다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1188110/master-plan-meets-land-planning-amaravati-indias-new-state-capital",
+  "original_title": "Master Plan Meets Land: Planning Amaravati, India’s New State Capital",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 1908,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-10 15:32",
+  "research": {
+   "entities": [
+    "Amaravati",
+    "Andhra Pradesh",
+    "Telangana",
+    "Krishna River"
+   ],
+   "questions": [
+    "아마라바티 신도시 마스터플랜이 기존 농경지와 지역 주민들의 삶에 어떤 방식으로 통합되고 있는가?",
+    "안드라프라데시주의 분할 이후 아마라바티 수도 건설 프로젝트가 직면한 행정적, 재정적 과제는 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Krishna River - Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Krishna_River?utm_medium=website&utm_source=archdaily.com"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 2600
+  },
+  "depth_raw": 3,
+  "depth_v": 2
  }
 }
