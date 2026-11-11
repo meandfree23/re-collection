@@ -3490,5 +3490,52 @@
   "v": 3,
   "model": "gemini-3.1-flash-lite",
   "written_at": "2026-11-11 01:14"
+ },
+ "2026-11-12": {
+  "date": "2026-11-12",
+  "headline": "글루램 목재의 뼈대와 젤라바의 주름, 겹쳐진 유산의 표면",
+  "editorial": "요크 민스터의 수직성을 현대적 글루램 목재로 치환한 통킹 리우의 작업은 과거의 무게를 가벼운 기술로 옮겨내는 방식을 보여준다. 앤에버는 모로코의 젤라바에서 길어 올린 유연한 구조로 몸의 이동을 긍정하며, 도쿄 브루탈리즘 창고를 점유한 낫 어 호텔은 거친 산업 유산 위에 정교한 유리 모듈을 얹어 대조를 극대화한다. 이들은 고정된 유산을 박제하지 않고 현재의 기술과 생활 양식으로 통과시키며 새로운 단단함을 증명한다.",
+  "threads": [
+   {
+    "name": "유산의 현대적 치환",
+    "note": "역사적 건축물이나 전통 공예의 원형을 현대의 소재와 기술로 변환하여 새로운 기능을 부여한다.",
+    "items": [
+     {
+      "title": "요크 민스터의 수호자, 통킹 리우가 빚은 글루램 목재 공방",
+      "url": "https://www.dezeen.com/2026/11/11/york-minster-centre-excellence-tonkin-liu/"
+     },
+     {
+      "title": "도쿄 브루탈리즘 창고의 귀환, 낫 어 호텔의 아카이브 본사",
+      "url": "https://www.dezeen.com/2026/11/11/not-a-hotel-architects-brutalist-tokyo-warehouse-office/"
+     },
+     {
+      "title": "스타라 푸지나 문화 센터: 1983년 공동체 유산을 잇는 리노베이션",
+      "url": "https://www.archdaily.com/1188337/cultural-and-community-center-stara-fuzina-ofis-architects"
+     }
+    ]
+   },
+   {
+    "name": "이동과 변형의 구조",
+    "note": "박제된 상태가 아닌, 몸의 움직임이나 관계에 따라 변화하는 설계의 유연성을 탐구한다.",
+    "items": [
+     {
+      "title": "무대 위로 확장된 자하 하디드의 기하학, 공연 예술 아카이브가 드러낸 실험",
+      "url": "https://www.dezeen.com/2026/11/11/zaha-hadid-foundation-stage-design/"
+     },
+     {
+      "title": "모로코의 젤라바에서 길어 올린 유연한 이동의 유니폼, 앤에버",
+      "url": "https://coolhunting.com/style/how-adam-khafif-built-andever-a-uniform-for-those-who-move-between-worlds/"
+     },
+     {
+      "title": "식물이 빚은 외계의 건축: 티모시 부머가 포착한 충영의 기하학",
+      "url": "https://www.designboom.com/art/organisms-timothy-boomer-alien-architecture-plant-galls-macro-photography/"
+     }
+    ]
+   }
+  ],
+  "based_on": 24,
+  "v": 3,
+  "model": "gemini-3.1-flash-lite",
+  "written_at": "2026-11-12 01:01"
  }
 }
