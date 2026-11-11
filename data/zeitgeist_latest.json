@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-11-12 00:56 KST",
+  "generated_at": "2026-11-12 01:55 KST",
   "period": "2026.11.05 - 2026.11.12",
-  "total_articles": 405,
+  "total_articles": 412,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 182
+      "count": 183
     },
     {
       "genre": "동시대 미술",
-      "count": 159
+      "count": 164
     },
     {
       "genre": "아방가르드 패션",
-      "count": 45
+      "count": 46
     },
     {
       "genre": "미디어 파사드·3D",
@@ -23,10 +23,22 @@
   "themes": [
     {
       "keyword": "박물관·전시",
-      "count": 32,
+      "count": 34,
       "previous_count": 24,
       "trend": "rising",
       "items": [
+        {
+          "title": "현대 비즈 공예가 켄 윌리엄스 주니어, 코닝 유리 박물관의 라코우 커미션 수상",
+          "url": "https://hyperallergic.com/contemporary-beadworker-ken-williams-jr-awarded-rakow-commission-by-corning-museum-of-glass/",
+          "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/11/I-Am-the-Hungry-Cat_Ken-Williams-Jr.jpg",
+          "source_name": "Hyperallergic"
+        },
+        {
+          "title": "미스즈 갤러리(Mrs. Gallery), 예술품 수집가들을 퀸즈로 유치한 지 10주년 맞이",
+          "url": "https://hyperallergic.com/mrs-gallery-marks-10-years-of-getting-art-collectors-to-queens/",
+          "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/11/IMG_9417.jpeg",
+          "source_name": "Hyperallergic"
+        },
         {
           "title": "뉴욕 원주민 예술의 새로운 터전",
           "url": "https://hyperallergic.com/a-new-home-for-native-art-in-new-york/",
@@ -38,27 +50,21 @@
           "url": "https://www.dezeen.com/2026/11/11/zaha-hadid-foundation-stage-design/",
           "image_url": "https://static-2026.dezeen.com/uploads/2026/11/zaha-hadid-architecture-of-performance-exhibition-foundation-london-architecture-stage-design_dezeen_2364_sq-1-1024x1024.jpg",
           "source_name": "Dezeen"
-        },
-        {
-          "title": "파워하우스 파라마타 (Powerhouse Parramatta) 에 인류가 가득한 박물관이 있는 극적인 외골격",
-          "url": "https://www.wallpaper.com/architecture/public-buildings/powerhouse-parramatta-australia",
-          "image_url": "https://cdn.mos.cms.futurecdn.net/jfvjphJjqvdX8NBGkt4gYE-1920-80.jpg",
-          "source_name": "Wallpaper*"
-        },
-        {
-          "title": "노출 강철 트러스와 골판지 금속 봉투 모양 강변 kogaa의 šmeral 예술 공장",
-          "url": "https://www.designboom.com/art/exposed-steel-trusses-corrugated-metal-envelope-riverfront-kogaas-smeral-art-factory/",
-          "image_url": "https://www.designboom.com/wp-content/dbsub/449140/2026-11-09/art-finds-home-in-an-old-factory-1-6af1dda538688.jpg",
-          "source_name": "Designboom Art"
         }
       ]
     },
     {
       "keyword": "목재 건축",
-      "count": 7,
+      "count": 8,
       "previous_count": 3,
       "trend": "rising",
       "items": [
+        {
+          "title": "플라나 유치원  / PROAM ARCHITEKTI",
+          "url": "https://www.archdaily.com/1187802/plana-kindergarten-proam-architekti",
+          "image_url": "https://images.adsttc.com/media/images/6ae3/d82c/a8ed/4101/8962/32cb/large_jpg/plana-kindergarten-proam-architekti_3.jpg?1793316920",
+          "source_name": "ArchDaily"
+        },
         {
           "title": "통킹 류 (Tonkin Liu) 는 요크 민스터 (York Minster) 를 복원하는 공예가를 위해 글룰람 건물 한 쌍을 만듭니다.",
           "url": "https://www.dezeen.com/2026/11/11/york-minster-centre-excellence-tonkin-liu/",
@@ -76,12 +82,6 @@
           "url": "https://www.dezeen.com/2026/11/10/primary-architects-carpenters-home-china/",
           "image_url": "https://static-2026.dezeen.com/uploads/2026/11/primary-architects-carpenters-home-timber-roof-china_dezeen_1704_col_3-1151x1536-1-1024x1024.jpg",
           "source_name": "Dezeen"
-        },
-        {
-          "title": "목재로 도시 전체를 건설하는 방법은 무엇입니까? 오스카르 노렐리우스 (Oskar Norelius) 는 목재 건축을 위한 사례",
-          "url": "https://www.wallpaper.com/architecture/wood-city-stockholm-oskar-norelius-white-arkitekter-interview",
-          "image_url": "https://cdn.mos.cms.futurecdn.net/gNjTzZPPQ8hXhZGDTAE2W4-1920-80.jpg",
-          "source_name": "Wallpaper*"
         }
       ]
     },
