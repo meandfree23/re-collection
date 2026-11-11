@@ -295910,5 +295910,186 @@
   },
   "depth_raw": 5,
   "depth_v": 2
+ },
+ "hyperallergic.com/susan-siltons-loud-and-proud-whistle": {
+  "title_ko": "수잔 실턴, 정체성의 경계를 스캔하고 해체하는 방식",
+  "summary_ko": "로스앤젤레스 시립 미술관에서 열린 수잔 실턴(Susan Silton)의 40년 회고전은 퀴어, 질병, 환경을 둘러싼 정치적 담론을 다각도로 조명한다. 작가는 그래픽 디자인 배경을 바탕으로 인쇄물, 영상, 설치, 퍼포먼스를 아우르며 정체성의 범주화를 비판하고 유동적인 인간상을 탐구한다.",
+  "lens": "고정된 인간의 형상을 스캐너라는 기계적 장치로 왜곡해, 정체성이 고정불변의 실체가 아닌 유동적인 물질임을 시각화한다.",
+  "why_now": "디지털 기술이 인간의 정체성을 데이터로 박제하려는 시대에, 기계적 오류와 왜곡을 통해 정체성의 가변성을 증명하는 작업은 유효한 비판적 시각을 제공한다.",
+  "mechanism": "작동 중인 스캐너 위로 얼굴을 밀어 넣어 신체를 비정형의 물질처럼 일그러뜨리는 방식을 취한다. 이는 인물 사진의 재현적 기능을 거부하고 신체를 유연한 데이터의 덩어리로 변환하는 장치로 작동한다.",
+  "sensory": "스캔 과정에서 발생하는 디지털 노이즈와 왜곡된 질감이 비정형 석재나 산화된 금속처럼 물리적 무게감을 지닌 물질처럼 느껴진다.",
+  "transfer": "인물을 촬영할 때 카메라의 셔터 속도와 피사체의 움직임을 비대칭적으로 결합하여, 인물의 이목구비를 해체하고 추상적인 형상으로 변주하는 콘티에 적용 가능하다.",
+  "context": "수잔 실턴은 로스앤젤레스를 기반으로 활동하며 사진, 영상, 퍼포먼스, 사운드 등 매체를 가리지 않는 학제 간 작업을 이어왔다. 1995년 제임스 D. 펠란 사진상(James D. Phelan Art Award in Photography)을 수상하며 개념 예술가로서 입지를 다졌다.",
+  "findings": [
+   {
+    "text": "수잔 실턴은 로스앤젤레스에서 활동하는 학제 간 예술가로, 사진, 영상, 설치, 퍼포먼스, 사운드 및 언어를 활용한 프로젝트를 진행한다.",
+    "s": 1,
+    "quote": "Susan Silton (born 1956) is an interdisciplinary artist based in Los Angeles. Her projects incorporate photography, video, installation, performance, sound, and language."
+   },
+   {
+    "text": "로스앤젤레스 시립 미술관은 캘리포니아주 로스앤젤레스의 반스달 아트 파크에 위치하며 남부 캘리포니아의 예술과 예술가에게 집중한다.",
+    "s": 2,
+    "quote": "The Los Angeles Municipal Art Gallery is located in the Barnsdall Art Park in Los Angeles, California. It focuses on the arts and artists of Southern California."
+   }
+  ],
+  "keywords": [
+   "수잔 실턴",
+   "개념 예술",
+   "정체성",
+   "스캐너",
+   "비정형"
+  ],
+  "evidence": "distorted her physiognomy to resemble a malleable substance, a metaphor for her belief that queerness is only one of many aspects of a person’s identity",
+  "kind": "전시",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "작가의 초기 그래픽 디자인 경력과 스캐너를 활용한 구체적인 매체 변용 기법이 정체성 담론과 긴밀하게 연결되어 있어 분석적 가치가 높다.",
+  "v": 2,
+  "url": "https://hyperallergic.com/susan-siltons-loud-and-proud-whistle/",
+  "original_title": "Susan Silton's Loud and Proud Whistle",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 2424,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-11 12:16",
+  "research": {
+   "entities": [
+    "Susan Silton",
+    "Los Angeles Municipal Art Gallery"
+   ],
+   "questions": [
+    "수산 실턴의 40년 회고전에서 다루어진 주요 개념적 주제들은 무엇인가요?",
+    "스캐너를 활용한 자기 초상화 시리즈는 어떤 예술적 의미를 지니고 있나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Susan Silton",
+     "url": "https://en.wikipedia.org/wiki/Susan%20Silton"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Los Angeles Municipal Art Gallery",
+     "url": "https://en.wikipedia.org/wiki/Los%20Angeles%20Municipal%20Art%20Gallery"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 816
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "design-milk.com/delf-ii-furniture-collection": {
+  "title_ko": "목재의 골조에 파고든 세라믹의 선, 델프(Delf) 가구 컬렉션의 확장",
+  "summary_ko": "대니 카플란(Danny Kaplan)과 빈스 패티(Vince Patti)가 협업한 델프(Delf) 컬렉션이 데스크, 커피 테이블, 콘솔, 나이트스탠드를 포함한 2차 라인업을 공개했다. 네덜란드어로 '파내다'라는 뜻을 지닌 이름처럼, 화이트 오크 목재를 정교하게 파내고 그 틈을 수제 세라믹 타일로 채우는 방식을 고수한다. 장 미셸 프랑크(Jean-Michel Frank)의 병풍 실루엣에서 영감을 얻은 기하학적 형태가 특징이다.",
+  "lens": "목재의 견고한 구조와 세라믹의 비정형적 질감을 결합하여, 가구의 표면을 단순한 마감이 아닌 조형적 틈새로 재정의한다.",
+  "why_now": "디지털 제조가 일반화된 시점에 수주 단위의 수작업 공정을 고집하며, 재료 간의 물리적 결합을 통해 제품의 서사를 구축하는 흐름을 보여준다.",
+  "mechanism": "목재를 미리 가공해 홈을 파고, 별도로 소성한 세라믹 타일을 수작업으로 끼워 맞추는 정밀한 조립 공정을 따른다. 황동과 알루미늄으로 제작된 하드웨어는 점토 모델링을 거쳐 주조하며, 각 공정은 수주가 소요되는 밀도 있는 제작 과정을 거친다.",
+  "sensory": "화이트 오크의 매끄러운 곡면과 그 사이를 채운 세라믹의 밀도 높은 질감이 대비된다. 빛이 닿을 때 타일의 유약이 머금은 깊은 색감과 목재의 따뜻한 나뭇결이 교차하며 시각적 무게감을 형성한다.",
+  "transfer": "공간 내 가구 배치 시, 목재의 구조적 라인과 타일의 색상이 겹치는 지점을 강조하는 조명을 설계하라. 영상 콘티에서는 목재의 홈을 채우는 세라믹의 정밀한 결합부를 클로즈업하여 재료의 물성이 맞물리는 과정을 시각화한다.",
+  "context": "대니 카플란은 프랑스 발로리스(Vallauris) 도예 기법을 현대 가구에 이식하는 작업을 지속해왔으며, 빈스 패티는 1970년대 펄프 판타지와 티무르 건축에서 영감을 얻은 구조적 조형을 추구한다. 두 디자이너는 장 미셸 프랑크의 미니멀리즘과 소재의 고급스러운 결합을 현대적으로 재해석하여 상업적 컬렉션으로 확장했다.",
+  "findings": [
+   {
+    "text": "대니 카플란 스튜디오는 조명과 조각적 가구에 집중하며 모든 제품을 주문 제작 방식으로 생산한다.",
+    "s": 1,
+    "quote": "Danny Kaplan Studio is a design studio based in Brooklyn focused on lighting and sculptural furniture. Everything is handmade to order."
+   },
+   {
+    "text": "장 미셸 프랑크는 1930년대 미니멀리즘 인테리어와 고급 소재를 활용한 가구 디자인으로 명성을 얻었다.",
+    "s": 4,
+    "quote": "Jean-Michel Frank was a French interior designer known for minimalist interiors decorated with plain-lined but sumptuous furniture made of luxury materials"
+   }
+  ],
+  "keywords": [
+   "수제 세라믹",
+   "화이트 오크",
+   "조형적 가구",
+   "재료 결합",
+   "디테일"
+  ],
+  "evidence": "Each piece is crafted from white oak and accented with hand-built ceramic",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "재료의 결합 방식과 제작 공정이 구체적으로 서술되어 있으며, 가구 디자인의 맥락과 기술적 장치가 명확히 드러난다.",
+  "v": 2,
+  "url": "https://design-milk.com/delf-ii-furniture-collection/",
+  "original_title": "Danny Kaplan and Vince Patti Expand Their Delf Furniture Collection",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 4814,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-11 12:16",
+  "research": {
+   "entities": [
+    "Danny Kaplan",
+    "Vince Patti",
+    "Jean-Michel Frank",
+    "Lesser Miracle",
+    "Vallauris"
+   ],
+   "questions": [
+    "대니 카플란과 빈스 파티의 협업 스튜디오 Lesser Miracle은 어떤 방식으로 두 디자이너의 역량을 결합하고 있는가?",
+    "목재와 수제 세라믹의 결합을 특징으로 하는 Delf 컬렉션의 세부 제작 공정과 디자인 철학은 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Danny Kaplan Studio",
+     "url": "https://www.dannykaplanstudio.com/"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Lesser Miracle",
+     "url": "https://lessermiracle.com/"
+    },
+    {
+     "n": 3,
+     "type": "공식·1차",
+     "title": "Delf Collection - Danny Kaplan Studio",
+     "url": "https://www.dannykaplanstudio.com/collections/delf-collection"
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "Jean-Michel Frank",
+     "url": "https://en.wikipedia.org/wiki/Jean-Michel%20Frank"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "부에노스아이레스, 1930년대 모더니즘 건축의 실험적 풍경",
+     "url": "https://www.wallpaper.com/architecture/buenos-aires-modernism"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "무라노 유리부터 금속 드레이핑까지, 뉴욕 디자인 위크 하이라이트",
+     "url": "https://www.sightunseen.com/2026/05/murano-glass-plaster-flowers-mosaic-tables-all-the-hits-from-new-york-design-month-so-far/"
+    },
+    {
+     "n": 7,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "합판 웨인스코팅으로 구축한 브루클린 주거의 온기",
+     "url": "https://www.architecturaldigest.com/story/somerset-house-brooklyn-apartment-design"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "chars": 1946
+  },
+  "depth_raw": 4,
+  "depth_v": 2
  }
 }
