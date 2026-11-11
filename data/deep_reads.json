@@ -299731,5 +299731,888 @@
   },
   "depth_raw": 4,
   "depth_v": 2
+ },
+ "elephant.art/crying-with-jeanie-yoo": {
+  "title_ko": "지니 유: 모델의 얼굴로 회화를 지탱하는 다중적 실존의 기록",
+  "summary_ko": "뉴욕 리지우드 기반의 예술가이자 모델 지니 유는 LA와 뉴욕을 오가는 고된 일정을 소화하며 자신의 모델 활동 수익으로 회화 작업을 이어간다. 전시 설치 직전까지 이어지는 이동과 노동 속에서 그는 자신의 감각을 메모 앱에 기록하고, 어머니와의 관계나 생리 주기 같은 사적인 파편을 통해 여성의 실존을 탐구한다.",
+  "lens": "고도의 자본주의적 노동과 예술적 창작 사이, 신체를 도구로 삼아 회화의 물성을 지탱하는 이중적 삶의 감각을 관찰한다.",
+  "why_now": "디지털 피로를 극복하기 위해 아날로그 기록 도구인 브릭(Brick)을 사용하고, 신체적·생물학적 리듬을 작업의 일부로 수용하는 태도는 불안정한 시대의 생존 전략이다.",
+  "mechanism": "모델로서의 타자화된 시선과 예술가로서의 주체적 시선을 교차시키며, 일상의 사소한 사건(어머니와의 식사, 비행기 이동)을 회화적 모티프로 치환한다.",
+  "sensory": "공항의 차가운 금속성, 레드아이 비행의 피로, 전시 설치 직전의 긴박한 긴장감과 어머니가 가져온 중식의 온기가 대비되는 감각적 레이어.",
+  "transfer": "모델의 워킹과 턴을 담는 샷에서, 전문적인 화려함 대신 피로와 일상이 묻어나는 비정형적인 움직임을 포착하여 인물의 서사를 층위 있게 구성한다.",
+  "context": "귀네스 길러는 이전에도 브레 앤디나 소체와 같은 예술가들과 대담하며 여성의 방랑과 일상의 굴욕을 예술적 실천으로 승화시키는 서사를 꾸준히 기록해왔다. 이는 엘리펀트가 주목하는 뉴욕 예술계의 비주류 서사와 맥을 같이 한다.",
+  "findings": [
+   {
+    "text": "INFP 유형은 내면의 풍부한 감수성과 창의성을 바탕으로 타인과 깊이 연결되기를 갈망하며, 일상의 사소한 기억을 소중히 간직하는 경향이 있다.",
+    "s": 1,
+    "quote": "Creative and imaginative, they happily lose themselves in daydreams, inventing all sorts of stories and conversations in their mind. INFPs are known for their sensitivity – these personalities can have profound emotional"
+   }
+  ],
+  "keywords": [
+   "지니유",
+   "다중적실존",
+   "예술가노동",
+   "여성서사",
+   "리지우드"
+  ],
+  "evidence": "Jeanie Yoo is living several lives all at once. The Ridgewood-based artist and model is funding her art with her face",
+  "kind": "작가·인터뷰",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "예술가와 모델을 병행하는 구체적 삶의 양상은 흥미로우나, 예술적 기법이나 작업의 시각적 결과물에 대한 상세한 묘사가 부족하다.",
+  "v": 2,
+  "url": "https://elephant.art/crying-with-jeanie-yoo/",
+  "original_title": "Crying with Jeanie Yoo",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 9000,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-12 05:24",
+  "research": {
+   "entities": [
+    "Jeanie Yoo",
+    "Gwyneth Giller",
+    "Linus Borgo",
+    "Elephant"
+   ],
+   "questions": [
+    "예술가와 모델 활동을 병행하는 지니 유(Jeanie Yoo)의 작업 세계와 그가 추구하는 예술적 지향점은 무엇인가?",
+    "아티스트 어시스턴트 경험이 신진 예술가의 커리어 형성과 작업 방식에 어떤 영향을 미치는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "INFP Personality (Mediator) | 16Personalities",
+     "url": "https://www.16personalities.com/infp-personality"
+    },
+    {
+     "n": 2,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "브레 앤디: 일상의 파편에서 길어 올린 여성의 초상",
+     "url": "https://elephant.art/bre-andy-being-everything/"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "소체(Sotce): 통제 불가능한 우주를 받아들이는 예술적 태도",
+     "url": "https://elephant.art/surrendering-to-sotce/"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "여름 뉴욕, 주목해야 할 6가지 전시: 기록을 덧쓰고 금기를 해체하는 시선들",
+     "url": "https://elephant.art/art-isnt-dead-in-the-summer-here-are-the-six-best-nyc-art-shows-to-see/"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "chars": 3418
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "hyperallergic.com/anne-anlin-cheng-and-patty-chang-on-beauty-and-violence": {
+  "title_ko": "패티 창의 영화 '멜론'이 폭로하는 아시아계 여성 신체의 역사적 무게",
+  "summary_ko": "패티 창의 단편 영화 '멜론(At a Loss)'은 1940년대 총알 브래지어를 착용한 채 머리에 도자기 접시를 이고 자신의 가슴을 칼로 썰어내는 퍼포먼스를 담는다. 이 신체적 폭력과 자가 영양의 행위를 통해 가족과 국가가 아시아계 미국인 여성의 몸에 지운 역사적 유산의 무게를 성찰한다.",
+  "lens": "여성의 신체를 착취해 온 도자기와 오브제의 역사적 물성을 자해와 식사의 서사로 전복한다.",
+  "why_now": "인종과 젠더를 가로지르는 폭력의 유산이 신체에 새겨지는 방식을 시각적으로 해부하는 작업이다.",
+  "mechanism": "고정된 카메라 앵글 앞에서 벌어지는 자해와 과장된 식사의 반복이 관람객에게 불편한 신체적 긴장감을 유발한다.",
+  "sensory": "1940년대풍 브래지어의 단단한 실루엣, 맹독성 안료가 칠해진 도자기 접시의 차가운 물성, 멜론 과육을 헤집는 소리가 뒤섞인다.",
+  "transfer": "인물의 신체적 고통과 가학적 행위가 교차하는 숏에서 사운드와 카메라를 고정하여 심리적 압박감을 극대화하는 연출에 활용한다.",
+  "context": "미국 로스앤젤레스에서 활동하는 퍼포먼스 아티스트 패티 창은 신체와 정체성의 관계를 다루는 작업을 지속해 왔다.",
+  "findings": [
+   {
+    "text": "패티 창은 1972년 캘리포니아주 샌레전드로에서 태어난 미국 퍼포먼스 아티스트이자 영화 감독이다.",
+    "s": 1,
+    "quote": "Patty Chang (born February 3, 1972, in San Leandro, California) is an American performance artist and film director living and working in Los Angeles, California."
+   },
+   {
+    "text": "앤 안린 쳉은 프린스턴 대학교의 영문학 및 미국학 교수이다.",
+    "s": 2,
+    "quote": "She is currently a Professor of English and American Studies at Princeton University."
+   }
+  ],
+  "keywords": [
+   "패티창",
+   "퍼포먼스",
+   "신체정체성",
+   "폭력"
+  ],
+  "evidence": "When I first saw Patty Chang’s short film “Melons (At a Loss)” (1988), I was stunned by its cheeky and chilling meditation on the female Asian-American body",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "작가 패티 창의 초기 대표적 퍼포먼스 영화를 분석하며 신체와 폭력의 관계를 구체적으로 다루기 때문이다.",
+  "v": 2,
+  "url": "https://hyperallergic.com/anne-anlin-cheng-and-patty-chang-on-beauty-and-violence/",
+  "original_title": "Anne Anlin Cheng and Patty Chang on Beauty and Violence",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 2893,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-12 05:24",
+  "research": {
+   "entities": [
+    "Patty Chang",
+    "Anne Anlin Cheng",
+    "Melons (At a Loss)"
+   ],
+   "questions": [
+    "패티 창의 작품 'Melons (At a Loss)'에서 멜론과 도자기 접시가 상징하는 아시아계 미국인 여성의 신체적, 역사적 의미는 무엇인가?",
+    "앤 안린 쳉이 주장하는 '아름다움과 폭력'의 관계가 패티 창의 퍼포먼스에서 어떻게 시각적으로 구현되고 있는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Patty Chang",
+     "url": "https://en.wikipedia.org/wiki/Patty%20Chang"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Anne Anlin Cheng",
+     "url": "https://en.wikipedia.org/wiki/Anne%20Anlin%20Cheng"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 1155
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "hyperallergic.com/trisha-baga-laylah-ali-and-kay-walkingstick-among-anonymous-was-a-woman-awardees": {
+  "title_ko": "어노니머스 워즈 어 우먼이 주목한 40대 이상 예술가 15인의 실천",
+  "summary_ko": "비영리 단체 어노니머스 워즈 어 우먼(Anonymous Was A Woman)이 미국 전역에서 활동하는 40세 이상의 여성, 트랜스젠더, 논바이너리 예술가 15인을 선정해 5만 달러의 무제한 상금을 수여한다. 1996년 사진작가 수전 운터버그(Susan Unterberg)가 미국 예술 기금(NEA)의 개인 지원 중단에 대응해 설립한 이 프로그램은, 저평가된 여성 예술가들의 창작 활동을 지속적으로 지원해 왔다.",
+  "lens": "창작의 정점에 도달했으나 조명받지 못한 40대 이상 예술가들의 작업이 지닌 물리적·시간적 무게를 재발견한다.",
+  "why_now": "예술계의 데이터 중심 평가에서 벗어나, 긴 시간 축적된 작가의 고유한 조형 언어와 생태적 깊이를 재평가해야 할 시점이다.",
+  "mechanism": "미국 예술 기금의 개인 보조금 폐지라는 제도적 공백을, 민간의 무제한 상금 지원이라는 직접적인 자본 투입으로 메우는 방식이다.",
+  "sensory": "91세 화가 케이 워킹스틱(Kay WalkingStick)의 회화적 층위부터 41세 트리샤 바가(Trisha Baga)의 비디오 설치가 보여주는 매체적 실험까지, 세대를 가로지르는 작업의 밀도를 드러낸다.",
+  "transfer": "작가의 연대기를 시각화할 때, 초기작부터 현재까지의 재료 변화와 시간의 궤적을 하나의 몽타주로 구성하여 작가의 서사를 구축한다.",
+  "context": "수전 운터버그는 2018년까지 익명으로 재단을 운영하며 예술가들의 창작 자율성을 보장했다. 프로그램 명칭은 버지니아 울프의 에세이 '자기만의 방'에서 인용했으며, 이는 예술적 주체성을 억압받던 여성의 역사를 환기한다.",
+  "findings": [
+   {
+    "text": "어노니머스 워즈 어 우먼 상은 1996년 미국 예술 기금의 개인 지원 중단에 대응하여 수전 운터버그에 의해 설립되었다.",
+    "s": 2,
+    "quote": "In 2018, she stepped forward as the founder and funder of the Anonymous Was A Woman Award."
+   },
+   {
+    "text": "재단 명칭은 버지니아 울프의 에세이 '자기만의 방'에 나오는 문장에서 유래했다.",
+    "s": 1,
+    "quote": "The title is a quote from Virginia Woolf's influential essay, \"A Room of One's Own\"."
+   }
+  ],
+  "keywords": [
+   "어노니머스워즈어우먼",
+   "예술가 지원",
+   "수전 운터버그",
+   "창작 지원"
+  ],
+  "evidence": "Anonymous Was A Woman (AWAW), a nonprofit supporting women, trans, and non-binary artists above 40, named 15 artists",
+  "kind": "뉴스·이슈",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "예술가 지원 프로그램의 역사적 맥락과 목적을 명확히 설명하나, 개별 작가들의 작업 기법에 대한 심층적 분석은 부족하다.",
+  "v": 2,
+  "url": "https://hyperallergic.com/trisha-baga-laylah-ali-and-kay-walkingstick-among-anonymous-was-a-woman-awardees/",
+  "original_title": "Trisha Baga, Laylah Ali, and Kay WalkingStick Among Anonymous Was A Woman Awardees",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 1920,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-12 05:24",
+  "research": {
+   "entities": [
+    "Anonymous Was A Woman",
+    "Susan Unterberg",
+    "Laylah Ali",
+    "Kay WalkingStick",
+    "Trisha Baga"
+   ],
+   "questions": [
+    "Anonymous Was A Woman 재단이 설립된 역사적 배경과 예술계에 미친 영향은 무엇인가요?",
+    "이 상이 40세 이상의 여성, 트랜스젠더, 논바이너리 예술가들을 지원하는 구체적인 선정 기준과 목적은 무엇인가요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Anonymous Was a Woman",
+     "url": "https://en.wikipedia.org/wiki/Anonymous%20Was%20a%20Woman"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Susan Unterberg",
+     "url": "https://en.wikipedia.org/wiki/Susan%20Unterberg"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 759
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "hyperallergic.com/betsy-james-wyeths-placemaking-prowess": {
+  "title_ko": "앤드루 와이엇을 완성한 설계자, 베트시 제임스 와이엇의 공간들",
+  "summary_ko": "미국 화가 앤드루 와이엇의 아내이자 크리에이티브 파트너였던 베트시 제임스 와이엇의 생애와 환경 조성 작업을 조명하는 신간 도서와 세 곳의 미술관 연계 전시가 공개되었다. 그는 브린턴스 밀과 브로드 코브 파팜의 쇼어 하우스 등 메인주와 펜실베이니아주의 공간을 직접 디자인하며 남편의 예술 세계와 브랜드 구축에 결정적인 역할을 했다.",
+  "lens": "미술가의 영감을 보조하는 무대가 아니라, 삶의 공간과 풍경을 직접 구축해 회화의 뼈대를 세운 기획자의 시선.",
+  "why_now": "앤드루 와이엇의 명성 뒤에 가려졌던 아내 베트시 제임스 와이엇의 공간 디자인과 환경 조성 작업을 본격적인 실물과 기록으로 재평가하는 첫 대규모 출판 및 전시 프로젝트다.",
+  "mechanism": "메인주의 판스워스 미술관, 펜실베이니아주의 브랜디와인 미술관, 콜비 칼리지 미술관이 삼원 중계 방식으로 동시에 전시를 열어 사진, 장식 미술, 기록물을 교차 배치한다.",
+  "sensory": "브로드 코브 파팜의 쇼어 하우스에서 다듬어진 정제되고 미니멀한 공간 감각이 원시적인 메인주의 자연 풍경과 대비를 이룬다.",
+  "transfer": "공간을 배경으로 삼지 않고 공간 자체가 서사의 뼈대가 되도록 현장의 지형과 건축물 배치를 세팅하는 레퍼런스로 활용한다.",
+  "context": "앤드루 와이엇은 메인주 쿠싱과 펜실베이니아주 채즈퍼드를 배경으로 실낙원적 풍경을 그려낸 20세기 미국의 대표적인 사실주의 화가다. 그의 아내 베트시는 경영 관리와 비평을 넘어 브린턴스 밀 같은 역사적 장소를 복원하고 재조명하는 환경 조성 작업을 주도했다.",
+  "findings": [
+   {
+    "text": "베트시 제임스 와이엇은 디자인된 환경과 내부 공간을 만든 제작자이자 보존가, 앤드루 와이엇의 창조적 파트너였다.",
+    "s": 1,
+    "quote": "a multitalented maker of designed environments and interior spaces, preservationist, and creative partner to the beloved American artist Andrew Wyeth"
+   },
+   {
+    "text": "이번 신간과 전시는 브린턴스 밀과 브로드 코브 파팜의 쇼어 하우스 등 주요 현장의 사진을 통해 그의 미니멀한 디자인 감각을 보여준다.",
+    "s": 1,
+    "quote": "stunning photography of key sites such as Brinton’s Mill and environments that define her creative vision"
+   }
+  ],
+  "keywords": [
+   "베트시와이엇",
+   "공간조성",
+   "미술관전시",
+   "환경디자인"
+  ],
+  "evidence": "By Design: The Worlds of Betsy James Wyeth — a hefty and compelling new book (Rizzoli Electa) and a sprawling trio of linked exhibitions",
+  "kind": "전시",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "구체적인 신간 도서와 삼개 미술관의 연합 전시를 통해 숨겨진 조력자의 공간 디자인 작업을 정교하게 드러낸다.",
+  "v": 2,
+  "url": "https://hyperallergic.com/betsy-james-wyeths-placemaking-prowess/",
+  "original_title": "Betsy James Wyeth’s Placemaking Prowess",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 2050,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-12 05:24",
+  "research": {
+   "entities": [
+    "Betsy James Wyeth",
+    "Andrew Wyeth",
+    "Christina’s World",
+    "Farnsworth Art Museum",
+    "Brandywine Museum of Art"
+   ],
+   "questions": [
+    "베트시 제임스 와이어스는 앤드루 와이어스의 예술 세계와 브랜드 구축에 구체적으로 어떤 기여를 했는가?",
+    "메인주와 펜실베이니아주의 여러 미술관에서 동시에 개최된 전시와 신간 도서는 베트시의 역할을 어떻게 조명하고 있는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Book - Rizzoli New York",
+     "url": "https://www.rizzoliusa.com/book/9780847876174/?ref=hyperallergic.com"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Andrew Wyeth",
+     "url": "https://en.wikipedia.org/wiki/Andrew%20Wyeth"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Christina's World",
+     "url": "https://en.wikipedia.org/wiki/Christina%27s%20World"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 4133
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "archdaily.com/1188346/freedom-mobile-arch-amphitheatre-revery-architecture": {
+  "title_ko": "밴쿠버의 지형을 품은 거대한 목재 캐노피, 프리덤 모바일 아치",
+  "summary_ko": "캐나다 밴쿠버에 완공된 프리덤 모바일 아치(Freedom Mobile Arch)는 노스쇼어 산맥을 배경으로 삼는 야외 원형극장이다. 레버리 아키텍처(Revery Architecture)는 대규모 매스 팀버 캐노피를 적용해 1만 명의 관객을 수용하면서도 외부 환경과의 연결성을 유지했다. 고정된 인프라와 가변적 좌석 배치를 통해 다양한 규모의 공연과 행사를 지원한다.",
+  "lens": "거대한 목재 구조물이 산맥의 수평선을 가리지 않고 오히려 산의 실루엣을 프레임으로 삼아 공간의 개방감을 극대화한다.",
+  "why_now": "기후 위기 시대에 탄소 배출이 적은 목재를 대규모 공공 건축의 주재료로 선택해 구조적 효율과 환경적 지속 가능성을 동시에 달성했다.",
+  "mechanism": "매스 팀버 캐노피는 경량화된 구조로 대공간을 덮어 기둥을 최소화하며, 관객석은 가변형 설계를 도입해 행사의 밀도에 따라 공간의 규모를 유연하게 조절한다.",
+  "sensory": "캐노피 아래에서 느껴지는 목재의 따뜻한 질감과 밴쿠버의 차가운 산바람이 대비되며, 탁 트인 시야를 통해 자연과 공연이 하나의 풍경으로 겹쳐진다.",
+  "transfer": "광고 배경 설정 시 거대한 목재 구조물의 곡선을 활용해 인물에게 시선을 집중시키는 프레임으로 활용하거나, 자연광이 목재 틈새로 쏟아지는 조명 연출을 고려할 수 있다.",
+  "context": "레버리 아키텍처는 캐나다 밴쿠버를 기반으로 문화 및 공공 건축 분야에서 매스 팀버를 활용한 구조적 혁신을 이어오고 있다. 시공을 맡은 엘리스돈(EllisDon)은 1951년 설립된 캐나다의 대형 건설 서비스 기업이다.",
+  "findings": [
+   {
+    "text": "엘리스돈은 1951년 캐나다 온타리오주 런던에서 돈 스미스와 데이비드 엘리스 스미스 형제가 설립한 직원 소유 건설 서비스 기업이다.",
+    "s": 1,
+    "quote": "EllisDon is an employee-owned construction services company that was founded and incorporated in 1951 in London, Ontario, Canada, by brothers Don and David Ellis Smith."
+   }
+  ],
+  "keywords": [
+   "매스팀버",
+   "야외원형극장",
+   "공공건축",
+   "캐나다건축"
+  ],
+  "evidence": "Framing views of Vancouver's North Shore Mountains, the Freedom Mobile Arch is an open-air amphitheatre designed to remain connected to its surrounding landscape.",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "대규모 목재 구조를 활용한 공공 건축의 설계 전략과 가변적 공간 운용 방식을 구체적으로 제시했다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1188346/freedom-mobile-arch-amphitheatre-revery-architecture",
+  "original_title": "Freedom Mobile Arch Amphitheatre / Revery Architecture",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 2184,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-12 05:24",
+  "research": {
+   "entities": [
+    "Revery Architecture",
+    "Freedom Mobile Arch Amphitheatre",
+    "Venelin Kokalov",
+    "Fast + Epp",
+    "EllisDon"
+   ],
+   "questions": [
+    "Freedom Mobile Arch Amphitheatre의 매스 팀버(mass-timber) 캐노피가 구조적으로 어떤 이점을 제공하며, 주변 경관과 어떻게 조화를 이루도록 설계되었나요?",
+    "이 야외 원형 극장이 10,000명의 관객을 수용하면서도 다양한 규모의 행사를 유연하게 운영하기 위해 어떤 설계적 장치를 도입했나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "EllisDon",
+     "url": "https://en.wikipedia.org/wiki/EllisDon"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 230
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "dezeen.com/2026/11/11/ysg-moong-gang-hotel-bali": {
+  "title_ko": "발리 우붓의 낡은 벙커, 음악과 초현실적 물성으로 재조립한 문 갱 호텔",
+  "summary_ko": "호주 스튜디오 와이에스지(YSG)가 발리 우붓의 방치된 개인 저택을 5개 스위트룸을 갖춘 부티크 호텔 문 갱(Moon Gang)으로 개조했다. 기존 콘크리트 골조를 보존하고 테라코타 타일, 재활용 플라스틱, 대나무 등 현지 재료를 활용해 공간을 채웠으며, 인도네시아 음악과 일본 시티 팝을 즐길 수 있는 DIY DJ 스테이션을 핵심 요소로 배치했다.",
+  "lens": "기존 휴양지 건축의 정형성을 탈피해, 폐기물과 지역 장인의 손길로 공간의 질감을 재구성하고 음악적 경험을 건축의 중심축으로 끌어들였다.",
+  "why_now": "대규모 리조트가 점령한 발리에서, 접근이 어려운 좁은 골목의 유휴 공간을 현지 재료와 수공예적 방식으로 되살리는 재생 건축의 새로운 문법을 제시한다.",
+  "mechanism": "스쿠터만 진입 가능한 현장 조건에 맞춰 현장 조립이 가능한 가구와 마감재를 설계했다. 훼손된 콘크리트 벙커를 대나무와 용암석 타일로 덧대어 일본과 인도네시아 건축 요소를 혼합한 초현실적 공간으로 변주했다.",
+  "sensory": "재활용 플라스틱으로 만든 가구의 거친 질감과 대나무 슬라이딩 도어에 새겨진 달의 위상, 풀장 가장자리에 배치된 체크무늬 타일이 시각적 리듬감을 만든다.",
+  "transfer": "공간의 콘티를 짤 때, 기존 건축의 낡은 벽체와 콘크리트 바닥을 그대로 노출하되, 그 위에 채도가 높은 재활용 소재의 오브제와 대나무 같은 유기적 구조물을 덧대어 시간의 레이어를 시각화하라.",
+  "context": "와이에스지 스튜디오는 시드니의 창고를 공유 오피스로 개조하는 등 기존 건축물의 골조를 유지하며 새로운 기능을 얹는 작업을 지속해 왔다. 이번 프로젝트에서는 위두 플라스틱스(Weedoo Plastics)와 비와이오 리빙(BYO Living) 등 현지 장인들과 협력하여 지역적 맥락을 공간에 이식했다.",
+  "findings": [],
+  "keywords": [
+   "재생건축",
+   "인도네시아건축",
+   "와이에스지",
+   "물성실험",
+   "우붓"
+  ],
+  "evidence": "YSG has converted a former private vacation residence into a boutique hotel in Bali focused on playful spaces and Indonesian music and culture.",
+  "kind": "프로젝트",
+  "depth": 5,
+  "grounding": "full",
+  "depth_reason": "방치된 벙커를 현지 재료와 수공예적 방식으로 재구성한 과정이 구체적이며, 지형적 제약을 극복한 설계 전략이 공간 연출에 직접적인 영감을 준다.",
+  "v": 2,
+  "url": "https://www.dezeen.com/2026/11/11/ysg-moong-gang-hotel-bali/",
+  "original_title": "YSG creates Bali wellness hotel with DJ station",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 3515,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-12 05:24",
+  "research": {
+   "entities": [
+    "YSG",
+    "Moon Gang Bali",
+    "BYO Living"
+   ],
+   "questions": [
+    "YSG 스튜디오가 인도네시아와 일본의 건축 요소를 결합하여 공간에 반영한 구체적인 디자인 철학은 무엇인가요?",
+    "Moon Gang Bali 호텔이 지역 사회의 지속가능성을 위해 현지 재료와 폐기물을 어떻게 재활용하여 건축에 적용했나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Artisans",
+     "url": "https://moongangbali.com/pages/artisans"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Hand-Woven Facades, Ceilings & Installations",
+     "url": "https://byoliving.com/en"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "발리의 낡은 빌라를 음악과 초현실주의로 채운 호텔 문 갱",
+     "url": "https://www.yatzer.com/moon-gang-bali-ysg-studio"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "방치된 콘크리트 벙커를 거친 물성으로 재조립한 우붓의 호텔 문 갱",
+     "url": "https://www.yellowtrace.com.au/ysg-studio-moon-gang-ubud-suites-bali-hotel/"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "chars": 1375
+  },
+  "depth_raw": 5,
+  "depth_v": 2
+ },
+ "archdaily.com/1003582/danubio-budapest-building-t-architects": {
+  "title_ko": "부다페스트 다뉴브 강변, 자갈 채취장의 기억을 잇는 다누비오 주거 단지",
+  "summary_ko": "티투에이 아키텍츠(T2.a Architects)가 부다페스트 다뉴브 강변의 옛 강자갈 채취장 부지에 설계한 다누비오(Danubio) 주거 단지다. 40,000제곱미터 규모의 이 프로젝트는 지역의 지형적 맥락을 복원하고, 잊힌 건축적 해결책을 현대적 언어로 재해석하여 지속가능성을 구현했다.",
+  "lens": "강변의 거친 지형을 억지로 평탄화하지 않고, 자갈 채취장의 지질학적 흔적을 건축의 시간적 레이어로 전유했다.",
+  "why_now": "부동산 개발의 획일적인 효율성에서 벗어나, 부지의 생태적 기억을 보존하는 것이 주거 공간의 새로운 가치로 떠오르고 있다.",
+  "mechanism": "강변의 지형적 특수성을 반영한 매스 배치를 통해 자연 환경과의 접점을 극대화하고, 과거의 건축 기법을 현대적 재료로 재구성했다.",
+  "sensory": "강변의 습한 대기와 자갈이 섞인 지반의 물성이 건물의 마감재와 어우러지며, 시간의 흐름을 머금은 금속과 목재의 질감이 대비를 이룬다.",
+  "transfer": "강변이나 폐산업 시설을 촬영할 때, 지형의 높낮이를 활용한 롱 샷으로 공간의 서사를 잇고, 자연광이 반사되는 금속 마감재를 통해 공간의 깊이를 강조한다.",
+  "context": "티투에이 아키텍츠는 부다페스트를 기반으로 지역적 맥락과 현대적 조형성을 결합한 작업을 지속해 왔다. 이번 프로젝트는 단순한 주거 기능을 넘어 부지의 역사성을 건축적 장치로 치환한 사례다.",
+  "findings": [],
+  "keywords": [
+   "다뉴브강",
+   "지형순응",
+   "지속가능성",
+   "주거건축"
+  ],
+  "evidence": "Designed by T2a Architects and completed recently on the site of a former river gravel pit on the banks of the Danube in Budapest",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "부지의 역사적 맥락과 건축적 의도는 명확하나, 구체적인 설계 기법이나 도면 정보가 원문에 부족하여 심층 분석에 한계가 있다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1003582/danubio-budapest-building-t-architects",
+  "original_title": "Danubio Budapest Building / T2.a Architects",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 1746,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-12 05:24",
+  "research": {
+   "entities": [
+    "T2.a Architects",
+    "Bence Turanyi",
+    "Danubio",
+    "Schüco"
+   ],
+   "questions": [
+    "Danubio 프로젝트가 부다페스트의 기존 부동산 개발 관행을 어떻게 극복하고 지속가능성을 구현했는가?",
+    "강변의 이전 자갈 채취장이라는 부지의 특성이 건축 설계에 어떤 영향을 미쳤는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Heathrow Terminal 2",
+     "url": "https://en.wikipedia.org/wiki/Heathrow%20Terminal%202"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Schuco Modell",
+     "url": "https://en.wikipedia.org/wiki/Schuco%20Modell"
+    }
+   ],
+   "used": [],
+   "chars": 1612
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "coolhunting.com/buy/cygnet-infinity-0-non-alcoholic-gin": {
+  "title_ko": "키스 해링의 팝 숍 디자인과 아술린의 게임 룸이 제안하는 일상의 물성",
+  "summary_ko": "키스 해링의 1986년 팝 숍 디자인을 담은 후드티와 아술린의 가죽·호두나무 도미노 세트가 일상의 사물을 예술적 오브제로 전환한다. 이와 함께 무알코올 진 '시그넷 인피니티'와 시간대별 카페인 섭취를 최적화하는 서카디언 커피 시스템 등 기능적 일상에 정교한 감각을 더하는 제품들이 소개된다.",
+  "lens": "예술가의 조형 언어와 정교한 물성을 일상의 도구에 이식하여, 단순한 기능을 넘어 사용자의 공간과 시간의 밀도를 높이는 장치다.",
+  "why_now": "디지털 피로가 극에 달한 시점에, 손에 잡히는 사물의 무게감과 작가의 서사가 담긴 물리적 경험이 다시금 사유의 중심이 된다.",
+  "mechanism": "2차 증류로 알코올을 분리한 진에 사자갈기 버섯과 오미자 등을 추가해 향미를 복원하고, 커피는 생물학적 리듬에 맞춰 카페인 함량을 설계하는 등 과학적 공정을 통해 감각의 질을 정밀하게 제어한다.",
+  "sensory": "호두나무와 상감 가죽의 묵직한 촉감, 1980년대 팝 숍의 원색적 그래픽이 주는 시각적 명료함이 대비를 이룬다.",
+  "transfer": "공간 연출 시 가죽과 황동, 호두나무 등 시간이 흐를수록 산화하는 재료를 배치하여 공간에 물리적 시간의 층위를 쌓고, 인물 촬영 시에는 키스 해링의 그래픽처럼 선이 굵고 명확한 조형물을 배경으로 활용한다.",
+  "context": "키스 해링은 1986년 팝 숍을 열어 자신의 아이콘을 대중적인 상품으로 확장했으며, 이는 오늘날 예술가의 조형 문법이 일상 사물에 이식되는 흐름의 시초가 되었다. 아술린은 고전 게임을 고급 물성으로 재해석하여 놀이의 시간을 물리적 밀도로 채우는 작업을 지속하고 있다.",
+  "findings": [
+   {
+    "text": "키스 해링은 1986년 자신의 아이콘을 대중에게 널리 알리기 위해 뉴욕에 팝 숍을 개점했다.",
+    "s": 2,
+    "quote": "Haring opened the first Pop Shop in New York City in 1986 and one in Tokyo in 1988."
+   }
+  ],
+  "keywords": [
+   "물리적 물성",
+   "팝 아트",
+   "공간 오브제",
+   "감각적 설계"
+  ],
+  "evidence": "Haring viewed the Pop Shop as an extension of his work.",
+  "kind": "리스트·라운드업",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "다양한 일상 제품을 큐레이션하며 예술적 오브제와 기능적 설계의 결합을 다루었으나, 개별 항목에 대한 심층 분석보다는 나열식 구성에 그친다.",
+  "v": 2,
+  "url": "https://coolhunting.com/buy/cygnet-infinity-0-non-alcoholic-gin/",
+  "original_title": "Cygnet Infinity 0% Non-Alcoholic Gin",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 9000,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-12 05:24",
+  "research": {
+   "entities": [
+    "Cygnet Distillery",
+    "Onyx Coffee Lab",
+    "Keith Haring",
+    "Pop Shop"
+   ],
+   "questions": [
+    "논알콜 진을 제조할 때 알코올을 제거하고 향미를 보존하기 위해 사용하는 증류 방식의 원리는 무엇인가요?",
+    "커피의 카페인 함량을 시간대별로 최적화하는 서카디언(Circadian) 커피 시스템은 어떤 과학적 근거를 바탕으로 설계되었나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Keith Haring",
+     "url": "https://en.wikipedia.org/wiki/Keith%20Haring"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Pop Shop",
+     "url": "https://en.wikipedia.org/wiki/Pop%20Shop"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "밀라노 외곽에 문을 연 콜롬보 가문의 20세기 이탈리아 디자인 아카이브",
+     "url": "https://www.wallpaper.com/design-interiors/colombo-archive-milan-opens"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "일상의 사물로 번역된 예술가의 조형 언어: 맨 레이와 키스 해링의 오브제",
+     "url": "https://coolhunting.com/buy/socks-100-sourced-and-made-in-the-usa/"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "아술린의 게임 룸: 호두나무와 가죽으로 재구성한 유희의 물리적 무게",
+     "url": "https://coolhunting.com/buy/pebble-domino-set/"
+    }
+   ],
+   "used": [
+    2,
+    5
+   ],
+   "chars": 2706
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "wallpaper.com/design-interiors/bjeke-casteleyn-home-belgium-interior-design": {
+  "title_ko": "캘리포니아 모더니즘의 겨울나기, 비케 카스텔레인의 벨기에 포더 주택",
+  "summary_ko": "벨기에 인테리어 디자이너 비케 카스텔레인이 팜스프링스 미드센추리 모더니즘을 벨기에 평원 지대(Polders)의 기후에 맞춰 재해석한 자택을 설계했다. 36미터의 긴 복도로 공용부와 사적 공간을 분리하고, 타원형 패턴의 나무 스크린과 유리벽을 활용해 풍경과 거주자의 프라이버시를 동시에 확보했다. 가구 배치를 우선하여 공간의 밀도를 결정하는 방식으로 거주지의 서사를 완성했다.",
+  "lens": "개방된 유리벽의 투명함과 닫힌 목재 스크린의 밀도 사이에서, 기후에 순응하는 물리적 완충 지대를 구축한다.",
+  "why_now": "투명한 유리 건축이 범람하는 시대에, 거주자의 심리적 온기를 지키기 위한 공간적 장치와 재료의 배합이 중요하다.",
+  "mechanism": "타원형의 목재 클로스트라(Claustra)를 외벽에 배치해 시선을 차단하고, 36미터 복도의 개방감을 커튼과 구조물로 중첩시켜 공간의 위계를 조절한다.",
+  "sensory": "고광택 상아색 래커와 아프로모시아 원목의 매끄러운 질감, 차가운 스테인리스 스틸의 금속성이 섞여 시각적 온도를 유지한다.",
+  "transfer": "공간의 개방감을 유지하면서도 프라이버시를 확보해야 할 때, 타원형 패턴의 목재 스크린을 활용해 빛의 투과율과 시선의 밀도를 제어하는 콘티를 구성한다.",
+  "context": "비케 카스텔레인은 벨기에를 기반으로 유기적 곡선과 촉각적 재료를 강조하는 가구 컬렉션을 선보여 왔다. 본 프로젝트는 그녀가 기존에 제작한 가구의 물성과 미드센추리 모더니즘의 구조적 특징을 결합한 결과물이다.",
+  "findings": [
+   {
+    "text": "비케 카스텔레인은 벨기에에서 활동하며 유기적인 곡선과 촉각적 재료를 강조한 가구 디자인을 선보인다.",
+    "s": 1,
+    "quote": "With a fine eye for detail, interior and product designer Bieke Casteleyn shapes objects that bring a touch of high-end serenity into your home."
+   },
+   {
+    "text": "아르티포트는 네덜란드 마스트리흐트에서 설립된 가구 제조사로 유기적인 형태와 패브릭 마감으로 알려져 있다.",
+    "s": 3,
+    "quote": "Artifort is a design furniture manufacturer. It was founded in 1890 by Jules Wagemans in Maastricht, The Netherlands. Artifort furniture is known for its organic shapes, upholstery and is sold worldwide."
+   }
+  ],
+  "keywords": [
+   "미드센추리모더니즘",
+   "벨기에건축",
+   "공간시노그래피",
+   "비케카스텔레인"
+  ],
+  "evidence": "a 'winterised interpretation of California modernism'",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "건축적 장치와 가구 배치가 유기적으로 연결된 사례이며, 기후에 따른 공간 재해석의 논리가 명확하다.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/design-interiors/bjeke-casteleyn-home-belgium-interior-design",
+  "original_title": "This Belgian designer’s home is a ‘winterised’ take on California modernism",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 4159,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-12 05:24",
+  "research": {
+   "entities": [
+    "Bieke Casteleyn",
+    "Simone de Burbure",
+    "Minotti",
+    "Artifort",
+    "RR Interieur"
+   ],
+   "questions": [
+    "캘리포니아 미드센추리 모던 양식을 벨기에의 기후와 환경에 맞게 재해석하기 위해 어떤 건축적 요소들이 사용되었는가?",
+    "비케 카스텔레인(Bieke Casteleyn)이 가구를 먼저 선택하고 그에 맞춰 집을 설계한 방식이 공간의 완성도에 어떤 영향을 미쳤는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Bieke Casteleyn",
+     "url": "https://biekecasteleyn.com/"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Lorenzo Minotti",
+     "url": "https://en.wikipedia.org/wiki/Lorenzo%20Minotti"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Artifort",
+     "url": "https://en.wikipedia.org/wiki/Artifort"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "홍콩 빅토리아 하버 레지던스, 가변형 벽체와 빛의 물성으로 확장한 거주 공간",
+     "url": "https://leibal.com/interiors/victoria-harbour-residence/"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "멕시코의 화산석과 대성당 문을 공간 음향 패널로 번역하다",
+     "url": "https://design-milk.com/alfonso-verduzco-alma-acoustic-panels/"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "신트라의 소나무 숲과 포도밭 사이에 스며든 주거 리노베이션",
+     "url": "https://www.archdaily.com/1187054/colares-sintra-house-sabrab"
+    }
+   ],
+   "used": [
+    1,
+    3
+   ],
+   "chars": 3078
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "designboom.com/art/yuri-suzuki-amusement-park-rides-acoustic-sculptures-onomatopia": {
+  "title_ko": "유리 스즈키, 놀이공원 기구를 공공 음향 조각으로 치환하다",
+  "summary_ko": "사운드 아티스트 유리 스즈키는 런던 펜타그램의 오시 갤러리에서 놀이공원 기구를 음향 조각으로 재해석한 '오노마토피아'를 선보인다. 롤러코스터와 회전목마 등을 산업용 파이프와 나팔, 깔때기로 재구성해 소리가 공간을 점유하는 방식을 탐구한다. 시각 중심의 디자인 문법에서 벗어나 소리를 통해 도시와 관람객의 관계를 재설계하려는 시도다.",
+  "lens": "시각적 압도 대신 소리의 물리적 파동을 건축적 구조체로 치환해, 도시의 공공 공간이 어떻게 청각적으로 기능할 수 있는지 질문한다.",
+  "why_now": "디지털 소음이 일상을 잠식하는 시대에, 아날로그 기구의 기계적 소리를 물리적 구조체로 가시화하여 환경에 대한 감각을 환기한다.",
+  "mechanism": "산업용 파이프와 지향성 혼(horn)을 결합한 모듈형 구조를 통해 특정 소리를 증폭하고 방향을 제어하며, 놀이기구의 운동 역학을 소리의 흐름으로 변환한다.",
+  "sensory": "색색의 파이프와 깔때기가 얽힌 기계적 조형미, 그리고 구조물 내부를 통과하며 증폭되는 금속성 소리의 울림이 공간의 밀도를 높인다.",
+  "transfer": "공간 연출 시 시각적 장식 대신 파이프와 혼을 활용해 소리가 이동하는 경로를 물리적 오브제로 설계해 보라. 특정 지점에서 소리가 집중되도록 구조물의 각도와 관을 배치하면 관람객의 동선을 유도할 수 있다.",
+  "context": "유리 스즈키는 이전 작업에서도 소리를 공공 가구와 결합하거나 머신러닝을 통해 도시 소음을 생성하는 등 소리의 사회적 기능을 지속적으로 실험해 왔다. 이번 전시는 펜타그램 런던 본부에서 열리며, 펜타그램은 최근 아날로그 프로젝션이나 스큐어모피즘을 활용해 디지털 시대의 물성을 재해석하는 작업을 이어가고 있다.",
+  "findings": [
+   {
+    "text": "유리 스즈키는 소리를 통해 사람들이 모이고 공공 공간의 가능성을 재구상하는 인터랙티브한 음향 설치 작업을 지속해 왔다.",
+    "s": 1,
+    "quote": "A sonic amusement park where architecture becomes an instrument, and sound, movement and play reimagine the possibilities of public space."
+   },
+   {
+    "text": "이번 전시는 토마스 모어의 유토피아와 중세 세계 박람회, 에프콧과 같은 테마파크를 개념적 참조점으로 삼는다.",
+    "s": 3,
+    "quote": "Often referred to as a \"permanent world's fair\", Epcot is dedicated to the celebration of human achievement, particularly technological innovation and international culture."
+   }
+  ],
+  "keywords": [
+   "유리 스즈키",
+   "음향 조각",
+   "공공 디자인",
+   "모듈형 구조"
+  ],
+  "evidence": "Reinterpreting classic fairground attractions as kinetic sonic structures, each prototype is assembled from modular networks of pigmented industrial piping, vertical collection funnels, and directional acoustic horns.",
+  "kind": "전시",
+  "depth": 5,
+  "grounding": "full",
+  "depth_reason": "놀이기구라는 익숙한 형태를 음향 공학적 구조물로 치환하는 구체적인 기법과 개념적 배경이 명확하여 실무에 즉각적인 적용이 가능하다.",
+  "v": 2,
+  "url": "https://www.designboom.com/art/yuri-suzuki-amusement-park-rides-acoustic-sculptures-onomatopia/",
+  "original_title": "yuri suzuki transforms amusement park rides into acoustic sculptures for onomatopia",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 5642,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-12 05:24",
+  "research": {
+   "entities": [
+    "Yuri Suzuki",
+    "Pentagram",
+    "Vicky Richardson",
+    "Royal Academy of Arts",
+    "EPCOT"
+   ],
+   "questions": [
+    "유리 스즈키의 'Onomatopia' 전시에서 놀이공원 기구를 음향 조각으로 재해석한 구체적인 방식은 무엇인가?",
+    "토마스 모어의 유토피아와 중세 세계 박람회가 이번 전시의 개념적 배경에 어떻게 작용했는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "artist",
+     "url": "https://www.yurisuzuki.com/"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Royal Academy of Arts",
+     "url": "https://en.wikipedia.org/wiki/Royal%20Academy%20of%20Arts"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Epcot",
+     "url": "https://en.wikipedia.org/wiki/Epcot"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "빛의 투영으로 아날로그 영화의 물성을 소환하다, 마리나 윌러의 BFI 런던 영화제 정체성",
+     "url": "https://www.itsnicethat.com/articles/marina-willer-pentagram-bfi-london-film-festival-graphic-design-160926"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "게임 인프라의 보이지 않는 세계, 펜타그램의 레트로퓨처 아이덴티티",
+     "url": "https://www.itsnicethat.com/articles/luke-powell-judy-hudson-powell-xsolla-pentagram-graphic-design-project-051026"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "29년 만의 해체, 펜타그램 출신 앨런 다이가 다시 초심으로 돌아간 이유",
+     "url": "https://www.creativeboom.com/insight/nb-studio-is-closing-after-29-years-alan-dye-wants-to-talk-about-joy/"
+    }
+   ],
+   "used": [
+    1,
+    3,
+    4,
+    5,
+    6
+   ],
+   "chars": 3793
+  },
+  "depth_raw": 5,
+  "depth_v": 2
+ },
+ "dazeddigital.com/music/article/71345/1/black-country-new-road-eno-london-coliseum-andre-de-ridder-interview": {
+  "title_ko": "오페라 극장의 물리적 부피를 채우는 인디 록의 변주",
+  "summary_ko": "실험적 록 밴드 블랙 컨트리, 뉴 로드(Black Country, New Road)가 잉글리시 내셔널 오페라(ENO) 오케스트라와 협업하여 런던 콜로세움 무대에 오른다. 이들은 밴드의 최신 앨범 수록곡을 오케스트라 편곡 버전으로 재구성하며, 극장의 전통적인 음악적 문법에 새로운 긴장감을 불어넣는다.",
+  "lens": "오페라 극장의 거대한 공간적 부피를 인디 록의 비정형적 사운드로 채워, 고전적 공연장과 현대적 실험 음악 사이의 위계적 거리감을 무너뜨린다.",
+  "why_now": "장르의 경계를 지우는 협업이 일시적 이벤트를 넘어, 전통적인 공연장의 프로그래밍을 근본적으로 재편하는 흐름을 보여준다.",
+  "mechanism": "오웬 팔렛(Owen Pallett) 등 외부 편곡가들과 협력하여, 밴드의 곡을 풀 오케스트라 사운드로 확장해 극장이라는 공간의 물리적 규모에 대응하는 밀도를 구현한다.",
+  "sensory": "120년 된 극장의 고전적 울림과 바이올린, 색소폰, 하프시코드 등 밴드가 사용하는 다채로운 악기군이 섞여 만들어내는 층위 높은 소리의 질감을 경험한다.",
+  "transfer": "공간의 역사성과 이질적인 음악 장르를 충돌시켜, 영상 콘티의 배경음악이나 현장 연출 시 고전적 공간을 현대적 사운드로 전복하는 레퍼런스로 활용한다.",
+  "context": "블랙 컨트리, 뉴 로드는 2018년 결성 이후 포스트 펑크와 실내악 요소를 결합하며 장르를 넘나드는 행보를 이어왔다. 이번 공연은 잉글리시 내셔널 오페라의 음악 감독 앙드레 드 리더(André de Ridder)가 추진하는 '세션스 앳 더 런던 콜로세움'의 일환으로, 그는 팬데믹 기간부터 밴드와 협업을 지속해 왔다.",
+  "findings": [
+   {
+    "text": "블랙 컨트리, 뉴 로드는 2025년 4월 세 번째 정규 앨범 '포에버 하울롱(Forever Howlong)'을 발매했다.",
+    "s": 2,
+    "quote": "In 2025, the band announced their third studio album Forever Howlong, which was released in April 2025."
+   },
+   {
+    "text": "이번 프로젝트를 위해 오웬 팔렛, 조세핀 스티븐슨, 피오나 브라이스 등 외부 작곡가들이 편곡에 참여했다.",
+    "s": 1,
+    "quote": "The collaborators include Owen Pallett (Arcade Fire), Josephine Stephenson, and Fiona Brice."
+   }
+  ],
+  "keywords": [
+   "블랙컨트리뉴로드",
+   "잉글리시내셔널오페라",
+   "장르융합",
+   "공간실험"
+  ],
+  "evidence": "Those boundaries are often more about perception than reality",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "밴드와 오케스트라의 구체적인 협업 방식과 극장의 프로그래밍 변화를 명확하게 연결하여 분석했다.",
+  "v": 2,
+  "url": "https://www.dazeddigital.com/music/article/71345/1/black-country-new-road-eno-london-coliseum-andre-de-ridder-interview?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=black-country-new-road-are-blending-classical-training-with-indie-rock",
+  "original_title": "Black Country, New Road are blending classical training with indie rock",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 5537,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-12 05:25",
+  "research": {
+   "entities": [
+    "Black Country, New Road",
+    "English National Opera",
+    "London Coliseum",
+    "André de Ridder",
+    "Forever Howlong"
+   ],
+   "questions": [
+    "블랙 컨트리, 뉴 로드가 클래식 오케스트라와의 협업을 통해 기존 인디 록 사운드를 어떻게 확장하고 있는가?",
+    "런던 콜로세움의 '세션스' 프로그램이 장르 간 경계를 허무는 데 어떤 역할을 하고 있는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Black Country, New Road to perform new arrangements of their music live at the London Coli",
+     "url": "https://www.eno.org/press/black-country-new-road-to-perform-new-arrangements-of-their-music-live-at-the-london-coliseum/"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Black Country, New Road",
+     "url": "https://en.wikipedia.org/wiki/Black%20Country%2C%20New%20Road"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "English National Opera",
+     "url": "https://en.wikipedia.org/wiki/English%20National%20Opera"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3
+   ],
+   "chars": 5382
+  },
+  "depth_raw": 4,
+  "depth_v": 2
  }
 }

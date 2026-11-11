@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-11-12 01:55 KST",
+  "generated_at": "2026-11-12 05:24 KST",
   "period": "2026.11.05 - 2026.11.12",
-  "total_articles": 412,
+  "total_articles": 423,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 183
+      "count": 186
     },
     {
       "genre": "동시대 미술",
-      "count": 164
+      "count": 171
     },
     {
       "genre": "아방가르드 패션",
-      "count": 46
+      "count": 47
     },
     {
       "genre": "미디어 파사드·3D",
@@ -55,10 +55,16 @@
     },
     {
       "keyword": "목재 건축",
-      "count": 8,
+      "count": 9,
       "previous_count": 3,
       "trend": "rising",
       "items": [
+        {
+          "title": "프리덤 모바일 아치 원형극장 / Revery Architecture",
+          "url": "https://www.archdaily.com/1188346/freedom-mobile-arch-amphitheatre-revery-architecture",
+          "image_url": "https://images.adsttc.com/media/images/6af2/21e9/eabd/2a00/0192/bc78/large_jpg/Revery_Freedom_Mobile_Arch_Credit_Ema_Peter__29_.jpg?1794253503",
+          "source_name": "ArchDaily"
+        },
         {
           "title": "플라나 유치원  / PROAM ARCHITEKTI",
           "url": "https://www.archdaily.com/1187802/plana-kindergarten-proam-architekti",
@@ -75,12 +81,6 @@
           "title": "PPAA는 멕시코에 \"덜 짓기 위한 논쟁\" 으로 트윈 하우스를 만듭니다.",
           "url": "https://www.dezeen.com/2026/11/10/ppaa-creates-twin-houses-in-mexico-as-an-argument-for-building-less/",
           "image_url": "https://static-2026.dezeen.com/uploads/2026/10/ppaa-rejas-mexico-house_dezeen_2364_col_14-818x1024.jpg",
-          "source_name": "Dezeen"
-        },
-        {
-          "title": "Primary Architects는 기복이 심한 목재 지붕으로 중국 시골의 목수 스튜디오를 장식합니다.",
-          "url": "https://www.dezeen.com/2026/11/10/primary-architects-carpenters-home-china/",
-          "image_url": "https://static-2026.dezeen.com/uploads/2026/11/primary-architects-carpenters-home-timber-roof-china_dezeen_1704_col_3-1151x1536-1-1024x1024.jpg",
           "source_name": "Dezeen"
         }
       ]
