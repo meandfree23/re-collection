@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-11 06:01 KST",
+  "generated_at": "2026-11-11 11:02 KST",
   "period": "2026.11.04 - 2026.11.11",
-  "total_articles": 427,
+  "total_articles": 441,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 197
+      "count": 204
     },
     {
       "genre": "동시대 미술",
-      "count": 161
+      "count": 168
     },
     {
       "genre": "아방가르드 패션",
@@ -23,10 +23,16 @@
   "themes": [
     {
       "keyword": "박물관·전시",
-      "count": 35,
+      "count": 36,
       "previous_count": 27,
       "trend": "rising",
       "items": [
+        {
+          "title": "파워하우스 파라마타 (Powerhouse Parramatta) 에 인류가 가득한 박물관이 있는 극적인 외골격",
+          "url": "https://www.wallpaper.com/architecture/public-buildings/powerhouse-parramatta-australia",
+          "image_url": "https://cdn.mos.cms.futurecdn.net/jfvjphJjqvdX8NBGkt4gYE-1920-80.jpg",
+          "source_name": "Wallpaper*"
+        },
         {
           "title": "노출 강철 트러스와 골판지 금속 봉투 모양 강변 kogaa의 šmeral 예술 공장",
           "url": "https://www.designboom.com/art/exposed-steel-trusses-corrugated-metal-envelope-riverfront-kogaas-smeral-art-factory/",
@@ -44,12 +50,38 @@
           "url": "https://www.dazeddigital.com/art-photography/article/71324/1/lorenza-longhi-art-basel-paris-2026-exhibition-protests-luxury?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=this-unassuming-sculpture-lays-bare-the-darkest-impulses-of-consumer-desire",
           "image_url": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/9/1459035.jpg",
           "source_name": "Dazed"
+        }
+      ]
+    },
+    {
+      "keyword": "설치 미술",
+      "count": 7,
+      "previous_count": 1,
+      "trend": "rising",
+      "items": [
+        {
+          "title": "이 파워하우스 파라마타 설치물에서 물이 세상을 이해하는 방법이 됩니다.",
+          "url": "https://www.designboom.com/art/water-way-understanding-world-powerhouse-parramatta-installation-emily-mcdaniel-tyrrell-studio/",
+          "image_url": "https://www.designboom.com/wp-content/uploads/2026/11/water-way-understanding-world-powerhouse-parramatta-installation-emily-mcdaniel-tyrrell-studio-designboom-08.jpg",
+          "source_name": "Designboom Art"
+        },
+        {
+          "title": "cERN의 예술은 우주의 메커니즘을 창의적인 설치로 번역합니다",
+          "url": "https://www.designboom.com/art/arts-at-cern-translate-the-mechanics-of-the-universe-into-creative-installations/",
+          "image_url": "https://www.designboom.com/wp-content/uploads/2026/11/arts-at-cern-designboom-16.jpg",
+          "source_name": "Designboom Art"
         },
         {
           "title": "미래의 추억의 풍경을 위해 갤러리에 새싹이 돋아난 흙과 흙이 쏟아져 나옵니다.",
           "url": "https://www.designboom.com/art/sprouted-earth-soil-gallery-landscape-future-memories-installation-buro-zemla/",
           "image_url": "https://www.designboom.com/wp-content/dbsub/464485/2026-11-05/landscape-of-future-memories-2-6aecb8f82bb68.jpg",
           "source_name": "Designboom Art"
+        },
+        {
+          "title": "Playfool Studio spotlights hidden digital labour in data centre cleaning game at the V&A",
+          "url": "https://www.dezeen.com/2026/11/09/playfool-studio-data-server-cleaning-game-va/",
+          "image_url": "https://static-2026.dezeen.com/uploads/2026/10/Square-The-Server-Studio-Playfool_dezeen_2364_col_2-1024x1024.jpg",
+          "source_name": "Dezeen"
         }
       ]
     },
@@ -81,38 +113,6 @@
           "title": "숲속 창문이 있는 집/토미야 요스케 건축 디자인",
           "url": "https://www.archdaily.com/1186270/house-with-forest-windows-yosuke-tomiya-architectural-design",
           "image_url": "https://images.adsttc.com/media/images/6ac0/0585/90e2/9d01/89d2/dbf1/large_jpg/house-with-forest-windows-yosuke-tomiya-architectural-design_1.jpg?1790969246",
-          "source_name": "ArchDaily"
-        }
-      ]
-    },
-    {
-      "keyword": "설치 미술",
-      "count": 6,
-      "previous_count": 1,
-      "trend": "rising",
-      "items": [
-        {
-          "title": "cERN의 예술은 우주의 메커니즘을 창의적인 설치로 번역합니다",
-          "url": "https://www.designboom.com/art/arts-at-cern-translate-the-mechanics-of-the-universe-into-creative-installations/",
-          "image_url": "https://www.designboom.com/wp-content/uploads/2026/11/arts-at-cern-designboom-16.jpg",
-          "source_name": "Designboom Art"
-        },
-        {
-          "title": "미래의 추억의 풍경을 위해 갤러리에 새싹이 돋아난 흙과 흙이 쏟아져 나옵니다.",
-          "url": "https://www.designboom.com/art/sprouted-earth-soil-gallery-landscape-future-memories-installation-buro-zemla/",
-          "image_url": "https://www.designboom.com/wp-content/dbsub/464485/2026-11-05/landscape-of-future-memories-2-6aecb8f82bb68.jpg",
-          "source_name": "Designboom Art"
-        },
-        {
-          "title": "Playfool Studio spotlights hidden digital labour in data centre cleaning game at the V&A",
-          "url": "https://www.dezeen.com/2026/11/09/playfool-studio-data-server-cleaning-game-va/",
-          "image_url": "https://static-2026.dezeen.com/uploads/2026/10/Square-The-Server-Studio-Playfool_dezeen_2364_col_2-1024x1024.jpg",
-          "source_name": "Dezeen"
-        },
-        {
-          "title": "2026년 암만 디자인 위크 (Amman Design Week)/건축을 위한 라이스 마타르웨 스튜디오 (Laith Matarweh Studio) 에 알 마스타바 설치",
-          "url": "https://www.archdaily.com/1187739/al-mastaba-installation-at-amman-design-week-2026-laith-matarweh-studio-for-architecture",
-          "image_url": "https://images.adsttc.com/media/images/6ae3/1f5d/3271/8400/01d0/fb25/large_jpg/11_Al-Mastaba_Installation_Mohanad_Jihad.jpg?1793269936",
           "source_name": "ArchDaily"
         }
       ]
@@ -215,6 +215,7 @@
     }
   ],
   "notable_names": [
+    "Powerhouse Parramatta",
     "Sharjah Architecture Triennial",
     "Mexico City",
     "Mona Chalabi",
