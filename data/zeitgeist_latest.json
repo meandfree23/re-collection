@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-12 14:07 KST",
+  "generated_at": "2026-11-12 17:18 KST",
   "period": "2026.11.05 - 2026.11.12",
-  "total_articles": 433,
+  "total_articles": 438,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 192
+      "count": 194
     },
     {
       "genre": "동시대 미술",
-      "count": 175
+      "count": 178
     },
     {
       "genre": "아방가르드 패션",
@@ -23,10 +23,16 @@
   "themes": [
     {
       "keyword": "박물관·전시",
-      "count": 34,
+      "count": 35,
       "previous_count": 24,
       "trend": "rising",
       "items": [
+        {
+          "title": "디자인 뮤지엄, 친환경 건축의 새로운 시대를 알리는 프로토타입 보조금 발표",
+          "url": "https://www.wallpaper.com/architecture/the-design-museum-first-prototype-grants-revealed-uk",
+          "image_url": "https://cdn.mos.cms.futurecdn.net/aGQLWchaxCVsNpfuSHnbdW-1920-80.jpg",
+          "source_name": "Wallpaper*"
+        },
         {
           "title": "현대 비즈 공예가 켄 윌리엄스 주니어, 코닝 유리 박물관의 라코우 커미션 수상",
           "url": "https://hyperallergic.com/contemporary-beadworker-ken-williams-jr-awarded-rakow-commission-by-corning-museum-of-glass/",
@@ -44,12 +50,6 @@
           "url": "https://hyperallergic.com/a-new-home-for-native-art-in-new-york/",
           "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/11/branchline.png",
           "source_name": "Hyperallergic"
-        },
-        {
-          "title": "자하 하디드의 아카이브에서 잘 알려지지 않은 무대 디자인 5가지",
-          "url": "https://www.dezeen.com/2026/11/11/zaha-hadid-foundation-stage-design/",
-          "image_url": "https://static-2026.dezeen.com/uploads/2026/11/zaha-hadid-architecture-of-performance-exhibition-foundation-london-architecture-stage-design_dezeen_2364_sq-1-1024x1024.jpg",
-          "source_name": "Dezeen"
         }
       ]
     },
@@ -82,6 +82,38 @@
           "url": "https://www.dezeen.com/2026/11/10/ppaa-creates-twin-houses-in-mexico-as-an-argument-for-building-less/",
           "image_url": "https://static-2026.dezeen.com/uploads/2026/10/ppaa-rejas-mexico-house_dezeen_2364_col_14-818x1024.jpg",
           "source_name": "Dezeen"
+        }
+      ]
+    },
+    {
+      "keyword": "리노베이션·재생",
+      "count": 7,
+      "previous_count": 5,
+      "trend": "rising",
+      "items": [
+        {
+          "title": "쓰야마 호텔 I & II 리노베이션 / NAAD + studio tata",
+          "url": "https://www.archdaily.com/1187432/tsuyama-hotel-i-and-ii-renovation-naad-plus-studio-tata",
+          "image_url": "https://images.adsttc.com/media/images/6adb/7d95/3271/8400/01d0/e54a/large_jpg/Hotel-I_room202_01_Yosuke-Ohtake.jpg?1792769470",
+          "source_name": "ArchDaily"
+        },
+        {
+          "title": "디자인 뮤지엄, 친환경 건축의 새로운 시대를 알리는 프로토타입 보조금 발표",
+          "url": "https://www.wallpaper.com/architecture/the-design-museum-first-prototype-grants-revealed-uk",
+          "image_url": "https://cdn.mos.cms.futurecdn.net/aGQLWchaxCVsNpfuSHnbdW-1920-80.jpg",
+          "source_name": "Wallpaper*"
+        },
+        {
+          "title": "누데라람블라",
+          "url": "https://minimalissimo.com/articles/nou-de-la-rambla",
+          "image_url": "https://minimalissimo.com/api/media/file/nou-de-la-rambla-featured-v20261110-1200x630.jpg",
+          "source_name": "Minimalissimo"
+        },
+        {
+          "title": "NH 레지던스 리노베이션/Dhanie & Sal",
+          "url": "https://www.archdaily.com/1187848/nh-residence-renovation-dhanie-and-sal",
+          "image_url": "https://images.adsttc.com/media/images/6ae4/8bd7/bfbd/4c00/01ee/58c0/large_jpg/12.jpg?1793362920",
+          "source_name": "ArchDaily"
         }
       ]
     },
@@ -150,66 +182,34 @@
       ]
     },
     {
-      "keyword": "리노베이션·재생",
-      "count": 5,
-      "previous_count": 5,
+      "keyword": "빛과 조명",
+      "count": 9,
+      "previous_count": 10,
       "trend": "steady",
       "items": [
         {
-          "title": "누데라람블라",
-          "url": "https://minimalissimo.com/articles/nou-de-la-rambla",
-          "image_url": "https://minimalissimo.com/api/media/file/nou-de-la-rambla-featured-v20261110-1200x630.jpg",
-          "source_name": "Minimalissimo"
+          "title": "Licht Kunst Licht, '대체로 눈에 띄지 않는' 조명으로 쾰른 대성당의 유서 깊은 외관을 밝힙니다",
+          "url": "https://www.dezeen.com/2026/11/12/licht-kunst-licht-cologne-cathedral/",
+          "image_url": "https://static-2026.dezeen.com/uploads/2026/11/sq-licht-kunst-licht-cologne-cathedral_dezeen_2364_col_0-1024x1024.jpg",
+          "source_name": "Dezeen"
         },
         {
-          "title": "NH 레지던스 리노베이션/Dhanie & Sal",
-          "url": "https://www.archdaily.com/1187848/nh-residence-renovation-dhanie-and-sal",
-          "image_url": "https://images.adsttc.com/media/images/6ae4/8bd7/bfbd/4c00/01ee/58c0/large_jpg/12.jpg?1793362920",
-          "source_name": "ArchDaily"
+          "title": "현관문을 화려하게 장식할 수 있는 최고의 연말연시 화환 8가지(2026)",
+          "url": "https://www.architecturaldigest.com/story/best-christmas-wreaths",
+          "image_url": "https://media.architecturaldigest.com/photos/691f85fcae4d0ee282d04033/master/pass/wreath.jpg",
+          "source_name": "Architectural Digest"
         },
         {
-          "title": "푸엔테사우코 약국/데이비드 에르난데스 아르키텍투라",
-          "url": "https://www.archdaily.com/1188185/fuentesauco-pharmacy-david-hernandez-arquitectura",
-          "image_url": "https://images.adsttc.com/media/images/6ae2/f733/3271/8400/01d0/fa5c/large_jpg/01_Exterior_01_David_Hernandez_Sergio_Murillo.jpg?1793259355",
-          "source_name": "ArchDaily"
+          "title": "'Free Lyric'은 '도발적인' 가사 때문에 '취소'당한 젊은 흑인 여성 래퍼의 이야기를 들려줍니다.",
+          "url": "https://hyperallergic.com/free-lyric-tells-the-story-of-a-young-black-female-rapper-cancelled-for-her-provocative-lyrics/",
+          "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/11/Hyperallergic-Post-1-4.png",
+          "source_name": "Hyperallergic"
         },
         {
-          "title": "Bilbao/BABELstudio Ensanche의 아파트 리노베이션",
-          "url": "https://www.archdaily.com/1188205/apartment-renovation-in-the-ensanche-of-bilbao-babelstudio",
-          "image_url": "https://images.adsttc.com/media/images/6ad0/d744/b2c4/c300/0178/f8e4/large_jpg/ENSANCHE_002.jpg?1792071512",
-          "source_name": "ArchDaily"
-        }
-      ]
-    },
-    {
-      "keyword": "미니멀리즘",
-      "count": 4,
-      "previous_count": 3,
-      "trend": "steady",
-      "items": [
-        {
-          "title": "최소 최대/스템펠 & 테사르 아키텍티",
-          "url": "https://www.archdaily.com/1188094/minimal-maximum-stempel-and-tesar-architekti",
-          "image_url": "https://images.adsttc.com/media/images/6aeb/7835/c723/9a5a/c78a/6ae7/large_jpg/minimal-maximum-stempel-and-tesar-architekti_11.jpg?1793816671",
-          "source_name": "ArchDaily"
-        },
-        {
-          "title": "상파울루의 새로운 소매 공간인 캐주얼 스토어는 미니멀리즘을 연극적인 효과로 끌어올립니다.",
-          "url": "https://www.wallpaper.com/architecture/casual-store-studio-mk27-brazil",
-          "image_url": "https://cdn.mos.cms.futurecdn.net/ZNGqY2syMuAccg8nQTKZfh-1920-80.jpg",
-          "source_name": "Wallpaper*"
-        },
-        {
-          "title": "좋은 디자인을 좋아하는 미니멀리스트를 위한 최고의 선물",
-          "url": "https://design-milk.com/best-gifts-for-minimalists/",
-          "image_url": "https://design-milk.com/images/2026/11/design-milk-gifts-minimalist-2026.jpg",
-          "source_name": "Design Milk"
-        },
-        {
-          "title": "Bureaux Disma",
-          "url": "https://leibal.com/interiors/bureaux-disma/",
-          "image_url": "https://leibal.com/wp-content/uploads/2026/10/leibal_bureaux-disma_jaune_07-700x1050.jpg",
-          "source_name": "Leibal"
+          "title": "자하 하디드의 아카이브에서 잘 알려지지 않은 무대 디자인 5가지",
+          "url": "https://www.dezeen.com/2026/11/11/zaha-hadid-foundation-stage-design/",
+          "image_url": "https://static-2026.dezeen.com/uploads/2026/11/zaha-hadid-architecture-of-performance-exhibition-foundation-london-architecture-stage-design_dezeen_2364_sq-1-1024x1024.jpg",
+          "source_name": "Dezeen"
         }
       ]
     }
