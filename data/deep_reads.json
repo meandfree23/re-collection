@@ -300615,27 +300615,74 @@
   "depth_raw": 4,
   "depth_v": 2
  },
- "archdaily.com/1188426/comporta-house-aurora-arquitectos": {
-  "title_ko": "포르투갈 콤포르타의 정적을 담은 395㎡ 규모의 주거 공간",
-  "summary_ko": "오로라 아키텍토스(Aurora Arquitectos)가 포르투갈 콤포르타 카르발할 마을에 설계한 395㎡ 규모의 주택이다. 긴 모래사장과 평평한 소나무 숲이 교차하는 알렌테주 해안의 지형적 특성을 반영하여 거주자에게 정적인 환경을 제공한다. 금속 조각가 이네스 노르톤(Inês Norton)의 작업이 공간의 물성을 보완한다.",
-  "lens": "해안의 모래와 내륙의 숲이 만나는 지점에서 건축이 어떻게 침묵을 물리적 공간으로 번역하는지 보여준다.",
-  "why_now": "디지털 과잉 시대에 장소의 고유한 정적을 끌어들이는 공간 설계가 거주자의 심리적 안정을 위한 핵심 요소로 부상하고 있다.",
-  "mechanism": "평평한 지형에 순응하는 낮은 매스 배열과 소나무 숲의 수직적 질감을 실내외 동선에 끌어들여 시각적 간섭을 최소화했다.",
-  "sensory": "해안의 건조한 모래 질감과 금속 조각의 차갑고 단단한 표면이 대비되며, 숲의 고요함이 내부의 정적인 분위기를 강화한다.",
-  "transfer": "공간의 정적을 연출할 때 특정 구역에 금속 조각을 배치하여 빛의 반사를 제어하고, 시선을 외부 자연으로 유도하는 프레임 샷을 설계한다.",
-  "context": "오로라 아키텍토스는 포르투갈을 기반으로 지형과 환경의 맥락을 해석하는 작업을 이어오고 있다.",
+ "archdaily.com/1188433/casa-fogo-pablo-patriota-arquitetos-associados": {
+  "title_ko": "카사 포고: 브라질 세라 네그라의 거대한 바위와 공존하는 주거",
+  "summary_ko": "브라질 페르남부쿠주 베제루스에 위치한 카사 포고는 파블로 파트리오타 아르키테투스 아소시아두스가 설계한 459㎡ 규모의 주택이다. 가파른 지형에 박힌 거대한 바위와 기존 수목을 훼손하지 않고, 자연 지형을 건축의 틀로 삼아 조망과 배치를 결정했다.",
+  "lens": "지형의 난관을 제거 대상이 아닌 건축의 골조로 치환하여, 자연물과 인공 구조물이 물리적으로 얽히는 접점을 만드는 방식이다.",
+  "why_now": "디지털 설계의 정밀함이 현장의 불확실성을 배제하려 할 때, 지형의 물리적 제약을 그대로 수용하는 태도는 오히려 공간의 고유성을 확보한다.",
+  "mechanism": "부지에 고정된 거대한 바위와 수목의 위치를 기준으로 건물의 평면과 높낮이를 조정하여, 인위적인 절토를 최소화하고 지형의 흐름을 실내로 연장한다.",
+  "sensory": "거친 암석의 질감과 부드러운 수목의 녹색이 실내외를 관통하며, 시간의 흐름에 따라 변하는 빛과 그림자가 바위 표면의 입체감을 강조한다.",
+  "transfer": "공간 연출 시 바위나 거목 같은 현장의 고정물을 배경이 아닌 프레임의 중심에 배치하여, 카메라 앵글이 자연스럽게 지형의 고저차를 따라 이동하도록 설계한다.",
+  "context": "파블로 파트리오타 아르키테투스 아소시아두스는 브라질의 도전적인 지형 조건을 건축적 해결책으로 전환하는 설계를 주로 수행한다.",
   "findings": [],
   "keywords": [
-   "오로라아키텍토스",
-   "콤포르타",
+   "지형 순응",
+   "브라질 건축",
+   "암석 건축",
+   "자연 통합"
+  ],
+  "evidence": "The difficult topography of the terrain in Serra Negra, in Bezerros, Pernambuco, the giant boulder embedded in it, the trees that had to be preserved",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "지형 순응이라는 건축적 태도는 명확하나, 세부적인 시공 디테일이나 재료의 물성에 대한 정보가 부족하여 일반적인 수준의 분석에 머문다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1188433/casa-fogo-pablo-patriota-arquitetos-associados",
+  "original_title": "Casa Fogo / Pablo Patriota Arquitetos Associados",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 1496,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-12 13:01",
+  "research": {
+   "entities": [
+    "Pablo Patriota Arquitetos Associados",
+    "Walter Dias",
+    "Serra Negra"
+   ],
+   "questions": [
+    "브라질 페르남부쿠주 베제루스의 세라 네그라(Serra Negra) 지역의 지형적 특징과 자연환경은 건축 설계에 어떤 영향을 미쳤는가?",
+    "파블로 파트리오타 아르키테투스 아소시아두스(Pablo Patriota Arquitetos Associados)는 카사 포고(Casa Fogo) 프로젝트에서 거대한 바위와 기존 나무들을 어떻게 건축적 요소로 통합했는가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "archdaily.com/1188426/comporta-house-aurora-arquitectos": {
+  "title_ko": "포르투갈 콤포르타 하우스: 모래사장과 소나무 숲 사이의 정온한 거처",
+  "summary_ko": "오로라 아키텍토스(Aurora Arquitectos)가 포르투갈 알렌테주 해안 카르발할 마을에 395㎡ 규모의 주택을 설계했다. 긴 모래사장이 평평한 소나무 숲으로 이어지는 지형적 특성을 반영해 거주자가 고립과 정적을 누릴 수 있는 공간을 구축했다.",
+  "lens": "지형의 연장선상에서 주거의 기능을 배치해 해안과 숲 사이의 완충 지대를 창조하는 건축적 태도를 보여준다.",
+  "why_now": "디지털 과부하 시대에 자연적 지형과 물리적 거리감을 확보해 거주자의 심리적 정온을 회복하는 공간 설계가 중요해지고 있다.",
+  "mechanism": "알렌테주 해안의 수평적 지형을 실내 동선으로 치환해 외부의 소나무 숲과 내부 거주 공간 사이의 심리적 경계를 느슨하게 조정한다.",
+  "sensory": "모래사장의 거친 입자와 소나무 숲의 서늘한 그늘이 교차하는 지점의 물성을 실내외 마감재로 연결해 건조하면서도 차분한 촉각을 전달한다.",
+  "transfer": "공간 연출 시 수평적 지평선이 강조되는 로케이션을 활용해 롱테이크 샷으로 시선의 흐름을 지형에 순응하도록 배치하는 기법을 제안한다.",
+  "context": "오로라 아키텍토스는 포르투갈을 기반으로 지형적 맥락을 해석하는 작업을 지속해 왔으며 이번 프로젝트는 알렌테주 지역의 생태적 특성을 주거에 이식하는 데 집중했다.",
+  "findings": [],
+  "keywords": [
+   "지형순응",
    "알렌테주",
+   "오로라아키텍토스",
+   "정온",
    "공간설계"
   ],
-  "evidence": "Those who come here to live or vacation are seeking silence.",
+  "evidence": "The house is located in the village of Carvalhal, on the Alentejo coast in southern Portugal. Here, long sandy beaches extend inland into flat pine-forested terrain.",
   "kind": "프로젝트",
   "depth": 2,
   "grounding": "thin",
-  "depth_reason": "원문 정보가 프로젝트 위치와 개요 위주로 제한되어 있어 건축적 장치에 대한 구체적인 해석이 부족하다.",
+  "depth_reason": "건축적 장치에 대한 상세 설명이 부족하고 프로젝트의 개괄적인 정보 위주로 구성되어 있다.",
   "v": 2,
   "url": "https://www.archdaily.com/1188426/comporta-house-aurora-arquitectos",
   "original_title": "Comporta House / Aurora Arquitectos",
@@ -300643,7 +300690,7 @@
   "source_chars": 1280,
   "fetch": "ok",
   "cliche_hits": [],
-  "read_at": "2026-11-12 12:24",
+  "read_at": "2026-11-12 13:01",
   "research": {
    "entities": [
     "Aurora Arquitectos",
@@ -300653,7 +300700,7 @@
    ],
    "questions": [
     "Aurora Arquitectos가 추구하는 건축적 철학이나 디자인 언어는 무엇인가요?",
-    "포르투갈 콤포르타(Comporta) 지역의 지리적, 환경적 특성이 이 주택의 설계에 어떤 영향을 미쳤나요?"
+    "포르투갈 알렌테주 해안 지역의 지리적 특성이 Comporta House의 설계에 어떤 영향을 미쳤나요?"
    ],
    "sources": [],
    "used": [],
@@ -300662,133 +300709,47 @@
   "depth_raw": 3,
   "depth_v": 2
  },
- "hyperallergic.com/nvidia-ceo-jensen-huangs-situation-chip-is-meme-gold": {
-  "title_ko": "테크 거물의 스캔들과 밈 문화가 소셜 미디어를 뒤덮는 방식",
-  "summary_ko": "엔비디아 CEO 젠슨 황이 스파이 의심 인물과의 불륜을 고백한 이후 테크 및 지정학 진영과 소셜 미디어가 소용돌이에 휩싸였다. 63세의 CEO는 직원들에게 보낸 메시지를 통해 사과를 전하며 가치 평가 4조 달러 이상의 기업 수장으로서 이례적인 사생활 논란의 중심에 섰다. 이번 사건은 작년 콜드플레이 콘서트의 임원 스캔들에 이어 또다시 대중 문화의 밈으로 소비되고 있다.",
-  "lens": "거대한 테크 권력의 사생활 균열이 대중의 가벼운 밈으로 소비되며 권위의 표면을 해체한다.",
-  "why_now": "AI 패권 경쟁의 정점에 선 테크 기업 최고경영자의 개인사가 지정학적 긴장과 결합해 즉각적인 디지털 파장을 낳기 때문이다.",
-  "mechanism": "기업 내부의 공식 서한이 소셜 미디어를 거쳐 대중의 패러디와 밈으로 가공되는 속도와 확산 구조를 보여준다.",
-  "sensory": "매끄러운 AI 혁신의 이면에 적나라하게 노출된 개인의 사생활과 가십이 만드는 가볍고 빠른 디지털 소음의 감각.",
-  "transfer": "거대 권력의 위기가 소셜 미디어를 통해 파편화되고 소비되는 방식을 뉴스 몽타주나 가십 시퀀스의 콘티 배경으로 차용한다.",
-  "context": "엔비디아는 1993년 젠슨 황이 설립한 이후 AI 붐을 타고 시가총액 수조 달러 규모의 거대 기업으로 성장했다. 젠슨 황은 AI 시대의 핵심 인물로 평가받으며 대중적 영향력을 지녀왔다.",
-  "findings": [
-   {
-    "text": "Jen-Hsun Jensen Huang is a Taiwanese-American electrical engineer and business executive who is the co-founder, president, and CEO of Nvidia, one of the world's most valuable companies.",
-    "s": 1,
-    "quote": "Jen-Hsun \"Jensen\" Huang (born February 17, 1963) is a Taiwanese-American electrical engineer and business executive who is the co-founder, president, and CEO of Nvidia, one of the world's most valuable companies."
-   },
-   {
-    "text": "Nvidia Corporation is an American multinational technology company headquartered in Santa Clara, California.",
-    "s": 2,
-    "quote": "Nvidia Corporation ( en-VID-ee-ə) is an American multinational technology company headquartered in Santa Clara, California."
-   }
-  ],
-  "keywords": [
-   "엔비디아",
-   "젠슨 황",
-   "밈",
-   "테크 거물"
-  ],
-  "evidence": "another tech CEO's extramarital affair has become the meme of the season",
-  "kind": "뉴스·이슈",
-  "depth": 2,
-  "grounding": "partial",
-  "depth_reason": "테크 기업 CEO의 사생활 스캔들과 소셜 미디어 반응을 다룬 가십성 뉴스 이슈로 적용 여지가 제한적이다.",
-  "v": 2,
-  "url": "https://hyperallergic.com/nvidia-ceo-jensen-huangs-situation-chip-is-meme-gold/",
-  "original_title": "Nvidia CEO Jensen Huang’s Situation-Chip is Meme Gold",
-  "model": "gemini-3.5-flash-lite",
-  "source_chars": 1784,
-  "fetch": "ok",
-  "cliche_hits": [],
-  "read_at": "2026-11-12 12:24",
-  "research": {
-   "entities": [
-    "Jensen Huang",
-    "Nvidia",
-    "Alice Huang",
-    "Lori Huang",
-    "Silicon Valley"
-   ],
-   "questions": [
-    "Jensen Huang의 사생활 논란이 Nvidia의 기업 운영과 주가에 실제로 미친 영향은 무엇인가?",
-    "테크 기업 최고경영자들의 스캔들이 소셜 미디어와 밈 문화에서 다루어지는 방식이 지닌 사회적 의미는 무엇인가?"
-   ],
-   "sources": [
-    {
-     "n": 1,
-     "type": "위키백과",
-     "title": "Jensen Huang",
-     "url": "https://en.wikipedia.org/wiki/Jensen%20Huang"
-    },
-    {
-     "n": 2,
-     "type": "위키백과",
-     "title": "Nvidia",
-     "url": "https://en.wikipedia.org/wiki/Nvidia"
-    },
-    {
-     "n": 3,
-     "type": "RE:COLLECTION 과거 기사",
-     "title": "데이터 센터의 숨은 노동을 빨아들이는 V&A의 청소 게임",
-     "url": "https://www.dezeen.com/2026/11/09/playfool-studio-data-server-cleaning-game-va/"
-    }
-   ],
-   "used": [
-    1,
-    2
-   ],
-   "chars": 2507
-  },
-  "depth_raw": 2,
-  "depth_v": 2
- },
  "hyperallergic.com/art-bros-about-to-get-more-insufferable-as-artnet-partners-with-kalshi": {
-  "title_ko": "미술 시장의 투기적 도박: 아트넷과 칼시의 파트너십이 드러낸 민낯",
-  "summary_ko": "미술 시장 데이터 플랫폼 아트넷(Artnet)이 예측 시장 플랫폼 칼시(Kalshi)와 공식 파트너십을 체결했다. 아트넷은 자사의 가격 데이터베이스를 활용해 특정 미술품 경매 결과에 대한 예스-오어-노(yes-or-no) 방식의 베팅을 큐레이션할 예정이다. 이번 협업은 미술 시장의 불투명성과 투기적 성격을 극대화한다는 비판을 받고 있다.",
-  "lens": "예술적 가치를 데이터의 확률로 치환하여 미술 시장을 경마장처럼 변모시키는 투기적 자본의 노골적인 시각화다.",
-  "why_now": "미술품이 고유한 미적 가치보다 금융 자산으로서의 변동성에 집중되는 현상이 가속화되면서, 시장의 불확실성을 수익화하려는 플랫폼 간의 결합이 나타나고 있다.",
-  "mechanism": "아트넷이 보유한 방대한 과거 경매 가격 데이터를 칼시의 베팅 알고리즘에 공급하여, 경매 낙찰가가 추정치를 상회할지 여부를 실시간으로 투기하는 구조를 설계했다.",
-  "sensory": "데이터의 찰나적인 등락과 수익률 그래프가 교차하는 차가운 디지털 인터페이스, 그리고 경매 현장의 긴장감을 도박의 긴박함으로 치환하는 건조한 계산의 감각.",
-  "transfer": "경매장이나 미술 시장을 배경으로 한 콘티 구성 시, 인물의 감정보다는 실시간으로 갱신되는 수치와 그래프를 화면 전면에 배치하여 자본의 냉혹한 리듬을 시각화할 것.",
-  "context": "아트넷은 1989년 설립되어 경매 가격 데이터베이스를 구축해왔으나, 2025년 비오울프 캐피털에 인수된 후 아트시(Artsy)와 합병하며 사모펀드 소유 체제로 전환되었다. 칼시는 2021년 출시된 예측 시장 플랫폼으로, 스포츠 베팅을 주력으로 하되 정치 및 경제 지표까지 베팅 범위를 확장하며 미국 상원의원들의 이용이 금지되는 등 논란을 빚어왔다.",
+  "title_ko": "예술 시장의 베팅 플랫폼화: 아트넷과 칼시의 위험한 동맹",
+  "summary_ko": "아트넷이 예측 베팅 플랫폼 칼시와 공식 파트너십을 맺고 미술품 경매 결과에 대한 예스코인 계약 거래를 큐레이팅한다. 금융 투명성 결여와 내부자 거래로 악명 높은 두 시장의 결합은 오는 12월 마이애미 아트 위크에서 본격적으로 시작된다.",
+  "lens": "예술 작품의 가치 매김을 투전판의 베팅 종목으로 치환하는 금융 자본의 노골적인 영토 확장이다.",
+  "why_now": "사모펀드에 인수된 이후 수익 다각화를 모색하는 아트 플랫폼들이 리스크가 높은 대안적 금융 상품과 결합하는 동시대적 징후를 보여준다.",
+  "mechanism": "아트넷 가격 데이터베이스를 활용해 경매 낙찰가가 추정가를 초과할지 여부 같은 이벤트를 예스코인 형태의 피어투피어 계약으로 설계한다.",
+  "sensory": "화려한 미술 시장의 이면에서 작동하는 차갑고 건조한 금융 거래 화면과 실시간 베팅 수치의 압박감.",
+  "transfer": "금융 투기판으로 전락한 예술 시장을 비판하는 시퀀스에서, 화려한 경매장 풍경 대신 냉혹한 실시간 주가 창과 베팅 지표를 교차 편집하는 연출에 활용한다.",
+  "context": "1989년 설립되어 경매 가격 데이터와 온라인 경매를 운영해 온 아트넷은 2025년 벤처캐피털 비오울프 캐피털에 인수되며 비상장사로 전환되었다 [S1]. 예측 시장 플랫폼 칼시는 스포츠 베팅을 중심으로 성장하며 정치 및 경제 예측 시장의 규제 논란과 내부자 거래 문제로 미국 상원에서 규제 법안이 발의되기도 했다 [S2].",
   "findings": [
    {
-    "text": "아트넷은 2025년 비오울프 캐피털에 인수된 뒤 2026년 아트시와 합병했다.",
+    "text": "아트넷은 2025년 미국의 벤처캐피털 회사인 비오울프 캐피털에 인수되어 비상장사로 전환되었다.",
     "s": 1,
-    "quote": "Artnet was acquired by the American venture capital firm Beowolff Capital in 2025 and taken private before merging with the website Artsy in 2026."
+    "quote": "Previously owned by Artnet AG, a German company formerly listed on the Frankfurt Stock Exchange, Artnet was acquired by the American venture capital firm Beowolff Capital in 2025 and taken private"
    },
    {
-    "text": "칼시 플랫폼 활동의 90% 이상이 스포츠 베팅에 집중되어 있다.",
+    "text": "예측 시장 플랫폼 칼시는 2021년 7월 맨해튼에서 출범하여 주로 스포츠 베팅 서비스를 제공해 왔다.",
     "s": 2,
-    "quote": "The platform is used primarily for sports betting, which constitutes more than 90% of site activity and 89% of revenue in 2025."
-   },
-   {
-    "text": "미국 상원은 2026년 5월부터 상원의원과 보좌진이 칼시 같은 예측 시장에 베팅하는 것을 금지했다.",
-    "s": 2,
-    "quote": "the United States Senate banned its senators and their staff from betting on prediction markets such as Kalshi in May 2026."
+    "quote": "Kalshi Inc. is a prediction market platform based in Manhattan, New York City, that launched in July 2021. The platform is used primarily for sports betting"
    }
   ],
   "keywords": [
    "아트넷",
    "칼시",
-   "미술 시장",
-   "투기",
-   "데이터 플랫폼"
+   "예측시장",
+   "경매시장",
+   "사모펀드"
   ],
-  "evidence": "Artnet will “curate” art-market wagers for the controversial prediction platform.",
+  "evidence": "Artnet has announced an official partnership with the betting platform Kalshi in an incestuous marriage of two markets known for financial opacity, insider trading",
   "kind": "뉴스·이슈",
   "depth": 3,
   "grounding": "full",
-  "depth_reason": "미술 시장의 금융화라는 구체적인 현상을 다루나, 파트너십의 실질적인 데이터 운용 기법보다는 시장의 윤리적 논란에 초점이 맞춰져 있다.",
+  "depth_reason": "미술 시장과 베팅 플랫폼의 결합이라는 흥미로운 이슈를 다루나 단순 뉴스 보도에 가깝다.",
   "v": 2,
   "url": "https://hyperallergic.com/art-bros-about-to-get-more-insufferable-as-artnet-partners-with-kalshi/",
   "original_title": "Art Bros About to Get More Insufferable as Artnet Partners With Kalshi",
-  "model": "gemini-3.1-flash-lite-preview",
+  "model": "gemini-3.5-flash-lite",
   "source_chars": 1788,
   "fetch": "ok",
   "cliche_hits": [],
-  "read_at": "2026-11-12 12:24",
+  "read_at": "2026-11-12 13:01",
   "research": {
    "entities": [
     "Artnet",
@@ -300798,8 +300759,8 @@
     "Corning Museum of Glass"
    ],
    "questions": [
-    "Artnet과 Kalshi의 파트너십은 미술 시장에 어떤 영향을 미칠 것으로 예상되나요?",
-    "Rakow Commission을 수상한 Ken Williams Jr의 작품 'I Am the Hungry Cat'의 특징은 무엇인가요?"
+    "Artnet과 Kalshi의 파트너십이 미술품 경매 시장의 투명성과 예측 시장에 미치는 영향은 무엇인가?",
+    "코닝 유리 박물관의 라코프 위원회가 비즈워크(구슬공예) 작품에 최초로 수여한 의미는 무엇인가?"
    ],
    "sources": [
     {
@@ -300842,80 +300803,268 @@
   "depth_raw": 3,
   "depth_v": 2
  },
- "archdaily.com/1188433/casa-fogo-pablo-patriota-arquitetos-associados": {
-  "title_ko": "까사 포고: 브라질 세라 네그라의 거대 암석과 공존하는 건축적 해법",
-  "summary_ko": "브라질 베제루스 세라 네그라에 위치한 까사 포고는 파블로 파트리오타 아키텍투스 아소시아도스가 설계한 459㎡ 규모의 주택이다. 가파른 지형에 박힌 거대한 바위와 기존 수목을 그대로 보존하며, 자연 지형의 흐름을 따라 건물을 배치하는 방식으로 지형적 한계를 건축적 기회로 전환했다.",
-  "lens": "험난한 지형을 극복의 대상이 아닌 건축의 좌표로 삼아, 거대 암석과 수목의 위치를 기반으로 건물의 평면과 입면을 결정했다.",
-  "why_now": "기후 위기 시대에 지형을 깎아내지 않고 그 물리적 질서에 순응하는 건축적 태도가 공간의 고유성을 확보하는 핵심 전략으로 부상하고 있다.",
-  "mechanism": "부지 내 거대한 암석을 피하거나 감싸 안는 비정형 평면을 설계하고, 수목을 보존하기 위해 건물을 여러 매스로 분절하여 지형의 높낮이를 수용했다.",
-  "sensory": "건물 내외부를 관통하는 거친 암석의 질감과 부지의 경사면을 따라 층층이 쌓인 공간의 리듬이 시각적 안정감과 원초적인 물성을 동시에 전달한다.",
-  "transfer": "공간 연출 시 부지의 고유한 장애물(바위, 고목)을 제거하지 않고 조명이나 프레임을 통해 오히려 강조하여 공간의 중심 요소로 활용하는 방식을 제안한다.",
-  "context": "파블로 파트리오타 아키텍투스 아소시아도스는 브라질 페르남부쿠 지역의 험난한 지형적 특성을 건축적 동기로 삼아 자연과 구조물이 엉키는 공간을 구현해 왔다.",
-  "findings": [],
-  "keywords": [
-   "지형순응",
-   "암석",
-   "공간분절",
-   "비정형건축"
+ "hyperallergic.com/piecing-together-romare-beardens-life": {
+  "title_ko": "파편으로 엮은 생애: 로마레 비어든의 콜라주 다큐멘터리",
+  "summary_ko": "다큐멘터리 '로마레 비어든: 콜라주 속의 삶'은 선형적 전기 구조를 벗어나 작가의 삶과 예술을 주제별로 재구성한다. 뉴욕 스튜디오 속 모습과 알빈 에일리, 제임스 볼드윈 등 협업자들과의 기록을 통해 20세기 흑인 경험의 정수를 보여준다.",
+  "lens": "연대기적 나열을 거부하고 콜라주처럼 단편들을 겹쳐 작가의 기억과 시대의 질감을 동시에 복원한다.",
+  "why_now": "예술가의 삶을 기록하는 전통적인 방식에서 벗어나 작업의 물성과 형식 자체를 서사의 구조로 확장하는 시도가 주목받는 시점이다.",
+  "mechanism": "시간순 대신 기차와 같은 반복적 모티프를 중심에 두고 파편화된 아카이브 영상을 연결해 주제적 공명을 이끌어낸다.",
+  "sensory": "작가가 직접 들려주는 차분한 육성과 뉴욕 스튜디오의 거친 아카이브 질감이 겹치며 시공간을 초월한 입체적 밀도를 형성한다.",
+  "transfer": "인물의 전기를 시계열로 풀지 않고 특정 오브제와 사운드를 매개 삼아 서로 다른 시공간의 장면들을 직조하듯 편집한다.",
+  "context": "로마레 비어든은 뉴욕타임스가 당대 최고의 콜라주 작가로 꼽은 인물이며 할렘 기반의 예술가 그룹 스파이럴의 창립 멤버였다. 이번 작품은 DOC NYC의 아카이브 스토리텔링 경쟁 부문에 지명되었다.",
+  "findings": [
+   {
+    "text": "로마레 비어든: 콜라주 속의 삶은 DOC NYC의 아카이브 스토리텔링 경쟁 부문에 지명된 10편의 영화 중 하나이다.",
+    "s": 1,
+    "quote": "Romare Bearden: A Life in Collage is one of 10 nominated films in DOC NYC’s inaugural Archival Storytelling Competition"
+   },
+   {
+    "text": "뉴욕타임스는 1988년 부고 기사에서 비어든을 국가 최고의 콜라주 작가로 묘사했다.",
+    "s": 2,
+    "quote": "The New York Times described Bearden as \"the nation's foremost collagist\" in his 1988 obituary."
+   }
   ],
-  "evidence": "The difficult topography of the terrain in Serra Negra, in Bezerros, Pernambuco, the giant boulder embedded in it, the trees that had to be preserved",
-  "kind": "프로젝트",
+  "keywords": [
+   "로마레 비어든",
+   "콜라주",
+   "아카이브",
+   "다큐멘터리"
+  ],
+  "evidence": "Romare Bearden: A Life in Collage, soon to screen at DOC NYC, eschews the familiar structure of a linear biography, jumping around to find thematic rhymes through different periods of Bearden’s life.",
+  "kind": "영상·필름",
   "depth": 3,
-  "grounding": "partial",
-  "depth_reason": "험난한 지형을 극복하는 구체적인 배치 전략을 제시하나, 상세한 도면이나 재료의 물성 정보가 부족해 중간 수준의 가치를 지닌다.",
+  "grounding": "full",
+  "depth_reason": "예술가의 생애와 다큐멘터리 형식을 조명하나 기존 선례를 뒤집는 파격까지는 이르지 않는다.",
   "v": 2,
-  "url": "https://www.archdaily.com/1188433/casa-fogo-pablo-patriota-arquitetos-associados",
-  "original_title": "Casa Fogo / Pablo Patriota Arquitetos Associados",
-  "model": "gemini-3.1-flash-lite-preview",
-  "source_chars": 1496,
+  "url": "https://hyperallergic.com/piecing-together-romare-beardens-life/",
+  "original_title": "Piecing Together Romare Bearden’s Life",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 1927,
   "fetch": "ok",
   "cliche_hits": [],
-  "read_at": "2026-11-12 12:24",
+  "read_at": "2026-11-12 13:01",
   "research": {
    "entities": [
-    "Pablo Patriota Arquitetos Associados",
-    "Walter Dias"
+    "Romare Bearden",
+    "DOC NYC"
    ],
    "questions": [
-    "세라 네그라의 험난한 지형과 거대한 바위가 까사 포고(Casa Fogo)의 건축 디자인에 구체적으로 어떤 영향을 미쳤는가?",
-    "파블로 파트리오타 아키텍투스 아소시아도스(Pablo Patriota Arquitetos Associados)는 이 프로젝트에서 자연경관과 수목을 보존하기 위해 어떤 건축적 전략을 사용했는가?"
+    "로마이어 비어든의 콜라주 기법은 그의 생애와 20세기 흑인 경험을 어떻게 시각적으로 재구성하고 있는가?",
+    "다큐멘터리 'Romare Bearden: A Life in Collage'는 선형적인 전기 형식을 탈피하여 어떤 방식으로 예술가의 내면과 작품 세계를 조명하는가?"
    ],
-   "sources": [],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "ROMARE BEARDEN: A LIFE IN COLLAGE - DOC NYC",
+     "url": "https://www.docnyc.net/film/romare-bearden-a-life-in-collage/?ref=hyperallergic.com"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Romare Bearden",
+     "url": "https://en.wikipedia.org/wiki/Romare%20Bearden"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Doc NYC",
+     "url": "https://en.wikipedia.org/wiki/Doc%20NYC"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "섬유와 실을 통해 정치와 서사를 엮는 예술 도서 모음",
+     "url": "https://hyperallergic.com/12-must-read-books-on-textiles-and-fiber-art/"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "고와너스 운하의 변모: 오염된 수로에서 젠트리피케이션의 무대로",
+     "url": "https://hyperallergic.com/live-from-the-lavender-lake/"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 4969
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "hyperallergic.com/nvidia-ceo-jensen-huangs-situation-chip-is-meme-gold": {
+  "title_ko": "AI 시대의 신화적 인물, 젠슨 황의 사생활이 건드린 지정학적 균열",
+  "summary_ko": "엔비디아 CEO 젠슨 황이 중국 스파이로 의심되는 인물과의 불륜 관계를 고백하며 기술 업계와 지정학적 영역에 파장을 일으켰다. 1993년 데니스 레스토랑에서 시작해 시가총액 4조 달러 이상의 기업을 일군 황의 사적 스캔들은 AI 산업의 정점에 선 인물에 대한 대중의 시선과 밈 문화의 확산으로 이어졌다.",
+  "lens": "기술 신화의 정점에 선 인물의 사적 붕괴가 어떻게 거대 자본이 구축한 권위의 균열을 드러내는지 관찰한다.",
+  "why_now": "AI 하드웨어 시장을 독점하며 거대 담론을 주도하던 인물의 사생활 노출은, 기술적 완벽함 뒤에 숨겨진 인간적 취약성을 대중 문화의 영역으로 끌어들였다.",
+  "mechanism": "기업의 가치와 개인의 도덕적 결함이 충돌하는 지점을 밈이라는 디지털 매체로 빠르게 치환하여, 권력자의 서사를 대중의 유희적 소비 대상으로 전락시킨다.",
+  "sensory": "4조 달러 규모의 데이터 센터를 지탱하는 차가운 금속성 하드웨어와, 그 이면에서 폭로된 인간의 원초적이고 무질서한 사생활이 만드는 극명한 대비.",
+  "transfer": "기술적 고도화를 다루는 콘티에서, 시스템의 매끄러운 표면을 깨뜨리는 인간적 오류나 예기치 못한 스캔들의 파급력을 시각적 노이즈로 활용하는 연출을 고려할 것.",
+  "context": "젠슨 황은 1993년 엔비디아를 창업한 이후 AI 붐을 이끌며 2025년 타임지 선정 'AI의 설계자'로 이름을 올렸다. 엔비디아는 GPU 기술을 통해 데이터 센터와 고성능 컴퓨팅 시장을 장악하며 AI 산업의 핵심 인프라를 제공해 왔다.",
+  "findings": [
+   {
+    "text": "젠슨 황은 1993년 30세의 나이로 캘리포니아 산호세의 데니스 레스토랑에서 엔비디아를 창업했다.",
+    "s": 1,
+    "quote": "After earning a master's degree from Stanford University, he launched Nvidia in 1993 at age 30 from a Denny's restaurant in San Jose, California"
+   },
+   {
+    "text": "엔비디아는 AI 데이터 센터 하드웨어 수요 급증에 힘입어 2025년 시가총액 4조 달러와 5조 달러를 차례로 돌파했다.",
+    "s": 2,
+    "quote": "In 2025, Nvidia became the first company to surpass US$4 trillion and US$5 trillion in market capitalization, largely driven by the AI boom"
+   },
+   {
+    "text": "젠슨 황은 2025년 타임지로부터 올해의 인물 중 한 명인 'AI의 설계자'로 선정되었다.",
+    "s": 1,
+    "quote": "In 2025, Huang was named as one of the \"Architects of AI\" for Time's Person of the Year."
+   }
+  ],
+  "keywords": [
+   "젠슨 황",
+   "엔비디아",
+   "지정학",
+   "밈 문화",
+   "AI 산업"
+  ],
+  "evidence": "Nvidia CEO Jensen Huang has set off a firestorm across the tech and geopolitical spheres",
+  "kind": "뉴스·이슈",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "기술 거물의 사생활 이슈가 산업계에 미치는 파장을 다루었으나, 작업 자체의 조형적 깊이보다는 현상적 이슈를 전달하는 데 집중했다.",
+  "v": 2,
+  "url": "https://hyperallergic.com/nvidia-ceo-jensen-huangs-situation-chip-is-meme-gold/",
+  "original_title": "Nvidia CEO Jensen Huang’s Situation-Chip is Meme Gold",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 1784,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-12 13:01",
+  "research": {
+   "entities": [
+    "Jensen Huang",
+    "Nvidia"
+   ],
+   "questions": [
+    "젠슨 황의 사생활 이슈가 기술 업계와 지정학적 관계에 미치는 영향은 무엇인가?",
+    "엔비디아가 AI 산업에서 차지하는 비중과 그에 따른 CEO의 사회적 영향력은 어느 정도인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Jensen Huang",
+     "url": "https://en.wikipedia.org/wiki/Jensen%20Huang"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Nvidia",
+     "url": "https://en.wikipedia.org/wiki/Nvidia"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "데이터 센터의 숨은 노동을 빨아들이는 V&A의 청소 게임",
+     "url": "https://www.dezeen.com/2026/11/09/playfool-studio-data-server-cleaning-game-va/"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 2525
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "archdaily.com/1188279/cst-number-185-tini-plus-delavegacanolasso": {
+  "title_ko": "CST #185: 산업화된 시스템으로 재현한 20세기 모더니즘의 정수",
+  "summary_ko": "스페인 마드리드에 위치한 203㎡ 규모의 CST #185는 티니(tini)와 델라베가카놀라소(delavegacanolasso)가 협업하여 2025년에 완공한 주거 프로젝트다. 이들은 산업화된 최적화 시스템을 도입해 20세기 중반 케이스 스터디 하우스의 모더니즘 정신을 현대적 주거로 구현했다.",
+  "lens": "토지를 훼손하지 않는 산업화된 모듈러 시스템을 통해 20세기 모더니즘 건축의 경제성과 정밀함을 현대적으로 복원한다.",
+  "why_now": "디지털 설계의 정밀함과 공장 생산의 효율성을 결합하여 현장 시공의 불확실성을 제거하려는 건축적 요구에 응답한다.",
+  "mechanism": "표준화된 모듈을 현장으로 운송하여 조립하는 방식을 택해 환경적 영향을 최소화하고 건축의 구조적 순수성을 확보한다.",
+  "sensory": "단순한 기하학적 형태와 산업 재료의 질감이 대조를 이루며, 빛이 투과하는 정밀한 조인트와 수평적 비례감이 시각적 질서를 만든다.",
+  "transfer": "현장 조립식 모듈을 활용하여 공간의 가변성을 확보하고, 금속이나 패널의 이음매를 노출하여 산업적 미감을 극대화하는 연출에 활용한다.",
+  "context": "티니와 델라베가카놀라소는 지속 가능한 모듈러 건축을 통해 지형에 순응하는 주거 공간을 꾸준히 탐구해 왔다. 리서치 자료의 아르헨티나 가수 티니(Tini)와는 무관한 건축 스튜디오 프로젝트다.",
+  "findings": [],
+  "keywords": [
+   "모듈러 건축",
+   "모더니즘",
+   "산업화",
+   "케이스스터디하우스"
+  ],
+  "evidence": "This project revives the spirit of the Case Study Houses and mid-century modern architecture through an industrialized, optimized system",
+  "kind": "프로젝트",
+  "depth": 2,
+  "grounding": "partial",
+  "depth_reason": "모듈러 건축의 철학적 배경은 명확하나, 구체적인 조립 기법이나 재료의 물성에 대한 상세 정보가 부족하여 중간 점수를 부여함.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1188279/cst-number-185-tini-plus-delavegacanolasso",
+  "original_title": "CST #185  / tini + delavegacanolasso",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 513,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-12 13:01",
+  "research": {
+   "entities": [
+    "tini",
+    "delavegacanolasso",
+    "Jesús Granada"
+   ],
+   "questions": [
+    "tini와 delavegacanolasso가 협업한 CST #185 프로젝트의 건축적 특징과 설계 의도는 무엇인가요?",
+    "tini 스튜디오가 추구하는 지속 가능한 모듈러 건축 방식은 어떤 원리로 작동하나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Tini (singer)",
+     "url": "https://en.wikipedia.org/wiki/Tini%20%28singer%29"
+    }
+   ],
    "used": [],
-   "chars": 0
+   "chars": 1400
   },
   "depth_raw": 3,
   "depth_v": 2
  },
  "architecturaldigest.com/story/harrison-soll-rodney-burns-los-angeles-home": {
-  "title_ko": "미니멀과 맥시멀의 충돌, 로스앤젤레스 크래프트먼 주택의 실내 조율",
-  "summary_ko": "인테리어 디자이너 해리슨 솔과 빈티지 갤러리 운영자 로드니 번즈가 로스앤젤레스 로렐 캐니언에 위치한 130제곱미터 규모의 1925년식 크래프트먼 주택에서 각자의 취향을 결합했다. 솔의 대담한 미니멀리즘과 번즈의 극단적 맥시멀리즘이 브라스 조각과 동물무늬 가구 등을 통해 하나의 공간에 공존한다.",
-  "lens": "상반된 두 기질이 비정형 공간의 기하학 안에서 충돌하며 긴장감을 만든다.",
-  "why_now": "서로 다른 취향의 수집가들이 고유의 골조를 가진 옛 주택을 어떻게 점유하고 재해석하는지 보여주는 사례다.",
-  "mechanism": "표범 무늬 스칼라만드레 천과 가죽을 절반씩 섞은 소파를 두고, 침실은 비정형 평면의 각도 그대로 스텐레스 침대를 배치했다.",
-  "sensory": "표범과 얼룩말 무늬 가죽의 거친 촉각 뒤로 브라스 소재 야자나무와 원숭이 조각의 금속성 빛이 부딪힌다.",
-  "transfer": "공간 콘티에서 미니멀한 모던 가구와 아프리카계 빈티지 조각품을 한 프레임에 대립시켜 시각적 충돌을 유도한다.",
-  "context": "로드니 번즈는 로스앤젤레스 빈티지 갤러리 처치 부티크(Church Boutique)를 운영하며 뮤지션 레니 크라비츠와 협업해 왔다.",
-  "findings": [],
-  "keywords": [
-   "인테리어",
-   "미니멀리즘",
-   "맥시멀리즘",
-   "빈티지"
+  "title_ko": "미니멀리즘과 맥시멀리즘의 충돌, 1920년대 주택에서 찾은 조화",
+  "summary_ko": "인테리어 디자이너 해리슨 솔과 스타일리스트 로드니 번즈는 로스앤젤레스의 1925년형 크래프츠맨 주택에서 각자의 미니멀리즘과 맥시멀리즘 취향을 결합했다. 솔은 공간의 구조를 정돈하고, 번즈가 수집한 빈티지 가구와 조각품을 배치해 아프로센트릭 테마와 랄프 로렌 스타일이 섞인 독특한 실내를 완성했다.",
+  "lens": "상반된 디자인 언어를 가진 두 주체가 비정형적 공간의 기하학적 제약을 오히려 오브제의 배치 전략으로 활용해 균형을 잡는다.",
+  "why_now": "디지털 피로도가 높은 시기에 정교하게 큐레이션된 빈티지 물성과 비정형적 공간의 조화는 공간 설계의 새로운 대안을 제시한다.",
+  "mechanism": "비대칭적인 방의 구석진 모서리에 스테인리스 스틸 침대를 대각선으로 배치하여 공간의 기하학적 왜곡을 디자인 요소로 치환한다. 레오파드 패턴 소파에 가죽 패널을 덧대어 맥시멀리즘의 밀도를 조절하는 방식도 유효하다.",
+  "sensory": "황동 조각의 차가운 금속성과 얼룩말 가죽, 1970년대 태피스트리의 거친 질감이 층층이 쌓여 시각적 무게감을 형성한다.",
+  "transfer": "공간의 비정형성을 감추지 말고, 오히려 가구의 배치를 사선으로 틀어 공간의 각도를 강조하는 레이아웃을 시도하라.",
+  "context": "로드니 번즈는 빈티지 갤러리 처치 부티크(Church Boutique)를 운영하며 레니 크래비츠의 크리에이티브 파트너로 활동해왔다. 공간에 배치된 세르지오 부스타만테(Sergio Bustamante)의 테이블은 작가의 초기 파피에 마셰 작업에서 확장된 청동 및 목재 조각 맥락을 잇는다.",
+  "findings": [
+   {
+    "text": "세르지오 부스타만테는 1970년대 중반부터 목재 및 청동 조각으로 작업 영역을 확장했다.",
+    "s": 3,
+    "quote": "In the mid-1970s, his practice expanded to include wood and bronze sculpture."
+   }
   ],
-  "evidence": "The mix of Rodney’s early- to midcentury style mixed with ethnic expression next to Harrison’s bold minimalist modern approach seamlessly blend together",
+  "keywords": [
+   "크래프츠맨",
+   "맥시멀리즘",
+   "비정형공간",
+   "빈티지큐레이션"
+  ],
+  "evidence": "The main bedroom isn’t a perfect square, making it seem like a stainless steel bed from TTMM is placed on a diagonal but is actually following the geometry of a very funky, angular bedroom.",
   "kind": "프로젝트",
-  "depth": 3,
+  "depth": 4,
   "grounding": "full",
-  "depth_reason": "두 디자이너의 대조적 취향이 1920년대 주택에 반영된 과정을 구체적인 가구와 공간 배치를 통해 잘 보여준다.",
+  "depth_reason": "서로 다른 디자인 철학이 물리적 공간의 한계와 결합하여 구체적인 배치 전략으로 나타나는 과정을 상세히 기술했다.",
   "v": 2,
   "url": "https://www.architecturaldigest.com/story/harrison-soll-rodney-burns-los-angeles-home",
   "original_title": "How One Creative Couple Found Harmony in Their 1920s Los Angeles Craftsman",
-  "model": "gemini-3.5-flash-lite",
+  "model": "gemini-3.1-flash-lite-preview",
   "source_chars": 3763,
   "fetch": "ok",
   "cliche_hits": [],
-  "read_at": "2026-11-12 12:24",
+  "read_at": "2026-11-12 13:01",
   "research": {
    "entities": [
     "Harrison Soll",
@@ -300925,8 +301074,8 @@
     "Sergio Bustamante"
    ],
    "questions": [
-    "미니멀리스트인 해리슨 솔과 맥시멀리스트인 로드니 번즈가 서로 다른 디자인 취향을 하나의 공간에서 어떻게 조화시켰는가?",
-    "1920년대 크래프츠맨 스타일 주택의 건축적 특징이 두 사람의 인테리어 구성에 어떤 영향을 미쳤는가?"
+    "미니멀리스트인 해리슨 솔과 맥시멀리스트인 로드니 번즈가 서로 다른 디자인 취향을 하나의 공간에서 조화롭게 융합한 구체적인 방법은 무엇인가?",
+    "1920년대 로스앤젤레스 크래프츠맨 스타일 주택의 건축적 특징이 이들의 인테리어 디자인 구성에 어떤 영향을 미쳤는가?"
    ],
    "sources": [
     {
@@ -300949,48 +301098,113 @@
     }
    ],
    "used": [
-    1
+    1,
+    3
    ],
    "chars": 4212
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "designboom.com/art/marius-boekhorst-flowers-into-pixels-of-color-with-geometric-glass": {
+  "title_ko": "유리 표면의 광학적 굴절로 해체되는 식물의 색상 조각들",
+  "summary_ko": "네덜란드 디자이너 마리우스 북호르스트는 '바이올렛' 시리즈를 통해 건축용 패턴 유리를 기하학적 볼륨으로 조립하고 그 뒤에 식물을 배치했다. 유리의 질감과 투명성을 통과한 빛은 꽃과 잎의 형태를 지우고 오렌지, 보라, 초록의 추상적인 색채 조각으로 변환한다.",
+  "lens": "평범한 건축용 유리를 광학 필터로 삼아 자연의 형태를 색의 입자로 해체한다.",
+  "why_now": "디지털 화면의 선명함에 피로를 느낀 시선이 물리적 소재의 투명도와 굴절을 통한 새로운 지각 방식을 찾고 있다.",
+  "mechanism": "패턴 유리가 가진 고유의 텍스처와 투명성이 빛을 확산시키며 식물의 세부 형태는 지우고 색상만 남기는 필터 역할을 수행한다.",
+  "sensory": "단단한 유리 기하학과 유기적인 식물 색채가 충돌하며 물질의 무게감과 빛의 흐름이 교차한다.",
+  "transfer": "영상 촬영 시 유리 블록이나 패턴 글라스를 렌즈 앞에 물리적으로 배치해 피사체를 색채의 파편으로 추상화하는 샷 콘티로 활용한다.",
+  "context": "마리우스 북호르스트는 일상적인 건축 자재를 조형적 매체로 전환하는 작업을 이어왔으며, 최근 바이올렛 프로스트와 바이올렛 픽셀 등의 시리즈로 확장하고 있다.",
+  "findings": [],
+  "keywords": [
+   "패턴유리",
+   "광학굴절",
+   "색채추상",
+   "보태니컬아트"
+  ],
+  "evidence": "Boekhorst uses patterned glass to frame the natural world in his Violet series, a collection of geometric glass sculptures where flowers dissolve into abstract compositions of color.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "건축용 유리를 활용해 식물을 추상적 색채로 해체하는 독창적인 시도가 선명하게 드러난다.",
+  "v": 2,
+  "url": "https://www.designboom.com/art/marius-boekhorst-flowers-into-pixels-of-color-with-geometric-glass/",
+  "original_title": "marius boekhorst breaks down flowers into fragments of color with geometric glass",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 5681,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-12 13:01",
+  "research": {
+   "entities": [
+    "Marius Boekhorst",
+    "Violet"
+   ],
+   "questions": [
+    "마리우스 북호르스트(Marius Boekhorst)의 Violet 시리즈는 유리 조각과 자연물 사이의 관계를 어떻게 시각화하고 있는가?",
+    "패턴 유리의 광학적 특성이 보태니컬 아트를 추상적인 회화처럼 보이게 만드는 원리는 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "밀로 J, 아르헨티나 민속 음악에서 찾은 동시대적 구원",
+     "url": "https://www.dazeddigital.com/music/article/71019/1/milo-j-how-argentinian-rap-star-found-solace-in-folk-music-latin-grammys?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=milo-j-how-a-19-year-old-argentinian-rap-star-found-redemption-in-folk"
+    },
+    {
+     "n": 2,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "미술관의 권력과 명성 세탁, MoMA 이사 레온 블랙 퇴진 시위",
+     "url": "https://hyperallergic.com/moma-helping-sanitize-leon-blacks-reputation-protesters-say/"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "멕시코시티로 이식된 창의적 우주, 홀리 험버스톤의 공간 서사",
+     "url": "https://www.dazeddigital.com/music/article/71275/1/how-holly-humberstone-built-her-home-away-from-home-in-mexico-city?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=how-holly-humberstone-built-her-home-away-from-home-in-mexico-city"
+    }
+   ],
+   "used": [],
+   "chars": 879
   },
   "depth_raw": 3,
   "depth_v": 2
  },
  "architecturaldigest.com/story/best-airbnb-cabin": {
-  "title_ko": "숲의 고요를 건축으로 번역하는 은신처들",
-  "summary_ko": "미국 전역의 숲과 산악 지대에 위치한 독창적인 오프그리드 캐빈 10곳을 조명한다. 어두운 금속 사이딩, 거대한 유리벽, 목재 인테리어를 통해 자연 환경과 물리적으로 깊이 교감한다.",
-  "lens": "거친 자연의 지형 속에 날것의 목재와 금속을 심어 풍경과 거주 공간을 하나로 엮는다.",
-  "why_now": "디지털 피로가 극에 달한 시점에서, 통신 서비스가 차단된 고립된 공간과 원초적인 물성이 주는 치유적 가치가 주목받고 있다.",
-  "mechanism": "급경사 지붕과 전면 유리벽을 통해 시선을 외부 숲으로 확장하고, 목재 패널과 화목난로로 내부의 밀도를 높인다.",
-  "sensory": "소나무 숲의 백색 소음, 금속 외벽에 부딪히는 바람, 장작 타는 소리와 불꽃의 온기가 오감을 채운다.",
-  "transfer": "인적이 드문 숲속 로케이션에서 카메라의 시선을 수직으로 뻗은 소나무 대열과 캐빈의 날카로운 실루엣 대조에 맞춘다.",
-  "context": "프랭크 로이드 라이트의 유기적 건축 철학이 현대적인 캐빈 디자인과 미니멀한 스칸디나비안 미학으로 이어지고 있음을 보여준다.",
+  "title_ko": "자연을 투영하는 최소한의 구조, 산악 지형에 순응하는 10개의 캐빈",
+  "summary_ko": "미국 전역의 지형과 기후에 순응하며 설계된 10개의 숙박 시설을 소개한다. 숲의 소리를 극대화하는 오리건의 목재 캐빈부터 11,000피트 고도의 콜로라도 산악 지형을 마주하는 A-프레임 구조까지, 자연의 물리적 환경을 건축적 장치로 번역한 사례들이다.",
+  "lens": "지형에 박제된 건축이 아니라 자연의 소리와 빛을 실내로 끌어들여 거주자와 숲 사이의 물리적 거리를 0으로 만드는 시노그래피다.",
+  "why_now": "디지털 피로를 해소하기 위해 물리적 고립을 선택하는 여행자가 늘면서, 자연의 물성을 그대로 수용하는 유기적 건축이 휴식의 새로운 문법으로 자리 잡았다.",
+  "mechanism": "급경사 지붕으로 적설을 방지하는 A-프레임 구조와 숲을 향해 16피트 높이로 열린 슬라이딩 도어는 외부 환경을 내부의 일상으로 즉각 전이시킨다.",
+  "sensory": "어두운 금속 외장재와 대비되는 따뜻한 소나무 마감, 숲의 백색 소음, 그리고 사우나에서 나오는 습한 나무 향기가 공간을 채운다.",
+  "transfer": "콘티 작업 시, 창을 프레임 삼아 외부 풍경을 고정하지 않고 슬라이딩 도어를 활용해 실내외 공간을 하나의 연속체로 연결하는 동선을 설계하라.",
+  "context": "프랭크 로이드 라이트가 주창한 유기적 건축은 자연과 인간의 조화를 핵심으로 하며, 이는 현대의 작은 오프그리드 숙박 시설들이 지형을 훼손하지 않고 풍경을 수용하는 방식에 깊은 영향을 미쳤다. 이러한 설계 철학은 건축가의 사적 실험실에서 시작되어 오늘날 보편적인 휴식의 공간으로 확장되고 있다.",
   "findings": [
    {
-    "text": "프랭크 로이드 라이트는 인류와 환경이 조화를 이루는 유기적 건축 철학을 주장했다.",
+    "text": "프랭크 로이드 라이트는 유기적 건축 철학을 통해 건축물이 자연 및 인간과 조화를 이루어야 한다고 믿었다.",
     "s": 1,
     "quote": "Wright believed in designing in harmony with humanity and the environment, a philosophy he called organic architecture."
    }
   ],
   "keywords": [
-   "캐빈",
-   "유기적건축",
+   "유기적 건축",
    "오프그리드",
-   "자연순응"
+   "지형 순응",
+   "물리적 시간"
   ],
-  "evidence": "A steeply pitched roof and black metal siding give this tiny cabin near Oregon’s Mount Hood a striking silhouette against the towering pines.",
+  "evidence": "Whether it’s an organic design marvel in Washington that would make Frank Lloyd Wright weep or a sauna-equipped “bird house” cabin",
   "kind": "프로젝트",
   "depth": 3,
   "grounding": "full",
-  "depth_reason": "다양한 오프그리드 캐빈 사례들을 건축적 관점에서 큐레이션했으나 묶음 기사의 한계가 있다.",
+  "depth_reason": "건축적 장치와 자연 순응의 관점을 제시했으나, 개별 프로젝트의 상세 도면이나 구조적 수치가 제한적이라 3점으로 설정함.",
   "v": 2,
   "url": "https://www.architecturaldigest.com/story/best-airbnb-cabin",
   "original_title": "17 Best Airbnb Cabins for a Picture-Perfect Outdoor Retreat (2026)",
-  "model": "gemini-3.5-flash-lite",
+  "model": "gemini-3.1-flash-lite-preview",
   "source_chars": 9000,
   "fetch": "ok",
   "cliche_hits": [],
-  "read_at": "2026-11-12 12:24",
+  "read_at": "2026-11-12 13:01",
   "research": {
    "entities": [
     "Frank Lloyd Wright",
@@ -300999,7 +301213,7 @@
    ],
    "questions": [
     "기사에서 언급된 'shinrin-yoku(삼림욕)'의 개념이 현대 건축 디자인에 어떻게 반영되고 있나요?",
-    "A-프레임(A-frame) 구조가 산악 지역이나 숲속 휴양지 건축에서 선호되는 이유는 무엇인가요?"
+    "A-프레임(A-frame) 구조가 산악 지역의 숙박 시설 디자인에서 선호되는 건축적 이유는 무엇인가요?"
    ],
    "sources": [
     {
@@ -301033,226 +301247,6 @@
    "chars": 2367
   },
   "depth_raw": 3,
-  "depth_v": 2
- },
- "archdaily.com/1188279/cst-number-185-tini-plus-delavegacanolasso": {
-  "title_ko": "산업화된 모듈러로 재현한 20세기 모더니즘, CST #185",
-  "summary_ko": "스페인 마드리드에 위치한 203㎡ 규모의 CST #185는 건축 스튜디오 티니(tini)와 델라베가카놀라소(delavegacanolasso)가 공동 설계했다. 이 프로젝트는 20세기 중반 모더니즘 건축과 케이스 스터디 하우스의 정신을 계승하며, 산업화되고 최적화된 모듈러 시스템을 통해 지형에 대한 최소한의 개입을 실현했다.",
-  "lens": "산업화된 모듈러 시스템을 통해 20세기 중반의 모더니즘 미학을 현대적 지속 가능성으로 번역했다.",
-  "why_now": "건축 자원의 효율적 배분과 현장 시공의 최소화가 요구되는 시점에, 규격화된 모듈러 시스템이 어떻게 건축적 완성도를 유지할 수 있는지 보여준다.",
-  "mechanism": "표준화된 산업용 모듈을 지형에 맞게 배치하여 현장 작업을 줄이고, 모더니즘 특유의 간결한 수평적 구조를 구현했다.",
-  "sensory": "산업 공정에서 나온 정밀한 금속 프레임과 매끄러운 마감재가 주변 지형과 대조를 이루며 시각적 명료함을 제공한다.",
-  "transfer": "현장 시공의 복잡함을 줄이기 위해 표준화된 모듈러 프레임을 활용한 수평적 구성의 공간 콘티를 제안한다.",
-  "context": "티니는 건축 생산의 효율성과 지속 가능성을 핵심 가치로 삼아 산업화된 주거 시스템을 연구하는 스튜디오다. 이번 협업은 델라베가카놀라소의 공간 해석력과 티니의 모듈러 설계 기술을 결합하여 현대적 주거의 원형을 탐구한다.",
-  "findings": [],
-  "keywords": [
-   "모듈러건축",
-   "모더니즘",
-   "산업화",
-   "지속가능성"
-  ],
-  "evidence": "This project revives the spirit of the Case Study Houses and mid-century modern architecture through an industrialized, optimized system",
-  "kind": "프로젝트",
-  "depth": 2,
-  "grounding": "partial",
-  "depth_reason": "건축적 의도와 모듈러 시스템의 방향성은 명확하나, 세부적인 시공 디테일이나 기술적 수치가 부족하여 3점을 부여함.",
-  "v": 2,
-  "url": "https://www.archdaily.com/1188279/cst-number-185-tini-plus-delavegacanolasso",
-  "original_title": "CST #185  / tini + delavegacanolasso",
-  "model": "gemini-3.1-flash-lite",
-  "source_chars": 513,
-  "fetch": "ok",
-  "cliche_hits": [],
-  "read_at": "2026-11-12 12:24",
-  "research": {
-   "entities": [
-    "tini",
-    "delavegacanolasso",
-    "Jesús Granada"
-   ],
-   "questions": [
-    "tini와 delavegacanolasso가 협업한 CST #185 프로젝트의 건축적 특징과 설계 의도는 무엇인가요?",
-    "tini 스튜디오가 추구하는 모듈러 건축 방식과 지속 가능성의 철학은 무엇인가요?"
-   ],
-   "sources": [
-    {
-     "n": 1,
-     "type": "위키백과",
-     "title": "Tini (singer)",
-     "url": "https://en.wikipedia.org/wiki/Tini%20%28singer%29"
-    }
-   ],
-   "used": [],
-   "chars": 1400
-  },
-  "depth_raw": 3,
-  "depth_v": 2
- },
- "designboom.com/art/marius-boekhorst-flowers-into-pixels-of-color-with-geometric-glass": {
-  "title_ko": "유리라는 필터를 통과한 자연, 마리우스 보에크호르스트의 기하학적 정물",
-  "summary_ko": "네덜란드 디자이너 마리우스 보에크호르스트(Marius Boekhorst)는 패턴 유리를 활용해 식물 이미지를 추상적인 색채 조각으로 분해하는 '바이올렛(Violet)' 연작을 선보인다. 그는 건축 자재인 유리 표면의 텍스처를 렌즈 삼아 자연의 형태를 왜곡하고, 유기적인 꽃과 기하학적 구조가 공존하는 3차원 정물을 구축한다.",
-  "lens": "질서 정연한 격자무늬 유리로 유기적 생명체를 강제 분절하여, 익숙한 자연을 낯선 색채의 파편으로 재구성한다.",
-  "why_now": "디지털 피로도가 높은 시대에, 물리적 필터를 거쳐 실물을 추상화하는 방식은 시각적 주의력을 환기하는 유효한 장치다.",
-  "mechanism": "반복적인 패턴이 새겨진 유리를 기하학적 볼륨으로 조립하여, 투과하는 빛의 굴절을 통해 꽃의 윤곽과 색상을 파편화한다.",
-  "sensory": "유리의 차가운 질감과 불투명한 텍스처가 꽃의 부드러운 형태를 가로막으며, 빛이 굴절될 때마다 색채가 뭉개지고 번지는 시각적 지연을 만든다.",
-  "transfer": "공간 연출 시 유리 파티션에 특정 패턴을 적용해 피사체의 형태를 의도적으로 왜곡하거나, 조명 투과율을 조절하여 배경을 추상적인 색면으로 변환하는 기법으로 활용 가능하다.",
-  "context": "보에크호르스트는 패턴 유리를 단순한 건축 마감재가 아닌, 정물을 재해석하는 캔버스이자 필터로 전유한다. 이는 실물을 재현하는 대신 물질의 속성을 이용해 관찰의 속도를 늦추는 작업의 연장선에 있다.",
-  "findings": [],
-  "keywords": [
-   "패턴유리",
-   "광학적왜곡",
-   "정물조각",
-   "색채분해"
-  ],
-  "evidence": "flowers dissolve into abstract compositions of color",
-  "kind": "프로젝트",
-  "depth": 3,
-  "grounding": "full",
-  "depth_reason": "유리라는 재료의 물성을 활용한 시각적 실험은 명확하나, 기존의 광학 예술이나 글라스 아트의 범주에서 크게 벗어나지 않는 평이한 접근이다.",
-  "v": 2,
-  "url": "https://www.designboom.com/art/marius-boekhorst-flowers-into-pixels-of-color-with-geometric-glass/",
-  "original_title": "marius boekhorst breaks down flowers into fragments of color with geometric glass",
-  "model": "gemini-3.1-flash-lite-preview",
-  "source_chars": 5681,
-  "fetch": "ok",
-  "cliche_hits": [],
-  "read_at": "2026-11-12 12:25",
-  "research": {
-   "entities": [
-    "Marius Boekhorst",
-    "Violet"
-   ],
-   "questions": [
-    "마리우스 보크호스트가 패턴 유리를 통해 자연을 재해석하는 예술적 의도는 무엇인가요?",
-    "기하학적 유리 구조와 유기적인 꽃의 이미지가 결합했을 때 관람객에게 어떤 시각적 경험을 제공하나요?"
-   ],
-   "sources": [
-    {
-     "n": 1,
-     "type": "RE:COLLECTION 과거 기사",
-     "title": "밀로 J, 아르헨티나 민속 음악에서 찾은 동시대적 구원",
-     "url": "https://www.dazeddigital.com/music/article/71019/1/milo-j-how-argentinian-rap-star-found-solace-in-folk-music-latin-grammys?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=milo-j-how-a-19-year-old-argentinian-rap-star-found-redemption-in-folk"
-    },
-    {
-     "n": 2,
-     "type": "RE:COLLECTION 과거 기사",
-     "title": "미술관의 권력과 명성 세탁, MoMA 이사 레온 블랙 퇴진 시위",
-     "url": "https://hyperallergic.com/moma-helping-sanitize-leon-blacks-reputation-protesters-say/"
-    },
-    {
-     "n": 3,
-     "type": "RE:COLLECTION 과거 기사",
-     "title": "멕시코시티로 이식된 창의적 우주, 홀리 험버스톤의 공간 서사",
-     "url": "https://www.dazeddigital.com/music/article/71275/1/how-holly-humberstone-built-her-home-away-from-home-in-mexico-city?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=how-holly-humberstone-built-her-home-away-from-home-in-mexico-city"
-    }
-   ],
-   "used": [],
-   "chars": 879
-  },
-  "depth_raw": 3,
-  "depth_v": 2
- },
- "hyperallergic.com/piecing-together-romare-beardens-life": {
-  "title_ko": "파편과 시대의 접합: 다큐멘터리로 재구성한 로마레 비어든의 콜라주",
-  "summary_ko": "다큐멘터리 '로마레 비어든: 콜라주 속의 삶'은 선형적 전기 구조를 벗어나 작가의 삶과 시대적 주제를 연결한다. 데보라 라일리 드레이퍼가 연출한 이 영화는 뉴욕 시 스튜디오의 풍경과 아카이브 녹음 자료를 통해 20세기 흑인 경험을 입체적으로 조명한다.",
-  "lens": "파편화된 기억을 직조하듯, 콜라주의 구조를 다큐멘터리의 서사 장치로 그대로 확장한다.",
-  "why_now": "예술가의 생애를 연대기 순으로 나열하는 방식을 거부하고, 시각적 모티프와 주제적 유사성을 중심으로 인물의 궤적을 재조립하는 실험적 편집 태도가 주목받는 시점이다.",
-  "mechanism": "대이동 시기의 기억을 다룰 때 전기적 사실에 머무르지 않고, 작업 속에 반복 등장하는 기차 모티프를 매개로 서로 다른 시기를 교차 편집한다.",
-  "sensory": "흑인 미국인의 삶을 담아낸 생생한 아카이브 푸티지와 작가가 직접 자신의 기억과 예술 과정을 우아하게 읊조리는 음성이 겹친다.",
-  "transfer": "시간순 전개를 버리고 반복되는 오브제나 사운드를 기준으로 장면을 점프 컷으로 엮어내는 비선형 콘티 작법에 적용한다.",
-  "context": "미국 화가이자 콜라주 거장 로마레 비어든은 뉴욕 헤를렘과 피츠버그에서 자라며 대이동의 경험을 예술적 자산으로 삼았다. 뉴욕 다큐멘터리 영화제에서 공개된 이 작품은 아카이브 스토리텔링 경쟁 부문에 노미네이트되었다.",
-  "findings": [
-   {
-    "text": "로마레 비어든: 콜라주 속의 삶은 DOC NYC의 첫 아카이브 스토리텔링 경쟁 부문에 노미네이트된 10편의 영화 중 하나다.",
-    "s": 1,
-    "quote": "Romare Bearden: A Life in Collage is one of 10 nominated films in DOC NYC’s inaugural Archival Storytelling Competition"
-   },
-   {
-    "text": "이 영화는 뉴욕 스튜디오 속 비어든의 모습과 앨빈 에이일리, 제임스 볼드윈 등 협업자들과의 기록을 담은 풍부한 아카이브 푸티지를 활용한다.",
-    "s": 1,
-    "quote": "film illuminates his immense talent through rich archival footage, including Bearden in his NYC studios and with collaborators Alvin Ailey and James Baldwin."
-   },
-   {
-    "text": "로마레 비어든은 1988년 부고 기사에서 뉴욕 타임스에 의해 국가 최고의 콜라주 작가로 묘사되었다.",
-    "s": 2,
-    "quote": "The New York Times described Bearden as \"the nation's foremost collagist\" in his 1988 obituary."
-   }
-  ],
-  "keywords": [
-   "로마레비어든",
-   "콜라주",
-   "아카이브",
-   "다큐멘터리",
-   "비선형서사"
-  ],
-  "evidence": "Romare Bearden: A Life in Collage, soon to screen at DOC NYC, eschews the familiar structure of a linear biography, jumping around to find thematic rhymes through different periods of Bearden’s life.",
-  "kind": "영상·필름",
-  "depth": 4,
-  "grounding": "full",
-  "depth_reason": "구체적인 다큐멘터리 작품과 연출 방식을 다루며 아카이브 자료와 전거가 명확하나 적용 범위가 장르 특성에 한정된다.",
-  "v": 2,
-  "url": "https://hyperallergic.com/piecing-together-romare-beardens-life/",
-  "original_title": "Piecing Together Romare Bearden’s Life",
-  "model": "gemini-3.5-flash-lite",
-  "source_chars": 1927,
-  "fetch": "ok",
-  "cliche_hits": [],
-  "read_at": "2026-11-12 12:25",
-  "research": {
-   "entities": [
-    "Romare Bearden",
-    "DOC NYC",
-    "Sorbonne"
-   ],
-   "questions": [
-    "로마이어 비어든의 콜라주 기법이 20세기 흑인들의 삶과 경험을 어떻게 시각적으로 재구성했는가?",
-    "다큐멘터리 'Romare Bearden: A Life in Collage'는 비어든의 생애를 선형적 서사가 아닌 어떤 테마적 방식으로 풀어냈는가?"
-   ],
-   "sources": [
-    {
-     "n": 1,
-     "type": "공식·1차",
-     "title": "ROMARE BEARDEN: A LIFE IN COLLAGE - DOC NYC",
-     "url": "https://www.docnyc.net/film/romare-bearden-a-life-in-collage/?ref=hyperallergic.com"
-    },
-    {
-     "n": 2,
-     "type": "위키백과",
-     "title": "Romare Bearden",
-     "url": "https://en.wikipedia.org/wiki/Romare%20Bearden"
-    },
-    {
-     "n": 3,
-     "type": "위키백과",
-     "title": "Doc NYC",
-     "url": "https://en.wikipedia.org/wiki/Doc%20NYC"
-    },
-    {
-     "n": 4,
-     "type": "RE:COLLECTION 과거 기사",
-     "title": "섬유와 실을 통해 정치와 서사를 엮는 예술 도서 모음",
-     "url": "https://hyperallergic.com/12-must-read-books-on-textiles-and-fiber-art/"
-    },
-    {
-     "n": 5,
-     "type": "RE:COLLECTION 과거 기사",
-     "title": "고와너스 운하의 변모: 오염된 수로에서 젠트리피케이션의 무대로",
-     "url": "https://hyperallergic.com/live-from-the-lavender-lake/"
-    },
-    {
-     "n": 6,
-     "type": "RE:COLLECTION 과거 기사",
-     "title": "기념물을 전유하는 시위대: 68년 5월의 시각 언어를 소환한 프랑스 학생들",
-     "url": "https://hyperallergic.com/the-french-student-protesters-subverting-monuments-like-its-may-68/"
-    }
-   ],
-   "used": [
-    1,
-    2
-   ],
-   "chars": 5226
-  },
-  "depth_raw": 4,
   "depth_v": 2
  }
 }
