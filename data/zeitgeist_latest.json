@@ -1,64 +1,76 @@
 {
-  "generated_at": "2026-11-12 19:46 KST",
-  "period": "2026.11.05 - 2026.11.12",
-  "total_articles": 447,
+  "generated_at": "2026-11-13 02:02 KST",
+  "period": "2026.11.06 - 2026.11.13",
+  "total_articles": 406,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 198
+      "count": 177
     },
     {
       "genre": "동시대 미술",
-      "count": 183
+      "count": 166
     },
     {
       "genre": "아방가르드 패션",
-      "count": 47
+      "count": 45
     },
     {
       "genre": "미디어 파사드·3D",
-      "count": 19
+      "count": 18
     }
   ],
   "themes": [
     {
       "keyword": "박물관·전시",
-      "count": 35,
-      "previous_count": 24,
+      "count": 34,
+      "previous_count": 25,
       "trend": "rising",
       "items": [
         {
-          "title": "디자인 뮤지엄, 친환경 건축의 새로운 시대를 알리는 프로토타입 보조금 발표",
-          "url": "https://www.wallpaper.com/architecture/the-design-museum-first-prototype-grants-revealed-uk",
-          "image_url": "https://cdn.mos.cms.futurecdn.net/aGQLWchaxCVsNpfuSHnbdW-1920-80.jpg",
-          "source_name": "Wallpaper*"
-        },
-        {
-          "title": "현대 비즈 공예가 켄 윌리엄스 주니어, 코닝 유리 박물관의 라코우 커미션 수상",
-          "url": "https://hyperallergic.com/contemporary-beadworker-ken-williams-jr-awarded-rakow-commission-by-corning-museum-of-glass/",
-          "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/11/I-Am-the-Hungry-Cat_Ken-Williams-Jr.jpg",
+          "title": "렘브란트의 '야경'이 살아있습니다!",
+          "url": "https://hyperallergic.com/rembrandts-night-watch-is-alive/",
+          "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/11/ARTIS-en-Rijksmuseum---De-Nachtwacht-Leeft--14.----ARTIS--Niels-de-Vries.jpg.jpg",
           "source_name": "Hyperallergic"
         },
         {
-          "title": "미스즈 갤러리(Mrs. Gallery), 예술품 수집가들을 퀸즈로 유치한 지 10주년 맞이",
-          "url": "https://hyperallergic.com/mrs-gallery-marks-10-years-of-getting-art-collectors-to-queens/",
-          "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/11/IMG_9417.jpeg",
+          "title": "Nvidia 허니팟, 밈 골드 생산",
+          "url": "https://hyperallergic.com/nvidia-honeypot-yields-meme-gold/",
+          "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/11/nvidia-meme.png",
           "source_name": "Hyperallergic"
         },
         {
-          "title": "뉴욕 원주민 예술의 새로운 터전",
-          "url": "https://hyperallergic.com/a-new-home-for-native-art-in-new-york/",
-          "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/11/branchline.png",
-          "source_name": "Hyperallergic"
+          "title": "시드니의 파워하우스 파라마타 박물관과 브라티슬라바의 윈터 하버 재개발: 이번 주 리뷰",
+          "url": "https://www.archdaily.com/1188495/sydneys-powerhouse-parramatta-museum-and-bratislavas-winter-harbour-redevelopment-this-weeks-review",
+          "image_url": "https://images.adsttc.com/media/images/6af4/76a3/c23f/1f01/895a/f45e/large_jpg/sydneys-powerhouse-parramatta-museum-and-momas-new-cultural-alliance-this-weeks-review_5.jpg?1794406062",
+          "source_name": "ArchDaily"
+        },
+        {
+          "title": "영장류와 양자역학의 공통점은 무엇일까요? 다니엘 번바움(Daniel Birnbaum)과 재키 데이비스(Jacqui Davies)와의 대화",
+          "url": "https://www.designboom.com/art/primate-quantum-mechanics-conversation-daniel-birnbaum-jacqui-davies/",
+          "image_url": "https://www.designboom.com/wp-content/uploads/2026/11/quantum-effect-designboom-08.jpg",
+          "source_name": "Designboom Art"
         }
       ]
     },
     {
       "keyword": "목재 건축",
-      "count": 9,
-      "previous_count": 3,
+      "count": 11,
+      "previous_count": 2,
       "trend": "rising",
       "items": [
+        {
+          "title": "EMBT, '자연스럽고 따뜻한' 아치형 목재 지붕 아래 나폴리 지하철역을 보호합니다",
+          "url": "https://www.dezeen.com/2026/11/12/embt-naples-underground-central-station/",
+          "image_url": "https://static-2026.dezeen.com/uploads/2026/11/naples-underground-central-station-embt-architecture-infrastructure-timber-glulam_dezeen_2364_sq-1024x1024.jpg",
+          "source_name": "Dezeen"
+        },
+        {
+          "title": "RooMoo, 중국의 버려진 산장들을 호텔로 탈바꿈시키다",
+          "url": "https://www.dezeen.com/2026/11/12/cloudhaus-hotel-bamboo-roomoo-chongqing-china/",
+          "image_url": "https://static-2026.dezeen.com/uploads/2026/11/cloudhaus-hotel-chongqing-chinaroomoo-design-studio-sq_dezeen_2364_col_1-1024x1024.jpg",
+          "source_name": "Dezeen"
+        },
         {
           "title": "프리덤 모바일 아치 원형극장 / Revery Architecture",
           "url": "https://www.archdaily.com/1188346/freedom-mobile-arch-amphitheatre-revery-architecture",
@@ -70,18 +82,6 @@
           "url": "https://www.archdaily.com/1187802/plana-kindergarten-proam-architekti",
           "image_url": "https://images.adsttc.com/media/images/6ae3/d82c/a8ed/4101/8962/32cb/large_jpg/plana-kindergarten-proam-architekti_3.jpg?1793316920",
           "source_name": "ArchDaily"
-        },
-        {
-          "title": "통킹 류 (Tonkin Liu) 는 요크 민스터 (York Minster) 를 복원하는 공예가를 위해 글룰람 건물 한 쌍을 만듭니다.",
-          "url": "https://www.dezeen.com/2026/11/11/york-minster-centre-excellence-tonkin-liu/",
-          "image_url": "https://static-2026.dezeen.com/uploads/2026/11/york-minster-centre-excellence-tonkin-liu-sq_dezeen_2364_col_1-1024x1024.jpg",
-          "source_name": "Dezeen"
-        },
-        {
-          "title": "PPAA는 멕시코에 \"덜 짓기 위한 논쟁\" 으로 트윈 하우스를 만듭니다.",
-          "url": "https://www.dezeen.com/2026/11/10/ppaa-creates-twin-houses-in-mexico-as-an-argument-for-building-less/",
-          "image_url": "https://static-2026.dezeen.com/uploads/2026/10/ppaa-rejas-mexico-house_dezeen_2364_col_14-818x1024.jpg",
-          "source_name": "Dezeen"
         }
       ]
     },
@@ -91,6 +91,12 @@
       "previous_count": 5,
       "trend": "rising",
       "items": [
+        {
+          "title": "리노베이션 지연으로 인해 의사당에 '노트르담 대성당과 같은' 화재 위험이 발생할 수 있습니다.",
+          "url": "https://www.dezeen.com/2026/11/12/fire-risk-palace-westminster-renovation-delay/",
+          "image_url": "https://static-2026.dezeen.com/uploads/2026/11/houses-of-parliament-renovation-report-sq_dezeen_2364_col_0-1024x1024.jpg",
+          "source_name": "Dezeen"
+        },
         {
           "title": "쓰야마 호텔 I & II 리노베이션 / NAAD + studio tata",
           "url": "https://www.archdaily.com/1187432/tsuyama-hotel-i-and-ii-renovation-naad-plus-studio-tata",
@@ -108,44 +114,38 @@
           "url": "https://minimalissimo.com/articles/nou-de-la-rambla",
           "image_url": "https://minimalissimo.com/api/media/file/nou-de-la-rambla-featured-v20261110-1200x630.jpg",
           "source_name": "Minimalissimo"
-        },
-        {
-          "title": "NH 레지던스 리노베이션/Dhanie & Sal",
-          "url": "https://www.archdaily.com/1187848/nh-residence-renovation-dhanie-and-sal",
-          "image_url": "https://images.adsttc.com/media/images/6ae4/8bd7/bfbd/4c00/01ee/58c0/large_jpg/12.jpg?1793362920",
-          "source_name": "ArchDaily"
         }
       ]
     },
     {
-      "keyword": "해변·리조트 건축",
-      "count": 6,
-      "previous_count": 4,
+      "keyword": "미니멀리즘",
+      "count": 5,
+      "previous_count": 2,
       "trend": "rising",
       "items": [
         {
-          "title": "마운틴 하우스 IV",
-          "url": "https://leibal.com/interiors/mountain-house-iv/",
-          "image_url": "https://leibal.com/wp-content/uploads/2026/11/leibal-mountain-house-iv-studio-razavi-3.jpg",
-          "source_name": "Leibal"
+          "title": "미니멀, 소형 밴과 전기 자전거를 결합한 배달 차량 '페달 4' 선보여",
+          "url": "https://www.dezeen.com/2026/11/12/minimal-pedal-4-delivery-vehicle/",
+          "image_url": "https://static-2026.dezeen.com/uploads/2026/11/pedal-4-cargo-vehicle-minimal-design_dezeen_2364_sq-1024x1024.jpg",
+          "source_name": "Dezeen"
         },
         {
-          "title": "연휴 전후 리셋을 위해 Mount Med Resort는 완벽합니다.",
-          "url": "https://www.wallpaper.com/travel/spas/mount-med-resort-austria-review",
-          "image_url": "https://cdn.mos.cms.futurecdn.net/AvoPypcwBjWchTAvrQ2BrG-1920-80.jpg",
+          "title": "최소 최대/스템펠 & 테사르 아키텍티",
+          "url": "https://www.archdaily.com/1188094/minimal-maximum-stempel-and-tesar-architekti",
+          "image_url": "https://images.adsttc.com/media/images/6aeb/7835/c723/9a5a/c78a/6ae7/large_jpg/minimal-maximum-stempel-and-tesar-architekti_11.jpg?1793816671",
+          "source_name": "ArchDaily"
+        },
+        {
+          "title": "상파울루의 새로운 소매 공간인 캐주얼 스토어는 미니멀리즘을 연극적인 효과로 끌어올립니다.",
+          "url": "https://www.wallpaper.com/architecture/casual-store-studio-mk27-brazil",
+          "image_url": "https://cdn.mos.cms.futurecdn.net/ZNGqY2syMuAccg8nQTKZfh-1920-80.jpg",
           "source_name": "Wallpaper*"
         },
         {
-          "title": "이번 겨울에 방문하는 가장 아름다운 스키 리조트 17선 (미국 3곳 포함)",
-          "url": "https://www.architecturaldigest.com/gallery/beautiful-ski-resorts-to-visit-this-winter",
-          "image_url": "https://media.architecturaldigest.com/photos/565e1cebe6e26e7256b11f91/master/pass/10-best-ski-resorts-to-visit-this-winter-06.jpg",
-          "source_name": "Architectural Digest"
-        },
-        {
-          "title": "비치 하우스/세바스찬 호네르",
-          "url": "https://www.archdaily.com/1187683/beach-house",
-          "image_url": "https://images.adsttc.com/media/images/6ae1/fddc/3271/8400/01d0/f633/large_jpg/6259861-89.jpg?1793195516",
-          "source_name": "ArchDaily"
+          "title": "좋은 디자인을 좋아하는 미니멀리스트를 위한 최고의 선물",
+          "url": "https://design-milk.com/best-gifts-for-minimalists/",
+          "image_url": "https://design-milk.com/images/2026/11/design-milk-gifts-minimalist-2026.jpg",
+          "source_name": "Design Milk"
         }
       ]
     },
@@ -182,34 +182,34 @@
       ]
     },
     {
-      "keyword": "빛과 조명",
+      "keyword": "사진",
       "count": 9,
       "previous_count": 10,
       "trend": "steady",
       "items": [
         {
-          "title": "Licht Kunst Licht, '대체로 눈에 띄지 않는' 조명으로 쾰른 대성당의 유서 깊은 외관을 밝힙니다",
-          "url": "https://www.dezeen.com/2026/11/12/licht-kunst-licht-cologne-cathedral/",
-          "image_url": "https://static-2026.dezeen.com/uploads/2026/11/sq-licht-kunst-licht-cologne-cathedral_dezeen_2364_col_0-1024x1024.jpg",
-          "source_name": "Dezeen"
+          "title": "이 사진들은 미국 사막을 마치 악몽처럼 포착합니다.",
+          "url": "https://www.dazeddigital.com/art-photography/article/71350/1/these-photos-show-the-american-desert-as-a-fever-dream-adam-powell?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=these-photos-capture-the-american-desert-as-a-fever-dream",
+          "image_url": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/9/1459366.jpg",
+          "source_name": "Dazed"
         },
         {
-          "title": "현관문을 화려하게 장식할 수 있는 최고의 연말연시 화환 8가지(2026)",
-          "url": "https://www.architecturaldigest.com/story/best-christmas-wreaths",
-          "image_url": "https://media.architecturaldigest.com/photos/691f85fcae4d0ee282d04033/master/pass/wreath.jpg",
-          "source_name": "Architectural Digest"
+          "title": "라스베이거스에서 10대의 삶을 담은 친근한 초상화",
+          "url": "https://www.dazeddigital.com/art-photography/article/71337/1/these-tender-photos-capture-coming-of-age-in-las-vegas?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=these-intimate-portraits-capture-teenage-life-in-las-vegas",
+          "image_url": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/9/1459242.jpg",
+          "source_name": "Dazed"
         },
         {
-          "title": "'Free Lyric'은 '도발적인' 가사 때문에 '취소'당한 젊은 흑인 여성 래퍼의 이야기를 들려줍니다.",
-          "url": "https://hyperallergic.com/free-lyric-tells-the-story-of-a-young-black-female-rapper-cancelled-for-her-provocative-lyrics/",
-          "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/11/Hyperallergic-Post-1-4.png",
-          "source_name": "Hyperallergic"
+          "title": "박쥐, 거미, 점균류가 선정한 올해의 클로즈업 사진작가",
+          "url": "https://www.thisiscolossal.com/2026/11/close-up-photographer-of-the-year-2026-shortlist/",
+          "image_url": "https://www.thisiscolossal.com/wp-content/uploads/2026/11/cupoty2026-5.jpg",
+          "source_name": "This Is Colossal"
         },
         {
-          "title": "자하 하디드의 아카이브에서 잘 알려지지 않은 무대 디자인 5가지",
-          "url": "https://www.dezeen.com/2026/11/11/zaha-hadid-foundation-stage-design/",
-          "image_url": "https://static-2026.dezeen.com/uploads/2026/11/zaha-hadid-architecture-of-performance-exhibition-foundation-london-architecture-stage-design_dezeen_2364_sq-1-1024x1024.jpg",
-          "source_name": "Dezeen"
+          "title": "다른 방: Hanna Moon과 Moffy Gathorne-Hardy의 새로운 크리에이티브 에이전시",
+          "url": "https://www.anothermag.com/art-photography/17631/the-other-room-hanna-moon-moffy-gathorne-hardy-creative-agency-interview?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=the-other-room-hanna-moon-and-moffy-gathorne-hardy-s-new-creative-agency",
+          "image_url": "https://images-prod.anothermag.com/605/azure/another-prod/480/0/480230.jpg",
+          "source_name": "AnOther Magazine"
         }
       ]
     }
@@ -217,16 +217,14 @@
   "notable_names": [
     "Las Vegas",
     "Powerhouse Parramatta",
+    "Los Angeles",
+    "Powerhouse Parramatta Museum",
     "Native Art",
     "Sumayya Vally",
-    "Sharjah Architecture Triennial",
     "Mexico City",
     "Mona Chalabi",
     "Dezeen Awards",
-    "Andy Warhol",
-    "Calvin Klein",
-    "Yemail Arquitectura",
-    "Martine Rose"
+    "Calvin Klein"
   ],
   "has_comparison": true
 }

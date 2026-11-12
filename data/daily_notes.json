@@ -3537,5 +3537,56 @@
   "v": 3,
   "model": "gemini-3.1-flash-lite",
   "written_at": "2026-11-12 01:01"
+ },
+ "2026-11-13": {
+  "date": "2026-11-13",
+  "headline": "낡은 벽돌의 거친 뼈대와 수채화 붓질로 덧댄 물리적 시간",
+  "editorial": "디지털의 매끄러움을 거부하고 프레임 단위로 수채화 붓질을 올린 클래시 로얄의 궤적은 인공지능이 흉내 낼 수 없는 물리적 시간을 구축한다. 네리 앤 후가 케이프타운의 산업적 뼈대 위에 쌓아 올린 600만 개의 벽돌과, 폐산장의 목재를 적층하여 산악의 지형을 마감한 클라우드하우스 또한 고정된 유산을 동시대의 공공적 시노그래피로 치환한다. 기술적 한계를 미학적 패턴으로 전유하거나 사물의 낡은 껍데기를 뒤집어 행동을 유도하는 건축적 장치들은, 멈춰 있는 대상을 끊임없이 변화하는 유기체적 상태로 밀어 넣는다.",
+  "threads": [
+   {
+    "name": "유산의 물리적 전유",
+    "note": "산업 유산의 거친 뼈대를 동시대적인 공공 공간이나 휴양지로 재편하는 물리적 실천이다.",
+    "items": [
+     {
+      "title": "산업 유산의 전유와 시민 인프라로 재편되는 동시대 문화 공간의 지형",
+      "url": "https://www.archdaily.com/1188495/sydneys-powerhouse-parramatta-museum-and-bratislavas-winter-harbour-redevelopment-this-weeks-review"
+     },
+     {
+      "title": "네리 앤 후, 케이프타운의 산업적 뼈대 위에 600만 개의 벽돌을 쌓다",
+      "url": "https://design-milk.com/cape-town-edition-nerihu/"
+     },
+     {
+      "title": "19세기 페리 터미널의 재탄생, 강물 위의 빛을 가두는 스완 하우스",
+      "url": "https://www.architecturaldigest.com/story/artists-helen-marden-and-the-late-brice-marden-refashion-a-19th-century-ferry-terminal"
+     },
+     {
+      "title": "폐산장의 뼈대와 콘크리트 코어를 엮어 지은 산악 휴양지, 클라우드하우스",
+      "url": "https://www.dezeen.com/2026/11/12/cloudhaus-hotel-bamboo-roomoo-chongqing-china/"
+     }
+    ]
+   },
+   {
+    "name": "디지털을 넘어서는 수작업",
+    "note": "기술적 정교함에 의존하는 대신 수채화 붓질이나 벽돌 쌓기와 같은 물리적 궤적을 통해 대상에 생명력을 부여한다.",
+    "items": [
+     {
+      "title": "클래시 로얄, AI를 배제하고 선택한 프레임 단위 수채화의 물리적 궤적",
+      "url": "https://www.stashmedia.tv/roof-studio-pedro-allevato-stay-hands-on-for-clash-royale/"
+     },
+     {
+      "title": "네리 앤 후, 케이프타운의 산업적 뼈대 위에 600만 개의 벽돌을 쌓다",
+      "url": "https://design-milk.com/cape-town-edition-nerihu/"
+     },
+     {
+      "title": "나폴리 지하철역, 켄조 단게의 모더니즘을 가로지르는 유기적 목재 캐노피",
+      "url": "https://www.dezeen.com/2026/11/12/embt-naples-underground-central-station/"
+     }
+    ]
+   }
+  ],
+  "based_on": 24,
+  "v": 3,
+  "model": "gemini-3.1-flash-lite",
+  "written_at": "2026-11-13 02:07"
  }
 }
