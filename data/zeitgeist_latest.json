@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-11-13 03:01 KST",
+  "generated_at": "2026-11-13 05:57 KST",
   "period": "2026.11.06 - 2026.11.13",
-  "total_articles": 412,
+  "total_articles": 424,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 178
+      "count": 183
     },
     {
       "genre": "동시대 미술",
-      "count": 171
+      "count": 177
     },
     {
       "genre": "아방가르드 패션",
-      "count": 45
+      "count": 46
     },
     {
       "genre": "미디어 파사드·3D",
@@ -23,10 +23,16 @@
   "themes": [
     {
       "keyword": "박물관·전시",
-      "count": 34,
+      "count": 35,
       "previous_count": 25,
       "trend": "rising",
       "items": [
+        {
+          "title": "16만 달러 상당의 한스 아르프 조각상이 아트 쾰른에서 도난당했습니다.",
+          "url": "https://hyperallergic.com/160-000-hans-arp-sculpture-stolen-from-art-cologne/",
+          "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/11/Hans-Arp_Sich-aufrichtend--S-----levant-_1962_---VG-Bild-Kunst--Bonn---LUDORFF-2026-2-1.jpg",
+          "source_name": "Hyperallergic"
+        },
         {
           "title": "무료 단편 영화로 원주민 영화와 스토리텔링을 즐겨보세요",
           "url": "https://hyperallergic.com/celebrate-indigenous-cinema-and-storytelling-with-free-short-films/",
@@ -44,21 +50,21 @@
           "url": "https://hyperallergic.com/nvidia-honeypot-yields-meme-gold/",
           "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/11/nvidia-meme.png",
           "source_name": "Hyperallergic"
-        },
-        {
-          "title": "시드니의 파워하우스 파라마타 박물관과 브라티슬라바의 윈터 하버 재개발: 이번 주 리뷰",
-          "url": "https://www.archdaily.com/1188495/sydneys-powerhouse-parramatta-museum-and-bratislavas-winter-harbour-redevelopment-this-weeks-review",
-          "image_url": "https://images.adsttc.com/media/images/6af4/76a3/c23f/1f01/895a/f45e/large_jpg/sydneys-powerhouse-parramatta-museum-and-momas-new-cultural-alliance-this-weeks-review_5.jpg?1794406062",
-          "source_name": "ArchDaily"
         }
       ]
     },
     {
       "keyword": "목재 건축",
-      "count": 12,
+      "count": 13,
       "previous_count": 2,
       "trend": "rising",
       "items": [
+        {
+          "title": "Crosslam, 브라질에서 가장 높은 대형 목재 타워 완공",
+          "url": "https://www.dezeen.com/2026/11/12/brazil-tallest-timber-tower-crosslam-sao-paulo/",
+          "image_url": "https://static-2026.dezeen.com/uploads/2026/11/crosslam-aurora-275-timber-apartment-building-brazil_dezeen_2364_sq-1024x1024.jpg",
+          "source_name": "Dezeen"
+        },
         {
           "title": "EMBT, '자연스럽고 따뜻한' 아치형 목재 지붕 아래 나폴리 지하철역을 보호",
           "url": "https://www.dezeen.com/2026/11/12/embt-naples-underground-central-station/",
@@ -76,12 +82,6 @@
           "url": "https://coolhunting.com/buy/marax3-espresso-machine/",
           "image_url": "https://coolhunting.com/wp-content/uploads/2026/11/5-PDP_MaraX3_PESMX03_PESMX03BLK_3Dview-768x768.png",
           "source_name": "Cool Hunting"
-        },
-        {
-          "title": "프리덤 모바일 아치 원형극장 / Revery Architecture",
-          "url": "https://www.archdaily.com/1188346/freedom-mobile-arch-amphitheatre-revery-architecture",
-          "image_url": "https://images.adsttc.com/media/images/6af2/21e9/eabd/2a00/0192/bc78/large_jpg/Revery_Freedom_Mobile_Arch_Credit_Ema_Peter__29_.jpg?1794253503",
-          "source_name": "ArchDaily"
         }
       ]
     },
@@ -118,6 +118,38 @@
       ]
     },
     {
+      "keyword": "미니멀리즘",
+      "count": 5,
+      "previous_count": 2,
+      "trend": "rising",
+      "items": [
+        {
+          "title": "아만바리는 멕시코 바하칼리포르니아 해안의 사막 미니멀리즘을 연구한 결과물입니다.",
+          "url": "https://www.wallpaper.com/travel/hotels/amanvari-review",
+          "image_url": "https://cdn.mos.cms.futurecdn.net/33MXBvRPMf43EA335sBCFY-1920-80.jpg",
+          "source_name": "Wallpaper*"
+        },
+        {
+          "title": "최소 최대/스템펠 & 테사르 아키텍티",
+          "url": "https://www.archdaily.com/1188094/minimal-maximum-stempel-and-tesar-architekti",
+          "image_url": "https://images.adsttc.com/media/images/6aeb/7835/c723/9a5a/c78a/6ae7/large_jpg/minimal-maximum-stempel-and-tesar-architekti_11.jpg?1793816671",
+          "source_name": "ArchDaily"
+        },
+        {
+          "title": "상파울루의 새로운 소매 공간인 캐주얼 스토어는 미니멀리즘을 연극적인 효과로 끌어올립니다.",
+          "url": "https://www.wallpaper.com/architecture/casual-store-studio-mk27-brazil",
+          "image_url": "https://cdn.mos.cms.futurecdn.net/ZNGqY2syMuAccg8nQTKZfh-1920-80.jpg",
+          "source_name": "Wallpaper*"
+        },
+        {
+          "title": "좋은 디자인을 좋아하는 미니멀리스트를 위한 최고의 선물",
+          "url": "https://design-milk.com/best-gifts-for-minimalists/",
+          "image_url": "https://design-milk.com/images/2026/11/design-milk-gifts-minimalist-2026.jpg",
+          "source_name": "Design Milk"
+        }
+      ]
+    },
+    {
       "keyword": "설치 미술",
       "count": 5,
       "previous_count": 3,
@@ -146,38 +178,6 @@
           "url": "https://www.dezeen.com/2026/11/09/playfool-studio-data-server-cleaning-game-va/",
           "image_url": "https://static-2026.dezeen.com/uploads/2026/10/Square-The-Server-Studio-Playfool_dezeen_2364_col_2-1024x1024.jpg",
           "source_name": "Dezeen"
-        }
-      ]
-    },
-    {
-      "keyword": "미니멀리즘",
-      "count": 4,
-      "previous_count": 2,
-      "trend": "rising",
-      "items": [
-        {
-          "title": "최소 최대/스템펠 & 테사르 아키텍티",
-          "url": "https://www.archdaily.com/1188094/minimal-maximum-stempel-and-tesar-architekti",
-          "image_url": "https://images.adsttc.com/media/images/6aeb/7835/c723/9a5a/c78a/6ae7/large_jpg/minimal-maximum-stempel-and-tesar-architekti_11.jpg?1793816671",
-          "source_name": "ArchDaily"
-        },
-        {
-          "title": "상파울루의 새로운 소매 공간인 캐주얼 스토어는 미니멀리즘을 연극적인 효과로 끌어올립니다.",
-          "url": "https://www.wallpaper.com/architecture/casual-store-studio-mk27-brazil",
-          "image_url": "https://cdn.mos.cms.futurecdn.net/ZNGqY2syMuAccg8nQTKZfh-1920-80.jpg",
-          "source_name": "Wallpaper*"
-        },
-        {
-          "title": "좋은 디자인을 좋아하는 미니멀리스트를 위한 최고의 선물",
-          "url": "https://design-milk.com/best-gifts-for-minimalists/",
-          "image_url": "https://design-milk.com/images/2026/11/design-milk-gifts-minimalist-2026.jpg",
-          "source_name": "Design Milk"
-        },
-        {
-          "title": "Bureaux Disma",
-          "url": "https://leibal.com/interiors/bureaux-disma/",
-          "image_url": "https://leibal.com/wp-content/uploads/2026/10/leibal_bureaux-disma_jaune_07-700x1050.jpg",
-          "source_name": "Leibal"
         }
       ]
     },
