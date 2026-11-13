@@ -1,62 +1,30 @@
 {
-  "generated_at": "2026-11-13 19:31 KST",
-  "period": "2026.11.06 - 2026.11.13",
-  "total_articles": 458,
+  "generated_at": "2026-11-14 01:13 KST",
+  "period": "2026.11.07 - 2026.11.14",
+  "total_articles": 406,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 202
+      "count": 184
     },
     {
       "genre": "동시대 미술",
-      "count": 192
+      "count": 166
     },
     {
       "genre": "아방가르드 패션",
-      "count": 46
+      "count": 39
     },
     {
       "genre": "미디어 파사드·3D",
-      "count": 18
+      "count": 17
     }
   ],
   "themes": [
     {
-      "keyword": "박물관·전시",
-      "count": 37,
-      "previous_count": 25,
-      "trend": "rising",
-      "items": [
-        {
-          "title": "텍사스 앤티크 및 디자인 쇼, 폐자재로 만든 새로운 전시관 공개",
-          "url": "https://www.dezeen.com/2026/11/13/marburger-farm-antique-design-show/",
-          "image_url": "https://static-2026.dezeen.com/uploads/2026/11/Marburger_sq1-1024x1024.jpg",
-          "source_name": "Dezeen"
-        },
-        {
-          "title": "Print Center 및 Women’s Studio Workshop, 새로운 리더 임명",
-          "url": "https://hyperallergic.com/print-center-and-womens-studio-workshop-name-new-leaders/",
-          "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/11/Untitled-1-2.jpg",
-          "source_name": "Hyperallergic"
-        },
-        {
-          "title": "16만 달러 상당의 한스 아르프 조각상이 아트 쾰른에서 도난당했습니다.",
-          "url": "https://hyperallergic.com/160-000-hans-arp-sculpture-stolen-from-art-cologne/",
-          "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/11/Hans-Arp_Sich-aufrichtend--S-----levant-_1962_---VG-Bild-Kunst--Bonn---LUDORFF-2026-2-1.jpg",
-          "source_name": "Hyperallergic"
-        },
-        {
-          "title": "무료 단편 영화로 원주민 영화와 스토리텔링을 즐겨보세요",
-          "url": "https://hyperallergic.com/celebrate-indigenous-cinema-and-storytelling-with-free-short-films/",
-          "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/11/Remaining-Native_3.399.1--1-.png",
-          "source_name": "Hyperallergic"
-        }
-      ]
-    },
-    {
       "keyword": "목재 건축",
-      "count": 13,
-      "previous_count": 2,
+      "count": 11,
+      "previous_count": 3,
       "trend": "rising",
       "items": [
         {
@@ -86,11 +54,49 @@
       ]
     },
     {
-      "keyword": "리노베이션·재생",
-      "count": 8,
-      "previous_count": 5,
+      "keyword": "사진",
+      "count": 10,
+      "previous_count": 8,
       "trend": "rising",
       "items": [
+        {
+          "title": "​새끼 동물: 개구리",
+          "url": "https://www.nowness.com/series/the-young-ones/frog-alex-acy",
+          "image_url": "https://img.nowness.com/nowness-frontend/jiBxP5bMRLChEJAkmJQi_FROG%20STILL%2012.jpg",
+          "source_name": "NOWNESS"
+        },
+        {
+          "title": "스튜디오 옥토피(Studio Octopi), 스코틀랜드 해안의 아르데코 파빌리온과 리도(lido)를 되살리다",
+          "url": "https://www.dezeen.com/2026/11/13/tarlair-outdoor-pool-pavilion-studio-octopi-andrew-doolan-award/",
+          "image_url": "https://static-2026.dezeen.com/uploads/2026/11/tarlair-outdoor-pool-pavilion-rias-doolan-shortlist-sq_dezeen_2364_col_0-1024x1024.jpg",
+          "source_name": "Dezeen"
+        },
+        {
+          "title": "이 사진들은 미국 사막을 열병에 시달리는 듯한 꿈으로 포착합니다.",
+          "url": "https://www.dazeddigital.com/art-photography/article/71350/1/these-photos-show-the-american-desert-as-a-fever-dream-adam-powell?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=these-photos-capture-the-american-desert-as-a-fever-dream",
+          "image_url": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/9/1459366.jpg",
+          "source_name": "Dazed"
+        },
+        {
+          "title": "라스베이거스에서 10대의 삶을 담은 친근한 초상화",
+          "url": "https://www.dazeddigital.com/art-photography/article/71337/1/these-tender-photos-capture-coming-of-age-in-las-vegas?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=these-intimate-portraits-capture-teenage-life-in-las-vegas",
+          "image_url": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/9/1459242.jpg",
+          "source_name": "Dazed"
+        }
+      ]
+    },
+    {
+      "keyword": "리노베이션·재생",
+      "count": 9,
+      "previous_count": 4,
+      "trend": "rising",
+      "items": [
+        {
+          "title": "본",
+          "url": "https://leibal.com/interiors/beaune/",
+          "image_url": "https://leibal.com/wp-content/uploads/2026/11/leibal_beaune_sara-skalli_02.jpg",
+          "source_name": "Leibal"
+        },
         {
           "title": "비아리츠에 위치한 1970년대 아파트가 리노베이션을 거쳐 서퍼의 천국으로 재탄생했습니다.",
           "url": "https://www.wallpaper.com/architecture/residential/1970s-biarritz-apartment-renovation",
@@ -108,21 +114,27 @@
           "url": "https://www.archdaily.com/1187432/tsuyama-hotel-i-and-ii-renovation-naad-plus-studio-tata",
           "image_url": "https://images.adsttc.com/media/images/6adb/7d95/3271/8400/01d0/e54a/large_jpg/Hotel-I_room202_01_Yosuke-Ohtake.jpg?1792769470",
           "source_name": "ArchDaily"
-        },
-        {
-          "title": "디자인 뮤지엄, 친환경 건축의 새로운 시대를 알리는 프로토타입 보조금 발표",
-          "url": "https://www.wallpaper.com/architecture/the-design-museum-first-prototype-grants-revealed-uk",
-          "image_url": "https://cdn.mos.cms.futurecdn.net/aGQLWchaxCVsNpfuSHnbdW-1920-80.jpg",
-          "source_name": "Wallpaper*"
         }
       ]
     },
     {
       "keyword": "미니멀리즘",
       "count": 5,
-      "previous_count": 2,
-      "trend": "rising",
+      "previous_count": 4,
+      "trend": "steady",
       "items": [
+        {
+          "title": "본",
+          "url": "https://leibal.com/interiors/beaune/",
+          "image_url": "https://leibal.com/wp-content/uploads/2026/11/leibal_beaune_sara-skalli_02.jpg",
+          "source_name": "Leibal"
+        },
+        {
+          "title": "미니멀리즘, 인간미, 장인 정신 – 쿠마 켄고의 건축물을 사랑하기 쉬운 이유",
+          "url": "https://www.wallpaper.com/architecture/kengo-kuma-guide",
+          "image_url": "https://cdn.mos.cms.futurecdn.net/Uji8YgPQ3uZJz72FzX85GJ-1920-80.jpg",
+          "source_name": "Wallpaper*"
+        },
         {
           "title": "아만바리는 멕시코 바하칼리포르니아 해안의 사막 미니멀리즘을 연구한 결과물입니다.",
           "url": "https://www.wallpaper.com/travel/hotels/amanvari-review",
@@ -134,26 +146,14 @@
           "url": "https://www.archdaily.com/1188094/minimal-maximum-stempel-and-tesar-architekti",
           "image_url": "https://images.adsttc.com/media/images/6aeb/7835/c723/9a5a/c78a/6ae7/large_jpg/minimal-maximum-stempel-and-tesar-architekti_11.jpg?1793816671",
           "source_name": "ArchDaily"
-        },
-        {
-          "title": "상파울루의 새로운 소매 공간인 캐주얼 스토어는 미니멀리즘을 연극적인 효과로 끌어올립니다.",
-          "url": "https://www.wallpaper.com/architecture/casual-store-studio-mk27-brazil",
-          "image_url": "https://cdn.mos.cms.futurecdn.net/ZNGqY2syMuAccg8nQTKZfh-1920-80.jpg",
-          "source_name": "Wallpaper*"
-        },
-        {
-          "title": "좋은 디자인을 좋아하는 미니멀리스트를 위한 최고의 선물",
-          "url": "https://design-milk.com/best-gifts-for-minimalists/",
-          "image_url": "https://design-milk.com/images/2026/11/design-milk-gifts-minimalist-2026.jpg",
-          "source_name": "Design Milk"
         }
       ]
     },
     {
       "keyword": "설치 미술",
-      "count": 5,
-      "previous_count": 3,
-      "trend": "rising",
+      "count": 4,
+      "previous_count": 4,
+      "trend": "steady",
       "items": [
         {
           "title": "이 파워하우스 파라마타 설치물에서 물이 세상을 이해하는 방법이 됩니다.",
@@ -182,50 +182,47 @@
       ]
     },
     {
-      "keyword": "사진",
-      "count": 10,
-      "previous_count": 10,
-      "trend": "steady",
+      "keyword": "박물관·전시",
+      "count": 27,
+      "previous_count": 34,
+      "trend": "falling",
       "items": [
         {
-          "title": "스튜디오 옥토피(Studio Octopi), 스코틀랜드 해안의 아르데코 파빌리온과 리도(lido)를 되살리다",
-          "url": "https://www.dezeen.com/2026/11/13/tarlair-outdoor-pool-pavilion-studio-octopi-andrew-doolan-award/",
-          "image_url": "https://static-2026.dezeen.com/uploads/2026/11/tarlair-outdoor-pool-pavilion-rias-doolan-shortlist-sq_dezeen_2364_col_0-1024x1024.jpg",
+          "title": "자유로운 예술 세계를 위한 도구 키트",
+          "url": "https://hyperallergic.com/a-toolkit-for-a-liberated-art-world/",
+          "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/11/moma-2021-june-1-1.jpg",
+          "source_name": "Hyperallergic"
+        },
+        {
+          "title": "텍사스 앤티크 및 디자인 쇼, 폐자재로 만든 새로운 전시관 공개",
+          "url": "https://www.dezeen.com/2026/11/13/marburger-farm-antique-design-show/",
+          "image_url": "https://static-2026.dezeen.com/uploads/2026/11/Marburger_sq1-1024x1024.jpg",
           "source_name": "Dezeen"
         },
         {
-          "title": "이 사진들은 미국 사막을 열병에 시달리는 듯한 꿈으로 포착합니다.",
-          "url": "https://www.dazeddigital.com/art-photography/article/71350/1/these-photos-show-the-american-desert-as-a-fever-dream-adam-powell?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=these-photos-capture-the-american-desert-as-a-fever-dream",
-          "image_url": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/9/1459366.jpg",
-          "source_name": "Dazed"
+          "title": "Print Center 및 Women’s Studio Workshop, 새로운 리더 임명",
+          "url": "https://hyperallergic.com/print-center-and-womens-studio-workshop-name-new-leaders/",
+          "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/11/Untitled-1-2.jpg",
+          "source_name": "Hyperallergic"
         },
         {
-          "title": "라스베이거스에서 10대의 삶을 담은 친근한 초상화",
-          "url": "https://www.dazeddigital.com/art-photography/article/71337/1/these-tender-photos-capture-coming-of-age-in-las-vegas?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=these-intimate-portraits-capture-teenage-life-in-las-vegas",
-          "image_url": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/9/1459242.jpg",
-          "source_name": "Dazed"
-        },
-        {
-          "title": "박쥐, 거미, 점균류가 선정한 올해의 클로즈업 사진작가",
-          "url": "https://www.thisiscolossal.com/2026/11/close-up-photographer-of-the-year-2026-shortlist/",
-          "image_url": "https://www.thisiscolossal.com/wp-content/uploads/2026/11/cupoty2026-5.jpg",
-          "source_name": "This Is Colossal"
+          "title": "16만 달러 상당의 한스 아르프 조각상이 아트 쾰른에서 도난당했습니다.",
+          "url": "https://hyperallergic.com/160-000-hans-arp-sculpture-stolen-from-art-cologne/",
+          "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/11/Hans-Arp_Sich-aufrichtend--S-----levant-_1962_---VG-Bild-Kunst--Bonn---LUDORFF-2026-2-1.jpg",
+          "source_name": "Hyperallergic"
         }
       ]
     }
   ],
   "notable_names": [
     "Las Vegas",
-    "Powerhouse Parramatta",
+    "Polestar Formula",
     "Epstein Ties",
-    "Los Angeles",
-    "Powerhouse Parramatta Museum",
     "Native Art",
     "Sumayya Vally",
-    "Mexico City",
+    "Powerhouse Parramatta",
     "Mona Chalabi",
-    "Dezeen Awards",
-    "Calvin Klein"
+    "Dezeen Awards"
   ],
   "has_comparison": true
 }
