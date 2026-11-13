@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-14 01:13 KST",
+  "generated_at": "2026-11-14 02:10 KST",
   "period": "2026.11.07 - 2026.11.14",
-  "total_articles": 406,
+  "total_articles": 412,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
@@ -9,11 +9,11 @@
     },
     {
       "genre": "동시대 미술",
-      "count": 166
+      "count": 169
     },
     {
       "genre": "아방가르드 패션",
-      "count": 39
+      "count": 42
     },
     {
       "genre": "미디어 파사드·3D",
@@ -183,7 +183,7 @@
     },
     {
       "keyword": "박물관·전시",
-      "count": 27,
+      "count": 28,
       "previous_count": 34,
       "trend": "falling",
       "items": [
@@ -192,6 +192,12 @@
           "url": "https://hyperallergic.com/a-toolkit-for-a-liberated-art-world/",
           "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/11/moma-2021-june-1-1.jpg",
           "source_name": "Hyperallergic"
+        },
+        {
+          "title": "이번 새로운 전시회에서 몰테니의 아이콘이 완전히 변신했습니다.",
+          "url": "https://www.wallpaper.com/design-interiors/molteni-museum-materialized-ideas-in-matter-ron-gilad",
+          "image_url": "https://cdn.mos.cms.futurecdn.net/f88XiggdHXYTzJukek8CTk-1920-80.jpg",
+          "source_name": "Wallpaper*"
         },
         {
           "title": "텍사스 앤티크 및 디자인 쇼, 폐자재로 만든 새로운 전시관 공개",
@@ -203,12 +209,6 @@
           "title": "Print Center 및 Women’s Studio Workshop, 새로운 리더 임명",
           "url": "https://hyperallergic.com/print-center-and-womens-studio-workshop-name-new-leaders/",
           "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/11/Untitled-1-2.jpg",
-          "source_name": "Hyperallergic"
-        },
-        {
-          "title": "16만 달러 상당의 한스 아르프 조각상이 아트 쾰른에서 도난당했습니다.",
-          "url": "https://hyperallergic.com/160-000-hans-arp-sculpture-stolen-from-art-cologne/",
-          "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/11/Hans-Arp_Sich-aufrichtend--S-----levant-_1962_---VG-Bild-Kunst--Bonn---LUDORFF-2026-2-1.jpg",
           "source_name": "Hyperallergic"
         }
       ]
