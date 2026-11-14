@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-14 16:58 KST",
+  "generated_at": "2026-11-14 18:51 KST",
   "period": "2026.11.07 - 2026.11.14",
-  "total_articles": 442,
+  "total_articles": 445,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 202
+      "count": 203
     },
     {
       "genre": "동시대 미술",
-      "count": 178
+      "count": 180
     },
     {
       "genre": "아방가르드 패션",
@@ -23,10 +23,16 @@
   "themes": [
     {
       "keyword": "목재 건축",
-      "count": 12,
+      "count": 13,
       "previous_count": 3,
       "trend": "rising",
       "items": [
+        {
+          "title": "미누-온 아파트 리노베이션 / CROSSARCHITECTURE / 메흐다드 마카레미",
+          "url": "https://www.archdaily.com/1187951/minou-on-apartment-renovation-crossarchitecture-mehrdad-makaremi",
+          "image_url": "https://images.adsttc.com/media/images/6ae8/8239/bcbc/3500/01ae/ae87/large_jpg/01.jpg?1793622689",
+          "source_name": "ArchDaily"
+        },
         {
           "title": "페랄타 D 슈퍼카는 말 그대로 구리로 조각되었습니다.",
           "url": "https://design-milk.com/peralta-d-copper-supercar/",
@@ -43,12 +49,6 @@
           "title": "EMBT, '자연스럽고 따뜻한' 아치형 목재 지붕 아래 나폴리 지하철역을 보호",
           "url": "https://www.dezeen.com/2026/11/12/embt-naples-underground-central-station/",
           "image_url": "https://static-2026.dezeen.com/uploads/2026/11/naples-underground-central-station-embt-architecture-infrastructure-timber-glulam_dezeen_2364_sq-1024x1024.jpg",
-          "source_name": "Dezeen"
-        },
-        {
-          "title": "RooMoo, 중국의 버려진 산장들을 호텔로 탈바꿈시키다",
-          "url": "https://www.dezeen.com/2026/11/12/cloudhaus-hotel-bamboo-roomoo-chongqing-china/",
-          "image_url": "https://static-2026.dezeen.com/uploads/2026/11/cloudhaus-hotel-chongqing-chinaroomoo-design-studio-sq_dezeen_2364_col_1-1024x1024.jpg",
           "source_name": "Dezeen"
         }
       ]
@@ -87,10 +87,16 @@
     },
     {
       "keyword": "리노베이션·재생",
-      "count": 9,
+      "count": 10,
       "previous_count": 4,
       "trend": "rising",
       "items": [
+        {
+          "title": "미누-온 아파트 리노베이션 / CROSSARCHITECTURE / 메흐다드 마카레미",
+          "url": "https://www.archdaily.com/1187951/minou-on-apartment-renovation-crossarchitecture-mehrdad-makaremi",
+          "image_url": "https://images.adsttc.com/media/images/6ae8/8239/bcbc/3500/01ae/ae87/large_jpg/01.jpg?1793622689",
+          "source_name": "ArchDaily"
+        },
         {
           "title": "본",
           "url": "https://leibal.com/interiors/beaune/",
@@ -108,12 +114,6 @@
           "url": "https://www.dezeen.com/2026/11/12/fire-risk-palace-westminster-renovation-delay/",
           "image_url": "https://static-2026.dezeen.com/uploads/2026/11/houses-of-parliament-renovation-report-sq_dezeen_2364_col_0-1024x1024.jpg",
           "source_name": "Dezeen"
-        },
-        {
-          "title": "쓰야마 호텔 I & II 리노베이션 / NAAD + studio tata",
-          "url": "https://www.archdaily.com/1187432/tsuyama-hotel-i-and-ii-renovation-naad-plus-studio-tata",
-          "image_url": "https://images.adsttc.com/media/images/6adb/7d95/3271/8400/01d0/e54a/large_jpg/Hotel-I_room202_01_Yosuke-Ohtake.jpg?1792769470",
-          "source_name": "ArchDaily"
         }
       ]
     },
@@ -150,6 +150,38 @@
       ]
     },
     {
+      "keyword": "해변·리조트 건축",
+      "count": 5,
+      "previous_count": 5,
+      "trend": "steady",
+      "items": [
+        {
+          "title": "재생 자재로 지어진 태국의 이 해변가 사무실은 저희가 새롭게 좋아하게 된 업무 공간입니다.",
+          "url": "https://www.wallpaper.com/architecture/office/khao-lak-office-boonserm-bangkok-project-studio-thailand",
+          "image_url": "https://cdn.mos.cms.futurecdn.net/wvkWbewqSrqKZjmrfNnP9P-1920-80.jpg",
+          "source_name": "Wallpaper*"
+        },
+        {
+          "title": "미국에서 가장 아름다운 주 9곳",
+          "url": "https://www.architecturaldigest.com/gallery/the-most-beautiful-states-in-the-us",
+          "image_url": "https://media.architecturaldigest.com/photos/6af71dcb08ea4a4002137c7b/master/pass/GettyImages-2300632302.jpg",
+          "source_name": "Architectural Digest"
+        },
+        {
+          "title": "마운틴 하우스 IV",
+          "url": "https://leibal.com/interiors/mountain-house-iv/",
+          "image_url": "https://leibal.com/wp-content/uploads/2026/11/leibal-mountain-house-iv-studio-razavi-3.jpg",
+          "source_name": "Leibal"
+        },
+        {
+          "title": "연휴 전후 리셋을 위해 Mount Med Resort는 완벽합니다.",
+          "url": "https://www.wallpaper.com/travel/spas/mount-med-resort-austria-review",
+          "image_url": "https://cdn.mos.cms.futurecdn.net/AvoPypcwBjWchTAvrQ2BrG-1920-80.jpg",
+          "source_name": "Wallpaper*"
+        }
+      ]
+    },
+    {
       "keyword": "미니멀리즘",
       "count": 5,
       "previous_count": 4,
@@ -178,38 +210,6 @@
           "url": "https://www.archdaily.com/1188094/minimal-maximum-stempel-and-tesar-architekti",
           "image_url": "https://images.adsttc.com/media/images/6aeb/7835/c723/9a5a/c78a/6ae7/large_jpg/minimal-maximum-stempel-and-tesar-architekti_11.jpg?1793816671",
           "source_name": "ArchDaily"
-        }
-      ]
-    },
-    {
-      "keyword": "해변·리조트 건축",
-      "count": 4,
-      "previous_count": 5,
-      "trend": "steady",
-      "items": [
-        {
-          "title": "미국에서 가장 아름다운 주 9곳",
-          "url": "https://www.architecturaldigest.com/gallery/the-most-beautiful-states-in-the-us",
-          "image_url": "https://media.architecturaldigest.com/photos/6af71dcb08ea4a4002137c7b/master/pass/GettyImages-2300632302.jpg",
-          "source_name": "Architectural Digest"
-        },
-        {
-          "title": "마운틴 하우스 IV",
-          "url": "https://leibal.com/interiors/mountain-house-iv/",
-          "image_url": "https://leibal.com/wp-content/uploads/2026/11/leibal-mountain-house-iv-studio-razavi-3.jpg",
-          "source_name": "Leibal"
-        },
-        {
-          "title": "연휴 전후 리셋을 위해 Mount Med Resort는 완벽합니다.",
-          "url": "https://www.wallpaper.com/travel/spas/mount-med-resort-austria-review",
-          "image_url": "https://cdn.mos.cms.futurecdn.net/AvoPypcwBjWchTAvrQ2BrG-1920-80.jpg",
-          "source_name": "Wallpaper*"
-        },
-        {
-          "title": "이번 겨울에 방문하는 가장 아름다운 스키 리조트 17선 (미국 3곳 포함)",
-          "url": "https://www.architecturaldigest.com/gallery/beautiful-ski-resorts-to-visit-this-winter",
-          "image_url": "https://media.architecturaldigest.com/photos/565e1cebe6e26e7256b11f91/master/pass/10-best-ski-resorts-to-visit-this-winter-06.jpg",
-          "source_name": "Architectural Digest"
         }
       ]
     }
