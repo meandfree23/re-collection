@@ -313949,5 +313949,186 @@
   },
   "depth_raw": 3,
   "depth_v": 2
+ },
+ "design-milk.com/friday-five-shaina-tabak-260-madison": {
+  "title_ko": "비어 있는 오피스의 폐허, 260 매디슨의 시스템을 해체하다",
+  "summary_ko": "아티스트 샤이나 타박(Shaina Tabak)이 맨해튼 미드타운의 공실 오피스 23,000평방피트 공간에서 기획한 전시 '260 매디슨(260 Madison)'을 선보인다. 이 전시는 노출된 HVAC 설비와 철거된 화장실 등 오피스의 물리적 흔적을 배경 삼아, 현대 자본주의와 노동 시스템을 조명하는 50여 명의 예술가 작품을 배치했다.",
+  "lens": "건축의 잔해를 예술의 배경으로 전유하여, 기능이 박제된 오피스 공간을 자본의 역사를 기록하는 아카이브로 재설계한다.",
+  "why_now": "디지털 소비 문화가 실재하는 물리적 공간의 노동과 자원을 어떻게 잠식하는지, 그 구조적 모순을 공간적 체험으로 드러낸다.",
+  "mechanism": "철거 중인 오피스의 노출된 인프라와 기업 로고 벽지를 전시장 배경으로 활용하여, 공간 자체가 시스템의 유산임을 강조한다.",
+  "sensory": "철거된 화장실과 노출된 배관의 차가운 금속성, 그리고 기업형 오피스의 매끄러운 마감재가 충돌하는 비정형적 스케일을 경험한다.",
+  "transfer": "철거 직전의 상업 공간을 촬영지로 활용할 때, 인테리어를 가리지 말고 배관과 벽면의 뜯겨진 흔적을 시스템의 레이어로 배치하여 콘티의 밀도를 높인다.",
+  "context": "샤이나 타박은 로드아일랜드 디자인 스쿨(RISD)에서 가구 디자인을 전공하며 사물의 물질성을 연구했고, 현재 컬럼비아 대학교(Columbia University)에서 시각 예술 석사 과정을 밟으며 디지털과 물리적 세계의 경계를 탐구한다. 이번 전시는 데미안 허스트의 '프리즈(Freeze)'와 크리스토퍼 울의 '씨 스탑 런(See Stop Run)'이 시도했던 상업 공간의 예술적 전유 계보를 잇는다.",
+  "findings": [
+   {
+    "text": "컬럼비아 대학교는 1754년 킹스 칼리지라는 이름으로 설립되었으며, 뉴욕에서 가장 오래된 고등 교육 기관이다.",
+    "s": 1,
+    "quote": "Established in 1754 as King's College by royal charter under George II of Great Britain on the grounds of Trinity Church in Manhattan"
+   },
+   {
+    "text": "로드아일랜드 디자인 스쿨은 1877년 헬렌 아델리아 로우 멧칼프에 의해 설립되었으며, 현재 약 2,500명의 학생이 재학 중이다.",
+    "s": 2,
+    "quote": "The school was founded as a coeducational institution in 1877 by Helen Adelia Rowe Metcalf, who sought to increase the accessibility of design education to women."
+   }
+  ],
+  "keywords": [
+   "공간전유",
+   "오피스폐허",
+   "물질문화",
+   "자본의기록"
+  ],
+  "evidence": "260 Madison is on view through Nov. 22, 2026, at 260 Madison Avenue in New York City.",
+  "kind": "전시",
+  "depth": 5,
+  "grounding": "full",
+  "depth_reason": "전시 기획의 철학적 배경과 공간 활용 기법이 구체적이며, 감독이 촬영 현장에 적용할 수 있는 공간 해석의 전략이 선명하다.",
+  "v": 2,
+  "url": "https://design-milk.com/friday-five-shaina-tabak-260-madison/",
+  "original_title": "Friday Five With Shaina Tabak: Art, Architecture, and the Spaces Between",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 9000,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-14 12:32",
+  "research": {
+   "entities": [
+    "Shaina Tabak",
+    "Columbia University",
+    "Rhode Island School of Design",
+    "Anthony Discenza",
+    "Yasue Maetake"
+   ],
+   "questions": [
+    "샤이나 타박이 기획한 '260 매디슨' 전시의 주요 기획 의도와 공간적 특징은 무엇인가?",
+    "디지털 모델링과 수공예적 제작 방식을 결합한 샤이나 타박의 작품 세계는 현대 소비 문화를 어떻게 비판하는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Columbia University",
+     "url": "https://en.wikipedia.org/wiki/Columbia%20University"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Rhode Island School of Design",
+     "url": "https://en.wikipedia.org/wiki/Rhode%20Island%20School%20of%20Design"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "브라운대와 로드아일랜드 디자인 스쿨이 주최하는 제17회 베터 월드 바이 디자인",
+     "url": "https://www.stashmedia.tv/better-world-x-design-2026-conference-returns-to-providence-for-17th-edition/"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "애니메이터 리암 아치볼드, 블링킹크 글로벌 감독 명단 합류",
+     "url": "https://www.stashmedia.tv/director-liam-archibald-signs-to-blinkink-roster-for-worldwide-commercial-representation/"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "안드레아스 안젤리다키스, 가상과 폐허 사이를 유영하는 사운드스케이프",
+     "url": "https://www.designboom.com/art/designboom-listens-andreas-angelidakis-music-making-remembering-escaping-interview/"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 3370
+  },
+  "depth_raw": 5,
+  "depth_v": 2
+ },
+ "design-milk.com/peralta-d-copper-supercar": {
+  "title_ko": "구리로 빚은 슈퍼카, 페랄타 D의 물리적 전유",
+  "summary_ko": "지지에프지 스타일(GFG Style)의 파브리지오 주지아로가 제작한 페랄타 D는 수작업으로 망치질한 구리 패널을 차체 외장재로 사용했다. 마세라티 그란투리스모 트로페오의 섀시를 기반으로 하되, 구리의 높은 가공성과 용접 편의성을 활용해 독창적인 외형을 구현했다. 내부에는 구리 색상의 가죽을 입히고 화장대와 샴페인 냉장고를 통합하여 개인 맞춤형 공간으로 설계했다.",
+  "lens": "무거운 금속인 구리를 차체 외장재로 선택해 탄소섬유 섀시와 결합함으로써, 물리적 무게감을 시각적·촉각적 밀도로 치환한 사례다.",
+  "why_now": "자동차 산업이 표준화된 복합 소재에 의존하는 가운데, 금속 본연의 산화와 질감을 통해 디지털 피로를 상쇄하는 아날로그적 물성으로 회귀하고 있다.",
+  "mechanism": "구리의 뛰어난 가단성을 이용해 복잡한 곡면을 망치질로 성형하고, 탄소섬유 지지 구조체를 내부에 배치하여 금속의 중량 문제를 해결했다.",
+  "sensory": "시간이 흐를수록 깊어질 구리의 붉은 광택과 수작업의 흔적이 남은 표면, 그리고 구리색 가죽으로 마감된 실내가 주는 묵직한 촉각적 경험을 제공한다.",
+  "transfer": "금속판을 수작업으로 두드려 얻은 비정형의 곡면을 조명 아래 배치해 빛의 반사가 아닌 금속의 깊이감을 강조하는 샷을 연출할 수 있다.",
+  "context": "지지에프지 스타일은 조르제토 주지아로와 파브리지오 주지아로가 2015년 설립한 디자인 하우스로, 개인 수집가를 위한 코치빌트 차량 제작에 집중한다. 이전 작업인 페랄타 S가 거울처럼 연마된 알루미늄을 사용해 모놀리식 효과를 냈다면, 이번 페랄타 D는 구리라는 소재의 물리적 성질을 전면에 내세워 차별화했다.",
+  "findings": [
+   {
+    "text": "페랄타 S는 미드 엔진 후륜 구동 스포츠카로, 유리 표면과 차체 사이의 시각적 차이가 없는 모놀리식 효과를 구현했다.",
+    "s": 2,
+    "quote": "The Peralta S, a mid-engine, rear-wheel-drive sports car, is a futuristic car made entirely by hand from fully exposed, mirror-polished aluminum, with the special feature that there is no visual difference between the gl"
+   },
+   {
+    "text": "지지에프지 스타일은 2015년 조르제토와 파브리지오 주지아로의 자동차 디자인 경험을 바탕으로 설립되었다.",
+    "s": 1,
+    "quote": "GFG Style was born in 2015 from the extraordinary experience in the field of car design of its founders, Giorgetto and Fabrizio Giugiaro."
+   }
+  ],
+  "keywords": [
+   "구리",
+   "코치빌트",
+   "지지에프지스타일",
+   "물성",
+   "슈퍼카"
+  ],
+  "evidence": "It really surprised us that copper proved to be much more malleable than the aluminum we had worked with previously",
+  "kind": "프로젝트",
+  "depth": 5,
+  "grounding": "full",
+  "depth_reason": "구리라는 흔치 않은 소재를 슈퍼카 외장재로 도입한 기술적 근거와 섀시 결합 방식을 구체적으로 제시하며, 연출적 영감을 명확히 제공한다.",
+  "v": 2,
+  "url": "https://design-milk.com/peralta-d-copper-supercar/",
+  "original_title": "The Peralta D Supercar Is Literally Sculpted From Copper",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 5938,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-14 12:33",
+  "research": {
+   "entities": [
+    "Fabrizio Giugiaro",
+    "GFG Style",
+    "Giorgetto Giugiaro",
+    "Peralta D"
+   ],
+   "questions": [
+    "구리(Copper)라는 소재가 자동차 외장재로서 가지는 물리적 특성과 제작상의 장단점은 무엇인가?",
+    "GFG Style이 추구하는 코치빌트(Coachbuilt) 방식의 자동차 제작 철학은 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Home - GFG Style",
+     "url": "https://www.gfgstyle.it/"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Peralta S",
+     "url": "https://www.gfgstyle.it/projects/peralta-s"
+    },
+    {
+     "n": 3,
+     "type": "공식·1차",
+     "title": "Home - Giorgetto & Fabrizio Giugiaro Designers",
+     "url": "https://www.giorgettofabriziogiugiaro.it"
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "Giorgetto Giugiaro",
+     "url": "https://en.wikipedia.org/wiki/Giorgetto%20Giugiaro"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3
+   ],
+   "chars": 4332
+  },
+  "depth_raw": 5,
+  "depth_v": 2
  }
 }

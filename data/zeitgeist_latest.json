@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-14 11:21 KST",
+  "generated_at": "2026-11-14 12:32 KST",
   "period": "2026.11.07 - 2026.11.14",
-  "total_articles": 437,
+  "total_articles": 439,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 199
+      "count": 201
     },
     {
       "genre": "동시대 미술",
@@ -21,6 +21,38 @@
     }
   ],
   "themes": [
+    {
+      "keyword": "목재 건축",
+      "count": 12,
+      "previous_count": 3,
+      "trend": "rising",
+      "items": [
+        {
+          "title": "페랄타 D 슈퍼카는 말 그대로 구리로 조각되었습니다.",
+          "url": "https://design-milk.com/peralta-d-copper-supercar/",
+          "image_url": "https://design-milk.com/images/2026/11/GFG-PeraltaD_04-e1794598783627-1500x1000.jpg",
+          "source_name": "Design Milk"
+        },
+        {
+          "title": "Crosslam, 브라질에서 가장 높은 대형 목재 타워 완공",
+          "url": "https://www.dezeen.com/2026/11/12/brazil-tallest-timber-tower-crosslam-sao-paulo/",
+          "image_url": "https://static-2026.dezeen.com/uploads/2026/11/crosslam-aurora-275-timber-apartment-building-brazil_dezeen_2364_sq-1024x1024.jpg",
+          "source_name": "Dezeen"
+        },
+        {
+          "title": "EMBT, '자연스럽고 따뜻한' 아치형 목재 지붕 아래 나폴리 지하철역을 보호",
+          "url": "https://www.dezeen.com/2026/11/12/embt-naples-underground-central-station/",
+          "image_url": "https://static-2026.dezeen.com/uploads/2026/11/naples-underground-central-station-embt-architecture-infrastructure-timber-glulam_dezeen_2364_sq-1024x1024.jpg",
+          "source_name": "Dezeen"
+        },
+        {
+          "title": "RooMoo, 중국의 버려진 산장들을 호텔로 탈바꿈시키다",
+          "url": "https://www.dezeen.com/2026/11/12/cloudhaus-hotel-bamboo-roomoo-chongqing-china/",
+          "image_url": "https://static-2026.dezeen.com/uploads/2026/11/cloudhaus-hotel-chongqing-chinaroomoo-design-studio-sq_dezeen_2364_col_1-1024x1024.jpg",
+          "source_name": "Dezeen"
+        }
+      ]
+    },
     {
       "keyword": "사진",
       "count": 11,
@@ -50,38 +82,6 @@
           "url": "https://www.dazeddigital.com/art-photography/article/71350/1/these-photos-show-the-american-desert-as-a-fever-dream-adam-powell?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=these-photos-capture-the-american-desert-as-a-fever-dream",
           "image_url": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/9/1459366.jpg",
           "source_name": "Dazed"
-        }
-      ]
-    },
-    {
-      "keyword": "목재 건축",
-      "count": 11,
-      "previous_count": 3,
-      "trend": "rising",
-      "items": [
-        {
-          "title": "Crosslam, 브라질에서 가장 높은 대형 목재 타워 완공",
-          "url": "https://www.dezeen.com/2026/11/12/brazil-tallest-timber-tower-crosslam-sao-paulo/",
-          "image_url": "https://static-2026.dezeen.com/uploads/2026/11/crosslam-aurora-275-timber-apartment-building-brazil_dezeen_2364_sq-1024x1024.jpg",
-          "source_name": "Dezeen"
-        },
-        {
-          "title": "EMBT, '자연스럽고 따뜻한' 아치형 목재 지붕 아래 나폴리 지하철역을 보호",
-          "url": "https://www.dezeen.com/2026/11/12/embt-naples-underground-central-station/",
-          "image_url": "https://static-2026.dezeen.com/uploads/2026/11/naples-underground-central-station-embt-architecture-infrastructure-timber-glulam_dezeen_2364_sq-1024x1024.jpg",
-          "source_name": "Dezeen"
-        },
-        {
-          "title": "RooMoo, 중국의 버려진 산장들을 호텔로 탈바꿈시키다",
-          "url": "https://www.dezeen.com/2026/11/12/cloudhaus-hotel-bamboo-roomoo-chongqing-china/",
-          "image_url": "https://static-2026.dezeen.com/uploads/2026/11/cloudhaus-hotel-chongqing-chinaroomoo-design-studio-sq_dezeen_2364_col_1-1024x1024.jpg",
-          "source_name": "Dezeen"
-        },
-        {
-          "title": "MaraX3 에스프레소 머신",
-          "url": "https://coolhunting.com/buy/marax3-espresso-machine/",
-          "image_url": "https://coolhunting.com/wp-content/uploads/2026/11/5-PDP_MaraX3_PESMX03_PESMX03BLK_3Dview-768x768.png",
-          "source_name": "Cool Hunting"
         }
       ]
     },
