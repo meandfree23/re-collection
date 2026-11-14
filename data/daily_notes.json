@@ -3641,5 +3641,44 @@
   "v": 3,
   "model": "gemini-3.5-flash-lite",
   "written_at": "2026-11-14 02:11"
+ },
+ "2026-11-15": {
+  "date": "2026-11-15",
+  "headline": "마야의 돌담과 살아있는 나무 기둥, 비어가는 집의 골조",
+  "editorial": "멕시코 파르케 델 하구아르의 테코랄 돌담은 생태적 통로를 열어 재규어의 길을 잇는다. 다이치 사일런트 리버 트리 사우나는 나무를 구조체로 삼아 건축을 지형 위에 얹지 않고 숲과 하나가 된다. 반더런 III-IV 리노베이션은 세대수를 줄여 주거의 밀도를 낮추고 공용 시설을 비워 낸다. 이들은 모두 단단한 벽이나 구조를 고집하지 않고 주변과 섞이거나 비워지는 방식을 택한다.",
+  "threads": [
+   {
+    "name": "자연을 품는 구조 방식",
+    "note": "인공 구조물을 주변 생태계나 자연과 결합하여 그 경계를 허물고 공존을 모색한다.",
+    "items": [
+     {
+      "title": "마야의 돌담을 빌려 재규어의 길을 잇다: 멕시코 파르케 델 하구아르",
+      "url": "https://www.dezeen.com/2026/11/14/parque-del-jaguar-colectivo-c733-tulum-mexico-ecological-park/"
+     },
+     {
+      "title": "숲을 박제하지 않는 건축, 다이치 사일런트 리버 트리 사우나",
+      "url": "https://www.dezeen.com/2026/11/14/daichi-inc-silent-river-tree-sauna/"
+     }
+    ]
+   },
+   {
+    "name": "공간의 밀도와 쓰임",
+    "note": "기존 주거의 물리적 기준을 바꾸거나 구조를 비워내어 공간의 새로운 가치를 찾는다.",
+    "items": [
+     {
+      "title": "브뤼셀 사회주택의 골조 재구성: 반더런 III-IV 리노베이션",
+      "url": "https://www.archdaily.com/1186465/vandeuren-iii-iv-p-and-p-architectes"
+     },
+     {
+      "title": "항저우의 덩굴 덮인 산업 유산, 시간의 결을 보존하는 여성복 매장",
+      "url": "https://leibal.com/interiors/feel-and-joy/"
+     }
+    ]
+   }
+  ],
+  "based_on": 9,
+  "v": 3,
+  "model": "gemini-3.1-flash-lite",
+  "written_at": "2026-11-15 01:17"
  }
 }
