@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-14 18:51 KST",
+  "generated_at": "2026-11-14 23:59 KST",
   "period": "2026.11.07 - 2026.11.14",
-  "total_articles": 445,
+  "total_articles": 453,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 203
+      "count": 207
     },
     {
       "genre": "동시대 미술",
-      "count": 180
+      "count": 184
     },
     {
       "genre": "아방가르드 패션",
@@ -23,10 +23,16 @@
   "themes": [
     {
       "keyword": "목재 건축",
-      "count": 13,
+      "count": 14,
       "previous_count": 3,
       "trend": "rising",
       "items": [
+        {
+          "title": "Daichi Inc의 일본식 사우나는 \"사람들이 숲속에 녹아드는 듯한 느낌을 줍니다.\"",
+          "url": "https://www.dezeen.com/2026/11/14/daichi-inc-silent-river-tree-sauna/",
+          "image_url": "https://static-2026.dezeen.com/uploads/2026/11/daichi-silent-river-tree-sauna-daichi-architecture-sauna-japan-public-leisure_dezeen_2364_sq-1024x1024.jpg",
+          "source_name": "Dezeen"
+        },
         {
           "title": "미누-온 아파트 리노베이션 / CROSSARCHITECTURE / 메흐다드 마카레미",
           "url": "https://www.archdaily.com/1187951/minou-on-apartment-renovation-crossarchitecture-mehrdad-makaremi",
@@ -44,12 +50,38 @@
           "url": "https://www.dezeen.com/2026/11/12/brazil-tallest-timber-tower-crosslam-sao-paulo/",
           "image_url": "https://static-2026.dezeen.com/uploads/2026/11/crosslam-aurora-275-timber-apartment-building-brazil_dezeen_2364_sq-1024x1024.jpg",
           "source_name": "Dezeen"
+        }
+      ]
+    },
+    {
+      "keyword": "리노베이션·재생",
+      "count": 12,
+      "previous_count": 4,
+      "trend": "rising",
+      "items": [
+        {
+          "title": "느낌과 즐거움",
+          "url": "https://leibal.com/interiors/feel-and-joy/",
+          "image_url": "https://leibal.com/wp-content/uploads/2026/11/leibal-feel-and-joy-water-team-design-25.jpg",
+          "source_name": "Leibal"
         },
         {
-          "title": "EMBT, '자연스럽고 따뜻한' 아치형 목재 지붕 아래 나폴리 지하철역을 보호",
-          "url": "https://www.dezeen.com/2026/11/12/embt-naples-underground-central-station/",
-          "image_url": "https://static-2026.dezeen.com/uploads/2026/11/naples-underground-central-station-embt-architecture-infrastructure-timber-glulam_dezeen_2364_sq-1024x1024.jpg",
-          "source_name": "Dezeen"
+          "title": "반더런 III-IV / P&P 아키텍츠 + 아틀리에 다르키텍처 A4",
+          "url": "https://www.archdaily.com/1186465/vandeuren-iii-iv-p-and-p-architectes",
+          "image_url": "https://images.adsttc.com/media/images/6ac6/104f/07c3/d100/017f/dbe9/large_jpg/7-Courtyard_block_interior__Nicolas_Da_Silva_Lucas_.jpg?1791365243",
+          "source_name": "ArchDaily"
+        },
+        {
+          "title": "미누-온 아파트 리노베이션 / CROSSARCHITECTURE / 메흐다드 마카레미",
+          "url": "https://www.archdaily.com/1187951/minou-on-apartment-renovation-crossarchitecture-mehrdad-makaremi",
+          "image_url": "https://images.adsttc.com/media/images/6ae8/8239/bcbc/3500/01ae/ae87/large_jpg/01.jpg?1793622689",
+          "source_name": "ArchDaily"
+        },
+        {
+          "title": "본",
+          "url": "https://leibal.com/interiors/beaune/",
+          "image_url": "https://leibal.com/wp-content/uploads/2026/11/leibal_beaune_sara-skalli_02.jpg",
+          "source_name": "Leibal"
         }
       ]
     },
@@ -86,16 +118,16 @@
       ]
     },
     {
-      "keyword": "리노베이션·재생",
-      "count": 10,
+      "keyword": "미니멀리즘",
+      "count": 6,
       "previous_count": 4,
       "trend": "rising",
       "items": [
         {
-          "title": "미누-온 아파트 리노베이션 / CROSSARCHITECTURE / 메흐다드 마카레미",
-          "url": "https://www.archdaily.com/1187951/minou-on-apartment-renovation-crossarchitecture-mehrdad-makaremi",
-          "image_url": "https://images.adsttc.com/media/images/6ae8/8239/bcbc/3500/01ae/ae87/large_jpg/01.jpg?1793622689",
-          "source_name": "ArchDaily"
+          "title": "Daichi Inc의 일본식 사우나는 \"사람들이 숲속에 녹아드는 듯한 느낌을 줍니다.\"",
+          "url": "https://www.dezeen.com/2026/11/14/daichi-inc-silent-river-tree-sauna/",
+          "image_url": "https://static-2026.dezeen.com/uploads/2026/11/daichi-silent-river-tree-sauna-daichi-architecture-sauna-japan-public-leisure_dezeen_2364_sq-1024x1024.jpg",
+          "source_name": "Dezeen"
         },
         {
           "title": "본",
@@ -104,16 +136,16 @@
           "source_name": "Leibal"
         },
         {
-          "title": "비아리츠에 위치한 1970년대 아파트가 리노베이션을 거쳐 서퍼의 천국으로 재탄생했습니다.",
-          "url": "https://www.wallpaper.com/architecture/residential/1970s-biarritz-apartment-renovation",
-          "image_url": "https://cdn.mos.cms.futurecdn.net/yfoAfUrGZtuLQARB7qv7AX-1920-80.jpg",
+          "title": "미니멀리즘, 인간미, 장인 정신 – 쿠마 켄고의 건축물을 사랑하기 쉬운 이유",
+          "url": "https://www.wallpaper.com/architecture/kengo-kuma-guide",
+          "image_url": "https://cdn.mos.cms.futurecdn.net/Uji8YgPQ3uZJz72FzX85GJ-1920-80.jpg",
           "source_name": "Wallpaper*"
         },
         {
-          "title": "리노베이션 지연으로 인해 의사당에 '노트르담 대성당과 같은' 화재 위험이 발생할 수 있습니다.",
-          "url": "https://www.dezeen.com/2026/11/12/fire-risk-palace-westminster-renovation-delay/",
-          "image_url": "https://static-2026.dezeen.com/uploads/2026/11/houses-of-parliament-renovation-report-sq_dezeen_2364_col_0-1024x1024.jpg",
-          "source_name": "Dezeen"
+          "title": "아만바리는 멕시코 바하칼리포르니아 해안의 사막 미니멀리즘을 연구한 결과물입니다.",
+          "url": "https://www.wallpaper.com/travel/hotels/amanvari-review",
+          "image_url": "https://cdn.mos.cms.futurecdn.net/33MXBvRPMf43EA335sBCFY-1920-80.jpg",
+          "source_name": "Wallpaper*"
         }
       ]
     },
@@ -178,38 +210,6 @@
           "url": "https://www.wallpaper.com/travel/spas/mount-med-resort-austria-review",
           "image_url": "https://cdn.mos.cms.futurecdn.net/AvoPypcwBjWchTAvrQ2BrG-1920-80.jpg",
           "source_name": "Wallpaper*"
-        }
-      ]
-    },
-    {
-      "keyword": "미니멀리즘",
-      "count": 5,
-      "previous_count": 4,
-      "trend": "steady",
-      "items": [
-        {
-          "title": "본",
-          "url": "https://leibal.com/interiors/beaune/",
-          "image_url": "https://leibal.com/wp-content/uploads/2026/11/leibal_beaune_sara-skalli_02.jpg",
-          "source_name": "Leibal"
-        },
-        {
-          "title": "미니멀리즘, 인간미, 장인 정신 – 쿠마 켄고의 건축물을 사랑하기 쉬운 이유",
-          "url": "https://www.wallpaper.com/architecture/kengo-kuma-guide",
-          "image_url": "https://cdn.mos.cms.futurecdn.net/Uji8YgPQ3uZJz72FzX85GJ-1920-80.jpg",
-          "source_name": "Wallpaper*"
-        },
-        {
-          "title": "아만바리는 멕시코 바하칼리포르니아 해안의 사막 미니멀리즘을 연구한 결과물입니다.",
-          "url": "https://www.wallpaper.com/travel/hotels/amanvari-review",
-          "image_url": "https://cdn.mos.cms.futurecdn.net/33MXBvRPMf43EA335sBCFY-1920-80.jpg",
-          "source_name": "Wallpaper*"
-        },
-        {
-          "title": "최소 최대/스템펠 & 테사르 아키텍티",
-          "url": "https://www.archdaily.com/1188094/minimal-maximum-stempel-and-tesar-architekti",
-          "image_url": "https://images.adsttc.com/media/images/6aeb/7835/c723/9a5a/c78a/6ae7/large_jpg/minimal-maximum-stempel-and-tesar-architekti_11.jpg?1793816671",
-          "source_name": "ArchDaily"
         }
       ]
     }

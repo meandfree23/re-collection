@@ -314626,5 +314626,593 @@
   },
   "depth_raw": 4,
   "depth_v": 2
+ },
+ "leibal.com/interiors/feel-and-joy": {
+  "title_ko": "항저우 산업 유산에 얹은 시간의 층위, 필 앤 조이",
+  "summary_ko": "중국 항저우의 징웨이 크리에이티브 파크에 위치한 옛 산업 건물이 여성복 브랜드 필 앤 조이(FEEL AND JOY)의 공간으로 재탄생했다. 워터 팀 디자인(Water team Design)은 기존 건물의 창과 벽의 비례를 유지하고 외벽을 덮은 덩굴식물을 보존하여 시간의 흔적을 남겼다. 4개 층으로 구성된 내부는 공적인 소매 공간에서 사적인 서재로 이어지는 점진적인 동선을 따른다.",
+  "lens": "새로움을 덧입히는 대신 기존의 낡은 뼈대와 재료의 노화를 수용하여, 브랜드가 지향하는 영속성을 공간의 물성으로 치환했다.",
+  "why_now": "디지털 피로도가 높은 시대에 산화와 마모를 허용하는 재료를 통해 공간에 물리적 시간성을 부여하는 방식이 주목받는다.",
+  "mechanism": "노출 콘크리트의 거푸집 자국과 테라조의 깊은 골재를 그대로 노출하여, 시간이 흐를수록 마모되면서도 고유의 패턴을 유지하는 재료의 성질을 활용했다.",
+  "sensory": "창을 통해 들어오는 빛이 계절에 따라 콘크리트, 벽돌, 목재의 질감을 다르게 조명하며, 외벽을 덮은 식물이 빛의 양을 미세하게 조절한다.",
+  "transfer": "공간의 시간성을 강조할 때, 마감재의 광택을 죽이고 재료 본연의 거친 질감을 그대로 노출하여 조명 변화에 따른 그림자의 깊이를 극대화하는 연출을 시도하라.",
+  "context": "워터 팀 디자인은 기존 산업 구조물의 리듬을 보존하며 브랜드의 미니멀리즘 철학을 공간에 투영하는 작업을 이어오고 있다.",
+  "findings": [],
+  "keywords": [
+   "산업유산",
+   "시간성",
+   "노출콘크리트",
+   "공간설계"
+  ],
+  "evidence": "The brand is built around minimalism, longevity and a refusal to follow trends, and the studio’s response was to keep the building from looking new.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "기존 산업 건물의 재료적 특성과 시간의 축적을 공간 구성의 핵심 장치로 명확하게 번역해냈다.",
+  "v": 2,
+  "url": "https://leibal.com/interiors/feel-and-joy/",
+  "original_title": "FEEL AND JOY",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 2080,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-14 23:59",
+  "research": {
+   "entities": [
+    "Water team Design",
+    "FEEL AND JOY",
+    "Jingwei Creative Park"
+   ],
+   "questions": [
+    "Water team Design은 어떤 철학을 가지고 공간을 설계하는가?",
+    "FEEL AND JOY의 브랜드 아이덴티티가 공간 구성에 어떻게 반영되었는가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "dezeen.com/2026/11/14/parque-del-jaguar-colectivo-c733-tulum-mexico-ecological-park": {
+  "title_ko": "멕시코 툴룸의 파르케 델 하구아르, 마야의 석조 경계로 잇는 생태 회랑",
+  "summary_ko": "콜렉티보 C733(Colectivo C733)은 멕시코 툴룸의 파르케 델 하구아르(Parque del Jaguar)에 18km 길이의 건식 석회암 벽을 설치해 1,000헥타르 이상의 숲을 보호한다. 마야 전통의 ‘테코랄(tecorral)’ 방식을 차용한 이 벽은 야생동물의 이동을 허용하면서도 인간의 접근을 통제한다. 또한 기존에 훼손된 지역에만 시설을 집중 배치하고 숲의 원형을 보존하는 방식으로 생태 복원을 꾀한다.",
+  "lens": "전통적 건식 석조 기법을 생태적 차단벽으로 전유하여, 인간의 동선과 동물의 생존권을 물리적 틈새로 정교하게 분리한다.",
+  "why_now": "관광 개발로 파편화된 서식지를 복원하려는 시도가 늘고 있으며, 건축이 단순한 시설물을 넘어 생태계의 물리적 틀로서 기능해야 한다는 요구가 커지고 있다.",
+  "mechanism": "몰탈을 쓰지 않고 돌을 쌓는 테코랄 기법으로 벽체에 자연스러운 간극을 만들어 동물의 통행로를 확보한다. 훼손된 지형에만 플랫폼과 산책로를 집중시켜 인간의 발길이 닿지 않는 거대한 완충 지대를 조성한다.",
+  "sensory": "거친 석회암의 질감과 치코자포테 목재의 온기가 열대림의 습한 공기와 대비된다. 숲의 캐노피를 가로지르는 공중 산책로는 지면의 지질과 수계, 생물 다양성을 수직적 시점으로 체감하게 한다.",
+  "transfer": "공간의 경계를 설정할 때 물리적 차단 대신 '간극이 있는 구조'를 활용해 동선과 시각적 개방감을 동시에 확보한다. 훼손된 지표면을 복구하는 과정에서 아스팔트를 걷어내고 현지 석재를 배치하는 방식은 지형 순응형 조경 콘티의 핵심이다.",
+  "context": "콜렉티보 C733은 가브리엘라 카리요를 포함한 5인의 건축가가 결성한 그룹으로, 공공 인프라와 도시 맥락을 다룬다. 카리요는 메소아메리카의 고대 기하학적 논리를 현대 공간에 이식하는 작업을 지속해왔으며, 이는 이번 프로젝트의 마야 전통 석조 방식 활용과 맥을 같이 한다.",
+  "findings": [
+   {
+    "text": "가브리엘라 카리요는 2017년 건축 리뷰와 건축가 저널이 주관하는 여성 건축 어워드에서 올해의 건축가로 선정되었다.",
+    "s": 1,
+    "quote": "In 2017, Carrillo was named Architect of the Year by Architectural Review and the Architects' Journal's Women in Architecture Awards."
+   },
+   {
+    "text": "가브리엘라 카리요는 고대 건축의 기하학적 원리를 현대 공간에 이식하는 작업을 통해 빛과 그림자, 대지의 위계를 공간의 뼈대로 삼는다.",
+    "s": 3,
+    "quote": "고대 건축의 기하학적 논리를 현대 주거에 이식한 멕시코 건축 사례를 조명한다. 아구스틴 에르난데스의 조형적 실험부터 가브리엘라 카리요와 마우리시오 로차의 공간 배치까지"
+   }
+  ],
+  "keywords": [
+   "생태건축",
+   "마야건축",
+   "지형순응",
+   "콜렉티보C733",
+   "테코랄"
+  ],
+  "evidence": "At its perimeter, the studio added an 18-kilometre dry-stacked limestone wall, known locally as a tecorral, informed by traditional Mayan stone boundaries.",
+  "kind": "프로젝트",
+  "depth": 5,
+  "grounding": "full",
+  "depth_reason": "전통적 석조 기법을 현대 생태 보호 장치로 치환한 논리가 명확하며, 재료와 동선 설계 측면에서 구체적인 연출 아이디어를 제공한다.",
+  "v": 2,
+  "url": "https://www.dezeen.com/2026/11/14/parque-del-jaguar-colectivo-c733-tulum-mexico-ecological-park/",
+  "original_title": "Mexico's Parque del Jaguar protects jaguars with 18-kilometre limestone wall",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 4617,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-14 23:59",
+  "research": {
+   "entities": [
+    "Colectivo C733",
+    "Gabriela Carrillo",
+    "Tulum"
+   ],
+   "questions": [
+    "멕시코의 재규어 공원(Parque del Jaguar) 프로젝트는 생태계 보호와 관광객 접근성을 어떻게 조화시키고 있는가?",
+    "전통적인 마야의 석조 경계 방식인 '테코랄(tecorral)'은 현대 건축에서 어떻게 재해석되었는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Gabriela Carrillo",
+     "url": "https://en.wikipedia.org/wiki/Gabriela%20Carrillo"
+    },
+    {
+     "n": 2,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "달라스 건축 포럼, 2026-2027 강연 라인업 발표",
+     "url": "https://www.archdaily.com/1187092/the-dallas-architecture-forum-announces-it-2026-2027-lecture-season"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "메소아메리카의 기억을 잇는 현대 멕시코의 공간 문법",
+     "url": "https://www.dezeen.com/2026/11/08/mesoamerican-modern-book-mexico-architecture/"
+    }
+   ],
+   "used": [
+    1,
+    3
+   ],
+   "chars": 1292
+  },
+  "depth_raw": 5,
+  "depth_v": 2
+ },
+ "dezeen.com/2026/11/14/daichi-inc-silent-river-tree-sauna": {
+  "title_ko": "가나가와 숲속, 나무를 건축의 뼈대로 삼아 지형과 호흡하는 다이치 사일런트 리버 트리 사우나",
+  "summary_ko": "일본 가나가와현 숲속에 위치한 다이치 사일런트 리버 트리 사우나는 다이치(Daichi Inc.)가 설계한 미니멀리즘 건축물이다. 기존 수목을 베어내는 대신 구조체의 일부로 활용하며, 나무 줄기가 목재 플랫폼을 관통하도록 설계하여 자연과 건축의 경계를 지웠다. 층을 이룬 데크와 프레임리스 유리로 마감된 사우나 실은 숲속에 떠 있는 듯한 감각을 구현한다.",
+  "lens": "건축을 자연 위에 얹는 것이 아니라, 수목을 구조의 지지체로 전유하여 인공물과 생태계가 물리적으로 얽히게 만드는 시노그래피다.",
+  "why_now": "자연을 배경으로 소비하던 기존의 공간 방식을 넘어, 기후와 지형의 구성 요소 자체를 건축의 필수 골조로 편입하는 생태적 전유가 주목받는다.",
+  "mechanism": "나무 줄기가 지나는 자리에 원형 절개면을 낸 목재 그리드 플랫폼을 배치하고, 이를 수직으로 적층하여 지형의 경사를 자연스럽게 수용한다.",
+  "sensory": "발밑을 뚫고 올라온 거친 나무껍질의 질감과 투명한 유리 벽 너머로 흔들리는 숲의 그림자가 대조되며, 고립된 사우나 공간 안에서도 숲의 무게감을 온전히 체감하게 한다.",
+  "transfer": "공간 콘티 작업 시, 인공 구조물 내부에 실제 식물을 관통시키는 샷을 통해 실내외의 물리적 경계를 해체하는 연출을 시도할 수 있다.",
+  "context": "다이치는 자연 환경 속에서 불편함을 발견하고 이를 새로운 형태의 사치로 치환하는 건축 철학을 지향한다. 이번 프로젝트는 자연을 정복의 대상이 아닌 공존의 파트너로 인식하는 스튜디오의 기존 작업 기조를 공간 구조로 구체화한 사례다.",
+  "findings": [
+   {
+    "text": "다이치는 자연 속에서의 불편함을 즐기는 것을 최상의 사치로 정의하며, 장소의 잠재력을 극대화하는 전문가 팀을 운영한다.",
+    "s": 1,
+    "quote": "Enjoying the Beauty of Lack−It’s not a place where everything is perfectly prepared. There may be inconveniences—but that’s exactly what brings unexpected discoveries and sparks creativity."
+   }
+  ],
+  "keywords": [
+   "건축적공존",
+   "지형순응",
+   "목재구조",
+   "시노그래피"
+  ],
+  "evidence": "The forest is not treated as a backdrop, but functions as an essential structural part of the architecture itself",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "자연을 구조체로 활용하는 설계 방식이 명확하며, 철학적 태도를 공간 구조로 번역한 구체적인 사례다.",
+  "v": 2,
+  "url": "https://www.dezeen.com/2026/11/14/daichi-inc-silent-river-tree-sauna/",
+  "original_title": "Japanese sauna by Daichi Inc makes \"people feel as though they are dissolving into the forest\"",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 3371,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-14 23:59",
+  "research": {
+   "entities": [
+    "Daichi Inc",
+    "Daichi Silent River Tree Sauna"
+   ],
+   "questions": [
+    "Daichi Inc가 추구하는 자연과 건축의 공존 방식은 기존의 건축 관행과 어떻게 다른가요?",
+    "Daichi Silent River Tree Sauna의 구조적 특징인 나무를 관통하는 설계가 건축물의 안정성에 어떤 영향을 미치나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "About",
+     "url": "https://daichijapan.jp/pages/about"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 2600
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "archdaily.com/1186465/vandeuren-iii-iv-p-and-p-architectes": {
+  "title_ko": "브뤼셀 사회주택의 재구성: 160가구를 132가구로 좁히며 얻은 밀도의 여유",
+  "summary_ko": "브뤼셀의 반더런 III-IV 프로젝트는 기존 160채의 사회주택을 132채의 현대적 주거 단위로 재편한 리노베이션 사례다. 건축가 그룹 피앤피 아키텍츠(P&P Architectes)와 아틀리에 다르키텍처 A4(Atelier d'Architecture A4)는 헤리티지 보존과 순환 경제 원칙을 결합하여 공용 시설과 외부 공간을 재조직했다.",
+  "lens": "단순한 주거지 개선을 넘어, 가구 수를 줄여 생성된 물리적 여유를 공용 시설과 외부 공간으로 치환한 공간 전략이 핵심이다.",
+  "why_now": "도시 주거의 질적 전환을 위해 기존 건축물의 물리적 밀도를 낮추고 그 자리에 커뮤니티를 위한 공유 공간을 배치하는 접근은 지속 가능한 도시 재생의 필수적 과제다.",
+  "mechanism": "기존 구조의 뼈대를 유지하며 내부 평면을 재구성하여 주거 밀도를 조절하고, 그 과정에서 발생하는 남은 공간을 공용 시설과 외부 조경으로 전환하여 사회적 시노그래피를 구축했다.",
+  "sensory": "기존 건물의 연륜이 밴 외벽과 새롭게 삽입된 현대적 마감재의 대조, 그리고 주거지 사이사이에 배치된 열린 외부 공간이 만드는 빛과 바람의 흐름이 특징이다.",
+  "transfer": "기존 공간을 해체하거나 밀도를 낮출 때 발생하는 유휴 공간을 주거 기능이 아닌 커뮤니티를 위한 필터 공간으로 설계하여 동선을 다변화하는 콘티에 활용한다.",
+  "context": "본 프로젝트는 2019년 비-엑셈플러리(Be-Exemplary) 어워드를 수상하며 브뤼셀 사회주택 개선 전략의 모범 사례로 평가받았다.",
+  "findings": [],
+  "keywords": [
+   "사회주택",
+   "공간재구성",
+   "도시재생",
+   "리노베이션"
+  ],
+  "evidence": "The project transforms 160 dwellings into 132 reconfigured units while integrating shared facilities and a reorganization of outdoor spaces.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "사회주택 리노베이션의 사회적 가치는 명확하나, 구체적인 순환 경제 기법이나 상세 설계 도면이 부족하여 심층 분석에 한계가 있다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1186465/vandeuren-iii-iv-p-and-p-architectes",
+  "original_title": "Vandeuren III-IV / P&P Architectes + Atelier d'Architecture A4",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 1700,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-15 00:00",
+  "research": {
+   "entities": [
+    "P&P Architectes",
+    "Atelier d'Architecture A4",
+    "Tractebel"
+   ],
+   "questions": [
+    "브뤼셀의 사회주택 리노베이션 전략에서 Be-Exemplary Award 2019를 수상한 Vandeuren III-IV 프로젝트의 구체적인 순환 경제(circularity) 적용 방식은 무엇인가?",
+    "기존 160가구를 132가구로 재구성하고 공유 시설을 통합하는 과정에서 헤리티지 보존과 현대적 주거 요구를 어떻게 조화시켰는가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "wallpaper.com/tech/new-home-security-cams-from-apple-anker-eufy-baseus": {
+  "title_ko": "애플의 홈 컬렉션, 일상의 보안을 디지털 레이어로 재편하다",
+  "summary_ko": "애플이 엘지전자(LG Electronics) 및 슈나이더 일렉트릭(Schneider Electric)과 협력하여 홈 보안 액세서리 컬렉션을 출시했다. 이 시스템은 애플 인텔리전스를 활용해 아이클라우드 플러스(iCloud+)에 저장된 영상 데이터를 자동 분류하며, 사용자는 홈뷰(HomeView) 허브를 통해 실시간 모니터링이 가능하다.",
+  "lens": "단순한 감시 장치를 넘어, 애플의 소프트웨어 생태계가 물리적 주거 공간의 시간과 행동 데이터를 어떻게 정밀하게 기록하고 분류하는지 살핀다.",
+  "why_now": "스마트 홈 보안 시장이 구글 네스트(Google Nest)와 아마존 링(Amazon Ring)의 과점 체제에서 애플의 폐쇄적이고 정교한 통합 생태계로 이동하고 있다.",
+  "mechanism": "애플 인텔리전스가 영상 속 인물과 반려동물을 식별해 오경보를 줄이고, 클라우드에 저장된 데이터를 자연어 검색이 가능하도록 자동 태깅하여 정보 접근성을 극대화한다.",
+  "sensory": "에센스 그래파이트와 실버 색상의 마감은 금속의 차가운 물성을 강조하며, 4K 해상도의 선명한 영상은 밤에도 12미터 거리의 움직임을 정밀하게 포착한다.",
+  "transfer": "공간 연출 시 카메라의 설치 위치를 단순히 시야각 확보용으로 두지 말고, 듀얼 레이더와 같은 기술적 사양을 고려해 빛과 동선이 교차하는 지점에 배치하여 관찰의 밀도를 높인다.",
+  "context": "애플은 런던 배터시 발전소의 산업 유산을 현대적으로 재해석하거나 세라믹의 물성을 극대화한 워치 시리즈를 선보이는 등 하드웨어와 공간의 결합에 집중해 왔다. 이번 홈 컬렉션은 기존의 IT 기기 중심 생태계를 주거 공간의 물리적 보안 영역으로 확장하려는 전략적 행보다.",
+  "findings": [
+   {
+    "text": "슈나이더 일렉트릭은 에너지 기술 분야에서 전기화, 자동화, 디지털화를 전문으로 하는 다국적 기업이다.",
+    "s": 5,
+    "quote": "Schneider Electric SE is a French multinational corporation that specializes in energy technology, covering electrification, automation, and digitalization for industry and homes."
+   },
+   {
+    "text": "이피 유피(Eufy)의 트랙라이트 캠 S1은 세계 최초로 자동 추적 조명을 탑재한 능동적 억제 카메라로 설계되었다.",
+    "s": 2,
+    "quote": "The World's First Active Deterrence Camera with Auto-Tracking Light"
+   },
+   {
+    "text": "베이스어스(Baseus)의 W1 윈도우 카메라는 유리를 통해 외부를 감시하도록 설계되어 드릴 설치 없이 창문에 부착 가능하다.",
+    "s": 3,
+    "quote": "30-second no-drill installation, smart AI detection, and dual-band Wi-Fi ensure flexible, reliable window security."
+   }
+  ],
+  "keywords": [
+   "애플홈컬렉션",
+   "홈보안",
+   "스마트홈",
+   "애플인텔리전스",
+   "디지털감시"
+  ],
+  "evidence": "Apple Intelligence is used to sift through the captures stored on iCloud+, automatically providing descriptions to make them easier to search.",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "애플의 생태계 확장 전략과 구체적인 하드웨어 협업 사례를 다루며, 기술적 장치와 공간 적용의 연결 고리가 명확하다.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/tech/new-home-security-cams-from-apple-anker-eufy-baseus",
+  "original_title": "Apple’s new Home Collection helps you keep a watchful digital eye on your home",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 3659,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-15 00:00",
+  "research": {
+   "entities": [
+    "Apple",
+    "LG",
+    "Schneider Electric",
+    "Anker",
+    "Baseus"
+   ],
+   "questions": [
+    "Apple Home Collection이 기존의 스마트 홈 보안 생태계인 Google Nest나 Amazon Ring과 차별화되는 핵심 기술적 특징은 무엇인가요?",
+    "Apple Intelligence가 홈 보안 카메라의 영상 데이터를 처리하고 분류하는 방식은 개인정보 보호 측면에서 어떤 이점을 제공하나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Home Accessories",
+     "url": "https://apple.sjv.io/c/221109/435298/7615?subId1=wallpaper-us-5076771938108548848&sharedId=wallpaper-us&u=https%3A%2F%2Fwww.apple.com%2Fuk%2Fshop%2Fhome%2Faccessories%2Fapple-home-collection"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "eufy TrackLight Cam S1 | Auto-Tracking Light & Siren",
+     "url": "https://eufy-us.sjv.io/c/1943169/999452/13094?subId1=wallpaper-us-1344991431262601616&sharedId=wallpaper-us&u=https%3A%2F%2Fwww.eufy.com%2Feufy-tracklight-cam-s1"
+    },
+    {
+     "n": 3,
+     "type": "공식·1차",
+     "title": "Baseus Security PrimeSentinel W1 Window 4K Camera",
+     "url": "https://go.redirectingat.com?id=92X1650074&xcust=wallpaper_us_1438773209127241043&xs=1&url=https%3A%2F%2Fuk.baseus.com%2Fproducts%2Fsecurity-primesentinel-w1-window-4k-camera&sref=https%3A%2F%2Fwww.wallpaper.com"
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "Apple Inc.",
+     "url": "https://en.wikipedia.org/wiki/Apple%20Inc."
+    },
+    {
+     "n": 5,
+     "type": "위키백과",
+     "title": "Schneider Electric",
+     "url": "https://en.wikipedia.org/wiki/Schneider%20Electric"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "애플 아이폰 듀오, 접이식 스마트폰의 주류 진입을 견인할 것인가",
+     "url": "https://www.dezeen.com/2026/09/25/iphone-duo-folding-smartphones-washington-triumphal-arch-dezeen-weekly/"
+    },
+    {
+     "n": 7,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "애플, 런던 배터시 발전소에 600석 규모 음악 공연장 조성",
+     "url": "https://www.dezeen.com/2026/09/23/apple-music-hall-battersea-power-station/"
+    },
+    {
+     "n": 8,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "세라믹의 물성을 세 번 구워 완성한 애플 워치 시리즈 12",
+     "url": "https://coolhunting.com/tech/apple-watch-series-12-returns-to-ceramic-fired-three-times-over/"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3,
+    5,
+    7,
+    8
+   ],
+   "chars": 9168
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "wallpaper.com/entertaining/tom-martin-christmas-baubles": {
+  "title_ko": "유리 내부의 미세한 서사, 톰 마틴의 수제 장식품",
+  "summary_ko": "톰 마틴은 중국 전통의 내부 채색 기법을 활용해 유리구 안에 일상의 순간을 담아내는 장식품을 제작한다. 이번 '퍼슈츠 컬렉션'은 와인과 카드 게임 등 개인적인 의례를 주제로 삼았다. 클라리지스, 벨몽 등 주요 호텔과 협업하며 단순한 계절 장식을 넘어 기억을 보존하는 기념품으로서의 가치를 제시한다.",
+  "lens": "유리 내부를 도화지 삼아 굴절된 서사를 맺히게 하는 기법으로, 장식품을 평면적 시각물에서 입체적 기억의 저장소로 격상시킨다.",
+  "why_now": "디지털 피로가 극에 달한 시기, 손으로 빚은 아날로그 물성이 주는 촉각적 위안과 개인의 일상을 기록하는 수집 문화가 다시 주목받고 있다.",
+  "mechanism": "유리구 내부를 역방향으로 채색하는 기법을 사용하여, 외부 표면의 매끄러움과 내부 그림의 깊이감이 시각적 층위를 만든다. 트리의 가장 깊숙한 가지에 배치하여 빛의 굴절을 유도함으로써 공간의 입체감을 극대화한다.",
+  "sensory": "아크릴과 유화 물감이 겹쳐진 유리구는 빛을 머금고 은은하게 번지며, 수작업 특유의 미세한 붓 자국이 비정형적인 질감을 형성한다.",
+  "transfer": "공간 연출 시 오브제를 표면에 노출하기보다 구조물 내부나 깊은 틈새에 배치하여, 관람객이 의도적으로 시선을 파고들게 만드는 '발견의 동선'을 설계한다.",
+  "context": "톰 마틴은 2010년 스튜디오를 설립한 이후 클라리지스(Claridge's)와 벨몽(Belmond) 등 유서 깊은 호스피탈리티 브랜드와 협업해 왔다. 이는 공간의 역사적 골조를 존중하면서도 그 안에 새로운 시간의 레이어를 얹는 방식과 궤를 같이한다.",
+  "findings": [
+   {
+    "text": "각 장식품은 7.5cm 크기의 유리구에 아크릴과 유화 물감을 사용하여 제작된다.",
+    "s": 1,
+    "quote": "H7.5cm x W7.5cmGlass with acrylic and oil paintGift box included Individually hand-painted using our signature inside-painting technique."
+   }
+  ],
+  "keywords": [
+   "내부채색",
+   "기억의물성",
+   "오브제",
+   "공간연출"
+  ],
+  "evidence": "creating beautiful objects that become lasting mementos.",
+  "kind": "제품·오브제",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "전통 기법을 현대적 일상 서사로 치환한 점이 흥미로우며, 공간 내 오브제 배치에 대한 구체적인 방법론을 제시하고 있다.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/entertaining/tom-martin-christmas-baubles",
+  "original_title": "The niche art of bauble-making, according to hospitality’s go-to baublier",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 4949,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-15 00:00",
+  "research": {
+   "entities": [
+    "Tom Martin",
+    "Claridge's",
+    "Rosewood London",
+    "Belmond"
+   ],
+   "questions": [
+    "유리 안쪽에 그림을 그리는 'inside painting' 기법은 어떤 역사적 배경과 특징을 가지고 있나요?",
+    "톰 마틴이 추구하는 'memento'로서의 장식품이 현대 인테리어 디자인에서 가지는 의미는 무엇인가요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "TOM MARTIN Official Site | Creators of luxury baubles",
+     "url": "https://go.redirectingat.com?id=92X1650074&xcust=wallpaper_us_9714553945544657744&xs=1&url=https%3A%2F%2Ftommartin.co.uk%2F&sref=https%3A%2F%2Fwww.wallpaper.com"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Claridge's",
+     "url": "https://en.wikipedia.org/wiki/Claridge%27s"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "엄격한 규칙을 깨고 완성한 로사 클레르크의 전시 216",
+     "url": "https://elephant.art/rose-klerkx-did-hardly-any-of-those-things/"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "런던 디자인 에어비앤비 10선: 공간이 품은 동시대 주거의 얼굴",
+     "url": "https://www.architecturaldigest.com/story/best-airbnbs-in-london-england"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "호텔 스플렌디도의 이면: 크리스 로즈가 포착한 사물과 시간의 파편",
+     "url": "https://www.anothermag.com/art-photography/17636/chris-rhodes-portofino-hotel-splendido?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=chris-rhodes-documents-another-side-of-portofino-s-hotel-splendido"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "chars": 3550
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "minimalissimo.com/articles/gradient-watch-by-lawa-design": {
+  "title_ko": "시간의 궤적을 시각적 레이어로 치환하는 라와 디자인의 그라디언트 워치",
+  "summary_ko": "라와 디자인(LAWA DESIGN)의 그라디언트 워치는 시간을 확인하는 기본 기능을 시각적 구성 요소로 재해석한 시계다. 다이얼 위의 중첩된 그라데이션이 시간의 흐름에 따라 변화하며 그래픽적 표현을 만들어낸다. 기능과 미학이 교차하는 지점을 절제된 색채와 형태로 구현했다.",
+  "lens": "단순한 숫자 표기를 제거하고 색면의 중첩으로 시간을 구조화하여, 시각적 유희와 기능적 직관을 동시에 확보했다.",
+  "why_now": "디지털 인터페이스가 평면화되는 흐름 속에서, 물리적 시계 다이얼을 통해 시간의 경과를 입체적인 그래픽으로 체감하게 한다.",
+  "mechanism": "시간과 분의 이동에 따라 그라데이션 레이어가 겹치며 다이얼의 시각적 밀도를 변화시키는 구조다.",
+  "sensory": "색채가 겹치며 발생하는 은은한 투명도와 그라데이션의 부드러운 전이가 시각적 피로를 낮추고 차분한 깊이감을 준다.",
+  "transfer": "영상 콘티 작성 시, 시간의 흐름을 컷 전환이 아닌 색의 농도 변화와 레이어의 투명도 조절만으로 표현하는 기법으로 활용 가능하다.",
+  "context": "기능과 형태의 자연스러운 결합을 지향하는 라와 디자인의 철학이 반영된 오브제다. 리서치 자료의 라와스 교량(Lawas Bridge)은 동명의 지명과 관련이 있을 뿐 해당 디자인 스튜디오의 맥락과는 무관하다.",
+  "findings": [],
+  "keywords": [
+   "그라데이션",
+   "다이얼 디자인",
+   "시각적구성",
+   "미니멀리즘"
+  ],
+  "evidence": "turning the fundamental act of telling time into an exercise in visual composition.",
+  "kind": "제품·오브제",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "제품의 시각적 기제는 명확하나, 기존 시계 디자인의 범주를 완전히 벗어나는 혁신적 구조까지는 확인되지 않는다.",
+  "v": 2,
+  "url": "https://minimalissimo.com/articles/gradient-watch-by-lawa-design",
+  "original_title": "Gradient Watch by LAWA DESIGN",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 778,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-15 00:00",
+  "research": {
+   "entities": [
+    "LAWA DESIGN",
+    "Gradient Watch"
+   ],
+   "questions": [
+    "LAWA DESIGN이 추구하는 디자인 철학인 '기능과 형태의 조화'가 Gradient Watch의 시각적 구성에 어떻게 반영되었는가?",
+    "시간의 흐름을 그라데이션의 중첩으로 표현하는 방식이 사용자의 직관적인 시간 확인에 어떤 영향을 미치는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Lawas Bridge",
+     "url": "https://en.wikipedia.org/wiki/Lawas%20Bridge"
+    }
+   ],
+   "used": [],
+   "chars": 358
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "hyperallergic.com/11-14-26-weekly-newsletter-2": {
+  "title_ko": "데이터와 일상의 이면: 하이퍼알레르기가 포착한 동시대 미술의 풍경",
+  "summary_ko": "하이퍼알레르기의 최신 동시대 미술 리스트와 비평을 통해 모나 찰라비의 데이터 시각화, 휘트니 비엔날레 공동 큐레이터 선정, 피카소 판화 발견 등 예술계의 주요 동향을 짚어본다. 경제적 불평등, 인공지능과 밈, 그리고 전통적인 예술 제도의 권력 구조가 교차하는 지점을 조명한다.",
+  "lens": "숫자와 밈, 그리고 소외된 서사 사이에서 동시대 미술이 직면한 균열을 응시한다.",
+  "why_now": "예술계가 직면한 경제적 불평등과 기술 자본의 결합 속에서, 작가들이 어떻게 정치적 실천과 데이터 시각화로 이에 대응하는지 확인해야 한다.",
+  "mechanism": "데이터 저널리즘의 수치와 물리적 전시 공간의 파편들을 결합하여 구조적 모순을 시각적 실체로 치환한다.",
+  "sensory": "차가운 통계 데이터와 광고 속 인물의 미소, 그리고 일상의 파편들이 부딪히며 발생하는 긴장감을 형성한다.",
+  "transfer": "데이터나 통계를 시각화하는 오프닝 타이틀이나, 자본의 감시를 다루는 디스토피아적 공간 콘티에 직접 적용한다.",
+  "context": "퓰리처상을 수상한 데이터 저널리스트 모나 찰라비(Mona Chalabi)는 제프 베조스의 부와 난민의 생존 위기 등 거대 자본과 권력의 구조적 폭력을 시각화해왔다.",
+  "findings": [
+   {
+    "text": "모나 찰라비는 영국 출신의 퓰리처상 수상 데이터 저널리스트이자 일러스트레이터 겸 작가이다.",
+    "s": 1,
+    "quote": "Mona Chalabi is a British, Pulitzer Prize-winning data journalist, illustrator and writer of Iraqi descent"
+   },
+   {
+    "text": "휘트니 비엔날레는 미국 현대미술을 조명하는 가장 중요한 조사 전시로 1932년에 시작되었다.",
+    "s": 2,
+    "quote": "The Whitney Biennial is a biennial exhibition of contemporary American art organized by the Whitney Museum of American Art in New York City. The exhibition series began in 1932"
+   }
+  ],
+  "keywords": [
+   "동시대미술",
+   "데이터시각화",
+   "불평등",
+   "휘트니비엔날레"
+  ],
+  "evidence": "Mona Chalabi Paints a Picture of Class Inequality",
+  "kind": "리스트·라운드업",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "다양한 예술계 소식과 비평을 다루는 라운드업 기사로, 구체적인 작가와 제도의 움직임을 충실히 전달한다.",
+  "v": 2,
+  "url": "https://hyperallergic.com/11-14-26-weekly-newsletter-2/",
+  "original_title": "Special Edition: Jesus",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 9000,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-15 00:01",
+  "research": {
+   "entities": [
+    "Mona Chalabi",
+    "Whitney Biennial",
+    "Pablo Picasso",
+    "Christie's",
+    "Anonymous Was A Woman"
+   ],
+   "questions": [
+    "모나 찰라비의 데이터 시각화 작업이 현대 사회의 불평등을 어떻게 드러내고 있는지 설명하시오.",
+    "기사에서 언급된 예술계의 주요 뉴스들이 현재 문화 예술 담론에서 갖는 함의는 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Mona Chalabi",
+     "url": "https://en.wikipedia.org/wiki/Mona%20Chalabi"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Whitney Biennial",
+     "url": "https://en.wikipedia.org/wiki/Whitney%20Biennial"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "사라 미켈슨의 무용 연대기, 미술관을 점유하는 자기 참조적 궤적",
+     "url": "https://hyperallergic.com/sarah-michelsons-delicate-fetish-play/"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "헨리 테일러, 일상의 파편으로 엮어낸 비정형의 서사",
+     "url": "https://elephant.art/henry-taylor-and-the-weight-of-the-ordinary/"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "플라스틱 주전자의 변주, 로무알드 하주메의 가면이 묻는 현대의 비극",
+     "url": "https://www.thisiscolossal.com/2026/10/romuald-hazoume-plastic-jug-mask-sculptures/"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 1614
+  },
+  "depth_raw": 3,
+  "depth_v": 2
  }
 }
