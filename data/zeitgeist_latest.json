@@ -1,58 +1,26 @@
 {
-  "generated_at": "2026-11-16 00:22 KST",
+  "generated_at": "2026-11-16 01:27 KST",
   "period": "2026.11.09 - 2026.11.16",
-  "total_articles": 448,
+  "total_articles": 426,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 207
+      "count": 196
     },
     {
       "genre": "동시대 미술",
-      "count": 179
+      "count": 170
     },
     {
       "genre": "아방가르드 패션",
-      "count": 44
+      "count": 43
     },
     {
       "genre": "미디어 파사드·3D",
-      "count": 18
+      "count": 17
     }
   ],
   "themes": [
-    {
-      "keyword": "리노베이션·재생",
-      "count": 12,
-      "previous_count": 5,
-      "trend": "rising",
-      "items": [
-        {
-          "title": "Mecanoo, 암스테르담의 네덜란드 중앙은행(De Nederlandsche Bank) 리노베이션을 통해 이전 금고를 '도시의 거실'로 탈바꿈시키다",
-          "url": "https://www.dezeen.com/2026/11/15/netherlands-central-bank-renovation-mecanoo/",
-          "image_url": "https://static-2026.dezeen.com/uploads/2026/11/mecanoo-de-nederlandsche-bank_dezeen_2364_sq_0-1024x1024.jpg",
-          "source_name": "Dezeen"
-        },
-        {
-          "title": "느낌과 즐거움",
-          "url": "https://leibal.com/interiors/feel-and-joy/",
-          "image_url": "https://leibal.com/wp-content/uploads/2026/11/leibal-feel-and-joy-water-team-design-25.jpg",
-          "source_name": "Leibal"
-        },
-        {
-          "title": "반더런 III-IV / P&P 아키텍츠 + 아틀리에 다르키텍처 A4",
-          "url": "https://www.archdaily.com/1186465/vandeuren-iii-iv-p-and-p-architectes",
-          "image_url": "https://images.adsttc.com/media/images/6ac6/104f/07c3/d100/017f/dbe9/large_jpg/7-Courtyard_block_interior__Nicolas_Da_Silva_Lucas_.jpg?1791365243",
-          "source_name": "ArchDaily"
-        },
-        {
-          "title": "미누-온 아파트 리노베이션 / CROSSARCHITECTURE / 메흐다드 마카레미",
-          "url": "https://www.archdaily.com/1187951/minou-on-apartment-renovation-crossarchitecture-mehrdad-makaremi",
-          "image_url": "https://images.adsttc.com/media/images/6ae8/8239/bcbc/3500/01ae/ae87/large_jpg/01.jpg?1793622689",
-          "source_name": "ArchDaily"
-        }
-      ]
-    },
     {
       "keyword": "목재 건축",
       "count": 12,
@@ -118,8 +86,40 @@
       ]
     },
     {
+      "keyword": "리노베이션·재생",
+      "count": 10,
+      "previous_count": 7,
+      "trend": "rising",
+      "items": [
+        {
+          "title": "Mecanoo, 암스테르담의 네덜란드 중앙은행(De Nederlandsche Bank) 리노베이션을 통해 이전 금고를 '도시의 거실'로 탈바꿈시키다",
+          "url": "https://www.dezeen.com/2026/11/15/netherlands-central-bank-renovation-mecanoo/",
+          "image_url": "https://static-2026.dezeen.com/uploads/2026/11/mecanoo-de-nederlandsche-bank_dezeen_2364_sq_0-1024x1024.jpg",
+          "source_name": "Dezeen"
+        },
+        {
+          "title": "느낌과 즐거움",
+          "url": "https://leibal.com/interiors/feel-and-joy/",
+          "image_url": "https://leibal.com/wp-content/uploads/2026/11/leibal-feel-and-joy-water-team-design-25.jpg",
+          "source_name": "Leibal"
+        },
+        {
+          "title": "반더런 III-IV / P&P 아키텍츠 + 아틀리에 다르키텍처 A4",
+          "url": "https://www.archdaily.com/1186465/vandeuren-iii-iv-p-and-p-architectes",
+          "image_url": "https://images.adsttc.com/media/images/6ac6/104f/07c3/d100/017f/dbe9/large_jpg/7-Courtyard_block_interior__Nicolas_Da_Silva_Lucas_.jpg?1791365243",
+          "source_name": "ArchDaily"
+        },
+        {
+          "title": "미누-온 아파트 리노베이션 / CROSSARCHITECTURE / 메흐다드 마카레미",
+          "url": "https://www.archdaily.com/1187951/minou-on-apartment-renovation-crossarchitecture-mehrdad-makaremi",
+          "image_url": "https://images.adsttc.com/media/images/6ae8/8239/bcbc/3500/01ae/ae87/large_jpg/01.jpg?1793622689",
+          "source_name": "ArchDaily"
+        }
+      ]
+    },
+    {
       "keyword": "미니멀리즘",
-      "count": 7,
+      "count": 6,
       "previous_count": 4,
       "trend": "rising",
       "items": [
@@ -222,7 +222,6 @@
     "Native Art",
     "Sumayya Vally",
     "Powerhouse Parramatta",
-    "Mona Chalabi",
     "Dezeen Awards"
   ],
   "has_comparison": true

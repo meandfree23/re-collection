@@ -3680,5 +3680,44 @@
   "v": 3,
   "model": "gemini-3.5-flash-lite",
   "written_at": "2026-11-15 16:49"
+ },
+ "2026-11-16": {
+  "date": "2026-11-16",
+  "headline": "기상 데이터의 점술과 면도날이 긋는 곡선",
+  "editorial": "테오 트라이안타필리디스의 '퍼니 웨더'는 예측할 수 없는 기상 데이터를 점술의 언어로 해석해 화면 속에 띄운다. 베를린 뮐레 플래그십은 면도날의 날카로운 정밀함을 인체의 곡선으로 옮겨와 딱딱한 상가의 모서리를 지워냈다. 뉴욕 터널의 거친 산업용 골조는 현대적 환대의 장치로 바뀌어 과거의 유흥을 현재의 이벤트로 이어간다. 세 프로젝트는 각기 다른 영역의 규칙을 빌려와 익숙한 대상의 형태와 의미를 다르게 빚어낸다.",
+  "threads": [
+   {
+    "name": "낯선 규칙으로 빚은 형태",
+    "note": "기상 데이터와 면도날이라는 이질적인 요소를 사용하여 새로운 시각적 형태를 만들어낸 사례다.",
+    "items": [
+     {
+      "title": "기상 데이터와 점술의 결합: 테오 트라이안타필리디스의 실시간 시뮬레이션 '퍼니 웨더'",
+      "url": "https://www.designboom.com/art/bird-plane-funny-weather-theo-triantafyllidis/"
+     },
+     {
+      "title": "면도날의 정밀함과 인체의 굴곡으로 빚어낸 베를린 뮐레 플래그십",
+      "url": "https://www.ignant.com/2026/11/15/finding-space-for-stillness-atelier-st-designs-muhles-flagship-store-in-berlin/"
+     }
+    ]
+   },
+   {
+    "name": "과거의 뼈대에 얹은 현재의 쓰임",
+    "note": "산업 유산이나 물리적 모서리를 활용하여 새로운 기능과 정체성을 부여하는 과정을 다룬다.",
+    "items": [
+     {
+      "title": "뉴욕 터널의 귀환, 산업 유산의 골조 위에 얹은 환대와 서부의 기억",
+      "url": "https://www.wallpaper.com/design-interiors/interior-design/classic-new-york-club-revival"
+     },
+     {
+      "title": "면도날의 정밀함과 인체의 굴곡으로 빚어낸 베를린 뮐레 플래그십",
+      "url": "https://www.ignant.com/2026/11/15/finding-space-for-stillness-atelier-st-designs-muhles-flagship-store-in-berlin/"
+     }
+    ]
+   }
+  ],
+  "based_on": 3,
+  "v": 3,
+  "model": "gemini-3.1-flash-lite",
+  "written_at": "2026-11-16 01:27"
  }
 }
