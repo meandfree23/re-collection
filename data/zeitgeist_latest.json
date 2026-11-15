@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-15 04:18 KST",
+  "generated_at": "2026-11-15 11:18 KST",
   "period": "2026.11.08 - 2026.11.15",
-  "total_articles": 432,
+  "total_articles": 436,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 196
+      "count": 199
     },
     {
       "genre": "동시대 미술",
-      "count": 174
+      "count": 175
     },
     {
       "genre": "아방가르드 패션",
@@ -150,6 +150,38 @@
       ]
     },
     {
+      "keyword": "해변·리조트 건축",
+      "count": 6,
+      "previous_count": 5,
+      "trend": "steady",
+      "items": [
+        {
+          "title": "민티스 리조트 개발/우즈 배곳(Woods Bagot)",
+          "url": "https://www.archdaily.com/1009606/minthis-hills-woods-baggot",
+          "image_url": "https://images.adsttc.com/media/images/654e/6c41/08e4/4436/8242/6c3c/large_jpg/minthis-hills-woods-baggot_1.jpg?1699638370",
+          "source_name": "ArchDaily"
+        },
+        {
+          "title": "재생 자재로 지어진 태국의 이 해변가 사무실은 저희가 새롭게 좋아하게 된 업무 공간입니다.",
+          "url": "https://www.wallpaper.com/architecture/office/khao-lak-office-boonserm-bangkok-project-studio-thailand",
+          "image_url": "https://cdn.mos.cms.futurecdn.net/wvkWbewqSrqKZjmrfNnP9P-1920-80.jpg",
+          "source_name": "Wallpaper*"
+        },
+        {
+          "title": "미국에서 가장 아름다운 주 9곳",
+          "url": "https://www.architecturaldigest.com/gallery/the-most-beautiful-states-in-the-us",
+          "image_url": "https://media.architecturaldigest.com/photos/6af71dcb08ea4a4002137c7b/master/pass/GettyImages-2300632302.jpg",
+          "source_name": "Architectural Digest"
+        },
+        {
+          "title": "마운틴 하우스 IV",
+          "url": "https://leibal.com/interiors/mountain-house-iv/",
+          "image_url": "https://leibal.com/wp-content/uploads/2026/11/leibal-mountain-house-iv-studio-razavi-3.jpg",
+          "source_name": "Leibal"
+        }
+      ]
+    },
+    {
       "keyword": "콘크리트 물성",
       "count": 5,
       "previous_count": 6,
@@ -178,38 +210,6 @@
           "url": "https://leibal.com/interiors/mountain-house-iv/",
           "image_url": "https://leibal.com/wp-content/uploads/2026/11/leibal-mountain-house-iv-studio-razavi-3.jpg",
           "source_name": "Leibal"
-        }
-      ]
-    },
-    {
-      "keyword": "해변·리조트 건축",
-      "count": 5,
-      "previous_count": 5,
-      "trend": "steady",
-      "items": [
-        {
-          "title": "재생 자재로 지어진 태국의 이 해변가 사무실은 저희가 새롭게 좋아하게 된 업무 공간입니다.",
-          "url": "https://www.wallpaper.com/architecture/office/khao-lak-office-boonserm-bangkok-project-studio-thailand",
-          "image_url": "https://cdn.mos.cms.futurecdn.net/wvkWbewqSrqKZjmrfNnP9P-1920-80.jpg",
-          "source_name": "Wallpaper*"
-        },
-        {
-          "title": "미국에서 가장 아름다운 주 9곳",
-          "url": "https://www.architecturaldigest.com/gallery/the-most-beautiful-states-in-the-us",
-          "image_url": "https://media.architecturaldigest.com/photos/6af71dcb08ea4a4002137c7b/master/pass/GettyImages-2300632302.jpg",
-          "source_name": "Architectural Digest"
-        },
-        {
-          "title": "마운틴 하우스 IV",
-          "url": "https://leibal.com/interiors/mountain-house-iv/",
-          "image_url": "https://leibal.com/wp-content/uploads/2026/11/leibal-mountain-house-iv-studio-razavi-3.jpg",
-          "source_name": "Leibal"
-        },
-        {
-          "title": "연휴 전후 리셋을 위해 Mount Med Resort는 완벽합니다.",
-          "url": "https://www.wallpaper.com/travel/spas/mount-med-resort-austria-review",
-          "image_url": "https://cdn.mos.cms.futurecdn.net/AvoPypcwBjWchTAvrQ2BrG-1920-80.jpg",
-          "source_name": "Wallpaper*"
         }
       ]
     }

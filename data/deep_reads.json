@@ -315559,5 +315559,303 @@
   },
   "depth_raw": 5,
   "depth_v": 2
+ },
+ "archdaily.com/1187949/vanguard-house-ming-architects": {
+  "title_ko": "싱가포르 뱅가드 하우스: 수경 시설과 은폐된 동선으로 구축한 고요의 밀도",
+  "summary_ko": "싱가포르에 위치한 500제곱미터 규모의 뱅가드 하우스(Vanguard House)는 프라이버시와 평온을 최우선으로 설계된 주거 공간이다. 밍 아키텍츠(Ming Architects)는 핵심부에 수경 시설을 배치하고 거주 공간을 의도적으로 은폐하여 외부와 차단된 밝고 안온한 분위기를 조성했다.",
+  "lens": "거주 공간을 물리적으로 숨기고 중심부에 물을 채워, 시각적 개방감과 심리적 폐쇄성을 동시에 확보하는 전략적 공간 설계다.",
+  "why_now": "밀도 높은 도시 환경에서 외부 시선을 차단하면서도 자연광을 내부로 깊숙이 끌어들이는 건축적 필터링 기술이 요구되는 시점이다.",
+  "mechanism": "건물 중심부의 수경 시설이 빛을 반사해 실내로 확산시키며, 거주 영역을 구조적으로 은폐하여 사적 영역의 밀도를 높인다.",
+  "sensory": "물 표면에서 반사되는 아른거리는 빛의 파동이 벽면에 맺히고, 정제된 재료가 만들어내는 차분한 정적이 지배하는 공간이다.",
+  "transfer": "광고 콘티나 공간 연출 시 피사체 주변에 수면을 배치해 빛의 일렁임을 조명으로 활용하거나, 시선을 차단하는 가벽 뒤에 핵심 공간을 숨기는 레이어링 기법을 적용한다.",
+  "context": "밍 아키텍츠는 주거지의 프라이버시를 확보하기 위해 물리적 경계를 재구성하는 작업을 지속해왔다.",
+  "findings": [],
+  "keywords": [
+   "수경시설",
+   "공간레이어링",
+   "프라이버시",
+   "싱가포르건축"
+  ],
+  "evidence": "Vanguard House is a spacious residence with privacy and serenity at the forefront of its design. With concealed living spaces and the incorporation of water features at its core",
+  "kind": "프로젝트",
+  "depth": 2,
+  "grounding": "thin",
+  "depth_reason": "공간의 핵심 장치인 수경 시설과 은폐 전략은 명확하나, 상세 도면이나 구체적인 재료의 물성 정보가 부족하다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1187949/vanguard-house-ming-architects",
+  "original_title": "Vanguard House / Ming Architects",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 1110,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-15 11:18",
+  "research": {
+   "entities": [
+    "Ming Architects",
+    "Tan Cher Ming",
+    "Studio Periphery"
+   ],
+   "questions": [
+    "Vanguard House의 설계에서 프라이버시와 평온함을 확보하기 위해 적용된 구체적인 건축적 장치는 무엇인가?",
+    "Ming Architects가 추구하는 주거 공간의 디자인 철학은 무엇이며, 이 프로젝트에서 어떻게 구현되었는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Transition from Ming to Qing",
+     "url": "https://en.wikipedia.org/wiki/Transition%20from%20Ming%20to%20Qing"
+    }
+   ],
+   "used": [],
+   "chars": 1400
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "archdaily.com/1188633/sona-listening-practices-epico-studio": {
+  "title_ko": "멕시코시티 소나, 디지털 노이즈를 차단하는 245㎡의 청취 전용 공간",
+  "summary_ko": "멕시코시티 콘데사 지구에 위치한 소나(Sona)는 에피코 스튜디오와 파노라마가 설계한 245㎡ 규모의 청취 전용 공간이다. 루이스 로페스가 주도한 이 프로젝트는 기기, 알코올, 시각적 방해 요소를 배제하고 오직 소리에 집중하는 몰입형 환경을 구축했다. 돌비 애트모스와 제넬렉의 음향 기술을 도입하여 청각적 경험을 의도적이고 공유 가능한 감각으로 변환한다.",
+  "lens": "디지털 피로를 제거한 진공 상태의 공간에서, 입체 음향 기술을 물리적 건축 요소로 치환하여 소리의 밀도를 극대화했다.",
+  "why_now": "연결 과잉의 시대에 물리적 단절을 선택하고, 소리를 소비하는 방식이 아닌 감각하는 대상으로 재정의하려는 시도다.",
+  "mechanism": "돌비 애트모스 기반의 공간 음향 시스템과 제넬렉의 액티브 스피커를 배치하여 소리의 방향성과 깊이를 물리적 공간 내에 구현했다.",
+  "sensory": "디지털 기기가 차단된 정적 속에서 3차원적으로 이동하는 소리의 입자가 피부에 닿는 듯한 밀도 높은 청각적 질감을 제공한다.",
+  "transfer": "콘티 작업 시, 화면 밖의 소리가 공간의 벽면과 바닥을 타고 흐르는 듯한 앰비언트 사운드 디자인을 적용하고, 조명을 최소화하여 시각적 정보를 거세한 연출을 시도하라.",
+  "context": "에피코 스튜디오는 멕시코시티를 기반으로 공간의 기능과 감각의 연결을 탐구한다. 돌비 애트모스는 수평과 수직의 제한 없이 소리 객체를 배치하는 기술로, 최근 가구적 질감의 오디오 시스템과 결합하여 인테리어의 배경으로 침투하는 경향을 보인다.",
+  "findings": [
+   {
+    "text": "돌비 애트모스는 기존 서라운드 사운드 시스템에 높이 채널을 추가하고, 수평 및 수직 제한 없이 자유롭게 움직이는 사운드 객체를 구현하는 공간 음향 기술이다.",
+    "s": 1,
+    "quote": "Dolby Atmos is a surround sound and spatial sound technology developed by Dolby Laboratories. It expands on existing surround sound systems by adding height channels as well as free-moving sound objects"
+   },
+   {
+    "text": "제넬렉은 핀란드 이살미에 본사를 둔 액티브 스피커 제조사로, 프로페셔널 스튜디오 레코딩 및 영화 제작 현장에서 주로 사용되는 정밀한 음향 시스템을 설계한다.",
+    "s": 2,
+    "quote": "Genelec Oy is a manufacturer of active loudspeaker systems based in Iisalmi, Finland. It designs and produces products for professional studio recording, mixing and mastering applications"
+   }
+  ],
+  "keywords": [
+   "청취공간",
+   "공간음향",
+   "돌비애트모스",
+   "제넬렉",
+   "멕시코시티"
+  ],
+  "evidence": "defined as an environment oriented toward sonic immersion: device-free, alcohol-free, and distraction-free.",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "청취라는 행위를 건축적 장치로 풀어낸 구체적인 공간 설계 사례로, 음향 기술의 물리적 적용 방식이 명확하다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1188633/sona-listening-practices-epico-studio",
+  "original_title": "Sona Listening Practices / Épico Studio",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 1641,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-15 11:18",
+  "research": {
+   "entities": [
+    "Épico Studio",
+    "Dolby Atmos",
+    "Genelec"
+   ],
+   "questions": [
+    "Sona Listening Practices 공간은 어떠한 음향 설계와 방음 시스템을 통해 몰입형 청음 환경을 구현했는가?",
+    "기기 사용과 알코올이 배제된 이 공간이 현대인의 소셜 문화와 사운드 아트 커뮤니티에 미치는 영향은 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Dolby Atmos",
+     "url": "https://en.wikipedia.org/wiki/Dolby%20Atmos"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Genelec",
+     "url": "https://en.wikipedia.org/wiki/Genelec"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "공간을 채우는 하나의 모놀리스, 네임 무소 유토피아",
+     "url": "https://www.wallpaper.com/tech/naim-mu-so-utopia-home-audio-system"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "가구처럼 숨어드는 사운드바, 니트 사운드의 폼(Form)",
+     "url": "https://www.wallpaper.com/tech/knit-form-speaker-by-knit-sound-company-interview"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "chars": 1587
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "archdaily.com/1009606/minthis-hills-woods-baggot": {
+  "title_ko": "민티스 리조트: 키프로스 언덕에 새긴 고대 건축의 현대적 변주",
+  "summary_ko": "키프로스 파포스 차다 마을 언덕에 조성된 민티스 리조트는 우즈 배곳(Woods Bagot)이 마스터플랜부터 브랜딩까지 총괄한 대규모 개발 단지다. 500만 제곱미터 부지에 지역의 고대 건축 유산과 현대적 웰니스 기능을 결합해 지형에 순응하는 건축적 안식처를 구현했다.",
+  "lens": "지형의 높낮이를 따라 흩어진 건축물들이 고대 키프로스의 비례와 현대적 재료를 결합해 자연과 인공의 경계를 지운다.",
+  "why_now": "대규모 개발이 자연을 압도하는 대신, 지형의 맥락을 읽고 건축적 시간의 층위를 쌓는 방식이 공간 설계의 핵심 과제로 부상했다.",
+  "mechanism": "지역적 석재와 현대적 유리 시스템을 조합해 건물의 물리적 무게감을 조절하고, 대지 전체를 관통하는 동선을 통해 지형을 따라 흐르는 공간 경험을 설계했다.",
+  "sensory": "산화된 석재의 거친 질감과 광활한 풍경을 투과하는 유리의 투명함이 대비되며, 고지대 특유의 바람과 빛이 실내외를 자유롭게 넘나든다.",
+  "transfer": "광활한 대지를 배경으로 한 영상 콘티라면, 롱 샷에서 근경으로 전환할 때 석재 벽면의 입자감을 강조하고 빛의 흐름을 따라 동선을 유도하는 카메라 워킹을 적용한다.",
+  "context": "1905년 설립된 우즈 배곳은 호주 애들레이드에서 시작해 현재 5개 지역에 스튜디오를 둔 글로벌 건축 사무소다. 카타르 과학기술공원 등 대규모 마스터플랜 프로젝트에서 보여준 정교한 지형 해석 능력을 이번 리조트 개발에서도 동일하게 전개했다.",
+  "findings": [
+   {
+    "text": "우즈 배곳은 1905년 남호주 애들레이드에서 설립된 글로벌 건축 및 컨설팅 사무소다.",
+    "s": 1,
+    "quote": "Woods Bagot is a global architectural and consulting practice founded in Adelaide, South Australia. Founded in 1905"
+   }
+  ],
+  "keywords": [
+   "지형순응",
+   "키프로스",
+   "웰니스건축",
+   "마스터플랜",
+   "우즈배곳"
+  ],
+  "evidence": "Minthis is a resort-style development located in the hillside setting of Tsada Village in Paphos.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "대규모 마스터플랜의 맥락은 확인되나, 구체적인 건축적 기법이나 재료의 결합 방식에 대한 상세한 기술적 설명이 부족하다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1009606/minthis-hills-woods-baggot",
+  "original_title": "Minthis Resort Development / Woods Bagot",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 1539,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-15 11:18",
+  "research": {
+   "entities": [
+    "Woods Bagot",
+    "Nik Karalis",
+    "Pafilia",
+    "Minthis Resort",
+    "Tsada"
+   ],
+   "questions": [
+    "우즈베그(Woods Bagot)가 민티스 리조트 마스터플랜에서 키프로스의 지역적 특성과 고대 건축 요소를 어떻게 현대적으로 재해석했는가?",
+    "500만 제곱미터에 달하는 대규모 리조트 개발 과정에서 지속가능성과 웰니스 인테리어가 어떻게 구현되었는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Woods Bagot",
+     "url": "https://en.wikipedia.org/wiki/Woods%20Bagot"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 952
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "elephant.art/sable-elyse-smith-and-johanna-fateman-talk-clockwork": {
+  "title_ko": "교도소 가구와 네온으로 가두는 보이지 않는 폭력의 실체",
+  "summary_ko": "뉴욕 플래그 아트 파운데이션에서 열린 세이블 엘리스 스미스의 개인전 '클락워크'는 교도소 가구를 변용한 조각과 비디오 설치를 통해 통제와 권력 시스템을 드러낸다. 작가와 평론가 조애나 파테만의 대화를 통해 전시의 공간적 재구성과 작업의 이면을 짚어본다.",
+  "lens": "차가운 교도소 가구의 치수를 최소주의 조각으로 번역해 보이지 않는 권력의 구조를 공간에 가둔다.",
+  "why_now": "감시와 통제가 일상화된 동시대에 제도의 폭력이 대중문화와 언어를 통해 어떻게 내면화되는지 시각적으로 증언한다.",
+  "mechanism": "면회실 가구의 1대1 치수를 차용하고 반복 배치하여 원래의 기능을 상실한 오브제로 만들고, 네온과 비디오 사운드로 공간의 밀도를 높인다.",
+  "sensory": "전시장 내부를 채우는 네온의 웅웅거리는 소리와 붉은 빛이 관람객의 호흡을 압박하며 무거윤 공기를 형성한다.",
+  "transfer": "통제 공간을 연출할 때 실제 수감 시설의 가구 치수를 미니멀한 조각적 형태로 축소하여 서늘한 긴장감을 부여한다.",
+  "context": "세이블 엘리스 스미스는 2026년 수잔 딜 부스 / 플래그 아트 파운데이션 상을 수상했으며, 이전 오스틴 전시의 모노그래픽 서베이를 뉴욕의 친밀한 스케일에 맞춰 몰입형 무대 환경으로 재조율했다.",
+  "findings": [
+   {
+    "text": "세이블 엘리스 스미스는 2026년 수잔 딜 부스 / 플래그 아트 파운데이션 상의 마지막 수혜자이다.",
+    "s": 2,
+    "quote": "Smith, the 2026 recipient of the Suzanne Deal Booth / FLAG Art Foundation Prize, the last and final iteration of the award."
+   },
+   {
+    "text": "오스틴에서의 전시가 대규모 모노그래픽 서베이 형태였다면 플래그 아트 파운데이션에서는 영화적 요소를 몰입형 무대 환경으로 확장했다.",
+    "s": 2,
+    "quote": "Following its previous presentation at The Contemporary Austin, which operated more as a monographic survey, FLAG reframes the work by expanding its more cinematic elements into an immersive stage environment"
+   },
+   {
+    "text": "작가는 감옥 대기실의 금속 스툴을 재용하여 별 모양이나 십자가 형태의 조각을 만들었다.",
+    "s": 2,
+    "quote": "Smith repurposes the metal stools that populate prison waiting rooms into star-shaped forms reminiscent of Jacks... project from the gallery walls to create unambiguously cruciform shapes"
+   }
+  ],
+  "keywords": [
+   "통제 시스템",
+   "교도소 가구",
+   "미니멀리즘",
+   "공간 설치",
+   "폭력의 시각화"
+  ],
+  "evidence": "Through repurposed prison furniture, newly commissioned video installations and text-based works, Clockwork examines the overlapping systems that govern contemporary life",
+  "kind": "전시",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "구체적인 수상작 전시 공간의 변주와 작가의 오브제 해체 방식을 명확한 자료로 증명한다.",
+  "v": 2,
+  "url": "https://elephant.art/sable-elyse-smith-and-johanna-fateman-talk-clockwork/",
+  "original_title": "Sable Elyse Smith and Johanna Fateman Talk Clockwork",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 9000,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-15 11:18",
+  "research": {
+   "entities": [
+    "Sable Elyse Smith",
+    "Johanna Fateman",
+    "The FLAG Art Foundation",
+    "Clockwork"
+   ],
+   "questions": [
+    "Sable Elyse Smith의 작품에서 감옥 가구와 같은 오브제가 현대 사회의 통제 시스템을 어떻게 은유적으로 드러내는지 궁금합니다.",
+    "Clockwork 전시가 기존의 모노그래픽 서베이 방식에서 벗어나 어떻게 몰입형 무대 환경으로 재구성되었는지 알고 싶습니다."
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Sable Elyse Smith — About",
+     "url": "https://sableelysesmith.com"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Sable Elyse Smith: Clockwork — The FLAG Art Foundation",
+     "url": "https://www.flagartfoundation.org/exhibitions/sableelysesmith"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Sable Elyse Smith",
+     "url": "https://en.wikipedia.org/wiki/Sable%20Elyse%20Smith"
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "Johanna Fateman",
+     "url": "https://en.wikipedia.org/wiki/Johanna%20Fateman"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3
+   ],
+   "chars": 3699
+  },
+  "depth_raw": 4,
+  "depth_v": 2
  }
 }
