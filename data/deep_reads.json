@@ -316123,5 +316123,162 @@
   },
   "depth_raw": 4,
   "depth_v": 2
+ },
+ "yatzer.com/mesoamerican-modern-phaidon": {
+  "title_ko": "고대의 공간을 오늘의 거주로 번역하는 멕시코의 현대 주택들",
+  "summary_ko": "큐레이터 수 우와 사진가 루이스 가르반이 멕시코 전역의 주택 16곳을 기록한 신간 '메소아메리카 모던'은 피라미드 형태, 화산암, 내부 중정 등 고대 원주민의 건축 원리가 오늘날의 주거 공간에 어떻게 살아 숨 쉬는지 조명한다. 콘크리트 외관 속 유기적 패턴의 바닥, 유리 대신 메쉬를 써서 나무 꼭대기와 연결된 강변 휴식처 등 전통을 박제된 유물이 아닌 동시대의 삶의 도구로 재해석한다.",
+  "lens": "고대 메소아메리카의 기하학적 엄숙함을 동시대 거주의 유기적 언어로 치환한다.",
+  "why_now": "과거의 양식을 단순 모방하는 대신, 토착 재료와 공간 개념을 현대 주거에 이식해 규격화된 모더니즘의 한계를 돌파하려는 시도가 주목받고 있다.",
+  "mechanism": "1,500개가 넘는 콘크리트 거푸집으로 피라미드 실루엣을 만들고, 외벽 대신 미세한 메쉬를 설치해 자연과 거주 공간 사이의 물리적 경계를 지운다.",
+  "sensory": "새벽녘의 빛이 화산암 벽면과 거친 석재 바닥을 빠르게 스치며 시각적 질감의 대비를 극대화한다.",
+  "transfer": "공간 콘티에서 외벽을 유리 대신 금속 메쉬로 대체해 자연 소리와 바람을 실내로 직접 끌어들이는 레이어를 설계한다.",
+  "context": "런던과 뉴욕에 거점을 둔 출판사 파이돈(Phaidon)은 건축과 디자인 분야에서 시각적 아카이브를 구축해 왔으며, 이번 신간은 멕시코 현대 주거의 계보를 새로운 시선으로 추적한다.",
+  "findings": [
+   {
+    "text": "파이돈은 런던과 뉴욕에 본사를 두고 예술, 건축, 디자인 분야의 서적을 전 세계로 출판하는 글로벌 퍼블리셔다.",
+    "s": 2,
+    "quote": "The company is based in London and New York City, with additional offices in Paris and Berlin."
+   },
+   {
+    "text": "페드로 레이예스는 조각, 건축, 퍼포먼스를 활용해 사회적 및 정치적 상황에서 개인과 집단의 주체성을 높이는 작업을 한다.",
+    "s": 3,
+    "quote": "He uses sculpture, architecture, video, performance, and participation. His works aims to increase individual or collective agency in social, environmental, political or educational situations."
+   }
+  ],
+  "keywords": [
+   "메소아메리카모던",
+   "멕시코건축",
+   "파이돈",
+   "원주민사상",
+   "주거건축"
+  ],
+  "evidence": "Mesoamerican Modern: Ancient Ideas in Contemporary Mexican Homes upends this notion, exploring how pre-Hispanic forms and spatial ideas continue to inform modern and contemporary architecture in Mexico.",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "고대 건축 원리가 현대 주거에 적용된 구체적 사례를 시각적, 재료적 측면에서 깊이 있게 다룬다.",
+  "v": 2,
+  "url": "https://www.yatzer.com/mesoamerican-modern-phaidon",
+  "original_title": "Mesoamerican Modern: How Ancient Ideas Are Shaping Contemporary Homes in Mexico",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 7845,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-15 19:58",
+  "research": {
+   "entities": [
+    "Phaidon",
+    "Su Wu",
+    "Pedro Reyes",
+    "Carla Fernández",
+    "Frank Lloyd Wright"
+   ],
+   "questions": [
+    "메소아메리카 건축의 공간적 개념과 형태가 현대 멕시코 주거 건축에 구체적으로 어떻게 재해석되고 있는가?",
+    "마야 리바이벌(Mayan Revival) 양식이 현대 건축가들에게 미친 영향과 그 한계점은 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Mesoamerican Modern: Ancient Ideas in Contemporary Mexican Homes | Standard Edition | 9781",
+     "url": "https://www.phaidon.com/en-eu/products/mesoamerican-modern-ancient-ideas-in-contemporary-mexican-homes"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Phaidon Press",
+     "url": "https://en.wikipedia.org/wiki/Phaidon%20Press"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Pedro Reyes (artist)",
+     "url": "https://en.wikipedia.org/wiki/Pedro%20Reyes%20%28artist%29"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "프레드 홀링스워스가 설계한 1952년작 마호가니 하우스, 반세기 만의 공개",
+     "url": "https://www.wallpaper.com/architecture/residential/fred-hollingsworths-mahogany-house-is-a-hidden-jewel-of-mid-century-modernism"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "곰팡이의 시각적 계보: 파이돈이 엮은 균류의 미학적 탐구",
+     "url": "https://www.thisiscolossal.com/2026/09/spanning-200-works-a-new-book-celebrates-the-world-of-fungi/"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "일본 주택의 35가지 단면: 파이돈이 기록한 동시대 주거 건축의 풍경",
+     "url": "https://www.wallpaper.com/architecture/residential/living-in-a-japanese-house-book"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3,
+    5,
+    6
+   ],
+   "chars": 4415
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "archdaily.com/1188533/wangshan-qingshui-water-treatment-plant-poa-architects": {
+  "title_ko": "왕산 칭수이 정수장: 경작지와 하천 사이, 산업 시설의 지형적 조율",
+  "summary_ko": "중국 원저우 창난현 첸쿠에 위치한 왕산 칭수이 정수장은 주거지, 경작지, 하천이 교차하는 복합적 지형에 들어섰다. 피오에이 아키텍츠(POA Architects)는 처리 분지와 생산 건물, 연결 동선을 지상으로 드러내어 기능적 집합체를 구축했다. 연면적 13,080제곱미터 규모로 지역 수자원 인프라의 새로운 경관을 제시한다.",
+  "lens": "산업 시설을 은폐하지 않고 지형의 일부로 노출하여, 정수 공정이라는 기계적 과정을 지역 사회의 시각적 맥락으로 치환한다.",
+  "why_now": "기피 시설로 인식되던 산업 인프라를 도시 경관의 구성 요소로 편입하려는 시도가 늘고 있다.",
+  "mechanism": "분산된 처리 분지와 생산 시설을 하나의 앙상블로 묶어, 복잡한 공정 동선을 물리적인 매스(Mass)의 질서로 재편했다.",
+  "sensory": "하천과 경작지가 맞닿은 수평적 대지 위로 정수 시설의 기하학적 매스가 솟아올라 공업적 물성과 자연의 대비를 강조한다.",
+  "transfer": "산업 현장의 배관이나 설비를 숨기지 않고 외부로 노출하여, 거친 금속성과 콘크리트 구조를 미장센의 핵심 요소로 활용한다.",
+  "context": "피오에이 아키텍츠는 산업 건축과 지속가능성을 결합한 설계를 지속적으로 시도해왔다. 본 프로젝트는 첸쿠의 지리적 특성을 반영해 수처리 시설을 도시 공간의 일부로 수용했다.",
+  "findings": [],
+  "keywords": [
+   "산업건축",
+   "지형순응",
+   "수처리시설",
+   "도시경관"
+  ],
+  "evidence": "the facility brings treatment basins, production buildings and connecting spaces into a legible above-ground ensemble.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "산업 시설의 배치 전략을 명확히 설명하나, 구체적인 재료나 세부 기술적 장치에 대한 정보가 부족하다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1188533/wangshan-qingshui-water-treatment-plant-poa-architects",
+  "original_title": "Wangshan Qingshui Water Treatment Plant / POA Architects",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 1273,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-15 19:59",
+  "research": {
+   "entities": [
+    "POA Architects",
+    "Wangshan Qingshui Water Treatment Plant",
+    "Chengshou Pan",
+    "North China Municipal Engineering Design & Research Institute Co., Ltd."
+   ],
+   "questions": [
+    "왕산 칭수이 정수장이 위치한 지역의 지리적 특성이 건축 설계에 어떤 영향을 미쳤는가?",
+    "산업 시설인 정수장을 설계할 때 POA Architects가 지속가능성을 구현하기 위해 도입한 주요 전략은 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Union Square (Hong Kong)",
+     "url": "https://en.wikipedia.org/wiki/Union%20Square%20%28Hong%20Kong%29"
+    }
+   ],
+   "used": [],
+   "chars": 586
+  },
+  "depth_raw": 3,
+  "depth_v": 2
  }
 }
