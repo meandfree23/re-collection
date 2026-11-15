@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-15 19:58 KST",
-  "period": "2026.11.08 - 2026.11.15",
-  "total_articles": 442,
+  "generated_at": "2026-11-16 00:22 KST",
+  "period": "2026.11.09 - 2026.11.16",
+  "total_articles": 448,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 203
+      "count": 207
     },
     {
       "genre": "동시대 미술",
-      "count": 177
+      "count": 179
     },
     {
       "genre": "아방가르드 패션",
@@ -21,6 +21,38 @@
     }
   ],
   "themes": [
+    {
+      "keyword": "리노베이션·재생",
+      "count": 12,
+      "previous_count": 5,
+      "trend": "rising",
+      "items": [
+        {
+          "title": "Mecanoo, 암스테르담의 네덜란드 중앙은행(De Nederlandsche Bank) 리노베이션을 통해 이전 금고를 '도시의 거실'로 탈바꿈시키다",
+          "url": "https://www.dezeen.com/2026/11/15/netherlands-central-bank-renovation-mecanoo/",
+          "image_url": "https://static-2026.dezeen.com/uploads/2026/11/mecanoo-de-nederlandsche-bank_dezeen_2364_sq_0-1024x1024.jpg",
+          "source_name": "Dezeen"
+        },
+        {
+          "title": "느낌과 즐거움",
+          "url": "https://leibal.com/interiors/feel-and-joy/",
+          "image_url": "https://leibal.com/wp-content/uploads/2026/11/leibal-feel-and-joy-water-team-design-25.jpg",
+          "source_name": "Leibal"
+        },
+        {
+          "title": "반더런 III-IV / P&P 아키텍츠 + 아틀리에 다르키텍처 A4",
+          "url": "https://www.archdaily.com/1186465/vandeuren-iii-iv-p-and-p-architectes",
+          "image_url": "https://images.adsttc.com/media/images/6ac6/104f/07c3/d100/017f/dbe9/large_jpg/7-Courtyard_block_interior__Nicolas_Da_Silva_Lucas_.jpg?1791365243",
+          "source_name": "ArchDaily"
+        },
+        {
+          "title": "미누-온 아파트 리노베이션 / CROSSARCHITECTURE / 메흐다드 마카레미",
+          "url": "https://www.archdaily.com/1187951/minou-on-apartment-renovation-crossarchitecture-mehrdad-makaremi",
+          "image_url": "https://images.adsttc.com/media/images/6ae8/8239/bcbc/3500/01ae/ae87/large_jpg/01.jpg?1793622689",
+          "source_name": "ArchDaily"
+        }
+      ]
+    },
     {
       "keyword": "목재 건축",
       "count": 12,
@@ -50,38 +82,6 @@
           "url": "https://www.dezeen.com/2026/11/12/brazil-tallest-timber-tower-crosslam-sao-paulo/",
           "image_url": "https://static-2026.dezeen.com/uploads/2026/11/crosslam-aurora-275-timber-apartment-building-brazil_dezeen_2364_sq-1024x1024.jpg",
           "source_name": "Dezeen"
-        }
-      ]
-    },
-    {
-      "keyword": "리노베이션·재생",
-      "count": 11,
-      "previous_count": 5,
-      "trend": "rising",
-      "items": [
-        {
-          "title": "느낌과 즐거움",
-          "url": "https://leibal.com/interiors/feel-and-joy/",
-          "image_url": "https://leibal.com/wp-content/uploads/2026/11/leibal-feel-and-joy-water-team-design-25.jpg",
-          "source_name": "Leibal"
-        },
-        {
-          "title": "반더런 III-IV / P&P 아키텍츠 + 아틀리에 다르키텍처 A4",
-          "url": "https://www.archdaily.com/1186465/vandeuren-iii-iv-p-and-p-architectes",
-          "image_url": "https://images.adsttc.com/media/images/6ac6/104f/07c3/d100/017f/dbe9/large_jpg/7-Courtyard_block_interior__Nicolas_Da_Silva_Lucas_.jpg?1791365243",
-          "source_name": "ArchDaily"
-        },
-        {
-          "title": "미누-온 아파트 리노베이션 / CROSSARCHITECTURE / 메흐다드 마카레미",
-          "url": "https://www.archdaily.com/1187951/minou-on-apartment-renovation-crossarchitecture-mehrdad-makaremi",
-          "image_url": "https://images.adsttc.com/media/images/6ae8/8239/bcbc/3500/01ae/ae87/large_jpg/01.jpg?1793622689",
-          "source_name": "ArchDaily"
-        },
-        {
-          "title": "본",
-          "url": "https://leibal.com/interiors/beaune/",
-          "image_url": "https://leibal.com/wp-content/uploads/2026/11/leibal_beaune_sara-skalli_02.jpg",
-          "source_name": "Leibal"
         }
       ]
     },
@@ -119,10 +119,16 @@
     },
     {
       "keyword": "미니멀리즘",
-      "count": 6,
+      "count": 7,
       "previous_count": 4,
       "trend": "rising",
       "items": [
+        {
+          "title": "OkiDoki 말차 바 / 도브로크나 라치치(Dobrochna Rajcic)",
+          "url": "https://www.archdaily.com/1188229/okidoki-matcha-bar",
+          "image_url": "https://images.adsttc.com/media/images/6af0/4983/4ba6/4700/01d0/7e4e/large_jpg/migdal_okidoki_6.jpg?1794132644",
+          "source_name": "ArchDaily"
+        },
         {
           "title": "Daichi Inc의 일본식 사우나는 \"사람들이 숲속에 녹아드는 듯한 느낌을 줍니다.\"",
           "url": "https://www.dezeen.com/2026/11/14/daichi-inc-silent-river-tree-sauna/",
@@ -139,12 +145,6 @@
           "title": "미니멀리즘, 인간미, 장인 정신 – 쿠마 켄고의 건축물을 사랑하기 쉬운 이유",
           "url": "https://www.wallpaper.com/architecture/kengo-kuma-guide",
           "image_url": "https://cdn.mos.cms.futurecdn.net/Uji8YgPQ3uZJz72FzX85GJ-1920-80.jpg",
-          "source_name": "Wallpaper*"
-        },
-        {
-          "title": "아만바리는 멕시코 바하칼리포르니아 해안의 사막 미니멀리즘을 연구한 결과물입니다.",
-          "url": "https://www.wallpaper.com/travel/hotels/amanvari-review",
-          "image_url": "https://cdn.mos.cms.futurecdn.net/33MXBvRPMf43EA335sBCFY-1920-80.jpg",
           "source_name": "Wallpaper*"
         }
       ]
