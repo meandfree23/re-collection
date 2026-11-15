@@ -3644,41 +3644,41 @@
  },
  "2026-11-15": {
   "date": "2026-11-15",
-  "headline": "마야의 돌담과 살아있는 나무 기둥, 비어가는 집의 골조",
-  "editorial": "멕시코 파르케 델 하구아르의 테코랄 돌담은 생태적 통로를 열어 재규어의 길을 잇는다. 다이치 사일런트 리버 트리 사우나는 나무를 구조체로 삼아 건축을 지형 위에 얹지 않고 숲과 하나가 된다. 반더런 III-IV 리노베이션은 세대수를 줄여 주거의 밀도를 낮추고 공용 시설을 비워 낸다. 이들은 모두 단단한 벽이나 구조를 고집하지 않고 주변과 섞이거나 비워지는 방식을 택한다.",
+  "headline": "투명한 비닐 막과 녹슨 철골 구조의 뼈대",
+  "editorial": "루네 보세의 인공 호흡하는 나무들은 투명한 비닐 막으로 나무를 감싸며 생태계의 취약성을 폭로한다. 청두의 버려진 공장이 빚어낸 비단의 결은 산업 유산에 새로운 직조의 리듬을 불어넣는다. 쿠알라룸푸르의 폐푸드코트는 남겨진 철골 구조를 잇는 피클볼 소셜 클럽으로 변모하며 유휴 공간의 잠재력을 드러낸다.",
   "threads": [
    {
-    "name": "자연을 품는 구조 방식",
-    "note": "인공 구조물을 주변 생태계나 자연과 결합하여 그 경계를 허물고 공존을 모색한다.",
+    "name": "버려진 건물의 뼈대",
+    "note": "방치된 공장과 폐푸드코트가 각각 직조 문화 공간과 스포츠 클럽으로 새롭게 거듭난다.",
     "items": [
      {
-      "title": "마야의 돌담을 빌려 재규어의 길을 잇다: 멕시코 파르케 델 하구아르",
-      "url": "https://www.dezeen.com/2026/11/14/parque-del-jaguar-colectivo-c733-tulum-mexico-ecological-park/"
+      "title": "청두의 버려진 공장이 빚어낸 비단의 결, 슈 문양직물 문화 박물관",
+      "url": "https://www.wallpaper.com/architecture/shu-brocade-culture-museum-archstudio-china"
      },
      {
-      "title": "숲을 박제하지 않는 건축, 다이치 사일런트 리버 트리 사우나",
-      "url": "https://www.dezeen.com/2026/11/14/daichi-inc-silent-river-tree-sauna/"
+      "title": "쿠알라룸푸르의 폐푸드코트, 철골 구조를 잇는 피클볼 소셜 클럽",
+      "url": "https://www.archdaily.com/1187878/hustlr-pickleball-and-social-club-cys-architect-sdn-bhd"
      }
     ]
    },
    {
-    "name": "공간의 밀도와 쓰임",
-    "note": "기존 주거의 물리적 기준을 바꾸거나 구조를 비워내어 공간의 새로운 가치를 찾는다.",
+    "name": "빛과 공기를 담는 막",
+    "note": "비닐 막과 폐기 양모 및 재생 종이가 빛을 들이고 생태적 통제를 시각화한다.",
     "items": [
      {
-      "title": "브뤼셀 사회주택의 골조 재구성: 반더런 III-IV 리노베이션",
-      "url": "https://www.archdaily.com/1186465/vandeuren-iii-iv-p-and-p-architectes"
+      "title": "생명 유지 장치에 갇힌 숲, 루네 보세의 인공 호흡하는 나무들",
+      "url": "https://www.designboom.com/art/rune-bosse-living-lung-trees-life-support-ecological-collapse/"
      },
      {
-      "title": "항저우의 덩굴 덮인 산업 유산, 시간의 결을 보존하는 여성복 매장",
-      "url": "https://leibal.com/interiors/feel-and-joy/"
+      "title": "멕시코 아루데코가 폐기 양모와 재생 종이로 직조한 반투명 소재 비안니",
+      "url": "https://www.dezeen.com/2026/11/14/arudeko-bianni-waste-wool-paper-material/"
      }
     ]
    }
   ],
-  "based_on": 9,
+  "based_on": 13,
   "v": 3,
-  "model": "gemini-3.1-flash-lite",
-  "written_at": "2026-11-15 01:17"
+  "model": "gemini-3.5-flash-lite",
+  "written_at": "2026-11-15 16:49"
  }
 }

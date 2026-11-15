@@ -315836,5 +315836,292 @@
   },
   "depth_raw": 3,
   "depth_v": 2
+ },
+ "archdaily.com/1187949/vanguard-house-ming-architects": {
+  "title_ko": "뱅가드 하우스: 수경 시설을 중심축으로 감춘 생활 공간의 정적",
+  "summary_ko": "싱가포르에 위치한 뱅가드 하우스(Vanguard House)는 500㎡ 규모의 주거 공간으로 프라이버시와 고요함을 최우선으로 설계했다. 밍 아키텍츠(Ming Architects)는 핵심부에 배치한 수경 시설을 중심으로 생활 공간을 은밀하게 배치하여 빛과 물이 어우러진 차분한 분위기를 구현했다.",
+  "lens": "중심부의 수경 시설을 기점으로 거주자의 동선을 숨기고 빛을 끌어들여 폐쇄적인 대지 조건을 정적인 안식처로 전환했다.",
+  "why_now": "도심 밀집 지역에서 외부 시선을 차단하면서도 내부의 개방감을 확보해야 하는 주거 설계의 난제를 물이라는 물리적 매개체로 해결했다.",
+  "mechanism": "내부 생활 공간을 외부로부터 은폐하고, 주택 중심에 수경 시설을 배치하여 빛이 물결에 반사되어 실내로 유입되도록 설계했다.",
+  "sensory": "물에 반사된 빛이 벽면을 타고 흐르며 공간 전체에 일렁이는 잔상을 만들고, 수경 시설에서 발생하는 미세한 물소리가 외부 소음을 상쇄한다.",
+  "transfer": "광고 영상 촬영 시, 인물의 동선을 수경 시설 너머로 배치하여 실루엣을 강조하고, 물에 반사된 빛을 조명 대신 활용해 공간의 깊이를 표현할 수 있다.",
+  "context": "밍 아키텍츠는 싱가포르를 기반으로 프라이버시와 자연 요소의 결합을 지속적으로 탐구하는 건축 사무소다. 본 프로젝트는 2025년 완공되어 스튜디오 페리페리(Studio Periphery)가 촬영을 담당했다.",
+  "findings": [],
+  "keywords": [
+   "싱가포르건축",
+   "수경시설",
+   "주거설계",
+   "프라이버시",
+   "밍아키텍츠"
+  ],
+  "evidence": "Vanguard House is a spacious residence with privacy and serenity at the forefront of its design. With concealed living spaces and the incorporation of water features at its core",
+  "kind": "프로젝트",
+  "depth": 2,
+  "grounding": "thin",
+  "depth_reason": "공간의 물리적 배치와 재료 활용에 대한 정보가 제한적이나, 수경 시설을 중심으로 한 공간 구성의 의도가 명확히 드러난다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1187949/vanguard-house-ming-architects",
+  "original_title": "Vanguard House / Ming Architects",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 1110,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-15 16:48",
+  "research": {
+   "entities": [
+    "Ming Architects",
+    "Tan Cher Ming",
+    "Studio Periphery"
+   ],
+   "questions": [
+    "Vanguard House의 설계에서 프라이버시와 평온함을 확보하기 위해 적용된 구체적인 공간 배치 전략은 무엇인가?",
+    "Ming Architects가 추구하는 건축 철학에서 물(water features)과 빛의 활용은 어떤 의미를 갖는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Transition from Ming to Qing",
+     "url": "https://en.wikipedia.org/wiki/Transition%20from%20Ming%20to%20Qing"
+    }
+   ],
+   "used": [],
+   "chars": 1400
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "dezeen.com/2026/11/15/kohler-gut-health-tracker-dekoda": {
+  "title_ko": "변기 가장자리에 안착하는 생체 지표 측정기, 데코다",
+  "summary_ko": "미국 욕실 브랜드 콜러의 벤처 기업 콜러 헬스가 변기 측면에 부착해 장 건강과 수분 상태를 추적하는 기기 데코다를 개발했다. 기기 하단에 탑재된 카메라와 분광학 센서가 배설물의 상태를 분석하며, 헬스 앱과 연동되어 데이터를 기록한다.",
+  "lens": "욕실 도구를 위생 공간의 연장선이 아닌 일상적 생체 데이터를 수집하는 소형 실험실로 치환한다.",
+  "why_now": "웨어러블 기기를 넘어 체액을 직접 분석하는 능동적 건강 관리 기술이 주거 공간 깊숙이 침투하고 있다.",
+  "mechanism": "플래튼 캡슐 형태의 폴리카보네이트 본체가 조절식 클램프로 변기 외부에 고정되며, 내장된 광학 센서와 분광학 기술이 대소변의 물리적 성분을 정밀하게 판독한다.",
+  "sensory": "광택이 도는 흰색 외관과 스테인리스 스틸 기계 부품이 매끄럽고 차가운 실험실의 물성을 욕실이라는 사적 공간에 투사한다.",
+  "transfer": "정밀 기기가 일상적 사물에 은밀하게 결합하는 미장센을 연출할 때, 광택 소재의 소형 캡슐이 지닌 기계적 이질감을 시각적 단서로 활용한다.",
+  "context": "미국 위스콘신주에 기반을 둔 콜러는 오랜 세월 욕실 설비 제조를 주력으로 삼아왔으나 최근 스마트 기술과 헬스케어 영역으로 포트폴리오를 공격적으로 확장하고 있다.",
+  "findings": [],
+  "keywords": [
+   "콜러",
+   "데코다",
+   "스마트욕실",
+   "헬스케어"
+  ],
+  "evidence": "American bathroom brand Kohler has created Dekoda, a health tracker specifically for the toilet, through its spin-off venture, Kohler Health.",
+  "kind": "제품·오브제",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "욕실 가구와 헬스케어 기술의 결합을 보여주는 구체적인 제품이지만 새로운 디자인 패러다임보다는 기능적 확장 수준에 머문다.",
+  "v": 2,
+  "url": "https://www.dezeen.com/2026/11/15/kohler-gut-health-tracker-dekoda/",
+  "original_title": "Kohler's gut-health tracker clips onto the toilet bowl",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 4281,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-15 16:48",
+  "research": {
+   "entities": [
+    "Kohler",
+    "Kohler Health",
+    "Dekoda",
+    "Nora Tophof"
+   ],
+   "questions": [
+    "Dekoda가 분광학 기술을 활용해 대변과 소변의 성분을 분석하는 구체적인 원리는 무엇인가요?",
+    "가정용 화장실 기반 건강 추적기가 개인정보 보호와 데이터 보안 문제를 해결하기 위해 어떤 기술적 조치를 취하고 있나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Kohler Co.",
+     "url": "https://en.wikipedia.org/wiki/Kohler%20Co."
+    },
+    {
+     "n": 2,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "맥기 앤 코의 오프라인 안착, 디지털 경험을 물리적 공간으로 옮기는 법",
+     "url": "https://www.architecturaldigest.com/story/shea-mcgees-retail-empire-is-just-getting-started"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "유토피아가 남긴 비관과 키치: 1925-1985의 주거 미래주의",
+     "url": "https://www.wallpaper.com/art/lacma-home-of-the-future-1925-1985-book-review"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "에어린 로더와 콜러가 재해석한 17세기 네덜란드 타일의 식물적 문양",
+     "url": "https://www.architecturaldigest.com/story/aerin-lauder-teams-up-with-kohler-to-add-dutch-florals-to-powder-room-classics"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 1765
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "wallpaper.com/watches-jewellery/from-the-dancefloor-how-disco-era-jewels-became-design-evergreens": {
+  "title_ko": "댄스플로어의 잔상, 1970년대 하이주얼리가 남긴 디자인의 골격",
+  "summary_ko": "1970년대 뉴욕 디스코 씬은 카르티에, 불가리, 티파니 등 하이주얼리 하우스의 미학을 재편했다. 당시 디자이너들은 클럽의 조명과 밤의 에너지를 반영해 대담한 석재와 유연한 금속 체인을 선보였고, 이는 오늘날까지 이어지는 브랜드의 핵심 유산이 되었다. 각 메종은 당시의 자유로운 정신을 현대적인 공법과 결합해 새로운 컬렉션으로 재해석하고 있다.",
+  "lens": "클럽의 미러볼 아래에서 탄생한 주얼리는 단순한 장신구를 넘어, 신체와 공간의 빛을 반사하고 굴절시키는 역동적인 기계적 장치였다.",
+  "why_now": "디지털 피로도가 높은 시대에, 1970년대의 거칠고도 명확한 물성을 복원하려는 시도는 디자인의 본질인 '개별성과 신체적 자유'를 다시 환기한다.",
+  "mechanism": "반 클리프 아펠의 오프워크(openwork) 공법처럼 빛의 투과율을 극대화하는 구조를 설계하고, 금속의 무게감을 유연한 체인과 매듭 모티프로 치환하여 신체 움직임에 반응하게 한다.",
+  "sensory": "피부 위에서 차갑게 산란하는 금속의 광택과, 신체가 움직일 때마다 찰랑거리며 공간의 조명을 굴절시키는 금속의 물리적 무게감이 공존한다.",
+  "transfer": "콘티 연출 시, 광원을 직접 비추기보다 금속 오브제에 반사된 빛이 벽면과 인물 위로 일렁이게 하는 '간접 굴절' 조명을 배치하여 1970년대의 밤을 재현한다.",
+  "context": "레나토 치풀로는 1972년부터 뉴욕과 이탈리아를 오가며 18K 골드 주얼리를 제작해왔다. 엘사 퍼티는 1974년 티파니 데뷔 이후 본 커프(Bone Cuff)와 같은 유기적 형태의 디자인으로 하이주얼리의 범주를 넓혔다. 카르티에와 불가리는 각각 러브 브레이슬릿과 세르펜티 모티프를 통해 시대의 아이콘을 구축했다.",
+  "findings": [
+   {
+    "text": "레나토 치풀로는 1972년부터 뉴욕과 이탈리아를 기반으로 18K 골드 주얼리를 제작하는 브랜드를 운영하고 있다.",
+    "s": 1,
+    "quote": "Proudly made in New York and Italy since 1972, we are a heritage brand handcrafting 18K gold statements inspired by everything from the glamour of ‘70s era New York to Italy’s rich history."
+   },
+   {
+    "text": "엘사 퍼티의 디자인은 대중적인 인기를 얻으며 티파니 매출의 10%를 차지할 정도로 성장했다.",
+    "s": 3,
+    "quote": "Her broadly popular work, including pieces like Bean, Bone Cuff and Open Heart, became as much as 10% of Tiffany's business"
+   }
+  ],
+  "keywords": [
+   "하이주얼리",
+   "디스코미학",
+   "물성",
+   "골드체인",
+   "빛의굴절"
+  ],
+  "evidence": "To allow the diamonds’ brilliance maximum impact, Van Cleef & Arpels artisans here used openwork construction.",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "당대 클럽 문화가 하이주얼리의 구조적 변화에 끼친 영향을 구체적인 메종의 사례와 제작 기법으로 상세히 분석했다.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/watches-jewellery/from-the-dancefloor-how-disco-era-jewels-became-design-evergreens",
+  "original_title": "From the dancefloor: how disco era jewels became design evergreens",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 4598,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-15 16:48",
+  "research": {
+   "entities": [
+    "Cartier",
+    "Bvlgari",
+    "Elsa Peretti",
+    "Pomellato",
+    "Chaumet"
+   ],
+   "questions": [
+    "1970년대 뉴욕 디스코 문화와 클럽 씬은 당시 하이주얼리 디자인의 형태와 미학에 구체적으로 어떤 영향을 미쳤는가?",
+    "엘사 퍼티나 레나토 치풀로 같은 당대 디자이너들의 작품이 오늘날까지 모던한 클래식으로 살아남아 현대 컬렉션에 영감을 주는 이유는 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Renato Cipullo",
+     "url": "https://renatocipullo.com/"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Bulgari",
+     "url": "https://en.wikipedia.org/wiki/Bulgari"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Elsa Peretti",
+     "url": "https://en.wikipedia.org/wiki/Elsa%20Peretti"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "뉴욕 하이라인을 점유한 불가리의 거대한 공기 조형물, 아우로보로스",
+     "url": "https://design-milk.com/bvlgari-auruboros-high-line-new-york/"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "내부를 드러내는 투명 미학, 전자 기기의 복고적 귀환",
+     "url": "https://design-milk.com/transparent-tech-gadgets-retro-design/"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "캐롤린 루가버: 자연의 유기적 형태를 건축적 조형으로 번역하다",
+     "url": "https://www.ignant.com/2026/06/25/the-art-of-flowers-in-conversation-with-carolin-ruggaber/"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "chars": 4258
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "wallpaper.com/architecture/shu-brocade-culture-museum-archstudio-china": {
+  "title_ko": "청두의 버려진 공장이 빚어낸 비단의 결, 슈 문양직물 문화 박물관",
+  "summary_ko": "중국 청두 반차오 마을의 폐공장을 아르크스튜디오(ARCHSTUDIO)가 슈 문양직물 문화 박물관으로 재생했다. 기존 벽돌 구조의 뼈대를 유지하면서 직조기의 형태를 차용한 강철 지붕과 비단의 주름을 형상화한 파사드를 결합해 산업 유산에 새로운 시간의 층위를 더했다.",
+  "lens": "기계적 직조 과정의 리듬을 건축적 파동으로 치환하여, 딱딱한 산업 유산에 비단의 유연한 물성을 입혔다.",
+  "why_now": "산업 유산을 박제하는 것을 넘어, 지역의 무형 유산인 직조 기술을 공간의 조형 언어로 번역하여 지속 가능한 재생 모델을 제시한다.",
+  "mechanism": "기존의 직교하는 벽돌 벽체 위에 직조기 구조를 암시하는 강철 보를 얹고, 파사드와 내부 표면에 비단 주름을 연상시키는 비정형 곡선을 적용해 공간의 동적인 균형을 맞췄다.",
+  "sensory": "테라조 바닥에 재활용 벽돌 조각을 섞어 직물의 복잡한 패턴을 바닥에 구현했고, 염색에 사용되는 식물들로 채워진 정원을 통해 시각과 후각의 연결을 꾀했다.",
+  "transfer": "공간의 역사적 흔적을 유지하면서도 특정 공예의 질감을 재료의 물성으로 치환하고 싶다면, 파사드에 타공 벽돌을 배치하여 빛이 직물처럼 부드럽게 투과하도록 설계하라.",
+  "context": "한원창(Han Wenqiang)이 이끄는 아르크스튜디오는 기존 산업 구조물을 보존하고 그 위에 새로운 기능을 얹는 재생 건축에 주력한다. 이는 단순한 리노베이션을 넘어, 개별 건축 요소를 하나의 일관된 조형 언어로 묶어내는 이들의 설계 철학을 보여준다.",
+  "findings": [],
+  "keywords": [
+   "산업유산재생",
+   "아르크스튜디오",
+   "슈문양직물",
+   "물성건축",
+   "공간서사"
+  ],
+  "evidence": "The architecture studio behind the new building, ARCHSTUDIO, is a local practice led by Han Wenqiang. It worked on transforming an existing structure – a disused agricultural machinery factory – into a 21st-century destination.",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "산업 유산의 골조를 보존하면서 직조기라는 도구의 형태를 건축 구조로 치환한 논리가 명확하고 구체적이다.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/architecture/shu-brocade-culture-museum-archstudio-china",
+  "original_title": "China's famed 'City of Brocade' gets an undulating new icon",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 3526,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-15 16:49",
+  "research": {
+   "entities": [
+    "Shu Brocade Culture Museum",
+    "ARCHSTUDIO",
+    "Han Wenqiang",
+    "Shu brocade"
+   ],
+   "questions": [
+    "촉금(Shu brocade)은 어떤 역사적 배경과 기술적 특징을 가진 직물인가요?",
+    "ARCHSTUDIO는 버려진 산업 시설을 문화 공간으로 재생할 때 어떤 건축적 전략을 주로 사용하나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "아르메 레지던스: 입구부터 실내까지 관통하는 단일 건축 언어의 힘",
+     "url": "https://www.archdaily.com/1186087/arme-residence-studio-s-plus-ao"
+    }
+   ],
+   "used": [],
+   "chars": 268
+  },
+  "depth_raw": 4,
+  "depth_v": 2
  }
 }
