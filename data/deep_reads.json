@@ -332369,5 +332369,1480 @@
   },
   "depth_raw": 5,
   "depth_v": 2
+ },
+ "archdaily.com/1035163/baw-beese-house-disbrow-iannuzzi": {
+  "title_ko": "바 비스 하우스: 호숫가에서 구현한 다세대 거주를 위한 유연한 공간 위계",
+  "summary_ko": "미시간주 힐스데일에 위치한 바 비스 하우스는 여러 세대가 함께 머무는 휴양지다. 디스브로우 이아누찌는 세 개의 독립적인 생활 영역을 설계하여, 가족 구성원의 방문 형태에 따라 공간을 개별적으로 운영하거나 통합할 수 있도록 구성했다. 이는 사회적, 경제적, 건강적 조건을 고려한 다세대 거주 모델이다.",
+  "lens": "독립된 세 개의 단위 공간을 가변적으로 연결해, 가족의 유대와 개인의 자율성을 동시에 확보하는 공간적 시나리오를 제시한다.",
+  "why_now": "가족 구성원의 생애 주기와 방문 인원에 따라 공간의 밀도를 조절해야 하는 다세대 휴양지 수요가 늘고 있다.",
+  "mechanism": "독립된 세 개의 생활 영역으로 공간을 구획하여, 거주 인원에 따라 공간을 폐쇄하거나 개방하는 방식으로 운영 효율을 높인다.",
+  "sensory": "나카모토 포레스트리의 목재를 사용한 외관은 호숫가의 자연 환경과 어우러지며, 계절에 따라 변화하는 빛을 내부로 투과시킨다.",
+  "transfer": "공간을 고정하지 않고 가변적인 영역으로 나누어, 촬영 시 인원 변화에 따라 공간의 규모를 물리적으로 확장하거나 축소하는 콘티에 적용한다.",
+  "context": "디스브로우 이아누찌는 미시간을 기반으로 주거, 적응형 재사용, 접객 시설을 설계하며 내구성과 사유를 강조한다. 지라프 디자인 빌드와 협업하여 지역 맥락을 반영한 프로젝트를 수행해 왔다.",
+  "findings": [
+   {
+    "text": "디스브로우 이아누찌는 주거, 적응형 재사용, 스포츠, 접객 시설을 아우르는 설계를 수행한다.",
+    "s": 1,
+    "quote": "Our work spans residential, adaptive reuse, sports, and hospitality—blending architecture, interior design, and design-build to create spaces that are thoughtful and enduring."
+   }
+  ],
+  "keywords": [
+   "다세대주택",
+   "호숫가건축",
+   "가변적평면",
+   "미시간건축"
+  ],
+  "evidence": "The lake house comprises three distinct living areas, which can operate independently or together as a whole",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "다세대 거주를 위한 유연한 공간 분리 전략을 제시했으나, 상세한 평면도나 구체적인 가변 장치에 대한 정보가 부족하다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1035163/baw-beese-house-disbrow-iannuzzi",
+  "original_title": "Baw Beese House / Disbrow Iannuzzi",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 1507,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-17 03:28",
+  "research": {
+   "entities": [
+    "Disbrow Iannuzzi",
+    "David Iannuzzi",
+    "Giraffe Design Build"
+   ],
+   "questions": [
+    "Baw Beese House가 다세대 가족의 독립적이고 통합적인 생활을 위해 공간을 어떻게 분리하고 연결했는가?",
+    "이 프로젝트가 Hillsdale 지역의 환경적, 사회적 맥락에 대응하기 위해 적용한 건축적 전략은 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Disbrow Iannuzzi Architects | Modern Michigan Architecture Firm",
+     "url": "https://www.di.studio/?utm_medium=website&utm_source=archdaily.com"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Home | Giraffe Design Build",
+     "url": "https://www.giraffedesignbuild.com/?utm_medium=website&utm_source=archdaily.com"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 693
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "archdaily.com/1188462/from-source-to-site-how-recovered-and-engineered-materials-shape-design": {
+  "title_ko": "설계의 시작을 재료에 두다: 회수와 가공이 빚어내는 건축의 물성",
+  "summary_ko": "건축 설계는 통상 사양 결정에서 시작하지만, 회수된 부재나 가공된 현지 자재를 먼저 확보하면 설계 프로세스 자체가 달라진다. 코시시(Koshish)의 주택은 폐기된 타일과 강철을 재사용해 공간의 레이어를 구성했고, RAD+ar의 자카르타 프로젝트는 폐플라스틱을 격자 판으로 재가공해 차양막을 구축했다. 케이브 어반(Cave Urban)은 플로레스의 대나무를 발리에서 집성재로 가공해 전통 발리 회의 공간인 발레 반자르(Bale Banjar)를 현대적으로 재해석했다.",
+  "lens": "재료의 수급과 상태가 설계의 첫 번째 조건이 될 때, 건축은 사양 중심의 조립이 아닌 현장의 상황을 번역하는 유기적 과정으로 변모한다.",
+  "why_now": "탄소 배출 저감이 건축의 필수 과제가 된 시점에서, 재료의 생애 주기와 공급망을 설계 초기 단계부터 추적하고 개입하는 방식이 중요해졌다.",
+  "mechanism": "회수된 부재의 수량과 상태를 파악해 공간의 배치를 결정하거나, 폐기물을 일정한 규격의 모듈로 재가공하여 반복적인 패턴의 파사드를 형성한다.",
+  "sensory": "불규칙한 재사용 타일의 질감, 재활용 플라스틱 격자가 만드는 그림자의 패턴, 그리고 집성 대나무가 그리는 8.5미터 높이의 곡선형 지붕이 공간의 스케일을 압도한다.",
+  "transfer": "재료의 수급 현황을 콘티의 핵심 변수로 설정하라. 재사용 부재의 비정형성을 활용해 공간의 밀도를 조절하거나, 폐기물을 특정 조명 아래 반복 배치하여 빛을 필터링하는 파사드 연출을 시도할 것.",
+  "context": "케이브 어반은 레곰방 트리하우스에서 기존 나무를 구조체로 편입하며 자연과의 경계를 지웠고, 이번 프로젝트에서는 대나무 집성재를 통해 구조적 공학을 결합했다. RAD+ar는 미테 사선 정원 등에서 기후와 조경을 건축의 일부로 통합하는 작업을 지속해왔다. 본 프로젝트들은 바우하우스 어스(Bauhaus Earth)의 리빌트(ReBuilt) 이니셔티브와 같은 재생 건축 연구의 연장선에 있다.",
+  "findings": [
+   {
+    "text": "발레바이오(BaleBio)는 바우하우스 어스의 리빌트 이니셔티브의 일환으로 설계된 84제곱미터 규모의 파빌리온이다.",
+    "s": 1,
+    "quote": "It was developed as part of Bauhaus Earth's ReBuilt initiative which explores the concept of a regenerative built environment through four case studies in Berlin-Brandenburg (Germany), Cape Town (South Africa), Denpasar-"
+   },
+   {
+    "text": "발레바이오는 인도네시아에서 구조용 집성 대나무를 사용한 최초의 건축물이다.",
+    "s": 2,
+    "quote": "The pavilion is the first building in Bali to use structural laminated bamboo, and that was the problem: nobody could say what the material’s carbon actually was, because the emission data for Indonesian bamboo did not e"
+   },
+   {
+    "text": "에코-만트라(Eco-Mantra)의 전 생애 주기 평가 결과, 발레바이오는 기존 건축물 대비 A단계 탄소 배출량을 110% 저감했다.",
+    "s": 3,
+    "quote": "Eco-Mantra conducted the life cycle assessment for the pavilion, covering cradle-to-gate (Stage A) emissions: extraction, production, transport and assembly."
+   }
+  ],
+  "keywords": [
+   "재생 건축",
+   "재료 공학",
+   "공급망 설계",
+   "대나무 집성재",
+   "탄소 저감"
+  ],
+  "evidence": "What changes when the design process begins with a material that has already been recovered, produced or made available?",
+  "kind": "프로젝트",
+  "depth": 5,
+  "grounding": "full",
+  "depth_reason": "재료 수급이 설계 프로세스를 어떻게 근본적으로 재편하는지 실제 사례와 탄소 평가 데이터로 구체적으로 증명했다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1188462/from-source-to-site-how-recovered-and-engineered-materials-shape-design",
+  "original_title": "From Source to Site: How Recovered and Engineered Materials Shape Design",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 9000,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-17 03:28",
+  "research": {
+   "entities": [
+    "Cave Urban",
+    "Koshish",
+    "RAD+ar",
+    "BaleBio",
+    "Koshish House"
+   ],
+   "questions": [
+    "재사용 건축 자재의 수급 불확실성이 설계 프로세스와 시공 순서에 구체적으로 어떤 제약을 가하는가?",
+    "폐기물을 재활용하여 건축 부재로 가공할 때, 표준화된 품질과 규격을 확보하기 위해 필요한 기술적 공정은 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "BaleBio, Bali — Cave Urban",
+     "url": "https://www.caveurban.com/balebio-bali?utm_medium=website&utm_source=archdaily.com"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Bale Bio: Laminated Bamboo Building in Bali | Eco-Mantra",
+     "url": "https://eco-mantra.com/portfolio-item/bale-bio/?utm_medium=website&utm_source=archdaily.com"
+    },
+    {
+     "n": 3,
+     "type": "공식·1차",
+     "title": "Bamboo LCA Case Study: Bale Bio Pavilion, Bali | Eco-Mantra",
+     "url": "https://eco-mantra.com/blog/bale-bio-bamboo-pavilion-lca/?utm_medium=website&utm_source=archdaily.com"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "자카르타의 초밀도 속 인간 규모를 복원하는 미테 사선 정원",
+     "url": "https://www.archdaily.com/1186064/mitte-oblique-garden-rad-plus-ar-research-artistic-design-plus-architecture"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "발리의 나무를 엮어 만든 집, 레곰방 트리하우스",
+     "url": "https://www.archdaily.com/1186813/legombang-treehouse-cave-urban"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "chars": 8265
+  },
+  "depth_raw": 5,
+  "depth_v": 2
+ },
+ "hyperallergic.com/tate-turns-julio-le-parc-into-instagram-art": {
+  "title_ko": "훌리오 레 파르크: 미술관의 위계를 흔드는 키네틱 게임",
+  "summary_ko": "테이트 모던에서 열리는 훌리오 레 파르크의 회고전은 1960년대 파리에서 그가 시도한 ‘게임 룸’을 재현한다. 관람객은 스프링 의자나 회전하는 패턴 디스크 등 물리적 장치에 직접 개입하며 수동적인 감상자에서 능동적인 주체로 전환된다. 이는 당시 미술관의 권위적 구조를 해체하려던 작가의 정치적 의도를 담고 있다.",
+  "lens": "미술관을 유희의 장으로 전유해 관람객의 신체적 개입을 유도하고, 권위적인 공간의 위계를 물리적으로 무너뜨린다.",
+  "why_now": "몰입형 전시가 범람하는 시대에, 단순 시각적 자극을 넘어 관객의 행동을 직접 설계해 사회적 각성을 끌어내려던 초기 키네틱 아트의 원형을 재조명한다.",
+  "mechanism": "스프링 의자, 불균일한 타일 바닥, 회전하는 디스크와 같은 물리적 장치를 통해 관람객의 신체 균형을 의도적으로 불안정하게 만들고 참여를 강제한다.",
+  "sensory": "거울 표면과 빛이 반사되는 굴절된 칼날, 진동하는 금속의 질감이 공간 전체를 역동적인 빛의 파동으로 채운다.",
+  "transfer": "공간 연출 시 관람객의 동선을 의도적으로 굴곡지게 설계하거나, 바닥의 높낮이 변화를 주어 특정 지점에서 발걸음을 멈추거나 서두르게 만드는 신체적 제어 장치를 도입한다.",
+  "context": "훌리오 레 파르크는 시각 예술 연구 그룹(GRAV)의 창립 멤버로서, 예술가의 개별성을 익명화하고 관객 참여형 미로를 통해 집단적 경험을 강조했다. 테이트 모던은 이스트 탱크를 활용한 노라 치파우미레의 설치전이나 에스 데블린의 아카이브 전시처럼, 공간의 물리적 성격을 관객의 신체적 반응과 결합하는 기획을 지속해왔다.",
+  "findings": [
+   {
+    "text": "시각 예술 연구 그룹(GRAV)은 1963년 파리 비엔날레에서 첫 번째 미로를 선보이며 관객의 직접적인 참여를 유도했다.",
+    "s": 3,
+    "quote": "In their first Labyrinth, held in 1963 at the Paris Biennale, they presented three years work based on optical and kinetic devices."
+   },
+   {
+    "text": "훌리오 레 파르크는 1928년 아르헨티나에서 태어나 1958년 프랑스로 이주한 뒤 키네틱 아트와 옵 아트의 주요 인물로 활동했다.",
+    "s": 2,
+    "quote": "Julio Le Parc (23 September 1928 – 30 May 2026) was an Argentine-born artist who focused on both modern op art and kinetic art."
+   }
+  ],
+  "keywords": [
+   "키네틱 아트",
+   "게임 룸",
+   "공간 위계",
+   "관객 참여",
+   "훌리오 레 파르크"
+  ],
+  "evidence": "These were collections of works that aimed to playfully destabilize the viewer’s experience",
+  "kind": "전시",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "작가의 정치적 의도와 물리적 장치 간의 상관관계를 명확히 짚어내고, 이를 현대 공간 연출의 관점에서 구체적으로 해석했다.",
+  "v": 2,
+  "url": "https://hyperallergic.com/tate-turns-julio-le-parc-into-instagram-art/",
+  "original_title": "Tate Turns Julio Le Parc Into Instagram Art",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 2381,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-17 03:28",
+  "research": {
+   "entities": [
+    "Julio Le Parc",
+    "Groupe de Recherche d’Art Visuel",
+    "Tate Modern"
+   ],
+   "questions": [
+    "줄리오 르 파르크가 추구했던 '관객의 능동적 참여'가 1960년대 당시의 정치적 상황과 어떤 연관이 있었나요?",
+    "현대 미술관의 몰입형 전시 트렌드와 줄리오 르 파르크의 초기 '게임 룸' 작업이 갖는 예술적 차이점은 무엇인가요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Julio Le Parc | Tate Modern",
+     "url": "https://www.tate.org.uk/whats-on/tate-modern/julio-le-parc?ref=hyperallergic.com"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Julio Le Parc",
+     "url": "https://en.wikipedia.org/wiki/Julio%20Le%20Parc"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Groupe de Recherche d'Art Visuel",
+     "url": "https://en.wikipedia.org/wiki/Groupe%20de%20Recherche%20d%27Art%20Visuel"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "헨리 웨셀, 운전석에서 포착한 캘리포니아의 우연한 질감",
+     "url": "https://www.thisiscolossal.com/2026/09/henry-wessel-grolier-club-photography-california/"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "테이트 모던의 콘크리트 지하를 짐바브웨의 신성한 바위산으로 바꾼 노라 치파우미레",
+     "url": "https://elephant.art/nora-chipaumires-gadzi-amplifies-the-sacred/"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "에스 데블린의 30년, 스튜디오에서 라이브러리까지 이어지는 창작의 궤적",
+     "url": "https://www.wallpaper.com/design-interiors/design-events/es-devlin-design-museum-london"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3,
+    5,
+    6
+   ],
+   "chars": 5178
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "archdaily.com/1188676/verra-mvrdv": {
+  "title_ko": "보스턴 엔터프라이즈 리서치 캠퍼스의 중심, 엠브이알디브이(MVRDV)의 베라",
+  "summary_ko": "엠브이알디브이(MVRDV)가 보스턴 엔터프라이즈 리서치 캠퍼스(ERC)에 343세대 규모의 주거 단지 베라(Verra)를 완공했다. 이 건물은 연구소, 회의 시설, 호텔이 밀집한 구역에서 1층 상업 공간을 통해 공공 공원인 올스턴웨이(Allstonway)와 유기적으로 연결된다. 녹색 파사드와 다수의 코너 창문을 적용해 거주자에게 개방감 있는 조망과 쾌적한 주거 환경을 제공한다.",
+  "lens": "연구 단지라는 척박한 기능적 공간에 1층의 상업적 밀도와 코너 창의 시각적 확장성을 더해 공공성을 확보한 주거 모델이다.",
+  "why_now": "과학과 혁신을 위한 연구 단지가 단순한 업무 공간을 넘어, 지역 커뮤니티와 결합된 복합적인 거주지로 진화하는 흐름을 보여준다.",
+  "mechanism": "1층을 지역 상점과 카페로 구성해 공원과 맞닿은 보행 동선을 유도하고, 건물의 모서리를 활용한 창문 배치로 내부 거주자의 시선을 외부 캠퍼스로 확장한다.",
+  "sensory": "건물 외벽을 감싸는 녹색 식재와 1층에 사용된 현지 생산 목재의 질감이 금속과 유리 위주의 연구 단지 사이에서 촉각적인 대조를 이룬다.",
+  "transfer": "공간 설계 시 건물의 모서리마다 창을 배치해 조망을 극대화하고, 저층부 외장재를 지역 특산 목재로 마감해 보행자의 시선 높이에서 따뜻한 물성을 전달하는 방식을 적용한다.",
+  "context": "엠브이알디브이는 네덜란드 로테르담을 기반으로 활동하는 건축 사무소로, 윈 마스(Winy Maas), 야코프 판 레이스(Jacob van Rijs), 나탈리 드 브리스(Nathalie de Vries)가 공동 설립했다. 본 프로젝트의 조경을 맡은 스케이프(SCAPE)는 자연의 생태적 맥락을 도시 건축에 결합하는 작업을 지속해왔다.",
+  "findings": [
+   {
+    "text": "엠브이알디브이는 1993년 윈 마스, 야코프 판 레이스, 나탈리 드 브리스가 설립한 네덜란드 로테르담 기반의 건축 및 도시 설계 사무소이다.",
+    "s": 1,
+    "quote": "MVRDV is a Rotterdam, Netherlands-based architecture and urban design practice founded in 1993 by Winy Maas, Jacob van Rijs and Nathalie de Vries"
+   }
+  ],
+  "keywords": [
+   "엠브이알디브이",
+   "보스턴",
+   "주거단지",
+   "코너창",
+   "공공성"
+  ],
+  "evidence": "Verra's ground floor layer of locally owned shops, cafés, and restaurants help to integrate it into Allstonway",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "대규모 주거 단지의 공공적 배치 전략은 명확하나, 건축적 디테일이나 새로운 재료의 실험보다는 보편적인 도시 통합 모델에 가깝다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1188676/verra-mvrdv",
+  "original_title": "Verra / MVRDV",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 2182,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-17 03:28",
+  "research": {
+   "entities": [
+    "MVRDV",
+    "Tishman Speyer",
+    "Harvard University",
+    "SCAPE",
+    "Verra"
+   ],
+   "questions": [
+    "보스턴의 Enterprise Research Campus(ERC)는 어떤 목적으로 조성된 지역이며, Verra는 그 안에서 어떤 역할을 수행하나요?",
+    "MVRDV가 설계한 Verra의 건축적 특징인 '녹색 파사드'와 '코너 창문'은 거주자의 삶의 질과 지속가능성에 어떤 영향을 미치나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "MVRDV",
+     "url": "https://en.wikipedia.org/wiki/MVRDV"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Tishman Speyer",
+     "url": "https://en.wikipedia.org/wiki/Tishman%20Speyer"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "일본 하야마의 풍경을 직조하다, 카사 카반 하야마",
+     "url": "https://www.wallpaper.com/travel/hotels/casa-caban-hayama-review"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "사라 리, 통제할 수 없는 자연의 기이한 풍경을 그리다",
+     "url": "https://www.thisiscolossal.com/2026/09/sarah-lee-deeper-landscapes-oil-paintings/"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "빅(BIG)이 설계한 마콘도 파크, 가변적 건축으로 재현한 문학적 풍경",
+     "url": "https://www.archdaily.com/1185625/bigs-macondo-park-opens-as-a-temporary-cultural-landscape-for-shakiras-madrid-residency"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 1682
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "dezeen.com/2026/11/16/white-house-ballroom-topping-out": {
+  "title_ko": "백악관 이스트 윙의 해체와 거대 연회장, 권력의 기념비적 물리성",
+  "summary_ko": "도널드 트럼프 대통령이 추진하는 백악관 이스트 윙 현대화 프로젝트의 일환으로 9만 제곱피트 규모의 연회장과 군사 벙커가 건설 중이다. 기존 이스트 윙을 철거하고 들어서는 이 구조물은 거대한 콘크리트 전단벽과 강철 빔으로 구성되었으며, 역사적 맥락을 배제한 압도적 규모로 인해 보존 단체와 정치권의 비판을 받고 있다.",
+  "lens": "권력의 과시를 위해 역사적 랜드마크를 해체하고 그 자리에 들어선 거대한 물리적 골조는 공간이 어떻게 정치적 욕망의 그릇이 되는지를 적나라하게 보여준다.",
+  "why_now": "국가적 상징 공간의 원형을 파괴하고 그 위에 사적인 취향을 투영한 거대 구조물을 얹는 행위는 건축이 정치적 갈등의 최전선임을 증명한다.",
+  "mechanism": "기존의 신고전주의적 맥락을 거부하고 거대한 콘크리트 전단벽과 강철 빔을 노출하는 구조적 방식을 택했으며, 군사 벙커라는 안보적 명분을 앞세워 법적 제동을 우회한다.",
+  "sensory": "압도적인 스케일의 철골과 콘크리트가 주는 차갑고 육중한 질감이 백악관의 기존 석조 건축과 대비되며, 장식 없는 노출 구조가 만들어내는 기괴한 비례감이 지배적이다.",
+  "transfer": "정치적 권력이나 거대 자본이 공간을 장악할 때 발생하는 이질감을 연출하려면, 기존의 맥락을 완전히 지운 노출된 골조와 과도하게 큰 스케일의 대비를 활용하라.",
+  "context": "트럼프 행정부는 2025년 10월 이스트 윙을 철거하며 프로젝트를 시작했으나, 내셔널 트러스트 포 히스토릭 프로저베이션의 소송 등 법적 난관에 부딪혔다. 그럼에도 대법원은 안보 시설이라는 점을 들어 공사 지속을 허용했다. 이는 과거 케네디 센터 철거 논란 등 정치적 갈등이 건축 보존과 충돌하는 워싱턴 DC의 반복되는 풍경과 궤를 같이한다.",
+  "findings": [
+   {
+    "text": "미 연방법원 판사 리처드 레온은 지상 구조물 공사 중단을 명령했으나, 대법원은 안보 시설 건설을 이유로 이를 유예했다.",
+    "s": 2,
+    "quote": "Senior U.S. District Judge Richard Leon had issued an order, slated to go into effect at the end of the day, that would have stopped above-ground work on the project. But Chief Justice John Roberts issued a temporary ord"
+   },
+   {
+    "text": "해당 연회장은 약 9만 제곱피트 규모로 축구장 1.5배에 달하며, 250명의 인력이 주 7일 20시간씩 투입되고 있다.",
+    "s": 2,
+    "quote": "a new 90,000-square-foot White House ballroom... there was a 250-person crew working 20 hours a day, 7 days a week to keep the Project ahead of schedule and under budget"
+   }
+  ],
+  "keywords": [
+   "백악관",
+   "건축적갈등",
+   "이스트윙",
+   "권력의공간",
+   "기념비적건축"
+  ],
+  "evidence": "It says everything about Donald Trump that his gilded ballroom dwarfs the size of the People's House",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "정치적 갈등과 건축적 보존의 충돌을 구체적인 공사 규모와 법적 근거를 통해 입체적으로 분석했다.",
+  "v": 2,
+  "url": "https://www.dezeen.com/2026/11/16/white-house-ballroom-topping-out/",
+  "original_title": "Photos reveal scale of Trump’s White House ballroom, drawing criticism",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 4337,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-17 03:28",
+  "research": {
+   "entities": [
+    "Donald Trump",
+    "White House",
+    "National Capital Planning Commission",
+    "National Trust for Historic Preservation",
+    "Kate Wagner"
+   ],
+   "questions": [
+    "East Wing Modernization Project가 백악관의 기존 건축적 맥락과 역사적 보존 가치에 미치는 영향은 무엇인가?",
+    "이 프로젝트가 법적 논란에도 불구하고 국가 안보를 이유로 어떻게 건설을 지속할 수 있었는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Trump brags about the White House ballroom in his first post-election appearance",
+     "url": "https://www.nbcnews.com/politics/donald-trump/trump-election-white-house-ballroom-iran-rcna607487"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Supreme Court allows White House ballroom construction to continue for now",
+     "url": "https://www.scotusblog.com/2026/08/supreme-court-allows-white-house-ballroom-construction-to-continue-for-now/"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Donald Trump",
+     "url": "https://en.wikipedia.org/wiki/Donald%20Trump"
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "White House",
+     "url": "https://en.wikipedia.org/wiki/White%20House"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "역사적 랜드마크 보존을 위한 천만 달러 규모 법적 방어 기금 조성",
+     "url": "https://www.dezeen.com/2026/09/23/national-trust-for-historic-preservation-defense-fund-washington-dc/"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "워싱턴 DC 케네디 센터 철거 위기와 모더니즘 건축 보존 갈등",
+     "url": "https://www.dezeen.com/2026/08/27/demolish-kennedy-center-financial-structural-death-spiral/"
+    },
+    {
+     "n": 7,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "돌리 파튼: 인위적인 외형으로 증명한 가장 진실한 태도",
+     "url": "https://www.dazeddigital.com/music/article/70864/1/5-iconic-dolly-parton-life-lessons-best-quotes?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=5-iconic-life-lessons-from-dolly-parton"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    5,
+    6
+   ],
+   "chars": 8715
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "thisiscolossal.com/2026/11/roeselien-raimond-zen-and-the-art-of-winter-foxes-photography": {
+  "title_ko": "뢰젤린 라몽드의 겨울 여우, 지형과 기후를 관통하는 정지된 시간",
+  "summary_ko": "사진작가 뢰젤린 라몽드(Roeselien Raimond)는 혹독한 겨울 눈보라 속에서 휴식하는 여우를 포착한 '선과 겨울 여우의 예술(Zen & The Art of Winter Foxes)' 시리즈를 선보인다. 작가는 영하의 추위 속에서도 평온을 유지하는 동물의 상태를 통해 자연과 사진, 내면의 평화가 맺는 예기치 못한 연결을 기록한다. 이는 대상을 쫓는 욕망이 오히려 발견을 방해한다는 역설을 자연의 정적인 태도로 풀어낸 작업이다.",
+  "lens": "추위라는 극한의 기후를 생존의 투쟁이 아닌, 정지된 시간의 미학으로 치환하여 피사체의 완전한 고요를 프레임에 가둔다.",
+  "why_now": "디지털 과잉 시대에 피사체가 스스로 환경에 순응하며 멈춰 서는 태도는 연출된 역동성보다 강한 시각적 무게를 갖는다.",
+  "mechanism": "눈 덮인 배경의 높은 명도와 여우의 붉은 털이 만드는 강렬한 대비를 통해 시선을 중앙으로 응집시키고, 움직임을 배제한 정적인 구도로 관찰자의 호흡을 늦춘다.",
+  "sensory": "차가운 설원의 시각적 서늘함과 대비되는 여우의 부드러운 털 질감, 그리고 햇살을 머금은 온기가 프레임 너머로 전이된다.",
+  "transfer": "콘티 작업 시, 인물이나 피사체를 배경의 기후적 특성에 동화시켜 움직이지 않는 정적인 샷을 배치하여 화면 내 긴장감을 의도적으로 해소하는 장치로 활용한다.",
+  "context": "라몽드는 여우를 통해 마음챙김의 철학을 시각화하는 작업을 지속해왔으며, 이는 자연의 평온함을 추상적인 파인 아트 프린트로 구현하는 그의 기존 작업 방식과 맥을 같이 한다. 작가는 스와로브스키(Swarovski)와 화웨이(Huawei) 등 글로벌 브랜드와의 협업을 통해 이러한 정적인 미학을 상업적 영역으로 확장해왔다.",
+  "findings": [
+   {
+    "text": "뢰젤린 라몽드는 여우를 마음챙김의 대가로 칭하며 그들이 현재에 온전히 머무르는 방식을 관찰한다.",
+    "s": 1,
+    "quote": "Foxes are true Masters of Mindfulness and happiness must be their middle name. They don't spend a lifetime thinking how to live a fulfilling live, they just do it."
+   },
+   {
+    "text": "작가는 자연의 평온함을 담은 사진을 통해 일상 속에서 마음챙김을 유도하는 파인 아트 프린트 사업을 운영한다.",
+    "s": 1,
+    "quote": "Bring peace and mindfulness in your life with Zen Fox fine-art prints! Let nature’s tranquility transform your walls."
+   }
+  ],
+  "keywords": [
+   "마음챙김",
+   "겨울여우",
+   "정지된시간",
+   "자연사진",
+   "기후순응"
+  ],
+  "evidence": "The images are part of a personal project about the unexpected connection between nature, photography and inner peace",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "작가의 철학적 접근과 기후에 순응하는 피사체의 태도를 구체적으로 분석하여 연출적 적용 가능성을 제시했기 때문이다.",
+  "v": 2,
+  "url": "https://www.thisiscolossal.com/2026/11/roeselien-raimond-zen-and-the-art-of-winter-foxes-photography/",
+  "original_title": "Practice Mindfulness with Roeselien Raimond’s Portraits of Relaxed Winter Foxes",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 1856,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-17 03:28",
+  "research": {
+   "entities": [
+    "Roeselien Raimond"
+   ],
+   "questions": [
+    "Roeselien Raimond가 추구하는 'Zen & The Art of Winter Foxes' 시리즈의 사진 철학은 무엇인가요?",
+    "사진 작가가 언급한 '욕망의 역설(paradox of desire)'이 자연 관찰과 어떻게 연결되나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Roeselien Fox Photography",
+     "url": "https://www.roeselienraimond.com/"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 1803
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "archdaily.com/1188667/kashef-chowdhury-urbana-receives-the-first-ambasz-moma-annual-prize-for-nature-reconciled-architecture": {
+  "title_ko": "카셰프 초드리, 암바스-MoMA 자연-화해 건축상 첫 수상작으로 선정",
+  "summary_ko": "뉴욕 현대미술관(MoMA)이 카셰프 초드리/우르바나(Kashef Chowdhury/URBANA)를 제1회 암바스-MoMA 자연-화해 건축상 수상자로 선정했다. 방글라데시 가이반다의 프렌드십 센터는 홍수 예방을 위해 현지 점토 벽돌을 사용하고 저지대 대지에 순응하는 방식으로 설계되었다. 상금은 건축가와 아르헨티나의 펀다시온 그란 차코에 전달되어 그란 차코 숲의 재조림 사업에 사용된다.",
+  "lens": "건축을 환경의 파괴자가 아닌 지형의 일부로 환원하는 방식, 즉 2,300년 전 유적의 지혜를 현대적 재료와 동선으로 번역한 결과다.",
+  "why_now": "기후 위기 시대에 건축이 환경을 정복하는 대상이 아니라, 지형의 연약함과 공존하는 구체적인 실천 모델을 제시하기 때문이다.",
+  "mechanism": "홍수 방지를 위해 지반을 다져 높이고, 현지 점토 벽돌을 수작업으로 쌓아 올린 두 개의 블록 사이에 빗물 집수 연못과 열린 안뜰을 배치하여 자연 환기와 온도 조절을 구현했다.",
+  "sensory": "습한 델타 지대의 흙과 벽돌이 빚어내는 낮은 질감, 빗물이 고이는 연못의 수면이 만들어내는 빛의 산란과 정적인 명상 공간의 무게감이 공존한다.",
+  "transfer": "공간 콘티 구성 시, 건축물의 매스를 주변 마을에 노출하지 않고 대지와 일체화하는 '숨김의 미학'을 활용해 관객의 시선을 지면과 수평으로 낮추는 롱테이크 샷을 설계할 수 있다.",
+  "context": "이 상은 1968년부터 MoMA에서 디자인 큐레이터로 활동하며 '그린 오버 그레이(green over grey)' 철학을 주창한 에밀리오 암바스의 기금으로 제정되었다. 수상작인 프렌드십 센터는 고대 도시 마하스탄가르의 구조를 현대적 환경 적응형 건축으로 재해석한 작업이다.",
+  "findings": [
+   {
+    "text": "에밀리오 암바스는 1968년부터 1976년까지 MoMA 건축 디자인 부서 큐레이터로 재직하며 환경 디자인 프로그램을 개발했다.",
+    "s": 4,
+    "quote": "From 1968 to 1970 he was an Associate Curator at the Museum of Modern Art (MoMA) Department of Architecture and Design under the direction of Arthur Drexler, and was subsequently appointed as curator of that department, "
+   },
+   {
+    "text": "마하스탄가르는 방글라데시 보그라 지역에 위치하며 2,400년 이상 지속된 문화적 활동과 자연 경관이 얽힌 유적지이다.",
+    "s": 2,
+    "quote": "These archaeological sites and the riverine alluvial landscape at Mahasthan, featuring the Karatoya River, represent the complex interaction of cultural activity and natural landscape to an extent that the landscape, riv"
+   }
+  ],
+  "keywords": [
+   "건축과 자연",
+   "카셰프초드리",
+   "MoMA",
+   "지형순응",
+   "에밀리오암바스"
+  ],
+  "evidence": "demonstrates how a remarkable economy of means can yield a richness of spatial experience, offering a compelling vision of how architecture might reconcile with nature.",
+  "kind": "프로젝트",
+  "depth": 5,
+  "grounding": "full",
+  "depth_reason": "건축적 기법과 철학적 배경이 명확하며, 기후 위기 대응이라는 실천적 모델로서의 구체성이 매우 뛰어나다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1188667/kashef-chowdhury-urbana-receives-the-first-ambasz-moma-annual-prize-for-nature-reconciled-architecture",
+  "original_title": "Kashef Chowdhury/URBANA Receives the First Ambasz–MoMA Annual Prize for Nature–Reconciled Architecture",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 6907,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-17 03:29",
+  "research": {
+   "entities": [
+    "Kashef Chowdhury",
+    "Museum of Modern Art",
+    "Emilio Ambasz",
+    "Mahasthangarh",
+    "Fundación Gran Chaco"
+   ],
+   "questions": [
+    "방글라데시 가이반다에 위치한 프렌드십 센터(Friendship Centre)는 지역의 침수 위험에 대응하기 위해 어떤 건축적 기법과 재료를 사용했나요?",
+    "엠밀오 암바스-MoMA 자연-화해 건축상(Ambasz-MoMA Annual Prize for Nature-Reconciled Architecture)의 제정 배경과 선정 기준은 무엇인가요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Fundación Gran Chaco | Generando innovación",
+     "url": "https://gran-chaco.org/es/home/?utm_medium=website&utm_source=archdaily.com"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "third-century BCE ancient city of Mahasthangarh",
+     "url": "https://whc.unesco.org/en/tentativelists/6671/?utm_medium=website&utm_source=archdaily.com"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Museum of Modern Art",
+     "url": "https://en.wikipedia.org/wiki/Museum%20of%20Modern%20Art"
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "Emilio Ambasz",
+     "url": "https://en.wikipedia.org/wiki/Emilio%20Ambasz"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "맨해튼 크라운 빌딩의 재탄생, 아만 뉴욕이 선보이는 7개의 프라이빗 홈",
+     "url": "https://www.wallpaper.com/travel/hotels/aman-new-york-homes"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "역사의 권력 구조를 비추는 거울, 모건 라이브러리의 타로 전시",
+     "url": "https://hyperallergic.com/how-tarot-survived-for-500-years/"
+    },
+    {
+     "n": 7,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "사라 미켈슨의 무용 연대기, 미술관을 점유하는 자기 참조적 궤적",
+     "url": "https://hyperallergic.com/sarah-michelsons-delicate-fetish-play/"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "chars": 8038
+  },
+  "depth_raw": 5,
+  "depth_v": 2
+ },
+ "architecturaldigest.com/story/danielle-frankel-new-york-bridal-store-design-by-augusta-hoffman": {
+  "title_ko": "19세기 뉴욕 상업 거래소의 뼈대에 얹은 브라이덜 살롱",
+  "summary_ko": "패션 디자이너 다니엘 프랭클 힐쉬와 디자이너 오거스타 호프먼이 트라이베카의 19세기 퀸앤 양식 건물을 리노베이션해 1,115㎡ 규모의 새로운 플래그십 매장을 열었다. 구소유지였던 뉴욕 상업 거래소의 역사적 흔적을 살리면서, 거울로 감싼 엘리베이터 코어와 에글로미제 패널을 더해 현대적인 동선을 구축했다.",
+  "lens": "역사적 골조 안에 거울과 유리 파티션을 겹쳐 전통과 현대의 물리적 경계를 지운다.",
+  "why_now": "단순한 상품 진열을 넘어 환대와 정서적 경험을 극대화하는 플래그십 공간 설계의 기준을 보여준다.",
+  "mechanism": "19세기 적렌즈 벽돌 건물의 원형을 보존한 채, 중앙에 거울 마감의 엘리베이터 코어와 계단실을 배치해 공간의 반사와 확장감을 유도한다.",
+  "sensory": "포르투니 패브릭과 은박으로 마감한 선반, 앤틱 모틀드 글라스 창이 빚어내는 차분하고 깊은 질감의 빛.",
+  "transfer": "영상 촬영 시 거울 타워와 에글로미제 패널을 활용해 인물의 반사 실루엣을 다중으로 겹치는 미장센으로 응용한다.",
+  "context": "다니엘 프랭클 힐쉬와 오거스타 호프먼은 이전 로스앤젤레스 부티크와 뉴욕 아틀리에 작업을 함께 진행한 이력이 있다.",
+  "findings": [],
+  "keywords": [
+   "공간설계",
+   "리노베이션",
+   "인테리어",
+   "트라이베카"
+  ],
+  "evidence": "The interiors of the original 19th-century Queen Anne–style red brick building were transformed by Hoffman into a modern, elegant bridal boutique that honors the history of the original New York Mercantile Exchange",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "19세기 건축물을 개조한 구체적인 공간 디자인 과정과 마감 재료가 상세히 드러나 있으나 전형적인 상업 공간 리노베이션의 범위를 크게 벗어나지는 않는다.",
+  "v": 2,
+  "url": "https://www.architecturaldigest.com/story/danielle-frankel-new-york-bridal-store-design-by-augusta-hoffman",
+  "original_title": "Danielle Frankel Reimagines the 21st Century Bridal Store",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 8247,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-17 03:29",
+  "research": {
+   "entities": [
+    "Danielle Frankel",
+    "Augusta Hoffman",
+    "Studio Partners Architecture",
+    "Miriam Ellner",
+    "New York Mercantile Exchange"
+   ],
+   "questions": [
+    "Danielle Frankel이 추구하는 21세기 브라이덜 샵의 공간적 특징과 기존 웨딩 살롱과의 차이점은 무엇인가요?",
+    "디자이너 Augusta Hoffman이 19세기 건축물을 현대적인 브라이덜 부티크로 재해석하며 가장 중요하게 고려한 디자인 요소는 무엇인가요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "New York Mercantile Exchange",
+     "url": "https://en.wikipedia.org/wiki/New%20York%20Mercantile%20Exchange"
+    }
+   ],
+   "used": [],
+   "chars": 1400
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "wallpaper.com/transportation/the-reo-trucks-runabout-is-a-non-nonsense-truck-for-an-over-complicated-world": {
+  "title_ko": "아날로그 기계의 귀환: 레오(REO) 런어바웃이 제안하는 수리 가능한 이동 수단",
+  "summary_ko": "미국의 자동차 브랜드 레오(REO)가 1915년 스피드 왜건의 유산을 계승한 픽업트럭 '런어바웃(Runabout)'을 공개했다. 디자이너 프랭크 스티븐슨(Frank Stephenson)이 설계한 이 차량은 바디 온 프레임 구조와 내연기관을 채택했으며, 소프트웨어 업데이트나 구독 서비스 없이 사용자가 직접 수리할 수 있는 기계적 독립성을 지향한다.",
+  "lens": "디지털 피로를 물리적 수리 가능성으로 돌파하며, 소프트웨어로부터 소유권을 되찾아온 기계적 정직함의 실천이다.",
+  "why_now": "무선 업데이트와 구독형 기능 잠금으로 인해 자동차의 소유권이 제조사에 귀속되는 현상에 대한 반작용이다.",
+  "mechanism": "바디 온 프레임 섀시와 내연기관을 기반으로 하며, 모든 부품을 VIN과 소프트웨어로 잠그지 않는 오픈 소스 부품 카탈로그를 통해 기계적 수명을 연장한다.",
+  "sensory": "디지털 화면 너머의 물리적 조작감을 강조하며, 툭 튀어나온 그릴과 수직으로 쌓인 헤드라이트 등 직선적이고 견고한 금속의 물성을 드러낸다.",
+  "transfer": "공간 연출 시 복잡한 인터페이스를 배제하고, 사용자가 직관적으로 조작할 수 있는 아날로그 스위치와 노출된 구조를 배치하여 신뢰감을 구축하라.",
+  "context": "레오는 1905년 랜섬 엘리 올즈(Ransom E. Olds)가 설립한 브랜드로, 1915년 최초의 픽업트럭인 스피드 왜건을 선보인 역사가 있다. 현재 텍사스 기반의 CEO 잭 드 베르나르디(Zach De Bernardi)가 브랜드를 부활시켰으며, 페라리와 맥라렌 등을 디자인한 프랭크 스티븐슨이 디자인을 총괄했다.",
+  "findings": [
+   {
+    "text": "레오 런어바웃은 소프트웨어로 잠기지 않는 부품과 20년간 보장되는 공공 부품 카탈로그를 제공한다.",
+    "s": 1,
+    "quote": "No part is software-locked to your VIN. In writing. A public parts catalog, at published prices, guaranteed for 20 years."
+   },
+   {
+    "text": "런어바웃은 1901년 올즈모빌 커브드 대시를 통해 현대적 조립 라인의 개념을 정립한 랜섬 엘리 올즈의 유산을 잇는다.",
+    "s": 4,
+    "quote": "The modern assembly line and its basic concept is credited to Olds, who used it to build the first mass-produced automobile, the Oldsmobile Curved Dash, beginning in 1901."
+   }
+  ],
+  "keywords": [
+   "수리권",
+   "아날로그",
+   "바디온프레임",
+   "프랭크스티븐슨",
+   "기계적독립"
+  ],
+  "evidence": "nothing you need to drive the truck lives behind glass",
+  "kind": "프로젝트",
+  "depth": 5,
+  "grounding": "full",
+  "depth_reason": "브랜드의 역사적 맥락과 기계적 독립성을 강조하는 구체적인 기술적 장치가 명확하며, 산업적 대안을 제시하는 철학이 뚜렷하다.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/transportation/the-reo-trucks-runabout-is-a-non-nonsense-truck-for-an-over-complicated-world",
+  "original_title": "The REO Trucks Runabout is a non-nonsense truck for an over-complicated world",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 6149,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-17 03:29",
+  "research": {
+   "entities": [
+    "REO Motor Car Company",
+    "Ransom Eli Olds",
+    "Frank Stephenson Design",
+    "REO Speed Wagon"
+   ],
+   "questions": [
+    "REO의 Runabout 모델이 현대의 복잡한 전기차 중심 트럭 시장에서 '아날로그적 기능주의'를 어떻게 구현하고 있나요?",
+    "Frank Stephenson이 디자인 과정에서 강조한 '디지털 노후화(digital obsolescence)'에 대응하는 기계적 아이콘의 의미는 무엇인가요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Runabout: America's New Affordable Truck",
+     "url": "https://reotrucks.com/"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "FrankStephenson.com",
+     "url": "https://www.frankstephenson.com/"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "REO Motor Car Company",
+     "url": "https://en.wikipedia.org/wiki/REO%20Motor%20Car%20Company"
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "Ransom E. Olds",
+     "url": "https://en.wikipedia.org/wiki/Ransom%20E.%20Olds"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "chars": 6661
+  },
+  "depth_raw": 5,
+  "depth_v": 2
+ },
+ "thisiscolossal.com/2026/11/interwoven-basketry-as-expanded-practice-craft-exhibition": {
+  "title_ko": "바구니의 언어: 공예의 고정관념을 해체하는 확장된 조형술",
+  "summary_ko": "마이애미 민디 솔로몬 갤러리에서 열리는 'Interwoven: Basketry As Expanded Practice'는 바구니 제작 기법을 단순한 생활용품 제작이 아닌 예술적 언어로 재정의한다. 파이프 클리너, 비상용 담요, 종이, 강철 등 비전통적 재료를 사용하여 공예의 범주를 확장하고 조형예술로서의 가능성을 탐구한다.",
+  "lens": "바구니라는 형태를 기능적 용기가 아닌, 재료의 물성을 엮어 공간과 서사를 구축하는 조형적 문법으로 전환한다.",
+  "why_now": "디지털 피로도가 높은 시대에, 손의 노동과 반복적인 엮음이라는 아날로그적 물리성을 통해 예술적 가치를 재발견하려는 움직임이다.",
+  "mechanism": "기존 바구니의 구조적 논리인 '엮음'을 유지하되, 재료를 산업용 파이프 클리너나 비상용 담요 같은 이질적 물성으로 치환하여 시각적 충격을 유도한다.",
+  "sensory": "금속 와이어의 차갑고 날카로운 선과 파이프 클리너의 부드럽고 밀도 높은 질감이 대비되며, 빛을 흡수하거나 반사하는 재료의 표면이 조형적 입체감을 강조한다.",
+  "transfer": "광고나 영상 콘티에서 피사체를 엮거나 겹치는 레이어링 기법을 적용할 때, 재료의 본래 기능을 배제하고 오직 질감과 패턴으로만 접근하여 추상적 이미지를 구축할 수 있다.",
+  "context": "전시는 바구니 제작 기법을 고정된 공예 장르가 아닌 예술적 확장성을 지닌 언어로 해석한다. 민디 솔로몬 갤러리는 이전에도 공예와 현대 미술의 경계에 있는 작가들을 지속적으로 소개해왔다.",
+  "findings": [],
+  "keywords": [
+   "바구니공예",
+   "조형예술",
+   "물성",
+   "공예의확장"
+  ],
+  "evidence": "Interwoven: Basketry As Expanded Practice challenges our perception of both object and craft.",
+  "kind": "전시",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "바구니 기법의 예술적 확장을 다루는 시도는 유효하나, 개별 작가의 구체적인 제작 프로세스에 대한 정보가 부족하여 깊은 분석에는 한계가 있다.",
+  "v": 2,
+  "url": "https://www.thisiscolossal.com/2026/11/interwoven-basketry-as-expanded-practice-craft-exhibition/",
+  "original_title": "From Pipe Cleaners to Clay, Baskets Break Craft Traditions in ‘Interwoven’",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 3500,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-17 03:29",
+  "research": {
+   "entities": [
+    "Mindy Solomon Gallery",
+    "Dee Clements",
+    "Xanthe Somers",
+    "Salvador Dominguez",
+    "Miguel Arzabe"
+   ],
+   "questions": [
+    "전시 'Interwoven: Basketry As Expanded Practice'가 전통적인 바구니 공예의 경계를 확장하기 위해 현대 미술에서 바구니 기법을 어떻게 재해석하고 있는가?",
+    "파이프 클리너, 비상용 담요, 종이 등 비전통적인 재료를 사용하는 작가들이 공예와 조형예술의 경계에서 어떤 메시지를 전달하는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Mindy Solomon Gallery",
+     "url": "https://mindysolomon.com/"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 1836
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "hyperallergic.com/draconian-trump-executive-order-could-strip-art-orgs-of-nonprofit-status": {
+  "title_ko": "비영리 예술 단체 겨냥한 행정명령, 세제 혜택 박탈의 실체",
+  "summary_ko": "미국 백악관이 이른바 테러 연루 의혹이 있는 비영리 단체의 면세 자격을 즉각 박탈하는 행정명령을 검토 중이다. 월스트리트 저널 보도에 따르면, 이는 미국 내국세법 제501조(p)(2)(C)를 근거로 하며 예술 및 문화 단체들이 정치적 표적이 될 가능성이 제기된다. 백악관은 공식 확인을 유보한 채 추측성 보도라는 입장을 밝혔다.",
+  "lens": "예술 기관의 운영 근간인 면세 지위를 행정 권력으로 즉각 무력화하는 정치적 검열의 구체적 경로를 확인한다.",
+  "why_now": "예술 단체의 자율성과 공공성을 유지해온 재정적 보호막이 행정부의 자의적 판단에 의해 해체될 위기에 처했다.",
+  "mechanism": "내국세법 제501조(p)(2)(C)를 활용해 테러 연루라는 모호한 낙인을 찍고, 즉각적인 면세 자격 정지를 통해 단체의 물리적 운영을 정지시킨다.",
+  "sensory": "예산이 동결된 갤러리와 스튜디오의 적막함, 그리고 행정적 압박으로 인해 위축된 예술 현장의 긴장감이 감돈다.",
+  "transfer": "정치적 검열이 창작 환경에 미치는 위협을 시각화할 때, 자금줄이 끊긴 공간이 점진적으로 폐쇄되는 과정이나 서류 더미 속에 파묻힌 예술가의 무력감을 연출한다.",
+  "context": "트럼프 행정부는 과거 나인 마일 캐니언의 도로 확장 사례처럼 환경 및 문화 단체의 활동을 절차적 명분을 내세워 제동을 걸어왔다. 이번 행정명령은 특정 집단을 테러 연루자로 규정하는 방식의 확대 적용으로 해석된다.",
+  "findings": [],
+  "keywords": [
+   "비영리단체",
+   "행정명령",
+   "정치적검열",
+   "내국세법"
+  ],
+  "evidence": "officials are reviewing Section 501(p)(2)(C) of the United States Internal Revenue Code, which authorizes the president to label nonprofits that are allegedly supporting or engaging in terrorist activity.",
+  "kind": "뉴스·이슈",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "행정명령의 법적 근거를 명시했으나 실제 시행 여부가 불확실하고 예술계에 미칠 구체적 피해 규모가 추정 단계에 머물러 있다.",
+  "v": 2,
+  "url": "https://hyperallergic.com/draconian-trump-executive-order-could-strip-art-orgs-of-nonprofit-status/",
+  "original_title": "Draconian Trump Executive Order Could Strip Art Orgs of Nonprofit Status",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 1873,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-17 03:29",
+  "research": {
+   "entities": [
+    "Trump Administration"
+   ],
+   "questions": [
+    "미국 내국세법 제501조(p)(2)(C)는 비영리 단체의 자격을 박탈하는 과정에서 어떤 절차를 거치도록 규정하고 있는가?",
+    "이 행정명령이 실제로 시행될 경우 예술 및 문화 단체들에 미치는 구체적인 재정적 타격은 어느 정도인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "유타 나인 마일 캐니언 도로 확장 소송, 환경 단체들의 법적 제동",
+     "url": "https://hyperallergic.com/utah-groups-sue-trump-administration-over-nine-mile-canyon-construction-project/"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 238
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "dezeen.com/2026/11/16/life-behind-the-walls-north-korea-exhibition-b2-architecture-prague": {
+  "title_ko": "붉은 격자와 반투명 장막으로 구축한 북한의 이면: 비투 아키텍처의 전시 설계",
+  "summary_ko": "비투 아키텍처(B2 Architecture)는 프라하에서 북한의 삶을 조명하는 전시 '벽 뒤의 삶'을 기획했다. 1,500제곱미터 공간을 붉은 목재 프레임과 반투명 직물로 짠 미로와 탈북자 증언을 담은 어두운 갤러리로 양분하여, 전체주의 체제의 모순을 시각화했다.",
+  "lens": "단순한 관람을 넘어, 붉은 목재 미로와 어두운 갤러리라는 극명한 대비를 통해 전체주의 체제의 억압적 구조를 신체적 경험으로 치환한다.",
+  "why_now": "디지털 정보의 홍수 속에서, 물리적 재료의 투명도와 조명 변화를 활용해 심리적 압박감을 조성하는 공간 연출 방식이 더욱 유효해지고 있다.",
+  "mechanism": "붉은 목재 프레임과 반투명 직물로 미로를 짜 관람객의 시선을 부분적으로 차단하고, 이후 어두운 갤러리로 동선을 강제 전환하여 공간의 분위기를 급격히 반전시킨다.",
+  "sensory": "붉은색과 분홍색 직물의 겹침이 만드는 모호한 시각적 깊이와, 어두운 갤러리 내 조명과 안개로 연출한 기념비적 동상 주변의 무거운 정적을 강조한다.",
+  "transfer": "공간의 투명도를 조절하는 직물 레이어링을 활용해, 카메라 앵글에 따라 피사체가 나타나고 사라지는 시각적 미스터리를 콘티에 적용할 수 있다.",
+  "context": "비투 아키텍처는 바바라 벤코바(Barbara Bencová)가 2012년 설립한 프라하 기반 스튜디오로, 상업 및 공공 공간을 아우르는 모듈형 설계를 선보여 왔다. 이번 전시는 닌나 슈피탈니코바(Nina Špitálníková)의 저서 '토타 리타(Tota lítá)'를 기반으로 아동의 눈높이에서 전체주의를 해석하는 건축적 실험을 시도했다.",
+  "findings": [
+   {
+    "text": "팀 프랑코는 파리와 아시아를 오가며 활동하는 상업 사진가로, 다큐멘터리적 접근을 통해 서사 중심의 이미지를 구축한다.",
+    "s": 1,
+    "quote": "Tim Franco is a commercial photographer working between Paris and Asia, known for creating storytelling-driven imagery rooted in a documentary approach."
+   },
+   {
+    "text": "김정은은 2011년 김정일 사망 이후 북한의 최고 지도자로 재직하며 독재 체제를 유지하고 있다.",
+    "s": 2,
+    "quote": "Kim Jong Un is a North Korean politician and dictator who has been serving as the supreme leader of North Korea since 2011, following the death of his father, Kim Jong Il."
+   }
+  ],
+  "keywords": [
+   "공간 연출",
+   "전시 설계",
+   "모듈형 구조",
+   "시노그래피",
+   "비투 아키텍처"
+  ],
+  "evidence": "B2 Architecture has created the Life Behind the Walls exhibition in Prague, using a maze of red timber frames and translucent fabric to explore life in North Korea.",
+  "kind": "전시",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "전시의 메시지를 공간의 재료와 동선으로 번역한 구체적인 건축적 장치가 돋보이며, 모듈형 구조의 재활용까지 고려한 체계적인 설계가 확인된다.",
+  "v": 2,
+  "url": "https://www.dezeen.com/2026/11/16/life-behind-the-walls-north-korea-exhibition-b2-architecture-prague/",
+  "original_title": "B2 Architecture turns North Korean defector testimonies into Prague exhibition",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 4735,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-17 03:29",
+  "research": {
+   "entities": [
+    "B2 Architecture",
+    "Nina Špitálníková",
+    "Michal Huniewicz",
+    "Tim Franco",
+    "Kim Jong Un"
+   ],
+   "questions": [
+    "전시의 공간 구성이 북한의 전체주의적 삶과 탈북자의 증언이라는 대조적인 메시지를 어떻게 시각적으로 전달하고 있는가?",
+    "어린이를 위한 동화책 'Tota lítá'의 내용을 전시 공간으로 구현할 때 B2 Architecture가 고려한 건축적 장치들은 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Tim Franco - Commercial Photographer Seoul Paris Shanghai | China, Korea and France",
+     "url": "https://timfranco.com/"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Kim Jong Un",
+     "url": "https://en.wikipedia.org/wiki/Kim%20Jong%20Un"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 1882
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "archdaily.com/1010840/link-house-openideas-architects": {
+  "title_ko": "인도 아메다바드의 링크 하우스: 대규모 주거 공간의 유기적 연결",
+  "summary_ko": "인도 아메다바드에 위치한 링크 하우스는 22,000평방피트 규모의 대저택으로 오픈아이디어스 아키텍츠가 설계를 맡았다. 거주자의 라이프스타일을 반영해 기존 주거 방식을 탈피한 공간 구성을 시도했으며, 2023년 완공되었다.",
+  "lens": "거대한 규모의 주거 공간을 파편화하지 않고 물리적·시각적 동선으로 엮어내어 거주자의 동적인 삶을 담아내는 건축적 시도다.",
+  "why_now": "대규모 주거 프로젝트가 단순한 호화로움을 넘어 공간 간의 유기적인 연결을 통해 거주자의 일상적 밀도를 어떻게 제어하는지 보여준다.",
+  "mechanism": "내부와 외부를 잇는 동선 설계와 빛의 유입을 조절하는 구조적 장치를 통해 대형 평형의 공간이 단절되지 않도록 구성했다.",
+  "sensory": "델타 라이트, 플로스 등 정밀한 조명 기구와 안토니오 루피의 위생 기기, 루나우드 등 물성이 강조된 마감재가 결합되어 차분하고 세련된 실내 분위기를 만든다.",
+  "transfer": "광활한 실내를 촬영할 때, 빛이 머무는 지점을 따라 시선을 유도하는 롱 테이크 동선을 짜고, 조명 기구의 배치로 공간의 깊이감을 강조하는 샷을 설계한다.",
+  "context": "오픈아이디어스 아키텍츠는 거주자의 활동성을 극대화하는 공간 구성을 지향한다. 밀레 등 고기능성 가전과 지속 가능한 소재를 적극적으로 통합하여 주거의 질을 높이는 전략을 취한다.",
+  "findings": [],
+  "keywords": [
+   "인도건축",
+   "주거설계",
+   "동선설계",
+   "공간연결"
+  ],
+  "evidence": "Designing a 22,000 sq. ft home for an entrepreneur who doubles as a real estate magnate is a creative odyssey.",
+  "kind": "프로젝트",
+  "depth": 2,
+  "grounding": "thin",
+  "depth_reason": "건축적 컨셉인 '연결'에 대한 구체적인 도면이나 상세한 설계 기법 설명이 원문에 부족하여 평이한 수준의 소개로 판단한다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1010840/link-house-openideas-architects",
+  "original_title": "Link House / Openideas Architects",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 1733,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-17 03:29",
+  "research": {
+   "entities": [
+    "Openideas Architects",
+    "Delta Light",
+    "FLOS",
+    "Hansgrohe",
+    "Miele"
+   ],
+   "questions": [
+    "Link House의 건축적 컨셉인 '연결(Link)'이 공간 구성에 어떻게 반영되었는가?",
+    "22,000평방피트 규모의 대저택에서 지속가능성을 구현하기 위해 어떤 설계 전략이 사용되었는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Flos",
+     "url": "https://en.wikipedia.org/wiki/Flos"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Hansgrohe",
+     "url": "https://en.wikipedia.org/wiki/Hansgrohe"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "지속 가능한 주거 리노베이션을 위한 세 가지 건축적 전략",
+     "url": "https://www.architecturaldigest.com/story/the-ideas-defining-home-renovations-today-according-to-top-architects"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "구조를 보존하고 풍경을 품다, 스튜디오 B의 파크사이드 빌라",
+     "url": "https://www.archdaily.com/1187144/parkside-villa-studio-b-architecture-plus-interiors"
+    }
+   ],
+   "used": [],
+   "chars": 1101
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "archdaily.com/1188565/stromsbu-sawmill-henning-larsen": {
+  "title_ko": "노르웨이 스트룀스부 제재소, 해상 보험사 가드의 오피스로 재탄생",
+  "summary_ko": "헤닝 라르센과 람볼이 노르웨이 아렌달의 역사적 산업 시설인 스트룀스부 제재소를 해상 보험사 가드의 본사로 개조했다. 기존 제재소의 뼈대를 보존하며 협업 공간을 구축하고, 지역 생태계 회복을 고려한 조경을 결합해 해상 무역의 역사적 맥락을 현대적 업무 환경으로 전이했다.",
+  "lens": "산업 유산의 거친 골조와 현대적 업무 공간 사이의 긴장감을 생태적 조경으로 완충하며 과거의 시간성을 현재의 기능으로 치환한다.",
+  "why_now": "기후 위기 시대에 기존 건물의 철거 대신 구조적 잠재력을 활용하는 재생 건축은 지속 가능한 공간 설계의 표준이 되고 있다.",
+  "mechanism": "제재소의 원형 구조를 유지한 채 내부를 비워 협업을 유도하는 개방형 평면을 확보하고, 외부에는 지역 생태 복원을 위한 조경을 배치해 건축과 자연의 경계를 재설정했다.",
+  "sensory": "오랜 시간 축적된 산업 현장의 거친 목재와 금속 질감이 현대적인 오피스의 정제된 조명과 대비를 이루며, 창밖으로 보이는 복원된 조경이 내부 공간에 계절적 변화를 투영한다.",
+  "transfer": "오래된 창고나 공장 부지를 촬영할 때, 기존의 노출된 목재 구조물을 배경으로 현대적인 유리 파티션이나 금속 조명을 배치해 시간의 층위를 시각화하는 샷을 구성하라.",
+  "context": "헤닝 라르센은 아르네 야콥센과 요른 웃손의 계보를 잇는 덴마크 건축사사무소로, 산업 유산의 재생과 환경적 지속 가능성을 결합하는 작업을 지속해왔다. 협업한 람볼은 전 세계적으로 활동하는 엔지니어링 그룹으로, 이번 프로젝트에서 생태적 복원과 구조적 안정성을 동시에 해결하는 역할을 수행했다.",
+  "findings": [
+   {
+    "text": "스트룀스부 제재소 개조 프로젝트는 헤닝 라르센이 설계하고 람볼이 생태 엔지니어링을 맡아 진행했다.",
+    "s": 1,
+    "quote": "Henning Larsen 建筑事务所与 Ramboll 携手完成了位于挪威阿伦达尔（Arendal）的历史建筑——斯特勒姆斯布锯木厂（Strømsbu Sawmill）的改造工程"
+   }
+  ],
+  "keywords": [
+   "산업유산재생",
+   "헤닝라르센",
+   "생태조경",
+   "오피스건축"
+  ],
+  "evidence": "Continuing the site's connection to maritime trade, the project brings together restored industrial buildings, spaces for collaboration, and a landscape designed to support local biodiversity.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "역사적 건축의 재생 사례로서 기능적 전환과 생태적 접근을 명확히 보여주지만, 구체적인 내부 마감재나 구조적 디테일에 대한 정보가 충분하지 않다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1188565/stromsbu-sawmill-henning-larsen",
+  "original_title": "Strømsbu Sawmill / Henning Larsen",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 1220,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-17 03:29",
+  "research": {
+   "entities": [
+    "Henning Larsen",
+    "Rambøll",
+    "Gard",
+    "Strømsbu Sawmill"
+   ],
+   "questions": [
+    "Strømsbu Sawmill의 역사적 가치를 보존하면서 현대적인 오피스 공간으로 변모시키기 위해 어떤 건축적 전략이 사용되었는가?",
+    "이 프로젝트에서 생물 다양성을 지원하기 위해 조경 설계에 적용된 구체적인 요소는 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Strømsbu 锯木厂 / Henning Larsen",
+     "url": "https://www.archdaily.cn/1188658/stromsbu-ju-mu-han-henning-larsen?ad_name=article_cn_redirect=popup"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Henning Larsen",
+     "url": "https://en.wikipedia.org/wiki/Henning%20Larsen"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Ramboll",
+     "url": "https://en.wikipedia.org/wiki/Ramboll"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "헨, 파리협정 1.5도 목표를 위한 무료 탄소 예산 계산기 출시",
+     "url": "https://www.archdaily.com/1186439/henn-launches-carbonbudget-a-free-tool-for-calculating-project-specific-co2-emissions"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3
+   ],
+   "chars": 2364
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "artforum.com/news/lucas-museums-education-program-fails-to-materialize-1234763647": {
+  "title_ko": "약속은 지상에 남고, 교육은 사라진 루카스 미술관의 개관",
+  "summary_ko": "조지 루카스가 설립하고 엠에이디 아키텍츠가 설계한 루카스 내러티브 아트 뮤지엄이 로스앤젤레스 익스포지션 파크에 개관했으나, 건립 승인의 핵심 조건이었던 교육 프로그램과 부서가 운영되지 않고 있다. 미술관 측은 교육 부서 대부분을 해고하고 남쪽 날개 강의실을 폐쇄한 상태이며, 2027년 런칭을 목표로 개발 중이라고 해명했다. 이에 지역 사회는 시의회 승인을 받기 위해 내걸었던 공공 약속이 이행되지 않았다고 강하게 비판하고 있다.",
+  "lens": "공공 대지에 세워진 거대한 건축적 성취 뒤편에서, 인가 조건이었던 지역 교육 프로그램이 기약 없이 유예된다.",
+  "why_now": "화려한 스포트라이트 속에 개관한 대형 문화시설이 인허가 당시 약속했던 공공적 책무를 어떻게 저버리는지 보여주는 시사적 사건이다.",
+  "mechanism": "로스앤젤레스 계획위원회의 결정서에 명시된 반경 3마일 내 주민 대상 지역 접근 및 교육 프로그램(LEAP) 의무 조항이 개관과 동시에 휴면 상태에 들어갔다.",
+  "sensory": "건물 남쪽 날개의 닫힌 강의실과 텅 빈 스튜디오 공간은 화려한 외관과 대조를 이루며 행정적 공백의 서늘함을 드러낸다.",
+  "transfer": "공공 공간이나 문화 시설을 다루는 다큐멘터리 연출 시, 화려한 완공 숏과 대비되는 비어 있는 교육 시설 내부를 교차 편집하여 제도적 약속의 허구성을 시각화한다.",
+  "context": "조지 루카스와 멜로디 홉슨이 설립한 루카스 내러티브 아트 미술관은 마 옌송이 이끄는 엠에이디 아건텍츠가 설계를 맡아 1,271개의 유리섬유 강화 플라스틱 패널로 완공되었다. 건립 당시 시의회 승인을 얻기 위해 교육을 핵심 가치로 내세웠으나, 개관 직전 교육 부서 직원의 대부분을 해고했다.",
+  "findings": [
+   {
+    "text": "루카스 미술관은 개관을 일 년 앞두고 교육 부서 직원 대부분을 해고했으며, 교실은 비어 있고 지역 교육자들은 학생들이 방치되었다고 말한다.",
+    "s": 1,
+    "quote": "A year before opening, the museum laid off most of its education department. Classrooms sit empty, and local educators say their students have been left hanging."
+   }
+  ],
+  "keywords": [
+   "루카스미술관",
+   "공공건축",
+   "교육프로그램",
+   "로스앤젤레스",
+   "문화정책"
+  ],
+  "evidence": "A Letter of Determination issued by the Los Angeles Planning Commission in May 2017 required the establishment of “a Local Access and Education Program (LEAP)",
+  "kind": "뉴스·이슈",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "건축물의 완공과 대비되는 행정적·공공적 약속 불이행 문제를 다루나, 구체적인 설계나 연출 기법보다는 제도적 이슈에 집중된 뉴스다.",
+  "v": 2,
+  "url": "https://www.artforum.com/news/lucas-museums-education-program-fails-to-materialize-1234763647/",
+  "original_title": "Lucas Museum’s Promised Education Program Fails to Materialize",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 2458,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-17 03:29",
+  "research": {
+   "entities": [
+    "Lucas Museum of Narrative Art",
+    "George Lucas",
+    "Mellody Hobson",
+    "Don Bacigalupi",
+    "Los Angeles Planning Commission"
+   ],
+   "questions": [
+    "루카스 내러티브 아트 뮤지엄이 건립 승인을 받기 위해 지역 사회와 맺은 교육 프로그램 관련 약속의 구체적인 내용은 무엇인가?",
+    "박물관 측이 교육 부서 인력을 해고하고 교육 공간을 폐쇄한 상태로 개관을 강행한 배경과 이에 대한 지역 사회의 반응은 어떠한가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "What Happened to the Lucas Museum's Promised Educational Programs?",
+     "url": "https://lamaterial.com/p/lucas-museum-education-programs"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Lucas Museum of Narrative Art",
+     "url": "https://en.wikipedia.org/wiki/Lucas%20Museum%20of%20Narrative%20Art"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "George Lucas",
+     "url": "https://en.wikipedia.org/wiki/George%20Lucas"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "목수였던 배우 해리슨 포드, 그가 직접 지은 집과 가구의 기록",
+     "url": "https://www.architecturaldigest.com/story/harrison-ford-at-home-photos-of-the-hollywood-heartthrobs-life-off-set"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "지상에서 띄워 올린 유기체의 형상, 마 얀송의 루카스 내러티브 미술관 완공",
+     "url": "https://www.archdaily.com/1184508/first-look-at-the-completed-lucas-museum-of-narrative-art-opening-september-22-2026"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "조지 루카스의 서사 박물관, 타셴의 두 권짜리 기록으로 엮이다",
+     "url": "https://www.wallpaper.com/art/lucas-museum-of-narrative-art-taschen-book-review"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    5
+   ],
+   "chars": 4176
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "wallpaper.com/transportation/get-away-from-it-all-in-glorious-luxury-with-the-sanlorenzo-1150-explorer-yacht": {
+  "title_ko": "산로렌초 1150 익스플로러: 원격 근무와 웰니스를 품은 해상 저택",
+  "summary_ko": "산로렌초(Sanlorenzo)가 60m 길이의 신형 익스플로러 요트 1150 익스플로러를 공개했다. 이 선박은 4,000해리 이상의 항속 거리와 300㎡ 규모의 복층 오너 아파트를 갖췄으며, 위성 통신 기술을 도입해 원격 오피스로 활용 가능하다. 내년 출시를 앞둔 이 요트는 강철 선체와 알루미늄 상부 구조로 제작되어 극한의 환경에서도 독립적인 항해를 보장한다.",
+  "lens": "요트를 단순한 이동 수단에서 물리적 격리를 극복하는 고성능 원격 오피스이자, 수직적 레이어로 웰니스를 구현한 독립적 건축물로 전환한다.",
+  "why_now": "슈퍼요트 주 고객층이 40대로 젊어지면서, 일과 휴식을 동시에 수행할 수 있는 연결성과 기능적 독립성이 공간 설계의 핵심 요구사항으로 부상했다.",
+  "mechanism": "투명한 단일 유리 패널로 제작된 수영장 바닥을 오너 스위트 상부에 배치해 빛과 공간의 입체감을 연출하며, 접이식 테라스를 활용해 해수면과 직접 연결되는 140㎡ 규모의 비치 라운지를 구성한다.",
+  "sensory": "강철의 견고한 무게감과 대형 유리창을 통해 들어오는 180도 파노라마 바다 풍경이 극명한 대비를 이룬다. 해수면과 맞닿은 비치 라운지의 수평적 개방감과 복층 아파트의 수직적 확장성이 공존한다.",
+  "transfer": "콘티 연출 시 좁고 어두운 실내와 광활한 외부 풍경을 대비시키는 샷을 활용하라. 특히 수영장 바닥을 투과하는 빛의 굴절과 수면의 일렁임을 오너 스위트 내부 조명 효과로 차용할 수 있다.",
+  "context": "산로렌초는 1958년 설립 이후 맞춤형 요트를 제작해온 이탈리아 조선사다. 이번 모델은 1966년 남극 관광을 개척한 라르스 에릭 린드블라드(Lars-Eric Lindblad)의 탐험 정신을 계승하며, 최근 슈퍼요트가 웰니스와 일상의 공간으로 진화하는 흐름을 반영한다.",
+  "findings": [
+   {
+    "text": "산로렌초는 1958년 잔프랑코 체키와 줄리아노 페키아가 설립했으며, 2005년 마시모 페로티가 경영권을 인수했다.",
+    "s": 2,
+    "quote": "Founded in 1958 by Gianfranco Cecchi and Giuliano Pecchia who opened the first shipyard near Florence, Sanlorenzo was taken over in 1972 by Giovanni Jannetti... In 2005, Massimo Perotti, the actual Executive Chairman, to"
+   },
+   {
+    "text": "라르스 에릭 린드블라드는 1966년 아르헨티나 해군 함정을 빌려 최초의 남극 관광 원정을 이끌었다.",
+    "s": 3,
+    "quote": "He led the first tourist expedition to Antarctica in 1966 in a chartered Argentine navy ship, and for many years operated his own vessel, the MS Lindblad Explorer, in the region."
+   }
+  ],
+  "keywords": [
+   "산로렌초",
+   "익스플로러요트",
+   "슈퍼요트",
+   "공간설계",
+   "웰니스"
+  ],
+  "evidence": "The trend towards explorer yachts has brought a young, more adventurous customer into the superyacht area; Sanlorenzo itself claims an average owner age at 48",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "슈퍼요트의 기술적 사양과 공간 구성의 변화를 구체적 수치와 함께 건축적 관점에서 분석했다.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/transportation/get-away-from-it-all-in-glorious-luxury-with-the-sanlorenzo-1150-explorer-yacht",
+  "original_title": "Get away from it all in glorious luxury with the Sanlorenzo 1150 Explorer yacht",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 5297,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-17 03:29",
+  "research": {
+   "entities": [
+    "Sanlorenzo",
+    "Zuccon International Project",
+    "Lars-Eric Lindblad",
+    "Lindblad Explorer"
+   ],
+   "questions": [
+    "익스플로러 요트(Explorer yacht)가 일반적인 슈퍼요트와 기술적, 기능적으로 차별화되는 핵심 요소는 무엇인가요?",
+    "최근 슈퍼요트 시장에서 젊은 고객층의 유입이 요트의 설계와 내부 공간 구성에 어떤 변화를 가져왔나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Sanlorenzo Superyacht 1150Exp - Sanlorenzo Yachts",
+     "url": "https://www.sanlorenzoyacht.com/en/our-fleet/1150-exp"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Sanlorenzo S.p.a.",
+     "url": "https://en.wikipedia.org/wiki/Sanlorenzo%20S.p.a."
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Lars-Eric Lindblad",
+     "url": "https://en.wikipedia.org/wiki/Lars-Eric%20Lindblad"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "모나코 요트 쇼 2026: 웰니스와 일상의 공간으로 진화하는 슈퍼요트",
+     "url": "https://www.wallpaper.com/transportation/whats-new-and-hot-in-the-world-of-high-end-yachting-courtesy-of-the-launches-at-mys-2026"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "chars": 2308
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "wallpaper.com/architecture/residential/factor-residence-palm-springs-price-cut": {
+  "title_ko": "팜스프링스 팩터 레지던스: 12피트 벽으로 구축한 폐쇄적 미드센추리 모던의 정수",
+  "summary_ko": "1969년 건축가 행크 웨버와 돈 스타스카가 설계한 팩터 레지던스는 12피트 높이의 창 없는 스투코 외벽으로 외부와 완벽히 단절된 요새 같은 구조를 갖췄다. 내부에는 리처드 히멜이 디자인한 60년대 오리지널 가구와 마감재가 보존되어 있으며, 갤러리형 복도를 중심으로 팝아트와 옵아트 컬렉션을 수용하도록 설계되었다.",
+  "lens": "외부의 시선을 완전히 차단하는 12피트의 수평적 스투코 벽은 거주자의 안위를 지키는 물리적 장치이자, 내부의 화려한 예술적 시간을 박제하는 견고한 경계다.",
+  "why_now": "디지털 과잉 시대에 50년 전의 인테리어와 가구가 원형 그대로 보존된 공간은 단순한 복고를 넘어, 한 시대의 미학적 총체성을 물리적으로 증명한다.",
+  "mechanism": "갤러리 길이의 복도와 흑화강암 벽난로를 축으로 삼아 시선을 중앙 정원과 수영장으로 유도하며, 청동 색조의 유리 벽을 통해 외부 산세를 내부로 끌어들인다.",
+  "sensory": "광택 있는 마감재와 루사이트 가구, 거울의 반사광이 층고 12피트의 공간을 채우며, 묵직한 화강암과 부드러운 텍스처의 대비가 시각적 긴장감을 형성한다.",
+  "transfer": "폐쇄적인 외부 파사드와 대비되는 개방적 내부 중정 구조를 활용해, 프라이빗한 서사와 공적인 시노그래피가 공존하는 공간 콘티를 설계할 수 있다.",
+  "context": "본 건물은 1969년 제롬 팩터의 의뢰로 건축되었으며, 리처드 히멜의 인테리어와 데이비드 해밀턴의 조경이 결합된 총체적 디자인의 산물이다. 1973년 하우스 뷰티풀에 소개된 이후, 가구와 예술품이 거의 그대로 유지되어 캘리포니아 미드센추리 모던 건축의 보존 사례로 평가받는다.",
+  "findings": [
+   {
+    "text": "건축가 행크 웨버와 돈 스타스카는 1969년 캔자스 컨트리 클럽의 페어웨이 부지에 절대적인 프라이버시와 기념비적 존재감을 강조한 설계를 수행했다.",
+    "s": 1,
+    "quote": "When Jerome Factor commissioned architects Hank Webber and Don Staska to design a desert retreat on one of Canyon Country Club's premier fairway lots in 1969, the brief was uncompromising: absolute privacy, monumental pr"
+   },
+   {
+    "text": "건물은 5,500평방피트 규모의 공간에 12피트 높이의 천장을 적용하여 대형 팝아트와 옵아트 전시를 고려한 갤러리형 동선을 구현했다.",
+    "s": 1,
+    "quote": "Twelve-foot ceilings span 5,500 square feet of living space organized around a gallery-length entrance corridor — designed from the outset to display Pop and Op Art"
+   }
+  ],
+  "keywords": [
+   "미드센추리모던",
+   "폐쇄적건축",
+   "스투코",
+   "총체적디자인",
+   "팝아트"
+  ],
+  "evidence": "The brutalist stucco facade, entirely windowless and relentlessly horizontal, disclosed nothing of what lay within.",
+  "kind": "프로젝트",
+  "depth": 5,
+  "grounding": "full",
+  "depth_reason": "건축적 구조와 역사적 배경, 인테리어의 보존 상태가 구체적이며 공간 설계의 원리를 명확하게 파악할 수 있다.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/architecture/residential/factor-residence-palm-springs-price-cut",
+  "original_title": "A pristine Palm Springs 'fortress' with a surprising mob connection asks $6.4 million",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 3217,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-17 03:30",
+  "research": {
+   "entities": [
+    "Jerome Factor",
+    "John Factor",
+    "Richard Himmel",
+    "Max Factor",
+    "Factor Residence"
+   ],
+   "questions": [
+    "Factor Residence의 건축적 특징인 12피트 높이의 벽과 보안 설계가 제롬 팩터의 개인적 배경과 어떻게 연결되는가?",
+    "리처드 히멜이 디자인한 1960년대 인테리어 요소들이 현대의 미드센추리 모던 디자인 관점에서 어떤 가치를 지니는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "1255 E Via Estrella - The Beverly Hills Estates",
+     "url": "https://thebeverlyhillsestates.com/listing/1255-e-via-estrella/"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Eric Lavey",
+     "url": "https://www.ericlavey.com/"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "John Factor",
+     "url": "https://en.wikipedia.org/wiki/John%20Factor"
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "Max Factor",
+     "url": "https://en.wikipedia.org/wiki/Max%20Factor"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "chars": 4293
+  },
+  "depth_raw": 5,
+  "depth_v": 2
+ },
+ "dazeddigital.com/beauty/article/71362/1/why-are-women-getting-obsessed-with-creatine-pilates-supplements-wellness-trend": {
+  "title_ko": "근육을 조각하는 새로운 미학: 크레아틴 시장의 여성 중심적 재편",
+  "summary_ko": "과거 남성 보디빌딩의 전유물이었던 크레아틴 보충제가 파스텔 톤 패키지와 젤리 형태의 제형을 앞세워 여성 소비자를 공략하고 있다. 근육량 증대를 가치 있게 여기는 새로운 운동 문화와 맞물려, 크레아틴 시장은 2033년까지 87억 달러 규모로 급성장할 것으로 전망된다. 이는 단순히 건강 보조제를 넘어 신체 이미지를 규정하는 새로운 사회적 기준을 반영한다.",
+  "lens": "근육을 남성성의 상징에서 여성의 자기 주도적 신체 관리 도구로 치환하며, 보충제 시장의 시각적 언어를 파스텔 톤과 간편한 제형으로 완전히 탈바꿈시켰다.",
+  "why_now": "GLP-1 계열 약물 사용으로 인한 근손실 우려와 더불어, 마른 체형을 지향하던 과거와 달리 근력과 신체 기능을 중시하는 여성들의 가치관 변화가 맞물려 있다.",
+  "mechanism": "투박한 분말 통 대신 젤리, 파우치, 패치 등 일상에 스며드는 제형을 도입하고, 핑크 레모네이드와 같은 친숙한 향미를 결합해 진입 장벽을 낮춘다.",
+  "sensory": "거친 근육질 남성의 이미지를 지우고, 매대에서 시선을 끄는 핫핑크 사셰와 부드러운 파스텔 톤 패키지, 젤리의 말랑한 촉감이 주는 가벼운 물리적 경험을 강조한다.",
+  "transfer": "여성 타겟의 건강·웰니스 광고 콘티 작성 시, 기존의 땀과 고통 중심의 서사를 배제하고 일상적 공간에서의 미학적 즐거움과 근육의 기능적 회복을 병치하는 몽타주를 구성한다.",
+  "context": "크레아틴은 본래 간과 신장에서 생성되어 근육에 에너지를 공급하는 화합물로, 90년대부터 근력 향상을 위해 사용되어 왔다. 최근에는 뇌 건강 증진에 대한 기대감까지 더해지며 소비층이 확장되는 추세다.",
+  "findings": [
+   {
+    "text": "글로벌 크레아틴 보충제 시장은 2026년부터 2033년까지 연평균 성장률(CAGR) 26.2%를 기록하며 87억 달러 규모에 이를 것으로 보인다.",
+    "s": 1,
+    "quote": "projected to grow from USD 1.7 billion in 2026 to USD 8.7 billion by 2033, at a CAGR of 26.2% from 2026 to 2033."
+   },
+   {
+    "text": "우리 몸의 크레아틴 중 약 95%는 골격근에 저장되며, 나머지는 심장, 뇌 및 기타 조직에서 사용된다.",
+    "s": 2,
+    "quote": "They deliver about 95% of the creatine to your skeletal muscles to use during physical activity. The rest goes to your heart, brain and other tissues."
+   }
+  ],
+  "keywords": [
+   "크레아틴",
+   "웰니스브랜딩",
+   "근력운동",
+   "여성건강",
+   "신체이미지"
+  ],
+  "evidence": "creatine supplements market has shifted its focus towards ‘almond daughters’, casual gym-goers and Pilates princesses",
+  "kind": "뉴스·이슈",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "시장 데이터와 브랜딩 전략의 변화를 구체적으로 연결하여 건강 보조제 시장의 미학적 전환을 명확히 분석함.",
+  "v": 2,
+  "url": "https://www.dazeddigital.com/beauty/article/71362/1/why-are-women-getting-obsessed-with-creatine-pilates-supplements-wellness-trend?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=why-are-so-many-young-women-getting-obsessed-with-creatine",
+  "original_title": "Why are so many young women getting obsessed with creatine?",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 9000,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-17 03:30",
+  "research": {
+   "entities": [
+    "Arrae",
+    "Midi",
+    "Cymbiotika",
+    "Erewhon"
+   ],
+   "questions": [
+    "크레아틴이 여성의 신체와 근육 성장에 미치는 과학적 효능과 권장 섭취량은 무엇인가?",
+    "최근 건강 보조 식품 시장에서 여성 소비자를 타겟팅한 브랜딩 전략이 어떻게 변화하고 있는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Creatine Supplements Market Size And Share Report, 2033",
+     "url": "https://www.grandviewresearch.com/industry-analysis/creatine-supplements-market-report"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Creatine",
+     "url": "https://my.clevelandclinic.org/health/treatments/17674-creatine"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 5200
+  },
+  "depth_raw": 4,
+  "depth_v": 2
  }
 }
