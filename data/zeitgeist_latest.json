@@ -1,55 +1,55 @@
 {
-  "generated_at": "2026-11-17 03:28 KST",
+  "generated_at": "2026-11-17 07:29 KST",
   "period": "2026.11.10 - 2026.11.17",
   "total_articles": 536,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 234
+      "count": 237
     },
     {
       "genre": "동시대 미술",
-      "count": 192
+      "count": 187
     },
     {
       "genre": "미디어 파사드·3D",
-      "count": 65
+      "count": 69
     },
     {
       "genre": "아방가르드 패션",
-      "count": 45
+      "count": 43
     }
   ],
   "themes": [
     {
       "keyword": "박물관·전시",
-      "count": 46,
+      "count": 49,
       "previous_count": 35,
       "trend": "rising",
       "items": [
+        {
+          "title": "Why Is the Whitney Museum Selling a De Kooning Painting?",
+          "url": "https://hyperallergic.com/why-is-the-whitney-museum-selling-a-de-kooning-painting/",
+          "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/11/crop-de-kooning-.jpeg",
+          "source_name": "Hyperallergic"
+        },
+        {
+          "title": "Met Announces Major Collaboration with Shanghai Museum",
+          "url": "https://www.artforum.com/news/met-announces-collaboration-with-shanghai-museum-1234763655/",
+          "image_url": "https://www.artforum.com/wp-content/uploads/2026/11/unnamed.jpg?w=650",
+          "source_name": "Artforum"
+        },
+        {
+          "title": "ways of growing: 20 artists explore plants as design collaborators in lisbon exhibition",
+          "url": "https://www.designboom.com/art/ways-of-growing-20-artists-plants-design-collaborators-lisbon-exhibition/",
+          "image_url": "https://www.designboom.com/wp-content/dbsub/440512/2026-11-05/ways-of-growing-20-artists-explore-plants-as-collaborators-in-lisbon-exhibition-1-6aec5ebd1dfed.jpg",
+          "source_name": "Designboom Art"
+        },
         {
           "title": "Other Circle은 '전체적인 창의 문화'에서 영감을 얻고자 합니다.",
           "url": "https://www.dezeen.com/2026/06/23/other-circle-inspiration-creative-culture-copenhagen/",
           "image_url": "https://static-2026.dezeen.com/uploads/2026/06/other-circle-2026-copenhagen_dezeen_2364_col_sq-852x852.jpg",
           "source_name": "Dezeen Lighting"
-        },
-        {
-          "title": "파이프 클리너부터 점토까지, 'Interwoven'에서 공예 전통을 깨는 바구니",
-          "url": "https://www.thisiscolossal.com/2026/11/interwoven-basketry-as-expanded-practice-craft-exhibition/",
-          "image_url": "https://www.thisiscolossal.com/wp-content/uploads/2026/11/basketry-9-e1794842263977.jpg",
-          "source_name": "This Is Colossal"
-        },
-        {
-          "title": "Apple, Designers of Tomorrow 전시회에서 업사이클링한 중고 가구와 바나나 잎 종이 등불 선보여",
-          "url": "https://www.dezeen.com/2026/10/21/apple-designers-of-tomorrow-show-2026/",
-          "image_url": "https://static-2026.dezeen.com/uploads/2026/10/apple-designers-of-tomorrow_dezeen_2364_col_sq2-1024x1024.jpg",
-          "source_name": "Dezeen Lighting"
-        },
-        {
-          "title": "Lotus L. Kang Wins $70,000 Sobey Art Award",
-          "url": "https://www.artforum.com/news/lotus-l-kang-wins-2026-sobey-art-award-1234763642/",
-          "image_url": "https://www.artforum.com/wp-content/uploads/2026/11/Lotus-L-Kang.jpeg?w=650",
-          "source_name": "Artforum"
         }
       ]
     },
@@ -87,10 +87,16 @@
     },
     {
       "keyword": "목재 건축",
-      "count": 19,
+      "count": 18,
       "previous_count": 5,
       "trend": "rising",
       "items": [
+        {
+          "title": "The Black Timber / SO Arquitetura & Design",
+          "url": "https://www.archdaily.com/1188494/the-black-timber-so-arquitetura-and-design",
+          "image_url": "https://images.adsttc.com/media/images/6af4/6d3f/c23f/1f01/895a/f3d8/large_jpg/the-black-timber-so-arquitetura-and-design_21.jpg?1794403714",
+          "source_name": "ArchDaily"
+        },
         {
           "title": "목재의 다재다능함을 보여주는 8가지 제품",
           "url": "https://www.dezeen.com/2026/08/14/kitchens-chairs-seating-tables-lighting-wood-timber-dezeen-showroom/",
@@ -108,12 +114,6 @@
           "url": "https://leibal.com/furniture/calma/",
           "image_url": "https://leibal.com/wp-content/uploads/2026/11/leibal-calma-helena-clunies-ross-design-5.jpg",
           "source_name": "Leibal"
-        },
-        {
-          "title": "B2 Architecture, 북한 탈북자들의 증언을 프라하 전시회로 선보이다",
-          "url": "https://www.dezeen.com/2026/11/16/life-behind-the-walls-north-korea-exhibition-b2-architecture-prague/",
-          "image_url": "https://static-2026.dezeen.com/uploads/2026/11/life-behind-the-walls-north-korea-exhibition-b2-architecture-prague-sq_dezeen_2364_col_5-1024x1024.jpg",
-          "source_name": "Dezeen"
         }
       ]
     },
@@ -182,45 +182,44 @@
       ]
     },
     {
-      "keyword": "콘크리트 물성",
-      "count": 9,
-      "previous_count": 6,
+      "keyword": "사진",
+      "count": 12,
+      "previous_count": 10,
       "trend": "rising",
       "items": [
         {
-          "title": "원료부터 현장까지: 회수 및 가공 소재가 디자인에 미치는 영향",
-          "url": "https://www.archdaily.com/1188462/from-source-to-site-how-recovered-and-engineered-materials-shape-design",
-          "image_url": "https://images.adsttc.com/media/images/6af3/da3a/8074/f401/89de/e1ba/large_jpg/building-with-what-remains-rethinking-material-resources-in-architecture_8.jpg?1794366048",
-          "source_name": "ArchDaily"
+          "title": "AnOther’s Paris Photo 2026 Highlights",
+          "url": "https://www.anothermag.com/art-photography/17635/anothers-paris-photo-2026-highlights?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=another-s-paris-photo-2026-highlights",
+          "image_url": "https://images-prod.anothermag.com/786/azure/another-prod/480/0/480368.jpg",
+          "source_name": "AnOther Magazine"
         },
         {
-          "title": "Pepper & Well, 폴 카우치 하우스의 콘크리트 건축물을 모방한 욕실 디자인",
-          "url": "https://www.dezeen.com/2026/11/16/lumeah-bathroom-renovation-paul-couch-house-pepper-well/",
-          "image_url": "https://static-2026.dezeen.com/uploads/2026/11/lumea-bathroom-pepper-well_dezeen_2364_sq_0-1024x1024.jpg",
-          "source_name": "Dezeen"
+          "title": "OPPO Find X10 플래그십 스마트폰, 2억 화소 하셀블라드 카메라로 아름다움을 포착",
+          "url": "https://www.designboom.com/technology/oppo-hasselblad-cameras-find-x10-flagship-smartphones/",
+          "image_url": "https://www.designboom.com/wp-content/uploads/2026/11/Find-X10-Pro-Max-1.jpg",
+          "source_name": "Designboom Technology"
         },
         {
-          "title": "아파트먼트 NDRX / 스튜디오 짚샌드콘크리트",
-          "url": "https://www.archdaily.com/1187502/apartment-ndrx-studio-gypsandconcrete",
-          "image_url": "https://images.adsttc.com/media/images/6adf/2538/3271/8400/01d0/e92d/large_jpg/1.jpg?1793008985",
-          "source_name": "ArchDaily"
+          "title": "Lotus L. Kang Wins $70,000 Sobey Art Award",
+          "url": "https://www.artforum.com/news/lotus-l-kang-wins-2026-sobey-art-award-1234763642/",
+          "image_url": "https://www.artforum.com/wp-content/uploads/2026/11/Lotus-L-Kang.jpeg?w=650",
+          "source_name": "Artforum"
         },
         {
-          "title": "리노베이션이 필요한 아파트",
-          "url": "https://minimalissimo.com/articles/raw-apartment",
-          "image_url": "https://minimalissimo.com/api/media/file/raw-apartment-featured-v20261027-1200x630.jpg",
-          "source_name": "Minimalissimo"
+          "title": "여름이 그리우신가요? 에밀리 스타인의 다채롭고 활기찬 이탈리아 워터파크 사진 속으로 빠져보세요.",
+          "url": "https://www.itsnicethat.com/articles/emily-stein-aquasplash-photography-project-111126",
+          "image_url": "https://admin.itsnicethat.com/images/c7AnPHqbtvcJYNNSUS0hnEt8JDI=/284194/width-1440/Emily-Stein-Aquasplash-photography-Itsnicethat-7.jpg",
+          "source_name": "It's Nice That"
         }
       ]
     }
   ],
   "notable_names": [
+    "Dezeen Awards",
     "Las Vegas",
+    "Paris Photo",
     "GTA VI",
     "Sharjah Architecture Triennial",
-    "Home Collection",
-    "Artist Spotlight",
-    "Report Finds",
     "David Zwirner",
     "Mexico City",
     "Epstein Ties",
