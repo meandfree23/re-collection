@@ -317431,5 +317431,387 @@
   },
   "depth_raw": 4,
   "depth_v": 2
+ },
+ "yellowtrace.com.au/mosley-thorold-architects-st-marys-townhouse-mews-house-london-heritage-renovation": {
+  "title_ko": "모즐리 소롤드가 설계한 런던 타운하우스, 화려함 대신 질감의 서사로 채우다",
+  "summary_ko": "건축 스튜디오 모즐리 소롤드(Mosley Thorold)가 런던의 세인트 메리 타운하우스와 뮤즈 하우스를 재구성했다. 이들은 고가의 마감재를 나열하는 대신, 공간의 골조와 물성을 드러내는 방식에 집중하여 주거지 본연의 개성을 확보했다.",
+  "lens": "매끈한 마감재를 덜어내고 건축적 뼈대와 재료의 거친 질감을 드러내어, 거주자의 삶이 묻어날 수 있는 빈틈을 설계했다.",
+  "why_now": "과잉된 화려함이 지배하는 주거 디자인에서, 오히려 구조적 본질과 시간의 흔적을 강조하는 태도가 새로운 고급스러움으로 주목받는다.",
+  "mechanism": "공간의 불필요한 장식을 제거하고 구조적 요소를 노출해 물리적 깊이를 더하며, 예산을 물성의 대비와 공간 배치에 집중적으로 할당했다.",
+  "sensory": "균일하게 정돈된 표면 대신 만졌을 때 느껴지는 재료의 거친 질감과, 그림자가 깊게 드리우는 구조적 틈새가 공간의 무게감을 형성한다.",
+  "transfer": "광고나 영상 콘티 구성 시, 매끄러운 조명보다는 재료의 표면 질감을 살리는 측면 광을 활용해 공간의 시간성을 강조하는 샷을 제안한다.",
+  "context": "모즐리 소롤드는 런던을 기반으로 기존 건물의 골조를 보존하고 그 위에 새로운 기능을 입히는 작업을 주로 수행한다.",
+  "findings": [],
+  "keywords": [
+   "모즐리소롤드",
+   "런던건축",
+   "공간디자인",
+   "물성",
+   "타운하우스"
+  ],
+  "evidence": "Where the Budget Went Into Character, Not Gloss.",
+  "kind": "프로젝트",
+  "depth": 2,
+  "grounding": "thin",
+  "depth_reason": "원문 본문을 확보하지 못해 프로젝트의 구체적인 기법과 세부 설계 요소를 확인하기 어렵다.",
+  "v": 2,
+  "url": "https://www.yellowtrace.com.au/mosley-thorold-architects-st-marys-townhouse-mews-house-london-heritage-renovation/",
+  "original_title": "A Gallerist’s London Home by Mosley Thorold Where the Budget Went Into Character, Not Gloss.",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 0,
+  "fetch": "fetch_error:HTTPError",
+  "cliche_hits": [],
+  "read_at": "2026-11-16 11:18",
+  "research": {
+   "entities": [
+    "Mosley Thorold",
+    "St Mary's Townhouse",
+    "Mews House"
+   ],
+   "questions": [
+    "모즐리 소롤드는 세인트 메리 타운하우스와 뮤즈 하우스의 인테리어 디자인에서 어떤 요소를 통해 개성을 살렸는가?",
+    "대규모 예산을 들이지 않고도 고급스러운 공간감을 연출한 디자인 철학은 무엇인가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 2,
+  "depth_v": 2
+ },
+ "archdaily.com/1006617/agnews-k12-campus-lpa-design-studios": {
+  "title_ko": "역사적 정신 건강 시설 부지에 세운 통합 교육 캠퍼스, 애그뉴스 K12",
+  "summary_ko": "미국 산타클라라의 55에이커 부지에 위치한 애그뉴스 K12 캠퍼스는 초등학교, 중학교, 고등학교를 하나의 대지에 통합했다. 엘피에이(LPA)가 설계를 맡았으며, 세 학교는 공통의 건축 언어를 공유하면서도 색채와 조경을 통해 개별 정체성을 유지한다.",
+  "lens": "역사적 대지의 레이어를 이어받아 세 개의 학교를 하나의 건축 언어로 엮는다.",
+  "why_now": "대규모 부지 안에서 단절된 교육 시설을 하나로 묶고 교류를 유도하는 공유 공간 설계 방식이다.",
+  "mechanism": "공통의 골조와 건축 언어를 사용하되 색채, 스케일, 조경으로 각 학교의 영역을 구분하여 시각적 위계를 만든다.",
+  "sensory": "개방된 공유 공간과 밀도 높은 학습 공간이 교차하며 다양한 스케일의 풍경을 만든다.",
+  "transfer": "광고 콘티나 공간 연출에서 복수의 독립된 구역을 하나의 공통 소재와 색채 변주로 연결할 때 적용한다.",
+  "context": "엘피에이(LPA)는 교육 및 공공 건축 분야에서 통합적 설계 방식을 발전시켜 온 스튜디오다.",
+  "findings": [
+   {
+    "text": "Agnews Developmental Center was a state institution located on two campuses in the U.S. state of California; one in Santa Clara and one in San Jose.",
+    "s": 2,
+    "quote": "Agnews Developmental Center was a state institution located on two campuses in the U.S. state of California; one in Santa Clara and one in San Jose."
+   }
+  ],
+  "keywords": [
+   "교육건축",
+   "캠퍼스통합",
+   "재생건축",
+   "LPA"
+  ],
+  "evidence": "The Agnews campus seamlessly integrates separate elementary, middle, and high schools on a single 55-acre site, which was once home to a historic mental health facility.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "대규모 교육 시설 통합 프로젝트의 구조와 배치 방식을 명확히 보여주나 원문 정보가 다소 간결하다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1006617/agnews-k12-campus-lpa-design-studios",
+  "original_title": "Agnews K12 Campus / LPA",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 1756,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-16 11:18",
+  "research": {
+   "entities": [
+    "LPA Design Studios",
+    "Agnews Developmental Center",
+    "Swinerton"
+   ],
+   "questions": [
+    "Agnews K12 캠퍼스가 과거 정신 건강 시설 부지를 어떻게 교육 공간으로 재해석했는가?",
+    "초등학교, 중학교, 고등학교를 하나의 캠퍼스에 통합함으로써 얻는 교육적 이점과 건축적 전략은 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Architecture Firm Award",
+     "url": "https://en.wikipedia.org/wiki/Architecture%20Firm%20Award"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Agnews Developmental Center",
+     "url": "https://en.wikipedia.org/wiki/Agnews%20Developmental%20Center"
+    }
+   ],
+   "used": [
+    2
+   ],
+   "chars": 1889
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "archdaily.com/1187873/terrace-link-extension-yungchelus-chei-chang-architects": {
+  "title_ko": "권위의 지휘대를 공유의 지면으로, 대만 청수 초등학교 테라스 링크",
+  "summary_ko": "대만 창화시 청수 초등학교의 기존 지휘대를 증축하여 공공 조경 공간으로 전환했다. 영치플러스(YUNGCHEI.plus)와 장철일 건축사사무소는 캠퍼스 중앙에 위치한 높은 지휘대를 기하학적 지면으로 확장해 단절된 외부 공간을 하나로 잇는다. 540제곱미터 규모의 이 프로젝트는 수직적 권위의 상징을 수평적 공유의 장으로 재구성했다.",
+  "lens": "수직으로 솟은 권위의 구조물을 지면의 연장선으로 눕혀, 공간을 가로막던 장애물을 보행의 흐름으로 치환한다.",
+  "why_now": "학교라는 폐쇄적 공간 내에서 권위적 오브제를 제거하고, 보행자의 동선을 유도하는 지형적 장치로 전환하는 시도가 도시 공공 설계의 핵심 과제로 부상했다.",
+  "mechanism": "기존 지휘대의 높이를 활용해 완만한 경사로를 조성하고, 이를 캠퍼스 지면과 기하학적으로 연결해 연속적인 보행 동선을 구축했다.",
+  "sensory": "높게 솟아 위압감을 주던 콘크리트 구조물이 완만한 경사면으로 변하며, 보행자가 지면의 높낮이를 따라 자연스럽게 시선을 이동하게 만드는 개방감을 준다.",
+  "transfer": "공간의 중심을 차지한 오브제를 해체할 때, 기존 골조의 높이차를 활용해 계단식 좌석이나 완만한 경사로를 설계하여 동선을 자연스럽게 유도하는 콘티를 짤 수 있다.",
+  "context": "대만 창화현 청수 초등학교의 기존 지휘대가 점유하던 중앙 공간을 재해석하여 캠퍼스의 단절된 흐름을 복구하고자 했다.",
+  "findings": [],
+  "keywords": [
+   "공공조경",
+   "지형설계",
+   "캠퍼스건축",
+   "동선설계"
+  ],
+  "evidence": "Terrace Link transforms the school command stand from an object of authority into a shared public landscape, reconnecting fragmented campus spaces through a continuous geometric ground.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "권위적 구조물을 공공 조경으로 변모시킨 발상은 명확하나, 상세한 구조적 기법이나 재료의 물성 정보가 부족하다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1187873/terrace-link-extension-yungchelus-chei-chang-architects",
+  "original_title": "Terrace Link Extension / YUNGCHEI.plus｜Chei Chang Architects",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 1086,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-16 11:18",
+  "research": {
+   "entities": [
+    "Chei Chang Architects",
+    "Chingshuei Elementary School"
+   ],
+   "questions": [
+    "테라스 링크 프로젝트는 학교의 권위적인 지휘대를 어떻게 공공 조경 공간으로 변모시켰는가?",
+    "창화현의 청수초등학교 캠퍼스 내에서 끊어진 공간들을 연속적인 기하학적 대지가 어떻게 연결하고 있는가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "designboom.com/art/two-luminous-eggs-hand-woven-metal-frame-old-submarine-shipyard-mast-estonia-inimruum-un-like": {
+  "title_ko": "에스토니아 노블레스너의 산업 유산, 20미터 높이의 빛나는 둥지로 재탄생하다",
+  "summary_ko": "에스토니아 탈린 노블레스너 지구의 버려진 조선소 조명 마스트에 설치된 '네스트 2(Nest 2)'는 산업 유산을 공공 예술로 전환한 사례다. 공간 디자인 스튜디오 이님룸(Inimruum)과 조명 브랜드 언라이크(un-like)는 앵글 철제를 손으로 엮어 만든 2.5미터 직경의 구조물 안에 폴리에틸렌 소재의 빛나는 달걀 두 개를 배치했다.",
+  "lens": "산업 현장의 낡은 수직 구조물을 물리적 프레임으로 삼아, 빛의 밀도와 기하학적 실루엣으로 도시의 밤을 재구성한다.",
+  "why_now": "산업 유산의 물리적 골조를 해체하지 않고, 그 위에 비정형의 유기적 형태를 얹어 시간의 레이어를 중첩하는 방식이 도시 재생의 새로운 문법으로 주목받는다.",
+  "mechanism": "기존 마스트의 강철 프로파일을 모방한 앵글 철제 격자망을 20미터 높이에 고정하고, 그 내부에 회전 성형된 반투명 폴리에틸렌 유닛을 배치해 빛의 확산을 조절한다.",
+  "sensory": "낮에는 해안가 하늘을 배경으로 한 철제 격자의 선명한 실루엣이, 밤에는 프로그램된 LED 조명이 반투명한 달걀 내부를 투과하며 차가운 금속과 대조되는 부드러운 빛을 발산한다.",
+  "transfer": "철제 구조물과 조명 유닛의 결합을 통해 공간의 수직성을 강조하고, 특정 시간대에만 작동하는 프로그래밍된 조명으로 장소의 분위기를 완전히 전환하는 연출 기법을 적용할 수 있다.",
+  "context": "본 프로젝트는 2024년 칼라란나 거리에서 시작된 공공 예술 시리즈의 연장선에 있다. 이전 작업이 곡선형 지붕 마감재를 활용했다면, 이번 작업은 조선소 마스트의 산업적 형태를 반영하여 더욱 밀도 높고 바람에 저항하는 기하학적 구조를 취했다.",
+  "findings": [
+   {
+    "text": "에스토니아의 건설사 메르코(Merko)는 발트해 연안에서 활동하는 주요 건설 기업으로, 본 프로젝트의 발주를 담당했다.",
+    "s": 2,
+    "quote": "Merko Ehitus is an Estonian construction company (joint-stock company) which is focusing on prime contracting and project management. The company is active in Baltic countries being one of the leading construction compan"
+   }
+  ],
+  "keywords": [
+   "산업유산",
+   "공공미술",
+   "조명설치",
+   "재생건축",
+   "수직구조"
+  ],
+  "evidence": "repurposes a decommissioned industrial lighting mast on Lennusadama Street",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "산업 유산의 물리적 특징을 보존하면서도 새로운 조형적 해석을 더한 구체적인 사례로, 공간 재생의 방법론이 명확하다.",
+  "v": 2,
+  "url": "https://www.designboom.com/art/two-luminous-eggs-hand-woven-metal-frame-old-submarine-shipyard-mast-estonia-inimruum-un-like/",
+  "original_title": "two luminous eggs nestle inside hand-woven metal frame on old shipyard mast in estonia",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 4317,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-16 11:18",
+  "research": {
+   "entities": [
+    "Inimruum",
+    "un-like",
+    "Merko",
+    "Estonian Museum of Natural History"
+   ],
+   "questions": [
+    "Nest 2 설치물이 위치한 노블레스너(Noblessner) 지역의 산업 유산 재생 과정은 어떠한가?",
+    "Nest 2의 디자인 모티브가 된 2024년 Nest 설치물과 이번 작품의 구조적 차이점은 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Home",
+     "url": "https://un-like.com/"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Merko Ehitus",
+     "url": "https://en.wikipedia.org/wiki/Merko%20Ehitus"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Estonian Museum of Natural History",
+     "url": "https://en.wikipedia.org/wiki/Estonian%20Museum%20of%20Natural%20History"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3
+   ],
+   "chars": 1835
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "wallpaper.com/architecture/residential/studio-kap-re-shapes-an-old-stone-dog-kennel-into-a-contemporary-country-house": {
+  "title_ko": "스코틀랜드 로스두 사유지, 낡은 석조 개집에서 현대적 전원주택으로",
+  "summary_ko": "글래스고의 건축 스튜디오 캡(Studio KAP)이 로몬드 호수 인근의 버려진 석조 개집을 현대적 주거 공간으로 재탄생시켰다. 기존 39제곱미터 규모의 석조 본체를 주택의 중심축으로 삼고, 그 양옆으로 피그멘토 레드 색상의 아연 지붕을 얹은 비정형 확장 공간을 덧대어 총 100제곱미터의 거주 면적을 확보했다.",
+  "lens": "기존 석조 구조를 박제하지 않고 거주자의 동선이 교차하는 사회적 중심지로 전유하여, 시간의 층위가 겹친 밀도 높은 공간을 구축한다.",
+  "why_now": "보존과 개발이 충돌하는 국립공원 내에서 기존 유산을 해체하지 않고, 지형과 시야에 순응하는 증축으로 건축적 해법을 제시한다.",
+  "mechanism": "기존 석조 본체를 주택의 척추로 삼아 거실과 침실 파빌리온을 사선으로 배치하고, 아연 지붕으로 전체를 묶어 독립된 건물들이 모여 있는 마을 같은 인상을 연출한다.",
+  "sensory": "거친 석조 벽체와 밝은 미국산 화이트 오크 가구가 대비를 이루며, 천창을 통해 쏟아지는 빛이 이중 높이의 중앙 공간을 수직으로 관통한다.",
+  "transfer": "공간의 중심에 오래된 물성을 배치하고, 주변으로 각도를 튼 현대적 매스를 덧대어 시야를 확장하는 공간 연출법을 콘티에 적용한다.",
+  "context": "스튜디오 캡은 2002년 크리스토퍼 플랫과 헬렌 캠벨이 설립한 글래스고 기반의 건축 사무소다. 이들은 지역의 맥락을 읽고 세밀한 디테일을 강조하는 설계로 알려져 있으며, 이번 프로젝트는 국립공원 내 모범적인 증축 사례로 평가받았다.",
+  "findings": [
+   {
+    "text": "스튜디오 캡은 글래스고에 기반을 둔 건축 사무소로, 세밀한 디테일과 품질을 갖춘 설계를 지향한다.",
+    "s": 1,
+    "quote": "Based in Glasgow, we’re known for the quality and detail of our award-winning designs."
+   }
+  ],
+  "keywords": [
+   "석조 건축",
+   "공간 증축",
+   "로몬드 호수",
+   "아연 지붕",
+   "스튜디오 캡"
+  ],
+  "evidence": "the stone structure acts as the spine of the new dwelling while internally it becomes the social centre of gravity of the new composition",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "국립공원이라는 제약 조건 속에서 기존 유산을 주거의 중심축으로 재해석한 구조적 전략이 명확하다.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/architecture/residential/studio-kap-re-shapes-an-old-stone-dog-kennel-into-a-contemporary-country-house",
+  "original_title": "Studio KAP re-shapes an old stone dog kennel into a contemporary country house",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 3700,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-16 11:18",
+  "research": {
+   "entities": [
+    "Studio KAP",
+    "Christopher Platt",
+    "Helen Campbell",
+    "Rossdhu Estate",
+    "Loch Lomond & The Trossachs National Park"
+   ],
+   "questions": [
+    "Studio KAP는 스코틀랜드의 국립공원 내에서 어떻게 엄격한 건축 규제를 통과하고 현대적인 증축 허가를 받아냈는가?",
+    "기존의 낡은 석조 개집 구조를 중심축으로 삼아 공간을 확장하면서 주거 공간의 에너지 효율을 어떻게 극대화했는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Glasgow Architecture Firm | kāp",
+     "url": "https://www.studiokap.com/"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Kap G",
+     "url": "https://en.wikipedia.org/wiki/Kap%20G"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 624
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "wallpaper.com/transportation/the-sanrivatti-one-is-a-hypercar-built-for-one-complete-with-a-daring-driving-position": {
+  "title_ko": "산리바티 원: 전투기 캐노피와 바이크 자세로 재해석한 1인승 하이퍼카",
+  "summary_ko": "네덜란드의 산리바티(Sanrivatti)가 공개한 1인승 하이퍼카 '원(ONE)'은 전투기와 송골매의 비행 형태에서 영감을 받은 공기역학적 외관을 갖췄다. 이 차량은 운전자가 차체 중앙 척추를 타고 앉는 '에이펙스 포지션(Apex Position)'을 도입해 시야각을 극대화했다. 1,100kg의 경량 탄소섬유 모노코크 구조와 V10 엔진을 결합하여 트랙 주행 성능에 집중했다.",
+  "lens": "운전자의 신체를 기계의 중심축 위에 배치하여, 차체를 감싸는 시각적 장벽을 제거하고 전방 시야를 물리적으로 확장했다.",
+  "why_now": "기능 중심의 하이퍼카 설계가 관성에서 벗어나, 인간의 신체적 배치와 시야를 재정의하는 새로운 공간적 시나리오를 실험하고 있다.",
+  "mechanism": "중앙 척추 위에 올라타는 자세와 전투기식 캐노피 구조를 결합해, 운전자의 눈높이를 지면과 가깝게 낮추고 전방 시야를 기존 하이퍼카 대비 3.2배 확보했다.",
+  "sensory": "낮게 깔린 탄소섬유 차체와 후면을 감싸는 거대한 윙, 수직 핀이 만드는 날카로운 실루엣이 비행체와 같은 긴장감을 전달한다.",
+  "transfer": "공간 연출 시 관람객의 눈높이를 의도적으로 낮추거나 신체 중심을 가르는 구조물을 배치하여, 고정된 시점을 강제로 전환하는 동선을 설계할 수 있다.",
+  "context": "산리바티 원은 고든 머레이(Gordon Murray)의 로켓이나 맥머트리(McMurtry) 스피얼링과 같은 1인승 트랙 전용 차량의 계보를 잇는다. 하지만 기존 자동차 설계와 달리 모터사이클의 라이딩 포지션을 4륜 자동차에 이식한 파격적인 시도를 보여준다.",
+  "findings": [
+   {
+    "text": "고든 머레이는 브라밤과 맥라렌 포뮬러 원 팀의 수석 디자이너를 거쳐 고성능 스포츠카를 제작하는 고든 머레이 오토모티브를 설립했다.",
+    "s": 1,
+    "quote": "renowned firstly as lead designer for Brabham and technical director for McLaren Formula 1 racing teams, during 1969–1986 and 1987–1991 respectively, then as designer of high-end, high-performance sports cars"
+   },
+   {
+    "text": "맥머트리 스피얼링은 차량 하부에 팬을 장착해 정지 상태에서도 강력한 다운포스를 생성하는 능동형 공기역학 시스템을 사용한다.",
+    "s": 2,
+    "quote": "A distinguishing feature of the car is its use of \"active downforce\", achieved through integrated fans that generate suction to increase grip, even while stationary."
+   }
+  ],
+  "keywords": [
+   "산리바티",
+   "에이펙스포지션",
+   "하이퍼카",
+   "공기역학",
+   "모노코크"
+  ],
+  "evidence": "the Apex Position showed an average of 3.2 times more visible racing surface than the ten benchmark hypercars",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "운전 자세를 통한 시야 확보라는 구체적인 설계 논리와 공학적 근거가 명확하며, 기존 하이퍼카와 차별화되는 구조적 시도가 돋보인다.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/transportation/the-sanrivatti-one-is-a-hypercar-built-for-one-complete-with-a-daring-driving-position",
+  "original_title": "The Sanrivatti ONE is a hypercar built for one, complete with a daring driving position",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 3324,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-16 11:18",
+  "research": {
+   "entities": [
+    "Sanrivatti",
+    "Gordon Murray",
+    "BAC Mono",
+    "McMurtry Spéirling",
+    "ItalDesign Giugiaro"
+   ],
+   "questions": [
+    "Sanrivatti ONE이 채택한 'Apex Position'은 기존의 일반적인 자동차 운전 자세와 비교했을 때 어떤 공학적 이점을 제공하는가?",
+    "이 차량의 디자인에 영감을 준 전투기 및 송골매의 형태적 특징이 실제 차량의 공기역학적 성능에 어떻게 반영되었는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Gordon Murray",
+     "url": "https://en.wikipedia.org/wiki/Gordon%20Murray"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "McMurtry Spéirling",
+     "url": "https://en.wikipedia.org/wiki/McMurtry%20Sp%C3%A9irling"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 1903
+  },
+  "depth_raw": 4,
+  "depth_v": 2
  }
 }

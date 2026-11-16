@@ -3683,16 +3683,30 @@
  },
  "2026-11-16": {
   "date": "2026-11-16",
-  "headline": "기상 데이터의 점술과 면도날이 깎아낸 곡선의 벽",
-  "editorial": "실시간 기상 데이터를 점술의 영역으로 옮긴 '퍼니 웨더'는 예측 불가능한 자연을 인간의 통제 밖으로 밀어낸다. 이와 대조적으로 베를린 뮐레 플래그십은 면도날의 정밀함을 빌려 딱딱한 모서리를 둥근 곡선으로 깎아내며 인체의 굴곡을 공간에 새겼다. 거대한 기후 변화를 직시하는 시선과 일상의 사물을 정교하게 다듬는 손길은 서로 다른 층위에서 우리가 마주한 환경을 재단한다. 기술과 감각이 교차하는 지점에서 오늘 우리는 사물이 놓인 자리와 그 너머의 풍경을 읽는다.",
+  "headline": "기상 데이터의 점술과 산업 유산의 빛나는 둥지",
+  "editorial": "테오 트라이안타필리디스의 퍼니 웨더는 기상 데이터를 점술의 영역으로 끌어들여 인간의 통제를 벗어난 기후를 시뮬레이션한다. 에스토니아 노블레스너의 산업 유산은 20미터 높이의 수직 구조물을 빛의 둥지로 재생해 도시의 밤을 바꾼다. 산리바티 원은 전투기 캐노피를 적용해 운전자의 신체를 기계 중심축에 두고 시야를 확장한다. 이처럼 서로 다른 영역의 프로젝트들은 기존의 뼈대를 재조합하거나 새로운 감각적 축을 세우며 일상의 공간과 기술을 재편한다.",
   "threads": [
    {
-    "name": "예측과 정밀함의 대조",
-    "note": "데이터로 거대한 기후를 추측하는 것과 인체의 굴곡을 공간으로 정교하게 구현하는 방식을 살핀다.",
+    "name": "오래된 뼈대의 재구성",
+    "note": "뉴욕 터널과 에스토니아 노블레스너는 거친 산업 유산의 골조를 새로운 환대와 공공미술 공간으로 바꾼다.",
     "items": [
      {
-      "title": "기상 데이터와 점술의 결합: 테오 트라이안타필리디스의 실시간 시뮬레이션 '퍼니 웨더'",
-      "url": "https://www.designboom.com/art/bird-plane-funny-weather-theo-triantafyllidis/"
+      "title": "뉴욕 터널의 귀환, 산업 유산의 골조 위에 얹은 환대와 서부의 기억",
+      "url": "https://www.wallpaper.com/design-interiors/interior-design/classic-new-york-club-revival"
+     },
+     {
+      "title": "에스토니아 노블레스너의 산업 유산, 20미터 높이의 빛나는 둥지로 재탄생하다",
+      "url": "https://www.designboom.com/art/two-luminous-eggs-hand-woven-metal-frame-old-submarine-shipyard-mast-estonia-inimruum-un-like/"
+     }
+    ]
+   },
+   {
+    "name": "신체와 기계의 결합",
+    "note": "산리바티 원과 베를린 뮐레 플래그십은 인체의 굴곡과 모노코크 구조를 밀밀하게 맞물려 새로운 이동과 경험의 축을 만든다.",
+    "items": [
+     {
+      "title": "산리바티 원: 전투기 캐노피와 바이크 자세로 재해석한 1인승 하이퍼카",
+      "url": "https://www.wallpaper.com/transportation/the-sanrivatti-one-is-a-hypercar-built-for-one-complete-with-a-daring-driving-position"
      },
      {
       "title": "면도날의 정밀함과 인체의 굴곡으로 빚어낸 베를린 뮐레 플래그십",
@@ -3701,23 +3715,23 @@
     ]
    },
    {
-    "name": "공간의 용도 전환",
-    "note": "기존 구조물을 유지하면서도 주거를 무대로, 산업 유산을 이벤트 장소로 바꾸는 방식에 주목한다.",
+    "name": "역사적 부지의 전유",
+    "note": "스코틀랜드 로스두 사유지와 애그뉴스 K12는 과거의 석조 건축과 교육시설 부지를 동선의 교차점으로 재편한다.",
     "items": [
      {
-      "title": "뉴욕 터널의 귀환, 산업 유산의 골조 위에 얹은 환대와 서부의 기억",
-      "url": "https://www.wallpaper.com/design-interiors/interior-design/classic-new-york-club-revival"
+      "title": "스코틀랜드 로스두 사유지, 낡은 석조 개집에서 현대적 전원주택으로",
+      "url": "https://www.wallpaper.com/architecture/residential/studio-kap-re-shapes-an-old-stone-dog-kennel-into-a-contemporary-country-house"
      },
      {
-      "title": "주거와 무대의 융합, 조지아 트빌리시의 아파트 NDRX",
-      "url": "https://www.archdaily.com/1187502/apartment-ndrx-studio-gypsandconcrete"
+      "title": "역사적 정신 건강 시설 부지에 세운 통합 교육 캠퍼스, 애그뉴스 K12",
+      "url": "https://www.archdaily.com/1006617/agnews-k12-campus-lpa-design-studios"
      }
     ]
    }
   ],
-  "based_on": 9,
+  "based_on": 15,
   "v": 3,
-  "model": "gemini-3.1-flash-lite-preview",
-  "written_at": "2026-11-16 04:51"
+  "model": "gemini-3.5-flash-lite",
+  "written_at": "2026-11-16 11:18"
  }
 }
