@@ -328350,5 +328350,1076 @@
   },
   "depth_raw": 3,
   "depth_v": 2
+ },
+ "dezeen.com/2026/06/01/baguette-studio-wax-lamps-le-labo": {
+  "title_ko": "바게트 스튜디오, 회전 성형으로 구현한 무한 재활용 왁스 램프",
+  "summary_ko": "파리 기반의 바게트 스튜디오가 자체 제작한 회전 성형 기계를 활용해 왁스 램프 컬렉션 '르 라보 1.0'을 선보였다. 400g 또는 800g의 천연 왁스를 회전 성형하여 제작한 갓은 손상 없이 녹여 재사용이 가능하다. 스테인리스 스틸 베이스를 공유하는 모듈형 구조로 벽등, 펜던트, 테이블 조명으로 변형할 수 있다.",
+  "lens": "완제품의 소비가 아닌 왁스라는 원재료의 순환에 집중하여, 산업 공정을 도시 단위의 마이크로 생산으로 축소한 점이 핵심이다.",
+  "why_now": "디지털 제조의 효율성과 자연 소재의 물성을 결합해 제품의 소유 개념을 물질적 가치로 환원하려는 시도가 주목받는다.",
+  "mechanism": "표준 알루미늄 프로파일로 제작한 소형 회전 성형기를 사용하여 45분간 왁스를 금형 내부에서 회전시켜 균일한 두께의 중공체를 형성한다.",
+  "sensory": "100% 천연 밀랍과 식물성 왁스 블렌드를 사용하여 매끄러운 질감을 구현했으며, 섭씨 100도까지 견디는 강도로 끈적임이나 먼지 흡착을 방지했다.",
+  "transfer": "현장 제작이 가능한 소형 회전 성형 기법을 활용해 특정 공간의 기하학적 형태에 맞춘 조명을 즉석에서 캐스팅하는 연출에 적용할 수 있다.",
+  "context": "바게트 스튜디오는 산업 공정을 해체하고 재해석하는 모델을 탐구하며, 이번 프로젝트는 오픈스트럭처스(OpenStructures) 기반의 모듈형 설계를 통해 지속 가능한 제품 관계를 지향한다.",
+  "findings": [
+   {
+    "text": "왁스 블렌드는 섭씨 80도까지 변형 없이 견딜 수 있으며 생분해성 소재로 구성된다.",
+    "s": 1,
+    "quote": "The wax blend developped by Baguette Studio can whitstand 80°c before deforming, is biodegradable and from renewable sources."
+   },
+   {
+    "text": "스테인리스 스틸 베이스는 분해 후 다른 오브제 제작에 재사용할 수 있도록 설계되었다.",
+    "s": 1,
+    "quote": "The stainless steel base can be reused in other objects after dismantling, via OpenStructures."
+   }
+  ],
+  "keywords": [
+   "회전성형",
+   "지속가능디자인",
+   "모듈형조명",
+   "천연왁스",
+   "마이크로생산"
+  ],
+  "evidence": "The wax lampshades that can be melted down and recycled without any loss of material using its own custom-built rotational moulding machine.",
+  "kind": "프로젝트",
+  "depth": 5,
+  "grounding": "full",
+  "depth_reason": "산업 공정을 소규모 현장 제조로 치환한 기술적 시도와 소유권에 대한 철학적 접근이 결합된 완성도 높은 프로젝트다.",
+  "v": 2,
+  "url": "https://www.dezeen.com/2026/06/01/baguette-studio-wax-lamps-le-labo/",
+  "original_title": "Meltable wax lamps by Baguette Studio can be endlessly remade",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 4939,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-16 19:04",
+  "research": {
+   "entities": [
+    "Baguette Studio",
+    "Philippe Gaud",
+    "Emma Lohner",
+    "Le Labo 1.0"
+   ],
+   "questions": [
+    "회전 성형(rotational moulding) 기법을 왁스 소재에 적용했을 때 얻을 수 있는 디자인적, 환경적 이점은 무엇인가?",
+    "제품의 소유권 개념을 '완제품'에서 '원재료(왁스)'로 전환하려는 바게트 스튜디오의 철학은 지속 가능한 디자인에 어떤 시사점을 주는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Baguette Studio",
+     "url": "https://www.baguettestudio.fr/project-lelabo1.0"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 1020
+  },
+  "depth_raw": 5,
+  "depth_v": 2
+ },
+ "dezeen.com/2026/05/28/lucifer-lightin-recycled-ocean-plastic-lights": {
+  "title_ko": "루시퍼 라이팅, 해양 폐그물과 낚싯줄로 다운라이트 양산 돌입",
+  "summary_ko": "텍사스 조명 기업 루시퍼 라이팅이 수백만 피트의 해양 폐그물과 낚싯줄을 녹여 사출 성형 공정에 투입하는 방식으로 '아토모스' 다운라이트 시리즈를 전면 재활용 플라스틱 제품으로 전환했다. 이는 건축용 조명 브랜드 중 최초의 대량 생산 사례이며, 첫 12개월 동안 1,085파운드의 폐기물을 바다에서 건져낼 예정이다.",
+  "lens": "버려진 어구의 물성을 건축용 정밀 기기의 몸체로 치환해 폐기물과 양산 공정 사이의 기술적 간극을 좁힌다.",
+  "why_now": "많은 스튜디오가 프로토타입 단계에 머물렀던 해양 플라스틱 재활용을 실제 대량 생산 라인에 안착시켰다는 점에서 의미가 크다.",
+  "mechanism": "수거한 낚싯줄과 그물을 용융하여 기존 사출 성형 공정에 직접 주입하고, 1인치 및 2인치 구경의 조명 하우징 플라스틱 요소를 대체한다.",
+  "sensory": "초기 시제품 단계에서는 비린내가 나는 물리적 한계를 겪었으나, 정밀한 품질 매칭을 거쳐 규격화된 다운라이트의 질감으로 완성되었다.",
+  "transfer": "공간 연출 콘티에서 해양 폐기물 유래 재생 플라스틱 특유의 미세한 스크래치와 불균일한 입자를 노출시키는 디테일로 현장의 거친 질감을 부여한다.",
+  "context": "루시퍼 라이팅은 세계의 호텔과 미술관 프로젝트를 조명해 온 미국 기반의 가족 경영 조명 기업이다.",
+  "findings": [
+   {
+    "text": "Surfers Against Sewage는 1990년 콘월의 서퍼들에 의해 설립된 해양 보전 자선 단체다.",
+    "s": 2,
+    "quote": "Surfers Against Sewage (SAS) is a marine conservation charity working with communities to protect oceans, waves, beaches and marine life. It was created in 1990 by a group of Cornish surfers from the villages of St Agnes"
+   }
+  ],
+  "keywords": [
+   "해양플라스틱",
+   "다운라이트",
+   "사출성형",
+   "재활용소재"
+  ],
+  "evidence": "Lucifer Lighting has integrated ocean plastic into its Atomos downlighting, melting down millions of feet of fishing lines and nets into its injection moulding processes.",
+  "kind": "제품·오브제",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "건축용 조명 브랜드 최초로 해양 폐기물을 대량 생산에 적용한 구체적 사례이나 정보가 제품 홍보 인터뷰 수준에 머문다.",
+  "v": 2,
+  "url": "https://www.dezeen.com/2026/05/28/lucifer-lightin-recycled-ocean-plastic-lights/",
+  "original_title": "Lucifer Lighting puts recycled ocean-plastic lights into mass production",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 4409,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-16 19:04",
+  "research": {
+   "entities": [
+    "Lucifer Lighting",
+    "Surfers Against Sewage",
+    "Atelier Backlar",
+    "Space Available"
+   ],
+   "questions": [
+    "Lucifer Lighting은 해양 플라스틱을 가공하는 과정에서 발생한 품질 문제를 어떻게 해결했는가?",
+    "건축용 조명 분야에서 재활용 플라스틱을 대량 생산 공정에 도입할 때 직면하는 주요 기술적 장벽은 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Lucifer Lighting",
+     "url": "https://www.luciferlighting.com/"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Surfers Against Sewage",
+     "url": "https://en.wikipedia.org/wiki/Surfers%20Against%20Sewage"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 470
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "dezeen.com/2026/05/29/lisbon-estrela-basilica-portuguese-collectible-design-show": {
+  "title_ko": "18세기 성당의 정적 속에서 조우한 동시대 포르투갈 디자인의 물성",
+  "summary_ko": "리스본 디자인 위크의 일환으로 루소 컬렉티브(Luso Collective)가 18세기 에스트렐라 대성당에서 전시 ‘인테그리티 앤 폼(Integrity and Form)’을 열었다. 12명의 디자이너가 참여해 경화 면, 입으로 불어 만든 크리스털, 와시 종이 등 서로 다른 물성을 지닌 오브제를 바로크-신고전주의 건축 공간에 배치했다. 이는 포르투갈의 수집용 디자인 생태계를 구축하려는 시도다.",
+  "lens": "역사적 종교 건축의 엄숙한 볼륨 안에 비정형적이고 연약한 현대 재료를 배치해 공간의 시간성을 분절하고 재료의 물리적 실체를 극대화한다.",
+  "why_now": "디지털 과잉 시대에 공예적 물성을 전면에 내세워 수집 가치를 재정의하려는 흐름이 포르투갈 로컬 디자인 신에서 가속화되고 있다.",
+  "mechanism": "바로크 양식의 육중한 석조 공간과 대비되는 와시 종이, 경화 면, 얇은 탄소강 구조를 사용하여 빛의 투과와 반사를 조절하고 공간의 깊이감을 생성한다.",
+  "sensory": "어두운 성당 내부를 채우는 와시 종이의 부드러운 확산광과 입으로 불어 만든 크리스털의 불규칙한 표면이 정적인 석조 공간과 대비를 이룬다.",
+  "transfer": "역사적 건축물의 벽면이나 천장고를 배경으로 활용할 때, 금속 프레임 대신 와시 종이나 경화 면과 같은 가벼운 소재를 사용하여 빛을 머금은 오브제를 배치하는 연출이 유효하다.",
+  "context": "루소 컬렉티브는 리스본 디자인 스튜디오 퍼더 데어(Further Ther)의 설립자들이 결성했다. 리스본 디자인 위크는 포르투갈 전역의 장소성을 기반으로 지역 공예와 동시대 디자인을 결합하는 작업을 지속적으로 선보여 왔다.",
+  "findings": [
+   {
+    "text": "리스본 디자인 위크는 포르투갈의 공예적 뿌리를 바탕으로 동시대 디자인 흐름을 주도하는 플랫폼 역할을 수행한다.",
+    "s": 1,
+    "quote": "Craft roots keep LDW on the cutting edge."
+   }
+  ],
+  "keywords": [
+   "포르투갈디자인",
+   "에스트렐라성당",
+   "수집용디자인",
+   "공예적물성",
+   "리스본디자인위크"
+  ],
+  "evidence": "Luso Collective is showing an exhibition aimed at “shaping the collectible design scene in Portugal”",
+  "kind": "전시",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "역사적 건축물과 동시대 공예의 대비를 통한 공간 연출의 방법론이 구체적이고, 포르투갈 디자인 신의 맥락을 명확히 짚어내고 있다.",
+  "v": 2,
+  "url": "https://www.dezeen.com/2026/05/29/lisbon-estrela-basilica-portuguese-collectible-design-show/",
+  "original_title": "Lisbon's Estrela Basilica sets scene for Portuguese collectible design show",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 4894,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-16 19:04",
+  "research": {
+   "entities": [
+    "Estrela Basilica",
+    "Luso Collective",
+    "Lisbon Design Week",
+    "Violaine d’Harcourt",
+    "Tiago Moura"
+   ],
+   "questions": [
+    "Luso Collective가 포르투갈의 수집 가능한 디자인(collectible design) 시장을 형성하기 위해 추구하는 핵심 가치는 무엇인가?",
+    "역사적인 종교 건축물인 Estrela Basilica를 전시 공간으로 활용함으로써 얻는 미학적, 맥락적 효과는 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Lisbon Design Week",
+     "url": "https://www.lisbondesignweek.com/en"
+    },
+    {
+     "n": 2,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "리스본 디자인 위크가 증명하는 로컬 공예의 현대적 변주",
+     "url": "https://www.sightunseen.com/2026/06/ceramic-burlwood-vintage-nightclub-chairs-bronze-reliefs-and-more-from-lisbon-design-week/"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 770
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "dezeen.com/2026/05/27/eighteen-objects-nycxdesign-2026": {
+  "title_ko": "뉴욕 디자인 위크 2026: 금속의 물성과 독립적 서사가 빚어낸 미니멀리즘",
+  "summary_ko": "NYCxDesign 2026은 상업적 중심지인 국제현대가구박람회(ICFF)의 일정 변경을 앞두고, 독립 디자이너들이 주도하는 소규모 전시와 실험적 프로젝트로 채워졌다. 금속을 활용한 구조적 조형과 옥스블러드 톤의 색채가 주를 이뤘으며, 가구와 호스피탈리티 인프라를 결합하거나 일상적 사물에 사회적 맥락을 투영한 작업이 돋보였다.",
+  "lens": "금속의 차가운 물성을 정교한 접합 기법으로 다루며, 미니멀한 형태 속에 개인적 서사와 사회적 저항의 무게를 담아낸다.",
+  "why_now": "상업적 거점의 부재라는 불확실성 속에서 디자이너들이 스스로 전시의 문턱을 낮추고, 일상 공간을 전시장으로 전유하며 새로운 연대를 모색하고 있다.",
+  "mechanism": "레이저 커팅된 금속 유닛을 19세기 목재 짜맞춤 기법으로 결합하거나, 모듈형 시스템에 오디오 모듈을 삽입해 가구와 인프라의 기능을 단일체로 통합한다.",
+  "sensory": "산화된 금속의 서늘한 표면과 옥스블러드 톤의 묵직한 색감이 대비되며, 정교한 기계적 접합부와 비정형의 유기적 형태가 시각적 긴장감을 만든다.",
+  "transfer": "공간 연출 시 금속 패널을 접고 겹쳐 구조적 강도를 확보하고, 조명이나 가전 기기를 가구의 모듈 내부에 매립하여 동선과 기능을 일체화하는 방식을 적용할 수 있다.",
+  "context": "더 퓨처 퍼펙트(The Future Perfect) 등 주요 플랫폼이 주도하는 독립적 전시 흐름은 과거 바우하우스적 엄격함을 현대적 비례로 재해석하던 뉴욕 디자인의 연장선에 있다. ICFF가 2027년부터 11월로 일정을 옮기며 기존의 5월 중심 디자인 축제 구조에 변화가 예고되었다.",
+  "findings": [
+   {
+    "text": "필라델피아의 더드 하우스는 역사적인 올드 시티 지구에 위치한 급진적 디자인 콜렉티브이자 갤러리이다.",
+    "s": 1,
+    "quote": "Dudd Haus is a radical design collective and experiential gallery located in the historic Old City District of Philadelphia, Pennsylvania."
+   },
+   {
+    "text": "국제현대가구박람회(ICFF)는 1989년 설립 이후 매년 뉴욕에서 개최되며 신진 및 기성 디자이너의 가구와 산업 디자인을 선보인다.",
+    "s": 5,
+    "quote": "ICFF, the International Contemporary Furniture Fair, is an annual design show in New York City that showcases trending furniture and industrial design. Each year since its founding in 1989, the ICFF has hosted hundreds o"
+   }
+  ],
+  "keywords": [
+   "금속 공예",
+   "뉴욕 디자인 위크",
+   "모듈러 가구",
+   "미니멀리즘",
+   "독립 디자인"
+  ],
+  "evidence": "The use of metal in designs was prevalent, as were oxblood tones, leading to a richly accented minimalism in many of the designs.",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "전시의 주요 흐름과 구체적인 재료 기법, 사회적 맥락을 연결하여 동시대 디자인의 변화를 명확히 분석했다.",
+  "v": 2,
+  "url": "https://www.dezeen.com/2026/05/27/eighteen-objects-nycxdesign-2026/",
+  "original_title": "Eighteen weird, wonderful and well-made objects from NYCxDesign 2026",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 9000,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-16 19:04",
+  "research": {
+   "entities": [
+    "NYCxDesign",
+    "ICFF",
+    "Egon Riss",
+    "USM",
+    "The Future Perfect"
+   ],
+   "questions": [
+    "NYCxDesign 2026에서 나타난 '풍부한 악센트가 가미된 미니멀리즘'과 금속 소재 활용의 디자인적 배경은 무엇인가?",
+    "ICFF의 11월 이전 개최 결정이 향후 뉴욕 디자인 위크의 상업적 구조와 독립 디자이너들의 활동에 어떤 영향을 미칠 것으로 예상되는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Dudd Haus | Contemporary Design Gallery in Philadelphia | Furniture &",
+     "url": "https://www.duddhaus.com/"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Home",
+     "url": "https://pinchfooddesign.com/"
+    },
+    {
+     "n": 3,
+     "type": "공식·1차",
+     "title": "Symbol | Furniture",
+     "url": "https://www.symbolaudio.com/"
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "NYCxDesign",
+     "url": "https://en.wikipedia.org/wiki/NYCxDesign"
+    },
+    {
+     "n": 5,
+     "type": "위키백과",
+     "title": "International Contemporary Furniture Fair",
+     "url": "https://en.wikipedia.org/wiki/International%20Contemporary%20Furniture%20Fair"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "모더니즘 유산과 조응하는 킴 바텔트의 회화적 설치",
+     "url": "https://www.sightunseen.com/2026/07/a-hotel-in-a-6th-century-monastery-an-office-channeling-90s-new-york-and-more/"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "chars": 4651
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "neural.it/2026/11/alessandro-ludovico-tactical-publishing-using-senses-software-and-archives-in-the-twenty-first-century": {
+  "title_ko": "데이터의 물리적 전이, 택티컬 퍼블리싱이 제시하는 아카이브의 미래",
+  "summary_ko": "알레산드로 루도비코(Alessandro Ludovico)는 저서 '택티컬 퍼블리싱(Tactical Publishing)'을 통해 인쇄와 디지털이 분리된 경쟁 관계를 넘어선 하이브리드 출판 전략을 제시한다. 그는 아카이브를 단순히 정보를 보존하는 곳이 아닌, 문화를 재해석하고 유통하는 동적인 게릴라 기관으로 정의하며 물리적 물성과 디지털 기술의 결합을 강조한다.",
+  "lens": "디지털 피로를 돌파하기 위해 인쇄물의 촉각적 물성과 기계적 연산을 결합하여 정보의 수용 방식을 재설계한다.",
+  "why_now": "자동 생성된 텍스트가 범람하는 시대에 출판물의 물질성을 회복하고, 기술을 창의적으로 오용하여 지식의 생태계를 확장하려는 시도가 필요하다.",
+  "mechanism": "정보를 여러 매체로 변주하는 '리버저닝(reversioning)' 기법과 관객의 개입을 유도하는 '오브제 지향 출판' 모델을 통해 메시지의 밀도를 높인다.",
+  "sensory": "디지털 화면의 평면성을 넘어선 종이의 질감, 아날로그 기계음, 그리고 관객의 물리적 조작이 얽힌 감각적 정보의 층위를 형성한다.",
+  "transfer": "콘티 작업 시 텍스트를 고정된 정보로 보지 말고, 매체 간 차이를 활용해 내용을 굴절시키는 연출을 적용하라. 화면의 픽셀을 물리적 오브제의 질감과 병치하여 정보에 무게감을 부여하는 샷을 구성한다.",
+  "context": "알레산드로 루도비코는 미디어 잡지 '뉴럴(Neural)'의 편집장이자 미디어 아티스트로, 기술의 비판적 사용을 탐구해 왔다. 앤디 워홀이 아미가(Amiga) 컴퓨터로 예술적 실험을 했던 과거처럼, 루도비코는 기술과 예술의 경계를 허무는 하이브리드 방법론을 지속적으로 연구한다.",
+  "findings": [
+   {
+    "text": "알레산드로 루도비코는 1993년부터 미디어 잡지 뉴럴의 편집장을 맡고 있다.",
+    "s": 3,
+    "quote": "Alessandro Ludovico (born 1969) is a researcher, artist and chief editor of Neural magazine since 1993."
+   }
+  ],
+  "keywords": [
+   "택티컬 퍼블리싱",
+   "하이브리드 출판",
+   "매체 변주",
+   "아카이브",
+   "물질성"
+  ],
+  "evidence": "Tactical Publishing offers an historical glance at how publishing has evolved in the post-print/post-digital era",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "출판의 미래 모델과 기술적 방법론을 구체적으로 제시하며, 이론과 실천을 잇는 명확한 관점을 제공한다.",
+  "v": 2,
+  "url": "https://neural.it/2026/11/alessandro-ludovico-tactical-publishing-using-senses-software-and-archives-in-the-twenty-first-century/",
+  "original_title": "Alessandro Ludovico – Tactical Publishing, Using Senses, Software, and Archives in the Twenty-First Century",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 9000,
+  "fetch": "ok",
+  "cliche_hits": [
+   "경계를 허"
+  ],
+  "read_at": "2026-11-16 19:04",
+  "research": {
+   "entities": [
+    "Alessandro Ludovico",
+    "Andy Warhol",
+    "Steve Jobs",
+    "Marshall McLuhan",
+    "The MIT Press"
+   ],
+   "questions": [
+    "알레산드로 루도비코(Alessandro Ludovico)의 저서와 택티컬 퍼블리싱(Tactical Publishing)의 핵심 개념은 무엇인가?",
+    "디지털 시대와 인쇄 문화의 융합 과정에서 예술가들은 아카이브와 소프트웨어를 어떻게 활용해 왔는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "ASCII-graffiti again",
+     "url": "http://goto80.com/blog/ascii-graffiti-again"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Apple (from Ads)",
+     "url": "http://www.sothebys.com/en/auctions/ecatalogue/2015/contemporary-art-day-auction-n09421/lot.102.html"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Alessandro Ludovico",
+     "url": "https://en.wikipedia.org/wiki/Alessandro%20Ludovico"
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "Andy Warhol",
+     "url": "https://en.wikipedia.org/wiki/Andy%20Warhol"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "야마다 코헤이, 뉴욕에서 펼치는 앤디 워홀과 팝 아트의 변주",
+     "url": "https://www.juxtapoz.com/news/painting/kohei-yamada-my-screen-tests-gr-gallery-new-york/"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "세탁소와 슈퍼마켓을 캔버스로 옮긴 일러스트레이터 클라라 비엘",
+     "url": "https://www.creativeboom.com/work/clara-biel-paints-laundromats-pool-halls-and-supermarkets-to-remind-us-to-slow-down/"
+    },
+    {
+     "n": 7,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "무한을 향한 반복의 기록, 야요이 쿠사마를 기리며",
+     "url": "https://www.wallpaper.com/art/yayoi-kusama-obituary-japan"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3
+   ],
+   "chars": 3027
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "archdaily.com/1187877/baashyaam-experience-centre-architecture-dialogue": {
+  "title_ko": "임시성과 가역성을 조립식 구조로 풀어낸 바샤얌 체험 센터",
+  "summary_ko": "인도 첸나이에 건립된 바샤얌 체험 센터는 건축 다이얼로그가 설계한 2500제곱미터 규모의 임시 영업 및 마케팅 파빌리온이다. 기존의 정형화된 부동산 판매 사무소를 벗어나 속도와 가역성을 최우선 과제로 삼아 몰입형 공간 경험을 구현했다.",
+  "lens": "사라질 전제를 안고 세워진 가설 건축물이 공간의 영속성을 대체하는 방식을 보여준다.",
+  "why_now": "도시 개발 프로젝트에서 가설 건축물이 단순한 가벽을 넘어 몰입형 브랜드 경험의 최전선으로 자리 잡는 추세를 보여준다.",
+  "mechanism": "속도와 가역성이라는 요구 조건에 맞춰 해체와 재조립이 용이한 구조적 골조를 중심으로 공간을 구축했다.",
+  "sensory": "임시 구조물 특유의 건조한 물성과 빛이 교차하며 만들어내는 서늘하고 정제된 대형 파빌리온의 스케일을 체감하게 한다.",
+  "transfer": "철거와 해체를 전제한 공간 콘티에서 구조재의 조립 이음새를 노출하여 일시성을 시각적 미감으로 치환하는 연출에 활용한다.",
+  "context": "인도 첸나이를 무대로 활동하는 건축 다이얼로그가 설계하였으며, 상업 시설과 공공 파빌리온의 경계를 탐색하는 작업의 연장선에 있다.",
+  "findings": [],
+  "keywords": [
+   "가역성",
+   "임시파빌리온",
+   "인도건축",
+   "건축다이얼로그"
+  ],
+  "evidence": "Designed as a temporary sales and marketing pavilion for a real estate development in Chennai, the Experience Center rethinks the conventional sales office as an immersive architectural experience. A key requirement of the brief was speed and reversibility.",
+  "kind": "프로젝트",
+  "depth": 2,
+  "grounding": "thin",
+  "depth_reason": "임시 파빌리온의 가역성과 속도를 강조했으나 구체적인 구축 상세가 부족하다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1187877/baashyaam-experience-centre-architecture-dialogue",
+  "original_title": "Baashyaam Experience Centre  / Architecture Dialogue",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 1204,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-16 19:04",
+  "research": {
+   "entities": [
+    "Architecture Dialogue",
+    "Baashyaam",
+    "Visma Structures"
+   ],
+   "questions": [
+    "임시 건축물로서의 '가역성(reversibility)'을 확보하기 위해 어떤 설계 전략이 사용되었는가?",
+    "기존의 부동산 판매 사무소와 비교했을 때, 이 '경험 센터(Experience Centre)'가 제공하는 몰입형 건축 경험의 핵심 요소는 무엇인가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "archdaily.com/1188498/vegetable-building-cho-and-partners": {
+  "title_ko": "연남동 좁은 골목의 틈새: 초앤파트너스의 베지터블 빌딩",
+  "summary_ko": "서울 연남동 경의선 숲길 인근, 폭 4m의 좁은 이면 도로에 위치한 베지터블 빌딩은 기존의 노후 건물을 철거하고 새로 지은 상업용 건축물이다. 초앤파트너스는 수년간 무허가 증축이 반복되었던 기존 건물의 한계를 극복하고, 387㎡ 규모의 새로운 공간을 구축했다.",
+  "lens": "좁은 골목의 물리적 한계를 수직적 볼륨과 투명한 파사드로 돌파하여 도시의 밀도를 재해석했다.",
+  "why_now": "도심의 노후한 저층 주거지가 상업지로 전환되는 과정에서, 기존 건물의 박제 대신 새로운 구조적 해법을 모색하는 사례다.",
+  "mechanism": "기존 건물을 철거하고 신축하는 방식을 택해, 불규칙하게 증축되었던 과거의 물리적 레이어를 제거하고 효율적인 수직 동선을 확보했다.",
+  "sensory": "4m 폭의 좁은 도로에서 올려다볼 때 느껴지는 수직적 개방감과, 유리와 금속이 빚어내는 차갑고 정돈된 질감이 대비를 이룬다.",
+  "transfer": "좁은 이면 도로를 배경으로 할 때, 건물의 파사드를 투명하게 처리하여 시각적 깊이를 확보하고 거리와의 심리적 문턱을 낮추는 연출이 가능하다.",
+  "context": "초앤파트너스는 기존 건물의 무허가 증축과 노후화라는 물리적 한계를 신축을 통해 해결하며 연남동의 상업적 맥락에 대응했다.",
+  "findings": [],
+  "keywords": [
+   "초앤파트너스",
+   "연남동건축",
+   "상업건축",
+   "도심신축",
+   "파사드설계"
+  ],
+  "evidence": "The first question was whether to keep it or to start again.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "신축 프로젝트로서의 기본 정보는 갖추었으나, 설계의 구체적인 기법이나 내부 공간의 연출에 관한 상세 설명이 부족하다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1188498/vegetable-building-cho-and-partners",
+  "original_title": "Vegetable Building / Cho and Partners",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 1117,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-16 19:04",
+  "research": {
+   "entities": [
+    "Cho and Partners",
+    "Yeonnam-dong",
+    "Gyeongui Line Forest Park"
+   ],
+   "questions": [
+    "Vegetable Building은 기존 건물을 리노베이션한 것인가요, 아니면 새로 신축한 건물인가요?",
+    "연남동의 좁은 이골목 부지에 건축된 Vegetable Building의 주요 설계 개념은 무엇인가요?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "archdaily.com/1188377/villa-nabu-alexis-dornier": {
+  "title_ko": "롬복의 가파른 지형 위에 세운 조형적 열대 모더니즘, 빌라 나부",
+  "summary_ko": "인도네시아 남부 롬복 탐파 힐스에 위치한 알렉시스 도르니에의 빌라 나부는 지역 토속 건축과 지형적 특징을 반영한 460제곱미터 규모의 주거 프로젝트다. 독일 출신의 건축가는 열대 모더니즘에 조형적 접근을 더해 표현력 있으면서도 대지에 깊이 뿌리내린 사적 휴식 공간을 완성했다.",
+  "lens": "가파른 해안 지형의 선큰 구조를 활용해 대지와 건축이 하나의 조형물로 융합된다.",
+  "why_now": "열대 기후 속에서 지역 생태와 토속적 재료를 현대적 조형 언어로 번역하는 방식이 주목받는다.",
+  "mechanism": "지형의 높낮이를 그대로 살려 건물이 대지에 얹히도록 구조적 경사를 설계했다.",
+  "sensory": "거친 해안의 바람과 고지대의 시선이 교차하며 열대 자연의 물성이 그대로 전달된다.",
+  "transfer": "공간 배경 촬영 시 수평선을 강조하는 캔틸레버 구조와 지형을 따르는 레벨 차이를 콘티에 반영한다.",
+  "context": "독일 출신의 건축가 알렉시스 도르니에는 인도네시아 롬복과 발리를 중심으로 지형과 기후에 순응하는 열대 모더니즘 작업을 전개해 왔다.",
+  "findings": [],
+  "keywords": [
+   "알렉시스도르니에",
+   "열대모더니즘",
+   "롬복건축",
+   "탐파힐스"
+  ],
+  "evidence": "Located in the elevated coastal community of Tampah Hills in South Lombok, Villa Nabu is the latest residential project by German-born architect Alexis Dornier, known for his sculptural approach to tropical modernism.",
+  "kind": "프로젝트",
+  "depth": 2,
+  "grounding": "thin",
+  "depth_reason": "원문 분량이 짧고 구체적 설계 도면이나 상세한 공법 설명이 부족하여 일반적인 프로젝트 소개 수준에 머무른다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1188377/villa-nabu-alexis-dornier",
+  "original_title": "Villa Nabu / Alexis Dornier",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 1026,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-16 19:04",
+  "research": {
+   "entities": [
+    "Alexis Dornier",
+    "Villa Nabu",
+    "Tampah Hills",
+    "Bale Design",
+    "Dua Lighting"
+   ],
+   "questions": [
+    "알렉시스 도르니에가 추구하는 열대 모더니즘(Tropical Modernism) 건축의 핵심 철학은 무엇인가?",
+    "롬복의 탐파 힐스(Tampah Hills) 지역의 지형적 특성이 빌라 나부의 설계에 어떤 영향을 미쳤는가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "dezeen.com/2026/11/16/lumeah-bathroom-renovation-paul-couch-house-pepper-well": {
+  "title_ko": "폴 카우치의 콘크리트 골조를 잇는 멜버른 루메아 욕실 리노베이션",
+  "summary_ko": "멜버른의 스튜디오 페퍼 앤 웰(Pepper & Well)이 고(故) 건축가 폴 카우치(Paul Couch)가 설계한 마세돈의 주택에서 루메아(Lumeah) 욕실을 새롭게 디자인했다. 기존의 깊은 욕조를 철거하고 현장 타조 콘크리트 벽체를 세워 접근성을 높였으며, 폴 카우치의 자택에 썼던 민타로 브라운 백(Mintaro Brown Back) 슬레이트 석재를 바닥에 깔아 원 건축과의 연속성을 살렸다.",
+  "lens": "원 건축가의 콘크리트 골조 논리를 욕실 내부의 구조적 파티션으로 축소 재현한다.",
+  "why_now": "기존 주택의 물질적 정직성을 훼손하지 않으면서 주거자의 신체적 변화와 노화에 맞춘 공간 재배치의 정교한 선례를 보여준다.",
+  "mechanism": "교차하는 콘크리트 벽체와 벤치를 일체형으로 타조하여 공간을 나누고, 기존 블루스톤 바닥과 새로운 크레이지 페이빙 슬레이트 바닥의 물성 대비로 신구의 경계를 가른다.",
+  "sensory": "거친 질감의 민타로 슬레이트와 노출 콘크리트 표면이 스테인리스 스틸 핸드레일의 차가운 금속성과 대비를 이룬다.",
+  "transfer": "공간 리노베이션 콘티에서 신구의 접점을 마감재의 이질감이 아닌 석재 패턴의 전환으로 표현하는 컷을 연출한다.",
+  "context": "멜버른 기반의 스튜디오 페퍼 앤 웰은 고건축가 폴 카우치가 2006년 완성한 중앙 빅토리아주의 단층 주택을 개조했다.",
+  "findings": [],
+  "keywords": [
+   "욕실 리노베이션",
+   "콘크리트 구조",
+   "노출 콘크리트",
+   "슬레이트 바닥",
+   "주거 공간"
+  ],
+  "evidence": "Pepper & Well took cues from crisscrossing concrete walls and ceiling beams when designing Lumeah, a new en-suite for a house by celebrated architect Paul Couch.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "건축적 유산을 존중하며 세부 디테일을 정교하게 풀어낸 욕실 리노베이션이지만 적용 범위가 주거 인테리어로 제한된다.",
+  "v": 2,
+  "url": "https://www.dezeen.com/2026/11/16/lumeah-bathroom-renovation-paul-couch-house-pepper-well/",
+  "original_title": "Pepper & Well designs bathroom that mimics concrete architecture of Paul Couch house",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 4063,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-16 19:04",
+  "research": {
+   "entities": [
+    "Pepper & Well",
+    "Paul Couch",
+    "Lumeah"
+   ],
+   "questions": [
+    "폴 카우치(Paul Couch)가 설계한 주택의 건축적 특징인 '콘크리트 구조의 논리'는 구체적으로 어떤 형태를 의미하는가?",
+    "페퍼 앤 웰(Pepper & Well)은 기존 주택의 재료와 새로운 디자인 요소 사이의 조화를 위해 어떤 설계 전략을 사용했는가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "wallpaper.com/design-interiors/lighting/studio-waldemeyer-profile-lighting-design": {
+  "title_ko": "초와 LED의 경계에서, 공학적 정밀함으로 감정을 조율하는 스튜디오 발데마이어",
+  "summary_ko": "모리츠 발데마이어와 나자닌 파라보드가 이끄는 스튜디오 발데마이어는 첨단 LED 기술과 정교한 프로그래밍을 결합해 살아 움직이는 듯한 조명 설치 작업을 선보인다. 이들은 모차르트 박물관의 1,500개 촛불 군집 작업에서 보듯, 기술을 단순한 시각 효과가 아닌 관람객의 감정을 흔드는 서사적 장치로 확장한다.",
+  "lens": "차가운 마이크로컨트롤러를 촛불의 불규칙한 숨결로 번역해 기술에 생명력을 부여한다.",
+  "why_now": "디지털 피로도가 극에 달한 시점에서, 기술이 가질 수 있는 가장 아날로그적인 물성과 정서적 반향을 증명한다.",
+  "mechanism": "실리콘 다이 단계부터 설계된 맞춤형 LED 칩에 개별 제어 명령을 주입해, 수천 개의 촛불이 서로 다른 속도와 방향으로 미세하게 흔들리도록 안무한다.",
+  "sensory": "어두운 공간을 채우는 1,500개의 불빛이 음악의 격정과 침묵에 반응하며 공간 전체의 온도를 실시간으로 바꾼다.",
+  "transfer": "공간 연출 콘티에 수십 개의 독립 제어 광원을 배치하고, 동기화된 페이드 아웃 기법으로 인물의 감정 고조와 상실을 시각화한다.",
+  "context": "킹스칼리지에서 공학을 전공하고 필립스 연구소에서 경력을 쌓은 모리츠 발데마이어(Moritz Waldemeyer)는 2000년대 초반부터 론 아라드, 자하 하디드 등과 협업하며 기술과 예술의 결합을 실험해 왔다.",
+  "findings": [
+   {
+    "text": "모리츠 발데마이어는 킹스칼리지런던에서 공학을 전공하고 2001년에 석사 학위를 마쳤다.",
+    "s": 2,
+    "quote": "He trained as an engineer at King's College London, completing his master's degree in 2001."
+   },
+   {
+    "text": "필립스는 1891년 아인트호벤에서 제라르 필립스와 그의 아버지 프레데릭 필립스에 의해 백열전구를 제조하기 위해 설립되었다.",
+    "s": 3,
+    "quote": "The company was founded in Eindhoven in 1891 by Gerard Philips and his father Frederik Philips to manufacture incandescent light bulbs."
+   }
+  ],
+  "keywords": [
+   "스튜디오발데마이어",
+   "LED조명",
+   "키네틱아트",
+   "미디어아트",
+   "공간조명"
+  ],
+  "evidence": "We redesigned the candle and added animation so that we could control the behaviour of the flame.",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "첨단 기술과 감정적 서사를 결합하는 독창적인 조명 제어 기법과 구체적인 프로젝트 사례가 충분히 드러난다.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/design-interiors/lighting/studio-waldemeyer-profile-lighting-design",
+  "original_title": "How do you reinvent the candle? Meet the design studio bringing emotion to lighting design",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 9000,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-16 19:04",
+  "research": {
+   "entities": [
+    "Studio Waldemeyer",
+    "Moritz Waldemeyer",
+    "Nazanin Farahbod",
+    "Philips",
+    "Jamiroquai"
+   ],
+   "questions": [
+    "Studio Waldemeyer가 LED 기술을 활용해 기존 조명 디자인의 한계를 어떻게 극복하고 감정을 표현하는가?",
+    "Moritz Waldemeyer와 Nazanin Farahbod의 서로 다른 배경(공학 vs 예술/산업 디자인)이 스튜디오의 협업 방식에 어떤 시너지를 내는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Lumeable by STUDIO WALDEMEYER",
+     "url": "https://www.waldemeyer.com/projects/lumeable"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Moritz Waldemeyer",
+     "url": "https://en.wikipedia.org/wiki/Moritz%20Waldemeyer"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Philips",
+     "url": "https://en.wikipedia.org/wiki/Philips"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "공기와 상호작용하는 의복, 디올 2027 S/S 백스테이지 뷰티",
+     "url": "https://www.wallpaper.com/fashion-beauty/make-up/backstage-with-peter-philips-dior-s-s-2027-show"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "루시 맥레이: 신체를 캔버스 삼아 기술을 내재화하는 바디 퓨처리즘",
+     "url": "https://www.designboom.com/art/body-canvas-tool-medium-lucy-mcrae-spaces-future-sensitive-interview/"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "세세 필립스: 잊힌 구석에서 길어 올린 내면의 우주",
+     "url": "https://elephant.art/in-the-corner-a-universe-cece-philips-at-public-gallery/"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3
+   ],
+   "chars": 4141
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "wallpaper.com/fashion-beauty/olivia-von-halle-pyjama-interview": {
+  "title_ko": "올리비아 폰 할레, 침실의 실크를 밤의 외출복으로 번역하다",
+  "summary_ko": "영국 디자이너 올리비아 폰 할레는 상하이 거주 시절 주문 제작하던 실크 파자마에서 영감을 얻어 2011년 동명의 브랜드를 설립했다. 최근 선보인 리조트 2027 컬렉션은 인도 전통 아리 자수를 활용해 침실용 의상을 파티 웨어 수준의 화려한 외출복으로 재해석했다. 실크와 벨벳이라는 물성을 통해 일상과 특별한 순간의 경계를 지우는 것이 핵심이다.",
+  "lens": "침실의 사적 물성을 공적 공간의 화려함으로 치환하며, 의복의 사회적 시노그래피를 파자마라는 가장 편안한 형태 안으로 끌어들인다.",
+  "why_now": "팬데믹 이후 일상복과 라운지웨어의 경계가 무너진 흐름 속에서, 브랜드는 단순한 편안함을 넘어 아리 자수와 같은 공예적 디테일로 의복의 위상을 격상시킨다.",
+  "mechanism": "인도 장인이 수작업으로 스톤을 꿰는 아리 자수 기법을 벨벳과 실크에 적용해, 빛의 반사각을 조절하며 밤의 조명 아래에서 극적인 질감을 연출한다.",
+  "sensory": "피부에 닿는 실크의 매끄러운 감각과 수만 개의 스톤이 빚어내는 미세한 무게감이 결합되어, 입는 이에게 심리적 해방감과 화려한 권위를 동시에 제공한다.",
+  "transfer": "콘티 연출 시, 실크 파자마를 입은 모델에게 구조적인 하이힐과 금속성 장신구를 매치하여 일상적인 공간을 파티장으로 변모시키는 시각적 대비를 활용하라.",
+  "context": "올리비아 폰 할레는 과거 피에르 가르뎅의 셔츠를 밤의 외출복으로 입으며 느꼈던 해방감을 브랜드의 근간으로 삼았다. 이는 과거 RE:COLLECTION에서 다룬 피에르 가르뎅의 기하학적 아방가르드 유산과도 맞닿아 있으며, 현대 패션이 일상과 특별한 순간의 시간대를 확장하는 방식과 궤를 같이한다.",
+  "findings": [
+   {
+    "text": "피에르 가르뎅은 1960년대 남성복 디자인의 선구자로서 기하학적 형태와 유니섹스 패션을 실험하며 우주 시대 디자인을 주도했다.",
+    "s": 3,
+    "quote": "He is known for what were his avant-garde style and Space Age designs. He preferred geometric shapes and motifs, often ignoring the female form. He advanced into unisex fashions"
+   }
+  ],
+  "keywords": [
+   "실크 파자마",
+   "아리 자수",
+   "라운지웨어",
+   "물성",
+   "시노그래피"
+  ],
+  "evidence": "There’s something incredibly liberating about feeling completely at ease in what you’re wearing",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "브랜드의 기원과 디자인 철학, 구체적인 공예 기법을 통해 일상복의 확장을 논리적으로 제시한다.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/fashion-beauty/olivia-von-halle-pyjama-interview",
+  "original_title": "Olivia von Halle wants you to wear your pyjamas out",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 6209,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-16 19:04",
+  "research": {
+   "entities": [
+    "Olivia von Halle",
+    "Pierre Cardin"
+   ],
+   "questions": [
+    "올리비아 본 할레가 럭셔리 파자마 브랜드를 창업하게 된 결정적인 계기와 초기 비즈니스 모델은 무엇인가요?",
+    "파자마를 일상복이나 파티 웨어로 활용하는 패션 트렌드에서 올리비아 본 할레의 디자인이 갖는 차별점은 무엇인가요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Olivia von Halle | Luxury Silk Nightwear",
+     "url": "https://go.redirectingat.com?id=92X1650074&xcust=wallpaper_us_6810348142150033534&xs=1&url=https%3A%2F%2Foliviavonhalle.com%2F&sref=https%3A%2F%2Fwww.wallpaper.com"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Olivia von Halle",
+     "url": "https://en.wikipedia.org/wiki/Olivia%20von%20Halle"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Pierre Cardin",
+     "url": "https://en.wikipedia.org/wiki/Pierre%20Cardin"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "피에르 요바노비치: 18개의 공간으로 쓴 인테리어 선언문",
+     "url": "https://www.yatzer.com/pierre-yovanovitch-eighteen-interiors-rizzoli"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "태양을 품은 안드로이드, 제나 오르테가의 메소드 드레싱",
+     "url": "https://www.dazeddigital.com/fashion/article/71201/1/jeanna-ortega-klara-and-the-sun-press-tour-looks-celeb-style?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=jenna-ortega-graduates-from-gloomy-goth-to-sun-kissed-princess"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "톰 포드의 유산을 잇는 하이더 아커만, 브론슨과 브래디로 재해석한 두 가지 은신",
+     "url": "https://www.anothermag.com/fashion-beauty/17620/another-loves-shades-for-the-morning-after?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=another-loves-shades-for-the-morning-after"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "chars": 3436
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "wallpaper.com/architecture/in-cimitero-delle-fontanelle-naples-pagan-traditions-italy": {
+  "title_ko": "나폴리 폰타넬레 묘지, 빛의 설계로 소환한 잊힌 영혼의 서사",
+  "summary_ko": "나폴리 산타니 지구의 폰타넬레 묘지가 렌조 피아노가 이끄는 G124의 도시 재생 프로젝트를 통해 재개장했다. 응회암 채석장을 활용한 지하 묘역의 역사적 맥락을 유지하면서, 이구치니의 조명 설계를 도입해 잊힌 영혼을 돌보는 현지 전통인 '아니메 페첸텔레'의 공간적 가치를 복원했다.",
+  "lens": "어둠이 지배하는 지하 공동묘지에 선형 조명을 배치해, 죽음과 삶의 경계를 물리적인 빛의 궤적으로 구획했다.",
+  "why_now": "디지털 피로도가 높은 시대에, 수 세기 동안 켜켜이 쌓인 석재의 질감과 죽음을 대하는 원초적 의례를 현대적 조명 기술로 재매개하려는 시도가 주목받는다.",
+  "mechanism": "경사로에는 선형 조명인 언더스코어를 사용해 안전한 동선을 확보하고, 팔코 인아웃과 아고라 투광기를 배치해 묘역 곳곳의 상징적인 유골과 구조물에 빛의 악센트를 주었다.",
+  "sensory": "응회암의 거친 질감 위로 떨어지는 국소적인 조명은 지하 동굴 특유의 서늘한 밀도감을 강조하며, 빛이 닿는 곳과 어둠이 머무는 곳의 극명한 대비를 통해 공간의 깊이를 만든다.",
+  "transfer": "지하 공간이나 어두운 세트 촬영 시, 전체를 밝히는 대신 특정 오브제에만 투광기를 집중시켜 공간의 서사를 강조하고, 동선에는 매립형 선형 조명을 활용해 관람객의 시선을 자연스럽게 유도하라.",
+  "context": "렌조 피아노는 1987년 링고토 복합단지 재생부터 파리 퐁피두 센터 개보수까지 도시 유산을 현대적 기능으로 치환하는 작업을 지속해 왔다. 이번 프로젝트는 나폴리 페데리코 2세 대학 건축학부와 협업해 지역적 전통과 현대 건축의 접점을 찾은 사례다.",
+  "findings": [
+   {
+    "text": "폰타넬레 묘지는 3,000제곱미터 이상의 면적을 차지하며 이름 없는 수많은 사람의 유골이 안치된 옛 납골당이다.",
+    "s": 1,
+    "quote": "The Fontanelle Cemetery is an ex-ossuary that grows over 3000 square meters. and contains the remains of an unspecified number of people."
+   },
+   {
+    "text": "아니메 페첸텔레는 버려진 영혼의 해골을 입양하여 돌보고 보호를 받는 나폴리의 민속 전통이다.",
+    "s": 1,
+    "quote": "The cemetery is known because there was the ritual of the \"souls\", that is, the adoption and care by a Neapolitan of a certain skull of an abandoned soul (called capuchella) in exchange for protection."
+   }
+  ],
+  "keywords": [
+   "폰타넬레묘지",
+   "렌조피아노",
+   "G124",
+   "조명설계",
+   "도시재생"
+  ],
+  "evidence": "The lighting scheme was crucial to its design.",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "역사적 유산과 현대적 조명 기법의 결합을 구체적인 제품명과 설계 전략으로 설명하고 있어 실무적 참고 가치가 높다.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/architecture/in-cimitero-delle-fontanelle-naples-pagan-traditions-italy",
+  "original_title": "In Naples' Cimitero delle Fontanelle, modern lighting illuminates pagan burial traditions",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 3499,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-16 19:04",
+  "research": {
+   "entities": [
+    "Cimitero delle Fontanelle",
+    "iGuzzini",
+    "Renzo Piano",
+    "G124",
+    "University of Naples Federico II"
+   ],
+   "questions": [
+    "나폴리의 '아니메 페첸텔레(anime pezzentelle)' 전통은 구체적으로 어떤 역사적 배경과 의례를 포함하고 있나요?",
+    "렌조 피아노의 G124 프로젝트가 폰타넬레 묘지의 도시 재생과 보존에 기여한 핵심적인 설계 전략은 무엇인가요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Fontanelle Cemetery of Naples - Cimitero delle Fontanelle",
+     "url": "https://www.cimiterofontanelle.com/en/"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "iGuzzini",
+     "url": "https://www.iguzzini.com/en/"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Renzo Piano",
+     "url": "https://en.wikipedia.org/wiki/Renzo%20Piano"
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "University of Naples Federico II",
+     "url": "https://en.wikipedia.org/wiki/University%20of%20Naples%20Federico%20II"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "피터 줌토르가 리헨의 공원에 새겨넣은 세 채의 건축 앙상블",
+     "url": "https://www.archdaily.com/1185683/fondation-beyeler-expands-with-three-new-buildings-by-peter-zumthor"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "살와와 셀마 미쿠: 모로코의 기억과 현대 공학을 잇는 건축의 대조",
+     "url": "https://www.archdaily.com/1184803/living-with-contrasts-is-something-very-meaningful-salwa-and-selma-mikou-on-architecture-and-craft-in-louisiana-channel-interview"
+    },
+    {
+     "n": 7,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "자연과 기억을 엮는 건축, 세 가지 도시의 해법",
+     "url": "https://www.archdaily.com/1186117/fondation-beyelers-expansion-and-safdie-architects-carnegie-library-restoration-this-weeks-review"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "chars": 4839
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "creativeboom.com/inspiration/donna-fredin-switched-from-design-to-illustration-now-shes-drawing-fun-awkward-characters-that-capture-lifes-strange-moments": {
+  "title_ko": "그래픽 디자인의 뼈대와 리소그래프 색채로 빚어낸 도나 프레딘의 휴먼 캐릭터",
+  "summary_ko": "스웨덴 고틀란드를 기반으로 활동하는 일러스트레이터 도나 프레딘은 그래픽 디자인 경력을 바탕으로 탄탄한 구도를 잡고, 리소그래프에서 영감을 받은 대담한 색채와 질감을 결합해 일상의 유머러스한 순간을 포착한다. 인스타그램에서 시작된 그의 작업은 최근 프로크리에이트와 애프터이펙트를 활용한 모션 디자인으로 확장되며 캐릭터에 생동감을 더하고 있다.",
+  "lens": "엄격한 브랜드 가이드라인을 벗어난 자유로운 색채와 질감이 서투른 인간의 표정과 만날 때, 화면 위에서 즉각적인 생명력이 발생한다.",
+  "why_now": "디지털 자동화와 AI 도구가 넘쳐나는 시어터와 피드 속에서, 작가의 손끝에서 나온 불완전하고 유머러스한 형태는 관객의 시각적 피로를 해소하는 강력한 대안이 된다.",
+  "mechanism": "둥근 머리의 피겨 형태에 블루, 핑크, 노랑, 초록의 고정된 리소그래프 팔레트를 얹어 시각적 주목도를 높이고, 애프터이펙트로 깜빡이는 눈동자 같은 미세한 움직임을 더해 정적인 일러스트에 생기를 불어넣는다.",
+  "sensory": "화면을 가득 채우는 거친 리소그래프 질감과 묵직하면서도 경쾌한 원색의 대비가 아날로그 인쇄물의 촉각적 그리움을 자극한다.",
+  "transfer": "인물이나 오브젝트를 디자인할 때 완벽한 형태 대신 약간의 어색함과 위트를 지닌 비율을 채택하고, 최소한의 모션 레이어를 얹어 캐릭터의 성격을 각인시킨다.",
+  "context": "스웨덴 고틀란드에 거주하는 도나 프레딘은 그래픽 디자인 분야에서 경력을 쌓은 뒤 일러스트레이션으로 전향했으며, 지난해 첫 그림책 'That's Not Stella'를 출간하고 독립 프리랜서로서 네 번째 해를 맞이하고 있다.",
+  "findings": [],
+  "keywords": [
+   "도나프레딘",
+   "일러스트레이션",
+   "리소그래프",
+   "모션디자인"
+  ],
+  "evidence": "Based in Gotland, Sweden, Donna Fredin focuses on creating illustrations full of emotion.",
+  "kind": "작가·인터뷰",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "작가 개인의 작업 방식과 전환 과정을 구체적으로 다루나 선례적 혁신성보다는 일반적인 창작 인터뷰에 가깝다.",
+  "v": 2,
+  "url": "https://www.creativeboom.com/inspiration/donna-fredin-switched-from-design-to-illustration-now-shes-drawing-fun-awkward-characters-that-capture-lifes-strange-moments/",
+  "original_title": "Donna Fredin switched from design to illustration, now she's drawing fun, awkward characters that capture life’s strange moments",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 8900,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-16 19:04",
+  "research": {
+   "entities": [
+    "Donna Fredin",
+    "Inkygoodness",
+    "Creative Boom"
+   ],
+   "questions": [
+    "그래픽 디자인 경력이 일러스트레이션 작업의 구성과 시각적 소통 방식에 구체적으로 어떤 영향을 미쳤는가?",
+    "리소그래프(Risograph) 기법이 도나 프레딘의 색채 사용과 질감 표현 방식에 어떤 영감을 주었는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Creative Boom",
+     "url": "https://en.wikipedia.org/wiki/Creative%20Boom"
+    },
+    {
+     "n": 2,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "AI가 밀어낸 자리에서 싹트는 6만 명의 수작업 애니메이션",
+     "url": "https://www.creativeboom.com/work/ester-pazur-on-being-a-pessimist-the-power-of-stop-motion-and-why-handmade-art-still-matters/"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "시간대와 마우스에 반응하는 크리에이티브 붐의 눈 마스코트",
+     "url": "https://www.creativeboom.com/news/the-eyes-have-it-how-we-brought-creative-booms-mascot-to-life-in-different-time-zones/"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "잠수 탄 클라이언트 앞에서 주도권을 쥐는 실무 대응법",
+     "url": "https://www.creativeboom.com/dear-boom/are-you-getting-ghosted-more-than-ever-youre-not-alone/"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 1257
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "wallpaper.com/travel/paris-nightclubs-renaissance": {
+  "title_ko": "파리 나이트라이프의 재구성: 유산과 감각의 동시적 층위",
+  "summary_ko": "파리의 전설적인 클럽들이 호텔과 레스토랑이 결합된 복합 문화 공간으로 재탄생하고 있다. 레 방 두슈(Les Bains Douches)와 버스 팔라디움(Bus Palladium)은 과거의 클럽 문화를 현대적인 숙박 및 공연 기능과 결합하며, 단순한 유흥 공간을 넘어선 편집적 공간으로 거듭났다. 이는 디지털 피로를 겪는 세대에게 물리적 실재감을 제공하려는 건축적 시도다.",
+  "lens": "클럽을 단독 공간이 아닌 호텔과 공연장이 얽힌 수직적 시노그래피로 재설계하여, 도시의 시간을 24시간 순환시키는 장치로 전환한다.",
+  "why_now": "디지털로 모든 경험이 매개되는 시대에, 춤과 음악이라는 물리적 에너지를 공간에 고착시키려는 아날로그적 갈망이 건축적 재편을 가속화한다.",
+  "mechanism": "스튜디오 코(Studio KO)가 설계한 버스 팔라디움처럼 층고를 높이고 벽면을 벨벳과 금속 커튼으로 마감하여 소리를 가두는 동시에, 객실과 클럽을 음향적으로 분리하는 구조를 취한다.",
+  "sensory": "은색 라메 커튼과 체인메일이 만드는 금속적 반사, 벽을 타고 오르는 카펫의 흡음 질감이 뒤섞이며 Pigalle 특유의 화려함과 퇴폐를 시각화한다.",
+  "transfer": "공간의 주 기능을 시간대별로 층화하여, 낮에는 레스토랑과 전시, 밤에는 클럽으로 전이되는 동선 설계에 주목하라. 특히 조명을 노출하지 않고 역사의 에너지만 투사하는 간접 조명 기법을 콘티에 적용할 것.",
+  "context": "과거 필립 스탁이 초기 나이트클럽에서 레이저와 거울을 활용해 공간을 변주했던 실험적 유산이 현대의 복합 공간 설계로 이어졌다. 스튜디오 코는 이전 작업인 타슈켄트 현대 미술 센터에서 보여준 지하와 지상의 동선 연결 방식을 클럽 설계에도 확장하고 있다.",
+  "findings": [
+   {
+    "text": "필립 스탁은 10,000건 이상의 프로젝트를 수행했으며 그중 43건이 호텔 건축이다.",
+    "s": 1,
+    "quote": "Starck claims to have undertaken over 10,000 projects, including 220 architectural projects and 43 hotels."
+   }
+  ],
+  "keywords": [
+   "공간전환",
+   "나이트라이프",
+   "스튜디오코",
+   "아날로그실재",
+   "시노그래피"
+  ],
+  "evidence": "Our job is to understand what made this place so special and translate that energy into the present.",
+  "kind": "프로젝트",
+  "depth": 5,
+  "grounding": "full",
+  "depth_reason": "역사적 유산의 물리적 보존과 현대적 기능의 결합 방식을 구체적인 건축 재료와 설계 전략으로 명확히 제시함.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/travel/paris-nightclubs-renaissance",
+  "original_title": "What’s fuelling Paris’ nightclub renaissance?",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 9000,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-16 19:04",
+  "research": {
+   "entities": [
+    "Philippe Starck",
+    "Le Palace",
+    "Les Bains Douches",
+    "Bus Palladium",
+    "Studio KO"
+   ],
+   "questions": [
+    "1970년대 파리 나이트클럽 문화가 현대의 클럽 운영 방식과 디자인에 어떤 영향을 미쳤는가?",
+    "최근 파리 나이트라이프의 부활을 이끄는 핵심적인 사회적, 문화적 동력은 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Philippe Starck",
+     "url": "https://en.wikipedia.org/wiki/Philippe%20Starck"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "KO OP",
+     "url": "https://en.wikipedia.org/wiki/KO%20OP"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "스튜디오 코, 우즈베키스탄 트램 정류장을 현대 미술 센터로 전환",
+     "url": "https://www.dezeen.com/2026/09/09/studio-ko-centre-contemporary-arts-tashkent/"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "쇼디치에서 클러큰웰로, 영국 가구 브랜드 SCP의 40년 만의 이전",
+     "url": "https://www.wallpaper.com/design-interiors/scp-clerkenwell-opening"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "정원 요정, 경계에 선 가장 오래된 비인간 감시자",
+     "url": "https://www.wallpaper.com/architecture/architect-carlo-ratti-on-garden-gnome"
+    }
+   ],
+   "used": [
+    1,
+    3
+   ],
+   "chars": 1670
+  },
+  "depth_raw": 5,
+  "depth_v": 2
  }
 }
