@@ -173,6 +173,29 @@ def is_pick(it, note_obj=None):
     return False
 
 
+def playable_video_url(it):
+    vu = (it.get('video_url') or '').strip()
+    if not vu:
+        return ''
+    v_low = vu.lower().split('?')[0]
+    if any(h in vu.lower() for h in ('player.vimeo.com/video/', 'youtube.com/embed/', 'youtube-nocookie.com/embed/')):
+        return vu
+    if v_low.endswith('.mp4') or v_low.endswith('.webm'):
+        return vu
+    return ''
+
+
+def has_video_item(it):
+    if playable_video_url(it):
+        return True
+    dp = it.get('deep') or {}
+    if dp.get('kind') == '영상·필름':
+        return True
+    if it.get('source_name') in ('Stash Media', 'Motionographer', 'NOWNESS'):
+        return True
+    return False
+
+
 # ---------------------------------------------------------------------------
 # HTML 조각 (static/script.js 의 렌더러와 같은 마크업)
 # ---------------------------------------------------------------------------
@@ -181,11 +204,21 @@ def card_html(it, note_obj=None):
     url = it.get('url', '#')
     genre = GENRE_KO.get(it.get('genre', ''), it.get('genre', ''))
     pick = is_pick(it, note_obj)
+    v_url = playable_video_url(it)
+    is_vid = has_video_item(it)
     media = ''
     if it.get('image_url'):
-        media = (f'<a class="rc-card-media" href="{esc(url)}" target="_blank" rel="noopener noreferrer" tabindex="-1">'
-                 f'<img src="{esc(it["image_url"])}" alt="" loading="lazy" '
-                 f'onerror="this.parentElement.classList.add(\'is-empty\');this.remove()"></a>')
+        if v_url:
+            media = (f'<div class="rc-card-media" data-video="{esc(v_url)}">'
+                     f'<a class="rc-card-thumb" href="{esc(url)}" target="_blank" rel="noopener noreferrer" tabindex="-1">'
+                     f'<img src="{esc(it["image_url"])}" alt="" loading="lazy" '
+                     f'onerror="this.closest(\'.rc-card-media\').classList.add(\'is-empty\');this.remove()"></a>'
+                     f'<button type="button" class="rc-play-btn" data-video="{esc(v_url)}" aria-label="필름 재생">&#9654; 필름</button>'
+                     f'</div>')
+        else:
+            media = (f'<a class="rc-card-media" href="{esc(url)}" target="_blank" rel="noopener noreferrer" tabindex="-1">'
+                     f'<img src="{esc(it["image_url"])}" alt="" loading="lazy" '
+                     f'onerror="this.parentElement.classList.add(\'is-empty\');this.remove()"></a>')
     rows = ''.join(f'<dt>{label}</dt><dd>{esc(dp.get(key))}</dd>'
                    for label, key in (('왜 지금', 'why_now'), ('작동 방식', 'mechanism'), ('감각과 물성', 'sensory'),
                                       ('계보·맥락', 'context'), ('연출로 가져갈 것', 'transfer')) if dp.get(key))
@@ -219,16 +252,19 @@ def card_html(it, note_obj=None):
                 f'<details class="rc-card-deep"><summary>깊이 읽기{extra}</summary>'
                 f'<dl>{rows}</dl>{findings}{evidence}{sources}<div class="rc-card-foot">{foot_html}</div></details>')
     
-    col_at = it.get('collected_at', '')
+    col_at = it.get('collected_at', '') or it.get('issue_date', '')
     date_badge = ''
     if col_at and len(col_at) >= 10:
+        ymd = col_at[:10]
         mm_dd = col_at[5:10].replace('-', '.')
-        date_badge = f'<span class="rc-card-date">{esc(mm_dd)}</span>'
+        date_badge = f'<span class="rc-card-date" data-issue="{esc(ymd)}" title="{esc(ymd)} 호로 이동">{esc(mm_dd)}</span>'
         
     meta = f'<span>{esc(genre)}</span><span>{esc(it.get("source_name", ""))}</span>{date_badge}'
+    if is_vid:
+        meta += '<span class="rc-video-tag">필름</span>'
     if pick:
         meta += '<span class="rc-pick">편집장 픽</span>'
-    return (f'<article class="rc-card{" is-pick" if pick else ""}" data-genre="{esc(it.get("genre", ""))}" data-depth="{depth_of(it)}">'
+    return (f'<article class="rc-card{" is-pick" if pick else ""}{" has-video" if is_vid else ""}" data-genre="{esc(it.get("genre", ""))}" data-depth="{depth_of(it)}">'
             f'{media}<div class="rc-card-body"><p class="rc-card-meta">{meta}</p>'
             f'<h3 class="rc-card-title"><a href="{esc(url)}" target="_blank" rel="noopener noreferrer">{esc(it.get("title"))}</a></h3>'
             f'<p class="rc-card-summary">{esc(it.get("snippet"))}</p>{deep}</div></article>')
@@ -304,8 +340,9 @@ PAGE = """<!DOCTYPE html>
       <button type="button" data-filter="MEDIA FACADE & 3D">미디어·3D</button>
       <button type="button" data-filter="AVANT-GARDE FASHION">패션</button>
       <button type="button" data-filter="PICK">편집장 픽</button>
+      <button type="button" data-filter="VIDEO">필름</button>
     </div>
-    <input id="rc-search" type="search" placeholder="이 호에서 검색" aria-label="이 호에서 검색" autocomplete="off">
+    <input id="rc-search" type="search" placeholder="전체 호 검색 (건축가·재료·키워드)" aria-label="전체 호 통합 검색" autocomplete="off">
     <span class="rc-count" id="rc-count">{{COUNT}}</span>
   </div>
 
@@ -383,6 +420,8 @@ def build_pages():
 
     dates = sorted([f[:-5] for f in os.listdir(DAILY_DIR) if f.endswith('.json')], reverse=True)
     counts, issues = {}, {}
+    search_index_items = []
+    seen_search_urls = set()
     for d in dates:
         d_note = notes.get(d) or {}
         raw_items = load_json(os.path.join(DAILY_DIR, f'{d}.json'), [])
@@ -390,7 +429,18 @@ def build_pages():
         for x in raw_items:
             item_applied = apply_deep(x, deep_map)
             item_applied['is_pick'] = is_pick(item_applied, d_note)
+            item_applied['issue_date'] = d
             d_items.append(item_applied)
+            u_clean = (item_applied.get('url') or '').strip()
+            if item_applied.get('deep') and u_clean and u_clean not in seen_search_urls:
+                seen_search_urls.add(u_clean)
+                compact = dict(item_applied)
+                compact.pop('title_mt', None)
+                compact.pop('id', None)
+                if not playable_video_url(compact):
+                    compact.pop('video_url', None)
+                    compact.pop('has_video', None)
+                search_index_items.append(compact)
         issues[d] = d_items
         counts[d] = {'n': len(d_items), 'deep': sum(1 for x in d_items if x.get('deep'))}
         write_text([f'docs/data/daily/{d}.js', f'static/data/daily/{d}.js'],
@@ -405,6 +455,8 @@ def build_pages():
                'window.MANIFEST_DATA = ' + json.dumps(manifest, ensure_ascii=False) + ';')
     write_text(['docs/data/daily_notes.js', 'static/data/daily_notes.js'],
                'window.DAILY_NOTES = ' + json.dumps(notes, ensure_ascii=False) + ';')
+    write_text(['docs/data/search_index.js', 'static/data/search_index.js'],
+               'window.SEARCH_INDEX = ' + json.dumps(search_index_items, ensure_ascii=False, separators=(',', ':')) + ';')
 
     # 3. 최신 호 미리 렌더링 (편집장 픽 우선, 그 다음 깊이 순)
     cur = issues.get(latest, [])
