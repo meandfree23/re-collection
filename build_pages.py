@@ -96,14 +96,51 @@ def korean_date(ymd):
 # ---------------------------------------------------------------------------
 # 깊이 읽기 덮어쓰기
 # ---------------------------------------------------------------------------
+def refine_genre(item, d=None):
+    g = item.get('genre', 'SPACE & ARCH')
+    u_low = (item.get('url') or '').lower()
+    src = item.get('source_name', '')
+    t_ko = (d or {}).get('title_ko') or item.get('title', '')
+    s_ko = (d or {}).get('summary_ko') or item.get('snippet', '')
+    kw = ' '.join((d or {}).get('keywords') or [])
+    text = f"{t_ko} {s_ko} {kw} {item.get('original_title', '')}".lower()
+
+    # 1. Explicit URL path signals on multi-genre magazines
+    if any(p in u_low for p in ['/architecture/', '/residential/', '/buildings/', '/design-interiors/']):
+        return 'SPACE & ARCH'
+    if any(p in u_low for p in ['/fashion/', '/fashion-beauty/']):
+        return 'AVANT-GARDE FASHION'
+    if any(p in u_low for p in ['/art-photography/', '/fine-art/', '/art/']) and g == 'AVANT-GARDE FASHION':
+        return 'CONTEMPORARY ART'
+
+    # 2. Media Facade, 3D, Projection Mapping, Kinetic Light Installation
+    if re.search(
+        r'(프로젝션\s*맵핑|아나몰픽|미디어\s*파사드|키네틱\s*조명|키네틱\s*라이트|3d\s*애니메이션|3d\s*필름|'
+        r'cgi|모션\s*그래픽|인터랙티브\s*설치|라이트\s*아트|레이저\s*설치|볼류메트릭|'
+        r'projection\s+mapping|anamorphic|media\s+facade|kinetic\s+light|touchdesigner)',
+        text
+    ):
+        return 'MEDIA FACADE & 3D'
+
+    # 3. Architecture articles published in Wallpaper*, Dazed, AnOther, Colossal, Cool Hunting
+    if src in ('Wallpaper*', 'Dazed', 'AnOther Magazine', 'This Is Colossal', 'Cool Hunting', "It's Nice That"):
+        if any(w in t_ko for w in ['건축', '주택', '하우스', '파빌리온', '타워', '빌라', '리노베이션', '펜트하우스', '인테리어', '청사', '사옥']):
+            return 'SPACE & ARCH'
+
+    return g
+
+
 def apply_deep(item, deep_map):
     d = deep_map.get(deep_url_key(item.get('url', '')))
     if not d or not d.get('title_ko'):
-        return item
+        out = dict(item)
+        out['genre'] = refine_genre(out, None)
+        return out
     out = dict(item)
     out['title_mt'] = item.get('title', '')
     out['title'] = d.get('title_ko', item.get('title', ''))
     out['snippet'] = d.get('summary_ko', item.get('snippet', ''))
+    out['genre'] = refine_genre(out, d)
     out['deep'] = {k: d.get(k) for k in ('lens', 'why_now', 'mechanism', 'sensory', 'transfer', 'context',
                                          'keywords', 'evidence', 'kind', 'depth', 'grounding', 'depth_reason')}
     rs = d.get('research') or {}

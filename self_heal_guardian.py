@@ -32,18 +32,58 @@ NOISE_PATTERNS = [
     r'<[^>]+>'
 ]
 
-BANNED_COMMERCIAL_KEYWORDS = [
-    'sneakers', 'sneaker', 'shoes', 'shoe', '스니커즈', '신발', '삼바', '에어포스', 'samba', 'air force',
-    'footwear', 'apparel drop', 'colorway', 'streetwear drop', 'dress shoes', 'clog', 'mule', 'slides',
-    'adidas', 'nike', 'asics', 'puma', 'new balance', 'salomon', 'reebok', 'jordan brand',
-    'street luxe', 'court culture', 'ostrich leather', '스니커', '운동화', '농구화',
-    '운세', 'horoscope', 'horoscopes', 'met gala', '카니발', 'carnival', 'gossip', 'rumor',
-    'school shows', 'school show', 'student project', 'sponsor', 'advertorial', 'discount', 'sale'
-]
+BANNED_URL_PATTERNS = re.compile(
+    r'(-sponsored-content-|/sponsored/|/advertorial/|coolhunting\.com/buy/|/shop/|/giveaway/)',
+    re.I
+)
 
-def is_banned_commercial_noise(title, original_title, snippet):
-    text = f"{title} {original_title} {snippet}".lower()
-    return any(banned in text for banned in BANNED_COMMERCIAL_KEYWORDS)
+BANNED_TITLE_REGEX = re.compile(
+    r'\b(sneakers?|shoes?|samba|air\s+force|footwear|apparel\s+drop|colorway|streetwear\s+drop|'
+    r'dress\s+shoes|clogs?|mules?|adidas|nike|asics|puma|new\s+balance|salomon|reebok|jordan\s+brand|'
+    r'horoscopes?|met\s+gala|gossip|rumors?|school\s+shows?|student\s+projects?|graduate\s+shows?|'
+    r'degree\s+shows?|advertorial|giveaway|unboxing|deal\s+of\s+the\s+day|how\s+to\s+buy|price\s+drop)\b|'
+    r'(스니커즈|스니커|운동화|농구화|삼바|에어포스|운세)',
+    re.I
+)
+
+def is_banned_commercial_noise(title, original_title, snippet, url=''):
+    if url and BANNED_URL_PATTERNS.search(url):
+        return True
+    headline_text = f"{title} {original_title}"
+    if BANNED_TITLE_REGEX.search(headline_text):
+        return True
+    return False
+
+def is_title_near_duplicate(cand, seen_set, seen_list):
+    if not cand:
+        return False
+    if cand in seen_set:
+        return True
+    # Short generic titles (e.g. "raw apartment" vs "b apartment") must only match exactly
+    n = len(cand)
+    if n < 18:
+        return False
+    # Fast length-bounded SequenceMatcher check
+    sm = SequenceMatcher(None, cand, "")
+    for prev in seen_list:
+        lp = len(prev)
+        if lp < 18:
+            continue
+        # Length ratio upper bound: 2*min / (n + lp) > TITLE_DUP_THRESHOLD
+        if (2.0 * (n if n < lp else lp)) / (n + lp) <= TITLE_DUP_THRESHOLD:
+            continue
+        if cand[0] != prev[0] and cand[-1] != prev[-1]:
+            # Quick check before full alignment
+            sm.set_seq2(prev)
+            if sm.quick_ratio() <= TITLE_DUP_THRESHOLD:
+                continue
+            if sm.ratio() > TITLE_DUP_THRESHOLD:
+                return True
+        else:
+            sm.set_seq2(prev)
+            if sm.quick_ratio() > TITLE_DUP_THRESHOLD and sm.ratio() > TITLE_DUP_THRESHOLD:
+                return True
+    return False
 
 def normalize_img_key(url):
     if not url or not isinstance(url, str): return ''
@@ -156,18 +196,22 @@ def run_self_healing_guardian():
 
     # Chronological Cross-Day Strict Deduplication across all Daily Partitions
     daily_files = sorted([f for f in os.listdir(DAILY_DIR) if f.endswith('.json')])
+    recent_window = set(daily_files[-3:])
     g_seen_urls = set()
     g_seen_img_keys = set()
+    g_seen_title_set = set()
     g_seen_titles = []
     total_cross_dups = 0
     all_pristine_items = []
 
     for df_name in daily_files:
         df_path = os.path.join(DAILY_DIR, df_name)
+        is_recent_file = df_name in recent_window
         try:
             with open(df_path, 'r', encoding='utf-8') as df:
                 d_items = json.load(df)
             p_items = []
+            modified = False
             for it in d_items:
                 u = it.get('url', '').strip().split('?')[0].rstrip('/')
                 img = it.get('image_url', '').strip()
@@ -178,26 +222,31 @@ def run_self_healing_guardian():
                 t_k = normalize_title_key(t)
                 ot_k = normalize_title_key(ot)
 
-                # Filter out commercial sneaker/shoes noise
-                if is_banned_commercial_noise(t, ot, it.get('snippet', '')):
+                # Filter out commercial sneaker/shoes/sponsored noise
+                if is_banned_commercial_noise(t, ot, it.get('snippet', ''), u):
+                    modified = True
                     continue
 
                 if u and u in g_seen_urls:
                     total_cross_dups += 1
+                    modified = True
                     continue
                 if img_k and img_k in g_seen_img_keys:
                     total_cross_dups += 1
+                    modified = True
                     continue
 
-                is_dup_t = False
-                # 2026-09-27 FIX: 0.50은 아카이브가 1,000건을 넘자 거의 모든 신규 항목을 '비슷한 제목'으로 오판해
-                # 지웠다(예: 'Victoria Harbour Residence' vs 'Greenwich Residence'). 수집기와 같은 0.82로 맞춘다.
-                for prev_t in g_seen_titles:
-                    if (t_k and SequenceMatcher(None, t_k, prev_t).ratio() > TITLE_DUP_THRESHOLD) or (ot_k and SequenceMatcher(None, ot_k, prev_t).ratio() > TITLE_DUP_THRESHOLD):
-                        is_dup_t = True
-                        break
+                if is_recent_file or not it.get('healed'):
+                    is_dup_t = (
+                        is_title_near_duplicate(t_k, g_seen_title_set, g_seen_titles)
+                        or is_title_near_duplicate(ot_k, g_seen_title_set, g_seen_titles)
+                    )
+                else:
+                    is_dup_t = (t_k and t_k in g_seen_title_set) or (ot_k and ot_k in g_seen_title_set)
+
                 if is_dup_t:
                     total_cross_dups += 1
+                    modified = True
                     continue
 
                 # 2026-09-27: 이미 한 번 다듬은 항목은 다시 번역하지 않는다(실행마다 수백 건 재번역 → 8분+, 구글 차단 유발).
@@ -206,16 +255,22 @@ def run_self_healing_guardian():
                     it['title'] = heal_hangul_text(t, ot)
                     it['snippet'] = heal_two_sentence_insight(it['title'], ot, it.get('snippet', ''), it.get('genre', 'SPACE'))
                     it['healed'] = True
+                    modified = True
 
                 if u: g_seen_urls.add(u)
                 if img_k: g_seen_img_keys.add(img_k)
-                if t_k: g_seen_titles.append(t_k)
-                if ot_k: g_seen_titles.append(ot_k)
+                if t_k and t_k not in g_seen_title_set:
+                    g_seen_title_set.add(t_k)
+                    g_seen_titles.append(t_k)
+                if ot_k and ot_k not in g_seen_title_set:
+                    g_seen_title_set.add(ot_k)
+                    g_seen_titles.append(ot_k)
                 p_items.append(it)
                 all_pristine_items.append(it)
 
-            with open(df_path, 'w', encoding='utf-8') as df:
-                json.dump(p_items, df, ensure_ascii=False, indent=2)
+            if modified or len(p_items) != len(d_items):
+                with open(df_path, 'w', encoding='utf-8') as df:
+                    json.dump(p_items, df, ensure_ascii=False, indent=2)
         except Exception as e:
             print(f"⚠️ Error healing partition {df_name}: {e}")
 

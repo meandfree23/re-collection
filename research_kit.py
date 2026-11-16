@@ -32,8 +32,8 @@ SKIP_LINK_HOSTS = re.compile(
 
 
 class PageParser(HTMLParser):
-    SKIP = {"script", "style", "noscript", "nav", "footer", "aside", "form", "header", "svg", "button", "figure"}
-    BLOCK = {"p", "h2", "h3", "li", "blockquote"}
+    SKIP = {"script", "style", "noscript", "nav", "footer", "aside", "form", "header", "svg", "button"}
+    BLOCK = {"p", "h2", "h3", "li", "blockquote", "dd", "figcaption"}
 
     def __init__(self):
         super().__init__(convert_charrefs=True)
@@ -64,7 +64,7 @@ class PageParser(HTMLParser):
             return
         if tag in self.BLOCK:
             self.cur = [tag, []]
-        if tag == "a" and self.cur is not None and a.get("href"):
+        if tag == "a" and a.get("href"):
             self._a = [a.get("href"), []]
 
     def handle_endtag(self, tag):
@@ -90,8 +90,9 @@ class PageParser(HTMLParser):
         if self._ld_buf is not None:
             self._ld_buf.append(data)
             return
-        if self.skip_depth == 0 and self.cur is not None:
-            self.cur[1].append(data)
+        if self.skip_depth == 0:
+            if self.cur is not None:
+                self.cur[1].append(data)
             if self._a is not None:
                 self._a[1].append(data)
 

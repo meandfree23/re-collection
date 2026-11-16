@@ -24,14 +24,17 @@ CURATED_SOURCES = [
     { "name": "ArchDaily", "url": "https://www.archdaily.com/feed", "genre": "SPACE & ARCH" },
     { "name": "Design Milk", "url": "https://design-milk.com/feed/", "genre": "SPACE & ARCH" },
     { "name": "Architectural Digest", "url": "https://www.architecturaldigest.com/feed/rss", "genre": "SPACE & ARCH" },
-    { "name": "Metropolis Magazine", "url": "https://metropolismag.com/feed/", "genre": "SPACE & ARCH" },
+    { "name": "The Architectural Review", "url": "https://www.architectural-review.com/feed", "genre": "SPACE & ARCH" },
+    { "name": "Designboom Architecture", "url": "https://www.designboom.com/architecture/feed/", "genre": "SPACE & ARCH" },
 
-    # 2. Media Facade, LED Installation, 3D & Projection Mapping
-    { "name": "CreativeApplications", "url": "https://www.creativeapplications.net/feed/", "genre": "MEDIA FACADE & 3D" },
+    # 2. Media Facade, LED Installation, 3D, Kinetic Light & Projection Mapping
     { "name": "Stash Media", "url": "https://www.stashmedia.tv/feed/", "genre": "MEDIA FACADE & 3D" },
     { "name": "Motionographer", "url": "https://motionographer.com/feed/", "genre": "MEDIA FACADE & 3D" },
-    { "name": "Projection Mapping Central", "url": "https://projection-mapping.org/feed/", "genre": "MEDIA FACADE & 3D" },
-    { "name": "Fubiz Media", "url": "https://www.fubiz.net/feed/", "genre": "MEDIA FACADE & 3D" },
+    { "name": "TouchDesigner", "url": "https://derivative.ca/rss.xml", "genre": "MEDIA FACADE & 3D" },
+    { "name": "Dezeen Lighting", "url": "https://www.dezeen.com/design/lighting/feed/", "genre": "MEDIA FACADE & 3D" },
+    { "name": "Designboom Technology", "url": "https://www.designboom.com/technology/feed/", "genre": "MEDIA FACADE & 3D" },
+    { "name": "Neural", "url": "http://neural.it/feed/", "genre": "MEDIA FACADE & 3D" },
+    { "name": "CLOT Magazine", "url": "https://clotmag.com/feed", "genre": "MEDIA FACADE & 3D" },
 
     # 3. Contemporary Media Art, Exhibition & Critical Research Voices
     { "name": "This Is Colossal", "url": "https://www.thisiscolossal.com/feed/", "genre": "CONTEMPORARY ART" },
@@ -43,7 +46,8 @@ CURATED_SOURCES = [
     { "name": "Minimalissimo", "url": "https://minimalissimo.com/feed/", "genre": "CONTEMPORARY ART" },
     { "name": "Hyperallergic", "url": "https://hyperallergic.com/feed/", "genre": "CONTEMPORARY ART" },
     { "name": "Elephant", "url": "https://elephant.art/feed/", "genre": "CONTEMPORARY ART" },
-    { "name": "Juxtapoz", "url": "https://www.juxtapoz.com/feed", "genre": "CONTEMPORARY ART" },
+    { "name": "Artforum", "url": "https://www.artforum.com/feed/", "genre": "CONTEMPORARY ART" },
+    { "name": "Flash Art", "url": "https://flash---art.com/feed/", "genre": "CONTEMPORARY ART" },
     { "name": "Creative Boom", "url": "https://www.creativeboom.com/feed/", "genre": "CONTEMPORARY ART" },
     { "name": "Cool Hunting", "url": "https://coolhunting.com/feed", "genre": "CONTEMPORARY ART" },
 
@@ -53,36 +57,79 @@ CURATED_SOURCES = [
     { "name": "AnOther Magazine", "url": "https://www.anothermag.com/Feed", "genre": "AVANT-GARDE FASHION" }
 ]
 
-def is_quality_curated_article(title, summary, genre):
+BANNED_URL_RE = re.compile(
+    r'(-sponsored-content-|/sponsored/|/advertorial/|coolhunting\.com/buy/|/shop/|/giveaway/)',
+    re.I
+)
+
+BANNED_HEADLINE_RE = re.compile(
+    r'\b(sneakers?|shoes?|samba|air\s+force|footwear|apparel\s+drop|colorway|streetwear\s+drop|'
+    r'dress\s+shoes|clogs?|mules?|adidas|nike|asics|puma|new\s+balance|salomon|reebok|jordan\s+brand|'
+    r'street\s+luxe|court\s+culture|ostrich\s+leather|horoscopes?|met\s+gala|carnival|gossip|rumors?|'
+    r'red\s+carpet|box\s+office|movie\s+review|school\s+shows?|student\s+projects?|graduate\s+shows?|'
+    r'degree\s+shows?|student\s+proposals?|advertorial|job\s+vacancy|hiring|how\s+to\s+buy|price\s+drop|'
+    r'coupons?|giveaways?|unboxing|deal\s+of\s+the\s+day)\b|'
+    r'(스니커즈|스니커|운동화|농구화|신발|삼바|에어포스|운세)',
+    re.I
+)
+
+BANNED_SUMMARY_PHRASES = re.compile(
+    r'\b(sneakers?|streetwear\s+drop|apparel\s+drop|how\s+to\s+buy|price\s+drop|deal\s+of\s+the\s+day|'
+    r'school\s+shows?|graduate\s+shows?|degree\s+shows?|horoscopes?|advertorial|sponsored\s+by)\b',
+    re.I
+)
+
+def is_quality_curated_article(title, summary, genre, url=''):
     """
     Strict Curatorial Quality Gate:
-    1. Filters out commercial sneaker/shoes drops, streetwear retail news, student shows, sales.
-    2. Enforces Spatial Scenography, 3D Media Facades, Kinetic Light Art, and High-Art Aesthetics.
+    1. Filters out commercial sneaker/shoes drops, streetwear retail news, student shows, sales, sponsored URLs.
+    2. Uses word boundaries on title and strict phrase matching on summary so artist bios ("University of...")
+       or architectural descriptions ("glass door slides open", "dating back to") are never falsely blocked.
     """
-    text = (title + ' ' + summary).lower()
-    
-    # Banned Noise (Commercial sneakers, horoscopes, gossip, student shows, sales)
-    banned_keywords = [
-        # Commercial footwear & streetwear retail drops
-        'sneakers', 'sneaker', 'shoes', 'shoe', '스니커즈', '신발', '삼바', '에어포스', 'samba', 'air force',
-        'footwear', 'apparel drop', 'colorway', 'streetwear drop', 'dress shoes', 'clog', 'mule', 'slides',
-        'adidas', 'nike', 'asics', 'puma', 'new balance', 'salomon', 'reebok', 'jordan brand',
-        'street luxe', 'court culture', 'ostrich leather', '스니커', '운동화', '농구화',
-        # Horoscopes, Celebrity Gossip, Entertainment
-        '운세', 'horoscope', 'horoscopes', 'met gala', '카니발', 'carnival', 'gossip', 'rumor',
-        'celebrity', 'red carpet', 'dating', 'box office', 'movie review',
-        # Student & academic noise
-        'school shows', 'school show', 'student project', 'university of',
-        'graduate show', 'degree show', 'academic year', 'student proposal',
-        # Commercial retail noise
-        'sponsor', 'promoted', 'advertorial', 'discount', 'sale', 'job vacancy',
-        'hiring', 'competition results', 'how to buy', 'price drop', 'deal',
-        'coupon', 'giveaway', 'unboxing', 'deal of the day'
-    ]
-    if any(banned in text for banned in banned_keywords):
+    if url and BANNED_URL_RE.search(url):
         return False
-        
+    if BANNED_HEADLINE_RE.search(title or ''):
+        return False
+    if BANNED_SUMMARY_PHRASES.search((summary or '')[:450]):
+        return False
     return True
+
+def infer_accurate_genre(url, title, summary, default_genre):
+    """
+    Reclassifies articles from multi-genre magazines (Wallpaper*, Dazed, AnOther, Colossal, Cool Hunting, etc.)
+    into the accurate category based on URL path and strong domain keywords.
+    """
+    u_low = (url or '').lower()
+    text_low = f"{title or ''} {(summary or '')[:350]}".lower()
+
+    # 1. Explicit URL path signals
+    if any(p in u_low for p in ['/architecture/', '/residential/', '/buildings/', '/interior', '/design-interiors/']):
+        return "SPACE & ARCH"
+    if any(p in u_low for p in ['/fashion/', '/fashion-beauty/', '/style/']):
+        return "AVANT-GARDE FASHION"
+    if any(p in u_low for p in ['/art-photography/', '/fine-art/']) and default_genre == "AVANT-GARDE FASHION":
+        return "CONTEMPORARY ART"
+
+    # 2. Strong Media Facade / 3D / Kinetic Light / Interactive signals across any source
+    if re.search(
+        r'\b(projection\s+mapping|anamorphic|media\s+facade|led\s+facade|kinetic\s+light|'
+        r'light\s+installation|interactive\s+installation|touchdesigner|volumetric\s+light|'
+        r'motion\s+graphics|3d\s+animation|cgi\s+film|audiovisual\s+installation|laser\s+installation)\b',
+        text_low
+    ):
+        return "MEDIA FACADE & 3D"
+
+    # 3. Strong Architecture signals on multi-genre art/culture magazines
+    if default_genre in ("CONTEMPORARY ART", "AVANT-GARDE FASHION"):
+        if re.search(
+            r'\b(architects?|architecture|pavilion|house\s+in|villa\s+in|penthouse|townhouse|'
+            r'renovation|adaptive\s+reuse|brutalist\s+building|courtyard\s+house|concrete\s+house|'
+            r'timber\s+house|monolithic\s+house)\b',
+            (title or '').lower()
+        ):
+            return "SPACE & ARCH"
+
+    return default_genre
 
 def safe_translate(text, is_title=False):
     if not text or len(text.strip()) == 0:
@@ -483,8 +530,10 @@ def process_single_entry(entry, source):
             clean_summary = full_article_text
     
     # Strict Curatorial Quality Gate Check
-    if not is_quality_curated_article(title, clean_summary, source['genre']):
+    if not is_quality_curated_article(title, clean_summary, source['genre'], url):
         return None
+
+    accurate_genre = infer_accurate_genre(url, title, clean_summary, source['genre'])
         
     img_url, video_url = extract_media_from_entry(entry, url)
     
@@ -501,11 +550,11 @@ def process_single_entry(entry, source):
         title_ko=title_ko,
         original_title=title,
         raw_summary=clean_summary,
-        genre=source['genre'],
+        genre=accurate_genre,
         source_name=source['name']
     )
     
-    facets = design_insights(title_ko, snippet_ko, source['genre'])
+    facets = design_insights(title_ko, snippet_ko, accurate_genre)
     
     item = {
         "id": url,
@@ -516,7 +565,7 @@ def process_single_entry(entry, source):
         "video_url": video_url,
         "has_video": bool(video_url),
         "snippet": snippet_ko,
-        "genre": source['genre'],
+        "genre": accurate_genre,
         "source_name": source['name'],
         "collected_at": datetime.now(timezone(timedelta(hours=9))).strftime("%Y-%m-%d %H:%M"),
         "facets": facets
@@ -688,24 +737,29 @@ def run_daily_collection(limit_per_source=6):
                         if u in seen_urls:
                             continue
 
-                        # 3. Strict Title & Semantic Deduplication (Threshold > 0.50)
+                        # 3. Strict Title & Semantic Deduplication (Threshold > 0.82)
                         t = normalize_title_key(res.get('title', ''))
                         ot = normalize_title_key(res.get('original_title', ''))
                         from difflib import SequenceMatcher
                         is_title_dup = False
-                        # 2026-09-21 FIX: threshold was 0.50, far too loose once the
-                        # permanent ledger accumulates 1000+ historical titles -- short,
-                        # template-like design/architecture headlines routinely share
-                        # >50% character overlap by chance, so this was compounding into
-                        # a second silent-stall risk once translation (the primary bug)
-                        # is fixed. Raised to 0.82 to only catch genuine near-duplicates.
                         TITLE_DUP_THRESHOLD = 0.82
-                        for prev_t in seen_titles:
-                            if SequenceMatcher(None, t, prev_t).ratio() > TITLE_DUP_THRESHOLD or (ot and SequenceMatcher(None, ot, prev_t).ratio() > TITLE_DUP_THRESHOLD):
-                                is_title_dup = True
-                                print(f"[PERMANENT LEDGER BLOCKED DUP TITLE]: {res.get('title', '')[:30]}...")
-                                break
+                        if (t and t in ledger['titles']) or (ot and ot in ledger['titles']):
+                            is_title_dup = True
+                        else:
+                            for prev_t in seen_titles:
+                                lp = len(prev_t)
+                                if lp < 18:
+                                    continue
+                                if len(t) >= 18 and (2.0 * min(len(t), lp)) / (len(t) + lp) > TITLE_DUP_THRESHOLD:
+                                    if SequenceMatcher(None, t, prev_t).ratio() > TITLE_DUP_THRESHOLD:
+                                        is_title_dup = True
+                                        break
+                                if ot and len(ot) >= 18 and (2.0 * min(len(ot), lp)) / (len(ot) + lp) > TITLE_DUP_THRESHOLD:
+                                    if SequenceMatcher(None, ot, prev_t).ratio() > TITLE_DUP_THRESHOLD:
+                                        is_title_dup = True
+                                        break
                         if is_title_dup:
+                            print(f"[PERMANENT LEDGER BLOCKED DUP TITLE]: {res.get('title', '')[:30]}...")
                             continue
                         
                         if img_key:
