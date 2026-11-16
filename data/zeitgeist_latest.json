@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-11-16 11:27 KST",
+  "generated_at": "2026-11-16 12:12 KST",
   "period": "2026.11.09 - 2026.11.16",
-  "total_articles": 508,
+  "total_articles": 513,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 225
+      "count": 228
     },
     {
       "genre": "동시대 미술",
-      "count": 193
-    },
-    {
-      "genre": "아방가르드 패션",
-      "count": 48
+      "count": 181
     },
     {
       "genre": "미디어 파사드·3D",
-      "count": 42
+      "count": 60
+    },
+    {
+      "genre": "아방가르드 패션",
+      "count": 44
     }
   ],
   "themes": [
@@ -27,6 +27,18 @@
       "previous_count": 36,
       "trend": "rising",
       "items": [
+        {
+          "title": "Other Circle은 '전체적인 창의 문화'에서 영감을 얻습니다.",
+          "url": "https://www.dezeen.com/2026/06/23/other-circle-inspiration-creative-culture-copenhagen/",
+          "image_url": "https://static-2026.dezeen.com/uploads/2026/06/other-circle-2026-copenhagen_dezeen_2364_col_sq-852x852.jpg",
+          "source_name": "Dezeen Lighting"
+        },
+        {
+          "title": "이케무라 레이코, 'de sensu'  Contemporary Fine Arts / 베를린",
+          "url": "https://flash---art.com/2026/10/leiko-ikemura/",
+          "image_url": "/wp-content/uploads/2026/10/LI_S_14_C_optimized_1500-1024x768.jpg",
+          "source_name": "Flash Art"
+        },
         {
           "title": "Apple, '내일의 디자이너' 전시회에서 업사이클링한 중고 가구와 바나나 잎 종이 등불 선보여",
           "url": "https://www.dezeen.com/2026/10/21/apple-designers-of-tomorrow-show-2026/",
@@ -38,24 +50,76 @@
           "url": "https://coolhunting.com/culture/signal-festival-founder-martin-posta-on-light-crowds-and-changing-society-homeopathically/",
           "image_url": "https://coolhunting.com/wp-content/uploads/2026/11/Aka-Chang_Multimmersion_Upside-Down_Signal-Festival-2026__Dusan_Vondra_0J2A9904-768x512.jpg",
           "source_name": "Cool Hunting"
+        }
+      ]
+    },
+    {
+      "keyword": "목재 건축",
+      "count": 15,
+      "previous_count": 5,
+      "trend": "rising",
+      "items": [
+        {
+          "title": "목재의 다재다능함을 보여주는 8가지 제품",
+          "url": "https://www.dezeen.com/2026/08/14/kitchens-chairs-seating-tables-lighting-wood-timber-dezeen-showroom/",
+          "image_url": "https://static-2026.dezeen.com/uploads/2026/08/theo-folding-chair-plank-showroom_dezeen_2364_col_3-852x852.jpg",
+          "source_name": "Dezeen Lighting"
         },
         {
-          "title": "Artist Spotlight: Tomi Pomo",
-          "url": "https://www.booooooom.com/2026/11/12/artist-spotlight-tomi-pomo/",
-          "image_url": "https://cdn.booooooom.com/wp-content/uploads/2026/10/Pomo1.jpg",
-          "source_name": "BOOOOOOOM"
+          "title": "NOA의 조립식 목조 주택은 소유주와 함께 이동하도록 설계되었습니다.",
+          "url": "https://www.designboom.com/architecture/prefabricated-timber-dekruif-house-noa-noa-network-architecture-owners/",
+          "image_url": "https://www.designboom.com/wp-content/uploads/2026/11/prefabricated-timber-dekruif-house-noa-noa-network-architecture-owners-designboom-11.jpg",
+          "source_name": "Designboom Architecture"
         },
         {
-          "title": "Newark Museum Returns 1852 Jug by David Drake to Artist’s Family",
-          "url": "https://www.artforum.com/news/nmoa-returns-1852-jug-by-david-drake-to-artists-family-1234763595/",
-          "image_url": "https://www.artforum.com/wp-content/uploads/2026/11/2022.4-2-Version-2.jpg?w=650",
-          "source_name": "Artforum"
+          "title": "hyan, 하야마 언덕에 위치한 1970년대 목조 주택을 주거 겸 업무 공간으로 개조",
+          "url": "https://www.designboom.com/architecture/hyan-1970s-timber-frame-live-work-residence-hayama-japan-green-sandwich-house/",
+          "image_url": "https://www.designboom.com/wp-content/uploads/2026/11/hyan-renovation-1970s-timber-house-studio-hayama-japan-designboom-3.jpg",
+          "source_name": "Designboom Architecture"
+        },
+        {
+          "title": "隈研吾, 일본에서 현지 목재와 흙으로 원형 초가집을 짓다",
+          "url": "https://www.designboom.com/architecture/kengo-kuma-circular-thatched-house-timber-earth-japan/",
+          "image_url": "https://www.designboom.com/wp-content/uploads/2026/11/kengo-kuma-kagaku-no-sato-main-house-project-japan-designboom-01.jpg",
+          "source_name": "Designboom Architecture"
+        }
+      ]
+    },
+    {
+      "keyword": "빛과 조명",
+      "count": 14,
+      "previous_count": 11,
+      "trend": "rising",
+      "items": [
+        {
+          "title": "사빈 마르셀리스, 이딸라 유리 제품에 물 위로 비치는 햇빛의 움직임을 담다",
+          "url": "https://www.dezeen.com/2026/08/28/sabine-marcelis-iittala-glassware-unda/",
+          "image_url": "https://static-2026.dezeen.com/uploads/2026/08/sabine-marcelis-iittala-unda_dezeen_2364_col_3-852x852.jpg",
+          "source_name": "Dezeen Lighting"
+        },
+        {
+          "title": "세심한 디자인과 금속 소재를 결합한 8가지 제품",
+          "url": "https://www.dezeen.com/2026/07/24/seating-storage-lighting-tables-aluminium-stainless-steel-dezeen-showroom/",
+          "image_url": "https://static-2026.dezeen.com/uploads/2026/07/domus-by-marset-dezeen-showroom_dezeen_2364_col_0-852x852.jpg",
+          "source_name": "Dezeen Lighting"
+        },
+        {
+          "title": "일제 크로포드가 이케아를 위해 디자인한 조명은 \"인테리어를 지배하기보다는 뒷받침하는\" 조명입니다.",
+          "url": "https://www.dezeen.com/2026/06/25/ilse-crawford-ikea-halgatt-table-lamps/",
+          "image_url": "https://static-2026.dezeen.com/uploads/2026/06/ilse-crawford-ikea-halgatt-table-lamps_dezeen_2364_sq_110-852x852.jpg",
+          "source_name": "Dezeen Lighting"
+        },
+        {
+          "title": "Apple, '내일의 디자이너' 전시회에서 업사이클링한 중고 가구와 바나나 잎 종이 등불 선보여",
+          "url": "https://www.dezeen.com/2026/10/21/apple-designers-of-tomorrow-show-2026/",
+          "image_url": "https://static-2026.dezeen.com/uploads/2026/10/apple-designers-of-tomorrow_dezeen_2364_col_sq2-1024x1024.jpg",
+          "source_name": "Dezeen Lighting"
         }
       ]
     },
     {
       "keyword": "사진",
-      "count": 15,
+      "count": 14,
       "previous_count": 8,
       "trend": "rising",
       "items": [
@@ -78,48 +142,16 @@
           "source_name": "BOOOOOOOM"
         },
         {
-          "title": "Photography’s biggest names unite to support the next generation of talent",
-          "url": "https://www.dazeddigital.com/art-photography/article/71346/1/photography-s-biggest-names-unite-for-one-off-print-sale-mentoring-matters?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=photography-s-biggest-names-unite-to-support-the-next-generation-of-talent",
-          "image_url": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/9/1459326.jpg",
+          "title": "파리 포토 2026의 주목할 만한 사진",
+          "url": "https://www.dazeddigital.com/art-photography/article/71342/1/paris-photo-art-fair-photography-2026-highlights-guide-grand-palais?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=the-standout-pictures-from-paris-photo-2026",
+          "image_url": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/9/1459273.jpeg",
           "source_name": "Dazed"
         }
       ]
     },
     {
-      "keyword": "빛과 조명",
-      "count": 13,
-      "previous_count": 11,
-      "trend": "rising",
-      "items": [
-        {
-          "title": "Apple, '내일의 디자이너' 전시회에서 업사이클링한 중고 가구와 바나나 잎 종이 등불 선보여",
-          "url": "https://www.dezeen.com/2026/10/21/apple-designers-of-tomorrow-show-2026/",
-          "image_url": "https://static-2026.dezeen.com/uploads/2026/10/apple-designers-of-tomorrow_dezeen_2364_col_sq2-1024x1024.jpg",
-          "source_name": "Dezeen Lighting"
-        },
-        {
-          "title": "리 브룸, The Chant Chambers 설치 작품으로 1970년대의 화려함을 소환하다",
-          "url": "https://www.dezeen.com/2026/09/15/lee-broom-1970s-glamour-chant-chambers-installation/",
-          "image_url": "https://static-2026.dezeen.com/uploads/2026/09/chant-chambers-lee-broom_dezeen_2364_col_sq-1-852x852.jpg",
-          "source_name": "Dezeen Lighting"
-        },
-        {
-          "title": "Louis Fratino “Prose” David Zwirner / London",
-          "url": "https://flash---art.com/2026/10/louis-fratino/",
-          "image_url": "/wp-content/uploads/2026/10/FRALO0109-766x1024.jpg",
-          "source_name": "Flash Art"
-        },
-        {
-          "title": "에스토니아의 오래된 조선소 마스트에 있는 수공예 금속 프레임 안에 자리한 두 개의 빛나는 달걀",
-          "url": "https://www.designboom.com/art/two-luminous-eggs-hand-woven-metal-frame-old-submarine-shipyard-mast-estonia-inimruum-un-like/",
-          "image_url": "https://www.designboom.com/wp-content/dbsub/470353/2026-11-04/tallinns-playful-light-installation-series-on-old-shipyard-masts-grows-with-nest-2-1-6aeb37bd2e21b.jpg",
-          "source_name": "Designboom Art"
-        }
-      ]
-    },
-    {
       "keyword": "리노베이션·재생",
-      "count": 13,
+      "count": 12,
       "previous_count": 7,
       "trend": "rising",
       "items": [
@@ -136,54 +168,22 @@
           "source_name": "Designboom Architecture"
         },
         {
-          "title": "Raw Apartment",
-          "url": "https://minimalissimo.com/articles/raw-apartment",
-          "image_url": "https://minimalissimo.com/api/media/file/raw-apartment-featured-v20261027-1200x630.jpg",
-          "source_name": "Minimalissimo"
-        },
-        {
           "title": "Mecanoo, 암스테르담의 네덜란드 중앙은행(De Nederlandsche Bank) 리노베이션을 통해 이전 금고를 '도시의 거실'로 탈바꿈시키다",
           "url": "https://www.dezeen.com/2026/11/15/netherlands-central-bank-renovation-mecanoo/",
           "image_url": "https://static-2026.dezeen.com/uploads/2026/11/mecanoo-de-nederlandsche-bank_dezeen_2364_sq_0-1024x1024.jpg",
           "source_name": "Dezeen"
-        }
-      ]
-    },
-    {
-      "keyword": "목재 건축",
-      "count": 12,
-      "previous_count": 5,
-      "trend": "rising",
-      "items": [
-        {
-          "title": "隈研吾, 일본에서 현지 목재와 흙으로 원형 초가집을 짓다",
-          "url": "https://www.designboom.com/architecture/kengo-kuma-circular-thatched-house-timber-earth-japan/",
-          "image_url": "https://www.designboom.com/wp-content/uploads/2026/11/kengo-kuma-kagaku-no-sato-main-house-project-japan-designboom-01.jpg",
-          "source_name": "Designboom Architecture"
         },
         {
-          "title": "Daichi Inc의 일본식 사우나는 \"사람들이 숲속에 녹아드는 듯한 느낌을 줍니다.\"",
-          "url": "https://www.dezeen.com/2026/11/14/daichi-inc-silent-river-tree-sauna/",
-          "image_url": "https://static-2026.dezeen.com/uploads/2026/11/daichi-silent-river-tree-sauna-daichi-architecture-sauna-japan-public-leisure_dezeen_2364_sq-1024x1024.jpg",
-          "source_name": "Dezeen"
-        },
-        {
-          "title": "미누-온 아파트 리노베이션 / CROSSARCHITECTURE / 메흐다드 마카레미",
-          "url": "https://www.archdaily.com/1187951/minou-on-apartment-renovation-crossarchitecture-mehrdad-makaremi",
-          "image_url": "https://images.adsttc.com/media/images/6ae8/8239/bcbc/3500/01ae/ae87/large_jpg/01.jpg?1793622689",
-          "source_name": "ArchDaily"
-        },
-        {
-          "title": "페랄타 D 슈퍼카는 말 그대로 구리로 조각되었습니다.",
-          "url": "https://design-milk.com/peralta-d-copper-supercar/",
-          "image_url": "https://design-milk.com/images/2026/11/GFG-PeraltaD_04-e1794598783627-1500x1000.jpg",
-          "source_name": "Design Milk"
+          "title": "느낌과 즐거움",
+          "url": "https://leibal.com/interiors/feel-and-joy/",
+          "image_url": "https://leibal.com/wp-content/uploads/2026/11/leibal-feel-and-joy-water-team-design-25.jpg",
+          "source_name": "Leibal"
         }
       ]
     },
     {
       "keyword": "미니멀리즘",
-      "count": 8,
+      "count": 7,
       "previous_count": 4,
       "trend": "rising",
       "items": [
@@ -192,12 +192,6 @@
           "url": "https://leibal.com/interiors/kid/",
           "image_url": "https://leibal.com/wp-content/uploads/2026/10/leibal-kid-box-9-24.jpg",
           "source_name": "Leibal"
-        },
-        {
-          "title": "Raw Apartment",
-          "url": "https://minimalissimo.com/articles/raw-apartment",
-          "image_url": "https://minimalissimo.com/api/media/file/raw-apartment-featured-v20261027-1200x630.jpg",
-          "source_name": "Minimalissimo"
         },
         {
           "title": "OkiDoki 말차 바 / 도브로크나 라치치(Dobrochna Rajcic)",
@@ -210,23 +204,29 @@
           "url": "https://www.dezeen.com/2026/11/14/daichi-inc-silent-river-tree-sauna/",
           "image_url": "https://static-2026.dezeen.com/uploads/2026/11/daichi-silent-river-tree-sauna-daichi-architecture-sauna-japan-public-leisure_dezeen_2364_sq-1024x1024.jpg",
           "source_name": "Dezeen"
+        },
+        {
+          "title": "본",
+          "url": "https://leibal.com/interiors/beaune/",
+          "image_url": "https://leibal.com/wp-content/uploads/2026/11/leibal_beaune_sara-skalli_02.jpg",
+          "source_name": "Leibal"
         }
       ]
     }
   ],
   "notable_names": [
+    "Edu Request",
     "Las Vegas",
+    "Home Collection",
+    "Notre Dame",
     "GTA VI",
     "David Zwirner",
     "Mexico City",
-    "Gustaf Westman",
     "Mesoamerican Modern",
     "Polestar Formula",
     "Epstein Ties",
     "Native Art",
-    "Sumayya Vally",
-    "Powerhouse Parramatta",
-    "Dezeen Awards"
+    "Sumayya Vally"
   ],
   "has_comparison": true
 }
