@@ -3737,5 +3737,62 @@
   "v": 3,
   "model": "gemini-3.1-flash-lite",
   "written_at": "2026-11-16 11:31"
+ },
+ "2026-11-17": {
+  "date": "2026-11-17",
+  "headline": "은박 피막과 유리 블록의 잔상, 기계 골조의 드러난 파동",
+  "editorial": "은색 피막으로 감싸인 상파울루의 건축물과 1970년대의 향수를 불러일으키는 유리 블록이 도시의 망각에 저항한다. 유리와 지붕을 제거해 기계의 골조를 정면에 드러낸 슈퍼카는 인간의 신체를 기계의 중심축 위에 배치한다. 데이터와 산업 유산의 물리적 무게를 폭로하는 디지털 고고학의 작업들은 가상 세계가 딛고 선 자원 소모의 실체를 증명한다.",
+  "threads": [
+   {
+    "name": "도시와 건축의 물질적 개입",
+    "note": "익숙한 구조물과 건축 폐자재를 새로운 반사체와 임시 구조물로 치환하여 도시의 망각에 저항한다.",
+    "items": [
+     {
+      "title": "은박의 피부로 감싼 상파울루의 시간, 빌스와 마르셀로 시다데의 '2878'",
+      "url": "https://www.designboom.com/art/vhils-marcelo-cidade-sao-paulo-building-facade-shimmering-silver-skin-2878-installation/"
+     },
+     {
+      "title": "탄자니아 마피토 사파리 캠프, 폐플라스틱으로 빚어낸 생태적 거처",
+      "url": "https://coolhunting.com/travel/mapito-safari-camp-serengeti-builds-a-pathway-between-people-and-place/"
+     },
+     {
+      "title": "폐목재의 임시 건축: 타다시 카와마타가 메종 루이나르에 세운 생태적 관측소",
+      "url": "https://www.ignant.com/2026/04/29/tadashi-kawamata-leads-ruinarts-latest-conversation-with-nature/"
+     }
+    ]
+   },
+   {
+    "name": "기계 골조와 신체 감각의 노출",
+    "note": "유리와 지붕을 지워내고 운전자를 공기와 맞닿게 하며 신체를 기계의 중심축 위에 전진 배치한다.",
+    "items": [
+     {
+      "title": "산리바티 원, 모터사이클의 전방 경사 자세로 재정의한 하이퍼카의 시야",
+      "url": "https://www.designboom.com/technology/sanrivatti-one-forward-lean-motorcycle-racing-hypercar-design/"
+     },
+     {
+      "title": "윈드실드와 지붕을 지운 75대의 한정판 슈퍼카",
+      "url": "https://www.designboom.com/technology/mercedes-benz-slr-mclaren-stirling-moss-supercar-without-windshield-rm-sothebys/"
+     }
+    ]
+   },
+   {
+    "name": "디지털 파편과 데이터의 고고학",
+    "note": "밈과 휘발성 데이터에서 벗어나 산업 유산의 물리적 무게와 자원 소모의 실체를 지질학적 시선으로 폭로한다.",
+    "items": [
+     {
+      "title": "데이터의 지층, 앙느 오렐의 디지털 고고학: 포수 산타 바르바라의 재발견",
+      "url": "https://clotmag.com/news/insight-anne-horels-data-fossils-excavating-the-internets-myths-material-costs"
+     },
+     {
+      "title": "습지의 소리와 기계의 기억: 사운드스케이프와 디지털 고고학",
+      "url": "https://neural.it/2026/10/various-artists-sound-of-the-wetlands/"
+     }
+    ]
+   }
+  ],
+  "based_on": 24,
+  "v": 3,
+  "model": "gemini-3.5-flash-lite",
+  "written_at": "2026-11-17 02:13"
  }
 }
