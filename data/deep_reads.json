@@ -339214,5 +339214,1004 @@
   },
   "depth_raw": 4,
   "depth_v": 2
+ },
+ "designboom.com/art/colors-light-reconnect-communities-marius-troy-imagined-landscape-art-installations": {
+  "title_ko": "마리우스 트로이, 빛과 직물로 구축한 가상의 안식처",
+  "summary_ko": "노르웨이 출신 아티스트 마리우스 트로이가 미드저니를 활용해 현대인의 고립을 치유하는 가상의 설치 미술 시리즈를 선보인다. 그는 거대한 직물 캐노피와 호박색 빛을 이용해 공공장소 내부에 일시적인 안식처를 구현하고, 디지털 환경에 지친 사람들을 물리적 연결과 사유의 공간으로 초대한다.",
+  "lens": "디지털 피로를 겪는 현대인에게 가상의 공간을 설계하여 물리적 안식의 감각을 시각적으로 전이한다.",
+  "why_now": "디지털 과부하로 인한 단절이 일상이 된 시대에, AI 도구로 구축한 가상의 건축적 안식처는 기술이 어떻게 인간의 신경계를 진정시킬 수 있는지 실험한다.",
+  "mechanism": "천장에서 내려오는 다채로운 색상의 직물 밴드와 바닥의 거울 효과를 활용해 공간을 수직으로 확장하고, 빛의 투과율을 조절해 무게감이 느껴지지 않는 부유하는 건축 구조를 만든다.",
+  "sensory": "호박색으로 필터링된 태양광이 모래 바닥에 닿아 따뜻한 질감을 형성하며, 공중에 매달린 직물 구조물은 마찰과 무게가 거세된 비현실적인 평온함을 자아낸다.",
+  "transfer": "콘티 작업 시, 공간의 중앙에 거대한 반투명 직물을 배치하고 하부 조명을 사용해 바닥을 반사면으로 활용하여 공간의 깊이를 왜곡하는 샷을 설계한다.",
+  "context": "마리우스 트로이는 디올, 나이키 등 글로벌 브랜드와 협업해 온 크리에이티브 디렉터로, 기술과 예술의 교차점에서 인간의 신체적·정신적 상태를 시각화하는 작업을 지속해 왔다. 그는 미드저니 세션 시리즈를 통해 디지털 환경의 소음과 속도에 대한 직접적인 대응으로서의 공간을 제안한다.",
+  "findings": [
+   {
+    "text": "미드저니는 샌프란시스코 기반의 독립 연구소인 미드저니가 개발한 생성형 AI 프로그램이다.",
+    "s": 2,
+    "quote": "Midjourney is a generative AI program and service created and hosted by the San Francisco–based independent research lab Midjourney, Inc."
+   }
+  ],
+  "keywords": [
+   "마리우스 트로이",
+   "미드저니",
+   "가상 설치 미술",
+   "공간 시노그래피",
+   "디지털 치유"
+  ],
+  "evidence": "His imagined installations are not proposals for public art programs, but he hopes they demonstrate a condition that already exists, just expressed in the language of fabric, light, colors, and a bit of sand.",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "AI를 활용한 가상 공간 설계가 현대인의 심리적 고립을 치유하는 건축적 장치로 기능하는 과정을 구체적인 재료와 빛의 연출로 상세히 설명한다.",
+  "v": 2,
+  "url": "https://www.designboom.com/art/colors-light-reconnect-communities-marius-troy-imagined-landscape-art-installations/",
+  "original_title": "colors and light reconnect communities in marius troy’s imagined landscape installations",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 9000,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-17 20:01",
+  "research": {
+   "entities": [
+    "Marius Troy",
+    "Midjourney",
+    "Dior",
+    "Nike",
+    "Oakley"
+   ],
+   "questions": [
+    "마리우스 트로이(Marius Troy)가 미드저니를 활용해 가상의 대규모 설치 미술을 제작하는 철학적 배경은 무엇인가?",
+    "디지털 AI 툴로 생성된 이미지가 어떻게 현대인의 고립감과 단절을 치유하는 공간적 경험으로 확장되는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Marius Troy",
+     "url": "https://mariustroy.com/"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Midjourney",
+     "url": "https://en.wikipedia.org/wiki/Midjourney"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Dior",
+     "url": "https://en.wikipedia.org/wiki/Dior"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "쇼디치에서 클러큰웰로, 영국 가구 브랜드 SCP의 40년 만의 이전",
+     "url": "https://www.wallpaper.com/design-interiors/scp-clerkenwell-opening"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "18세기 금성 일면 통과를 소환한 AI 필름 '트랜짓'",
+     "url": "https://motionographer.com/quickie/transit-metallux-studio/"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "지형과 철새의 이동을 AI 파이프라인으로 직조한 오피스 카펫 필름",
+     "url": "https://www.stashmedia.tv/frame-explores-our-planet-for-ege-carpets-x-gensler/"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3
+   ],
+   "chars": 2599
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "derivative.ca/educational-package/edu-request-farizah-masturah/75745": {
+  "title_ko": "미디어 아트 교육 현장의 기술적 접점, 파리자 마스투라의 터치디자이너 요청",
+  "summary_ko": "말레이시아 멀티미디어 대학교에 재학 중인 파리자 마스투라(Farizah Masturah)가 미디어 아트 소프트웨어인 터치디자이너(TouchDesigner)의 교육용 프로그램 지원을 요청했다. 해당 요청은 소프트웨어 개발사 데리버티브(Derivative)가 운영하는 교육 지원 시스템의 일환으로, 학생 및 연구자의 실무적 접근성을 높이기 위한 기술적 경로를 보여준다.",
+  "lens": "기술 지원 요청이라는 단편적인 기록을 통해 미디어 아트 교육 현장이 실무적 해상도 확장을 요구하는 접점을 확인한다.",
+  "why_now": "디지털 미디어 교육 현장에서 노드 기반 프로그래밍 언어의 보급이 창작자의 도구 선택과 프로젝트 구현 방식에 실질적인 영향을 미치고 있다.",
+  "mechanism": "노드 기반의 시각적 프로그래밍 언어인 터치디자이너는 실시간 상호작용 멀티미디어 콘텐츠를 생성하며, 교육 지원을 통해 학생들에게 고해상도 출력 환경을 제공한다.",
+  "sensory": "디지털 환경에서 생성되는 실시간 데이터의 흐름이 고해상도 시각 결과물로 변환되는 과정의 정밀함을 다룬다.",
+  "transfer": "콘티 설계 시 실시간 데이터 시각화 도구인 터치디자이너를 활용하여, 물리적 공간의 변수와 동기화된 모션 그래픽을 구현하는 워크플로우를 구성한다.",
+  "context": "터치디자이너는 토론토 기반의 기업 데리버티브가 개발한 노드 기반 시각 프로그래밍 언어로, 미디어 아트 설치와 실시간 퍼포먼스에 널리 쓰인다. 이전 사례들처럼 대학 소속 연구자들의 교육 지원 요청은 미디어 아트 교육 현장에서 소프트웨어 접근성을 높이려는 실무적 움직임의 일환이다.",
+  "findings": [
+   {
+    "text": "터치디자이너는 토론토에 위치한 데리버티브가 개발한 노드 기반의 시각 프로그래밍 언어다.",
+    "s": 1,
+    "quote": "TouchDesigner is a node-based visual programming language for real-time interactive multimedia content. Developed by the Toronto-based company Derivative"
+   }
+  ],
+  "keywords": [
+   "터치디자이너",
+   "미디어아트",
+   "교육지원",
+   "노드프로그래밍"
+  ],
+  "evidence": "Edu Request - Farizah Masturah",
+  "kind": "뉴스·이슈",
+  "depth": 2,
+  "grounding": "thin",
+  "depth_reason": "사용자 정보 외의 프로젝트 내용이 확인되지 않는 단순 교육 신청 기록이므로 가치 점수를 낮게 책정한다.",
+  "v": 2,
+  "url": "https://derivative.ca/educational-package/edu-request-farizah-masturah/75745",
+  "original_title": "Edu Request - Farizah Masturah",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 100,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-17 20:01",
+  "research": {
+   "entities": [
+    "TouchDesigner",
+    "Derivative"
+   ],
+   "questions": [
+    "TouchDesigner의 교육 지원 프로그램인 Edu Request는 어떤 자격 요건을 필요로 하는가?",
+    "Farizah Masturah가 TouchDesigner를 활용하여 진행하고자 하는 프로젝트의 성격은 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "TouchDesigner",
+     "url": "https://en.wikipedia.org/wiki/TouchDesigner"
+    },
+    {
+     "n": 2,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "엘리 캠벨, 클럽의 밤을 프레임 단위로 해체하고 다시 그리다",
+     "url": "https://www.creativeboom.com/work/ellie-campbell-turns-club-nights-into-hand-painted-gloriously-wonky-animations/"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "터치디자이너와 미디어 아트 교육 현장의 해상도 확장",
+     "url": "https://derivative.ca/educational-package/edu-request-jennifer-mccoy/75728"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "터치디자이너 교육 프로그램 신청 내역과 국내 사용자 요청",
+     "url": "https://derivative.ca/educational-package/edu-request-jubin-kim/75731"
+    }
+   ],
+   "used": [
+    1,
+    3,
+    4
+   ],
+   "chars": 992
+  },
+  "depth_raw": 2,
+  "depth_v": 2
+ },
+ "archdaily.com/1188712/un-habitat-and-icpac-launch-a-practical-guide-to-help-cities-prepare-for-el-nino": {
+  "title_ko": "기후 예측을 도시 행정의 방어선으로 바꾸는 엘니뇨 대응 프레임워크",
+  "summary_ko": "유엔 해비타트와 아프리카 개발 정부간 권위구루프 기후예측응용센터가 도시 리더들을 위한 실용 가이드 '엘니뇨 대비: 도시 리더를 위한 사전 대응 프레임워크'를 출시했다. 이 가이드는 기후 예측 데이터를 사전 합의된 임계값에 따라 행정 자금 집행과 배수구 정비 등 실질적 조치로 자동 전환하는 프로토콜을 제시한다.",
+  "lens": "기후 위기를 자연재해가 아닌 인프라와 제도의 정비 불량으로 규정하고, 예보를 행정 행동으로 직접 번역한다.",
+  "why_now": "2026년 10월부터 2027년 3월까지 정점에 이를 것으로 예상되는 엘니뇨에 대비해, 아프리카 뿔 지역을 비롯한 글로벌 도시들이 선제적 대응 체계를 갖추어야 하는 시점이다.",
+  "mechanism": "기후 예측 데이터가 사전 합의된 임계값을 넘어서면 자금 방출과 대피 경보 같은 행정 및 실무 조치가 자동으로 작동하는 구조를 취한다.",
+  "sensory": "홍수와 가뭄이 닥치기 전 비공식 정착지와 막힌 배수구라는 물리적 취약 지점에 선제적으로 자원과 인력이 투입되는 긴박한 현장의 스케일이다.",
+  "transfer": "도시 시뮬레이션 시나리오나 재난 대응 콘티에서 경보 발령 직후 행정 자금 집행과 현장 통제가 맞물리는 일련의 타임라인을 시각화하는 데 활용한다.",
+  "context": "유엔 해비타트(UN-Habitat)는 지속 가능한 도시 개발을 위해 1977년 설립된 유엔 산하 기구이며, 아프리카 개발 정부간 권위구루프(IGAD)의 기후예측응용센터(ICPAC)는 동아프리카 지역의 기후 서비스와 조기 경보 정보를 제공한다.",
+  "findings": [
+   {
+    "text": "유엔 해비타트와 IGAD는 도시 및 지자체 리더들이 엘니뇨 관련 리스크에 대비할 수 있도록 사전 대응 프레임워크를 제공하는 자문 노트를 발간했다.",
+    "s": 1,
+    "quote": "An advisory note by UN-Habitat and IGAD providing an anticipatory action framework to help city and municipal leaders prepare for El Niño-related risks."
+   },
+   {
+    "text": "유엔 해비타트는 1976년 캐나다 밴쿠버에서 열린 제1회 유엔 인간 정주 회의의 결과로 1977년에 설립되었다.",
+    "s": 2,
+    "quote": "It was established in 1977 as an outcome of the first United Nations Conference on Human Settlements and Sustainable Urban Development (Habitat I) held in Vancouver, Canada, in 1976."
+   },
+   {
+    "text": "아프리카 개발 정부간 권위구루프는 아프리카 뿔 지역, 나일 밸리, 아프리카 대호수 지역의 정부들이 참여하는 무역 블록이다.",
+    "s": 3,
+    "quote": "The Intergovernmental Authority on Development (IGAD) is a trade bloc in Africa. It includes governments from the Horn of Africa, Nile Valley and the African Great Lakes."
+   }
+  ],
+  "keywords": [
+   "유엔해비타트",
+   "엘니뇨",
+   "도시재난대응",
+   "사전대응",
+   "기후예측"
+  ],
+  "evidence": "UN-Habitat and ICPAC launch a guide to help city governments in the Horn of Africa prepare for El Niño with early warning, triggers and anticipatory action.",
+  "kind": "뉴스·이슈",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "기후 위기 대응을 위한 실용 가이드의 구조와 행정적 장치를 명확히 전달하나 정책 발표 뉴스의 범주에 머문다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1188712/un-habitat-and-icpac-launch-a-practical-guide-to-help-cities-prepare-for-el-nino",
+  "original_title": "UN-Habitat and ICPAC Launch a Practical Guide to Help Cities Prepare for El Niño",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 6345,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-17 20:01",
+  "research": {
+   "entities": [
+    "UN-Habitat",
+    "ICPAC",
+    "IGAD",
+    "World Meteorological Organization"
+   ],
+   "questions": [
+    "도시 정부가 기후 예측 데이터를 실제 재난 대응 프로토콜로 전환하는 구체적인 절차는 무엇인가?",
+    "엘니뇨로 인한 기후 위기가 아프리카 뿔 지역의 도시 인프라와 비공식 정착지에 미치는 영향은 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "El Nino Preparedness Guidelines for Cities",
+     "url": "https://www.icpac.net/publications/el-nino-preparedness-guidelines-for-cities/?utm_medium=website&utm_source=archdaily.com"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "United Nations Human Settlements Programme",
+     "url": "https://en.wikipedia.org/wiki/United%20Nations%20Human%20Settlements%20Programme"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Intergovernmental Authority on Development",
+     "url": "https://en.wikipedia.org/wiki/Intergovernmental%20Authority%20on%20Development"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "스타 아키텍처를 넘어, 쉬 티안티안의 건축적 침술",
+     "url": "https://www.archdaily.com/1041129/beauty-in-itself-is-dangerous-xu-tiantian-on-moving-beyond-starchitecture-in-louisiana-channel-interview"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "2026 UN-Habitat 스크롤 오브 아너: 주거 위기 해결을 위한 다섯 가지 실천적 접근",
+     "url": "https://www.archdaily.com/1186425/un-habitat-recognizes-five-approaches-to-adequate-housing-with-2026-scroll-of-honour"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "브라질의 목재 공학, 도시 공공성과 원주민 주거권의 현주소",
+     "url": "https://www.archdaily.com/1186807/brazil-in-focus-this-month-in-architecture-housing-learning-spaces-and-urban-life"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3
+   ],
+   "chars": 2598
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "dezeen.com/2026/11/17/xinu-tokyo-esrawe-studio-cadena-concepts": {
+  "title_ko": "도쿄 아오야마의 콘크리트 골조를 관통하는 검은 목재의 조형적 개입",
+  "summary_ko": "멕시코 디자인 스튜디오 에스라웨 스튜디오(Esrawe Studio)와 카데나 콘셉츠(Cadena Concepts)가 도쿄 아오야마의 콘크리트 건물 내부에 향수 브랜드 신유(Xinú)의 매장을 설계했다. 기존 건물의 뼈대를 유지한 채, 층을 가로지르는 검은색 적층 목재 구조물을 삽입하여 공간의 인식을 재구성하고 제품을 전시하는 조형적 장치로 활용했다.",
+  "lens": "기존 콘크리트의 차가운 물성 위로 검은 목재를 예각으로 관통시켜, 고정된 공간을 동적인 흐름의 장으로 변주한다.",
+  "why_now": "건축을 배경이 아닌 경험의 주체로 설정하여, 브랜드가 지향하는 발견의 가치를 물리적 구조로 치환하는 시도가 돋보인다.",
+  "mechanism": "벽면과 천장을 가로지르는 비정형의 목재 패널이 건물의 원래 구조와 교차하며, 방문객의 시선을 따라 공간 전체를 하나의 연속적인 서사로 엮는다.",
+  "sensory": "콘크리트의 거친 질감과 대비되는 검은 목재의 매끄러운 마감, 그리고 곳곳에 배치된 황동 패널의 금속적 광택이 시각적 긴장감을 만든다.",
+  "transfer": "공간의 모서리를 따라 사선으로 뻗어 나가는 구조물을 배치해, 정적인 샷에서도 공간의 깊이감과 방향성을 극대화하는 연출에 활용한다.",
+  "context": "에스라웨 스튜디오와 카데나 콘셉츠는 신유의 멕시코시티 방사형 목재 파빌리온과 오아하카 현무암 쇼룸 등을 통해 브랜드의 공간 철학을 일관되게 구축해 왔다. 헥토르 에스라웨는 가구 디자인에서 출발해 박물관학을 아우르는 다학제적 설계를 수행하며 공간을 하나의 전시적 서사로 다룬다.",
+  "findings": [
+   {
+    "text": "헥토르 에스라웨는 멕시코시티를 기반으로 가구, 인테리어, 건축, 박물관학을 아우르는 다학제적 디자인 활동을 전개한다.",
+    "s": 1,
+    "quote": "His work spans furniture, interior design, architecture, public installations, and museography."
+   }
+  ],
+  "keywords": [
+   "공간 설계",
+   "조형적 개입",
+   "물성 대비",
+   "동선 설계",
+   "신유"
+  ],
+  "evidence": "We approached the project as an intervention within an existing building, rather than simply designing an interior",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "기존 건축물과의 관계 맺기라는 명확한 설계 전략과 구체적인 재료 운용 방식이 드러나 있어 공간 디자인의 실무적 참고 가치가 높다.",
+  "v": 2,
+  "url": "https://www.dezeen.com/2026/11/17/xinu-tokyo-esrawe-studio-cadena-concepts/",
+  "original_title": "Black timber elements traverse concrete fragrance store in Tokyo",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 3498,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-17 20:01",
+  "research": {
+   "entities": [
+    "Esrawe Studio",
+    "Cadena Concepts",
+    "Xinú",
+    "Satoshi Hirano",
+    "Aoyama"
+   ],
+   "questions": [
+    "Esrawe Studio와 Cadena Concepts는 도쿄 아오야마의 신유(Xinú) 매장 인테리어에서 어떤 디자인 철학을 반영했는가?",
+    "기존 건축물인 콘크리트 건물 내부에 삽입된 검은색 목재 요소들은 공간 경험에 어떤 영향을 주는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Héctor Esrawe",
+     "url": "https://en.wikipedia.org/wiki/H%C3%A9ctor%20Esrawe"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 276
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "archdaily.com/1188506/itan-house-atelier-ko": {
+  "title_ko": "이탄 하우스: 베냉 코토누에 깃든 아프로-브라질의 기억을 잇다",
+  "summary_ko": "베냉 코토누에 위치한 이탄 하우스는 브라질에서 베냉 해안으로 귀환한 가족들의 역사를 담은 아프로-브라질 건축 유산을 복원한 프로젝트다. 아틀리에 코는 분홍색 외벽과 브리즈 블록 스크린, 루버 셔터 등 전통적인 건축 요소를 보존하며 340제곱미터 규모의 주거 공간에 새로운 시간의 층위를 입혔다.",
+  "lens": "전통적인 브리즈 블록과 루버 셔터로 구현한 통기성 구조가 열대 기후 속에서 어떻게 주거의 역사성을 보존하는지 증명한다.",
+  "why_now": "과거의 이주와 귀환이 남긴 건축적 유산을 현대적으로 복원하여 지역의 정체성을 보존하는 방식이 주목받는다.",
+  "mechanism": "브리즈 블록 스크린을 통해 빛을 분산시키고 자연 환기를 유도하며, 루버 셔터를 활용해 빛의 유입을 세밀하게 조절한다.",
+  "sensory": "분홍색 외벽이 강렬한 햇빛 아래 부드러운 음영을 만들며, 개방된 스크린을 통과하는 바람의 질감이 공간 전체를 감싼다.",
+  "transfer": "광고나 영상 콘티에서 열대 지역의 나른한 오후를 표현할 때, 브리즈 블록 사이로 쏟아지는 빛의 패턴과 그림자를 활용해 정적인 깊이감을 연출한다.",
+  "context": "이탄 하우스는 브라질에서 베냉으로 돌아온 이들이 정착하며 남긴 아프로-브라질 건축 전통을 계승한다. 아틀리에 코는 이 지역의 생태적 기후와 역사적 맥락을 반영한 복원 작업을 수행했다.",
+  "findings": [],
+  "keywords": [
+   "아프로브라질건축",
+   "베냉건축",
+   "복원프로젝트",
+   "브리즈블록",
+   "기후순응"
+  ],
+  "evidence": "It belongs to an Afro-Brazilian architectural tradition associated with families who returned from Brazil to the coast of Benin, with its pink walls, breeze-block screens, and louvered shutters.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "아프로-브라질 건축의 역사적 맥락과 복원 요소는 확인되나, 구체적인 복원 전략이나 기술적 디테일에 대한 정보가 부족하다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1188506/itan-house-atelier-ko",
+  "original_title": "Itan House / atelier kọ",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 964,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-17 20:01",
+  "research": {
+   "entities": [
+    "atelier kọ",
+    "Studio Nok",
+    "Afro-Brazilian architecture"
+   ],
+   "questions": [
+    "베냉의 아프로-브라질 건축 양식은 역사적으로 어떤 배경을 가지고 형성되었는가?",
+    "Itan House의 복원 과정에서 기존의 건축적 특징을 보존하기 위해 어떤 전략이 사용되었는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Witch Hat Atelier",
+     "url": "https://en.wikipedia.org/wiki/Witch%20Hat%20Atelier"
+    }
+   ],
+   "used": [],
+   "chars": 951
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "itsnicethat.com/articles/north-design-sainsbury-museum-and-art-centre-graphic-design-171126": {
+  "title_ko": "노먼 포스터의 구조적 골조에서 추출한 세인즈베리 미술관의 기하학적 아이덴티티",
+  "summary_ko": "노스 디자인(North Design)이 노먼 포스터의 세인즈베리 미술관 초기 설계도 속 강철 프레임을 바탕으로 새로운 브랜드 로고를 설계했다. 미술관의 건축적 유산을 기하학적 형태로 추상화하고, 오틀 아이허의 디자인 철학을 적용해 기능과 표현을 오가는 가변적 타이포그래피 시스템을 구축했다.",
+  "lens": "건축의 뼈대를 평면의 기호로 환원할 때, 구조적 정직함이 어떻게 시각적 권위를 획득하는지 보여준다.",
+  "why_now": "디지털 환경에서 브랜드 아이덴티티가 고정된 로고를 넘어, 물리적 공간의 물성과 건축적 논리를 내재한 '살아있는 시스템'으로 진화하고 있다.",
+  "mechanism": "건축물의 강철 골조에서 추출한 세 개의 맞물린 형태를 로고로 삼고, '기능적' 모드와 '표현적' 모드를 오가는 가변형 타이포그래피 엔진을 통해 공간의 정보를 유연하게 제어한다.",
+  "sensory": "알루미늄, 강철, 유리, 콘크리트 등 건축물의 원재료에서 추출한 색채 팔레트가 화면 위에서 차갑고도 단단한 물성을 드러낸다.",
+  "transfer": "공간의 평면도나 구조적 단면을 단순화하여 로고로 치환할 때, 재료의 질감을 색상 코드에 직접 대입하여 공간과 브랜드의 시각적 일체감을 극대화한다.",
+  "context": "노먼 포스터는 최근 베니스 유리 주간에서 리가딘 기법을 적용한 샹들리에를 선보이는 등 전통적 구조를 현대적 언어로 해체하는 작업을 이어왔다. 노스 디자인은 바비칸 센터, 테이트 등 영국 주요 문화 기관의 브랜딩을 전담하며 기관의 역사적 맥락을 시각화하는 데 주력해 왔다.",
+  "findings": [
+   {
+    "text": "오틀 아이허는 울름 조형 대학의 공동 설립자이자 1972년 뮌헨 올림픽의 픽토그램 시스템을 설계한 디자이너이다.",
+    "s": 2,
+    "quote": "Aicher co-founded and taught at the influential Ulm School of Design. He is known for having led the design team of the 1972 Summer Olympics in Munich, and for overseeing the creation of its prominently used system of pi"
+   }
+  ],
+  "keywords": [
+   "노먼 포스터",
+   "오틀 아이허",
+   "브랜딩",
+   "기하학",
+   "타이포그래피"
+  ],
+  "evidence": "Drawing on Norman Foster’s original plans for The Sainsbury Museum and Art Centre, the studio shows the expressive potential of geometry.",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "건축적 설계도에서 로고를 추출하는 논리적 과정과 가변적 타이포그래피 시스템이 구체적으로 제시되어 실무적 적용 가치가 높다.",
+  "v": 2,
+  "url": "https://www.itsnicethat.com/articles/north-design-sainsbury-museum-and-art-centre-graphic-design-171126",
+  "original_title": "A 1970s architectural sketch and Otl Aicher inspire North Design’s new art centre brand mark",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 4587,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-17 20:01",
+  "research": {
+   "entities": [
+    "North Design",
+    "Norman Foster",
+    "Otl Aicher",
+    "Sainsbury Centre"
+   ],
+   "questions": [
+    "노먼 포스터의 건축 설계도에서 추출한 기하학적 형태가 어떻게 브랜드 로고로 추상화되었는가?",
+    "오틀 아이허의 '지적 기하학' 디자인 철학이 현대적인 아이덴티티 시스템에 어떻게 적용되었는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Rockstar North",
+     "url": "https://en.wikipedia.org/wiki/Rockstar%20North"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Otl Aicher",
+     "url": "https://en.wikipedia.org/wiki/Otl%20Aicher"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "월페이퍼 30주년, 17인의 크리에이터가 빚어낸 케이크의 형상들",
+     "url": "https://www.wallpaper.com/art/wallpaper-30-birthday-cakes"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "에메코, 노먼 포스터 디자인 의자 복제 혐의로 자라홈 제소",
+     "url": "https://www.dezeen.com/2026/09/03/emeco-sues-zara-home-20-06-chair-norman-foster/"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "무라노의 빛을 재해석하다: 베니스 유리 주간의 12개 현대적 샹들리에",
+     "url": "https://www.wallpaper.com/design-interiors/design-events/venice-glass-week-2026-norman-foster-chandelier"
+    }
+   ],
+   "used": [
+    2,
+    3,
+    4,
+    5
+   ],
+   "chars": 2703
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "archdaily.com/1036117/miami-architecture-city-guide-22-projects-shaping-tropical-density-on-the-atlantic-coast": {
+  "title_ko": "마이애미의 열대 밀도: 22개 프로젝트로 읽는 도시의 레이어",
+  "summary_ko": "플로리다 남단 대서양 연안에 위치한 마이애미는 해변과 유리 타워의 엽서 같은 풍경 이면에 이주, 관광, 부동산 개발이 빚어낸 복잡한 도시 구조를 품고 있다. 역사적인 아데코 지구와 마이애미 모던(MiMo) 모텔부터 리틀아바나와 윈우드의 이주민 및 산업 유산까지, 건축은 기후와 경제에 대응하는 방식을 투영해왔다.",
+  "lens": "화려한 해안의 엽서 뒤편에서 이주와 기후가 만들어낸 마이애미의 실제 도시 골조를 읽는다.",
+  "why_now": "관광과 부동산 개발이 가속화되는 열대 해안 도시에서 건축이 어떻게 지역 기후와 이주민의 생태를 수용하는지 그 역사적 층위를 조명한다.",
+  "mechanism": "비스케인 블러바드의 전후 인프라와 사우스 비치의 아르데코 파사드가 기후 조건과 경제적 요구에 맞춰 각각의 형태적 밀도를 형성한다.",
+  "sensory": "파스텔 톤의 파사드와 장식용 브리즈 블록, 빛이 투과되는 부드러운 모서리의 건축 형태가 열대 기후의 강렬한 일사와 대비를 이룬다.",
+  "transfer": "현장 로케이션 촬영 시 화려한 해안가 대신 리틀아바나나 윈우드의 산업 유산과 이주민 커뮤니티의 골조를 배경으로 활용한다.",
+  "context": "마이애미는 1930년대 아르데코 양식에서 출발해 전후 경제 성장기와 맞물려 장식적 브리즈 블록과 평평한 지붕을 특징으로 하는 마이애미 모던(MiMo) 스타일로 진화했다. 이후 리틀아바나와 윈우드 같은 지역은 쿠바 이주민과 크리에이티브 산업이 기존 산업 유산과 직물 구조를 전유하며 새로운 도시 레이어를 형성해왔다.",
+  "findings": [
+   {
+    "text": "마이애미 모던(MiMo) 스타일은 전후 경제 성장과 미국 중산층의 유입 속에서 글래머, 유흥, 물적 과잉의 요소를 더해 남플로리다의 지역적 양식으로 발전했다.",
+    "s": 1,
+    "quote": "Miami Modernist architecture, or MiMo, is a regional style of architecture that developed in South Florida during the post-war period."
+   },
+   {
+    "text": "리틀아바나는 1960년대 쿠바 난민의 유입과 함께 형성되었으며, 현재는 문화적·정치적 활동의 중심지이자 전 세계에서 가장 잘 알려진 쿠바인 망명가 커뮤니티로 자리 잡았다.",
+    "s": 2,
+    "quote": "Little Havana is the best known Cuban exile neighborhood in the world."
+   },
+   {
+    "text": "윈우드 월스는 130명 이상의 아티스트가 참여한 회전식 벽화와 조각 컬렉션을 통해 스트리트 아트를 주요 예술 장르로 격상시키는 중심지 역할을 하고 있다.",
+    "s": 3,
+    "quote": "The museum continues to elevate the genre with a rotating collection of murals and sculptures by artists from over 30 countries"
+   }
+  ],
+  "keywords": [
+   "마이애미",
+   "열대밀도",
+   "MiMo",
+   "도시건축",
+   "이주민유산"
+  ],
+  "evidence": "Stretching along the Atlantic coast at the southern tip of Florida, Miami is often introduced through postcard views of beaches, palm trees, and glass towers facing the water.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "도시 가이드로서 다양한 역사적 건축 양식과 지역적 맥락을 균형 있게 다루나 단일 프로젝트의 심층 분석보다는 개요에 가깝다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1036117/miami-architecture-city-guide-22-projects-shaping-tropical-density-on-the-atlantic-coast",
+  "original_title": "Miami Architecture City Guide: 22 Projects Shaping Tropical Density on the Atlantic Coast",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 1881,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-17 20:01",
+  "research": {
+   "entities": [
+    "Miami Modern architecture",
+    "Art Deco District",
+    "Little Havana",
+    "Wynwood"
+   ],
+   "questions": [
+    "마이애미의 건축 양식인 'MiMo(Miami Modern)'가 기후와 지역적 특성을 어떻게 반영하고 있나요?",
+    "마이애미의 도시 개발 과정에서 이주민 커뮤니티와 부동산 시장이 건축 경관 형성에 어떤 영향을 미쳤나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Miami Modern architecture - Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Miami_Modern_architecture?utm_medium=website&utm_source=archdaily.com"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Little Havana - Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Little_Havana?utm_medium=website&utm_source=archdaily.com"
+    },
+    {
+     "n": 3,
+     "type": "공식·1차",
+     "title": "Miami's Most Iconic Street Art Destination & Event Venue",
+     "url": "https://thewynwoodwalls.com/?utm_medium=website&utm_source=archdaily.com"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3
+   ],
+   "chars": 7044
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "designboom.com/art/designboom-listens-sounds-alastair-philip-wiper-industrial-visions-interview": {
+  "title_ko": "기계의 뼈대와 산업적 질서, 알라스테어 필립 와이퍼의 시각적 리듬",
+  "summary_ko": "사진가 알라스테어 필립 와이퍼(Alastair Philip Wiper)는 공장, 실험실, 핵 시설 등 기능적 목적을 위해 설계된 공간의 대칭성과 반복적 패턴을 포착한다. 그는 산업 현장의 기계적 엄격함 속에서 발견한 비일상적 아름다움을 기록하며, 자신의 작업에 영감을 주는 음악과 시각적 참조점을 공유한다. 이번 리서치는 그의 사진 작업과 그 이면을 흐르는 음악적 리듬의 상관관계를 탐구한다.",
+  "lens": "기능을 위해 구축된 거대한 산업 구조물의 대칭과 패턴을, 음악의 반복적인 비트처럼 시각적 질서로 치환해내는 감각적 포착력이다.",
+  "why_now": "디지털 피로도가 높은 시대, 기능적이고 차가운 산업 유산의 물성과 구조를 정교하게 직시하는 작업은 오히려 강력한 아날로그적 실재감을 환기한다.",
+  "mechanism": "피사체의 기하학적 대칭성을 강조하는 구도와, 사진을 구성하는 패턴의 반복을 통해 공간이 가진 본래의 목적을 해체하고 시각적 유희로 전환한다.",
+  "sensory": "거대한 핵 반응로나 미사일 사일로의 차가운 금속성, 반복되는 기계 부품의 차가운 질감, 그리고 그 정적인 풍경 위로 겹쳐지는 크라프트베르크(Kraftwerk)의 전자음적 리듬감이 느껴진다.",
+  "transfer": "산업 현장의 거대 구조물을 촬영할 때, 대상의 기능성을 배제하고 기하학적 형태와 대칭성만을 극대화하는 샷을 설계하라. 조명은 금속의 반사광을 살려 구조물의 입체감을 강조하고, 편집 시에는 영상의 컷을 음악의 비트와 동기화하여 기계적 반복미를 배가시킨다.",
+  "context": "와이퍼는 어린 시절 접한 디 앨런 파슨스 프로젝트(The Alan Parsons Project)의 앨범 'Ammonia Avenue' 속 대칭적 산업 시설 이미지에서 현재 작업의 원형을 찾았다. 그는 성, 로봇, 핵 기술 등 기계적이고 인공적인 피사체를 다루며, 장 폴 구드(Jean-Paul Goude)의 과장된 신체 표현과 구조적 미학을 참조한다.",
+  "findings": [
+   {
+    "text": "디 앨런 파슨스 프로젝트는 과학 소설과 사회학적 주제를 다루는 개념적 앨범을 주로 제작했다.",
+    "s": 1,
+    "quote": "Many of their albums are conceptual in nature and focus on science fiction, supernatural, literary and sociological themes."
+   },
+   {
+    "text": "크라프트베르크는 전자 음악과 팝 멜로디, 반복적인 리듬을 결합한 '로봇 팝' 스타일을 정립했다.",
+    "s": 2,
+    "quote": "Kraftwerk developed a self-described \"robot pop\" style that combined electronic music with pop melodies, sparse arrangements, and repetitive rhythms"
+   }
+  ],
+  "keywords": [
+   "산업 미학",
+   "기하학적 대칭",
+   "알라스테어 필립 와이퍼",
+   "구조적 패턴"
+  ],
+  "evidence": "Their symmetry, patterns, and overlooked details.",
+  "kind": "작가·인터뷰",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "작가의 작업 철학과 시각적 방법론이 음악적 취향 및 구체적인 참조점과 연결되어 있어 실무적인 연출 아이디어를 도출하기에 충분하다.",
+  "v": 2,
+  "url": "https://www.designboom.com/art/designboom-listens-sounds-alastair-philip-wiper-industrial-visions-interview/",
+  "original_title": "designboom listens: the sounds behind alastair philip wiper’s industrial visions",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 7678,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-17 20:01",
+  "research": {
+   "entities": [
+    "Alastair Philip Wiper",
+    "The Alan Parsons Project",
+    "Kraftwerk",
+    "Cannonball Adderley",
+    "Sister Sledge"
+   ],
+   "questions": [
+    "알라스테어 필립 와이퍼가 산업 현장을 촬영할 때 미학적으로 중요하게 고려하는 시각적 요소는 무엇인가?",
+    "음악적 취향이 알라스테어 필립 와이퍼의 사진 작업 방식이나 피사체를 선택하는 관점에 어떤 영향을 미치는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "The Alan Parsons Project",
+     "url": "https://en.wikipedia.org/wiki/The%20Alan%20Parsons%20Project"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Kraftwerk",
+     "url": "https://en.wikipedia.org/wiki/Kraftwerk"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 2355
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "designboom.com/architecture/kato-taverna-roovice-1960s-tokyo-apartment-concrete-shell-50-sqm-renovation": {
+  "title_ko": "도쿄 1960년대 아파트, 콘크리트 골조와 라우안 합판으로 재구성한 50㎡",
+  "summary_ko": "도쿄 세타가야구의 1960년대 아파트가 카토 타베르나와 루비스의 협업으로 원형의 콘크리트 골조를 드러내는 방식으로 리노베이션되었다. 기존의 불필요한 칸막이를 철거하고 라우안 합판, 스테인리스 스틸, 모르타르를 사용하여 침실과 거실 영역을 구분했다. 50㎡의 제한된 면적 안에서 주방과 거실을 통합하고, 창문을 재개방하여 채광과 공간감을 확보했다.",
+  "lens": "노후한 아파트의 물리적 뼈대를 그대로 드러내어 층고의 불규칙함을 시각적 질서로 치환하고, 좁은 면적의 한계를 재료의 물성으로 돌파한다.",
+  "why_now": "과거의 주거 유산을 박제하지 않고, 그 시대의 구조적 특징인 콘크리트 쉘을 현대적 삶의 배경으로 적극 활용하는 재생 건축의 흐름을 보여준다.",
+  "mechanism": "천장을 가로지르는 스테인리스 스틸 바를 설치하여 경사진 천장의 높낮이를 시각적으로 평탄화하는 동시에 커튼 레일과 행거로 활용해 동선을 최적화했다.",
+  "sensory": "거친 노출 콘크리트의 차가운 질감과 따뜻한 색감의 라우안 합판, 그리고 반사되는 스테인리스 스틸이 교차하며 좁은 공간에 깊이감을 더한다.",
+  "transfer": "불규칙한 천장이나 기둥이 있는 공간에서 레일이나 바를 구조체처럼 배치해 시각적 수평선을 만들고, 수납과 조명을 그 라인에 일체화하는 방식을 적용해 보라.",
+  "context": "카토 타베르나는 도쿄와 이탈리아를 기반으로 활동하는 디자이너 부부이며, 루비스는 일본 내 노후 주택의 가치를 재발견하고 재생하는 작업에 집중하는 건설사다. 루비스는 이전에도 도쿄의 60년 된 주택이나 1970년대 아파트의 구조를 노출하는 리노베이션을 꾸준히 수행해왔다.",
+  "findings": [
+   {
+    "text": "루비스는 30년 이상 된 빈집을 리노베이션하여 소유주의 비용 부담 없이 재생하는 서비스를 제공한다.",
+    "s": 2,
+    "quote": "築30年以上1年以上空いている空き家」をカリアゲてオーナーの費用負担０円でリノベーションし転貸するサービスです。"
+   },
+   {
+    "text": "토토는 1917년에 설립된 일본의 다국적 위생 도기 제조 기업으로 워슐렛 제품으로 유명하다.",
+    "s": 3,
+    "quote": "Toto Ltd. (TOTO（トートー）株式会社, Tōtō kabushiki gaisha), formerly known as Tōyō Tōki (東洋陶器株式会社; lit. 'Oriental Pottery Company'), and Tōtō Kiki (東陶機器株式会社; lit. 'Tōtō Equipment Company'), is a Japanese multinational plumbing fi"
+   }
+  ],
+  "keywords": [
+   "콘크리트 쉘",
+   "라우안 합판",
+   "공간 재생",
+   "도쿄 아파트"
+  ],
+  "evidence": "Stripping away a dated remodel from two decades prior that had sealed off windows and created dead zones around existing plumbing shafts and columns, the design team pares the unit back to its raw concrete shell.",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "노후 아파트의 구조적 한계를 재료와 디테일로 극복하는 구체적인 전략이 제시되었으며, 재생 건축의 관점에서 실질적인 공간 설계 아이디어를 포함한다.",
+  "v": 2,
+  "url": "https://www.designboom.com/architecture/kato-taverna-roovice-1960s-tokyo-apartment-concrete-shell-50-sqm-renovation/",
+  "original_title": "kato taverna and ROOVICE strip 1960s tokyo apartment to concrete shell for 50-sqm renovation",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 7787,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-17 20:01",
+  "research": {
+   "entities": [
+    "Kato Taverna",
+    "Roovice",
+    "TOTO",
+    "Gakudai Apartment"
+   ],
+   "questions": [
+    "1960년대 도쿄 아파트의 구조적 특징인 콘크리트 쉘을 노출하는 방식이 현대적인 주거 환경에 어떤 공간적 이점을 제공하는가?",
+    "라우안 합판과 스테인리스 스틸, 모르타르와 같은 재료의 조합이 50제곱미터라는 제한된 공간에서 어떻게 시각적 개방감을 극대화하는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "kato taverna",
+     "url": "https://katotaverna.com/"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "リノベーション設計施工を東京、横浜でお考えならROOVICE | ルーヴィス",
+     "url": "https://www.roovice.com/"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Toto Ltd.",
+     "url": "https://en.wikipedia.org/wiki/Toto%20Ltd."
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3
+   ],
+   "chars": 1262
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "itsnicethat.com/articles/nico-therin-photography-zanzibar-project-171126": {
+  "title_ko": "잔지바르 해변의 축구: 니코 테린이 포착한 무중력의 순간들",
+  "summary_ko": "사진가 니코 테린(Nico Therin)이 잔지바르의 백사장에서 축구를 즐기는 아이들을 촬영했다. 그는 정오의 강렬한 햇빛, 해 질 녘의 긴 그림자, 그리고 어둠 속 게임을 기록하며 선수들과 같은 호흡으로 움직였다. 이 작업은 사진집으로 엮여 스포츠의 순수한 즐거움과 공동체의 에너지를 담아낸다.",
+  "lens": "두 동작 사이의 찰나인 '무중력'을 포착하기 위해 작가는 피사체와 물리적 거리를 좁히고 같은 상태가 될 때까지 현장을 달린다.",
+  "why_now": "디지털 보정이 만연한 시대에, 현장의 땀과 모래를 공유하며 피사체와 동기화하는 아날로그적 밀착 취재가 갖는 기록의 힘을 보여준다.",
+  "mechanism": "정오부터 밤까지 시간대별로 변하는 빛의 각도를 활용해 잔지바르의 백사장을 단순한 배경으로 치환하고, 공중에 뜬 공과 신체를 부각하는 구도를 취한다.",
+  "sensory": "눈부신 백색 모래와 청록색 바다의 강렬한 대비, 그리고 땀에 젖은 피부와 모래알이 흩날리는 거친 질감이 화면을 채운다.",
+  "transfer": "역동적인 장면을 촬영할 때 카메라를 고정하지 말고, 피사체의 움직임과 속도를 따라 뛰며 렌즈에 땀과 모래가 묻을 정도의 근접성을 확보하라.",
+  "context": "니코 테린은 그동안 도쿄 쓰키지 어시장, 뭄바이 여성 소방관, 콤튼의 댄스 그룹 등 특정 공동체의 움직임을 밀착 취재해왔다.",
+  "findings": [],
+  "keywords": [
+   "스포츠 사진",
+   "현장 기록",
+   "무중력",
+   "잔지바르",
+   "니코 테린"
+  ],
+  "evidence": "My process is influenced by movement, proximity, and capturing moments that I call ‘weightless’ – fleeting and familiar moments between two clear actions.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "작가의 작업론과 현장 접근 방식이 구체적으로 기술되어 있으나, 새로운 조형적 시도나 기술적 혁신보다는 기록적 가치에 집중한다.",
+  "v": 2,
+  "url": "https://www.itsnicethat.com/articles/nico-therin-photography-zanzibar-project-171126",
+  "original_title": "Nico Therin’s photographs of beach footballers in Zanzibar captures the sport in its purest form",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 3851,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-17 20:01",
+  "research": {
+   "entities": [
+    "Nico Therin",
+    "Baker & Co"
+   ],
+   "questions": [
+    "니코 테린이 추구하는 'weightless'한 순간이란 사진 작업에서 구체적으로 어떤 미학적 특징을 의미하는가?",
+    "잔지바르의 해변이라는 특정 환경이 니코 테린의 스포츠 사진 작업에서 시각적 구성에 어떤 영향을 미쳤는가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "designboom.com/art/james-bridle-the-power-of-solar-and-ancient-images": {
+  "title_ko": "제임스 브라이들, 방사충의 기하학으로 태양광 패널의 효율을 재구성하다",
+  "summary_ko": "제임스 브라이들은 100W 태양광 패널 표면에 미세한 방사충(Radiolaria)의 규산 골격 패턴을 정밀하게 각인하여 에너지 생산 장치를 예술적 오브제로 탈바꿈시켰다. 이 작업은 고대 생물학적 지능과 현대의 태양광 기술을 결합해, 인간 중심의 기술 발전에 의문을 제기하고 생태적 공존을 위한 새로운 의례를 제안한다.",
+  "lens": "미세한 생물학적 패턴을 태양광 패널에 물리적으로 각인해, 효율적인 빛 포집이라는 기능적 목적을 넘어 기술과 자연의 위계를 해체한다.",
+  "why_now": "기술 중심의 혁신이 한계에 다다른 시점에, 수억 년간 생존해온 비인간 존재의 지능을 현대 에너지 시스템에 이식하여 대안적 미래를 모색한다.",
+  "mechanism": "태양광 패널 표면에 특정 주파수의 빛을 가두는 미세 각인 기법을 적용해 에너지 포집 효율을 높이는 동시에, 고대 생물의 기하학적 구조를 시각화하여 에너지 생산의 미학을 재정의한다.",
+  "sensory": "규소 골격의 날카롭고 복잡한 격자 패턴이 빛과 만나 생성하는 기하학적 그림자와, 전력을 생산하는 패널의 차가운 금속성 질감이 대비를 이룬다.",
+  "transfer": "광고나 공간 연출 시, 기술적 장치(태양광 패널 등) 위에 자연물의 미세 구조(방사충, 식물 세포)를 레이저 각인하여 기계와 자연의 경계를 지우는 그래픽 모티프로 활용할 수 있다.",
+  "context": "제임스 브라이들은 디지털과 물리적 세계의 접점을 탐구하며 기술의 사회적 영향을 다뤄왔다. 에른스트 헤켈의 생물학적 도판에서 영감을 얻은 이번 작업은, 공간의 역사적 맥락과 현대 기술을 결합하는 그간의 작업 방식과 궤를 같이한다.",
+  "findings": [
+   {
+    "text": "방사충의 미세한 골격 구조를 태양광 패널에 각인하는 방식은 빛의 반사를 줄이고 포집 효율을 높이는 기술적 이점을 제공한다.",
+    "s": 1,
+    "quote": "Recent optical research has shown that certain forms of engraving can increase the efficiency of solar photovoltaic panels, by trapping certain frequencies of light which would otherwise be reflected."
+   },
+   {
+    "text": "에른스트 헤켈은 1866년 '생태학'이라는 용어를 처음 창안했으며, 그의 방사충 일러스트는 아르누보 운동에 큰 영향을 미쳤다.",
+    "s": 5,
+    "quote": "Ernst Haeckel, who coined the term “ecology” in 1866... The published artwork of Haeckel includes over 100 detailed, multi-colour illustrations of animals and sea creatures, collected in his Kunstformen der Natur, a book"
+   }
+  ],
+  "keywords": [
+   "비인간 지능",
+   "태양광 기술",
+   "생태적 의례",
+   "방사충",
+   "에른스트 헤켈"
+  ],
+  "evidence": "Recent optical research has shown that certain forms of engraving can increase the efficiency of solar photovoltaic panels",
+  "kind": "프로젝트",
+  "depth": 5,
+  "grounding": "full",
+  "depth_reason": "태양광 기술의 효율성과 생물학적 미학을 결합한 구체적 기법을 제시하며, 작가의 철학이 공간과 오브제에 명확하게 구현되어 있다.",
+  "v": 2,
+  "url": "https://www.designboom.com/art/james-bridle-the-power-of-solar-and-ancient-images/",
+  "original_title": "james bridle and the power of solar, zooplankton, and non-human entities",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 9000,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-17 20:01",
+  "research": {
+   "entities": [
+    "James Bridle",
+    "Radiolaria",
+    "Ernst Haeckel",
+    "Dziga Vertov",
+    "NeMe Art Centre"
+   ],
+   "questions": [
+    "제임스 브라이들이 말하는 '인간 이외의 지능(non-human intelligence)'이란 구체적으로 어떤 개념인가요?",
+    "방사충(Radiolaria)의 생물학적 특성이 어떻게 태양광 발전 기술과 예술적 결합을 이루었나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "highlights",
+     "url": "https://jamesbridle.com/works/solar-panels-radiolaria-series"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Through Other Eyes | NeMe",
+     "url": "https://www.neme.org/projects/through-other-eyes"
+    },
+    {
+     "n": 3,
+     "type": "공식·1차",
+     "title": "James Bridle",
+     "url": "https://jamesbridle.com/works/things-said-things-seen-and-things-done"
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "James Bridle",
+     "url": "https://en.wikipedia.org/wiki/James%20Bridle"
+    },
+    {
+     "n": 5,
+     "type": "위키백과",
+     "title": "Ernst Haeckel",
+     "url": "https://en.wikipedia.org/wiki/Ernst%20Haeckel"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "알파인 초원의 식물학과 현대 미술이 만나는 크슈타트 공항 전시",
+     "url": "https://www.wallpaper.com/travel/travel-events/how-to-dance-in-flower-field-tarmak-22-exhibition-gstaad-saanen-airport"
+    },
+    {
+     "n": 7,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "브라가의 바로크와 미래주의: 세미브레브 페스티벌이 소환한 공간의 물성",
+     "url": "https://clotmag.com/oped/semibreve-festival-2026-from-the-mutation-to-the-unknown"
+    }
+   ],
+   "used": [
+    1,
+    3,
+    4,
+    5
+   ],
+   "chars": 7770
+  },
+  "depth_raw": 5,
+  "depth_v": 2
+ },
+ "wallpaper.com/transportation/the-aston-martin-dreadnought-goes-from-video-game-sidekick-to-competitive-dune-basher": {
+  "title_ko": "가상 세계에서 현실의 사막으로, 애스턴 마틴 드레드노트의 다카르 데뷔",
+  "summary_ko": "애스턴 마틴이 게임 속 콘셉트카였던 드레드노트를 다카르 랠리 출전용 차량으로 실체화한다. 2027년 다카르 랠리에 3대의 차량을 투입하며 페르난도 알론소, 세바스티앙 로브, 루카스 모라에스를 드라이버로 영입했다. 프로드라이브와의 협업을 통해 헌터와 샌드라이더의 기술적 자산을 이식하여 험지 주파 능력을 확보할 계획이다.",
+  "lens": "가상 세계의 각진 조형을 극한의 지형에 적응시키기 위해 프로드라이브의 기성 랠리 플랫폼을 골조로 삼아 물리적 실체로 치환한다.",
+  "why_now": "디지털 공간의 가상 자산이 실제 모터스포츠의 물리적 한계에 도전하며 브랜드의 기술적 서사를 확장하고 있다.",
+  "mechanism": "프로드라이브 헌터의 트윈 댐퍼 서스펜션과 35인치 타이어 등 입증된 랠리 레이더 플랫폼을 드레드노트의 외관 아래 배치하여 구조적 정합성을 맞춘다.",
+  "sensory": "거친 사막의 모래 입자가 차체 하부와 휠 아치에 부딪히는 소리, 600마력 이상의 엔진이 내뿜는 진동과 건조한 열기가 시각적 긴장감을 만든다.",
+  "transfer": "가상 모델의 과장된 비례를 현실로 가져올 때, 구조적 뼈대는 검증된 기계 장치로 숨기고 외피의 절단면과 빛의 반사각을 강조해 비현실적인 조형미를 유지한다.",
+  "context": "애스턴 마틴은 발할라와 발렌을 통해 기계적 정밀함을 시각화해 왔으며, 프로드라이브는 헌터와 샌드라이더를 통해 다카르 랠리에서 이미 기술적 우위를 증명했다. 이번 프로젝트는 이전의 트랙 중심 레이싱에서 오프로드 내구 레이스로 영역을 확장하는 전환점이다.",
+  "findings": [
+   {
+    "text": "프로드라이브 헌터는 600마력 이상의 출력과 35인치 타이어, 트윈 댐퍼 서스펜션을 갖추어 거친 지형을 빠르게 주파한다.",
+    "s": 2,
+    "quote": "With an engine producing over 600 bhp, 35″ tyres and twin damped suspension, it takes sand dunes, rocky roads and desert tracks in its stride."
+   }
+  ],
+  "keywords": [
+   "다카르랠리",
+   "애스턴마틴",
+   "프로드라이브",
+   "오프로드",
+   "기계미학"
+  ],
+  "evidence": "Aston Martin Racing will be tackling the Dakar rally, one of the world’s most gruelling off-road endurance races.",
+  "kind": "프로젝트",
+  "depth": 5,
+  "grounding": "full",
+  "depth_reason": "가상 모델의 현실화 과정에서 프로드라이브의 기존 플랫폼을 결합하는 기술적 전략과 드라이버 라인업 등 구체적인 실행 계획이 명확하다.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/transportation/the-aston-martin-dreadnought-goes-from-video-game-sidekick-to-competitive-dune-basher",
+  "original_title": "The Aston Martin Dreadnought goes from video game sidekick to competitive dune basher",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 4128,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-17 20:01",
+  "research": {
+   "entities": [
+    "Aston Martin",
+    "Fernando Alonso",
+    "Sébastien Loeb",
+    "Prodrive",
+    "Lucas Moraes"
+   ],
+   "questions": [
+    "애스턴 마틴이 가상 세계의 콘셉트카였던 드레드노트를 실제 다카르 랠리 출전용으로 개조하면서 직면한 기술적 과제는 무엇인가?",
+    "프로드라이브는 이전의 헌터 및 샌드라이더 개발 경험을 어떻게 애스턴 마틴 드레드노트 랠리 레이더에 적용했는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "AMR | Racing",
+     "url": "https://www.astonmartin.com/en/our-world/racing/amr"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Home - Prodrive",
+     "url": "https://www.prodrive.com/"
+    },
+    {
+     "n": 3,
+     "type": "공식·1차",
+     "title": "Official website of the Dakar Rally",
+     "url": "https://www.dakar.com/en"
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "Aston Martin",
+     "url": "https://en.wikipedia.org/wiki/Aston%20Martin"
+    },
+    {
+     "n": 5,
+     "type": "위키백과",
+     "title": "Fernando Alonso",
+     "url": "https://en.wikipedia.org/wiki/Fernando%20Alonso"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "엔진의 숨결로 지어 올린 애스턴 마틴 발렌의 기계 미학",
+     "url": "https://www.stashmedia.tv/outrageous-muscle-tomorrow-bureau-launches-the-aston-martin-valen-supercar/"
+    },
+    {
+     "n": 7,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "애스턴 마틴 발할라의 내부 장치를 해부하는 CG 필름",
+     "url": "https://www.stashmedia.tv/altspace-gets-under-the-skin-of-the-aston-martin-valhalla/"
+    },
+    {
+     "n": 8,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "도로 위로 나온 최초의 애스턴 마틴 바이크, AMB 002 로드스터",
+     "url": "https://www.wallpaper.com/transportation/amb-002-roadster-superbike-aston-martin-brough-superior"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+   ],
+   "chars": 9848
+  },
+  "depth_raw": 5,
+  "depth_v": 2
  }
 }

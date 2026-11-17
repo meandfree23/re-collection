@@ -1,64 +1,76 @@
 {
-  "generated_at": "2026-11-17 17:19 KST",
+  "generated_at": "2026-11-17 20:01 KST",
   "period": "2026.11.10 - 2026.11.17",
   "total_articles": 536,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 232
+      "count": 240
     },
     {
       "genre": "동시대 미술",
-      "count": 199
+      "count": 191
     },
     {
       "genre": "미디어 파사드·3D",
-      "count": 56
+      "count": 66
     },
     {
       "genre": "아방가르드 패션",
-      "count": 49
+      "count": 39
     }
   ],
   "themes": [
     {
       "keyword": "박물관·전시",
-      "count": 45,
+      "count": 50,
       "previous_count": 35,
       "trend": "rising",
       "items": [
         {
-          "title": "휘트니 미술관이 드 쿠닝의 그림을 판매하는 이유는 무엇인가요?",
-          "url": "https://hyperallergic.com/why-is-the-whitney-museum-selling-a-de-kooning-painting/",
-          "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/11/crop-de-kooning-.jpeg",
+          "title": "“Mighty Miniatures” Features Over 300 Tiny Artworks From Indigenous Communities Across the Western Hemisphere",
+          "url": "https://hyperallergic.com/mighty-miniatures-features-over-300-tiny-artworks-from-indigenous-communities-across-the-western-hemisphere/",
+          "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/11/3.-MM---Taxi---269349_000_c01_20260427_ps.jpg",
           "source_name": "Hyperallergic"
         },
         {
-          "title": "메트로폴리탄 미술관, 상하이 박물관과의 대규모 협력 발표",
-          "url": "https://www.artforum.com/news/met-announces-collaboration-with-shanghai-museum-1234763655/",
-          "image_url": "https://www.artforum.com/wp-content/uploads/2026/11/unnamed.jpg?w=650",
+          "title": "Apple, '내일의 디자이너' 전시회에서 업사이클링한 중고 가구와 바나나 잎 종이 등불 선보여",
+          "url": "https://www.dezeen.com/2026/10/21/apple-designers-of-tomorrow-show-2026/",
+          "image_url": "https://static-2026.dezeen.com/uploads/2026/10/apple-designers-of-tomorrow_dezeen_2364_col_sq2-1024x1024.jpg",
+          "source_name": "Dezeen Lighting"
+        },
+        {
+          "title": "Lotus L. Kang Wins $70,000 Sobey Art Award",
+          "url": "https://www.artforum.com/news/lotus-l-kang-wins-2026-sobey-art-award-1234763642/",
+          "image_url": "https://www.artforum.com/wp-content/uploads/2026/11/Lotus-L-Kang.jpeg?w=650",
           "source_name": "Artforum"
         },
         {
-          "title": "레픽 아나돌의 DATALAND, 2026년 6월 로스앤젤레스에서 최초의 AI 예술 박물관으로 개관",
-          "url": "https://www.designboom.com/architecture/refik-anadol-dataland-worlds-first-museum-ai-arts-los-angeles-09-26-2024/",
-          "image_url": "https://www.designboom.com/wp-content/uploads/2025/10/refik-anadol-dataland-worlds-first-museum-ai-arts-los-angeles-designboom-11.jpg",
-          "source_name": "Designboom Digital Art"
-        },
-        {
-          "title": "성장의 방식: 20명의 아티스트가 리스본 전시회에서 식물을 디자인 협업자로 탐구합니다",
-          "url": "https://www.designboom.com/art/ways-of-growing-20-artists-plants-design-collaborators-lisbon-exhibition/",
-          "image_url": "https://www.designboom.com/wp-content/dbsub/440512/2026-11-05/ways-of-growing-20-artists-explore-plants-as-collaborators-in-lisbon-exhibition-1-6aec5ebd1dfed.jpg",
-          "source_name": "Designboom Art"
+          "title": "Lucas Museum’s Promised Education Program Fails to Materialize",
+          "url": "https://www.artforum.com/news/lucas-museums-education-program-fails-to-materialize-1234763647/",
+          "image_url": "https://www.artforum.com/wp-content/uploads/2026/11/2296622282.jpg?w=650",
+          "source_name": "Artforum"
         }
       ]
     },
     {
       "keyword": "빛과 조명",
-      "count": 23,
+      "count": 22,
       "previous_count": 11,
       "trend": "rising",
       "items": [
+        {
+          "title": "Apple, '내일의 디자이너' 전시회에서 업사이클링한 중고 가구와 바나나 잎 종이 등불 선보여",
+          "url": "https://www.dezeen.com/2026/10/21/apple-designers-of-tomorrow-show-2026/",
+          "image_url": "https://static-2026.dezeen.com/uploads/2026/10/apple-designers-of-tomorrow_dezeen_2364_col_sq2-1024x1024.jpg",
+          "source_name": "Dezeen Lighting"
+        },
+        {
+          "title": "리 브룸, The Chant Chambers 설치 작품으로 1970년대의 화려함을 불러일으키다",
+          "url": "https://www.dezeen.com/2026/09/15/lee-broom-1970s-glamour-chant-chambers-installation/",
+          "image_url": "https://static-2026.dezeen.com/uploads/2026/09/chant-chambers-lee-broom_dezeen_2364_col_sq-1-852x852.jpg",
+          "source_name": "Dezeen Lighting"
+        },
         {
           "title": "Fung+Bedford, 8m 길이의 종이로 오리가미 조명 접기",
           "url": "https://www.dezeen.com/2026/05/20/fung-and-bedford-resonance-origami-lighting/",
@@ -70,59 +82,59 @@
           "url": "https://www.dezeen.com/2026/05/20/michael-anastassiades-closes-lighting-brand/",
           "image_url": "https://static-2026.dezeen.com/uploads/2026/05/sq-michael-anastassiades-lighting-brand-closure_dezeen_2364_col_0-852x852.jpg",
           "source_name": "Dezeen Lighting"
-        },
-        {
-          "title": "시릴 란슬랭의 튜브형 설치 작품이 싱가포르에서 빛과 색상의 큐브로 변신하여 관람객이 걸어 다닐 수 있게 되었습니다.",
-          "url": "https://www.designboom.com/art/cyril-lancelin-tubular-installation-walkable-cube-light-color-singapore-cube-graphics-i-light/",
-          "image_url": "https://www.designboom.com/wp-content/dbsub/415549/2026-06-24/cyril-lancelin-new-immersive-artworks-appears-as-a-vibrating-skin-for-i-light-singapore-1-6a3bdd5e115e8.jpg",
-          "source_name": "Designboom Digital Art"
-        },
-        {
-          "title": "BIGX 슈퍼 스포츠 놀이터는 강철, 조명, 색상을 통해 디지털 풍경을 만들어냅니다.",
-          "url": "https://www.designboom.com/architecture/bigx-super-sports-playground-digital-landscape-steel-light-color-fun-connection-design-funconn/",
-          "image_url": "https://www.designboom.com/wp-content/dbsub/440895/2026-07-15/bigx-super-sports-playground-12-6a57322888fcc.jpg",
-          "source_name": "Designboom Digital Art"
         }
       ]
     },
     {
       "keyword": "목재 건축",
-      "count": 16,
+      "count": 18,
       "previous_count": 5,
       "trend": "rising",
       "items": [
         {
-          "title": "목재의 다재다능함을 보여주는 8가지 제품",
-          "url": "https://www.dezeen.com/2026/08/14/kitchens-chairs-seating-tables-lighting-wood-timber-dezeen-showroom/",
-          "image_url": "https://static-2026.dezeen.com/uploads/2026/08/theo-folding-chair-plank-showroom_dezeen_2364_col_3-852x852.jpg",
-          "source_name": "Dezeen Lighting"
+          "title": "OMA와 Potato Head가 발리에 매장을 짓다. 이곳에서 쇼핑객들은 제품이 어떻게 만들어지는지 정확히 볼 수 있습니다.",
+          "url": "https://www.yellowtrace.com.au/good-times-general-store-desa-potato-head-bali-circular-waste/",
+          "image_url": "https://assets.yellowtrace.com.au/wp-content/uploads/2026/11/04172634/Yellowtrace-Good-Times-General-Store-Desa-Potato-Head-Bali-Photo-Sharon-Angelia-18_opt80.jpg",
+          "source_name": "Yellowtrace"
         },
         {
-          "title": "베라/MVRDV",
-          "url": "https://www.archdaily.com/1188676/verra-mvrdv",
-          "image_url": "https://images.adsttc.com/media/images/6afa/9178/c23f/1f52/896d/7123/large_jpg/verra-mvrdv_18.jpg?1794806179",
-          "source_name": "ArchDaily"
+          "title": "타다시 카와마타, 루이나르의 최신 '자연과의 대화'를 이끌다",
+          "url": "https://www.ignant.com/2026/04/29/tadashi-kawamata-leads-ruinarts-latest-conversation-with-nature/",
+          "image_url": "https://www.ignant.com/wp-content/uploads/2026/04/kv-cmjn-a4-horiz-hd-720x509.jpg",
+          "source_name": "Ignant"
         },
         {
-          "title": "The Black Timber / SO Arquitetura & Design",
-          "url": "https://www.archdaily.com/1188494/the-black-timber-so-arquitetura-and-design",
-          "image_url": "https://images.adsttc.com/media/images/6af4/6d3f/c23f/1f01/895a/f3d8/large_jpg/the-black-timber-so-arquitetura-and-design_21.jpg?1794403714",
-          "source_name": "ArchDaily"
+          "title": "칼마",
+          "url": "https://leibal.com/furniture/calma/",
+          "image_url": "https://leibal.com/wp-content/uploads/2026/11/leibal-calma-helena-clunies-ross-design-5.jpg",
+          "source_name": "Leibal"
         },
         {
-          "title": "빨간색 골판지 금속과 소나무 합판으로 마감한 체코 시골 주택의 증축 부분",
-          "url": "https://www.designboom.com/architecture/red-corrugated-metal-pine-plywood-czech-village-house-extension-facha-architekti/",
-          "image_url": "https://www.designboom.com/wp-content/dbsub/449140/2026-11-10/house-with-a-red-addition-1-6af32bdbd44d4.jpg",
-          "source_name": "Designboom Architecture"
+          "title": "도쿄의 콘크리트 향수 매장을 가로지르는 검은색 목재 요소",
+          "url": "https://www.dezeen.com/2026/11/17/xinu-tokyo-esrawe-studio-cadena-concepts/",
+          "image_url": "https://static-2026.dezeen.com/uploads/2026/11/xinu-tokyo-esrawe-studio-cadena-concepts-sq_dezeen_2364_col_0-1024x1024.jpg",
+          "source_name": "Dezeen"
         }
       ]
     },
     {
       "keyword": "리노베이션·재생",
-      "count": 13,
+      "count": 15,
       "previous_count": 6,
       "trend": "rising",
       "items": [
+        {
+          "title": "kato taverna와 ROOVICE가 1960년대 도쿄 아파트를 콘크리트 골조만 남기고 철거하여 50㎡ 규모로 리노베이션",
+          "url": "https://www.designboom.com/architecture/kato-taverna-roovice-1960s-tokyo-apartment-concrete-shell-50-sqm-renovation/",
+          "image_url": "https://www.designboom.com/wp-content/dbsub/470571/2026-11-05/gakudai-apartment-by-kato-taverna-roovice-1-6aec3aa2ac1ba.jpg",
+          "source_name": "Designboom Architecture"
+        },
+        {
+          "title": "둥근 전환부와 내장형 호두나무 목공이 홍콩 아파트를 새롭게 구성합니다.",
+          "url": "https://www.designboom.com/architecture/rounded-transitions-built-in-walnut-joinery-hong-kong-apartment-tk-tutti-collective/",
+          "image_url": "https://www.designboom.com/wp-content/dbsub/412845/2026-11-14/apartment-tk-1-6af8c1cb7fdc5.jpg",
+          "source_name": "Designboom Architecture"
+        },
         {
           "title": "빨간색 골판지 금속과 소나무 합판으로 마감한 체코 시골 주택의 증축 부분",
           "url": "https://www.designboom.com/architecture/red-corrugated-metal-pine-plywood-czech-village-house-extension-facha-architekti/",
@@ -134,27 +146,59 @@
           "url": "https://www.designboom.com/architecture/neutral-tones-earthy-green-accents-renewed-1975-athens-penthouse-teron-studio/",
           "image_url": "https://www.designboom.com/wp-content/dbsub/470576/2026-11-05/teron-studio-renovates-1970s-athens-penthouse-as-the-architects-own-home-1-6aec5ba1b810a.jpg",
           "source_name": "Designboom Architecture"
+        }
+      ]
+    },
+    {
+      "keyword": "가구 디자인",
+      "count": 13,
+      "previous_count": 11,
+      "trend": "rising",
+      "items": [
+        {
+          "title": "Apple, '내일의 디자이너' 전시회에서 업사이클링한 중고 가구와 바나나 잎 종이 등불 선보여",
+          "url": "https://www.dezeen.com/2026/10/21/apple-designers-of-tomorrow-show-2026/",
+          "image_url": "https://static-2026.dezeen.com/uploads/2026/10/apple-designers-of-tomorrow_dezeen_2364_col_sq2-1024x1024.jpg",
+          "source_name": "Dezeen Lighting"
         },
         {
-          "title": "리노베이션이 필요한 아파트",
-          "url": "https://minimalissimo.com/articles/raw-apartment",
-          "image_url": "https://minimalissimo.com/api/media/file/raw-apartment-featured-v20261027-1200x630.jpg",
-          "source_name": "Minimalissimo"
+          "title": "톰 피어슨, 물방울 모양의 패턴이 있는 리벳 처리된 알루미늄 가구를 선보이다",
+          "url": "https://www.dezeen.com/2026/09/18/tom-pearson-riveting-aluminium-furniture/",
+          "image_url": "https://static-2026.dezeen.com/uploads/2026/09/tom-pearson-studio-10000-rivets_dezeen_2364_col_sq4-852x852.jpg",
+          "source_name": "Dezeen Lighting"
         },
         {
-          "title": "Mecanoo, 암스테르담의 네덜란드 중앙은행(De Nederlandsche Bank) 리노베이션을 통해 이전 금고를 '도시의 거실'로 탈바꿈시키다",
-          "url": "https://www.dezeen.com/2026/11/15/netherlands-central-bank-renovation-mecanoo/",
-          "image_url": "https://static-2026.dezeen.com/uploads/2026/11/mecanoo-de-nederlandsche-bank_dezeen_2364_sq_0-1024x1024.jpg",
-          "source_name": "Dezeen"
+          "title": "NYCxDesign 2026에서 선보이는 독특하고 멋지며 잘 만들어진 18가지 제품",
+          "url": "https://www.dezeen.com/2026/05/27/eighteen-objects-nycxdesign-2026/",
+          "image_url": "https://static-2026.dezeen.com/uploads/2026/05/nyc-design-week-2026-sq_dezeen_2364_col_5-852x852.jpg",
+          "source_name": "Dezeen Lighting"
+        },
+        {
+          "title": "Ukurant 전시회에는 말랑말랑한 고무 테이블과 석고보드 화병이 전시됩니다.",
+          "url": "https://www.dezeen.com/2026/06/12/ukurant-exhibition-3-days-of-design-2026/",
+          "image_url": "https://static-2026.dezeen.com/uploads/2026/06/ukurant-exhibition-3-days-of-design-2026-sq-852x852.jpg",
+          "source_name": "Dezeen Lighting"
         }
       ]
     },
     {
       "keyword": "콘크리트 물성",
-      "count": 9,
+      "count": 11,
       "previous_count": 6,
       "trend": "rising",
       "items": [
+        {
+          "title": "도쿄의 콘크리트 향수 매장을 가로지르는 검은색 목재 요소",
+          "url": "https://www.dezeen.com/2026/11/17/xinu-tokyo-esrawe-studio-cadena-concepts/",
+          "image_url": "https://static-2026.dezeen.com/uploads/2026/11/xinu-tokyo-esrawe-studio-cadena-concepts-sq_dezeen_2364_col_0-1024x1024.jpg",
+          "source_name": "Dezeen"
+        },
+        {
+          "title": "kato taverna와 ROOVICE가 1960년대 도쿄 아파트를 콘크리트 골조만 남기고 철거하여 50㎡ 규모로 리노베이션",
+          "url": "https://www.designboom.com/architecture/kato-taverna-roovice-1960s-tokyo-apartment-concrete-shell-50-sqm-renovation/",
+          "image_url": "https://www.designboom.com/wp-content/dbsub/470571/2026-11-05/gakudai-apartment-by-kato-taverna-roovice-1-6aec3aa2ac1ba.jpg",
+          "source_name": "Designboom Architecture"
+        },
         {
           "title": "원료부터 현장까지: 회수 및 가공 소재가 디자인에 미치는 영향",
           "url": "https://www.archdaily.com/1188462/from-source-to-site-how-recovered-and-engineered-materials-shape-design",
@@ -166,50 +210,6 @@
           "url": "https://www.dezeen.com/2026/11/16/lumeah-bathroom-renovation-paul-couch-house-pepper-well/",
           "image_url": "https://static-2026.dezeen.com/uploads/2026/11/lumea-bathroom-pepper-well_dezeen_2364_sq_0-1024x1024.jpg",
           "source_name": "Dezeen"
-        },
-        {
-          "title": "아파트먼트 NDRX / 스튜디오 짚샌드콘크리트",
-          "url": "https://www.archdaily.com/1187502/apartment-ndrx-studio-gypsandconcrete",
-          "image_url": "https://images.adsttc.com/media/images/6adf/2538/3271/8400/01d0/e92d/large_jpg/1.jpg?1793008985",
-          "source_name": "ArchDaily"
-        },
-        {
-          "title": "리노베이션이 필요한 아파트",
-          "url": "https://minimalissimo.com/articles/raw-apartment",
-          "image_url": "https://minimalissimo.com/api/media/file/raw-apartment-featured-v20261027-1200x630.jpg",
-          "source_name": "Minimalissimo"
-        }
-      ]
-    },
-    {
-      "keyword": "미니멀리즘",
-      "count": 8,
-      "previous_count": 3,
-      "trend": "rising",
-      "items": [
-        {
-          "title": "어린이",
-          "url": "https://leibal.com/interiors/kid/",
-          "image_url": "https://leibal.com/wp-content/uploads/2026/10/leibal-kid-box-9-24.jpg",
-          "source_name": "Leibal"
-        },
-        {
-          "title": "리노베이션이 필요한 아파트",
-          "url": "https://minimalissimo.com/articles/raw-apartment",
-          "image_url": "https://minimalissimo.com/api/media/file/raw-apartment-featured-v20261027-1200x630.jpg",
-          "source_name": "Minimalissimo"
-        },
-        {
-          "title": "OkiDoki 말차 바 / 도브로크나 라치치(Dobrochna Rajcic)",
-          "url": "https://www.archdaily.com/1188229/okidoki-matcha-bar",
-          "image_url": "https://images.adsttc.com/media/images/6af0/4983/4ba6/4700/01d0/7e4e/large_jpg/migdal_okidoki_6.jpg?1794132644",
-          "source_name": "ArchDaily"
-        },
-        {
-          "title": "Daichi Inc의 일본식 사우나는 \"사람들이 숲속에 녹아드는 듯한 느낌을 줍니다.\"",
-          "url": "https://www.dezeen.com/2026/11/14/daichi-inc-silent-river-tree-sauna/",
-          "image_url": "https://static-2026.dezeen.com/uploads/2026/11/daichi-silent-river-tree-sauna-daichi-architecture-sauna-japan-public-leisure_dezeen_2364_sq-1024x1024.jpg",
-          "source_name": "Dezeen"
         }
       ]
     }
@@ -218,15 +218,13 @@
     "Edu Request",
     "Dezeen Awards",
     "Las Vegas",
-    "Artist Spotlight",
-    "Report Finds",
-    "GTA VI",
-    "Paris Photo",
+    "Sharjah Architecture Triennial",
     "David Zwirner",
     "Mexico City",
     "Epstein Ties",
     "Native Art",
-    "Sumayya Vally"
+    "Sumayya Vally",
+    "Powerhouse Parramatta"
   ],
   "has_comparison": true
 }
