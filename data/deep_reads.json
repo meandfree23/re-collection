@@ -337617,5 +337617,104 @@
   },
   "depth_raw": 2,
   "depth_v": 2
+ },
+ "wallpaper.com/architecture/hanasaari-power-plant-development-finland": {
+  "title_ko": "핀란드 하나사리 발전소, 산업 유산의 기하학적 볼륨을 도시의 일상으로",
+  "summary_ko": "헬싱키 시는 2023년 가동을 멈춘 하나사리 발전소 일대 16헥타르를 주거와 비즈니스가 결합된 수변 공간으로 재생하기 위한 국제 공모를 시작했다. 건축가 티모 펜틸라가 1970년대 설계한 발전소의 콘크리트와 벽돌 구조를 보존하며, 도시 구조와 유기적으로 연결되는 새로운 마스터플랜을 찾는다. 수상팀은 2029년 봄 발표하며, 2031년 착공을 목표로 한다.",
+  "lens": "거대한 산업적 볼륨을 해체하지 않고, 그 척박한 기하학적 골조를 도시의 일상적 동선으로 전유하는 방식에 주목한다.",
+  "why_now": "가동 중단된 산업 유산을 멸실하지 않고 도시의 물리적 시간과 결합해 새로운 사회적 시노그래피를 구축하려는 시도가 유럽 전역에서 가속화되고 있다.",
+  "mechanism": "발전소의 기존 콘크리트와 벽돌 외피를 보존하여 과거의 물리적 무게감을 유지하고, 향후 건설될 교량들을 통해 동쪽 내륙과 수변 공간을 물리적으로 통합한다.",
+  "sensory": "거대한 발전소 건물이 수면과 녹지를 배경으로 빚어내는 기하학적 실루엣과, 1970년대 모더니즘 건축 특유의 단단하고 건조한 물성이 강조된다.",
+  "transfer": "산업 유산의 대규모 매스를 배경으로 활용할 때, 인위적인 조명 대신 건물의 벽면과 수면의 반사광을 이용해 공간의 깊이감을 확보하는 샷을 설계한다.",
+  "context": "하나사리 발전소는 핀란드 모더니즘 건축가 티모 펜틸라의 대표작으로, 1974년에서 1976년 사이 완공되었다. 펜틸라는 헬싱키 시립 극장과 탐페레 라티나 경기장 등 대규모 산업 및 공공 건축물을 설계하며 핀란드 건축의 기하학적 정체성을 확립했다.",
+  "findings": [
+   {
+    "text": "하나사리 발전소 일대 16헥타르를 대상으로 하는 이 공모전은 2026년 11월 시작되어 2029년 봄에 최종 결과가 발표된다.",
+    "s": 1,
+    "quote": "The three-phase competition will begin in November 2026 and is set to conclude in spring 2029."
+   },
+   {
+    "text": "건축가 티모 펜틸라는 1931년생 핀란드 모더니즘 건축가로, 하나사리 B 발전소를 비롯해 헬싱키 시립 극장 등을 설계했다.",
+    "s": 2,
+    "quote": "Timo Jussi Penttilä (16 March 1931 – 25 February 2011) was a Finnish modernist architect and architecture theorist. He is best known for designing the Helsinki City Theatre, completed in 1967, and for major industrial an"
+   }
+  ],
+  "keywords": [
+   "산업유산",
+   "도시재생",
+   "티모펜틸라",
+   "수변공간"
+  ],
+  "evidence": "The building's volumes are a mix of concrete and brick, creating a blend of utilitarian architecture and tactile composition against the backdrop of water, city and greenery.",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "역사적 건축물의 보존과 도시 재생이라는 구체적 과제를 명확한 기한과 함께 제시하며 건축적 맥락이 충분히 확인된다.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/architecture/hanasaari-power-plant-development-finland",
+  "original_title": "Is the decommissioned Hanasaari power plant Europe's most exciting development?",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 2549,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-17 14:17",
+  "research": {
+   "entities": [
+    "Hanasaari power plant",
+    "Timo Penttilä",
+    "City of Helsinki",
+    "Daniel Sazonov",
+    "Wallpaper*"
+   ],
+   "questions": [
+    "하나사리 발전소(Hanasaari power plant) 재개발 국제 공모전의 주요 심사 기준과 기대되는 도시 재생 방향은 무엇인가?",
+    "건축가 티모 펜틸라(Timo Penttilä)가 설계한 기존 발전소 건물의 역사적·건축적 가치는 무엇이며 어떻게 보존될 예정인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Hanasaari idea and implementation competition",
+     "url": "https://www.hel.fi/en/urban-environment-and-traffic/plots-and-building-permits/applying-for-a-plot/plot-draws-and-competitions/hanasaaren-idea-ja-toteutuskilpailu"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Timo Penttilä",
+     "url": "https://en.wikipedia.org/wiki/Timo%20Penttil%C3%A4"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Wallpaper (magazine)",
+     "url": "https://en.wikipedia.org/wiki/Wallpaper%20%28magazine%29"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "홍콩 전후 공공 주거의 격자를 베스널 그린에 이식하다",
+     "url": "https://www.wallpaper.com/travel/bakery-hoko-london-cafe-review"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "에스 데블린의 16페이지 콘서티나 커버, 월페이퍼 30주년의 기록",
+     "url": "https://www.wallpaper.com/design-interiors/es-devlin-16-page-concertina-cover-for-october-2026-wallpaper"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "월페이퍼 30주년, 17인의 크리에이터가 빚어낸 케이크의 형상들",
+     "url": "https://www.wallpaper.com/art/wallpaper-30-birthday-cakes"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 4253
+  },
+  "depth_raw": 4,
+  "depth_v": 2
  }
 }
