@@ -3794,5 +3794,52 @@
   "v": 3,
   "model": "gemini-3.5-flash-lite",
   "written_at": "2026-11-17 02:13"
+ },
+ "2026-11-18": {
+  "date": "2026-11-18",
+  "headline": "짐바브웨 화강암 문턱과 5,000개의 파편, 박제된 시간을 잇는 물리적 궤적",
+  "editorial": "공간을 단순히 머무는 곳이 아닌 하나의 악기로 다루는 우드워크 암스테르담의 시노그래피는 물리적 환경이 어떻게 서사를 증폭하는지 보여준다. 마렌 칼슨이 건축의 틈새에서 정치적 망각을 길어 올리고, 우크라이나의 폐기물 모자이크가 파괴된 지형을 다시 이어 붙이는 과정은 모두 고정된 물리적 환경에 새로운 운동성을 부여하는 행위다. 파리 볼테르 아파트의 화강암 문턱이 단절된 방을 빛으로 연결하듯, 우리는 낡은 골조와 파편화된 기억 속에서 다시 생동하는 공간의 가능성을 발견한다.",
+  "threads": [
+   {
+    "name": "틈새를 메우는 물리적 장치",
+    "note": "건축적 구조의 결함이나 틈을 새로운 통로와 서사로 전환하는 방식에 주목한다.",
+    "items": [
+     {
+      "title": "공간을 악기로 조율하다, 우드워크 암스테르담의 몰입형 서사 레이블 비주얼 밸리",
+      "url": "https://motionographer.com/news/woodwork-amsterdam-visual-valley-immersive-storytelling-label/"
+     },
+     {
+      "title": "마렌 칼슨: 건축의 틈새로 침투한 서독의 부재한 역사",
+      "url": "https://flash---art.com/2026/09/maren-karlson-lag-soft-opening-london/"
+     },
+     {
+      "title": "파리 볼테르 아파트, 오스만 양식의 폐쇄성을 걷어낸 빛의 통로",
+      "url": "https://leibal.com/interiors/voltaire-apartment/"
+     }
+    ]
+   },
+   {
+    "name": "파괴된 파편의 재결합",
+    "note": "폐기물이나 지워진 역사의 잔해를 모아 현재의 유의미한 구조로 치환하는 작업들이다.",
+    "items": [
+     {
+      "title": "5,000개의 파편으로 소환한 기억, 우크라이나 생명의 나무 모자이크",
+      "url": "https://www.designboom.com/art/ukrainian-artists-tree-of-life-mosaic-cop31/"
+     },
+     {
+      "title": "더그 에이트컨의 하울: 산업 폐기물과 사막의 시간으로 빚은 유토피아",
+      "url": "https://www.designboom.com/art/doug-aitken-utopia-oil-fields-industrial-waste-decay-howl-303-gallery-new-york-interview/"
+     },
+     {
+      "title": "존 디볼라의 ‘쉴라’, 폐허의 시간과 사적인 기억을 겹치다",
+      "url": "https://www.anothermag.com/art-photography/17640/john-divola-sheila-tbw-photo-book-lax-zuma-photography?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=john-divola-s-new-monograph-celebrates-a-storybook-romance"
+     }
+    ]
+   }
+  ],
+  "based_on": 24,
+  "v": 3,
+  "model": "gemini-3.1-flash-lite",
+  "written_at": "2026-11-18 02:01"
  }
 }
