@@ -32,7 +32,7 @@ CURATED_SOURCES = [
     { "name": "Motionographer", "url": "https://motionographer.com/feed/", "genre": "MEDIA FACADE & 3D" },
     { "name": "TouchDesigner", "url": "https://derivative.ca/rss.xml", "genre": "MEDIA FACADE & 3D" },
     { "name": "Dezeen Lighting", "url": "https://www.dezeen.com/design/lighting/feed/", "genre": "MEDIA FACADE & 3D" },
-    { "name": "Designboom Technology", "url": "https://www.designboom.com/technology/feed/", "genre": "MEDIA FACADE & 3D" },
+    { "name": "Designboom Digital Art", "url": "https://www.designboom.com/tag/digital-art/feed/", "genre": "MEDIA FACADE & 3D" },
     { "name": "Neural", "url": "http://neural.it/feed/", "genre": "MEDIA FACADE & 3D" },
     { "name": "CLOT Magazine", "url": "https://clotmag.com/feed", "genre": "MEDIA FACADE & 3D" },
 

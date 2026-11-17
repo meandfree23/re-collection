@@ -81,6 +81,7 @@ jobs:
       - name: Compile Pages & Generate Static Partitions
         run: |
           python build_pages.py
+          python health_check.py
 
       - name: Commit and Push Updated Journal (Triggers Pages Build)
         run: |
