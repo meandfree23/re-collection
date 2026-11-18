@@ -3841,5 +3841,48 @@
   "v": 3,
   "model": "gemini-3.1-flash-lite",
   "written_at": "2026-11-18 02:01"
+ },
+ "2026-11-19": {
+  "date": "2026-11-19",
+  "headline": "외부로 밀려난 설비와 안으로 흐르는 빛, 수면의 비움",
+  "editorial": "로이드 빌딩은 내부를 비우기 위해 설비를 외벽으로 밀어내며 건물을 거대한 기계 장치로 탈바꿈시켰다. 이처럼 건축은 도면이 아닌 누적된 기억의 총합이며, 공간의 진실은 소리와 메아리 같은 물리적 증거를 통해 비로소 드러난다. 하버드 GSD의 메모리얼 서클 대안은 기념비적인 수직성을 수평적인 수면의 비움으로 치환하며 도시의 역사적 축을 회복한다. 공간을 구성하는 물리적 요소들은 때로 고정된 틀을 벗어나 일상의 리듬을 담아내는 유연한 장치로 작동한다.",
+  "threads": [
+   {
+    "name": "공간의 골조와 물리적 장치",
+    "note": "건축물의 구조적 설비와 물리적 환경을 공간을 조율하는 도구로 활용하는 방식이다.",
+    "items": [
+     {
+      "title": "로이드 빌딩 40주년, 하이테크 건축이 증명한 가변의 미학",
+      "url": "https://www.wallpaper.com/architecture/lloyds-building-40th-anniversary"
+     },
+     {
+      "title": "닫힌 공간 속의 물, 실내 수영장을 품은 주거의 건축적 조율",
+      "url": "https://www.architecturaldigest.com/gallery/best-airbnbs-with-an-indoor-pool"
+     },
+     {
+      "title": "1970년대 아테네 사무실의 변신, 배관을 숨긴 바닥과 중앙 갤러리의 하이브리드 공간",
+      "url": "https://www.designboom.com/architecture/1970s-athens-office-hybrid-home-gallery-central-exhibition-void-oblique-astral-weeks/"
+     }
+    ]
+   },
+   {
+    "name": "기억을 담는 수평적 비움",
+    "note": "기념비적 권위 대신 공공의 통행과 기억의 매핑을 우선하는 조경과 건축의 개입이다.",
+    "items": [
+     {
+      "title": "기억의 매핑: 물리적 증거를 넘어 공간의 진실을 재구성하는 법",
+      "url": "https://www.archdaily.com/1188661/mapping-memory-reconstructing-architecture-beyond-physical-evidence"
+     },
+     {
+      "title": "기념비적 아치에 맞서는 조경의 응답, 하버드 GSD의 메모리얼 서클 대안",
+      "url": "https://www.dezeen.com/2026/11/18/harvard-gsd-triumphal-arch-proposals-the-cultural-landscape-foundation/"
+     }
+    ]
+   }
+  ],
+  "based_on": 24,
+  "v": 3,
+  "model": "gemini-3.1-flash-lite-preview",
+  "written_at": "2026-11-19 01:37"
  }
 }
