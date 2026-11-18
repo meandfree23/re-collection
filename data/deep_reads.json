@@ -348000,5 +348000,779 @@
   },
   "depth_raw": 4,
   "depth_v": 2
+ },
+ "archdaily.com/1188752/a-two-way-facade-cysdo": {
+  "title_ko": "도시와 거주자의 시선을 교차하는 양방향 파사드 설계",
+  "summary_ko": "타이베이의 상업 건축물 CYS.ASDO는 건물을 바라보는 도시의 시선과 도시를 바라보는 거주자의 시선을 동시에 조율한다. 외부 파사드와 내부 외벽의 개구부는 공간의 기능에 따라 정렬되거나 어긋나게 배치되어 시선을 확장하거나 재조정한다.",
+  "lens": "벽체와 테라스, 식재를 적절히 배치해 무분별한 도시 풍경을 선별된 시각적 경험으로 필터링한다.",
+  "why_now": "도시 밀도가 극단적인 환경에서 건물의 외피가 단순한 장식을 넘어 시각적 여과 장치로 기능해야 함을 보여준다.",
+  "mechanism": "내외부 개구부의 위치를 의도적으로 어긋나게 설계하여 내부 시야를 제어하고, 외부에서는 건물의 입체적인 레이어를 드러낸다.",
+  "sensory": "식재와 테라스가 겹쳐진 층위 사이로 도시의 빛이 산란하며, 내부에서는 정제된 프레임을 통해 외부를 조망하게 된다.",
+  "transfer": "공간 연출 시 카메라 앵글을 고정하지 않고, 파티션이나 창의 위치를 의도적으로 비틀어 시선의 강제적 전환을 유도하는 기법으로 활용한다.",
+  "context": "타이베이에서 2024년 완공된 상업 건축 프로젝트로, 건축가 청예성(chung-yei sheng)이 이끄는 CYS.ASDO가 설계를 담당했다.",
+  "findings": [],
+  "keywords": [
+   "파사드",
+   "시각적 필터",
+   "상업 건축",
+   "타이베이"
+  ],
+  "evidence": "The façade addresses two simultaneous relationships: how the city sees the building, and how occupants see the city.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "파사드의 이중적 관계 설정은 흥미로우나, 구체적인 도면이나 상세한 재료 기법에 대한 정보가 부족하다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1188752/a-two-way-facade-cysdo",
+  "original_title": "A two-way facade / CYS.ASDO",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 1112,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-18 16:51",
+  "research": {
+   "entities": [
+    "CYS.ASDO",
+    "Taipei"
+   ],
+   "questions": [
+    "CYS.ASDO가 디자인한 'A two-way facade' 프로젝트의 건축적 특징과 이중 파사드의 구체적인 작동 방식은 무엇인가?",
+    "타이베이의 도시 환경 속에서 이 상업용 건축물이 외부 도시와 내부 거주자 간의 시각적 관계를 어떻게 재정의하는가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "archdaily.com/1187141/large-glass-openings-at-work-in-a-production-facility": {
+  "title_ko": "산업 물류와 쇼룸의 결합: 스위스 비트로사 본사의 대형 길로틴 창호",
+  "summary_ko": "스위스 이베르동레뱅에 위치한 비트로사(Vitrocsa) 본사는 생산 시설과 쇼룸을 결합한 건물이다. 6m 폭과 9m 높이의 대형 길로틴 창호 시스템을 외관에 적용해 트럭이 직접 창고 내부로 진입하도록 설계했다. 이를 통해 창호는 채광 창이자 대형 물류 출입구라는 이중 기능을 수행한다.",
+  "lens": "창호의 물리적 한계를 시계 제작의 정밀함으로 돌파하여, 산업용 출입구와 투명한 파사드라는 상충하는 요구를 하나의 구조로 통합했다.",
+  "why_now": "물류 효율을 위해 폐쇄적이었던 산업 시설의 파사드가 내부 공정을 외부로 드러내는 투명한 인터페이스로 변화하고 있다.",
+  "mechanism": "수직으로 개폐되는 길로틴 시스템을 적용해 도어 회전 반경을 없앴고, 대형 유리 패널을 구조체로 활용해 채광과 물류 동선을 최적화했다.",
+  "sensory": "거대한 유리 벽면이 수직으로 상승하며 거친 트럭의 움직임을 수용하는 기계적 정밀함과, 닫혔을 때의 압도적인 투명함이 대비를 이룬다.",
+  "transfer": "물류 공간 콘티 구성 시, 고정된 벽 대신 수직 개폐형 유리 파사드를 배치해 외부 차량의 진입 과정을 시각적 퍼포먼스로 전환하라.",
+  "context": "비트로사는 시계 장인 에릭 조레이가 창립한 브랜드로, 알루미늄 프로파일과 매립형 트랙을 활용해 창의 존재감을 지우는 기술로 유명하다. 이번 본사 프로젝트는 지난 30년간 축적한 자사의 미니멀리즘 창호 기술을 실제 생산 시설에 구현한 결과물이다.",
+  "findings": [],
+  "keywords": [
+   "길로틴윈도우",
+   "산업건축",
+   "파사드설계",
+   "미니멀리즘",
+   "물류동선"
+  ],
+  "evidence": "Two guillotine window systems, each six meters wide and nine meters tall, allow trucks to enter the warehouse.",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "산업 시설의 기능적 요구사항과 건축적 미학을 결합한 구체적인 기술적 해법이 제시되어 있다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1187141/large-glass-openings-at-work-in-a-production-facility",
+  "original_title": "Large Glass Openings at Work in a Production Facility",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 5732,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-18 16:51",
+  "research": {
+   "entities": [
+    "Vitrocsa",
+    "Y-Parc"
+   ],
+   "questions": [
+    "길로틴 윈도우 시스템(guillotine window system)이 대형 산업 시설의 물류 효율성과 채광에 어떤 이점을 제공하는가?",
+    "건축물의 파사드를 쇼룸으로 활용할 때 고려해야 할 기술적 설계 요소는 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "시계 장인의 정밀함으로 빚은 창, 비트로사(Vitrocsa)의 미니멀리즘",
+     "url": "https://www.yellowtrace.com.au/vitrocsa-inventor-of-modern-minimalist-window-built-for-orchids/"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 258
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "archdaily.com/1188547/villa-n-and-n-saota": {
+  "title_ko": "에브리에 석호의 수평선과 아비장의 스카이라인을 잇는 Villa N&N",
+  "summary_ko": "코트디부아르 아비장의 에브리에 석호 경계에 위치한 860㎡ 규모의 주택이다. 사오타(SAOTA)는 플라토 비즈니스 지구를 조망하는 개방성과 거주자의 사생활을 보호하는 폐쇄성을 재료의 대비와 공간의 위계로 조율했다.",
+  "lens": "석호의 수면과 도심의 마천루라는 상반된 풍경을 하나의 건축적 틀 안에 가두고, 빛의 굴절과 재료의 질감으로 시각적 긴장을 유지한다.",
+  "why_now": "도시 밀도와 자연 지형이 충돌하는 접점에서 거주자의 프라이버시를 확보하면서도 외부 풍경을 내부로 끌어들이는 정교한 시노그래피가 요구되는 시점이다.",
+  "mechanism": "수직적인 도심 스카이라인과 수평적인 석호의 선을 실내외 동선에 반영하고, 빛의 투과율을 조절하는 파사드 장치로 시야를 제어한다.",
+  "sensory": "석호에서 불어오는 습한 바람과 반사된 빛이 내부로 스며들며, 거친 마감의 석재와 매끄러운 금속 프레임이 대조를 이룬다.",
+  "transfer": "창밖의 특정 랜드마크를 프레임에 담을 때, 창의 위치를 낮게 설계하거나 수평 루버를 사용해 시선을 특정 높이로 제한하는 연출을 적용한다.",
+  "context": "사오타는 아프리카 대륙의 기후와 지형적 맥락을 현대적인 조형 언어로 재해석하는 작업을 지속해 왔다. 이번 프로젝트는 이전 작업들의 연장선에서 석호라는 특수 지형과 도시 비즈니스 지구의 관계를 공간적으로 번역했다.",
+  "findings": [],
+  "keywords": [
+   "사오타",
+   "에브리에석호",
+   "아비장",
+   "공간시노그래피",
+   "건축디자인"
+  ],
+  "evidence": "Positioned on the edge of the Ébrié Lagoon, Villa N&N balances privacy with a dynamic connection to its surroundings, offering expansive views toward the Plateau business district's skyline.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "건축적 의도와 배치 전략은 명확하나, 세부적인 재료의 물성이나 구체적인 평면 구성에 대한 정보가 부족하다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1188547/villa-n-and-n-saota",
+  "original_title": "Villa N&N / SAOTA",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 1499,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-18 16:51",
+  "research": {
+   "entities": [
+    "SAOTA",
+    "Adam Letch",
+    "Claude Missir Interiors",
+    "Villa N&N",
+    "Ébrié Lagoon"
+   ],
+   "questions": [
+    "코트디부아르 아비장의 에브리에 석호(Ébrié Lagoon) 주변의 환경적 특성이 Villa N&N의 건축적 배치에 어떤 영향을 미쳤는가?",
+    "SAOTA가 디자인한 Villa N&N에서 프라이버시를 유지하면서도 주변 도시 경관과 연결되도록 사용한 주요 재료와 공간적 특징은 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Saota railway station",
+     "url": "https://en.wikipedia.org/wiki/Saota%20railway%20station"
+    }
+   ],
+   "used": [],
+   "chars": 222
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "architectural-review.com/letters/lesley-lokko-and-fred-steward-on-collaboration-as-creativity": {
+  "title_ko": "레스리 로코와 프레드 스와트, 공예적 협업으로 재구성하는 교육의 공간",
+  "summary_ko": "가나계 스코틀랜드 건축가 레스리 로코와 프레드 스와트는 가나 아크라의 기존 타일 창고를 개조해 아프리카 미래 연구소의 영구 본부를 구축했다. 이들은 고정된 기념비 대신 교육과 연구, 전시가 결합된 유연한 공공 인프라를 설계하며 기존 구조물의 물리적 자산을 새롭게 작동시킨다.",
+  "lens": "고정된 기념비가 아닌 시간과 용도에 따라 기능을 바꾸는 유연한 공간으로 도시의 기억을 갱신한다.",
+  "why_now": "건축 교육과 실무의 경계에서 아프리카의 지형과 기후에 순응하며 기존 유산을 전유하는 방식이 대안적 건축 담론으로 부상하고 있다.",
+  "mechanism": "기존 타일 창고의 골조를 유지하면서 내부 벽체와 동선을 가변적으로 설계해 교육과 연구가 동시에 일어나는 다목적 시노그래피를 구축했다.",
+  "sensory": "오래된 타일 창고의 거친 질감과 현대적 교육 공간의 개방성이 교차하며, 아크라의 기후를 수용하는 열린 구조가 공간의 물리적 무게를 형성한다.",
+  "transfer": "콘티 구성 시 고정된 세트 대신 시간대에 따라 조명과 가구 배치를 변경해 하나의 공간이 연구실과 전시장을 오가도록 연출한다.",
+  "context": "레스리 로코는 가나 아크라에 아프리카 미래 연구소를 설립하여 포스트 식민지 시대의 건축 교육을 실천하고 있다. 프레드 스와트와 함께한 이번 프로젝트는 로코가 추구해 온 아프리카 내 건축적 교육 플랫폼 구축의 연장선에 있다.",
+  "findings": [
+   {
+    "text": "레스리 로코는 2024년 영국 왕립건축가협회로부터 건축계의 노벨상으로 불리는 로열 골드 메달을 수상했다.",
+    "s": 1,
+    "quote": "In January 2024, Lokko was announced by the Royal Institute of British Architecture (RIBA) as recipient of the Royal Gold Medal, one of the world's highest honours for architecture."
+   },
+   {
+    "text": "아프리카 미래 연구소는 기존 타일 창고를 개조하여 환경 반응성과 공간 유연성을 확보한 공공 인프라로 재탄생했다.",
+    "s": 4,
+    "quote": "기존의 타일 창고를 개조한 이 공간은 환경 반응성과 공간 유연성을 유지하며 교육, 연구, 전시가 함께 이루어지는 공공 인프라로 기능한다."
+   }
+  ],
+  "keywords": [
+   "레스리 로코",
+   "아프리카미래연구소",
+   "공간유연성",
+   "유산의전유",
+   "공공인프라"
+  ],
+  "evidence": "Lesley Lokko and Fred Swart on co-operation as craft",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "건축가의 철학과 실제 공간 구축 사례가 리서치 자료를 통해 명확히 연결되며, 공간의 유연성이라는 구체적인 설계 전략을 제시한다.",
+  "v": 2,
+  "url": "https://www.architectural-review.com/letters/lesley-lokko-and-fred-steward-on-collaboration-as-creativity",
+  "original_title": "Lesley Lokko and Fred Swart on co-operation as craft",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 636,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-18 16:52",
+  "research": {
+   "entities": [
+    "Lesley Lokko",
+    "The Architectural Review"
+   ],
+   "questions": [
+    "Lesley Lokko가 주장하는 건축에서의 '협업(co-operation)'은 단순한 공동 작업을 넘어 어떤 철학적 의미를 담고 있는가?",
+    "건축 실무와 이론에서 '공예(craft)'라는 개념이 현대적 협업 방식과 어떻게 결합되어 재해석되고 있는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Lesley Lokko",
+     "url": "https://en.wikipedia.org/wiki/Lesley%20Lokko"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "The Architectural Review",
+     "url": "https://en.wikipedia.org/wiki/The%20Architectural%20Review"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "기존 구조의 해부와 재조립, 도시를 갱신하는 네 가지 건축적 작법",
+     "url": "https://www.archdaily.com/1185678/a-new-initiative-for-the-right-to-housing-in-europe-and-two-competition-shortlists-this-weeks-review"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "타일 창고의 변모, 가나 아크라에 자리 잡은 아프리카선물연구소 영구 본부",
+     "url": "https://www.wallpaper.com/architecture/the-african-futures-institute-headquarters-accra-ghana"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "아크라의 타일 창고, 아프리카 미래 연구소를 위한 유연한 공공 인프라로",
+     "url": "https://www.dezeen.com/2026/09/29/african-futures-institute-headquarters-lesley-lokko-ghana/"
+    }
+   ],
+   "used": [
+    1,
+    4,
+    5
+   ],
+   "chars": 1865
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "architecturaldigest.com/story/best-dining-table": {
+  "title_ko": "공간의 밀도를 재편하는 11가지 다이닝 테이블의 기하학",
+  "summary_ko": "식탁은 단순한 식사 공간을 넘어 업무와 전시, 대화의 중심지로 기능한다. 소형 아파트의 한계를 극복하는 드롭 리프와 페데스탈 구조부터, 확장성을 고려한 미드센추리 디자인까지 11가지 가구를 통해 거주 공간의 효율적 설계 방식을 제안한다.",
+  "lens": "식탁을 고정된 가구가 아닌, 공간의 밀도와 쓰임새를 실시간으로 조정하는 가변적 장치로 해석한다.",
+  "why_now": "주거 면적이 제한된 도시 환경에서 가구 하나가 다중적 기능을 수행하는 유연한 평면 설계가 필수적이다.",
+  "mechanism": "테이블 하부의 래치나 드롭 리프 구조를 활용해 평시에는 벽면과 밀착해 공간을 확보하고, 필요 시 확장하여 동선을 재구성한다.",
+  "sensory": "견고한 오크와 월넛 베니어의 깊은 나뭇결, 알루미늄 베이스의 매끄러운 금속성, 비정형 석재 상판의 차가운 무게감이 대비를 이룬다.",
+  "transfer": "좁은 공간 촬영 시 페데스탈 형태의 테이블을 배치하여 다리 간섭을 없애고, 카메라 동선과 피사체의 움직임을 자유롭게 확보한다.",
+  "context": "놀(Knoll)은 샘 체르마예프와의 협업을 통해 오피스 가구의 기하학을 주거의 유연한 일상으로 옮겨왔다. 웨스트 엘름(West Elm)은 무용수의 스튜디오처럼 극도의 밀도가 요구되는 공간에서 가구의 재료 조합을 통해 공간의 깊이를 더하는 역할을 한다.",
+  "findings": [
+   {
+    "text": "아티클(Article)의 플루마스 테이블은 나비형 확장판을 내부에 수납하여 2인에서 4인까지 좌석을 쉽게 늘릴 수 있다.",
+    "s": 1,
+    "quote": "incorporated a self-storing butterfly leaf, letting you expand your guest list from two to four with ease"
+   },
+   {
+    "text": "웨스트 엘름(West Elm)은 윌리엄스-소노마(Williams-Sonoma)의 자회사로, 전 세계에 현대적인 가구와 가정용품을 판매한다.",
+    "s": 2,
+    "quote": "West Elm is a retail store that features contemporary furniture designs and other housewares. It is a wholly owned subsidiary of Williams-Sonoma, Inc."
+   },
+   {
+    "text": "포터리 반(Pottery Barn)은 샌프란시스코에 본사를 둔 고급 가정용품 체인으로, 2024년 말 종이 카탈로그 발행을 중단했다.",
+    "s": 3,
+    "quote": "Pottery Barn is an American upscale home furnishing store chain and e-commerce company... Pottery Barn paper catalogs were discontinued at the end of 2024."
+   }
+  ],
+  "keywords": [
+   "가변적 가구",
+   "공간 설계",
+   "페데스탈",
+   "미드센추리",
+   "밀도 조절"
+  ],
+  "evidence": "the best dining tables can make all of the difference for elevating your dishes",
+  "kind": "리스트·라운드업",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "다양한 테이블의 구조와 기능을 공간 설계 관점에서 분류했으나, 제품 소개 중심의 구성으로 깊이에 제한이 있다.",
+  "v": 2,
+  "url": "https://www.architecturaldigest.com/story/best-dining-table",
+  "original_title": "11 Best Dining Tables to Elevate Take-Out Nights (2026)",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 8791,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-18 16:52",
+  "research": {
+   "entities": [
+    "Article",
+    "West Elm",
+    "Knoll",
+    "Pottery Barn",
+    "Schoolhouse"
+   ],
+   "questions": [
+    "소형 아파트나 좁은 공간에서 활용하기 좋은 다이닝 테이블의 구조적 특징은 무엇인가요?",
+    "원목 베니어와 솔리드 우드 소재의 다이닝 테이블은 각각 어떤 관리법이 필요한가요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Plumas 37.5\" - 57.25\" Extendable Dining Table - Walnut",
+     "url": "https://cna.st/affiliate-link/7ZJg7i5XH42a3rpRu2sU6PwSP3ihBMuuXxyM4EWFBybPjXmssW7Hj78uL5vwAg7sx5oJbtCC1LrikDGiyE6NQYcbcZz1ZoGxx8g7QZtTUi6WihAfsaZMguWR761gT2be45fLF322kZv6Jq1Wa8gC2K5uQUJHm6wPEDSt5ShsaiTifjsrKoHU6ScyVJF7KxsEHqYAHnJaGDYEnt5C7aTJkrhpXLkJQMgBMxjgFjFbBn7BJhR4nXjZetwrpgLMztVXED7L48BXhFTdsd9EV2nwqrYa2nvMZSTZViUC3R7pYTSxUUKyWbhzJvgRBE8SFQ8bEz7aMg4bjx5rADzcEtCPEeSPnDv3xDWNjSe8hHK2fY29p9CGrRGAX69chacS18iiX1omj5QYn6BusYqb8Ap"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "West Elm",
+     "url": "https://en.wikipedia.org/wiki/West%20Elm"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Pottery Barn",
+     "url": "https://en.wikipedia.org/wiki/Pottery%20Barn"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "샘 체르마예프가 재해석한 플로렌스 놀의 스토리지 시스템",
+     "url": "https://www.wallpaper.com/design-interiors/knoll-sam-chermayeff-storage-collection-launch"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "수직 공간의 재발견: 공간감을 확장하는 19가지 플로팅 선반",
+     "url": "https://www.architecturaldigest.com/story/best-floating-shelves"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "32평이 아닌 345제곱피트, 무용수를 위한 뉴욕 스튜디오의 정교한 밀도",
+     "url": "https://www.architecturaldigest.com/story/chun-wai-chan-345-square-foot-nyc-apartment"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "chars": 3514
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "wallpaper.com/architecture/kvareli-foundation-georgia": {
+  "title_ko": "조지아의 포도밭과 숲 사이에 세워진 콘크리트 미술관, 크바렐리 재단",
+  "summary_ko": "조지아 카케티 주의 크바렐리에 문을 연 크바렐리 현대미술재단은 붉은 타일의 수직 루버와 콘크리트 매스로 지어졌다. 설립자 제말 이나이슈빌리가 일본 나오시마 섬에서 영감을 받아 설립했으며, 미다모 건축사사무소가 설계를 맡았다. 3개 층의 전시실과 야외 원형극장을 갖추고 조지아 현대미술 소장품을 선보인다.",
+  "lens": "거친 콘크리트 상자와 붉은 타일 루버로 주변의 험준한 산세와 포도밭의 수평선을 가로지른다.",
+  "why_now": "조지아 지역 미술계에 민간 자본을 바탕으로 한 현대미술 거점이 새롭게 들어서며 새로운 예술적 반경을 연다.",
+  "mechanism": "지상층의 화이트 큐브와 달리 1층 전체에는 노출 구조와 케이블이 그대로 드러나는 산업적 마감이 적용되었다.",
+  "sensory": "현무암 타일로 짠 진입로와 바위가 깔린 연못을 지나 곡선 계단을 오르면 거친 콘크리트와 백색 전시실이 교차한다.",
+  "transfer": "콘크리트 매스 하부의 깊은 음영과 현무암 바닥의 질감을 살려 미술관 진입부 시퀀스 촬영에 활용한다.",
+  "context": "조지아 출신 사업가 제말 이나이슈빌리가 일본 나오시마 섬의 사립 미술 거점 방문에서 영감을 받아 기획했다.",
+  "findings": [
+   {
+    "text": "크바렐리 현대미술재단은 지속적인 협업과 비판적 성찰, 대화를 통해 지역 맥락과 글로벌 담론을 연결하여 장기적인 예술 실천을 육성한다.",
+    "s": 1,
+    "quote": "Kvareli Foundation for Contemporary Art fosters long-term artistic practices by connecting local context with global discourse through sustained collaboration, critical reflection, and ongoing dialogue."
+   }
+  ],
+  "keywords": [
+   "크바렐리재단",
+   "조지아미술",
+   "미다모건축",
+   "콘크리트매스"
+  ],
+  "evidence": "An elongated concrete box – defined by the dense repetition of red-tiled vertical fins and framed within grey textured panels – the new art institution balances rugged industrial materials with the region’s verdant landscape.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "새로운 미술관의 건축적 특징과 설립 배경이 구체적으로 서술되어 있으나 복합 문화단지의 확장성은 일반적인 소개에 가깝다.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/architecture/kvareli-foundation-georgia",
+  "original_title": "Welcome to the Kvareli Foundation, Georgia’s new art hub with an ‘emotional heart’",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 4446,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-18 16:52",
+  "research": {
+   "entities": [
+    "Kvareli Foundation of Contemporary Art",
+    "Jemal Inaishvili",
+    "Midamo",
+    "Nino Sulkhanishvili",
+    "Naoshima"
+   ],
+   "questions": [
+    "바렐리 현대미술 재단(Kvareli Foundation of Contemporary Art)이 조지아의 지역 문화 예술계에 미칠 영향은 무엇인가요?",
+    "설립자 제말 이나이슈빌리(Jemal Inaishvili)의 개인 소장품 중 조지아 현대미술의 특징은 무엇인가요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Kvareli Foundation for Contemporary Art",
+     "url": "https://kvarelifoundation.com/"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 202
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "dezeen.com/2026/11/18/caroline-zimbalist-biomaterial-dress-emma-watson": {
+  "title_ko": "캐롤라이나 짐발리스트, 실크 위에 입힌 바이오폴리머의 조형성",
+  "summary_ko": "아티스트 캐롤라이나 짐발리스트(Carolina Zimbalist)가 배우 엠마 왓슨을 위해 식물성 단백질과 글리세린을 배합한 바이오폴리머 드레스를 제작했다. 이 의상은 실크 원단 위에 액체 상태의 바이오 소재를 붓고 건조하는 방식으로 완성되었으며, 로스앤젤레스 카운티 미술관(LACMA) 아트+필름 갈라에서 공개되었다.",
+  "lens": "석유계 플라스틱을 대체하는 바이오폴리머를 단순한 소재 교체가 아닌, 신체의 움직임에 반응하는 유연한 조형 언어로 치환한다.",
+  "why_now": "지속 가능한 패션이 단순히 친환경적 수식어에 머물지 않고, 물리적 물성과 입체적 조형미를 갖춘 예술적 대안으로 진화하고 있다.",
+  "mechanism": "식물성 단백질과 채소 글리세린을 혼합한 액상 소재를 실크 기재 위에 직접 부어 경화시킨다. 건조 후 발생하는 자연스러운 수축과 비정형적 질감이 신체 곡선을 따라 유기적인 형태를 만든다.",
+  "sensory": "건조된 바이오폴리머 특유의 반투명한 질감과 실크의 부드러운 광택이 대비를 이룬다. 인체 움직임에 따라 미세하게 굴절되는 빛과 소재의 비정형적 표면이 시각적 깊이를 더한다.",
+  "transfer": "액상 재료를 패브릭 위에 붓거나 층을 쌓아 건조하는 기법을 활용해, 의도적인 주름이나 경화된 질감을 의상 및 오브제 표면에 구현할 수 있다.",
+  "context": "파슨스 디자인 스쿨(Parsons School of Design) 출신인 짐발리스트는 바이오 소재를 활용해 조명과 화병 등 조형적 가구까지 영역을 확장하고 있다. 이는 LACMA가 과거 기술 유토피아를 탐구했던 맥락과 달리, 생태적 순환을 전제로 한 새로운 물질주의적 미학을 제시한다.",
+  "findings": [
+   {
+    "text": "캐롤라이나 짐발리스트는 모든 작품을 1대1 맞춤형으로 제작하며, 자연스러운 변형을 공정의 일부로 수용한다.",
+    "s": 1,
+    "quote": "Crafted from experimental biodegradable biomaterials, every piece is made as a one-of-one.Designs can be recreated upon request, with natural variation inherent to the process."
+   }
+  ],
+  "keywords": [
+   "바이오폴리머",
+   "지속가능한패션",
+   "물질성",
+   "조형예술"
+  ],
+  "evidence": "The petroleum-free poured-and-dried material, containing vegetable glycerin alongside naturally derived proteins such as pea powder, is layered over silk",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "바이오 소재의 구체적인 배합 원리와 제작 공정, 그리고 이를 예술적 조형으로 연결하는 작가의 논리가 명확하게 서술되어 있다.",
+  "v": 2,
+  "url": "https://www.dezeen.com/2026/11/18/caroline-zimbalist-biomaterial-dress-emma-watson/",
+  "original_title": "Carolina Zimbalist pours bioplastic over silk for Emma Watson's LACMA Gala dress",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 3685,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-18 16:52",
+  "research": {
+   "entities": [
+    "Carolina Zimbalist",
+    "Emma Watson",
+    "Los Angeles County Museum of Art",
+    "Parsons School of Design",
+    "Chappell Roan"
+   ],
+   "questions": [
+    "Carolina Zimbalist가 사용하는 바이오플라스틱의 구체적인 성분과 제작 공정은 무엇인가요?",
+    "패션 산업에서 바이오폴리머를 활용한 지속 가능한 의류 제작이 가지는 기술적 한계와 가능성은 무엇인가요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Caroline Zimbalist | Biomaterial Artist & Designer",
+     "url": "https://www.carolinezimbalist.com/"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Emma Watson",
+     "url": "https://en.wikipedia.org/wiki/Emma%20Watson"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Los Angeles County Museum of Art",
+     "url": "https://en.wikipedia.org/wiki/Los%20Angeles%20County%20Museum%20of%20Art"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "파슨스 디자인 스쿨, 미국 조립식 주택의 플라스틱 독성 경고",
+     "url": "https://www.dezeen.com/2026/09/22/parsons-plastic-toxicity-american-manufactured-homes/"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "유토피아가 남긴 비관과 키치: 1925-1985의 주거 미래주의",
+     "url": "https://www.wallpaper.com/art/lacma-home-of-the-future-1925-1985-book-review"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "해방의 열기와 상실의 그늘: 스탠리 스텔라의 뉴욕 퀴어 아카이브",
+     "url": "https://www.dazeddigital.com/art-photography/article/71118/1/stanley-stellar-dont-worry-boys-photo-book-interview-new-york-queer?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=loving-lustful-portraits-from-new-york-s-west-village"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "chars": 3634
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "creativeboom.com/inspiration/elenor-kopka-on-turning-her-strange-squiggly-animations-into-ceramic-sculptures": {
+  "title_ko": "애니메이션의 시간성을 붙잡는 법: 엘레노어 콥카의 도자 조각",
+  "summary_ko": "프랑스 리옹을 기반으로 활동하는 작가 엘레노어 콥카(Elenor Kopka)는 자신의 손으로 그린 애니메이션 속 기이하고 유동적인 형태를 도자 조각으로 재현한다. 3D로 구현한 애니메이션의 특정 프레임을 찰흙으로 빚어 화면 밖 물리적 세계에 고정하며, 움직임과 정지라는 상반된 상태의 관계를 탐구한다.",
+  "lens": "스크린의 찰나적 움직임을 도자의 비가역적 물성으로 박제하여, 시간의 흐름을 물리적 무게로 치환하는 조형적 시도다.",
+  "why_now": "디지털 피로도가 높은 환경에서, 화면 속 추상적 움직임을 손의 감각이 깃든 물리적 오브제로 환원하려는 태도는 동시대 창작자들에게 새로운 매체 전환의 단초를 제공한다.",
+  "mechanism": "애니메이션의 연속적인 프레임 중 하나를 선택해 3D 모델링 후 도자기로 빚어낸다. 화면 속에서 끊임없이 변형되던 유기적 형태를 정지된 입체로 고정하여 관람자가 시간의 단면을 입체적으로 마주하게 한다.",
+  "sensory": "화면상의 부드러운 변형이 도자의 투박하고 단단한 질감으로 변주된다. 찰흙의 무게감과 손자국이 남은 비정형의 형태가 시각적 유머와 낯선 긴장감을 동시에 전달한다.",
+  "transfer": "영상 콘티 설계 시 특정 장면의 프레임을 정지된 오브제나 조각적 레이아웃으로 추출해 보라. 움직임의 잔상을 물리적 재료(점토, 석재 등)로 구현하면 서사의 긴장감을 공간적 깊이로 확장할 수 있다.",
+  "context": "엘레노어 콥카는 일러스트와 판화를 전공한 후 독학으로 애니메이션을 시작했다. 2025년 도자 수련 과정을 마치며 기존의 애니메이션 작업과 물리적 조형을 결합하는 실험을 이어가고 있다.",
+  "findings": [],
+  "keywords": [
+   "애니메이션",
+   "도자조각",
+   "물리적시간",
+   "매체전환"
+  ],
+  "evidence": "animation captures movement with the confines of a screen or projection, while sculpture exists in the physical world but remains frozen in a particular position",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "애니메이션의 시간성을 조각의 물성으로 치환하는 구체적인 방법론을 제시하며, 작가의 작업 철학이 매체 간의 대비를 통해 명확히 드러난다.",
+  "v": 2,
+  "url": "https://www.creativeboom.com/inspiration/elenor-kopka-on-turning-her-strange-squiggly-animations-into-ceramic-sculptures/",
+  "original_title": "Elenor Kopka on turning her strange, squiggly animations into ceramic sculptures",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 8290,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-18 16:52",
+  "research": {
+   "entities": [
+    "Elenor Kopka",
+    "MOLD"
+   ],
+   "questions": [
+    "애니메이션의 프레임을 세라믹 조각으로 변환하는 과정에서 작가가 의도하는 움직임과 정지 상태의 대비는 무엇을 의미하나요?",
+    "작가의 애니메이션 작업 방식인 '스토리보드 없는 즉흥적 제작'이 결과물의 서사나 형태에 어떤 영향을 미치나요?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "wallpaper.com/tech/leica-leitzphone-xiaomi-review-plus-sony-zeiss-hasselblad-smartphone-cameras": {
+  "title_ko": "라이카의 광학적 계보를 이식한 샤오미 라이츠폰, 스마트폰 카메라의 물리적 전회",
+  "summary_ko": "샤오미(Xiaomi)와 라이카(Leica)가 협업한 라이츠폰은 1인치 대형 센서와 라이카의 색채 과학을 결합해 SLR 카메라의 경험을 스마트폰으로 구현했다. 줌과 초점 조절이 가능한 물리적 라이카 카메라 링을 탑재하고, M3와 M9 등 클래식 모델의 필름 질감을 소프트웨어로 재현했다. 16GB 메모리와 1TB 저장 공간을 갖춘 프리미엄 사양으로 디지털 카메라 시장의 부상에 대응한다.",
+  "lens": "스마트폰을 단순한 촬영 도구가 아닌, 라이카의 물리적 조작감과 광학적 유산을 재현하는 정밀 기계 장치로 격상했다.",
+  "why_now": "디지털 카메라에 대한 대중의 관심이 회복되면서, 스마트폰 제조사들은 소프트웨어 보정 중심에서 벗어나 하드웨어적 물리성과 광학적 깊이를 확보하는 방향으로 진화하고 있다.",
+  "mechanism": "카메라 링을 통한 물리적 초점 제어와 1인치 센서 기반의 다이내믹 레인지를 통해, 연산 중심의 스마트폰 촬영을 광학적 제어 영역으로 전환한다.",
+  "sensory": "은색과 검은색의 금속 케이스가 주는 차가운 무게감과, 셔터 조작 시 느껴지는 기계식 카메라 특유의 반응성이 디지털 촬영의 피로를 상쇄한다.",
+  "transfer": "콘티 연출 시, 14mm 초광각부터 100mm 망원까지의 렌즈 전환을 물리적 다이얼 조작으로 묘사하여 촬영자의 의도적 개입을 강조하는 샷을 설계할 수 있다.",
+  "context": "라이카는 포뮬러 1 에디션에서 모터스포츠의 물성을 기계식 카메라에 이식한 바 있으며, 이번 협업은 그 정밀한 광학적 유산을 스마트폰이라는 범용 플랫폼으로 확장한 사례다. 샤오미는 정밀 드라이버와 같은 도구적 사물을 미학적 가전으로 재정의해 온 기술적 바탕 위에서 이번 하이엔드 카메라 폰을 기획했다.",
+  "findings": [
+   {
+    "text": "샤오미는 2025년 12월 기준 전 세계 3위 스마트폰 제조사로, 하이퍼OS(HyperOS) 기반의 생태계를 구축하고 있다.",
+    "s": 3,
+    "quote": "It is the third-largest smartphone seller in the world as of 2025, behind Apple and Samsung, most of which run on the Xiaomi HyperOS (former MIUI) operating system."
+   },
+   {
+    "text": "라이카 카메라는 1869년 설립된 광학 연구소를 모태로 하며, 현재 독일 베츨라와 포르투갈 빌라 노바 드 파말리카웅에 생산 시설을 운영한다.",
+    "s": 2,
+    "quote": "In addition to its headquarters in Wetzlar (Germany), Leica operates another production site in Vila Nova de Famalicão (Portugal)."
+   }
+  ],
+  "keywords": [
+   "라이츠폰",
+   "광학적물성",
+   "샤오미",
+   "라이카",
+   "카메라링"
+  ],
+  "evidence": "The Leica Leitzphone goes further, with design, branding and camera software that all mimic the stylistic and technical approach of Leica’s camera range.",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "라이카의 광학 유산과 스마트폰의 하드웨어적 결합 방식을 구체적으로 분석하여 연출적 적용 가능성을 제시함.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/tech/leica-leitzphone-xiaomi-review-plus-sony-zeiss-hasselblad-smartphone-cameras",
+  "original_title": "The Leica Leitzphone from Xiaomi has become the smartest smartphone camera to beat",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 5630,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-18 16:52",
+  "research": {
+   "entities": [
+    "Leica",
+    "Xiaomi",
+    "Sony",
+    "Oppo",
+    "Motorola"
+   ],
+   "questions": [
+    "라이카와 샤오미가 협력하여 제작한 레츠폰(Leitzphone)의 광학적 특징과 기존 스마트폰 카메라와의 차별점은 무엇인가?",
+    "최근 전통적인 디지털 카메라의 판매 증가세 속에서 스마트폰 제조사들이 SLR 스타일의 경험을 제공하기 위해 어떤 기술적 시도를 하고 있는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "OPPO Find X9 Ultra - Your Next Camera | OPPO Global",
+     "url": "https://go.redirectingat.com?id=92X1650074&xcust=wallpaper_us_8325110812266205797&xs=1&url=https%3A%2F%2Fwww.oppo.com%2Fen%2Fsmartphones%2Fseries-find-x%2Ffind-x9-ultra%2F&sref=https%3A%2F%2Fwww.wallpaper.com"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Leica Camera",
+     "url": "https://en.wikipedia.org/wiki/Leica%20Camera"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Xiaomi",
+     "url": "https://en.wikipedia.org/wiki/Xiaomi"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "여권 크기로 접히는 애플 첫 폴더블 폰, 아이폰 듀오",
+     "url": "https://www.wallpaper.com/tech/apple-iphone-duo-18-pro-max"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "일상의 수리를 미학으로, 샤오미 정밀 무선 드라이버",
+     "url": "https://minimalissimo.com/articles/xiaomi-mi-precision-cordless-screwdriver"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "카본 파이버와 마이크로벨루어의 결합, 라이카 Q3 43 포뮬러 1 에디션",
+     "url": "https://www.wallpaper.com/tech/leica-q3-45-formula-1-edition-digital-camera"
+    }
+   ],
+   "used": [
+    2,
+    3,
+    6
+   ],
+   "chars": 6162
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "creativeboom.com/insight/its-going-to-be-scary-a-week-on-from-adobe-max-creatives-get-honest-about-the-future": {
+  "title_ko": "어도비 맥스 2026: 창작의 자동화가 가져온 기술적 도약과 고용의 불안",
+  "summary_ko": "어도비 맥스(Adobe MAX) 2026에서 공개된 10가지 연구 프로젝트는 영상과 이미지 제작의 효율을 극대화하는 AI 도구들을 선보였다. 그러나 창작자들은 이러한 기술이 단순 반복 작업을 넘어 창작자의 고유 영역을 잠식하고, 신입 인력의 학습 기회를 박탈하며 클라이언트의 기대치를 왜곡할 것을 우려한다. 어도비는 창작자의 스타일 보호와 출력물 제어권 확보를 위한 법적·기술적 논의를 지속하고 있다.",
+  "lens": "기술은 창작의 마찰을 제거하지만, 그 마찰이 곧 예술적 숙련의 과정임을 간과한 도구들이 창작 생태계의 근간을 위협하고 있다.",
+  "why_now": "AI가 단순 보조 도구를 넘어 스타일을 복제하고 제작 과정을 단축함에 따라, 창작자의 고유 가치를 증명할 물리적·개념적 경계가 무너지고 있다.",
+  "mechanism": "프로젝트 딥 브러시(Project Deep Brush)는 이미지의 기하학적 구조와 조명을 인식하여 평면 픽셀이 아닌 공간적 맥락에 페인팅을 수행하며, 프로젝트 스크린 테스트(Project Screen Test)는 자연어 대화를 통해 캐릭터의 서사를 실시간으로 생성한다.",
+  "sensory": "디지털 캔버스 위에서 빛의 산란과 질감이 물리적 벽면처럼 반응하며, 고정된 영상 프레임이 실시간으로 왜곡되고 변형되는 유동적인 시각 경험을 제공한다.",
+  "transfer": "영상 편집 시 조명과 질감을 유지하며 실시간으로 오브제를 합성하는 딥 브러시 기법을 활용해, 후반 작업의 반복적인 마스킹 공정을 획기적으로 단축할 수 있다.",
+  "context": "어도비는 과거 포스트스크립트 언어 개발을 시작으로 크리에이티브 클라우드(Creative Cloud)를 통해 창작 산업의 표준을 구축해 왔다. RE:COLLECTION은 과거 어도비 소프트웨어를 활용한 심리 기록 작업과, 어도비(adobe)라는 재료 자체를 건축에 활용한 사례를 다룬 바 있다.",
+  "findings": [
+   {
+    "text": "어도비 맥스 스닉스(Sneaks)는 어도비의 연구진이 개발 중인 실험적 도구를 전 세계 창작자들에게 미리 공개하고 피드백을 받는 행사다.",
+    "s": 1,
+    "quote": "At MAX Sneaks we preview the creative future Adobe is building, bringing our ongoing investment in research and development to life."
+   },
+   {
+    "text": "프로젝트 딥 브러시는 2D 평면 이미지에서 조명과 기하학적 구조를 파악해 실제 공간처럼 페인팅할 수 있게 돕는다.",
+    "s": 2,
+    "quote": "It sees the geometry in the scene, the intrinsic color, the lighting, and the brush."
+   },
+   {
+    "text": "어도비는 1982년 존 워녹과 찰스 게슈케가 제록스 파크를 떠나 설립한 이후 소프트웨어 분야의 글로벌 리더로 성장했다.",
+    "s": 3,
+    "quote": "Adobe was founded in December 1982 by John Warnock and Charles Geschke, who established the company after leaving Xerox PARC to develop and sell the PostScript page description language."
+   }
+  ],
+  "keywords": [
+   "어도비맥스",
+   "AI창작",
+   "창작기술",
+   "디지털물성",
+   "워크플로우"
+  ],
+  "evidence": "I finally realised how fast things are moving. Casting, set design, location scouting, sound editing... whole corners of the industry flashed past in a few minutes each.",
+  "kind": "뉴스·이슈",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "기술적 혁신과 창작자들의 실질적인 고용 불안을 균형 있게 다루며, 구체적인 프로젝트 사례를 통해 기술의 작동 방식을 명확히 제시한다.",
+  "v": 2,
+  "url": "https://www.creativeboom.com/insight/its-going-to-be-scary-a-week-on-from-adobe-max-creatives-get-honest-about-the-future/",
+  "original_title": "'It's going to be scary': a week on from Adobe MAX 2026, creatives get honest about the future",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 9000,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-18 16:52",
+  "research": {
+   "entities": [
+    "Adobe",
+    "Adobe MAX",
+    "Terry Crews"
+   ],
+   "questions": [
+    "Adobe MAX Sneaks에서 공개된 AI 기술들이 기존 창작자들의 작업 방식과 고용 환경에 어떤 실질적인 변화를 가져올 것으로 예상되나요?",
+    "창작자들이 Adobe의 AI 도구 도입에 대해 느끼는 불안감의 핵심 원인은 무엇이며, 기술의 효율성과 창의적 본질 사이의 균형을 어떻게 정의하고 있나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Adobe MAX 2026 Sneaks: Previewing the future of creativity",
+     "url": "https://blog.adobe.com/en/publish/2026/11/11/adobe-max-sneaks"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Project Deep Brush",
+     "url": "https://labs.adobe.com/sneaks/deep-brush"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Adobe Inc.",
+     "url": "https://en.wikipedia.org/wiki/Adobe%20Inc."
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "Adobe MAX",
+     "url": "https://en.wikipedia.org/wiki/Adobe%20MAX"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "베아 코르쉬의 실험 만화 'Intrusive Thots': 심리적 고통을 기록하는 디자인의 방식",
+     "url": "https://www.itsnicethat.com/articles/bea-korsch-intrusive-thots-art-project-240926"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "흙과 짚으로 빚어낸 폭발의 잔상, 리스본 폐교의 설치 작업",
+     "url": "https://www.designboom.com/art/bomb-cloud-sculpture-soil-straw-water-abandoned-lisbon-school-oskouei/"
+    },
+    {
+     "n": 7,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "사막의 혹독함을 설계로 치환하다: Desert Dreaming이 기록한 거주 방식",
+     "url": "https://www.wallpaper.com/architecture/residential/desert-dreaming-book"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "chars": 7652
+  },
+  "depth_raw": 4,
+  "depth_v": 2
  }
 }
