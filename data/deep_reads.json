@@ -347912,5 +347912,93 @@
   },
   "depth_raw": 4,
   "depth_v": 2
+ },
+ "hyperallergic.com/shahzia-sikander-confronts-british-colonial-legacy-in-high-line-video-work": {
+  "title_ko": "해상 영해의 법적 경계로 해체하는 제국의 폭력과 무역사",
+  "summary_ko": "뉴욕 하이 라인 14번가 구간에서 영국 동인도 회사의 아시아 자원 독점을 다룬 영상전 ‘소금과 연기 사이(Between Salt and Smoke)’가 열린다. 파키스탄계 미국인 작가 샤지아 시칸더는 손으로 그린 회화를 디지털 애니메이션으로 변환한 신작을 통해 무굴 제국, 동인도 회사, 청나라 간의 무역 역사를 탐구한다.",
+  "lens": "3해리에서 12해리까지 확장되는 해상 주권의 법적 경계를 시각적 도구 삼아 제국주의의 폭력적 영토 확장을 추적한다.",
+  "why_now": "영국 제국주의가 아시아에 남긴 경제적 수탈과 자원 독점의 구조를 현대적 미디어 아트의 시선으로 재조명한다.",
+  "mechanism": "손으로 직접 그린 회화 작업을 디지털 애니메이션 기술로 재조립하여 19세기 무역의 흐름을 시네마틱한 화면으로 구현한다.",
+  "sensory": "퓰리처상 수상 작곡가 듀 윤이 작곡한 사운드트랙과 겹쳐지는 수채화풍의 화면이 관객의 시각과 청각을 동시에 압박한다.",
+  "transfer": "역사적 기록과 방대한 아카이브를 디지털 애니메이션으로 변환해 시공간을 압축하는 다큐멘터리 시퀀스 연출에 적용한다.",
+  "context": "샤지아 시칸더는 드로잉, 회화, 애니메이션 등 다양한 매체를 오가며 식민주의와 여성의 신체를 다뤄온 뉴욕 기반의 시각 예술가다. 이번 전시는 동인도 회사의 아편·소금 무역과 영토 확장을 해상 경계라는 물리적 개념에 빗대어 시각화한다.",
+  "findings": [
+   {
+    "text": "샤지아 시칸더의 작품 '3 to 12 Nautical Miles'는 손으로 그린 이미지들을 디지털 애니메이션으로 구현한 연구 기반의 시네마틱 탐구 작업이다.",
+    "s": 1,
+    "quote": "Animated from hand-painted images, 3 to 12 Nautical Miles navigates the enduring currents of power and trade that have shaped the global landscape from the nineteenth century to the contemporary era."
+   },
+   {
+    "text": "작품 제목은 해안선에서 주권이 주장되고 집행되는 법적 구역인 해상 영해의 점진적 확장을 가리킨다.",
+    "s": 1,
+    "quote": "The title refers to the incremental expansion of territorial waters: the legal zone between three and 12 nautical miles from any coastline where sovereignty can be asserted, contested, and enforced."
+   }
+  ],
+  "keywords": [
+   "샤지아시칸더",
+   "하이라인",
+   "동인도회사",
+   "애니메이션"
+  ],
+  "evidence": "Between Salt and Smoke presents two animated videos by Pakistani-American artist Shahzia Sikander and one documented performance by artists Himali Singh Soin and David Soin Tappeser",
+  "kind": "전시",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "식민지 유산을 해상 법적 경계와 애니메이션 기법으로 풀어낸 구체적이고 완성도 높은 공공 미술 전시이기 때문이다.",
+  "v": 2,
+  "url": "https://hyperallergic.com/shahzia-sikander-confronts-british-colonial-legacy-in-high-line-video-work/",
+  "original_title": "Shahzia Sikander Confronts British Colonial Legacy in High Line Video Work",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 1932,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-18 13:47",
+  "research": {
+   "entities": [
+    "Shahzia Sikander",
+    "Hylozoic/Desires",
+    "East India Company",
+    "High Line",
+    "Public Art Fund"
+   ],
+   "questions": [
+    "샤지아 시칸더의 작품 '3 to 12 Nautical Miles'는 무굴 제국과 동인도 회사의 무역 역사를 어떤 시각적 기법으로 재해석하고 있는가?",
+    "하이라인에서 전시되는 'Between Salt and Smoke'는 영국 식민주의가 아시아의 경제적 자원 착취에 미친 영향을 어떻게 시각화하고 있는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Between Salt and Smoke",
+     "url": "https://www.thehighline.org/art/projects/between-salt-and-smoke/?ref=hyperallergic.com"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Shahzia Sikander",
+     "url": "https://en.wikipedia.org/wiki/Shahzia%20Sikander"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "East India Company",
+     "url": "https://en.wikipedia.org/wiki/East%20India%20Company"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "하이 라인에서 마주하는 제국주의의 잔영: 소금과 아편으로 엮인 식민지 경제사",
+     "url": "https://hyperallergic.com/the-high-line-broaches-british-empire-in-new-joint-exhibition/"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3
+   ],
+   "chars": 4520
+  },
+  "depth_raw": 4,
+  "depth_v": 2
  }
 }
