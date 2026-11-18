@@ -1,23 +1,23 @@
 {
-  "checked_at": "2026-11-19 01:37:28 KST",
+  "checked_at": "2026-11-19 02:18:34 KST",
   "healthy": true,
   "warnings": [],
   "last_7_days": {
-    "total_items": 550,
-    "pending_deep_reads": 9,
+    "total_items": 577,
+    "pending_deep_reads": 0,
     "duplicate_urls": 0,
     "genre_breakdown": {
-      "MEDIA FACADE & 3D": 81,
-      "CONTEMPORARY ART": 179,
-      "SPACE & ARCH": 254,
-      "AVANT-GARDE FASHION": 36
+      "MEDIA FACADE & 3D": 86,
+      "CONTEMPORARY ART": 184,
+      "SPACE & ARCH": 269,
+      "AVANT-GARDE FASHION": 38
     },
     "issues": [
       {
         "date": "2026-11-19",
-        "total": 73,
-        "ready": 64,
-        "pending": 9,
+        "total": 100,
+        "ready": 100,
+        "pending": 0,
         "has_note": true
       },
       {
@@ -64,6 +64,6 @@
       }
     ]
   },
-  "total_deep_reads_cached": 4678,
+  "total_deep_reads_cached": 4703,
   "total_issue_files": 87
 }
