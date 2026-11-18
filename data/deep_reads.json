@@ -346340,5 +346340,1521 @@
   },
   "depth_raw": 3,
   "depth_v": 2
+ },
+ "dezeen.com/2026/04/20/aesop-apose-factory-light-milan-design-week": {
+  "title_ko": "밀라노의 비계와 갈색 병이 직조한 이솝 최초의 조명 공간",
+  "summary_ko": "스킨케어 브랜드 이솝이 밀라노 디자인 위크에서 첫 조명 컬렉션 '아포제(Aposē)'를 공개했다. 15세기 교회 공간 내부에 도시의 공사장 비계와 가림막을 세우고, 1만 6천 개의 향수 병을 쌓아 올린 테이블 위에 유리와 황동 소재의 조명을 전시했다.",
+  "lens": "핸드밤 튜브의 곡선을 거대하게 확장해 유리와 황동 조명이라는 전혀 다른 물성으로 치환한다.",
+  "why_now": "스킨케어 브랜드가 공간과 빛을 다루는 방식의 연장선에서, 일상적 오브제의 형태를 건축적 스케일의 조명으로 확장하는 시도다.",
+  "mechanism": "밀라노 도시 풍경을 인쇄한 패브릭 비계를 배경으로 삼고, 조명 제작 공정을 보여주는 네 개의 방을 거쳐 최종 제품에 도달하는 선형적 동선을 설계했다.",
+  "sensory": "1만 6천 개의 갈색 유리 병이 투과시키는 빛과 황동의 단단한 반사광이 어두운 클로이스터 내부를 따뜻한 톤으로 채운다.",
+  "transfer": "공간 연출 시 가림막 패브릭과 공사장 비계를 실내 구조물로 들여와, 도시의 외부 물성을 전시장 내부의 압축된 배경으로 활용한다.",
+  "context": "이솝은 호주 멜버른에서 시작된 럭셔리 코스메틱 브랜드로, 전 세계 매장마다 건축가들과 협업해 고유한 공간 서사를 구축해 왔다. 이번 설치 미술을 맡은 마치 스튜디오의 로드니 에글스턴은 호주 플래그십 스토어들에 이어 도시 환경의 구조적 질감을 공간에 직조하는 방식을 이어간다.",
+  "findings": [
+   {
+    "text": "이솝은 호주 멜버른 콜링우드에 본사를 둔 럭셔리 화장품 브랜드다.",
+    "s": 1,
+    "quote": "Aesop (stylised as Aēsop, ee-SOP) is an Australian luxury cosmetics brand that produces skincare, haircare and fragrance products. It is headquartered in Collingwood"
+   }
+  ],
+  "keywords": [
+   "이솝",
+   "조명디자인",
+   "밀라노디자인위크",
+   "설치미술",
+   "마치스튜디오"
+  ],
+  "evidence": "Skincare brand Aesop has unveiled The Factory of Light installation, where scaffolding printed with iconic Milanese buildings serves as the backdrop for the launch of its first-ever lighting designs.",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "브랜드의 첫 조명 출시라는 명확한 물리적 결과물과 현장 장치가 구체적으로 기술되어 있다.",
+  "v": 2,
+  "url": "https://www.dezeen.com/2026/04/20/aesop-apose-factory-light-milan-design-week/",
+  "original_title": "Aesop launches Aposē lamps with The Factory of Light installation at Milan design week",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 5066,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-18 11:58",
+  "research": {
+   "entities": [
+    "Aesop",
+    "Flos",
+    "March Studio",
+    "Rodney Eggleston",
+    "Aposē"
+   ],
+   "questions": [
+    "Aesop이 화장품 브랜드로서 조명 디자인 제품인 Aposē를 출시하게 된 철학적 배경은 무엇인가?",
+    "March Studio의 Rodney Eggleston이 밀라노의 비계(scaffolding)와 가림막(hoarding)에서 영감을 받아 이번 설치 미술을 어떻게 구성했는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Aesop (brand)",
+     "url": "https://en.wikipedia.org/wiki/Aesop%20%28brand%29"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Flos",
+     "url": "https://en.wikipedia.org/wiki/Flos"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "이솝, 향수 보틀 리디자인으로 완성한 공간의 서사",
+     "url": "https://www.wallpaper.com/fashion-beauty/aesops-creative-director-unforeseen-aer"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "8월의 뷰티 캠페인, 감각적 물성과 서사를 입히는 방식",
+     "url": "https://www.dazeddigital.com/beauty/article/70862/1/paloma-elsesser-dakota-johnson-alexander-skarsgrd-keeping-it-hot-this-month?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=all-the-august-2026-beauty-drops-you-need-to-know"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "제트 시대의 낙관을 입다, 마치 스튜디오의 오스카 브라보 시드니 플래그십",
+     "url": "https://www.yellowtrace.com.au/march-studio-oscar-bravo-sydney-retail-design/"
+    }
+   ],
+   "used": [
+    1,
+    5
+   ],
+   "chars": 2051
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "dezeen.com/2026/04/24/reissued-lighting-products-furniture-milan-design-week-dezeen-showroom": {
+  "title_ko": "1970년대의 유산과 산업적 변주, 밀라노 디자인 위크 2026의 가구와 조명",
+  "summary_ko": "밀라노 디자인 위크 2026에서 공개된 8종의 가구와 조명은 과거의 미학을 재해석하거나 산업적 공정을 실험적으로 변주했다. 스페인 브랜드 마르셋(Marset)은 1970년대 디자인을 재출시하며 벽 조명을 추가했고, 보치(Bocci)는 녹인 알루미늄을 유리 용기에 부어 마블링 표면을 구현한 93 조명을 선보였다. 빌레로이앤보흐와 몰테니앤씨 등은 재료의 물성을 강조한 수전과 가죽 벨트로 고정된 암체어로 기능적 미학을 제시했다.",
+  "lens": "빈티지 조형의 재발견과 알루미늄·가죽 등 원재료의 물성을 극대화한 구조적 결합이 올해 밀라노 디자인의 핵심이다.",
+  "why_now": "디지털 피로도가 높은 시기, 1970년대의 아날로그 감각과 산업 공정 자체를 디자인의 일부로 노출하는 방식이 다시 주목받는다.",
+  "mechanism": "보치의 93 조명은 녹은 알루미늄을 유리 틀에 붓는 즉흥적 공정을 통해 각기 다른 마블링 패턴을 만들고, 몰테니앤씨의 코르세토 암체어는 가죽 벨트로 패브릭의 부피감을 물리적으로 압착해 형태를 고정한다.",
+  "sensory": "차가운 알루미늄의 금속성과 유리 내부의 불규칙한 기포, 가죽 벨트가 짓누르는 패브릭의 긴장감이 시각적 질감을 구성한다.",
+  "transfer": "공간 연출 시 가죽 벨트나 스트랩을 활용해 부드러운 소재의 가구를 물리적으로 조여 형태를 변주하는 샷을 구성하거나, 금속의 용융 과정을 조명 연출의 텍스처로 대입해 보라.",
+  "context": "마르셋은 1970년대 디자인을 현대적으로 재해석하는 아카이브 작업을 지속하고 있다. 보치는 베를린의 산업 공간에서 실험적인 유리 공예를 선보이는 등 물성의 한계를 시험하는 작업을 이어왔으며, 안토니오 치테리오와 같은 거장들은 전통적인 소파의 각진 형태를 해체하는 모듈형 구조를 꾸준히 제시한다.",
+  "findings": [
+   {
+    "text": "빌레로이앤보흐는 1748년 설립되어 독일 메틀라흐에 본사를 둔 전통적인 세라믹 제조사다.",
+    "s": 1,
+    "quote": "The company, whose origins date back to 1748, is named after its two founders, François Boch and Nicolas Villeroy."
+   },
+   {
+    "text": "안토니오 치테리오는 밀라노를 기반으로 활동하는 건축가이자 산업 디자이너다.",
+    "s": 2,
+    "quote": "Antonio Citterio (born 1950, in Meda, Italy) is an Italian architect, furniture designer and industrial designer who lives and works in Milan."
+   }
+  ],
+  "keywords": [
+   "밀라노디자인위크",
+   "물성",
+   "산업디자인",
+   "아카이브",
+   "재해석"
+  ],
+  "evidence": "Originally created in the early ’70s by designers P Aragay and J Pérez Mateo, this collection of lighting by Spanish brand Marset has been reissued",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "밀라노 디자인 위크의 신제품들을 물성 중심의 구조적 관점으로 분석하여 실무적인 연출 아이디어를 구체적으로 도출했다.",
+  "v": 2,
+  "url": "https://www.dezeen.com/2026/04/24/reissued-lighting-products-furniture-milan-design-week-dezeen-showroom/",
+  "original_title": "Reissued 1970s lighting among products launched at Milan design week",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 4791,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-18 11:58",
+  "research": {
+   "entities": [
+    "Milan design week",
+    "Christian Haas",
+    "Villeroy & Boch",
+    "Antonio Citterio",
+    "Bocci"
+   ],
+   "questions": [
+    "밀라노 디자인 위크 2026에서 공개된 조명 제품들 중 1970년대 디자인을 재해석한 대표적인 제품의 특징은 무엇인가?",
+    "크리스티안 하스(Christian Haas)가 빌레로이앤보흐(Villeroy & Boch)를 위해 디자인한 Vea 수전 컬렉션은 어떤 빈티지 오브제에서 영감을 받았는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Villeroy & Boch",
+     "url": "https://en.wikipedia.org/wiki/Villeroy%20%26%20Boch"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Antonio Citterio",
+     "url": "https://en.wikipedia.org/wiki/Antonio%20Citterio"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "밀라노 디자인 위크를 향한 무대, 돔무스 아카데미의 언폴드 2027 공모",
+     "url": "https://www.archdaily.com/1184653/unfold-2027-call-for-design-schools-to-showcase-at-milan-design-week"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "빌레로이앤보흐의 제품 소개와 브랜드 배경",
+     "url": "https://www.dezeen.com/2026/09/02/five-bathroom-products-villeroy-boch-dezeen-showroom/"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "베를린의 첫 디자인 페스티벌 '커런츠'가 드러낸 도시의 물성",
+     "url": "https://www.wallpaper.com/design-interiors/design-events/currents-design-festival-berlin"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    4,
+    5
+   ],
+   "chars": 1255
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "dezeen.com/2026/04/27/milan-design-week-trends-2026-inflatable-furniture-sci-fi": {
+  "title_ko": "밀라노 디자인 위크 2026: 불안한 SF 조명과 식문화 럭셔리",
+  "summary_ko": "2026 밀라노 디자인 위크는 지정학적 불안과 예산 삭감 속에서 개최되었다. 디자이너들은 로봇 눈을 닮은 SF풍 조명, 식품을 모티브로 한 럭셔리 오브제, 그리고 확장된 공기 주입식 가구를 주요 트렌드로 선보였다.",
+  "lens": "금속 뼈대와 인공지능을 결합해 공상과학의 불안을 신체 감각적인 조명으로 번역한다.",
+  "why_now": "지정학적 위기와 예산 삭감이라는 현실의 파열음 속에서, 디자인은 우주 여행과 인공지능을 향한 기묘한 도피처를 모색한다.",
+  "mechanism": "스테인리스 스틸 와이어와 스택형 유리 요소를 조합해 로봇의 안구와 외골격을 시각화하고 인공지능 두뇌로 스스로 움직이는 기계 팔을 구현한다.",
+  "sensory": "차가운 크롬 표면과 블로운 글래스 스팅어가 주는 예리한 촉각적 긴장감이 전시장 전체를 지배한다.",
+  "transfer": "SF 영화 콘티에서 기계 장비나 인조인간의 감시 시선을 표현할 때 스테인리스 스틸 와이어와 스택형 유리 렌즈의 조합을 활용한다.",
+  "context": "베산 로라 우드는 재료 조사와 장인 협업을 바탕으로 일상 사물의 패턴과 색상을 재문맥화하는 작업을 지속해 왔다.",
+  "findings": [],
+  "keywords": [
+   "밀라노디자인위크",
+   "공상과학조명",
+   "에어가구",
+   "인공지능오브제"
+  ],
+  "evidence": "Sci-fi lamps and inflatable furniture among six trends to know from Milan design week",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "2026 밀라노 디자인 위크의 주요 트렌드를 구체적인 디자이너와 작품 사례를 통해 균형 있게 분석했다.",
+  "v": 2,
+  "url": "https://www.dezeen.com/2026/04/27/milan-design-week-trends-2026-inflatable-furniture-sci-fi/",
+  "original_title": "Sci-fi lamps and inflatable furniture among six trends to know from Milan design week",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 8490,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-18 11:58",
+  "research": {
+   "entities": [
+    "Salone del Mobile",
+    "Bethan Laura Wood",
+    "Baccarat",
+    "Nilufar Gallery",
+    "Chloé"
+   ],
+   "questions": [
+    "2026년 밀라노 디자인 위크에서 나타난 '불안정한 공상과학(Sci-fi)' 디자인 경향이 현대 사회의 어떤 불안감을 반영하고 있는가?",
+    "디자인 업계에서 '음식'을 모티브로 한 가구와 조명이 럭셔리 트렌드로 부상하게 된 배경은 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Chandelier Lumiac - Nilufar",
+     "url": "https://nilufar.com/product/ceiling-lamp-lumiac-by-andrea-mancuso/?_gl=1*f1928u*_up*MQ..*_ga*MTQ1NTI2MTkuMTc3Njg3MDczMw..*_ga_8GQV6X5Y22*czE3NzY4NzA3MzEkbzEkZzAkdDE3NzY4NzA3MzEkajYwJGwwJGgxNDM2MjcyNDk4"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Chloé made its first foray into furniture",
+     "url": "https://www.chloe.com/it-it/news/chloe-unveils-the-tomato-chair-with-poltronova.html"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Salone del Mobile",
+     "url": "https://en.wikipedia.org/wiki/Salone%20del%20Mobile"
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "Bethan Laura Wood",
+     "url": "https://en.wikipedia.org/wiki/Bethan%20Laura%20Wood"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "영화감독의 세트가 집으로 들어올 때, 린치와 구아다니노의 인테리어",
+     "url": "https://www.designboom.com/art/guadagnino-lynch-movie-directors-design-interior-spaces/"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "일본 토카이 공예와 글로벌 디자인의 만남, Craft x Tech",
+     "url": "https://www.dezeen.com/2026/09/11/craft-x-tech-japanese-crafts-london-design-festival/"
+    },
+    {
+     "n": 7,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "무라노의 빛을 재해석하다: 베니스 유리 주간의 12개 현대적 샹들리에",
+     "url": "https://www.wallpaper.com/design-interiors/design-events/venice-glass-week-2026-norman-foster-chandelier"
+    }
+   ],
+   "used": [
+    4
+   ],
+   "chars": 5191
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "hyperallergic.com/rare-hilma-af-klint-work-heads-to-auction": {
+  "title_ko": "힐마 아프 클린트의 추상 회화, 30년 만에 경매 시장으로 귀환",
+  "summary_ko": "스웨덴의 추상 미술 선구자 힐마 아프 클린트의 1920년 작 ‘Ser III No. 5’가 스톡홀름 부코우스키 경매에 출품된다. 사후 20년간 작품 공개를 금지했던 작가의 유지를 뒤로하고, 해당 유화 작품은 11월 18일부터 19일까지 열리는 경매에서 약 800만 크로나에 낙찰될 것으로 예상된다.",
+  "lens": "추상 미술의 기원을 영적 도상으로 치환한 작가의 의도가 시장의 상업적 논리와 충돌하며 발생하는 긴장 관계를 관찰한다.",
+  "why_now": "개인의 고립된 천재성보다 공동체적 영감과 매개적 실천을 중시하는 최근의 미술사 재해석 흐름 속에서, 작가의 유작이 경매에 오르는 현상은 그 가치 체계를 시험대에 올린다.",
+  "mechanism": "캔버스 위 유화와 흑연을 결합해 다이어그램과 같은 추상적 형태를 구축하며, 보이지 않는 영적 세계를 시각적 질서로 고착화한다.",
+  "sensory": "캔버스 표면에 겹쳐진 흑연의 건조한 마찰음과 유화 물감의 두터운 질감이 빚어내는 정교한 기하학적 패턴의 밀도가 핵심이다.",
+  "transfer": "영적 텍스트를 시각화할 때, 도식적 레이아웃과 수작업의 거친 물성을 결합해 디지털 그래픽이 흉내 낼 수 없는 고전적 권위를 부여하는 연출에 활용한다.",
+  "context": "힐마 아프 클린트는 신지학에 기반해 '다섯 사람' 그룹과 함께 영적 소통을 시도하며 초기 추상 미술을 개척했다. RE:COLLECTION은 과거 ‘아르카나 보레알리스’ 전시를 통해 작가의 창작이 고립된 천재성이 아닌 영적 공동체의 네트워크 결과물임을 조명한 바 있다.",
+  "findings": [
+   {
+    "text": "힐마 아프 클린트는 신지학에 영감을 받은 ‘다섯 사람’ 그룹의 일원으로서 강신술을 통해 고차원적 존재와의 접촉을 시도했다.",
+    "s": 1,
+    "quote": "She belonged to a group called \"The Five\", a circle of women inspired by Theosophy who shared a belief in the importance of trying to contact the \"High Masters\", often through séances."
+   }
+  ],
+  "keywords": [
+   "힐마아프클린트",
+   "추상미술",
+   "에소테리즘",
+   "경매",
+   "신지학"
+  ],
+  "evidence": "Works by the Swedish spiritualist and abstract art pioneer, who asked that her paintings remain unseen for 20 years after her death in 1944",
+  "kind": "뉴스·이슈",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "작가의 역사적 맥락과 경매 시장의 상업적 충돌을 연결했으나, 원문 정보가 단신 위주라 심층적 분석에 한계가 있다.",
+  "v": 2,
+  "url": "https://hyperallergic.com/rare-hilma-af-klint-work-heads-to-auction/",
+  "original_title": "Rare Hilma af Klint Work Heads to Auction",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 2355,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-18 11:58",
+  "research": {
+   "entities": [
+    "Hilma af Klint",
+    "Bukowskis",
+    "Sotheby's",
+    "Vincent van Gogh",
+    "National Gallery Singapore"
+   ],
+   "questions": [
+    "힐마 아프 클린트의 작품이 사후 20년 동안 공개되지 않기를 바랐던 예술적, 철학적 배경은 무엇인가요?",
+    "나치 박해로 인해 강제로 매각된 예술품의 소유권 분쟁을 해결하는 국제적인 기준이나 관례는 어떻게 되나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Hilma af Klint",
+     "url": "https://en.wikipedia.org/wiki/Hilma%20af%20Klint"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Sotheby's",
+     "url": "https://en.wikipedia.org/wiki/Sotheby%27s"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "곰팡이의 시각적 계보: 파이돈이 엮은 균류의 미학적 탐구",
+     "url": "https://www.thisiscolossal.com/2026/09/spanning-200-works-a-new-book-celebrates-the-world-of-fungi/"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "북유럽의 숨겨진 지식, 아르카나 보레알리스가 소환하는 영적 공동체",
+     "url": "https://www.thisiscolossal.com/2026/10/arcana-borealis-modern-art-spirituality-esotercism-women-artists/"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "로빈 F. 윌리엄스, 테크노 디스토피아의 매혹과 공포를 잇다",
+     "url": "https://www.thisiscolossal.com/2026/10/robin-f-williams-paintings-act-natural/"
+    }
+   ],
+   "used": [
+    1,
+    4
+   ],
+   "chars": 2698
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "archdaily.com/1188760/raumlaborberlin-at-ie-school-of-architecture-and-designs-common-s-lecture-series": {
+  "title_ko": "베를린의 도시 집단 라움라보르베를린이 마드리드에서 펼치는 제작의 흐름",
+  "summary_ko": "독일의 건축 집단 라움라보르베를린의 창립 멤버 벤자민 푀르스터발데니우스가 마드리드의 IE 대학교 캠퍼스에서 강연을 연다. 이들은 건축을 건물이 아닌 사람과 장소의 관계를 엮는 과정으로 정의하고 버려진 도시 공간을 실험의 장으로 바꾼다.",
+  "lens": "건축을 고정된 구축물이 아닌 사람과 장소가 얽히는 유동적 과정으로 다룬다.",
+  "why_now": "영구적인 대형 건물의 시대가 저물고 방치된 도시 유휴지를 공공의 장으로 되살리는 실천이 주목받고 있다.",
+  "mechanism": "지역 사회와 도시 행위자를 직접 끌어들이는 리서치 기반 디자인으로 대안적 미래를 시험한다.",
+  "sensory": "도심 속 버려진 공터가 일시적인 가설 구조물과 사람들의 움직임으로 채워지는 생동감.",
+  "transfer": "공간 연출 콘티에서 완공된 세트 대신 철거 직전의 유휴지를 활용해 임시 구조물과 군중의 동선을 결합한다.",
+  "context": "라움라보르베를린은 건축, 도시 계획, 예술, 퍼포먼스의 교차점에서 9명의 멤버로 활동하며 방치된 도시 공간을 전환하는 프로젝트를 이어왔다.",
+  "findings": [
+   {
+    "text": "IE 대학교는 스페인 마드리드와 세고비아에 캠퍼스를 둔 사립 대학이다.",
+    "s": 1,
+    "quote": "IE University, known in Spanish as IE Universidad or Universidad Instituto de Empresa (lit. University Institute of Business), is a private university with campuses in Madrid and Segovia, Castile and León, Spain"
+   }
+  ],
+  "keywords": [
+   "라움라보르베를린",
+   "유휴공간",
+   "도시예술",
+   "퍼포먼스건축"
+  ],
+  "evidence": "raumlaborberlin understands it as an ongoing process shaped by people, places and their relationships.",
+  "kind": "행사·공모",
+  "depth": 2,
+  "grounding": "partial",
+  "depth_reason": "단순 강연 안내 공지이며 상세한 프로젝트 사례나 물성적 데이터가 부족하다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1188760/raumlaborberlin-at-ie-school-of-architecture-and-designs-common-s-lecture-series",
+  "original_title": "raumlaborberlin at IE School of Architecture & Design’s COMMON(S) Lecture Series",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 1713,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-18 11:59",
+  "research": {
+   "entities": [
+    "raumlaborberlin",
+    "Benjamin Foerster-Baldenius",
+    "IE University"
+   ],
+   "questions": [
+    "raumlaborberlin이 도시의 유휴 공간을 활성화하기 위해 사용한 대표적인 프로젝트와 그 방식은 무엇인가?",
+    "IE School of Architecture & Design의 COMMON(S) 강연 시리즈는 어떤 목적과 주제로 기획되었는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "IE University",
+     "url": "https://en.wikipedia.org/wiki/IE%20University"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 487
+  },
+  "depth_raw": 2,
+  "depth_v": 2
+ },
+ "archdaily.com/1188756/kingston-urban-room-exhibition-tall-buildings-shared-futures": {
+  "title_ko": "초고층 빌딩과 도시의 미래를 묻는 킹스턴 어반 룸 전시",
+  "summary_ko": "올해 11월 킹스턴 어반 룸에서 지역 주민과 함께 고층 건물을 탐색하고 도시의 미래를 논의하는 전시가 열린다. 이 전시는 도시 성장에 따라 무엇을 가치 있게 여기고 보호해야 할지 질문을 던진다. 이전 프로그램인 왓 이프 설치 작업의 연장선으로 기획되었다.",
+  "lens": "도시 성장의 속도 속에서 고층 건물이 지닌 공공의 가치를 주민의 시선으로 해부한다.",
+  "why_now": "도시 개발과 고층화가 가속화되는 시점에서 건축적 높이가 지역 사회에 미치는 영향을 되짚어 볼 필요가 커졌다.",
+  "mechanism": "지역 주민과 디자이너를 공간 안으로 직접 끌어들여 도시의 과거와 미래를 토론하는 참여형 구조로 작동한다.",
+  "sensory": "지역 고층 건물들의 스케일과 도시의 물리적 변화를 시각적 자료와 대화의 장을 통해 체감한다.",
+  "transfer": "도시 공간을 다루는 콘티에서 거주자의 시선을 대변하는 인터뷰 숏과 파사드의 수직성을 교차 편집하는 연출에 활용한다.",
+  "context": "이번 전시는 런던 디자인 페스티벌과 킹스턴 2025 축제의 일환으로 페니 스쿨 갤러리에서 열렸던 왓 이프 설치 작업의 맥락을 잇는다.",
+  "findings": [],
+  "keywords": [
+   "도시건축",
+   "고층빌딩",
+   "주민참여",
+   "공공공간"
+  ],
+  "evidence": "As Kingston grows, what should we value, what should we protect, and what should we change?",
+  "kind": "전시",
+  "depth": 2,
+  "grounding": "partial",
+  "depth_reason": "사용자 제출 이벤트 성격의 짧은 안내로 구체적인 전시물 상세나 공간 연출 기법이 부족하다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1188756/kingston-urban-room-exhibition-tall-buildings-shared-futures",
+  "original_title": "Kingston Urban Room Exhibition: Tall Buildings, Shared Futures.",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 1394,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-18 11:59",
+  "research": {
+   "entities": [
+    "Kingston Urban Room",
+    "London Design Festival",
+    "Penny School Gallery"
+   ],
+   "questions": [
+    "킹스턴 어반 룸(Kingston Urban Room)은 지역 사회와 건축적 담론을 형성하기 위해 어떤 활동을 수행하는 기관인가요?",
+    "고층 빌딩이 도시의 미래와 지속 가능성에 미치는 영향에 대해 킹스턴 지역 주민들은 어떤 가치를 우선시하고 있나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "London Design Festival",
+     "url": "https://en.wikipedia.org/wiki/London%20Design%20Festival"
+    },
+    {
+     "n": 2,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "제시 버터필드의 '베일드 바운더리', 종이와 강철로 빚은 모순의 형상",
+     "url": "https://www.dezeen.com/2026/09/25/jesse-butterfield-a-veiled-boundary/"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "런던 디자인 페스티벌이 주목한 폐기물, 산업의 부산물을 가구로 재구성하는 법",
+     "url": "https://www.dezeen.com/2026/09/24/furniture-products-london-design-festival-material-offcuts/"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "이사벨과 헬렌, 런던 디자인 페스티벌에서 펼친 기계적 움직임의 미학",
+     "url": "https://www.dezeen.com/2026/09/21/isabel-helen-showcase-their-obsession-with-movement-with-kinetic-models-at-the-conran-shop/"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 1528
+  },
+  "depth_raw": 2,
+  "depth_v": 2
+ },
+ "archdaily.com/1188808/dream-house-seiro-arquitectos": {
+  "title_ko": "멕시코 라 살라디타의 드림 하우스: 바다의 리듬을 투영하는 연속적 거주 공간",
+  "summary_ko": "멕시코 라 살라디타에 위치한 드림 하우스(Casa Ensueño)는 바다를 조망하는 것을 넘어 그 속도에 맞춰 생활하도록 설계된 주택이다. 세이로 건축사사무소(Seiro Arquitectos)는 개방적이고 보호받는 공간을 순차적으로 배치하여 태평양의 빛, 바람, 수평적 움직임을 건축 내부로 끌어들였다.",
+  "lens": "바다를 바라보는 관조적 시선을 넘어, 기후와 빛의 변화를 공간의 연속성으로 치환하여 거주자가 해안의 리듬에 동기화되도록 설계했다.",
+  "why_now": "디지털 과잉 시대에 자연의 물리적 흐름을 공간의 구조적 언어로 번역하여 거주자의 호흡을 환경과 일치시키려는 시도가 중요해지고 있다.",
+  "mechanism": "개방된 공간과 보호된 공간을 교차 배치하는 시퀀스를 통해 외부의 빛과 바람이 주택 내부로 자연스럽게 관통하도록 유도한다.",
+  "sensory": "태평양의 습한 바람과 시간에 따라 변하는 조도, 거친 해안 지형의 질감이 공간 곳곳에 스며드는 감각적 거주 환경을 조성한다.",
+  "transfer": "공간의 밀도를 조절하여 외부 환경의 리듬을 내부로 끌어들이는 시퀀스 설계와, 빛의 이동 경로에 따른 수평적 공간 배치를 콘티에 적용한다.",
+  "context": "세이로 건축사사무소는 멕시코의 지역적 기후와 지형적 조건을 건축적 장치로 번역하는 작업을 지속하고 있다.",
+  "findings": [],
+  "keywords": [
+   "건축 설계",
+   "공간 시퀀스",
+   "지형 순응",
+   "태평양",
+   "멕시코 건축"
+  ],
+  "evidence": "a residence conceived as a succession of open, protected, and serene spaces, where the architecture accompanies the shifting light, the movement of the air, and the constant presence of the Pacific Ocean.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "건축적 의도는 명확하나 구체적인 도면이나 상세한 재료 정보가 부족하여 프로젝트의 구조적 깊이를 완전히 파악하기 어렵다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1188808/dream-house-seiro-arquitectos",
+  "original_title": "Dream House / Seiro Arquitectos",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 951,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-18 11:59",
+  "research": {
+   "entities": [
+    "Seiro Arquitectos",
+    "Casa Ensueño"
+   ],
+   "questions": [
+    "Casa Ensueño가 위치한 La Saladita 지역의 기후와 지형적 특성이 건축 설계에 어떤 영향을 미쳤는가?",
+    "Seiro Arquitectos가 추구하는 '바다의 속도에 맞춘 삶'을 구현하기 위해 사용한 건축적 장치들은 무엇인가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "hyperallergic.com/how-should-we-memorialize-the-trump-era": {
+  "title_ko": "지하로 침전되는 12미터의 반기념비",
+  "summary_ko": "독일 함부르크 하르부르크에 설치된 파시즘 반대 기념물은 1986년 에스테르 샬레프게르츠와 요헨 게르츠가 제작한 40피트 높이의 납 시트 피라미드 구조물이다. 시민들의 참여로 서명이 채워짐에 따라 기념물은 단계적으로 땅속으로 침하되어 현재는 지상에서 유리창을 통해서만 볼 수 있다.",
+  "lens": "영구적인 과시 대신 침묵과 부재로 기억의 책임을 대중에게 돌려준다.",
+  "why_now": "거대한 조형물로 역사를 박제하는 방식에서 벗어나, 관객의 참여와 시간의 소멸을 공간에 각인하는 공공 미술의 태도가 다시 주목받는다.",
+  "mechanism": "알루미늄 기둥 표면에 시민들이 직접 반파시즘 서명을 남기게 유도하고, 면이 채워질 때마다 유압 장치로 구조물을 땅 아래로 하강시켜 점진적으로 시각적 부재를 만들어낸다.",
+  "sensory": "차가운 납과 알루미늄의 물성이 시민들의 날것 그대로의 손글씨와 낙서로 덮이고, 최종적으로는 지면 아래 어두운 지하에 갇혀 유리창 너머로만 흐릿하게 관측된다.",
+  "transfer": "공간 연출이나 오프닝 컷에서 고정된 세트 대신 관객의 물리적 개입에 따라 구조물이 침하하거나 형태가 마모되는 시간의 누적 과정을 시각화한다.",
+  "context": "개념미술가 에스테르 샬레프게르츠와 요헨 게르츠는 파시즘의 기념비적 건축 양식을 거부하고 공공 미술이 민주주의와 역사적 기억에 기여하는 방식을 탐구해 왔다.",
+  "findings": [],
+  "keywords": [
+   "반기념비",
+   "공공미술",
+   "기억의정치",
+   "개념미술"
+  ],
+  "evidence": "the monument is entirely subterranean, visible only through a small glass window next to the plaque.",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "구체적인 개념미술 프로젝트의 물리적 작동 방식과 역사적 맥락이 명확히 드러나기 때문이다.",
+  "v": 2,
+  "url": "https://hyperallergic.com/how-should-we-memorialize-the-trump-era/",
+  "original_title": "How Should We Memorialize the Trump Era?",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 2092,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-18 11:59",
+  "research": {
+   "entities": [
+    "Monument Against Fascism",
+    "Esther Shalev-Gerz",
+    "Jochen Gerz"
+   ],
+   "questions": [
+    "반기념비(anti-monument) 예술이 전통적인 기념비와 차별화되는 핵심 철학은 무엇인가?",
+    "기념비가 점진적으로 땅속으로 사라지게 설계된 의도는 현대 사회의 기억 방식에 어떤 시사점을 주는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Monument Against Fascism - counter monument",
+     "url": "https://jochengerz.eu/works/monument-against-fascism?ref=hyperallergic.com"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Esther Shalev-Gerz",
+     "url": "https://en.wikipedia.org/wiki/Esther%20Shalev-Gerz"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Jochen Gerz",
+     "url": "https://en.wikipedia.org/wiki/Jochen%20Gerz"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3
+   ],
+   "chars": 3410
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "archdaily.com/1188802/madre-culebra-cabin-taller-viga-maestra": {
+  "title_ko": "안데스 산맥의 수직적 피난처, 마드레 쿨레브라 캐빈",
+  "summary_ko": "칠레 핀토의 라스 트란카스 계곡 원시림에 자리한 마드레 쿨레브라 산장은 안데스 산맥의 극한 기후에 대응하며 지형 훼손을 최소화하도록 설계되었다. 150㎡ 규모의 이 건축물은 수직적이고 밀도 높은 구조를 통해 주변 자연과 조화를 이루며 가족과 공동체를 위한 보호막 역할을 수행한다.",
+  "lens": "극한의 산악 환경 속에서 수직적 밀도를 극대화하여 대지 점유를 최소화한 생태적 대응 방식이 돋보인다.",
+  "why_now": "기후 위기 시대에 자연을 정복하는 대신 지형의 일부로 스며드는 최소한의 건축적 개입이 중요한 화두로 떠오르고 있다.",
+  "mechanism": "수직적이고 콤팩트한 매스 구성을 통해 대지 접지면을 줄이고, 주변 원시림과의 물리적 간섭을 최소화하는 구조를 택했다.",
+  "sensory": "안데스 산맥의 차가운 공기와 숲의 습기를 견디는 단단한 물성, 외부의 거친 환경으로부터 보호받는 내부의 밀도 높은 안락함이 공존한다.",
+  "transfer": "공간 연출 시 수직성을 강조하여 좁은 대지에서도 거대한 자연의 압도감을 내부로 끌어들이는 프레임 구성을 적용할 수 있다.",
+  "context": "탈레르 비가 마에스트라(Taller Viga Maestra)는 칠레의 지형적 특성과 기후 조건을 건축 언어로 번역하는 작업을 이어오고 있다.",
+  "findings": [],
+  "keywords": [
+   "산악건축",
+   "수직구조",
+   "친환경건축",
+   "칠레건축"
+  ],
+  "evidence": "the house is conceived as a vertical, compact, and protected shelter, designed for family and friends to gather.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "건축적 의도는 명확하나 구체적인 도면이나 상세한 재료 기법에 대한 정보가 부족하여 일반적인 프로젝트 소개 수준에 머문다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1188802/madre-culebra-cabin-taller-viga-maestra",
+  "original_title": "Madre Culebra Cabin / Taller Viga Maestra",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 1086,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-18 11:59",
+  "research": {
+   "entities": [
+    "Taller Viga Maestra",
+    "Jaime Gatica Martinez"
+   ],
+   "questions": [
+    "라스 트란카스 밸리의 자연환경과 기후 조건은 이 산장 건축에 어떤 영향을 미쳤는가?",
+    "마드레 쿨레브라 산장은 안데스 산맥의 원시림 속에서 자연훼손을 최소화하기 위해 어떤 건축적 기법을 사용했는가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "dezeen.com/2026/04/27/house-of-creatures-milan-design-week-2026": {
+  "title_ko": "밀라노를 흔든 이질적 생물체들, 하우스 오브 크리에이처",
+  "summary_ko": "슬로베니아 크리에이티브 센터가 밀라노 디자인 위크의 알코바에서 '하우스 오브 크리에이처' 전을 개최했다. 라라 보힌츠의 결합된 의자, 토스티드 퍼니처의 재생 플라스틱 기물, 쥬이시 마블스의 식물성 스테이크 등 비순응적인 10개 디자이너 팀의 작업이 폼 플린트 위에 놓였다.",
+  "lens": "전통적인 경계 바깥의 사물들을 한자리에 모아 디자인의 범위를 확장한다.",
+  "why_now": "가구와 식품의 경계를 허물며 지속 가능성과 생존 방식을 재고하는 동시대 디자인의 태도를 보여준다.",
+  "mechanism": "부드러운 폼 블록 위에 오브제를 진열해 사물의 무게로 플린트가 가라앉게 만들며 생명체 같은 긴장감을 유발한다.",
+  "sensory": "금속과 목재가 결합된 가구의 시각적 수사와 가열된 플라스틱의 거친 표면 물성이 전시장 공간을 채운다.",
+  "transfer": "영상 콘티에서 상이한 재료를 가진 사물을 하나의 프레임에 밀착시켜 시각적 충돌과 기이한 긴장감을 연출할 때 활용한다.",
+  "context": "슬로베니아 크리에이티브 센터는 밀라노 디자인 위크에 정기적으로 참여해 자국 디자인의 지형도를 소개하고 있다.",
+  "findings": [
+   {
+    "text": "전시는 밀라노 알코바에서 개최되었다.",
+    "s": 2,
+    "quote": "Alcova Milano 2026 has come to a close. For seven days, from April 20 to 26, Baggio Military Hospital and Villa Pestarini came alive with the presence of more than 130 exhibitors"
+   }
+  ],
+  "keywords": [
+   "밀라노디자인위크",
+   "알코바",
+   "재생플라스틱",
+   "슬로베니아디자인",
+   "미디어파사드"
+  ],
+  "evidence": "A misbehaving chair by Lara Bohinc sits side-by-side with Juicy Marbles’ meat-free steak in House of Creatures, an exhibition of Slovenian work at Milan design week.",
+  "kind": "전시",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "밀라노 디자인 위크의 독창적인 전시 구성을 다루나 단순 소개에 가깝다.",
+  "v": 2,
+  "url": "https://www.dezeen.com/2026/04/27/house-of-creatures-milan-design-week-2026/",
+  "original_title": "House of Creatures exhibition brings together design misfits in Milan",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 5797,
+  "fetch": "ok",
+  "cliche_hits": [
+   "경계를 허"
+  ],
+  "read_at": "2026-11-18 11:59",
+  "research": {
+   "entities": [
+    "Lara Bohinc",
+    "Alcova",
+    "Soft Baroque",
+    "Centre for Creativity",
+    "Juicy Marbles"
+   ],
+   "questions": [
+    "House of Creatures 전시가 지향하는 'non-conforming(비순응적)' 디자인의 철학적 의미는 무엇인가?",
+    "슬로베니아의 Centre for Creativity는 자국 디자인을 국제 무대에 알리기 위해 어떤 전략을 취하고 있는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Center za kreativnost",
+     "url": "https://czk.si/"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Alcova",
+     "url": "https://www.alcova.xyz"
+    },
+    {
+     "n": 3,
+     "type": "공식·1차",
+     "title": "Toasted",
+     "url": "https://toasted.si/"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3
+   ],
+   "chars": 5465
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "archdaily.com/1188765/casa-da-arquitetura-celebrates-its-9th-anniversary-with-four-days-of-free-programming": {
+  "title_ko": "카사 다 아르키테투라 9주년, 영토와 도시를 읽는 네 가지 시선",
+  "summary_ko": "포르투갈 마토지뉴스에 위치한 카사 다 아르키테투라가 설립 9주년을 맞아 4일간의 기념 프로그램을 진행한다. 건축을 도시의 이해와 변화를 위한 도구로 정의하며 전시, 토론, 워크숍, 예술적 교차 활동을 통해 영토와 풍경, 거주 방식에 대한 다각적인 해석을 제시한다.",
+  "lens": "건축을 박제된 유산이 아닌, 도시의 생태적·정치적 변화를 추적하는 살아있는 아카이브로 정의한다.",
+  "why_now": "민주화 이후 50년간의 영토 변화를 기록한 아카이브를 통해, 도시 공간이 공공 정책과 어떻게 상호작용해왔는지 시각화한다.",
+  "mechanism": "160개 도시 인벤토리와 연대기 플랫폼을 결합하여, 개별 건축물을 넘어선 거대 체계로서의 도시를 조망한다.",
+  "sensory": "방대한 도시 아카이브가 텍스트와 도면, 영상의 층위를 쌓아 올리며 영토의 물리적 무게감을 드러낸다.",
+  "transfer": "도시의 시간적 층위를 보여줄 때, 연대기적 데이터와 실제 공간의 도면을 겹쳐 배치하여 관객이 영토의 서사를 직관적으로 읽게 한다.",
+  "context": "카사 다 아르키테투라는 포르투갈의 영토 변화를 기록하는 중심 기관으로, 최근 페르난두 지 멜루 프랑쿠와 함께 풍경의 사회생태적 복구를 논의하는 SHIFT 국제 세미나를 개최했다. 이번 9주년 행사에서는 이네스 로보와 마누엘 살가도가 큐레이팅한 전시를 통해 지난 50년간의 도시 구축 과정을 추적한다.",
+  "findings": [
+   {
+    "text": "카사 다 아르키테투라는 포르투갈의 민주화 이후 50년간의 영토 변화를 조명하는 '도시 플랫폼: 기록의 순간' 전시를 개최한다.",
+    "s": 2,
+    "quote": "마토지뉴스에 위치한 카사 다 아르키테투라는 기관 설립 9주년을 맞아 포르투갈의 민주화 이후 50년간의 영토 변화를 조명하는 '도시 플랫폼: 기록의 순간' 전시를 개최한다."
+   },
+   {
+    "text": "이번 전시는 160개 도시 인벤토리와 연대기 플랫폼, 도시 프로젝트 아카이브를 결합하여 공공 정책이 현대 도시를 구축해온 과정을 추적한다.",
+    "s": 2,
+    "quote": "이네스 로보와 마누엘 살가도가 큐레이팅한 이번 전시는 160개 도시 인벤토리와 연대기 플랫폼, 도시 프로젝트 아카이브를 결합하여 공공 정책이 현대 도시를 구축해온 과정을 추적한다."
+   }
+  ],
+  "keywords": [
+   "카사다아르키테투라",
+   "영토정치",
+   "도시아카이브",
+   "풍경설계"
+  ],
+  "evidence": "invites the public to view architecture as a way to understand, imagine, and transform the city.",
+  "kind": "행사·공모",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "기관의 9주년 행사를 단순 홍보에 그치지 않고, 과거 아카이브 전시와의 맥락을 연결하여 도시 기록의 가치를 구체적으로 짚어냈다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1188765/casa-da-arquitetura-celebrates-its-9th-anniversary-with-four-days-of-free-programming",
+  "original_title": "Casa da Arquitetura celebrates its 9th anniversary with four days of free programming",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 1216,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-18 11:59",
+  "research": {
+   "entities": [
+    "Casa da Arquitetura"
+   ],
+   "questions": [
+    "Casa da Arquitetura의 9주년 기념 프로그램에는 구체적으로 어떤 전시와 행사가 포함되었는가?",
+    "포르투갈 건축 센터(Casa da Arquitetura)는 지역 사회와 건축 문화 확산에 어떤 기여를 해왔는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "페르난두 지 멜루 프랑쿠, 풍경을 사회생태적 재구성을 위한 도구로 제안하다",
+     "url": "https://www.archdaily.com/1186893/shift-2026-fernando-de-mello-franco-proposes-viewing-the-landscape-as-an-instrument-for-the-socio-ecological-recomposition-of-territories"
+    },
+    {
+     "n": 2,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "포르투갈의 지난 50년 영토 변화를 기록하는 도시 플랫폼 전시",
+     "url": "https://www.archdaily.com/1188769/exhibition-plataforma-cidade-revisits-50-years-of-transformation-in-the-portuguese-territory"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 569
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "archdaily.com/1188795/cabeceiras-do-aricanduva-municipal-natural-park-natureza-urbana": {
+  "title_ko": "상파울루 아리칸두바 공원, 도시와 숲을 잇는 생태적 완충지",
+  "summary_ko": "상파울루 시다지 티라덴치스에 위치한 카베세이라스 두 아리칸두바 시립 자연공원의 나센치스 허브는 96,000㎡ 규모로 조성되었다. 나투레자 우르바나가 설계한 이 공간은 대서양림의 발원지를 보존하며, 주거 지역과 자연 보호 구역 사이의 물리적 전이 지대를 구축한다.",
+  "lens": "거대한 도시의 팽창과 생태적 원형이 맞닿는 경계에서, 건축이 어떻게 완충 장치로 기능하는지 보여주는 사례다.",
+  "why_now": "도시 인프라가 생태 보존 구역을 침범하지 않으면서도 주민들에게 자연을 개방하는 공간 설계의 중요성이 커지고 있다.",
+  "mechanism": "도시와 숲 사이에 전이 영역을 설정해 주민들의 접근성을 높이고, 강 발원지라는 생태적 핵심부를 물리적으로 보호한다.",
+  "sensory": "대서양림의 습한 흙내음과 아리칸두바강의 유수 소리가 들리는 녹지 공간으로, 도시의 소음이 점진적으로 잦아드는 스케일을 가진다.",
+  "transfer": "공간 설계 시 주거지와 자연 보호구역 사이의 완충지대를 층위별로 나누어 관람객의 동선을 유도하는 시노그래피를 적용한다.",
+  "context": "나투레자 우르바나는 상파울루 시 환경 당국과 협력하여 도시 내 방치된 자연 유산을 주민들의 일상적 공간으로 전환하는 작업을 진행한다.",
+  "findings": [],
+  "keywords": [
+   "도시 재생",
+   "생태 건축",
+   "상파울루",
+   "완충 지대",
+   "나투레자 우르바나"
+  ],
+  "evidence": "establishing a transition between the neighborhood and the preservation area",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "도시와 자연의 경계 설계라는 주제는 명확하나, 세부적인 건축적 기법이나 재료에 대한 정보가 원문에 부족하다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1188795/cabeceiras-do-aricanduva-municipal-natural-park-natureza-urbana",
+  "original_title": "Cabeceiras do Aricanduva Municipal Natural Park / Natureza Urbana",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 1930,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-18 11:59",
+  "research": {
+   "entities": [
+    "Natureza Urbana",
+    "Cabeceiras do Aricanduva Municipal Natural Park",
+    "Cidade Tiradentes",
+    "Atlantic Forest"
+   ],
+   "questions": [
+    "상파울루의 도시 재생 프로젝트에서 Cabeceiras do Aricanduva 공원이 가지는 생태적, 사회적 의미는 무엇인가요?",
+    "Natureza Urbana가 설계한 이 공원이 지역 주민과 자연 보호 구역 사이의 완충 지대 역할을 수행하는 구체적인 방식은 무엇인가요?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "designboom.com/art/jennifer-latour-imaginary-creatures-flowers-interview": {
+  "title_ko": "시든 꽃과 줄기로 빚어낸 낯선 생명체, 제니퍼 라투르의 식물 조형",
+  "summary_ko": "특수 효과 메이크업 경력을 지닌 사진가 제니퍼 라투르는 꽃과 줄기를 결합해 신체 해부학적 형태를 닮은 미지의 식물 생명체를 조립한다. 자연 채광 속에서 시들어가는 식물의 물성과 계절적 우연성에 의존해 각 작품을 물리적으로 구성하고 기록한다.",
+  "lens": "화려한 식물이 아닌 부패와 시듦의 시한폭탄을 안은 유기물로 생명체의 뼈대를 재조립한다.",
+  "why_now": "인간 중심의 시각을 지우고 비인간 생물 간의 연결을 탐색하는 동시대 예술적 화두와 맞닿아 있다.",
+  "mechanism": "영화 특수분장에서 인공 보조물을 만들던 방식 그대로 식물의 마디와 줄기를 해부학적 구조로 이어 붙인다.",
+  "sensory": "계절에 따라 달라지는 꽃잎의 질감과 바람에 흔들리다 순식간에 시들어가는 생물학적 시간의 무게가 느껴진다.",
+  "transfer": "생물학적 오브제를 캐릭터처럼 다루는 앵글을 차용해 크리처나 소품 디자인의 유기적 형태 레퍼런스로 활용한다.",
+  "context": "밴쿠버를 기반으로 활동하는 작가는 영화 및 텔레비전 특수 효과 메이크업 분야의 경력을 바탕으로 식물 조형 작업을 전개하고 있다.",
+  "findings": [],
+  "keywords": [
+   "보태니컬 아트",
+   "특수분장",
+   "유기물",
+   "식물 조형"
+  ],
+  "evidence": "Jennifer Latour assembles flowers, stems, and other botanical fragments into unfamiliar sculptural forms in her ongoing series Bound Species and Shapeshifters.",
+  "kind": "작가·인터뷰",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "특수분장 경력을 식물 조형으로 확장하는 독창적인 작업 방식이 잘 드러나 있으나 인터뷰 중심의 가벼운 소개 기사다.",
+  "v": 2,
+  "url": "https://www.designboom.com/art/jennifer-latour-imaginary-creatures-flowers-interview/",
+  "original_title": "‘I always run on feeling’: jennifer latour builds imaginary creatures from flowers",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 9000,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-18 11:59",
+  "research": {
+   "entities": [
+    "Jennifer Latour"
+   ],
+   "questions": [
+    "제니퍼 라투르의 'Bound Species' 시리즈는 어떤 계기로 시작되었나요?",
+    "특수 분장 배경이 그의 보태니컬 조형물 작업에 어떤 영향을 미쳤나요?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "architecturaldigest.com/story/best-sectionals-for-small-spaces": {
+  "title_ko": "작은 공간의 물리적 밀도를 재편하는 9가지 모듈형 소파",
+  "summary_ko": "좁은 거실의 제약을 넘어 공간을 효율적으로 점유하는 모듈형 소파 9종을 소개한다. L자형 배치와 가변적 오토만 구조를 활용해 거실의 기능을 낮의 휴식과 밤의 수면으로 유연하게 전환한다. 성능 위주의 패브릭과 견고한 목재 프레임을 결합해 작은 면적에서도 밀도 높은 안락함을 구현한다.",
+  "lens": "가구의 물리적 치수를 공간의 지형에 맞게 재조립하여, 좁은 거실을 단순히 채우는 것이 아니라 동선과 휴식의 밀도를 최적화한다.",
+  "why_now": "주거 면적이 축소되는 도시 환경에서 가구는 고정된 오브제가 아닌, 사용자의 행위에 따라 형태를 바꾸는 유동적 장치로 진화하고 있다.",
+  "mechanism": "모듈의 분리와 결합이 가능한 구조를 통해 거실의 평면을 재구성하며, 저중심 실루엣과 오토만 배치를 통해 시각적 개방감을 확보한다.",
+  "sensory": "고밀도 폼과 깃털 혼합 충전재의 물리적 무게감, 그리고 오염에 강한 고성능 벨벳과 린넨 블렌드의 촉각적 질감이 대비를 이룬다.",
+  "transfer": "공간 연출 시 소파의 높이를 낮게 설정해 시야를 확보하고, 오토만을 이동시켜 촬영 각도에 따라 거실의 원근감을 조절하는 콘티를 구성한다.",
+  "context": "아티클(Article)은 조립 편의성과 내구성을 갖춘 가구로, 투마(Thuma)는 나사 없는 결구 구조로 알려져 있다. 이는 과거 RE:COLLECTION에서 다룬 가구의 하중 분산 및 구조적 조립 방식과 궤를 같이한다.",
+  "findings": [
+   {
+    "text": "아티클의 벨벳 원단은 업계 표준인 2만 회를 상회하는 5만 회의 내마모성 테스트를 거쳐 내구성을 보장한다.",
+    "s": 1,
+    "quote": "We rigorously test our fabrics for abrasion resistance, subjecting them to up to 50,000 rubs. This exceeds the industry standard of 20,000 rubs"
+   },
+   {
+    "text": "투마의 가구는 나사나 도구 없이 맞물리는 전통적 목공 기법을 활용하여 조립 편의성과 구조적 안정성을 동시에 확보한다.",
+    "s": 4,
+    "quote": "나사나 도구 없이 맞물리는 전통적 목공 기법부터 유압식 리프트를 내장한 대형 수납 구조까지 가구의 물리적 하중과 조립 편의성을 다룬다."
+   }
+  ],
+  "keywords": [
+   "모듈형 소파",
+   "공간 효율",
+   "가변적 구조",
+   "내마모성 패브릭"
+  ],
+  "evidence": "choosing a sectional with the right proportions stands to make a smaller room feel larger",
+  "kind": "리스트·라운드업",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "작은 거실을 위한 가구 선택의 구체적인 치수와 관리법을 제시하나, 제품 나열 중심의 정보라 깊이는 보통 수준이다.",
+  "v": 2,
+  "url": "https://www.architecturaldigest.com/story/best-sectionals-for-small-spaces",
+  "original_title": "9 Best Small Sectional Sofas That Are Truly Stylish (2026)",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 9000,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-18 11:59",
+  "research": {
+   "entities": [
+    "Article",
+    "Burrow",
+    "Thuma",
+    "Sabai",
+    "Interior Define"
+   ],
+   "questions": [
+    "작은 거실에서 공간 활용도를 극대화하기 위해 소파의 어떤 치수와 구조를 확인해야 할까?",
+    "패브릭 소파를 선택할 때 반려동물이나 아이가 있는 환경에서 관리하기 좋은 소재와 관리법은 무엇일까?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Abisko 94.5\" Velvet Right Sectional - Plush Pacific Blue",
+     "url": "https://cna.st/affiliate-link/oxmzN5BRSFN9U4QorJNMVs4KquJgXpoXFF9rKwBnofab6FVBU1VNWerhpmMYHnV3WK4q8EgKikQGXtxfmuhB4Xfodn7RxB8gxV5cSKXt8kP2v2iMziKfU97DBDWZQaAAS9MzSWkZBRGDKyC74mbZJSLKTphUmYUdXGRk2TGJYumornuF9A5PjATZWET16prK4YLiJBaSh44xnUDgmcVgVepiHqYdQsyBn21tMExXoyMPvtt1mh7igEHinVupFFabnh5YiJKck9uGDjuRLfA1magTceRqCnKqusTHC9EduqfkPkG2FS25MqHCSZVe6VCr6mxMcnymDP2ia6qYECQTKLCnEhNBT6Su73RVUn1D8LxGSfZQKVwgrg8a3nnXNNKEsKULE62z92cngE1XJE9GvR3z5uwWhy6o4X67orT"
+    },
+    {
+     "n": 2,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "포스트휴먼의 풍경: 기술과 생태가 얽히는 전시 '시머'",
+     "url": "https://hyperallergic.com/shimmer-dreaming-the-posthuman/"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "구조와 휴식을 동시에 담는 15가지 슬리퍼 소파의 실루엣",
+     "url": "https://www.architecturaldigest.com/story/the-very-best-sleeper-sofas-tested-and-reviewed-by-our-editors"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "구조의 힘을 조율하는 침대 프레임 큐레이션",
+     "url": "https://www.architecturaldigest.com/story/best-bed-frames-2025"
+    }
+   ],
+   "used": [
+    1,
+    3,
+    4
+   ],
+   "chars": 2921
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "architecturaldigest.com/story/best-coffee-table": {
+  "title_ko": "거실의 물리적 중심: 공간의 밀도를 제어하는 16가지 커피 테이블",
+  "summary_ko": "거실의 중심을 점유하는 커피 테이블은 공간의 레이아웃을 결정짓는 핵심 오브제다. 리프트 탑, 네스팅, 미드센추리 등 다양한 형태의 테이블을 통해 수납과 다기능성을 확보하고, 재료의 물성을 활용해 거실의 시각적 무게를 조절하는 방식을 제안한다.",
+  "lens": "커피 테이블은 단순한 가구가 아니라 거실이라는 공간의 밀도를 조율하고 사용자의 행위를 규정하는 물리적 장치다.",
+  "why_now": "디지털 피로도가 높은 시대, 거실의 중심에 놓인 견고한 목재나 조형적 형태의 테이블은 일상의 물리적 감각을 회복시키는 닻 역할을 한다.",
+  "mechanism": "리프트 탑 구조는 수평면을 수직으로 확장해 작업대로 전환하며, 네스팅 구조는 필요에 따라 면적을 가변적으로 운용해 공간의 유연성을 확보한다.",
+  "sensory": "오크 베니어의 결, 산화된 금속의 질감, 혹은 겹쳐진 합판의 단면이 만드는 선형적 리듬이 공간에 입체감을 부여한다.",
+  "transfer": "공간 연출 시 테이블 높이를 소파 좌판과 맞추거나, 낮은 프로파일의 플린스(plinth) 테이블을 배치해 공간의 주도권을 시각적으로 낮게 깔아두는 샷을 구성한다.",
+  "context": "이 리스트는 기능적 검증을 거친 가구들을 통해 현대 주거의 실용성과 미학을 연결한다. 이케아(IKEA)의 모더니즘 디자인과 리주버네이션(Rejuvenation)의 목재 가구는 과거 RE:COLLECTION이 다룬 일상의 밀도를 높이는 사물들의 연장선에 있다.",
+  "findings": [
+   {
+    "text": "이케아는 1943년 잉바르 캄프라드가 설립한 스웨덴의 가구 기업으로, 조립식 가구 모델과 합리적인 가격 정책으로 세계 최대 규모의 가구 소매업체가 되었다.",
+    "s": 1,
+    "quote": "IKEA was founded in 1943 by Ingvar Kamprad, and has been the world's largest furniture retailer since 2008."
+   },
+   {
+    "text": "리주버네이션은 윌리엄스-소노마가 2011년 인수한 미국 조명 및 하드웨어 제조사다.",
+    "s": 2,
+    "quote": "Williams-Sonoma, Inc. acquired the company in November 2011."
+   }
+  ],
+  "keywords": [
+   "가구 디자인",
+   "거실 레이아웃",
+   "목재 물성",
+   "공간 밀도"
+  ],
+  "evidence": "With their placement at the center of the living room, the best coffee tables can really unify the space",
+  "kind": "리스트·라운드업",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "실제 사용 경험과 기능적 분류를 제공하나, 제품 추천 중심의 구성으로 건축적 깊이는 제한적이다.",
+  "v": 2,
+  "url": "https://www.architecturaldigest.com/story/best-coffee-table",
+  "original_title": "16 Best Coffee Tables for Every Style and Budget (2026)",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 9000,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-18 11:59",
+  "research": {
+   "entities": [
+    "Castlery",
+    "IKEA",
+    "Rejuvenation",
+    "HAY",
+    "Herman Miller"
+   ],
+   "questions": [
+    "커피 테이블을 선택할 때 거실 공간의 크기와 소파 높이에 맞춰 고려해야 할 핵심 치수 기준은 무엇인가요?",
+    "리프트 탑(Lift-top) 테이블과 네스팅(Nesting) 테이블은 각각 어떤 라이프스타일과 공간 활용 목적에 적합한가요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "IKEA",
+     "url": "https://en.wikipedia.org/wiki/IKEA"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Rejuvenation (company)",
+     "url": "https://en.wikipedia.org/wiki/Rejuvenation%20%28company%29"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "일상의 밀도를 높이는 사물들: 2026년 남성을 위한 큐레이션",
+     "url": "https://www.architecturaldigest.com/story/best-gifts-for-men"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "찰스 슐츠의 피너츠: 50년간 기록된 미국 주거의 연대기",
+     "url": "https://www.architecturaldigest.com/story/the-secret-design-history-of-peanuts"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "에디터들이 검증한 다이닝 체어 14선",
+     "url": "https://www.architecturaldigest.com/story/shop-best-dining-chairs"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "chars": 2372
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "architecturaldigest.com/story/cozy-earth-bath-towel-review": {
+  "title_ko": "반복된 세탁에도 무너지지 않는 대나무 비스코스 타월의 물리적 지속성",
+  "summary_ko": "유타 기반 브랜드 코지 어스(Cozy Earth)의 럭스 배스 타월은 면 60%와 대나무 비스코스 40%를 혼방한 600 GSM의 타월이다. 제로 트위스트(Zero-Twist) 직조 기술을 적용해 실의 루프를 없애고 부드러운 촉감을 구현했다. 1년간의 반복적인 세탁과 건조 과정에서도 초기 흡수력과 질감을 유지하며 내구성을 입증했다.",
+  "lens": "타월의 수명은 물을 머금는 순간이 아니라, 일상의 세탁이라는 반복적 마모를 견디는 물리적 구조에 달려 있다.",
+  "why_now": "디지털 피로도가 높은 환경에서 일상적인 욕실 공간은 가장 원초적인 촉각적 경험을 제공하는 장소로 재조명받는다.",
+  "mechanism": "제로 트위스트 공법으로 실의 꼬임을 제거해 표면을 매끄럽게 만들고, 대나무 비스코스의 흡습성을 활용해 면 타월보다 빠른 건조와 부드러운 감촉을 유지한다.",
+  "sensory": "600 GSM의 묵직한 무게감이 몸을 감싸며, 뻣뻣해지지 않는 유연한 표면이 피부에 닿을 때의 마찰을 최소화한다.",
+  "transfer": "공간 연출 시 텍스타일의 수명이 짧은 소모품이 아닌, 반복적 사용에도 물성이 변하지 않는 지속 가능한 오브제로 활용하여 공간의 질감을 장기적으로 유지한다.",
+  "context": "코지 어스는 대나무 비스코스를 활용한 침구와 라운지웨어로 알려진 브랜드다. 이전 리서치에서 침구의 통기성과 텍스처가 침실의 빛을 조율하는 장치로 다뤄진 바 있으며, 이번 타월 역시 욕실이라는 차가운 마감재 사이에서 유일하게 움직이는 부드러운 면으로서의 역할을 수행한다.",
+  "findings": [
+   {
+    "text": "코지 어스의 럭스 배스 타월은 면 60%와 대나무 비스코스 40%의 혼방으로 제작되었다.",
+    "s": 1,
+    "quote": "60% cotton, 40% viscose from bamboo"
+   },
+   {
+    "text": "오코텍스 스탠다드 100 인증을 받아 유해 화학물질 없이 생산된다.",
+    "s": 1,
+    "quote": "OEKO-TEX® STANDARD 100 - Safely produced without the use of harmful chemicals or synthetics"
+   },
+   {
+    "text": "제로 트위스트 기술은 실의 꼬임을 제거하여 세탁 후에도 부드러움과 흡수력을 유지하도록 돕는다.",
+    "s": 1,
+    "quote": "crafted with a unique blend of cotton and bamboo viscose using innovative Zero-Twist technology"
+   }
+  ],
+  "keywords": [
+   "대나무 비스코스",
+   "제로 트위스트",
+   "지속 가능한 물성",
+   "욕실 텍스타일"
+  ],
+  "evidence": "In my experience, plush towels go stiff and absorbent ones go thin, but these have done neither.",
+  "kind": "제품·오브제",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "실제 장기 사용 경험을 바탕으로 타월의 물리적 마모와 물성 유지력을 구체적으로 분석하여 실무적 적용 가치를 높였다.",
+  "v": 2,
+  "url": "https://www.architecturaldigest.com/story/cozy-earth-bath-towel-review",
+  "original_title": "After a Year of Washes, These Towels Are as Plush and Absorbent as the Day I Got Them",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 3632,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-18 11:59",
+  "research": {
+   "entities": [
+    "Cozy Earth",
+    "Julia Harrison"
+   ],
+   "questions": [
+    "대나무 비스코스(Bamboo Viscose) 소재가 일반적인 면 타월과 비교했을 때 흡수성과 내구성에 어떤 차이를 만드는가?",
+    "타월의 품질을 결정하는 GSM(평량) 수치는 실제 사용감과 세탁 후 유지력에 어떤 영향을 미치는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Luxe Bath Towels",
+     "url": "https://cna.st/p/9Kgbtu5o8DgV1yqhxQHXhyRLBP4HzWMQiyLZpnmqP4HdoaEpmiAYTKPScVW57oqbyb4BB27SdW23o293TfmGCHSw1FwZFdgt6PCfVrXLKgAfW1zfhi5KwHsrttrYm98RnvZoSRZtqehiioGSHrtAVD5SvQsHSD4yLC928NjuLvCRDXtUyS3xx1ffMWVDbBfEiZnQ7T5AfqpZEbCNicLjwM8CxbooHzPh8VDo4fcCxGGbyssNRTAQBhhJiwZwTspH44MdnP5UhANnahun5XYGPGBK8Gsjdfz6g2HXLoSDeGHZVJ8tVzNVxZD2Piq1NajLWcjVVavtWLxipGkjdvqy6eX78iDE62nDJ1AXeiaz1oG6vMP6NeyZMdXnEMEy8vj63BXvvQvhGL2zVFqa11jYoNWDhWotf6i58pD1YbG4L9dRk8WRXPtprVYsBQAEmXTEDcj5r5BV4kqKLhkDiBZkH3MiB4b7jJBzjCtaqkisJuPxh3auwdsxbrCC"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Complete Luxe Bath Bundle",
+     "url": "https://cna.st/affiliate-link/2nDhMAPbGAJ1jK5de1L4tCLaz7eznjfyrh4ZQD6UKdMf9h25pSg8sExEac6ppg6a8deRvXFmBbxifTVYBs8Nu9Ua5UJ15Zn2WQERD6g54CxLZgbkSX9DCH7k456YLhy9mgbHCF7Zvp6nMqWDE9iLDsdmQ4vZo1sySZbLbNBDSwAQBDPhzze3DeMYM75Taz3x3vNLcFknggUeQmHmSJ5ezzHds36efXDBPs2g6vs7HCXxyoJitmF1AXs9tvDg1MtDLiMTVTUEAvqhJSJgwXk6hrn5KzDbozKWmnjrGKiiRWDNftBwz3ZBPX3nntuKYmCpLzazWpWhY7HWzRKZeq37q7NTfhrYjLvjQuhUDYDo7HrXcXVzQtJifNp6Ajp6hYATTRzZWbmGgM4QY9G27aYsM46mbM86HLMxTmGozRwAAUgBNLKe"
+    },
+    {
+     "n": 3,
+     "type": "공식·1차",
+     "title": "Complete Luxe Bath Bundle",
+     "url": "https://cna.st/p/U7qwKepKNRR6UaxGMAbJaguMHjtPN4sm9FtnxjzhUHvii53ZkJVXFJ9xeSGpKyA2eVyoPGtWwcrizmL668sr1xHSmwTdDN2iaF9UJrCSmiVHf897sBKgvtZA7MmTM7Mgq1F3CXpLksRNMBkvJWZnaT19NeKHhoy1R1Naj3m3Md2zJ4y5zCRXv18Fa4BLpe7vK7t3bhhxX1pch15q1rtrb9Gtger8RENjHW23fod116XeoQP4X1HDZYJx1v3xgsUVKiT8RkqXoQbXpUc3ok2q5M5MkUTG7Ntndg4n32HPtNy4v6DcqfRzoghvCxKUEU3NrhuQ5HBjPc5iZGvaJ2qzUB59qKuLCVUwZz7ZDK7ZDvvHsGrKWq2fsLYgx5zoXKiJcCiZPdTguKP3ZBuY7MzLDrw9iJHTNYtFZYWd5TgXurnsVXPB6iR9b9ihWZD2qevtsvdiu2RF8xNW9c9k5bjoMhGLpznKZXGgSTbpMX378tL1jphQWihPQHZr6wTmwj8sfvgt"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "욕실의 시각적 밀도를 조절하는 텍스타일과 소재의 감각",
+     "url": "https://www.architecturaldigest.com/story/best-shower-curtains"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "공간에 텍스처를 더하는 10가지 홈 데코 쿠션 브랜드",
+     "url": "https://www.architecturaldigest.com/story/best-throw-pillows"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "촉감과 물성으로 침실의 층위를 쌓는 9가지 침구 세트",
+     "url": "https://www.architecturaldigest.com/story/softest-bed-sheets"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "chars": 8242
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "wallpaper.com/travel/globe-trotter-new-gt897-suitcase": {
+  "title_ko": "글로브 트로터의 첫 폴리카보네이트 실험, GT897",
+  "summary_ko": "영국 수하물 브랜드 글로브 트로터(Globe-Trotter)가 브랜드 역사상 처음으로 폴리카보네이트 소재를 적용한 여행 가방 ‘GT897’을 공개했다. 기존의 벌커나이즈드 파이버보드 전면 패널과 성형 폴리카보네이트 쉘을 결합한 하이브리드 구조로 제작되었다. 2026년 11월 중순부터 블랙, 네이비, 크림 등 다양한 색상으로 출시된다.",
+  "lens": "전통적인 파이버보드와 현대적인 폴리카보네이트를 결합해, 소재의 물성 차이를 구조적 하이브리드로 풀어낸 영리한 절충안이다.",
+  "why_now": "디지털 시대의 이동성 요구에 맞춰 브랜드의 헤리티지를 경량화된 산업 소재로 재해석하는 시도가 늘고 있다.",
+  "mechanism": "성형 폴리카보네이트 쉘에 벌커나이즈드 파이버보드 전면 패널을 덧대어 강도와 경량성을 확보하고, 지퍼형 개폐 방식을 도입해 사용성을 개선했다.",
+  "sensory": "니켈 하드웨어의 차가운 금속 광택과 가죽 디테일의 질감이 폴리카보네이트의 매끈한 표면과 대비를 이룬다.",
+  "transfer": "서로 다른 시대의 재료를 결합할 때, 한쪽을 프레임화하거나 패널로 덧대어 시각적 무게 중심을 분산시키는 방식을 콘티에 적용할 수 있다.",
+  "context": "글로브 트로터는 1897년부터 벌커나이즈드 파이버보드를 주재료로 사용해왔다. 최근에는 중고 제품을 수선해 재판매하는 ‘리뉴드 컬렉션(Renewed Collection)’을 통해 제품의 시간성을 보존하는 작업을 지속해왔다.",
+  "findings": [],
+  "keywords": [
+   "글로브트로터",
+   "폴리카보네이트",
+   "하이브리드",
+   "산업디자인",
+   "여행가방"
+  ],
+  "evidence": "‘GT897’, its first venture into polycarbonate.",
+  "kind": "제품·오브제",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "브랜드의 핵심 소재를 현대적 신소재와 결합한 구체적인 공학적 시도가 돋보이며, 디자인적 맥락이 명확하다.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/travel/globe-trotter-new-gt897-suitcase",
+  "original_title": "Globe-Trotter’s new suitcase collection is different from anything it’s done before",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 4375,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-18 11:59",
+  "research": {
+   "entities": [
+    "Globe-Trotter",
+    "Vicente Castellano",
+    "GT897"
+   ],
+   "questions": [
+    "글로브트로터가 전통적인 벌커나이즈드 파이버보드 대신 폴리카보네이트 소재를 도입하게 된 구체적인 배경은 무엇인가요?",
+    "새롭게 선보인 'GT897' 컬렉션은 기존 글로브트로터 제품과 비교해 어떤 구조적·디자인적 차이점을 가지고 있나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "시간의 흔적을 보존하는 글로브 트로터의 리뉴드 컬렉션",
+     "url": "https://www.wallpaper.com/travel/globe-trotter-renewed-collection-restoration-edit"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 270
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "architecturaldigest.com/story/best-placemats": {
+  "title_ko": "식탁의 레이어를 바꾸는 11가지 플레이스매트: 질감과 물성의 조율",
+  "summary_ko": "단순한 식사를 특별하게 만드는 플레이스매트는 식기 교체 없이도 테이블의 색감과 패턴을 조율하는 핵심 장치다. 린넨, 천연 섬유, 레진 등 다양한 소재를 활용해 식탁 위 시각적 중심을 잡는 11가지 제품을 선별했다. 각 제품은 고유의 질감과 형태를 통해 일상적인 공간에 새로운 시간의 층위를 더한다.",
+  "lens": "플레이스매트는 식탁 위에서 오브제의 배경이자 경계가 되어, 식기의 물성을 강조하거나 전체 공간의 색조를 재편하는 시각적 필터로 작동한다.",
+  "why_now": "디지털 피로도가 높은 일상에서 손으로 빚은 도자나 자연 섬유의 거친 질감이 주는 아날로그적 촉각이 식탁 위에서 정서적 안정을 제공하기 때문이다.",
+  "mechanism": "비정형의 실루엣이나 과감한 패턴을 활용해 시선을 분산시키거나, 린넨의 자연스러운 구김으로 공간의 긴장감을 낮추는 방식으로 작동한다.",
+  "sensory": "거친 코르크의 단단함, 린넨의 부드러운 구김, 레진의 매끄러운 광택이 교차하며 식탁 위에서 시각적 높낮이와 촉각적 대비를 만든다.",
+  "transfer": "공간 연출 시 플레이스매트의 형태와 재질을 배경의 톤과 대비시켜 피사체의 입체감을 강조하고, 서로 다른 패턴을 겹쳐 배치해 공간의 밀도를 높이는 기법으로 활용한다.",
+  "context": "소피 루 제이콥슨(Sophie Lou Jacobsen)은 유리 공예의 유연한 곡선을 탐구하며, 가에타노 페세(Gaetano Pesce)의 레진 작업은 특유의 유희적 조형성을 식탁 위로 가져온다. 하이디 카일리어(Heidi Caillier)는 고전적 패턴을 현대적 주거에 녹여내며, 맥기 앤 코(McGee & Co.)는 수공예적 요소로 공간의 온도를 조절한다.",
+  "findings": [
+   {
+    "text": "소피 루 제이콥슨은 이탈리아 유리 공예 기법인 파졸레토에서 영감을 얻어 유리를 마치 드레이핑된 직물처럼 표현한다.",
+    "s": 1,
+    "quote": "Her style is influenced by fazzoletto (“handkerchief”) in which the finished glass product almost looks like draped fabric, a technique created in second-century Rome"
+   }
+  ],
+  "keywords": [
+   "테이블스케이프",
+   "공간 스타일링",
+   "텍스처",
+   "오브제",
+   "수공예"
+  ],
+  "evidence": "Think of them as the foundation of a cohesive tablescape, introducing color, texture, or pattern without requiring an overhaul of your china cabinet.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "테이블 세팅이라는 일상적 주제를 소재의 물성과 공간 연출의 관점에서 분석하여 실질적인 디자인 적용 가능성을 제시한다.",
+  "v": 2,
+  "url": "https://www.architecturaldigest.com/story/best-placemats",
+  "original_title": "11 Best Placemats to Bring Style to Your Tablescape (2026)",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 8247,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-18 11:59",
+  "research": {
+   "entities": [
+    "Sophie Lou Jacobsen",
+    "Heidi Caillier",
+    "McGee & Co.",
+    "La Double J",
+    "Society Limonta"
+   ],
+   "questions": [
+    "테이블 세팅(Tablescape)에서 플레이스매트가 인테리어 스타일에 미치는 시각적 효과는 무엇인가?",
+    "다양한 소재(린넨, 천연 섬유, 코르크 등)로 만든 플레이스매트의 관리 및 유지보수 방법은 어떻게 다를까?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Sophie Lou Jacobsen",
+     "url": "https://en.wikipedia.org/wiki/Sophie%20Lou%20Jacobsen"
+    },
+    {
+     "n": 2,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "하이디 카일리어의 샌프란시스코 자택, 빅토리아풍 주택에 더한 강렬한 색채와 패턴",
+     "url": "https://www.architecturaldigest.com/story/heidi-caillier-returns-to-san-francisco-and-makes-a-victorian-her-forever-home"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "식탁 위를 조각하는 서빙 플래터: 소재와 형태의 변주",
+     "url": "https://www.architecturaldigest.com/story/best-serving-platters"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "유령의 집을 우아하게 재해석하는 시크한 할로윈 공간 연출법",
+     "url": "https://www.architecturaldigest.com/gallery/tasteful-halloween-decoration-ideas"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "chars": 1129
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "archdaily.com/1188773/15th-european-prize-of-architecture-philippe-rotthier": {
+  "title_ko": "제15회 필립 로티에 유럽 건축상, 지역성과 지속 가능성의 재정의",
+  "summary_ko": "필립 로티에 재단이 주관하는 제15회 유럽 건축상이 최근 도시와 농촌 환경에서 완공된 건축물을 대상으로 공모를 시작한다. 1980년부터 3년마다 열리는 이 상은 역사적 맥락과 지역적 기술을 존중하며 천연 재료를 혁신적으로 활용한 프로젝트를 선정한다. 총상금은 5만 유로이며 최종 선정작은 2027년 브뤼셀에서 전시될 예정이다.",
+  "lens": "역사적 유산과 지역적 기술을 현대적 자원 활용법으로 번역해, 생태적·사회적 도전에 응답하는 건축적 해법을 찾는다.",
+  "why_now": "디지털 설계의 보편화 속에서 지역의 고유한 물성과 기후 순응적 건축 기법이 지닌 생태적 가치가 다시 주목받고 있다.",
+  "mechanism": "기존 건축의 뼈대와 지역적 자원을 존중하면서도 자원 사용의 혁신성을 평가하여, 물리적 시간과 현대적 기술이 조화를 이루는 구조를 지향한다.",
+  "sensory": "석재, 목재 등 천연 재료가 지닌 거친 질감과 현지의 기후 조건을 반영한 구조물에서 오는 묵직한 물리적 무게감을 강조한다.",
+  "transfer": "공간 설계 시 현지의 토착 재료를 현대적 공법으로 재해석하여, 장소의 기억을 보존하는 동시에 지속 가능한 구조적 디테일을 콘티에 반영한다.",
+  "context": "1980년에 설립된 이 상은 유럽 도시 문화의 보존과 발전을 목표로 한다. 이전 수상작들은 대개 지역적 맥락을 유지하면서도 현대적 기능성을 확보한 사례들이 중심을 이룬다.",
+  "findings": [
+   {
+    "text": "제15회 필립 로티에 유럽 건축상은 2027년에 수상작을 발표하며, 입상작은 브뤼셀에서 전시된다.",
+    "s": 1,
+    "quote": "该奖项奖金为5万欧元，入选项目将于2027年在布鲁塞尔展出。"
+   }
+  ],
+  "keywords": [
+   "지역 건축",
+   "지속 가능성",
+   "천연 재료",
+   "도시 문화"
+  ],
+  "evidence": "acknowledges the architecture rooted in its context, attentive to history and local know-how",
+  "kind": "행사·공모",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "공모전 개요를 충실히 전달하나, 구체적인 수상작 사례나 심층적인 평가 데이터가 부족하여 정보 전달에 집중함.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1188773/15th-european-prize-of-architecture-philippe-rotthier",
+  "original_title": "15th European Prize of Architecture Philippe Rotthier",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 1642,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-18 11:59",
+  "research": {
+   "entities": [
+    "Philippe Rotthier",
+    "European Prize of Architecture Philippe Rotthier"
+   ],
+   "questions": [
+    "필립 로티에 유럽 건축상의 심사 기준과 역대 수상작들의 공통적인 건축적 특징은 무엇인가?",
+    "이 상이 지향하는 '지역적 맥락'과 '지속 가능한 재료'를 활용한 건축의 구체적인 사례는 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "第十五届菲利普·罗蒂埃欧洲建筑奖",
+     "url": "https://www.archdaily.cn/1188776/di-shi-wu-jie-fei-li-pu-star-luo-di-ai-ou-zhou-jian-zhu-jiang?ad_name=article_cn_redirect=popup"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 527
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "dazeddigital.com/life-culture/article/71361/1/young-people-bringing-bringing-socialism-back-america-dsa-midterms": {
+  "title_ko": "미국 민주사회주의자들의 부상, 일상과 정치를 잇는 새로운 시노그래피",
+  "summary_ko": "미국 민주사회주의자들(DSA)이 중간선거에서 의회 의석을 확보하고 뉴욕·LA 등 주요 도시의 시장을 배출하며 정치적 영향력을 확장했다. 이들은 기업 후원을 거부하고 공공 주택, 보편적 보육 등 실질적인 삶의 질 개선을 내세우며, 지역 단위의 대면 조직과 문전 박대 방식을 통해 유권자와 결합한다.",
+  "lens": "정치를 거대한 담론이 아닌 Tuesday night의 대면 활동으로 치환하여, 시민을 관객에서 공간의 주체로 끌어들이는 사회적 시노그래피를 완성했다.",
+  "why_now": "기성 정당이 실질적인 삶의 변화를 담아내지 못하는 상황에서, 민주사회주의자들은 구체적인 정책과 대면 커뮤니티를 통해 정치적 효능감을 회복시키고 있다.",
+  "mechanism": "지역별 워킹 그룹을 통해 유권자의 문을 직접 두드리는 아날로그식 동선 설계와, 기업 후원을 배제하고 소액 기부와 자원봉사로 운영되는 독립적인 조직 구조를 취한다.",
+  "sensory": "디지털 피로를 유발하는 온라인 논쟁 대신, 밤마다 모여 앉아 서로의 얼굴을 확인하고 대화하는 물리적 공간의 온기와 연대감이 핵심적인 물성으로 작동한다.",
+  "transfer": "공간이나 영상 콘티를 짤 때, 화려한 연출보다 '사람들이 모여 무언가를 함께 결정하는' 일상적이고 밀도 높은 장면을 배치하여 진정성을 확보한다.",
+  "context": "1982년 설립된 DSA는 버니 샌더스의 대선 캠페인과 도널드 트럼프의 당선을 기점으로 2015년 6천 명 수준에서 2026년 13만 명 이상의 조직으로 급성장했다. 조란 맘다니 뉴욕시장은 예술가 지원금 확대와 공공기관의 투표소 개방 등 시민의 일상과 직결된 공간적·경제적 정책을 실행하며 이 흐름의 중심에 서 있다.",
+  "findings": [
+   {
+    "text": "DSA는 1982년 민주사회주의조직위원회(DSOC)와 신미국운동(NAM)의 합병으로 탄생했다.",
+    "s": 1,
+    "quote": "DSA was founded in 1982 from a merger of the Democratic Socialist Organizing Committee (DSOC) and the New American Movement (NAM)."
+   },
+   {
+    "text": "조란 맘다니 뉴욕시장은 예술가 지원금을 20년 만에 두 배로 인상하고 자재 지원 프로그램을 운영한다.",
+    "s": 6,
+    "quote": "조란 맘다니 뉴욕시장과 문화국(DCLA)은 개인 예술가를 위한 시 지원금을 20년 만에 기존 5,000달러에서 최대 1만 달러로 두 배 인상한다고 발표했다."
+   },
+   {
+    "text": "2026년 중간선거에서 DSA 지지를 받은 후보 6명이 하원의원에 당선되었다.",
+    "s": 2,
+    "quote": "Six DSA candidates in reliably blue congressional districts have won their races, according to race calls by the Associated Press."
+   }
+  ],
+  "keywords": [
+   "민주사회주의",
+   "사회적시노그래피",
+   "조란맘다니",
+   "정치적동선",
+   "커뮤니티"
+  ],
+  "evidence": "DSA's members spend their weeknights knocking on doors and sitting through long meetings to build the future they want",
+  "kind": "뉴스·이슈",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "미국 정치의 지형 변화를 구체적인 조직 운영 방식과 인물, 정책 사례를 통해 분석하여 실무적 적용점까지 도출했다.",
+  "v": 2,
+  "url": "https://www.dazeddigital.com/life-culture/article/71361/1/young-people-bringing-bringing-socialism-back-america-dsa-midterms?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=young-people-are-bringing-socialism-back-to-america",
+  "original_title": "Young people are bringing socialism back to America",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 9000,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-18 11:59",
+  "research": {
+   "entities": [
+    "Democratic Socialists of America",
+    "Ta-Nehisi Coates",
+    "Alexandria Ocasio-Cortez",
+    "Rashida Tlaib",
+    "Zohran Mamdani"
+   ],
+   "questions": [
+    "미국 정치에서 민주사회주의자들(DSA)의 영향력이 급격히 커지게 된 배경과 주요 요인은 무엇인가?",
+    "미국 민주당과 DSA의 관계는 어떻게 형성되어 있으며, 선거 과정에서 어떤 방식으로 협력하고 있는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Democratic Socialists of America - Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Democratic_Socialists_of_America"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "6 DSA candidates are elected to the House in a historic night for their movement",
+     "url": "https://www.kpbs.org/news/politics/2026/11/03/6-dsa-candidates-are-elected-to-the-house-in-a-historic-night-for-their-movement"
+    },
+    {
+     "n": 3,
+     "type": "공식·1차",
+     "title": "Janeese Lewis George elected DC mayor, city’s first democratic socialist leader: AP",
+     "url": "https://www.fox5dc.com/news/janeese-lewis-george-elected-dc-mayor-citys-first-democratic-socialist-leader-ap"
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "Democratic Socialists of America",
+     "url": "https://en.wikipedia.org/wiki/Democratic%20Socialists%20of%20America"
+    },
+    {
+     "n": 5,
+     "type": "위키백과",
+     "title": "Ta-Nehisi Coates",
+     "url": "https://en.wikipedia.org/wiki/Ta-Nehisi%20Coates"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "뉴욕시, 20년 만에 개인 예술가 지원금 최대 1만 달러로 인상",
+     "url": "https://hyperallergic.com/mamdani-doubles-grants-for-nyc-artists/"
+    },
+    {
+     "n": 7,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "뉴욕시, 예술가 지원금 확대와 함께 1만 평 규모 창고 개방",
+     "url": "https://hyperallergic.com/nyc-to-provide-free-art-supplies-to-grantees/"
+    },
+    {
+     "n": 8,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "메트로폴리탄 미술관과 자연사박물관이 투표소가 된 풍경",
+     "url": "https://hyperallergic.com/mamdani-votes-early-at-the-met-what-other-nyc-museums-are-polling-sites/"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3,
+    4,
+    6,
+    7,
+    8
+   ],
+   "chars": 10872
+  },
+  "depth_raw": 5,
+  "depth_v": 2
  }
 }
