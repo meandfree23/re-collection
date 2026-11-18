@@ -347856,5 +347856,61 @@
   },
   "depth_raw": 5,
   "depth_v": 2
+ },
+ "designboom.com/architecture/former-sheet-metal-workshop-japan-residence-carved-out-garden-terrace-akio-isshiki": {
+  "title_ko": "다쓰노의 판금 공방, 흙과 목재의 켜로 빚은 일상의 틈",
+  "summary_ko": "일본 다쓰노의 성곽 마을에 위치한 판금 장인의 작업장이 건축가 아키오 이시키에 의해 주거 공간으로 재탄생했다. 기존 건물의 뼈대를 보존하면서 내부 공간을 일부 덜어내어 반외부 정원 테라스를 조성하고, 토리니와와 엔가와 같은 전통적 공간 원리를 현대적 동선으로 치환했다.",
+  "lens": "오래된 공방의 구조적 제약을 덜어내어 만든 테라스는, 닫힌 공간을 도시의 빛과 바람이 머무는 사회적 시노그래피로 치환한다.",
+  "why_now": "디지털 피로가 극에 달한 시점에, 산화된 금속과 거친 흙벽 등 장인의 시간이 밴 물성이 주는 물리적 무게감이 주거 공간의 핵심 가치로 부상하고 있다.",
+  "mechanism": "내부 볼륨을 덜어내어 형성한 반외부 테라스는 식당과 정원을 연결하며, 재활용 셔터로 만든 스크린이 내부와 외부의 시각적 문턱을 조절한다.",
+  "sensory": "튀니지 타일의 매끄러운 질감과 흙 미장 벽의 거친 입자가 대비되며, 노출된 통나무 보와 삼나무 껍질 문이 공간의 깊이를 더한다.",
+  "transfer": "공간 연출 시 기존 벽체를 완전히 허물지 말고 일부를 덜어내어 테라스를 만드는 '조각적 비움' 기법을 활용하라. 좁은 진입로에는 90cm 폭의 압축된 통로와 질감이 강한 재료를 배치해 공간의 전이감을 극대화한다.",
+  "context": "아키오 이시키는 효고현 다쓰노의 역사적 맥락을 바탕으로 마치야의 공간 원리를 현대 주거에 이식하는 작업을 지속해 왔다. 이번 프로젝트는 이전 작업에서 보여준 신구 재료의 대비를 넘어, 물리적 시간의 층위를 보존하는 보수적 리노베이션의 정점을 보여준다.",
+  "findings": [],
+  "keywords": [
+   "리노베이션",
+   "다쓰노",
+   "엔가와",
+   "물성",
+   "공간전이"
+  ],
+  "evidence": "the design retains physical remnants of the building’s artisanal past while reorganizing the domestic floor plan around semi-outdoor thresholds",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "전통 건축 원리를 현대 주거에 적용한 구체적인 공간 전략과 재료 사용이 명확하며, 리서치 자료를 통해 맥락이 충분히 보완되었다.",
+  "v": 2,
+  "url": "https://www.designboom.com/architecture/former-sheet-metal-workshop-japan-residence-carved-out-garden-terrace-akio-isshiki/",
+  "original_title": "former sheet-metal workshop in japan becomes residence with carved-out garden terrace",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 6045,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-18 12:53",
+  "research": {
+   "entities": [
+    "Akio Isshiki",
+    "Akio Isshiki Architects",
+    "Tatsuno"
+   ],
+   "questions": [
+    "일본 전통 건축 요소인 '엔가와(Engawa)'와 '토리니와(Tōri-niwa)'가 현대 주거 공간에서 어떻게 재해석되었는가?",
+    "기존 공방의 구조적 제약을 극복하기 위해 건축가가 선택한 재료와 공간 구성 전략은 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "판금 장인의 작업장을 시간의 결이 드러나는 집으로 고쳐 짓다",
+     "url": "https://www.dezeen.com/2026/11/03/workshop-house-tatsuno-akio-isshiki/"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 237
+  },
+  "depth_raw": 4,
+  "depth_v": 2
  }
 }
