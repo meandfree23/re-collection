@@ -341,10 +341,12 @@ PAGE = """<!DOCTYPE html>
       <button type="button" data-filter="AVANT-GARDE FASHION">패션</button>
       <button type="button" data-filter="PICK">편집장 픽</button>
       <button type="button" data-filter="VIDEO">필름</button>
+      <button type="button" data-filter="PINNED" id="rc-pin-tab">📌 고정핀<span id="rc-pin-total"></span></button>
     </div>
     <input id="rc-search" type="search" placeholder="전체 호 검색 (건축가·재료·키워드)" aria-label="전체 호 통합 검색" autocomplete="off">
     <span class="rc-count" id="rc-count">{{COUNT}}</span>
   </div>
+  <div id="rc-pin-bar" class="rc-pin-bar" hidden></div>
 
   <main class="rc-main">
     <div id="results-container" class="rc-grid" data-date="{{DATE}}">{{CARDS}}</div>

@@ -118,6 +118,27 @@ button, select, input { font: inherit; color: inherit; }
 .rc-foot p { margin: 0 0 6px; }
 .rc-foot-logo { margin-top: 18px !important; font-family: var(--serif); letter-spacing: 0.22em; color: var(--ink-2); }
 
+/* 고정핀 & 분류 관리 */
+.rc-card-meta { align-items: center; }
+.rc-pin-wrap { margin-left: auto; display: inline-flex; align-items: center; gap: 5px; }
+.rc-pin-wrap::before { content: none !important; display: none; }
+.rc-pin-btn { border: 1px solid var(--line); background: none; color: var(--mute); border-radius: 14px; padding: 2px 9px; font-size: 11.5px; cursor: pointer; line-height: 1.5; transition: border-color .18s, color .18s, background-color .18s; }
+.rc-pin-btn:hover { border-color: var(--ink); color: var(--ink); }
+.rc-pin-btn.is-pinned { border-color: var(--accent); background: rgba(140, 120, 81, 0.12); color: var(--accent); font-weight: 600; }
+.rc-pin-cat-sel { border: 1px solid var(--accent); border-radius: 12px; background: var(--bg); color: var(--ink-2); font-size: 11px; padding: 2px 6px; cursor: pointer; outline: none; max-width: 110px; }
+#rc-pin-tab span { font-size: 12px; color: var(--accent); margin-left: 3px; }
+
+.rc-pin-bar { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 12px; padding: 12px 16px; margin: -20px 0 32px; border: 1px solid var(--line); border-radius: 10px; background: rgba(250, 249, 246, 0.7); }
+.rc-pin-chips { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; flex: 1; }
+.rc-pin-chip { border: 1px solid var(--line); background: var(--bg); color: var(--ink-2); border-radius: 16px; padding: 4px 12px; font-size: 12.5px; cursor: pointer; transition: all .15s; }
+.rc-pin-chip:hover { border-color: var(--ink); color: var(--ink); }
+.rc-pin-chip.is-on { border-color: var(--ink); background: var(--ink); color: var(--bg); }
+.rc-pin-chip span { opacity: .65; font-size: 11.5px; margin-left: 4px; }
+.rc-pin-actions { display: flex; flex-wrap: wrap; align-items: center; gap: 6px; }
+.rc-pin-act { border: 1px solid var(--line); background: var(--bg); color: var(--ink-2); border-radius: 6px; padding: 4px 10px; font-size: 12px; cursor: pointer; }
+.rc-pin-act:hover { border-color: var(--ink); color: var(--ink); }
+.rc-pin-act.is-danger:hover { border-color: #b43c3c; color: #b43c3c; }
+
 @media (max-width: 1024px) {
   .rc-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 48px 32px; }
 }

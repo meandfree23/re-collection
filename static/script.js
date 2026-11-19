@@ -22,8 +22,147 @@
   var nextBtn = document.getElementById('rc-next');
   var searchEl = document.getElementById('rc-search');
   var filterBtns = Array.prototype.slice.call(document.querySelectorAll('.rc-filters button'));
+  var pinBar = document.getElementById('rc-pin-bar');
+  var pinTotalEl = document.getElementById('rc-pin-total');
 
-  var state = { date: grid ? grid.getAttribute('data-date') : dates[0], items: null, filter: 'ALL', q: '' };
+  var state = { date: grid ? grid.getAttribute('data-date') : dates[0], items: null, filter: 'ALL', q: '', pinCat: 'ALL' };
+
+  /* ── 고정핀 & 분류 관리 (localStorage) ── */
+  var PIN_KEY = 'rc_pins_v1';
+  var CAT_KEY = 'rc_pin_cats_v1';
+  var DEFAULT_CATS = ['미분류', '공간·세트', '연출·구도', '물성·조명', '미디어·아트'];
+
+  function urlKey(u) { return String(u || '').split('#')[0].trim(); }
+  function loadPins() {
+    try { return JSON.parse(localStorage.getItem(PIN_KEY) || '{}') || {}; } catch (e) { return {}; }
+  }
+  function savePins(map) {
+    try { localStorage.setItem(PIN_KEY, JSON.stringify(map)); } catch (e) {}
+  }
+  function loadCats() {
+    try {
+      var arr = JSON.parse(localStorage.getItem(CAT_KEY) || 'null');
+      if (Array.isArray(arr) && arr.length) {
+        if (arr.indexOf('미분류') < 0) arr.unshift('미분류');
+        return arr;
+      }
+    } catch (e) {}
+    return DEFAULT_CATS.slice();
+  }
+  function saveCats(arr) {
+    try { localStorage.setItem(CAT_KEY, JSON.stringify(arr)); } catch (e) {}
+  }
+  function updatePinTabCount() {
+    if (!pinTotalEl) return;
+    var n = Object.keys(loadPins()).length;
+    pinTotalEl.textContent = n ? ' (' + n + ')' : '';
+  }
+  function findItemByUrl(u) {
+    var k = urlKey(u);
+    if (!k) return null;
+    if (Array.isArray(state.items)) {
+      for (var i = 0; i < state.items.length; i++) {
+        if (urlKey(state.items[i].url) === k) return state.items[i];
+      }
+    }
+    if (Array.isArray(window.SEARCH_INDEX)) {
+      for (var j = 0; j < window.SEARCH_INDEX.length; j++) {
+        if (urlKey(window.SEARCH_INDEX[j].url) === k) return window.SEARCH_INDEX[j];
+      }
+    }
+    return loadPins()[k] || null;
+  }
+  function extractItemFromCard(card, u) {
+    var titleEl = card.querySelector('.rc-card-title a');
+    var imgEl = card.querySelector('.rc-card-media img');
+    var sumEl = card.querySelector('.rc-card-summary');
+    var lensEl = card.querySelector('.rc-card-lens');
+    var metas = card.querySelectorAll('.rc-card-meta > span');
+    var dateEl = card.querySelector('.rc-card-date[data-issue]');
+    return {
+      url: u,
+      title: titleEl ? titleEl.textContent.trim() : '',
+      image_url: imgEl ? imgEl.getAttribute('src') : '',
+      genre: card.getAttribute('data-genre') || '',
+      source_name: metas[1] ? metas[1].textContent.trim() : '',
+      issue_date: dateEl ? dateEl.getAttribute('data-issue') : state.date,
+      snippet: sumEl ? sumEl.textContent.trim() : '',
+      deep: lensEl ? { lens: lensEl.textContent.trim(), depth: parseInt(card.getAttribute('data-depth') || '0', 10) } : null,
+      is_pick: card.classList.contains('is-pick')
+    };
+  }
+  function hydratePins() {
+    if (!grid) return;
+    var pins = loadPins();
+    var cats = loadCats();
+    var cards = grid.querySelectorAll('.rc-card');
+    for (var i = 0; i < cards.length; i++) {
+      var card = cards[i];
+      var a = card.querySelector('.rc-card-title a');
+      var meta = card.querySelector('.rc-card-meta');
+      if (!a || !meta) continue;
+      var u = a.getAttribute('href') || '';
+      var k = urlKey(u);
+      var pin = pins[k];
+      var old = meta.querySelector('.rc-pin-wrap');
+      if (old) old.remove();
+      var wrap = document.createElement('span');
+      wrap.className = 'rc-pin-wrap';
+      var btn = document.createElement('button');
+      btn.type = 'button';
+      btn.className = 'rc-pin-btn' + (pin ? ' is-pinned' : '');
+      btn.setAttribute('data-pin-url', u);
+      btn.textContent = pin ? '📌 고정됨' : '📌 고정';
+      btn.title = pin ? '고정핀 해제' : '이 글 고정핀으로 저장';
+      wrap.appendChild(btn);
+      if (pin) {
+        var sel = document.createElement('select');
+        sel.className = 'rc-pin-cat-sel';
+        sel.setAttribute('data-pin-url', u);
+        sel.setAttribute('aria-label', '고정핀 분류');
+        var curCat = pin.cat || '미분류';
+        var allCats = cats.slice();
+        if (allCats.indexOf(curCat) < 0) allCats.push(curCat);
+        allCats.forEach(function (c) {
+          var opt = document.createElement('option');
+          opt.value = c;
+          opt.textContent = c;
+          if (c === curCat) opt.selected = true;
+          sel.appendChild(opt);
+        });
+        wrap.appendChild(sel);
+      }
+      meta.appendChild(wrap);
+    }
+  }
+  function renderPinBar() {
+    if (!pinBar) return;
+    if (state.filter !== 'PINNED') { pinBar.hidden = true; return; }
+    pinBar.hidden = false;
+    var pins = loadPins();
+    var cats = loadCats();
+    var counts = {};
+    var total = 0;
+    Object.keys(pins).forEach(function (k) {
+      total++;
+      var c = pins[k].cat || '미분류';
+      counts[c] = (counts[c] || 0) + 1;
+      if (cats.indexOf(c) < 0) cats.push(c);
+    });
+    if (state.pinCat !== 'ALL' && cats.indexOf(state.pinCat) < 0) state.pinCat = 'ALL';
+    var chipsHtml = '<button type="button" class="rc-pin-chip' + (state.pinCat === 'ALL' ? ' is-on' : '') + '" data-pin-cat="ALL">전체<span>' + total + '</span></button>';
+    cats.forEach(function (c) {
+      chipsHtml += '<button type="button" class="rc-pin-chip' + (state.pinCat === c ? ' is-on' : '') + '" data-pin-cat="' + esc(c) + '">' + esc(c) + '<span>' + (counts[c] || 0) + '</span></button>';
+    });
+    var manageHtml = '<button type="button" class="rc-pin-act" data-pin-act="add-cat">+ 새 분류</button>';
+    if (state.pinCat !== 'ALL' && state.pinCat !== '미분류') {
+      manageHtml += '<button type="button" class="rc-pin-act" data-pin-act="rename-cat">이름 변경</button>';
+      manageHtml += '<button type="button" class="rc-pin-act is-danger" data-pin-act="del-cat">분류 삭제</button>';
+    }
+    manageHtml += '<button type="button" class="rc-pin-act" data-pin-act="export" title="고정핀 JSON 백업">내보내기</button>';
+    manageHtml += '<button type="button" class="rc-pin-act" data-pin-act="import" title="백업 파일 불러오기">불러오기</button>';
+    pinBar.innerHTML = '<div class="rc-pin-chips">' + chipsHtml + '</div><div class="rc-pin-actions">' + manageHtml + '</div>';
+  }
 
   function esc(s) {
     return String(s == null ? '' : s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;').replace(/'/g, '&#39;');
@@ -145,14 +284,18 @@
       '<p class="rc-note-body">' + esc(note.editorial || '') + '</p><ol class="rc-threads">' + threads + '</ol>';
   }
 
-  function matches(it) {
-    if (state.filter === 'PICK' && !isPick(it)) return false;
-    if (state.filter === 'VIDEO' && !hasVideo(it)) return false;
-    if (state.filter !== 'ALL' && state.filter !== 'PICK' && state.filter !== 'VIDEO' && it.genre !== state.filter) return false;
+  function matchesText(it) {
     if (!state.q) return true;
     var dp = it.deep || {};
     var hay = [it.title, it.snippet, it.original_title, it.source_name, dp.lens, dp.why_now, dp.mechanism, dp.sensory, dp.context, dp.transfer, (dp.keywords || []).join(' ')].join(' ').toLowerCase();
     return state.q.split(/\s+/).every(function (w) { return hay.indexOf(w) >= 0; });
+  }
+
+  function matches(it) {
+    if (state.filter === 'PICK' && !isPick(it)) return false;
+    if (state.filter === 'VIDEO' && !hasVideo(it)) return false;
+    if (state.filter !== 'ALL' && state.filter !== 'PICK' && state.filter !== 'VIDEO' && state.filter !== 'PINNED' && it.genre !== state.filter) return false;
+    return matchesText(it);
   }
 
   var searchIndexLoading = false;
@@ -174,6 +317,23 @@
   }
 
   function render() {
+    renderPinBar();
+    if (state.filter === 'PINNED') {
+      var pins = loadPins();
+      var allPinned = Object.keys(pins).map(function (k) { return pins[k]; })
+        .sort(function (a, b) { return (b.pinned_at || 0) - (a.pinned_at || 0); });
+      var pinShown = allPinned.filter(function (it) {
+        if (state.pinCat !== 'ALL' && (it.cat || '미분류') !== state.pinCat) return false;
+        return matchesText(it);
+      });
+      grid.innerHTML = pinShown.map(cardHtml).join('');
+      grid.setAttribute('data-date', state.date);
+      emptyEl.hidden = pinShown.length > 0;
+      countEl.textContent = (state.pinCat === 'ALL' && !state.q) ? '고정핀 ' + allPinned.length + '편' : pinShown.length + ' / ' + allPinned.length + '편';
+      pendingWrap.innerHTML = '';
+      hydratePins();
+      return;
+    }
     if (!state.items) return;
     if (state.q && Array.isArray(window.SEARCH_INDEX) && window.SEARCH_INDEX.length > 0) {
       var globalMatches = window.SEARCH_INDEX.filter(matches)
@@ -195,6 +355,7 @@
       emptyEl.hidden = totalHits > 0;
       countEl.textContent = '전체 호 ' + totalHits + '편';
       pendingWrap.innerHTML = '';
+      hydratePins();
       return;
     }
 
@@ -216,6 +377,7 @@
         emptyEl.hidden = recentVids.length > 0;
         countEl.textContent = '최근 필름 ' + recentVids.length + '편';
         pendingWrap.innerHTML = '';
+        hydratePins();
         return;
       } else {
         loadSearchIndex(function () { render(); });
@@ -226,6 +388,7 @@
     emptyEl.hidden = shown.length > 0;
     countEl.textContent = (state.filter === 'ALL' && !state.q) ? ready.length + '편' : shown.length + ' / ' + ready.length + '편';
     pendingWrap.innerHTML = (state.filter === 'ALL' && !state.q) ? pendingHtml(state.items.filter(function (x) { return !x.deep; })) : '';
+    hydratePins();
   }
 
   function renderHeader() {
@@ -297,8 +460,32 @@
     }, 120);
   });
 
-  // 인라인 필름 재생 및 카드 날짜 클릭 시 해당 호 이동
+  // 인라인 필름 재생, 고정핀 토글, 카드 날짜 클릭 시 해당 호 이동
   grid.addEventListener('click', function (e) {
+    var pinBtn = e.target.closest ? e.target.closest('.rc-pin-btn') : null;
+    if (pinBtn) {
+      e.preventDefault();
+      e.stopPropagation();
+      var u = pinBtn.getAttribute('data-pin-url') || '';
+      var k = urlKey(u);
+      if (!k) return;
+      var pins = loadPins();
+      if (pins[k]) {
+        delete pins[k];
+      } else {
+        var card = pinBtn.closest('.rc-card');
+        var base = findItemByUrl(u) || (card ? extractItemFromCard(card, u) : { url: u, title: u });
+        var snap = JSON.parse(JSON.stringify(base));
+        snap.cat = (state.filter === 'PINNED' && state.pinCat !== 'ALL') ? state.pinCat : '미분류';
+        snap.pinned_at = Date.now();
+        pins[k] = snap;
+      }
+      savePins(pins);
+      updatePinTabCount();
+      if (state.filter === 'PINNED') render();
+      else hydratePins();
+      return;
+    }
     var playBtn = e.target.closest ? e.target.closest('.rc-play-btn') : null;
     if (playBtn) {
       e.preventDefault();
@@ -331,17 +518,118 @@
     }
   });
 
+  grid.addEventListener('change', function (e) {
+    var sel = e.target && e.target.classList && e.target.classList.contains('rc-pin-cat-sel') ? e.target : null;
+    if (!sel) return;
+    var k = urlKey(sel.getAttribute('data-pin-url') || '');
+    var pins = loadPins();
+    if (pins[k]) {
+      pins[k].cat = sel.value || '미분류';
+      savePins(pins);
+      if (state.filter === 'PINNED') render();
+    }
+  });
+
+  if (pinBar) {
+    pinBar.addEventListener('click', function (e) {
+      var chip = e.target.closest ? e.target.closest('.rc-pin-chip') : null;
+      if (chip) {
+        state.pinCat = chip.getAttribute('data-pin-cat') || 'ALL';
+        render();
+        return;
+      }
+      var actBtn = e.target.closest ? e.target.closest('.rc-pin-act') : null;
+      if (!actBtn) return;
+      var act = actBtn.getAttribute('data-pin-act');
+      if (act === 'add-cat') {
+        var name = prompt('새 분류 이름을 입력하세요 (예: 브랜드, 텍스처, 세트):');
+        name = (name || '').trim();
+        if (!name) return;
+        var cats = loadCats();
+        if (cats.indexOf(name) < 0) {
+          cats.push(name);
+          saveCats(cats);
+        }
+        state.pinCat = name;
+        render();
+      } else if (act === 'rename-cat') {
+        var cur = state.pinCat;
+        if (!cur || cur === 'ALL' || cur === '미분류') return;
+        var next = prompt('새 분류 이름을 입력하세요:', cur);
+        next = (next || '').trim();
+        if (!next || next === cur) return;
+        var catsR = loadCats().map(function (c) { return c === cur ? next : c; });
+        saveCats(catsR);
+        var pinsR = loadPins();
+        Object.keys(pinsR).forEach(function (k) { if ((pinsR[k].cat || '미분류') === cur) pinsR[k].cat = next; });
+        savePins(pinsR);
+        state.pinCat = next;
+        render();
+      } else if (act === 'del-cat') {
+        var curD = state.pinCat;
+        if (!curD || curD === 'ALL' || curD === '미분류') return;
+        if (!confirm('"' + curD + '" 분류를 삭제할까요?\n(안에 있던 고정핀은 "미분류"로 이동됩니다.)')) return;
+        var catsD = loadCats().filter(function (c) { return c !== curD; });
+        saveCats(catsD);
+        var pinsD = loadPins();
+        Object.keys(pinsD).forEach(function (k) { if ((pinsD[k].cat || '미분류') === curD) pinsD[k].cat = '미분류'; });
+        savePins(pinsD);
+        state.pinCat = 'ALL';
+        render();
+      } else if (act === 'export') {
+        var data = { version: 1, exported_at: new Date().toISOString(), cats: loadCats(), pins: loadPins() };
+        var blob = new Blob([JSON.stringify(data, null, 2)], { type: 'application/json' });
+        var a = document.createElement('a');
+        a.href = URL.createObjectURL(blob);
+        a.download = 'recollection-pins-' + new Date().toISOString().slice(0, 10) + '.json';
+        a.click();
+        setTimeout(function () { URL.revokeObjectURL(a.href); }, 1000);
+      } else if (act === 'import') {
+        var inp = document.createElement('input');
+        inp.type = 'file';
+        inp.accept = '.json,application/json';
+        inp.onchange = function () {
+          var f = inp.files && inp.files[0];
+          if (!f) return;
+          var r = new FileReader();
+          r.onload = function () {
+            try {
+              var parsed = JSON.parse(r.result);
+              var curPins = loadPins();
+              var inPins = parsed.pins || {};
+              Object.keys(inPins).forEach(function (k) { if (!curPins[k]) curPins[k] = inPins[k]; });
+              savePins(curPins);
+              if (Array.isArray(parsed.cats)) {
+                var mergedCats = loadCats();
+                parsed.cats.forEach(function (c) { if (c && mergedCats.indexOf(c) < 0) mergedCats.push(c); });
+                saveCats(mergedCats);
+              }
+              updatePinTabCount();
+              render();
+            } catch (err) {
+              alert('JSON 파일을 읽을 수 없습니다.');
+            }
+          };
+          r.readAsText(f);
+        };
+        inp.click();
+      }
+    });
+  }
+
   window.addEventListener('hashchange', function () {
     var h = (location.hash || '').replace('#', '');
     if (h && h !== state.date && dates.indexOf(h) >= 0) go(h, { keepHash: true });
   });
 
   // 첫 진입: 주소의 #날짜가 있으면 그 호, 없으면 미리 렌더된 최신 호를 그대로 두고 데이터만 받아 둔다
+  updatePinTabCount();
   var hash = (location.hash || '').replace('#', '');
   if (hash && dates.indexOf(hash) >= 0 && hash !== state.date) {
     go(hash, { initial: true, keepHash: true });
   } else {
     renderHeader();
+    hydratePins();
     loadIssue(state.date, function (items) { state.items = items; });
   }
 })();
