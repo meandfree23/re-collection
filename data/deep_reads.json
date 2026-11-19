@@ -356343,5 +356343,180 @@
   },
   "depth_raw": 4,
   "depth_v": 2
+ },
+ "designboom.com/architecture/floating-concrete-cylinder-water-basin-buddhist-memorial-japan-assistant": {
+  "title_ko": "오다와라 후쿠덴지, 수조 위에 부유하는 콘크리트 원통의 추모 공간",
+  "summary_ko": "일본 오다와라의 후쿠덴지 사찰 내에 건축 스튜디오 어시스턴트(ASSISTANT)가 설계한 영구 관리형 추모 공간이 들어섰다. 지하수를 채운 수조 위에 콘크리트 원통을 띄우고, 판축 기법의 흙벽으로 진입로를 구성하여 현세와 사후 세계의 경계를 건축적으로 구현했다.",
+  "lens": "단단한 콘크리트 원통을 수면 위에 띄워 중력을 거스르는 시각적 부유감을 연출하고, 사후 세계로 향하는 물리적 문턱을 완성했다.",
+  "why_now": "디지털 피로가 극에 달한 시대에 흙과 콘크리트의 시간성을 투영한 원초적 기하학은 사색을 위한 공간의 원형을 다시금 환기한다.",
+  "mechanism": "사각형 대지를 삼각형으로 분할하고 중앙에 원통을 배치하는 오륜(Gorinto) 사상을 평면 구성에 적용했다. 판축 벽체 사이의 좁은 틈을 지나 원통 내부로 진입하면, 천장의 개구부를 통해 하늘이 투영되는 폐쇄적이지만 열린 공간을 마주하게 된다.",
+  "sensory": "거친 판축 벽의 층층이 쌓인 질감과 매끄러운 콘크리트 표면이 대비를 이루며, 수면에 반사되는 빛이 원통 내부의 천장 개구부를 통해 시시각각 변하는 하늘의 색을 담아낸다.",
+  "transfer": "공간 연출 시 수면을 거울처럼 활용해 구조물을 띄우는 기법을 차용하라. 좁고 높은 벽체 사이의 어두운 진입로를 지나 밝은 개구부로 이어지는 대비적 동선은 관람객의 시선 집중을 극대화하는 장치로 유효하다.",
+  "context": "어시스턴트는 마쓰바라 메구미와 아리야마 히로이가 이끄는 스튜디오로, 도시와 건축의 '사이'를 가시화하는 작업을 지속해 왔다. 이번 프로젝트는 불교적 오륜 사상을 원초적 기하학으로 번역하며 이들의 기존 작업 맥락인 공간의 이중 구조와 사유적 접근을 이어간다.",
+  "findings": [
+   {
+    "text": "어시스턴트는 도시와 건축의 틈새를 가시화하여 현실을 확장하는 작업을 수행한다.",
+    "s": 1,
+    "quote": "ASSISTANT (松原慈、有山 宙)は、現実世界の都市や建築に直接的に介入し、むしろ「あいだ」をつくりだす(可視化する)ことで 現実を拡張させる。"
+   }
+  ],
+  "keywords": [
+   "추모공간",
+   "판축",
+   "오륜",
+   "물성",
+   "건축적 사색"
+  ],
+  "evidence": "Suspended over a shallow reflecting basin fed by Odawara’s groundwater, the cast-concrete drum appears to hover between the water plane and the sky.",
+  "kind": "프로젝트",
+  "depth": 5,
+  "grounding": "full",
+  "depth_reason": "불교적 사상을 기하학적 형태와 재료의 물성으로 치환한 설계 논리가 명확하며, 수면과 빛을 활용한 공간 장치가 구체적이다.",
+  "v": 2,
+  "url": "https://www.designboom.com/architecture/floating-concrete-cylinder-water-basin-buddhist-memorial-japan-assistant/",
+  "original_title": "floating concrete cylinder suspends over water basin for buddhist memorial in japan",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 5244,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-19 12:51",
+  "research": {
+   "entities": [
+    "ASSISTANT",
+    "Fukuden-ji",
+    "Megumi Matsubara",
+    "Hiroi Ariyama",
+    "Gorinto"
+   ],
+   "questions": [
+    "불교의 오륜(Gorinto) 사상이 건축적 형태인 사각형, 삼각형, 원형으로 어떻게 구현되었는가?",
+    "콘크리트와 판축(Hanchiku) 기법의 대비가 사후 세계와 현세의 경계를 표현하는 데 어떤 역할을 하는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "ASSISTANT",
+     "url": "https://www.withassistant.net/"
+    },
+    {
+     "n": 2,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "매사추세츠 미술대학교 대학원 조교 제도가 제공하는 실무 현장 경험",
+     "url": "https://hyperallergic.com/massart-graduate-assistantships-provide-hands-on-experience-to-launch-your-career/"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 1850
+  },
+  "depth_raw": 5,
+  "depth_v": 2
+ },
+ "architecturaldigest.com/gallery/where-to-buy-wallpaper": {
+  "title_ko": "무한한 패턴의 미로에서 건져 올린 2026년 벽지 큐레이션",
+  "summary_ko": "건축 매거진 아키텍처럴 다이제스트가 독립 디자이너 협업부터 탈부착 필앤스틱까지 공간의 물성을 바꾸는 대표 벽지 브랜드와 제품들을 선정했다. 기하학적 패턴, 풍경화풍 벽화, 전통적인 토일 패턴 등 다양한 마감 방식이 공간의 성격을 규정하는 도구로 소개된다.",
+  "lens": "단순한 장식을 넘어 공간의 구조적 결핍을 가리는 물리적 스킨으로 벽지를 다룬다.",
+  "why_now": "디지털 화면의 피로 속에서 손끝으로 만지는 질감과 공간의 물성을 회복하려는 인테리어적 요구가 거세지고 있다.",
+  "mechanism": "반복되는 기하학적 패턴이나 대형 벽화를 벽면에 부착해 공간의 시각적 중심을 강제로 이동시키고 깊이감을 만든다.",
+  "sensory": "매끄러운 비닐 마감부터 거친 풀잎 질감의 그래스클로스까지 손끝에 닿는 촉각적 밀도를 공간 전체로 확장한다.",
+  "transfer": "공간 세트 촬영 시 벽면의 질감을 대형 패널형 벽지로 대체해 빛의 난반사를 제어하고 미장센의 무게감을 높인다.",
+  "context": "아키텍처럴 다이제스트는 매년 주거 공간의 디테일을 완성하는 마감재와 가구 트렌드를 정교하게 선별해 기록해 왔다.",
+  "findings": [
+   {
+    "text": "스푼플로어는 독립 디자이너들과의 협업을 통해 맞춤형 패브릭과 벽지를 주문 제작하는 디지털 인쇄 기업이다.",
+    "s": 3,
+    "quote": "Spoonflower is an on-demand, digital printing company that prints custom fabric, wallpaper, and home decor."
+   },
+   {
+    "text": "웨이페어는 미국 보스턴에 본사를 둔 다국적 가구 및 홈퍼니싱 이커머스 기업이다.",
+    "s": 4,
+    "quote": "Wayfair Inc. is an American multinational e-commerce company based in Boston, Massachusetts that sells furniture and home goods online."
+   }
+  ],
+  "keywords": [
+   "벽지큐레이션",
+   "공간마감",
+   "필앤스틱",
+   "인테리어디자인"
+  ],
+  "evidence": "Shopping for wallpaper is an excellent way to discover just how indecisive you can be.",
+  "kind": "리스트·라운드업",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "다양한 벽지 브랜드와 제품군을 체계적으로 분류해 소개했으나 단순 리스트형 가이드의 성격을 넘지 않는다.",
+  "v": 2,
+  "url": "https://www.architecturaldigest.com/gallery/where-to-buy-wallpaper",
+  "original_title": "16 Best Wallpaper Brands to Transform a Room (2026): Editor Picks",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 9000,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-19 12:51",
+  "research": {
+   "entities": [
+    "Spoonflower",
+    "Serena & Lily",
+    "Wayfair",
+    "Tempaper & Co.",
+    "Architectural Digest"
+   ],
+   "questions": [
+    "벽지 선택 시 고려해야 할 '필앤스틱(peel-and-stick)' 방식과 전통적인 벽지 방식의 주요 차이점과 장단점은 무엇인가요?",
+    "공간의 분위기를 바꾸기 위해 벽지 패턴(기하학적 무늬, 토일 등)을 선택할 때 고려해야 할 인테리어 디자인 원칙은 무엇인가요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Spoonflower – Design & Shop Custom Fabric, Wallpaper, Home Décor",
+     "url": "https://cna.st/affiliate-link/45kUUMgYoCRNogEwTZrv6gFwoDqfDv3V8mJdEHKy5mH5XKEFFQnng4BZGnS9caNWuAuGGsfECPjHEimox1mpck19EyxQRt3tksvGqpgbg2Ttsy7LPMdVPLZ5dMAQ2iB9C8CkLAskRzBB9aXPvMg5t6AqTmN3XsSecfCXc797qi1urE239mpTG1mFCToyWSMbDPG3u2gVoJh5rbFmBHKs7Wkzs1KtFoMTwvw5K42zFW9NfTd6uQpeFD2X8KpEs7zcgkrLMVpzxtMkY5DdR959FhkbQtGNreJzsqataGiRohjh9yJ9iahsuYyNjtQRHgWJ8ABMRW6HZUEb8kmTiF6"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Wallpaper | Decorative Wallpaper & Decorative Wall Paper",
+     "url": "https://cna.st/affiliate-link/6UTpXEdi6sJuJjiahBjsUEde7FTbfmJMAeXxoJumqCtPLEyQ6ZZh7VPjRx1rRDt2eVKRtLoLhozH3d9SKqtaHTPtcee9cNKtqrknzPhhaw3TkZ3pcrRmCjtY5sQAoFP19EGLVGTbpb78qcmqgkeMXUrfB6D6KEKkNtwfsk8QUa5QSAARieMHkYsy8nagD7q15fxcvQC1PpKLdvCLShWYEWqXQYuZrGrm4hXkTn6mpKMFDExW53kC8JuMQAtTy6zkobnDBJ4wdECHi1JvV5X3sdu9xQMwq4ntJD15LEu8SmYP1vBWSVP4VkJSY7QMPiuAaTRcsrVDzGCy2MDkQMusUa4pTVAJ6RgkyrB4UHXs7uSk37GkY6nfW"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Spoonflower",
+     "url": "https://en.wikipedia.org/wiki/Spoonflower"
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "Wayfair",
+     "url": "https://en.wikipedia.org/wiki/Wayfair"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "코트를 떠난 챔피언의 공간, 세레나 윌리엄스의 주거 포트폴리오",
+     "url": "https://www.architecturaldigest.com/story/where-does-serena-williams-live"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "무한한 생성이 부른 결정 마비, 브랜드 리더들이 말하는 AI의 뒷모습",
+     "url": "https://www.creativeboom.com/state-of-play/decision-paralysis-lost-conviction-and-no-juniors-what-brand-creative-leaders-say-ai-is-exposing/"
+    },
+    {
+     "n": 7,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "지속 가능한 주거 리노베이션을 위한 세 가지 건축적 전략",
+     "url": "https://www.architecturaldigest.com/story/the-ideas-defining-home-renovations-today-according-to-top-architects"
+    }
+   ],
+   "used": [
+    3,
+    4
+   ],
+   "chars": 4529
+  },
+  "depth_raw": 3,
+  "depth_v": 2
  }
 }
