@@ -3884,5 +3884,78 @@
   "v": 3,
   "model": "gemini-3.1-flash-lite-preview",
   "written_at": "2026-11-19 01:37"
+ },
+ "2026-11-20": {
+  "date": "2026-11-20",
+  "headline": "골프장의 기하학적 선과 구리빛 파사드의 비정형 곡선",
+  "editorial": "공간을 단순히 채우는 것이 아니라, 그 안의 서사를 발견하게 만드는 시노그래피의 힘에 주목한다. 우드워크 암스테르담의 비주얼 밸리는 공간의 물리적 그릇을 조율하고, 린데 프레야 탄겔더는 건축의 뼈대를 가구의 언어로 번역하며 사물의 역할을 확장한다. 한편 필리피냐나에 등장하는 골프장의 기하학적 구도는 그 이면의 계급적 긴장을 극명하게 대비시킨다. 이들은 모두 정해진 관습을 벗어나 지형과 물질의 리듬을 통해 새로운 의미를 길어 올린다.",
+  "threads": [
+   {
+    "name": "공간을 만드는 시노그래피",
+    "note": "물리적 공간에 서사를 입혀 관람객의 경험을 설계하고, 건축적 구조를 일상적 사물로 전이시키는 시도들이다.",
+    "items": [
+     {
+      "title": "공간을 악기로 조율하다, 우드워크 암스테르담의 몰입형 서사 레이블 비주얼 밸리",
+      "url": "https://motionographer.com/news/woodwork-amsterdam-visual-valley-immersive-storytelling-label/"
+     },
+     {
+      "title": "린데 프레야 탄겔더: 건축의 뼈대를 가구의 언어로 번역하는 조각적 사유",
+      "url": "https://www.dezeen.com/2026/11/18/linde-freya-tangelder-20-20/"
+     },
+     {
+      "title": "리스본의 돌과 흙, 거주와 생산의 경계를 지우는 퍼더 데어의 공간 철학",
+      "url": "https://www.ignant.com/2026/10/12/design-beyond-form-at-home-with-tomas-fernandes-and-natasza-grzeskiewicz-of-further-ther/"
+     },
+     {
+      "title": "아이작 줄리앙의 ‘박물관의 꿈’, 산업 유산에서 해체하는 권위의 서사",
+      "url": "https://coolhunting.com/culture/sir-isaac-juliens-museum-dreams-at-gres-art-671/"
+     }
+    ]
+   },
+   {
+    "name": "지형과 맺는 물리적 관계",
+    "note": "자연의 리듬에 순응하거나 지형의 틈을 활용하여 기후와 역사적 맥락에 대응하는 건축적 개입을 다룬다.",
+    "items": [
+     {
+      "title": "지형에 스며드는 건축: BIG의 난민 도시 마스터플랜과 기후 대응 설계",
+      "url": "https://www.archdaily.com/1188874/a-guide-to-urban-resilience-against-el-nino-and-bigs-refugee-city-masterplan-this-weeks-review"
+     },
+     {
+      "title": "강변의 흐름을 잇는 구리빛 파사드, 투르쿠의 음악 센터 푸가",
+      "url": "https://www.wallpaper.com/architecture/turku-music-centre-fuuga-finland"
+     },
+     {
+      "title": "지형의 틈에 묻힌 석조 주거, SR 하우스 파로스",
+      "url": "https://leibal.com/a-day-in/sr-house-paros/"
+     }
+    ]
+   },
+   {
+    "name": "박제된 권위에 맞서는 방법",
+    "note": "기존의 정형화된 시선이나 역사를 해체하고, 새로운 언어로 공간과 기록의 주도권을 되찾아오는 과정이다.",
+    "items": [
+     {
+      "title": "범아프리카 비엔날레, 54개국 건축 지식을 기록하는 탈식민적 디지털 아카이브 구축",
+      "url": "https://www.artforum.com/news/pan-african-biennale-architecture-digital-1234763781/"
+     },
+     {
+      "title": "기념비적 수직성에 맞서는 수평적 비움, 메모리얼 서클의 조경적 개입",
+      "url": "https://www.artforum.com/news/harvard-design-students-propose-alternatives-to-trump-arch-1234763780/"
+     },
+     {
+      "title": "필리피냐나: 골프장의 기하학적 정밀함으로 드러낸 식민적 폭력과 계급의 지형",
+      "url": "https://www.anothermag.com/design-living/17644/filipinana-rafael-manuel-interview-film"
+     },
+     {
+      "title": "퀼트의 뼈대로 엮어낸 흑인 역사의 서사, 클레어 올리버 갤러리의 ‘우리는 여전히 여기에 있다’",
+      "url": "https://www.thisiscolossal.com/2026/11/were-still-here-carolyn-mazloomi-quilts/"
+     }
+    ]
+   }
+  ],
+  "based_on": 24,
+  "v": 3,
+  "model": "gemini-3.1-flash-lite",
+  "written_at": "2026-11-20 01:44"
  }
 }
