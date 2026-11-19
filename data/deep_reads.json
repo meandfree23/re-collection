@@ -362093,5 +362093,1651 @@
   },
   "depth_raw": 3,
   "depth_v": 2
+ },
+ "derivative.ca/educational-package/edu-request-hyemi-kim/75759": {
+  "title_ko": "미디어 아트 교육 현장의 접점, 터치디자이너 라이선스 요청 기록",
+  "summary_ko": "연세대학교 소속 김혜미가 미디어 아트 소프트웨어 터치디자이너(TouchDesigner)의 교육용 프로그램 지원을 요청했다. 해당 요청은 소프트웨어 개발사 데리버티브(Derivative)의 공식 채널을 통해 접수되었으며, 교육 기관 소속 사용자의 기술적 접근성을 높이기 위한 절차의 일환이다.",
+  "lens": "기술 지원 요청이라는 단편적인 기록에서 미디어 아트 교육 현장의 실무적 요구와 접점을 읽어낸다.",
+  "why_now": "디지털 미디어 아트의 저변이 확대되면서 실시간 인터랙티브 콘텐츠 제작을 위한 소프트웨어 접근권 확보가 교육 현장의 주요한 과제로 부상했다.",
+  "mechanism": "노드 기반의 비주얼 프로그래밍 환경을 통해 실시간 멀티미디어 콘텐츠를 생성하며, 교육용 라이선스를 통해 고해상도 출력 및 상업적 제약이 완화된 환경을 지원한다.",
+  "sensory": "데이터 노드가 연결되는 시각적 흐름과 실시간으로 반응하는 인터랙티브 영상의 입자감이 핵심이다.",
+  "transfer": "실시간 영상 합성이나 인터랙티브 설치 작업 시, 노드 기반 구조의 유연함을 활용해 영상의 동적 변주와 반응형 조명 제어를 설계한다.",
+  "context": "터치디자이너는 토론토 기반의 데리버티브가 개발한 노드 기반 프로그래밍 언어로, 미디어 아트와 공연 예술 분야에서 널리 사용된다. 과거 제니퍼 맥코이와 주빈 킴의 사례처럼 교육 기관 소속 사용자들이 공식 채널을 통해 해상도 상향 및 라이선스 지원을 지속적으로 요청하고 있다.",
+  "findings": [
+   {
+    "text": "터치디자이너는 실시간 인터랙티브 멀티미디어 콘텐츠를 위한 노드 기반 시각 프로그래밍 언어이다.",
+    "s": 1,
+    "quote": "TouchDesigner is a node-based visual programming language for real-time interactive multimedia content."
+   }
+  ],
+  "keywords": [
+   "터치디자이너",
+   "미디어아트",
+   "교육지원",
+   "인터랙티브"
+  ],
+  "evidence": "Edu Request - Hyemi Kim",
+  "kind": "뉴스·이슈",
+  "depth": 2,
+  "grounding": "thin",
+  "depth_reason": "교육용 라이선스 신청이라는 단순한 사실 기록을 담고 있어 구체적인 프로젝트나 작업의 기법을 도출하기 어렵다.",
+  "v": 2,
+  "url": "https://derivative.ca/educational-package/edu-request-hyemi-kim/75759",
+  "original_title": "Edu Request - Hyemi Kim",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 93,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-20 05:57",
+  "research": {
+   "entities": [
+    "TouchDesigner",
+    "Derivative",
+    "Hyemi Kim"
+   ],
+   "questions": [
+    "TouchDesigner의 교육용 라이선스 신청 절차와 혜택은 무엇인가요?",
+    "Derivative에서 제공하는 교육 지원 프로그램의 주요 목적은 무엇인가요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "TouchDesigner",
+     "url": "https://en.wikipedia.org/wiki/TouchDesigner"
+    },
+    {
+     "n": 2,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "엘리 캠벨, 클럽의 밤을 프레임 단위로 해체하고 다시 그리다",
+     "url": "https://www.creativeboom.com/work/ellie-campbell-turns-club-nights-into-hand-painted-gloriously-wonky-animations/"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "터치디자이너와 미디어 아트 교육 현장의 해상도 확장",
+     "url": "https://derivative.ca/educational-package/edu-request-jennifer-mccoy/75728"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "터치디자이너 교육 프로그램 신청 내역과 국내 사용자 요청",
+     "url": "https://derivative.ca/educational-package/edu-request-jubin-kim/75731"
+    }
+   ],
+   "used": [
+    1,
+    3,
+    4
+   ],
+   "chars": 992
+  },
+  "depth_raw": 2,
+  "depth_v": 2
+ },
+ "derivative.ca/educational-package/edu-request-jai-hong/75760": {
+  "title_ko": "교육용 라이선스 요청으로 본 미디어 아트 교육 현장의 기술적 접점",
+  "summary_ko": "로드아일랜드 스쿨 오브 디자인(Rhode Island School of Design) 소속 자이 홍(Jai Hong)이 실시간 인터랙티브 멀티미디어 소프트웨어인 터치디자이너(TouchDesigner)의 교육용 라이선스를 요청했다. 이는 대학 교육 현장에서 노드 기반 프로그래밍을 통한 미디어 아트 실습이 활발히 이루어지고 있음을 보여주는 단편적 기록이다.",
+  "lens": "기술 지원 요청이라는 건조한 기록 속에서 미디어 아트 교육 현장이 요구하는 실무적 해상도와 도구의 확장을 읽어낸다.",
+  "why_now": "디지털 미디어 교육 현장에서 실시간 인터랙티브 환경을 구축하기 위한 표준 도구로서 터치디자이너의 점유율이 견고해지고 있다.",
+  "mechanism": "노드 기반의 시각적 프로그래밍 구조를 통해 복잡한 데이터 흐름을 직관적으로 연결하고 실시간으로 시각화 결과를 출력한다.",
+  "sensory": "디지털 데이터가 실시간으로 변환되며 발생하는 매끄러운 움직임과 입자 단위의 정밀한 제어가 특징이다.",
+  "transfer": "교육 현장의 실습 사례를 참고하여, 노드 구조를 활용한 비선형적 영상 시퀀스 설계나 실시간 인터랙션 콘티를 구성할 때 활용한다.",
+  "context": "본 자료는 터치디자이너의 교육용 라이선스 신청 내역을 담고 있다. 과거 제니퍼 맥코이나 주빈 킴의 사례와 마찬가지로, 소프트웨어 개발사 데리버티브(Derivative)가 제공하는 교육 지원 프로그램의 일환이다.",
+  "findings": [
+   {
+    "text": "터치디자이너는 실시간 인터랙티브 멀티미디어 콘텐츠 제작을 위한 노드 기반 시각 프로그래밍 언어다.",
+    "s": 1,
+    "quote": "TouchDesigner is a node-based visual programming language for real-time interactive multimedia content."
+   }
+  ],
+  "keywords": [
+   "터치디자이너",
+   "미디어아트",
+   "노드기반",
+   "인터랙티브",
+   "교육지원"
+  ],
+  "evidence": "Edu Request - Jai Hong",
+  "kind": "뉴스·이슈",
+  "depth": 2,
+  "grounding": "thin",
+  "depth_reason": "교육 신청 내역이라는 단순 정보 외에 구체적인 프로젝트나 기술적 성과가 포함되지 않아 정보 전달 수준에 머무름.",
+  "v": 2,
+  "url": "https://derivative.ca/educational-package/edu-request-jai-hong/75760",
+  "original_title": "Edu Request - Jai Hong",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 92,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-20 05:57",
+  "research": {
+   "entities": [
+    "TouchDesigner",
+    "Derivative"
+   ],
+   "questions": [
+    "TouchDesigner는 어떤 분야에서 주로 사용되는 시각 프로그래밍 언어인가요?",
+    "Derivative에서 제공하는 교육 지원 프로그램(Edu Request)의 주요 목적과 신청 자격은 무엇인가요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "TouchDesigner",
+     "url": "https://en.wikipedia.org/wiki/TouchDesigner"
+    },
+    {
+     "n": 2,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "엘리 캠벨, 클럽의 밤을 프레임 단위로 해체하고 다시 그리다",
+     "url": "https://www.creativeboom.com/work/ellie-campbell-turns-club-nights-into-hand-painted-gloriously-wonky-animations/"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "터치디자이너와 미디어 아트 교육 현장의 해상도 확장",
+     "url": "https://derivative.ca/educational-package/edu-request-jennifer-mccoy/75728"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "터치디자이너 교육 프로그램 신청 내역과 국내 사용자 요청",
+     "url": "https://derivative.ca/educational-package/edu-request-jubin-kim/75731"
+    }
+   ],
+   "used": [
+    1,
+    3,
+    4
+   ],
+   "chars": 992
+  },
+  "depth_raw": 2,
+  "depth_v": 2
+ },
+ "stashmedia.tv/blinkink-signs-director-emma-debany-for-representation-across-uk-and-europe": {
+  "title_ko": "엠마 드바니, 블링크잉크 합류: 실사와 애니메이션을 잇는 기괴한 유머",
+  "summary_ko": "로스앤젤레스 기반의 감독 에마 드바니가 블링크잉크(Blinkink)의 영국 및 유럽 대표 감독 명단에 합류했다. 그는 '더 에릭 안드레 쇼' 제작진 출신으로 실사 촬영에 애니메이션과 특수 효과를 섞어 일상 속 부조리를 유머러스하게 풀어내는 작업을 선보인다. 구글, 마텔 등 상업 광고와 성인 대상 애니메이션 채널인 어덜트 스윔(Adult Swim)의 단편 영화를 오가며 독자적인 영역을 구축했다.",
+  "lens": "일상의 익숙한 물리적 환경에 90년대 카툰의 과장된 애니메이션 기법을 이식해, 불편함과 웃음 사이의 미묘한 긴장을 조형한다.",
+  "why_now": "디지털 합성 기술이 고도화될수록, 오히려 수작업 기반의 질감과 불완전한 캐릭터가 주는 생동감이 광고 현장에서 다시 주목받고 있다.",
+  "mechanism": "실사 영상의 정직한 조명과 배경 위에 애니메이션 레이어를 덧입혀, 현실의 물리 법칙을 비트는 부조리한 시각적 장치를 설계한다.",
+  "sensory": "90년대 애니메이션 특유의 거친 입자감과 실사 촬영의 매끄러운 피부 톤이 충돌하며 발생하는 낯설고도 촉각적인 긴장감을 구현한다.",
+  "transfer": "광고 콘티 작성 시, 정적인 인물 연기 뒤편에 비현실적인 2D 그래픽 오브제를 배치해 인물의 심리적 불안을 시각화하는 연출에 활용할 것.",
+  "context": "블링크잉크는 리암 아치볼드, 라데야 장 등 초현실적 서사를 다루는 감독들을 영입하며 상업 영상의 외연을 확장 중이다. 드바니는 어덜트 스윔의 실험적이고 파격적인 코미디 문법을 상업 광고의 틀 안으로 가져오는 가교 역할을 수행한다.",
+  "findings": [
+   {
+    "text": "더 에릭 안드레 쇼는 어덜트 스윔에서 방영된 풍자적 스케치 코미디 시리즈이다.",
+    "s": 1,
+    "quote": "The Eric Andre Show is an American adult sketch comedy television series created and hosted by comedian Eric André. A parody of late night talk shows, it premiered on Cartoon Network's night-time programming block Adult "
+   },
+   {
+    "text": "어덜트 스윔은 실험적이고 초현실적인 성인 지향 애니메이션과 실사 시리즈를 제작한다.",
+    "s": 2,
+    "quote": "Adult Swim has frequently aired animated sitcoms, adult animation features, parody, satires, mockumentaries, sketch comedy, and pilots, with many of its programs being aesthetically experimental, transgressive, improvise"
+   }
+  ],
+  "keywords": [
+   "블링크잉크",
+   "에마드바니",
+   "어덜트스윔",
+   "실사애니메이션",
+   "부조리코미디"
+  ],
+  "evidence": "mixing live action with practical and graphic techniques. She’s got a sharp comedic taste and a hands-on approach",
+  "kind": "뉴스·이슈",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "감독의 영입 소식과 작업 스타일을 명확히 전달하나, 새로운 프로젝트의 기법적 혁신보다는 인물 중심의 활동 소개에 치중함.",
+  "v": 2,
+  "url": "https://www.stashmedia.tv/blinkink-signs-director-emma-debany-for-representation-across-uk-and-europe/",
+  "original_title": "Blinkink Signs Director Emma Debany for representation Across UK and Europe",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 3166,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-20 05:57",
+  "research": {
+   "entities": [
+    "Blinkink",
+    "Emma Debany",
+    "The Eric Andre Show",
+    "Adult Swim",
+    "Yo Gabba Gabbaland!"
+   ],
+   "questions": [
+    "엠마 드바니(Emma Debany)가 추구하는 '실사 영상과 애니메이션의 결합' 방식은 어떤 미학적 특징을 가지고 있는가?",
+    "블링크잉크(Blinkink)가 엠마 드바니를 영입함으로써 유럽 광고 시장에서 기대하는 시너지 효과는 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "The Eric Andre Show",
+     "url": "https://en.wikipedia.org/wiki/The%20Eric%20Andre%20Show"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Adult Swim",
+     "url": "https://en.wikipedia.org/wiki/Adult%20Swim"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "클레이메이션 매버릭과 만나는 노팅엄의 애니메이션 밤",
+     "url": "https://www.stashmedia.tv/animorsels-returns-to-nottingham-oct-27-with-lee-hardcastle/"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "애니메이터 리암 아치볼드, 블링킹크 글로벌 감독 명단 합류",
+     "url": "https://www.stashmedia.tv/director-liam-archibald-signs-to-blinkink-roster-for-worldwide-commercial-representation/"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "블링크, 애니메이션 감독 라데야 장 영입으로 상업 영상의 외연 확장",
+     "url": "https://www.stashmedia.tv/blinkink-signs-australian-director-radheya-jang-for-worldwide-representation/"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    4,
+    5
+   ],
+   "chars": 3366
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "derivative.ca/educational-package/edu-request-junho-jeon/75761": {
+  "title_ko": "터치디자이너 교육 지원 요청: 미디어 아트 실무 현장의 기술적 접점",
+  "summary_ko": "중앙대학교 소속 전준호가 미디어 아트 소프트웨어 터치디자이너(TouchDesigner)의 교육용 프로그램 지원을 요청했다. 해당 요청은 개발사인 데리버티브(Derivative)가 제공하는 교육 기관 대상 라이선스 및 기술 지원 체계의 일환이다.",
+  "lens": "기술적 요청의 단편적인 기록에서 미디어 아트 교육 현장의 실무적 확장과 그 접점을 읽어낸다.",
+  "why_now": "디지털 미디어 아트의 복잡도가 높아짐에 따라, 실시간 인터랙티브 환경을 구축하기 위한 표준 툴인 터치디자이너의 접근성 확보가 교육 현장의 필수 과제가 되었다.",
+  "mechanism": "노드 기반의 시각적 프로그래밍 언어를 통해 실시간 멀티미디어 콘텐츠를 제어하며, 교육용 라이선스를 통해 고해상도 출력 및 상업적 제약 없는 창작 환경을 제공한다.",
+  "sensory": "데이터의 흐름이 노드 간의 선으로 시각화되는 디지털 인터페이스의 정밀함과, 실시간 렌더링을 통해 즉각적으로 반응하는 빛과 입자의 물리적 스케일을 다룬다.",
+  "transfer": "실시간 인터랙티브 미디어 파사드나 모션 그래픽 프로젝트 시, 노드 구조를 최적화하여 영상 데이터의 지연 시간을 최소화하고 해상도를 확보하는 워크플로우를 구축한다.",
+  "context": "데리버티브는 예술가와 개발자가 실시간 인터랙티브 작업을 수행할 수 있도록 노드 기반 프로그래밍 환경을 제공한다. 앞서 제니퍼 맥코이와 주빈 킴 등 국내외 교육 현장에서 터치디자이너의 해상도 확장 및 프로그램 지원 요청 사례가 확인된 바 있다.",
+  "findings": [
+   {
+    "text": "터치디자이너는 실시간 인터랙티브 멀티미디어 콘텐츠를 위한 노드 기반 시각적 프로그래밍 언어다.",
+    "s": 1,
+    "quote": "TouchDesigner is a node-based visual programming language for real-time interactive multimedia content."
+   },
+   {
+    "text": "토론토에 본사를 둔 데리버티브가 개발했으며 예술가와 프로그래머가 설치 및 공연 작업에 활용한다.",
+    "s": 1,
+    "quote": "Developed by the Toronto-based company Derivative, it's often used by artists, programmers, creative coders, software designers, and performers to create performances, installations, and fixed media works."
+   }
+  ],
+  "keywords": [
+   "터치디자이너",
+   "미디어아트",
+   "노드프로그래밍",
+   "실시간렌더링"
+  ],
+  "evidence": "Edu Request - junho jeon",
+  "kind": "뉴스·이슈",
+  "depth": 2,
+  "grounding": "partial",
+  "depth_reason": "교육 신청 정보만 포함된 단편적인 원문으로, 구체적인 프로젝트나 기술적 기법에 대한 정보가 부족하다.",
+  "v": 2,
+  "url": "https://derivative.ca/educational-package/edu-request-junho-jeon/75761",
+  "original_title": "Edu Request - junho jeon",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 94,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-20 05:57",
+  "research": {
+   "entities": [
+    "TouchDesigner",
+    "Derivative"
+   ],
+   "questions": [
+    "TouchDesigner의 교육용 라이선스 신청 절차와 자격 요건은 무엇인가요?",
+    "Derivative에서 제공하는 교육 지원 프로그램의 주요 혜택은 무엇인가요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "TouchDesigner",
+     "url": "https://en.wikipedia.org/wiki/TouchDesigner"
+    },
+    {
+     "n": 2,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "엘리 캠벨, 클럽의 밤을 프레임 단위로 해체하고 다시 그리다",
+     "url": "https://www.creativeboom.com/work/ellie-campbell-turns-club-nights-into-hand-painted-gloriously-wonky-animations/"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "터치디자이너와 미디어 아트 교육 현장의 해상도 확장",
+     "url": "https://derivative.ca/educational-package/edu-request-jennifer-mccoy/75728"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "터치디자이너 교육 프로그램 신청 내역과 국내 사용자 요청",
+     "url": "https://derivative.ca/educational-package/edu-request-jubin-kim/75731"
+    }
+   ],
+   "used": [
+    1,
+    3,
+    4
+   ],
+   "chars": 992
+  },
+  "depth_raw": 2,
+  "depth_v": 2
+ },
+ "derivative.ca/educational-package/edu-request-%EB%8F%84%EC%9D%80-%EA%B9%80/75758": {
+  "title_ko": "서울대학교 조소과 도은 김, 터치디자이너 교육 지원 요청",
+  "summary_ko": "서울대학교 조소과 석사 과정에 재학 중인 도은 김이 미디어 아트 프로젝트 제작을 위해 터치디자이너의 교육용 라이선스를 요청했다. 해당 소프트웨어는 노드 기반의 시각적 프로그래밍 언어로 실시간 인터랙티브 미디어 콘텐츠 제작에 널리 사용된다.",
+  "lens": "기술적 도구에 대한 접근권 확보는 창작자가 자신의 조형적 언어를 디지털 환경으로 확장하기 위한 첫 번째 물리적 관문이다.",
+  "why_now": "조소와 같은 전통적 조형 예술 영역에서 실시간 인터랙티브 미디어로 작업의 범위를 넓히는 시도가 활발해지고 있다.",
+  "mechanism": "노드 기반 프로그래밍을 통해 데이터와 시각적 요소를 연결하며, 실시간 렌더링으로 즉각적인 피드백을 구현한다.",
+  "sensory": "디지털 환경에서 생성된 비정형 데이터가 화면의 빛과 입자로 변환되며 발생하는 기계적 정교함이 특징이다.",
+  "transfer": "실시간 인터랙티브 미디어를 활용해 조형물의 표면이나 공간의 부피감을 디지털 조명 데이터로 재해석하는 작업에 적용할 수 있다.",
+  "context": "토론토 기반의 데리버티브(Derivative)가 개발한 터치디자이너는 미디어 아티스트와 크리에이티브 코더들이 설치 미술과 퍼포먼스에 활용하는 핵심 도구다. 본 사례는 이전의 교육용 라이선스 지원 요청 사례들과 맥락을 같이하며, 학술적 연구가 실무적 창작으로 이어지는 접점을 보여준다.",
+  "findings": [
+   {
+    "text": "터치디자이너는 노드 기반의 시각적 프로그래밍 언어로 실시간 인터랙티브 멀티미디어 콘텐츠를 제작하는 데 사용된다.",
+    "s": 1,
+    "quote": "TouchDesigner is a node-based visual programming language for real-time interactive multimedia content."
+   }
+  ],
+  "keywords": [
+   "미디어아트",
+   "터치디자이너",
+   "조소",
+   "인터랙티브",
+   "디지털조형"
+  ],
+  "evidence": "My name is Do Eun Kim, and I am currently a master’s student in the Department of Sculpture at Seoul National University.",
+  "kind": "뉴스·이슈",
+  "depth": 2,
+  "grounding": "partial",
+  "depth_reason": "교육용 라이선스 신청이라는 단편적인 정보에 기반하고 있어 구체적인 프로젝트의 예술적 성취를 평가하기 어렵다.",
+  "v": 2,
+  "url": "https://derivative.ca/educational-package/edu-request-%EB%8F%84%EC%9D%80-%EA%B9%80/75758",
+  "original_title": "Edu Request - 도은 김",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 88,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-20 05:57",
+  "research": {
+   "entities": [
+    "TouchDesigner",
+    "Derivative"
+   ],
+   "questions": [
+    "TouchDesigner에서 제공하는 교육 지원 프로그램(Edu Request)의 구체적인 혜택과 신청 자격은 무엇인가요?",
+    "도은 김 작가가 TouchDesigner를 활용하여 진행하는 주요 프로젝트나 예술적 작업의 특징은 무엇인가요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "TouchDesigner",
+     "url": "https://en.wikipedia.org/wiki/TouchDesigner"
+    },
+    {
+     "n": 2,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "엘리 캠벨, 클럽의 밤을 프레임 단위로 해체하고 다시 그리다",
+     "url": "https://www.creativeboom.com/work/ellie-campbell-turns-club-nights-into-hand-painted-gloriously-wonky-animations/"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "터치디자이너와 미디어 아트 교육 현장의 해상도 확장",
+     "url": "https://derivative.ca/educational-package/edu-request-jennifer-mccoy/75728"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "터치디자이너 교육 프로그램 신청 내역과 국내 사용자 요청",
+     "url": "https://derivative.ca/educational-package/edu-request-jubin-kim/75731"
+    }
+   ],
+   "used": [
+    1,
+    3,
+    4
+   ],
+   "chars": 992
+  },
+  "depth_raw": 2,
+  "depth_v": 2
+ },
+ "thisiscolossal.com/2026/11/jean-michel-basquiat-authorized-documentary-netflix": {
+  "title_ko": "장 미셸 바스키아의 유족이 직접 여는 신화 너머의 기록",
+  "summary_ko": "넷플릭스 다큐멘터리 '장 미셸 바스키아'는 작가의 여동생 리산 바스키아와 자닌 에리보가 제작에 참여한 첫 공식 기록물이다. 미공개 작업과 아카이브 자료를 바탕으로 27세에 요절한 천재 예술가의 신화적 이미지 뒤에 가려진 인간적 면모를 조명한다. 12월 11일 전 세계 공개를 앞두고 있다.",
+  "lens": "신화화된 예술가의 생애를 유족의 시선으로 재구성하여, 대중이 소비해온 바스키아의 이미지를 실제 인간의 서사로 해체한다.",
+  "why_now": "바스키아의 작업은 현대 미술 시장에서 하나의 거대한 브랜드로 고착되었으나, 이번 다큐멘터리는 그 이면의 개인적 서사를 복원하여 예술가에 대한 입체적 접근을 시도한다.",
+  "mechanism": "유족이 관리하는 미공개 아카이브와 직접적인 증언을 결합하여, 외부 관찰자의 시선이 아닌 내부자의 기억으로 서사의 중심을 이동시킨다.",
+  "sensory": "27세의 짧은 생애를 관통하는 날카로운 에너지와 1980년대 뉴욕의 거친 질감이 아카이브 필름의 입자를 통해 전달된다.",
+  "transfer": "인물 다큐멘터리 연출 시, 외부 평론이나 사후 해석 대신 유족의 개인적 아카이브를 활용해 인물의 생애를 재구성하는 서사 구조를 참고할 것.",
+  "context": "바스키아는 1970년대 말 알 디아즈와 함께 사모(SAMO©) 프로젝트를 통해 도시를 개념적 캔버스로 활용하며 등장했다. 이후 네오익스프레셔니즘의 핵심 인물로 자리 잡았으며, 최근에는 샤리프 베이와 같은 작가들이 그의 정체성 탐구와 사회적 권력 구조에 대한 비판적 시각을 계승하고 있다.",
+  "findings": [
+   {
+    "text": "바스키아는 1980년대 초반 이미 국제적인 갤러리와 박물관에서 자신의 회화 작품을 전시했다.",
+    "s": 1,
+    "quote": "By the early 1980s, his paintings were being exhibited in galleries and museums internationally."
+   },
+   {
+    "text": "바스키아는 21세에 카셀 도큐멘타에 참여하며 당시 최연소 예술가로 기록되었다.",
+    "s": 1,
+    "quote": "At 21, Basquiat became the youngest artist to ever take part in Documenta in Kassel, Germany."
+   }
+  ],
+  "keywords": [
+   "장 미셸 바스키아",
+   "넷플릭스",
+   "아카이브",
+   "예술가 다큐멘터리"
+  ],
+  "evidence": "he was unapologetically Jean-Michel Basquiat",
+  "kind": "영상·필름",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "유족의 공식 참여라는 차별점은 명확하나, 다큐멘터리 공개 전 단계의 보도자료 중심 정보라 깊이 있는 분석에 한계가 있다.",
+  "v": 2,
+  "url": "https://www.thisiscolossal.com/2026/11/jean-michel-basquiat-authorized-documentary-netflix/",
+  "original_title": "A New Jean-Michel Basquiat Documentary Considers the Artist Behind the Work",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 1515,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-20 05:57",
+  "research": {
+   "entities": [
+    "Jean-Michel Basquiat",
+    "Quinn Whitney Wilson",
+    "Viridiana Lieberman",
+    "Netflix"
+   ],
+   "questions": [
+    "유족들이 직접 제작에 참여함으로써 기존 바스키아 다큐멘터리와 차별화되는 핵심 관점은 무엇인가?",
+    "바스키아의 사후 신화화된 이미지와 실제 인간으로서의 모습 사이에는 어떤 간극이 존재하는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Jean-Michel Basquiat",
+     "url": "https://en.wikipedia.org/wiki/Jean-Michel%20Basquiat"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Netflix",
+     "url": "https://en.wikipedia.org/wiki/Netflix"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "인플루언서 알릭스 얼의 거주 공간과 부동산 포트폴리오",
+     "url": "https://www.architecturaldigest.com/story/where-does-alix-earle-live-real-estate-portfolio-09-10-2026"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "샤리프 베이, 도자기와 금속으로 빚은 역사적 정체성의 귀환",
+     "url": "https://www.thisiscolossal.com/2026/10/sharif-bey-homecoming-ceramic-sculptures/"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "사모(SAMO©)의 공동 창작자 알 디아즈, 거리의 언어로 다시 쓴 개념적 그래피티",
+     "url": "https://www.itsnicethat.com/articles/al-diaz-samo-art-project-121026"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 3392
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "thisiscolossal.com/2026/11/yoshitomo-nara-new-york": {
+  "title_ko": "요시토모 나라, 캔버스의 고립을 깨고 점토의 무게로 조각한 유년의 설원",
+  "summary_ko": "요시토모 나라(Yoshitomo Nara)가 10년 만에 뉴욕 데이비드 즈워너(David Zwirner)에서 대규모 개인전을 개최한다. 이번 전시는 작가의 초기 회화와 2011년 도호쿠 대지진 이후 시작한 점토 조각 등 100여 점을 통해, 일본 아오모리의 설원과 고립된 유년이 빚어낸 인물들의 내면을 입체적으로 조명한다.",
+  "lens": "고립된 개인의 내면을 거대한 머리와 텅 빈 눈동자로 박제하여, 관람객의 유년기 상실감과 조우하게 만드는 감정의 물리적 거점이다.",
+  "why_now": "디지털 피로가 극에 달한 시대에, 흙이라는 원초적 물성을 빌려 고통과 상실을 묵직하게 응고시킨 조각 작업이 동시대적 위로의 형식을 제시한다.",
+  "mechanism": "흰색 우레탄 도료를 입힌 단색조의 브론즈 조각은 거친 손자국을 그대로 남겨, 작가의 유년 시절인 아오모리의 눈 덮인 풍경과 촉각적 기억을 공간에 구현한다.",
+  "sensory": "파스텔 톤의 회화가 주는 부드러운 평면감과, 거대한 엄지손가락으로 짓이긴 듯한 점토 조각의 비정형적 질감이 전시장 내에서 팽팽한 긴장감을 형성한다.",
+  "transfer": "공간 연출 시, 인물의 표정이 가진 서늘함과 대비되는 따뜻한 파스텔 색조를 배경으로 활용하여, 피사체의 고립된 감정을 강조하는 조명 설계를 시도한다.",
+  "context": "요시토모 나라는 1959년 일본 아오모리현 출신으로, 고립된 유년의 기억을 바탕으로 한 인물화를 꾸준히 선보여 왔다. 2011년 도호쿠 대지진 이후 점토를 작업의 핵심 매체로 도입하며 회화의 평면성을 넘어선 물리적 실재를 탐구하고 있다. 데이비드 즈워너는 쿠사마 야요이 등 현대 미술의 거장들과 협업하며, 전시 공간을 리듬과 공학적 설계가 결합된 하나의 서사로 구축하는 것으로 알려져 있다.",
+  "findings": [
+   {
+    "text": "요시토모 나라는 1959년 12월 5일 일본 아오모리현 히로사키에서 태어났다.",
+    "s": 4,
+    "quote": "Yoshitomo Nara (奈良 美智, Nara Yoshitomo; born 5 December 1959 in Hirosaki, Aomori Prefecture, Japan) is a Japanese artist."
+   }
+  ],
+  "keywords": [
+   "요시토모나라",
+   "데이비드즈워너",
+   "물성",
+   "조각",
+   "아오모리"
+  ],
+  "evidence": "Nara’s monochromatic bronzes, coated in white urethane paint, capture these forays into three-dimensions and evoke the icy, snow-blanketed landscapes of his youth.",
+  "kind": "전시",
+  "depth": 5,
+  "grounding": "full",
+  "depth_reason": "작가의 유년 환경과 재료의 선택(점토) 사이의 인과관계를 명확히 짚어내며, 이를 전시 공간의 연출 기법으로 연결하여 실무적 통찰을 제공한다.",
+  "v": 2,
+  "url": "https://www.thisiscolossal.com/2026/11/yoshitomo-nara-new-york/",
+  "original_title": "Yoshitomo Nara’s Beloved Wide-Eyed Figures Return to New York",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 5098,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-20 05:57",
+  "research": {
+   "entities": [
+    "Yoshitomo Nara",
+    "David Zwirner",
+    "Walker Art Center"
+   ],
+   "questions": [
+    "요시토모 나라의 작품 세계에서 2011년 도호쿠 대지진 이후 점토를 활용한 조각 작업이 갖는 예술적 의미는 무엇인가?",
+    "요시토모 나라의 인물화에 나타나는 반항적이면서도 순수한 표정이 작가의 유년 시절 환경과 어떤 연관성을 갖는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "YOSHITOMO NARA The Works",
+     "url": "https://www.yoshitomonara.org/en/"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Walker Art Center | Contemporary Art Museum | Minneapolis",
+     "url": "https://www.walkerart.org/"
+    },
+    {
+     "n": 3,
+     "type": "공식·1차",
+     "title": "David Zwirner: New York, Los Angeles, London, Paris and Hong Kong Galleries",
+     "url": "https://www.davidzwirner.com/"
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "Yoshitomo Nara",
+     "url": "https://en.wikipedia.org/wiki/Yoshitomo%20Nara"
+    },
+    {
+     "n": 5,
+     "type": "위키백과",
+     "title": "David Zwirner",
+     "url": "https://en.wikipedia.org/wiki/David%20Zwirner"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "무한의 거울을 깬 예술가, 쿠사마 야요이의 궤적을 돌아보다",
+     "url": "https://www.architecturaldigest.com/story/yayoi-kusama-was-an-iconoclast-whose-work-paved-a-new-path"
+    },
+    {
+     "n": 7,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "뉴욕의 여름, 갤러리라는 이름의 서늘한 은신처에서 마주할 6개의 전시",
+     "url": "https://elephant.art/the-six-best-nyc-art-shows-to-escape-to-this-june/"
+    },
+    {
+     "n": 8,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "에보니 L. 헤인즈: 전시라는 게임을 설계하는 큐레이터의 태도",
+     "url": "https://elephant.art/love-for-the-game-with-ebony-l-haynes/"
+    }
+   ],
+   "used": [
+    1,
+    3,
+    4,
+    8
+   ],
+   "chars": 6884
+  },
+  "depth_raw": 5,
+  "depth_v": 2
+ },
+ "hyperallergic.com/laia-abril-photographs-the-instruments-of-rape-culture": {
+  "title_ko": "라이아 아브릴, 강간 문화의 구조를 증언하는 사물들",
+  "summary_ko": "사진가 라이아 아브릴(Laia Abril)은 국제사진센터(ICP) 전시에서 성폭력과 제도적 실패를 다룬다. 그는 인물 대신 사건과 연관된 사물을 흑백으로 촬영하여, 성폭력을 방조하는 사회적 시스템을 시각화한다. 이는 스펙터클을 배제하고 강간 문화의 영속성을 정면으로 응시하는 작업이다.",
+  "lens": "고통의 현장을 직접 재현하는 대신, 그를 둘러싼 사물의 물성을 통해 제도적 폭력의 실체를 폭로한다.",
+  "why_now": "디지털 공간에서 피해자의 이미지가 소비되는 방식을 넘어, 폭력을 가능케 하는 구조적 토대에 대한 날카로운 질문이 필요하다.",
+  "mechanism": "인물을 배제하고 사물에 집중하는 프레이밍과 흑백 톤의 절제된 색채를 사용하여, 관람객이 감정적 스펙터클에 매몰되지 않고 구조적 모순을 사유하게 한다.",
+  "sensory": "흑백 사진의 높은 대비와 사물의 질감이 주는 차갑고 건조한 물성이 피해자의 부재를 역설적으로 강조하며 서늘한 긴장감을 조성한다.",
+  "transfer": "인물 없는 공간이나 사물의 클로즈업만으로 사건의 맥락을 암시하는 연출을 시도하라. 특정 사건을 직접 묘사하기보다 그 사건을 둘러싼 주변적 사물들을 나열하여 구조적 비극을 드러내는 미장센을 구성한다.",
+  "context": "라이아 아브릴은 '여성 혐오의 역사(A History of Misogyny)'라는 장기 프로젝트를 통해 낙태, 여성 살해, 섭식 장애 등 여성의 신체와 권리를 억압하는 구조를 탐구해왔다. 이번 전시는 2022년 발표된 '강간에 관하여(On Rape)'의 연장선으로, 이전 작업인 '낙태에 관하여(On Abortion)'와 마찬가지로 법적·제도적 실패를 시각적 언어로 번역한다.",
+  "findings": [
+   {
+    "text": "라이아 아브릴은 여성의 권리와 생체 정치, 슬픔 등을 주제로 다루는 카탈루냐 출신 예술가이다.",
+    "s": 1,
+    "quote": "Laia Abril (born 1986) is a Catalan artist whose work relates to bio-politics, grief and women's rights."
+   },
+   {
+    "text": "그의 프로젝트 '여성 혐오의 역사'는 여성 살해, 낙태, 자궁내막증 등을 다루며 강간 문화의 구조적 결함을 추적한다.",
+    "s": 1,
+    "quote": "a long-term project A History of Misogyny which includes On Abortion (2018), about the repercussions of abortion controls in many cultures; and On Rape (2022) about gender-based stereotypes and myths"
+   }
+  ],
+  "keywords": [
+   "라이아아브릴",
+   "사진미학",
+   "구조적폭력",
+   "시각적증언"
+  ],
+  "evidence": "She shoots objects instead of people, all in black-and-white.",
+  "kind": "전시",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "사회적 주제를 다루는 작가의 시각적 전략이 명확하고, 인물 배제라는 구체적인 연출 기법이 콘티에 적용 가능한 수준으로 제시됨.",
+  "v": 2,
+  "url": "https://hyperallergic.com/laia-abril-photographs-the-instruments-of-rape-culture/",
+  "original_title": "Laia Abril Photographs the Instruments of Rape Culture",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 2365,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-20 05:57",
+  "research": {
+   "entities": [
+    "Laia Abril",
+    "International Center of Photography",
+    "A History of Misogyny"
+   ],
+   "questions": [
+    "라야 아브릴의 'A History of Misogyny' 프로젝트는 어떤 사회적 이슈들을 다루며 어떤 예술적 접근 방식을 취하고 있는가?",
+    "사진 매체를 통해 성폭력과 같은 무거운 사회적 주제를 다룰 때, 스펙터클을 지양하고 본질을 전달하기 위해 작가는 어떤 시각적 전략을 사용하는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Laia Abril",
+     "url": "https://en.wikipedia.org/wiki/Laia%20Abril"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "International Center of Photography",
+     "url": "https://en.wikipedia.org/wiki/International%20Center%20of%20Photography"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 1509
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "hyperallergic.com/art-dealer-sentenced-for-falsely-claiming-native-heritage": {
+  "title_ko": "원주민 예술의 진위와 시장 보호를 위한 1990년 인디언 예술 및 공예법",
+  "summary_ko": "라스베이거스 거주자 호세 마르티네즈는 아메리카 원주민 예술가로 위장하여 가짜 공예품을 판매한 혐의로 유죄 판결을 받았다. 그는 '조셉 스카이울프'라는 이름을 사용하며 이동식 갤러리를 운영했고, 1990년 제정된 인디언 예술 및 공예법을 위반하여 중범죄 처분을 받았다. 현재 그는 2년간의 보호관찰과 법원 명령에 따른 배상 판결을 받은 상태다.",
+  "lens": "문화적 정체성을 상업적 도구로 전유하는 행위가 법적 제재를 통해 어떻게 실질적인 경제적·문화적 보호 장치로 기능하는지 보여준다.",
+  "why_now": "예술 시장에서 진정성과 기원(provenance)에 대한 검증이 그 어느 때보다 중요해진 시점에, 법적 강제력을 통한 문화적 자산 보호의 기준을 제시한다.",
+  "mechanism": "인디언 예술 및 공예법은 특정 부족의 생산품으로 허위 마케팅하는 행위를 원천 차단하며, 이를 통해 원주민 예술가의 경제적 생태계와 고유한 문화적 전통을 보존한다.",
+  "sensory": "전통적인 비즈워크, 무두질한 가죽, 깃털 장식 등 원주민 예술의 고유한 물성과 이를 교묘하게 모방한 위조품 사이의 간극에서 발생하는 문화적 왜곡을 다룬다.",
+  "transfer": "진정성 있는 아카이브 전시나 프로젝트를 기획할 때, 대상의 출처와 제작 주체의 정당성을 입증하는 서사적 투명성을 연출의 핵심 요소로 삼아야 한다.",
+  "context": "미국 내무부 산하 인디언 예술 및 공예 위원회는 1935년 설립 이후 원주민 예술 시장의 경제적 발전을 도모하는 역할을 수행해 왔다. 이번 사건은 해당 법안이 실제 시장의 기만행위를 적발하고 처벌하는 구체적인 사례를 보여준다.",
+  "findings": [
+   {
+    "text": "1990년 제정된 인디언 예술 및 공예법은 원주민이 생산한 제품인 것처럼 허위로 마케팅하여 판매하는 행위를 금지하는 진실 마케팅 법안이다.",
+    "s": 1,
+    "quote": "The Indian Arts and Crafts Board (IACB) administers and enforces the Indian Arts and Crafts Act (IACA), a truth-in-marketing law"
+   },
+   {
+    "text": "인디언 예술 및 공예 위원회는 1935년 의회에 의해 설립되었으며, 원주민 예술 시장 확대를 통해 경제적 발전을 촉진하는 임무를 수행한다.",
+    "s": 2,
+    "quote": "The Indian Arts and Crafts Board (IACB) is an agency within the United States Department of the Interior whose mission is to \"promote the economic development of American Indians and Alaska Natives through the expansion "
+   }
+  ],
+  "keywords": [
+   "인디언예술공예법",
+   "문화적전유",
+   "예술시장",
+   "진위판별"
+  ],
+  "evidence": "The act is intended to protect the livelihoods, cultural knowledge, and artistic traditions of recognized Native tribes, bands, and communities.",
+  "kind": "뉴스·이슈",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "법적 근거와 사건의 맥락이 명확하나, 예술적 기법보다는 법규의 적용과 시장 보호라는 사회적 이슈에 집중되어 있다.",
+  "v": 2,
+  "url": "https://hyperallergic.com/art-dealer-sentenced-for-falsely-claiming-native-heritage/",
+  "original_title": "Art Dealer Sentenced for Falsely Claiming Native Heritage",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 2214,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-20 05:57",
+  "research": {
+   "entities": [
+    "Indian Arts and Crafts Act of 1990",
+    "Indian Arts and Crafts Board",
+    "Jose Martinez",
+    "Skywolf's Gallery"
+   ],
+   "questions": [
+    "인디언 예술 및 공예법(Indian Arts and Crafts Act)은 구체적으로 어떤 행위를 불법으로 규정하고 처벌하는가?",
+    "미국 내에서 원주민 예술품의 진위 여부를 판별하고 보호하기 위해 어떤 제도적 장치가 마련되어 있는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Las Vegas Man Indicted For Fraudulently Selling Goods As Native American-Made | U.S. Depar",
+     "url": "https://www.doi.gov/iacb/las-vegas-man-indicted-fraudulently-selling-goods-native-american-made?ref=hyperallergic.com"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Indian Arts and Crafts Board",
+     "url": "https://en.wikipedia.org/wiki/Indian%20Arts%20and%20Crafts%20Board"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 2968
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "hyperallergic.com/native-artist-receives-10k-grant-to-revive-visor-craftmaking": {
+  "title_ko": "멸종 위기에 놓인 우난가스 전통 차양 모자의 복원과 부활",
+  "summary_ko": "워커 영버드 재단은 원주민 예술가 더스틴 뉴먼을 누히 보조금 수혜자로 선정했다. 뉴먼은 1만 달러의 지원금을 받아 20세기 초 소실된 전통 폐쇄형 크라운 바이저 카야트추크 제작 기술을 부활시키고 지역 문화 캠프에서 이를 전승할 예정이다.",
+  "lens": "단순한 공예품 복원을 넘어 식민화로 끊긴 문화적 권위의 상징을 실생활의 소통 도구로 되살린다.",
+  "why_now": "사라진 전통 공예의 기술적 복원을 통해 지역 공동체의 문화적 뿌리를 되찾는 움직임이 활발해지고 있다.",
+  "mechanism": "앵커리지 박물관과의 기술 연구와 지역 모자 제작자들과의 협업을 통해 전통 제작 방식을 정밀하게 복원한다.",
+  "sensory": "나무를 휘어 깎아 만든 단단한 곡면과 세밀하게 장식된 표면이 지닌 고유의 물성을 드러낸다.",
+  "transfer": "인물의 권위나 위상을 드러내는 소품을 제작할 때 역사적 제작 기법과 물성을 차용하는 시나리오에 활용할 수 있다.",
+  "context": "앵커리지 박물관은 알래스카의 역사와 민족학을 연구하고 전시하는 대규모 기관으로 이번 프로젝트의 기술 연구 기반이 되었다.",
+  "findings": [
+   {
+    "text": "앵커리지 박물관은 알래스카 다운타운에 위치한 대규모 예술, 역사, 민족학, 생태, 과학 박물관이다.",
+    "s": 1,
+    "quote": "The Anchorage Museum is a large art, history, ethnography, ecology and science museum located in downtown Anchorage, Alaska."
+   }
+  ],
+  "keywords": [
+   "전통공예",
+   "원주민예술",
+   "모자제작",
+   "문화복원"
+  ],
+  "evidence": "Dustin Newman (Unangax̂/Deg Hit’an Athabascan) will use the Walker Youngbird Foundation grant to revive the qayaatx̂ux, or chief visor.",
+  "kind": "작가·인터뷰",
+  "depth": 2,
+  "grounding": "full",
+  "depth_reason": "보조금 수혜와 전통 공예 복원이라는 의미 있는 소식이지만 제작 과정의 시각적 상세함이 부족하다.",
+  "v": 2,
+  "url": "https://hyperallergic.com/native-artist-receives-10k-grant-to-revive-visor-craftmaking/",
+  "original_title": "Native Artist Receives $10K Grant to Revive Visor Craftmaking",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 2177,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-20 05:57",
+  "research": {
+   "entities": [
+    "Dustin Newman",
+    "Walker Youngbird Foundation",
+    "Anchorage Museum",
+    "qayaatx̂ux"
+   ],
+   "questions": [
+    "qayaatx̂ux(전통 폐쇄형 크라운 바이저)가 역사적으로 어떤 문화적 의미와 기능을 지니고 있었나요?",
+    "더스틴 뉴먼이 추진하는 프로젝트가 원주민 문화 보존과 전승에 어떤 방식으로 기여하게 되나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Anchorage Museum",
+     "url": "https://en.wikipedia.org/wiki/Anchorage%20Museum"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 313
+  },
+  "depth_raw": 2,
+  "depth_v": 2
+ },
+ "artforum.com/news/krist-gruijthuijsen-director-of-stedelijk-museum-amsterdam-1234763901": {
+  "title_ko": "암스테르담 시립 미술관, 신임 관장에 크리스트 그루이트후이젠 임명",
+  "summary_ko": "암스테르담 시립 미술관(Stedelijk Museum Amsterdam)이 크리스트 그루이트후이젠(Krist Gruijthuijsen)을 신임 관장으로 임명했다. 그루이트후이젠은 2027년 7월부터 임기를 시작하며, 2019년부터 미술관을 이끌어온 라인 볼프스(Rein Wolfs)의 뒤를 잇는다. 그는 베를린 KW 현대미술관 관장과 에스포 현대미술관 관장 등을 거치며 두 장르를 아우르는 경력을 쌓아왔다.",
+  "lens": "미술관의 수장 교체는 단순한 행정 인사를 넘어 공간의 프로그램과 도시를 잇는 물리적 결단을 바꾼다.",
+  "why_now": "대형 미술관들이 지역 사회와의 접점을 넓히고 도시 공공성과의 결합을 서두르는 동시대적 흐름을 반영한다.",
+  "mechanism": "과거 베를린 KW 현대미술관 등에서 작가 중심의 밀도 높은 솔로 쇼를 기획해 온 큐레토리얼 방식을 대형 공공 뮤지엄의 스케일로 확장한다.",
+  "sensory": "도시의 일상과 연결된 대형 뮤지엄 로비와 전시 공간 사이의 문턱을 낮추는 개방적 동선과 공감각적 밀도.",
+  "transfer": "새로운 공간 디렉터나 기관장의 부임 서사를 다루는 다큐멘터리나 인터뷰 씬에서 인물의 이동 경로를 도시의 외곽에서 전시장 내부로 밀고 들어오는 롱테이크로 연출한다.",
+  "context": "신임 관장 크리스트 그루이트후이젠은 베를린 KW 현대미술관 관장으로 재직하며 빌렘 드 로이(Willem de Rooij), 데이비드 워즈노로비치(David Wojnarowicz) 등의 개인전을 기획했다. 그가 부임할 암스테르담 시립 미술관은 19세기 아드리아안 빌렘 바이스만(Adriaan Willem Weissman)이 설계한 본관과 벤템 크라우웰 아키텍츠(Benthem Crouwel Architects)가 설계한 21세기 유리 윙이 결합된 구조를 지닌다.",
+  "findings": [
+   {
+    "text": "크리스트 그루이트후이젠은 2016년부터 2024까지 베를린 KW 현대미술관의 관장으로 재직했다.",
+    "s": 1,
+    "quote": "who was serving as Director of KW Institute for Contemporary Art in Berlin, Germany, until 2023."
+   },
+   {
+    "text": "암스테르담 시립 미술관의 19세기 건물은 아드리아안 빌렘 바이스만이 설계했다.",
+    "s": 2,
+    "quote": "The 19th-century building was designed by Adriaan Willem Weissman."
+   },
+   {
+    "text": "암스테르담 시립 미술관의 21세기 신관은 벤템 크라우웰 아키텍츠가 설계했다.",
+    "s": 2,
+    "quote": "The connecting 21st-century wing, which houses the current entrance, was designed by Benthem Crouwel Architects."
+   }
+  ],
+  "keywords": [
+   "암스테르담시립미술관",
+   "크리스트그루이트후이젠",
+   "미술관관장",
+   "현대미술"
+  ],
+  "evidence": "The Stedelijk Museum Amsterdam has announced Krist Gruijthuijsen as its new director.",
+  "kind": "뉴스·이슈",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "미술관 수장 교체라는 명확한 뉴스 사실을 다루나 현장 기획의 세부 물리적 장치가 드러나지 않아 표준적인 수준에 머문다.",
+  "v": 2,
+  "url": "https://www.artforum.com/news/krist-gruijthuijsen-director-of-stedelijk-museum-amsterdam-1234763901/",
+  "original_title": "Krist Gruijthuijsen Named Director of Stedelijk Museum Amsterdam",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 2197,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-20 05:57",
+  "research": {
+   "entities": [
+    "Krist Gruijthuijsen",
+    "Stedelijk Museum Amsterdam",
+    "KW Institute for Contemporary Art",
+    "Sandberg Instituut",
+    "EMMA – Espoo Museum of Modern Art"
+   ],
+   "questions": [
+    "크리스 흐라위테이선이 과거 KW Institute for Contemporary Art에서 보여준 큐레이팅 방향성과 성과는 무엇인가?",
+    "스테델레이크 미술관의 차기 관장으로서 그가 강조하는 암스테르담 지역 사회와의 연결성 강화 전략은 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Krist Gruijthuijsen",
+     "url": "https://en.wikipedia.org/wiki/Krist%20Gruijthuijsen"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Stedelijk Museum Amsterdam",
+     "url": "https://en.wikipedia.org/wiki/Stedelijk%20Museum%20Amsterdam"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "9월의 시선: 집의 기억부터 물 위를 걷는 도시의 실험까지",
+     "url": "https://www.designboom.com/art/exhibition-radar-september-2026/"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "화이트큐브를 검게 칠하고 규칙을 해체하는 애덤 펜들턴의 대형 개인전",
+     "url": "https://www.wallpaper.com/art/exhibitions-shows/adam-pendleton-interview-stedelijk-museum-amsterdam"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 2091
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "archdaily.com/1188958/bar-barra-penasco-estudio-cr": {
+  "title_ko": "절벽 위로 번진 태평양의 빛, 바라 페냐스코의 개방형 시노그래피",
+  "summary_ko": "멕시코 몬테온의 로즈우드 만다리나 호텔 내부에 들어선 바라 페냐스코는 절벽 지형을 그대로 활용한 214㎡ 규모의 바다. 에스투디오 크루는 흰 무화과나무와 야자수 군락 사이에 건축물을 배치하여 태평양을 마주하는 개방형 공간을 구축했다. 나예리와 위사리카 전통에서 영감을 얻은 믹솔로지 메뉴와 건축적 배치는 자연과 환대라는 두 축을 중심으로 순환한다.",
+  "lens": "지형의 높낮이를 따라 시선을 태평양으로 고정하는 건축적 장치가 관람객을 공간의 주체로 끌어들인다.",
+  "why_now": "인공적인 마감재를 걷어내고 기후와 지형을 공간의 골조로 삼는 생태적 순응이 고급 환대 시설의 새로운 표준이 되고 있다.",
+  "mechanism": "벽체를 최소화한 개방형 구조는 절벽의 경사를 따라 수평적 동선을 유도하며, 낮과 밤의 빛 변화에 따라 공간의 분위기가 자연스럽게 전이되도록 설계했다.",
+  "sensory": "거친 절벽의 질감과 무화과나무의 잎사귀 사이로 쏟아지는 태평양의 강한 직사광선이 대비를 이루며 공간의 무게감을 형성한다.",
+  "transfer": "절벽이나 경사지를 활용한 촬영 시, 수평선을 가로지르는 낮은 가구 배치를 통해 공간의 개방감을 극대화하고 자연광이 텍스처를 강조하도록 조명을 세팅하라.",
+  "context": "에스투디오 크루는 상업적 결과물에 매몰되기보다 디자인을 사회적 대화의 도구로 활용하는 스튜디오다. 이번 프로젝트는 이전의 개념적 접근을 넘어 자연 지형과 지역 전통을 물리적 공간으로 번역하는 실천적 확장을 보여준다.",
+  "findings": [],
+  "keywords": [
+   "지형 순응",
+   "개방형 건축",
+   "태평양",
+   "절벽 설계"
+  ],
+  "evidence": "Perched on a cliffside between the canopy of white fig trees and palms, it faces the Pacific Ocean.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "절벽 지형과 호텔의 관계는 명확하나, 나예리·위사리카 전통의 구체적인 공간적 번역 방식에 대한 정보가 부족하다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1188958/bar-barra-penasco-estudio-cr",
+  "original_title": "Bar Barra Peñasco / Estudio CR",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 1487,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-20 05:57",
+  "research": {
+   "entities": [
+    "Estudio CR",
+    "Celia Ramírez",
+    "Rosewood Mandarina",
+    "RLH Properties",
+    "Barra Peñasco"
+   ],
+   "questions": [
+    "Barra Peñasco의 건축 디자인이 멕시코 나예리(Náyeri)와 위사리카(Wixárika) 전통 문화를 어떻게 공간적으로 해석하고 반영했는가?",
+    "절벽이라는 지형적 특성을 활용한 개방형 건축 구조가 Rosewood Mandarina 호텔의 자연 경관과 어떻게 조화를 이루고 있는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "에스투디오 크루: 디자인을 자본주의의 쳇바퀴에서 구출하는 질문의 기술",
+     "url": "https://www.itsnicethat.com/articles/estudio-cru-graphic-design-discover-281026"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 285
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "archdaily.com/1188935/oslo-houses-nommo-arquitetos": {
+  "title_ko": "오슬로 하우스: 빛과 색채로 공간의 부피를 재구성하는 폴리크로미",
+  "summary_ko": "브라질 쿠리치바에 완공된 오슬로 하우스(Oslo Houses)는 르 코르뷔지에의 폴리크로미 이론을 현대적 주거에 이식한 프로젝트다. 설계팀 노모 아키텍토스(Nommo Arquitetos)는 색채를 단순한 장식이 아닌 공간의 깊이와 부피를 변형하는 건축적 도구로 활용했다. 빛과 물질이 만나는 지점에서 발생하는 색의 지각적 변화를 통해 내부 공간의 물리적 체감을 확장한다.",
+  "lens": "색채를 벽면의 마감이 아닌 공간의 깊이를 물리적으로 밀고 당기는 시각적 장치로 운용한다.",
+  "why_now": "디지털 스크린의 균일한 색감에서 벗어나, 빛의 각도와 재료의 물성에 따라 실시간으로 변모하는 공간적 깊이에 대한 요구가 높아지고 있다.",
+  "mechanism": "벽면의 색채 대비를 통해 면의 전후 관계를 의도적으로 재배치하며, 빛의 유입 경로에 따라 볼륨의 경계가 확장되거나 수축하도록 설계했다.",
+  "sensory": "시간대별로 변화하는 자연광이 특정 색면과 충돌할 때 발생하는 미세한 톤의 변화가 공간의 스케일을 다르게 체감하게 한다.",
+  "transfer": "공간 콘티 작업 시 특정 벽면에 조명을 투사할 때, 채도가 다른 색면을 배치해 실제 거리보다 깊어 보이거나 좁아 보이는 착시 효과를 연출할 수 있다.",
+  "context": "본 프로젝트는 르 코르뷔지에가 주창한 폴리크로미 이론을 계승하여 건축적 볼륨을 제어하는 실험적 시도를 담고 있다. 노모 아키텍토스는 현대 주거 건축에서 색채가 단순한 심미적 요소를 넘어 공간의 물리적 구조를 규정하는 핵심 요소임을 입증한다.",
+  "findings": [
+   {
+    "text": "르 코르뷔지에는 현대 건축의 선구자 중 한 명으로 평가받으며, 도시 계획과 공공 건축 분야에서 큰 영향력을 미쳤다.",
+    "s": 1,
+    "quote": "Charles-Édouard Jeanneret (6 October 1887 – 27 August 1965), known as Le Corbusier, was a French-Swiss architectural designer, painter, urban planner and writer who is described as one of the pioneers of what is now rega"
+   }
+  ],
+  "keywords": [
+   "폴리크로미",
+   "공간지각",
+   "색채건축",
+   "노모아키텍토스",
+   "주거설계"
+  ],
+  "evidence": "polychromy can shift planes in depth and transform the perception of volumes.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "건축적 색채 이론을 주거에 적용한 논리는 명확하나, 실제 구현된 공간의 구체적 마감재나 평면적 장치에 대한 정보가 부족하다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1188935/oslo-houses-nommo-arquitetos",
+  "original_title": "Oslo Houses / Nommo Arquitetos",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 1347,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-20 05:57",
+  "research": {
+   "entities": [
+    "Nommo Arquitetos",
+    "Le Corbusier"
+   ],
+   "questions": [
+    "Nommo Arquitetos가 Oslo Houses 프로젝트에서 색채와 빛을 활용해 공간의 깊이감을 어떻게 조절했는가?",
+    "르 코르뷔지에의 폴리크로미(Polychromy) 이론이 현대 주거 건축 설계에 어떤 방식으로 적용되었는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Le Corbusier",
+     "url": "https://en.wikipedia.org/wiki/Le%20Corbusier"
+    },
+    {
+     "n": 2,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "아시아 브루탈리즘의 재발견, 콘크리트로 읽는 지역의 기록",
+     "url": "https://www.wallpaper.com/architecture/brutalist-asia-book"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "리스본의 상 호세 다 보아비스타 교회, 광장을 품은 현대적 성소",
+     "url": "https://www.yatzer.com/church-of-sao-jose-da-boavista-lisbon"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "카를로 라티가 포착한 14가지 이탈리아의 일상, 오브제라는 이름의 대화",
+     "url": "https://www.wallpaper.com/architecture/carlo-ratti-objectify-series-summer-journey-italy"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 2374
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "dezeen.com/2026/11/19/clayfield-hotel-sid-lee-architecture-ontario": {
+  "title_ko": "나이아가라의 지층과 포도나무의 리듬을 새긴 곡선형 호텔, 더 클레이필드",
+  "summary_ko": "시드 리 아키텍처가 온타리오 나이아가라온더레이크에 설계한 더 클레이필드 호텔은 와인 산지의 지형적 맥락을 반영한 94,000평방피트 규모의 곡선형 구조물이다. 호텔 외관은 포도나무 열과 점토 토양에서 착안한 목재 요소와 적층 콘크리트로 구성되었으며, 내부 동선은 공적 공간에서 사적 공간으로 이어지는 흐름을 따라 풍경을 조망하도록 설계되었다.",
+  "lens": "포도나무의 반복적 리듬을 목재 파사드로 치환하고, 지층의 무게감을 적층 콘크리트로 구현하여 건축이 지역의 생태적 서사를 물리적으로 받아내게 한다.",
+  "why_now": "디지털 환경의 피로감이 높아질수록, 특정 지역의 기후와 지질학적 정보를 재료와 형태에 투영해 장소성을 구축하는 건축적 태도가 더욱 중요해진다.",
+  "mechanism": "건물의 곡선형 매스는 주변 포도밭과 마을을 잇는 문턱으로 작동하며, 내부의 계단은 광장과 로비, 상층부를 연결하는 중심축으로 기능한다.",
+  "sensory": "나이아가라 절벽에서 채취한 라임스톤 데스크와 호두나무 패널, 짙은 아마란스 색상의 가죽이 와인 산지의 계절감을 시각과 촉각으로 전달한다.",
+  "transfer": "공간의 서사를 위해 특정 계절이나 지역의 질감을 재료 팔레트로 고정하고, 곡선형 바와 가구를 통해 건축의 외형적 리듬을 실내 가구까지 연장하는 통일된 연출이 가능하다.",
+  "context": "시드 리 아키텍처는 페어몬트 퀸 엘리자베스 호텔의 인테리어와 같은 대규모 리노베이션을 수행하며 기존 구조물의 시간성을 재해석해왔다. 이번 프로젝트에서는 테크니온의 가구를 활용해 주거와 업무 공간의 경계를 넘나드는 시팅 디자인의 흐름을 이어간다.",
+  "findings": [
+   {
+    "text": "시드 리 아키텍처는 창의적 에이전시 시드 리의 계열사로서 도시의 아름다움은 거주자에게서 나온다는 철학을 바탕으로 설계를 진행한다.",
+    "s": 1,
+    "quote": "Sid Lee Architecture is an architecture firm affiliated with the creative agency Sid Lee. We believe that the beauty of a city lies in its residents, the driving force behind our designs."
+   },
+   {
+    "text": "테크니온은 재생 소재와 정밀 몰딩 기법을 통해 주거와 업무 공간의 경계를 허무는 시팅 디자인을 선보이는 브랜드다.",
+    "s": 4,
+    "quote": "테크니온과 올리브 아틀리에 등 주요 브랜드가 재생 폴리프로필렌과 수공예 원목 등 새로운 소재와 메커니즘을 적용한 의자 여덟 점을 공개했다."
+   }
+  ],
+  "keywords": [
+   "지형 순응",
+   "장소성",
+   "물성",
+   "시노그래피"
+  ],
+  "evidence": "Its layered contours, rounded geometry and rhythmic wood elements translate the surrounding vineyard landscape into a building that celebrates the region’s contribution to Canadian winemaking.",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "지역의 지질과 식생을 건축적 재료와 형태로 정교하게 번역해낸 논리가 명확하며, 실내외 공간의 유기적 연결 장치가 구체적이다.",
+  "v": 2,
+  "url": "https://www.dezeen.com/2026/11/19/clayfield-hotel-sid-lee-architecture-ontario/",
+  "original_title": "Sid Lee Architecture references \"rhythm of the vine\" for curved Ontario hotel",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 4884,
+  "fetch": "ok",
+  "cliche_hits": [
+   "경계를 허"
+  ],
+  "read_at": "2026-11-20 05:57",
+  "research": {
+   "entities": [
+    "Sid Lee Architecture",
+    "The Clayfield Hotel",
+    "Teknion",
+    "Martin Leblanc",
+    "Fairmont Queen Elizabeth Hotel"
+   ],
+   "questions": [
+    "Sid Lee Architecture가 나이아가라 지역의 와인 문화와 지형적 특성을 건축 디자인에 어떻게 구체적으로 투영했는가?",
+    "호텔 내부 인테리어에 사용된 재료와 가구 배치가 어떻게 계절의 변화와 와이너리의 서사를 표현하고 있는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Creative firm in Montreal - Sid Lee Architecture ",
+     "url": "https://sidleearchitecture.com/en/"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "The Clayfield | Luxury Hotel in Niagara-on-the-Lake",
+     "url": "https://theclayfieldhotel.com/"
+    },
+    {
+     "n": 3,
+     "type": "공식·1차",
+     "title": "Teknion",
+     "url": "http://www.teknion.com/"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "구조와 재료를 다시 쓰다: 최신 동시대 의자 디자인 8선",
+     "url": "https://design-milk.com/new-chair-designs-2026/"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "chars": 3130
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "design-milk.com/klafs-sauna-design": {
+  "title_ko": "독일 엔지니어링이 재해석한 사우나와 감각의 공간",
+  "summary_ko": "독일의 사우나 제조사 클래프스(Klafs)는 음성 인식 히터와 자동 아우프구스 시스템, 눈을 뿌리는 냉각실 등을 통해 전통적인 사우나 경험을 기술적으로 확장한다. 스튜디오 F.A. 포르쉐(Studio F.A. Porsche)와 협업한 S11 사우나는 와시 종이와 숨겨진 조명을 활용해 사우나를 현대적인 건축 오브제로 탈바꿈시킨다.",
+  "lens": "전통적인 사우나 리추얼을 음성 제어와 자동 증류 장치로 자동화하여 새로운 감각의 밀도를 구축한다.",
+  "why_now": "웰니스 산업이 확장되는 가운데, 전통적인 휴식 공간은 최첨단 엔지니어링과 결합해 새로운 형태의 공간 경험으로 진화하고 있다.",
+  "mechanism": "음성 인식 제어 장치와 프로그래밍된 열파 시스템인 바이탈리티 부스트(Vitality Boost)를 통해 사람의 손길 없이도 정교한 아우프구스 리추얼을 구현한다.",
+  "sensory": "차가운 푸른 빛이 감도는 Frimas 얼음 증기실과 식물성 거품으로 채워지는 스팀 욕실이 열기 이후의 감각적 대비를 선명하게 만든다.",
+  "transfer": "공간이나 영상 콘티에서 온도와 습도의 극단적인 대비를 연출할 때, 푸른 냉각 조명과 하얀 거품 장치를 활용해 감각의 전환점을 설계한다.",
+  "context": "독일 슈베비슈할에 본사를 둔 클래프스는 1928년부터 정밀한 장인 정신을 바탕으로 럭셔리 사우나와 스파 시스템을 개발해 왔으며, 2024년 콜러(Kohler)에 인수된 이후 미국 시장으로 확장하고 있다.",
+  "findings": [
+   {
+    "text": "클래프스는 1928년부터 정밀한 독일 장인 정신을 바탕으로 럭셔리 사우나를 설계해 왔다.",
+    "s": 1,
+    "quote": "designed with distinction, elegance, and precise German craftsmanship since 1928"
+   }
+  ],
+  "keywords": [
+   "사우나디자인",
+   "클래프스",
+   "웰니스",
+   "공간엔지니어링"
+  ],
+  "evidence": "Klafs, based in Schwäbisch Hall, Germany, sees no contradiction. Its designers approach the centuries-old ritual through engineering, experimenting with heat, air, and materials.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "전통적인 사우나를 엔지니어링과 산업 디자인 관점에서 재해석한 구체적인 사례를 충실히 다루고 있다.",
+  "v": 2,
+  "url": "https://design-milk.com/klafs-sauna-design/",
+  "original_title": "How Klafs Is Rethinking the Sauna Through Design",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 6917,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-20 05:57",
+  "research": {
+   "entities": [
+    "Klafs"
+   ],
+   "questions": [
+    "Klafs의 스마트 사우나 및 자동화 아우프구스(aufguss) 시스템은 전통적인 사우나 경험과 어떻게 다른가요?",
+    "현대적인 사우나 디자인에서 독일의 엔지니어링 기술이 어떻게 적용되고 있나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Luxury Home Saunas | KLAFS USA",
+     "url": "https://www.klafs.com/"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 157
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "archdaily.com/1188345/laccueil-primary-school-ccm2-architectes-plus-roy-jacques-darisse-architectes": {
+  "title_ko": "경사지를 학습의 연속체로 치환한 라쿠에유 초등학교",
+  "summary_ko": "캐나다 스콧에 위치한 라쿠에유 초등학교는 가파른 경사지라는 지형적 제약을 3개 층의 연속적인 학습 공간으로 재편했다. CCM2 아키텍츠와 로이 자크 다리스 아키텍츠는 옥외 교실, 계단식 놀이 공간, 녹화 지붕을 유기적으로 배치하여 지형과 건축물의 경계를 지웠다.",
+  "lens": "가파른 경사면을 단순한 평탄화 대상이 아닌, 층별로 야외 학습과 놀이가 이어지는 입체적인 시노그래피로 치환했다.",
+  "why_now": "기후 변화와 지형적 제약이 건축의 형태를 결정하는 생태적 순응 방식이 교육 공간 설계의 핵심 과제로 부상했다.",
+  "mechanism": "건물의 3개 층을 지형의 높낮이와 물리적으로 결합해, 각 층에서 외부 놀이 공간이나 녹화 지붕으로 직접 이동할 수 있는 수평적 동선을 확보했다.",
+  "sensory": "계단식으로 층층이 쌓인 놀이 공간과 녹화 지붕이 외부 지형과 맞물려, 실내와 실외의 스케일을 넘나드는 개방감을 제공한다.",
+  "transfer": "경사지 현장에서 건물의 각 층을 외부 지표면과 일대일로 연결해, 인공 구조물이 지형의 일부처럼 느껴지도록 시각적 연속성을 강화하는 콘티를 제안한다.",
+  "context": "CCM2 아키텍츠와 로이 자크 다리스 아키텍츠가 협업한 이 프로젝트는 지형 순응형 교육 시설의 전형을 보여준다. 기계 및 전기 설계를 담당한 WSP는 세계적인 엔지니어링 컨설팅 기업으로, 복잡한 인프라와 빌딩 엔지니어링을 통합하는 기술적 역량을 지원했다.",
+  "findings": [
+   {
+    "text": "WSP는 전 세계 50개국 500개 사무소에서 83,000명의 직원을 보유한 대규모 전문 서비스 기업이다.",
+    "s": 1,
+    "quote": "WSP effectively became one of the largest professional services firms in the world, with approximately 83,000 employees in 500 offices across 50 countries."
+   }
+  ],
+  "keywords": [
+   "지형순응",
+   "교육공간",
+   "시노그래피",
+   "녹화지붕"
+  ],
+  "evidence": "L'Accueil Primary School turns a steeply sloping site into a continuous landscape of learning",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "경사지를 활용한 건축적 해법이 명확하나, 내부 공간의 구체적인 재료나 상세한 시공 디테일 정보가 부족하다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1188345/laccueil-primary-school-ccm2-architectes-plus-roy-jacques-darisse-architectes",
+  "original_title": "L’Accueil Primary School / CCM2 Architectes + Roy Jacques Darisse architectes",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 1402,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-20 05:57",
+  "research": {
+   "entities": [
+    "CCM2 Architectes",
+    "Roy Jacques Darisse architectes",
+    "SNC-Lavalin",
+    "WSP"
+   ],
+   "questions": [
+    "L’Accueil Primary School은 경사진 부지를 어떻게 건축적으로 활용했나요?",
+    "이 학교 프로젝트에 참여한 건축사사무소들 간의 협업 방식은 어떠했나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "WSP Global",
+     "url": "https://en.wikipedia.org/wiki/WSP%20Global"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 1400
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "design-milk.com/2026-holiday-gift-guide": {
+  "title_ko": "2026 연말, 디자인 밀크가 선별한 사물들의 미학적 기준",
+  "summary_ko": "디자인 밀크(Design Milk)가 2026년 연말을 맞아 일상적 문제를 해결하거나 조형적 가치를 지닌 오브제들을 선별했다. 예산과 대상의 취향에 따라 분류된 가이드는 단순한 소비를 넘어 창의성과 장인 정신이 깃든 사물의 가치를 조명한다. 특히 절제된 재료와 기능적 명료함을 강조하며 미니멀리스트를 위한 사물들을 제안했다.",
+  "lens": "좋은 선물은 일시적 유행이 아니라, 사용자의 일상에 묵직한 서사와 조형적 질서를 부여하는 사물이다.",
+  "why_now": "디지털 피로도가 높은 시기에 물리적 사물의 질감과 기능적 명료함이 공간의 정체성을 결정짓는 핵심 요소로 부상했다.",
+  "mechanism": "미니멀리즘을 위한 사물은 불필요한 장식을 배제하고 재료 본연의 질감과 구조적 결합 방식을 통해 사용자와 사물 간의 물리적 접점을 만든다.",
+  "sensory": "차갑고 매끄러운 금속성 마감과 대비되는 따뜻한 흙빛의 색감, 손에 쥐었을 때 느껴지는 적절한 무게감이 공간의 온도를 조절한다.",
+  "transfer": "콘티 내 오브제 배치 시 화려한 장식보다는 재료의 물성이 도드라지는 단색조 사물을 활용해 공간의 여백을 시각적 긴장감으로 채운다.",
+  "context": "디자인 밀크는 iF 디자인 어워드 등 글로벌 디자인 지표를 통해 형태와 기능의 지속 가능성을 꾸준히 검증해왔다. 이번 가이드는 2027년 색채 트렌드에서 강조된 자연의 온기와 묵직한 서사를 생활 밀착형 오브제로 확장한 결과물이다.",
+  "findings": [],
+  "keywords": [
+   "오브제",
+   "미니멀리즘",
+   "물성",
+   "공간 설계",
+   "조형미"
+  ],
+  "evidence": "Good design makes a gift memorable, whether it’s a small object that solves an everyday problem or a sculptural piece worthy of display.",
+  "kind": "뉴스·이슈",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "디자인 밀크의 큐레이션 기준을 공간과 사물 관점에서 해석했으나, 구체적인 제품 명칭보다는 가이드의 방향성을 다루고 있다.",
+  "v": 2,
+  "url": "https://design-milk.com/2026-holiday-gift-guide/",
+  "original_title": "Design Milk’s Complete 2026 Holiday Gift Guide",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 4427,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-20 05:57",
+  "research": {
+   "entities": [
+    "Design Milk",
+    "Loll Designs"
+   ],
+   "questions": [
+    "Design Milk가 2026년 홀리데이 기프트 가이드에서 강조하는 '좋은 디자인'의 핵심 기준은 무엇인가?",
+    "미니멀리스트를 위한 선물 선정 시 고려해야 할 디자인적 요소와 소재의 특징은 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Milk",
+     "url": "https://en.wikipedia.org/wiki/Milk"
+    },
+    {
+     "n": 2,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "글로벌 디자인의 향방을 가르는 기준, iF 디자인 어워드 2027",
+     "url": "https://design-milk.com/what-the-if-design-award-reveals-about-where-global-design-is-heading-next/"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "알고리즘의 허상을 넘어, 글로벌 디자인 어워드가 증명하는 것",
+     "url": "https://design-milk.com/if-design-award-2027-submission-deadline/"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "2027년의 색채, 자연의 온기와 묵직한 서사를 담은 열두 가지 제언",
+     "url": "https://design-milk.com/2027-colors-of-the-year/"
+    }
+   ],
+   "used": [
+    2,
+    3,
+    4
+   ],
+   "chars": 2159
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "designboom.com/art/grriz-moire-sculpture-paris-la-defense-parking-entrance-cromawaltz": {
+  "title_ko": "파리 라데팡스 주차장 입구를 감싼 무아레 광학 조각, 크로마왈츠",
+  "summary_ko": "이탈리아와 프랑스를 기반으로 활동하는 스튜디오 그리즈(GRRIZ)가 파리 라데팡스의 그랑드 아르슈 광장 주차장 출입구 원통형 볼륨 위에 무아레 조각 작업 '크로마왈츠(CROMAWALTZ)'를 설치했다. 전력이나 모터 없이 두 겹의 유색 수직 슬랫 격자가 교차하며 만드는 광학 효과로, 출퇴근길 보행자의 속도와 시선 이동에 따라 파동과 형상이 실시간으로 변한다.",
+  "lens": "모터와 전기를 배제하고 보행자의 발걸음 속도 그 자체를 광학적 동력원으로 치환한다.",
+  "why_now": "디지털 화면과 동력 장치에 의존하는 공공 미술 속에서, 기계적 장치 없이 인간의 단순한 보행 속도와 시점 변화만으로 공간에 시각적 파동을 일으킨다는 점에서 물리적 물성과 아날로그 반응의 가치를 다시 묻는다.",
+  "mechanism": "다크 그레이, 블루, 옐로우 세 가지 색상의 수직 슬랫으로 이루어진 두 겹의 격자가 중첩되면서 시선의 각도에 따라 간섭 무늬를 만든다. 원거리에서는 단색의 덩어리로 읽히다가 접근할수록 층이 분리되면서 역동적인 주사선 형태의 무아레 파동이 일어난다.",
+  "sensory": "주변 콘크리트 건축의 회색 톤, 확 트인 하늘의 파란색, 그리고 고대비의 노란색이 겹쳐지며 도시의 스카이라인 속에서 시각적 울림을 만든다. 바쁘게 걸음을 옮기는 통근자의 속도에 맞춰 정적인 구조물이 살아 움직이는 듯한 착시를 일으킨다.",
+  "transfer": "도시 공간이나 세트 디자인에서 복잡한 조명 장치 없이 카메라의 패닝 속도와 관람자의 동선만으로 프레임 안의 패턴이 살아나도록 설계하는 오프프레임 광학 연출에 적용할 수 있다.",
+  "context": "볼로냐, 리옹, 토리노를 거점으로 활동하는 건축 및 공공예술 스튜디오 그리즈(GRRIZ)의 루이지 그레코(Luigi Greco)와 마티아 파코 리찌(Mattia Paco Rizzi)가 프랑스에서 처음으로 선보인 영구 설치 작업이다.",
+  "findings": [
+   {
+    "text": "그리즈(GRRIZ)는 볼로냐, 리옹, 토리노에 기반을 둔 건축, 공공 예술 및 디자인 스튜디오다.",
+    "s": 1,
+    "quote": "GRRIZ is an architecture, public art and design studio in Bologna, Lyon and Turin."
+   },
+   {
+    "text": "이들은 소규모 목조 구조물, 공공 예술, 임시 설치 작업을 통칭하는 응용 소형 건축(Applied Micro Architecture)을 실천한다.",
+    "s": 1,
+    "quote": "We practice Applied Micro Architecture: small-scale timber structures, public art and temporary installations"
+   }
+  ],
+  "keywords": [
+   "무아레",
+   "공공예술",
+   "광학착시",
+   "라데팡스",
+   "그리즈"
+  ],
+  "evidence": "two superimposed grids of colored vertical slats generate an optical moiré effect, producing shifting waves and figures activated solely by the changing viewpoint of passing pedestrians",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "무아레 현상과 보행자 동선을 결합한 공공예술의 작동 방식이 구체적이나 기존 광학 미술의 범주를 크게 벗어나지 않는다.",
+  "v": 2,
+  "url": "https://www.designboom.com/art/grriz-moire-sculpture-paris-la-defense-parking-entrance-cromawaltz/",
+  "original_title": "GRRIZ’s moiré sculpture set atop paris parking entrance moves only when people walk past it",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 6267,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-20 05:58",
+  "research": {
+   "entities": [
+    "GRRIZ",
+    "CROMAWALTZ",
+    "La Défense",
+    "Luigi Greco",
+    "Mattia Paco Rizzi"
+   ],
+   "questions": [
+    "모아레 현상을 활용한 예술 작품이 관람자의 움직임에 따라 어떻게 시각적 변화를 일으키는지 그 원리는 무엇인가?",
+    "라데팡스(La Défense)라는 특정 도시 공간의 건축적 맥락이 CROMAWALTZ 디자인에 어떤 영향을 미쳤는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "GRRIZ — Architecture, Public Art & Spatial Design",
+     "url": "http://www.grriz.com"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "GRRIZ — Architecture, Public Art & Spatial Design",
+     "url": "https://www.grriz.com/"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 1248
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "dazeddigital.com/fashion/article/71387/1/how-i-became-with-dazed-editor-ted-stansfield-creative-industry-career-advice": {
+  "title_ko": "데이드즈 토크 시리즈 복귀: 편집장 테드 스탠스필드가 밝히는 매거진 제작의 이면",
+  "summary_ko": "데이드즈 클럽의 토크 시리즈 'How I Became'가 런던 데이드즈 본사에서 편집장 테드 스탠스필드와 집행 편집장 잭 서넉스의 대담으로 재개되었다. 이들은 매진된 가을호 제작 비화와 업계 진입을 위한 조언을 40명의 클럽 회원과 나누었다.",
+  "lens": "출판사 본사 내부에서 소수 인예와 진행하는 밀도 높은 대담은 미디어의 제작 과정을 가감 없이 드러낸다.",
+  "why_now": "디지털 시대에 독립 매거진이 실물 발행 부수를 매진시키며 독자와 직접 대면하는 오프라인 커뮤니티의 가치를 증명한다.",
+  "mechanism": "런던 데이드즈 본사라는 작업 공간을 무대로 삼고 음료와 현장 사진 기록을 곁들여 강연과 파티의 경계를 지운다.",
+  "sensory": "매진된 가을호의 실물 페이지와 런던 본사의 공간적 현장감이 독자들에게 직접 전달된다.",
+  "transfer": "인터뷰나 토크 콘텐츠를 기획할 때 스튜디오 내부 공간을 배경으로 삼고 소규모 관객을 배치해 친밀한 현장감을 연출한다.",
+  "context": "데이드즈 클럽의 안티실라버스 캠페인과 연계된 이번 시리즈는 넬 칼론지, 루이 가브리엘 누시 등 창작자들과의 대담으로 이어진다.",
+  "findings": [],
+  "keywords": [
+   "데이드즈",
+   "테드스탠스필드",
+   "패션매거진",
+   "토크시리즈",
+   "런던"
+  ],
+  "evidence": "In the most recent episode of Dazed Club’s talk series, Ted Stansfield shared exclusive stories from the sold-out Autumn 2026 issue",
+  "kind": "작가·인터뷰",
+  "depth": 2,
+  "grounding": "full",
+  "depth_reason": "행사 공지 및 인물 인터뷰 소개 성격의 기사로 정보 전달 중심이라 점수가 낮다.",
+  "v": 2,
+  "url": "https://www.dazeddigital.com/fashion/article/71387/1/how-i-became-with-dazed-editor-ted-stansfield-creative-industry-career-advice?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=how-i-became-returns-with-dazed-editor-in-chief-ted-stansfield",
+  "original_title": "How I Became returns with Dazed editor-in-chief Ted Stansfield",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 2306,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-20 05:58",
+  "research": {
+   "entities": [],
+   "questions": [],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 2,
+  "depth_v": 2
+ },
+ "nowness.com/films/pasture-actual-objects-antonioli": {
+  "title_ko": "미중서부의 풍경 속에 박제된 고딕, 액추얼 오브젝트의 파스처",
+  "summary_ko": "크리에이티브 듀오 액추얼 오브젝트(Actual Objects)가 안토니올리(Antonioli)와 협업하여 단편 영화 파스처(Pasture)를 제작했다. 일리노이주 남부의 척박한 농촌을 배경으로, 흰 옷을 입은 의문의 인물이 마을에 등장하며 벌어지는 미스터리를 다룬다. 실제 촬영 영상과 디지털 매트 페인팅을 결합해 현실과 신화가 뒤섞인 고딕 서사를 구축했다.",
+  "lens": "디지털 기술로 증폭한 고립된 지형의 정서가 아방가르드 의상과 만나 기괴한 민속적 고딕 미학을 완성한다.",
+  "why_now": "디지털 피로도가 높은 동시대에 실제 로컬의 지형과 가공된 비주얼을 혼합하여 현실의 질감을 새롭게 변주하는 방식이 주목받는다.",
+  "mechanism": "실사 촬영본에 커스텀 매트 페인팅과 디지털 프로그램을 층층이 쌓아, 물리적으로는 불가능한 규모감과 기묘한 공간감을 만들어낸다.",
+  "sensory": "일리노이주 평원의 거친 수로와 농가 사이에 앤 드뮐미스터의 비정형 실루엣이 놓이며 긴장감 넘치는 시각적 대비를 형성한다.",
+  "transfer": "광활한 배경에 이질적인 의상을 배치할 때, 의상을 단순한 소품이 아닌 서사의 핵심 장치로 활용하여 인물의 기원을 모호하게 설정하는 기법을 적용한다.",
+  "context": "액추얼 오브젝트는 배드 버니, 찰리 XCX 등과 작업하며 디지털과 아날로그 공정을 결합한 몰입형 환경을 구축해 왔다. 본 프로젝트에 사용된 딜라라 핀디코글루의 의상은 신체를 재정의하는 파격적인 레이어링으로 알려져 있다.",
+  "findings": [
+   {
+    "text": "앤 드뮐미스터는 벨기에 출신의 패션 디자이너로 앤트워프 식스 중 한 명이다.",
+    "s": 1,
+    "quote": "She is known as one of the Antwerp Six in the fashion industry."
+   },
+   {
+    "text": "딜라라 핀디코글루는 전통과 동시대 복식을 결합해 여성의 자유를 시각화하는 작업을 지속해 왔다.",
+    "s": 3,
+    "quote": "전통 복식과 디자이너의 의상을 입은 인물들을 교차 촬영하여, 통제되지 않는 여성의 자유와 권력을 시각화한 사진집을 출간한다."
+   }
+  ],
+  "keywords": [
+   "액추얼오브젝트",
+   "미중서부고딕",
+   "디지털매트페인팅",
+   "아방가르드패션"
+  ],
+  "evidence": "Actual Objects – aka Claire and Rick Farin – construct a modern gothic tale where myth and reality mingle to Lynchian effect",
+  "kind": "영상·필름",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "실제 로컬 지형과 디지털 기술의 결합 방식이 명확하며, 패션이 서사 구축에 기여하는 지점이 구체적으로 제시됨.",
+  "v": 2,
+  "url": "https://www.nowness.com/films/pasture-actual-objects-antonioli/",
+  "original_title": "Pasture",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 3353,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-20 05:58",
+  "research": {
+   "entities": [
+    "Actual Objects",
+    "Antonioli",
+    "Ann Demeulemeester",
+    "Dilara Findikoglu",
+    "Isamaya Ffrench"
+   ],
+   "questions": [
+    "실제 크리에이티브 듀오인 Actual Objects는 미국 일리노이주로 이주한 경험을 어떻게 단편 영화 Pasture의 미중서부 고딕 분위기로 녹여냈는가?",
+    "앤 드뮐미스터와 딜라라 파인디콜루 같은 아방가르드 패션 브랜드는 이 영화의 내러티브와 캐릭터 구축에 어떤 역할을 하였는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Ann Demeulemeester",
+     "url": "https://en.wikipedia.org/wiki/Ann%20Demeulemeester"
+    },
+    {
+     "n": 2,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "알루미늄과 실크스크린으로 감각을 흔드는 로빈 헌터블레이크의 개인전",
+     "url": "https://www.wallpaper.com/art/exhibitions-shows/robin-hunter-blake-studio-iron-review"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "할리 위어와 딜라라 핀디코글루가 포착한 루마니아의 오늘날 마녀들",
+     "url": "https://www.wallpaper.com/art/photography/witch-book-harley-weir-and-dilara-findikoglu"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "할리 위어와 딜라라 핀디코글루가 포착한 마녀라는 이름의 해방",
+     "url": "https://www.dazeddigital.com/art-photography/article/71266/1/harley-weir-witches-witch-idea-photo-book-romania-photogrpahy-dilara-findikoglu?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=harley-weir-s-expansive-powerful-vision-of-modern-day-witches"
+    }
+   ],
+   "used": [
+    1,
+    3
+   ],
+   "chars": 1115
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "designboom.com/art/derrick-adams-miami-week-build-giant-lego-unicorn-pool-float-party-avant-gallery": {
+  "title_ko": "데릭 아담스의 유니콘, 레고의 기하학적 물성으로 재현하는 흑인의 여가",
+  "summary_ko": "데릭 아담스는 마이애미 아트 위크 기간 1111 링컨 로드에서 9피트 높이의 레고 유니콘 튜브 설치 작업을 선보인다. 작가의 대표 연작 '플로터스(Floaters)' 속 흑인의 여가 이미지를 레고 브릭과 3,000개의 보태니컬 컬렉션 꽃으로 치환했다. 관람객은 이틀간의 공동 제작 세션에 참여해 대형 조형물의 일부를 직접 조립하며 창작 과정의 주체가 된다.",
+  "lens": "평면 회화의 강렬한 색면과 기하학적 구성을 레고 브릭이라는 물리적 건축 단위로 치환해, 관람객이 그 사이를 거닐며 서사를 입체적으로 경험하게 한다.",
+  "why_now": "디지털 피로도가 높은 시대에 손으로 직접 쌓아 올리는 아날로그적 구축 행위가 관람객에게 창작의 해방감을 제공한다.",
+  "mechanism": "회화의 색면은 레고 브릭의 입체적 배열로, 여백은 3,000개의 꽃 조형물로 치환하여 2차원의 이미지를 3차원 공간으로 확장한다.",
+  "sensory": "레고 브릭 특유의 단단한 질감과 명료한 색채가 층층이 쌓여 거대한 유니콘의 표면을 형성하며, 주변을 채운 꽃들의 밀도 높은 시각적 리듬감이 공간을 압도한다.",
+  "transfer": "광고 콘티 구성 시, 인물의 여가 장면을 픽셀화된 오브제나 기하학적 모듈로 재구성하여 현실과 환상의 경계를 모호하게 만드는 연출에 활용 가능하다.",
+  "context": "데릭 아담스는 흑인 문화의 여가와 기쁨을 주제로 작업하며, 2022년 뉴욕 록펠러 센터에서 '펀타임 유니콘(Funtime Unicorns)' 조형물을 선보인 바 있다. 2026년 10월에는 플로이드 베넷 필드의 역사적 격납고 파사드에 디지털 빛을 투사하는 등 건축적 공간을 캔버스로 활용하는 시도를 이어오고 있다.",
+  "findings": [
+   {
+    "text": "데릭 아담스는 흑인 문화의 패턴과 이미지를 참조하며 '블랙 조이(Black Joy)'를 중심으로 작업하는 시각 예술가이다.",
+    "s": 3,
+    "quote": "Much of Adams' work is centered around his Black identity, frequently referencing patterns, images, and themes of Black culture in America, with a focus on what critics have referred to as \"Black Joy\"."
+   },
+   {
+    "text": "레고 그룹은 1932년 올레 키르크 크리스티안센이 설립한 덴마크 기업으로, 현재 크리스티안센 가족이 소유하고 있다.",
+    "s": 4,
+    "quote": "The company was founded in 1932 by Ole Kirk Christiansen. As of 2025, the company is owned by the Kristiansen family via their family office, with backing from investment firm Kirkbi."
+   }
+  ],
+  "keywords": [
+   "데릭 아담스",
+   "레고",
+   "플로터스",
+   "공공 설치 미술",
+   "기하학적 색면"
+  ],
+  "evidence": "Each piece becomes part of the design up close while, from farther away, they accumulate to become a recognizable figure.",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "작가의 기존 회화적 서사를 레고라는 특정 재료로 변환하는 구체적인 기법과 관람객 참여 동선이 명확히 제시됨.",
+  "v": 2,
+  "url": "https://www.designboom.com/art/derrick-adams-miami-week-build-giant-lego-unicorn-pool-float-party-avant-gallery/",
+  "original_title": "derrick adams invites miami art week visitors to build a giant LEGO unicorn pool float",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 8245,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-20 05:58",
+  "research": {
+   "entities": [
+    "Derrick Adams",
+    "LEGO Group",
+    "Floaters",
+    "Avant Gallery",
+    "1111 Lincoln Road"
+   ],
+   "questions": [
+    "데릭 아담스의 'Floaters' 연작이 지닌 예술적 의미와 흑인 문화에서의 여가에 대한 시각은 무엇인가?",
+    "레고 브릭을 활용한 대형 설치 미술이 작가의 기존 회화적 스타일인 기하학적 색면 구성과 어떻게 조화를 이루는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Derrick Adams",
+     "url": "https://www.derrickadams.com/"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "LEGO Group - About Us - LEGO.com",
+     "url": "https://www.lego.com/en-us/aboutus/lego-group"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Derrick Adams",
+     "url": "https://en.wikipedia.org/wiki/Derrick%20Adams"
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "The Lego Group",
+     "url": "https://en.wikipedia.org/wiki/The%20Lego%20Group"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "브루클린의 역사적 격납고, 빛과 프로젝션 매핑으로 재탄생하다",
+     "url": "https://hyperallergic.com/derrick-adams-randy-polumbo-wills-glasspiegel-more-artists-project-newly-commissioned-works-onto-historic-hangars-in-brooklyn/"
+    }
+   ],
+   "used": [
+    1,
+    3,
+    4,
+    5
+   ],
+   "chars": 3136
+  },
+  "depth_raw": 4,
+  "depth_v": 2
  }
 }
