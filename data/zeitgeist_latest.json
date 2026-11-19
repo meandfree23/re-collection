@@ -1,32 +1,44 @@
 {
-  "generated_at": "2026-11-19 16:46 KST",
+  "generated_at": "2026-11-19 19:39 KST",
   "period": "2026.11.12 - 2026.11.19",
   "total_articles": 577,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 246
+      "count": 263
     },
     {
       "genre": "동시대 미술",
-      "count": 195
+      "count": 197
     },
     {
       "genre": "미디어 파사드·3D",
-      "count": 87
+      "count": 78
     },
     {
       "genre": "아방가르드 패션",
-      "count": 49
+      "count": 39
     }
   ],
   "themes": [
     {
       "keyword": "박물관·전시",
-      "count": 66,
+      "count": 62,
       "previous_count": 35,
       "trend": "rising",
       "items": [
+        {
+          "title": "Jacolby Satterwhite - A Metta Prayer",
+          "url": "https://www.nowness.com/films/jacolby-satterwhite-a-metta-prayer/",
+          "image_url": "https://www.nowness.com/media/bvuh5fa3/a-metta-prayer-still-3.jpg",
+          "source_name": "NOWNESS"
+        },
+        {
+          "title": "1970년대 아테네 사무실이 중앙 전시 공간을 중심으로 한 하이브리드 주택 갤러리로 탈바꿈하다",
+          "url": "https://www.designboom.com/architecture/1970s-athens-office-hybrid-home-gallery-central-exhibition-void-oblique-astral-weeks/",
+          "image_url": "https://www.designboom.com/wp-content/dbsub/460547/2025-03-22/astral-weeks-transformation-of-an-industrial-space-into-a-flat-exhibition-space-ceb1thens-139mc2b2-2022-23-4-67deab08d2c1f.jpg",
+          "source_name": "Designboom Architecture"
+        },
         {
           "title": "Laurids Gallée, 끈적끈적한 수지로 빛나는 안테나 마스트 같은 조명을 만듭니다.",
           "url": "https://www.dezeen.com/2026/03/25/laurids-gallee-gloopy-resin-lighting-exhibition/",
@@ -38,27 +50,27 @@
           "url": "https://www.dezeen.com/2026/11/19/seaweed-earplug-grant-design-museum-prototypes/",
           "image_url": "https://static-2026.dezeen.com/uploads/2026/11/Design-Museum_dezeen_2364_col_4-991x1024.jpg",
           "source_name": "Dezeen"
-        },
-        {
-          "title": "Art Bridges Fund, '모두를 위한 접근성' 이니셔티브에 950만 달러 추가 지원",
-          "url": "https://www.artforum.com/news/art-bridges-fund-gives-access-for-all-initiative-1234763801/",
-          "image_url": "https://www.artforum.com/wp-content/uploads/2026/11/struth_audience_4.jpg.webp?w=650",
-          "source_name": "Artforum"
-        },
-        {
-          "title": "TEFAF 마스트리흐트, 2027년 라인업 발표",
-          "url": "https://www.artforum.com/news/tefaf-maastricht-announces-2027-participants-1234763751/",
-          "image_url": "https://www.artforum.com/wp-content/uploads/2020/03/article00_large-152.jpg?w=650",
-          "source_name": "Artforum"
         }
       ]
     },
     {
       "keyword": "빛과 조명",
-      "count": 27,
+      "count": 28,
       "previous_count": 9,
       "trend": "rising",
       "items": [
+        {
+          "title": "주조 청동과 거울 광택이 돋보이는 Ross Gardam의 Bullion 벽등.",
+          "url": "https://www.yellowtrace.com.au/ross-gardam-bullion-wall-light-collection-australian-design/",
+          "image_url": "https://assets.yellowtrace.com.au/wp-content/uploads/2026/11/03153034/Yellowtrace-Ross-Gardam-Bullion-Collection-Photo-Haydn-Cattach-26_opt80.jpg",
+          "source_name": "Yellowtrace"
+        },
+        {
+          "title": "장-미셸 자르의 저서 'Machines'가 전자 음악의 역사를 조명합니다",
+          "url": "https://www.wallpaper.com/tech/jean-michel-jarre-machines-a-history-of-electronic-music-book-review",
+          "image_url": "https://cdn.mos.cms.futurecdn.net/kveMVgsAUoTy5Foc43M6Fc-1920-80.jpg",
+          "source_name": "Wallpaper*"
+        },
         {
           "title": "Aesop, 밀라노 디자인 위크에서 The Factory of Light 설치 작품과 함께 Aposē 램프 출시",
           "url": "https://www.dezeen.com/2026/04/20/aesop-apose-factory-light-milan-design-week/",
@@ -70,24 +82,12 @@
           "url": "https://www.dezeen.com/2026/04/01/kelly-wearstler-hm-home-collection-milan-design-week/",
           "image_url": "https://static-2026.dezeen.com/uploads/2026/04/kelly-wearstler-hm-home_dezeen_2364_col_sq-852x852.jpg",
           "source_name": "Dezeen Lighting"
-        },
-        {
-          "title": "Laurids Gallée, 끈적끈적한 수지로 빛나는 안테나 마스트 같은 조명을 만듭니다.",
-          "url": "https://www.dezeen.com/2026/03/25/laurids-gallee-gloopy-resin-lighting-exhibition/",
-          "image_url": "https://static-2026.dezeen.com/uploads/2026/03/lima-charlie-laurids-gallee-objects-with-narratives-brussels-design-lighting-exhibition-sq-852x852.jpg",
-          "source_name": "Dezeen Lighting"
-        },
-        {
-          "title": "린데 프레야 탄겔더, 'Fluid Re-Collection'에서 '고대와 현대'의 공예를 조화시키다",
-          "url": "https://www.dezeen.com/2026/05/06/linde-freya-tangelder-crafts-fluid-re-collection/",
-          "image_url": "https://static-2026.dezeen.com/uploads/2026/05/fluid-linde-freya-tangelder_dezeen_2364_sq_2-852x852.jpg",
-          "source_name": "Dezeen Lighting"
         }
       ]
     },
     {
       "keyword": "목재 건축",
-      "count": 20,
+      "count": 19,
       "previous_count": 9,
       "trend": "rising",
       "items": [
@@ -114,38 +114,6 @@
           "url": "https://www.dezeen.com/2026/05/06/linde-freya-tangelder-crafts-fluid-re-collection/",
           "image_url": "https://static-2026.dezeen.com/uploads/2026/05/fluid-linde-freya-tangelder_dezeen_2364_sq_2-852x852.jpg",
           "source_name": "Dezeen Lighting"
-        }
-      ]
-    },
-    {
-      "keyword": "리노베이션·재생",
-      "count": 18,
-      "previous_count": 7,
-      "trend": "rising",
-      "items": [
-        {
-          "title": "아이콘 플레이스 시바코엔 리노베이션 / 겐슬러 + 록웰 그룹",
-          "url": "https://www.archdaily.com/1188531/icon-place-shibakoen-renovation-gensler-plus-rockwell-group",
-          "image_url": "https://images.adsttc.com/media/images/6af5/5234/eabd/2a00/0192/d349/large_jpg/LIPTK_ICON_PLACE_SHIBAKOEN_3_hip.jpg?1794462281",
-          "source_name": "ArchDaily"
-        },
-        {
-          "title": "1940년대 프랑스 영화 속 한 장면을 연상시키는 리노베이션된 아르데코 양식의 샬레입니다.",
-          "url": "https://www.wallpaper.com/design-interiors/interior-design/le-sarto-chalet-megeve-claves-design-studio",
-          "image_url": "https://cdn.mos.cms.futurecdn.net/uG9JXV7J23VXmi8tiPs2gG-1920-80.png",
-          "source_name": "Wallpaper*"
-        },
-        {
-          "title": "페론, 차 컬렉션을 중심으로 퀘벡 주방을 꾸밉니다",
-          "url": "https://www.dezeen.com/2026/11/17/perron-kitchen-interior-renovation-quebec-canada/",
-          "image_url": "https://static-2026.dezeen.com/uploads/2026/11/the-teahouse_perron_dezeen_sq1-1024x1024.jpg",
-          "source_name": "Dezeen"
-        },
-        {
-          "title": "ConForm이 진행한 코츠월드 헛간 리노베이션으로 '옛것과 새것의 대화'가 이루어집니다.",
-          "url": "https://www.dezeen.com/2026/11/18/open-byre-conform/",
-          "image_url": "https://static-2026.dezeen.com/uploads/2026/11/cotswolds-open-byre-barn-renovation-conform-sq_dezeen_2364_col_2-1024x1024.jpg",
-          "source_name": "Dezeen"
         }
       ]
     },
@@ -182,11 +150,55 @@
       ]
     },
     {
+      "keyword": "리노베이션·재생",
+      "count": 17,
+      "previous_count": 7,
+      "trend": "rising",
+      "items": [
+        {
+          "title": "아이콘 플레이스 시바코엔 리노베이션 / 겐슬러 + 록웰 그룹",
+          "url": "https://www.archdaily.com/1188531/icon-place-shibakoen-renovation-gensler-plus-rockwell-group",
+          "image_url": "https://images.adsttc.com/media/images/6af5/5234/eabd/2a00/0192/d349/large_jpg/LIPTK_ICON_PLACE_SHIBAKOEN_3_hip.jpg?1794462281",
+          "source_name": "ArchDaily"
+        },
+        {
+          "title": "1940년대 프랑스 영화 속 한 장면을 연상시키는 리노베이션된 아르데코 양식의 샬레입니다.",
+          "url": "https://www.wallpaper.com/design-interiors/interior-design/le-sarto-chalet-megeve-claves-design-studio",
+          "image_url": "https://cdn.mos.cms.futurecdn.net/uG9JXV7J23VXmi8tiPs2gG-1920-80.png",
+          "source_name": "Wallpaper*"
+        },
+        {
+          "title": "페론, 차 컬렉션을 중심으로 퀘벡 주방을 꾸밉니다",
+          "url": "https://www.dezeen.com/2026/11/17/perron-kitchen-interior-renovation-quebec-canada/",
+          "image_url": "https://static-2026.dezeen.com/uploads/2026/11/the-teahouse_perron_dezeen_sq1-1024x1024.jpg",
+          "source_name": "Dezeen"
+        },
+        {
+          "title": "SOM, 필라델피아 기차역 복원 1단계 완료",
+          "url": "https://www.dezeen.com/2026/11/17/som-30-street-station-philadelphia-restoration/",
+          "image_url": "https://static-2026.dezeen.com/uploads/2026/11/30-street-station-som-philadelphia_dezeen_2364_sq-1024x1024.jpg",
+          "source_name": "Dezeen"
+        }
+      ]
+    },
+    {
       "keyword": "사진",
-      "count": 11,
+      "count": 13,
       "previous_count": 8,
       "trend": "rising",
       "items": [
+        {
+          "title": "사진 분야에 진출한 벨몬드가 새로운 문화적 변화를 주도합니다",
+          "url": "https://www.wallpaper.com/art/photography/belmond-photography-programme",
+          "image_url": "https://cdn.mos.cms.futurecdn.net/TwpQVfmb7uTA2ownfAXgB9-1920-80.png",
+          "source_name": "Wallpaper*"
+        },
+        {
+          "title": "박제술, 고양이 쇼, 미인 대회: 앨리스 포이저(Alice Poyzer)가 자신의 세계와 신경다양성의 의미를 소개합니다.",
+          "url": "https://www.itsnicethat.com/articles/alice-poyzer-other-joys-photography-discover-191126",
+          "image_url": "https://admin.itsnicethat.com/images/YA_mCIHb5KE1PJkwqY5NYcRSb1I=/284179/width-1440/Alice-Poyzer-Photography-ItsNiceThat-7.jpg",
+          "source_name": "It's Nice That"
+        },
         {
           "title": "사진작가 트리스탄 마르티네즈(Tristan Martinez)의 '손 사이(Between Hands)'",
           "url": "https://www.booooooom.com/2026/11/18/between-hands-by-photographer-tristan-martinez/",
@@ -198,27 +210,17 @@
           "url": "https://www.creativeboom.com/inspiration/skull-caps-football-shirts-and-the-sweetness-of-male-friendship-in-nikolai-voelckers-photographs/",
           "image_url": "https://media.creativeboom.com/6ee62189-1070-49b5-8d3c-83ce7ff29283/conversions/84e1003f197898dbef4b46703848b7673ccc9e98-medium.webp",
           "source_name": "Creative Boom"
-        },
-        {
-          "title": "AnOther의 파리 포토 2026 하이라이트",
-          "url": "https://www.anothermag.com/art-photography/17635/anothers-paris-photo-2026-highlights",
-          "image_url": "https://images-prod.anothermag.com/1856/0-0-1856-1237/azure/another-prod/480/0/480368.jpg",
-          "source_name": "AnOther Magazine"
-        },
-        {
-          "title": "Lotus L. Kang Wins $70,000 Sobey Art Award",
-          "url": "https://www.artforum.com/news/lotus-l-kang-wins-2026-sobey-art-award-1234763642/",
-          "image_url": "https://www.artforum.com/wp-content/uploads/2026/11/Lotus-L-Kang.jpeg?w=650",
-          "source_name": "Artforum"
         }
       ]
     }
   ],
   "notable_names": [
     "Edu Request",
-    "Dezeen Awards",
-    "Paris Photo",
     "Mexico City",
+    "Dezeen Awards",
+    "Marquee Week",
+    "Metta Prayer",
+    "Paris Photo",
     "Peter Morris Architects",
     "Artist Spotlight",
     "Report Finds",

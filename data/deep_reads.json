@@ -356961,5 +356961,1219 @@
   },
   "depth_raw": 4,
   "depth_v": 2
+ },
+ "nowness.com/films/jacolby-satterwhite-a-metta-prayer": {
+  "title_ko": "자콜비 새터화이트가 메트로폴리탄 미술관 대강당 벽면에 펼친 퀴어 유토피아",
+  "summary_ko": "뉴욕 기반의 아티스트 자콜비 새터화이트가 메트로폴리탄 미술관 대강당 벽면에 21분 분량의 6채널 비디오 설치 작업 'A Metta Prayer'를 선보였다. 이 작업은 무한 질주 비디오 게임의 문법을 차용하면서도 폭력성을 배제하고, 음악과 애니메이션을 결합해 해방과 자애의 서사를 그린다.",
+  "lens": "폭력적인 비디오 게임의 구조를 해체해 퀴어의 자애와 해방을 담은 가상의 제의로 치환한다.",
+  "why_now": "디지털 기술과 아바타를 활용해 신체적 한계를 넘어선 연대와 치유의 가능성을 시각화하는 동시대적 흐름을 보여준다.",
+  "mechanism": "무한 질주 비디오 게임의 화면 구조를 차용하되, 폭력적 요소 대신 불교의 자애 기도를 모티브로 삼아 애니메이션과 퍼포먼스를 유기적으로 결합한다.",
+  "sensory": "대형 미술관의 압도적인 스케일을 채우는 다채널 프로젝션과 아바타들의 역동적인 안무가 공간 전체를 감싸 안는 몰입감을 형성한다.",
+  "transfer": "가상 게임의 프레임을 공간 프로젝션의 레이어로 삼아, 서사적 갈등 대신 신체의 해방감을 강조하는 시퀀스 구성에 활용한다.",
+  "context": "자콜비 새터화이트는 뉴욕을 기반으로 활발하게 활동하며 뉴욕 현대미술관, 메트로폴리탄 미술관 등 주요 기관에서 몰입형 설치 작업을 선보여 왔다.",
+  "findings": [
+   {
+    "text": "자콜비 새터화이트는 미국 사우스캐롤라이나 출신의 아프리카계 미국인 퀴어 동시대 아티스트이다.",
+    "s": 3,
+    "quote": "Jacolby Satterwhite (born 1986, South Carolina) is an African American queer contemporary artist who creates immersive installations."
+   },
+   {
+    "text": "메트로폴리탄 미술관은 면적 기준으로 세계에서 네 번째로 큰 미술관이자 아메리카 대륙에서 가장 큰 미술관이다.",
+    "s": 4,
+    "quote": "By floor area, it is the fourth-largest museum in the world and the largest art museum in the Americas."
+   }
+  ],
+  "keywords": [
+   "자콜비새터화이트",
+   "메트로폴리탄미술관",
+   "비디오설치",
+   "퀴어아트"
+  ],
+  "evidence": "New York-based artist Jacolby Satterwhite’s A Metta Prayer (2003) is a multimedia, site-specific installation that was projected onto the walls of the Great Hall at the Metropolitan Museum of Art",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "메트로폴리탄 미술관 대강당이라는 구체적 장소에서 게임 문법을 비틀어 연출한 독창적인 멀티미디어 설치 작업이다.",
+  "v": 2,
+  "url": "https://www.nowness.com/films/jacolby-satterwhite-a-metta-prayer/",
+  "original_title": "Jacolby Satterwhite - A Metta Prayer",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 1925,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-19 19:39",
+  "research": {
+   "entities": [
+    "Jacolby Satterwhite",
+    "Metropolitan Museum of Art",
+    "Solange Knowles",
+    "Moses Sumney",
+    "Rema Hort Mann Fund"
+   ],
+   "questions": [
+    "자콜비 새터화이트가 'A Metta Prayer'를 통해 표현하고자 한 퀴어적 자유와 자애(Metta)의 의미는 무엇인가?",
+    "이 작품이 비디오 게임의 문법을 차용하면서도 기존 게임 장르의 폭력성을 어떻게 비판적으로 재해석했는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Rema Hort Mann Fund",
+     "url": "https://remahortmannfund.org/artists-living-with-cancer-grant"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Rema Hort Mann Fund",
+     "url": "https://remahortmannfund.org/"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Jacolby Satterwhite",
+     "url": "https://en.wikipedia.org/wiki/Jacolby%20Satterwhite"
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "Metropolitan Museum of Art",
+     "url": "https://en.wikipedia.org/wiki/Metropolitan%20Museum%20of%20Art"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "포스트휴먼의 풍경: 기술과 생태가 얽히는 전시 '시머'",
+     "url": "https://hyperallergic.com/shimmer-dreaming-the-posthuman/"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "바이올리니스트의 신체를 악보 삼아 공감각을 빛으로 번역하다",
+     "url": "https://www.designboom.com/art/synesthesia-light-audrey-wright-musical-body-metropolitan-museum-geoff-robertson-stephanie-ann-boyd/"
+    },
+    {
+     "n": 7,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "구름을 보는 새로운 방식: 메트로폴리탄 미술관의 200년 기록",
+     "url": "https://www.designboom.com/art/chasing-clouds-met-two-centuries-skywatching-metropolitan-museum-new-york-exhibition/"
+    }
+   ],
+   "used": [
+    3,
+    4
+   ],
+   "chars": 7947
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "archdaily.com/1188890/world-architecture-festival-2026-day-one-winners-announced": {
+  "title_ko": "2026 세계건축페스티벌(WAF): 지형과 유산을 재해석한 공간의 승리",
+  "summary_ko": "미국 플로리다에서 열린 2026 세계건축페스티벌(WAF) 1일 차 수상작이 발표되었다. 보븐바우 아키텍처와 데이비드 콘 아키텍츠의 하셀트 베긴회는 유산의 창의적 재사용을, KPF의 TCC DAKA 재생 자원 센터는 산업 시설의 변모를 보여주며 각 부문에서 수상했다. 이번 행사는 전 세계 400여 개 프로젝트가 심사위원단 앞에서 실시간으로 경쟁하는 방식으로 진행된다.",
+  "lens": "역사적 유산과 산업적 골조를 박제하지 않고, 현재의 공공적 기능과 결합해 시간의 층위를 쌓아 올리는 전략이 주효했다.",
+  "why_now": "건축이 단순한 형태를 넘어 지역의 기후와 산업 유산에 어떻게 순응하며 사회적 시노그래피를 구축하는지 실시간으로 증명하는 현장이다.",
+  "mechanism": "기존 건축물의 구조적 뼈대를 유지하면서도 내부 동선을 재구성해 폐쇄적인 성역을 도시의 캠퍼스나 커뮤니티 거점으로 전유한다.",
+  "sensory": "산화된 벽돌과 노후한 콘크리트의 거친 물성에 현대적인 유리와 금속 디테일을 덧대어 시간의 무게감을 시각화한다.",
+  "transfer": "공간 콘티 작업 시 기존 건물의 마감재를 완전히 걷어내기보다, 세월이 묻은 골조를 노출하고 그 사이에 투명한 유리 파티션을 배치해 시각적 깊이를 확보한다.",
+  "context": "보븐바우 아키텍처와 데이비드 콘 아키텍츠는 과거 하셀트 베긴회를 대학 캠퍼스로 전환하며 도시의 공공성을 회복한 바 있다. 포스터 앤 파트너스는 대규모 인프라와 재생 프로젝트를 통해 지역 정체성을 건축 언어로 치환하는 데 탁월한 역량을 보인다.",
+  "findings": [
+   {
+    "text": "세계건축페스티벌은 건축가들이 심사위원단 앞에서 자신의 프로젝트를 실시간으로 발표하는 유일한 건축 행사이다.",
+    "s": 2,
+    "quote": "It is the only architecture festival that combines a live–judged awards programme, where shortlisted architects present their projects live in crit rooms to a judging panel"
+   },
+   {
+    "text": "하셀트 베긴회 프로젝트는 역사적 성역을 교육 공간으로 전환해 지역 주민과 학생의 교류를 이끌어냈다.",
+    "s": 4,
+    "quote": "한때 도시와 단절된 성역이었던 이곳은 3,800㎡ 규모의 녹지 공공 공간으로 탈바꿈하며 지역 주민과 학생을 위한 활기찬 교류의 장이 되었다."
+   }
+  ],
+  "keywords": [
+   "건축재생",
+   "산업유산",
+   "공공성",
+   "지형순응",
+   "재맥락화"
+  ],
+  "evidence": "showcasing a diverse range of works that highlight innovation, social impact, and architectural vision across scales and contexts.",
+  "kind": "뉴스·이슈",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "세계적인 건축 어워드의 수상작을 통해 당대 건축의 재사용과 지역성 대응 전략을 구체적으로 포착했다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1188890/world-architecture-festival-2026-day-one-winners-announced",
+  "original_title": "World Architecture Festival 2026: Day One Winners Announced",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 5695,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-19 19:39",
+  "research": {
+   "entities": [
+    "World Architecture Festival",
+    "Foster + Partners",
+    "Studio Lotus",
+    "David Kohn Architects",
+    "Bovenbouw Architectuur"
+   ],
+   "questions": [
+    "2026년 세계건축페스티벌(WAF) 첫째 날 발표된 주요 수상작들의 공통적인 디자인 트렌드나 혁신 포인트는 무엇인가?",
+    "완공된 건물 및 미래 프로젝트 부문에서 각 지역별 환경과 사회적 맥락을 어떻게 반영하여 수상하였는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "World Architecture Festival",
+     "url": "https://worldarchitecturefestival.com/WAF2026/en/page/2026-winners?delivery_name=72797&utm_campaign=FABS_WAF_EVE_DEL_2026_ONSITE_WEDS_AR&utm_content=&utm_id=38164&utm_medium=email&utm_source=Adestra&utm_term="
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "World Architecture Festival",
+     "url": "https://en.wikipedia.org/wiki/World%20Architecture%20Festival"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Foster and Partners",
+     "url": "https://en.wikipedia.org/wiki/Foster%20and%20Partners"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "하셀트 베긴회: 폐쇄된 성역에서 열린 도시 캠퍼스로의 전환",
+     "url": "https://www.archdaily.com/1183932/hasselt-beguinage-institute-bovenbouw"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "캘거리에 상륙한 1960년대 캘리포니아 모더니즘, 스테이블 팜스 클럽",
+     "url": "https://www.wallpaper.com/travel/restaurants/stable-palms-club-calgary-review"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "지역성을 조각하다: 세계 공항 터미널이 보여주는 건축적 진화",
+     "url": "https://www.architecturaldigest.com/story/the-most-beautiful-airport-terminals-in-the-world-including-two-in-the-us"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    4
+   ],
+   "chars": 5330
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "archdaily.com/1187388/villa-in-nishinokyo-aliana-architects": {
+  "title_ko": "교토의 좁은 필지를 관통하는 수직적 적층, 니시노쿄 빌라",
+  "summary_ko": "교토 니시노쿄엔마치에 위치한 17평 규모의 좁고 긴 대지에 알리아나 아키텍츠(ALIANA ARCHITECTS)가 설계한 주택이다. 폭 4미터, 길이 14미터의 이른바 '장어의 침상'이라 불리는 필지 특성을 활용하여, 창고의 수납 효율성과 주거의 안락함을 하나의 구조체로 통합했다.",
+  "lens": "극도로 제한된 폭 4미터의 대지에서 수직적 레이어를 쌓아 창고와 주거라는 이질적 기능을 밀도 있게 압축했다.",
+  "why_now": "도시 내 잔여지를 활용한 고밀도 주거 설계가 요구되는 시점에, 교토의 전통적 필지 구조를 현대적 기능으로 재해석한 선례다.",
+  "mechanism": "필지의 깊이 방향을 따라 기능을 적층하고, 좁은 폭을 보완하기 위해 수직적 개방감을 확보하는 구조를 택했다.",
+  "sensory": "교토의 밀도 높은 도시 맥락 속에서 단단한 매스로 존재하며, 내부에는 창고의 기능적 물성과 주거의 온기가 공존한다.",
+  "transfer": "협소 주택 콘티 작성 시, 공간을 평면적으로 나누기보다 창고의 수납 논리를 주거 동선에 결합하여 수직적 효율을 극대화하는 방식을 적용한다.",
+  "context": "사다요시 미노(Sadayoshi Mino)가 이끄는 알리아나 아키텍츠의 작업으로, 교토의 지형적 제약을 건축적 장치로 번역하는 데 집중한다.",
+  "findings": [
+   {
+    "text": "교토의 좁고 긴 필지를 의미하는 '장어의 침상' 형태를 활용해 56제곱미터 대지에 주거와 창고 기능을 통합했다.",
+    "s": 1,
+    "quote": "基地面积仅 17 坪（约 56 平方米），呈典型的狭长“鳗鱼床”形状——宽 4 米，深 14 米。"
+   }
+  ],
+  "keywords": [
+   "협소주택",
+   "교토건축",
+   "공간밀도",
+   "알리아나아키텍츠"
+  ],
+  "evidence": "forming a long, narrow \"eel's bed\" shape—4 meters wide and 14 meters deep.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "교토의 전통적 필지 제약을 창고와 주거의 기능적 통합으로 풀어낸 전략이 명확하나, 내부 상세 구조에 대한 정보가 제한적이다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1187388/villa-in-nishinokyo-aliana-architects",
+  "original_title": "Villa in Nishinokyo / ALIANA ARCHITECTS",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 1029,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-19 19:39",
+  "research": {
+   "entities": [
+    "ALIANA ARCHITECTS",
+    "Sadayoshi Mino",
+    "Ascoral Structural Research Institute"
+   ],
+   "questions": [
+    "교토의 전통적인 주거 형태인 '장어의 침상(eel's bed)' 구조가 현대 건축 설계에 어떤 제약과 기회를 제공하는가?",
+    "56제곱미터의 좁은 대지에서 창고 기능과 주거 기능을 효율적으로 통합하기 위해 어떤 공간 전략을 사용했는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "西之京别墅 / ALIANA ARCHITECTS",
+     "url": "https://www.archdaily.cn/1188528/xi-zhi-jing-bie-shu-aliana-architects?ad_name=article_cn_redirect=popup"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 419
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "archdaily.com/1188751/the-outpost-accommodation-ample": {
+  "title_ko": "호주 킴벌리, 오프사이트 공법으로 구현한 8개의 고립된 캐빈",
+  "summary_ko": "앰플(Ample)이 호주 킴벌리 지역 찰리 리버 스테이션에 8개의 숙박 시설을 완공했다. 호주 야생동물 보존협회(AWC)를 위해 설계된 이 프로젝트는 오프사이트 건축 방식을 도입해 접근이 어려운 오지 환경에서 환경 영향을 최소화하며 효율적인 시공을 실현했다.",
+  "lens": "극한의 지형에 가해지는 물리적 개입을 최소화하기 위해, 공장에서 완성된 모듈을 옮겨와 현장에 안착시키는 오프사이트 건축의 실질적 효용을 증명한다.",
+  "why_now": "기후 위기와 환경 보호 구역 내 개발이 까다로워지는 상황에서, 현장 시공의 소음과 오염을 줄이는 프리패브 공법은 생태적 보존과 공간 구축을 병행하는 핵심 대안이 된다.",
+  "mechanism": "현장 조립을 최소화하는 오프사이트 공법을 통해 자재 운반과 시공 과정에서 발생하는 현장 훼손을 방지하고, 킴벌리의 척박한 지형에 최적화된 모듈을 설계했다.",
+  "sensory": "고립된 자연의 적막 속에서 주변 지형과 조화를 이루는 건축적 볼륨과, 현지 환경에 반응하도록 설계된 외피의 질감이 시각적 고요함을 전달한다.",
+  "transfer": "오지 촬영이나 공간 설계 시, 현장 구축의 한계를 극복하기 위해 모듈형 구조를 활용한 공간 배치와 조립식 시스템의 미학적 가능성을 콘티에 도입한다.",
+  "context": "호주 야생동물 보존협회(AWC)는 호주 전역에서 650만 헥타르 이상의 보호 구역을 관리하는 비영리 단체로, 이번 프로젝트는 생태 보존과 건축적 편의를 결합한 시도다. 앰플은 이전에도 기후와 지형에 반응하는 모더니즘적 해석을 통해 건축의 장소성을 탐구해 왔다.",
+  "findings": [
+   {
+    "text": "호주 야생동물 보존협회는 호주에서 가장 큰 사립 토지 소유자이자 관리자로서, 현재 31개의 보호 구역을 관리하고 있다.",
+    "s": 1,
+    "quote": "AWC is the largest private owner and manager of land for conservation in Australia, currently managing 31 sanctuaries and partnership sites for wildlife conservation that cover over 6.5 million hectares across Australia."
+   }
+  ],
+  "keywords": [
+   "오프사이트",
+   "모듈러",
+   "킴벌리",
+   "생태건축"
+  ],
+  "evidence": "the project explores how off-site construction can deliver considered architecture in one of Australia's most isolated and environmentally significant landscapes.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "오프사이트 공법의 효용을 잘 보여주나, 구체적인 설계 도면이나 내부 상세 재료에 대한 정보가 부족하여 일반적인 프로젝트 소개에 머문다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1188751/the-outpost-accommodation-ample",
+  "original_title": "The Outpost Cabin / Ample",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 1278,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-19 19:39",
+  "research": {
+   "entities": [
+    "Ample",
+    "Agents of Architecture",
+    "Unearthed Interiors",
+    "Australian Wildlife Conservancy",
+    "Kimberley"
+   ],
+   "questions": [
+    "호주 킴벌리 지역의 극한 환경에서 오프사이트 건축(off-site construction) 방식이 지닌 장점은 무엇인가?",
+    "호주 야생동물 보존협회(AWC)와 건축가들이 협력하여 자연 보호 지역 내에 숙박 시설을 지을 때 고려한 친환경 요소는 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Australian Wildlife Conservancy",
+     "url": "https://en.wikipedia.org/wiki/Australian%20Wildlife%20Conservancy"
+    },
+    {
+     "n": 2,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "부에노스아이레스, 1930년대 모더니즘 건축의 실험적 풍경",
+     "url": "https://www.wallpaper.com/architecture/buenos-aires-modernism"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "데이터 센터는 과연 훌륭한 건축이 될 수 있는가",
+     "url": "https://www.dezeen.com/2026/09/29/data-centres-design-architecture-hyperscale-ai/"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "런던 킹스크로스의 케이던스, 프리패브 공법으로 구축한 붉은 벽돌의 주거 단지",
+     "url": "https://www.wallpaper.com/architecture/residential/cadence-kings-cross-alison-brooks-uk"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 1845
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "dezeen.com/2026/11/19/westbrook-pavilion-tracey-emin-waugh-thistleton": {
+  "title_ko": "에드워드 시대 목욕탕의 뼈대 위에 세우는 예술가와 지역민의 사우나",
+  "summary_ko": "영국 건축 사무소 와우 시스틀턴 아키텍츠가 마게이트의 방치된 웨스트브룩 파빌리온을 예술가 트레이시 에민의 재단을 위한 예술 센터로 개조한다. 1914년 개관 당시의 해수욕 탈의실과 찻집이라는 본래 용도를 되살려, 작가 스튜디오와 갤러리뿐만 아니라 공공 사우나와 카페를 함께 구축한다.",
+  "lens": "후기 증개축을 걷어내고 에드워드 시대의 비례를 복원해, 사적 예술 공간과 공공 목욕탕을 하나의 해안 건물에 결합한다.",
+  "why_now": "사적인 작업 공간과 공공의 신체적 휴식 공간을 한 지붕 아래 묶어 해안가 유휴 건축물의 사회적 기능을 되살린다.",
+  "mechanism": "중앙 타워 구조물 상부의 역사적 벨베데레를 복원하고, 날개 층 전면에는 새로운 유리 파사드와 열주를 설치해 현대적 공공 건물의 수요를 충족한다.",
+  "sensory": "해풍이 드나드는 열주와 햇빛이 투과하는 유리 파사드, 바다 조망의 루프탑 테라스가 옛 에드워드 시대의 건축적 질감과 교차한다.",
+  "transfer": "해안가 롱숏 콘티에서 유리 파사드와 석조 기둥이 만드는 반복적인 그림자를 활용해 과거와 현재의 물리적 시간차를 시각화한다.",
+  "context": "와우 시스틀턴 아키텍츠는 지속 가능한 엔지니어드 목조건축과 커뮤니티 공간 프로젝트를 수행해 온 런던 기반의 건축 사무소다. 트레이시 에민은 자전적이고 고백적인 매체를 다루는 영국의 대표적 예술가로 2023년 이 건물을 매입했다.",
+  "findings": [
+   {
+    "text": "와우 시스틀턴은 런던 피필드 스트리트에 사무소를 둔 지속 가능한 건물 설계 및 연구 실천 조직이다.",
+    "s": 1,
+    "quote": "Waugh Thistleton is an established London-based design, consultancy and research practice producing thoughtful and sustainable buildings both locally and internationally."
+   },
+   {
+    "text": "트레이시 에민은 드로잉, 회화, 조각, 영화, 사진, 네온 텍스트 등 다양한 매체로 작업을 제작하는 영국의 예술가다.",
+    "s": 2,
+    "quote": "She produces work in a variety of media including drawing, painting, sculpture, film, photography, neon text and sewn appliqué."
+   }
+  ],
+  "keywords": [
+   "파빌리온",
+   "공공사우나",
+   "도시재생",
+   "해안건축"
+  ],
+  "evidence": "Waugh Thistleton Architects is set to transform the Edwardian Westbrook Pavilion in Margate, UK, into an arts centre for British artist Tracey Emin with a cafe, public sauna and changing rooms.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "역사적 건물의 용도 전환과 공공 기능 결합이 명확하나, 기본 계획 단계로 구체적 시공 디테일이 아직 완전히 드러나지 않았다.",
+  "v": 2,
+  "url": "https://www.dezeen.com/2026/11/19/westbrook-pavilion-tracey-emin-waugh-thistleton/",
+  "original_title": "Waugh Thistleton Architects set to transform derelict bathing pavilion into Tracey Emin-backed studios and sauna",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 3922,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-19 19:39",
+  "research": {
+   "entities": [
+    "Waugh Thistleton Architects",
+    "Tracey Emin",
+    "Westbrook Pavilion",
+    "Tracey Emin Foundation"
+   ],
+   "questions": [
+    "웨스트브룩 파빌리온의 에드워드 시대 건축적 특징을 현대적으로 어떻게 재해석하고 복원하려 하는가?",
+    "트레이시 에민 재단이 이 유휴 공간을 예술 센터로 탈바꿈시키려는 문화적 의도는 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Waugh Thistleton Architects",
+     "url": "https://waughthistleton.com/"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Tracey Emin",
+     "url": "https://en.wikipedia.org/wiki/Tracey%20Emin"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 4000
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "architectural-review.com/letters/yeyei-gomez-illustrates-the-most-intimate-dimension-of-archtiecture": {
+  "title_ko": "예예이 고메즈, 건축의 가장 내밀한 주거를 그리다",
+  "summary_ko": "건축 매거진 디 아키텍처럴 리뷰(The Architectural Review)가 일러스트레이터 예예이 고메즈(Yeyei Gómez)에게 의뢰한 작업이다. 고메즈는 주거 공간을 건축의 가장 근본적이고 내밀한 차원으로 규정하고, 이를 시각적 서사로 재구성했다. 이번 프로젝트는 건물을 단순히 물리적 구조물로 보지 않고, 인간의 삶이 머무는 가장 사적인 영역으로 해석한다.",
+  "lens": "건축을 거대 담론이 아닌 개인의 내밀한 주거 경험으로 치환하여, 공간의 본질을 신체적 친밀감의 층위에서 포착한다.",
+  "why_now": "디지털 설계가 보편화된 시대에, 일러스트레이션이라는 매체를 통해 건축의 정서적 무게와 주거의 본질적 의미를 환기한다.",
+  "mechanism": "주거 공간의 물리적 골조를 개인의 일상적 행위와 결합하여, 건축의 구조적 측면과 인간의 내밀한 경험 사이의 간극을 좁힌다.",
+  "sensory": "공간을 채우는 사적인 온기와 그곳에 머무는 신체적 움직임이 일러스트의 선과 면을 통해 정적으로 투영된다.",
+  "transfer": "콘티 작업 시 공간의 입면도나 평면도를 그리는 대신, 공간 속 인물의 동선과 사물의 배치를 통해 그곳의 온도와 시간을 시각화하는 기법을 활용한다.",
+  "context": "1896년 창간된 디 아키텍처럴 리뷰는 건축을 도시와 사회를 읽는 프리즘으로 삼아 독립적인 비평을 이어왔다. 본 매체는 과거 데이비드슨 라파일리디스, 베스 로드웨이 등과 협업하며 건축의 구조적 실험과 인간적 제작 행위를 다각도로 조명해 왔다.",
+  "findings": [
+   {
+    "text": "디 아키텍처럴 리뷰는 1896년부터 건축과 도시, 인테리어 디자인 등 구축 환경에 대한 비평을 다루는 국제 건축 잡지이다.",
+    "s": 1,
+    "quote": "The Architectural Review is a monthly international architectural magazine. It has been published in London since 1896. Its articles cover the built environment – which includes landscape, building design, interior desig"
+   }
+  ],
+  "keywords": [
+   "내밀한 건축",
+   "주거 공간",
+   "예예이 고메즈",
+   "일러스트레이션",
+   "공간 서사"
+  ],
+  "evidence": "Yeyei Gómez illustrates the most intimate dimension of architecture",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "원문의 정보가 작가의 관점과 주제에 집중되어 있어, 구체적인 시각적 기법보다는 건축을 바라보는 태도에 대한 비평적 해석에 머물러 있다.",
+  "v": 2,
+  "url": "https://www.architectural-review.com/letters/yeyei-gomez-illustrates-the-most-intimate-dimension-of-archtiecture",
+  "original_title": "Yeyei Gómez illustrates the most intimate dimension of architecture",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 636,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-19 19:39",
+  "research": {
+   "entities": [
+    "Yeyei Gómez",
+    "The Architectural Review"
+   ],
+   "questions": [
+    "Yeyei Gómez가 건축을 시각적으로 해석하는 독특한 방식은 무엇인가?",
+    "The Architectural Review가 건축 비평에서 강조하는 '친밀한 차원(intimate dimension)'이란 무엇을 의미하는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "The Architectural Review",
+     "url": "https://en.wikipedia.org/wiki/The%20Architectural%20Review"
+    },
+    {
+     "n": 2,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "건축적 유희와 구조적 실험, 데이비드슨 라파일리디스의 생일 케이크",
+     "url": "https://www.architectural-review.com/letters/davidson-rafailidis-construct-a-birthday-cake"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "건축 비평의 130년, 아키텍처럴 리뷰가 기록하는 지형과 시간",
+     "url": "https://www.architectural-review.com/letters/birthday-wishes-sol-perez-martinez"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "인간의 손길이 새겨진 공간, 건축적 지평을 넓히다",
+     "url": "https://www.architectural-review.com/letters/beth-rodway-celebrates-a-building-full-of-human-making"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "chars": 1130
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "archdaily.com/1188546/the-architecture-of-distance-encountering-wildlife-at-shomari-wild-reserve": {
+  "title_ko": "관찰의 거리: 쇼마리 야생동물 보호구역의 건축적 시노그래피",
+  "summary_ko": "요르단 쇼마리 야생동물 보호구역의 방문자 센터는 관찰자와 야생동물 사이의 물리적 거리를 조율하는 매개체다. 투라쓰(Turath)는 화산 현무암이라는 지역적 물성을 활용해 지형에 순응하는 건축을 구현했다. 내부 세 개의 터널은 관람객의 동선을 야생동물 서식지 내부로 확장하며, 시각적 접촉과 생태적 보존의 긴장 관계를 공간화한다.",
+  "lens": "건축은 야생을 포획하는 틀이 아니라, 인간의 시선과 동물의 서식지 사이에 정교한 물리적 간극을 설계하는 필터로 작동한다.",
+  "why_now": "디지털 매체로 자연을 소비하는 시대에, 건축이 어떻게 물리적 실재와의 거리감을 조절하며 생태적 윤리를 공간에 반영하는지 보여준다.",
+  "mechanism": "기존 지형을 활용한 터널 구조를 통해 관람객은 실내에서 실외 서식지로 시선을 연장하며, 인간의 존재를 최소화한 채 야생의 일상을 관찰한다.",
+  "sensory": "거친 화산 현무암의 어두운 질감과 터널 너머로 쏟아지는 강렬한 야생의 빛이 대비되며, 관찰자의 시각적 몰입을 극대화한다.",
+  "transfer": "공간 연출 시 관람객의 동선을 단순한 직선이 아닌 터널형 시퀀스로 배치하여, 피사체를 정면이 아닌 틈새로 조망하게 함으로써 긴장감을 유도한다.",
+  "context": "투라쓰는 요르단 왕립 자연보호협회(RSCN)와 협업하여 지역의 지질학적 특성을 건축 언어로 번역하는 작업을 지속해왔다. 이는 인간과 자연의 공존을 목표로 하는 RSCN의 보존 철학을 물리적 공간으로 구현한 사례다.",
+  "findings": [
+   {
+    "text": "투라쓰는 요르단의 화산 현무암을 사용하여 지질학적 특징과 조화를 이루는 건축을 구현했다.",
+    "s": 1,
+    "quote": "The result was a locale-driven architecture that is contemporary in its composition and in its approach to using existing traditional material (Different types of volcanic basalt) to produce a positive contrast with the "
+   },
+   {
+    "text": "방문자 센터는 세 개의 터널을 통해 관람객이 실내에서 야생동물 서식지를 관찰하도록 설계되었다.",
+    "s": 1,
+    "quote": "This indoor-outdoor interaction was strengthened through the link between the building and the outdoor enclosures for the animals which can be observed from inside by walking through each of the three provided tunnels"
+   }
+  ],
+  "keywords": [
+   "지형순응",
+   "시노그래피",
+   "현무암",
+   "생태건축"
+  ],
+  "evidence": "Its spatial organisation, viewing tunnels and relationship with the surrounding terrain establish particular conditions through which visitors encounter the reserve and wildlife.",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "야생동물 보호구역이라는 특수한 환경에서 건축이 관찰의 거리감을 어떻게 물리적으로 구현하는지 구체적인 장치(터널, 재료)와 함께 분석했다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1188546/the-architecture-of-distance-encountering-wildlife-at-shomari-wild-reserve",
+  "original_title": "The Architecture of Distance: Encountering Wildlife at Shomari Wild Reserve",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 1573,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-19 19:39",
+  "research": {
+   "entities": [
+    "Shomari Wild Reserve",
+    "Turath",
+    "Royal Society for the Conservation of Nature"
+   ],
+   "questions": [
+    "건축이 야생동물 보호구역에서 인간의 관찰과 동물의 서식지 보존 사이의 균형을 어떻게 유지하고 있는가?",
+    "Turath가 설계한 Shomari Wild Reserve 방문자 센터의 공간적 구성이 관람객의 경험에 어떤 영향을 미치는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Shoumari Wild Reserve Visitors Center | Turath",
+     "url": "https://www.turath.jo/shoumari-wild-reserve?utm_medium=website&utm_source=archdaily.com"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Royal Society for the Conservation of Nature",
+     "url": "https://en.wikipedia.org/wiki/Royal%20Society%20for%20the%20Conservation%20of%20Nature"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 3320
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "architectural-review.com/letters/birthday-wishes-tina-gregoric": {
+  "title_ko": "아키텍처럴 리뷰가 기록하는 130년의 건축 비평과 순환형 설계",
+  "summary_ko": "1896년 창간된 아키텍처럴 리뷰는 전 세계의 건축물을 통해 도시와 주거 공간을 형성하는 사회적 힘을 비평해 왔다. 최근 티나 그레고리치를 조명하며 재료 실험과 적응형 재사용을 통한 순환성 탐구를 다룬다. 독립적인 비판적 목소리를 통해 우리가 거주하는 장소의 의미를 확장한다.",
+  "lens": "건축 매거진의 아카이브가 단순한 기록을 넘어 동시대 설계의 지침서로 작동하는 방식을 증명한다.",
+  "why_now": "디지털 설계가 보편화된 시점에서 130년간 축적된 비평적 아카이브는 건축의 물질성과 사회적 책임을 다시 묻는 기준점이 된다.",
+  "mechanism": "오랜 역사 동안 구축된 독립적인 비평 프레임을 통해 개별 건축가의 실험을 거대 도시 서사와 연결한다.",
+  "sensory": "인쇄 매체의 물성 속에서 건축적 지형과 공간 구조가 텍스트와 비평적 시선을 통해 입체적으로 감각된다.",
+  "transfer": "공간 연출이나 영상 콘티에서 프로젝트의 배경 서사를 구축할 때 역사적 아카이브의 비평적 틀을 차용해 깊이를 더한다.",
+  "context": "1896년부터 발행된 런던 기반의 건축 매거진 아키텍처럴 리뷰는 조경, 건축 디자인, 인테리어 및 도시주의를 다루며 건축 이론의 지평을 넓혀 왔다. 데이비드슨 라파일리디스나 베스 로드웨이 등 다양한 현대 건축가와 디자이너의 실험을 아카이브의 시선으로 조명해 왔다.",
+  "findings": [
+   {
+    "text": "아키텍처럴 리뷰는 1896년부터 런던에서 발행된 월간 국제 건축 매거진이다.",
+    "s": 1,
+    "quote": "The Architectural Review is a monthly international architectural magazine. It has been published in London since 1896."
+   }
+  ],
+  "keywords": [
+   "건축비평",
+   "아키텍처럴리뷰",
+   "순환형건축",
+   "아카이브"
+  ],
+  "evidence": "Since 1896, The Architectural Review has scoured the globe for architecture that challenges and inspires.",
+  "kind": "뉴스·이슈",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "매체의 역사적 맥락은 분명하나 원문 본문이 구독 안내와 소개에 한정되어 구체적인 프로젝트 분석은 제한적이다.",
+  "v": 2,
+  "url": "https://www.architectural-review.com/letters/birthday-wishes-tina-gregoric",
+  "original_title": "Birthday wishes: Tina Gregorič",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 636,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-19 19:39",
+  "research": {
+   "entities": [
+    "Tina Gregorič",
+    "The Architectural Review"
+   ],
+   "questions": [
+    "티나 그레고리치(Tina Gregorič)가 건축 분야에서 추구하는 주요 철학이나 디자인적 특징은 무엇인가?",
+    "The Architectural Review가 아카이브를 통해 조명하고자 하는 현대 건축의 비판적 담론은 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "The Architectural Review",
+     "url": "https://en.wikipedia.org/wiki/The%20Architectural%20Review"
+    },
+    {
+     "n": 2,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "건축적 유희와 구조적 실험, 데이비드슨 라파일리디스의 생일 케이크",
+     "url": "https://www.architectural-review.com/letters/davidson-rafailidis-construct-a-birthday-cake"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "건축 비평의 130년, 아키텍처럴 리뷰가 기록하는 지형과 시간",
+     "url": "https://www.architectural-review.com/letters/birthday-wishes-sol-perez-martinez"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "인간의 손길이 새겨진 공간, 건축적 지평을 넓히다",
+     "url": "https://www.architectural-review.com/letters/beth-rodway-celebrates-a-building-full-of-human-making"
+    }
+   ],
+   "used": [
+    1,
+    3
+   ],
+   "chars": 1130
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "creativeboom.com/news/walsh-takes-a-bite-out-of-the-moon-for-insomnia-cookies": {
+  "title_ko": "앤월시가 재해석한 인섬니아 쿠키, 사진적 물성으로 완성한 브랜드 전략",
+  "summary_ko": "뉴욕 디자인 에이전시 앤월시(&Walsh)가 심야 베이커리 인섬니아 쿠키(Insomnia Cookies)의 브랜드 아이덴티티를 재정립했다. 기존의 쿠키 달(Cookie Moon) 로고를 실제 베이킹된 쿠키를 촬영한 사진으로 대체하고, 브랜드의 핵심 약속인 '언제나 따뜻함(Always Warm)'을 시각화했다. 둥근 서체와 보라색 기반의 색채 시스템을 통해 심야 시간대의 정체성을 강조했다.",
+  "lens": "로고를 벡터 그래픽이 아닌 실제 사물의 사진으로 치환하여, 브랜드가 지향하는 따뜻한 온도의 물성을 시각적 최전선에 배치했다.",
+  "why_now": "디지털 환경에서 정형화된 로고 그래픽이 주는 피로감을 덜고, 브랜드의 핵심 가치인 '온기'를 실물 촬영을 통해 직관적으로 전달하고자 하는 시도다.",
+  "mechanism": "반쯤 베어 문 쿠키 사진을 로고로 사용하여 즉각적인 식욕을 자극하며, 작은 사이즈에서는 벡터 버전을 병행해 가독성과 상징성을 동시에 확보했다.",
+  "sensory": "녹아내린 초콜릿 청크의 질감과 갓 구운 쿠키에서 뿜어져 나오는 열기가 사진과 영상 전반에서 느껴지도록 연출했다.",
+  "transfer": "광고 콘티 구성 시, 제품의 물리적 속성(온도, 질감)을 로고나 심벌의 형태로 직접 치환하여 시각적 진정성을 강화하는 전략으로 활용할 수 있다.",
+  "context": "인섬니아 쿠키는 2003년 펜실베이니아 대학교 기숙사에서 시작된 브랜드로, 대학가 중심의 심야 배달 서비스로 성장했다. 앤월시는 기존 브랜드가 가진 '따뜻한 쿠키 배달'이라는 유산을 계승하면서도, 트렌드를 쫓기보다 브랜드의 본질에 집중하는 전략을 취했다.",
+  "findings": [
+   {
+    "text": "인섬니아 쿠키는 2003년 펜실베이니아 대학교의 학생이었던 세스 버코위츠가 창업했다.",
+    "s": 1,
+    "quote": "It was started in 2003 by Seth Berkowitz, a student at the University of Pennsylvania."
+   }
+  ],
+  "keywords": [
+   "브랜드아이덴티티",
+   "앤월시",
+   "시각전략",
+   "사진기반로고",
+   "물성"
+  ],
+  "evidence": "The heart of &Walsh's rebrand is a logo that looks good enough to eat, and it pays homage to the whole premise.",
+  "kind": "브랜드·캠페인",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "사진 로고라는 과감한 선택과 브랜드 전략의 연결고리가 명확하며, 실무적 대안(벡터 병행)까지 제시되어 있어 구체적이다.",
+  "v": 2,
+  "url": "https://www.creativeboom.com/news/walsh-takes-a-bite-out-of-the-moon-for-insomnia-cookies/",
+  "original_title": "&Walsh takes a bite out of the moon for Insomnia Cookies",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 7528,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-19 19:39",
+  "research": {
+   "entities": [
+    "&Walsh",
+    "Insomnia Cookies",
+    "Seth Berkowitz",
+    "Henry Hargreaves"
+   ],
+   "questions": [
+    "사진 기반의 로고 디자인이 브랜드 아이덴티티 구축에서 가지는 장점과 기술적 한계는 무엇인가요?",
+    "Insomnia Cookies의 'Always Warm'이라는 브랜드 전략이 시각적 시스템과 어떻게 연결되어 있나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Insomnia Cookies",
+     "url": "https://en.wikipedia.org/wiki/Insomnia%20Cookies"
+    },
+    {
+     "n": 2,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "AI 시대의 크리에이티브: 도구보다 앞선 안목과 판단의 가치",
+     "url": "https://www.stashmedia.tv/beyond-the-hype-envato-releases-2026-the-state-of-ai-in-creative-work-report/"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 874
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "wallpaper.com/watches-jewellery/nina-bukvic-jewellery-designer-interview": {
+  "title_ko": "규칙을 거부하고 손끝으로 빚은 니나 부크비치의 고대적 주얼리",
+  "summary_ko": "런던을 기반으로 활동하는 크로아티아 출신 주얼리 디자이너 니나 부크비치가 30년간 고수해온 수공예 작업 방식과 파리 더 멜리 쇼 참여 소식을 전한다. 스케치 없이 작업대에서 재료와 직접 마주하며 고대 오스만 제국의 유산과 현대 패션을 결합한 독창적인 형태를 완성한다.",
+  "lens": "정밀한 치수와 규칙을 버리고 도구와 재료의 물성에 몸을 맡겨 신체와 동화되는 주얼리를 빚는다.",
+  "why_now": "디지털 피로감과 정형화된 공정 속에서 온전히 손으로 빚어낸 불완전한 물성과 물질 자체의 시간에 대한 갈증이 커지고 있다.",
+  "mechanism": "스케치 과정을 생략하고 바늘과 망치 같은 최소한의 도구로 금속을 실처럼 엮거나 두드려 유기적이고 섬세한 형태를 만든다.",
+  "sensory": "내추럴 인클루전이 포함된 거친 다이아몬드와 망치질로 자국이 남은 골드 디스크가 피부 위에 닿아 마치 오래된 문신처럼 밀착된다.",
+  "transfer": "인물의 감정을 다루는 씬에서 배우의 손끝이나 목선에 닿는 소품을 제작할 때, 매끄러운 기성품 대신 불규칙한 질감의 수공예 금속 오브제를 클로즈업하여 시간의 깊이를 부여한다.",
+  "context": "센트럴 세인트 마틴스에서 사이먼 프레이저의 지도 아래 기술보다 개방적인 태도를 배웠으며, 졸업 직후 바니스 뉴욕이 데뷔 컬렉션 전체를 매입하며 국제 무대에 데뷔했다.",
+  "findings": [
+   {
+    "text": "런던을 기반으로 활동하는 주얼리 아티스트 니나 부크비치는 졸업 직후 바니스 뉴욕이 데뷔 컬렉션 전체를 인수하면서 국제 무대에 데뷔했다.",
+    "s": 2,
+    "quote": "London-based jewellery artist Nina Bukvic launched internationally when Barneys New York acquired her entire debut collection shortly after graduation"
+   },
+   {
+    "text": "니나 부크비치는 스케치를 하지 않고 재료와 직접 소통하며 제작 과정을 통해 최종 형태를 이끌어낸다.",
+    "s": 2,
+    "quote": "Inspired by the ingenuity of ancient makers, Nina develops each piece directly in the material, without sketching, letting the making process guide the final form."
+   }
+  ],
+  "keywords": [
+   "주얼리디자인",
+   "수공예",
+   "고대유산",
+   "물성"
+  ],
+  "evidence": "Nina Bukvic, the Croatian-born, London-based jewellery designer whose body of work speaks of experimentation, cultural heritage reinterpreted, and a healthy irreverence within the jewellery sector",
+  "kind": "작가·인터뷰",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "구체적인 작업 방식과 고대 유산의 재해석 과정을 담고 있으나 선례가 완전히 독보적이진 않다.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/watches-jewellery/nina-bukvic-jewellery-designer-interview",
+  "original_title": "Get to know Nina Bukvic, a jewellery designer who doesn’t follow the rules",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 4895,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-19 19:39",
+  "research": {
+   "entities": [
+    "Nina Bukvic",
+    "The Melee Show",
+    "Barneys New York",
+    "Central Saint Martins",
+    "Simon Fraser"
+   ],
+   "questions": [
+    "니나 부크비치(Nina Bukvic)가 고대 주얼리 제작 방식과 현대적 디자인을 결합하는 구체적인 작업 철학은 무엇인가?",
+    "센트럴 세인트 마틴스(Central Saint Martins)에서의 교육이 니나 부크비치의 독창적인 주얼리 제작 방식에 어떤 영향을 미쳤는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "HOME | FINE JEWELLERY",
+     "url": "https://www.ninabukvic.com/"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "NINA BUKVIC — Melee the Show",
+     "url": "https://www.meleetheshow.com/designers-all/nys26/nina-bukvic"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Barneys New York",
+     "url": "https://en.wikipedia.org/wiki/Barneys%20New%20York"
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "Central Saint Martins",
+     "url": "https://en.wikipedia.org/wiki/Central%20Saint%20Martins"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "폭풍우가 치고 난 런던의 잔해, 리자 킨의 잿빛 데뷔전",
+     "url": "https://www.dazeddigital.com/fashion/article/71003/1/liza-keane-ss27-london-fashion-week-lfw-newgen-rising-designer?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=liza-keane-is-london-fashion-week-s-dark-and-stormy-saviour"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "눈물의 질감과 색채로 직조한 폴린 뒤장쿠르의 2027 봄·여름 컬렉션",
+     "url": "https://www.anothermag.com/fashion-beauty/17497/pauline-dujancourt-show-review-spring-summer-2027-ss27-dsm?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=pauline-dujancourt-imagines-emotions-in-textures-and-colours"
+    },
+    {
+     "n": 7,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "점토의 불완전함으로 빚어낸 산만함의 미학, 랴오 차오위의 '수우가!'",
+     "url": "https://www.creativeboom.com/work/inside-qiaoyu-liaos-suuugar-the-clay-animated-cheesecake-disaster-that-shows-what-happens-when-you-get-distracted/"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "chars": 4058
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "wallpaper.com/art/photography/belmond-photography-programme": {
+  "title_ko": "호텔의 신화를 걷어내다, 벨몬드의 사진적 전유와 시선",
+  "summary_ko": "럭셔리 여행 브랜드 벨몬드(Belmond)가 사진 예술을 통해 공간의 서사를 재구성한다. 사진가 잭 데이비슨(Jack Davison)은 멕시코 마로마 호텔의 공예와 물성을 신화적 관점에서 기록했으며, 벨몬드 포토 어워드를 통해 여행 사진의 관습적 틀을 깨는 새로운 시각을 발굴하고 있다. 이는 단순한 기록을 넘어 장소의 본질과 예술적 실험을 연결하는 시도다.",
+  "lens": "화려한 공간의 외관을 지우고, 공예의 질감과 사물의 파편을 통해 장소의 내밀한 시간을 포착하는 사진적 태도에 주목한다.",
+  "why_now": "이미지가 범람하는 시대에 여행 사진을 단순한 풍경 기록에서 벗어나, 작가의 주관적 해석과 물성의 깊이를 담은 예술적 매체로 전환하려는 흐름이 뚜렷하다.",
+  "mechanism": "브랜드는 작가에게 전권을 위임하는 '카르트 블랑슈(carte blanche)' 방식을 취해, 장소의 역사와 공예적 디테일을 작가 고유의 비정형적이고 유동적인 시선으로 재해석하도록 유도한다.",
+  "sensory": "잭 데이비슨의 사진은 목재와 석재의 거친 질감, 종이의 주름 등 멕시코 공예의 물리적 무게감을 날카로운 명암 대비와 함께 전달한다.",
+  "transfer": "공간 촬영 시 화려한 풀샷 대신, 마감재의 질감이나 공예품의 파편을 근접 촬영하여 공간의 서사를 재구성하는 미장센을 구성해 볼 것.",
+  "context": "벨몬드는 '애즈 신 바이(As Seen By)' 시리즈를 통해 사진가들에게 공간의 본질을 탐구하게 하며, 과거 크리스 로즈가 호텔 스플렌디도의 일상적 디테일을 포착한 바 있다. 또한 파리 포토(Paris Photo) 지원과 벨몬드 포토 어워드를 통해 사진 매체의 확장 가능성을 지속적으로 실험하고 있다.",
+  "findings": [
+   {
+    "text": "벨몬드 포토 어워드는 여행 사진의 관습적인 틀을 깨고 통찰력 있고 도발적인 예술적 시각을 장려하기 위해 제정되었다.",
+    "s": 2,
+    "quote": "The Belmond Photo Award seeks to upturn this, reclaiming travel photography as a space that can be insightful, thought provoking and inspirational."
+   },
+   {
+    "text": "애즈 신 바이 시리즈는 벨몬드 호텔의 정체성을 시각화하기 위해 파리의 RVB 출판사와 협업하여 제작된 사진집 프로젝트이다.",
+    "s": 3,
+    "quote": "Inspired by Belmond’s distinctive hotels and destinations, As Seen By is a photobook series created with Parisian publisher RVB."
+   }
+  ],
+  "keywords": [
+   "사진적 전유",
+   "물성 기록",
+   "벨몬드",
+   "잭 데이비슨",
+   "공간 서사"
+  ],
+  "evidence": "Belmond has long championed new perspectives in travel photography, commissioning artists who truly engage with the spirit of a destination",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "브랜드의 예술 협업 철학이 구체적 작가 작업과 어워드 시스템을 통해 어떻게 구현되는지 명확히 드러나며, 연출적 적용점 또한 구체적이다.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/art/photography/belmond-photography-programme",
+  "original_title": "Belmond's venture into photography dials into a new cultural shift",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 3040,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-19 19:39",
+  "research": {
+   "entities": [
+    "Belmond",
+    "Jack Davison",
+    "Paris Photo",
+    "Maroma",
+    "Tara Bernerd"
+   ],
+   "questions": [
+    "Belmond가 진행하는 'As Seen By' 사진집 프로젝트는 브랜드와 아티스트 간의 협업에서 어떤 철학을 가지고 운영되나요?",
+    "Belmond Photo Award는 여행 사진 분야에서 어떤 새로운 시각과 가치를 조명하기 위해 제정되었나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Belmond | Luxury Hotels, Trains, River Cruises and Safaris",
+     "url": "https://www.belmond.com/en"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Belmond Photo Award",
+     "url": "https://photoaward.belmond.com/"
+    },
+    {
+     "n": 3,
+     "type": "공식·1차",
+     "title": "‘As Seen By’ Photobooks | Belmond x RVB",
+     "url": "https://www.belmond.com/en/books/rvb"
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "Paris Photo",
+     "url": "https://en.wikipedia.org/wiki/Paris%20Photo"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "아이폰 18 프로로 포착한 연결의 감각, 사진전 'What Holds Us'",
+     "url": "https://www.dazeddigital.com/art-photography/article/71055/1/these-photos-explore-what-it-means-to-be-present-what-holds-us-exhibition-apple?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=these-photos-explore-what-it-means-to-be-present-in-2026"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "파리 포토 2026, 렌즈를 통해 포착한 일상의 균열과 기록의 윤리",
+     "url": "https://www.dazeddigital.com/art-photography/article/71342/1/paris-photo-art-fair-photography-2026-highlights-guide-grand-palais?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=the-standout-pictures-from-paris-photo-2026"
+    },
+    {
+     "n": 7,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "호텔 스플렌디도의 이면: 크리스 로즈가 포착한 사물과 시간의 파편",
+     "url": "https://www.anothermag.com/art-photography/17636/chris-rhodes-portofino-hotel-splendido?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=chris-rhodes-documents-another-side-of-portofino-s-hotel-splendido"
+    }
+   ],
+   "used": [
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "chars": 3787
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "creativeboom.com/inspiration/julie-legrand-finds-poetry-in-coffee-pots-shells-and-other-things-you-see-every-day": {
+  "title_ko": "일상의 사물을 해체하는 줄리 르그랑의 조형적 시선",
+  "summary_ko": "프랑스 출신의 일러스트레이터이자 판화가 줄리 르그랑은 주방과 스튜디오에서 발견한 평범한 사물을 대담하고 단순한 이미지로 변환한다. 그는 콜라주, 펜, 자, 레터링 템플릿을 활용해 사물의 형태를 반복적으로 탐구하며, 스캔 과정에서 발생하는 종이의 질감과 얼룩을 의도적으로 남겨 수작업의 물성을 강조한다.",
+  "lens": "디지털 보정을 거부하고 스캔의 미세한 얼룩을 보존하여, 평범한 사물에 고유한 시간의 무게를 입히는 조형적 태도.",
+  "why_now": "매끄러운 디지털 이미지에 피로를 느끼는 시점에, 손으로 빚은 듯한 불완전한 흔적이 관객에게 시각적 안도감을 제공한다.",
+  "mechanism": "펀치로 뚫은 작은 종이 점들을 화면 곳곳에 배치하고, 제한된 색상 팔레트와 비정형적인 곡선을 조합해 사물의 형태를 추상적으로 재구성한다.",
+  "sensory": "초콜릿 브라운, 코발트 블루 등 깊이감 있는 색채와 펀치로 뚫은 종이 조각이 흩뿌려진 듯한 입체적 질감이 도드라진다.",
+  "transfer": "콘티 작업 시 사물을 정교하게 묘사하기보다, 펀치로 뚫은 종이 조각이나 얼룩진 텍스처를 레이어링하여 아날로그적 밀도를 높이는 연출에 활용할 수 있다.",
+  "context": "줄리 르그랑은 프랑스 에피날에서 일러스트를, 스페인 갈리시아에서 판화를 공부하며 전통적인 제작 기법을 체득했다. 이후 프랑스 세트(Sète)로 이주하며 식물과 지형 등 주변 풍경의 요소를 조형적으로 해석하는 작업을 이어오고 있다.",
+  "findings": [],
+  "keywords": [
+   "줄리르그랑",
+   "실크스크린",
+   "콜라주",
+   "물성",
+   "조형"
+  ],
+  "evidence": "The French illustrator and screen printer turns objects from her kitchen and studio into bold, smudged, characteristically simple images.",
+  "kind": "작가·인터뷰",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "일상적 사물을 조형적으로 재해석하는 과정은 명확하나, 작가 개인의 방법론을 넘어선 확장된 이론적 근거는 부족하다.",
+  "v": 2,
+  "url": "https://www.creativeboom.com/inspiration/julie-legrand-finds-poetry-in-coffee-pots-shells-and-other-things-you-see-every-day/",
+  "original_title": "Julie Legrand finds poetry in coffee pots, shells and other things you see every day",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 8438,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-19 19:40",
+  "research": {
+   "entities": [
+    "Julie Legrand",
+    "Slow Down Studio"
+   ],
+   "questions": [
+    "줄리 르그랑(Julie Legrand)의 실크스크린과 콜라주 작업 과정은 어떻게 이루어지는가?",
+    "슬로우 다운 스튜디오(Slow Down Studio) 오픈 콜에 출품된 줄리 르그랑의 작품 특징은 무엇인가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "itsnicethat.com/articles/alice-poyzer-other-joys-photography-discover-191126": {
+  "title_ko": "앨리스 포이저, 자폐적 마스킹을 해체하는 포스트 다큐멘터리 시선",
+  "summary_ko": "사진작가 앨리스 포이저(Alice Poyzer)는 자폐 여성으로서 겪는 사회적 마스킹과 자신의 특별한 관심사를 포스트 다큐멘터리 형식으로 기록한다. 동물 쇼와 박제술을 다룬 '기타 기쁨(Other Joys)'과 미인 대회 참가자의 긴장을 담은 '미스 링컨셔(Miss Lincolnshire)'를 통해 신경다양성을 고유한 서사로 시각화한다.",
+  "lens": "고립된 개인의 취향을 사회적 마스킹의 반대급부로 설정하고, 이를 다큐멘터리적 질감으로 포착해 신경다양성을 새로운 미학적 범주로 격상한다.",
+  "why_now": "사회적 기대에 맞춰 자신을 축소하던 마스킹의 피로감을 드러내고, 이를 개인적인 관심사라는 강력한 물성으로 돌파하는 태도가 동시대 예술계의 주목을 받고 있다.",
+  "mechanism": "자신의 일상을 투영한 자화상과 특정 대상에 몰입하는 다큐멘터리적 시선을 교차시켜, 관찰자와 관찰 대상 사이의 경계를 흐리는 연출을 구사한다.",
+  "sensory": "박제된 동물의 정적인 질감과 미인 대회의 인공적인 화려함이 대조를 이루며, 피사체를 향한 집요하고도 정밀한 시선이 화면 전체에 팽팽한 긴장감을 조성한다.",
+  "transfer": "인물 촬영 시 마스킹을 강요하는 사회적 맥락을 피사체의 정형화된 포즈와 대비되는 자연스러운 일상적 행위로 배치하여 심리적 레이어를 중첩하는 콘티를 구성한다.",
+  "context": "포이저는 매그넘 재단(Magnum Foundation)의 잉게 모라스 상(Inge Morath Award) 최종 후보에 올랐으며, 폴 스미스(Paul Smith) 재단의 첫 상주 작가로 선정되어 아카이브를 탐구했다. 폴 스미스는 고전적인 패션에 다채로운 색상과 패턴을 더하는 '클래식 위드 어 트위스트(classic with a twist)' 철학으로 잘 알려져 있다.",
+  "findings": [
+   {
+    "text": "매그넘 재단은 뉴욕에 기반을 둔 비영리 사진 재단으로 다큐멘터리 사진의 창의성과 다양성을 확장하는 것을 목표로 한다.",
+    "s": 1,
+    "quote": "Magnum Foundation is a non-profit photographic foundation based in New York City. Its mission is to \"expands creativity and diversity in documentary photography.\""
+   },
+   {
+    "text": "폴 스미스는 1970년에 자신의 이름을 딴 브랜드를 설립했으며, 현재 60개국 이상에서 130개의 매장을 운영하고 있다.",
+    "s": 2,
+    "quote": "Founded by Smith in 1970, it has since expanded to 130 stores in more than 60 countries."
+   }
+  ],
+  "keywords": [
+   "신경다양성",
+   "포스트다큐멘터리",
+   "마스킹",
+   "시각적서사"
+  ],
+  "evidence": "The artist combines self-portraits and post-documentary to photograph her special interests in an alternative depiction of autism.",
+  "kind": "작가·인터뷰",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "신경다양성이라는 주제를 사진의 형식적 실험과 구체적인 작업물로 연결하여 예술적 가치를 설득력 있게 제시한다.",
+  "v": 2,
+  "url": "https://www.itsnicethat.com/articles/alice-poyzer-other-joys-photography-discover-191126",
+  "original_title": "Taxidermy, cat shows, and beauty pageants: Alice Poyzer takes us into her world and what it means to be neurodivergent",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 3039,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-19 19:40",
+  "research": {
+   "entities": [
+    "Alice Poyzer",
+    "Magnum Foundation",
+    "Paul Smith",
+    "Inge Morath Award"
+   ],
+   "questions": [
+    "앨리스 포이저의 사진 작업에서 '마스킹(masking)'과 '특별한 관심사(special interests)'는 자폐적 경험을 어떻게 시각적으로 표현되고 있는가?",
+    "포스트 다큐멘터리 사진 기법이 신경다양성(neurodivergence)을 다루는 예술적 방식으로서 어떤 차별점을 가지는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Magnum Foundation",
+     "url": "https://en.wikipedia.org/wiki/Magnum%20Foundation"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Paul Smith (fashion designer)",
+     "url": "https://en.wikipedia.org/wiki/Paul%20Smith%20%28fashion%20designer%29"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "폴 스미스와 바버, 하이랜드 게임의 전통을 입히다",
+     "url": "https://www.wallpaper.com/fashion-beauty/paul-smith-barbour-collaboration-aw-2026"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "미니 컨트리맨 언테임드 에디션, 거친 지형을 마주하는 CMF의 전략",
+     "url": "https://www.wallpaper.com/transportation/new-mini-countryman-untamed-edition-test-drive-review"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "폴 스미스와 펜더, 80년의 시간을 잇는 텔레캐스터의 시그니처 스트라이프",
+     "url": "https://www.wallpaper.com/tech/fender-x-paul-smith-telecaster"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 1829
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "nowness.com/films/can-you-hear-this": {
+  "title_ko": "던지니스의 정적을 해체하다: 파더의 사운드 스케이프 기록",
+  "summary_ko": "사운드 크리에이티브 스튜디오 파더(Father)는 영국 던지니스 해안에 이동식 스튜디오를 설치하고 물리적 환경의 소리를 채집했다. 하이드로폰과 접촉 마이크를 이용해 돌과 나무껍질 등 무생물에서 소리를 추출하고 이를 전자 음악으로 재구성하는 과정을 필름에 담았다.",
+  "lens": "고유한 소리가 없는 물질에 마이크를 밀착시켜 사운드의 원형을 강제로 추출하고, 이를 디지털로 해체하여 물리적 지형을 청각적 질감으로 치환한다.",
+  "why_now": "디지털 합성음이 범람하는 시대에, 자연 지형의 물리적 데이터에서 출발해 아날로그적 변주를 꾀하는 작업이 사운드 디자인의 새로운 경로를 제시한다.",
+  "mechanism": "하이드로폰과 접촉 마이크를 활용해 지형의 진동을 수집하고, 이를 원형 그대로 두지 않고 분해하여 전혀 다른 사운드 레이어로 재조립한다.",
+  "sensory": "던지니스의 거친 해안 환경이 주는 건조한 바람과 돌의 단단한 질감이, 변조된 전자음의 금속성 파동과 겹쳐지며 낯선 공간감을 형성한다.",
+  "transfer": "콘티 작업 시 자연광이 강한 로케이션에서 배경음 대신 지형지물의 진동을 증폭한 사운드를 배치하여, 시각적 정보와 청각적 이질감을 극대화하는 연출에 활용한다.",
+  "context": "파더는 사운드 디자인을 중심으로 자연과 아날로그의 경계에서 발생하는 변형을 탐구하는 스튜디오다. 이번 프로젝트는 던지니스의 지리적 고립성을 이용해 현장성을 기록하고 이를 추상적인 사운드 스케이프로 변환하는 데 집중한다.",
+  "findings": [],
+  "keywords": [
+   "필드레코딩",
+   "사운드디자인",
+   "던지니스",
+   "물리적데이터"
+  ],
+  "evidence": "Capturing the landscapes and soundscapes of Dungeness on England’s Kent coast, the team gathered field recordings by using hydrophones and contact mics",
+  "kind": "영상·필름",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "필드 레코딩의 기술적 접근은 흥미로우나, 영상 연출 자체의 미학적 분석보다는 사운드 채집 과정의 기록에 머물러 있다.",
+  "v": 2,
+  "url": "https://www.nowness.com/films/can-you-hear-this/",
+  "original_title": "​Can You Hear This?",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 1672,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-19 19:40",
+  "research": {
+   "entities": [
+    "Father",
+    "Dungeness",
+    "Can You Hear This?"
+   ],
+   "questions": [
+    "필드 레코딩을 통해 수집한 자연의 소리를 전자 음악으로 변환하는 과정에서 어떤 기술적 기법이 사용되었는가?",
+    "던지니스(Dungeness)라는 장소가 가진 지리적, 환경적 특성이 사운드 디자인 작업에 구체적으로 어떤 영감을 주었는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "82분의 반란, 토마스 만의 귀국을 담은 파벨 파블리코프스키의 신작",
+     "url": "https://www.anothermag.com/design-living/17508/pawel-pawlikowski-on-fatherland-and-the-beauty-of-brevity?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=pawel-pawlikowski-on-fatherland-and-the-beauty-of-brevity"
+    },
+    {
+     "n": 2,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "뉴어크 미술관, 데이비드 드레이크의 1852년 도기 후손 품으로 반환",
+     "url": "https://www.artforum.com/news/nmoa-returns-1852-jug-by-david-drake-to-artists-family-1234763595/"
+    }
+   ],
+   "used": [],
+   "chars": 542
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "nowness.com/films/straight-circle-trailer-oscar-hudson": {
+  "title_ko": "오스카 허드슨의 반전 풍자: 사막 국경의 환각적 악몽",
+  "summary_ko": "뮤직비디오 감독 오스카 허드슨의 장편 데뷔작인 반전 블랙코디 '스트레이트 서클(Straight Circle)'은 베니스 국제영화제 비평가주간에서 그랜드 프라이즈를 수상했다. 외딴 사막 국경의 양쪽에 배치된 두 적대국 병사가 정체성을 상실하고 환각적 악몽으로 빠져드는 과정을 그린다.",
+  "lens": "군사적 허영과 내셔널리즘의 충돌을 환각적인 사막의 시각 언어로 전복한다.",
+  "why_now": "민족주의와 국가 폭력이라는 거대한 기계를 개인의 정체성 균열이라는 미시적 각도로 파고드는 서사가 절실한 시점이다.",
+  "mechanism": "적대하는 두 병사 역에 실제 쌍둥이인 엘리엇과 루크 티텐소어를 캐스팅한 뒤 역할을 바꾸어 배치해 정체성의 경계를 교란한다.",
+  "sensory": "원격의 척박한 사막 지형이 주는 건조한 시각적 밀도와 점차 이성을 잠식하는 환각적 악몽의 질감이 충돌한다.",
+  "transfer": "두 명의 동일 인물 혹은 닮은 인물을 대척점에 두고 배역을 교란하는 구조를 심리적 대치 씬의 연출에 적용한다.",
+  "context": "뮤직비디오와 파괴적 영화 연출로 주목받아 온 오스카 허드슨이 베니스 국제영화제 비평가주간에서 장편 데뷔작으로 그랜드 프라이즈를 수상했다.",
+  "findings": [],
+  "keywords": [
+   "오스카허드슨",
+   "반전블랙코디",
+   "베니스영화제",
+   "정체성"
+  ],
+  "evidence": "Watch the exclusive trailer for filmmaker and prolific music video director Oscar Hudson’s anti-war satire, Straight Circle – premiered at the Venice International Film Festival's 2026 Critics' Week, and awarded winner of its Grand Prize.",
+  "kind": "영상·필름",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "유력 감독의 베니스 수상작에 대한 구체적인 연출 의도와 캐스팅 기법이 잘 드러나 있다.",
+  "v": 2,
+  "url": "https://www.nowness.com/films/straight-circle-trailer-oscar-hudson/",
+  "original_title": "Straight Circle",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 2187,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-19 19:40",
+  "research": {
+   "entities": [
+    "Oscar Hudson",
+    "Elliott Tittensor",
+    "Luke Tittensor",
+    "Neil Maskell",
+    "Venice International Film Festival"
+   ],
+   "questions": [
+    "영화 Straight Circle은 베니스 국제영화제 비평가주간에서 어떤 평가를 받으며 그랜드 프라이즈를 수상했는가?",
+    "감독 오스카 허드슨은 이 반전(反戰) 블랙코디를 통해 내셔널리즘과 군사주의를 어떻게 풍자하고 있는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Neil Maskell",
+     "url": "https://en.wikipedia.org/wiki/Neil%20Maskell"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Venice Film Festival",
+     "url": "https://en.wikipedia.org/wiki/Venice%20Film%20Festival"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "런던 나이서 튜즈데이즈: 동시대 크리에이티브가 제안하는 시각 언어의 최전선",
+     "url": "https://www.itsnicethat.com/articles/nicer-tuesdays-december-london-launch-101126"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "바라보는 행위가 파괴가 될 때, XR 설치미술 '화이트 사보타주'",
+     "url": "https://clotmag.com/news/insight-the-white-saboteur-when-looking-becomes-an-action-with-consequences"
+    }
+   ],
+   "used": [
+    3
+   ],
+   "chars": 2640
+  },
+  "depth_raw": 4,
+  "depth_v": 2
  }
 }
