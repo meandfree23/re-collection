@@ -1,32 +1,38 @@
 {
-  "generated_at": "2026-11-20 11:23 KST",
+  "generated_at": "2026-11-20 12:44 KST",
   "period": "2026.11.13 - 2026.11.20",
   "total_articles": 590,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 241
+      "count": 268
     },
     {
       "genre": "동시대 미술",
-      "count": 199
+      "count": 189
     },
     {
       "genre": "미디어 파사드·3D",
-      "count": 96
+      "count": 83
     },
     {
       "genre": "아방가르드 패션",
-      "count": 54
+      "count": 50
     }
   ],
   "themes": [
     {
       "keyword": "박물관·전시",
-      "count": 61,
+      "count": 57,
       "previous_count": 37,
       "trend": "rising",
       "items": [
+        {
+          "title": "AT-LARS의 적응형 박물관은 인도네시아에서 비계와 반투명 외관을 결합합니다.",
+          "url": "https://www.designboom.com/architecture/at-lars-adaptable-museum-scaffolding-translucent-facade-indonesia/",
+          "image_url": "https://www.designboom.com/wp-content/dbsub/469868/2026-11-06/at-lars-adaptable-museum-combines-scaffolding-and-translucent-facade-in-indonesia-3-6aedd7f4ed3cc.jpg",
+          "source_name": "Designboom Architecture"
+        },
         {
           "title": "The New Museum Announces Partnership With Vega Foundation",
           "url": "https://www.artforum.com/news/the-new-museum-announces-partnership-vega-foundation-1234763944/",
@@ -40,22 +46,16 @@
           "source_name": "Artforum"
         },
         {
-          "title": "패션 아카이비스트가 되고 싶으신가요?",
-          "url": "https://www.dazeddigital.com/fashion/article/71264/1/so-you-want-to-be-a-fashion-archivist-dazed-club-a-to-z-creative-careers-advice?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=so-you-want-to-be-a-fashion-archivist",
-          "image_url": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/8/1458510.jpg",
-          "source_name": "Dazed"
-        },
-        {
-          "title": "Woodwork Amsterdam, 몰입형 스토리텔링 레이블 'Visual Valley' 론칭",
-          "url": "https://motionographer.com/news/woodwork-amsterdam-visual-valley-immersive-storytelling-label/",
-          "image_url": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/11/visual-valley-press-release-01-original.jpg?fit=700%2C467&ssl=1",
-          "source_name": "Motionographer"
+          "title": "Jacolby Satterwhite - A Metta Prayer",
+          "url": "https://www.nowness.com/films/jacolby-satterwhite-a-metta-prayer/",
+          "image_url": "https://www.nowness.com/media/bvuh5fa3/a-metta-prayer-still-3.jpg",
+          "source_name": "NOWNESS"
         }
       ]
     },
     {
       "keyword": "빛과 조명",
-      "count": 28,
+      "count": 27,
       "previous_count": 7,
       "trend": "rising",
       "items": [
@@ -64,12 +64,6 @@
           "url": "https://www.thisiscolossal.com/2026/11/jean-michel-basquiat-authorized-documentary-netflix/",
           "image_url": "https://www.thisiscolossal.com/wp-content/uploads/2026/11/basquiat-4.jpg",
           "source_name": "This Is Colossal"
-        },
-        {
-          "title": "사빈 마르셀리스, 이딸라 유리 제품에 물 위로 비치는 햇빛의 움직임을 담다",
-          "url": "https://www.dezeen.com/2026/08/28/sabine-marcelis-iittala-glassware-unda/",
-          "image_url": "https://static-2026.dezeen.com/uploads/2026/08/sabine-marcelis-iittala-unda_dezeen_2364_col_3-852x852.jpg",
-          "source_name": "Dezeen Lighting"
         },
         {
           "title": "주조 청동과 거울 광택이 돋보이는 Ross Gardam의 Bullion 벽등.",
@@ -82,15 +76,33 @@
           "url": "https://www.wallpaper.com/tech/jean-michel-jarre-machines-a-history-of-electronic-music-book-review",
           "image_url": "https://cdn.mos.cms.futurecdn.net/kveMVgsAUoTy5Foc43M6Fc-1920-80.jpg",
           "source_name": "Wallpaper*"
+        },
+        {
+          "title": "Aesop, 밀라노 디자인 위크에서 The Factory of Light 설치 작품과 함께 Aposē 램프 출시",
+          "url": "https://www.dezeen.com/2026/04/20/aesop-apose-factory-light-milan-design-week/",
+          "image_url": "https://static-2026.dezeen.com/uploads/2026/04/aesop-lamps-milan-design-week_dezeen_2364_col_sq.jpg",
+          "source_name": "Dezeen Lighting"
         }
       ]
     },
     {
       "keyword": "리노베이션·재생",
-      "count": 18,
+      "count": 19,
       "previous_count": 8,
       "trend": "rising",
       "items": [
+        {
+          "title": "ConForm이 진행한 코츠월드 헛간 리노베이션으로 '옛것과 새것의 대화'가 이루어집니다.",
+          "url": "https://www.dezeen.com/2026/11/18/open-byre-conform/",
+          "image_url": "https://static-2026.dezeen.com/uploads/2026/11/cotswolds-open-byre-barn-renovation-conform-sq_dezeen_2364_col_2-1024x1024.jpg",
+          "source_name": "Dezeen"
+        },
+        {
+          "title": "엘니뇨에 대응하는 도시 회복력 가이드 및 BIG의 난민 도시 마스터플랜: 이번 주 리뷰",
+          "url": "https://www.archdaily.com/1188874/a-guide-to-urban-resilience-against-el-nino-and-bigs-refugee-city-masterplan-this-weeks-review",
+          "image_url": "https://images.adsttc.com/media/images/6afe/3ccb/c23f/1f6a/4351/65bf/large_jpg/a-new-urban-resilience-guide-for-el-nino-and-bigs-refugee-city-masterplan-this-weeks-review_5.jpg?1795046616",
+          "source_name": "ArchDaily"
+        },
         {
           "title": "클라크 하우스 / 오스틴 메이나드 건축사무소",
           "url": "https://www.archdaily.com/1030061/clarke-house-austin-maynard-architects",
@@ -102,27 +114,27 @@
           "url": "https://www.archdaily.com/1188659/renovation-and-extension-of-la-beaujoire-nursery-and-primary-school-in-nantes-dominique-coulon-and-associes",
           "image_url": "https://images.adsttc.com/media/images/6af8/b99e/c23f/1f01/895a/fe5b/large_jpg/renovation-and-extension-of-la-beaujoire-nursery-and-primary-school-in-nantes-dominique-coulon-and-associes_27.jpg?1794685357",
           "source_name": "ArchDaily"
-        },
-        {
-          "title": "Iraq Museum to Reopen After Two Years of Renovations",
-          "url": "https://www.artforum.com/news/iraq-museum-to-reopen-after-two-years-renovations-1234763860/",
-          "image_url": "https://www.artforum.com/wp-content/uploads/2026/11/960px-Iraq_museum_1.jpg?w=650",
-          "source_name": "Artforum"
-        },
-        {
-          "title": "아이콘 플레이스 시바코엔 리노베이션 / 겐슬러 + 록웰 그룹",
-          "url": "https://www.archdaily.com/1188531/icon-place-shibakoen-renovation-gensler-plus-rockwell-group",
-          "image_url": "https://images.adsttc.com/media/images/6af5/5234/eabd/2a00/0192/d349/large_jpg/LIPTK_ICON_PLACE_SHIBAKOEN_3_hip.jpg?1794462281",
-          "source_name": "ArchDaily"
         }
       ]
     },
     {
       "keyword": "목재 건축",
-      "count": 16,
+      "count": 18,
       "previous_count": 12,
       "trend": "rising",
       "items": [
+        {
+          "title": "DKR 하우스",
+          "url": "https://leibal.com/interiors/dkr-house/",
+          "image_url": "https://leibal.com/wp-content/uploads/2026/11/leibal-dkr-house-oskar-firek-architects-1515.jpg",
+          "source_name": "Leibal"
+        },
+        {
+          "title": "Perkins&Will과 Estúdio Campana, 아마존강에서 영감을 얻은 목재 설치물로 상파울루 공항 라운지를 꾸미다",
+          "url": "https://www.designboom.com/architecture/perkinswill-estudio-campana-sao-paulo-airport-lounge-amazon-river-inspired-timber-installation-pedra-preta/",
+          "image_url": "https://www.designboom.com/wp-content/dbsub/457982/2026-11-11/pedra-preta-lounge-transforms-latin-americas-busiest-airport-into-a-destination-for-brazilian-art-design-and-culture-5-6af4cbe01fdb2.jpg",
+          "source_name": "Designboom Architecture"
+        },
         {
           "title": "수상 경력에 빛나는 디자인 뮤지엄(Design Museum)의 프로토타입 중 하나인 해초 이어플러그",
           "url": "https://www.dezeen.com/2026/11/19/seaweed-earplug-grant-design-museum-prototypes/",
@@ -134,18 +146,6 @@
           "url": "https://www.designboom.com/architecture/big-timber-alpine-neighborhood-switzerland-siegenthalergut-thun-bjarke-ingels-group/",
           "image_url": "https://www.designboom.com/wp-content/uploads/2026/11/BIG-siegenthalergut-hotel-urban-district-switzerland-designboom-01.jpg",
           "source_name": "Designboom Architecture"
-        },
-        {
-          "title": "1940년대 프랑스 영화 속 한 장면을 연상시키는 리노베이션된 아르데코 양식의 샬레입니다.",
-          "url": "https://www.wallpaper.com/design-interiors/interior-design/le-sarto-chalet-megeve-claves-design-studio",
-          "image_url": "https://cdn.mos.cms.futurecdn.net/uG9JXV7J23VXmi8tiPs2gG-1920-80.png",
-          "source_name": "Wallpaper*"
-        },
-        {
-          "title": "린데 프레야 탄겔더, 'Fluid Re-Collection'에서 '고대와 현대'의 공예를 조화시키다",
-          "url": "https://www.dezeen.com/2026/05/06/linde-freya-tangelder-crafts-fluid-re-collection/",
-          "image_url": "https://static-2026.dezeen.com/uploads/2026/05/fluid-linde-freya-tangelder_dezeen_2364_sq_2-852x852.jpg",
-          "source_name": "Dezeen Lighting"
         }
       ]
     },
@@ -218,15 +218,15 @@
     "Edu Request",
     "Mexico City",
     "Dezeen Awards",
+    "Sharjah Architecture Triennial",
+    "Editor Picks",
     "Rare Hilma",
     "Holiday Gift Guide",
     "Marquee Week",
     "Metta Prayer",
     "Paris Photo",
     "Artist Spotlight",
-    "Report Finds",
-    "Adobe MAX",
-    "David Zwirner"
+    "Report Finds"
   ],
   "has_comparison": true
 }
