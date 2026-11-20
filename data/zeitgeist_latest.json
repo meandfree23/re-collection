@@ -1,64 +1,70 @@
 {
-  "generated_at": "2026-11-20 13:22 KST",
+  "generated_at": "2026-11-20 16:39 KST",
   "period": "2026.11.13 - 2026.11.20",
   "total_articles": 590,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 256
+      "count": 267
     },
     {
       "genre": "동시대 미술",
-      "count": 189
+      "count": 190
     },
     {
       "genre": "미디어 파사드·3D",
-      "count": 94
+      "count": 90
     },
     {
       "genre": "아방가르드 패션",
-      "count": 51
+      "count": 43
     }
   ],
   "themes": [
     {
       "keyword": "박물관·전시",
-      "count": 61,
+      "count": 63,
       "previous_count": 37,
       "trend": "rising",
       "items": [
+        {
+          "title": "Richard Powell Unsettles Race and Color Theory",
+          "url": "https://hyperallergic.com/richard-powell-unsettles-race-and-color-theory/",
+          "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/11/2.31_Powell_Colorstruck_Art-ResART50065.jpg",
+          "source_name": "Hyperallergic"
+        },
+        {
+          "title": "Krist Gruijthuijsen Named Director of Stedelijk Museum Amsterdam",
+          "url": "https://www.artforum.com/news/krist-gruijthuijsen-director-of-stedelijk-museum-amsterdam-1234763901/",
+          "image_url": "https://www.artforum.com/wp-content/uploads/2026/11/Schermafbeelding_2026-11-06_142731.png?w=650",
+          "source_name": "Artforum"
+        },
+        {
+          "title": "james turrell fills new york gallery with floating cubes and glowing walls of light",
+          "url": "https://www.designboom.com/art/james-turrell-new-york-gallery-almine-rech-something-old-new-borrowed-blue/",
+          "image_url": "https://www.designboom.com/wp-content/uploads/2026/11/james-turrell-almine-rech-new-york-something-old-new-borrowed-blue-designboom-01.jpg",
+          "source_name": "Designboom Art"
+        },
         {
           "title": "Woodwork Amsterdam, 몰입형 스토리텔링 레이블 'Visual Valley' 론칭",
           "url": "https://motionographer.com/news/woodwork-amsterdam-visual-valley-immersive-storytelling-label/",
           "image_url": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/11/visual-valley-press-release-01-original.jpg?fit=700%2C467&ssl=1",
           "source_name": "Motionographer"
-        },
-        {
-          "title": "젊은 디자이너들이 밀라노에서 종이 안경과 알루미늄 폼 전구를 선보입니다.",
-          "url": "https://www.dezeen.com/2026/05/07/designers-paper-glasses-aluminium-lightbulbs-shared-matter/",
-          "image_url": "https://static-2026.dezeen.com/uploads/2026/05/shared-matter-milan-design-week_dezeen_2364_col_sq-852x852.jpg",
-          "source_name": "Dezeen Lighting"
-        },
-        {
-          "title": "그레스 아트 671(gres art 671)에서 선보이는 아이작 줄리앙(Isaac Julien) 경의 '뮤지엄 드림스(Museum Dreams)'",
-          "url": "https://coolhunting.com/culture/sir-isaac-juliens-museum-dreams-at-gres-art-671/",
-          "image_url": "https://coolhunting.com/wp-content/uploads/2026/11/gres-art-671_Isaac-Julien_Diego-De-Pol_03-768x512.jpg",
-          "source_name": "Cool Hunting"
-        },
-        {
-          "title": "2년의 보수 공사를 마치고 재개관하는 이라크 박물관",
-          "url": "https://www.artforum.com/news/iraq-museum-to-reopen-after-two-years-renovations-1234763860/",
-          "image_url": "https://www.artforum.com/wp-content/uploads/2026/11/960px-Iraq_museum_1.jpg?w=650",
-          "source_name": "Artforum"
         }
       ]
     },
     {
       "keyword": "빛과 조명",
-      "count": 27,
+      "count": 28,
       "previous_count": 7,
       "trend": "rising",
       "items": [
+        {
+          "title": "james turrell fills new york gallery with floating cubes and glowing walls of light",
+          "url": "https://www.designboom.com/art/james-turrell-new-york-gallery-almine-rech-something-old-new-borrowed-blue/",
+          "image_url": "https://www.designboom.com/wp-content/uploads/2026/11/james-turrell-almine-rech-new-york-something-old-new-borrowed-blue-designboom-01.jpg",
+          "source_name": "Designboom Art"
+        },
         {
           "title": "사빈 마르셀리스, 이딸라 유리 제품에 물 위로 비치는 햇빛의 움직임을 담다",
           "url": "https://www.dezeen.com/2026/08/28/sabine-marcelis-iittala-glassware-unda/",
@@ -76,21 +82,27 @@
           "url": "https://www.wallpaper.com/tech/jean-michel-jarre-machines-a-history-of-electronic-music-book-review",
           "image_url": "https://cdn.mos.cms.futurecdn.net/kveMVgsAUoTy5Foc43M6Fc-1920-80.jpg",
           "source_name": "Wallpaper*"
-        },
-        {
-          "title": "Aesop, 밀라노 디자인 위크에서 The Factory of Light 설치 작품과 함께 Aposē 램프 출시",
-          "url": "https://www.dezeen.com/2026/04/20/aesop-apose-factory-light-milan-design-week/",
-          "image_url": "https://static-2026.dezeen.com/uploads/2026/04/aesop-lamps-milan-design-week_dezeen_2364_col_sq.jpg",
-          "source_name": "Dezeen Lighting"
         }
       ]
     },
     {
       "keyword": "리노베이션·재생",
-      "count": 18,
+      "count": 20,
       "previous_count": 8,
       "trend": "rising",
       "items": [
+        {
+          "title": "낭트의 라 보주아르 유치원 및 초등학교 리노베이션 및 증축 / Dominique Coulon & associés",
+          "url": "https://www.archdaily.com/1188659/renovation-and-extension-of-la-beaujoire-nursery-and-primary-school-in-nantes-dominique-coulon-and-associes",
+          "image_url": "https://images.adsttc.com/media/images/6af8/b99e/c23f/1f01/895a/fe5b/large_jpg/renovation-and-extension-of-la-beaujoire-nursery-and-primary-school-in-nantes-dominique-coulon-and-associes_27.jpg?1794685357",
+          "source_name": "ArchDaily"
+        },
+        {
+          "title": "클라크 하우스 / 오스틴 메이나드 건축사무소",
+          "url": "https://www.archdaily.com/1030061/clarke-house-austin-maynard-architects",
+          "image_url": "https://images.adsttc.com/media/images/6821/f38e/2465/c929/5dbc/bd8b/large_jpg/clarke-house-austin-maynard-architects_1.jpg?1747055526",
+          "source_name": "ArchDaily"
+        },
         {
           "title": "2년의 보수 공사를 마치고 재개관하는 이라크 박물관",
           "url": "https://www.artforum.com/news/iraq-museum-to-reopen-after-two-years-renovations-1234763860/",
@@ -102,18 +114,6 @@
           "url": "https://www.dezeen.com/2026/11/18/open-byre-conform/",
           "image_url": "https://static-2026.dezeen.com/uploads/2026/11/cotswolds-open-byre-barn-renovation-conform-sq_dezeen_2364_col_2-1024x1024.jpg",
           "source_name": "Dezeen"
-        },
-        {
-          "title": "엘니뇨에 대응하는 도시 회복력 가이드 및 BIG의 난민 도시 마스터플랜: 이번 주 리뷰",
-          "url": "https://www.archdaily.com/1188874/a-guide-to-urban-resilience-against-el-nino-and-bigs-refugee-city-masterplan-this-weeks-review",
-          "image_url": "https://images.adsttc.com/media/images/6afe/3ccb/c23f/1f6a/4351/65bf/large_jpg/a-new-urban-resilience-guide-for-el-nino-and-bigs-refugee-city-masterplan-this-weeks-review_5.jpg?1795046616",
-          "source_name": "ArchDaily"
-        },
-        {
-          "title": "아이콘 플레이스 시바코엔 리노베이션 / 겐슬러 + 록웰 그룹",
-          "url": "https://www.archdaily.com/1188531/icon-place-shibakoen-renovation-gensler-plus-rockwell-group",
-          "image_url": "https://images.adsttc.com/media/images/6af5/5234/eabd/2a00/0192/d349/large_jpg/LIPTK_ICON_PLACE_SHIBAKOEN_3_hip.jpg?1794462281",
-          "source_name": "ArchDaily"
         }
       ]
     },
@@ -151,10 +151,16 @@
     },
     {
       "keyword": "가구 디자인",
-      "count": 15,
+      "count": 16,
       "previous_count": 6,
       "trend": "rising",
       "items": [
+        {
+          "title": "Framery의 유연한 포드 구독 서비스로 사무실 가구 폐기물 문제 해결",
+          "url": "https://www.dezeen.com/2026/11/20/framerys-flexible-office-pod-subscription-office-needs/",
+          "image_url": "https://static-2026.dezeen.com/uploads/2026/11/Framery_dezeen_2364_col_0-1-1024x1024.jpg",
+          "source_name": "Dezeen"
+        },
         {
           "title": "켈리 웨어스틀러, 밀라노 디자인 위크에서 H&M Home 컬렉션 출시",
           "url": "https://www.dezeen.com/2026/04/01/kelly-wearstler-hm-home-collection-milan-design-week/",
@@ -172,12 +178,6 @@
           "url": "https://www.dezeen.com/2026/04/27/milan-design-week-trends-2026-inflatable-furniture-sci-fi/",
           "image_url": "https://static-2026.dezeen.com/uploads/2026/04/ikea-inflatable-chair-milan-design-week-ps-collection_dezeen_2364_col_4.jpg",
           "source_name": "Dezeen Lighting"
-        },
-        {
-          "title": "목재의 다재다능함을 보여주는 8가지 제품",
-          "url": "https://www.dezeen.com/2026/08/14/kitchens-chairs-seating-tables-lighting-wood-timber-dezeen-showroom/",
-          "image_url": "https://static-2026.dezeen.com/uploads/2026/08/theo-folding-chair-plank-showroom_dezeen_2364_col_3-852x852.jpg",
-          "source_name": "Dezeen Lighting"
         }
       ]
     },
@@ -188,10 +188,10 @@
       "trend": "rising",
       "items": [
         {
-          "title": "This book unearths long-lost images from 27 photographers",
-          "url": "https://www.dazeddigital.com/art-photography/article/71386/1/handover-photo-book-jesse-glazzard-photography-manchester?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=this-book-unearths-long-lost-images-from-27-photographers",
-          "image_url": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/9/1459843.jpg",
-          "source_name": "Dazed"
+          "title": "베넷츠 어소시에이츠, 에든버러 대학교를 위해 빅토리아 시대 병원을 재건축하다",
+          "url": "https://www.dezeen.com/2026/11/20/bennetts-associates-edinburgh-futures-institute-rias-doolan-award/",
+          "image_url": "https://static-2026.dezeen.com/uploads/2026/11/bennetts-associates-edinburgh-futures-institute-rias-doolan-award-sq_dezeen_2364_col_0-1024x1024.jpg",
+          "source_name": "Dezeen"
         },
         {
           "title": "사진 분야에 진출한 벨몬드가 새로운 문화적 변화를 주도합니다",
@@ -218,6 +218,7 @@
     "Edu Request",
     "Mexico City",
     "Dezeen Awards",
+    "Holiday Gift Guide",
     "Sabine Marcelis",
     "Sharjah Architecture Triennial",
     "Editor Picks",
@@ -225,8 +226,7 @@
     "Marquee Week",
     "Metta Prayer",
     "Paris Photo",
-    "Artist Spotlight",
-    "Report Finds"
+    "Artist Spotlight"
   ],
   "has_comparison": true
 }
