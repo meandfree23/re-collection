@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-11-20 05:57 KST",
+  "generated_at": "2026-11-20 11:23 KST",
   "period": "2026.11.13 - 2026.11.20",
   "total_articles": 590,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 264
+      "count": 241
     },
     {
       "genre": "동시대 미술",
-      "count": 188
+      "count": 199
     },
     {
       "genre": "미디어 파사드·3D",
-      "count": 94
+      "count": 96
     },
     {
       "genre": "아방가르드 패션",
-      "count": 44
+      "count": 54
     }
   ],
   "themes": [
@@ -27,6 +27,12 @@
       "previous_count": 37,
       "trend": "rising",
       "items": [
+        {
+          "title": "The New Museum Announces Partnership With Vega Foundation",
+          "url": "https://www.artforum.com/news/the-new-museum-announces-partnership-vega-foundation-1234763944/",
+          "image_url": "https://www.artforum.com/wp-content/uploads/2026/11/Screenshot-2026-11-19-at-5.53.04-PM.png?w=650",
+          "source_name": "Artforum"
+        },
         {
           "title": "크리스트 그루이트후이젠, 암스테르담 시립 미술관 관장으로 임명",
           "url": "https://www.artforum.com/news/krist-gruijthuijsen-director-of-stedelijk-museum-amsterdam-1234763901/",
@@ -44,12 +50,6 @@
           "url": "https://motionographer.com/news/woodwork-amsterdam-visual-valley-immersive-storytelling-label/",
           "image_url": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/11/visual-valley-press-release-01-original.jpg?fit=700%2C467&ssl=1",
           "source_name": "Motionographer"
-        },
-        {
-          "title": "젊은 디자이너들이 밀라노에서 종이 안경과 알루미늄 폼 전구를 선보입니다.",
-          "url": "https://www.dezeen.com/2026/05/07/designers-paper-glasses-aluminium-lightbulbs-shared-matter/",
-          "image_url": "https://static-2026.dezeen.com/uploads/2026/05/shared-matter-milan-design-week_dezeen_2364_col_sq-852x852.jpg",
-          "source_name": "Dezeen Lighting"
         }
       ]
     },
@@ -87,7 +87,7 @@
     },
     {
       "keyword": "리노베이션·재생",
-      "count": 20,
+      "count": 18,
       "previous_count": 8,
       "trend": "rising",
       "items": [
@@ -110,31 +110,19 @@
           "source_name": "Artforum"
         },
         {
-          "title": "ConForm이 진행한 코츠월드 헛간 리노베이션으로 '옛것과 새것의 대화'가 이루어집니다.",
-          "url": "https://www.dezeen.com/2026/11/18/open-byre-conform/",
-          "image_url": "https://static-2026.dezeen.com/uploads/2026/11/cotswolds-open-byre-barn-renovation-conform-sq_dezeen_2364_col_2-1024x1024.jpg",
-          "source_name": "Dezeen"
+          "title": "아이콘 플레이스 시바코엔 리노베이션 / 겐슬러 + 록웰 그룹",
+          "url": "https://www.archdaily.com/1188531/icon-place-shibakoen-renovation-gensler-plus-rockwell-group",
+          "image_url": "https://images.adsttc.com/media/images/6af5/5234/eabd/2a00/0192/d349/large_jpg/LIPTK_ICON_PLACE_SHIBAKOEN_3_hip.jpg?1794462281",
+          "source_name": "ArchDaily"
         }
       ]
     },
     {
       "keyword": "목재 건축",
-      "count": 18,
+      "count": 16,
       "previous_count": 12,
       "trend": "rising",
       "items": [
-        {
-          "title": "DKR 하우스",
-          "url": "https://leibal.com/interiors/dkr-house/",
-          "image_url": "https://leibal.com/wp-content/uploads/2026/11/leibal-dkr-house-oskar-firek-architects-1515.jpg",
-          "source_name": "Leibal"
-        },
-        {
-          "title": "Perkins&Will과 Estúdio Campana, 아마존강에서 영감을 받은 목재 설치물로 상파울루 공항 라운지를 꾸미다",
-          "url": "https://www.designboom.com/architecture/perkinswill-estudio-campana-sao-paulo-airport-lounge-amazon-river-inspired-timber-installation-pedra-preta/",
-          "image_url": "https://www.designboom.com/wp-content/dbsub/457982/2026-11-11/pedra-preta-lounge-transforms-latin-americas-busiest-airport-into-a-destination-for-brazilian-art-design-and-culture-5-6af4cbe01fdb2.jpg",
-          "source_name": "Designboom Architecture"
-        },
         {
           "title": "수상 경력에 빛나는 디자인 뮤지엄(Design Museum)의 프로토타입 중 하나인 해초 이어플러그",
           "url": "https://www.dezeen.com/2026/11/19/seaweed-earplug-grant-design-museum-prototypes/",
@@ -146,6 +134,18 @@
           "url": "https://www.designboom.com/architecture/big-timber-alpine-neighborhood-switzerland-siegenthalergut-thun-bjarke-ingels-group/",
           "image_url": "https://www.designboom.com/wp-content/uploads/2026/11/BIG-siegenthalergut-hotel-urban-district-switzerland-designboom-01.jpg",
           "source_name": "Designboom Architecture"
+        },
+        {
+          "title": "1940년대 프랑스 영화 속 한 장면을 연상시키는 리노베이션된 아르데코 양식의 샬레입니다.",
+          "url": "https://www.wallpaper.com/design-interiors/interior-design/le-sarto-chalet-megeve-claves-design-studio",
+          "image_url": "https://cdn.mos.cms.futurecdn.net/uG9JXV7J23VXmi8tiPs2gG-1920-80.png",
+          "source_name": "Wallpaper*"
+        },
+        {
+          "title": "린데 프레야 탄겔더, 'Fluid Re-Collection'에서 '고대와 현대'의 공예를 조화시키다",
+          "url": "https://www.dezeen.com/2026/05/06/linde-freya-tangelder-crafts-fluid-re-collection/",
+          "image_url": "https://static-2026.dezeen.com/uploads/2026/05/fluid-linde-freya-tangelder_dezeen_2364_sq_2-852x852.jpg",
+          "source_name": "Dezeen Lighting"
         }
       ]
     },
@@ -182,34 +182,34 @@
       ]
     },
     {
-      "keyword": "콘크리트 물성",
-      "count": 11,
-      "previous_count": 6,
+      "keyword": "사진",
+      "count": 12,
+      "previous_count": 10,
       "trend": "rising",
       "items": [
         {
-          "title": "사회적 실천으로서의 건축: Ammodo 건축의 날에서 얻은 교훈",
-          "url": "https://www.archdaily.com/1188740/architecture-as-a-social-practice-lessons-from-ammodo-architecture-days",
-          "image_url": "https://images.adsttc.com/media/images/6afc/676b/c23f/1f38/8f80/949c/large_jpg/architecture-as-a-social-practice-lessons-from-ammodo-architecture-days_1.jpg?1794926450",
-          "source_name": "ArchDaily"
+          "title": "This book unearths long-lost images from 27 photographers",
+          "url": "https://www.dazeddigital.com/art-photography/article/71386/1/handover-photo-book-jesse-glazzard-photography-manchester?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=this-book-unearths-long-lost-images-from-27-photographers",
+          "image_url": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/9/1459843.jpg",
+          "source_name": "Dazed"
         },
         {
-          "title": "일본의 불교 기념관을 위해 수조 위에 떠 있는 콘크리트 원통",
-          "url": "https://www.designboom.com/architecture/floating-concrete-cylinder-water-basin-buddhist-memorial-japan-assistant/",
-          "image_url": "https://www.designboom.com/wp-content/dbsub/438140/2026-11-18/floating-concrete-cylinder-defines-a-tranquil-buddhist-memorial-in-odawara-japan-5-6afd1dd5eb56a.jpg",
-          "source_name": "Designboom Architecture"
+          "title": "사진 분야에 진출한 벨몬드가 새로운 문화적 변화를 주도합니다",
+          "url": "https://www.wallpaper.com/art/photography/belmond-photography-programme",
+          "image_url": "https://cdn.mos.cms.futurecdn.net/TwpQVfmb7uTA2ownfAXgB9-1920-80.png",
+          "source_name": "Wallpaper*"
         },
         {
-          "title": "목재는 새로운 콘크리트가 아닙니다. 목재 구조물의 크기를 측정하는 무료 도구",
-          "url": "https://www.archdaily.com/1188669/timber-is-not-the-new-concrete-a-free-tool-for-sizing-wood-structures",
-          "image_url": "https://images.adsttc.com/media/images/6afa/3a03/c23f/1f01/895a/ff62/large_jpg/a-digital-tool-for-exploring-and-designing-timber-structures_2.jpg?1794783756",
-          "source_name": "ArchDaily"
+          "title": "박제술, 고양이 쇼, 미인 대회: 앨리스 포이저(Alice Poyzer)가 자신의 세계와 신경다양성의 의미를 소개합니다.",
+          "url": "https://www.itsnicethat.com/articles/alice-poyzer-other-joys-photography-discover-191126",
+          "image_url": "https://admin.itsnicethat.com/images/YA_mCIHb5KE1PJkwqY5NYcRSb1I=/284179/width-1440/Alice-Poyzer-Photography-ItsNiceThat-7.jpg",
+          "source_name": "It's Nice That"
         },
         {
-          "title": "도쿄의 콘크리트 향수 매장을 가로지르는 검은색 목재 요소",
-          "url": "https://www.dezeen.com/2026/11/17/xinu-tokyo-esrawe-studio-cadena-concepts/",
-          "image_url": "https://static-2026.dezeen.com/uploads/2026/11/xinu-tokyo-esrawe-studio-cadena-concepts-sq_dezeen_2364_col_0-1024x1024.jpg",
-          "source_name": "Dezeen"
+          "title": "사진작가 트리스탄 마르티네즈(Tristan Martinez)의 '손 사이(Between Hands)'",
+          "url": "https://www.booooooom.com/2026/11/18/between-hands-by-photographer-tristan-martinez/",
+          "image_url": "https://cdn.booooooom.com/wp-content/uploads/2026/11/BetweenHands1.jpg",
+          "source_name": "BOOOOOOOM"
         }
       ]
     }
@@ -218,15 +218,15 @@
     "Edu Request",
     "Mexico City",
     "Dezeen Awards",
+    "Rare Hilma",
     "Holiday Gift Guide",
-    "Sabine Marcelis",
-    "Sharjah Architecture Triennial",
-    "Editor Picks",
     "Marquee Week",
     "Metta Prayer",
     "Paris Photo",
     "Artist Spotlight",
-    "Report Finds"
+    "Report Finds",
+    "Adobe MAX",
+    "David Zwirner"
   ],
   "has_comparison": true
 }
