@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-11-20 16:39 KST",
+  "generated_at": "2026-11-20 19:20 KST",
   "period": "2026.11.13 - 2026.11.20",
-  "total_articles": 590,
+  "total_articles": 589,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 267
+      "count": 249
     },
     {
       "genre": "동시대 미술",
-      "count": 190
+      "count": 198
     },
     {
       "genre": "미디어 파사드·3D",
-      "count": 90
+      "count": 89
     },
     {
       "genre": "아방가르드 패션",
-      "count": 43
+      "count": 53
     }
   ],
   "themes": [
@@ -27,6 +27,12 @@
       "previous_count": 37,
       "trend": "rising",
       "items": [
+        {
+          "title": "The New Museum Announces Partnership With Vega Foundation",
+          "url": "https://www.artforum.com/news/the-new-museum-announces-partnership-vega-foundation-1234763944/",
+          "image_url": "https://www.artforum.com/wp-content/uploads/2026/11/Screenshot-2026-11-19-at-5.53.04-PM.png?w=650",
+          "source_name": "Artforum"
+        },
         {
           "title": "Richard Powell Unsettles Race and Color Theory",
           "url": "https://hyperallergic.com/richard-powell-unsettles-race-and-color-theory/",
@@ -44,21 +50,21 @@
           "url": "https://www.designboom.com/art/james-turrell-new-york-gallery-almine-rech-something-old-new-borrowed-blue/",
           "image_url": "https://www.designboom.com/wp-content/uploads/2026/11/james-turrell-almine-rech-new-york-something-old-new-borrowed-blue-designboom-01.jpg",
           "source_name": "Designboom Art"
-        },
-        {
-          "title": "Woodwork Amsterdam, 몰입형 스토리텔링 레이블 'Visual Valley' 론칭",
-          "url": "https://motionographer.com/news/woodwork-amsterdam-visual-valley-immersive-storytelling-label/",
-          "image_url": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/11/visual-valley-press-release-01-original.jpg?fit=700%2C467&ssl=1",
-          "source_name": "Motionographer"
         }
       ]
     },
     {
       "keyword": "빛과 조명",
-      "count": 28,
+      "count": 29,
       "previous_count": 7,
       "trend": "rising",
       "items": [
+        {
+          "title": "정밀한 조명을 통해 인간의 감각을 깨우는 ifi 조명",
+          "url": "https://www.designboom.com/architecture/ifi-lighting/",
+          "image_url": "https://www.designboom.com/wp-content/uploads/2026/11/ifi-lighting_homa-house-serifos_designboom_01.jpg",
+          "source_name": "Designboom Architecture"
+        },
         {
           "title": "james turrell fills new york gallery with floating cubes and glowing walls of light",
           "url": "https://www.designboom.com/art/james-turrell-new-york-gallery-almine-rech-something-old-new-borrowed-blue/",
@@ -76,18 +82,12 @@
           "url": "https://www.yellowtrace.com.au/ross-gardam-bullion-wall-light-collection-australian-design/",
           "image_url": "https://assets.yellowtrace.com.au/wp-content/uploads/2026/11/03153034/Yellowtrace-Ross-Gardam-Bullion-Collection-Photo-Haydn-Cattach-26_opt80.jpg",
           "source_name": "Yellowtrace"
-        },
-        {
-          "title": "장-미셸 자르의 저서 'Machines'가 전자 음악의 역사를 조명합니다",
-          "url": "https://www.wallpaper.com/tech/jean-michel-jarre-machines-a-history-of-electronic-music-book-review",
-          "image_url": "https://cdn.mos.cms.futurecdn.net/kveMVgsAUoTy5Foc43M6Fc-1920-80.jpg",
-          "source_name": "Wallpaper*"
         }
       ]
     },
     {
       "keyword": "리노베이션·재생",
-      "count": 20,
+      "count": 18,
       "previous_count": 8,
       "trend": "rising",
       "items": [
@@ -110,30 +110,24 @@
           "source_name": "Artforum"
         },
         {
-          "title": "ConForm이 진행한 코츠월드 헛간 리노베이션으로 '옛것과 새것의 대화'가 이루어집니다.",
-          "url": "https://www.dezeen.com/2026/11/18/open-byre-conform/",
-          "image_url": "https://static-2026.dezeen.com/uploads/2026/11/cotswolds-open-byre-barn-renovation-conform-sq_dezeen_2364_col_2-1024x1024.jpg",
-          "source_name": "Dezeen"
+          "title": "아이콘 플레이스 시바코엔 리노베이션 / 겐슬러 + 록웰 그룹",
+          "url": "https://www.archdaily.com/1188531/icon-place-shibakoen-renovation-gensler-plus-rockwell-group",
+          "image_url": "https://images.adsttc.com/media/images/6af5/5234/eabd/2a00/0192/d349/large_jpg/LIPTK_ICON_PLACE_SHIBAKOEN_3_hip.jpg?1794462281",
+          "source_name": "ArchDaily"
         }
       ]
     },
     {
       "keyword": "목재 건축",
-      "count": 18,
+      "count": 17,
       "previous_count": 12,
       "trend": "rising",
       "items": [
         {
-          "title": "DKR 하우스",
-          "url": "https://leibal.com/interiors/dkr-house/",
-          "image_url": "https://leibal.com/wp-content/uploads/2026/11/leibal-dkr-house-oskar-firek-architects-1515.jpg",
-          "source_name": "Leibal"
-        },
-        {
-          "title": "Perkins&Will과 Estúdio Campana, 아마존강에서 영감을 얻은 목재 설치물로 상파울루 공항 라운지를 꾸미다",
-          "url": "https://www.designboom.com/architecture/perkinswill-estudio-campana-sao-paulo-airport-lounge-amazon-river-inspired-timber-installation-pedra-preta/",
-          "image_url": "https://www.designboom.com/wp-content/dbsub/457982/2026-11-11/pedra-preta-lounge-transforms-latin-americas-busiest-airport-into-a-destination-for-brazilian-art-design-and-culture-5-6af4cbe01fdb2.jpg",
-          "source_name": "Designboom Architecture"
+          "title": "BIG가 설계한 뒤집힌 캔틸레버 구조의 개방형 목조 호텔",
+          "url": "https://www.dezeen.com/2026/11/20/big-hotel-siegenthalergut-thun-switzerland/",
+          "image_url": "https://static-2026.dezeen.com/uploads/2026/11/Nachwachsende-Stadt-big-thun-switzerland_dezeen_2364_col_sq1-1024x1024.jpg",
+          "source_name": "Dezeen"
         },
         {
           "title": "수상 경력에 빛나는 디자인 뮤지엄(Design Museum)의 프로토타입 중 하나인 해초 이어플러그",
@@ -146,6 +140,12 @@
           "url": "https://www.designboom.com/architecture/big-timber-alpine-neighborhood-switzerland-siegenthalergut-thun-bjarke-ingels-group/",
           "image_url": "https://www.designboom.com/wp-content/uploads/2026/11/BIG-siegenthalergut-hotel-urban-district-switzerland-designboom-01.jpg",
           "source_name": "Designboom Architecture"
+        },
+        {
+          "title": "1940년대 프랑스 영화 속 한 장면을 연상시키는 리노베이션된 아르데코 양식의 샬레입니다.",
+          "url": "https://www.wallpaper.com/design-interiors/interior-design/le-sarto-chalet-megeve-claves-design-studio",
+          "image_url": "https://cdn.mos.cms.futurecdn.net/uG9JXV7J23VXmi8tiPs2gG-1920-80.png",
+          "source_name": "Wallpaper*"
         }
       ]
     },
@@ -183,10 +183,16 @@
     },
     {
       "keyword": "사진",
-      "count": 12,
+      "count": 13,
       "previous_count": 10,
       "trend": "rising",
       "items": [
+        {
+          "title": "This book unearths long-lost images from 27 photographers",
+          "url": "https://www.dazeddigital.com/art-photography/article/71386/1/handover-photo-book-jesse-glazzard-photography-manchester?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=this-book-unearths-long-lost-images-from-27-photographers",
+          "image_url": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/9/1459843.jpg",
+          "source_name": "Dazed"
+        },
         {
           "title": "베넷츠 어소시에이츠, 에든버러 대학교를 위해 빅토리아 시대 병원을 재건축하다",
           "url": "https://www.dezeen.com/2026/11/20/bennetts-associates-edinburgh-futures-institute-rias-doolan-award/",
@@ -204,12 +210,6 @@
           "url": "https://www.itsnicethat.com/articles/alice-poyzer-other-joys-photography-discover-191126",
           "image_url": "https://admin.itsnicethat.com/images/YA_mCIHb5KE1PJkwqY5NYcRSb1I=/284179/width-1440/Alice-Poyzer-Photography-ItsNiceThat-7.jpg",
           "source_name": "It's Nice That"
-        },
-        {
-          "title": "사진작가 트리스탄 마르티네즈(Tristan Martinez)의 '손 사이(Between Hands)'",
-          "url": "https://www.booooooom.com/2026/11/18/between-hands-by-photographer-tristan-martinez/",
-          "image_url": "https://cdn.booooooom.com/wp-content/uploads/2026/11/BetweenHands1.jpg",
-          "source_name": "BOOOOOOOM"
         }
       ]
     }
@@ -220,13 +220,13 @@
     "Dezeen Awards",
     "Holiday Gift Guide",
     "Sabine Marcelis",
-    "Sharjah Architecture Triennial",
-    "Editor Picks",
-    "Rare Hilma",
     "Marquee Week",
     "Metta Prayer",
     "Paris Photo",
-    "Artist Spotlight"
+    "Artist Spotlight",
+    "Report Finds",
+    "Adobe MAX",
+    "David Zwirner"
   ],
   "has_comparison": true
 }
