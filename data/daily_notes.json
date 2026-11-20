@@ -3957,5 +3957,44 @@
   "v": 3,
   "model": "gemini-3.1-flash-lite",
   "written_at": "2026-11-20 01:44"
+ },
+ "2026-11-21": {
+  "date": "2026-11-21",
+  "headline": "라임경화벽돌의 거친 질감과 자성유체의 검은 일렁임",
+  "editorial": "겐트 디자인 박물관은 폐기물을 골재로 삼아 과거와 현재를 물리적으로 잇고, 사라 메요하스는 자성유체의 상전이를 통해 인간이 인지하지 못하는 지능의 움직임을 가시화한다. 이들은 고정된 형태를 벗어나 끊임없이 변화하는 물질의 상태에 주목한다. 퀴어 아트 디자인 그랜트 또한 기록되지 않았던 공간의 궤적을 현재의 플랫폼으로 옮겨오며, 멈춰 있는 아카이브에 새로운 물리적 생명력을 부여한다.",
+  "threads": [
+   {
+    "name": "물질의 상태 변화",
+    "note": "고체와 액체의 경계 혹은 폐기물의 재탄생을 통해 대상의 본래 형태가 어떻게 변모하는지 다룬다.",
+    "items": [
+     {
+      "title": "파편화된 시간을 잇는 순환의 공간, 겐트 디자인 박물관 확장",
+      "url": "https://www.archdaily.com/1188828/design-museum-gent-carmody-groarke-plus-atama-plus-re-st"
+     },
+     {
+      "title": "사라 메요하스의 'Phase Transition', 비생물적 물질과 인공지능의 비가시적 대화",
+      "url": "https://design-milk.com/friday-five-sarah-meyohas-phase-transition/"
+     }
+    ]
+   },
+   {
+    "name": "사라진 서사의 복원",
+    "note": "주류의 역사에서 누락되었거나 파편화된 기억을 물리적 공간과 기록으로 다시 세우는 시도들이다.",
+    "items": [
+     {
+      "title": "퀴어 아트 디자인 그랜트, 퀴어 공간과 서사의 미래를 설계하다",
+      "url": "https://www.wallpaper.com/design-interiors/queer-art-design-grant-awards-winners-2026"
+     },
+     {
+      "title": "범아프리카 비엔날레, 54개국 건축 지식을 기록하는 탈식민적 디지털 아카이브 구축",
+      "url": "https://www.artforum.com/news/pan-african-biennale-architecture-digital-1234763781/"
+     }
+    ]
+   }
+  ],
+  "based_on": 24,
+  "v": 3,
+  "model": "gemini-3.1-flash-lite-preview",
+  "written_at": "2026-11-21 01:16"
  }
 }

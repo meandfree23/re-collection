@@ -1,64 +1,70 @@
 {
-  "generated_at": "2026-11-20 19:20 KST",
-  "period": "2026.11.13 - 2026.11.20",
-  "total_articles": 589,
+  "generated_at": "2026-11-21 01:10 KST",
+  "period": "2026.11.14 - 2026.11.21",
+  "total_articles": 571,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 249
+      "count": 244
     },
     {
       "genre": "동시대 미술",
-      "count": 198
+      "count": 188
     },
     {
       "genre": "미디어 파사드·3D",
-      "count": 89
+      "count": 88
     },
     {
       "genre": "아방가르드 패션",
-      "count": 53
+      "count": 51
     }
   ],
   "themes": [
     {
       "keyword": "박물관·전시",
-      "count": 63,
-      "previous_count": 37,
+      "count": 62,
+      "previous_count": 31,
       "trend": "rising",
       "items": [
         {
-          "title": "The New Museum Announces Partnership With Vega Foundation",
-          "url": "https://www.artforum.com/news/the-new-museum-announces-partnership-vega-foundation-1234763944/",
-          "image_url": "https://www.artforum.com/wp-content/uploads/2026/11/Screenshot-2026-11-19-at-5.53.04-PM.png?w=650",
-          "source_name": "Artforum"
+          "title": "AT-LARS’ adaptable museum combines scaffolding and translucent facade in indonesia",
+          "url": "https://www.designboom.com/architecture/at-lars-adaptable-museum-scaffolding-translucent-facade-indonesia/",
+          "image_url": "https://www.designboom.com/wp-content/dbsub/469868/2026-11-06/at-lars-adaptable-museum-combines-scaffolding-and-translucent-facade-in-indonesia-3-6aedd7f4ed3cc.jpg",
+          "source_name": "Designboom Architecture"
         },
         {
-          "title": "Richard Powell Unsettles Race and Color Theory",
-          "url": "https://hyperallergic.com/richard-powell-unsettles-race-and-color-theory/",
-          "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/11/2.31_Powell_Colorstruck_Art-ResART50065.jpg",
-          "source_name": "Hyperallergic"
+          "title": "디자인 뮤지엄의 전례 없는 전시회가 '흑인 디자인의 아름다움과 깊이'를 조명합니다.",
+          "url": "https://www.dezeen.com/2026/11/20/the-nue-black-aesthetic-exhibition/",
+          "image_url": "https://static-2026.dezeen.com/uploads/2026/11/the-nue-black-aesthetic-design-museum-herp_dezeen_2364_col_0-1024x1024.jpg",
+          "source_name": "Dezeen"
         },
         {
-          "title": "Krist Gruijthuijsen Named Director of Stedelijk Museum Amsterdam",
-          "url": "https://www.artforum.com/news/krist-gruijthuijsen-director-of-stedelijk-museum-amsterdam-1234763901/",
-          "image_url": "https://www.artforum.com/wp-content/uploads/2026/11/Schermafbeelding_2026-11-06_142731.png?w=650",
-          "source_name": "Artforum"
+          "title": "Design Museum Gent / Carmody Groarke + ATAMA + RE-ST",
+          "url": "https://www.archdaily.com/1188828/design-museum-gent-carmody-groarke-plus-atama-plus-re-st",
+          "image_url": "https://images.adsttc.com/media/images/6afd/6115/c23f/1f60/4095/9683/large_jpg/design-museum-gent-carmody-groarke-plus-atama-plus-re-st_7.jpg?1794990386",
+          "source_name": "ArchDaily"
         },
         {
-          "title": "james turrell fills new york gallery with floating cubes and glowing walls of light",
-          "url": "https://www.designboom.com/art/james-turrell-new-york-gallery-almine-rech-something-old-new-borrowed-blue/",
-          "image_url": "https://www.designboom.com/wp-content/uploads/2026/11/james-turrell-almine-rech-new-york-something-old-new-borrowed-blue-designboom-01.jpg",
-          "source_name": "Designboom Art"
+          "title": "A new furniture gallery in New York, an obscure Italian designer reemerges, and more",
+          "url": "https://www.sightunseen.com/2026/11/a-new-furniture-gallery-in-new-york-an-obscure-italian-designer-reemerges-and-more/",
+          "image_url": "https://www.sightunseen.com/wordpress/wp-content/uploads/2026/11/Leset-Sunset_02-728x558.jpg",
+          "source_name": "Sight Unseen"
         }
       ]
     },
     {
       "keyword": "빛과 조명",
       "count": 29,
-      "previous_count": 7,
+      "previous_count": 8,
       "trend": "rising",
       "items": [
+        {
+          "title": "디자인 뮤지엄의 전례 없는 전시회가 '흑인 디자인의 아름다움과 깊이'를 조명합니다.",
+          "url": "https://www.dezeen.com/2026/11/20/the-nue-black-aesthetic-exhibition/",
+          "image_url": "https://static-2026.dezeen.com/uploads/2026/11/the-nue-black-aesthetic-design-museum-herp_dezeen_2364_col_0-1024x1024.jpg",
+          "source_name": "Dezeen"
+        },
         {
           "title": "정밀한 조명을 통해 인간의 감각을 깨우는 ifi 조명",
           "url": "https://www.designboom.com/architecture/ifi-lighting/",
@@ -76,21 +82,85 @@
           "url": "https://www.dezeen.com/2026/08/28/sabine-marcelis-iittala-glassware-unda/",
           "image_url": "https://static-2026.dezeen.com/uploads/2026/08/sabine-marcelis-iittala-unda_dezeen_2364_col_3-852x852.jpg",
           "source_name": "Dezeen Lighting"
+        }
+      ]
+    },
+    {
+      "keyword": "목재 건축",
+      "count": 16,
+      "previous_count": 13,
+      "trend": "rising",
+      "items": [
+        {
+          "title": "perkins&will and estúdio campana wrap são paulo airport lounge in amazon river-inspired timber installation",
+          "url": "https://www.designboom.com/architecture/perkinswill-estudio-campana-sao-paulo-airport-lounge-amazon-river-inspired-timber-installation-pedra-preta/",
+          "image_url": "https://www.designboom.com/wp-content/dbsub/457982/2026-11-11/pedra-preta-lounge-transforms-latin-americas-busiest-airport-into-a-destination-for-brazilian-art-design-and-culture-5-6af4cbe01fdb2.jpg",
+          "source_name": "Designboom Architecture"
         },
         {
-          "title": "주조 청동과 거울 광택이 돋보이는 Ross Gardam의 Bullion 벽등.",
-          "url": "https://www.yellowtrace.com.au/ross-gardam-bullion-wall-light-collection-australian-design/",
-          "image_url": "https://assets.yellowtrace.com.au/wp-content/uploads/2026/11/03153034/Yellowtrace-Ross-Gardam-Bullion-Collection-Photo-Haydn-Cattach-26_opt80.jpg",
-          "source_name": "Yellowtrace"
+          "title": "DKR 하우스",
+          "url": "https://leibal.com/interiors/dkr-house/",
+          "image_url": "https://leibal.com/wp-content/uploads/2026/11/leibal-dkr-house-oskar-firek-architects-1515.jpg",
+          "source_name": "Leibal"
+        },
+        {
+          "title": "BIG가 설계한 뒤집힌 캔틸레버 구조의 개방형 목조 호텔",
+          "url": "https://www.dezeen.com/2026/11/20/big-hotel-siegenthalergut-thun-switzerland/",
+          "image_url": "https://static-2026.dezeen.com/uploads/2026/11/Nachwachsende-Stadt-big-thun-switzerland_dezeen_2364_col_sq1-1024x1024.jpg",
+          "source_name": "Dezeen"
+        },
+        {
+          "title": "수상 경력에 빛나는 디자인 뮤지엄(Design Museum)의 프로토타입 중 하나인 해초 이어플러그",
+          "url": "https://www.dezeen.com/2026/11/19/seaweed-earplug-grant-design-museum-prototypes/",
+          "image_url": "https://static-2026.dezeen.com/uploads/2026/11/Design-Museum_dezeen_2364_col_4-991x1024.jpg",
+          "source_name": "Dezeen"
+        }
+      ]
+    },
+    {
+      "keyword": "사진",
+      "count": 16,
+      "previous_count": 11,
+      "trend": "rising",
+      "items": [
+        {
+          "title": "8 AD-Approved Interior Photographers in the Midwest",
+          "url": "https://www.architecturaldigest.com/story/interior-photographers-in-the-midwest",
+          "image_url": "https://media.architecturaldigest.com/photos/6afcc5988f5a9916f592ca30/master/pass/Marta%20Perez%20-AD1124_DIERKES_7%20copy.jpg",
+          "source_name": "Architectural Digest"
+        },
+        {
+          "title": "43 AD-Approved International Interior Photographers to Know for Your Next Project Abroad",
+          "url": "https://www.architecturaldigest.com/story/40-ad-approved-international-interior-photographers",
+          "image_url": "https://media.architecturaldigest.com/photos/66844263532726c05422156d/master/pass/Nicolas%20Mathe%CC%81us-G19_4408.jpg",
+          "source_name": "Architectural Digest"
+        },
+        {
+          "title": "9 Interior Photographers in the Southwest to Book for Your Next Design Project",
+          "url": "https://www.architecturaldigest.com/story/interior-photographers-in-the-southwest",
+          "image_url": "https://media.architecturaldigest.com/photos/6afdfedb7b2adeda65ee6477/master/pass/___02-YondMartin2025%20-%20Inquiries%20Mabey.jpg",
+          "source_name": "Architectural Digest"
+        },
+        {
+          "title": "AD-Approved Interior Photographers to Book for Your Next Project",
+          "url": "https://www.architecturaldigest.com/story/50-ad-approved-photographers",
+          "image_url": "https://media.architecturaldigest.com/photos/6afc981962312feba5cc576d/master/pass/___AD0626_FRIEDMAN_21%20copy.jpg",
+          "source_name": "Architectural Digest"
         }
       ]
     },
     {
       "keyword": "리노베이션·재생",
-      "count": 18,
-      "previous_count": 8,
+      "count": 15,
+      "previous_count": 12,
       "trend": "rising",
       "items": [
+        {
+          "title": "Design Museum Gent / Carmody Groarke + ATAMA + RE-ST",
+          "url": "https://www.archdaily.com/1188828/design-museum-gent-carmody-groarke-plus-atama-plus-re-st",
+          "image_url": "https://images.adsttc.com/media/images/6afd/6115/c23f/1f60/4095/9683/large_jpg/design-museum-gent-carmody-groarke-plus-atama-plus-re-st_7.jpg?1794990386",
+          "source_name": "ArchDaily"
+        },
         {
           "title": "낭트의 라 보주아르 유치원 및 초등학교 리노베이션 및 증축 / Dominique Coulon & associés",
           "url": "https://www.archdaily.com/1188659/renovation-and-extension-of-la-beaujoire-nursery-and-primary-school-in-nantes-dominique-coulon-and-associes",
@@ -108,53 +178,21 @@
           "url": "https://www.artforum.com/news/iraq-museum-to-reopen-after-two-years-renovations-1234763860/",
           "image_url": "https://www.artforum.com/wp-content/uploads/2026/11/960px-Iraq_museum_1.jpg?w=650",
           "source_name": "Artforum"
-        },
-        {
-          "title": "아이콘 플레이스 시바코엔 리노베이션 / 겐슬러 + 록웰 그룹",
-          "url": "https://www.archdaily.com/1188531/icon-place-shibakoen-renovation-gensler-plus-rockwell-group",
-          "image_url": "https://images.adsttc.com/media/images/6af5/5234/eabd/2a00/0192/d349/large_jpg/LIPTK_ICON_PLACE_SHIBAKOEN_3_hip.jpg?1794462281",
-          "source_name": "ArchDaily"
-        }
-      ]
-    },
-    {
-      "keyword": "목재 건축",
-      "count": 17,
-      "previous_count": 12,
-      "trend": "rising",
-      "items": [
-        {
-          "title": "BIG가 설계한 뒤집힌 캔틸레버 구조의 개방형 목조 호텔",
-          "url": "https://www.dezeen.com/2026/11/20/big-hotel-siegenthalergut-thun-switzerland/",
-          "image_url": "https://static-2026.dezeen.com/uploads/2026/11/Nachwachsende-Stadt-big-thun-switzerland_dezeen_2364_col_sq1-1024x1024.jpg",
-          "source_name": "Dezeen"
-        },
-        {
-          "title": "수상 경력에 빛나는 디자인 뮤지엄(Design Museum)의 프로토타입 중 하나인 해초 이어플러그",
-          "url": "https://www.dezeen.com/2026/11/19/seaweed-earplug-grant-design-museum-prototypes/",
-          "image_url": "https://static-2026.dezeen.com/uploads/2026/11/Design-Museum_dezeen_2364_col_4-991x1024.jpg",
-          "source_name": "Dezeen"
-        },
-        {
-          "title": "스위스의 새로운 주거 단지를 위한 알프스 전망을 갖춘 BIG의 목재 구조물",
-          "url": "https://www.designboom.com/architecture/big-timber-alpine-neighborhood-switzerland-siegenthalergut-thun-bjarke-ingels-group/",
-          "image_url": "https://www.designboom.com/wp-content/uploads/2026/11/BIG-siegenthalergut-hotel-urban-district-switzerland-designboom-01.jpg",
-          "source_name": "Designboom Architecture"
-        },
-        {
-          "title": "1940년대 프랑스 영화 속 한 장면을 연상시키는 리노베이션된 아르데코 양식의 샬레입니다.",
-          "url": "https://www.wallpaper.com/design-interiors/interior-design/le-sarto-chalet-megeve-claves-design-studio",
-          "image_url": "https://cdn.mos.cms.futurecdn.net/uG9JXV7J23VXmi8tiPs2gG-1920-80.png",
-          "source_name": "Wallpaper*"
         }
       ]
     },
     {
       "keyword": "가구 디자인",
-      "count": 16,
-      "previous_count": 6,
+      "count": 14,
+      "previous_count": 8,
       "trend": "rising",
       "items": [
+        {
+          "title": "A new furniture gallery in New York, an obscure Italian designer reemerges, and more",
+          "url": "https://www.sightunseen.com/2026/11/a-new-furniture-gallery-in-new-york-an-obscure-italian-designer-reemerges-and-more/",
+          "image_url": "https://www.sightunseen.com/wordpress/wp-content/uploads/2026/11/Leset-Sunset_02-728x558.jpg",
+          "source_name": "Sight Unseen"
+        },
         {
           "title": "Framery의 유연한 포드 구독 서비스로 사무실 가구 폐기물 문제 해결",
           "url": "https://www.dezeen.com/2026/11/20/framerys-flexible-office-pod-subscription-office-needs/",
@@ -172,61 +210,23 @@
           "url": "https://www.dezeen.com/2026/05/06/linde-freya-tangelder-crafts-fluid-re-collection/",
           "image_url": "https://static-2026.dezeen.com/uploads/2026/05/fluid-linde-freya-tangelder_dezeen_2364_sq_2-852x852.jpg",
           "source_name": "Dezeen Lighting"
-        },
-        {
-          "title": "밀라노 디자인 위크에서 주목할 만한 6가지 트렌드 중 SF 램프와 에어 가구",
-          "url": "https://www.dezeen.com/2026/04/27/milan-design-week-trends-2026-inflatable-furniture-sci-fi/",
-          "image_url": "https://static-2026.dezeen.com/uploads/2026/04/ikea-inflatable-chair-milan-design-week-ps-collection_dezeen_2364_col_4.jpg",
-          "source_name": "Dezeen Lighting"
-        }
-      ]
-    },
-    {
-      "keyword": "사진",
-      "count": 13,
-      "previous_count": 10,
-      "trend": "rising",
-      "items": [
-        {
-          "title": "This book unearths long-lost images from 27 photographers",
-          "url": "https://www.dazeddigital.com/art-photography/article/71386/1/handover-photo-book-jesse-glazzard-photography-manchester?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=this-book-unearths-long-lost-images-from-27-photographers",
-          "image_url": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/9/1459843.jpg",
-          "source_name": "Dazed"
-        },
-        {
-          "title": "베넷츠 어소시에이츠, 에든버러 대학교를 위해 빅토리아 시대 병원을 재건축하다",
-          "url": "https://www.dezeen.com/2026/11/20/bennetts-associates-edinburgh-futures-institute-rias-doolan-award/",
-          "image_url": "https://static-2026.dezeen.com/uploads/2026/11/bennetts-associates-edinburgh-futures-institute-rias-doolan-award-sq_dezeen_2364_col_0-1024x1024.jpg",
-          "source_name": "Dezeen"
-        },
-        {
-          "title": "사진 분야에 진출한 벨몬드가 새로운 문화적 변화를 주도합니다",
-          "url": "https://www.wallpaper.com/art/photography/belmond-photography-programme",
-          "image_url": "https://cdn.mos.cms.futurecdn.net/TwpQVfmb7uTA2ownfAXgB9-1920-80.png",
-          "source_name": "Wallpaper*"
-        },
-        {
-          "title": "박제술, 고양이 쇼, 미인 대회: 앨리스 포이저(Alice Poyzer)가 자신의 세계와 신경다양성의 의미를 소개합니다.",
-          "url": "https://www.itsnicethat.com/articles/alice-poyzer-other-joys-photography-discover-191126",
-          "image_url": "https://admin.itsnicethat.com/images/YA_mCIHb5KE1PJkwqY5NYcRSb1I=/284179/width-1440/Alice-Poyzer-Photography-ItsNiceThat-7.jpg",
-          "source_name": "It's Nice That"
         }
       ]
     }
   ],
   "notable_names": [
     "Edu Request",
+    "Holiday Gift Guide",
     "Mexico City",
     "Dezeen Awards",
-    "Holiday Gift Guide",
+    "Rare Hilma",
+    "Approved Interior Photographers",
+    "Keith Haring",
     "Sabine Marcelis",
     "Marquee Week",
     "Metta Prayer",
-    "Paris Photo",
     "Artist Spotlight",
-    "Report Finds",
-    "Adobe MAX",
-    "David Zwirner"
+    "Report Finds"
   ],
   "has_comparison": true
 }
