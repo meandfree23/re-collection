@@ -373052,5 +373052,100 @@
   },
   "depth_raw": 3,
   "depth_v": 2
+ },
+ "hyperallergic.com/still-here-and-independent": {
+  "title_ko": "예술의 독립적 사유와 아카이브의 재구성: 뉴욕 스튜디오 스쿨과 인도네시아 여성 미술",
+  "summary_ko": "뉴욕 스튜디오 스쿨이 독립적 사유를 지닌 예술가들을 대상으로 MFA 프로그램 지원자를 모집한다. 빌첵 재단은 2027년 3월까지 예술 및 과학 분야 비영리 단체에 최대 2만 달러의 보조금을 지원하는 오픈 콜을 진행한다. 싱가포르 국립미술관은 독립 큐레이터 알리아 스와스티카와 협업하여 인도네시아 미술사 속 여성의 기여를 조명하는 온라인 코스를 공개했다.",
+  "lens": "제도권의 파편화된 교육을 넘어 아틀리에식 실천을 고수하는 학교와, 역사에서 누락된 여성의 서사를 복원하는 아카이브의 교차점을 주목한다.",
+  "why_now": "기성 미술 교육과 정전 중심의 역사 서술에서 벗어나, 개별 예술가의 실천과 잊힌 아카이브를 재발굴하는 움직임이 동시대 미술의 자정 작용으로 작동한다.",
+  "mechanism": "뉴욕 스튜디오 스쿨은 휘트니 미술관이 사용하던 건물을 점유하여 물리적 유산의 레이어를 겹치고, 실생활 드로잉을 기반으로 한 유럽식 아틀리에 교육을 고수한다.",
+  "sensory": "휘트니 미술관의 옛 공간이 지닌 묵직한 벽체와 층고, 그리고 인도네시아 여성 예술가들의 퍼포먼스 기록에서 느껴지는 날것의 신체적 저항감이 대비된다.",
+  "transfer": "공간 설계 시 기존 건물의 뼈대를 박제하기보다 교육적 실천을 위한 아틀리에로 전유하는 방식과, 역사적 서사를 다룰 때 주류 밖 인물을 전면 배치하는 큐레이션 기법을 참고한다.",
+  "context": "뉴욕 스튜디오 스쿨은 1963년 메르세데스 매터가 설립한 이후 실기 중심의 교육을 이어오며, 과거 휘트니 미술관 건물을 사용하고 있다. 싱가포르 국립미술관은 인도네시아 여성 예술가들의 권위주의 저항 실천을 다루는 등 아시아 미술사의 공백을 메우는 기획을 지속한다.",
+  "findings": [
+   {
+    "text": "뉴욕 스튜디오 스쿨은 1963년 전통적인 미술 교육의 파편화된 방식에 실망한 학생들과 메르세데스 매터에 의해 설립되었다.",
+    "s": 1,
+    "quote": "It was formed in 1963 by a group of students and their teacher, Mercedes Matter, all of whom had become disenchanted with the fragmented nature of art instruction inside traditional art programs and universities."
+   },
+   {
+    "text": "빌첵 재단은 생의학 과학과 미술사 분야에서 경력을 쌓은 얀과 마리카 빌첵 부부가 설립했다.",
+    "s": 2,
+    "quote": "The mission of the Foundation was inspired by the couple's respective careers in biomedical science and art history, as well as their appreciation for the opportunities offered to them as newcomers to the United States."
+   }
+  ],
+  "keywords": [
+   "뉴욕스튜디오스쿨",
+   "아틀리에교육",
+   "인도네시아미술",
+   "아카이브",
+   "비영리재단"
+  ],
+  "evidence": "NYSS is now accepting applications from independent thinkers and experimenters in the arts.",
+  "kind": "뉴스·이슈",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "여러 기관의 공모와 교육 프로그램을 나열한 뉴스 성격의 정보라 깊이 있는 분석보다는 현황 파악에 적합하다.",
+  "v": 2,
+  "url": "https://hyperallergic.com/still-here-and-independent/",
+  "original_title": "Still Here and Independent",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 818,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-21 12:27",
+  "research": {
+   "entities": [
+    "New York Studio School",
+    "Vilcek Foundation",
+    "National Gallery Singapore",
+    "Alia Swastika"
+   ],
+   "questions": [
+    "New York Studio School의 MFA 프로그램이 추구하는 예술 교육 철학은 무엇인가?",
+    "인도네시아 미술사에서 여성 예술가들의 역할과 기여를 재조명하는 것이 현대 미술계에 어떤 의미를 갖는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "New York Studio School of Drawing, Painting and Sculpture",
+     "url": "https://en.wikipedia.org/wiki/New%20York%20Studio%20School%20of%20Drawing%2C%20Painting%20and%20Sculpture"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Vilcek Foundation",
+     "url": "https://en.wikipedia.org/wiki/Vilcek%20Foundation"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "구상과 추상의 경계에서 물성을 뒤흔드는 세 작가의 회화",
+     "url": "https://hyperallergic.com/paint-isnt-just-paint-at-the-new-york-studio-school/"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "인도네시아 미술사 속 여성의 궤적: 주류 서사를 재구성하는 아카이브와 실천",
+     "url": "https://hyperallergic.com/who-gets-remembered-in-art-history-new-free-online-course-explores-women-who-shaped-indonesian-art/"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "힐마 아프 클린트의 추상 회화, 30년 만에 경매 시장으로 귀환",
+     "url": "https://hyperallergic.com/rare-hilma-af-klint-work-heads-to-auction/"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "chars": 2768
+  },
+  "depth_raw": 3,
+  "depth_v": 2
  }
 }

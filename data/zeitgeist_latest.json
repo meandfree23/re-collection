@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-21 11:19 KST",
+  "generated_at": "2026-11-21 12:27 KST",
   "period": "2026.11.14 - 2026.11.21",
   "total_articles": 620,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 278
+      "count": 277
     },
     {
       "genre": "동시대 미술",
-      "count": 202
+      "count": 199
     },
     {
       "genre": "미디어 파사드·3D",
@@ -17,13 +17,13 @@
     },
     {
       "genre": "아방가르드 패션",
-      "count": 51
+      "count": 55
     }
   ],
   "themes": [
     {
       "keyword": "박물관·전시",
-      "count": 69,
+      "count": 68,
       "previous_count": 31,
       "trend": "rising",
       "items": [
@@ -151,7 +151,7 @@
     },
     {
       "keyword": "사진",
-      "count": 17,
+      "count": 16,
       "previous_count": 11,
       "trend": "rising",
       "items": [
@@ -183,7 +183,7 @@
     },
     {
       "keyword": "가구 디자인",
-      "count": 16,
+      "count": 15,
       "previous_count": 8,
       "trend": "rising",
       "items": [
@@ -200,30 +200,30 @@
           "source_name": "Architectural Digest"
         },
         {
-          "title": "A new furniture gallery in New York, an obscure Italian designer reemerges, and more",
-          "url": "https://www.sightunseen.com/2026/11/a-new-furniture-gallery-in-new-york-an-obscure-italian-designer-reemerges-and-more/",
-          "image_url": "https://www.sightunseen.com/wordpress/wp-content/uploads/2026/11/Leset-Sunset_02-728x558.jpg",
-          "source_name": "Sight Unseen"
-        },
-        {
           "title": "Framery의 유연한 포드 구독 서비스로 사무실 가구 폐기물 문제 해결",
           "url": "https://www.dezeen.com/2026/11/20/framerys-flexible-office-pod-subscription-office-needs/",
           "image_url": "https://static-2026.dezeen.com/uploads/2026/11/Framery_dezeen_2364_col_0-1-1024x1024.jpg",
           "source_name": "Dezeen"
+        },
+        {
+          "title": "켈리 웨어스틀러, 밀라노 디자인 위크에서 H&M Home 컬렉션 출시",
+          "url": "https://www.dezeen.com/2026/04/01/kelly-wearstler-hm-home-collection-milan-design-week/",
+          "image_url": "https://static-2026.dezeen.com/uploads/2026/04/kelly-wearstler-hm-home_dezeen_2364_col_sq-852x852.jpg",
+          "source_name": "Dezeen Lighting"
         }
       ]
     }
   ],
   "notable_names": [
     "Edu Request",
-    "Holiday Gift Guide",
     "Mexico City",
     "Dezeen Awards",
+    "Still Here",
     "Venice Architecture Biennale",
     "Editor Picks",
     "Rare Hilma",
     "Approved Interior Photographers",
-    "Keith Haring",
+    "Holiday Gift Guide",
     "Sabine Marcelis",
     "Marquee Week",
     "Metta Prayer"
