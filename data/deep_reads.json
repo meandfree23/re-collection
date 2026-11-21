@@ -374549,5 +374549,67 @@
   },
   "depth_raw": 5,
   "depth_v": 2
+ },
+ "archdaily.com/1188720/lamberth-palace-arches-tigg-plus-coll-architects": {
+  "title_ko": "철도 하부의 해체 가능한 목재 아치: 램버트 궁전 아치 재생",
+  "summary_ko": "티그 콜 아키텍츠(Tigg + Coll Architects)는 런던에서 가장 번잡한 철도 노선 아래 방치되었던 빅토리아 시대 철도 아치 3개를 공부와 휴식을 위한 공간으로 탈바꿈시켰다. 활성 철도 하부의 기술적 제약을 극복하기 위해 분해 가능한 대량 목재(Mass-timber) 구조 시스템을 개발하여 적용했다.",
+  "lens": "진동하는 철도 하부에 영구 구조물 대신 해체 가능한 목재 골조를 끼워 넣어 유휴 부지를 공공 공간으로 바꾼다.",
+  "why_now": "도시 내 과밀화 속에서 남겨진 하부 공간의 구조적 제약을 생태적 공법으로 돌파하는 정교한 공간 재활용 방식이다.",
+  "mechanism": "활성 철도 노선에서 발생하는 진동과 소음을 고려하여 구조체에 무리를 주지 않는 분해 가능한 대량 목재 시스템을 조립했다.",
+  "sensory": "거친 벽돌 곡면의 철도 아치 구조물 내부를 부드러운 목재 결이 감싸며 소음을 흡수하고 안온한 밀도를 만든다.",
+  "transfer": "철도 하부나 교량 아래 로케이션 촬영 시, 임시 목재 가벽을 조립식으로 세워 진동을 흡수하는 공간 콘티에 적용한다.",
+  "context": "티그 콜 아키텍츠는 런던의 도심 유휴 공간을 재활용하는 프로젝트를 다수 진행해 왔다.",
+  "findings": [
+   {
+    "text": "Lambeth Palace is the official London residence of the Archbishop of Canterbury.",
+    "s": 1,
+    "quote": "Lambeth Palace is the official London residence of the Archbishop of Canterbury."
+   }
+  ],
+  "keywords": [
+   "철도아치",
+   "목재구조",
+   "공간재생",
+   "런던건축"
+  ],
+  "evidence": "TiggColl has transformed three previously underutilised Victorian railway arches beneath one of London's busiest railway routes into new spaces for studying, socialising and relaxing, developing a demountable mass-timber system",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "철도 아치를 목재로 재생한 구체적 사례이나 세부 기술적 수치가 부족하여 평이한 수준의 프로젝트 소개에 머문다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1188720/lamberth-palace-arches-tigg-plus-coll-architects",
+  "original_title": "Lamberth Palace Arches / Tigg + Coll Architects",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 1289,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-22 01:08",
+  "research": {
+   "entities": [
+    "Tigg + Coll Architects",
+    "Lambeth Palace",
+    "Engenuiti",
+    "Xylotek"
+   ],
+   "questions": [
+    "빅토리아 시대 철도 아치 구조를 현대적인 공간으로 재생할 때 발생하는 기술적 제약은 무엇인가요?",
+    "철도 하부 공간의 소음과 진동 문제를 해결하기 위해 사용된 매스 팀버(Mass-timber) 시스템의 특징은 무엇인가요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Lambeth Palace",
+     "url": "https://en.wikipedia.org/wiki/Lambeth%20Palace"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 442
+  },
+  "depth_raw": 3,
+  "depth_v": 2
  }
 }
