@@ -373340,5 +373340,333 @@
   },
   "depth_raw": 3,
   "depth_v": 2
+ },
+ "designboom.com/architecture/stone-blue-rooms-bureau-de-change-paris-jewelry-boutique-nikos-koulis": {
+  "title_ko": "18세기 파리의 뼈대 위에 얹은 석회암의 부피감과 비밀스러운 팔각형의 방",
+  "summary_ko": "런던 건축 스튜디오 뷰로 드 체인지(Bureau de Change)가 파리 보아시 당글라 거리의 18세기 건물을 니코스 쿨리스(Nikos Koulis) 부티크로 재구성했다. 1층은 조각적 석회암 받침대와 금속 프레임으로 파리 아틀리에의 전통을 재해석했고, 2층은 십자형 캐비닛이 열리며 깊은 푸른색의 팔각형 살롱으로 변모하는 가변적 공간을 설계했다.",
+  "lens": "고정된 벽체 대신 가구의 개폐를 통해 공간의 밀도와 용도를 즉각적으로 전환하는 시노그래피적 장치를 도입했다.",
+  "why_now": "디지털 피로가 극에 달한 시대, 원재료의 물성과 물리적 변형이 주는 감각적 신뢰가 공간 설계의 핵심 가치로 부상하고 있다.",
+  "mechanism": "석회암 블록을 금속 케이스 베이스로 찍어내어 재료의 음각을 남기는 캐스팅 기법을 사용했다. 십자형 캐비닛은 닫혔을 때는 가구로, 열렸을 때는 내부로 진입 가능한 팔각형의 독립적 살롱으로 기능한다.",
+  "sensory": "석회암의 거친 질감과 매끄러운 연마면의 대비, 짙은 파란색 내부 공간이 주는 심리적 깊이감이 공간의 온도 차를 만든다.",
+  "transfer": "콘티 연출 시, 거대한 가구의 문이 열리며 전혀 다른 색감과 밀도의 공간이 드러나는 롱 테이크 샷을 활용해 공간의 반전 서사를 극대화할 수 있다.",
+  "context": "뷰로 드 체인지는 아테네 플래그십에서 시도했던 조각적 석회암 디스플레이의 맥락을 파리로 확장하며, 기존 건물의 역사적 층위 위에 현대적인 금속 디테일을 겹쳐 올렸다. 이는 과거 아테네 프로젝트에서 보여준 기하학적 정밀함과 재료의 물성 탐구를 파리의 건축적 언어로 번역한 결과다.",
+  "findings": [],
+  "keywords": [
+   "건축적 장치",
+   "물성 대비",
+   "시노그래피",
+   "가변적 공간"
+  ],
+  "evidence": "The custom display plinths take their shape from an earlier Bureau de Change design for Koulis’ Athens flagship.",
+  "kind": "프로젝트",
+  "depth": 5,
+  "grounding": "full",
+  "depth_reason": "건축적 리노베이션의 구체적 기법과 가구의 가변적 설계를 통해 공간의 기능 전환을 명확히 제시했다.",
+  "v": 2,
+  "url": "https://www.designboom.com/architecture/stone-blue-rooms-bureau-de-change-paris-jewelry-boutique-nikos-koulis/",
+  "original_title": "stone plinths and secret blue rooms shape bureau de change’s paris jewelry boutique",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 7440,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-21 19:04",
+  "research": {
+   "entities": [
+    "Bureau de Change",
+    "Nikos Koulis",
+    "Chloé Le Reste"
+   ],
+   "questions": [
+    "Bureau de Change가 디자인한 아테네 플래그십과 파리 부티크의 공통점과 차이점은 무엇인가요?",
+    "파리 18세기 건물의 원형을 유지하면서 현대적인 주얼리 부티크로 리노베이션한 구체적인 건축적 특징은 무엇인가요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "취향과 서사를 수집하는 지식인을 위한 큐레이션",
+     "url": "https://www.wallpaper.com/art/wallpaper-creative-gift-guide-head-of-art-and-culture-hannah-silver"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 217
+  },
+  "depth_raw": 5,
+  "depth_v": 2
+ },
+ "yatzer.com/apartment-rio-de-janeiro-atelier-glushko": {
+  "title_ko": "36㎡의 물리적 한계를 조형적 유희로 전환하는 리우데자네이루의 아파트",
+  "summary_ko": "안드레이 글루슈코는 리우데자네이루 이파네마의 36㎡ 아파트에서 모든 내부 벽체를 제거하고 곡선형 조형 파티션을 도입해 공간을 재구획했다. 철거 중 발견된 1955년산 포르투갈 타일을 입구 벽면과 예술 작품으로 재활용하고, 버건디색 수납 볼륨을 배치해 기능과 미감을 동시에 확보했다.",
+  "lens": "벽체를 없애는 대신 조형적 볼륨을 세워 시각적 연속성을 유지하면서도 기능적 영역을 유연하게 분리하는 전략이 돋보인다.",
+  "why_now": "최소한의 면적에서 거주자의 개성을 드러내기 위해 공간을 박제된 사각형이 아닌 조각적 오브제의 집합으로 재해석하는 방식이 유효하기 때문이다.",
+  "mechanism": "침대 헤드보드이자 욕실 벽체가 되는 곡선형 파티션은 공간의 직선적 기하학을 완화하며, 수납과 주방 가구를 결합한 버건디색 볼륨은 구조 기둥을 매립해 동선을 최적화한다.",
+  "sensory": "마이크로시멘트 바닥의 매끄러운 질감과 콘크리트 보의 거친 표면이 대비되며, 1955년산 타일의 푸른 패턴이 중립적인 화이트 톤 공간에 시간의 층위를 더한다.",
+  "transfer": "좁은 공간의 콘티를 짤 때, 가벽 대신 공간의 중심을 관통하는 곡선형 조형물을 설치해 카메라의 시선이 끊기지 않고 자연스럽게 다음 구역으로 흐르게 유도한다.",
+  "context": "안드레이 글루슈코는 러시아와 스페인을 거쳐 브라질에 정착한 배경을 바탕으로 국제적인 미학을 공간에 투영한다. 기존 작업인 마드리드의 45㎡ 아파트 프로젝트와 마찬가지로, 공간의 대기(atmosphere)와 기억을 조형적 장치로 형상화하는 데 집중한다.",
+  "findings": [
+   {
+    "text": "안드레이 글루슈코가 설립한 아틀리에 글루슈코는 공간을 통해 대기, 기억, 감정을 형성하는 디자인을 추구한다.",
+    "s": 1,
+    "quote": "Rooted between Brazil, Spain and Russia, the atelier approaches design as a way of shaping atmosphere, memory and emotion through space."
+   }
+  ],
+  "keywords": [
+   "공간 최적화",
+   "조형적 파티션",
+   "재생 건축",
+   "마이크로시멘트",
+   "이파네마"
+  ],
+  "evidence": "The most striking intervention is a sculptural partition that serves as the bed's headboard before curving around to enclose the bathroom.",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "좁은 면적의 물리적 제약을 조형적 파티션과 재료의 재사용으로 풀어낸 구체적인 설계 기법이 명확히 제시됨.",
+  "v": 2,
+  "url": "https://www.yatzer.com/apartment-rio-de-janeiro-atelier-glushko",
+  "original_title": "Atelier Glushkó Turns Spatial Constraints into Sculptural Opportunities in a Rio de Janeiro Apartment",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 4437,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-21 19:04",
+  "research": {
+   "entities": [
+    "Atelier Glushkó",
+    "Andrey Glushko",
+    "Karim Rashid"
+   ],
+   "questions": [
+    "36제곱미터의 좁은 공간을 개방감 있게 구성하기 위해 안드레이 글루슈코가 사용한 건축적 장치들은 무엇인가?",
+    "철거 과정에서 발견된 1955년산 포르투갈 타일이 인테리어 디자인에서 어떤 방식으로 재해석되어 활용되었는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Título de tu sitio",
+     "url": "https://www.atelierglushko.com/"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Karim Rashid",
+     "url": "https://en.wikipedia.org/wiki/Karim%20Rashid"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "변화의 원동력으로서의 디자인, 코센티노 C 넥스트 디자이너스 컨퍼런스",
+     "url": "https://www.dezeen.com/2026/10/29/c-next-designers-emea-almeria-cosentino/"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 816
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "architecturaldigest.com/story/interior-photographers-in-the-northeast": {
+  "title_ko": "공간의 서사를 포착하는 법: 동부 지역 인테리어 사진가들이 빛과 선을 다루는 방식",
+  "summary_ko": "미국 북동부에서 활동하는 인테리어 사진가들은 빛의 강약과 피사체의 질감을 조율하여 공간의 고유한 성격을 기록한다. 이들은 자연광을 극대화하거나 필름 촬영 기법을 응용해 공간의 부피감을 구현하며, 가구 너머의 작은 물건까지 담아내어 주거의 서사를 완성한다. 아테나 칼데론의 공간을 기록한 제시카 안톨라와 니콜 프란젠을 비롯해, 건축적 드라마를 강조하는 사진가들의 시선을 조명한다.",
+  "lens": "공간의 물성과 빛의 궤적을 기록하는 사진가의 시선은 단순히 피사체를 묘사하는 것을 넘어, 설계자가 구축한 공간의 의도를 시각적 언어로 번역하는 작업이다.",
+  "why_now": "디지털 보정이 보편화된 시대에, 필름 촬영의 원리를 응용하거나 자연광의 그림자를 극대화하여 공간의 실재감을 복원하려는 시도가 주목받는다.",
+  "mechanism": "필름 촬영에서 배운 노출과 조명 기법을 활용해 공간의 밝은 부분과 어두운 부분의 대비를 극대화한다. 특히 아치형 구조나 패턴이 강한 벽면의 경우, 그림자를 의도적으로 배치하여 공간의 깊이와 입체감을 강조한다.",
+  "sensory": "자연광이 닿은 벽면의 다채로운 색채와 산화된 금속, 혹은 무광의 질감이 느껴지는 가구의 촉각적 디테일이 사진 속에서 선명하게 드러난다.",
+  "transfer": "공간 촬영 콘티 작성 시, 빛이 가장 깊게 드리우는 시간대를 특정하고, 가구와 오브제의 배치보다 그 사이의 빈 공간(음의 공간)을 어떻게 활용할지 결정하는 데 활용한다.",
+  "context": "제이 맥스 본드 주니어의 협업 철학이 깃든 데이비드 아자예의 루비 시티 프로젝트를 기록한 맥스 버크홀터의 작업은 건축적 유산의 기록 방식을 보여준다. 또한 아테나 칼데론의 주거를 촬영한 니콜 프란젠의 작업은 수집품의 밀도를 조절하여 공간의 통일성을 확보하는 인테리어 사진의 전형을 제시한다.",
+  "findings": [
+   {
+    "text": "브리트니 암브리지는 인물 사진과 인테리어 사진을 넘나들며 피사체의 본질을 포착하는 것으로 알려져 있다.",
+    "s": 1,
+    "quote": "Brittany Ambridge is a New York based Photo­gra­pher, best known for her Por­trai­ture and interiors."
+   },
+   {
+    "text": "데이비드 아자예는 2021년 로열 골드 메달을 수상하며 건축계의 공로를 인정받았다.",
+    "s": 2,
+    "quote": "He received the 2021 Royal Gold Medal, making him the first African recipient and one of the youngest recipients."
+   }
+  ],
+  "keywords": [
+   "공간 사진",
+   "빛의 조율",
+   "물성 기록",
+   "동선 설계",
+   "시각적 서사"
+  ],
+  "evidence": "Their images are portraits of homes, capturing a space’s personality and highlighting the talents of its designer.",
+  "kind": "뉴스·이슈",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "건축 사진가들의 방법론을 나열하는 수준이나, 빛과 질감을 다루는 기술적 태도가 구체적으로 언급되어 있어 참고 가치가 있다.",
+  "v": 2,
+  "url": "https://www.architecturaldigest.com/story/interior-photographers-in-the-northeast",
+  "original_title": "76 AD-Approved Interior Photographers in the Northeast",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 9000,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-21 19:04",
+  "research": {
+   "entities": [
+    "William Abranowicz",
+    "Brittany Ambridge",
+    "Gachot Studios",
+    "Athena Calderone",
+    "David Adjaye"
+   ],
+   "questions": [
+    "인테리어 사진에서 공간의 분위기와 조명을 결정짓는 핵심적인 촬영 기법은 무엇인가?",
+    "건축 및 인테리어 사진가가 피사체인 공간의 성격을 포착하기 위해 고려해야 할 미학적 요소는 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Brittany Ambridge",
+     "url": "https://www.brittanyambridge.com/"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "David Adjaye",
+     "url": "https://en.wikipedia.org/wiki/David%20Adjaye"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "테니스 선수가 1930년대 스페인풍 주택을 고치며 공간을 연결한 방식",
+     "url": "https://www.architecturaldigest.com/story/madison-keys-florida-home"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "스타 시스템 너머의 건축: 제이 맥스 본드 주니어와 국립 아프리카계 미국인 역사 문화 박물관",
+     "url": "https://hyperallergic.com/the-overlooked-black-architect-who-shaped-a-landmark-smithsonian-museum/"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "파리 플라스 도팽의 50제곱미터, 호기심의 캐비닛으로 재구성한 주거",
+     "url": "https://www.architecturaldigest.com/story/jessica-helgerson-paris-pied-a-terre"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 2343
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "wallpaper.com/design-interiors/interior-accessories/small-design-gifts": {
+  "title_ko": "기능의 뼈대를 갖춘 정밀한 오브제: 디자인 애호가를 위한 선물 리스트",
+  "summary_ko": "월페이퍼 디자인 에디터 로사 베르톨리가 엄격한 형태와 정교한 기능을 결합한 디자인 오브제들을 제안한다. 1948년 제작된 제니스 스테이플러부터 지노 발레가 설계한 솔라리 플립 시계까지, 일상의 도구에 시간의 무게와 기능적 완성도를 더한 클래식 아이템들을 조명한다.",
+  "lens": "장식적 요소를 걷어내고 도구의 본질인 작동 방식과 내구성에 집중한 디자인이 어떻게 시대를 넘어 생존하는지 증명한다.",
+  "why_now": "디지털 피로가 극에 달한 시점에, 물리적인 조작과 기계적 정밀함이 주는 확실한 피드백은 도구의 신뢰성을 회복하는 중요한 지표가 된다.",
+  "mechanism": "제니스 스테이플러의 에나멜 바디와 호를의 분리형 가위처럼, 부품을 모듈화하거나 기계적 구조를 노출해 사용자가 도구의 수명을 직접 관리하게 설계했다.",
+  "sensory": "강철의 차가운 물성, 플립 시계가 넘어갈 때 발생하는 기계적인 소음, 연필깎이와 흑연이 맞물리는 마찰음 등 감각적인 정밀함을 강조한다.",
+  "transfer": "공간 연출 시 헤이(HAY)의 크레이트나 비트라(Vitra) 툴박스를 단순 수납함이 아닌 오브제적 질감을 가진 패키징 도구로 활용해 산업적 미감을 강조하라.",
+  "context": "비트라는 독일 바일 암 라인에 디자인 뮤지엄을 운영하며 산업 디자인의 역사적 맥락을 보존하는 허브 역할을 수행한다. 헤이는 2002년 설립 이후 보르울렉 형제 등 국제적 디자이너들과 협업하며 대중적인 가격대의 기능적 가구를 생산해왔다.",
+  "findings": [
+   {
+    "text": "헤이는 2002년 메테와 롤프 헤이가 코펜하겐에서 설립한 덴마크 가구 회사다.",
+    "s": 3,
+    "quote": "HAY is a Danish furniture company founded in Copenhagen, Denmark, in 2002 by Mette and Rolf Hay."
+   },
+   {
+    "text": "비트라는 스위스 바젤 인근 비르스펠덴에 본사를 둔 가족 경영 가구 기업이다.",
+    "s": 4,
+    "quote": "Vitra is a Swiss family-owned furniture company headquartered in Birsfelden, Switzerland."
+   }
+  ],
+  "keywords": [
+   "산업디자인",
+   "기능주의",
+   "클래식오브제",
+   "도구의미학"
+  ],
+  "evidence": "My favourite design objects combine rigorous, well-conceived forms with precise functionality.",
+  "kind": "리스트·라운드업",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "선별된 오브제들의 기능적 맥락을 짚어내었으나, 일반적인 디자인 추천 리스트의 범주를 크게 벗어나지 않는다.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/design-interiors/interior-accessories/small-design-gifts",
+  "original_title": "Small and useful design gifts",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 3720,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-21 19:04",
+  "research": {
+   "entities": [
+    "Hay",
+    "Vitra",
+    "Faber-Castell",
+    "Richard Sapper",
+    "Iittala"
+   ],
+   "questions": [
+    "기사에서 언급된 디자인 오브제들이 '형태와 기능의 조화'라는 관점에서 현대 디자인사에 어떤 의미를 갖는지 궁금합니다.",
+    "Zenith 스테이플러나 Solari 플립 시계와 같은 클래식 디자인 제품들이 오늘날까지도 디자인 애호가들에게 사랑받는 이유는 무엇인가요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "HAY - Hay Large Plastic Crate Storage Box | Selfridges.com",
+     "url": "https://go.shopmy.us/p-107718620"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Style. Sneakers. Culture. Community. | END.",
+     "url": "https://go.shopmy.us/p-107671627"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "HAY (company)",
+     "url": "https://en.wikipedia.org/wiki/HAY%20%28company%29"
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "Vitra (furniture)",
+     "url": "https://en.wikipedia.org/wiki/Vitra%20%28furniture%29"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "열대 모더니즘의 거장, 비트라 디자인 뮤지엄에서 재회하다",
+     "url": "https://www.wallpaper.com/architecture/architecture-events/geoffrey-bawa-exhibition-vitra-design-museum"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "날을 분리해 영구적으로 연마하는 호를(Horl)의 정밀 가위와 샤프너",
+     "url": "https://www.wallpaper.com/tech/horl-scissors-and-sharpeners-review"
+    },
+    {
+     "n": 7,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "캠퍼와 비트라 디자인 뮤지엄, 20년의 협업을 잇는 아카이브의 재구성",
+     "url": "https://www.fubiz.net/2026/07/01/camper-for-vitra-design-museum-at-art-basel-2026/"
+    }
+   ],
+   "used": [
+    3,
+    4
+   ],
+   "chars": 5861
+  },
+  "depth_raw": 3,
+  "depth_v": 2
  }
 }

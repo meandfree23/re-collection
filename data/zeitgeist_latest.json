@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-21 16:33 KST",
+  "generated_at": "2026-11-21 19:04 KST",
   "period": "2026.11.14 - 2026.11.21",
-  "total_articles": 620,
+  "total_articles": 619,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 270
+      "count": 269
     },
     {
       "genre": "동시대 미술",
@@ -118,38 +118,6 @@
       ]
     },
     {
-      "keyword": "목재 건축",
-      "count": 17,
-      "previous_count": 13,
-      "trend": "rising",
-      "items": [
-        {
-          "title": "BIG, 스위스 뉴 지겐탈러구트 지구에 목재 혼합 용도 개발 프로젝트 공개",
-          "url": "https://www.archdaily.com/1188996/big-unveils-timber-mixed-use-development-for-new-siegenthalergut-district-in-switzerland",
-          "image_url": "https://images.adsttc.com/media/images/6b00/21f8/c23f/1f6a/4351/6bc9/large_jpg/big-unveils-timber-mixed-use-development-for-new-siegenthalergut-district-in-switzerland_3.jpg?1795170825",
-          "source_name": "ArchDaily"
-        },
-        {
-          "title": "perkins&will and estúdio campana wrap são paulo airport lounge in amazon river-inspired timber installation",
-          "url": "https://www.designboom.com/architecture/perkinswill-estudio-campana-sao-paulo-airport-lounge-amazon-river-inspired-timber-installation-pedra-preta/",
-          "image_url": "https://www.designboom.com/wp-content/dbsub/457982/2026-11-11/pedra-preta-lounge-transforms-latin-americas-busiest-airport-into-a-destination-for-brazilian-art-design-and-culture-5-6af4cbe01fdb2.jpg",
-          "source_name": "Designboom Architecture"
-        },
-        {
-          "title": "DKR 하우스",
-          "url": "https://leibal.com/interiors/dkr-house/",
-          "image_url": "https://leibal.com/wp-content/uploads/2026/11/leibal-dkr-house-oskar-firek-architects-1515.jpg",
-          "source_name": "Leibal"
-        },
-        {
-          "title": "BIG가 설계한 뒤집힌 캔틸레버 구조의 개방형 목조 호텔",
-          "url": "https://www.dezeen.com/2026/11/20/big-hotel-siegenthalergut-thun-switzerland/",
-          "image_url": "https://static-2026.dezeen.com/uploads/2026/11/Nachwachsende-Stadt-big-thun-switzerland_dezeen_2364_col_sq1-1024x1024.jpg",
-          "source_name": "Dezeen"
-        }
-      ]
-    },
-    {
       "keyword": "가구 디자인",
       "count": 16,
       "previous_count": 8,
@@ -182,11 +150,55 @@
       ]
     },
     {
+      "keyword": "목재 건축",
+      "count": 16,
+      "previous_count": 13,
+      "trend": "rising",
+      "items": [
+        {
+          "title": "BIG, 스위스 뉴 지겐탈러구트 지구에 목재 혼합 용도 개발 프로젝트 공개",
+          "url": "https://www.archdaily.com/1188996/big-unveils-timber-mixed-use-development-for-new-siegenthalergut-district-in-switzerland",
+          "image_url": "https://images.adsttc.com/media/images/6b00/21f8/c23f/1f6a/4351/6bc9/large_jpg/big-unveils-timber-mixed-use-development-for-new-siegenthalergut-district-in-switzerland_3.jpg?1795170825",
+          "source_name": "ArchDaily"
+        },
+        {
+          "title": "perkins&will and estúdio campana wrap são paulo airport lounge in amazon river-inspired timber installation",
+          "url": "https://www.designboom.com/architecture/perkinswill-estudio-campana-sao-paulo-airport-lounge-amazon-river-inspired-timber-installation-pedra-preta/",
+          "image_url": "https://www.designboom.com/wp-content/dbsub/457982/2026-11-11/pedra-preta-lounge-transforms-latin-americas-busiest-airport-into-a-destination-for-brazilian-art-design-and-culture-5-6af4cbe01fdb2.jpg",
+          "source_name": "Designboom Architecture"
+        },
+        {
+          "title": "BIG가 설계한 뒤집힌 캔틸레버 구조의 개방형 목조 호텔",
+          "url": "https://www.dezeen.com/2026/11/20/big-hotel-siegenthalergut-thun-switzerland/",
+          "image_url": "https://static-2026.dezeen.com/uploads/2026/11/Nachwachsende-Stadt-big-thun-switzerland_dezeen_2364_col_sq1-1024x1024.jpg",
+          "source_name": "Dezeen"
+        },
+        {
+          "title": "수상 경력에 빛나는 디자인 뮤지엄(Design Museum)의 프로토타입 중 하나인 해초 이어플러그",
+          "url": "https://www.dezeen.com/2026/11/19/seaweed-earplug-grant-design-museum-prototypes/",
+          "image_url": "https://static-2026.dezeen.com/uploads/2026/11/Design-Museum_dezeen_2364_col_4-991x1024.jpg",
+          "source_name": "Dezeen"
+        }
+      ]
+    },
+    {
       "keyword": "사진",
-      "count": 13,
+      "count": 15,
       "previous_count": 11,
       "trend": "rising",
       "items": [
+        {
+          "title": "해외 프로젝트에 적합한 AD 인증 국제 인테리어 사진작가 45명",
+          "url": "https://www.architecturaldigest.com/story/40-ad-approved-international-interior-photographers",
+          "image_url": "https://media.architecturaldigest.com/photos/66844263532726c05422156d/master/pass/Nicolas%20Mathe%CC%81us-G19_4408.jpg",
+          "source_name": "Architectural Digest"
+        },
+        {
+          "title": "미국 북동부 지역의 AD 인증을 받은 인테리어 사진작가 76명",
+          "url": "https://www.architecturaldigest.com/story/interior-photographers-in-the-northeast",
+          "image_url": "https://media.architecturaldigest.com/photos/6af35590c299b3c969e53ec9/master/pass/___AD0124_BEHUN_8%20copy.jpg",
+          "source_name": "Architectural Digest"
+        },
         {
           "title": "MOP Foundation의 'The Hamster Becomes the Problem'은 한 시대를 정의하는 사진작가 데이비드 심즈(David Sims)의 시각적 세계를 심도 있게 탐구합니다.",
           "url": "https://www.wallpaper.com/fashion-beauty/david-sims-exhibition-mop-foundation-a-coruna-spain-the-hamster-becomes-the-problem",
@@ -198,18 +210,6 @@
           "url": "https://www.booooooom.com/2026/11/20/stravaig-by-photographer-james-parker/",
           "image_url": "https://cdn.booooooom.com/wp-content/uploads/2026/10/Parker1.jpg",
           "source_name": "BOOOOOOOM"
-        },
-        {
-          "title": "This book unearths long-lost images from 27 photographers",
-          "url": "https://www.dazeddigital.com/art-photography/article/71386/1/handover-photo-book-jesse-glazzard-photography-manchester?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=this-book-unearths-long-lost-images-from-27-photographers",
-          "image_url": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/9/1459843.jpg",
-          "source_name": "Dazed"
-        },
-        {
-          "title": "베넷츠 어소시에이츠, 에든버러 대학교를 위해 빅토리아 시대 병원을 재건축하다",
-          "url": "https://www.dezeen.com/2026/11/20/bennetts-associates-edinburgh-futures-institute-rias-doolan-award/",
-          "image_url": "https://static-2026.dezeen.com/uploads/2026/11/bennetts-associates-edinburgh-futures-institute-rias-doolan-award-sq_dezeen_2364_col_0-1024x1024.jpg",
-          "source_name": "Dezeen"
         }
       ]
     }
