@@ -373147,5 +373147,198 @@
   },
   "depth_raw": 3,
   "depth_v": 2
+ },
+ "dezeen.com/2026/11/21/dezeen-20x20-this-week": {
+  "title_ko": "디진 창간 20주년, 향후 20년을 견인할 건축·디자인의 세대 교체",
+  "summary_ko": "건축 매체 디진(Dezeen)이 창간 20주년을 맞아 향후 20년의 지형을 바꿀 인물을 조명하는 '20x20 프로젝트'를 시작했다. 이와 함께 런던에서 디진 어워즈 2026 수상작을 발표했으며, 다이치(Daichi)의 '사일런트 리버 트리 사우나(Silent River Tree Sauna)'가 올해의 건축 프로젝트로 선정되었다.",
+  "lens": "매체 20년의 기록을 토대로 차세대 크리에이터를 선별하는 과정에서 당대 건축·디자인의 권력 이동과 미학적 변곡점을 읽어내야 한다.",
+  "why_now": "디지털 미디어가 물리적 어워즈와 연계해 영향력 있는 인물을 공식화하는 것은 업계의 다음 의제를 설정하려는 의도적 시도다.",
+  "mechanism": "기존 거장들이 차세대 인물을 지명하는 상향식 큐레이션을 통해 건축적 계보를 잇고, 어워즈를 통해 실질적인 성과물을 동시대 기준점으로 제시한다.",
+  "sensory": "자연 환경과 건축 매스의 절제된 결합을 통해 공간의 깊이와 시간성을 체감하게 만드는 건축적 태도를 강조한다.",
+  "transfer": "차세대 크리에이터를 발굴할 때, 그들의 작업이 기존 거장의 미학을 어떻게 계승하거나 반박하는지 그 '간극'을 콘티의 핵심 갈등 요소로 활용하라.",
+  "context": "디진은 런던에 본사를 둔 글로벌 건축·디자인 매체로, 이번 프로젝트는 콜러(Kohler)와의 파트너십을 통해 진행된다. 이전 어워즈 심사위원단이 디자인의 미래 방향성을 논의했던 것처럼, 이번 20x20 프로젝트 역시 매체의 영향력을 확장하는 전략적 행보다.",
+  "findings": [
+   {
+    "text": "디진은 런던에 본사를 두고 있으며, 런던 호스턴, 뉴욕, 상하이에 사무소를 운영한다.",
+    "s": 1,
+    "quote": "Dezeen is an online architecture, interiors and design magazine based in London, with offices in Hoxton, as well as New York City and Shanghai."
+   }
+  ],
+  "keywords": [
+   "디진",
+   "건축어워즈",
+   "세대교체",
+   "디자인트렌드"
+  ],
+  "evidence": "We will reveal the architects and designers who will have the biggest impacts over the next 20 years",
+  "kind": "뉴스·이슈",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "매체의 프로젝트 시작을 알리는 정보성 기사로, 구체적인 작업의 상세 기법보다는 업계의 흐름을 조망하는 성격이 강하다.",
+  "v": 2,
+  "url": "https://www.dezeen.com/2026/11/21/dezeen-20x20-this-week/",
+  "original_title": "This week we launched a series celebrating the top architects and designers of the next 20 years",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 3777,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-21 16:33",
+  "research": {
+   "entities": [
+    "Dezeen",
+    "Kohler",
+    "Harry Nuriev",
+    "Bjarke Ingels",
+    "SHoP Architects"
+   ],
+   "questions": [
+    "Dezeen의 20x20 프로젝트는 향후 20년 동안 건축 및 디자인 분야에 어떤 영향을 미칠 인물들을 선정하는 기준을 가지고 있나요?",
+    "최근 발표된 Dezeen Awards 2026 수상작들이 현대 건축과 디자인 트렌드에 시사하는 바는 무엇인가요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Dezeen",
+     "url": "https://en.wikipedia.org/wiki/Dezeen"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Kohler Co.",
+     "url": "https://en.wikipedia.org/wiki/Kohler%20Co."
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "맥기 앤 코의 오프라인 안착, 디지털 경험을 물리적 공간으로 옮기는 법",
+     "url": "https://www.architecturaldigest.com/story/shea-mcgees-retail-empire-is-just-getting-started"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "디진 어워즈 2026 마스터 심사위원단이 던진 질문",
+     "url": "https://www.dezeen.com/2026/09/24/dezeen-awards-2026-trimble-master-jury-video/"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "빅(BIG)이 설계한 마콘도 파크, 가변적 건축으로 재현한 문학적 풍경",
+     "url": "https://www.archdaily.com/1185625/bigs-macondo-park-opens-as-a-temporary-cultural-landscape-for-shakiras-madrid-residency"
+    }
+   ],
+   "used": [
+    1,
+    4
+   ],
+   "chars": 1901
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "wallpaper.com/fashion-beauty/jack-moss-fashion-features-director-style-gift-guide": {
+  "title_ko": "동시대 패션 에디터가 고른 12가지 물성과 오브제",
+  "summary_ko": "월페이퍼의 패션·뷰티 특집 디렉터 잭 모스가 스타일 애호가를 위해 직접 선별한 12가지 연말 선물 가이드를 공개했다. 나무 부자재로 만든 핸드백 참부터 빈티지 티셔츠, 고대 목욕 의식에서 영감을 받은 샤워 오일과 공예적 오브제까지 감도 높은 취향의 파편들을 담았다.",
+  "lens": "패션의 외연을 공예와 일상 오브제로 확장해 물성의 무게를 되묻는다.",
+  "why_now": "디지털 스크롤과 트렌드의 과잉 속에서, 손으로 만든 공예품과 장인정신이 깃든 실물 오브제가 지닌 물질적 가치가 다시 주목받고 있다.",
+  "mechanism": "익명의 디자이너가 만든 목재 참, 수공예 셔츠, 아카이브 빈티지 티셔츠 등 손으로 빚은 질감과 서사가 담긴 제품들을 일상 동선 속에 배치한다.",
+  "sensory": "나무 참의 거친 결, 히노키와 샌들우드의 묵직한 향, 리브 편직 메리노 울의 촘촘한 밀도가 손끝과 피부에 직접 닿는다.",
+  "transfer": "영상이나 공간 연출 시 소품의 물성을 극대화하기 위해 기성품 대신 작가가 직접 손으로 빚은 공예 오브제나 빈티지 패브릭을 프레임 안에 배치한다.",
+  "context": "조나단 앤더슨은 패션과 공예, 예술의 경계를 허물며 런던 디자인 메달을 수상하는 등 브랜드의 영토를 확장해왔다.",
+  "findings": [
+   {
+    "text": "제이더블유 앤더슨의 창립자 조나단 앤더슨은 패션과 예술, 공예를 융합한 작업으로 런던 디자인 메달 수상자로 선정되었다.",
+    "s": 5,
+    "quote": "JW 앤더슨(JW Anderson)의 창립자 조나단 앤더슨(Jonathan Anderson)과 슈퍼플럭스(Superflux) 공동 창업자 아나브 자인(Anab Jain)이 올해 런던 디자인 메달 수상자로 선정되었다. 앤더슨은 패션과 예술, 공예를 융합한 작업으로"
+   }
+  ],
+  "keywords": [
+   "공예 오브제",
+   "수공예 패션",
+   "스타일 가이드",
+   "물성"
+  ],
+  "evidence": "Wooden charms, enveloping knits, one-off vintage tees: 12 gifts that Wallpaper’s fashion and beauty features director Jack Moss hopes to find under the tree this festive season",
+  "kind": "리스트·라운드업",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "에디터의 취향을 담은 큐레이션 리스트이나 구체적인 공예 오브제와 브랜드의 물성을 포착했다.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/fashion-beauty/jack-moss-fashion-features-director-style-gift-guide",
+  "original_title": "Fashion features director Jack Moss’ gift guide for the style aficionado",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 7336,
+  "fetch": "ok",
+  "cliche_hits": [
+   "경계를 허"
+  ],
+  "read_at": "2026-11-21 16:33",
+  "research": {
+   "entities": [
+    "JW Anderson",
+    "D.S. & Durga",
+    "Conner Ives",
+    "Stefan Cooke",
+    "Jonathan Anderson"
+   ],
+   "questions": [
+    "기사에서 언급된 Faimann과 같은 신생 브랜드들이 런던 패션계에서 주목받는 이유는 무엇인가요?",
+    "JW Anderson이 단순한 패션 레이블을 넘어 라이프스타일과 공예를 아우르는 브랜드로 확장하는 전략은 무엇인가요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "JW Anderson Official Site : Luxury Bags, Ready-To-Wear, Shoes – JW Anderson",
+     "url": "https://jwanderson.com/"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "VOL I. Alexandria Discovery Set & Loofah | 39BC",
+     "url": "https://go.redirectingat.com?id=92X1650074&xcust=wallpaper_us_2845008488497690533&xs=1&url=https%3A%2F%2F39-bc.com%2Fproducts%2Fvol-i-alexandria-discovery-set-loofah-gift-set&sref=https%3A%2F%2Fwww.wallpaper.com"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "JW Anderson",
+     "url": "https://en.wikipedia.org/wiki/JW%20Anderson"
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "D.S. & Durga",
+     "url": "https://en.wikipedia.org/wiki/D.S.%20%26%20Durga"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "조나단 앤더슨과 아나브 자인, 2026 런던 디자인 메달 수상",
+     "url": "https://www.dezeen.com/2026/09/10/london-design-medal-2026-jonathan-anderson/"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "패션과 미래를 관통하는 2026 런던 디자인 메달 수상자들",
+     "url": "https://www.wallpaper.com/design-interiors/design-events/london-design-medals-2026"
+    },
+    {
+     "n": 7,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "호두와 연기 속에서 펼쳐진 디올의 초경량 자연주의",
+     "url": "https://www.dazeddigital.com/fashion/article/71068/1/dior-ss27-paris-fashion-week-pfw-jonathan-anderson-rihanna-nuts?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=rihanna-goes-nuts-for-nature-at-dior-ss27"
+    }
+   ],
+   "used": [
+    1,
+    3,
+    5,
+    6,
+    7
+   ],
+   "chars": 6933
+  },
+  "depth_raw": 3,
+  "depth_v": 2
  }
 }

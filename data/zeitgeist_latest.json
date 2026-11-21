@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-21 13:19 KST",
+  "generated_at": "2026-11-21 16:33 KST",
   "period": "2026.11.14 - 2026.11.21",
   "total_articles": 620,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 271
+      "count": 270
     },
     {
       "genre": "동시대 미술",
@@ -17,7 +17,7 @@
     },
     {
       "genre": "아방가르드 패션",
-      "count": 56
+      "count": 57
     }
   ],
   "themes": [
@@ -55,10 +55,16 @@
     },
     {
       "keyword": "빛과 조명",
-      "count": 29,
+      "count": 30,
       "previous_count": 8,
       "trend": "rising",
       "items": [
+        {
+          "title": "이번 주에 저희는 향후 20년간 주목할 만한 최고의 건축가와 디자이너를 조명하는 시리즈를 시작했습니다.",
+          "url": "https://www.dezeen.com/2026/11/21/dezeen-20x20-this-week/",
+          "image_url": "https://static-2026.dezeen.com/uploads/2026/11/dezeen20x20-birthday_dezeen_2364_col_0-1024x1024.jpg",
+          "source_name": "Dezeen"
+        },
         {
           "title": "디자인 뮤지엄의 전례 없는 전시회가 '흑인 디자인의 아름다움과 깊이'를 조명합니다.",
           "url": "https://www.dezeen.com/2026/11/20/the-nue-black-aesthetic-exhibition/",
@@ -76,44 +82,6 @@
           "url": "https://www.designboom.com/art/james-turrell-new-york-gallery-almine-rech-something-old-new-borrowed-blue/",
           "image_url": "https://www.designboom.com/wp-content/uploads/2026/11/james-turrell-almine-rech-new-york-something-old-new-borrowed-blue-designboom-01.jpg",
           "source_name": "Designboom Art"
-        },
-        {
-          "title": "사빈 마르셀리스, 이딸라 유리 제품에 물 위로 비치는 햇빛의 움직임을 담다",
-          "url": "https://www.dezeen.com/2026/08/28/sabine-marcelis-iittala-glassware-unda/",
-          "image_url": "https://static-2026.dezeen.com/uploads/2026/08/sabine-marcelis-iittala-unda_dezeen_2364_col_3-852x852.jpg",
-          "source_name": "Dezeen Lighting"
-        }
-      ]
-    },
-    {
-      "keyword": "사진",
-      "count": 17,
-      "previous_count": 11,
-      "trend": "rising",
-      "items": [
-        {
-          "title": "MOP Foundation의 'The Hamster Becomes the Problem'은 한 시대를 정의하는 사진작가 데이비드 심즈(David Sims)의 시각적 세계를 심도 있게 탐구합니다.",
-          "url": "https://www.wallpaper.com/fashion-beauty/david-sims-exhibition-mop-foundation-a-coruna-spain-the-hamster-becomes-the-problem",
-          "image_url": "https://cdn.mos.cms.futurecdn.net/k4p4LNneR3YSo2fdjcUgcg-1920-80.jpg",
-          "source_name": "Wallpaper*"
-        },
-        {
-          "title": "사진작가 제임스 파커(James Parker)의 '스트레이그(Stravaig)'",
-          "url": "https://www.booooooom.com/2026/11/20/stravaig-by-photographer-james-parker/",
-          "image_url": "https://cdn.booooooom.com/wp-content/uploads/2026/10/Parker1.jpg",
-          "source_name": "BOOOOOOOM"
-        },
-        {
-          "title": "8 AD-Approved Interior Photographers in the Midwest",
-          "url": "https://www.architecturaldigest.com/story/interior-photographers-in-the-midwest",
-          "image_url": "https://media.architecturaldigest.com/photos/6afcc5988f5a9916f592ca30/master/pass/Marta%20Perez%20-AD1124_DIERKES_7%20copy.jpg",
-          "source_name": "Architectural Digest"
-        },
-        {
-          "title": "43 AD-Approved International Interior Photographers to Know for Your Next Project Abroad",
-          "url": "https://www.architecturaldigest.com/story/40-ad-approved-international-interior-photographers",
-          "image_url": "https://media.architecturaldigest.com/photos/66844263532726c05422156d/master/pass/Nicolas%20Mathe%CC%81us-G19_4408.jpg",
-          "source_name": "Architectural Digest"
         }
       ]
     },
@@ -212,6 +180,38 @@
           "source_name": "Dezeen"
         }
       ]
+    },
+    {
+      "keyword": "사진",
+      "count": 13,
+      "previous_count": 11,
+      "trend": "rising",
+      "items": [
+        {
+          "title": "MOP Foundation의 'The Hamster Becomes the Problem'은 한 시대를 정의하는 사진작가 데이비드 심즈(David Sims)의 시각적 세계를 심도 있게 탐구합니다.",
+          "url": "https://www.wallpaper.com/fashion-beauty/david-sims-exhibition-mop-foundation-a-coruna-spain-the-hamster-becomes-the-problem",
+          "image_url": "https://cdn.mos.cms.futurecdn.net/k4p4LNneR3YSo2fdjcUgcg-1920-80.jpg",
+          "source_name": "Wallpaper*"
+        },
+        {
+          "title": "사진작가 제임스 파커(James Parker)의 '스트레이그(Stravaig)'",
+          "url": "https://www.booooooom.com/2026/11/20/stravaig-by-photographer-james-parker/",
+          "image_url": "https://cdn.booooooom.com/wp-content/uploads/2026/10/Parker1.jpg",
+          "source_name": "BOOOOOOOM"
+        },
+        {
+          "title": "This book unearths long-lost images from 27 photographers",
+          "url": "https://www.dazeddigital.com/art-photography/article/71386/1/handover-photo-book-jesse-glazzard-photography-manchester?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=this-book-unearths-long-lost-images-from-27-photographers",
+          "image_url": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/9/1459843.jpg",
+          "source_name": "Dazed"
+        },
+        {
+          "title": "베넷츠 어소시에이츠, 에든버러 대학교를 위해 빅토리아 시대 병원을 재건축하다",
+          "url": "https://www.dezeen.com/2026/11/20/bennetts-associates-edinburgh-futures-institute-rias-doolan-award/",
+          "image_url": "https://static-2026.dezeen.com/uploads/2026/11/bennetts-associates-edinburgh-futures-institute-rias-doolan-award-sq_dezeen_2364_col_0-1024x1024.jpg",
+          "source_name": "Dezeen"
+        }
+      ]
     }
   ],
   "notable_names": [
@@ -224,9 +224,9 @@
     "Venice Architecture Biennale",
     "Editor Picks",
     "Rare Hilma",
-    "Approved Interior Photographers",
     "Sabine Marcelis",
-    "Marquee Week"
+    "Marquee Week",
+    "Metta Prayer"
   ],
   "has_comparison": true
 }
