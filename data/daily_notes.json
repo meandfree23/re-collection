@@ -3996,5 +3996,62 @@
   "v": 3,
   "model": "gemini-3.1-flash-lite-preview",
   "written_at": "2026-11-21 01:16"
+ },
+ "2026-11-22": {
+  "date": "2026-11-22",
+  "headline": "유선형 강변의 곡선과 탄화 목재가 품은 그을린 안식",
+  "editorial": "모로코 라바트 왕립 극장은 강변의 흐름을 유선형 외관으로 치환하며 전통의 기하학을 현대적 음향으로 구현한다. 반면 탄화 목재를 입힌 DKR 하우스는 거친 질감을 실내의 정교한 가구로 전이하며 외부의 자연을 주거의 내밀한 일상으로 끌어들인다. 이들은 모두 건축의 외피가 단순히 형태를 닫는 벽이 아니라 지형과 재료의 질감을 통과해 안팎의 경계를 유연하게 잇는 통로임을 증명한다.",
+  "threads": [
+   {
+    "name": "지형에 순응하는 외피",
+    "note": "주변 환경의 물리적 흐름과 지형적 특징을 건축의 외관과 동선으로 옮겨와 건물을 세우는 방식이다.",
+    "items": [
+     {
+      "title": "모로코 라바트 왕립 극장: 부레그레그 강변의 지형을 조각한 유선형 공연장",
+      "url": "https://www.dezeen.com/2026/11/21/zha-theatre-royal-de-rabat-morroco/"
+     },
+     {
+      "title": "계단이 외관이 될 때: 보행을 건축의 입면으로 치환하는 5가지 방식",
+      "url": "https://www.dezeen.com/2026/11/21/exterior-staircases-facade/"
+     },
+     {
+      "title": "알레한드로 무뇨스 미란다의 건축 궤적: 기하학, 빛, 그리고 텍토닉스",
+      "url": "https://www.archdaily.com/1189013/alejandro-munoz-miranda-architecture"
+     }
+    ]
+   },
+   {
+    "name": "탄화 목재의 질감 전이",
+    "note": "불에 그을린 목재의 거친 외피를 내부 공간의 정교한 가구나 일상적 밀도로 치환하여 완성하는 주거 설계다.",
+    "items": [
+     {
+      "title": "폴란드 비스와 계곡, 그을린 목재로 빚은 안식처 DKR 하우스",
+      "url": "https://leibal.com/interiors/dkr-house/"
+     },
+     {
+      "title": "로스앤젤레스 언덕 위, 탄화 목재로 감싼 1950년대 랜치 하우스의 변주",
+      "url": "https://www.wallpaper.com/architecture/residential/charred-timber-house-nustudio-los-angeles-hills-usa"
+     }
+    ]
+   },
+   {
+    "name": "공간의 물리적 기억",
+    "note": "도면이라는 추상적 계획을 넘어 소리나 누적된 흔적을 통해 공간이 가진 고유한 진실을 측량하고 드러낸다.",
+    "items": [
+     {
+      "title": "기억의 매핑: 물리적 증거를 넘어 공간의 진실을 재구성하는 법",
+      "url": "https://www.archdaily.com/1188661/mapping-memory-reconstructing-architecture-beyond-physical-evidence"
+     },
+     {
+      "title": "시간의 겹을 남긴 베를린의 정육점 레스토랑 개보수",
+      "url": "https://www.archdaily.com/1188648/fleischerei-a-restaurant-reworked-allen-kaufmann-architekten"
+     }
+    ]
+   }
+  ],
+  "based_on": 23,
+  "v": 3,
+  "model": "gemini-3.1-flash-lite-preview",
+  "written_at": "2026-11-22 00:22"
  }
 }

@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-21 19:04 KST",
-  "period": "2026.11.14 - 2026.11.21",
-  "total_articles": 619,
+  "generated_at": "2026-11-22 00:21 KST",
+  "period": "2026.11.15 - 2026.11.22",
+  "total_articles": 621,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 269
+      "count": 274
     },
     {
       "genre": "동시대 미술",
-      "count": 204
+      "count": 201
     },
     {
       "genre": "미디어 파사드·3D",
@@ -23,8 +23,8 @@
   "themes": [
     {
       "keyword": "박물관·전시",
-      "count": 69,
-      "previous_count": 31,
+      "count": 67,
+      "previous_count": 32,
       "trend": "rising",
       "items": [
         {
@@ -55,7 +55,7 @@
     },
     {
       "keyword": "빛과 조명",
-      "count": 30,
+      "count": 29,
       "previous_count": 8,
       "trend": "rising",
       "items": [
@@ -86,8 +86,72 @@
       ]
     },
     {
-      "keyword": "리노베이션·재생",
+      "keyword": "목재 건축",
+      "count": 19,
+      "previous_count": 11,
+      "trend": "rising",
+      "items": [
+        {
+          "title": "DKR 하우스",
+          "url": "https://leibal.com/interiors/dkr-house/",
+          "image_url": "https://leibal.com/wp-content/uploads/2026/11/leibal-dkr-house-oskar-firek-architects-1515.jpg",
+          "source_name": "Leibal"
+        },
+        {
+          "title": "976개의 삼각형 모듈로 구성된 스위스의 별 모양 목재 캐노피",
+          "url": "https://www.designboom.com/architecture/976-triangular-modules-compose-star-patterned-timber-canopy-in-switzerland/",
+          "image_url": "https://www.designboom.com/wp-content/dbsub/471061/2026-11-20/stellar-pavilion-a-roof-for-village-life-1-6b001941b3fd5.jpg",
+          "source_name": "Designboom Architecture"
+        },
+        {
+          "title": "로스앤젤레스 언덕에 자리한 따뜻한 가족 휴양지, 그을린 목재로 지어진 이 주택으로 들어가 보세요.",
+          "url": "https://www.wallpaper.com/architecture/residential/charred-timber-house-nustudio-los-angeles-hills-usa",
+          "image_url": "https://cdn.mos.cms.futurecdn.net/hSEGHhUmhi5yZ4rzzVSjcB-1920-80.jpg",
+          "source_name": "Wallpaper*"
+        },
+        {
+          "title": "BIG, 스위스 뉴 지겐탈러구트 지구에 목재 혼합 용도 개발 프로젝트 공개",
+          "url": "https://www.archdaily.com/1188996/big-unveils-timber-mixed-use-development-for-new-siegenthalergut-district-in-switzerland",
+          "image_url": "https://images.adsttc.com/media/images/6b00/21f8/c23f/1f6a/4351/6bc9/large_jpg/big-unveils-timber-mixed-use-development-for-new-siegenthalergut-district-in-switzerland_3.jpg?1795170825",
+          "source_name": "ArchDaily"
+        }
+      ]
+    },
+    {
+      "keyword": "사진",
       "count": 17,
+      "previous_count": 11,
+      "trend": "rising",
+      "items": [
+        {
+          "title": "다음 프로젝트에 예약할 수 있는 AD 승인 인테리어 사진작가",
+          "url": "https://www.architecturaldigest.com/story/50-ad-approved-photographers",
+          "image_url": "https://media.architecturaldigest.com/photos/6afc981962312feba5cc576d/master/pass/___AD0626_FRIEDMAN_21%20copy.jpg",
+          "source_name": "Architectural Digest"
+        },
+        {
+          "title": "다음 인테리어 디자인 프로젝트에 고용할 만한 미국 남서부 지역의 인테리어 사진작가 9명",
+          "url": "https://www.architecturaldigest.com/story/interior-photographers-in-the-southwest",
+          "image_url": "https://media.architecturaldigest.com/photos/6afdfedb7b2adeda65ee6477/master/pass/___02-YondMartin2025%20-%20Inquiries%20Mabey.jpg",
+          "source_name": "Architectural Digest"
+        },
+        {
+          "title": "해외 프로젝트에 적합한 AD 인증 국제 인테리어 사진작가 45명",
+          "url": "https://www.architecturaldigest.com/story/40-ad-approved-international-interior-photographers",
+          "image_url": "https://media.architecturaldigest.com/photos/66844263532726c05422156d/master/pass/Nicolas%20Mathe%CC%81us-G19_4408.jpg",
+          "source_name": "Architectural Digest"
+        },
+        {
+          "title": "미국 북동부 지역의 AD 인증을 받은 인테리어 사진작가 76명",
+          "url": "https://www.architecturaldigest.com/story/interior-photographers-in-the-northeast",
+          "image_url": "https://media.architecturaldigest.com/photos/6af35590c299b3c969e53ec9/master/pass/___AD0124_BEHUN_8%20copy.jpg",
+          "source_name": "Architectural Digest"
+        }
+      ]
+    },
+    {
+      "keyword": "리노베이션·재생",
+      "count": 16,
       "previous_count": 12,
       "trend": "rising",
       "items": [
@@ -119,8 +183,8 @@
     },
     {
       "keyword": "가구 디자인",
-      "count": 16,
-      "previous_count": 8,
+      "count": 15,
+      "previous_count": 9,
       "trend": "rising",
       "items": [
         {
@@ -148,70 +212,6 @@
           "source_name": "Dezeen"
         }
       ]
-    },
-    {
-      "keyword": "목재 건축",
-      "count": 16,
-      "previous_count": 13,
-      "trend": "rising",
-      "items": [
-        {
-          "title": "BIG, 스위스 뉴 지겐탈러구트 지구에 목재 혼합 용도 개발 프로젝트 공개",
-          "url": "https://www.archdaily.com/1188996/big-unveils-timber-mixed-use-development-for-new-siegenthalergut-district-in-switzerland",
-          "image_url": "https://images.adsttc.com/media/images/6b00/21f8/c23f/1f6a/4351/6bc9/large_jpg/big-unveils-timber-mixed-use-development-for-new-siegenthalergut-district-in-switzerland_3.jpg?1795170825",
-          "source_name": "ArchDaily"
-        },
-        {
-          "title": "perkins&will and estúdio campana wrap são paulo airport lounge in amazon river-inspired timber installation",
-          "url": "https://www.designboom.com/architecture/perkinswill-estudio-campana-sao-paulo-airport-lounge-amazon-river-inspired-timber-installation-pedra-preta/",
-          "image_url": "https://www.designboom.com/wp-content/dbsub/457982/2026-11-11/pedra-preta-lounge-transforms-latin-americas-busiest-airport-into-a-destination-for-brazilian-art-design-and-culture-5-6af4cbe01fdb2.jpg",
-          "source_name": "Designboom Architecture"
-        },
-        {
-          "title": "BIG가 설계한 뒤집힌 캔틸레버 구조의 개방형 목조 호텔",
-          "url": "https://www.dezeen.com/2026/11/20/big-hotel-siegenthalergut-thun-switzerland/",
-          "image_url": "https://static-2026.dezeen.com/uploads/2026/11/Nachwachsende-Stadt-big-thun-switzerland_dezeen_2364_col_sq1-1024x1024.jpg",
-          "source_name": "Dezeen"
-        },
-        {
-          "title": "수상 경력에 빛나는 디자인 뮤지엄(Design Museum)의 프로토타입 중 하나인 해초 이어플러그",
-          "url": "https://www.dezeen.com/2026/11/19/seaweed-earplug-grant-design-museum-prototypes/",
-          "image_url": "https://static-2026.dezeen.com/uploads/2026/11/Design-Museum_dezeen_2364_col_4-991x1024.jpg",
-          "source_name": "Dezeen"
-        }
-      ]
-    },
-    {
-      "keyword": "사진",
-      "count": 15,
-      "previous_count": 11,
-      "trend": "rising",
-      "items": [
-        {
-          "title": "해외 프로젝트에 적합한 AD 인증 국제 인테리어 사진작가 45명",
-          "url": "https://www.architecturaldigest.com/story/40-ad-approved-international-interior-photographers",
-          "image_url": "https://media.architecturaldigest.com/photos/66844263532726c05422156d/master/pass/Nicolas%20Mathe%CC%81us-G19_4408.jpg",
-          "source_name": "Architectural Digest"
-        },
-        {
-          "title": "미국 북동부 지역의 AD 인증을 받은 인테리어 사진작가 76명",
-          "url": "https://www.architecturaldigest.com/story/interior-photographers-in-the-northeast",
-          "image_url": "https://media.architecturaldigest.com/photos/6af35590c299b3c969e53ec9/master/pass/___AD0124_BEHUN_8%20copy.jpg",
-          "source_name": "Architectural Digest"
-        },
-        {
-          "title": "MOP Foundation의 'The Hamster Becomes the Problem'은 한 시대를 정의하는 사진작가 데이비드 심즈(David Sims)의 시각적 세계를 심도 있게 탐구합니다.",
-          "url": "https://www.wallpaper.com/fashion-beauty/david-sims-exhibition-mop-foundation-a-coruna-spain-the-hamster-becomes-the-problem",
-          "image_url": "https://cdn.mos.cms.futurecdn.net/k4p4LNneR3YSo2fdjcUgcg-1920-80.jpg",
-          "source_name": "Wallpaper*"
-        },
-        {
-          "title": "사진작가 제임스 파커(James Parker)의 '스트레이그(Stravaig)'",
-          "url": "https://www.booooooom.com/2026/11/20/stravaig-by-photographer-james-parker/",
-          "image_url": "https://cdn.booooooom.com/wp-content/uploads/2026/10/Parker1.jpg",
-          "source_name": "BOOOOOOOM"
-        }
-      ]
     }
   ],
   "notable_names": [
@@ -219,14 +219,14 @@
     "Holiday Gift Guide",
     "Mexico City",
     "Dezeen Awards",
+    "Approved Interior Photographers",
     "Keith Haring",
     "Still Here",
     "Venice Architecture Biennale",
     "Editor Picks",
     "Rare Hilma",
     "Sabine Marcelis",
-    "Marquee Week",
-    "Metta Prayer"
+    "Marquee Week"
   ],
   "has_comparison": true
 }
