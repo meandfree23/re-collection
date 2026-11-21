@@ -178,7 +178,7 @@ def playable_video_url(it):
     if not vu:
         return ''
     v_low = vu.lower().split('?')[0]
-    if any(h in vu.lower() for h in ('player.vimeo.com/video/', 'youtube.com/embed/', 'youtube-nocookie.com/embed/')):
+    if any(h in vu.lower() for h in ('player.vimeo.com/video/', 'youtube.com/embed/', 'youtube-nocookie.com/embed/', 'players.brightcove.net/')):
         return vu
     if v_low.endswith('.mp4') or v_low.endswith('.webm'):
         return vu

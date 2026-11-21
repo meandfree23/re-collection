@@ -177,9 +177,12 @@ def safe_translate(text, is_title=False):
         return None
     return text
 
+from video_extractor import extract_video_from_html, normalize_video_url
+
+
 def extract_media_from_entry(entry, fallback_url):
     """
-    Extracts high-resolution image and potential embedded video url (Nowness/Vimeo/YouTube).
+    Extracts high-resolution image and potential embedded video url (Nowness/Vimeo/YouTube/Brightcove).
     """
     img_url = ""
     video_url = ""
@@ -191,8 +194,10 @@ def extract_media_from_entry(entry, fallback_url):
             if any(ext in url.lower() for ext in ['jpg', 'jpeg', 'png', 'webp']):
                 if not img_url:
                     img_url = url
-            elif any(v in url.lower() for v in ['mp4', 'webm', 'vimeo', 'youtube', 'nowness']):
-                video_url = url
+            else:
+                norm = normalize_video_url(url)
+                if norm and not video_url:
+                    video_url = norm
                 
     if not img_url and 'media_thumbnail' in entry and entry.media_thumbnail:
         img_url = entry.media_thumbnail[0].get('url', '')
@@ -213,35 +218,23 @@ def extract_media_from_entry(entry, fallback_url):
                 if not src.startswith('data:') and any(ext in src.lower() for ext in ['jpg', 'jpeg', 'png', 'webp']):
                     img_url = src
                     
-        # Check iframe / video
+        # Check iframe / video / brightcove in RSS summary
         if not video_url:
-            iframe = soup.find('iframe')
-            if iframe and iframe.get('src'):
-                video_url = iframe['src']
-            video = soup.find('video')
-            if video and video.get('src'):
-                video_url = video['src']
+            video_url = extract_video_from_html(summary, fallback_url)
             
     # 3. Direct fetch og:image or video from article url
     if fallback_url and (not img_url or not video_url):
         try:
-            res = requests.get(fallback_url, headers={'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)'}, timeout=4)
+            res = requests.get(fallback_url, headers={'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)'}, timeout=6)
             if res.status_code == 200:
-                s = BeautifulSoup(res.text, 'html.parser')
-                
                 if not img_url:
+                    s = BeautifulSoup(res.text, 'html.parser')
                     og_img = s.find('meta', property='og:image') or s.find('meta', attrs={'name': 'og:image'})
                     if og_img and og_img.get('content'):
                         img_url = og_img['content']
                         
                 if not video_url:
-                    og_video = s.find('meta', property='og:video') or s.find('meta', attrs={'name': 'og:video:url'})
-                    if og_video and og_video.get('content'):
-                        video_url = og_video['content']
-                    else:
-                        v_iframe = s.find('iframe')
-                        if v_iframe and v_iframe.get('src') and any(domain in v_iframe['src'] for domain in ['vimeo', 'youtube', 'nowness', 'player']):
-                            video_url = v_iframe['src']
+                    video_url = extract_video_from_html(res.text, fallback_url)
         except Exception:
             pass
         

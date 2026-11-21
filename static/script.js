@@ -196,7 +196,7 @@
     var vu = String(it.video_url || '').trim();
     if (!vu) return '';
     var vLow = vu.toLowerCase().split('?')[0];
-    if (vu.indexOf('player.vimeo.com/video/') >= 0 || vu.indexOf('youtube.com/embed/') >= 0 || vu.indexOf('youtube-nocookie.com/embed/') >= 0) {
+    if (vu.indexOf('player.vimeo.com/video/') >= 0 || vu.indexOf('youtube.com/embed/') >= 0 || vu.indexOf('youtube-nocookie.com/embed/') >= 0 || vu.indexOf('players.brightcove.net/') >= 0) {
       return vu;
     }
     if (/(\.mp4|\.webm)$/.test(vLow)) return vu;
