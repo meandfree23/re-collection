@@ -371372,5 +371372,1685 @@
   },
   "depth_raw": 3,
   "depth_v": 2
+ },
+ "hyperallergic.com/so-you-want-to-run-an-artists-estate": {
+  "title_ko": "예술가 사후의 유산, 관리와 보존을 위한 전략적 목록화와 운영",
+  "summary_ko": "예술가의 사후 유산 관리는 방대한 작품과 개인적 기록을 체계적으로 분류하는 것에서 시작한다. 유산 관리인은 작품의 상태를 기록하고 가치를 평가하며 재단 설립이나 박물관 기증을 통해 예술가의 궤적을 공적 영역으로 전환한다. 이는 단순한 자산 정리를 넘어 작품의 역사적 맥락을 보존하고 미래의 전시 서사를 구축하는 과정이다.",
+  "lens": "사후 유산은 흩어진 파편이 아니라 하나의 서사다. 목록화는 그 서사를 읽기 위한 첫 번째 문법이자 법적·물리적 분쟁을 방지하는 안전장치다.",
+  "why_now": "대규모 부의 이전 시대를 맞아 예술가의 유산이 사적 소유에서 공적 자산으로 이동하는 과정에서 체계적인 관리 모델이 요구된다.",
+  "mechanism": "카탈로그 잇(CatalogIt)과 같은 디지털 아카이빙 도구를 활용해 작품의 물리적 상태와 이력을 실시간으로 동기화하며, 신탁(Trust) 설정을 통해 자산 승계의 효율과 투명성을 확보한다.",
+  "sensory": "예술가가 생전 사용하던 도구, 지문이 묻은 전화기, 미완성 드로잉 등 개인적 사물들이 전시 공간에서 예술가의 생애를 증명하는 물리적 무게를 지닌다.",
+  "transfer": "공간 연출 시 특정 인물의 아카이브를 전시한다면, 작품 자체보다 그가 사용한 도구와 기록의 배치에 주목하라. 동선은 연대기적 나열보다 작업의 우연성과 흔적을 드러내는 방식이 효과적이다.",
+  "context": "샌프란시스코 현대미술관(SFMOMA)은 조안 브라운의 유품을 전시하며 개인적 사물을 서사의 일부로 끌어들였고, 제이콥 하시모토와 헨리 웨셀의 전시를 통해 아카이브의 공적 가치를 지속적으로 탐구해왔다. 네이선 올리베이라의 사례는 유산 관리인이 단일 의사결정권자로서 어떻게 효율적인 재단 운영을 이끄는지를 보여준다.",
+  "findings": [
+   {
+    "text": "조안 브라운은 베이 지역 미술계에 깊이 뿌리내린 인물로, 자전적 요소와 판타지, 형이상학적 주제를 결합한 작품을 남겼다.",
+    "s": 1,
+    "quote": "Deeply embedded in the Bay Area art scene, Joan Brown drew inspiration from many sources to create works that merge autobiography, fantasy, and whimsy, with weightier metaphysical and spiritual themes."
+   },
+   {
+    "text": "카탈로그 잇은 작품의 물리적 속성, 위치, 상태 변화 등을 기록하고 공유할 수 있는 통합 관리 애플리케이션이다.",
+    "s": 2,
+    "quote": "Create detailed entries to document your items, including physical properties, records, images, and changes over time. Securely track and update entries-- including value, location, and condition-- adding to their storie"
+   },
+   {
+    "text": "네이선 올리베이라는 스탠퍼드 대학교에서 스튜디오 아트 교수로 재직하며 수많은 전시를 통해 자신의 예술적 성취를 증명했다.",
+    "s": 4,
+    "quote": "After serving as a Visiting Artist at several universities, he became a Professor of Studio Art at Stanford University."
+   }
+  ],
+  "keywords": [
+   "유산 관리",
+   "아카이빙",
+   "예술 재단",
+   "작품 목록화",
+   "전시 서사"
+  ],
+  "evidence": "The more organized an estate is, the more likely a gallery will be to take on the heavy lifting of representing that estate.",
+  "kind": "뉴스·이슈",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "유산 관리의 실무적 절차와 전략적 중요성을 구체적인 사례와 도구 중심으로 잘 정리했다.",
+  "v": 2,
+  "url": "https://hyperallergic.com/so-you-want-to-run-an-artists-estate/",
+  "original_title": "So You Want to Run an Artist’s Estate?",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 9000,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-21 11:19",
+  "research": {
+   "entities": [
+    "Sam Francis",
+    "Nathan Oliveira",
+    "Joan Brown",
+    "Artists' Legacy Foundation",
+    "SFMOMA"
+   ],
+   "questions": [
+    "예술가 사후 유산 관리 과정에서 발생하는 법적 분쟁을 최소화하기 위해 생전에 준비해야 할 핵심 요소는 무엇인가요?",
+    "예술가 유산 관리에서 작품 목록화(Cataloging)가 왜 가장 중요한 첫 단계로 강조되나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Exhibition: Joan Brown",
+     "url": "https://www.sfmoma.org/exhibition/joan-brown/?ref=hyperallergic.com"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "CatalogIt - Powerful, Intuitive Museum & Private Collections Management",
+     "url": "https://www.catalogit.app/?ref=hyperallergic.com"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Sam Francis",
+     "url": "https://en.wikipedia.org/wiki/Sam%20Francis"
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "Nathan Oliveira",
+     "url": "https://en.wikipedia.org/wiki/Nathan%20Oliveira"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "헨리 웨셀, 운전석에서 포착한 캘리포니아의 우연한 질감",
+     "url": "https://www.thisiscolossal.com/2026/09/henry-wessel-grolier-club-photography-california/"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "7만 5천 개의 종이 연이 이루는 거대한 구름 캐노피",
+     "url": "https://www.thisiscolossal.com/2026/09/jacob-hashimoto-giant-arc-sfmoma-installation-exhibition/"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "chars": 6137
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "hyperallergic.com/the-venice-biennales-sham-awards-cannot-artwash-genocide": {
+  "title_ko": "베니스 비엔날레의 투표제 전환과 거부 운동",
+  "summary_ko": "올해 베니스 비엔날레는 심사위원단의 전원 사임 이후 대중 투표 방식의 방문객 상을 신설했다. 이에 반발해 수십 명의 예술가와 국가관 팀이 심사 거부와 파업을 단행하며 예술 제도의 정치적 중립성에 의문을 제기했다.",
+  "lens": "전문 심사단의 판단을 폐기하고 대중 인기투표로 대체한 제도의 공백을 고발한다.",
+  "why_now": "예술계와 노동조합의 전례 없는 연대가 국제 미술제의 정치적 책임을 정면으로 묻고 있다.",
+  "mechanism": "전문 심사단의 검증 구조를 해체하고 방문객 투표라는 형식적 민주주의를 도입해 갈등을 무마하려 한다.",
+  "sensory": "국가관 폐쇄와 거리 시위, 전시장 내부의 침묵과 보이콧 선언이 뒤섞인 현장의 긴장감.",
+  "transfer": "공간이나 전시 운영에서 검증 절차가 중단될 때 발생하는 제도적 공백을 연출의 서사로 활용한다.",
+  "context": "아트 낫 제노사이드 얼라이언스(ANGA)의 장기 캠페인과 노동조합의 연대가 비엔날레 운영 구조에 직접적인 균열을 내고 있다.",
+  "findings": [
+   {
+    "text": "예술가 연합 ANGA는 이스라엘 파빌리온의 배제를 요구하며 지난 삼 년 동안 캠페인을 전개했다.",
+    "s": 2,
+    "quote": "ANGA’s campaign ensured there could be no business as usual at the Venice Biennale, and the artistic team of the Israeli Pavilion retreated and closed the pavilion as a direct consequence of widespread pressure and the c"
+   },
+   {
+    "text": "이천이십사년 이스라엘 파빌리온 배제를 요구하는 공개서한에 이만 사천 명이 넘는 문화 노동자가 서명했다.",
+    "s": 2,
+    "quote": "In 2024, Art Not Genocide Alliance (ANGA) called for the exclusion of Israel from the Venice Biennale with an open letter to the cultural sector, which gathered 24,076 signatories."
+   }
+  ],
+  "keywords": [
+   "베니스비엔날레",
+   "보이콧",
+   "예술행동",
+   "국가관"
+  ],
+  "evidence": "Stripped of the silver and gold they wore in previous iterations of the Biennale, the new Lions have been thrown to the tourists; “Best Artist” and “Best National Pavilion” will be decided by a popularity contest.",
+  "kind": "뉴스·이슈",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "베니스 비엔날레의 제도적 파행과 예술가들의 저항을 다룬 시사성 강한 논평이다.",
+  "v": 2,
+  "url": "https://hyperallergic.com/the-venice-biennales-sham-awards-cannot-artwash-genocide/",
+  "original_title": "The Venice Biennale's Sham Awards Cannot Artwash Genocide",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 9000,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-21 11:19",
+  "research": {
+   "entities": [
+    "Venice Biennale",
+    "Art Not Genocide Alliance",
+    "Gideon Sa’ar"
+   ],
+   "questions": [
+    "베니스 비엔날레 전문 심사위원단이 전원 사임하게 된 직접적인 배경과 ANGA의 활동 내용은 무엇인가?",
+    "올해 베니스 비엔날레에서 진행된 예술가 파업과 노동조합의 연대는 역사적으로 어떤 의미를 갖는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "From the '70s to the reforms of 1998",
+     "url": "https://www.labiennale.org/en/history/70s-reforms-1998?ref=hyperallergic.com"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "open letter",
+     "url": "https://anga.live/venice-actions/?ref=hyperallergic.com"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Venice Biennale",
+     "url": "https://en.wikipedia.org/wiki/Venice%20Biennale"
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "Gideon Sa'ar",
+     "url": "https://en.wikipedia.org/wiki/Gideon%20Sa%27ar"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "브루어 빌딩과 아모리 쇼가 드러낸 뉴욕 아트페어의 풍경",
+     "url": "https://hyperallergic.com/should-you-sit-out-the-armory-show/"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "소리의 정치를 체화하는 폴란드 파빌리온의 감각적 번역",
+     "url": "https://hyperallergic.com/the-polish-pavilion-dissolves-you-in-the-politics-of-sound/"
+    },
+    {
+     "n": 7,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "베니스 비엔날레 국가관, 정치적 상징인가 전시의 스펙터클인가",
+     "url": "https://hyperallergic.com/the-worst-national-pavilions-at-the-venice-biennale/"
+    }
+   ],
+   "used": [
+    2,
+    3
+   ],
+   "chars": 8557
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "hyperallergic.com/is-gta-vi-the-art-miami-deserves": {
+  "title_ko": "사라진 도시의 박제, GTA VI가 마이애미를 재현하는 방식",
+  "summary_ko": "락스타 게임즈가 출시한 그랜드 테프트 오토 6는 마이애미를 모델로 한 가상 도시 레오니다를 배경으로 한다. 마이애미 기반 아티스트 미사엘 소토와 레오 카스타녜다는 게임이 2022년 철거된 실제 콘도미니엄 등 이미 사라진 물리적 공간을 가상 세계에 보존하는 방식에 주목한다. 이들은 게임이 현실의 사회경제적 불평등과 도시의 변화를 시뮬레이션하며, 예술가의 역할과 도시의 정체성을 다시 묻게 한다고 분석한다.",
+  "lens": "사라진 물리적 공간을 디지털로 박제하는 시뮬레이션은 도시의 기록인가, 아니면 현실의 고통을 지우는 마취제인가.",
+  "why_now": "디지털 가상 세계가 물리적 도시의 시간과 공간을 잠식하며, 실제 도시의 변화보다 게임 속 재현이 더 강력한 기억의 저장소가 되는 현상을 목격한다.",
+  "mechanism": "2013년 구글 스트리트 뷰 등 과거 기록을 바탕으로 철거된 건물을 게임 내 에셋으로 재구축하여, 시간의 층위가 겹쳐진 하이브리드 공간을 생성한다.",
+  "sensory": "현실의 마이애미가 가진 과잉된 색감과 텍스처를 렌더링하여, 실제 거리의 소음과 습기를 가상 공간의 시각적 밀도로 치환한다.",
+  "transfer": "철거 예정이거나 사라진 공간의 도면과 사진을 수집하여, 이를 3D 환경에서 재구성해 과거와 현재가 공존하는 비현실적인 배경 콘티를 설계한다.",
+  "context": "락스타 게임즈는 2014년부터 마이애미를 광범위하게 조사하여 게임 내 세계를 구축했다. 이전 리서치에 따르면, 이들은 외부 광고를 배제하고 가상 브랜드만으로 세계관을 채워 몰입도를 극대화하는 방식을 고수해 왔다.",
+  "findings": [
+   {
+    "text": "그랜드 테프트 오토 6의 등장인물 루시아와 제이슨의 아파트 모델은 2022년 철거된 마이애미 에지워터 지역의 5층 콘도미니엄 벨마르와 일치한다.",
+    "s": 2,
+    "quote": "A fan has traced Jason and Lucia's apartment in Grand Theft Auto VI to a five-storey condominium that once stood in Miami's Edgewater neighbourhood."
+   },
+   {
+    "text": "락스타 게임즈는 게임 속 비이분법적 캐릭터 시그너스를 구현하기 위해 AI가 아닌 인간 배우의 모션 캡처를 활용하여 인물의 고유성을 보존했다.",
+    "s": 3,
+    "quote": "Rockstar relied exclusively on motion capture to create Cygnus, highlighting that it would be impossible for AI to come up with the same faces as a real person."
+   },
+   {
+    "text": "락스타 게임즈 직원들은 게임의 성공적인 출시와 함께 열악한 노동 환경 개선을 위한 노조 인정을 요구하고 있다.",
+    "s": 1,
+    "quote": "Winning union recognition would be a huge step forward in securing a meaningful say over our conditions at Rockstar"
+   }
+  ],
+  "keywords": [
+   "디지털 시뮬레이션",
+   "도시 박제",
+   "가상 건축",
+   "마이애미",
+   "사회적 시노그래피"
+  ],
+  "evidence": "Does this feel like Miami in 2014 or Miami in 2026, or a hybrid?",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "게임 속 가상 공간이 현실의 도시 기록을 대체하는 현상을 예술적·사회적 맥락에서 깊이 있게 분석했기 때문이다.",
+  "v": 2,
+  "url": "https://hyperallergic.com/is-gta-vi-the-art-miami-deserves/",
+  "original_title": "Is GTA VI the Art Miami Deserves?",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 9000,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-21 11:19",
+  "research": {
+   "entities": [
+    "Grand Theft Auto VI",
+    "misael soto",
+    "Leo Castañeda",
+    "Bakehouse Art Complex",
+    "Ahol Sniffs Glue"
+   ],
+   "questions": [
+    "GTA VI가 마이애미의 실제 사회경제적 문제와 예술계에 미치는 영향은 무엇인가?",
+    "마이애미 기반 아티스트들이 비디오 게임과 도시 공간의 시뮬레이션을 통해 비평하고자 하는 바는 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "We made GTA 6, the world’s biggest video game – we should have working conditions to match",
+     "url": "https://www.theguardian.com/commentisfree/2026/nov/18/gta-6-grand-theft-auto-vi-rockstar-employees-union-recognition?ref=hyperallergic.com"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Fans Trace GTA 6 Apartment to Demolished Miami Building | Rockstar Report",
+     "url": "https://rockstarreport.com/news/gta-6-apartment-demolished-miami-building?ref=hyperallergic.com"
+    },
+    {
+     "n": 3,
+     "type": "공식·1차",
+     "title": "GTA 6 Actor Says Rockstar Made Their Non-Binary Character Unkillable",
+     "url": "https://www.polygon.com/gta-6-grand-theft-auto-cygnus-non-binary-character-actor/?ref=hyperallergic.com"
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "Grand Theft Auto VI",
+     "url": "https://en.wikipedia.org/wiki/Grand%20Theft%20Auto%20VI"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "가상 세계로의 집단 이주, GTA 6 출시가 흔드는 노동의 풍경",
+     "url": "https://www.dazeddigital.com/life-culture/article/71349/1/meet-the-legends-booking-time-off-work-to-play-grand-theft-auto-gta-vi?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=it-s-more-fun-than-work-meet-the-people-booking-time-off-to-play-gta-vi"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "가상의 마력을 현실로, 락스타 게임즈가 구현한 GTA VI의 6대 실물 차량",
+     "url": "https://www.designboom.com/technology/rockstar-games-west-coast-customs-gta-vi-cars-miami/"
+    },
+    {
+     "n": 7,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "가상 도시의 순도: 그랜드 테프트 오토 6가 증명한 광고 없는 세계의 힘",
+     "url": "https://www.creativeboom.com/insight/why-gta-6-is-the-years-biggest-campaign-for-a-brand-that-refuses-to-sell-ad-space/"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "chars": 10002
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "hyperallergic.com/in-a-midtown-office-artists-sift-through-the-junkspace-of-capitalism": {
+  "title_ko": "자본의 폐기물 위로 쓴 기록, 맨해튼 260 매디슨의 정크스페이스",
+  "summary_ko": "뉴욕 미드타운의 1950년대 오피스 빌딩에서 50여 명의 작가가 참여한 전시 '260 매디슨'이 열렸다. 큐레이터 샤이나 타박, 다야나 마타셰바, 에드슨 니블라 로드리게스는 철거를 앞둔 2만 3천 평방피트 규모의 공실을 무대로 기술과 자본의 잔해를 탐구한다. 이는 휘트니 미술관의 인터넷 아트 전시와 맞물려 디지털 예술의 제도적 위치를 재정의하는 움직임이다.",
+  "lens": "오피스 빌딩의 철거 직전 폐허를 기술적·심리적 자본의 정크스페이스로 치환해, 디지털 피로와 추출적 경제의 민낯을 드러낸다.",
+  "why_now": "인터넷 예술이 미술관의 제도적 승인을 얻는 시점에, 역설적으로 가장 비물질적인 예술이 물리적인 오피스 폐기물 속으로 진입했다.",
+  "mechanism": "기존 건물의 HVAC 시스템, 노출된 콘크리트, 버려진 벽지 등 '정크스페이스'의 물성을 그대로 활용하고, 그 위에 데이터 흐름과 기술적 도구를 얹어 공간의 시간성을 중첩했다.",
+  "sensory": "환기구의 소음, 낡은 마감재의 거친 질감, 그리고 그 사이를 파고드는 스크린의 디지털 잔상과 3D 프린팅된 정교한 기계적 오브제의 이질적인 공존.",
+  "transfer": "철거 예정인 공간의 흔적을 지우지 말고, 그곳의 배관과 골조를 배경으로 삼아 디지털 매체와 아날로그 장치를 결합한 레이어드 연출을 시도하라.",
+  "context": "본 전시는 휘트니 미술관의 '아트포트: 인터넷 예술의 역사'와 동시기에 열리며 디지털 예술의 제도화라는 담론을 공유한다. 큐레이터들은 렘 콜하스의 정크스페이스 개념을 차용해 현대 자본주의의 소모적 구조를 공간적으로 해석했다.",
+  "findings": [
+   {
+    "text": "휘트니 미술관의 '아트포트'는 2001년 시작된 온라인 갤러리 플랫폼으로 25주년을 맞이했다.",
+    "s": 1,
+    "quote": "artport: A History of Internet Art marks the twenty-fifth anniversary of artport, the Whitney’s online gallery space for commissions of net art, which launched in 2001."
+   },
+   {
+    "text": "존 케슬러는 현재 컬럼비아 대학교의 교수로 재직 중이다.",
+    "s": 3,
+    "quote": "He also plays guitar for the X-Patsys, a band he started with artist Robert Longo and actress Barbara Sukowa."
+   }
+  ],
+  "keywords": [
+   "정크스페이스",
+   "디지털자본주의",
+   "사이트리스폰시브",
+   "포스트인터넷"
+  ],
+  "evidence": "The curators characterize as shaped by \"junkspace” — architect Rem Koolhaas's term for fallout that “remains after modernization has run its course.”",
+  "kind": "전시",
+  "depth": 5,
+  "grounding": "full",
+  "depth_reason": "철거 예정 오피스라는 공간적 맥락을 예술적 장치로 치환한 구체성과, 디지털 예술의 제도적 전환이라는 비평적 깊이가 결합되어 있다.",
+  "v": 2,
+  "url": "https://hyperallergic.com/in-a-midtown-office-artists-sift-through-the-junkspace-of-capitalism/",
+  "original_title": "In a Midtown Office, Artists Sift Through the Junkspace of Capitalism",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 9000,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-21 11:19",
+  "research": {
+   "entities": [
+    "Whitney Museum of American Art",
+    "Jon Kessler",
+    "DemonLovers Inc.",
+    "Olivier Assayas",
+    "Marshall McLuhan"
+   ],
+   "questions": [
+    "260 Madison 전시가 자본주의의 '정크스페이스(Junkspace)'라는 공간적 맥락을 어떻게 예술적 담론으로 치환하고 있는가?",
+    "DemonLovers Inc.가 언급한 '금융 프로이트(financial Freud)'와 디지털 자본주의의 심리적 기제는 그들의 작품 세계에서 어떻게 구현되는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "artport: A History of Internet Art",
+     "url": "https://whitney.org/exhibitions/artport-25?ref=hyperallergic.com"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Whitney Museum of American Art",
+     "url": "https://en.wikipedia.org/wiki/Whitney%20Museum%20of%20American%20Art"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Jon Kessler",
+     "url": "https://en.wikipedia.org/wiki/Jon%20Kessler"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "브루어 빌딩과 아모리 쇼가 드러낸 뉴욕 아트페어의 풍경",
+     "url": "https://hyperallergic.com/should-you-sit-out-the-armory-show/"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "뉴욕 미술계의 이면, 파업과 폐쇄가 드러내는 제도적 균열",
+     "url": "https://hyperallergic.com/the-cathedral-of-joy/"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "쿠사마 야요이, 점과 거울로 구축한 무한의 세계를 남기고 떠나다",
+     "url": "https://www.designboom.com/art/yayoi-kusama-japanese-artist-infinity-single-dot-97/"
+    }
+   ],
+   "used": [
+    1,
+    3
+   ],
+   "chars": 5398
+  },
+  "depth_raw": 5,
+  "depth_v": 2
+ },
+ "hyperallergic.com/a-sprawling-exhibition-of-latin-american-art-and-fashion-is-coming-to-nyc": {
+  "title_ko": "모마 PS1, 라틴 아메리카 복식의 서사로 주류 패션의 전유를 해체하다",
+  "summary_ko": "뉴욕 모마 PS1(MoMA PS1)이 2027년 4월 개막하는 전시 '말베스티르(Malvestir)'를 통해 라틴 아메리카 패션의 시각적 언어를 조명한다. 스페인어로 '잘못 입다'를 뜻하는 전시명처럼, 서구 시장에 의해 왜곡되거나 착취당한 토착 의복의 역사를 20인의 예술가와 디자이너가 재구성한다. 윌리 차바리아(Willy Chavarria), 카를라 페르난데스(Carla Fernández) 등이 참여하여 직조 전통과 거리의 서사를 현대 미술의 영역으로 옮겨온다.",
+  "lens": "서구 패션 시장의 전유 대상이었던 라틴 아메리카의 복식을 예술적 주체로 격상시켜, 의복을 단순한 상품이 아닌 저항의 아카이브로 재정의한다.",
+  "why_now": "주류 패션계의 무분별한 토착 문양 복제와 상업적 착취가 극에 달한 시점에, 의복을 통해 고유한 문화적 정체성을 방어하려는 움직임이 가속화되고 있다.",
+  "mechanism": "중고 의류 매장의 진열 방식을 모방한 회화나 세대를 잇는 직조 기술을 전면에 배치하여, 의복에 깃든 노동과 시간의 무게를 물리적으로 현시한다.",
+  "sensory": "거리의 거친 질감과 수공예 직물의 정교한 패턴이 교차하며, 유로센트릭한 런웨이와 대비되는 다채롭고 포용적인 신체적 서사를 전달한다.",
+  "transfer": "의복을 신체 보호막이 아닌 사회적 발언의 도구로 활용하라. 특히 특정 집단의 일상적 복식을 거대한 스케일의 설치물이나 다큐멘터리적 영상으로 변환해 서사의 밀도를 높이는 연출이 유효하다.",
+  "context": "모마 PS1은 과거 뉴욕 아트 북 페어 등을 통해 제도권 미술관의 경계를 넘어 주변부의 목소리를 담아내는 장소로 기능해왔다. 윌리 차바리아는 캘빈 클라인 디자인 총괄을 거쳐 독자적인 레이블을 통해 멕시코계 미국인의 정체성을 패션으로 구현해온 인물이다.",
+  "findings": [
+   {
+    "text": "모마 PS1은 뉴욕 퀸즈 롱아일랜드 시티에 위치한 현대 미술관으로, 2000년부터 뉴욕 현대 미술관(MoMA)과 제휴하여 운영 중이다.",
+    "s": 1,
+    "quote": "MoMA PS1 is a contemporary art museum at 22-01 Jackson Avenue in the Long Island City neighborhood of Queens, in New York City, United States. MoMA PS1 has been affiliated with the Museum of Modern Art since January 2000"
+   },
+   {
+    "text": "윌리 차바리아는 2025년 타임지가 선정한 세계에서 가장 영향력 있는 100인 중 한 명으로 기록되었다.",
+    "s": 2,
+    "quote": "In 2025, Time magazine listed him as one of the world's 100 most influential people."
+   }
+  ],
+  "keywords": [
+   "라틴아메리카",
+   "모마PS1",
+   "패션전유",
+   "윌리차바리아",
+   "의복서사"
+  ],
+  "evidence": "Western appropriations of Indigenous crafts, exorbitant textile waste, and the fetishization of Latin American styles are just some of the key concerns that will be interrogated in the exhibition.",
+  "kind": "전시",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "패션의 시각적 언어를 통해 사회적 착취와 문화적 저항을 다루는 명확한 기획 의도가 돋보이며, 참여 작가의 작업 방식이 구체적으로 기술되어 있다.",
+  "v": 2,
+  "url": "https://hyperallergic.com/a-sprawling-exhibition-of-latin-american-art-and-fashion-is-coming-to-nyc/",
+  "original_title": "A Sprawling Exhibition of Latin American Art and Fashion Is Coming to NYC",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 4667,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-21 11:19",
+  "research": {
+   "entities": [
+    "MoMA PS1",
+    "Willy Chavarria",
+    "Carla Fernández",
+    "Connie Butler",
+    "LUAR"
+   ],
+   "questions": [
+    "전시명 'Malvestir'가 라틴 아메리카 패션의 역사적 맥락과 서구의 전유 문제를 어떻게 비판적으로 다루고 있는지 설명하시오.",
+    "전시에 참여하는 예술가들이 전통적인 직조 기술이나 의복 상징을 현대 미술과 패션에 어떻게 재해석하여 주류 시장의 착취에 대응하고 있는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "MoMA PS1",
+     "url": "https://en.wikipedia.org/wiki/MoMA%20PS1"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Willy Chavarria",
+     "url": "https://en.wikipedia.org/wiki/Willy%20Chavarria"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "모마 PS1에서 열린 제20회 뉴욕 아트 북 페어의 현장",
+     "url": "https://hyperallergic.com/no-one-is-reading-except-at-the-new-york-art-book-fair/"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "뉴욕 아모리 위크, 도시의 빈틈을 점유하는 동시대 미술의 풍경",
+     "url": "https://hyperallergic.com/armory-week-is-here/"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "여름의 끝자락을 채운 8월의 주요 패션 협업 아카이브",
+     "url": "https://www.dazeddigital.com/fashion/article/70892/1/biggest-fashion-collabs-of-august-2026-zara-larsson-willy-chavarria-ugg?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=these-were-the-biggest-fashion-collabs-of-august"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 1679
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "elephant.art/love-above-all-things-halo-perez-gallardo": {
+  "title_ko": "릴 뎁스 오아시스: 11년의 시간, 식당을 넘어선 커뮤니티 인큐베이터의 종장",
+  "summary_ko": "뉴욕 허드슨의 퀴어 레스토랑이자 커뮤니티 공간인 릴 뎁스 오아시스가 11년의 운영 끝에 문을 닫았다. 소유주 할로 페레즈-갈라도는 이곳을 단순한 식당이 아닌, 퀴어 공연과 창의적 요리를 매개로 지역민의 역량을 발굴하는 인큐베이터로 정의했다. 폐업 전 마지막 블록 파티를 통해 지난 시간을 갈무리하며, 젠트리피케이션과 지역 사회의 변화 속에서 소규모 공간이 겪은 실존적 고민을 공유했다.",
+  "lens": "공간을 운영하는 주체의 철학이 물리적 환경과 결합할 때, 식당은 메뉴판을 넘어선 사회적 인큐베이터로 기능한다.",
+  "why_now": "지역 커뮤니티의 거점이 젠트리피케이션과 경제적 압박 속에서 어떻게 생성되고 소멸하는지를 보여주는 동시대적 사례다.",
+  "mechanism": "공간의 운영 원칙을 '예스(Yes)'라는 긍정적 수용성으로 설정하고, 구성원들이 각자의 기술과 목소리를 자유롭게 투영하도록 유도하는 DIY식 운영 방식을 취했다.",
+  "sensory": "밝은 색감의 외관과 탬버린 소리, 생일 축하의 활기가 가득했던 공간은 마지막 순간 과거의 동료들이 다시 모여 주방을 채우는 순환적 기억의 장소로 변모했다.",
+  "transfer": "공간의 폐업을 단순히 물리적 종결이 아닌, 커뮤니티의 역사를 갈무리하는 '끝인사 파티'라는 퍼포먼스로 전환하여 브랜드의 유산을 기록하라.",
+  "context": "릴 뎁스 오아시스는 11년간 허드슨 지역에서 퀴어 공연과 식음료를 결합한 커뮤니티 공간으로 자리 잡았으며, 창업 초기부터 기존 식당의 이름을 일부 유지하는 등 장소의 역사성을 존중해 왔다.",
+  "findings": [],
+  "keywords": [
+   "커뮤니티 공간",
+   "공간 운영",
+   "퀴어 문화",
+   "장소성",
+   "젠트리피케이션"
+  ],
+  "evidence": "The phrase we used in our cookbook is, “yes is more, or yes to more.”",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "식당 운영의 철학적 측면은 잘 드러나 있으나, 공간의 구체적 설계나 건축적 기법에 대한 정보가 부족하여 3점을 부여함.",
+  "v": 2,
+  "url": "https://elephant.art/love-above-all-things-halo-perez-gallardo/",
+  "original_title": "Love Above All Things: Halo Perez-Gallardo",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 9000,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-21 11:19",
+  "research": {
+   "entities": [
+    "Halo Perez-Gallardo",
+    "Lil' Deb's Oasis",
+    "Alec Campos"
+   ],
+   "questions": [
+    "Lil' Deb's Oasis가 단순한 식당을 넘어 지역 커뮤니티와 퀴어 문화에 어떤 사회적 영향을 미쳤는가?",
+    "Halo Perez-Gallardo가 언급한 '인큐베이터'로서의 공간 운영 철학은 구체적으로 어떤 방식으로 실현되었는가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "archdaily.com/1188961/exhibition-artifact-configuracion-visual": {
+  "title_ko": "칠레의 임시 가설물, 전시대를 넘어선 집합적 공간의 구축",
+  "summary_ko": "칠레 누뇨아에서 콘피구라시온 비수알(Configuración Visual)이 설계한 전시 아티팩트는 유니아크(UNIACC) 건축학과 학생들의 모형을 전시하기 위해 제작된 임시 설치물이다. 단순한 오브제 거치대를 넘어, 관람객과 학생들의 집합적 모임을 수용하는 하나의 환경적 공간으로 확장된다.",
+  "lens": "오브제를 받치는 구조물을 확장해 관람객이 머무는 장소 자체를 구축한다.",
+  "why_now": "일회성 가설물이 소비되고 사라지는 방식에서 벗어나, 구조체 자체가 커뮤니티의 장이 되는 임시 건축의 효용을 보여준다.",
+  "mechanism": "204제곱미터의 면적 안에서 건축 모형을 지지하는 물리적 프레임이 동시에 사람들이 모여 소통하는 공간적 밀도를 형성한다.",
+  "sensory": "가설물 고유의 산업적 골조가 드러나며, 학생들이 만든 모형과 관람객의 동선이 얽혀 입체적인 밀도를 만든다.",
+  "transfer": "공간 무대를 설계할 때, 소품을 올리는 단상을 사람들의 체류 동선과 결합해 단일한 집합적 공간으로 연출한다.",
+  "context": "칠레 누뇨아(Ñuñoa)에서 완공된 이 프로젝트는 학술 공동체 축제를 위해 학생들의 건축 모형을 전시하는 임시 지원 시설로 기획되었다.",
+  "findings": [],
+  "keywords": [
+   "임시 설치물",
+   "전시 디자인",
+   "공간 구조",
+   "건축 모형",
+   "칠레 건축"
+  ],
+  "evidence": "The Exhibition Artifact (Artefacto Expositivo) arose from a commission to build a temporary support to exhibit architectural models developed by students of the UNIACC School of Architecture",
+  "kind": "프로젝트",
+  "depth": 2,
+  "grounding": "thin",
+  "depth_reason": "임시 전시 구조물의 공간적 확장이라는 개념은 흥미로우나 원문 정보가 짧아 심층 분석에 한계가 있다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1188961/exhibition-artifact-configuracion-visual",
+  "original_title": "Exhibition Artifact / Configuración Visual",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 1605,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-21 11:19",
+  "research": {
+   "entities": [
+    "Configuración Visual",
+    "UNIACC"
+   ],
+   "questions": [
+    "Exhibition Artifact 프로젝트가 전시물 거치대 이상의 공간적 경험을 제공하기 위해 어떤 구조적 설계를 채택했는가?",
+    "UNIACC 건축학과 학생들의 모델을 전시하기 위해 임시 설치물이 고려해야 했던 기능적 요구사항은 무엇인가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "artforum.com/news/scotlands-paisley-museum-to-reopen-early-2027-1234763970": {
+  "title_ko": "페이즐리 박물관, 150년의 직물 유산 위로 얹은 붉은 유리와 파노라마",
+  "summary_ko": "스코틀랜드 페이즐리 박물관이 6,870만 파운드 규모의 대대적인 리노베이션을 마치고 2027년 초 재개관한다. 건축가 아만다 레베트가 이끄는 AL_A는 1871년 건립된 박물관에 붉은 유리 입구와 파노라마 동선을 추가하고, 19세기 직물 산업의 중심지였던 지역 정체성을 반영한 1,250여 점의 소장품을 재배치했다.",
+  "lens": "역사적 골조에 붉은 유리라는 이질적 물성을 삽입해 폐쇄적이었던 박물관의 문턱을 도시를 향한 파노라마 창으로 치환했다.",
+  "why_now": "산업 유산의 박제된 공간을 현대적 공공 동선으로 해체하고, 지역의 고유한 패턴 문화를 동시대적 전시 언어로 번역하는 시도가 요구되는 시점이다.",
+  "mechanism": "기존 석조 건물의 무게감에 대조되는 붉은 유리 입구를 설계해 시각적 진입점을 강조하고, 내부에는 100여 개의 전시 구획을 배치해 관람객의 이동을 유도한다.",
+  "sensory": "19세기 직물 공장의 거친 산업적 질감과 현대적 유리 파사드의 투명함이 겹쳐지며, 천문대 돔의 회전하는 금속 지붕이 아날로그적 기계미를 더한다.",
+  "transfer": "공간의 물리적 경계를 허물 때, 기존 벽체와 상반되는 색채의 투명한 재료를 삽입해 시각적 관통감을 확보하는 동선 연출을 제안한다.",
+  "context": "AL_A의 아만다 레베트는 영국 스털링상을 수상한 건축가로, 이번 프로젝트는 1871년 존 허니맨이 설계한 역사적 건물을 국제적 수준의 문화 거점으로 재편하는 작업이다. 박물관은 19세기 직물 산업의 유산인 페이즐리 패턴과 팸 호그 등 지역 출신 인물의 기록을 중심으로 공간을 재구성했다.",
+  "findings": [
+   {
+    "text": "페이즐리 박물관 재개발 프로젝트는 6,870만 파운드의 예산이 투입되었으며 2018년부터 진행되었다.",
+    "s": 1,
+    "quote": "The £68.7m redevelopment has suffered several delays, caused first by Covid and then construction snags and soaring inflation, which caused its reopening to be repeatedly pushed back."
+   },
+   {
+    "text": "전시 디자인을 맡은 오페라 암스테르담은 대영박물관의 바이외 태피스트리 전시를 설계한 이력이 있다.",
+    "s": 1,
+    "quote": "exhibition design by Opera Amsterdam, whose other recent projects include the visitor experience for the landmark Bayeux Tapestry exhibition at the British Museum."
+   }
+  ],
+  "keywords": [
+   "산업유산",
+   "공간재생",
+   "페이즐리패턴",
+   "파노라마동선"
+  ],
+  "evidence": "The renovation was performed by the architectural firm AL_A, led by RIBA Stirling Prize–winner Amanda Levete.",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "역사적 건축물의 리노베이션 과정에서 재료의 대비를 통한 공간 해석이 명확하고, 전시 기획과의 연계성이 구체적이다.",
+  "v": 2,
+  "url": "https://www.artforum.com/news/scotlands-paisley-museum-to-reopen-early-2027-1234763970/",
+  "original_title": "Scotland’s Paisley Museum to Reopen in Early 2027",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 2430,
+  "fetch": "ok",
+  "cliche_hits": [
+   "경계를 허"
+  ],
+  "read_at": "2026-11-21 11:19",
+  "research": {
+   "entities": [
+    "Paisley Museum",
+    "AL_A",
+    "Amanda Levete",
+    "OPERA Amsterdam",
+    "John Honeyman"
+   ],
+   "questions": [
+    "페이즐리 박물관의 리노베이션 프로젝트가 건축적 측면에서 기존의 역사적 가치를 어떻게 보존하고 현대적으로 재해석했는가?",
+    "페이즐리 패턴이 19세기 섬유 산업의 중심지였던 페이즐리 지역의 역사와 문화적 정체성에 어떤 영향을 미쳤는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Paisley Museum now set to open in early 2027 - Museums Association",
+     "url": "https://www.museumsassociation.org/museums-journal/news/2026/09/paisley-museum-now-set-to-open-in-early-2027/"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Paisley Museum and Art Galleries",
+     "url": "https://en.wikipedia.org/wiki/Paisley%20Museum%20and%20Art%20Galleries"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Amanda Levete",
+     "url": "https://en.wikipedia.org/wiki/Amanda%20Levete"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3
+   ],
+   "chars": 4311
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "hyperallergic.com/threading-the-names-of-alabamas-black-belt-history": {
+  "title_ko": "앨라배마 퀼트 공동체, 잊힌 노예의 이름을 잇다",
+  "summary_ko": "앨라배마주 로운즈 카운티의 여성 퀼트 제작자들은 2021년부터 과거 노예제 하에 있던 이들의 이름을 천 조각에 수놓는 'Sew Their Names' 프로젝트를 시작했다. 줄 콜린스 스미스 미술관은 이들의 작업을 지역 내 다양한 장소로 확산하는 'Museum in Motion' 이니셔티브를 통해 전시와 워크숍을 결합했다. 이는 단순히 결과물을 보여주는 전시를 넘어, 지역사회의 목소리를 제작 과정의 핵심으로 통합하는 시도다.",
+  "lens": "기록되지 않은 역사를 퀼트라는 물리적 층위로 복원하며, 기관의 권위를 지역 공동체의 서사로 치환하는 사회적 시노그래피다.",
+  "why_now": "디지털 아카이브가 포착하지 못하는 지역의 구술사와 비가시적 노동을 물리적 물성으로 증명하려는 움직임이 유효하다.",
+  "mechanism": "박물관 내부에 머물지 않고 지역 도서관과 갤러리를 순회하는 '퀼트 트레일'을 구축해, 관람객이 바느질과 노래라는 행위를 통해 역사적 증언에 직접 참여하게 한다.",
+  "sensory": "오래된 마이크로필름 속 텍스트가 3x5인치 천 조각 위로 옮겨지며, 거친 질감의 패브릭과 겹겹이 쌓인 바느질 자국이 묵직한 역사적 무게를 전달한다.",
+  "transfer": "역사적 인물이나 장소의 이름을 타이포그래피가 아닌 물리적 오브제에 새겨 넣는 방식을 채택하라. 피사체가 노동하며 부르는 노래를 현장음으로 활용해 서사의 깊이를 더할 수 있다.",
+  "context": "본 프로젝트는 로운즈 카운티의 퀼트 공동체와 hopewell 프로젝트의 협업으로 시작되었으며, 줄 콜린스 스미스 미술관의 이니셔티브를 통해 앨라배마 전역으로 확장되었다. 이본 웰스, 빌 트레일러 등 지역 예술가의 작업과 함께 전시되어 앨라배마 예술 전통의 계보를 잇는다.",
+  "findings": [
+   {
+    "text": "홉웰 침례교회 건물은 2008년 마운트 윌링 침례교회의 마지막 남은 신도들에 의해 스노우 힐 기독교회로 기증되었다.",
+    "s": 1,
+    "quote": "The antebellum Hopewell Baptist Church building—described elsewhere on this website—was donated in 2008 to the Snow Hill Christian Church by the last few remaining members of the Mt. Willing Baptist Church"
+   },
+   {
+    "text": "퀼트 제작자들은 2005년부터 지역사회 생활 센터와 협력하여 자선용 퀼트를 기부하는 사역을 이어왔다.",
+    "s": 1,
+    "quote": "the Mt. Willing Quilters were not sewing the blocks for their customary bed or lap quilts, which they donate to charity as part of a quilting ministry begun in 2005"
+   },
+   {
+    "text": "빌 트레일러는 1939년 몽고메리로 이주한 뒤 85세의 나이로 연필과 판지를 사용하여 자신의 기억을 기록하기 시작했다.",
+    "s": 4,
+    "quote": "It was only after 1939, following his move to Montgomery, Alabama, that Traylor began to draw. At the age of 85, he took up a pencil and a scrap of cardboard"
+   }
+  ],
+  "keywords": [
+   "퀼트",
+   "사회적 시노그래피",
+   "공동체 아카이브",
+   "앨라배마"
+  ],
+  "evidence": "Sew Their Names: Quilting, Creativity, and Activism at the Jule Collins Smith Museum of Fine Art at Auburn University culminates a three-year partnership",
+  "kind": "프로젝트",
+  "depth": 5,
+  "grounding": "full",
+  "depth_reason": "지역사회 공동체와 미술관의 협업 과정을 구체적인 제작 기법과 순회 전시 동선으로 명확히 설명하며, 예술적 실천의 사회적 가치를 잘 보여준다.",
+  "v": 2,
+  "url": "https://hyperallergic.com/threading-the-names-of-alabamas-black-belt-history/",
+  "original_title": "Threading the Names of Alabama’s Black Belt History",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 6547,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-21 11:19",
+  "research": {
+   "entities": [
+    "Yvonne Wells",
+    "Bill Traylor",
+    "Noah Purifoy",
+    "Rural Studio",
+    "Jule Collins Smith Museum of Fine Art"
+   ],
+   "questions": [
+    "앨라배마주 로우즈 카운티의 퀼트 제작 공동체와 Hopewell 프로젝트는 어떻게 협력을 시작하게 되었나요?",
+    "Jule Collins Smith 미술관의 'Museum in Motion' 이니셔티브는 지역사회와 예술을 연결하기 위해 어떤 방식으로 운영되나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Sew Their Names — The Hopewell Project",
+     "url": "https://www.hopewellproject.net/sew-their-names?ref=hyperallergic.com"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Project Threadways Symposium",
+     "url": "https://alabamachanin.com/products/project-threadways-symposium-2026?Title=Default+Title&ref=hyperallergic.com"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Yvonne Wells",
+     "url": "https://en.wikipedia.org/wiki/Yvonne%20Wells"
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "Bill Traylor",
+     "url": "https://en.wikipedia.org/wiki/Bill%20Traylor"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "chars": 5639
+  },
+  "depth_raw": 5,
+  "depth_v": 2
+ },
+ "archdaily.com/1036263/house-duas-marias-i-canoa-arquitetura": {
+  "title_ko": "두아스 마리아스 주택 I: 브라질의 거목 아래 펼쳐진 수평적 쉼표",
+  "summary_ko": "브라질 자과리우나의 6,000제곱미터 대지에 자리한 570제곱미터 규모의 주택이다. 기존 부지에 있던 거대한 수목군을 보존하며 건축물을 배치해 주변 자연과 유기적인 관계를 형성했다. 카노아 아키테투라(Canoa Arquitetura)는 지형의 고저차와 나무의 위치를 고려해 수평적 구조를 설계했다.",
+  "lens": "거대한 수목을 박제하지 않고 건축의 일부로 편입해, 건물과 자연이 서로의 경계를 비켜가는 유연한 배치 방식을 취한다.",
+  "why_now": "디지털 설계의 정밀함이 자연의 비정형성과 충돌할 때 발생하는 긴장감을, 토착적인 수종 보존을 통해 해소하는 방식을 보여준다.",
+  "mechanism": "기존 대지의 수목 분포에 따라 매스를 분절하고, 대지의 고저차를 활용한 수평적 동선을 설계하여 실내외의 물리적 문턱을 낮춘다.",
+  "sensory": "시간을 머금은 거목의 거친 수피와 매끄러운 콘크리트 및 타일 마감재가 대비되며, 빛이 나뭇잎 사이를 투과해 바닥에 그리는 그림자가 공간의 깊이를 결정한다.",
+  "transfer": "공간 연출 시 특정 오브제나 수목을 중심으로 시선을 고정하는 프레임 샷을 구성하고, 자연광의 산란을 이용해 실내 바닥의 명암을 조절하는 조명 설계를 적용한다.",
+  "context": "카노아 아키테투라는 브라질의 지형적 맥락과 기후에 순응하는 주거 공간을 지속적으로 탐구한다. 안드레 베커(André Becker)가 설계한 JQY 하우스가 단차를 이용해 바다를 조망했다면, 이 프로젝트는 나무의 위치를 좌표 삼아 건축의 평면을 구성한다.",
+  "findings": [],
+  "keywords": [
+   "카노아아키테투라",
+   "브라질건축",
+   "수평적구조",
+   "지형순응",
+   "자연광"
+  ],
+  "evidence": "built on a plot of approximately 6,000 m², which already featured large mature trees, especially in its lower section.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "기존 지형과 수목을 활용한 배치는 명확하나, 재료의 구체적 결합 방식이나 상세한 공간 경험에 대한 정보가 제한적이다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1036263/house-duas-marias-i-canoa-arquitetura",
+  "original_title": "House Duas Marias I / Canoa Arquitetura",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 1458,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-21 11:19",
+  "research": {
+   "entities": [
+    "Canoa Arquitetura",
+    "Ana Mello",
+    "Mario Moura",
+    "Victor Gurgel",
+    "Atelier Leopardi"
+   ],
+   "questions": [
+    "Canoa Arquitetura는 Duas Marias I 주택 설계에서 주변 대지의 거대한 기존 나무들을 어떻게 활용했는가?",
+    "이 프로젝트에서 지속 가능성과 재료 선택은 건축적 개념에 어떻게 반영되었는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "브라질 해안의 지형을 끌어안은 주거 공간, JQY 하우스",
+     "url": "https://www.archdaily.com/1186107/jqy-house-andre-becker"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 230
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "design-milk.com/best-coffee-table-books": {
+  "title_ko": "오브제의 물성을 기록하는 방식: 디자이너를 위한 큐레이션 북 컬렉션",
+  "summary_ko": "단순한 시각 자료를 넘어 기록과 탐구의 가치를 지닌 디자인 서적 10권을 선정했다. 고전과 현대의 경계를 넘나드는 아킬레 살바니의 가구 미학부터, 파이돈이 아카이빙한 미드센추리 모던의 계보, 온지음이 기록한 한국 식문화의 공예적 가치까지 다룬다.",
+  "lens": "책은 그 자체로 공간의 밀도를 결정하는 물리적 오브제이며, 디자이너의 사고방식을 박제하여 다음 프로젝트의 레퍼런스로 치환하는 도구다.",
+  "why_now": "디지털 정보의 휘발성에 맞서, 재료의 질감과 제작 공정을 심층적으로 기록한 인쇄 매체가 다시금 공간 설계의 실질적 지침서로 회귀하고 있다.",
+  "mechanism": "아킬레 살바니의 모노그래프는 고대 로마의 신화적 모티프와 현대적 키네틱 조형을 결합하는 과정을 336페이지에 걸쳐 상세히 추적하며, 디자인의 시작점이 재료의 물성에서 비롯됨을 증명한다.",
+  "sensory": "브론즈의 산화된 색감, 오닉스의 투명한 결, 그리고 Villa Treville의 패턴 타일을 재현한 텍스처 커버는 시각을 넘어 손끝에 닿는 물질의 무게감을 전달한다.",
+  "transfer": "콘티 작업 시, 살바니의 스파이더 샹들리에처럼 고대 마차의 구조와 현대적 조명을 병치하는 방식의 조형적 대비를 조명 설계에 적극 활용하라.",
+  "context": "아킬레 살바니는 로시나비의 슈퍼요트 인테리어에서 곡선형 목재와 조개껍데기 조형물을 사용해 해양 건축의 유동성을 극대화한 바 있다. 파이돈은 곰팡이의 생물학적 패턴부터 일본 주거 건축의 설계 해법까지, 특정 유형을 깊게 파고드는 아카이빙으로 디자인 담론을 주도한다.",
+  "findings": [
+   {
+    "text": "아킬레 살바니는 고대 로마와 신화적 요소를 아트 데코 및 미드센추리 디자인과 결합하여 고유한 조형 언어를 구축한다.",
+    "s": 1,
+    "quote": "tracing references from classical Rome and mythology to Art Deco, mid-century Italian design, and contemporary art."
+   },
+   {
+    "text": "살바니의 작업 방식은 형태를 재료에 강요하는 대신, 장인과의 협업을 통해 재료의 특성이 디자인을 이끌도록 유도한다.",
+    "s": 1,
+    "quote": "Salvagni begins with the craft itself rather than imposing form onto material, allowing technique to guide design."
+   },
+   {
+    "text": "살바니는 2002년 팔라티노 언덕에 건축 사무소를 설립한 이후 런던, 뉴욕, 팜비치 등으로 활동 영역을 확장했다.",
+    "s": 4,
+    "quote": "In 2002, Salvagni established his architectural firm on the Palatine Hill next to the Roman Colosseum. He then expanded into London in 2021 with a gallery in Mayfair and opened a location on Madison Avenue in New York Ci"
+   }
+  ],
+  "keywords": [
+   "아킬레 살바니",
+   "디자인 모노그래프",
+   "물성 기록",
+   "공예적 조형",
+   "파이돈"
+  ],
+  "evidence": "Salvagni begins with the craft itself rather than imposing form onto material, allowing technique to guide design.",
+  "kind": "리스트·라운드업",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "구체적인 서적 목록과 함께 디자이너의 작업 방법론을 심도 있게 분석하여 실무적 참고 가치가 높다.",
+  "v": 2,
+  "url": "https://design-milk.com/best-coffee-table-books/",
+  "original_title": "The Best Coffee Table Books for Design Enthusiasts",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 9000,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-21 11:19",
+  "research": {
+   "entities": [
+    "Achille Salvagni",
+    "Glenn Adamson",
+    "Franco Zeffirelli",
+    "Assouline",
+    "Phaidon"
+   ],
+   "questions": [
+    "커피 테이블 북이 단순한 읽을거리를 넘어 인테리어 오브제로서 갖는 미학적 가치는 무엇인가?",
+    "아킬레 살바니와 같은 현대 디자이너들이 고전적 요소를 현대적 가구 디자인에 어떻게 접목하는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Achille Salvagni Atelier Coffee Table Book | ASSOULINE",
+     "url": "https://www.assouline.com/products/achille"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Grace: The American Vogue Years (2026) | Standard Edition | 9781837294213",
+     "url": "https://www.phaidon.com/en-us/products/grace-the-american-vogue-years-2026"
+    },
+    {
+     "n": 3,
+     "type": "공식·1차",
+     "title": "Defining Style: The Book of Interior Design | Standard Edition | 9781838667818",
+     "url": "https://www.phaidon.com/en-us/products/defining-style-the-book-of-interior-design"
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "Achille Salvagni",
+     "url": "https://en.wikipedia.org/wiki/Achille%20Salvagni"
+    },
+    {
+     "n": 5,
+     "type": "위키백과",
+     "title": "Glenn Adamson",
+     "url": "https://en.wikipedia.org/wiki/Glenn%20Adamson"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "곰팡이의 시각적 계보: 파이돈이 엮은 균류의 미학적 탐구",
+     "url": "https://www.thisiscolossal.com/2026/09/spanning-200-works-a-new-book-celebrates-the-world-of-fungi/"
+    },
+    {
+     "n": 7,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "유체처럼 휘어지는 알루미늄 슈퍼요트, 로시나비 엠와이 히드",
+     "url": "https://www.wallpaper.com/transportation/rossinavi-unveils-m-y-heed-an-aluminium-superyacht-with-interiors-by-achille-salvagni"
+    },
+    {
+     "n": 8,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "일본 주택의 35가지 단면: 파이돈이 기록한 동시대 주거 건축의 풍경",
+     "url": "https://www.wallpaper.com/architecture/residential/living-in-a-japanese-house-book"
+    }
+   ],
+   "used": [
+    1,
+    4,
+    6,
+    7,
+    8
+   ],
+   "chars": 9723
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "archdaily.com/941774/hotel-tepoztlan-taller-carlos-marin-plus-pasquinel-studio": {
+  "title_ko": "자연을 훼손하지 않고 틈새에 안착한 멕시코 테포즈틀란 호텔",
+  "summary_ko": "멕시코 모렐로스주 테포즈틀란과 아마트란 사이에 위치한 테포즈틀란 호텔은 타예르 카를로스 마린과 파스키넬 스튜디오가 설계한 1,537제곱미터 규모의 프로젝트다. 기존의 버려진 대지 위에 자생하는 식생과 거대한 나무를 보존하기 위해 네 개의 동을 분산 배치했다. 거친 지형을 그대로 활용해 완만한 경사로와 계단으로 공간을 연결했다.",
+  "lens": "거친 지형과 자생 식생을 피하지 않고 건물의 높낮이와 배치를 결정하는 기준으로 삼았다.",
+  "why_now": "자연 지형을 인위적으로 평탄화하던 개발 방식에서 벗어나, 기존 식생과 고저 차를 보존하며 그 틈에 스며드는 건축적 태도가 주목받고 있다.",
+  "mechanism": "진입부의 색소 콘크리트 매스가 도로 면에 밀착하고, 대지 내부로 깊어질수록 완만한 램프와 계단이 -2.5미터 아래의 수영장과 -1.2미터 높이의 객실 동으로 시선을 이끈다.",
+  "sensory": "거친 콘크리트의 물성과 대지 원래의 수목이 어우러져, 공간을 이동할 때마다 시야의 높낮이가 달라지며 멕시코 산악 지형의 질감이 몸으로 직접 전달된다.",
+  "transfer": "공간 무대를 설계할 때 평평한 바닥 대신 대저택이나 야외 스튜디오의 고저 차를 적극 활용하여, 카메라의 수직적 동선과 시선 이동을 유도하는 콘티로 변용한다.",
+  "context": "탈레르 알베르토 칼레하가 멕시코 마순테의 좁은 부지에 건물을 쪼개고 그 사이로 자연을 끌어들인 전례처럼, 이번 프로젝트 역시 대지의 물리적 제약을 공간 구성의 뼈대로 삼았다.",
+  "findings": [
+   {
+    "text": "멕시코 마순테에 위치한 카사 노바는 1,732제곱미터 대지 위에 지어진 주택이다.",
+    "s": 1,
+    "quote": "멕시코 마순테에 위치한 카사 노바는 1,732제곱미터 대지 위에 지어진 주택이다."
+   },
+   {
+    "text": "건축 스튜디오 탈레르 알베르토 칼레하가 멕시코 마순테의 좁고 긴 해안 부지에 휴양 주택 카사 노바를 설계했다.",
+    "s": 2,
+    "quote": "건축 스튜디오 탈레르 알베르토 칼레하(Taller Alberto Calleja)가 멕시코 마순테의 좁고 긴 해안 부지에 휴양 주택 카사 노바(Casa Nova)를 설계했다."
+   }
+  ],
+  "keywords": [
+   "테포즈틀란",
+   "지형 순응",
+   "콘크리트",
+   "식생 보존"
+  ],
+  "evidence": "Located between Tepoztlán and Amatlán in the State of Morelos, the Hotel Tepoztlpán designed by the Carlos Marín and Pasquinel Studio Workshop Offices integrates the topography",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "지형에 순응하는 배치와 구체적인 고저 차 활용이 돋보이나 선례의 범주를 크게 벗어나지 않는다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/941774/hotel-tepoztlan-taller-carlos-marin-plus-pasquinel-studio",
+  "original_title": "Hotel Tepoztlán / Taller Carlos Marín + Pasquinel Studio",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 2314,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-21 11:19",
+  "research": {
+   "entities": [
+    "Taller Carlos Marín",
+    "Pasquinel Studio",
+    "Onnis Luque",
+    "Tepoztlán",
+    "Basaltex"
+   ],
+   "questions": [
+    "테포즈틀란(Tepoztlán)의 지형적, 자연적 특성이 호텔 건축 디자인에 어떻게 반영되었는가?",
+    "건축가 카를로스 마린(Carlos Marín)과 파스키넬 스튜디오(Pasquinel Studio)는 이 프로젝트에서 어떤 친환경적 요소를 적용했는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "카사 노바: 12미터 해안가 폭의 한계를 공간적 해법으로 치환하다",
+     "url": "https://www.archdaily.com/1186373/casa-nova-tac-taller-alberto-calleja"
+    },
+    {
+     "n": 2,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "멕시코 마순테의 좁은 해안 부지, 콘크리트와 틈으로 빚은 카사 노바",
+     "url": "https://www.dezeen.com/2026/11/07/taller-alberto-calleja-casa-nova/"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 519
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "architecturaldigest.com/story/best-aspen-hotels-and-rental-homes": {
+  "title_ko": "아스펜의 겨울, 산업 유산과 바우하우스가 빚어낸 공간의 층위",
+  "summary_ko": "미국 아스펜은 네 개의 산을 아우르는 스키 인프라와 함께 건축적 유산을 품은 숙박 시설이 공존하는 곳이다. 1889년 건립된 호텔 제롬(Hotel Jerome)은 서부 개척 시대의 벽돌 골조를 보존하며 미식과 문화를 잇고, 아스펜 메도우즈 리조트(Aspen Meadows Resort)는 허버트 바이어(Herbert Bayer)의 바우하우스 원칙을 공간에 투영하여 기하학적 미학을 선보인다.",
+  "lens": "스키 리조트의 화려함 이면에 숨겨진 역사적 골조와 바우하우스의 기하학적 질서가 어떻게 휴식의 물리적 배경이 되는지 관찰한다.",
+  "why_now": "디지털 피로가 극에 달한 시대, 원형 그대로의 벽돌 질감과 기하학적 공간 배치는 사용자에게 시각적 안정감과 공간적 깊이를 제공한다.",
+  "mechanism": "호텔 제롬은 19세기 벽돌 구조에 가죽과 박제 등 거친 물성을 덧대어 시간의 레이어를 구축하고, 아스펜 메도우즈 리조트는 원색과 기하학적 형태를 통해 바우하우스의 기능주의를 공간에 구현한다.",
+  "sensory": "마호가니 목재의 묵직한 촉감, 촛불이 일렁이는 지하 바의 비릿한 공기, 눈 덮인 산맥을 배경으로 한 차가운 금속성 고산지대의 빛이 대비를 이룬다.",
+  "transfer": "콘티 설계 시, 19세기 산업 유산의 벽돌 벽면을 배경으로 현대적 조명을 배치해 시대를 교차시키는 숏을 구성하거나, 바우하우스적 원색 가구를 활용해 공간의 깊이감을 확보한다.",
+  "context": "호텔 제롬은 1880년대 제롬 B. 휠러(Jerome B. Wheeler)가 유럽식 호텔을 지향하며 건립한 아스펜의 랜드마크로, 1986년 국가사적지로 등재되었다. 아스펜 메도우즈 리조트는 아스펜 인스티튜트(Aspen Institute) 캠퍼스의 일부로 기획되어 예술가이자 건축가인 허버트 바이어의 미학적 유산을 계승한다.",
+  "findings": [
+   {
+    "text": "호텔 제롬은 1880년대에 건립된 벽돌 구조물로, 1986년 미국 국가사적지에 등재되었다.",
+    "s": 1,
+    "quote": "In 1986, it was listed on the National Register of Historic Places. It is a brick structure built in the 1880s that is often described as one of the city's major landmarks"
+   },
+   {
+    "text": "호텔 제롬의 J-바는 금주법 시대에 '아스펜 크러드'라는 칵테일을 발명했으며, 헌터 S. 톰슨의 집무실로 활용되었다.",
+    "s": 1,
+    "quote": "During Prohibition, a celebrated spiked drink, the Aspen Crud, was invented at its J-Bar. Hunter S. Thompson used the J-Bar as his de facto office"
+   }
+  ],
+  "keywords": [
+   "아스펜",
+   "건축유산",
+   "바우하우스",
+   "공간레이어",
+   "물성"
+  ],
+  "evidence": "The interiors preserve the Western charm (think rich leather furnishing, vintage photographs, and taxidermy) that is the Jerome’s birthright",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "역사적 건축물의 보존 방식과 바우하우스 미학이 숙박 공간에 적용된 구체적 사례를 기술하여 공간 설계의 참조점을 명확히 제시한다.",
+  "v": 2,
+  "url": "https://www.architecturaldigest.com/story/best-aspen-hotels-and-rental-homes",
+  "original_title": "11 Best Aspen Hotels and Homes for Your Next Winter Getaway (2026)",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 9000,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-21 11:19",
+  "research": {
+   "entities": [
+    "St. Regis Aspen Resort",
+    "Hotel Jerome",
+    "The Snow Lodge",
+    "Auberge Resorts",
+    "Food & Wine Classic"
+   ],
+   "questions": [
+    "아스펜의 럭셔리 호텔들이 제공하는 'après-ski' 문화와 그 역사적 배경은 무엇인가요?",
+    "아스펜이 겨울 스키 리조트를 넘어 사계절 여행지로 자리 잡게 된 주요 요인은 무엇인가요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Hotel Jerome",
+     "url": "https://en.wikipedia.org/wiki/Hotel%20Jerome"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 1400
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "architecturaldigest.com/story/black-friday-home-deals-11-20-2026": {
+  "title_ko": "연말 홈 인테리어를 위한 블랙 프라이데이 쇼핑 가이드",
+  "summary_ko": "아키텍처럴 다이제스트가 아하우스, 메이드 인, 세레나 앤 릴리 등 주요 리빙 브랜드의 얼리 블랙 프라이데이 할인 품목을 선정했다. 주방용품, 침구, 러그, 홀리데이 장식 등을 최대 70퍼센트 할인된 가격으로 제공한다.",
+  "lens": "연말 손님맞이를 앞두고 공간을 정비하기 위한 리빙 브랜드 할인 품목들을 조명한다.",
+  "why_now": "추수감사절과 연말 시즌을 앞두고 주요 가구 및 홈 데코 브랜드들이 대규모 할인을 진행하는 시점이다.",
+  "mechanism": "온라인 스토어와 쇼룸을 통해 홀리데이 장식부터 주방 가전까지 다양한 카테고리의 제품을 할인된 가격으로 즉시 구매할 수 있도록 구성했다.",
+  "sensory": "말린 삼나무 리스, 인공 크리스마스 트리, 주방용 주물 냄비 등 연말 분위기를 구성하는 구체적인 물성과 질감을 드러낸다.",
+  "transfer": "공간 연출 콘티에서 연말 분위기를 더하는 소품과 가구를 선정할 때 참고할 수 있는 리스트업 자료로 활용한다.",
+  "context": "아하우스는 오하이오주 보스턴 하이츠에 본사를 둔 미국의 홈 퍼니싱 기업으로 지속 가능성과 장인정신을 강조한다.",
+  "findings": [
+   {
+    "text": "아하우스는 지속 가능성과 제품 품질의 장인정신에 초점을 맞춰 1986년에 설립되었다.",
+    "s": 1,
+    "quote": "Founded in 1986 with a focus on sustainability and artisanship in product quality, Arhaus provides a diversified assortment"
+   }
+  ],
+  "keywords": [
+   "블랙프라이데이",
+   "홈데코",
+   "인테리어"
+  ],
+  "evidence": "Retailers know that you want Black Friday deals—and that you want them right now.",
+  "kind": "리스트·라운드업",
+  "depth": 2,
+  "grounding": "partial",
+  "depth_reason": "단순 브랜드 할인 행사 소개 기사이므로 가치 점수를 낮게 책정함.",
+  "v": 2,
+  "url": "https://www.architecturaldigest.com/story/black-friday-home-deals-11-20-2026",
+  "original_title": "29 Best Early Black Friday Home Deals, Vetted by AD (2026)",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 9000,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-21 11:19",
+  "research": {
+   "entities": [
+    "Arhaus",
+    "Lulu and Georgia",
+    "Made In",
+    "Balsam Hill",
+    "Brooklinen"
+   ],
+   "questions": [
+    "블랙 프라이데이 세일 기간에 가구 및 인테리어 용품을 구매할 때 주의해야 할 점은 무엇인가요?",
+    "인공 크리스마스 트리를 선택할 때 고려해야 할 품질 기준과 관리 방법은 무엇인가요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Arhaus",
+     "url": "https://en.wikipedia.org/wiki/Arhaus"
+    },
+    {
+     "n": 2,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "하이디 카일리어의 샌프란시스코 자택, 빅토리아풍 주택에 더한 강렬한 색채와 패턴",
+     "url": "https://www.architecturaldigest.com/story/heidi-caillier-returns-to-san-francisco-and-makes-a-victorian-her-forever-home"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "현관과 벽면을 채우는 가을 리스 10선",
+     "url": "https://www.architecturaldigest.com/story/best-fall-wreaths"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "일상의 사물을 초현실적 조명으로, 이니 리 파커의 새로운 조명 컬렉션",
+     "url": "https://www.architecturaldigest.com/story/lulu-and-georgia-x-eny-lee-parker"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 1267
+  },
+  "depth_raw": 2,
+  "depth_v": 2
+ },
+ "designboom.com/architecture/angelo-renna-eight-principles-welcoming-non-human-life-back-into-our-cities-guest-essays": {
+  "title_ko": "도시의 틈을 생태적 거처로: 안젤로 레나가 제안하는 비인간 생명 환대 8원칙",
+  "summary_ko": "건축가 안젤로 레나(Angelo Renna)는 인간 중심의 도시 개발을 넘어 식물, 곤충, 조류와 공진화하는 도시를 위한 8가지 설계 원칙을 제시한다. 그는 잔디 깎기 최소화, 고사목 활용, 다공성 구조 도입 등 기존 도시 인프라의 틈을 비인간 생명체를 위한 생태적 거처로 전환하는 구체적 전략을 제안한다.",
+  "lens": "도시의 결함을 생태적 기회로 치환하여, 인간의 관리 대상이던 유휴 공간을 비인간 종의 서식지로 전유하는 전략적 설계안이다.",
+  "why_now": "인류세의 도시가 겪는 생물다양성 위기 속에서, 자연을 통제하는 조경이 아닌 생태계 스스로 군집을 이루도록 방치하는 미니멀리즘적 개입이 요구된다.",
+  "mechanism": "벽돌과 석재를 모르타르 없이 쌓아 틈을 만드는 루이 르 루아(Louis Le Roy)의 에코카테드랄 사례처럼, 구조적 불완전함을 생태적 다공성으로 치환하여 미세 서식지를 조성한다.",
+  "sensory": "매끄러운 콘크리트 대신 고사목의 거친 질감, 빗물받이와 벽면 틈새의 습한 흙내음, 비정형적인 식생이 만드는 불규칙한 빛의 산란이 도시의 감각을 바꾼다.",
+  "transfer": "공간 설계 시 정교한 마감 대신 거친 표면과 틈새를 의도적으로 남겨 생물 유입을 유도하고, 조명 설치 시 곤충과 조류의 이동을 방해하지 않는 낮은 조도의 국부 조명을 배치한다.",
+  "context": "안젤로 레나는 이전 작업인 '플로렌스 아일랜드(Florence Island)'와 '레서 하우스(Lesser Houses)'를 통해 3D 프린팅 기술과 모듈형 플랫폼으로 도시 내 생태적 거점을 만드는 실험을 지속해왔다. 이번 8원칙은 그간의 개별 프로젝트를 관통하는 도시 생태 철학을 체계화한 결과물이다.",
+  "findings": [
+   {
+    "text": "버트런드 러셀은 20세기 초 분석철학의 창시자 중 한 명으로, 논리학과 수학의 기초를 다진 철학자이다.",
+    "s": 1,
+    "quote": "Russell was one of the early 20th century's prominent logicians and a founder of analytic philosophy, along with his predecessor Gottlob Frege, his friend and colleague G. E. Moore, and his student and protégé Ludwig Wit"
+   }
+  ],
+  "keywords": [
+   "비인간",
+   "공진화",
+   "다공성",
+   "도시생태",
+   "안젤로레나"
+  ],
+  "evidence": "We should envision the city of the future not merely as an urban development process, but as a process of co-evolution among different species within a shared living habitat.",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "도시 설계의 구체적인 방법론을 생태적 관점에서 체계적으로 제시하고 있으며, 실제 적용 가능한 설계 원칙들이 명확히 기술되어 있다.",
+  "v": 2,
+  "url": "https://www.designboom.com/architecture/angelo-renna-eight-principles-welcoming-non-human-life-back-into-our-cities-guest-essays/",
+  "original_title": "angelo renna’s eight principles for welcoming non-human life back into our cities",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 9000,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-21 11:19",
+  "research": {
+   "entities": [
+    "Angelo Renna",
+    "World Wildlife Fund",
+    "Bertrand Russell"
+   ],
+   "questions": [
+    "안젤로 레나(Angelo Renna)가 제안한 도시 속 비인간 생명 환대를 위한 8가지 원칙의 세부 내용은 무엇인가?",
+    "도시 생태계에서 인간과 야생동물의 공존을 위해 조경 및 도시 설계는 어떻게 변화해야 하는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Bertrand Russell",
+     "url": "https://en.wikipedia.org/wiki/Bertrand%20Russell"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 1400
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "architecturaldigest.com/story/black-friday-furniture-deals-11-20-2026": {
+  "title_ko": "에스테이트를 위한 가구 쇼핑: 미적 가치와 실용을 잇는 14가지 선택",
+  "summary_ko": "블랙 프라이데이를 앞두고 가구 브랜드들이 조기 할인 행사를 시작했다. 사트바(Saatva), 세레나 앤 릴리(Serena & Lily), 허먼 밀러(Herman Miller) 등 디자인과 기능성을 겸비한 14개 브랜드가 침실, 거실, 오피스 가구를 대상으로 최대 70% 할인율을 선보인다. 이번 행사는 단순한 소비를 넘어 주거 공간의 물성과 형태를 재정비할 기회다.",
+  "lens": "단순한 할인 폭보다 공간의 뼈대와 조화를 이루는 재료의 질감, 그리고 형태적 완결성에 집중해 선택해야 한다.",
+  "why_now": "연말을 앞두고 공간의 레이어를 재구성하려는 수요가 급증하는 시기이며, 고가의 디자이너 가구를 합리적으로 확보할 수 있는 드문 기회다.",
+  "mechanism": "할인 품목은 주로 브랜드의 스테디셀러와 협업 컬렉션에 집중되어 있으며, 이는 공간의 중심을 잡아주는 핵심 가구(Anchor piece)를 전략적으로 교체하기에 최적화된 구조다.",
+  "sensory": "부클레 패브릭의 보드라운 촉감, 철제 캐노피의 차가운 선형성, 원목의 묵직한 질감이 공간에 시각적 깊이와 물리적 무게를 더한다.",
+  "transfer": "콘티 내 침실 씬에서는 하이드로릭 리프트 베드와 같은 수납형 가구를 활용해 시각적 노이즈를 제거하고, 미니멀한 공간감을 유지하는 연출을 권장한다.",
+  "context": "본 리스트는 아키텍처럴 다이제스트가 AD100 디자이너와 협업하거나 기술적 검증을 거친 브랜드들로 구성되었다. 과거 사트바와 세레나 앤 릴리는 텍스처와 수면 환경의 질적 향상을 위한 핵심 브랜드로 소개된 바 있다.",
+  "findings": [
+   {
+    "text": "사트바는 매트리스의 품질을 위해 유통 과정을 단순화하고 미국 내 제조를 고수한다.",
+    "s": 1,
+    "quote": "We cut out the middlemen so you get the highest quality at the best possible value. Every Saatva luxury mattress is made to order and assembled in the U.S."
+   }
+  ],
+  "keywords": [
+   "가구 디자인",
+   "공간 설계",
+   "인테리어",
+   "미드센추리",
+   "텍스처"
+  ],
+  "evidence": "Some of our favorite brands are already rolling out discounts on living room furniture, bedroom sets, and statement pieces",
+  "kind": "뉴스·이슈",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "가구 할인 정보를 나열하는 리스트 형식이나, 브랜드별 특성과 인테리어적 가치를 짧게나마 짚어주어 실무적 참고가 가능하다.",
+  "v": 2,
+  "url": "https://www.architecturaldigest.com/story/black-friday-furniture-deals-11-20-2026",
+  "original_title": "14 Best Early Black Friday Furniture Deals for Aesthetes (2026)",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 9000,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-21 11:19",
+  "research": {
+   "entities": [
+    "Burrow",
+    "Haworth",
+    "Saatva",
+    "Serena & Lily",
+    "Nickey Kehoe"
+   ],
+   "questions": [
+    "블랙 프라이데이 가구 세일 기간에 소비자가 주의해야 할 가격 책정 전략이나 마케팅 기법은 무엇인가요?",
+    "인테리어 디자인 관점에서 '에스테이트(Aesthete)'를 위한 가구 선택 시 고려해야 할 핵심 요소는 무엇인가요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Saatva Mattresses with 365-night trial and lifetime warranty",
+     "url": "https://cna.st/affiliate-link/3GxwCCDhdURyr611ykLn5ai7Dzy3bpkhgicL82yNGLUGJDSHMNfPjAJB9hgfbcxGjEcdtZjVbnmEQiCzEYUGkwVeYZtLoVHWCSJaCJkNe9dz8vHzN3X8N4fLadu8AZRdezH5DNBu5VziNviziqY9wgSHBGHPoQTGm5RkEonzJih9UpChqobiBJivfYnCVpdLeppLfeFyZ78uqWg62pysLeAFU2tYfJgWV2H77zWP8QsmLpwuebS8ZNVLE8PqjLdrR3LRx5vhKTL5FKeHhKJRJdQtGVejhEak9Tmsjf6ESQCqSUrzGnjnSZGVRJjreFgkfk8whXcUNKVaYTTyDFnDpGX5z5qTnk"
+    },
+    {
+     "n": 2,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "하이디 카일리어의 샌프란시스코 자택, 빅토리아풍 주택에 더한 강렬한 색채와 패턴",
+     "url": "https://www.architecturaldigest.com/story/heidi-caillier-returns-to-san-francisco-and-makes-a-victorian-her-forever-home"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "공간에 텍스처를 더하는 10가지 홈 데코 쿠션 브랜드",
+     "url": "https://www.architecturaldigest.com/story/best-throw-pillows"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "AIA 동남아시아 2026 가을 심포지엄: 자동화 시대의 재생적 설계",
+     "url": "https://www.archdaily.com/1186304/aia-southeast-asia-fall-symposium-2026-designing-for-resilience-regenerative-thinking-in-an-automated-age"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "chars": 3325
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "artforum.com/news/no-russian-venice-architecture-biennale-1234763974": {
+  "title_ko": "유럽 10개국, 베니스 건축 비엔날레 러시아 배제 공식 요구",
+  "summary_ko": "폴란드를 비롯한 유럽연합 10개국이 유럽집행위원회에 서한을 보내 2027년 베니스 건축 비엔날레에서 러시아의 참여를 금지할 것을 촉구했다. 이들은 러시아의 문화 예술계 참여가 우크라이나에서의 행동을 정당화하고 정상화하는 것으로 이어진다고 주장한다. 비엔날레 측은 아직 러시아 참여 여부에 대한 공식 입장을 밝히지 않았다.",
+  "lens": "국가관 제도가 외교적 갈등의 전장이 되어 예술과 정치의 물리적 경계를 시험한다.",
+  "why_now": "유럽연합이 러시아에 대한 제22차 제재 패키지를 준비하고 문화 장관 회의를 앞둔 시점에서, 국제 문화 행사가 외교적 압박의 수단으로 직접 활용되고 있다.",
+  "mechanism": "외교 문서와 재정적 압박이라는 제도적 수단을 통해 전시 공간의 물리적 진입 자체를 원천 차단하는 방식을 취한다.",
+  "sensory": "국가관 파빌리온이라는 고정된 물리적 건축물 주변에서 벌어지는 외교적 대치와 침묵의 긴장감.",
+  "transfer": "국가 간의 보이지 않는 장벽과 외교적 금지선을 공간 기획이나 세트 디자인의 서사적 배경으로 차용한다.",
+  "context": "베니스 비엔날레는 카스텔로 자르디니에 30여 개의 영구 국가관을 보유하며 오랜 역사 동안 국가 간 문화 외교의 각축장이 되어 왔다. 과거 러시아의 참여를 두고 유럽연합 집행위원회가 보조금을 철회했음에도 비엔날레 측은 검열 반대 입장을 고수한 바 있다.",
+  "findings": [],
+  "keywords": [
+   "베니스비엔날레",
+   "국가관",
+   "문화검열",
+   "유럽연합",
+   "건축전시"
+  ],
+  "evidence": "Ten countries in the European Union have urged the European Commission to keep Russia out of Venice’s 2027 architecture biennale.",
+  "kind": "뉴스·이슈",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "국가관 제도를 둘러싼 외교적 갈등과 제도적 압박을 다루나 구체적인 건축적 공간 내부의 기획보다는 행정적 이슈에 집중한다.",
+  "v": 2,
+  "url": "https://www.artforum.com/news/no-russian-venice-architecture-biennale-1234763974/",
+  "original_title": "European Countries Demand Russia’s Exclusion from Venice Architecture Biennale",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 1861,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-21 11:19",
+  "research": {
+   "entities": [
+    "Venice Biennale",
+    "Pussy Riot",
+    "FEMEN",
+    "European Commission"
+   ],
+   "questions": [
+    "유럽연합(EU) 일부 국가들이 베니스 비엔날레에서 러시아의 배제를 요구한 구체적인 외교적 배경은 무엇인가?",
+    "과거 베니스 비엔날레는 예술과 문화의 검열 반대 입장을 밝혔는데, 이번 회원국들의 요구에 대해 어떤 공식 입장을 취할 예정인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Venice Biennale",
+     "url": "https://en.wikipedia.org/wiki/Venice%20Biennale"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Pussy Riot",
+     "url": "https://en.wikipedia.org/wiki/Pussy%20Riot"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "브루어 빌딩과 아모리 쇼가 드러낸 뉴욕 아트페어의 풍경",
+     "url": "https://hyperallergic.com/should-you-sit-out-the-armory-show/"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "소리의 정치를 체화하는 폴란드 파빌리온의 감각적 번역",
+     "url": "https://hyperallergic.com/the-polish-pavilion-dissolves-you-in-the-politics-of-sound/"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "베니스 비엔날레 국가관, 정치적 상징인가 전시의 스펙터클인가",
+     "url": "https://hyperallergic.com/the-worst-national-pavilions-at-the-venice-biennale/"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 3357
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "architecturaldigest.com/story/ginger-rogers-at-home-photos-golden-age-icon": {
+  "title_ko": "진저 로저스의 길크레스트 드라이브: 사교와 휴식을 설계한 할리우드의 농가",
+  "summary_ko": "할리우드 황금기 아이콘 진저 로저스는 베벌리힐스 길크레스트 드라이브에 2.75에이커 규모의 프랑스 농가풍 저택을 직접 구축했다. 그는 이 공간에 테니스 코트, 소다 분수, 영화 감상용 프로젝션 룸을 배치하여 일과 삶을 잇는 사적인 사교 거점으로 활용했다.",
+  "lens": "화려한 무대 뒤, 로저스는 테니스 코트와 소다 분수라는 지극히 일상적인 장치를 통해 스타의 공적 자아와 개인의 휴식을 정교하게 조율했다.",
+  "why_now": "배우의 사적 공간이 단순한 주거를 넘어 창작의 영감과 사회적 관계를 맺는 물리적 플랫폼으로 기능하는 방식이 다시 주목받는다.",
+  "mechanism": "프랑스 농가 스타일의 개방적인 구조에 8그루의 월계수 나무로 둘러싸인 테니스 코트를 배치하여, 운동과 사교가 자연스럽게 흐르는 동선을 구현했다.",
+  "sensory": "오후 햇살이 비치는 테니스 코트의 파란 타일, 갓 구운 바비큐의 향, 그리고 앤트워프 산 후추나무 아래의 서늘한 그늘이 공존하는 감각적 풍경이다.",
+  "transfer": "콘티 작업 시, 인물의 일상적 습관(테니스, 소다 제조)을 반영한 공간 요소를 배치하여 캐릭터의 내면을 시각화하는 장치로 활용할 수 있다.",
+  "context": "진저 로저스는 1930년대 프레드 아스테어와의 파트너십으로 할리우드 뮤지컬 영화의 정점을 이끌었다. 과거 해리슨 포드가 목수로서 직접 공간을 구축하며 자아를 지탱했듯, 로저스 역시 자신의 주거지를 직접 설계하고 가꾸며 배우라는 직업 너머의 삶을 설계했다.",
+  "findings": [],
+  "keywords": [
+   "진저 로저스",
+   "베벌리힐스",
+   "주거 설계",
+   "할리우드 사교",
+   "공간 리노베이션"
+  ],
+  "evidence": "It had everything I wanted or needed in a house: swimming pool, tennis court, projection room, and my very own soda fountain.",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "배우의 사적 주거가 사교와 창작의 공간으로 기능하는 구체적인 설계 장치와 철학을 상세히 다루고 있다.",
+  "v": 2,
+  "url": "https://www.architecturaldigest.com/story/ginger-rogers-at-home-photos-golden-age-icon",
+  "original_title": "Ginger Rogers at Home: 10 Photos of the Golden Age Icon’s Glamorous SoCal Life",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 8842,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-21 11:19",
+  "research": {
+   "entities": [
+    "Ginger Rogers",
+    "Fred Astaire",
+    "Sabrina Carpenter",
+    "Tom Holland",
+    "Architectural Digest"
+   ],
+   "questions": [
+    "진저 로저스가 베벌리힐스 길크레스트 드라이브 자택을 설계하고 건축할 때 가장 중요하게 생각했던 주거 철학은 무엇인가요?",
+    "진저 로저스의 자택이 당시 할리우드 사교계와 테니스 선수들에게 어떤 문화적 공간으로 기능했나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Margaret Qualley and Sabrina Carpenter Join Tom Holland in Fred Astaire Biopic as Adele As",
+     "url": "https://variety.com/2026/film/news/margaret-qualley-sabrina-carpenter-tom-holland-fred-astaire-biopic-1236850613/"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "From the Archives: Movie Great Ginger Rogers Dies at 83",
+     "url": "https://www.latimes.com/local/obituaries/la-me-ginger-rogers-19950426-story.html"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Ginger Rogers",
+     "url": "https://en.wikipedia.org/wiki/Ginger%20Rogers"
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "Fred Astaire",
+     "url": "https://en.wikipedia.org/wiki/Fred%20Astaire"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "코트를 떠난 챔피언의 공간, 세레나 윌리엄스의 주거 포트폴리오",
+     "url": "https://www.architecturaldigest.com/story/where-does-serena-williams-live"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "지속 가능한 주거 리노베이션을 위한 세 가지 건축적 전략",
+     "url": "https://www.architecturaldigest.com/story/the-ideas-defining-home-renovations-today-according-to-top-architects"
+    },
+    {
+     "n": 7,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "목수였던 배우 해리슨 포드, 그가 직접 지은 집과 가구의 기록",
+     "url": "https://www.architecturaldigest.com/story/harrison-ford-at-home-photos-of-the-hollywood-heartthrobs-life-off-set"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 8852
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "design-milk.com/candelabra-palaver-piscina": {
+  "title_ko": "브루클린 피시나 갤러리, 80인의 작가가 재해석한 촛대 전",
+  "summary_ko": "미국 뉴욕 브루클린 레드훅의 갤러리 피시나(Piscina)에서 80여 명의 작가가 참여한 단체전 '캔들라브라 팔라버(Candelabra Palaver)'가 열렸다. 촛대를 고정한다는 단순한 기능 외에 재료와 형태에 제한을 두지 않고, 작가 개개인의 조형적 실험을 담아낸 오브젝트들을 선보인다.",
+  "lens": "하나의 기능적 요구 조건에서 출발해 재료와 형태의 실험을 극단까지 밀어붙인다.",
+  "why_now": "디자인과 공예의 경계에서 일상적인 사물의 물성을 새롭게 탐구하는 컬렉터블 디자인의 흐름을 보여준다.",
+  "mechanism": "촛대를 지탱하는 기본 구조만 남긴 채, 각 스튜디오가 지닌 고유의 물성과 조형 언어를 더해 완전히 다른 형태의 조각으로 확장한다.",
+  "sensory": "금속, 석재, 세라믹 등 다양한 재료가 지닌 질감의 차이가 촛불의 빛과 만나 공간 안에 깊은 그림자를 드리운다.",
+  "transfer": "소품이나 가구를 활용해 공간의 축을 잡는 장면을 연출할 때, 단순한 기능품을 넘어 조형적 중심을 잡아주는 오브젝트로 배치한다.",
+  "context": "2013년 아티스트이자 가구 디자이너인 내털리 훅(Natalie Shook)이 설립한 피시나는 협동조합 스튜디오에서 컨템퍼러리 컬렉터블 디자인 갤러리로 진화했다. 올해 초 전용 갤러리 공간을 확장하며 독립 작가들을 위한 플랫폼을 강화하고 있다.",
+  "findings": [],
+  "keywords": [
+   "컬렉터블디자인",
+   "브루클린",
+   "오브젝트",
+   "공예"
+  ],
+  "evidence": "At Piscina, a contemporary collectible design gallery in Brooklyn’s Red Hook neighborhood, approximately 80 artists and designers have taken that freedom to heart, creating their own interpretations of the everyday object for a new group exhibition.",
+  "kind": "전시",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "오픈 콜을 통한 80인 작가의 다양한 촛대 해석을 다룬 전형적인 갤러리 전시 소개 기사다.",
+  "v": 2,
+  "url": "https://design-milk.com/candelabra-palaver-piscina/",
+  "original_title": "A Brooklyn Exhibition Rethinks the Art of the Candleholder",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 5779,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-21 11:19",
+  "research": {
+   "entities": [
+    "Fort Standard",
+    "Kin & Company",
+    "Office of Tangible Spaces",
+    "Sophie Collé",
+    "Fitzhugh Karol"
+   ],
+   "questions": [
+    "브루클린의 갤러리 피시나(Piscina)에서 열린 'Candelabra Palaver' 전시는 어떤 배경과 기획 의도로 개최되었는가?",
+    "참여 작가들은 촛대(Candleholder)라는 일상적인 오브젝트를 어떻게 조형적, 재료적 측면에서 새롭게 해석했는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Piscina",
+     "url": "https://piscinapiscina.com/"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Fort Standard Studio",
+     "url": "https://fortstandard.com/"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "조명이 공간을 이끄는 뉴욕 브루클린의 타운하우스 인테리어",
+     "url": "https://leibal.com/interiors/clinton-hill-residence/"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 1927
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "architecturaldigest.com/story/stylish-airbnbs-in-miami": {
+  "title_ko": "마이애미의 지형과 시간을 점유하는 여덟 가지 주거 방식",
+  "summary_ko": "마이애미는 아르데코와 스페인-지중해 부흥 양식이 혼재된 도시로, 예술과 디자인이 일상에 깊숙이 침투해 있다. 비즈카야 박물관과 디어링 에스테이트 등 역사적 유산을 간직한 건축물부터 척박한 지형을 활용한 현대적 주거까지, 도시의 기후와 문화를 반영한 공간들이 여행자의 머무름을 제안한다. 이번 리스트는 마이애미의 고유한 공간적 맥락을 경험할 수 있는 여덟 곳의 숙소를 조명한다.",
+  "lens": "마이애미의 주거는 습한 기후와 강렬한 빛을 다루기 위해 석재와 목재, 개방형 구조를 선택하며 지형에 순응하는 태도를 보인다.",
+  "why_now": "디자인 마이애미와 아트 바젤 등 대규모 예술 행사가 열리는 마이애미에서, 공간의 물리적 조건이 어떻게 감각적 휴식을 만드는지 확인하는 것은 중요하다.",
+  "mechanism": "추쿰(Chukum) 석고 벽과 콘크리트 욕조는 외부의 열기를 차단하고 내부의 서늘한 물성을 유지하며, 대형 창호는 외부 정원을 실내의 일부로 끌어들인다.",
+  "sensory": "거친 질감의 석재, 15피트 높이의 천장이 만드는 공기의 흐름, 그리고 야외 콘크리트 욕조에서 느껴지는 밤공기의 무게가 공간의 핵심이다.",
+  "transfer": "콘티 작업 시, 야외 정원을 실내 거실의 확장으로 연출하는 수평적 동선과, 노출 콘크리트와 목재를 교차시켜 빛의 반사를 제어하는 조명 설계를 적용한다.",
+  "context": "비즈카야 박물관은 이탈리아 르네상스 양식과 지중해 부흥 양식을 결합한 20세기 초 건축물로, 마이애미 건축 유산의 원형을 보존하고 있다. 디어링 에스테이트는 1만 년의 인류 역사를 간직한 복합 문화 공간으로, 마이애미의 생태적 지형과 건축적 유산을 잇는 거점 역할을 한다.",
+  "findings": [
+   {
+    "text": "비즈카야 박물관은 이탈리아 르네상스 모델을 참조한 지중해 부흥 양식으로 설계되었다.",
+    "s": 3,
+    "quote": "The landscape and architecture were influenced by Veneto and Tuscan Italian Renaissance models and designed in the Mediterranean Revival architecture style, with Baroque elements."
+   },
+   {
+    "text": "디어링 에스테이트는 1만 년의 인간 역사를 담고 있으며 마이애미-데이드 카운티의 유산 공원으로 지정되었다.",
+    "s": 2,
+    "quote": "Deering Estate is a historic landmark in Miami featuring diverse ecosystems and hosting 10,000 years of human history."
+   },
+   {
+    "text": "코럴 게이블스 박물관은 1939년에 완공된 구 경찰 및 소방서 건물을 보존하여 재탄생했다.",
+    "s": 4,
+    "quote": "Completed in 1939 as a Works Progress Administration project, it was designed by Phineas Paist. In 2003, steps were taken to preserve the building and its legacy and by 2011, it was reopened to the public as the Coral Ga"
+   }
+  ],
+  "keywords": [
+   "지중해부흥양식",
+   "아르데코",
+   "추쿰석고",
+   "공간유산",
+   "마이애미건축"
+  ],
+  "evidence": "Miami is a hotbed for avant-garde fashion, design, and art",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "마이애미의 특정 건축 양식과 숙박 공간의 재료적 특성을 연결했으나, 리스트 형식의 정보를 재구성한 수준에 머무름.",
+  "v": 2,
+  "url": "https://www.architecturaldigest.com/story/stylish-airbnbs-in-miami",
+  "original_title": "8 Best Miami Airbnbs to Get You in the Vacation Mindset (2026)",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 7091,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-21 11:20",
+  "research": {
+   "entities": [
+    "Vizcaya Museum and Gardens",
+    "Deering Estate",
+    "Coral Gables Museum",
+    "ArtecHouse",
+    "Gianni Versace"
+   ],
+   "questions": [
+    "마이애미의 건축 양식인 '스페인-지중해 부흥 양식'과 '아르데코'의 주요 특징은 무엇인가요?",
+    "마이애미의 디자인 및 예술 문화가 도시의 관광 산업과 어떻게 연결되어 있나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Vizcaya Museum and Gardens | Historic Miami Landmark & Gardens",
+     "url": "https://cna.st/affiliate-link/s7txNnToSWByrMd2kqwDJ4yCtmbkMLtpxrL9qzRw4vcexbWXumR2qpTdHMU5YMotW1NTiDSF196sfUAtyexr5US3PgRTndLG5GpLxvsPNco9hXjZ1XWZ9Ae9m3LPahR6iCM6Mynx9fPAwThchjQq27YciZg8gvZaDzypf5G2qTahmwteUggyZE2LfmsptcC1sgWJEWMtD3HKe3LyBv4Z63GiA7jvgrDQFpksmjKW3hSCbgQGag7XXiNb5d1iDE7ZhEowJ94dGGaPJ3CjLfwy3XLnwfhVojx6W7rnpyVnQ5XNMYnTs4Dr4nF"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Museum, Event Venue, & Historic Estate in Miami, FL | Deering Estate",
+     "url": "https://cna.st/affiliate-link/2uABbRt8VjLG9Z9eEN7LvCCjd8cHZVa4BDSLE1wByre8xCccEKBBLiANPN7vzrdog2oenjxd1DbDZbeMNNT41fULNDRjQvUfDHxt88a8ybhVKhae2T8MEXVKkECG8PwKDDMbPVv2KyscrkX5BaEvJ2m1PNrTQGNnsgAGzXN5sexMsaG7wWZT3EYNQKySreGFBF2R4LEsBB8gME78SVHkF8VSSY9n4S4rCmHPxZQKdEur48busBz5Yh6fDYFMfvUtfcQmp7EdhvPyxXH1zRJq85FdxAKPNFkoPv8ynwEhhqiQ9TKbcyj3ppUmQkSRNwdD"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Vizcaya Museum and Gardens",
+     "url": "https://en.wikipedia.org/wiki/Vizcaya%20Museum%20and%20Gardens"
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "Coral Gables Police and Fire Station",
+     "url": "https://en.wikipedia.org/wiki/Coral%20Gables%20Police%20and%20Fire%20Station"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "chars": 6576
+  },
+  "depth_raw": 3,
+  "depth_v": 2
  }
 }
