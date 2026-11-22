@@ -374986,5 +374986,99 @@
   },
   "depth_raw": 4,
   "depth_v": 2
+ },
+ "archdaily.com/1188548/strata-house-vpa-architects": {
+  "title_ko": "인도 아메다바드의 층층이 쌓인 차양, 스트라타 하우스",
+  "summary_ko": "인도 아메다바드에 위치한 스트라타 하우스(Strata House)는 기후 순응을 핵심 설계 전략으로 삼아 완공되었다. 브이피에이 아키텍츠(VPA Architects)는 남향 대지의 강한 일사를 차단하기 위해 깊은 오버헤드 프로젝션을 파사드 전면에 배치했다. 외벽은 현지에서 채석한 괄리오르 민트 사암으로 마감하여 지역적 물성을 드러냈다.",
+  "lens": "강한 일사를 물리적 차양 장치로 걸러내어, 빛과 그림자의 대비만으로 실내의 정적인 분위기를 구축한다.",
+  "why_now": "기후 위기 속에서 수동적 냉방 설계가 단순한 기술적 대응을 넘어 공간의 미학적 정체성을 결정짓는 핵심 요소로 부상하고 있다.",
+  "mechanism": "남향 파사드에 돌출된 슬래브를 층층이 배치하여 직사광선을 차단하고, 서측으로 매스를 확장해 정원과 베란다에 자연스러운 음영을 드리운다.",
+  "sensory": "괄리오르 민트 사암 특유의 녹회색 빛깔이 표면을 감싸며, 얇고 매끄러운 슬래브가 만드는 수평적 그림자가 공간의 무게감을 낮춘다.",
+  "transfer": "강렬한 조명을 직접 사용하는 대신, 깊은 처마와 차양 구조물로 빛을 분절하여 실내에 부드럽고 긴 그림자를 연출하는 콘티를 제안한다.",
+  "context": "아메다바드의 주거 프로젝트들은 대규모 매스를 파편화하거나 유기적으로 연결하여 기후에 대응하는 경향이 있다. 이는 과거 인도 지역 프로젝트들에서 보여준 재료의 지역성 활용과 맥을 같이 한다.",
+  "findings": [
+   {
+    "text": "한스그로헤는 1901년 독일 슐타흐에서 설립된 위생 설비 제조 기업이다.",
+    "s": 1,
+    "quote": "Hansgrohe SE is a German plumbing materials and sanitary fittings manufacturer. It was founded by Hans Grohe in 1901, in Schiltach, Baden-Württemberg, Germany."
+   },
+   {
+    "text": "생고뱅은 1665년 파리에서 거울 제조사로 시작한 다국적 기업이다.",
+    "s": 2,
+    "quote": "Compagnie de Saint-Gobain S.A. (French pronunciation: [sɛ̃ ɡɔbɛ̃]) is a French multinational corporation, founded in 1665 in Paris as the Manufacture royale de glaces de miroirs"
+   }
+  ],
+  "keywords": [
+   "기후순응",
+   "오버헤드프로젝션",
+   "괄리오르민트사암",
+   "수동냉방"
+  ],
+  "evidence": "designing around the climate to make light and shadows its most eloquent architectural gesture.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "기후 대응을 위한 건축적 장치가 명확하지만, 재료와 구조의 결합 방식에 대한 상세한 기술 정보가 다소 제한적이다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1188548/strata-house-vpa-architects",
+  "original_title": "Strata House / VPA Architects",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 2034,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-22 12:31",
+  "research": {
+   "entities": [
+    "VPA Architects",
+    "Inclined Studio",
+    "Ronak Patel",
+    "Hansgrohe",
+    "Saint Gobain India"
+   ],
+   "questions": [
+    "인도의 기후 특성을 고려하여 Strata House에 적용된 차양 및 냉방 설계 전략은 무엇인가?",
+    "건축물 외장에 사용된 Gwalior Mint 사암은 지역적 맥락과 미적 완성도에 어떤 영향을 미쳤는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Hansgrohe",
+     "url": "https://en.wikipedia.org/wiki/Hansgrohe"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Saint-Gobain",
+     "url": "https://en.wikipedia.org/wiki/Saint-Gobain"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "밀집된 상업 지구의 침묵: 닷봇 스튜디오의 벽돌 소매점",
+     "url": "https://www.archdaily.com/1185580/brick-on-sticks-retail-store"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "인도 아메다바드의 링크 하우스: 대규모 주거 공간의 유기적 연결",
+     "url": "https://www.archdaily.com/1010840/link-house-openideas-architects"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "카리브해의 지형을 담는 법, 툴룸의 카사 잠나",
+     "url": "https://www.archdaily.com/1022043/hotel-casa-zamna-tulum-studio-arquitectos"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    4
+   ],
+   "chars": 1702
+  },
+  "depth_raw": 3,
+  "depth_v": 2
  }
 }
