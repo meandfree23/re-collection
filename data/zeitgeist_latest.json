@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-23 00:17 KST",
+  "generated_at": "2026-11-23 01:15 KST",
   "period": "2026.11.16 - 2026.11.23",
-  "total_articles": 540,
+  "total_articles": 541,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
@@ -9,7 +9,7 @@
     },
     {
       "genre": "동시대 미술",
-      "count": 170
+      "count": 171
     },
     {
       "genre": "미디어 파사드·3D",
@@ -86,6 +86,38 @@
       ]
     },
     {
+      "keyword": "사진",
+      "count": 17,
+      "previous_count": 13,
+      "trend": "rising",
+      "items": [
+        {
+          "title": "압박감을 느끼며 일하는 것에 대한 새첼 리(Satchel Lee)의 생각",
+          "url": "https://elephant.art/satchel-lee-on-working-under-pressure/",
+          "image_url": "https://elephant.art/wp-content/uploads/2026/11/DSCF2843.jpeg",
+          "source_name": "Elephant"
+        },
+        {
+          "title": "아프리카의 활기찬 거리 사진이 새로운 Thames & Hudson의 책 주제가 되었습니다.",
+          "url": "https://www.wallpaper.com/art/photography/street-photography-africa-photo-book-review",
+          "image_url": "https://cdn.mos.cms.futurecdn.net/fYHocHzEoQD9zPXEyv4yGU-1920-80.png",
+          "source_name": "Wallpaper*"
+        },
+        {
+          "title": "다음 프로젝트에 예약할 수 있는 AD 승인 인테리어 사진작가",
+          "url": "https://www.architecturaldigest.com/story/50-ad-approved-photographers",
+          "image_url": "https://media.architecturaldigest.com/photos/6afc981962312feba5cc576d/master/pass/___AD0626_FRIEDMAN_21%20copy.jpg",
+          "source_name": "Architectural Digest"
+        },
+        {
+          "title": "다음 인테리어 디자인 프로젝트에 고용할 만한 미국 남서부 지역의 인테리어 사진작가 9명",
+          "url": "https://www.architecturaldigest.com/story/interior-photographers-in-the-southwest",
+          "image_url": "https://media.architecturaldigest.com/photos/6afdfedb7b2adeda65ee6477/master/pass/___02-YondMartin2025%20-%20Inquiries%20Mabey.jpg",
+          "source_name": "Architectural Digest"
+        }
+      ]
+    },
+    {
       "keyword": "목재 건축",
       "count": 17,
       "previous_count": 13,
@@ -114,38 +146,6 @@
           "url": "https://www.archdaily.com/1188996/big-unveils-timber-mixed-use-development-for-new-siegenthalergut-district-in-switzerland",
           "image_url": "https://images.adsttc.com/media/images/6b00/21f8/c23f/1f6a/4351/6bc9/large_jpg/big-unveils-timber-mixed-use-development-for-new-siegenthalergut-district-in-switzerland_3.jpg?1795170825",
           "source_name": "ArchDaily"
-        }
-      ]
-    },
-    {
-      "keyword": "사진",
-      "count": 16,
-      "previous_count": 13,
-      "trend": "rising",
-      "items": [
-        {
-          "title": "아프리카의 활기찬 거리 사진이 새로운 Thames & Hudson의 책 주제가 되었습니다.",
-          "url": "https://www.wallpaper.com/art/photography/street-photography-africa-photo-book-review",
-          "image_url": "https://cdn.mos.cms.futurecdn.net/fYHocHzEoQD9zPXEyv4yGU-1920-80.png",
-          "source_name": "Wallpaper*"
-        },
-        {
-          "title": "다음 프로젝트에 예약할 수 있는 AD 승인 인테리어 사진작가",
-          "url": "https://www.architecturaldigest.com/story/50-ad-approved-photographers",
-          "image_url": "https://media.architecturaldigest.com/photos/6afc981962312feba5cc576d/master/pass/___AD0626_FRIEDMAN_21%20copy.jpg",
-          "source_name": "Architectural Digest"
-        },
-        {
-          "title": "다음 인테리어 디자인 프로젝트에 고용할 만한 미국 남서부 지역의 인테리어 사진작가 9명",
-          "url": "https://www.architecturaldigest.com/story/interior-photographers-in-the-southwest",
-          "image_url": "https://media.architecturaldigest.com/photos/6afdfedb7b2adeda65ee6477/master/pass/___02-YondMartin2025%20-%20Inquiries%20Mabey.jpg",
-          "source_name": "Architectural Digest"
-        },
-        {
-          "title": "해외 프로젝트에 적합한 AD 인증 국제 인테리어 사진작가 45명",
-          "url": "https://www.architecturaldigest.com/story/40-ad-approved-international-interior-photographers",
-          "image_url": "https://media.architecturaldigest.com/photos/66844263532726c05422156d/master/pass/Nicolas%20Mathe%CC%81us-G19_4408.jpg",
-          "source_name": "Architectural Digest"
         }
       ]
     },

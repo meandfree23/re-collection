@@ -375949,5 +375949,78 @@
   },
   "depth_raw": 4,
   "depth_v": 2
+ },
+ "elephant.art/satchel-lee-on-working-under-pressure": {
+  "title_ko": "마감의 압박과 일상의 수집: 새첼 리가 구축하는 작업의 궤적",
+  "summary_ko": "사진작가이자 영화감독인 새첼 리는 뉴욕 아파트에서의 작업 과정과 마감의 압박이 지닌 창의적 효용에 대해 이야기한다. 휴스턴 프리드먼스 타운의 역사와 건축을 다룬 첫 개인전과 함께, 삶의 루틴과 예술 실천을 연결하는 방식을 전한다.",
+  "lens": "마감이라는 물리적 단두대 아래에서 생각의 여지를 지우고 작업의 실체를 강제한다.",
+  "why_now": "디지털 피로와 번아웃이 만연한 창작 환경에서, 일상적 루틴을 예술적 자원으로 치환하는 태도는 실질적인 대안이 된다.",
+  "mechanism": "하루 일만 보를 걸으며 도시를 관찰하고, 촬영한 필름을 며칠간 격리했다가 검토하는 방식으로 자기 검열의 간극을 조율한다.",
+  "sensory": "16mm 필름의 입자와 허공을 떠도는 도시의 소음, 텍사스 휴스턴의 역사적 건축물에 스민 묵직한 시간의 결이 화면에 남는다.",
+  "transfer": "마감 직전의 긴장감을 연출하기 위해 카메라 앵글을 고정하고 컷 전환을 최소화하여 인물의 호흡을 압박하는 롱테이크 샷에 적용한다.",
+  "context": "새첼 리는 뉴욕대학교(New York University) 티스 예술대학을 졸업하고 시카고 예술대학(School of the Art Institute of Chicago)에서 수학했으며, 마서스비니어드의 롱 갤러리에서 작업을 선보였다.",
+  "findings": [],
+  "keywords": [
+   "새첼 리",
+   "영화감독",
+   "창의적 압박",
+   "아카이브",
+   "도시 관찰"
+  ],
+  "evidence": "I work well under the threat of an impending deadline",
+  "kind": "작가·인터뷰",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "작가 인터뷰를 통해 창작 과정과 일상 루틴의 구조를 구체적으로 드러내지만 작품 자체의 물리적 구현 과정은 제한적으로 다뤄진다.",
+  "v": 2,
+  "url": "https://elephant.art/satchel-lee-on-working-under-pressure/",
+  "original_title": "Satchel Lee On Working Under Pressure",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 5762,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-23 01:16",
+  "research": {
+   "entities": [
+    "Satchel Lee",
+    "NYU Tisch School of the Arts",
+    "School of the Art Institute of Chicago",
+    "Silver Arts Project"
+   ],
+   "questions": [
+    "Satchel Lee가 언급한 'Silver Arts Project'는 어떤 성격의 예술가 지원 프로그램인가요?",
+    "Satchel Lee의 예술적 작업 방식에서 '마감 기한'과 '창의적 압박'이 구체적으로 어떤 역할을 하나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "New York University Tisch School of the Arts",
+     "url": "https://en.wikipedia.org/wiki/New%20York%20University%20Tisch%20School%20of%20the%20Arts"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "School of the Art Institute of Chicago",
+     "url": "https://en.wikipedia.org/wiki/School%20of%20the%20Art%20Institute%20of%20Chicago"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "헤수스 힐라리오-레예스의 클럽과 스튜디오: 재난의 언어로 구축한 집단적 신체성",
+     "url": "https://elephant.art/jesus-hilario-reyes-on-freakability-techno-and-collective-embodiment/"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "시카고 예술대학 대학원 과정 모집 및 동시대 미술 현장의 주요 전시",
+     "url": "https://hyperallergic.com/school-of-the-art-institute-of-chicagos-graduate-programs-and-deadlines/"
+    }
+   ],
+   "used": [],
+   "chars": 3474
+  },
+  "depth_raw": 3,
+  "depth_v": 2
  }
 }
