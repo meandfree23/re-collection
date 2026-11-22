@@ -376022,5 +376022,394 @@
   },
   "depth_raw": 3,
   "depth_v": 2
+ },
+ "archdaily.com/1036139/sede-ser-headquarters-atelier-77": {
+  "title_ko": "브라질 산타크루즈의 교육 공간, 세르 시다당 본부 증축",
+  "summary_ko": "브라질 리우데자네이루 산타크루즈에 위치한 세르 시다당 본부 증축 프로젝트는 아틀리에 77이 설계를 맡아 2024년 완공되었다. 2002년부터 교육과 문화, 보건 활동을 이어온 이 조직은 2006년 기부받은 역사적 저택의 유산을 바탕으로 지역사회와 청소년을 위한 환대와 교육의 장을 구현했다.",
+  "lens": "역사적 저택의 유산과 신축 건축을 결합해 사회적 조직의 가치를 물리적 공간으로 번역한 사례다.",
+  "why_now": "공공 건축이 단순한 기능 수행을 넘어 지역사회의 기억을 보존하고 미래 세대를 위한 교육적 플랫폼으로 진화하는 방식을 보여준다.",
+  "mechanism": "역사적 저택의 구조적 맥락을 유지하면서 증축을 통해 새로운 동선과 기능을 얹어 시간의 레이어를 형성했다.",
+  "sensory": "철강과 석고보드 등 현대적 재료의 명확한 물성을 바탕으로, 리우데자네이루의 강렬한 빛이 공간 내부로 스며들며 형성되는 그림자의 대비가 특징이다.",
+  "transfer": "역사적 건축물의 벽체나 기초를 신축 구조의 지지대로 활용하는 방식은 공간의 서사를 강화하는 연출 장치로 유효하다.",
+  "context": "아틀리에 77은 이전 작업에서도 200년 된 석축 옹벽을 신축 건물의 구조적 지지대로 삼아 과거와 현재를 잇는 공간을 설계한 바 있다. 이번 프로젝트 역시 기존 저택의 역사적 가치를 보존하며 현대적 교육 공간으로 확장하는 데 집중했다.",
+  "findings": [
+   {
+    "text": "아틀리에 77은 과거 리우데자네이루의 석축 옹벽을 신축 건축의 구조적 지지대로 활용한 경험이 있다.",
+    "s": 3,
+    "quote": "200여 년 전에 축조된 석조 옹벽으로 둘러싸인 플랫폼 위에 건물을 올려, 기존의 묵직한 구조물이 신축 건축의 물리적 경계이자 구조적 지지대 역할을 담당한다."
+   }
+  ],
+  "keywords": [
+   "아틀리에77",
+   "브라질건축",
+   "공공건축",
+   "역사적재생"
+  ],
+  "evidence": "The expansion of the Ser Cidadão Headquarters in Santa Cruz, the west zone of Rio de Janeiro, embodies in architecture the commitment of a social organization to human and community development.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "사회적 조직의 공간적 실천을 보여주나, 구조적 장치에 대한 구체적인 도면 정보가 부족해 중간 점수를 부여한다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1036139/sede-ser-headquarters-atelier-77",
+  "original_title": "Sede Ser Headquarters / Atelier 77",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 2146,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-23 04:57",
+  "research": {
+   "entities": [
+    "Atelier 77",
+    "Gerdau",
+    "Gypsum"
+   ],
+   "questions": [
+    "아틀리에 77(Atelier 77)이 설계한 세르 시다당(Ser Cidadão) 본부 증축 프로젝트의 주요 건축적 특징은 무엇인가?",
+    "브라질 리우데자네이루 산타크루즈 지역에서 세르 시다당 조직이 수행해 온 사회적, 교육적 역할은 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Gerdau",
+     "url": "https://en.wikipedia.org/wiki/Gerdau"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Gypsum",
+     "url": "https://en.wikipedia.org/wiki/Gypsum"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "200년 된 석축 옹벽 위에 얹은 리오데자네이루의 재봉 아틀리에",
+     "url": "https://www.archdaily.com/1034969/sewing-atelier-studio-atelier-77-plus-materia-base"
+    }
+   ],
+   "used": [
+    3
+   ],
+   "chars": 1602
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "archdaily.com/1189024/ldn-house-erentia": {
+  "title_ko": "거리와 밀도를 조율하는 두 사람의 집, 런던 에렌티아 하우스",
+  "summary_ko": "에렌티아가 런던의 기존 주택을 두 사람의 거주 공간으로 개조했다. 삶을 공유하면서도 각자의 일상을 존중하도록 두 개의 작업실과 하나의 욕실 내 두 개의 세면대 및 샤워실을 배치했다. 근접성과 자율성의 정도를 조절하며 주거 구조를 재해석한 프로젝트다.",
+  "lens": "하나의 지붕 아래 서로 다른 밀도를 허용하는 물리적 거리두기의 건축.",
+  "why_now": "공유와 독점이라는 이분법적 주거 공식을 넘어, 관계의 자율성을 공간 구조로 번역하는 동시대적 시도다.",
+  "mechanism": "욕실이나 작업실 등 일상 영역을 분할하고 병치하여 모임과 거리두기가 모두 가능한 공간적 위계를 형성했다.",
+  "sensory": "에드먼드 섬너가 포착한 담담한 빛과 물성 속에서 각자의 리듬으로 공존하는 실내의 적막함이 느껴진다.",
+  "transfer": "공간을 완전히 분리하지 않고 동선을 교차시켜 두 인물의 심리적 거리감을 시각적으로 연출하는 롱테이크 샷에 적용한다.",
+  "context": "에렌티아의 알레한드라 에스테베가 리드 아키텍트를 맡았으며, 2026년에 영국 런던에서 완공된 적응형 재사용 프로젝트다.",
+  "findings": [],
+  "keywords": [
+   "적응형 재사용",
+   "주거 인테리어",
+   "런던",
+   "에렌티아"
+  ],
+  "evidence": "In LDN, ERENTIA transforms an existing London residence into a home for two: two people who share a life, but not necessarily all of their daily needs.",
+  "kind": "프로젝트",
+  "depth": 2,
+  "grounding": "thin",
+  "depth_reason": "구체적인 주거 개조 프로젝트이나 원문 정보가 짧아 세부적인 평면이나 재료의 물성을 파악하기에 한계가 있다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1189024/ldn-house-erentia",
+  "original_title": "LDN House / ERENTIA",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 1142,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-23 04:57",
+  "research": {
+   "entities": [
+    "ERENTIA",
+    "Alejandra Esteve",
+    "Edmund Sumner"
+   ],
+   "questions": [
+    "ERENTIA가 제안하는 '두 사람을 위한 주거 공간'의 건축적 특징은 무엇인가요?",
+    "기존 주택을 리모델링하는 Adaptive Reuse 과정에서 거주자의 자율성과 공유 공간을 어떻게 조화시켰나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "도시화의 압력 속에서 나무를 품은 인도 벵갈루루의 주거 단지",
+     "url": "https://www.archdaily.com/1187952/homes-around-trees-architecturered"
+    },
+    {
+     "n": 2,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "케레타로의 분홍빛 유산, 가변적 상업 플랫폼 로사도세",
+     "url": "https://www.dezeen.com/2026/11/15/reims-502-rosadoce/"
+    }
+   ],
+   "used": [],
+   "chars": 472
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "wallpaper.com/art/music/gta6-festival-miami-design": {
+  "title_ko": "게임 세계관의 물리적 무대화: GTA 6 마이애미 페스티벌 백스테이지",
+  "summary_ko": "락스타 게임즈의 그랜드 테프트 오토 식스 출시를 기념하여 마이애미 마나 윈우드 컨벤션 센터에서 일일 페스티벌이 개최되었다. LA 디자인 스튜디오 스터디는 단 2주 만에 게임 트레일러만을 바탕으로 라우 알레한드로와 타이니의 합동 무대를 설계했다. 이들은 게임 속 바이스 시티의 범죄적 긴장감과 색감을 무대 조명과 소품으로 번역했다.",
+  "lens": "가상의 오픈월드 비주얼을 단 2주의 제작 기한 안에 물리적 콘서트 무대로 압축해 번역한다.",
+  "why_now": "게임이라는 디지털 가상 공간의 문화적 파급력이 콘서트 스테이지와 실제 도시의 공간 설계 영역으로 직접 확장되고 있다.",
+  "mechanism": "넷플릭스의 30분 분량 게임 트레일러를 분석하여 추출한 색감과 소품을 무대 장치에 반영하고, 아티스트의 세트리스트와 실시간으로 연동되는 조명 서버를 구축했다.",
+  "sensory": "마이애미의 열기와 바이스 시티 특유의 네온 색감, 범죄 영화 같은 드라마틱한 어두운 조명이 교차하며 공간을 채운다.",
+  "transfer": "가상 공간의 레퍼런스를 실물 무대로 옮길 때 원작을 그대로 모사하는 대신 특정 질감과 색채 배합만 차용하여 공간의 긴장감을 높이는 연출에 활용한다.",
+  "context": "디자인 스튜디오 스터디는 배드 바니의 세계 투어 쇼 디자이너로 활동했으며, 락스타 게임즈는 마이애미를 배경으로 한 그랜드 테프트 오토 식스의 사운드트랙과 연계된 라이브 이벤트를 기획했다.",
+  "findings": [],
+  "keywords": [
+   "무대디자인",
+   "바이스시티",
+   "공간연출",
+   "라이브쇼"
+  ],
+  "evidence": "How to do you design a festival worthy of the most popular game of all time? We ask the designers at STURDY",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "대형 게임 출시와 연계된 무대 디자인의 제작 과정을 구체적으로 다루나 적용 범위가 공연 기획 영역으로 한정된다.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/art/music/gta6-festival-miami-design",
+  "original_title": "GTA6 The Festival just took over Miami – we meet the designers",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 9000,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-23 04:57",
+  "research": {
+   "entities": [
+    "Rockstar Games",
+    "STURDY.",
+    "Rauw Alejandro",
+    "Tainy",
+    "Grand Theft Auto VI"
+   ],
+   "questions": [
+    "STURDY.는 사전 정보가 없는 상태에서 단 2주 만에 어떻게 GTA 6 세계관을 무대 디자인으로 구현해 냈는가?",
+    "GTA 6 발매 기념 페스티벌에서 라우 알레한드로와 타이니의 합동 공연은 게임의 사운드트랙 및 비주얼과 어떻게 연출되었는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "STURDY | Home",
+     "url": "https://sturdy.co/"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Grand Theft Auto VI - PS5 Games | PlayStation",
+     "url": "https://www.prf.hn/click/camref:1100l3YB4v/pubref:wallpaper-us-9192197839054400411/destination:https%3A%2F%2Fwww.playstation.com%2Fen-gb%2Fgames%2Fgrand-theft-auto-vi%2F"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Rockstar Games",
+     "url": "https://en.wikipedia.org/wiki/Rockstar%20Games"
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "Rauw Alejandro",
+     "url": "https://en.wikipedia.org/wiki/Rauw%20Alejandro"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "신체의 해방과 시대의 어둠을 기록하는 데이즈드의 뉴 아이돌스",
+     "url": "https://www.dazeddigital.com/magazine?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=buy-dazed-magazine"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "가상에서 도로로, 락스타 게임즈가 현실에 구현한 GTA 차량들",
+     "url": "https://www.wallpaper.com/transportation/gta6-real-world-cars"
+    },
+    {
+     "n": 7,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "가상 세계로의 집단 이주, GTA 6 출시가 흔드는 노동의 풍경",
+     "url": "https://www.dazeddigital.com/life-culture/article/71349/1/meet-the-legends-booking-time-off-work-to-play-grand-theft-auto-gta-vi?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=it-s-more-fun-than-work-meet-the-people-booking-time-off-to-play-gta-vi"
+    }
+   ],
+   "used": [
+    2,
+    3,
+    4
+   ],
+   "chars": 7130
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "derivative.ca/solr/stype-chop-0": {
+  "title_ko": "실시간 카메라 트래킹의 정밀도, 스타일 인 찹을 통한 가상 환경 통합",
+  "summary_ko": "터치디자이너(TouchDesigner)의 스타일 인 찹(Stype In CHOP)은 스타일(Stype) 사의 레드스파이(RedSpy) 장치에서 전송되는 카메라 트래킹 정보를 실시간으로 수신한다. 이 데이터는 스타일 고주파(HF) 프로토콜을 통해 가상 카메라의 위치, 회전, 초점 거리, 렌즈 왜곡 값을 정밀하게 제어하여 실사와 가상 환경을 동기화한다.",
+  "lens": "카메라의 물리적 움직임을 디지털 좌표로 즉각 변환하여, 실시간 가상 프로덕션에서 발생하는 시점 불일치를 제거하는 정밀한 연결 장치다.",
+  "why_now": "실시간 엔진을 활용한 가상 프로덕션이 보편화됨에 따라, 물리적 카메라의 미세한 움직임을 가상 공간에 오차 없이 투영하는 트래킹 데이터의 정밀도가 제작의 질을 결정짓는다.",
+  "mechanism": "스타일 HF 프로토콜을 통해 수신된 위치(tx, ty, tz)와 회전(rx, ry, rz) 데이터는 카메라 컴포넌트(Camera COMP)의 변환 매개변수에 직접 연결되어 가상 카메라를 구동한다. 렌즈 왜곡 매개변수(k1, k2)와 센서 정보는 스타일 톱(Stype TOP)으로 전달되어 실시간 렌즈 보정을 수행한다.",
+  "sensory": "카메라 줌과 초점 거리가 실시간으로 연동되어, 가상 공간 내 심도 변화가 실제 렌즈의 물리적 반응과 동일한 속도로 전개된다.",
+  "transfer": "현장 촬영 시 레드스파이 센서가 감지한 카메라의 흔들림이나 줌 데이터를 인포 찹(Info CHOP)으로 모니터링하여 데이터 유실을 방지하고, 이를 가상 카메라의 노이즈 값으로 역이용해 현장감 있는 핸드헬드 샷을 구현한다.",
+  "context": "스타일 사는 2022년 에미상 기술 부문을 수상하며 가상 및 혼합 현실 카메라 트래킹 기술의 표준을 제시했다. 터치디자이너는 이러한 외부 하드웨어 데이터를 노드 기반으로 처리하는 시각 프로그래밍 환경을 제공하며, 과거 클럽의 몽롱한 잔상을 로토스코핑으로 재해석한 엘리 캠벨의 작업처럼 디지털 영상의 물리적 질감을 다루는 도구로 활용되어 왔다.",
+  "findings": [
+   {
+    "text": "스타일 사는 2022년 카메라 트래킹 기술인 스타일킷과 레드스파이로 에미상을 수상했다.",
+    "s": 1,
+    "quote": "Our innovative solutions have been recognized with the prestigious Engineering, Science & Technology Emmy Award in 2022, for our cutting-edge camera tracking technologies, StypeKit and RedSpy."
+   }
+  ],
+  "keywords": [
+   "가상 프로덕션",
+   "카메라 트래킹",
+   "터치디자이너",
+   "실시간 엔진"
+  ],
+  "evidence": "The Stype CHOP reads camera tracking information sent from a Stype (RedSpy) device using the Stype HF protocol.",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "전문적인 가상 프로덕션 워크플로우를 위한 하드웨어 연동 기술을 구체적으로 설명하고 있어 실무적 가치가 높다.",
+  "v": 2,
+  "url": "https://derivative.ca/solr/stype-chop-0",
+  "original_title": "Stype In CHOP",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 4630,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-23 04:57",
+  "research": {
+   "entities": [
+    "TouchDesigner",
+    "Stype",
+    "Derivative"
+   ],
+   "questions": [
+    "Stype In CHOP을 사용하여 실시간 카메라 트래킹 데이터를 가상 환경에 어떻게 통합하나요?",
+    "Stype 하드웨어와 TouchDesigner 간의 데이터 통신에서 Stype HF 프로토콜은 어떤 역할을 하나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "stYpe | cutting edge camera tracking technology for live broadcast or film",
+     "url": "https://www.stype.tv"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "TouchDesigner",
+     "url": "https://en.wikipedia.org/wiki/TouchDesigner"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "엘리 캠벨, 클럽의 밤을 프레임 단위로 해체하고 다시 그리다",
+     "url": "https://www.creativeboom.com/work/ellie-campbell-turns-club-nights-into-hand-painted-gloriously-wonky-animations/"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "터치디자이너와 미디어 아트 교육 현장의 해상도 확장",
+     "url": "https://derivative.ca/educational-package/edu-request-jennifer-mccoy/75728"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "터치디자이너 교육 프로그램 신청 내역과 국내 사용자 요청",
+     "url": "https://derivative.ca/educational-package/edu-request-jubin-kim/75731"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3
+   ],
+   "chars": 3290
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "archdaily.com/1188267/aua-najarian-center-storaket-architectural-studio": {
+  "title_ko": "예레반의 시간과 지진에 맞서는 구조, 나자리안 센터의 갱신",
+  "summary_ko": "아르메니아 예레반에 위치한 아르메니아 미국 대학교(AUA)의 나자리안 센터가 스토라켓 건축 스튜디오의 설계로 리모델링을 마쳤다. 기존 건물의 뼈대를 유지하면서 내진 보강과 내외장재 교체, 공조 시스템을 전면 재구축했다. 교육과 사회적 혁신을 위한 거점으로서 공간을 재편한 프로젝트다.",
+  "lens": "기존 구조의 내진 보강을 건축적 문법으로 수용하여, 노후화된 골조를 현대적 교육 공간으로 전환하는 기술적 결단을 보여준다.",
+  "why_now": "지형적·기후적 리스크가 존재하는 구도심의 건축물을 철거하지 않고, 구조적 보강을 통해 수명을 연장하는 산업 유산 전유 방식이 주목받고 있다.",
+  "mechanism": "내진 보강 공사를 통해 건물의 구조적 안전성을 확보하고, 내부 동선과 설비를 현대적 기준에 맞춰 재구성하여 공간의 효용을 극대화했다.",
+  "sensory": "견고한 내진 보강재가 드러내는 구조적 정직함과 리노베이션을 통해 정돈된 실내외 표면이 대비를 이룬다.",
+  "transfer": "콘티 작업 시, 오래된 건물의 골조를 드러내는 조명 기법과 내진 보강 구조물을 조형적 요소로 활용해 공간의 서사를 구축할 수 있다.",
+  "context": "아르메니아 미국 대학교는 1991년 설립된 구소련 지역 최초의 미국식 고등교육 기관이다. 나자리안 센터는 인근 세르게이 파라자노프 박물관과 함께 예레반의 문화적, 교육적 지형을 형성하는 핵심 시설이다.",
+  "findings": [
+   {
+    "text": "아르메니아 미국 대학교는 1991년 아르메니아 독립 첫해에 설립된 구소련 지역 최초의 미국 인증 고등교육 기관이다.",
+    "s": 1,
+    "quote": "It was founded in 1991, the first year of Armenia's independence, by the Armenian General Benevolent Union (AGBU), the University of California (UC), and the Armenian government."
+   },
+   {
+    "text": "세르게이 파라자노프 박물관은 소련 아르메니아의 영화감독이자 예술가인 세르게이 파라자노프를 기리는 예레반의 대표적 박물관이다.",
+    "s": 2,
+    "quote": "The Sergei Parajanov Museum (Armenian: Սերգեյ Փարաջանովի թանգարան, romanized: Sergey P'arajanovi t'angaran) is a tribute to Soviet Armenian film director and artist Sergei Parajanov"
+   }
+  ],
+  "keywords": [
+   "리노베이션",
+   "내진보강",
+   "아르메니아",
+   "교육건축",
+   "스토라켓"
+  ],
+  "evidence": "seismic retrofitting, interior and exterior renovations, and the comprehensive implementation of engineering systems.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "기존 건축물의 구조적 보강과 리모델링 과정을 다루었으나, 세부적인 디자인 전략이나 재료의 물성에 대한 기술이 다소 평이하다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1188267/aua-najarian-center-storaket-architectural-studio",
+  "original_title": "AUA Najarian Center / Storaket Architectural Studio",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 1963,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-23 04:57",
+  "research": {
+   "entities": [
+    "Storaket Architectural Studio",
+    "American University of Armenia",
+    "Najarian Center",
+    "Sergei Parajanov Museum"
+   ],
+   "questions": [
+    "Najarian Center의 리모델링 과정에서 적용된 내진 보강 기술과 지속 가능한 건축 요소는 무엇인가요?",
+    "American University of Armenia의 교육 철학이 Najarian Center의 공간 구성에 어떻게 반영되었나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "American University of Armenia",
+     "url": "https://en.wikipedia.org/wiki/American%20University%20of%20Armenia"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Sergei Parajanov Museum",
+     "url": "https://en.wikipedia.org/wiki/Sergei%20Parajanov%20Museum"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 1081
+  },
+  "depth_raw": 3,
+  "depth_v": 2
  }
 }

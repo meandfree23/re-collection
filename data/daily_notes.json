@@ -4056,16 +4056,20 @@
  },
  "2026-11-23": {
   "date": "2026-11-23",
-  "headline": "밤하늘의 죽은 불빛과 도시 골조의 파편",
-  "editorial": "샤르자 트리엔날레의 돔은 죽음의 불빛을 별자리로 그려내고, 에반 에드워드의 피에드아테르는 금속 마감으로 마이애미의 기억을 박제한다. 뉴욕의 가구는 도시의 파편을 골조로 삼아 불협화음을 고정한다. 이들은 거친 기술과 파편을 단단한 형상으로 붙들어 맨다.",
+  "headline": "샤르자 트리엔날레의 군사 돔과 뉴욕 골목의 철제 골조",
+  "editorial": "샤르자 트리엔날레의 돔은 살상용 무기를 밤하늘의 신화로 길들여 폭력의 기술을 정면으로 마주한다. 이처럼 파편화된 도시의 물리적 시간을 가구의 골조로 옮겨온 뉴욕의 작업과, 카메라의 미세한 움직임을 디지털 좌표로 붙잡는 실시간 트래킹 기술은 각자의 영역에서 흩어진 정보를 단단한 형상으로 고정한다. 기술과 파편이라는 각기 다른 재료를 통해, 우리는 세상의 무질서한 속도를 제어 가능한 범위 안으로 끌어들인다.",
   "threads": [
    {
-    "name": "기술과 파편의 형상화",
-    "note": "군사 기술과 도시의 파편을 구조물과 가구로 전환한다.",
+    "name": "기술로 붙잡는 파편",
+    "note": "무질서한 물리적 대상이나 움직임을 정밀한 장치와 설계로 고정하여 새로운 질서를 부여한다.",
     "items": [
      {
       "title": "죽음의 불빛을 신화적 별자리로 그리다, 샤르자 트리엔날레의 돔",
       "url": "https://www.dezeen.com/2026/11/22/after-night-there-is-nothing-sharjah-architecture-triennial/"
+     },
+     {
+      "title": "실시간 카메라 트래킹의 정밀도, 스타일 인 찹을 통한 가상 환경 통합",
+      "url": "https://derivative.ca/solr/stype-chop-0"
      },
      {
       "title": "도시의 파편으로 빚은 서사: 뉴욕의 일상을 전유하는 여덟 개의 가구",
@@ -4074,23 +4078,23 @@
     ]
    },
    {
-    "name": "금속과 기억의 박제",
-    "note": "금속 마감과 강렬한 색채로 특정 장소의 기억을 공간에 고정한다.",
+    "name": "압박이 빚어낸 응축된 형상",
+    "note": "시간이나 마감이라는 외부의 강제적 조건 속에서 작업의 실체를 명확한 결과물로 압축해낸다.",
     "items": [
      {
-      "title": "마이애미의 밤을 재해석한 하이 임팩트 미니멀리즘: 에반 에드워드의 피에드아테르",
-      "url": "https://www.dezeen.com/2026/11/21/evan-edward-miami-beach-pied-a-terre-apartment-renovation/"
+      "title": "게임 세계관의 물리적 무대화: GTA 6 마이애미 페스티벌 백스테이지",
+      "url": "https://www.wallpaper.com/art/music/gta6-festival-miami-design"
      },
      {
-      "title": "도시의 파편으로 빚은 서사: 뉴욕의 일상을 전유하는 여덟 개의 가구",
-      "url": "https://www.dezeen.com/2026/11/22/eight-furniture-designs-informed-by-life-in-new-york-city/"
+      "title": "마감의 압박과 일상의 수집: 새첼 리가 구축하는 작업의 궤적",
+      "url": "https://elephant.art/satchel-lee-on-working-under-pressure/"
      }
     ]
    }
   ],
-  "based_on": 5,
+  "based_on": 11,
   "v": 3,
-  "model": "gemini-3.5-flash-lite",
-  "written_at": "2026-11-23 00:17"
+  "model": "gemini-3.1-flash-lite",
+  "written_at": "2026-11-23 04:57"
  }
 }

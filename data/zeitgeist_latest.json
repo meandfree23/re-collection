@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-11-23 01:15 KST",
+  "generated_at": "2026-11-23 04:57 KST",
   "period": "2026.11.16 - 2026.11.23",
-  "total_articles": 541,
+  "total_articles": 546,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 249
+      "count": 252
     },
     {
       "genre": "동시대 미술",
-      "count": 171
+      "count": 172
     },
     {
       "genre": "미디어 파사드·3D",
-      "count": 68
+      "count": 69
     },
     {
       "genre": "아방가르드 패션",
@@ -23,10 +23,16 @@
   "themes": [
     {
       "keyword": "박물관·전시",
-      "count": 54,
+      "count": 55,
       "previous_count": 44,
       "trend": "rising",
       "items": [
+        {
+          "title": "AUA 나자리안 센터 / 스토라켓 건축 스튜디오",
+          "url": "https://www.archdaily.com/1188267/aua-najarian-center-storaket-architectural-studio",
+          "image_url": "https://images.adsttc.com/media/images/6af1/8cde/4ba6/4700/01d0/80c2/large_jpg/AUA_Najarian_Center_01.jpg?1794215205",
+          "source_name": "ArchDaily"
+        },
         {
           "title": "조니 아이브와 마가렛 칼버트, 켄싱턴 디자인 뮤지엄 개관 10주년을 기념하는 포스터 제작",
           "url": "https://www.dezeen.com/2026/11/22/jony-ive-margaret-calvert-posters-decade-london-design-museum-kensington/",
@@ -44,12 +50,6 @@
           "url": "https://hyperallergic.com/a-sprawling-exhibition-of-latin-american-art-and-fashion-is-coming-to-nyc/",
           "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/11/Screenshot-2026-11-20-at-5.56.28---PM.jpg",
           "source_name": "Hyperallergic"
-        },
-        {
-          "title": "Exhibition Artifact / Configuración Visual",
-          "url": "https://www.archdaily.com/1188961/exhibition-artifact-configuracion-visual",
-          "image_url": "https://images.adsttc.com/media/images/6afd/bac3/eabd/2a00/0193/1d80/large_jpg/11.jpg?1795013453",
-          "source_name": "ArchDaily"
         }
       ]
     },
