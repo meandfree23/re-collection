@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-22 12:31 KST",
+  "generated_at": "2026-11-22 16:14 KST",
   "period": "2026.11.15 - 2026.11.22",
-  "total_articles": 630,
+  "total_articles": 635,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 282
+      "count": 285
     },
     {
       "genre": "동시대 미술",
-      "count": 202
+      "count": 204
     },
     {
       "genre": "미디어 파사드·3D",
@@ -23,10 +23,16 @@
   "themes": [
     {
       "keyword": "박물관·전시",
-      "count": 67,
+      "count": 68,
       "previous_count": 32,
       "trend": "rising",
       "items": [
+        {
+          "title": "조니 아이브와 마가렛 칼버트, 켄싱턴 디자인 뮤지엄 개관 10주년을 기념하는 포스터 제작",
+          "url": "https://www.dezeen.com/2026/11/22/jony-ive-margaret-calvert-posters-decade-london-design-museum-kensington/",
+          "image_url": "https://static-2026.dezeen.com/uploads/2026/11/margaret-calvert-design-museum-kensington-poster-sq-1024x1024.jpg",
+          "source_name": "Dezeen"
+        },
         {
           "title": "뉴욕의 새로운 가구 갤러리, 잊혀졌던 이탈리아 디자이너의 재기, 그 외 다양한 소식",
           "url": "https://www.sightunseen.com/2026/11/a-new-furniture-gallery-in-new-york-an-obscure-italian-designer-reemerges-and-more/",
@@ -44,12 +50,6 @@
           "url": "https://www.archdaily.com/1188961/exhibition-artifact-configuracion-visual",
           "image_url": "https://images.adsttc.com/media/images/6afd/bac3/eabd/2a00/0193/1d80/large_jpg/11.jpg?1795013453",
           "source_name": "ArchDaily"
-        },
-        {
-          "title": "A Brooklyn Exhibition Rethinks the Art of the Candleholder",
-          "url": "https://design-milk.com/candelabra-palaver-piscina/",
-          "image_url": "https://design-milk.com/images/2026/11/MIsakson_Candelabra-e1795206663399-1500x1000.jpeg",
-          "source_name": "Design Milk"
         }
       ]
     },
@@ -118,6 +118,38 @@
       ]
     },
     {
+      "keyword": "사진",
+      "count": 18,
+      "previous_count": 11,
+      "trend": "rising",
+      "items": [
+        {
+          "title": "아프리카의 활기찬 거리 사진이 새로운 Thames & Hudson의 책 주제가 되었습니다.",
+          "url": "https://www.wallpaper.com/art/photography/street-photography-africa-photo-book-review",
+          "image_url": "https://cdn.mos.cms.futurecdn.net/fYHocHzEoQD9zPXEyv4yGU-1920-80.png",
+          "source_name": "Wallpaper*"
+        },
+        {
+          "title": "다음 프로젝트에 예약할 수 있는 AD 승인 인테리어 사진작가",
+          "url": "https://www.architecturaldigest.com/story/50-ad-approved-photographers",
+          "image_url": "https://media.architecturaldigest.com/photos/6afc981962312feba5cc576d/master/pass/___AD0626_FRIEDMAN_21%20copy.jpg",
+          "source_name": "Architectural Digest"
+        },
+        {
+          "title": "다음 인테리어 디자인 프로젝트에 고용할 만한 미국 남서부 지역의 인테리어 사진작가 9명",
+          "url": "https://www.architecturaldigest.com/story/interior-photographers-in-the-southwest",
+          "image_url": "https://media.architecturaldigest.com/photos/6afdfedb7b2adeda65ee6477/master/pass/___02-YondMartin2025%20-%20Inquiries%20Mabey.jpg",
+          "source_name": "Architectural Digest"
+        },
+        {
+          "title": "해외 프로젝트에 적합한 AD 인증 국제 인테리어 사진작가 45명",
+          "url": "https://www.architecturaldigest.com/story/40-ad-approved-international-interior-photographers",
+          "image_url": "https://media.architecturaldigest.com/photos/66844263532726c05422156d/master/pass/Nicolas%20Mathe%CC%81us-G19_4408.jpg",
+          "source_name": "Architectural Digest"
+        }
+      ]
+    },
+    {
       "keyword": "리노베이션·재생",
       "count": 17,
       "previous_count": 12,
@@ -146,38 +178,6 @@
           "url": "https://www.archdaily.com/1188828/design-museum-gent-carmody-groarke-plus-atama-plus-re-st",
           "image_url": "https://images.adsttc.com/media/images/6afd/6115/c23f/1f60/4095/9683/large_jpg/design-museum-gent-carmody-groarke-plus-atama-plus-re-st_7.jpg?1794990386",
           "source_name": "ArchDaily"
-        }
-      ]
-    },
-    {
-      "keyword": "사진",
-      "count": 17,
-      "previous_count": 11,
-      "trend": "rising",
-      "items": [
-        {
-          "title": "다음 프로젝트에 예약할 수 있는 AD 승인 인테리어 사진작가",
-          "url": "https://www.architecturaldigest.com/story/50-ad-approved-photographers",
-          "image_url": "https://media.architecturaldigest.com/photos/6afc981962312feba5cc576d/master/pass/___AD0626_FRIEDMAN_21%20copy.jpg",
-          "source_name": "Architectural Digest"
-        },
-        {
-          "title": "다음 인테리어 디자인 프로젝트에 고용할 만한 미국 남서부 지역의 인테리어 사진작가 9명",
-          "url": "https://www.architecturaldigest.com/story/interior-photographers-in-the-southwest",
-          "image_url": "https://media.architecturaldigest.com/photos/6afdfedb7b2adeda65ee6477/master/pass/___02-YondMartin2025%20-%20Inquiries%20Mabey.jpg",
-          "source_name": "Architectural Digest"
-        },
-        {
-          "title": "해외 프로젝트에 적합한 AD 인증 국제 인테리어 사진작가 45명",
-          "url": "https://www.architecturaldigest.com/story/40-ad-approved-international-interior-photographers",
-          "image_url": "https://media.architecturaldigest.com/photos/66844263532726c05422156d/master/pass/Nicolas%20Mathe%CC%81us-G19_4408.jpg",
-          "source_name": "Architectural Digest"
-        },
-        {
-          "title": "미국 북동부 지역의 AD 인증을 받은 인테리어 사진작가 76명",
-          "url": "https://www.architecturaldigest.com/story/interior-photographers-in-the-northeast",
-          "image_url": "https://media.architecturaldigest.com/photos/6af35590c299b3c969e53ec9/master/pass/___AD0124_BEHUN_8%20copy.jpg",
-          "source_name": "Architectural Digest"
         }
       ]
     },

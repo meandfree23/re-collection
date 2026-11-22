@@ -375080,5 +375080,505 @@
   },
   "depth_raw": 3,
   "depth_v": 2
+ },
+ "wallpaper.com/art/photography/street-photography-africa-photo-book-review": {
+  "title_ko": "거리를 무대 삼아 정체성을 연출하는 아프리카의 새로운 사진적 기록",
+  "summary_ko": "나딘 바스와 아주 은와그보구가 엮은 사진집 ‘스트리트 포토그래피 아프리카’는 아프리카 대륙 전역의 거리에서 포착한 33인 사진가의 작업을 담았다. 이들은 거리를 단순한 배경이 아닌 사회적 변혁과 자기표현이 일어나는 공연장으로 재정의한다. 패션, 건축, 무용을 아우르며 일상과 도시의 역동성을 기록한 230점의 사진을 통해 아프리카의 현대적 풍경을 제시한다.",
+  "lens": "거리는 관찰의 대상이 아니라, 주체들이 자신의 존재를 증명하고 서사를 구축하는 물리적 무대로서 기능한다.",
+  "why_now": "디지털 피로가 극에 달한 시점에, 신체를 중심으로 도시의 질감과 역동성을 날것으로 기록하는 아날로그적 사진 작업이 새로운 사회적 기록의 가치를 증명한다.",
+  "mechanism": "거리의 일상을 패션 화보처럼 연출하거나 힙합 댄서들의 퍼포먼스를 다큐멘터리 기법으로 포착하여, 도시라는 공간을 하나의 거대한 시노그래피로 치환한다.",
+  "sensory": "시장통의 활기, 해변의 서늘한 빛, 힙합 댄서들의 긴장된 근육 등 아프리카 도시의 다채로운 질감과 빛이 230점의 도판을 통해 선명하게 드러난다.",
+  "transfer": "공간 연출 시 거리를 정적인 배경으로 두지 말고, 모델이나 피사체의 움직임을 통해 공간의 물리적 레이어를 실시간으로 재구성하는 퍼포먼스적 동선을 설계한다.",
+  "context": "테임즈 앤 허드슨은 시각 예술과 디자인 분야의 방대한 아카이브를 출판해 온 출판사다. 본 작업은 과거 다룬 가상 도시 건축이나 루이비통 아카이브와 같이, 특정 공간과 기록의 관계를 시각적으로 해부하는 연장선에 있다.",
+  "findings": [
+   {
+    "text": "사진집에는 33명의 사진가가 참여했으며 총 230점의 도판이 수록되어 있다.",
+    "s": 1,
+    "quote": "Coauthored by curators Nadine Barth and Azu Nwagbogu, Street Photography Africa presents the work of over thirty photographers in thematic chapters. ... With 230 illustrations"
+   },
+   {
+    "text": "테임즈 앤 허드슨은 1949년 월터와 에바 뉴라스 부부가 설립한 독립 출판사다.",
+    "s": 2,
+    "quote": "The publishing company was founded in 1949 by Walter and Eva Neurath, who aimed to make the world of art and the research of top scholars available to a wider public."
+   }
+  ],
+  "keywords": [
+   "거리 사진",
+   "시노그래피",
+   "자기표현",
+   "도시 아카이브"
+  ],
+  "evidence": "the street becomes a stage",
+  "kind": "프로젝트",
+  "depth": 5,
+  "grounding": "full",
+  "depth_reason": "아프리카 거리 사진의 사회적 맥락을 공간 연출과 퍼포먼스의 관점에서 명확하게 해석하고, 이를 실무에 적용할 구체적 지침을 제시한다.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/art/photography/street-photography-africa-photo-book-review",
+  "original_title": "Africa’s vibrant street photography is the subject of a new Thames & Hudson tome",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 4941,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-22 16:14",
+  "research": {
+   "entities": [
+    "Thames & Hudson",
+    "Seydou Keita",
+    "Malick Sidibe",
+    "Santu Mofokeng",
+    "David Goldblatt"
+   ],
+   "questions": [
+    "유럽과 미국의 거리 사진 전통과 비교했을 때, 아프리카 거리 사진이 가지는 고유한 사회적·정치적 목적은 무엇인가?",
+    "아프리카 현대 거리 사진에서 '거리'가 단순한 배경을 넘어 어떻게 공연과 자기표현의 공간으로 재정의되고 있는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Street Photography Africa",
+     "url": "https://www.thamesandhudsonusa.com/books/street-photography-africa-hardcover"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Thames & Hudson",
+     "url": "https://en.wikipedia.org/wiki/Thames%20%26%20Hudson"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Seydou Keita",
+     "url": "https://en.wikipedia.org/wiki/Seydou%20Keita"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "가상 도시와 아케이드의 원점을 해부하는 세 권의 신간",
+     "url": "https://www.wallpaper.com/tech/three-new-titles-explore-the-art-of-digital-world-building-in-cult-computers-and-early-arcades"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "33인의 시선으로 포착한 아프리카의 거리, ‘스트리트 포토그래피 아프리카’",
+     "url": "https://www.thisiscolossal.com/2026/10/street-photography-africa-book/"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "연말의 서사: 캘빈 클라인의 주드 벨링엄과 럭셔리 하우스의 기록법",
+     "url": "https://www.dazeddigital.com/fashion/article/71309/1/jude-bellingham-goes-nude-for-calvin-klein-mariah-carey-gucci-dior?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=jude-goes-nude-for-calvin-klein-plus-more-of-this-week-s-fashion-news"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    4,
+    5,
+    6
+   ],
+   "chars": 5249
+  },
+  "depth_raw": 5,
+  "depth_v": 2
+ },
+ "dezeen.com/2026/11/22/jony-ive-margaret-calvert-posters-decade-london-design-museum-kensington": {
+  "title_ko": "런던 디자인 뮤지엄 10주년, 10인의 디자이너가 해석한 기념 포스터",
+  "summary_ko": "런던 켄싱턴으로 이전한 디자인 뮤지엄이 개관 10주년을 맞아 조니 아이브, 마가렛 칼버트 등 10명의 디자이너와 협업한 기념 포스터를 공개했다. 2016년 오엠에이(OMA)와 존 파슨이 기존 영연방 연구소 건물을 개조해 완성한 현재의 공간을 기념하며, 각 디자이너는 자신의 작업 철학을 담은 그래픽을 선보였다.",
+  "lens": "단순한 기념을 넘어, 디자이너들이 공간의 역사와 자신의 고유한 조형 언어를 어떻게 2차원 평면에 압축해내는지를 보여준다.",
+  "why_now": "기관의 10년이라는 물리적 시간은 공간이 도시와 맺어온 관계를 재정의하는 지점이자, 디자이너들에게는 브랜드의 정체성을 한 장의 이미지로 응축할 기회다.",
+  "mechanism": "조니 아이브는 최소한의 기하학적 형태만으로 '10'이라는 숫자를 추상화했고, 마가렛 칼버트는 과거와 현재의 위치를 이정표 형태의 그래픽으로 치환하여 서사를 구축했다.",
+  "sensory": "칼버트의 포스터는 도로 표지판 특유의 명료한 선과 여백을, 아이브의 작업은 무채색 배경 위에서 형태가 강조되는 절제된 시각적 무게감을 전달한다.",
+  "transfer": "공간의 이전이나 기념 프로젝트 콘티 구성 시, 장소의 지리적 좌표나 역사적 층위를 단순한 타이포그래피나 기하학적 기호로 치환하여 인덱싱하는 방식을 차용할 수 있다.",
+  "context": "디자인 뮤지엄은 1989년 템즈강 남쪽의 바나나 창고에서 시작해 2016년 켄싱턴의 영연방 연구소 건물로 이전하며 현재의 위상을 갖췄다. 조니 아이브는 애플 퇴사 후 설립한 러브프롬(LoveFrom)을 통해 다양한 글로벌 브랜드와 협업을 이어가고 있으며, 마가렛 칼버트는 영국 도로 표지판 디자인의 원형을 만든 인물이다.",
+  "findings": [
+   {
+    "text": "디자인 뮤지엄은 2018년 유럽 올해의 박물관상을 수상했다.",
+    "s": 3,
+    "quote": "In 2018, the museum won the European Museum of the Year Award."
+   },
+   {
+    "text": "조니 아이브는 2019년 애플을 떠난 후 마크 뉴슨과 함께 러브프롬을 설립했다.",
+    "s": 4,
+    "quote": "Ive is the founder of LoveFrom, a creative collective that works with Ferrari, Airbnb, OpenAI and other global brands."
+   }
+  ],
+  "keywords": [
+   "디자인 뮤지엄",
+   "조니 아이브",
+   "마가렛 칼버트",
+   "그래픽 디자인",
+   "공간 아카이빙"
+  ],
+  "evidence": "Ten leading designers have unveiled posters that celebrate 10 years of London’s Design Museum in Kensington",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "유명 디자이너들의 참여와 공간의 역사적 맥락을 잘 짚었으나, 포스터 자체의 조형적 깊이에 대한 분석은 원문 정보에 한정됨.",
+  "v": 2,
+  "url": "https://www.dezeen.com/2026/11/22/jony-ive-margaret-calvert-posters-decade-london-design-museum-kensington/",
+  "original_title": "Jony Ive and Margaret Calvert create posters to celebrate decade of Design Museum in Kensington",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 3898,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-22 16:14",
+  "research": {
+   "entities": [
+    "Design Museum",
+    "Jony Ive",
+    "Margaret Calvert",
+    "LoveFrom",
+    "OMA"
+   ],
+   "questions": [
+    "Design Museum이 켄싱턴으로 이전하기 전의 역사와 이전 과정에서 건축적 의미는 무엇인가요?",
+    "참여한 10명의 디자이너들이 각자의 디자인 철학을 어떻게 포스터에 투영했는지 그 맥락이 궁금합니다."
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Home",
+     "url": "https://designmuseum.org/"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "LoveFrom,",
+     "url": "https://www.lovefrom.com/"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Design Museum",
+     "url": "https://en.wikipedia.org/wiki/Design%20Museum"
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "Jony Ive",
+     "url": "https://en.wikipedia.org/wiki/Jony%20Ive"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "열대 모더니즘의 거장, 비트라 디자인 뮤지엄에서 재회하다",
+     "url": "https://www.wallpaper.com/architecture/architecture-events/geoffrey-bawa-exhibition-vitra-design-museum"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "런던 디자인 뮤지엄 초대 관장 스티븐 베일리가 읽는 동시대 문화",
+     "url": "https://www.nowness.com/story/the-last-tastemaker-stephen-bayley"
+    },
+    {
+     "n": 7,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "반쯤 구운 스케치와 절차적 알고리즘으로 뉴욕 타임스 커버를 만드는 법",
+     "url": "https://www.creativeboom.com/work/how-rob-farmer-turns-half-baked-sketches-into-new-york-times-covers/"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "chars": 5150
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "wallpaper.com/architecture/residential/tree-house-famm-costa-rica": {
+  "title_ko": "코스타리카 산타테레사, 열대 숲의 캐노피를 투과하는 현대적 트리하우스 '카사 알 수아베'",
+  "summary_ko": "건축가 펠리페 아페스테기(Felipe Apéstegui)와 마리아노 메살레스(Mariano Mesalles)가 설계한 '카사 알 수아베(Casa al Suave)'는 코스타리카 산타테레사의 경사진 대지에 들어선 384㎡ 규모의 주택이다. 녹색 철골 구조로 건물을 지상에서 띄워 숲의 캐노피 높이에 배치했으며, 중앙 거실은 유리창 없이 외부와 완전히 개방된 구조로 설계해 열대 기후에 순응한다.",
+  "lens": "유리창을 제거한 거실은 건축을 숲의 일부로 전이시키는 장치이며, 철골 프레임은 지형의 경사를 극복하고 캐노피 수준의 조망을 확보하는 구조적 해법이다.",
+  "why_now": "디지털 피로도가 높은 시대에 기후와 지형에 순응하며 자연의 소리, 바람, 습도를 여과 없이 수용하는 개방형 주거 모델이 새로운 공간적 대안으로 부상한다.",
+  "mechanism": "철골 프레임으로 본체를 지면에서 띄워 하부에는 다용도실과 게스트 스튜디오를 배치하고, 상부에는 캐노피 높이의 주거 공간을 두어 지형의 경사를 기능적 층위로 치환한다. 지붕의 깊은 처마는 직사광선과 우천을 차단하며, 열린 구조는 자연적인 맞통풍을 유도해 실내 온도를 조절한다.",
+  "sensory": "피그먼트 콘크리트의 차분한 질감과 현지 조달한 포초테(Pochote) 나무의 결이 숲의 색감과 어우러진다. 발코니에 적용된 밧줄 난간은 반복적인 리듬감을 형성하며 시각적 무게감을 덜어낸다.",
+  "transfer": "공간 연출 시 유리창을 배제한 개방형 평면을 구현할 때, 깊은 처마와 철골 구조를 활용해 기후적 제약을 극복하는 방식을 차용할 수 있다. 밧줄과 같은 유기적 소재를 반복적으로 배치해 구조적 안전성과 시각적 리듬을 동시에 확보하는 디테일을 적용해 보라.",
+  "context": "FAMM Arquitectura는 코스타리카의 해안 및 농촌 지역에서 기후 대응형 설계와 조경 통합을 핵심 방법론으로 삼는다. 이번 프로젝트는 이들의 이전 작업과 마찬가지로 지형과 식생을 건축의 최우선 요소로 배치하는 태도를 견지한다.",
+  "findings": [
+   {
+    "text": "FAMM Arquitectura는 코스타리카의 해안 및 농촌 지역에서 기후 대응형 설계와 조경 통합을 전문으로 한다.",
+    "s": 1,
+    "quote": "Over the past five years, we have built expertise in climate-responsive design, site planning, and landscape integration across Costa Rica’s key coastal and rural regions"
+   },
+   {
+    "text": "건축 사무소는 지형과 경관을 건축의 우선순위에 두는 설계 철학을 가진다.",
+    "s": 1,
+    "quote": "FAMM Arquitectura lets the landscape speak first."
+   }
+  ],
+  "keywords": [
+   "트리하우스",
+   "열대건축",
+   "기후순응",
+   "구조적미학"
+  ],
+  "evidence": "Its spacious central living area comes without any glass, windows or shutters to separate it from the terrace and lush nature",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "지형 순응을 위한 구조적 해결책과 기후 대응을 위한 개방형 설계의 논리가 명확하며, 재료와 디테일이 구체적으로 제시되어 있어 공간 설계의 레퍼런스로 활용도가 높다.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/architecture/residential/tree-house-famm-costa-rica",
+  "original_title": "A contemporary tree house in Costa Rica offers the ultimate outdoor living",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 5243,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-22 16:14",
+  "research": {
+   "entities": [
+    "FAMM Arquitectura",
+    "Felipe Apéstegui",
+    "Mariano Mesalles",
+    "Casa al Suave"
+   ],
+   "questions": [
+    "열대 기후에서 유리창 없이 개방된 구조를 유지하면서도 거주자의 프라이버시와 편의성을 어떻게 확보했는가?",
+    "경사진 지형을 극복하기 위해 사용된 철골 구조가 건축적 미학과 기능적 효율성에 어떤 영향을 미쳤는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "FAMM Arquitectura",
+     "url": "https://www.fammarq.com/"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 1258
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "wallpaper.com/architecture/gift-guides-ellie-stathaki": {
+  "title_ko": "일상의 틈을 채우는 사물들, 건축가 엘리 스타타키의 연말 위시리스트",
+  "summary_ko": "월페이퍼의 건축·환경 디렉터 엘리 스타타키가 일상에 안온함을 더하는 디자인 오브제들을 제안한다. 그리스의 밀랍 밤부터 3D 도시 모형, 이사무 노구치의 아카리 조명까지, 계절의 감각을 환기하고 공간의 밀도를 높이는 사물들을 엄선했다.",
+  "lens": "단순한 소비재를 넘어, 물리적 공간의 구조와 질감을 재해석해 일상의 시각적 리듬을 바꾸는 사물들을 주목한다.",
+  "why_now": "디지털 피로가 누적된 겨울, 손에 닿는 물성의 무게와 공간을 재구성하는 오브제를 통해 감각을 회복하려는 움직임이 뚜렷하다.",
+  "mechanism": "이사무 노구치의 아카리 조명은 종이와 대나무라는 가벼운 재료로 빛을 확산시키며 공간의 경계를 부드럽게 무너뜨린다. 3D 도시 모형은 특정 지역을 축소해 개인의 기억을 물리적 구조물로 박제하는 장치로 작동한다.",
+  "sensory": "밀랍과 올리브 오일이 섞인 밤의 끈적하고 묵직한 질감, 턴테이블이 회전하며 만드는 소리의 입자, 조명이 뿜어내는 은은하고 따뜻한 빛의 확산이 현장의 감각을 채운다.",
+  "transfer": "공간 연출 시 특정 장소의 지형을 3D 모형으로 제작해 오브제로 배치하거나, 조명의 높낮이를 조절해 빛이 닿는 면적을 변화시키는 방식으로 공간의 깊이감을 조절할 수 있다.",
+  "context": "엘리 스타타키는 테살로니키 아리스토텔레스 대학교에서 건축을 전공하고 바틀렛에서 건축사를 수학한 전문가다. 안도 타다오와 렘 콜하스 등 거장들을 인터뷰하며 쌓은 안목으로, 공간의 기능과 미학이 교차하는 지점을 탐구해왔다.",
+  "findings": [
+   {
+    "text": "이사무 노구치는 1920년대부터 60년간 활동하며 조각, 공공 예술, 무대 디자인 등 다양한 영역에서 업적을 남겼다.",
+    "s": 4,
+    "quote": "Isamu Noguchi (野口 勇, Noguchi Isamu; Japanese: [noꜜgɯtɕi isamɯ], English: ; November 17, 1904 – December 30, 1988) was an American artist, furniture designer and landscape architect whose career spanned six decades from t"
+   }
+  ],
+  "keywords": [
+   "오브제",
+   "공간설계",
+   "아카리램프",
+   "물성",
+   "건축적시선"
+  ],
+  "evidence": "This year's inspiration is about everyday luxuries, hunting for gifts that are cocooning, indulging and add festive sprinkle to daily life.",
+  "kind": "리스트·라운드업",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "건축 전문가의 안목으로 선별된 오브제들의 미학적 가치를 공간 설계의 관점에서 해석했으나, 단순 추천 목록이라는 한계가 있다.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/architecture/gift-guides-ellie-stathaki",
+  "original_title": "Wallpaper* gift guides: architecture expert Ellie Stathaki's festive wish list",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 3187,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-22 16:14",
+  "research": {
+   "entities": [
+    "Isamu Noguchi",
+    "The Row",
+    "Audio-Technica",
+    "Central Saint Martins",
+    "Ellie Stathaki"
+   ],
+   "questions": [
+    "엘리 스타타키가 추천한 디자인 아이템들은 어떤 기준으로 선정되었는가?",
+    "기사에 언급된 아카리 램프와 오디오테크니카 턴테이블의 디자인적 특징은 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "BEESWAX BALM / LIPS FACE BODY- 30g",
+     "url": "https://10amapotheke.com/shop/skincare/beeswax-repair-balm-face-and-body-olive-oil-and-incense-50ml/"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Buy a 3D City Model | Custom Relief Map & Architectural Model",
+     "url": "https://www.lichtbild.com/citymodel"
+    },
+    {
+     "n": 3,
+     "type": "공식·1차",
+     "title": "The Way You Look At Me | Ready to Drink Cocktail by Goldenbird",
+     "url": "https://goldenbirdcocktails.com/products/the-way-you-look-at-me"
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "Isamu Noguchi",
+     "url": "https://en.wikipedia.org/wiki/Isamu%20Noguchi"
+    },
+    {
+     "n": 5,
+     "type": "위키백과",
+     "title": "The Russell Brand Show prank calls",
+     "url": "https://en.wikipedia.org/wiki/The%20Russell%20Brand%20Show%20prank%20calls"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "폭풍우가 치고 난 런던의 잔해, 리자 킨의 잿빛 데뷔전",
+     "url": "https://www.dazeddigital.com/fashion/article/71003/1/liza-keane-ss27-london-fashion-week-lfw-newgen-rising-designer?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=liza-keane-is-london-fashion-week-s-dark-and-stormy-saviour"
+    },
+    {
+     "n": 7,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "눈물의 질감과 색채로 직조한 폴린 뒤장쿠르의 2027 봄·여름 컬렉션",
+     "url": "https://www.anothermag.com/fashion-beauty/17497/pauline-dujancourt-show-review-spring-summer-2027-ss27-dsm?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=pauline-dujancourt-imagines-emotions-in-textures-and-colours"
+    },
+    {
+     "n": 8,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "점토의 불완전함으로 빚어낸 산만함의 미학, 랴오 차오위의 '수우가!'",
+     "url": "https://www.creativeboom.com/work/inside-qiaoyu-liaos-suuugar-the-clay-animated-cheesecake-disaster-that-shows-what-happens-when-you-get-distracted/"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "chars": 8144
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "wallpaper.com/travel/modern-traveller-gift-guide-2026": {
+  "title_ko": "이동의 감각을 조율하는 도구들: 현대 여행자를 위한 큐레이션",
+  "summary_ko": "월페이퍼(Wallpaper*) 에디터들이 제안하는 여행용 오브제는 단순한 소품을 넘어 이동 중 발생하는 불편을 물리적으로 해결한다. 몽블랑의 가죽 노트 홀더, 벨앤로스의 듀얼 타임존 시계, 에르메스의 업사이클링 도미노 게임 등은 아날로그적 촉감과 정밀한 기능을 결합해 여행의 질을 높인다. 이 물건들은 기내와 호텔, 도시의 거리에서 사용자의 동선을 매끄럽게 연결하도록 설계되었다.",
+  "lens": "디지털 피로를 덜어내는 아날로그 물성과 이동 중의 불편을 즉각적으로 해소하는 기능적 정교함이 결합된 도구들이다.",
+  "why_now": "디지털 기기에 의존하는 여행에서 벗어나, 손에 닿는 재료의 무게와 질감을 통해 공간의 감각을 온전히 회복하려는 흐름이 뚜렷하다.",
+  "mechanism": "스테인리스 스틸, 가죽, 10ml 리필형 향수 등 내구성과 이동성을 고려한 소재를 선택해, 파편화된 여행의 순간을 하나의 정돈된 리듬으로 묶어낸다.",
+  "sensory": "손끝에 감기는 가죽의 온기, 스테인리스 스틸의 차가운 금속성, 그리고 좁은 기내에서도 개인의 영역을 확보해 주는 향기의 밀도가 공간의 스케일을 정의한다.",
+  "transfer": "콘티 내 여행자의 소지품을 배치할 때, 단순히 브랜드 로고를 노출하기보다 가죽 케이스의 질감이나 시계의 야광 인덱스가 어둠 속에서 빛나는 디테일을 클로즈업해 긴박함과 여유를 동시에 연출한다.",
+  "context": "월페이퍼는 매달 전 세계의 디자인 허브를 탐구하며 도시의 구조와 문화를 기록해 왔다. 이번 큐레이션은 기존의 여행 가이드가 다루던 도시의 풍경을 넘어, 여행자 개인이 소유하는 작은 오브제들이 어떻게 개인의 공간을 확장하는지 보여준다.",
+  "findings": [
+   {
+    "text": "몽블랑은 1906년 베를린에서 설립된 독일의 럭셔리 브랜드로, 현재는 스위스 리치몬트 그룹에 속해 있다.",
+    "s": 4,
+    "quote": "Montblanc (UK: , US: ) is a German manufacturer and distributor of luxury goods, which was founded in Berlin in 1906 and is currently based in Hamburg. Since 1993, Montblanc has been part of the Swiss Richemont group."
+   },
+   {
+    "text": "빌브레퀸은 1971년 생트로페에서 설립되었으며, 브랜드명은 프랑스어로 크랭크축을 의미한다.",
+    "s": 5,
+    "quote": "The brand was created in 1971 in Saint-Tropez by Fred Prysquel, a photographer and sports automobile journalist, and Yvette, a fashion designer. It was due to Prysquel's passion for automobiles that he named his brand Vi"
+   }
+  ],
+  "keywords": [
+   "여행 오브제",
+   "아날로그 미학",
+   "이동식 공간",
+   "기능적 디자인"
+  ],
+  "evidence": "Everything in our gift guide for the modern traveller has been suggested by a frequent-flying Wallpaper* editor",
+  "kind": "리스트·라운드업",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "여행자를 위한 도구의 기능성과 물성을 잘 짚어냈으나, 제품 소개의 나열에 그쳐 심층적인 분석보다는 큐레이션의 성격이 강하다.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/travel/modern-traveller-gift-guide-2026",
+  "original_title": "Chic and useful gifts for the modern traveller",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 6466,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-22 16:14",
+  "research": {
+   "entities": [
+    "Montblanc",
+    "Vilebrequin",
+    "Dries Van Noten",
+    "Chanel",
+    "Wallpaper*"
+   ],
+   "questions": [
+    "현대 여행자를 위한 기프트 가이드에서 제품을 선정할 때 고려하는 핵심 가치와 기준은 무엇인가요?",
+    "Wallpaper* Travel Guides가 제안하는 도시별 여행 문화와 디자인적 관점은 무엇인가요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "go.redirectingat.com",
+     "url": "https://go.redirectingat.com?id=92X1650074&xcust=wallpaper_us_8508650919915014199&xs=1&url=https%3A%2F%2Fwww.montblanc.com%2Fen-gb%2Fmontblanc-envelope-medium-note-holder-MB137161VG.html&sref=https%3A%2F%2Fwww.wallpaper.com"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "go.redirectingat.com",
+     "url": "https://go.redirectingat.com?id=92X1650074&xcust=wallpaper_us_1434300812747005624&xs=1&url=https%3A%2F%2Fwww.vilebrequin.com%2Feu%2Fen%2Fproduct%2FMIDAL252-990&sref=https%3A%2F%2Fwww.wallpaper.com"
+    },
+    {
+     "n": 3,
+     "type": "공식·1차",
+     "title": "Woody refillable nomadic set | Dries Van Noten",
+     "url": "https://www.driesvannoten.com/en-gb/products/001-099042-604?variant=55593252946298"
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "Montblanc (company)",
+     "url": "https://en.wikipedia.org/wiki/Montblanc%20%28company%29"
+    },
+    {
+     "n": 5,
+     "type": "위키백과",
+     "title": "Vilebrequin",
+     "url": "https://en.wikipedia.org/wiki/Vilebrequin"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "홍콩 전후 공공 주거의 격자를 베스널 그린에 이식하다",
+     "url": "https://www.wallpaper.com/travel/bakery-hoko-london-cafe-review"
+    },
+    {
+     "n": 7,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "무지개빛 스펙트럼으로 직조한 동시대 미술의 물성과 색채",
+     "url": "https://www.thisiscolossal.com/2026/02/rainbow-dreams-color-light-book/"
+    },
+    {
+     "n": 8,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "합판과 레고로 재현한 캉봉가의 샤넬 오트 쿠튀르",
+     "url": "https://www.designboom.com/art/tom-sachs-handmade-31-rue-cambon-plywood-chanel-couture-flagship-new-york/"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "chars": 7208
+  },
+  "depth_raw": 3,
+  "depth_v": 2
  }
 }
