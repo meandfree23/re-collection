@@ -374771,5 +374771,220 @@
   },
   "depth_raw": 3,
   "depth_v": 2
+ },
+ "archdaily.com/1188485/police-station-for-the-people-studio-motley": {
+  "title_ko": "위압감을 지운 공공의 공간, 인도 데바나할리 경찰서",
+  "summary_ko": "스튜디오 모틀리(STUDIO MOTLEY)가 인도 데바나할리에 설계한 경찰서 프로젝트다. 부경찰서장의 '위압적이지 않은 경찰서'라는 지시를 바탕으로, 공공 기관과 시민 사이의 경직된 관계를 건축으로 재해석했다. 500년 역사를 지닌 지역의 맥락을 고려해 기존 경찰서의 폐쇄적인 전형성을 탈피했다.",
+  "lens": "권위의 상징인 경찰서에서 위압감을 제거하기 위해 건축적 언어를 어떻게 중립적인 공공의 영역으로 치환했는가를 살핀다.",
+  "why_now": "공공 건축이 시민에게 다가가는 방식이 물리적 통제에서 물리적 개방으로 전환되는 시점이다.",
+  "mechanism": "폐쇄적인 관공서의 전형적인 배치를 해체하고, 시민이 자연스럽게 접근할 수 있는 동선과 개방형 구조를 도입하여 심리적 문턱을 낮춘다.",
+  "sensory": "관공서 특유의 차갑고 단단한 마감 대신 주변 환경과 조화되는 재료를 사용하여 공간의 위압감을 덜어낸다.",
+  "transfer": "공간의 목적과 무관하게 권위적인 분위기를 풍기는 장소에, 투명한 소재와 낮은 층고를 활용해 시민이 주체적으로 공간을 점유하게 연출한다.",
+  "context": "스튜디오 모틀리는 인도 데바나할리 지역의 역사적 맥락을 바탕으로 공공 기관의 건축적 전형을 재고하는 작업을 수행했다.",
+  "findings": [],
+  "keywords": [
+   "공공건축",
+   "스튜디오모틀리",
+   "공간심리",
+   "인도건축"
+  ],
+  "evidence": "Build us a Police Station that people don't find intimidating.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "위압감을 제거하려는 의도는 명확하나, 구체적인 설계 기법이나 도면적 장치에 대한 상세 설명이 부족하다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1188485/police-station-for-the-people-studio-motley",
+  "original_title": "Police Station for the People / STUDIO MOTLEY",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 1226,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-22 10:22",
+  "research": {
+   "entities": [
+    "STUDIO MOTLEY",
+    "Adhiti S Gautama",
+    "Anand K R",
+    "Kajal Gupta"
+   ],
+   "questions": [
+    "위압적이지 않은 경찰서를 만들기 위해 건축적으로 어떤 설계 전략을 사용했는가?",
+    "인도 데바나할리 지역의 역사적 맥락이 이 경찰서 설계에 어떻게 반영되었는가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "archdaily.com/1189023/biarritz-building-ariel-jacubovich-oficina-de-arquitectura": {
+  "title_ko": "교사 협동조합의 참여적 과정으로 빚은 비아리츠 주거 빌딩",
+  "summary_ko": "아르헨티나 산마르틴의 비아리츠는 교사와 교육 노동자 협동조합과 함께 개발한 35세대 규모의 주거용 건물이다. 2017년부터 부지 선정, 주거 방식 토론, 훈련 워크숍, 민주적 주택 정책 제안까지 포괄하는 참여적 과정으로 완성되었다.",
+  "lens": "건축의 형상 이전에 집합적 거주 방식을 설계하는 협동적 프로토콜.",
+  "why_now": "건축가의 독단적 설계를 넘어 거주 주체와 기획 단계부터 결합하는 공공적 프로세스의 중요성이 커지고 있다.",
+  "mechanism": "토지 매입 단계부터 거주 예정자들이 직접 참여하여 거주 방식에 대한 토론과 워크숍을 거쳐 공간의 구조를 도출한다.",
+  "sensory": "교사 협동조합의 실질적인 삶의 방식과 정책적 합의가 누적된 일상의 질감이 공간 전체를 관통한다.",
+  "transfer": "집단 기획의 서사를 공간 구조와 동선에 직접 반영하는 시퀀스 설계에 참고한다.",
+  "context": "아리엘 야쿠보비치 오피시나 데 아르키텍투라는 지역 맥락과 사회적 필요를 전면에 내세우는 작업 방식을 이어오고 있다.",
+  "findings": [],
+  "keywords": [
+   "참여적설계",
+   "협동조합주택",
+   "아르헨티나건축",
+   "주거공간"
+  ],
+  "evidence": "Biarritz is a 35-unit residential building in the district of San Martín, Province of Buenos Aires, developed alongside a cooperative of teachers and education workers.",
+  "kind": "프로젝트",
+  "depth": 2,
+  "grounding": "thin",
+  "depth_reason": "참여적 주거 개발의 의의가 명확하나 구체적인 물리적 형태나 디테일 정보가 부족하다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1189023/biarritz-building-ariel-jacubovich-oficina-de-arquitectura",
+  "original_title": "Biarritz Building / Ariel Jacubovich | Oficina de Arquitectura",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 1563,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-22 10:22",
+  "research": {
+   "entities": [
+    "Ariel Jacubovich",
+    "Oficina de Arquitectura",
+    "Biarritz Building"
+   ],
+   "questions": [
+    "교사 및 교육 노동자 협동조합과 함께 진행한 주거 프로젝트의 구체적인 참여형 설계 과정은 무엇인가요?",
+    "아르헨티나의 민주적 주택 개발 정책을 위해 건축가와 지역 단체가 협력한 구체적인 사례는 무엇인가요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "과테말라 안티구아, 식민지 건축의 맥락과 대규모 캠퍼스의 조화",
+     "url": "https://www.archdaily.com/1187580/umg-sede-antigua-guatemala-atelier-oficina-de-arquitectura"
+    },
+    {
+     "n": 2,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "산업 단지의 재구성: 세라믹 외피로 빚은 물성과 시간의 겹",
+     "url": "https://www.archdaily.com/1188585/connecting-old-and-new-through-a-ceramic-facade"
+    }
+   ],
+   "used": [],
+   "chars": 626
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "designboom.com/architecture/curved-concrete-extension-belen-ilarri-studio-1970s-house-near-valencia-casa-lucerna": {
+  "title_ko": "카사 루세르나, 1970년대 주택의 뼈대 위로 얹은 곡선형 콘크리트의 시간",
+  "summary_ko": "벨렝 일라리 스튜디오(Belén Ilarri Studio)는 스페인 발렌시아의 1970년대 주택을 리노베이션하며 기존의 층간 천장을 제거해 숨겨진 공간감을 회복했다. 십자형 동선을 중심으로 실내를 재구성하고, 주방 외부에는 곡선형 콘크리트 볼륨을 증축해 포치로 활용했다. 현장에서 직접 배합한 석회 마감과 거친 콘크리트 질감을 더해 기존 골조와 새로운 레이어의 대비를 강조했다.",
+  "lens": "기존 구조의 층고를 회복하고 십자형 동선을 삽입해, 1970년대 주택이 가진 폐쇄적인 평면을 빛과 바람이 교차하는 유동적 공간으로 변모시켰다.",
+  "why_now": "과거의 건축 유산을 해체하지 않고 그 뼈대 위에 새로운 물성을 덧입혀 시간의 층위를 드러내는 방식이 주거 리노베이션의 핵심으로 자리 잡고 있다.",
+  "mechanism": "십자형 동선 교차점에 천창을 설치해 빛을 내부 깊숙이 끌어들이고, 곡선형 콘크리트 볼륨을 외부로 돌출시켜 실내 주방과 외부 파티오를 물리적으로 연결했다.",
+  "sensory": "거푸집 자국이 남은 거친 콘크리트와 수작업으로 바른 석회 마감, 그리고 가볍게 두드려 다듬은 대리석이 서로 다른 입자감으로 실내외를 채운다.",
+  "transfer": "콘크리트 볼륨을 곡선으로 처리해 기존 직선형 건물 외관에 부드러운 전이 공간을 만드는 연출을 참고하라. 주방과 파티오 사이의 바닥 레벨을 맞추고 큰 유리창을 배치해 시각적 경계를 지우는 동선 설계를 제안한다.",
+  "context": "벨렝 일라리 스튜디오는 기존 건축의 원형을 보존하면서도 재료의 촉각적 대비를 통해 현대적인 층위를 덧입히는 작업을 지속하고 있다.",
+  "findings": [],
+  "keywords": [
+   "리노베이션",
+   "콘크리트",
+   "십자형동선",
+   "석회마감",
+   "공간재구성"
+  ],
+  "evidence": "the curved concrete volume houses a wine cellar and pantry before projecting outward to form a sheltered patio porch.",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "1970년대 주택의 구조적 한계를 동선 재구성으로 돌파하고, 재료의 물성을 통해 신구의 조화를 구체적으로 구현했다.",
+  "v": 2,
+  "url": "https://www.designboom.com/architecture/curved-concrete-extension-belen-ilarri-studio-1970s-house-near-valencia-casa-lucerna/",
+  "original_title": "curved concrete extension by belén ilarri studio updates 1970s house near valencia",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 5853,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-22 10:22",
+  "research": {
+   "entities": [
+    "Belén Ilarri Studio",
+    "Casa Lucerna"
+   ],
+   "questions": [
+    "벨렝 일라리 스튜디오(Belén Ilarri Studio)는 발렌시아의 1970년대 주택인 카사 루세르나(Casa Lucerna)를 리노베이션하면서 기존 건물의 어떤 구조적 특징을 보존하고자 했는가?",
+    "곡선형 콘크리트 볼륨과 라임 렌더, 마블 등의 소재는 이 주택의 실내외 공간 연계에 어떤 시각적 및 촉각적 변화를 주었는가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "archdaily.com/1019578/aquatics-centre-paris-venhoevencs-plus-ateliers-2-3-4": {
+  "title_ko": "파리 생드니의 곡선형 목조 조각, 2024 올림픽 수영 센터",
+  "summary_ko": "베노벤CS(VenhoevenCS)와 아틀리에 2/3/4/(Ateliers 2/3/4/)가 설계한 파리 생드니 수영 센터는 2024 올림픽을 위해 건설된 유일한 영구 시설이다. 초박형 현수 지붕 아래 곡선형 목조 구조를 적용하여 재료 사용을 최소화하고 프랑스 최대 규모의 도시형 태양광 발전 시설을 통합했다.",
+  "lens": "초박형 현수 지붕과 곡선형 목조 구조가 공학적 효율과 미적 조형성을 동시에 확보하며 대규모 스포츠 시설의 지속가능한 전형을 제시한다.",
+  "why_now": "대규모 일회성 스포츠 시설이 도시의 유산으로 남기 위해 지형과 기후에 순응하는 저탄소 구조를 어떻게 구축해야 하는지 보여준다.",
+  "mechanism": "구조 엔지니어링 업체 sbp(Schlaich Bergermann Partner)가 설계한 초박형 현수 지붕은 재료 물량을 획기적으로 줄이는 동시에 내부 공간의 개방감을 극대화한다.",
+  "sensory": "곡선으로 굽이치는 목재의 따뜻한 질감이 차가운 수영장 물과 대비되며, 지붕을 타고 흐르는 빛이 내부 공간에 부드러운 음영을 드리운다.",
+  "transfer": "대형 공간 프로젝트에서 하중을 최소화하는 현수 구조와 목재의 유연한 곡면 처리를 결합하여 가볍고 개방적인 실내 조명과 샷을 구성할 수 있다.",
+  "context": "이 프로젝트는 2024 파리 올림픽의 유일한 신축 영구 시설로서 생드니 지역의 도시 재생을 주도한다. 구조 설계를 맡은 sbp는 슈투트가르트에 본사를 둔 엔지니어링 그룹으로, 경량 구조와 혁신적인 지붕 시스템을 전문으로 다룬다.",
+  "findings": [
+   {
+    "text": "슈투트가르트에 본사를 둔 sbp는 국제적으로 활동하는 구조 엔지니어링 및 컨설팅 회사이다.",
+    "s": 1,
+    "quote": "Schlaich Bergermann Partner (stylized sbp) is a nationally and internationally active structural engineering and consulting firm with headquarters in Stuttgart, Germany"
+   }
+  ],
+  "keywords": [
+   "목조 구조",
+   "지속가능성",
+   "현수 지붕",
+   "도시 재생"
+  ],
+  "evidence": "The Aquatics Centre emerges as a curved wooden sculpture from the Grand Paris landscape",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "구조적 혁신과 재료 선택의 근거가 명확하며, 지속가능한 건축의 구체적인 구현 방식을 제시하고 있다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1019578/aquatics-centre-paris-venhoevencs-plus-ateliers-2-3-4",
+  "original_title": "Aquatics Centre Paris / VenhoevenCS + Ateliers 2/3/4/",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 2765,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-22 10:22",
+  "research": {
+   "entities": [
+    "VenhoevenCS",
+    "Ateliers 2/3/4/",
+    "Aquatics Centre Paris",
+    "Schlaich Bergermann Partner",
+    "Metropole du Grand Paris"
+   ],
+   "questions": [
+    "파리 올림픽 수영 경기장의 목조 구조 설계가 환경 지속가능성에 기여하는 핵심 기술적 특징은 무엇인가?",
+    "생드니 지역의 도시 재생 관점에서 이 수영 경기장이 갖는 건축적 의미와 사후 활용 계획은 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Schlaich Bergermann Partner",
+     "url": "https://en.wikipedia.org/wiki/Schlaich%20Bergermann%20Partner"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 244
+  },
+  "depth_raw": 4,
+  "depth_v": 2
  }
 }
