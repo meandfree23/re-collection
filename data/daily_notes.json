@@ -4053,5 +4053,44 @@
   "v": 3,
   "model": "gemini-3.1-flash-lite-preview",
   "written_at": "2026-11-22 00:22"
+ },
+ "2026-11-23": {
+  "date": "2026-11-23",
+  "headline": "밤하늘의 죽은 불빛과 도시 골조의 파편",
+  "editorial": "샤르자 트리엔날레의 돔은 죽음의 불빛을 별자리로 그려내고, 에반 에드워드의 피에드아테르는 금속 마감으로 마이애미의 기억을 박제한다. 뉴욕의 가구는 도시의 파편을 골조로 삼아 불협화음을 고정한다. 이들은 거친 기술과 파편을 단단한 형상으로 붙들어 맨다.",
+  "threads": [
+   {
+    "name": "기술과 파편의 형상화",
+    "note": "군사 기술과 도시의 파편을 구조물과 가구로 전환한다.",
+    "items": [
+     {
+      "title": "죽음의 불빛을 신화적 별자리로 그리다, 샤르자 트리엔날레의 돔",
+      "url": "https://www.dezeen.com/2026/11/22/after-night-there-is-nothing-sharjah-architecture-triennial/"
+     },
+     {
+      "title": "도시의 파편으로 빚은 서사: 뉴욕의 일상을 전유하는 여덟 개의 가구",
+      "url": "https://www.dezeen.com/2026/11/22/eight-furniture-designs-informed-by-life-in-new-york-city/"
+     }
+    ]
+   },
+   {
+    "name": "금속과 기억의 박제",
+    "note": "금속 마감과 강렬한 색채로 특정 장소의 기억을 공간에 고정한다.",
+    "items": [
+     {
+      "title": "마이애미의 밤을 재해석한 하이 임팩트 미니멀리즘: 에반 에드워드의 피에드아테르",
+      "url": "https://www.dezeen.com/2026/11/21/evan-edward-miami-beach-pied-a-terre-apartment-renovation/"
+     },
+     {
+      "title": "도시의 파편으로 빚은 서사: 뉴욕의 일상을 전유하는 여덟 개의 가구",
+      "url": "https://www.dezeen.com/2026/11/22/eight-furniture-designs-informed-by-life-in-new-york-city/"
+     }
+    ]
+   }
+  ],
+  "based_on": 5,
+  "v": 3,
+  "model": "gemini-3.5-flash-lite",
+  "written_at": "2026-11-23 00:17"
  }
 }
