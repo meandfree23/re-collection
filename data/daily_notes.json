@@ -4130,5 +4130,64 @@
   "v": 3,
   "model": "gemini-3.5-flash-lite",
   "written_at": "2026-11-23 17:00"
+ },
+ "2026-11-24": {
+  "date": "2026-11-24",
+  "headline": "콘크리트 패널의 적층과 분할된 육각형의 추상",
+  "editorial": "모로코 탕헤르 왕립 극장의 콘크리트 패널은 부레그레그 강의 흐름을 모방하며 지형의 일부로 녹아든다. 게르하르트 리히터의 도하 파빌리온 역시 회화의 평면을 기하학적으로 분할하여 건축의 외피로 치환하며 시각적 무한을 구현한다. 이처럼 물리적 재료와 수학적 패턴을 통해 공간의 형태를 조각하는 작업은 디지털 이미지의 매끄러움을 거부하고 현실의 무게감을 획득하려는 시도다. 셰리 레빈의 차용 미술이 저자성을 지우며 이미지의 기원을 모호하게 만드는 것과 대조적으로, 오늘 소개하는 건축 프로젝트들은 구체적인 사물과 지형을 통해 공간의 실재를 증명한다.",
+  "threads": [
+   {
+    "name": "지형과 수학이 빚은 건축",
+    "note": "자연의 흐름이나 기하학적 분할을 건축의 구조적 원리로 삼아 공간의 형태를 결정짓는 방식이다.",
+    "items": [
+     {
+      "title": "모로코 탕헤르 왕립 극장, 부레그레그 강의 흐름을 조각한 콘크리트의 유동성",
+      "url": "https://www.designboom.com/architecture/zha-royal-theater-rabat-morocco-curves-crystalline-hufton-crow/"
+     },
+     {
+      "title": "게르하르트 리히터의 추상, 도하 MIA 파크에 육각형 파빌리온으로 안착하다",
+      "url": "https://www.designboom.com/architecture/gerhard-richter-pavilion-doha-patterns-islamic-geometry-selldorf-architects/"
+     },
+     {
+      "title": "게르하르트 리히터의 도하 파빌리온, 수학적 패턴으로 빚은 육각형의 시각적 무한",
+      "url": "https://www.wallpaper.com/architecture/gerhard-richter-doha-pavilion"
+     },
+     {
+      "title": "매덕의 맥애널리 레지던스: 모래 언덕 위로 솟아오른 해안 주거",
+      "url": "https://www.archdaily.com/991131/mcanally-residence-maddock"
+     },
+     {
+      "title": "와이오밍의 거친 지형에 안착한 주거 치료 시설, 레드톱 메도우스",
+      "url": "https://www.archdaily.com/1188919/red-top-meadows-residential-treatment-facility-untitled-architecture"
+     }
+    ]
+   },
+   {
+    "name": "이미지의 재조립과 해체",
+    "note": "원본의 권위를 지우거나 기존의 파편을 새롭게 구성하여 새로운 의미를 생성하는 창작 태도다.",
+    "items": [
+     {
+      "title": "셰리 레빈의 이중 부정: 디지털 시대, 복제의 복제를 거듭하는 저자성의 해체",
+      "url": "https://www.artforum.com/columns/sherrie-levine-double-negative-fta-1234763992/"
+     },
+     {
+      "title": "18세기 프랑스 수녀원의 석회암과 오크, 뉴욕 브롱크스빌의 주거로 재조립되다",
+      "url": "https://leibal.com/interiors/bronxville/"
+     },
+     {
+      "title": "브루클린의 1,000평방피트, 20세기 인물화가 층층이 쌓인 사적인 아카이브",
+      "url": "https://www.architecturaldigest.com/story/inside-a-brooklyn-apartment-that-feels-like-an-english-country-estate"
+     },
+     {
+      "title": "다니엘 리와 앤 캐링턴이 빚은 런던 V&A 박물관의 금속제 크리스마스 트리",
+      "url": "https://www.wallpaper.com/fashion-beauty/burberry-daniel-lee-christmas-tree-v-and-a-museum-ann-carrington"
+     }
+    ]
+   }
+  ],
+  "based_on": 24,
+  "v": 3,
+  "model": "gemini-3.1-flash-lite",
+  "written_at": "2026-11-24 04:30"
  }
 }

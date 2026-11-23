@@ -1,160 +1,134 @@
 {
-  "generated_at": "2026-11-23 20:01 KST",
-  "period": "2026.11.16 - 2026.11.23",
-  "total_articles": 577,
+  "generated_at": "2026-11-24 04:16 KST",
+  "period": "2026.11.17 - 2026.11.24",
+  "total_articles": 521,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 268
+      "count": 250
     },
     {
       "genre": "동시대 미술",
-      "count": 183
-    },
-    {
-      "genre": "미디어 파사드·3D",
-      "count": 72
+      "count": 170
     },
     {
       "genre": "아방가르드 패션",
-      "count": 54
+      "count": 59
+    },
+    {
+      "genre": "미디어 파사드·3D",
+      "count": 42
     }
   ],
   "themes": [
     {
-      "keyword": "박물관·전시",
-      "count": 57,
-      "previous_count": 44,
-      "trend": "rising",
-      "items": [
-        {
-          "title": "암스테르담 아트 위크: 일상의 흔적",
-          "url": "https://flash---art.com/2026/11/amsterdam-art-week-traces-of-the-everyday/",
-          "image_url": "/wp-content/uploads/2026/11/Stevenson_Frida_Install_Web-Res_JdeWaart_12.11.26-11-1024x683.jpg",
-          "source_name": "Flash Art"
-        },
-        {
-          "title": "'신성한' 고고학적 유물이 Ex Situ 전시회에서 디자인의 원재료가 되다",
-          "url": "https://www.dezeen.com/2026/11/23/archaeology-design-ex-situ-exhibition/",
-          "image_url": "https://static-2026.dezeen.com/uploads/2026/11/ex-situ-matter-in-translation-exhibition-design_dezeen_2364_sq2-1024x1024.jpg",
-          "source_name": "Dezeen"
-        },
-        {
-          "title": "AUA 나자리안 센터 / 스토라켓 건축 스튜디오",
-          "url": "https://www.archdaily.com/1188267/aua-najarian-center-storaket-architectural-studio",
-          "image_url": "https://images.adsttc.com/media/images/6af1/8cde/4ba6/4700/01d0/80c2/large_jpg/AUA_Najarian_Center_01.jpg?1794215205",
-          "source_name": "ArchDaily"
-        },
-        {
-          "title": "조니 아이브와 마가렛 칼버트, 켄싱턴 디자인 뮤지엄 개관 10주년을 기념하는 포스터 제작",
-          "url": "https://www.dezeen.com/2026/11/22/jony-ive-margaret-calvert-posters-decade-london-design-museum-kensington/",
-          "image_url": "https://static-2026.dezeen.com/uploads/2026/11/margaret-calvert-design-museum-kensington-poster-sq-1024x1024.jpg",
-          "source_name": "Dezeen"
-        }
-      ]
-    },
-    {
-      "keyword": "빛과 조명",
-      "count": 22,
-      "previous_count": 16,
-      "trend": "rising",
-      "items": [
-        {
-          "title": "Urselmann Interior가 진행한 57㎡ 규모의 뒤셀도르프 아파트 리노베이션. 이곳에서는 어떤 것도 낭비되지 않습니다.",
-          "url": "https://www.yellowtrace.com.au/uurselmann-interior-dusseldorf-apartment-material-reuse-sustainable-interior-design/",
-          "image_url": "https://assets.yellowtrace.com.au/wp-content/uploads/2026/11/18193853/Yellowtrace-Uurselmann-Interior-Dusseldorf-Apartment-Material-Reuse-Photo-Magdalena-Gruber-12_opt80.jpg",
-          "source_name": "Yellowtrace"
-        },
-        {
-          "title": "이번 주에 저희는 향후 20년간 주목할 만한 최고의 건축가와 디자이너를 조명하는 시리즈를 시작했습니다.",
-          "url": "https://www.dezeen.com/2026/11/21/dezeen-20x20-this-week/",
-          "image_url": "https://static-2026.dezeen.com/uploads/2026/11/dezeen20x20-birthday_dezeen_2364_col_0-1024x1024.jpg",
-          "source_name": "Dezeen"
-        },
-        {
-          "title": "디자인 뮤지엄의 전례 없는 전시회가 '흑인 디자인의 아름다움과 깊이'를 조명합니다.",
-          "url": "https://www.dezeen.com/2026/11/20/the-nue-black-aesthetic-exhibition/",
-          "image_url": "https://static-2026.dezeen.com/uploads/2026/11/the-nue-black-aesthetic-design-museum-herp_dezeen_2364_col_0-1024x1024.jpg",
-          "source_name": "Dezeen"
-        },
-        {
-          "title": "정밀한 조명을 통해 인간의 감각을 깨우는 ifi 조명",
-          "url": "https://www.designboom.com/architecture/ifi-lighting/",
-          "image_url": "https://www.designboom.com/wp-content/uploads/2026/11/ifi-lighting_homa-house-serifos_designboom_01.jpg",
-          "source_name": "Designboom Architecture"
-        }
-      ]
-    },
-    {
       "keyword": "사진",
-      "count": 18,
-      "previous_count": 13,
+      "count": 19,
+      "previous_count": 11,
       "trend": "rising",
       "items": [
+        {
+          "title": "영국 시골 저택 같은 분위기의 브루클린 아파트 내부",
+          "url": "https://www.architecturaldigest.com/story/inside-a-brooklyn-apartment-that-feels-like-an-english-country-estate",
+          "image_url": "https://media.architecturaldigest.com/photos/6af325f3a1135bbbde950994/master/pass/AD1226_AD_VISITS_2%20copy.jpg",
+          "source_name": "Architectural Digest"
+        },
+        {
+          "title": "AD가 검증한 온라인 사진 인화 구매처(2026)",
+          "url": "https://www.architecturaldigest.com/story/photography-prints-online",
+          "image_url": "https://media.architecturaldigest.com/photos/6b046bace5a0d48f4ff21be1/master/pass/AD0722_BUSH_12.jpg",
+          "source_name": "Architectural Digest"
+        },
+        {
+          "title": "사진작가 티무르 만수로프(Timur Mansurov)의 '시골 수의사'",
+          "url": "https://www.booooooom.com/2026/11/23/rural-veterinarian-by-photographer-timur-mansurov/",
+          "image_url": "https://cdn.booooooom.com/wp-content/uploads/2026/11/Mansurov1.jpg",
+          "source_name": "BOOOOOOOM"
+        },
         {
           "title": "Paris Photo는 사진의 미래를 위해 우리가 계속 출판해야 한다는 사실을 증명했습니다.",
           "url": "https://www.itsnicethat.com/features/paris-photo-2026-photobooks-feature-231126",
           "image_url": "https://admin.itsnicethat.com/images/FI3eGkQnUxxbtSQj2sSb8OuAttI=/285113/width-1440/paris-photo-hero.jpg",
           "source_name": "It's Nice That"
-        },
-        {
-          "title": "압박감을 느끼며 일하는 것에 대한 새첼 리(Satchel Lee)의 생각",
-          "url": "https://elephant.art/satchel-lee-on-working-under-pressure/",
-          "image_url": "https://elephant.art/wp-content/uploads/2026/11/DSCF2843.jpeg",
-          "source_name": "Elephant"
-        },
-        {
-          "title": "아프리카의 활기찬 거리 사진이 새로운 Thames & Hudson의 책 주제가 되었습니다.",
-          "url": "https://www.wallpaper.com/art/photography/street-photography-africa-photo-book-review",
-          "image_url": "https://cdn.mos.cms.futurecdn.net/fYHocHzEoQD9zPXEyv4yGU-1920-80.png",
-          "source_name": "Wallpaper*"
-        },
-        {
-          "title": "다음 프로젝트에 예약할 수 있는 AD 승인 인테리어 사진작가",
-          "url": "https://www.architecturaldigest.com/story/50-ad-approved-photographers",
-          "image_url": "https://media.architecturaldigest.com/photos/6afc981962312feba5cc576d/master/pass/___AD0626_FRIEDMAN_21%20copy.jpg",
-          "source_name": "Architectural Digest"
         }
       ]
     },
     {
-      "keyword": "목재 건축",
-      "count": 18,
+      "keyword": "가구 디자인",
+      "count": 15,
       "previous_count": 13,
       "trend": "rising",
       "items": [
         {
-          "title": "요코하마 팀버 워프 / 타이주 야마시타 디자인 및 건축",
-          "url": "https://www.archdaily.com/1188949/yokohama-timber-wharf-taiju-yamashita-design-and-architecture",
-          "image_url": "https://images.adsttc.com/media/images/6aff/09dd/eabd/2a00/0193/2555/large_jpg/d_93243.jpg?1795099276",
-          "source_name": "ArchDaily"
+          "title": "HTA Design, '영국 최대의 공공 임대주택 개발' 공개",
+          "url": "https://www.dezeen.com/2026/11/23/kidbrooke-park-road-hta-design/",
+          "image_url": "https://static-2026.dezeen.com/uploads/2026/11/kidbrooke-park-road-hta-design-council-housing_dezeen_2364_sq-1024x1024.jpg",
+          "source_name": "Dezeen"
         },
         {
-          "title": "DKR 하우스",
-          "url": "https://leibal.com/interiors/dkr-house/",
-          "image_url": "https://leibal.com/wp-content/uploads/2026/11/leibal-dkr-house-oskar-firek-architects-1515.jpg",
-          "source_name": "Leibal"
+          "title": "영국 시골 저택 같은 분위기의 브루클린 아파트 내부",
+          "url": "https://www.architecturaldigest.com/story/inside-a-brooklyn-apartment-that-feels-like-an-english-country-estate",
+          "image_url": "https://media.architecturaldigest.com/photos/6af325f3a1135bbbde950994/master/pass/AD1226_AD_VISITS_2%20copy.jpg",
+          "source_name": "Architectural Digest"
         },
         {
-          "title": "976개의 삼각형 모듈로 구성된 스위스의 별 모양 목재 캐노피",
-          "url": "https://www.designboom.com/architecture/976-triangular-modules-compose-star-patterned-timber-canopy-in-switzerland/",
-          "image_url": "https://www.designboom.com/wp-content/dbsub/471061/2026-11-20/stellar-pavilion-a-roof-for-village-life-1-6b001941b3fd5.jpg",
-          "source_name": "Designboom Architecture"
+          "title": "로마의 거리에서 영감을 얻은 가구 컬렉션",
+          "url": "https://www.wallpaper.com/design-interiors/furniture/a-furniture-collection-inspired-by-the-streets-of-rome",
+          "image_url": "https://cdn.mos.cms.futurecdn.net/irP8mnEAL3JqnZWqHrkexW-1920-80.png",
+          "source_name": "Wallpaper*"
         },
         {
-          "title": "로스앤젤레스 언덕에 자리한 따뜻한 가족 휴양지, 그을린 목재로 지어진 이 주택으로 들어가 보세요.",
-          "url": "https://www.wallpaper.com/architecture/residential/charred-timber-house-nustudio-los-angeles-hills-usa",
-          "image_url": "https://cdn.mos.cms.futurecdn.net/hSEGHhUmhi5yZ4rzzVSjcB-1920-80.jpg",
+          "title": "FrameScale, W. Schillig를 위해 Cloud9 Chair를 부상시키다",
+          "url": "https://www.stashmedia.tv/framescale-floats-the-cloud9-chair-for-w-schillig/",
+          "image_url": "http://www.stashmedia.tv/wp-content/uploads/W.-Schillig-Cloud9-Chair-ad-by-FrameScale-STASH-MAGAZINE5-1920x1080.jpg",
+          "source_name": "Stash Media"
+        }
+      ]
+    },
+    {
+      "keyword": "박물관·전시",
+      "count": 51,
+      "previous_count": 50,
+      "trend": "steady",
+      "items": [
+        {
+          "title": "'아트포트: 인터넷 아트 렌즈의 역사'는 켄 골드버그(Ken Goldberg)의 '데몬스트레이트(Demonstrate)'를 재고하도록 초대합니다.",
+          "url": "https://clotmag.com/oped/artport-a-history-of-internet-art-lens-invites-us-to-reconsider-ken-goldbergs-demonstrate",
+          "image_url": "https://clotmag.com/wp-content/uploads/2026/11/1092266393.jpg",
+          "source_name": "CLOT Magazine"
+        },
+        {
+          "title": "트럼프 참모, 스미소니언 인수를 계획하고 있음을 무심코 공개",
+          "url": "https://hyperallergic.com/trump-staffer-unwittingly-reveals-smithsonian-takeover-plan/",
+          "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/11/CLEAN_Smithsonian-subway_maxHeight_3000_maxWidth_3000-1-1.webp",
+          "source_name": "Hyperallergic"
+        },
+        {
+          "title": "아트 바젤 홍콩, 2027년 에디션의 출품자 명단 및 새로운 전시 공간 배치 공개",
+          "url": "https://www.artforum.com/news/art-basel-hong-kong-exhibitors-and-layout-2027-edition-1234764003/",
+          "image_url": "https://www.artforum.com/wp-content/uploads/2025/11/Print_approx_21_x_14_cm_ABHK25__General_Impressions__PR__MC_1389._HiRes.jpg?w=650",
+          "source_name": "Artforum"
+        },
+        {
+          "title": "낸 골딘이 런던으로 돌아와 헤이워드 갤러리에서 강력한 영향력을 발휘하고 있습니다.",
+          "url": "https://www.wallpaper.com/art/exhibitions-shows/nan-goldin-is-back-in-london-and-a-powerful-force-at-the-hayward-gallery",
+          "image_url": "https://cdn.mos.cms.futurecdn.net/ALYr24BkP7ALj958Q7ryhc-1920-80.png",
           "source_name": "Wallpaper*"
         }
       ]
     },
     {
       "keyword": "리노베이션·재생",
-      "count": 16,
-      "previous_count": 13,
-      "trend": "rising",
+      "count": 15,
+      "previous_count": 15,
+      "trend": "steady",
       "items": [
+        {
+          "title": "SABO project가 뉴욕 아파트 내부의 구획을 부드럽게 만들어주는 대담한 형태와 둥근 칸막이",
+          "url": "https://www.designboom.com/architecture/bold-shapes-rounded-partitions-soft-divisions-new-york-apartment-sabo-project/",
+          "image_url": "https://www.designboom.com/wp-content/dbsub/415299/2026-11-14/soft-division-2-6af8f29e5347f.jpg",
+          "source_name": "Designboom Architecture"
+        },
         {
           "title": "Urselmann Interior가 진행한 57㎡ 규모의 뒤셀도르프 아파트 리노베이션. 이곳에서는 어떤 것도 낭비되지 않습니다.",
           "url": "https://www.yellowtrace.com.au/uurselmann-interior-dusseldorf-apartment-material-reuse-sustainable-interior-design/",
@@ -172,61 +146,87 @@
           "url": "https://www.archdaily.com/1188973/ca-la-tecla-renovation-hiha-studio",
           "image_url": "https://images.adsttc.com/media/images/6afd/b8d1/eabd/2a00/0193/1d05/large_jpg/001.jpg?1795012843",
           "source_name": "ArchDaily"
-        },
-        {
-          "title": "Scotland’s Paisley Museum to Reopen in Early 2027",
-          "url": "https://www.artforum.com/news/scotlands-paisley-museum-to-reopen-early-2027-1234763970/",
-          "image_url": "https://www.artforum.com/wp-content/uploads/2026/11/Paisley_Museum_and_Art_Galleries_-_geograph.org_.uk_-_387047.jpg?w=640",
-          "source_name": "Artforum"
         }
       ]
     },
     {
-      "keyword": "가구 디자인",
-      "count": 15,
-      "previous_count": 11,
-      "trend": "rising",
+      "keyword": "미니멀리즘",
+      "count": 7,
+      "previous_count": 8,
+      "trend": "steady",
       "items": [
         {
-          "title": "로마의 거리에서 영감을 얻은 가구 컬렉션",
-          "url": "https://www.wallpaper.com/design-interiors/furniture/a-furniture-collection-inspired-by-the-streets-of-rome",
-          "image_url": "https://cdn.mos.cms.futurecdn.net/irP8mnEAL3JqnZWqHrkexW-1920-80.png",
-          "source_name": "Wallpaper*"
+          "title": "케이시 로어티는 미니멀한 디자인에 끌리지만, Chicken Shop Date를 위한 그의 그래픽은 개성을 돋보이게 합니다.",
+          "url": "https://www.itsnicethat.com/articles/casey-roarty-graphic-design-discover-231126",
+          "image_url": "https://admin.itsnicethat.com/images/HiTCidpQ-pH02U0x0RqRsDCWzGQ=/284877/width-1440/casey-roarty-graphic-design-itsnicethat-5.jpg",
+          "source_name": "It's Nice That"
         },
         {
-          "title": "FrameScale, W. Schillig를 위해 Cloud9 Chair를 부상시키다",
-          "url": "https://www.stashmedia.tv/framescale-floats-the-cloud9-chair-for-w-schillig/",
-          "image_url": "http://www.stashmedia.tv/wp-content/uploads/W.-Schillig-Cloud9-Chair-ad-by-FrameScale-STASH-MAGAZINE5-1920x1080.jpg",
-          "source_name": "Stash Media"
+          "title": "란",
+          "url": "https://leibal.com/interiors/lannes/",
+          "image_url": "https://leibal.com/wp-content/uploads/2026/11/leibal_lannes_atelier-baptiste-legue_08.jpg",
+          "source_name": "Leibal"
         },
         {
-          "title": "뉴욕시 생활에서 영감을 얻은 8가지 가구 디자인",
-          "url": "https://www.dezeen.com/2026/11/22/eight-furniture-designs-informed-by-life-in-new-york-city/",
-          "image_url": "https://static-2026.dezeen.com/uploads/2023/11/hero2-tian-and-teague-discomfort-new-york-furniture_dezeen_2364_col_5-1704x2130-1-852x852.jpg",
-          "source_name": "Dezeen"
+          "title": "미니멀리즘 주택",
+          "url": "https://leibal.com/interiors/minimalist-house/",
+          "image_url": "https://leibal.com/wp-content/uploads/2026/11/leibal-minimalist-house-form-kouichi-kimura-architects-1521.jpg",
+          "source_name": "Leibal"
         },
         {
-          "title": "뉴욕의 새로운 가구 갤러리, 잊혀졌던 이탈리아 디자이너의 재기, 그 외 다양한 소식",
-          "url": "https://www.sightunseen.com/2026/11/a-new-furniture-gallery-in-new-york-an-obscure-italian-designer-reemerges-and-more/",
-          "image_url": "https://www.sightunseen.com/wordpress/wp-content/uploads/2026/11/Leset-Sunset_02-728x558.jpg",
-          "source_name": "Sight Unseen"
+          "title": "시하야: 웰니스를 위해 설계된 슈퍼요트",
+          "url": "https://coolhunting.com/design/sihaya-a-superyacht-designed-for-wellness/",
+          "image_url": "https://coolhunting.com/wp-content/uploads/2026/11/9.3-768x436.jpg",
+          "source_name": "Cool Hunting"
+        }
+      ]
+    },
+    {
+      "keyword": "설치 미술",
+      "count": 5,
+      "previous_count": 6,
+      "trend": "steady",
+      "items": [
+        {
+          "title": "perkins&will and estúdio campana wrap são paulo airport lounge in amazon river-inspired timber installation",
+          "url": "https://www.designboom.com/architecture/perkinswill-estudio-campana-sao-paulo-airport-lounge-amazon-river-inspired-timber-installation-pedra-preta/",
+          "image_url": "https://www.designboom.com/wp-content/dbsub/457982/2026-11-11/pedra-preta-lounge-transforms-latin-americas-busiest-airport-into-a-destination-for-brazilian-art-design-and-culture-5-6af4cbe01fdb2.jpg",
+          "source_name": "Designboom Architecture"
+        },
+        {
+          "title": "'불완전에 대한 열정'이 돋보이는 안드레아 브란지(Andrea Branzi)의 램프 설치 작품",
+          "url": "https://www.dezeen.com/2026/05/08/objects-speak-andrea-branzi-lamp-milan-design-week/",
+          "image_url": "https://static-2026.dezeen.com/uploads/2026/05/objects-speak-andrea-branzi-lamp-milan-design-week_dezeen_2364_sq_1-852x852.jpg",
+          "source_name": "Dezeen Lighting"
+        },
+        {
+          "title": "Jacolby Satterwhite - A Metta Prayer",
+          "url": "https://www.nowness.com/films/jacolby-satterwhite-a-metta-prayer/",
+          "image_url": "https://www.nowness.com/media/bvuh5fa3/a-metta-prayer-still-3.jpg",
+          "source_name": "NOWNESS"
+        },
+        {
+          "title": "Aesop, 밀라노 디자인 위크에서 The Factory of Light 설치 작품과 함께 Aposē 램프 출시",
+          "url": "https://www.dezeen.com/2026/04/20/aesop-apose-factory-light-milan-design-week/",
+          "image_url": "https://static-2026.dezeen.com/uploads/2026/04/aesop-lamps-milan-design-week_dezeen_2364_col_sq.jpg",
+          "source_name": "Dezeen Lighting"
         }
       ]
     }
   ],
   "notable_names": [
-    "Edu Request",
-    "Dezeen Awards",
     "Paris Photo",
     "Limber Up",
-    "Sharjah Architecture Triennial",
     "Approved Interior Photographers",
     "Holiday Gift Guide",
     "Keith Haring",
     "Still Here",
     "Venice Architecture Biennale",
     "Editor Picks",
-    "Rare Hilma"
+    "Rare Hilma",
+    "Sabine Marcelis",
+    "Metta Prayer",
+    "Mexico City"
   ],
   "has_comparison": true
 }
