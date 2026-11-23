@@ -376882,5 +376882,50 @@
   },
   "depth_raw": 3,
   "depth_v": 2
+ },
+ "archdaily.com/1188943/fukasawa-commercial-building-key-operation-inc-architects": {
+  "title_ko": "후카사와 상업 빌딩: 교차로 모퉁이에서 도시의 속도를 조율하는 방식",
+  "summary_ko": "도쿄 고마자와 파크 애비뉴의 교차로에 위치한 이 상업용 건물은 교육 및 의료 시설이 밀집한 지역적 특성에 대응한다. 키 오퍼레이션(KEY OPERATION INC. / ARCHITECTS)은 자동차와 보행자가 섞이는 복잡한 동선 속에서 주변 환경과 조화를 이루면서도 독자적인 존재감을 드러내는 재료 구성과 형태를 구현했다.",
+  "lens": "교차로의 속도감에 맞서 건물의 입면을 어떻게 분절하여 도시의 흐름과 보조를 맞출 것인가에 대한 해답을 제시한다.",
+  "why_now": "도시 인프라와 상업 공간의 경계가 모호해지는 시점에, 주변 맥락을 거스르지 않으면서도 시각적 정체성을 확보하는 건축적 태도가 유효하다.",
+  "mechanism": "건물의 매스를 교차로의 각도에 맞춰 배치하고, 주변 도로의 보행 및 차량 흐름을 고려한 재료의 질감 변화로 건축물과 도시의 물리적 거리를 조정한다.",
+  "sensory": "고마자와 파크 애비뉴의 분주한 소음 속에서 대비되는 차분한 외장재의 질감과, 코너를 따라 이어지는 빛의 변화가 건물의 입체감을 강조한다.",
+  "transfer": "교차로 촬영 시 건물 외벽의 분절된 면을 활용해 피사체의 이동 경로를 따라 빛이 굴절되는 샷을 구성하고, 공간 설계 시에는 외부 보행로의 시선이 건물 내부로 자연스럽게 전이되도록 입면의 투명도를 조절한다.",
+  "context": "키 오퍼레이션은 도쿄의 밀도 높은 도시 환경 속에서 대지의 물리적 한계를 정교한 매스 분절로 해결하는 작업을 지속해 왔다.",
+  "findings": [],
+  "keywords": [
+   "상업건축",
+   "도시맥락",
+   "매스분절",
+   "고마자와"
+  ],
+  "evidence": "the design considers how a building can respond to a major road through a neighbourhood of educational and medical institutions.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "건물의 구체적인 재료와 입면 기법이 상세히 기술되지 않아 보편적인 설계 전략 수준의 해석에 머물렀다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1188943/fukasawa-commercial-building-key-operation-inc-architects",
+  "original_title": "Fukasawa Commercial Building / KEY OPERATION INC. / ARCHITECTS",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 1177,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-23 13:02",
+  "research": {
+   "entities": [
+    "KEY OPERATION INC. / ARCHITECTS",
+    "Komazawa Park Avenue"
+   ],
+   "questions": [
+    "KEY OPERATION INC. / ARCHITECTS가 추구하는 건축 철학은 무엇인가?",
+    "후카사와 지역의 도시적 맥락과 상업 시설의 조화를 위해 어떤 설계 전략이 사용되었는가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
  }
 }
