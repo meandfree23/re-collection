@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-11-23 04:57 KST",
+  "generated_at": "2026-11-23 10:47 KST",
   "period": "2026.11.16 - 2026.11.23",
-  "total_articles": 546,
+  "total_articles": 553,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 252
+      "count": 257
     },
     {
       "genre": "동시대 미술",
-      "count": 172
+      "count": 173
     },
     {
       "genre": "미디어 파사드·3D",
-      "count": 69
+      "count": 70
     },
     {
       "genre": "아방가르드 패션",
@@ -55,10 +55,16 @@
     },
     {
       "keyword": "빛과 조명",
-      "count": 21,
+      "count": 22,
       "previous_count": 16,
       "trend": "rising",
       "items": [
+        {
+          "title": "Urselmann Interior가 진행한 57㎡ 규모의 뒤셀도르프 아파트 리노베이션. 이곳에서는 어떤 것도 낭비되지 않습니다.",
+          "url": "https://www.yellowtrace.com.au/uurselmann-interior-dusseldorf-apartment-material-reuse-sustainable-interior-design/",
+          "image_url": "https://assets.yellowtrace.com.au/wp-content/uploads/2026/11/18193853/Yellowtrace-Uurselmann-Interior-Dusseldorf-Apartment-Material-Reuse-Photo-Magdalena-Gruber-12_opt80.jpg",
+          "source_name": "Yellowtrace"
+        },
         {
           "title": "이번 주에 저희는 향후 20년간 주목할 만한 최고의 건축가와 디자이너를 조명하는 시리즈를 시작했습니다.",
           "url": "https://www.dezeen.com/2026/11/21/dezeen-20x20-this-week/",
@@ -76,12 +82,6 @@
           "url": "https://www.designboom.com/architecture/ifi-lighting/",
           "image_url": "https://www.designboom.com/wp-content/uploads/2026/11/ifi-lighting_homa-house-serifos_designboom_01.jpg",
           "source_name": "Designboom Architecture"
-        },
-        {
-          "title": "james turrell fills new york gallery with floating cubes and glowing walls of light",
-          "url": "https://www.designboom.com/art/james-turrell-new-york-gallery-almine-rech-something-old-new-borrowed-blue/",
-          "image_url": "https://www.designboom.com/wp-content/uploads/2026/11/james-turrell-almine-rech-new-york-something-old-new-borrowed-blue-designboom-01.jpg",
-          "source_name": "Designboom Art"
         }
       ]
     },
@@ -150,11 +150,49 @@
       ]
     },
     {
+      "keyword": "리노베이션·재생",
+      "count": 16,
+      "previous_count": 13,
+      "trend": "rising",
+      "items": [
+        {
+          "title": "Urselmann Interior가 진행한 57㎡ 규모의 뒤셀도르프 아파트 리노베이션. 이곳에서는 어떤 것도 낭비되지 않습니다.",
+          "url": "https://www.yellowtrace.com.au/uurselmann-interior-dusseldorf-apartment-material-reuse-sustainable-interior-design/",
+          "image_url": "https://assets.yellowtrace.com.au/wp-content/uploads/2026/11/18193853/Yellowtrace-Uurselmann-Interior-Dusseldorf-Apartment-Material-Reuse-Photo-Magdalena-Gruber-12_opt80.jpg",
+          "source_name": "Yellowtrace"
+        },
+        {
+          "title": "카사 아미고 / 에스투디오 트라베르티노",
+          "url": "https://www.archdaily.com/1188597/casa-amigo-estudio-travertino",
+          "image_url": "https://images.adsttc.com/media/images/6af7/0351/eabd/2a00/0192/e3ed/large_jpg/01-AMIGO-TRAVERTINO.jpg?1794573153",
+          "source_name": "ArchDaily"
+        },
+        {
+          "title": "Ca la Tecla 리노베이션 / Hiha Studio",
+          "url": "https://www.archdaily.com/1188973/ca-la-tecla-renovation-hiha-studio",
+          "image_url": "https://images.adsttc.com/media/images/6afd/b8d1/eabd/2a00/0193/1d05/large_jpg/001.jpg?1795012843",
+          "source_name": "ArchDaily"
+        },
+        {
+          "title": "Scotland’s Paisley Museum to Reopen in Early 2027",
+          "url": "https://www.artforum.com/news/scotlands-paisley-museum-to-reopen-early-2027-1234763970/",
+          "image_url": "https://www.artforum.com/wp-content/uploads/2026/11/Paisley_Museum_and_Art_Galleries_-_geograph.org_.uk_-_387047.jpg?w=640",
+          "source_name": "Artforum"
+        }
+      ]
+    },
+    {
       "keyword": "가구 디자인",
-      "count": 13,
+      "count": 14,
       "previous_count": 11,
       "trend": "rising",
       "items": [
+        {
+          "title": "FrameScale, W. Schillig를 위해 Cloud9 Chair를 부상시키다",
+          "url": "https://www.stashmedia.tv/framescale-floats-the-cloud9-chair-for-w-schillig/",
+          "image_url": "http://www.stashmedia.tv/wp-content/uploads/W.-Schillig-Cloud9-Chair-ad-by-FrameScale-STASH-MAGAZINE5-1920x1080.jpg",
+          "source_name": "Stash Media"
+        },
         {
           "title": "뉴욕시 생활에서 영감을 얻은 8가지 가구 디자인",
           "url": "https://www.dezeen.com/2026/11/22/eight-furniture-designs-informed-by-life-in-new-york-city/",
@@ -172,44 +210,6 @@
           "url": "https://www.architecturaldigest.com/story/black-friday-home-deals-11-20-2026",
           "image_url": "https://media.architecturaldigest.com/photos/691f8ac452cf1dcd17bc42a5/master/pass/AD0923_DUPONT_9%20copy.jpg",
           "source_name": "Architectural Digest"
-        },
-        {
-          "title": "14 Best Early Black Friday Furniture Deals for Aesthetes (2026)",
-          "url": "https://www.architecturaldigest.com/story/black-friday-furniture-deals-11-20-2026",
-          "image_url": "https://media.architecturaldigest.com/photos/6920bf70da6194734dc4b647/master/pass/AM_3.jpg",
-          "source_name": "Architectural Digest"
-        }
-      ]
-    },
-    {
-      "keyword": "설치 미술",
-      "count": 9,
-      "previous_count": 3,
-      "trend": "rising",
-      "items": [
-        {
-          "title": "perkins&will and estúdio campana wrap são paulo airport lounge in amazon river-inspired timber installation",
-          "url": "https://www.designboom.com/architecture/perkinswill-estudio-campana-sao-paulo-airport-lounge-amazon-river-inspired-timber-installation-pedra-preta/",
-          "image_url": "https://www.designboom.com/wp-content/dbsub/457982/2026-11-11/pedra-preta-lounge-transforms-latin-americas-busiest-airport-into-a-destination-for-brazilian-art-design-and-culture-5-6af4cbe01fdb2.jpg",
-          "source_name": "Designboom Architecture"
-        },
-        {
-          "title": "'불완전에 대한 열정'이 돋보이는 안드레아 브란지(Andrea Branzi)의 램프 설치 작품",
-          "url": "https://www.dezeen.com/2026/05/08/objects-speak-andrea-branzi-lamp-milan-design-week/",
-          "image_url": "https://static-2026.dezeen.com/uploads/2026/05/objects-speak-andrea-branzi-lamp-milan-design-week_dezeen_2364_sq_1-852x852.jpg",
-          "source_name": "Dezeen Lighting"
-        },
-        {
-          "title": "Jacolby Satterwhite - A Metta Prayer",
-          "url": "https://www.nowness.com/films/jacolby-satterwhite-a-metta-prayer/",
-          "image_url": "https://www.nowness.com/media/bvuh5fa3/a-metta-prayer-still-3.jpg",
-          "source_name": "NOWNESS"
-        },
-        {
-          "title": "Aesop, 밀라노 디자인 위크에서 The Factory of Light 설치 작품과 함께 Aposē 램프 출시",
-          "url": "https://www.dezeen.com/2026/04/20/aesop-apose-factory-light-milan-design-week/",
-          "image_url": "https://static-2026.dezeen.com/uploads/2026/04/aesop-lamps-milan-design-week_dezeen_2364_col_sq.jpg",
-          "source_name": "Dezeen Lighting"
         }
       ]
     }

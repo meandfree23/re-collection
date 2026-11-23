@@ -4056,45 +4056,41 @@
  },
  "2026-11-23": {
   "date": "2026-11-23",
-  "headline": "샤르자 트리엔날레의 군사 돔과 뉴욕 골목의 철제 골조",
-  "editorial": "샤르자 트리엔날레의 돔은 살상용 무기를 밤하늘의 신화로 길들여 폭력의 기술을 정면으로 마주한다. 이처럼 파편화된 도시의 물리적 시간을 가구의 골조로 옮겨온 뉴욕의 작업과, 카메라의 미세한 움직임을 디지털 좌표로 붙잡는 실시간 트래킹 기술은 각자의 영역에서 흩어진 정보를 단단한 형상으로 고정한다. 기술과 파편이라는 각기 다른 재료를 통해, 우리는 세상의 무질서한 속도를 제어 가능한 범위 안으로 끌어들인다.",
+  "headline": "샤르자의 군사 파빌리온과 그라츠 중앙 주방의 투명한 창",
+  "editorial": "죽음의 불빛을 신화적 별자리로 그리다, 샤르자 트리엔날레의 돔은 폭력의 기술을 밤하늘의 장치로 길들인다. 도시의 생산 기지를 투명한 공공 인프라로, 그라츠 중앙 주방은 산업용 주방의 막을 걷어내고 노동의 현장을 도시의 일상적 풍경으로 바로 세운다. 고유한 물성과 기술을 매개로 도시의 닫힌 틈을 열어젖히는 이 야심 찬 구조물들은 파편화된 공간에 새로운 질서를 부여한다.",
   "threads": [
    {
-    "name": "기술로 붙잡는 파편",
-    "note": "무질서한 물리적 대상이나 움직임을 정밀한 장치와 설계로 고정하여 새로운 질서를 부여한다.",
+    "name": "기술과 도시의 개방",
+    "note": "군사 기술과 산업 건축의 폐쇄성을 걷어내고 대중과 마주하는 투명한 인프라로 전환한다.",
     "items": [
      {
       "title": "죽음의 불빛을 신화적 별자리로 그리다, 샤르자 트리엔날레의 돔",
       "url": "https://www.dezeen.com/2026/11/22/after-night-there-is-nothing-sharjah-architecture-triennial/"
      },
      {
-      "title": "실시간 카메라 트래킹의 정밀도, 스타일 인 찹을 통한 가상 환경 통합",
-      "url": "https://derivative.ca/solr/stype-chop-0"
-     },
-     {
-      "title": "도시의 파편으로 빚은 서사: 뉴욕의 일상을 전유하는 여덟 개의 가구",
-      "url": "https://www.dezeen.com/2026/11/22/eight-furniture-designs-informed-by-life-in-new-york-city/"
+      "title": "도시의 생산 기지를 투명한 공공 인프라로, 그라츠 중앙 주방",
+      "url": "https://www.designboom.com/architecture/green-metal-facade-plant-walls-municipal-kitchen-austria-central-kitchen-graz-superfuture-group/"
      }
     ]
    },
    {
-    "name": "압박이 빚어낸 응축된 형상",
-    "note": "시간이나 마감이라는 외부의 강제적 조건 속에서 작업의 실체를 명확한 결과물로 압축해낸다.",
+    "name": "시간과 파편의 재조립",
+    "note": "도시의 버려진 파편과 노후화된 골조를 현대적 문법으로 갱신하여 물리적 시간의 궤적을 고정한다.",
     "items": [
      {
-      "title": "게임 세계관의 물리적 무대화: GTA 6 마이애미 페스티벌 백스테이지",
-      "url": "https://www.wallpaper.com/art/music/gta6-festival-miami-design"
+      "title": "도시의 파편으로 빚은 서사: 뉴욕의 일상을 전유하는 여덟 개의 가구",
+      "url": "https://www.dezeen.com/2026/11/22/eight-furniture-designs-informed-by-life-in-new-york-city/"
      },
      {
-      "title": "마감의 압박과 일상의 수집: 새첼 리가 구축하는 작업의 궤적",
-      "url": "https://elephant.art/satchel-lee-on-working-under-pressure/"
+      "title": "예레반의 시간과 지진에 맞서는 구조, 나자리안 센터의 갱신",
+      "url": "https://www.archdaily.com/1188267/aua-najarian-center-storaket-architectural-studio"
      }
     ]
    }
   ],
-  "based_on": 11,
+  "based_on": 18,
   "v": 3,
-  "model": "gemini-3.1-flash-lite",
-  "written_at": "2026-11-23 04:57"
+  "model": "gemini-3.5-flash-lite",
+  "written_at": "2026-11-23 10:48"
  }
 }
