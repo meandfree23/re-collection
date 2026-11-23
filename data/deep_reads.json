@@ -380518,5 +380518,557 @@
   },
   "depth_raw": 3,
   "depth_v": 2
+ },
+ "archdaily.com/1068580/house-in-besteiros-rasura-arquitetos": {
+  "title_ko": "지형의 단차와 폐허를 엮은 포르투갈의 베스테이루스 주택",
+  "summary_ko": "포르투갈 베스테이루스에 위치한 이 주택은 라스우라 아키테투스가 설계했으며, 도로변의 작은 폐허와 올리브나무가 우거진 가파른 경사지를 바탕으로 한다. 건축가는 기존의 폐허 구조물과 고유한 분위기를 보존하면서 작은 테라스들로 이어진 대지에 거주 공간을 안착시켰다.",
+  "lens": "오래된 폐허의 흔적을 지우지 않고 가파른 지형의 단차 속으로 스며들게 만든다.",
+  "why_now": "원시적인 지형과 기존 폐허의 물성을 거스르지 않고 결합하는 태도는 인공적인 토목 공사를 최소화하는 설계 방식을 환기한다.",
+  "mechanism": "도로와 접한 기존 폐허의 외피를 남기고, 경사지의 테라스 레벨에 맞춰 건물의 매스를 분산 배치해 자연 지형과 긴밀하게 맞물린다.",
+  "sensory": "올리브나무와 밤나무가 우거진 거친 대지 위로 산화된 폐허의 벽체와 목재 마감이 겹쳐지며 묵직한 대기의 무게를 만든다.",
+  "transfer": "가파른 지형을 배경으로 수직적인 단차를 극복하는 롱테이크 샷이나, 거친 자연 식생 사이에 놓인 콘크리트와 목재의 대비를 프레임에 담는다.",
+  "context": "라스우라 아키테투스의 리드 건축가인 페드로 바로스는 이전 프로젝트에서 지형의 조건과 외부 환경을 건물 내부로 적극적으로 끌어들이는 공간 실험을 지속해 왔다.",
+  "findings": [],
+  "keywords": [
+   "포르투갈 건축",
+   "지형 순응",
+   "폐허 리노베이션",
+   "테라스 주택"
+  ],
+  "evidence": "A small ruin located on the boundary bordering the public road provides access to a steep plot organized in small terraces, densely populated with olive, chestnut, and orange trees.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "폐허와 경사 지형을 활용한 주택의 기본적 물리적 접근이 명확하지만 세부 공법 정보가 부족하다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1068580/house-in-besteiros-rasura-arquitetos",
+  "original_title": "House in Besteiros / Rasura Arquitetos",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 1418,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-24 05:08",
+  "research": {
+   "entities": [
+    "Rasura Arquitetos",
+    "Alexander Bogorodskiy",
+    "Alice Cardoso",
+    "Pedro Barros",
+    "Besteiros"
+   ],
+   "questions": [
+    "포르투갈의 베스테이루스(Besteiros)에 위치한 이 주택은 기존의 폐허와 자연 경사를 어떻게 활용하여 설계되었나요?",
+    "라스우라 아키테투스(Rasura Arquitetos)는 이 주택 프로젝트에서 지속 가능성과 주변 자연환경(올리브나무, 밤나무 등)을 보존하기 위해 어떤 건축적 접근을 취했나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "아피아카스 아르키테토스의 빈헤도 주택: 경계 없는 복도로 확장하는 거주 경험",
+     "url": "https://www.archdaily.com/1036541/house-in-vinhedo-apiacas-arquitetos"
+    }
+   ],
+   "used": [],
+   "chars": 255
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "archdaily.com/1188937/soft-division-apartment-sabo-project": {
+  "title_ko": "맨해튼의 거친 산업적 골조를 곡선과 녹색으로 잇는 유연한 주거",
+  "summary_ko": "뉴욕 로어 이스트 사이드의 68제곱미터 아파트를 사보 프로젝트가 3인 가족을 위한 공간으로 재구성했다. 기존의 산업적 골조를 유지하면서 벽면 모서리와 칸막이를 둥글게 다듬고 녹색 색조를 적용하여 공간 간의 물리적 경계를 완화했다. 중앙 거실이 주변부 알코브로 자연스럽게 확장되는 동선을 설계하여 소형 평형의 한계를 극복했다.",
+  "lens": "거친 콘크리트 골조와 둥근 곡선형 파티션을 결합해 산업적 공간을 유연한 거주지로 전환했다.",
+  "why_now": "고밀도 도시 주거에서 고정된 벽체 대신 시각적·물리적 흐름을 만드는 공간 설계가 다시 주목받고 있다.",
+  "mechanism": "벽면 모서리와 칸막이를 곡선으로 처리해 시선의 단절을 없애고, 중앙 거실을 중심으로 주변 공간이 알코브 형태로 확장되도록 배치했다.",
+  "sensory": "산업적인 콘크리트 골조의 거친 물성과 부드러운 곡선 파티션이 대비되며, 일관된 녹색 색조가 공간 전체에 평온한 깊이감을 부여한다.",
+  "transfer": "공간의 모서리를 둥글게 다듬는 것만으로도 시각적 폐쇄성을 완화할 수 있다. 좁은 촬영지나 세트 구성 시 중앙 거실을 기점으로 주변을 알코브화하여 공간의 확장감을 연출하라.",
+  "context": "사보 프로젝트는 뉴욕과 파리를 기반으로 활동하며 산업적 유산을 현대적 주거로 재해석하는 작업을 이어오고 있다. 본 프로젝트는 기존의 거친 물성을 보존하면서도 유기적인 곡선을 도입해 공간의 위계를 허무는 방식을 취한다.",
+  "findings": [
+   {
+    "text": "사보 프로젝트는 맨해튼 로어 이스트 사이드의 68제곱미터 아파트를 리노베이션했다.",
+    "s": 1,
+    "quote": "뉴욕과 파리를 기반으로 활동하는 사보 프로젝트(SABO Project)가 맨해튼 로어 이스트 사이드의 68제곱미터 아파트를 리노베이션했다."
+   },
+   {
+    "text": "벽면 모서리와 칸막이를 둥글게 다듬고 녹색 색조를 적용해 경계를 완화했다.",
+    "s": 1,
+    "quote": "벽면 모서리와 칸막이를 둥글게 다듬고, 녹색 색조를 일관되게 적용해 공간 간의 물리적 경계를 부드럽게 완화했다."
+   }
+  ],
+  "keywords": [
+   "사보프로젝트",
+   "산업적골조",
+   "공간확장",
+   "알코브",
+   "뉴욕아파트"
+  ],
+  "evidence": "The design aims to soften divisions between spaces so the apartment is experienced as a central living room extending into surrounding alcoves.",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "소형 평형의 한계를 극복하는 구체적인 공간 재구성 기법과 물성의 대비를 명확히 제시하고 있다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1188937/soft-division-apartment-sabo-project",
+  "original_title": "Soft Division Apartment / SABO project",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 998,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-24 05:09",
+  "research": {
+   "entities": [
+    "SABO project",
+    "Alexandre Delaunay"
+   ],
+   "questions": [
+    "SABO project는 뉴욕 아파트의 공간 분할을 어떻게 완화하여 확장된 거실 경험을 만들어냈는가?",
+    "728제곱피트의 소형 아파트에서 3인 가족을 위해 적용된 구체적인 공간 재구성 방법은 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "맨해튼의 산업적 골조를 둥근 곡선과 녹색으로 유연하게 잇다",
+     "url": "https://www.dezeen.com/2026/11/07/sabo-project-soft-divisions-apartment-renovation-lower-east-side/"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 243
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "stashmedia.tv/manvsmachine-opens-hood-summit-26-for-robinhood": {
+  "title_ko": "우주를 항해하는 탐사선, 로빈후드 서밋 ’26 오프닝 시퀀스",
+  "summary_ko": "금융 플랫폼 로빈후드(Robinhood)가 휴스턴에서 개최한 제3회 연례 행사 '후드 서밋 ’26: 창조의 엔진(Hood Summit ’26: Engines of Creation)'의 오프닝 영상이다. 맨vs머신(ManvsMachine)이 제작한 이 시퀀스는 맞춤형 탐사선이 미지의 은하계를 항해하는 과정을 통해 기업의 야망과 개척 정신을 시각화했다.",
+  "lens": "절제된 우주-젠(space-zen) 미학을 통해 금융 서비스의 복잡성을 거대한 우주의 질서로 치환하여 브랜드의 비전을 전달한다.",
+  "why_now": "기술적 복잡함을 가진 금융 서비스가 추상적이고 서사적인 모션 그래픽을 통해 기업 정체성을 구축하는 방식이 정교해지고 있다.",
+  "mechanism": "미지의 공간을 유영하는 탐사선의 움직임을 정적인 구성과 대비시켜 브랜드가 지향하는 탐구적 태도를 강조한다.",
+  "sensory": "광활한 우주의 공허함과 탐사선의 정밀한 기계적 디테일이 대조를 이루며 차분하면서도 긴장감 넘치는 시각적 몰입을 유도한다.",
+  "transfer": "광활한 배경 속에 단 하나의 오브제를 배치하고, 느린 카메라 워킹으로 속도감을 제어하여 브랜드의 규모감을 연출하는 콘티에 유용하다.",
+  "context": "맨vs머신은 정교한 CG와 모션 디자인으로 글로벌 브랜드의 아이덴티티를 구축해 온 스튜디오다. 로빈후드는 2,700만 명 이상의 사용자를 보유한 금융 플랫폼으로, 이번 서밋을 통해 기술 중심의 브랜드 서사를 강화하고 있다.",
+  "findings": [
+   {
+    "text": "로빈후드는 미국 캘리포니아 멘로파크에 본사를 둔 금융 서비스 기업으로, 주식 및 가상화폐 거래 플랫폼을 운영한다.",
+    "s": 1,
+    "quote": "Robinhood Markets, Inc. is an American financial services company based in Menlo Park, California. It provides an electronic trading platform that facilitates trades of stocks, exchange-traded funds (ETFs), options, inde"
+   }
+  ],
+  "keywords": [
+   "맨vs머신",
+   "모션그래픽",
+   "우주-젠",
+   "브랜딩"
+  ],
+  "evidence": "perfectly austere, space-zen sequence",
+  "kind": "영상·필름",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "유명 스튜디오의 구체적인 작업물로서 브랜드 메시지를 시각적 장치로 풀어낸 방식이 명확하여 실무적 참고 가치가 높다.",
+  "v": 2,
+  "url": "https://www.stashmedia.tv/manvsmachine-opens-hood-summit-26-for-robinhood/",
+  "original_title": "ManvsMachine Opens Hood Summit ’26 for Robinhood",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 2293,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-24 05:10",
+  "research": {
+   "entities": [
+    "ManvsMachine",
+    "Robinhood"
+   ],
+   "questions": [
+    "ManvsMachine이 제작한 'Hood Summit ’26' 오프닝 시퀀스의 시각적 컨셉과 'Engines of Creation'이라는 주제는 어떤 연관성을 가지고 있는가?",
+    "Robinhood가 매년 개최하는 'Hood Summit'은 어떤 성격의 행사이며, 기업 브랜딩 측면에서 이러한 고퀄리티 모션 그래픽을 활용하는 이유는 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Robinhood (company)",
+     "url": "https://en.wikipedia.org/wiki/Robinhood%20%28company%29"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 1094
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "dazeddigital.com/life-culture/article/71400/1/inside-the-uk-neets-crisis-youth-unemployment-alan-milburn-report": {
+  "title_ko": "알고리즘이 거부한 세대: 영국의 NEET 위기가 드러내는 노동의 단절",
+  "summary_ko": "영국의 23세 청년 케이트 베번은 높은 학업 성취와 인턴십 경력에도 불구하고 취업에 실패한 자신의 경험을 통해, 수치로 박제된 NEET(교육·고용·훈련에 참여하지 않는 청년) 계층의 실상을 고발한다. 앨런 밀번의 정부 보고서는 청년 실업의 원인을 개인의 나태함이 아닌 기회의 부재로 지목하며, AI 채용 시스템과 경직된 노동 시장이 어떻게 청년들을 사회적 경제 밖으로 밀어내는지 분석한다.",
+  "lens": "채용 알고리즘에 의해 자동 폐기되는 이력서들은 디지털 시스템이 어떻게 물리적 노동의 기회를 차단하고 사회적 고립을 가속하는지 보여준다.",
+  "why_now": "기술적 효율성을 앞세운 채용 프로세스가 인간의 서사를 지우고 노동의 진입 장벽을 높이는 현상은 동시대 산업 구조의 비인간적 단면을 투영한다.",
+  "mechanism": "채용의 모든 과정을 챗봇과 자동화된 필터링 시스템에 의존함으로써, 지원자의 경험은 데이터로 환원되고 인간적 피드백은 완전히 제거된다.",
+  "sensory": "어린 시절의 방, 싱글 침대라는 사적인 공간과 거대 시스템의 차가운 거절 메시지가 대비되며 무력감과 공간적 폐쇄성을 극대화한다.",
+  "transfer": "콘티 연출 시, 챗봇의 기계적 거절 알림과 대비되는 개인의 일상적 공간(침실, 책상)을 클로즈업하여 시스템에 의해 소외되는 개인의 감각을 시각화한다.",
+  "context": "본 기사는 앨런 밀번이 발표한 청년 실업 보고서를 중심으로, 영국 사회 내 청년층이 겪는 구조적 배제와 사회 계약의 붕괴를 다룬다.",
+  "findings": [],
+  "keywords": [
+   "NEET",
+   "노동시장",
+   "알고리즘",
+   "사회계약",
+   "청년실업"
+  ],
+  "evidence": "I’ve been ghosted by almost half of all jobs I’ve applied to",
+  "kind": "뉴스·이슈",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "사회적 이슈를 개인의 경험과 시스템의 문제로 연결했으나, 새로운 조형적 대안이나 예술적 담론으로 확장되지는 않음.",
+  "v": 2,
+  "url": "https://www.dazeddigital.com/life-culture/article/71400/1/inside-the-uk-neets-crisis-youth-unemployment-alan-milburn-report?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=broke-exhausted-and-rejected-by-chatbots-inside-the-uk-s-neet-crisis",
+  "original_title": "Broke, exhausted, and rejected by chatbots: Inside the UK’s NEET crisis",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 5734,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-24 05:10",
+  "research": {
+   "entities": [],
+   "questions": [],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "archdaily.com/1188678/architecture-as-evidence-reading-the-built-environment-through-forensic-investigation": {
+  "title_ko": "건물의 물리적 흔적과 기록으로 사건을 재구성하는 법의학적 건축",
+  "summary_ko": "건축물과 도시 공간은 균열, 수리 흔적, 과거 기록을 통해 보이지 않던 사건과 변형의 역사를 품고 있다. 포레스트 아키텍처는 위성 영상, 사진, 3차원 모델링, 목격자 진술을 결합하여 베이루트 항구 폭발 사고와 그렌펠 타워 화재 같은 참사의 전말을 공간적으로 재구성한다.",
+  "lens": "물리적 구조와 파편을 증거로 삼아 공간의 기억과 사건의 진실을 복원한다.",
+  "why_now": "디지털 아카이브와 오픈소스 정보가 방대해지면서, 건축적 모델링은 단순한 설계 도구를 넘어 인권 침해와 재난의 진실을 추적하는 수단으로 진화한다.",
+  "mechanism": "서로 다른 각도에서 촬영된 영상의 메타데이터를 3차원 건물 모델에 투영하고 연기 기둥의 변화를 동기화하여 사건의 시간순 서사를 복원한다.",
+  "sensory": "연기 기둥의 움직임과 화염의 확산 경로가 3차원 와이어프레임 위에 겹쳐지며, 참사 당시의 물리적 파괴와 시간이 공간 위에 적나라하게 드러난다.",
+  "transfer": "재난이나 사고 시퀀스를 연출할 때, 다각도의 로우 레졸루션 영상과 CCTV 캡처를 3D 공간 모델에 프로젝션 매핑하여 시간의 흐름을 재구성하는 방식으로 활용한다.",
+  "context": "골드스미스 런던대학교의 포레스트 아키텍처는 건축, 영화, 법과학을 융합하여 인권 침해와 분쟁 지역의 사건을 조사하는 다학제적 연구 기관이다.",
+  "findings": [],
+  "keywords": [
+   "포레스트아키텍처",
+   "법의학적건축",
+   "3차원모델링",
+   "공간재구성",
+   "증거로서의건축"
+  ],
+  "evidence": "Forensic Architecture examines these traces, using the built environment and its surrounding records to establish how particular events, alterations or failures occurred.",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "건축을 법의학적 증거 수집과 공간 재구성의 매개로 다루는 구체적인 방법론과 사례를 깊이 있게 다룬다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1188678/architecture-as-evidence-reading-the-built-environment-through-forensic-investigation",
+  "original_title": "Architecture as Evidence: Reading the Built Environment Through Forensic Investigation",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 9000,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-24 05:12",
+  "research": {
+   "entities": [],
+   "questions": [],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "wallpaper.com/design-interiors/giobagnara-embassy-collection-abask": {
+  "title_ko": "고대의 바닥에서 건져 올린 가죽: 주영 이탈리아 대사관의 기하학",
+  "summary_ko": "런던의 온라인 플랫폼 아바스크가 이탈리아 가죽 공예 브랜드 조바냐라와 협력해 주영 이탈리아 대사관 프로젝트에서 파생된 엠배시 컬렉션을 출시했다. 디자이너 닉 빈슨은 로마 카라칼라 욕장의 고대 모자이크와 카를로 스카르파의 올리베티 쇼룸 바닥 패턴을 정교한 가죽 데스크 액세서리와 오브제로 번역했다.",
+  "lens": "고대 로마와 베네치아의 석재 바닥을 유연한 이탈리아 가죽의 기하학적 패턴으로 압축한다.",
+  "why_now": "역사적 건축의 유산을 일상적인 데스크 오브제로 축소해 물리적 시간의 무게를 손끝으로 체감하게 만든다.",
+  "mechanism": "카라칼라 욕장과 올리베티 쇼룸의 각진 모자이크 구조를 붉은색, 올리브 그린, 짙은 주황색 등의 가죽 상감 기법으로 재현했다.",
+  "sensory": "단단한 가죽 표면에 새겨진 예리한 각도의 기하학 패턴이 시각적 긴장감을 만들고, 손에 닿는 매끄러운 가죽의 물성이 차가운 데스크 환경을 상쇄한다.",
+  "transfer": "사무 공간 콘티에서 역사적 건축물의 바닥 패턴을 소형 소품의 가죽 표면 패턴으로 치환해 공간의 연대기를 압축하는 소품 연출에 활용한다.",
+  "context": "디자이너 닉 빈슨은 런던 버킹엄궁이 내려다보이는 빅토리아 여왕 시대의 옛 경찰서 건물을 주영 이탈리아 대사관으로 개조하며 이탈리아의 공예 유산을 공간 전반에 이식했다. 제노바에 기반을 둔 조바냐라는 이 과정에서 맞춤형 독서대부터 직원용 트레이까지 제작하며 협력을 이어왔다.",
+  "findings": [
+   {
+    "text": "조바냐라 엠배시 컬렉션은 로마 카라칼라 욕장의 모자이크와 베네치아 산마르코 광장의 카를로 스카르파가 디자인한 올리베티 쇼룸 바닥 패턴에서 영감을 받았다.",
+    "s": 2,
+    "quote": "Two thousand years of Italian design, from the Baths of Caracalla in Rome to Carlo Scarpa’s Olivetti showroom in Venice, come together in the Giobagnara Embassy Collection."
+   },
+   {
+    "text": "이 컬렉션은 대사관 인테리어를 위해 제작된 맞춤형 가전과 소품들이 대중적인 인기를 얻으면서 정식 가죽 컬렉션으로 확장되었다.",
+    "s": 2,
+    "quote": "When Vinson asked founder Giorgio Bagnara to translate the Caracalla and Olivetti patterns into pieces for the Ambassador’s offices, they proved so popular that a full collection took shape, rendered in fine Italian leat"
+   }
+  ],
+  "keywords": [
+   "조바냐라",
+   "카를로스카르파",
+   "가죽공예",
+   "대사관인테리어",
+   "모자이크패턴"
+  ],
+  "evidence": "The Giobagnara Embassy Collection is inspired by the patterns of great Italian historical floors",
+  "kind": "제품·오브제",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "역사적 건축의 바닥 패턴을 정교한 가죽 공예로 번역한 구체적인 디자인 프로세스가 돋보이나 제품 출시 뉴스의 범주에 머문다.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/design-interiors/giobagnara-embassy-collection-abask",
+  "original_title": "You can take home a piece of the Embassy of Italy in London with this new collection",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 2698,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-24 05:13",
+  "research": {
+   "entities": [
+    "Abask",
+    "Giobagnara",
+    "Nick Vinson",
+    "Carlo Scarpa",
+    "Embassy of Italy in London"
+   ],
+   "questions": [
+    "닉 빈슨이 주도한 주영 이탈리아 대사관 인테리어 프로젝트의 디자인 철학은 무엇인가요?",
+    "카를로 스카르파의 올리베티 쇼룸 바닥 디자인이 현대 가죽 공예품에 어떻게 재해석되어 적용되었나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "The Finest Craft & Home Design",
+     "url": "https://click.linksynergy.com/deeplink?id=kXQk6%2AivFEQ&mid=49437&u1=wallpaper-us-9725959732238194067&murl=https%3A%2F%2Fwww.abask.com%2F"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Giobagnara Embassy Collection",
+     "url": "https://click.linksynergy.com/deeplink?id=kXQk6%2AivFEQ&mid=49437&u1=wallpaper-us-2562470472107958202&murl=https%3A%2F%2Fwww.abask.com%2Fcollections%2Fgiobagnara-embassy-collection%23product-53003973951704"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Carlo Scarpa",
+     "url": "https://en.wikipedia.org/wiki/Carlo%20Scarpa"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "시간의 궤적을 보존하는 방식: 라울 산체스의 라 카사 델 피라타",
+     "url": "https://www.yellowtrace.com.au/raul-sanchez-la-casa-del-pirata-mataro-heritage-renovation/"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "런던 타운하우스와 벨기에 의회를 점령한 실험적 디자인의 현장",
+     "url": "https://www.sightunseen.com/2026/10/an-edgy-london-interior-by-max-radford-three-experimental-design-exhibitions-and-more/"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "로돌프 파랑트가 재해석한 로마, 1970년대 쾌락주의와 고전의 층위",
+     "url": "https://www.yatzer.com/experimental-roma-rodolphe-parente"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 5609
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "artforum.com/news/tour-guides-accuse-dickinson-museum-of-breaking-labor-law-1234763999": {
+  "title_ko": "에밀리 디킨슨 박물관의 노동 분쟁, 시적 공간을 지탱하는 노동의 가치",
+  "summary_ko": "미국 매사추세츠주 에밀리 디킨슨 박물관의 투어 가이드 노조가 박물관 측을 연방 노동법 위반 혐의로 국립노동관계위원회(NLRB)에 고발했다. 노조는 박물관이 교섭 중 임금 인상을 일방적으로 보류했다고 주장한다. 과거 은퇴한 교육자 중심의 자원봉사 성격이 강했던 가이드 인력 구조가 생계형 노동자로 변화하면서 발생한 구조적 갈등이다.",
+  "lens": "역사적 유산의 보존과 그 공간을 매개하는 노동자의 생존권이 충돌하는 지점에서, 공간의 서사가 누구의 시간으로 유지되는지 질문한다.",
+  "why_now": "예술 기관의 운영이 전문화되면서 관람객과 직접 대면하는 가이드의 노동 가치를 재평가해야 한다는 목소리가 미국 내 문화예술계 전반에서 거세지고 있다.",
+  "mechanism": "박물관은 고용주로서 노조와 합의 전까지 임금 체계 변경을 유보해야 하는 노동법 규정을 위반했다는 혐의를 받는다. 이는 단체 교섭권이 확립된 이후에도 지속되는 고용주와 노동자 사이의 불균형한 권력 관계를 드러낸다.",
+  "sensory": "디킨슨의 시적 세계가 깃든 고전적 건축물인 홈스테드(Homestead)와 에버그린(Evergreens)의 정적인 분위기와, 그 이면에서 반복되는 불안정한 노동 일정과 저임금의 긴장감이 대비된다.",
+  "transfer": "공간의 역사성을 재현하는 퍼포먼스나 전시 기획 시, 해당 공간을 운영하는 인력의 노동 환경이 관람객에게 전달되는 공간의 아우라에 어떤 물리적 영향을 미치는지 고려해야 한다.",
+  "context": "에밀리 디킨슨 박물관은 19세기 시인 에밀리 디킨슨의 생가와 주변 공간을 보존하는 미국 국가 사적지다. 과거 은퇴한 교수와 교사들이 자발적으로 참여하던 운영 방식은 최근 생계형 파트타임 노동자들로 구성된 노조(Local 2110)의 결성으로 변화를 맞이했다.",
+  "findings": [
+   {
+    "text": "에밀리 디킨슨 박물관의 투어 가이드들은 2025년 7월 전미자동차노조 산하 로컬 2110에 가입하기로 투표했다.",
+    "s": 1,
+    "quote": "The museum’s guides voted 20-1 to join Local 2110 in July 2025, NLRB election records show."
+   },
+   {
+    "text": "박물관 측은 2026년 7월 1일부로 예정된 임금 인상을 일방적으로 거부하여 노동법 위반 혐의를 받고 있다.",
+    "s": 1,
+    "quote": "The museum “unilaterally modified employees’ terms and conditions of employment by failing and refusing to implement a July 1, 2026 wage increase.”"
+   },
+   {
+    "text": "박물관 가이드들은 2025년 한 해 동안 약 13,000명의 관람객을 인솔했다.",
+    "s": 1,
+    "quote": "More than 13,000 people went on guided house tours in 2025, the museum’s annual highlights report shows."
+   }
+  ],
+  "keywords": [
+   "노동권",
+   "공간운영",
+   "에밀리디킨슨",
+   "박물관학",
+   "노동조합"
+  ],
+  "evidence": "The union representing tour guides at the Emily Dickinson Museum in Amherst, Massachusetts, has filed a charge with the National Labor Relations Board",
+  "kind": "뉴스·이슈",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "문화예술 기관의 운영과 노동 환경의 변화를 구체적인 법적 분쟁 사례를 통해 분석했으나, 예술적 기법보다는 노동 이슈 중심의 보도에 가깝다.",
+  "v": 2,
+  "url": "https://www.artforum.com/news/tour-guides-accuse-dickinson-museum-of-breaking-labor-law-1234763999/",
+  "original_title": "Tour Guides Accuse Emily Dickinson Museum of Breaking Federal Labor Law",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 2202,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-24 05:13",
+  "research": {
+   "entities": [
+    "Emily Dickinson Museum",
+    "National Labor Relations Board",
+    "United Auto Workers",
+    "Emily Dickinson",
+    "Daily Hampshire Gazette"
+   ],
+   "questions": [
+    "에밀리 디킨슨 뮤지엄의 투어 가이드들이 제기한 임금 인상 거부 및 노동법 위반 논란의 구체적인 쟁점은 무엇인가?",
+    "미국 국립노동관계위원회(NLRB)에 제기된 이번 고발이 문화예술 기관 비정규직 노동조합 운동에 어떠한 영향을 미치고 있는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Emily Dickinson Museum guides’ union says raise withheld",
+     "url": "https://www.urgentmatter.press/union-accuses-emily-dickinson-museum-of-withholding-tour-guides-raise/"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Letter: Dickinson Museum tour guides unionize - Daily Hampshire Gazette",
+     "url": "https://gazettenet.com/2026/08/11/letter-dickinson-museum-tour-guides-unionize/"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Emily Dickinson Museum",
+     "url": "https://en.wikipedia.org/wiki/Emily%20Dickinson%20Museum"
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "National Labor Relations Board",
+     "url": "https://en.wikipedia.org/wiki/National%20Labor%20Relations%20Board"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "편지와 회화의 교차점, 브룩 쉬의 런던 개인전",
+     "url": "https://elephant.art/brook-hsu-sends-a-letter/"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "chars": 7373
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "dazeddigital.com/art-photography/article/71403/1/sofiya-loriashvili-ukraine-youth-culture-exhibition-lviv-young-wild-portraits": {
+  "title_ko": "폐허와 욕망이 공존하는 우크라이나 청년들의 초상",
+  "summary_ko": "파리에서 활동하는 우크라이나 사진작가 소피아 로리아슈빌리가 리비우의 버려진 시장 공간에 위치한 토바리 갤러리에서 전시를 연다. 이번 작업은 전쟁의 위협 속에서도 에로틱하고 유희적인 태도를 잃지 않는 우크라이나 청년들의 모순적이고 강렬한 일상을 포착한다. 부서진 유리와 녹슨 철제 구조물 사이로 노출과 폭력이 교차하는 현장을 드러낸다.",
+  "lens": "전쟁의 폐허라는 극단적 물성과 청년들의 적나라한 욕망을 같은 프레임에 충돌시킨다.",
+  "why_now": "안전이 보장되지 않는 분쟁 지역에서 삶과 죽음, 공포와 쾌락이 뒤섞인 동시대 청년들의 생존 방식을 시각적으로 증언한다.",
+  "mechanism": "부서진 벽과 녹슨 철근이라는 공간적 배경과 대담한 신체 노출을 대비시켜 파괴와 생명력을 동시에 가시화한다.",
+  "sensory": "부서진 석고 가루와 녹슨 철근의 거친 질감 위로 흩어지는 렌즈의 빛과 피사체의 원색적 에너지가 대비된다.",
+  "transfer": "분쟁이나 재난 상황을 다루는 콘티에서 절망만 강조하기보다, 그 안에서 피어나는 원초적 생명력과 쾌락의 제스처를 조명하는 연출로 활용한다.",
+  "context": "우크라이나 리비우 피드잠체 지구의 버려진 시장에 위치한 토바리 갤러리는 아나스타시야 셰르기나와 이호르 티모슈추크가 2024년에 설립한 작가 운영 공간이다.",
+  "findings": [],
+  "keywords": [
+   "우크라이나",
+   "리비우",
+   "토바리갤러리",
+   "소피아로리아슈빌리",
+   "전시"
+  ],
+  "evidence": "In Lviv, a city in western Ukraine, a former market – now almost deserted – is emblazoned with eight striking and explicit photographs of Ukrainian youth.",
+  "kind": "전시",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "전쟁 중인 지역의 버려진 공간에서 열린 독특한 사진전의 맥락과 비주얼적 대비가 구체적으로 잘 드러난다.",
+  "v": 2,
+  "url": "https://www.dazeddigital.com/art-photography/article/71403/1/sofiya-loriashvili-ukraine-youth-culture-exhibition-lviv-young-wild-portraits?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=these-pictures-depict-being-young-in-a-war-zone",
+  "original_title": "These pictures depict being young in a war zone",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 3903,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-24 05:14",
+  "research": {
+   "entities": [
+    "Sofiya Loriashvili",
+    "Tovary Gallery",
+    "Anastasiia Shergina",
+    "Ihor Tymoshchuk",
+    "Fuckasutra"
+   ],
+   "questions": [
+    "우크라이나 리비우의 버려진 시장에 위치한 Tovary Gallery는 어떤 배경으로 설립되었는가?",
+    "소피아 로리아슈빌리(Sofiya Loriashvili)의 전시 'Young, wild and full of ***'가 전쟁 중인 우크라이나 청년들의 삶을 다루는 방식은 무엇인가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "artforum.com/news/el-greco-painting-gets-first-restoration-since-1580s-1234763987": {
+  "title_ko": "444년의 덧칠을 걷어내다: 엘 그레코의 성 마우리시오의 순교 복원",
+  "summary_ko": "스페인 엘 에스코리알 왕립 수도원에 소장된 엘 그레코의 1580년 작 '성 마우리시오의 순교와 테베 군단'이 9개월간의 복원 과정을 마쳤다. 복원가 라파엘 알론소는 400년 넘게 쌓인 바니시와 19세기 식 덧칠을 제거해 원작의 선명한 색채와 구도를 되살렸다.",
+  "lens": "시간의 퇴적물인 바니시와 후대의 덧칠을 제거함으로써, 작가가 의도한 원형의 색채와 공간적 깊이를 회복하는 과정이다.",
+  "why_now": "디지털 보정으로 색을 변주하는 시대에, 물리적 층위(Layer)를 걷어내어 본래의 물성을 드러내는 복원 작업의 가치가 재조명된다.",
+  "mechanism": "19세기에 덧칠해진 부분을 제거하고, 가역적인 수용성 재료를 사용하여 손상된 부위를 복구함으로써 원작의 질감을 보존했다.",
+  "sensory": "444년 동안 짓눌려 있던 파란색 흉갑의 채도와 붉은 튜닉의 선명함이 다시금 화면 위로 부상하며 강렬한 시각적 대비를 이룬다.",
+  "transfer": "이미지 후반 작업 시 겹겹이 쌓인 필터 효과를 과감히 제거하여, 피사체 본연의 고유한 색감과 질감을 강조하는 톤앤매너 설정에 활용한다.",
+  "context": "펠리페 2세의 의뢰로 제작된 이 작품은 왕의 불만족으로 인해 궁정 화가로서의 입지를 굳히지 못한 엘 그레코의 비운이 담긴 기록적 유산이다.",
+  "findings": [],
+  "keywords": [
+   "엘그레코",
+   "복원",
+   "회화",
+   "미술사",
+   "물성"
+  ],
+  "evidence": "A nine-month restoration of El Greco’s The Martyrdom of Saint Maurice and the Theban Legion (1580–82) has removed more than four hundred years’ worth of varnish",
+  "kind": "뉴스·이슈",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "고전 회화의 복원 과정을 통해 물성과 색채의 회복이라는 기술적 측면을 다루나, 프로젝트의 규모와 예술적 맥락에 대한 정보가 제한적이다.",
+  "v": 2,
+  "url": "https://www.artforum.com/news/el-greco-painting-gets-first-restoration-since-1580s-1234763987/",
+  "original_title": "El Greco Painting Gets Its First Restoration Since 1580s",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 2361,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-24 05:16",
+  "research": {
+   "entities": [],
+   "questions": [],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
  }
 }
