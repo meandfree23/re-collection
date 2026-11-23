@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-11-23 13:02 KST",
+  "generated_at": "2026-11-23 17:00 KST",
   "period": "2026.11.16 - 2026.11.23",
-  "total_articles": 554,
+  "total_articles": 564,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 258
+      "count": 263
     },
     {
       "genre": "동시대 미술",
-      "count": 173
+      "count": 177
     },
     {
       "genre": "미디어 파사드·3D",
-      "count": 70
+      "count": 71
     },
     {
       "genre": "아방가르드 패션",
@@ -23,10 +23,16 @@
   "themes": [
     {
       "keyword": "박물관·전시",
-      "count": 55,
+      "count": 56,
       "previous_count": 44,
       "trend": "rising",
       "items": [
+        {
+          "title": "'신성한' 고고학적 유물이 Ex Situ 전시회에서 디자인의 원재료가 되다",
+          "url": "https://www.dezeen.com/2026/11/23/archaeology-design-ex-situ-exhibition/",
+          "image_url": "https://static-2026.dezeen.com/uploads/2026/11/ex-situ-matter-in-translation-exhibition-design_dezeen_2364_sq2-1024x1024.jpg",
+          "source_name": "Dezeen"
+        },
         {
           "title": "AUA 나자리안 센터 / 스토라켓 건축 스튜디오",
           "url": "https://www.archdaily.com/1188267/aua-najarian-center-storaket-architectural-studio",
@@ -44,12 +50,6 @@
           "url": "https://www.sightunseen.com/2026/11/a-new-furniture-gallery-in-new-york-an-obscure-italian-designer-reemerges-and-more/",
           "image_url": "https://www.sightunseen.com/wordpress/wp-content/uploads/2026/11/Leset-Sunset_02-728x558.jpg",
           "source_name": "Sight Unseen"
-        },
-        {
-          "title": "A Sprawling Exhibition of Latin American Art and Fashion Is Coming to NYC",
-          "url": "https://hyperallergic.com/a-sprawling-exhibition-of-latin-american-art-and-fashion-is-coming-to-nyc/",
-          "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/11/Screenshot-2026-11-20-at-5.56.28---PM.jpg",
-          "source_name": "Hyperallergic"
         }
       ]
     },
@@ -86,6 +86,38 @@
       ]
     },
     {
+      "keyword": "목재 건축",
+      "count": 18,
+      "previous_count": 13,
+      "trend": "rising",
+      "items": [
+        {
+          "title": "요코하마 팀버 워프 / 타이주 야마시타 디자인 및 건축",
+          "url": "https://www.archdaily.com/1188949/yokohama-timber-wharf-taiju-yamashita-design-and-architecture",
+          "image_url": "https://images.adsttc.com/media/images/6aff/09dd/eabd/2a00/0193/2555/large_jpg/d_93243.jpg?1795099276",
+          "source_name": "ArchDaily"
+        },
+        {
+          "title": "DKR 하우스",
+          "url": "https://leibal.com/interiors/dkr-house/",
+          "image_url": "https://leibal.com/wp-content/uploads/2026/11/leibal-dkr-house-oskar-firek-architects-1515.jpg",
+          "source_name": "Leibal"
+        },
+        {
+          "title": "976개의 삼각형 모듈로 구성된 스위스의 별 모양 목재 캐노피",
+          "url": "https://www.designboom.com/architecture/976-triangular-modules-compose-star-patterned-timber-canopy-in-switzerland/",
+          "image_url": "https://www.designboom.com/wp-content/dbsub/471061/2026-11-20/stellar-pavilion-a-roof-for-village-life-1-6b001941b3fd5.jpg",
+          "source_name": "Designboom Architecture"
+        },
+        {
+          "title": "로스앤젤레스 언덕에 자리한 따뜻한 가족 휴양지, 그을린 목재로 지어진 이 주택으로 들어가 보세요.",
+          "url": "https://www.wallpaper.com/architecture/residential/charred-timber-house-nustudio-los-angeles-hills-usa",
+          "image_url": "https://cdn.mos.cms.futurecdn.net/hSEGHhUmhi5yZ4rzzVSjcB-1920-80.jpg",
+          "source_name": "Wallpaper*"
+        }
+      ]
+    },
+    {
       "keyword": "사진",
       "count": 17,
       "previous_count": 13,
@@ -114,38 +146,6 @@
           "url": "https://www.architecturaldigest.com/story/interior-photographers-in-the-southwest",
           "image_url": "https://media.architecturaldigest.com/photos/6afdfedb7b2adeda65ee6477/master/pass/___02-YondMartin2025%20-%20Inquiries%20Mabey.jpg",
           "source_name": "Architectural Digest"
-        }
-      ]
-    },
-    {
-      "keyword": "목재 건축",
-      "count": 17,
-      "previous_count": 13,
-      "trend": "rising",
-      "items": [
-        {
-          "title": "DKR 하우스",
-          "url": "https://leibal.com/interiors/dkr-house/",
-          "image_url": "https://leibal.com/wp-content/uploads/2026/11/leibal-dkr-house-oskar-firek-architects-1515.jpg",
-          "source_name": "Leibal"
-        },
-        {
-          "title": "976개의 삼각형 모듈로 구성된 스위스의 별 모양 목재 캐노피",
-          "url": "https://www.designboom.com/architecture/976-triangular-modules-compose-star-patterned-timber-canopy-in-switzerland/",
-          "image_url": "https://www.designboom.com/wp-content/dbsub/471061/2026-11-20/stellar-pavilion-a-roof-for-village-life-1-6b001941b3fd5.jpg",
-          "source_name": "Designboom Architecture"
-        },
-        {
-          "title": "로스앤젤레스 언덕에 자리한 따뜻한 가족 휴양지, 그을린 목재로 지어진 이 주택으로 들어가 보세요.",
-          "url": "https://www.wallpaper.com/architecture/residential/charred-timber-house-nustudio-los-angeles-hills-usa",
-          "image_url": "https://cdn.mos.cms.futurecdn.net/hSEGHhUmhi5yZ4rzzVSjcB-1920-80.jpg",
-          "source_name": "Wallpaper*"
-        },
-        {
-          "title": "BIG, 스위스 뉴 지겐탈러구트 지구에 목재 혼합 용도 개발 프로젝트 공개",
-          "url": "https://www.archdaily.com/1188996/big-unveils-timber-mixed-use-development-for-new-siegenthalergut-district-in-switzerland",
-          "image_url": "https://images.adsttc.com/media/images/6b00/21f8/c23f/1f6a/4351/6bc9/large_jpg/big-unveils-timber-mixed-use-development-for-new-siegenthalergut-district-in-switzerland_3.jpg?1795170825",
-          "source_name": "ArchDaily"
         }
       ]
     },
@@ -183,10 +183,16 @@
     },
     {
       "keyword": "가구 디자인",
-      "count": 14,
+      "count": 15,
       "previous_count": 11,
       "trend": "rising",
       "items": [
+        {
+          "title": "로마의 거리에서 영감을 얻은 가구 컬렉션",
+          "url": "https://www.wallpaper.com/design-interiors/furniture/a-furniture-collection-inspired-by-the-streets-of-rome",
+          "image_url": "https://cdn.mos.cms.futurecdn.net/irP8mnEAL3JqnZWqHrkexW-1920-80.png",
+          "source_name": "Wallpaper*"
+        },
         {
           "title": "FrameScale, W. Schillig를 위해 Cloud9 Chair를 부상시키다",
           "url": "https://www.stashmedia.tv/framescale-floats-the-cloud9-chair-for-w-schillig/",
@@ -204,12 +210,6 @@
           "url": "https://www.sightunseen.com/2026/11/a-new-furniture-gallery-in-new-york-an-obscure-italian-designer-reemerges-and-more/",
           "image_url": "https://www.sightunseen.com/wordpress/wp-content/uploads/2026/11/Leset-Sunset_02-728x558.jpg",
           "source_name": "Sight Unseen"
-        },
-        {
-          "title": "29 Best Early Black Friday Home Deals, Vetted by AD (2026)",
-          "url": "https://www.architecturaldigest.com/story/black-friday-home-deals-11-20-2026",
-          "image_url": "https://media.architecturaldigest.com/photos/691f8ac452cf1dcd17bc42a5/master/pass/AD0923_DUPONT_9%20copy.jpg",
-          "source_name": "Architectural Digest"
         }
       ]
     }
