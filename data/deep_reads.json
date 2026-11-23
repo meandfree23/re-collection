@@ -377729,5 +377729,1092 @@
   },
   "depth_raw": 4,
   "depth_v": 2
+ },
+ "archdaily.com/1187923/holding-light-the-bahai-temple-of-south-america-in-santiago-chile": {
+  "title_ko": "안데스 산맥의 기슭, 400년을 견디는 빛의 등불",
+  "summary_ko": "칠레 산티아고 페날롤렌의 안데스 산맥 기슭에 위치한 남미 바하이 사원은 9개의 곡선형 날개가 서로를 향해 기울어진 구조로 설계되었다. 캐나다 건축 사무소 하리리 폰타리니 아키텍츠가 설계한 이 사원은 2016년 개관 이후 3백만 명 이상의 방문객을 맞이하며 대륙별 바하이 예배당의 마지막 주자로 자리 잡았다.",
+  "lens": "빛의 산란과 재료의 물성을 결합해 시간의 흐름에 따라 건물의 존재감을 등불처럼 변주하는 건축적 기획이다.",
+  "why_now": "디지털 피로도가 높은 환경에서 자연광의 변화를 물리적 건축물에 투영하여 시간의 실체를 체감하게 하는 설계가 주목받는다.",
+  "mechanism": "내외부를 감싸는 9개의 곡선형 날개는 빛을 투과하고 반사하는 장치로 작용하며, 태양의 고도에 따라 건물 전체의 색조를 냉청한 푸른색에서 황금빛으로 변화시킨다.",
+  "sensory": "새벽에는 안데스 산맥의 차가운 푸른빛을 머금고, 정오에는 흰 빛의 천막처럼, 밤에는 내부의 빛을 뿜어내는 등불의 질감을 드러낸다.",
+  "transfer": "공간 연출 시 시간에 따른 조도 변화를 고려하여 재료의 표면 질감을 설계하고, 특정 시간대에 건물 전체가 하나의 광원이 되도록 하는 조명 배치에 활용한다.",
+  "context": "하리리 폰타리니 아키텍츠는 토론토를 기반으로 하며, 시아막 하리리는 건축의 변혁적 잠재력을 중시하며 영속적 가치를 지닌 작업을 수행해 왔다. 본 사원은 바하이 신앙이 전 세계 대륙별로 세운 예배당 중 마지막으로 완공된 건축물이다.",
+  "findings": [
+   {
+    "text": "하리리 폰타리니 아키텍츠는 캐나다 토론토에 위치한 건축 사무소이다.",
+    "s": 1,
+    "quote": "Hariri Pontarini Architects (HPA) is a full-service architectural practice based in Toronto, Canada."
+   },
+   {
+    "text": "시아막 하리리는 1994년 데이비드 폰타리니와 함께 해당 사무소를 공동 설립했다.",
+    "s": 2,
+    "quote": "Hariri worked at firms in New York and Toronto before founding Hariri Pontarini Architects with David Pontarini in 1994."
+   }
+  ],
+  "keywords": [
+   "바하이 사원",
+   "하리리 폰타리니",
+   "안데스 건축",
+   "빛의 투과",
+   "지형 순응"
+  ],
+  "evidence": "nine curved wings leaning toward one another",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "건축물의 지형적 맥락과 빛을 활용한 물성 변화를 구체적으로 묘사하여 공간 설계의 실질적 아이디어를 제시한다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1187923/holding-light-the-bahai-temple-of-south-america-in-santiago-chile",
+  "original_title": "Holding Light: The Bahá’í Temple of South America in Santiago, Chile",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 1356,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-23 20:01",
+  "research": {
+   "entities": [
+    "Bahá'í Temple of South America",
+    "Hariri Pontarini Architects",
+    "Siamak Hariri"
+   ],
+   "questions": [
+    "바하이 신앙의 '대륙별 예배당(Houses of Worship)'은 어떤 건축적 상징성과 공통된 특징을 가지고 있나요?",
+    "하리리 폰타리니 아키텍츠가 이 사원을 설계할 때 빛의 투과와 재료 선택을 통해 구현하고자 했던 철학적 의미는 무엇인가요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Hariri Pontarini Architects",
+     "url": "https://en.wikipedia.org/wiki/Hariri%20Pontarini%20Architects"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Siamak Hariri",
+     "url": "https://en.wikipedia.org/wiki/Siamak%20Hariri"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 1785
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "archdaily.com/1188953/powerhouse-parramatta-moreau-kusunoki-plus-genton": {
+  "title_ko": "파워하우스 파라마타: 철골 격자 외피가 빚어낸 호주 최대의 무주 공간",
+  "summary_ko": "모로 쿠수노키와 젠튼이 설계한 파워하우스 파라마타는 시드니 오페라 하우스 이후 호주 최대 규모의 문화 인프라다. 삼중 철골 격자 외피가 건물 하중을 전담하여 내부 기둥 없는 2,000제곱미터의 거대한 전시 공간을 확보했다. 다루그 땅 위에 세워진 이 박물관은 서부 시드니를 잇는 새로운 문화적 거점이다.",
+  "lens": "삼중 철골 격자가 구조적 무게를 외곽으로 밀어내고, 내부에 거대한 무주 공간을 확보하여 전시의 가변성을 극대화한다.",
+  "why_now": "디지털화된 전시 환경 속에서 물리적 하중을 견디는 육중한 골조와 그 사이를 파고드는 자연광의 대비가 공간의 실재감을 증명한다.",
+  "mechanism": "건물 외곽을 감싸는 삼중 철골 격자 구조가 하중을 지탱하는 외골격 역할을 수행하여 내부의 기둥을 완전히 삭제했다.",
+  "sensory": "철골 격자의 기하학적 반복이 만드는 그림자와 유리 온실을 통해 유입되는 자연광이 층마다 다른 밀도의 공간감을 형성한다.",
+  "transfer": "내부 기둥을 제거해야 하는 대형 전시 콘티 구성 시, 구조를 외부로 노출하는 외골격 방식을 차용하여 공간의 개방감을 확보할 수 있다.",
+  "context": "본 프로젝트는 파워하우스 박물관의 네 번째 거점으로, 시드니 오페라 하우스 이후 호주 최대 문화 인프라 프로젝트로 평가받는다. 설계자인 모로 쿠수노키는 일본의 '마' 개념을 공간에 투영하여 도시와 박물관 사이의 문턱을 낮추는 설계를 지속해왔다.",
+  "findings": [
+   {
+    "text": "파워하우스 파라마타는 2026년 개관한 뉴사우스웨일스주 최대 규모의 박물관이다.",
+    "s": 1,
+    "quote": "Powerhouse Parramatta, which opened in 2026, is the largest museum in the state of New South Wales."
+   },
+   {
+    "text": "외골격 구조는 일본의 마 개념을 적용하여 유리 온실과 중층 공간을 통해 자연광을 내부로 들인다.",
+    "s": 2,
+    "quote": "건물 곳곳에는 일본의 '마' 개념을 적용한 유리 온실과 중층 공간이 마련되어 자연광을 들인다."
+   },
+   {
+    "text": "삼중 철골 격자 외피가 하중을 지탱하여 2,000제곱미터 규모의 무주 공간을 완성했다.",
+    "s": 3,
+    "quote": "삼중 철골 격자 외피가 구조적 하중을 전담하여, 내부 기둥 없이 2,000제곱미터 규모의 가변적 전시 공간을 확보한 점이 핵심이다."
+   }
+  ],
+  "keywords": [
+   "파워하우스파라마타",
+   "외골격구조",
+   "무주공간",
+   "모로쿠수노키",
+   "문화인프라"
+  ],
+  "evidence": "Powerhouse Parramatta is a major new landmark for Australia, making Western Sydney a global cultural destination.",
+  "kind": "프로젝트",
+  "depth": 5,
+  "grounding": "full",
+  "depth_reason": "구체적인 구조적 장치와 설계자의 철학이 명확히 제시되었으며, 공간 연출을 위한 기술적 해법이 충분히 드러남.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1188953/powerhouse-parramatta-moreau-kusunoki-plus-genton",
+  "original_title": "Powerhouse Parramatta / Moreau Kusunoki + Genton",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 2262,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-23 20:01",
+  "research": {
+   "entities": [
+    "Moreau Kusunoki",
+    "Genton",
+    "Powerhouse Museum",
+    "Arup",
+    "Jun Sato"
+   ],
+   "questions": [
+    "Powerhouse Parramatta 프로젝트가 시드니 오페라 하우스 이후 가장 중요한 문화 인프라로 평가받는 이유는 무엇인가요?",
+    "Moreau Kusunoki와 Genton이 설계한 이 건축물의 외골격(Exoskeleton) 구조는 어떤 디자인적 의도를 담고 있나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Powerhouse Museum",
+     "url": "https://en.wikipedia.org/wiki/Powerhouse%20Museum"
+    },
+    {
+     "n": 2,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "철골 격자와 일본의 '간' 개념으로 완성한 시드니 파워하우스 파라마타",
+     "url": "https://www.dezeen.com/2026/11/06/sydney-powerhouse-parramatta-revealed-opening/"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "시드니 파워하우스 파라마타: 거대 철골 격자가 빚어낸 무주 공간의 미학",
+     "url": "https://www.archdaily.com/1188166/powerhouse-parramatta-museum-to-open-on-november-7-2026-in-sydney"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "삼중 철골 격자로 완성한 호주 최대의 문화 인프라 파워하우스 파라마타",
+     "url": "https://www.yellowtrace.com.au/powerhouse-parramatta-moreau-kusunoki-genton/"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "chars": 2170
+  },
+  "depth_raw": 5,
+  "depth_v": 2
+ },
+ "archdaily.com/1189039/world-building-of-the-year-and-interior-of-the-year-revealed-at-world-architecture-festival-2026": {
+  "title_ko": "2026 세계건축페스티벌 대상: 기후에 순응하는 계단식 지형의 재해석",
+  "summary_ko": "인도 인도르의 프레스티지 대학교가 2026 세계건축페스티벌(WAF)에서 '올해의 세계 건축물'로 선정되었다. 산제이 푸리 아키텍츠는 1100년 역사의 인도 계단우물(Stepwell) 구조를 현대적으로 재해석해, 32에이커 캠퍼스 내 대형 이벤트를 수용하는 다기능 계단식 외관을 구축했다. 자연 채광과 통풍을 극대화한 이 설계는 연중 30~40도를 오가는 고온 기후에서 인공 에너지 의존도를 최소화했다.",
+  "lens": "고대 수리 시설인 계단우물의 기하학적 깊이를 건축의 입면으로 치환하여, 육중한 매스를 보행자의 흐름이 머무는 공공적 플랫폼으로 변환했다.",
+  "why_now": "기후 위기 속에서 수동적 냉방 시스템인 자연 채광과 통풍을 건축적 형태와 결합하여 에너지 효율을 극대화하는 방식이 표준으로 자리 잡고 있다.",
+  "mechanism": "건물 전체를 대형 계단식 플랫폼으로 구성해 자연스럽게 내부로 빛을 끌어들이고, 매 층 배치된 조경 중정은 내부 볼륨에 간접광을 투과시켜 기온 변화에 대응한다.",
+  "sensory": "건물의 계단식 층위마다 쏟아지는 빛의 입자와 그늘의 대비가 뚜렷하며, 수천 명의 학생이 이동하는 보행의 리듬이 건축의 정적인 외피와 교차한다.",
+  "transfer": "공간의 육중함을 덜어내기 위해 수직 이동 수단인 계단을 입면으로 확장하고, 층마다 배치된 중정을 통해 빛의 방향을 조절하는 조명 콘티를 설계할 수 있다.",
+  "context": "산제이 푸리 아키텍츠는 이전부터 인도의 기후와 지형적 특성을 건축적 언어로 번역하는 작업을 지속해왔다. 특히 이번 프로젝트는 460개의 계단식 플랫폼을 활용해 건물의 육중함을 덜어내고 도시와 건물을 연결하는 물리적 매개체로 기능하게 했다. 이는 WAF가 주목하는 지속가능성과 사회적 시노그래피의 결합이라는 흐름과 궤를 같이한다.",
+  "findings": [
+   {
+    "text": "산제이 푸리 아키텍츠의 프레스티지 대학교는 460개의 계단식 플랫폼을 통해 건물의 육중함을 덜어내고 보행자의 동선을 입면의 리듬으로 시각화한다.",
+    "s": 5,
+    "quote": "인도의 프레스티지 대학교는 460개의 계단식 플랫폼으로 건물의 육중함을 덜어냈고, 알바니아의 티라나 피라미드는 기존 기념비를 계단으로 덮어 시민의 공간으로 전유했다."
+   },
+   {
+    "text": "WAF는 실시간으로 심사위원이 프로젝트를 평가하는 라이브 심사 방식과 세미나, 네트워킹을 결합한 세계 최대 규모의 건축 이벤트다.",
+    "s": 2,
+    "quote": "It is the only architecture festival that combines a live–judged awards programme, where shortlisted architects present their projects live in crit rooms to a judging panel, with seminars and networking events."
+   }
+  ],
+  "keywords": [
+   "지형순응",
+   "계단우물",
+   "수동냉방",
+   "산제이푸리",
+   "WAF"
+  ],
+  "evidence": "The built form evokes images of stepped wells in India which have existed since 1100 years; spaces not just built to store water but also social interactions bringing the community together.",
+  "kind": "프로젝트",
+  "depth": 5,
+  "grounding": "full",
+  "depth_reason": "전통적 수리 시설의 구조를 현대적 에너지 효율 장치로 번역한 구체적 사례이며, 건축의 입면과 동선을 결합하는 설계 기법이 명확하다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1189039/world-building-of-the-year-and-interior-of-the-year-revealed-at-world-architecture-festival-2026",
+  "original_title": "World Building of The Year and Interior of The Year revealed at World Architecture Festival 2026",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 7415,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-23 20:02",
+  "research": {
+   "entities": [
+    "Sanjay Puri Architects",
+    "World Architecture Festival",
+    "Grace La",
+    "BIG – Bjarke Ingels Group"
+   ],
+   "questions": [
+    "산제이 푸리 아키텍츠가 설계한 프레스티지 대학교 건물이 인도의 전통 계단우물(Stepwell) 디자인을 어떻게 현대적으로 재해석했나요?",
+    "필리핀의 MLA at Home이 디자인한 '&Matcha Three Yards'는 소규모 공간에서 자연 요소와 건축을 어떻게 융합했나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "World Architecture Festival",
+     "url": "https://www.worldarchitecturefestival.com/WAF2026/en/page/2026-winners?utm_medium=website&utm_source=archdaily.com"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "World Architecture Festival",
+     "url": "https://en.wikipedia.org/wiki/World%20Architecture%20Festival"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "건축 드로잉의 경계 확장, 2026 아키텍처 드로잉 프라이즈 수상작 11선",
+     "url": "https://www.archdaily.com/1188046/the-architecture-drawing-prize-2026-recognizes-11-distinct-drawings"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "2026 세계건축페스티벌(WAF): 지형과 유산을 재해석한 공간의 승리",
+     "url": "https://www.archdaily.com/1188890/world-architecture-festival-2026-day-one-winners-announced"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "계단이 외관이 될 때: 보행을 건축의 입면으로 치환하는 5가지 방식",
+     "url": "https://www.dezeen.com/2026/11/21/exterior-staircases-facade/"
+    }
+   ],
+   "used": [
+    2,
+    4,
+    5
+   ],
+   "chars": 4194
+  },
+  "depth_raw": 5,
+  "depth_v": 2
+ },
+ "wallpaper.com/transportation/fiat-500-hybrid-review": {
+  "title_ko": "피아트 500 하이브리드, 전기차의 외피에 담긴 고전적 기계의 역설",
+  "summary_ko": "피아트(Fiat)가 전기차 전용 모델인 500e의 플랫폼을 활용해 하이브리드 버전의 500을 재출시했다. 1.0리터 내연기관 엔진과 6단 수동 변속기를 탑재한 이 차량은 전기차 시대의 흐름을 역행하며 시장 경쟁력을 확보하기 위한 절충안으로 등장했다. 기존의 친숙한 외형은 유지했으나, 전기차 전용 설계와 내연기관 기계 장치 사이의 기술적 간극으로 인해 성능과 효율 면에서 타협을 거쳤다.",
+  "lens": "전기차 전용 모델을 다시 내연기관 기반의 하이브리드로 회귀시키는 과정은, 효율보다 브랜드의 아이콘을 유지하기 위한 필사적인 구조적 전유다.",
+  "why_now": "전기차 전환의 속도가 시장 상황에 따라 유연해지는 가운데, 기존 플랫폼을 활용해 내연기관을 이식하는 역설적 공학 사례가 늘고 있다.",
+  "mechanism": "한정된 엔진룸 공간에 1.0리터 엔진을 끼워 넣기 위해 기존 전기차의 전동화 부품을 덜어내고, 기계식 6단 변속기를 결합하는 방식으로 공간을 재구성했다.",
+  "sensory": "전기차 특유의 정숙함 대신 엔진의 물리적 진동과 수동 변속의 기계적 감각이 운전석으로 전달되며, 이는 디지털화된 주행 경험에 익숙한 이들에게 아날로그적 무게감을 환기한다.",
+  "transfer": "콘티 작업 시, 미래지향적 외관과 대비되는 구식 기계 장치의 투박함을 의도적으로 노출하여 기술적 불일치에서 오는 긴장감을 연출할 수 있다.",
+  "context": "피아트 500은 1957년 출시 이후 이탈리아 도시 이동 수단의 상징으로 자리 잡았으며, 과거 가라지 이탈리아(Garage Italia)와의 협업을 통해 요트 문법을 이식하는 등 다양한 변주를 거쳐왔다. 이번 하이브리드 모델은 전기차 전용으로 설계된 500e의 뼈대를 역으로 활용하는, 브랜드 역사상 드문 역방향 설계 사례다.",
+  "findings": [
+   {
+    "text": "1957년 처음 출시된 피아트 500은 당시 2,970mm의 전장과 후방 엔진을 탑재한 실용적인 도시형 자동차였다.",
+    "s": 1,
+    "quote": "Measuring 2,970 mm (9 ft 9 in) long, originally powered by a rear-mounted 479 cc two-cylinder air-cooled engine, the 500 was 245 mm (9.6 in) smaller than the Fiat's 600"
+   },
+   {
+    "text": "피아트 500을 설계한 단테 지아코사는 1959년 자동차 제조사 최초로 콤파소 도로 산업 디자인상을 수상했다.",
+    "s": 1,
+    "quote": "In 1959, Dante Giacosa received a Compasso d'Oro industrial design prize for the Fiat 500. This marked the first time a Compasso d’Oro was awarded to an automotive manufacturer."
+   }
+  ],
+  "keywords": [
+   "피아트500",
+   "하이브리드",
+   "플랫폼전유",
+   "도시형자동차",
+   "역설적공학"
+  ],
+  "evidence": "The hybrid system is the mildest on offer, the engine a relatively old 1.0-litre unit from Fiat’s back catalogue",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "전기차 플랫폼을 내연기관으로 회귀시키는 과정의 기술적 제약과 브랜드 전략을 구체적으로 분석하여 실무적 통찰을 제공한다.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/transportation/fiat-500-hybrid-review",
+  "original_title": "The Fiat 500 Hybrid is a creative compromise that retains most of the cinquecento charm",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 3363,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-23 20:02",
+  "research": {
+   "entities": [
+    "Fiat 500",
+    "Fiat",
+    "Hyundai Inster",
+    "Dacia Spring"
+   ],
+   "questions": [
+    "피아트 500 하이브리드 모델이 기존 전기차 모델인 500e와 비교했을 때 기술적, 성능적으로 어떤 차이점을 가지고 있나요?",
+    "자동차 제조사가 전기차 전용 모델을 다시 하이브리드 모델로 전환하는 과정에서 겪는 기술적 제약과 시장 전략은 무엇인가요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Fiat 500",
+     "url": "https://en.wikipedia.org/wiki/Fiat%20500"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Fiat",
+     "url": "https://en.wikipedia.org/wiki/Fiat"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "요트 위로 올라간 피아트, 해양 미학을 입은 스피아지나 레스토모드",
+     "url": "https://www.wallpaper.com/transportation/fiat-500-spiaggina-restomod"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "요트 위로 옮겨온 이탈리아의 해변, 가라지 이탈리아의 전기차 스피아지나",
+     "url": "https://design-milk.com/garage-italia-fiat-500-spiaggina-electric/"
+    }
+   ],
+   "used": [
+    1,
+    3,
+    4
+   ],
+   "chars": 2820
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "archdaily.com/1189034/mecanoo-appointed-to-transform-zutphens-theatre-hanzehof-into-a-new-cultural-center-in-the-netherlands": {
+  "title_ko": "메카누, 네덜란드 한제호프 극장을 목조 볼륨으로 잇는 시민의 거실로 재설계",
+  "summary_ko": "네덜란드 주트펀 시는 1891년 설립된 한제호프 극장과 부이텐소시에테이트를 복합 문화 공간인 한제하우스로 탈바꿈시키기 위해 메카누를 선정했다. 기존 신고전주의 건물의 뼈대를 보존하고 목조 볼륨을 추가해 공연장, 스튜디오, 도서관을 하나의 지붕 아래 통합한다. 2030년 개관을 목표로 하며 시민들의 일상적 교류를 위한 내부 가로인 '더 스트라트'를 설계의 핵심으로 삼는다.",
+  "lens": "역사적 석조 건축의 무게감과 새로운 목조 볼륨의 가벼움을 내부 가로로 관통시켜, 단절된 도시의 시간을 유기적 동선으로 직조한다.",
+  "why_now": "기존 건축 유산을 박제하지 않고, 투명한 동선과 가변적 공간을 삽입해 공공적 거실로 전유하는 적응형 재사용의 정교한 사례다.",
+  "mechanism": "역사적 구조물과 신축 목조 볼륨을 '더 스트라트'라는 내부 가로로 연결해, 관람객과 지역 주민이 자연스럽게 섞이는 비공식적 만남의 장을 구축한다.",
+  "sensory": "1891년 건축물의 신고전주의적 격자 천장이 주는 육중한 안정감과, 새로 도입될 목재의 따뜻하고 유연한 질감이 공존하는 공간적 대비를 형성한다.",
+  "transfer": "역사적 건물의 입면을 보존하고 그 뒤로 투명한 유리나 목재 볼륨을 삽입해, 과거와 현재의 시선이 교차하는 중첩된 숏을 구성하라.",
+  "context": "메카누는 로테르담 보이만스 판 뵈닝언 미술관 리노베이션에서 투명한 커넥터를 통해 기존 건물의 동선을 재편한 바 있다. 이번 프로젝트 역시 역사적 건물의 원형을 존중하면서도 현대적 기능의 층위를 삽입하는 이들의 적응형 재사용 전략을 계승한다.",
+  "findings": [
+   {
+    "text": "한제호프 극장은 1891년 건축가 D. 라이센이 설계했다.",
+    "s": 1,
+    "quote": "aan de coehoornsingel in zutphen staat al sinds 1891 een gebouw dat cultuur ademt: de buitensociëteit."
+   },
+   {
+    "text": "메카누는 1984년 프랑신 하우벤을 비롯한 5명의 건축가에 의해 설립되었다.",
+    "s": 2,
+    "quote": "Mecanoo was founded in 1984 by Francine Houben, Henk Döll, Roelf Steenhuis, Erick van Egeraat and Chris de Weijer."
+   }
+  ],
+  "keywords": [
+   "메카누",
+   "적응형재사용",
+   "목조건축",
+   "공공동선",
+   "주트펀"
+  ],
+  "evidence": "The ensemble was conceived as \"a living room for the city\" rather than \"a collection of venues.\"",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "역사적 맥락과 현대적 동선 설계를 결합한 메카누의 구체적인 공간 전략이 확인되며, 향후 공간 설계에 적용 가능한 명확한 장치를 갖추고 있다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1189034/mecanoo-appointed-to-transform-zutphens-theatre-hanzehof-into-a-new-cultural-center-in-the-netherlands",
+  "original_title": "Mecanoo Appointed to Transform Zutphen's Theatre Hanzehof into a New Cultural Center in the Netherlands",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 4784,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-23 20:02",
+  "research": {
+   "entities": [
+    "Mecanoo",
+    "Theatre Hanzehof",
+    "Municipality of Zutphen",
+    "D. Lijsen",
+    "Hanzehuis"
+   ],
+   "questions": [
+    "메카누(Mecanoo)가 설계한 '한제하우스(Hanzehuis)' 프로젝트는 기존 역사적 건축물과 새로운 목조건축 볼륨을 어떻게 조화시키고 있는가?",
+    "주트펀(Zutphen)의 한제호프 극장을 복합 문화 센터로 탈바꿈시키는 이 프로젝트가 지역사회와 문화 조직들에 미치는 기대 효과는 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Over ons",
+     "url": "https://hanzehof.nl/nl/informatie/over-ons/?utm_medium=website&utm_source=archdaily.com"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Mecanoo",
+     "url": "https://en.wikipedia.org/wiki/Mecanoo"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "로테르담 보이만스 판 뵈닝언 미술관, 메카누의 리노베이션으로 재구성된 동선과 풍경",
+     "url": "https://www.archdaily.com/1187399/mecanoo-releases-new-images-of-the-museum-boijmans-van-beuningen-renovation-in-rotterdam"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "시카고 그리핀 과학산업박물관의 과거와 현재를 잇는 새로운 입구 설계",
+     "url": "https://www.archdaily.com/1187581/ramsa-unveils-plans-for-new-welcome-hall-at-chicagos-griffin-museum-of-science-and-industry"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "도시의 유산을 다시 쓰는 방식: 안탈리아에서 예레반까지의 공간 전략",
+     "url": "https://www.archdaily.com/1187684/antalya-prepares-to-host-cop31-and-foster-plus-partners-unveils-world-trade-center-yerevan-this-weeks-review"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3,
+    5
+   ],
+   "chars": 1240
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "dezeen.com/2026/11/23/sturdy-j-cole-the-fall-off-world-tour-set-design": {
+  "title_ko": "고향의 상징을 무대로 옮긴 제이 콜의 투어 세트",
+  "summary_ko": "로스앤젤레스의 디자인 스튜디오 스터디는 래퍼 제이 콜의 월드 투어를 위해 노스캐롤라이나주 페이엣빌에 위치한 1832년산 신고전주의 시장 건물을 9미터 높이의 무대 세트로 구현했다. 이 구조물은 전 세계 투어 간에 쉽게 해체하고 조립할 수 있도록 목재와 금속 부품으로 설계되었으며, 무대 중앙에는 실제 혼다 시빅 차량이 매달려 연출의 진정성을 더한다.",
+  "lens": "지역의 역사적 건축 유산을 이동식 투어 무대로 축소해 물리적 고향을 전 세계로 확장한다.",
+  "why_now": "디지털 화면에 의존하던 투어 무대에서 벗어나, 물리적 실체와 명확한 서사를 지닌 건축적 오브제를 무대에 세우는 방식이 주목받는다.",
+  "mechanism": "15미터 너비의 무대 세트는 규격화된 목재와 금속 조립 부품으로 구성되어 전 세계 공연장 간의 해체와 조립을 신속하게 처리한다. LED 화면의 사용을 최소화하고 실물 건축 구조물과 공중에 매달린 차량을 전면에 배치하여 입체적인 공간감을 형성한다.",
+  "sensory": "풍파를 겪은 듯한 질감과 덩굴로 덮인 신고전주의 건축물의 물성과 무대 주변의 풀, 바위, 나무 그루터기가 결합해 야외 광장의 현장감을 연출한다.",
+  "transfer": "공연이나 영상 콘티에서 거대한 도시의 랜드마크를 규격화된 조립식 모듈로 재현하여 한정된 공간 안에서 장소의 맥락을 구현하는 장치로 활용한다.",
+  "context": "디자인을 맡은 스터디는 라우 알레한드로와 켄드릭 라마 등 세계적인 아티스트의 시각적 내원을 구축해 온 크리에이티브 하우스다. 래퍼 제이 콜은 고향 페이엣빌을 음악적 서사의 핵심으로 삼아왔으며, 무대의 중심이 된 마켓 하우스는 1832년에 건립된 노스캐롤라이나주의 역사적 랜드마크다.",
+  "findings": [
+   {
+    "text": "스터디는 켄드릭 라마, 라우 알레한드로 등을 클라이언트로 두며 아티스트의 시각적 내러티브를 구축하는 크리에이티브 하우스다.",
+    "s": 1,
+    "quote": "A creative house and digital delve dedicated to creating and producing visual narratives — meant to evoke feeling."
+   },
+   {
+    "text": "마켓 하우스는 1832년에 건립되어 노스캐롤라이나주 페이엣빌의 중심을 지켜온 신고전주의 양식의 역사적 랜드마크다.",
+    "s": 3,
+    "quote": "The Market House is a market house and town hall in the center of Fayetteville, Cumberland County, North Carolina. It was built in 1832"
+   }
+  ],
+  "keywords": [
+   "무대디자인",
+   "건축복제",
+   "모듈러구조",
+   "투어세트"
+  ],
+  "evidence": "A nine-metre-tall replica of a town hall in Fayetteville, North Carolina, takes centre stage at American rapper J Cole’s world tour set, which has been created by production company Sturdy.",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "역사적 건축물을 모듈러 투어 무대로 번역하는 구체적인 공학적 설계와 명확한 서사가 담겨 있다.",
+  "v": 2,
+  "url": "https://www.dezeen.com/2026/11/23/sturdy-j-cole-the-fall-off-world-tour-set-design/",
+  "original_title": "Sturdy backs J Cole’s set with neoclassical landmark from rapper’s hometown",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 4305,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-23 20:02",
+  "research": {
+   "entities": [
+    "J. Cole",
+    "Sturdy",
+    "Market House"
+   ],
+   "questions": [
+    "J. Cole의 음악적 서사에서 고향인 페이엣빌(Fayetteville)이 갖는 상징적 의미는 무엇인가?",
+    "공연 무대 디자인에서 '이동성과 조립성'을 고려한 구조 설계는 어떤 기술적 제약을 극복해야 하는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "STURDY | Home",
+     "url": "https://sturdy.co/"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "J. Cole",
+     "url": "https://en.wikipedia.org/wiki/J.%20Cole"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Market House (Fayetteville, North Carolina)",
+     "url": "https://en.wikipedia.org/wiki/Market%20House%20%28Fayetteville%2C%20North%20Carolina%29"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "늪지대의 개구리밥과 조류를 스톱모션 애니메이션의 물감으로 삼다",
+     "url": "https://www.itsnicethat.com/articles/nik-arthur-animation-discover-191026"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "게임 세계관의 물리적 무대화: GTA 6 마이애미 페스티벌 백스테이지",
+     "url": "https://www.wallpaper.com/art/music/gta6-festival-miami-design"
+    }
+   ],
+   "used": [
+    1,
+    3
+   ],
+   "chars": 3794
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "derivative.ca/educational-package/edu-request-haruka-ito/75769": {
+  "title_ko": "터치디자이너 교육 지원 요청을 통해 본 미디어 아트 실무의 접점",
+  "summary_ko": "일본 아이치현 도요타시에 위치한 사이버 대학(Cyber University) 소속 하루카 이토(Haruka Ito)가 미디어 아트 소프트웨어 터치디자이너(TouchDesigner)의 교육용 라이선스 지원을 요청했다. 해당 요청은 개발사인 파생(Derivative)사의 교육 프로그램 절차에 따라 접수되었으며, 구체적인 예술적 프로젝트 내용은 공개되지 않았다.",
+  "lens": "기술적 도구의 접근 권한을 확보하려는 학술적 요청은 동시대 미디어 아트 교육 현장의 실무적 요구를 반영하는 지표이다.",
+  "why_now": "디지털 미디어 제작 환경에서 노드 기반 프로그래밍 언어의 교육적 수요가 지속적으로 확인되고 있다.",
+  "mechanism": "노드 기반 시각 프로그래밍 환경을 통해 실시간 인터랙티브 미디어 콘텐츠를 생성하고 제어하는 구조를 활용한다.",
+  "sensory": "실시간 데이터 처리에 기반한 디지털 입자의 즉각적인 반응과 정밀한 제어가 가능한 환경을 지향한다.",
+  "transfer": "학술적 연구나 교육 프로젝트 기획 시, 실무 소프트웨어의 교육용 라이선스 지원 프로그램을 활용해 초기 개발 비용을 절감하고 기술적 인프라를 확보할 수 있다.",
+  "context": "본 요청은 터치디자이너 개발사 파생사가 운영하는 교육 지원 프로그램의 일환이다. 과거 제니퍼 맥코이(Jennifer McCoy)나 주빈 킴(Jubin Kim)의 사례와 같이, 교육 기관 소속 사용자들이 미디어 아트 실무를 위해 기술적 해상도와 접근성을 확장하려는 시도가 지속적으로 기록되고 있다.",
+  "findings": [
+   {
+    "text": "터치디자이너는 실시간 인터랙티브 멀티미디어 콘텐츠를 위한 노드 기반 시각 프로그래밍 언어이다.",
+    "s": 1,
+    "quote": "TouchDesigner is a node-based visual programming language for real-time interactive multimedia content."
+   }
+  ],
+  "keywords": [
+   "터치디자이너",
+   "미디어아트",
+   "교육지원",
+   "노드프로그래밍"
+  ],
+  "evidence": "Edu Request - HARUKA ITO",
+  "kind": "뉴스·이슈",
+  "depth": 2,
+  "grounding": "thin",
+  "depth_reason": "교육 라이선스 신청이라는 단순 행정 기록에 해당하며, 구체적인 예술적 작업이나 기술적 구현 사례가 포함되지 않았다.",
+  "v": 2,
+  "url": "https://derivative.ca/educational-package/edu-request-haruka-ito/75769",
+  "original_title": "Edu Request - HARUKA ITO",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 94,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-23 20:02",
+  "research": {
+   "entities": [
+    "HARUKA ITO",
+    "TouchDesigner",
+    "Derivative"
+   ],
+   "questions": [
+    "하라카 이토(Haruka Ito)는 TouchDesigner를 활용하여 어떤 교육적 또는 예술적 작업을 진행했는가?",
+    "Derivative의 교육 요청(Edu Request) 프로그램은 어떤 방식으로 운영되는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "TouchDesigner",
+     "url": "https://en.wikipedia.org/wiki/TouchDesigner"
+    },
+    {
+     "n": 2,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "엘리 캠벨, 클럽의 밤을 프레임 단위로 해체하고 다시 그리다",
+     "url": "https://www.creativeboom.com/work/ellie-campbell-turns-club-nights-into-hand-painted-gloriously-wonky-animations/"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "터치디자이너와 미디어 아트 교육 현장의 해상도 확장",
+     "url": "https://derivative.ca/educational-package/edu-request-jennifer-mccoy/75728"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "터치디자이너 교육 프로그램 신청 내역과 국내 사용자 요청",
+     "url": "https://derivative.ca/educational-package/edu-request-jubin-kim/75731"
+    }
+   ],
+   "used": [
+    1,
+    3,
+    4
+   ],
+   "chars": 992
+  },
+  "depth_raw": 2,
+  "depth_v": 2
+ },
+ "creativeboom.com/insight/luke-mcconkey-on-spreading-a-pandemic-of-joy-and-working-with-uniqlo": {
+  "title_ko": "루크 맥콘키가 제안하는 일러스트레이션의 낙관적 태도와 협업의 기술",
+  "summary_ko": "일러스트레이터 루크 맥콘키(Luke McConkey)는 냉소적인 디지털 환경에서 미소를 유발하는 시각적 작업을 이어간다. 디자인 에이전시 리드 디자이너 출신인 그는 2020년부터 일러스트레이션에 전념하며, 유니클로(Uniqlo) 리버풀 매장 프로젝트와 같은 브랜드 협업에서 유연한 태도로 창의적 합의점을 찾아낸다.",
+  "lens": "냉소와 비판이 지배하는 디지털 풍경 속에서, 의도적으로 설계된 기쁨의 시각적 언어가 어떻게 대중과 브랜드의 접점을 만드는지 관찰한다.",
+  "why_now": "디지털 피로와 창작자들의 회의감이 팽배한 시기에, 작업의 즐거움을 유지하며 클라이언트와 유연하게 협업하는 태도는 지속 가능한 창작을 위한 실질적인 해법이 된다.",
+  "mechanism": "반복적인 드로잉을 통해 일러스트레이션 스타일을 근육 기억(muscle memory)으로 체화하여 즉각적인 창작을 가능하게 한다. 협업 과정에서는 클라이언트의 피드백을 창의적 근육을 단련하는 과정으로 수용하여 결과물의 완성도를 높인다.",
+  "sensory": "단순하고 밝은 색감과 명료한 선으로 구성된 일러스트레이션은 보는 이에게 즉각적인 심리적 환기를 제공한다. 복잡한 서사보다는 웃음이라는 직관적인 감각에 집중한다.",
+  "transfer": "콘티 작업 시 캐릭터의 표정과 동작을 과장되게 연출하여 시각적 낙관을 극대화하라. 클라이언트와의 피드백 루프를 고통이 아닌 공동의 결과물을 정교화하는 창의적 협업 단계로 재정의하여 현장의 긴장감을 조율하라.",
+  "context": "루크 맥콘키는 인터랙티브 미디어 디자인을 전공하고 디자인 에이전시에서 6년간 로고 디자인과 비주얼 아이덴티티를 담당했다. 2022년 일러스트레이션 에이전시 핸섬 프랭크(Handsome Frank)와 계약하며 본격적인 커리어를 확장했다.",
+  "findings": [],
+  "keywords": [
+   "일러스트레이션",
+   "브랜드 협업",
+   "낙관적 태도",
+   "창작 프로세스"
+  ],
+  "evidence": "Smiles are infectious; they take a small amount of effort on your part but spread like wildfire.",
+  "kind": "작가·인터뷰",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "창작자의 태도와 협업 방식을 구체적으로 다루나, 작업의 시각적 기법에 대한 상세한 분석보다는 작가의 철학적 접근에 무게가 실려 있다.",
+  "v": 2,
+  "url": "https://www.creativeboom.com/insight/luke-mcconkey-on-spreading-a-pandemic-of-joy-and-working-with-uniqlo/",
+  "original_title": "Luke McConkey on spreading a pandemic of joy and working with Uniqlo",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 9000,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-23 20:02",
+  "research": {
+   "entities": [
+    "Luke McConkey",
+    "Uniqlo",
+    "Aaron Draplin",
+    "Handsome Frank",
+    "InkyGoodness"
+   ],
+   "questions": [
+    "루크 맥콘키가 추구하는 '기쁨을 전파하는 일러스트레이션'의 시각적 특징은 무엇인가요?",
+    "디자인 에이전시의 리드 디자이너에서 프리랜서 일러스트레이터로 전향하게 된 결정적인 계기는 무엇인가요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Luke McConkey | My Portfolio",
+     "url": "https://lukemcconkey.co.uk/"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Uniqlo",
+     "url": "https://en.wikipedia.org/wiki/Uniqlo"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Aaron Draplin",
+     "url": "https://en.wikipedia.org/wiki/Aaron%20Draplin"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "언더아머의 새로운 행보, 거나와 결합한 P-Star 플랫폼",
+     "url": "https://hypebeast.com/2026/8/skims-supreme-uniqlo-u-ugg-willy-chavarria-gunna-under-armour-ovo-drake-info"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "유니클로 U의 10년 마침표, 크리스토프 르메르와 사라 린 트란의 퇴장",
+     "url": "https://hypebeast.com/2026/8/uniqlo-u-christophe-lemaire-sarah-linh-tran-exit"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "잇츠 나이스 댓의 2026년 독자 설문, 크리에이티브 산업의 현재를 묻다",
+     "url": "https://www.itsnicethat.com/articles/audience-survey-2026-151026"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 2473
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "itsnicethat.com/articles/casey-roarty-graphic-design-discover-231126": {
+  "title_ko": "케이시 로어티: 미니멀한 골조에 얹은 장난스러운 낙서의 미학",
+  "summary_ko": "그래픽 디자이너 케이시 로어티(Casey Roarty)는 정제된 타이포그래피와 구성 위에 손으로 그린 레터링과 질감을 더해 브랜드의 개성을 드러낸다. 그는 런던의 웹 시리즈 '치킨 숍 데이트(Chicken Shop Date)'의 10주년 브랜딩과 최종 시리즈 포스터를 디자인하며, 영국의 패스트푸드 문화를 상징하는 노란색과 빨간색을 활용한 시각 체계를 구축했다.",
+  "lens": "미니멀한 그리드라는 뼈대 위에 필기체와 스프레이 자국 같은 우연적 요소를 얹어 브랜드의 긴장감을 조율한다.",
+  "why_now": "디지털의 매끄러움이 범람하는 시대에, 의도된 거칠기와 손맛을 통해 브랜드에 인간적인 서사를 부여하는 방식이 주목받는다.",
+  "mechanism": "치킨 숍의 간판을 연상시키는 원색의 팔레트와 삐뚤빼뚤한 필기체를 결합하여, 정갈한 레이아웃 속에 즉흥적인 에너지를 심는다.",
+  "sensory": "분필로 쓴 듯한 질감과 스프레이의 번짐, 패스트푸드점의 익숙한 노란색과 빨간색이 주는 강렬한 시각적 잔상이 특징이다.",
+  "transfer": "콘티 작업 시 정제된 타이포그래피 옆에 거친 핸드 드로잉 요소를 배치해 화면의 온도를 조절하라. 특정 장소의 색감(예: 패스트푸드 간판)을 추출해 로고나 자막의 포인트 컬러로 활용하면 장소성을 즉각적으로 환기할 수 있다.",
+  "context": "케이시 로어티는 에드 루샤(Ed Ruscha)와 브라이언 로에팅거(Brian Roettinger)의 작업에서 영감을 얻어 예술과 디자인 사이의 간극을 탐구한다. 특히 중고 거래 플랫폼의 투박한 사진을 수집해 재구성하는 작업은 그의 디자인 철학인 '디지털과 물리적 영역의 결합'을 잘 보여준다.",
+  "findings": [
+   {
+    "text": "에드 루샤는 팝 아트 운동과 연관된 미국 작가로 회화, 판화, 사진 등 다양한 매체를 다룬다.",
+    "s": 1,
+    "quote": "Edward Joseph Ruscha IV is an American artist associated with the pop art movement. He has worked in the media of painting, printmaking, drawing, photography, and film."
+   }
+  ],
+  "keywords": [
+   "케이시 로어티",
+   "그래픽 디자인",
+   "브랜딩",
+   "미니멀리즘",
+   "시각적 우연성"
+  ],
+  "evidence": "revels in a measured messiness with hand-drawn chalk-like and spray paint-esque marks",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "구체적인 프로젝트 사례를 통해 미니멀리즘과 핸드 드로잉의 결합 기법을 명확히 제시하고 있어 실무 적용 가능성이 높다.",
+  "v": 2,
+  "url": "https://www.itsnicethat.com/articles/casey-roarty-graphic-design-discover-231126",
+  "original_title": "Casey Roarty is drawn to minimal design, but his graphics for Chicken Shop Date don’t skimp on personality",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 3731,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-23 20:02",
+  "research": {
+   "entities": [
+    "Casey Roarty",
+    "Chicken Shop Date",
+    "Brian Roettinger",
+    "Ed Ruscha",
+    "Actual Source"
+   ],
+   "questions": [
+    "Casey Roarty가 추구하는 '미니멀하면서도 장난기 넘치는' 디자인 철학은 구체적으로 어떤 시각적 요소들을 통해 구현되는가?",
+    "Chicken Shop Date의 브랜드 리프레시 과정에서 Casey Roarty는 영국의 패스트푸드 문화와 쇼의 정체성을 어떻게 시각적으로 결합했는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Edward Ruscha",
+     "url": "https://en.wikipedia.org/wiki/Edward%20Ruscha"
+    },
+    {
+     "n": 2,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "카우스, 앤디 워홀의 캔버스를 가로질러 아티스트 에디션으로",
+     "url": "https://www.dazeddigital.com/art-photography/article/71056/1/entering-kaws-time-machine?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=step-into-kaws-time-machine"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "오마주: 압착된 금속의 우연성을 입은 뷰티 오브제",
+     "url": "https://www.wallpaper.com/fashion-beauty/lara-worthington-ommage-beauty-brand"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "페이스북 마켓플레이스의 우연한 잔상, 케이시 로티의 재해석",
+     "url": "https://www.creativeboom.com/work/casey-roarty-digs-through-facebook-marketplace-listings-and-transforms-his-findings-into-art/"
+    }
+   ],
+   "used": [
+    1,
+    4
+   ],
+   "chars": 1126
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "itsnicethat.com/features/paris-photo-2026-photobooks-feature-231126": {
+  "title_ko": "파리 포토가 증명한 것, 포토북이라는 물리적 아카이브의 귀환",
+  "summary_ko": "아트페어의 시각적 과부하 속에서 포토북은 사진의 내밀한 서사를 보존하는 매체로 주목받는다. 어퍼처(Aperture)의 올해의 포토북을 비롯한 출판물들은 디지털 피로를 넘어 작가의 사적 아카이브와 창작 과정을 물질화하는 기록의 창구 역할을 수행한다.",
+  "lens": "화면 속 휘발되는 이미지와 달리, 제본된 페이지는 작가의 스튜디오 벽면과 연구 자료를 물리적 층위로 고정해 시간의 무게를 복원한다.",
+  "why_now": "디지털 플랫폼의 이미지 범람 속에서, 사진의 맥락을 구축하고 창작의 이면을 증명하는 포토북의 물성이 다시금 예술적 가치를 얻는다.",
+  "mechanism": "제록스 프린트, 개인 메모, 사소한 사물의 근접 촬영 등 사진 외적 부산물을 페이지에 나란히 배치하여 이미지의 평면성을 해체하고 공간적 서사를 구성한다.",
+  "sensory": "뭉쳐진 냅킨의 주름, 낡은 벽면의 질감, 인화지의 거친 입자 등 손끝에 닿을 듯한 사물의 파편이 디지털 이미지와 대비되는 물리적 실재감을 전달한다.",
+  "transfer": "콘티 구성 시 완성된 컷만 나열하지 말고, 촬영 현장의 메모나 테스트 인화지, 버려진 소품을 함께 배치해 이미지의 서사적 깊이를 더하는 오브제 레이어로 활용한다.",
+  "context": "어퍼처는 엘르 페레스의 사적 아카이브를 물질화한 '데보션스'부터 크리스 로즈가 포착한 호텔의 일상적 파편을 담은 '스플렌디도'까지, 사진집을 통해 기록의 새로운 지평을 제시해왔다. 이는 잇츠 나이스 댓이 강조하는 사진의 실무적 이면을 해체하는 흐름과 맥을 같이 한다.",
+  "findings": [],
+  "keywords": [
+   "포토북",
+   "어퍼처",
+   "사적 아카이브",
+   "물성",
+   "기록의 방식"
+  ],
+  "evidence": "the future of photography demands we keep publishing",
+  "kind": "뉴스·이슈",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "원문 본문이 부재하여 메타 정보와 과거 리서치 자료를 조합해 해석했으나, 깊이 있는 분석을 위해 추가 정보가 필요함.",
+  "v": 2,
+  "url": "https://www.itsnicethat.com/features/paris-photo-2026-photobooks-feature-231126",
+  "original_title": "Paris Photo was proof that the future of photography demands we keep publishing",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 0,
+  "fetch": "fetch_error:HTTPError",
+  "cliche_hits": [
+   "새로운 지평"
+  ],
+  "read_at": "2026-11-23 20:02",
+  "research": {
+   "entities": [
+    "Paris Photo",
+    "Aperture",
+    "It's Nice That"
+   ],
+   "questions": [
+    "포토북이 현대 사진 예술의 맥락에서 디지털 매체와 차별화되는 고유한 가치는 무엇인가?",
+    "Aperture가 매년 선정하는 올해의 포토북은 어떤 기준과 철학을 바탕으로 선정되는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "사진집 데보션스, 사적 아카이브를 물질화하다",
+     "url": "https://www.dazeddigital.com/art-photography/article/71081/1/elle-perez-devotions-aperture-photo-book-photography-interview?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=inside-the-radical-mind-and-work-of-artist-elle-perez"
+    },
+    {
+     "n": 2,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "사진의 이면을 해체하다: 세 명의 작가가 공개하는 창작의 기술",
+     "url": "https://www.itsnicethat.com/articles/trade-secrets-mpb-photography-event-partnership-101126"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "호텔 스플렌디도의 이면: 크리스 로즈가 포착한 사물과 시간의 파편",
+     "url": "https://www.anothermag.com/art-photography/17636/chris-rhodes-portofino-hotel-splendido?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=chris-rhodes-documents-another-side-of-portofino-s-hotel-splendido"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3
+   ],
+   "chars": 869
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "nowness.com/films/even-if-you-dont-root-for-me-liz-dorea": {
+  "title_ko": "패배를 기록하는 법: 복서 마테우스가 마주한 아바나의 시간",
+  "summary_ko": "상파울루 출신 감독 리즈 도레아(Liz Dorea)는 단편 영화 '나를 응원하지 않더라도(Even If You Don’t Root for Me)'를 통해 올림픽의 꿈이 좌절된 브라질 복서 마테우스의 아바나 귀환을 그린다. 승자 중심의 스포츠 서사에서 벗어나 패배를 인정하고 그 이후의 삶을 모색하는 과정을 다큐멘터리와 픽션의 경계에서 포착한다.",
+  "lens": "승리라는 결과 대신 패배 이후의 잔상을 쫓아, 스포츠 다큐멘터리에 인간의 상실과 애도라는 물리적 무게를 입힌다.",
+  "why_now": "성취와 승리에만 매몰된 사회적 풍경 속에서, 실패를 직시하고 이를 삶의 서사로 통합하려는 태도는 동시대적 위로이자 새로운 기록 방식이다.",
+  "mechanism": "승리하지 못한 선수의 일상을 관찰하며, 스포츠의 역동성 대신 상실감과 슬픔이 짙게 배어나는 아바나의 지리적 배경을 투영해 정적인 명상적 분위기를 조성한다.",
+  "sensory": "올림픽 좌절 후 12년이 흐른 뒤의 공허함, 아바나의 낡은 체육관이 주는 습기와 산화된 금속의 질감, 그리고 패배자의 침묵이 만드는 낮은 진동의 사운드가 화면을 지배한다.",
+  "transfer": "승리자의 화려한 클로즈업 대신, 실패한 주인공의 뒷모습과 그가 머무는 공간의 텍스처를 롱테이크로 담아내어 인물의 내면적 상실감을 시각화한다.",
+  "context": "나우니스(NOWNESS)는 과거 사라 실킨의 'Pressed to Fit'을 통해 반복적 신체 동작으로 기억의 무게를 시각화한 바 있으며, 이번 작품 역시 패배자의 서사를 통해 개인의 내면을 탐구하는 시리즈의 연장선에 있다. 이는 나우니스가 지속적으로 다루어온 인간의 고립과 그를 둘러싼 환경의 초상과 궤를 같이한다.",
+  "findings": [
+   {
+    "text": "나우니스는 2010년 제퍼슨 핵이 설립한 디지털 비디오 채널로, 현재는 중국의 모던 미디어와 영국의 데이즈드 미디어가 합작한 모던 데이즈드가 지분을 보유하고 있다.",
+    "s": 1,
+    "quote": "Nowness (stylized NOWNESS) is a digital video channel that was launched in 2010 by its founder Jefferson Hack as a brand of LVMH Moët Hennessy Louis Vuitton SE."
+   }
+  ],
+  "keywords": [
+   "패배의 서사",
+   "스포츠 다큐멘터리",
+   "상실과 애도",
+   "아바나"
+  ],
+  "evidence": "Even If You Don’t Root for Me captures the process of letting go as Mateus confronts not making history for his sporting achievements",
+  "kind": "영상·필름",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "패배자의 서사를 다루는 철학적 태도는 돋보이나, 영상의 구체적인 기법적 장치에 대한 정보가 제한적이다.",
+  "v": 2,
+  "url": "https://www.nowness.com/films/even-if-you-dont-root-for-me-liz-dorea/",
+  "original_title": "Limber Up: Even If You Don’t Root For Me",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 1727,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-23 20:02",
+  "research": {
+   "entities": [
+    "Liz Dorea",
+    "Even If You Don’t Root for Me",
+    "NOWNESS"
+   ],
+   "questions": [
+    "영화 속 주인공 마테우스가 겪은 올림픽 좌절과 그 이후의 삶은 어떤 서사적 의미를 갖는가?",
+    "감독 리즈 도레아는 왜 승리자가 아닌 패배자의 서사를 통해 스포츠 다큐멘터리를 연출했는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Nowness",
+     "url": "https://en.wikipedia.org/wiki/Nowness"
+    },
+    {
+     "n": 2,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "단테의 지옥에서 건져 올린 시각과 소리의 연대기",
+     "url": "https://www.nowness.com/series/sound-vision/opera-omnia-valentin-noujaim-space-afrika"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "기억의 무게와 선택의 후회를 다루는 단편 영화 Pressed to Fit",
+     "url": "https://www.nowness.com/series/nowness-shorts/pressed-to-fit-sara-silkin"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "지워져 가는 칼라쉬의 풍경, 알리나의 초상",
+     "url": "https://www.nowness.com/series/portrait-of-a-place/alina-kalasha-pakistan"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "chars": 945
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "flash---art.com/2026/11/amsterdam-art-week-traces-of-the-everyday": {
+  "title_ko": "암스테르담 아트 위크: 일상의 파편으로 재구성한 주거의 불안정성",
+  "summary_ko": "제14회 암스테르담 아트 위크는 레이크스아카데미 오픈 스튜디오를 포함해 도시 전역의 77개 문화 기관이 참여하며 예술적 실천의 장을 열었다. 아브릴 코룬은 제습기로 추출한 물과 침실 러그를 사용해 임대 주택의 불안정한 환경을 물질화했고, 팜 비라다는 창문을 매개로 영화적 시선과 일상적 공간의 경계를 흐렸다. 이들은 거주라는 보편적 행위를 통해 사회적 권력과 공간의 관계를 탐구한다.",
+  "lens": "임대 주택의 습기와 창문 너머의 일상을 물리적 오브제로 환치하여, 거주라는 행위가 어떻게 정치적 권력의 지표가 되는지 폭로한다.",
+  "why_now": "팬데믹 이후 주거의 물리적 한계와 임대 공간의 불안정성이 예술적 의제로 급부상하며, 일상의 오브제를 통해 거주 환경의 정치성을 드러내는 작업이 주목받는다.",
+  "mechanism": "제습기로 모은 물을 IV 팩에 담거나 벽을 타고 오르는 러그를 배치하는 등, 일상적 사물을 기이한 스케일과 맥락으로 재배치하여 공간의 고유한 긴장을 유도한다.",
+  "sensory": "습기를 머금은 공기, 차가운 렌탈 하우스의 바닥을 덮던 러그의 질감, 창문 프레임 너머로 좁혀진 미니어처 공간의 건조한 스케일이 관람객의 감각을 자극한다.",
+  "transfer": "공간 연출 시 바닥재를 벽면으로 확장하거나, 일상적인 가전의 부산물을 전시 오브제로 치환하여 공간의 서사를 뒤트는 시각적 전이를 활용할 수 있다.",
+  "context": "1870년 설립된 레이크스아카데미는 암스테르담 인상주의의 산실이자 철학자와 예술가가 교류하는 고등 교육 기관이다. 이번 행사는 이곳의 오픈 스튜디오와 연계되어 동시대 예술가들의 실험적 실천을 도시 전역의 갤러리 네트워크로 확장했다.",
+  "findings": [
+   {
+    "text": "레이크스아카데미는 1870년에 설립된 고전적 예술 아카데미로, 시각 예술가들에게 2년 과정의 교육을 제공한다.",
+    "s": 1,
+    "quote": "The Rijksakademie van beeldende kunsten ('State Academy of Fine Arts') was founded in 1870 in Amsterdam. It is a classical academy, a place where philosophers, academics and artists meet to test and exchange ideas and kn"
+   }
+  ],
+  "keywords": [
+   "주거의정치학",
+   "공간의물성",
+   "레이크스아카데미",
+   "암스테르담아트위크"
+  ],
+  "evidence": "architecture becomes a manifestation of governance and power",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "일상적 오브제를 권력과 주거의 불안정성이라는 사회적 맥락으로 치환하는 구체적인 기법과 연출이 돋보인다.",
+  "v": 2,
+  "url": "https://flash---art.com/2026/11/amsterdam-art-week-traces-of-the-everyday/",
+  "original_title": "Amsterdam Art Week: Traces of the Everyday",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 9000,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-23 20:02",
+  "research": {
+   "entities": [
+    "Amsterdam Art Week",
+    "Rijksakademie",
+    "Avril Corroon",
+    "Pam Virada",
+    "Clara Amaral"
+   ],
+   "questions": [
+    "암스테르담 아트 위크와 레이크스아카데미 오픈 스튜디오가 지역 예술 생태계에서 갖는 의미는 무엇인가?",
+    "아브릴 코룬과 팜 비라다의 작품에서 '일상적 공간'과 '주거의 불안정성'은 어떤 방식으로 시각화되는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Rijksakademie van beeldende kunsten",
+     "url": "https://en.wikipedia.org/wiki/Rijksakademie%20van%20beeldende%20kunsten"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 979
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "creativeboom.com/insight/why-are-football-clubs-launching-christmas-campaigns-and-do-john-lewis-and-ms-have-anything-to-worry-about": {
+  "title_ko": "축구 클럽이 크리스마스 광고 시장을 점유하는 방식: 첼시에서 맨시티까지",
+  "summary_ko": "영국 프리미어리그의 주요 구단들이 전통적인 팀 사진 촬영을 넘어 대규모 크리스마스 캠페인을 선보인다. 첼시는 가상의 TV 네트워크를 구축했고, 리버풀은 팬을 향한 헌사를 담았으며, 아스널은 영화적 서사를, 맨체스터 시티는 지역 아동과의 협업을 선택했다. 이는 구단이 단순한 스포츠 조직을 넘어 팬의 일상적 관심을 점유하는 콘텐츠 기업으로 진화하고 있음을 보여준다.",
+  "lens": "축구 구단은 이제 허구의 이야기를 만드는 유통업체와 달리, 이미 축적된 팬덤이라는 서사를 활용해 현실과 광고의 경계를 지우는 실시간 시노그래피를 구축한다.",
+  "why_now": "디지털 환경에서 팬들은 파편화된 클립과 라이브 쇼핑을 동시에 소비한다. 구단은 이러한 파편화된 시청 습관을 역으로 이용해 다채널 캠페인을 전개한다.",
+  "mechanism": "첼시는 기상 예보, 홈쇼핑, 라디오 전화 상담 등 가상의 TV 채널을 플랫폼별로 쪼개어 배포한다. 촬영 현장의 NG 장면과 카메라 밖의 상호작용을 그대로 노출해 연출된 광고가 아닌 실시간 방송의 현장감을 구현한다.",
+  "sensory": "연말의 들뜬 분위기와 섞인 선수들의 꾸밈없는 웃음소리, 카메라를 향한 곁눈질, 라이브 방송 특유의 정제되지 않은 화면 전환이 디지털 피로감을 해소한다.",
+  "transfer": "광고 콘티 작성 시 '완성된 영상' 대신 '방송 사고를 포함한 라이브 구성'을 도입한다. 배우가 카메라 밖 스태프와 눈을 맞추거나 대본을 잊는 순간을 편집에서 덜어내지 않고 그대로 활용해 신뢰도와 몰입감을 높인다.",
+  "context": "첼시는 2025년 UEFA 컨퍼런스 리그 우승으로 4대 메이저 UEFA 대회를 모두 석권한 최초의 클럽이다. 리버풀은 2025년 아르네 슬롯 감독 체제에서 통산 20번째 리그 우승을 달성하며 새로운 역사를 쓰고 있다.",
+  "findings": [
+   {
+    "text": "첼시는 2025년 UEFA 컨퍼런스 리그 우승을 통해 유럽 주요 4대 클럽 대항전을 모두 제패한 최초의 구단이 되었다.",
+    "s": 2,
+    "quote": "After winning the UEFA Conference League in 2025, Chelsea became the first club to win all four main UEFA competitions as well as all UEFA men's competitions."
+   },
+   {
+    "text": "리버풀은 2025년 아르네 슬롯 감독의 지도 아래 통산 20번째 리그 우승을 기록했다.",
+    "s": 3,
+    "quote": "Following Klopp's departure in 2024, Arne Slot guided Liverpool to a twentieth league title in 2025."
+   }
+  ],
+  "keywords": [
+   "콘텐츠 전략",
+   "브랜드 캠페인",
+   "팬덤 시노그래피",
+   "실시간 연출"
+  ],
+  "evidence": "Chelsea has built a fake TV network. Liverpool has turned its Christmas message into a thank-you note. Arsenal has hired Colin Firth. And Manchester City has handed the pens to local schoolchildren.",
+  "kind": "브랜드·캠페인",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "구단별 캠페인 전략을 구체적으로 분석하고, 이를 마케팅적 관점과 연출 기법으로 연결하여 실무적 통찰을 제공한다.",
+  "v": 2,
+  "url": "https://www.creativeboom.com/insight/why-are-football-clubs-launching-christmas-campaigns-and-do-john-lewis-and-ms-have-anything-to-worry-about/",
+  "original_title": "Why are football clubs launching Christmas campaigns (and do John Lewis and M&S have anything to worry about?)",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 9000,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-23 20:02",
+  "research": {
+   "entities": [
+    "Chelsea FC",
+    "Liverpool FC",
+    "Arsenal FC",
+    "Manchester City FC",
+    "Till Dawn"
+   ],
+   "questions": [
+    "축구 클럽들이 단순한 홍보를 넘어 대규모 크리스마스 캠페인을 제작하는 마케팅적 배경은 무엇인가?",
+    "첼시 FC의 'That's Proper Chels' 캠페인이 기존의 전통적인 광고 방식과 차별화되는 전략적 요소는 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "TILLDAWN.CO.UK",
+     "url": "https://tilldawn.co.uk"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Chelsea F.C.",
+     "url": "https://en.wikipedia.org/wiki/Chelsea%20F.C."
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Liverpool F.C.",
+     "url": "https://en.wikipedia.org/wiki/Liverpool%20F.C."
+    }
+   ],
+   "used": [
+    2,
+    3
+   ],
+   "chars": 3133
+  },
+  "depth_raw": 4,
+  "depth_v": 2
  }
 }
