@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-24 21:49 KST",
-  "period": "2026.11.17 - 2026.11.24",
-  "total_articles": 577,
+  "generated_at": "2026-11-25 03:55 KST",
+  "period": "2026.11.18 - 2026.11.25",
+  "total_articles": 523,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 287
+      "count": 264
     },
     {
       "genre": "동시대 미술",
-      "count": 186
+      "count": 163
     },
     {
       "genre": "아방가르드 패션",
@@ -17,79 +17,79 @@
     },
     {
       "genre": "미디어 파사드·3D",
-      "count": 44
+      "count": 36
     }
   ],
   "themes": [
     {
-      "keyword": "박물관·전시",
-      "count": 59,
-      "previous_count": 50,
-      "trend": "rising",
-      "items": [
-        {
-          "title": "비스킷 통 뚜껑, 말 안장 장식, 고철로 만든 버버리의 V&A 조각 크리스마스 트리",
-          "url": "https://www.dezeen.com/2026/11/24/va-christmas-tree-burberry/",
-          "image_url": "https://static-2026.dezeen.com/uploads/2026/11/burberry-va-christmas-tree-2026_dezeen_2364_col_sq-1024x1024.jpg",
-          "source_name": "Dezeen"
-        },
-        {
-          "title": "게르하르트 리히터가 직접 설계한 도하의 갤러리를 감싸는 '강렬한 물리적 패턴'",
-          "url": "https://www.dezeen.com/2026/11/24/gerhard-richters-doha-pavilion-selldorf-architects/",
-          "image_url": "https://static-2026.dezeen.com/uploads/2026/11/doha-pavilion-gerhard-richter-selldorf-architects-qatar-architecture-galleries-cultural_dezeen_2364_sq-1024x1024.jpg",
-          "source_name": "Dezeen"
-        },
-        {
-          "title": "포르투갈관, 2027년 베네치아 건축 비엔날레에서 '손을 땅에'를 통해 4개 아프리카 국가 초청",
-          "url": "https://www.archdaily.com/1189091/the-portuguese-pavilion-to-invite-four-african-countries-through-hands-on-the-ground-at-the-2027-venice-architecture-biennale",
-          "image_url": "https://images.adsttc.com/media/images/6b04/8b52/dd54/ea01/8880/ef9b/large_jpg/portugal-pavilion_4.jpg?1795459926",
-          "source_name": "ArchDaily"
-        },
-        {
-          "title": "런던 박물관, 스미스필드의 유서 깊은 제너럴 마켓에 새롭게 개관",
-          "url": "https://www.designboom.com/architecture/london-museum-new-home-smithfield-historic-general-market-stanton-williams-asif-khan-julian-harrap/",
-          "image_url": "https://www.designboom.com/wp-content/uploads/2026/11/london-museum-new-home-smithfield-historic-general-market-stanton-williams-asif-khan-julian-harrap-designboom-02.jpg",
-          "source_name": "Designboom Architecture"
-        }
-      ]
-    },
-    {
       "keyword": "사진",
-      "count": 20,
-      "previous_count": 11,
+      "count": 23,
+      "previous_count": 9,
       "trend": "rising",
       "items": [
+        {
+          "title": "제1회 호주 거리 사진상(Australian Street Photography Awards)이 일상생활의 변덕을 조명합니다.",
+          "url": "https://www.thisiscolossal.com/2026/11/australian-street-photography-awards-2026/",
+          "image_url": "https://www.thisiscolossal.com/wp-content/uploads/2026/11/aussie-street-7.jpg",
+          "source_name": "This Is Colossal"
+        },
+        {
+          "title": "사진작가 티무르 만수로프(Timur Mansurov)의 '시골 수의사'",
+          "url": "https://www.booooooom.com/2026/11/23/rural-veterinarian-by-photographer-timur-mansurov/",
+          "image_url": "https://cdn.booooooom.com/wp-content/uploads/2026/11/Mansurov1.jpg",
+          "source_name": "BOOOOOOOM"
+        },
+        {
+          "title": "Nan Goldin’s Brutal, Beautiful Worlds",
+          "url": "https://www.anothermag.com/art-photography/17653/nan-goldin-you-never-did-anything-wrong-review-exhibition-hayward-gallery",
+          "image_url": "https://images-prod.anothermag.com/566/0-349-566-377/azure/another-prod/480/0/480483.jpg",
+          "source_name": "AnOther Magazine"
+        },
         {
           "title": "에티엔 페론(Etienne Perrone), 유색 플래시로 한적한 거리를 비춰 영화 스틸컷 같은 야경을 연출하다",
           "url": "https://www.designboom.com/art/etienne-perrone-empty-streets-colored-flash-night-scenes-film-stills-dreams-happen-after-dark/",
           "image_url": "https://www.designboom.com/wp-content/dbsub/470896/2026-11-16/etienne-perrone-photographs-empty-cities-at-night-like-stills-from-lost-films-1-6afb0c8bc9836.jpg",
           "source_name": "Designboom Art"
+        }
+      ]
+    },
+    {
+      "keyword": "해변·리조트 건축",
+      "count": 7,
+      "previous_count": 5,
+      "trend": "rising",
+      "items": [
+        {
+          "title": "Alinea Residency가 빅 스카이로 돌아옵니다",
+          "url": "https://coolhunting.com/design/the-alinea-residency-returns-to-big-sky/",
+          "image_url": "https://coolhunting.com/wp-content/uploads/2026/11/big_sky_resort_dining_m_by_tag_photo_SHOT_15_PULLED_BACK_WIDE_072-1-2-hero-768x432.jpg",
+          "source_name": "Cool Hunting"
         },
         {
-          "title": "사진으로 보는 세계 각지의 레이버들: 땀에 흠뻑 젖은 초월적인 모습의 인물 사진",
-          "url": "https://www.dazeddigital.com/music/article/71399/1/portraits-of-ravers-around-the-world-indie-sleaze-forever-sub-club-glasgow?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=in-pictures-sweaty-transcendent-portraits-of-ravers-around-the-world",
-          "image_url": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1460/0/1460013.jpg",
-          "source_name": "Dazed"
+          "title": "파우더 마운틴의 야외 갤러리에서 예술과 스키 슬로프가 만나는 곳",
+          "url": "https://design-milk.com/powder-mountain-art-museum/",
+          "image_url": "https://design-milk.com/images/2026/11/Rose-Wylie-Pale-Pink-Pineapple_Bomb-2025-at-Powder-Art-Foundation-photo-by-Kim-Raff_4-1500x1000.jpg",
+          "source_name": "Design Milk"
         },
         {
-          "title": "영국 시골 저택 같은 분위기의 브루클린 아파트 내부",
-          "url": "https://www.architecturaldigest.com/story/inside-a-brooklyn-apartment-that-feels-like-an-english-country-estate",
-          "image_url": "https://media.architecturaldigest.com/photos/6af325f3a1135bbbde950994/master/pass/AD1226_AD_VISITS_2%20copy.jpg",
+          "title": "바다에서 영감을 받은 끊임없이 변화하는 색상 팔레트의 인테리어가 돋보이는 로드아일랜드 해변의 가족 주택",
+          "url": "https://www.architecturaldigest.com/story/rhode-island-house-design-by-ford-huniford",
+          "image_url": "https://media.architecturaldigest.com/photos/6b0459d581651969691f5282/master/pass/Huniford%20Rhode%20Island_3002.jpg",
           "source_name": "Architectural Digest"
         },
         {
-          "title": "AD가 검증한 온라인 사진 인화 구매처(2026)",
-          "url": "https://www.architecturaldigest.com/story/photography-prints-online",
-          "image_url": "https://media.architecturaldigest.com/photos/6b046bace5a0d48f4ff21be1/master/pass/AD0722_BUSH_12.jpg",
-          "source_name": "Architectural Digest"
+          "title": "요코하마 팀버 워프 / 타이주 야마시타 디자인 및 건축",
+          "url": "https://www.archdaily.com/1188949/yokohama-timber-wharf-taiju-yamashita-design-and-architecture",
+          "image_url": "https://images.adsttc.com/media/images/6aff/09dd/eabd/2a00/0193/2555/large_jpg/d_93243.jpg?1795099276",
+          "source_name": "ArchDaily"
         }
       ]
     },
     {
       "keyword": "리노베이션·재생",
-      "count": 18,
-      "previous_count": 15,
-      "trend": "rising",
+      "count": 16,
+      "previous_count": 16,
+      "trend": "steady",
       "items": [
         {
           "title": "Claves, 상상력이 풍부한 감각으로 메제브의 1940년대 아르데코 스키 샬레를 새롭게 단장하다",
@@ -119,10 +119,16 @@
     },
     {
       "keyword": "가구 디자인",
-      "count": 17,
-      "previous_count": 13,
-      "trend": "rising",
+      "count": 15,
+      "previous_count": 14,
+      "trend": "steady",
       "items": [
+        {
+          "title": "Davis Furniture와 jehs+laub가 조각 같은 Laken Nesting Tables를 선보입니다",
+          "url": "https://design-milk.com/davis-furniture-and-jehslaub-introduce-the-sculptural-laken-nesting-tables/",
+          "image_url": "https://design-milk.com/images/2026/11/Laken_DavisFurniture_10-1500x1049.jpg",
+          "source_name": "Design Milk"
+        },
         {
           "title": "우리 모두가 지나치는 핸드레일에서 영감을 받은 모듈식 가구 시스템.",
           "url": "https://www.yellowtrace.com.au/nomi-junction-furniture-collection-australian-design/",
@@ -140,93 +146,87 @@
           "url": "https://www.dezeen.com/2026/11/23/kidbrooke-park-road-hta-design/",
           "image_url": "https://static-2026.dezeen.com/uploads/2026/11/kidbrooke-park-road-hta-design-council-housing_dezeen_2364_sq-1024x1024.jpg",
           "source_name": "Dezeen"
-        },
-        {
-          "title": "영국 시골 저택 같은 분위기의 브루클린 아파트 내부",
-          "url": "https://www.architecturaldigest.com/story/inside-a-brooklyn-apartment-that-feels-like-an-english-country-estate",
-          "image_url": "https://media.architecturaldigest.com/photos/6af325f3a1135bbbde950994/master/pass/AD1226_AD_VISITS_2%20copy.jpg",
-          "source_name": "Architectural Digest"
         }
       ]
     },
     {
-      "keyword": "해변·리조트 건축",
-      "count": 7,
-      "previous_count": 7,
+      "keyword": "설치 미술",
+      "count": 4,
+      "previous_count": 5,
       "trend": "steady",
       "items": [
         {
-          "title": "Alinea Residency가 빅 스카이로 돌아옵니다",
-          "url": "https://coolhunting.com/design/the-alinea-residency-returns-to-big-sky/",
-          "image_url": "https://coolhunting.com/wp-content/uploads/2026/11/big_sky_resort_dining_m_by_tag_photo_SHOT_15_PULLED_BACK_WIDE_072-1-2-hero-768x432.jpg",
-          "source_name": "Cool Hunting"
+          "title": "perkins&will and estúdio campana wrap são paulo airport lounge in amazon river-inspired timber installation",
+          "url": "https://www.designboom.com/architecture/perkinswill-estudio-campana-sao-paulo-airport-lounge-amazon-river-inspired-timber-installation-pedra-preta/",
+          "image_url": "https://www.designboom.com/wp-content/dbsub/457982/2026-11-11/pedra-preta-lounge-transforms-latin-americas-busiest-airport-into-a-destination-for-brazilian-art-design-and-culture-5-6af4cbe01fdb2.jpg",
+          "source_name": "Designboom Architecture"
         },
         {
-          "title": "파우더 마운틴의 야외 갤러리에서 예술과 스키 슬로프가 만나는 곳",
-          "url": "https://design-milk.com/powder-mountain-art-museum/",
-          "image_url": "https://design-milk.com/images/2026/11/Rose-Wylie-Pale-Pink-Pineapple_Bomb-2025-at-Powder-Art-Foundation-photo-by-Kim-Raff_4-1500x1000.jpg",
-          "source_name": "Design Milk"
+          "title": "'불완전에 대한 열정'이 돋보이는 안드레아 브란지(Andrea Branzi)의 램프 설치 작품",
+          "url": "https://www.dezeen.com/2026/05/08/objects-speak-andrea-branzi-lamp-milan-design-week/",
+          "image_url": "https://static-2026.dezeen.com/uploads/2026/05/objects-speak-andrea-branzi-lamp-milan-design-week_dezeen_2364_sq_1-852x852.jpg",
+          "source_name": "Dezeen Lighting"
         },
         {
-          "title": "바다에서 영감을 받은 끊임없이 변화하는 색상 팔레트의 인테리어가 돋보이는 로드아일랜드 해변의 가족 주택",
-          "url": "https://www.architecturaldigest.com/story/rhode-island-house-design-by-ford-huniford",
-          "image_url": "https://media.architecturaldigest.com/photos/6b0459d581651969691f5282/master/pass/Huniford%20Rhode%20Island_3002.jpg",
-          "source_name": "Architectural Digest"
+          "title": "Jacolby Satterwhite - A Metta Prayer",
+          "url": "https://www.nowness.com/films/jacolby-satterwhite-a-metta-prayer/",
+          "image_url": "https://www.nowness.com/media/bvuh5fa3/a-metta-prayer-still-3.jpg",
+          "source_name": "NOWNESS"
         },
         {
-          "title": "요코하마 팀버 워프 / 타이주 야마시타 디자인 및 건축",
-          "url": "https://www.archdaily.com/1188949/yokohama-timber-wharf-taiju-yamashita-design-and-architecture",
-          "image_url": "https://images.adsttc.com/media/images/6aff/09dd/eabd/2a00/0193/2555/large_jpg/d_93243.jpg?1795099276",
+          "title": "Aesop, 밀라노 디자인 위크에서 The Factory of Light 설치 작품과 함께 Aposē 램프 출시",
+          "url": "https://www.dezeen.com/2026/04/20/aesop-apose-factory-light-milan-design-week/",
+          "image_url": "https://static-2026.dezeen.com/uploads/2026/04/aesop-lamps-milan-design-week_dezeen_2364_col_sq.jpg",
+          "source_name": "Dezeen Lighting"
+        }
+      ]
+    },
+    {
+      "keyword": "박물관·전시",
+      "count": 55,
+      "previous_count": 58,
+      "trend": "falling",
+      "items": [
+        {
+          "title": "발터 단: 결혼하자, 함께 사라지자",
+          "url": "https://elephant.art/walter-dahn-lets-get-married-lets-get-lost/",
+          "image_url": "https://elephant.art/wp-content/uploads/2026/11/WDA_24869_Untitled_Ex_Voto-scaled.jpg",
+          "source_name": "Elephant"
+        },
+        {
+          "title": "페닉스 미술관 / MAD 건축사사무소",
+          "url": "https://www.archdaily.com/1030328/fenix-art-museum-mad-architects",
+          "image_url": "https://images.adsttc.com/media/images/682c/9a38/82d8/2601/88bc/cacc/large_jpg/fenix-art-museum-mad-architects_4.jpg?1747753551",
           "source_name": "ArchDaily"
-        }
-      ]
-    },
-    {
-      "keyword": "미니멀리즘",
-      "count": 7,
-      "previous_count": 8,
-      "trend": "steady",
-      "items": [
-        {
-          "title": "케이시 로어티는 미니멀한 디자인에 끌리지만, Chicken Shop Date를 위한 그의 그래픽은 개성을 돋보이게 합니다.",
-          "url": "https://www.itsnicethat.com/articles/casey-roarty-graphic-design-discover-231126",
-          "image_url": "https://admin.itsnicethat.com/images/HiTCidpQ-pH02U0x0RqRsDCWzGQ=/284877/width-1440/casey-roarty-graphic-design-itsnicethat-5.jpg",
-          "source_name": "It's Nice That"
         },
         {
-          "title": "란",
-          "url": "https://leibal.com/interiors/lannes/",
-          "image_url": "https://leibal.com/wp-content/uploads/2026/11/leibal_lannes_atelier-baptiste-legue_08.jpg",
-          "source_name": "Leibal"
+          "title": "유럽 '최대 규모의 박물관 개발'인 카날이 개관하여 아름다운 불완전성을 자랑합니다.",
+          "url": "https://www.wallpaper.com/architecture/public-buildings/kanal-brussels-opens-belgium",
+          "image_url": "https://cdn.mos.cms.futurecdn.net/ETRx6cna7ek3pcDmHqvQeb-1920-80.jpg",
+          "source_name": "Wallpaper*"
         },
         {
-          "title": "미니멀리즘 주택",
-          "url": "https://leibal.com/interiors/minimalist-house/",
-          "image_url": "https://leibal.com/wp-content/uploads/2026/11/leibal-minimalist-house-form-kouichi-kimura-architects-1521.jpg",
-          "source_name": "Leibal"
-        },
-        {
-          "title": "시하야: 웰니스를 위해 설계된 슈퍼요트",
-          "url": "https://coolhunting.com/design/sihaya-a-superyacht-designed-for-wellness/",
-          "image_url": "https://coolhunting.com/wp-content/uploads/2026/11/9.3-768x436.jpg",
-          "source_name": "Cool Hunting"
+          "title": "컬트 남성복 브랜드 Saman Amel, 알파인 기후에서 영감을 받은 컬렉션으로 '새로운 면모'를 선보이다",
+          "url": "https://www.wallpaper.com/fashion-beauty/saman-amel-mytheresa-alpine-winter-collaboration-collection",
+          "image_url": "https://cdn.mos.cms.futurecdn.net/sktvUp8jvjBxEdVGKQbstE-1920-80.jpg",
+          "source_name": "Wallpaper*"
         }
       ]
     }
   ],
   "notable_names": [
     "Dezeen Awards",
+    "Gerhard Richter",
+    "Nan Goldin",
     "Venice Architecture Biennale",
-    "Mexico City",
-    "Lesley Lokko",
     "London Museum",
     "Edu Request",
     "AD Editors",
+    "Mexico City",
     "Paris Photo",
     "Limber Up",
     "Approved Interior Photographers",
-    "Holiday Gift Guide",
-    "Keith Haring"
+    "Holiday Gift Guide"
   ],
   "has_comparison": true
 }

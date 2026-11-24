@@ -386440,5 +386440,492 @@
   },
   "depth_raw": 3,
   "depth_v": 2
+ },
+ "motionographer.com/news/world-war-seven-adds-starburns-industries-to-its-director-roster": {
+  "title_ko": "월드 워 세븐, 스톱모션 스튜디오 스타번스 인더스트리즈 영입",
+  "summary_ko": "광고 제작사 월드 워 세븐이 스톱모션과 애니메이션 파트너로 스타번스 인더스트리즈를 감독 명단에 추가했다. 두 회사는 최근 반려동물 용품 브랜드 체위의 홀리데이 캠페인 'A Holiday Dream'에서 협업한 바 있다.",
+  "lens": "실물 물리 물성을 다루는 스톱모션 애니메이션이 광고 제작사의 라이브 액션 라인업과 결합한다.",
+  "why_now": "디지털 그래픽이 주류인 광고 시장에서 수작업 기반의 스톱모션 질감이 차별화된 물성으로 주목받는 시점이다.",
+  "mechanism": "실제 질감을 지닌 피규어와 미니어처 세트를 프레임 단위로 촬영하여 디지털 합성으로는 구현하기 힘든 물리적 깊이감을 만든다.",
+  "sensory": "손으로 빚은 듯한 인물의 거친 표면 질감과 정교하게 제어된 미니어처 조명이 화면에 아날로그 무게감을 더한다.",
+  "transfer": "실사 촬영 콘티 중간에 수작업 미니어처 컷을 삽입해 디지털 화면 특유의 피로감을 상쇄하고 무게중심을 잡는다.",
+  "context": "스타번스 인더스트리즈는 아카데미상 후보에 오른 스톱모션 장편 애니메이션 '아노말리사'와 애플TV플러스 '세버런스: 단절'의 스톱모션 시퀀스를 제작했다.",
+  "findings": [],
+  "keywords": [
+   "스톱모션",
+   "애니메이션",
+   "스타번스인더스트리즈",
+   "월드워세븐"
+  ],
+  "evidence": "World War Seven has added Starburns Industries to its director roster as a partner for stop-motion and animation.",
+  "kind": "뉴스·이슈",
+  "depth": 2,
+  "grounding": "thin",
+  "depth_reason": "제작사 간의 단순 파트너십 영입 소식으로 정보가 제한적이어서 점수를 낮게 잡는다.",
+  "v": 2,
+  "url": "https://motionographer.com/news/world-war-seven-adds-starburns-industries-to-its-director-roster/",
+  "original_title": "World War Seven Adds Starburns Industries to Its Director Roster",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 1044,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-25 03:56",
+  "research": {
+   "entities": [],
+   "questions": [],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 2,
+  "depth_v": 2
+ },
+ "archdaily.com/1188855/private-residence-naturehumaine-architecture": {
+  "title_ko": "지형과 역사를 보존한 캐나다의 미드센추리 재건축 주택",
+  "summary_ko": "캐나다 벨외일에 위치한 프레베르 레지던스는 1958년에 지어진 원래의 면적과 부피를 그대로 유지하며 현대적으로 재건축된 주택이다. 리슐리외강 인근에 위치하며 퀘벡 최초의 주택 협동조합의 역사적 맥락을 이어받았다.",
+  "lens": "원래의 형태를 그대로 보존하며 시간의 레이어를 현재의 공간으로 이식한다.",
+  "why_now": "과거 건물의 뼈대와 규모를 존중하며 현대적 주거 공간으로 재해석하는 태도가 주목받고 있다.",
+  "mechanism": "20세기 중반 주택의 원래 면적과 규모라는 물리적 골조를 그대로 유지하는 방식을 취했다.",
+  "sensory": "강가 인근의 지형적 특성과 맞물려 과거의 건축적 기억이 현재의 물성과 교차하는 감각을 전달한다.",
+  "transfer": "공간 연출 시 기존 건물의 외형적 규모와 물리적 경계를 그대로 복제하는 레이아웃 설계로 활용한다.",
+  "context": "나튀르위멘 아키텍처(naturehumaine architecture)가 설계하고 스테판 라슬레(Stéphane Rasselet)가 이끈 캐나다 벨외일의 주거 프로젝트다.",
+  "findings": [],
+  "keywords": [
+   "재건축",
+   "미드센추리",
+   "주거건축",
+   "캐나다"
+  ],
+  "evidence": "Prévert Residence is a contemporary reconstruction inspired by a mid-century home, retaining its original footprint and volume as a tribute to its history.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "원문의 기본 정보는 명확하나 세부적인 설계 기법에 대한 설명이 부족하여 평범한 수준의 프로젝트 소개에 머문다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1188855/private-residence-naturehumaine-architecture",
+  "original_title": "Private Residence / naturehumaine architecture",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 1398,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-25 03:58",
+  "research": {
+   "entities": [],
+   "questions": [],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "dezeen.com/2026/11/24/studio-gang-wisconsin-womens-leadership-center": {
+  "title_ko": "참나무 숲의 곡선과 매스 팀버로 빚은 여성 리더십 캠퍼스",
+  "summary_ko": "건축사사무소 스튜디오 갱이 위스콘신주 제네바 호수가 내려다보이는 언덕에 여성 리더십 센터를 완공했다. 부지의 참나무 숲에서 영감을 받은 불규칙한 형태의 건물 3동은 매스 팀버와 현지 석재로 지어졌으며, 중앙 정원과 빗물 수집 시스템을 품고 있다.",
+  "lens": "정형화된 회의실의 공식을 지우고 숲의 곡선과 목구조로 연대와 사유의 공간을 구축한다.",
+  "why_now": "기존의 권위적인 건축 문법에서 벗어나 생태적 순응과 협업을 중심에 둔 새로운 공공 공간의 전형을 보여준다.",
+  "mechanism": "원형의 카운슬 건물은 중앙 정원을 중심으로 방사형으로 펼쳐지며, 천장과 창을 통해 자연광을 깊숙이 끌어들인다.",
+  "sensory": "현장에서 수확한 화이트 오크와 어두운 목재 마감, 위스콘신 천연석의 물성이 숲의 질감과 온도를 그대로 전한다.",
+  "transfer": "공간 콘티에서는 계단식 회의실 대신 중정을 중심으로 시선이 부드럽게 회전하는 방사형 동선 구조를 적용한다.",
+  "context": "스튜디오 갱은 최근 뉴욕주의 야외 극장과 덴버 호텔 등의 프로젝트를 완료하며 지형과 생태에 순응하는 건축 작업을 이어오고 있다.",
+  "findings": [],
+  "keywords": [
+   "스튜디오갱",
+   "매스팀버",
+   "여성리더십센터",
+   "생태건축"
+  ],
+  "evidence": "Studio Gang has completed a women’s conference centre overlooking Geneva Lake in Wisconsin, with three irregularly shaped buildings informed by the site’s oak forest.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "구체적인 건축 프로젝트의 재료와 배치 구조를 잘 보여주나 선례를 뒤집는 파격보다는 정석적인 생태 건축의 범주에 머문다.",
+  "v": 2,
+  "url": "https://www.dezeen.com/2026/11/24/studio-gang-wisconsin-womens-leadership-center/",
+  "original_title": "Studio Gang completes women's leadership campus in Wisconsin",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 3853,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-25 03:59",
+  "research": {
+   "entities": [],
+   "questions": [],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "artforum.com/news/thorsten-sadowsky-director-munch-in-oslo-1234764171": {
+  "title_ko": "토르스텐 사도프스키, 오슬로 뭉크 미술관 차기 관장으로 낙점",
+  "summary_ko": "오슬로 시 당국은 독일 슐레스비히-홀슈타인 주립 박물관 재단의 토르스텐 사도프스키를 뭉크 미술관의 신임 관장으로 임명했다. 그는 2027년 5월 1일부터 임기를 시작하며, 2만 8천여 점의 뭉크 작품과 유품을 소장한 미술관의 운영을 총괄한다.",
+  "lens": "미술관의 관장 교체는 조직의 운영 철학이 소장품을 대하는 태도로 직결되는 지점이다.",
+  "why_now": "기관의 리더십 변화는 소장품의 해석 방식과 관람객과의 접점을 재설정하는 변곡점이 된다.",
+  "mechanism": "미술관은 뭉크가 남긴 2만 6천여 점의 작품과 석판화 도구, 개인 소지품을 통해 작가의 생애를 입체적으로 구성한다.",
+  "sensory": "뭉크의 작품이 지닌 실존적 고뇌와 인간 경험의 보편성을 현대적 맥락에서 재조명하는 공간적 서사가 요구된다.",
+  "transfer": "특정 작가의 방대한 아카이브를 다룰 때, 원본 작품과 함께 작가가 사용한 도구와 개인적 물건을 병치하여 전시의 서사를 구축한다.",
+  "context": "토르스텐 사도프스키는 키르히너 미술관 다보스와 잘츠부르크 현대 미술관 등 유럽 주요 기관을 거치며 관람객 개발과 협력 모델 구축에 역량을 보여왔다.",
+  "findings": [],
+  "keywords": [
+   "뭉크미술관",
+   "미술관경영",
+   "에드바르트뭉크",
+   "기관운영"
+  ],
+  "evidence": "The City Government in Oslo, Norway, has announced the appointment of Thorsten Sadowsky as director of MUNCH",
+  "kind": "뉴스·이슈",
+  "depth": 2,
+  "grounding": "full",
+  "depth_reason": "미술관 관장 임명이라는 단순 인사 보도에 해당하며, 구체적인 전시 기법이나 공간 설계에 대한 정보가 부족하다.",
+  "v": 2,
+  "url": "https://www.artforum.com/news/thorsten-sadowsky-director-munch-in-oslo-1234764171/",
+  "original_title": "Thorsten Sadowsky Appointed Director of MUNCH in Oslo",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 2645,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-25 04:06",
+  "research": {
+   "entities": [],
+   "questions": [],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 2,
+  "depth_v": 2
+ },
+ "dazeddigital.com/life-culture/article/71405/1/when-did-everything-become-a-side-quest-tiktok-trend-gen-z-hobbies": {
+  "title_ko": "메인퀘스트와 일상의 탈출: 바이럴 신조어가 된 사이드퀘스트",
+  "summary_ko": "끝없는 알고리즘과 성과 중심의 삶에서 벗어나기 위해 일상을 비디오 게임의 부가 임무처럼 대하는 사이드퀘스트 문화가 확산된다. 취미의 수익화와 번아웃에 지친 젊은 세대들은 도자기 클래스나 낯선 거리 탐험 같은 비생산적 활동을 통해 오프라인의 감각과 유대를 되찾고 있다. 그러나 이 현상마저 소셜 미디어의 콘텐츠 제작과 퍼스널 브랜딩 도구로 변질되는 모순을 겪는다.",
+  "lens": "삶의 모든 여백을 게임의 서브 임무로 격상시켜 자본주의적 생산성으로부터 도피한다.",
+  "why_now": "디지털 피로와 성과주의에 잠식된 일상에서, 오프라인의 우연성과 쓸모없는 행위가 유일한 해방구로 작동하기 때문이다.",
+  "mechanism": "생계를 위한 메인퀘스트와 철저히 오락을 위한 사이드퀘스트를 분리하고, 일상의 사소한 행동을 게임 퀘스트처럼 명명하여 자발적 마찰을 만든다.",
+  "sensory": "알고리즘이 추천하는 피로한 화면 속 스크롤을 멈추고, 낯선 거리의 공기나 손으로 빚는 도자의 차가운 물성 같은 아날로그 질감으로 회귀한다.",
+  "transfer": "광고나 영상 콘티에서 반복적인 일상을 탈피하는 인물의 무작위적이고 비목적적인 동선, 혹은 퀘스트 완료 형식을 차용한 오프라인 오프닝 시퀀스로 구성한다.",
+  "context": "디지털 시대의 피로를 게임의 언어로 치환하여 삶의 주도권을 회복하려는 현대 청년들의 문화적 현상을 다룬다.",
+  "findings": [],
+  "keywords": [
+   "사이드퀘스트",
+   "번아웃",
+   "오프라인",
+   "취미",
+   "게임화"
+  ],
+  "evidence": "Taking a weekend class, starting a book club, or simply wandering down an unfamiliar street – these small acts of connecting and exploring used to be built into the default rhythm of daily life.",
+  "kind": "뉴스·이슈",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "현대 문화 현상을 예리하게 포착했으나 인터뷰와 에세이 중심의 기사라 3점을 부여한다.",
+  "v": 2,
+  "url": "https://www.dazeddigital.com/life-culture/article/71405/1/when-did-everything-become-a-side-quest-tiktok-trend-gen-z-hobbies?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=when-did-everything-become-a-side-quest",
+  "original_title": "When did everything become a ‘side quest’?",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 7862,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-25 04:08",
+  "research": {
+   "entities": [],
+   "questions": [],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "architectural-review.com/partnerships/architectures-of-planetary-well-being-rearc-institute-monograph": {
+  "title_ko": "지구와 인간의 공존을 기록하다, 리어크 인스티튜트 모노그래프",
+  "summary_ko": "디 건축 리뷰(The Architectural Review)가 발행한 리어크 인스티튜트(rearc institute)의 모노그래프는 브라질, 에콰도르, 멕시코, 세네갈 등 전 세계에서 기후 위기에 대응하는 커뮤니티 주도 건축 프로젝트를 조명한다. 이들은 지역사회 지도자, 건축가, 디자이너와 협력하여 환경과 인간의 안녕을 조화시키는 대안적 공간 생산 방식을 기록한다.",
+  "lens": "거대한 자본 대신 지역 주민의 손으로 빚어낸 기후 위기 대응 건축의 지도.",
+  "why_now": "기후 비상 시기에 건축 미디어가 단순한 형태론을 넘어 생태적 질문과 지역사회 자치에 어떻게 응답해야 하는지 보여준다.",
+  "mechanism": "보조금 지원을 통해 전 세계 현장의 풀뿌리 조직과 건축가들이 지역 맞춤형 자가 조직 방식을 실행하도록 구조를 만든다.",
+  "sensory": "세네갈의 시비코타네(Sébikotane) 건설 교육 센터와 에콰도르 바바호요(Babahoyo)의 부유식 주거 등 각 지역의 거친 물성과 토속적 재료의 감각이 도드라진다.",
+  "transfer": "현지 고유의 재료와 커뮤니티 중심의 시공 방식을 공간 연출과 다큐멘터리적 배경 설계에 직접 대입한다.",
+  "context": "디 건축 리뷰는 1896년부터 독립적인 비평 시각으로 세계의 건축과 도시를 다뤄왔으며, 이번에 리어크 인스티튜트와 협력하여 모노그래프를 펴냈다.",
+  "findings": [],
+  "keywords": [
+   "디어크인스티튜트",
+   "기후위기대응",
+   "커뮤니티건축",
+   "생태건축"
+  ],
+  "evidence": "rearc institute has been supporting community‑led architectural responses to the climate crisis through grant‑making across the globe.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "전 세계 여러 건축 프로젝트를 모아 소개하는 출판물 소개 기사여서 개별 작업의 깊이 있는 분석보다 개관에 그친다.",
+  "v": 2,
+  "url": "https://www.architectural-review.com/partnerships/architectures-of-planetary-well-being-rearc-institute-monograph",
+  "original_title": "Architectures of planetary well-being: rearc institute monograph",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 2681,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-25 04:11",
+  "research": {
+   "entities": [
+    "rearc institute",
+    "Taller Capital",
+    "Worofila",
+    "WAI Architecture Think Tank",
+    "Material Cultures"
+   ],
+   "questions": [
+    "rearc institute는 기후 위기 대응을 위해 어떤 방식으로 커뮤니티 주도 건축 프로젝트를 지원하고 있는가?",
+    "모노그래프에 소개된 전 세계 프로젝트들은 지역 사회와 환경을 위해 어떠한 구체적인 성과를 거두었는가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "dezeen.com/2026/11/24/va-christmas-tree-burberry": {
+  "title_ko": "고철과 은제 쟁반으로 쌓아 올린 버버리의 조형적 크리스마스 트리",
+  "summary_ko": "패션 브랜드 버버리의 크리에이티브 디렉터 다니엘 리가 아티스트 앤 캐링턴과 협업하여 빅토리아 앤 앨버트 박물관 입구에 높이 4.8미터의 크리스마스 트리 조형물을 선보였다. 이 트리는 오래된 저금통, 비스킷 통 뚜껑, 은제 트레이, 말 안장 장식과 고철을 로제트와 리본 형태로 가공해 금속 프레임에 부착하여 제작했다.",
+  "lens": "평범한 일상의 잡동사니와 고철을 정교한 세공의 로제트로 치환해 화려한 연말의 물성을 비틀어낸다.",
+  "why_now": "대량생산된 시즌오프 장식 대신 버려진 사물의 시간성과 공예적 손길을 전면에 내세운다.",
+  "mechanism": "비스킷 통 뚜껑과 은제 쟁반 같은 버려진 금속 오브제를 접고 두드려 꽃 모양의 로제트와 리본으로 변형한 뒤 금속 골조에 촘촘히 엮었다.",
+  "sensory": "빛을 반사하는 산화된 금속 파편들과 낡은 양철의 무거운 질감이 크리스마스 트리의 입체적인 표면을 채운다.",
+  "transfer": "광고나 뮤직비디오 미술에서 낡은 오브제를 누적해 거대한 조형물을 만들 때, 반짝이는 신소재 대신 긁힌 은제 트레이와 고철을 사용하여 시간의 결을 부여한다.",
+  "context": "버버리는 빅토리아 앤 앨버트 박물관과 다년 간 파트너십을 맺고 있으며 브랜드의 170주년을 기념하여 이번 설치 작업을 공개했다.",
+  "findings": [],
+  "keywords": [
+   "버버리",
+   "설치미술",
+   "재활용금속",
+   "공예",
+   "V&A박물관"
+  ],
+  "evidence": "Fashion brand Burberry‘s chief creative officer Daniel Lee worked with artist Ann Carrington to create a Christmas tree sculpture for the Victoria & Albert Museum",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "유명 브랜드와 아티스트의 협업으로 구현된 구체적인 조형 작업이나 선례가 명확한 크리스마스 설치 프로젝트다.",
+  "v": 2,
+  "url": "https://www.dezeen.com/2026/11/24/va-christmas-tree-burberry/",
+  "original_title": "Biscuit-tin lids, horse brasses and scrap metal form sculptural V&A Christmas tree by Burberry",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 2984,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-25 04:12",
+  "research": {
+   "entities": [],
+   "questions": [],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "wallpaper.com/entertaining/s-pellegrino-young-chef-academy-global-jury-2026-27": {
+  "title_ko": "산펠레그리노 영 셰프 아카데미, 2026-27 글로벌 심사위원단 공개",
+  "summary_ko": "산펠레그리노 영 셰프 아카데미가 2026-27년 대회를 이끌 7명의 글로벌 심사위원단을 발표했다. 이들은 차세대 셰프를 발굴하고 멘토링하며 지원하는 결선 진출자들의 역량을 평가한다.",
+  "lens": "차세대를 선발하는 심사 위상과 평가의 기준점을 고정한다.",
+  "why_now": "동시대 요식업계가 요구하는 차세대 인재 발굴과 멘토링 체계를 보여준다.",
+  "mechanism": "일곱 명의 최정상 셰프가 모여 결선 진출자들의 작업물을 다각도로 검증하는 구조다.",
+  "sensory": "최정상급 미식의 정교함과 긴장감이 교차하는 평가 현장의 밀도를 형성한다.",
+  "transfer": "인재를 발굴하고 심사하는 마스터클래스나 오디션 콘티의 권위 있는 배역 설정에 적용한다.",
+  "context": "산펠레그리노 영 셰프 아카데미는 전 세계 차세대 셰프를 발굴하고 육성하기 위한 글로벌 플랫폼으로 대회를 운영한다.",
+  "findings": [],
+  "keywords": [
+   "산펠레그리노",
+   "영셰프",
+   "심사위원단",
+   "글로벌경연"
+  ],
+  "evidence": "Seven acclaimed chefs will evaluate finalists of the S.Pellegrino competition",
+  "kind": "행사·공모",
+  "depth": 2,
+  "grounding": "thin",
+  "depth_reason": "심사위원단 발표라는 단순 행사 공지 성격의 기사로 정보와 해석 여지가 제한적이다.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/entertaining/s-pellegrino-young-chef-academy-global-jury-2026-27",
+  "original_title": "S.Pellegrino Young Chef Academy unveils the seven chefs on its Global Jury for 2026-27",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 0,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-25 04:13",
+  "research": {
+   "entities": [
+    "S.Pellegrino Young Chef Academy"
+   ],
+   "questions": [
+    "2026-27 S.Pellegrino Young Chef Academy 글로벌 심사위원으로 선정된 7명의 셰프는 누구인가요?",
+    "S.Pellegrino Young Chef Academy 글로벌 결선은 어떤 방식으로 진행되나요?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 2,
+  "depth_v": 2
+ },
+ "coolhunting.com/culture/inside-heinekens-las-vegas-grand-prix-fan-pairings-padel-and-tonic-foam": {
+  "title_ko": "라스베이거스 그랑프리의 하이네켄: 팬 경험의 확장과 토닉 폼의 감각적 이식",
+  "summary_ko": "하이네켄은 2026 라스베이거스 그랑프리에서 팬 간의 만남을 주선하는 ‘소셜 업그레이드’와 파델 챌린지, 맥주에 토닉 거품을 올린 시그니처 서브를 선보였다. 서킷 인근 코발 존을 중심으로 관람객이 경기를 넘어선 도시의 밤 문화를 경험하도록 유도하며, F1의 타이틀 파트너로서 브랜드의 존재감을 도시 전역으로 확장했다.",
+  "lens": "맥주라는 익숙한 물성에 칵테일적 실험을 이식해, 관람객이 경기장에서의 경험을 개인적인 감각의 영역으로 치환하게 한다.",
+  "why_now": "스포츠 이벤트가 단순 관람을 넘어 도시의 밤 문화와 결합하는 가운데, 브랜드는 관람객 사이의 물리적 연결을 설계하여 충성도를 확보한다.",
+  "mechanism": "질소 거품 기법으로 맥주의 질감을 변주하고, LED 벽을 활용한 파델 챌린지로 관람객의 참여를 데이터화하여 현장성을 극대화한다.",
+  "sensory": "니트로 거품이 주는 부드러운 텍스처와 토닉의 날카로운 향이 맥주의 익숙한 맛과 대비를 이루며, 라스베이거스 밤의 화려한 조명 아래에서 시각적 유희를 제공한다.",
+  "transfer": "공간 연출 시 특정 재료의 물성을 변주(예: 거품, 질감)하여 익숙한 대상에서 낯선 감각을 끌어내는 방식을 콘티에 적용할 수 있다.",
+  "context": "하이네켄은 2016년부터 포뮬러 원의 글로벌 파트너로 활동하며 모터스포츠의 속도감과 책임감 있는 음주 문화를 결합해왔다. 이는 레고 하우스가 F1의 공학적 원리를 체험으로 치환하거나 라이카가 모터스포츠의 물성을 카메라 외관에 적용하는 등, F1 브랜드 자산을 각기 다른 매체로 번역하는 동시대적 흐름의 일환이다.",
+  "findings": [
+   {
+    "text": "포뮬러 원은 1950년 창설된 세계 최고 수준의 오픈휠 레이싱 대회로, 현재 리버티 미디어 코퍼레이션이 상업적 권리를 소유하고 있다.",
+    "s": 5,
+    "quote": "The FIA Formula One World Championship has been one of the world's premier forms of motorsport since its inaugural running in 1950. ... The commercial rights to F1, previously owned by British business magnate Bernie Ecc"
+   }
+  ],
+  "keywords": [
+   "포뮬러원",
+   "하이네켄",
+   "경험설계",
+   "물성",
+   "라스베이거스"
+  ],
+  "evidence": "The studio offered a nitro-infused foam top that adds texture and flavor to a classic Heineken.",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "브랜드의 현장 경험 설계와 특정 음료 기법을 구체적으로 설명하며, F1 파트너십의 맥락을 잘 짚어냈다.",
+  "v": 2,
+  "url": "https://coolhunting.com/culture/inside-heinekens-las-vegas-grand-prix-fan-pairings-padel-and-tonic-foam/",
+  "original_title": "Inside Heineken’s Las Vegas Grand Prix: Fan Pairings, Padel and Tonic Foam",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 8202,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-25 04:14",
+  "research": {
+   "entities": [
+    "Heineken",
+    "Formula 1",
+    "Las Vegas Grand Prix",
+    "Alison Payne",
+    "Sphere"
+   ],
+   "questions": [
+    "하네켄은 라스베거스 그랑프리에서 팬 경험을 확장하기 위해 어떤 구체적인 프로그램을 운영했는가?",
+    "F1과 하이네켄의 파트너십은 브랜드 마케팅과 팬 참여도에 어떤 영향을 미치고 있는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Welcome to the world of Heineken® | Heineken.com",
+     "url": "https://www.heineken.com/global/en/home"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Las Vegas Grand Prix 2026 - F1 Race",
+     "url": "https://www.formula1.com/en/racing/2026/las-vegas"
+    },
+    {
+     "n": 3,
+     "type": "공식·1차",
+     "title": "Win a Las Vegas Grand Prix VIP Experience",
+     "url": "https://www.heineken.com/us/en/campaigns/f1-hub/"
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "Heineken",
+     "url": "https://en.wikipedia.org/wiki/Heineken"
+    },
+    {
+     "n": 5,
+     "type": "위키백과",
+     "title": "Formula One",
+     "url": "https://en.wikipedia.org/wiki/Formula%20One"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "마드리드 F1 서킷: 24% 경사 코너와 5.4km 도심 트랙의 건축적 해부",
+     "url": "https://www.architecturaldigest.com/story/f1-madring-circuit-designer-created-brand-new-madrid-track"
+    },
+    {
+     "n": 7,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "레고 하우스의 포뮬러 1 체험, 빌룬드에서 설계하고 테스트하는 모터스포츠",
+     "url": "https://www.wallpaper.com/transportation/lego-teams-up-with-formula-1-to-create-new-family-activities-at-billunds-lego-house"
+    },
+    {
+     "n": 8,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "카본 파이버와 마이크로벨루어의 결합, 라이카 Q3 43 포뮬러 1 에디션",
+     "url": "https://www.wallpaper.com/tech/leica-q3-45-formula-1-edition-digital-camera"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+   ],
+   "chars": 7174
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "dazeddigital.com/music/article/71399/1/portraits-of-ravers-around-the-world-indie-sleaze-forever-sub-club-glasgow": {
+  "title_ko": "글래스고의 클럽 바닥에서 온 인화지: 인디 슬리즈 포에버의 첫 전시",
+  "summary_ko": "익명의 나이트라이프 사진작가 인디 슬리즈 포에버(Indie Sleaze Forever)가 오슬로와 홍콩을 거쳐 고향 글래스고의 서브 클럽(Sub Club)에서 첫 번째 사진전을 개최한다. 6x4 사이즈의 인화물들을 클럽 공간 곳곳에 붙이고, 사진 속 인물이 원할 경우 가져갈 수 있도록 허락하는 참여형 방식을 취한다.",
+  "lens": "촬영된 이들에게 인화지를 돌려주며 클럽의 익명성을 해체하는 사진전.",
+  "why_now": "디지털 아카이브가 범람하는 시대에 클럽 현장의 땀과 물리적 인화지를 일대일로 교환하는 태도가 유효하다.",
+  "mechanism": "6x4 규격의 작은 인화물들을 전시장 벽이 아닌 클럽 공간 전체에 무작위로 부착해 관람 동선을 해체한다.",
+  "sensory": "4시의 서브 클럽에서 울리는 함성 소리와 땀에 젖은 레이버들의 거친 질감이 작은 인화지 위에 고스란히 담긴다.",
+  "transfer": "공간 파티나 뮤직비디오 신에서 인화 사진들을 벽면에 난잡하게 붙여 현장감을 증폭시키는 장치로 쓴다.",
+  "context": "인디 슬리즈 포에버는 2022년 인디 슬리즈 부흥기에 친구들의 사진을 올리는 계정으로 시작해 2024년 스웨덴 DJ 페데르 마네르펠트(Peder Mannerfelt)의 앨범 파티 촬영을 계기로 본격적인 활동을 시작했다.",
+  "findings": [],
+  "keywords": [
+   "클럽문화",
+   "나이트라이프",
+   "사진전",
+   "인디슬리즈",
+   "글래스고"
+  ],
+  "evidence": "The exhibition will feature many of their nightlife portraits in 6 x 4 prints across the venue space – with only one rule.",
+  "kind": "전시",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "익명의 클럽 사진작가가 자신의 사진을 현장 인물들에게 돌려주는 독특한 전시 방식을 상세히 다뤘으나 글로벌 영향력의 확장성이 제한적이다.",
+  "v": 2,
+  "url": "https://www.dazeddigital.com/music/article/71399/1/portraits-of-ravers-around-the-world-indie-sleaze-forever-sub-club-glasgow?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=in-pictures-sweaty-transcendent-portraits-of-ravers-around-the-world",
+  "original_title": "In pictures: Sweaty, transcendent portraits of ravers around the world",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 3593,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-25 04:14",
+  "research": {
+   "entities": [
+    "Peder Mannerfelt",
+    "Sub Club"
+   ],
+   "questions": [
+    "익명의 클럽 사진작가 Indie Sleaze Forever는 어떤 계기로 글로벌 음악 신에서 주목받게 되었는가?",
+    "글래스고의 유명 클럽 Sub Club에서 열린 첫 사진전의 독특한 전시 방식과 그 의미는 무엇인가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
  }
 }
