@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-25 04:30 KST",
+  "generated_at": "2026-11-25 07:43 KST",
   "period": "2026.11.18 - 2026.11.25",
-  "total_articles": 536,
+  "total_articles": 542,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 270
+      "count": 275
     },
     {
       "genre": "동시대 미술",
-      "count": 163
+      "count": 164
     },
     {
       "genre": "아방가르드 패션",
@@ -87,10 +87,16 @@
     },
     {
       "keyword": "박물관·전시",
-      "count": 57,
+      "count": 58,
       "previous_count": 58,
       "trend": "steady",
       "items": [
+        {
+          "title": "케이트 젠킨스, 몰입형 전시회에서 맛있는 '니트 요리' 선보여",
+          "url": "https://www.thisiscolossal.com/2026/11/kate-jenkins-knitalian-knitted-foods-sculpture-installation/",
+          "image_url": "https://www.thisiscolossal.com/wp-content/uploads/2026/11/jenkins-8.jpg",
+          "source_name": "This Is Colossal"
+        },
         {
           "title": "UNSW 건축 환경 졸업 전시회 2026: 'To Be'",
           "url": "https://www.archdaily.com/1189137/unsw-built-environment-graduation-exhibition-2026-to-be",
@@ -108,21 +114,21 @@
           "url": "https://elephant.art/walter-dahn-lets-get-married-lets-get-lost/",
           "image_url": "https://elephant.art/wp-content/uploads/2026/11/WDA_24869_Untitled_Ex_Voto-scaled.jpg",
           "source_name": "Elephant"
-        },
-        {
-          "title": "페닉스 미술관 / MAD 건축사사무소",
-          "url": "https://www.archdaily.com/1030328/fenix-art-museum-mad-architects",
-          "image_url": "https://images.adsttc.com/media/images/682c/9a38/82d8/2601/88bc/cacc/large_jpg/fenix-art-museum-mad-architects_4.jpg?1747753551",
-          "source_name": "ArchDaily"
         }
       ]
     },
     {
       "keyword": "리노베이션·재생",
-      "count": 16,
+      "count": 17,
       "previous_count": 16,
       "trend": "steady",
       "items": [
+        {
+          "title": "지우장 페리 문화 단지 리노베이션 / TURTLEHILL DESIGN",
+          "url": "https://www.archdaily.com/1026978/jiujiang-ferry-cultural-complex-renovation-turtlehill-architecture-and-design",
+          "image_url": "https://images.adsttc.com/media/images/67af/6bd3/5886/6801/89c7/43da/large_jpg/jiujiang-ferry-cultural-complex-renovation-turtlehill-architecture-and-design_9.jpg?1739549673",
+          "source_name": "ArchDaily"
+        },
         {
           "title": "Claves, 상상력이 풍부한 감각으로 메제브의 1940년대 아르데코 스키 샬레를 새롭게 단장하다",
           "url": "https://www.yatzer.com/le-sarto-megeve-france",
@@ -140,12 +146,6 @@
           "url": "https://www.dezeen.com/2026/11/23/estudio-a-g-casa-magnolia-mexico-city/",
           "image_url": "https://static-2026.dezeen.com/uploads/2026/11/casa-magnolia-jaime-ortiz-monasterio-andres-gutierrez_dezeen_2364_sq-1-1024x1024.jpg",
           "source_name": "Dezeen"
-        },
-        {
-          "title": "SABO project가 뉴욕 아파트 내부의 구획을 부드럽게 만들어주는 대담한 형태와 둥근 칸막이",
-          "url": "https://www.designboom.com/architecture/bold-shapes-rounded-partitions-soft-divisions-new-york-apartment-sabo-project/",
-          "image_url": "https://www.designboom.com/wp-content/dbsub/415299/2026-11-14/soft-division-2-6af8f29e5347f.jpg",
-          "source_name": "Designboom Architecture"
         }
       ]
     },
