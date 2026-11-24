@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-24 15:20 KST",
+  "generated_at": "2026-11-24 16:08 KST",
   "period": "2026.11.17 - 2026.11.24",
-  "total_articles": 556,
+  "total_articles": 561,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 268
+      "count": 271
     },
     {
       "genre": "동시대 미술",
-      "count": 183
+      "count": 185
     },
     {
       "genre": "아방가르드 패션",
@@ -86,6 +86,38 @@
       ]
     },
     {
+      "keyword": "리노베이션·재생",
+      "count": 17,
+      "previous_count": 15,
+      "trend": "rising",
+      "items": [
+        {
+          "title": "Sans Raison 리노베이션 / Mountain Soil 인테리어 디자인",
+          "url": "https://www.archdaily.com/1189109/sans-raison-renovation-mountain-soil-interior-design",
+          "image_url": "https://images.adsttc.com/media/images/6b04/fe9d/2bc2/8501/8901/2b03/large_jpg/sans-raison-renovation-mountain-soil-interior-design_19.jpg?1795489443",
+          "source_name": "ArchDaily"
+        },
+        {
+          "title": "Estudio A-G, 색상을 사용하여 멕시코시티의 1960년대 서재가 있는 주택을 현대적으로 탈바꿈시키다",
+          "url": "https://www.dezeen.com/2026/11/23/estudio-a-g-casa-magnolia-mexico-city/",
+          "image_url": "https://static-2026.dezeen.com/uploads/2026/11/casa-magnolia-jaime-ortiz-monasterio-andres-gutierrez_dezeen_2364_sq-1-1024x1024.jpg",
+          "source_name": "Dezeen"
+        },
+        {
+          "title": "SABO project가 뉴욕 아파트 내부의 구획을 부드럽게 만들어주는 대담한 형태와 둥근 칸막이",
+          "url": "https://www.designboom.com/architecture/bold-shapes-rounded-partitions-soft-divisions-new-york-apartment-sabo-project/",
+          "image_url": "https://www.designboom.com/wp-content/dbsub/415299/2026-11-14/soft-division-2-6af8f29e5347f.jpg",
+          "source_name": "Designboom Architecture"
+        },
+        {
+          "title": "Urselmann Interior가 진행한 57㎡ 규모의 뒤셀도르프 아파트 리노베이션. 이곳에서는 어떤 것도 낭비되지 않습니다.",
+          "url": "https://www.yellowtrace.com.au/uurselmann-interior-dusseldorf-apartment-material-reuse-sustainable-interior-design/",
+          "image_url": "https://assets.yellowtrace.com.au/wp-content/uploads/2026/11/18193853/Yellowtrace-Uurselmann-Interior-Dusseldorf-Apartment-Material-Reuse-Photo-Magdalena-Gruber-12_opt80.jpg",
+          "source_name": "Yellowtrace"
+        }
+      ]
+    },
+    {
       "keyword": "가구 디자인",
       "count": 17,
       "previous_count": 13,
@@ -114,38 +146,6 @@
           "url": "https://www.architecturaldigest.com/story/inside-a-brooklyn-apartment-that-feels-like-an-english-country-estate",
           "image_url": "https://media.architecturaldigest.com/photos/6af325f3a1135bbbde950994/master/pass/AD1226_AD_VISITS_2%20copy.jpg",
           "source_name": "Architectural Digest"
-        }
-      ]
-    },
-    {
-      "keyword": "리노베이션·재생",
-      "count": 16,
-      "previous_count": 15,
-      "trend": "steady",
-      "items": [
-        {
-          "title": "Estudio A-G, 색상을 사용하여 멕시코시티의 1960년대 서재가 있는 주택을 현대적으로 탈바꿈시키다",
-          "url": "https://www.dezeen.com/2026/11/23/estudio-a-g-casa-magnolia-mexico-city/",
-          "image_url": "https://static-2026.dezeen.com/uploads/2026/11/casa-magnolia-jaime-ortiz-monasterio-andres-gutierrez_dezeen_2364_sq-1-1024x1024.jpg",
-          "source_name": "Dezeen"
-        },
-        {
-          "title": "SABO project가 뉴욕 아파트 내부의 구획을 부드럽게 만들어주는 대담한 형태와 둥근 칸막이",
-          "url": "https://www.designboom.com/architecture/bold-shapes-rounded-partitions-soft-divisions-new-york-apartment-sabo-project/",
-          "image_url": "https://www.designboom.com/wp-content/dbsub/415299/2026-11-14/soft-division-2-6af8f29e5347f.jpg",
-          "source_name": "Designboom Architecture"
-        },
-        {
-          "title": "Urselmann Interior가 진행한 57㎡ 규모의 뒤셀도르프 아파트 리노베이션. 이곳에서는 어떤 것도 낭비되지 않습니다.",
-          "url": "https://www.yellowtrace.com.au/uurselmann-interior-dusseldorf-apartment-material-reuse-sustainable-interior-design/",
-          "image_url": "https://assets.yellowtrace.com.au/wp-content/uploads/2026/11/18193853/Yellowtrace-Uurselmann-Interior-Dusseldorf-Apartment-Material-Reuse-Photo-Magdalena-Gruber-12_opt80.jpg",
-          "source_name": "Yellowtrace"
-        },
-        {
-          "title": "카사 아미고 / 에스투디오 트라베르티노",
-          "url": "https://www.archdaily.com/1188597/casa-amigo-estudio-travertino",
-          "image_url": "https://images.adsttc.com/media/images/6af7/0351/eabd/2a00/0192/e3ed/large_jpg/01-AMIGO-TRAVERTINO.jpg?1794573153",
-          "source_name": "ArchDaily"
         }
       ]
     },
