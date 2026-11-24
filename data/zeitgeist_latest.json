@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-11-24 16:08 KST",
+  "generated_at": "2026-11-24 19:14 KST",
   "period": "2026.11.17 - 2026.11.24",
-  "total_articles": 561,
+  "total_articles": 572,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 271
+      "count": 278
     },
     {
       "genre": "동시대 미술",
-      "count": 185
+      "count": 188
     },
     {
       "genre": "아방가르드 패션",
-      "count": 61
+      "count": 62
     },
     {
       "genre": "미디어 파사드·3D",
@@ -23,10 +23,22 @@
   "themes": [
     {
       "keyword": "박물관·전시",
-      "count": 56,
+      "count": 58,
       "previous_count": 50,
       "trend": "rising",
       "items": [
+        {
+          "title": "케이티 섀넌(Katie Shannon)의 '종말의 지도'",
+          "url": "https://elephant.art/katie-shannons-cartography-of-the-end/",
+          "image_url": "https://elephant.art/wp-content/uploads/2026/11/Goldsmiths-CCA-Katie-Shannon-Selection-Low-Res-1.jpg",
+          "source_name": "Elephant"
+        },
+        {
+          "title": "런던 박물관, 스미스필드 마켓 개장으로 '런던의 유산 일부를 되살리다'",
+          "url": "https://www.dezeen.com/2026/11/24/london-museum-stanton-williams-asif-khan-julian-harrap-architects/",
+          "image_url": "https://static-2026.dezeen.com/uploads/2026/11/london-museum-stanton-williams-asif-khan-julian-harrap-architects-sq_dezeen_2364_col_2-1024x1024.jpg",
+          "source_name": "Dezeen"
+        },
         {
           "title": "빈티지 책에서 솟아나는 민속 이야기로 매혹하는 수 블랙웰(Su Blackwell)",
           "url": "https://www.thisiscolossal.com/2026/11/su-blackwell-vintage-books/",
@@ -38,18 +50,6 @@
           "url": "https://hyperallergic.com/something-strange-at-maggie-elliss-thanksgiving-table/",
           "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/11/IMG_1179-1.jpeg",
           "source_name": "Hyperallergic"
-        },
-        {
-          "title": "파우더 마운틴의 야외 갤러리에서 예술과 스키 슬로프가 만나는 곳",
-          "url": "https://design-milk.com/powder-mountain-art-museum/",
-          "image_url": "https://design-milk.com/images/2026/11/Rose-Wylie-Pale-Pink-Pineapple_Bomb-2025-at-Powder-Art-Foundation-photo-by-Kim-Raff_4-1500x1000.jpg",
-          "source_name": "Design Milk"
-        },
-        {
-          "title": "새로운 공간을 선보이는 런던 박물관의 '소프트 파워'를 만나보세요",
-          "url": "https://www.wallpaper.com/architecture/public-buildings/london-museum-opens-uk",
-          "image_url": "https://cdn.mos.cms.futurecdn.net/4pzMp2QFH2ymp4uNu7GnLf-1920-80.jpg",
-          "source_name": "Wallpaper*"
         }
       ]
     },
@@ -87,10 +87,16 @@
     },
     {
       "keyword": "리노베이션·재생",
-      "count": 17,
+      "count": 18,
       "previous_count": 15,
       "trend": "rising",
       "items": [
+        {
+          "title": "Claves, 상상력이 풍부한 감각으로 메제브의 1940년대 아르데코 스키 샬레를 새롭게 단장하다",
+          "url": "https://www.yatzer.com/le-sarto-megeve-france",
+          "image_url": "https://media.yatzer.com/2-Le-Sarto-Megeve-France-Claves-photo-mrtripper-yatzer-1400x2100.jpg",
+          "source_name": "Yatzer"
+        },
         {
           "title": "Sans Raison 리노베이션 / Mountain Soil 인테리어 디자인",
           "url": "https://www.archdaily.com/1189109/sans-raison-renovation-mountain-soil-interior-design",
@@ -108,12 +114,6 @@
           "url": "https://www.designboom.com/architecture/bold-shapes-rounded-partitions-soft-divisions-new-york-apartment-sabo-project/",
           "image_url": "https://www.designboom.com/wp-content/dbsub/415299/2026-11-14/soft-division-2-6af8f29e5347f.jpg",
           "source_name": "Designboom Architecture"
-        },
-        {
-          "title": "Urselmann Interior가 진행한 57㎡ 규모의 뒤셀도르프 아파트 리노베이션. 이곳에서는 어떤 것도 낭비되지 않습니다.",
-          "url": "https://www.yellowtrace.com.au/uurselmann-interior-dusseldorf-apartment-material-reuse-sustainable-interior-design/",
-          "image_url": "https://assets.yellowtrace.com.au/wp-content/uploads/2026/11/18193853/Yellowtrace-Uurselmann-Interior-Dusseldorf-Apartment-Material-Reuse-Photo-Magdalena-Gruber-12_opt80.jpg",
-          "source_name": "Yellowtrace"
         }
       ]
     },
@@ -216,6 +216,7 @@
   ],
   "notable_names": [
     "Mexico City",
+    "London Museum",
     "Edu Request",
     "AD Editors",
     "Paris Photo",
@@ -225,8 +226,7 @@
     "Keith Haring",
     "Still Here",
     "Venice Architecture Biennale",
-    "Editor Picks",
-    "Rare Hilma"
+    "Editor Picks"
   ],
   "has_comparison": true
 }

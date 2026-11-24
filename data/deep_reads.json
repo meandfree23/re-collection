@@ -384996,5 +384996,1111 @@
   },
   "depth_raw": 3,
   "depth_v": 2
+ },
+ "archdaily.com/1189070/forestscope-sakakura-associates-architects-and-engineers": {
+  "title_ko": "숲의 시간과 빛을 투영하는 건축적 장치, 포레스트스코프",
+  "summary_ko": "일본 가루이자와에 위치한 포레스트스코프는 숲의 변화를 실내로 끌어들이는 미세한 공간 장치다. 단순히 외부를 조망하는 창의 역할을 넘어, 낮에는 주변 풍경을 반사하고 밤에는 투사된 이미지를 통해 내부와 외부를 연결하는 관찰용 오두막으로 기능한다.",
+  "lens": "창을 통해 숲을 바라보는 대신, 건축 자체가 숲의 빛과 이미지를 실내로 전이시키는 매개체가 되어 공간의 물리적 경계를 지운다.",
+  "why_now": "디지털 스크린이 범람하는 시대에, 자연의 실시간 변화를 건축적 장치로 물리적 공간에 투영하여 아날로그적 감각을 회복하려는 시도다.",
+  "mechanism": "낮에는 숲의 이미지를 반사하는 표면을 활용하고, 밤에는 투사된 영상을 통해 실내와 외부 세계를 중첩시키는 시노그래피를 설계했다.",
+  "sensory": "해가 진 뒤 투사된 영상이 벽면을 채우며, 숲의 어둠과 인공적인 빛이 겹쳐져 내부 공간이 외부의 숲으로 확장되는 듯한 스케일을 만든다.",
+  "transfer": "공간 연출 시 반사율이 높은 소재를 활용해 외부 자연광을 실내 깊숙이 끌어들이거나, 밤에는 투사 조명을 벽면에 투사하여 공간의 깊이감을 인위적으로 조절하는 기법으로 활용 가능하다.",
+  "context": "사카쿠라 어소시에이츠 건축사사무소는 근대 건축의 유산을 계승하면서도 자연 환경과의 상호작용을 중시하는 설계를 지속해왔다. 본 프로젝트는 숲이라는 특정 지형을 건축적 장치로 번역하여 풍경을 관찰하는 방식을 재정의했다.",
+  "findings": [
+   {
+    "text": "사카쿠라 어소시에이츠 건축사사무소는 가루이자와에 2026년 완공된 포레스트스코프를 통해 숲의 변화를 직접적으로 투영하는 공간을 구현했다.",
+    "s": 1,
+    "quote": "这是一座能够引入并折射森林气息的微型空间装置。它不仅让人远眺周边的景观，更将瞬息万变的森林画面直接带入室内。"
+   }
+  ],
+  "keywords": [
+   "건축적장치",
+   "가루이자와",
+   "공간시노그래피",
+   "빛의투영"
+  ],
+  "evidence": "A small spatial device that draws in and reflects the presence of the forest.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "숲을 시각적으로 끌어들이는 개념은 명확하나, 구체적인 기술적 장치나 재료의 상세가 부족하여 현장 적용을 위한 정보가 제한적이다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1189070/forestscope-sakakura-associates-architects-and-engineers",
+  "original_title": "FORESTSCOPE / Sakakura Associates Architects and Engineers",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 1275,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-24 19:14",
+  "research": {
+   "entities": [
+    "Sakakura Associates Architects and Engineers",
+    "Takenosuke Sakakura",
+    "FORESTSCOPE"
+   ],
+   "questions": [
+    "FORESTSCOPE가 숲의 이미지를 실내로 투영하기 위해 사용한 구체적인 건축적 장치나 기술은 무엇인가요?",
+    "이 프로젝트가 지향하는 '숲의 존재를 반영하는 공간'이라는 개념은 건축가의 이전 작업들과 어떤 맥락을 공유하나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "FORESTSCOPE / 坂仓建筑研究所",
+     "url": "https://www.archdaily.cn/1189076/forestscope-ban-cang-jian-zhu-yan-jiu-suo?ad_name=article_cn_redirect=popup"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 592
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "archdaily.com/1188636/the-power-of-the-streets-why-cities-remain-irreplaceable-in-the-digital-age": {
+  "title_ko": "광장과 거리의 물리적 무게: 디지털 시대, 도시가 집합적 행동의 장으로 남는 이유",
+  "summary_ko": "리스본의 좁은 골목부터 상파울루의 광활한 대로까지, 도시는 형태와 상관없이 군중을 응집하는 정치적 무대로 기능한다. 컬럼비아 대학교의 시위 모니터링 플랫폼은 2026년 10월 브라질, 프랑스, 인도 등 전 세계에서 수백만 명이 거리로 쏟아져 나온 현상을 기록하며, 디지털 연결을 넘어선 물리적 공간의 대체 불가능한 힘을 증명한다.",
+  "lens": "디지털 연결성보다 강력한 것은 몸을 맞대고 점유하는 공간의 물리적 부피이며, 도시는 그 집합적 에너지가 분출되는 영구적인 시노그래피다.",
+  "why_now": "가상 공간의 소통이 일상화되었음에도 불구하고, 물리적 거리와 광장은 여전히 정치적 의사표시의 가장 강력한 지점으로 재확인되고 있다.",
+  "mechanism": "도시의 건축적 형태는 군중의 흐름을 통제하거나 분산시키며, 집회라는 비일상적 행위를 통해 일상적인 도로와 광장을 정치적 성격을 띤 공공 장소로 전유한다.",
+  "sensory": "수십만 명의 발걸음이 만들어내는 진동과 거대한 도시 골조 사이로 흩어지는 함성, 그리고 아스팔트 위를 메운 인파의 밀도 높은 덩어리가 공간을 지배한다.",
+  "transfer": "군중의 집결을 콘티에 담을 때, 도시의 축(Axis)을 따라 흐르는 인파의 선형적 움직임과 이를 가로막는 건축적 장애물 사이의 긴장감을 로우 앵글로 포착하여 공간의 압도적 스케일을 강조한다.",
+  "context": "컬럼비아 대학교는 뉴욕 맨해튼에 위치한 아이비리그 연구 대학으로, 사회적 현상을 데이터화하는 프로테스트 모니터를 운영한다. RE:COLLECTION은 과거 맨해튼의 비어 있는 오피스를 예술적 아카이브로 전유한 샤이나 타박의 사례를 통해, 공간이 자본과 노동의 역사를 기록하는 방식을 다룬 바 있다.",
+  "findings": [
+   {
+    "text": "컬럼비아 대학교는 1754년 조지 2세의 왕실 칙령에 의해 킹스 칼리지로 설립된 뉴욕에서 가장 오래된 고등교육 기관이다.",
+    "s": 2,
+    "quote": "Established in 1754 as King's College by royal charter under George II of Great Britain on the grounds of Trinity Church in Manhattan, it is the oldest institution of higher education in New York"
+   }
+  ],
+  "keywords": [
+   "도시 형태",
+   "공공 공간",
+   "집합적 행동",
+   "시노그래피"
+  ],
+  "evidence": "different urban morphologies seem to give way to the same scene: crowds taking to the streets.",
+  "kind": "뉴스·이슈",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "도시 공간의 사회적 기능에 대한 관찰을 제공하나, 구체적인 건축적 기법보다는 현상 기록에 집중되어 있다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1188636/the-power-of-the-streets-why-cities-remain-irreplaceable-in-the-digital-age",
+  "original_title": "The Power of the Streets: Why Cities Remain Irreplaceable in the Digital Age",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 1334,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-24 19:14",
+  "research": {
+   "entities": [
+    "Protest Monitor",
+    "Columbia University"
+   ],
+   "questions": [
+    "디지털 시대에도 대규모 시위와 공공 공간에서의 집회가 지니는 사회적 의미는 무엇인가?",
+    "다양한 도시 형태(골목, 대로 등)는 군중의 집결과 정치적 의사표시에 어떤 영향을 미치는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "CGFoE Protest Monitor - Global Freedom of Expression",
+     "url": "https://globalfreedomofexpression.columbia.edu/protest-monitor/?utm_medium=website&utm_source=archdaily.com"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Columbia University",
+     "url": "https://en.wikipedia.org/wiki/Columbia%20University"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "안드레아스 안젤리다키스, 가상과 폐허 사이를 유영하는 사운드스케이프",
+     "url": "https://www.designboom.com/art/designboom-listens-andreas-angelidakis-music-making-remembering-escaping-interview/"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "검은 고양이, 미신을 넘어 근대성의 아이콘으로 재탄생하다",
+     "url": "https://hyperallergic.com/are-black-cats-modernitys-icons/"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "비어 있는 오피스의 폐허, 260 매디슨의 시스템을 해체하다",
+     "url": "https://design-milk.com/friday-five-shaina-tabak-260-madison/"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    5
+   ],
+   "chars": 4877
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "dezeen.com/2026/11/24/london-museum-stanton-williams-asif-khan-julian-harrap-architects": {
+  "title_ko": "런던 박물관, 빅토리아 시대 시장의 뼈대 위로 도시의 시간을 덧입히다",
+  "summary_ko": "스탠턴 윌리엄스, 아시프 칸, 줄리안 해럽 아키텍츠가 1880년대 스미스필드 일반 시장 건물을 런던 박물관으로 재탄생시켰다. 기존 시장의 벽돌 구조와 상점 흔적을 보존하며, 지상층은 개방적인 공공 공간으로, 지하층은 유물 전시를 위한 안정적인 환경으로 설계했다. 이번 개장은 2028년 완공될 가금류 시장까지 이어지는 박물관 이전 프로젝트의 첫 단계다.",
+  "lens": "박물관을 고정된 전시실이 아닌, 도시의 에너지를 안팎으로 순환시키는 다공성 구조체로 재정의했다.",
+  "why_now": "디지털 피로도가 높은 시대에, 140년 된 시장의 거친 벽돌과 산화된 흔적을 물리적 배경으로 삼아 도시의 서사를 감각적으로 체감하게 한다.",
+  "mechanism": "기존 시장의 42개 상점 단위를 12개의 다층 유닛으로 통합하고 바닥과 천장에 물리적인 틈을 내어 도시의 흐름을 박물관 내부로 끌어들였다.",
+  "sensory": "그을린 벽돌과 복원된 벽난로가 겹쳐진 텍스처, 지하층에서 6미터 창을 통해 엿보는 템스링크 열차의 속도감이 대비를 이룬다.",
+  "transfer": "콘티 작업 시, 지하 공간의 묵직한 벽돌 배경에 열차의 빛과 소음을 삽입해 시간의 층위를 시각화하거나, 지상층의 개방된 동선에 시장의 소란스러움을 오버랩하여 생동감을 더한다.",
+  "context": "런던 박물관은 1976년부터 바비칸 지역에 위치했으나 접근성 문제와 전시 공간 부족으로 스미스필드 시장으로 이전을 결정했다. 스탠턴 윌리엄스는 윈체스터 칼리지 기숙사 프로젝트 등에서 기존 건축 문법을 현대적으로 재해석하는 역량을 보여왔으며, 이번 협업을 통해 역사적 유산을 현대적 도시 활동의 거점으로 전환했다.",
+  "findings": [
+   {
+    "text": "런던 박물관은 1976년부터 바비칸 센터 인근의 런던 월 사이트에 위치해 왔다.",
+    "s": 3,
+    "quote": "From 1976 to 2022, its main site was in the City of London on London Wall, close to the Barbican Centre"
+   },
+   {
+    "text": "이전의 주요 이유 중 하나는 기존 사이트의 낮은 접근성과 전시 공간 부족이었다.",
+    "s": 3,
+    "quote": "Reasons for the proposed move included the claim that the current site was difficult for visitors to find, and that by expanding, from 17,000 square metres to 27,000, a greater proportion of the museum's collection could"
+   }
+  ],
+  "keywords": [
+   "스미스필드",
+   "적응적재사용",
+   "스탠턴윌리엄스",
+   "도시재생",
+   "박물관건축"
+  ],
+  "evidence": "The building has enabled the museum to become a different kind of museum.",
+  "kind": "프로젝트",
+  "depth": 5,
+  "grounding": "full",
+  "depth_reason": "역사적 건축물의 보존과 현대적 기능의 결합을 구체적인 재료와 동선 설계로 풀어냈으며, 박물관의 사회적 역할을 재정의하는 논리가 명확하다.",
+  "v": 2,
+  "url": "https://www.dezeen.com/2026/11/24/london-museum-stanton-williams-asif-khan-julian-harrap-architects/",
+  "original_title": "London Museum brings \"back a bit of London's heritage\" with Smithfield Market opening",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 7681,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-24 19:14",
+  "research": {
+   "entities": [
+    "London Museum",
+    "Stanton Williams",
+    "Asif Khan",
+    "Julian Harrap Architects",
+    "Atelier Brückner"
+   ],
+   "questions": [
+    "런던 박물관이 기존 바비칸 지역에서 스미스필드 시장으로 이전하게 된 건축적, 도시적 배경은 무엇인가요?",
+    "스미스필드 시장의 역사적 건축 요소를 보존하면서 현대적인 박물관 공간으로 탈바꿈시키기 위해 어떤 설계 전략이 사용되었나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Home",
+     "url": "https://www.londonmuseum.org.uk/"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Stanton Williams",
+     "url": "https://stantonwilliams.com/en"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "London Museum",
+     "url": "https://en.wikipedia.org/wiki/London%20Museum"
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "Stanton Williams",
+     "url": "https://en.wikipedia.org/wiki/Stanton%20Williams"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "640년 역사의 윈체스터 칼리지, 스탠튼 윌리엄스가 설계한 현대적 기숙사",
+     "url": "https://www.dezeen.com/2026/09/29/stanton-williams-winchester-college/"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "644년 역사의 윈체스터 칼리지, 스탠턴 윌리엄스가 그린 여학생 기숙사의 풍경",
+     "url": "https://www.archdaily.com/1186793/winchester-college-girls-boarding-houses-stanton-williams"
+    },
+    {
+     "n": 7,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "아시프 칸이 설계한 런던 뮤지엄, 도시의 삶을 흡수하는 유연한 그릇",
+     "url": "https://www.wallpaper.com/architecture/asif-khan-profile-london-museum-uk"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "chars": 4153
+  },
+  "depth_raw": 5,
+  "depth_v": 2
+ },
+ "yatzer.com/le-sarto-megeve-france": {
+  "title_ko": "알프스 아르데코의 재해석: 르 사르토 샬레가 잇는 시간의 궤적",
+  "summary_ko": "파리 기반 스튜디오 클라베스(Claves)가 프랑스 메제브에 위치한 1940년대 헨리 자크 르 멤의 샬레를 리노베이션했다. 이들은 건축가가 정립한 '스키어의 샬레' 철학을 계승하여 원형의 기하학적 문양과 재료를 보존하는 동시에, 현대적 요구에 맞춘 확장 공간과 예술적 개입을 더해 Gesamtkunstwerk(총체 예술)를 구현했다.",
+  "lens": "역사적 건축물의 장식적 어휘를 단순히 박제하지 않고, 기하학적 패턴의 변주를 통해 공간의 리듬을 재구축하는 지능적인 복원이다.",
+  "why_now": "기존 건축 유산을 해체하지 않고 그 안의 문법을 현대적으로 번역하여, 지속 가능한 공간 운영과 역사적 가치 보존 사이의 균형을 제시한다.",
+  "mechanism": "벽면의 기하학적 타일과 칠 작업, 그리고 천장의 지그재그 프리즈를 반복하여 시각적 리듬을 생성한다. 특히 큐빅 벽난로 타일은 관람자의 위치에 따라 색채와 패턴이 달라지도록 설계해 공간의 인지적 깊이를 확보했다.",
+  "sensory": "따뜻한 목재의 질감과 숲의 녹색, 대지의 붉은색이 교차하며 알프스 산장의 온기를 형성한다. 빛이 벽면의 타일과 굴곡진 조각 위를 지나며 만들어내는 그림자가 공간의 서사를 완성한다.",
+  "transfer": "공간 콘티 작업 시, 벽면의 패턴을 단일 평면으로 보지 말고 조명과 관람객의 동선에 따라 변화하는 '시각적 필터'로 활용하라. 특히 특정 구역에 기하학적 반복을 적용해 공간의 밀도를 높이는 연출을 권장한다.",
+  "context": "클라베스는 앞서 '르 푸아송 볼랑' 프로젝트에서 아르데코와 브루탈리즘을 결합해 빛의 전환으로 공간의 성격을 바꾼 바 있다. 이번 작업은 헨리 자크 르 멤이 창안한 '스키어의 샬레'가 가진 실용성과 장식성의 조화를 현대적 호스피탈리티 환경으로 확장하는 연장선에 있다.",
+  "findings": [
+   {
+    "text": "헨리 자크 르 멤은 1920년대 메제브에서 '스키어의 샬레'라는 개념을 고안하여 산악 건축을 현대적으로 재해석했다.",
+    "s": 3,
+    "quote": "In the 1920s, Megève became the winter destination of choice for French high society, under the impetus of Baroness Noémie de Rothschild. It was here that Henry Jacques Le Même invented the \"Chalet du Skieur\""
+   },
+   {
+    "text": "클라베스는 파리를 거점으로 활동하며 프랑스 공예 전통을 기반으로 패턴과 장식을 강조하는 섬세한 미학을 추구한다.",
+    "s": 1,
+    "quote": "Claves is a Paris-based interior design studio created by Laure Gravier and Soizic Fougeront, which relies on high standards and joie de vivre to shape sensitive spaces. We strive to develop a refined aesthetic, in the t"
+   }
+  ],
+  "keywords": [
+   "알프스건축",
+   "아르데코",
+   "기하학적패턴",
+   "공간복원",
+   "총체예술"
+  ],
+  "evidence": "Rather than simply restoring the building or starting anew, Claves founders Laure Gravier and Soizic Fougeront have drawn on Le Même’s architectural vocabulary to develop a contemporary interpretation of his work.",
+  "kind": "프로젝트",
+  "depth": 5,
+  "grounding": "full",
+  "depth_reason": "건축가의 철학을 재료와 기하학적 패턴으로 구체화한 복원 기법이 선명하며, 현대적 리노베이션의 방법론으로서 높은 실무적 가치를 지닌다.",
+  "v": 2,
+  "url": "https://www.yatzer.com/le-sarto-megeve-france",
+  "original_title": "Claves Updates a 1940s Art Deco Ski Chalet in Megève with Imaginative Flair",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 5594,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-24 19:14",
+  "research": {
+   "entities": [
+    "Claves",
+    "Henry Jacques Le Même",
+    "Iconic House",
+    "Le Sarto",
+    "Anni Albers"
+   ],
+   "questions": [
+    "헨리 자크 르 멤(Henry Jacques Le Même)이 정립한 '스키어의 샬레(chalet du skieur)' 건축 개념의 핵심 특징은 무엇인가?",
+    "Claves 스튜디오는 1940년대 아르데코 양식의 원형을 보존하면서 현대적인 주거 요구를 어떻게 조화시켰는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Claves Architecture",
+     "url": "https://claves.fr/"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Iconic House",
+     "url": "https://iconic.house/en/"
+    },
+    {
+     "n": 3,
+     "type": "공식·1차",
+     "title": "Le Sarto - Iconic House",
+     "url": "https://iconic.house/en/house/le-sarto/"
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "Claves",
+     "url": "https://en.wikipedia.org/wiki/Claves"
+    },
+    {
+     "n": 5,
+     "type": "위키백과",
+     "title": "Henry Jacques Le Même",
+     "url": "https://en.wikipedia.org/wiki/Henry%20Jacques%20Le%20M%C3%AAme"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "무티나와 조셉 알버스, 색채의 진동을 타일에 새기다",
+     "url": "https://www.sightunseen.com/2026/05/spotlight-two-perfect-tile-series-for-transforming-your-kitchen-bath-patio-or-any-surface-that-could-use-a-bit-of-zhuzh/"
+    },
+    {
+     "n": 7,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "수지 드 로한 윌너, 직조와 콘크리트 사이에서 발견한 순환의 미학",
+     "url": "https://design-milk.com/suzie-de-rohan-willner-friday-five/"
+    },
+    {
+     "n": 8,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "파리의 밤을 채우는 왕가위의 상하이와 중식 비스트로",
+     "url": "https://www.wallpaper.com/travel/restaurants/le-poisson-volant-paris-opening"
+    }
+   ],
+   "used": [
+    1,
+    3,
+    8
+   ],
+   "chars": 6605
+  },
+  "depth_raw": 5,
+  "depth_v": 2
+ },
+ "elephant.art/katie-shannons-cartography-of-the-end": {
+  "title_ko": "케이티 섀넌: 콘크리트 도시의 쇠락과 밤의 신체들이 빚는 심리 지리학",
+  "summary_ko": "아티스트 케이티 섀넌은 런던 골드스미스 CCA에서 열린 전시 'BACK/PRUNE/VIRGIN/RUIN'을 통해 스코틀랜드 컴버놀드 타운 센터의 해체와 글래스고의 클럽 신 'So Low'를 교차시킨다. 그는 버려진 쇼핑몰의 파편과 산업 음악의 미학을 결합하여, 공공 인프라의 붕괴 속에서 신체가 느끼는 심리적·물리적 압축 상태를 시각화한다.",
+  "lens": "공공 공간의 물리적 소멸을 신체적 쇠락으로 치환하고, 그 빈자리를 밤 문화의 결합적 에너지로 채우는 공간의 역설을 다룬다.",
+  "why_now": "공공 인프라가 거세된 도시의 고립감이 가속화되는 시대, 건축적 유산의 쇠락을 단순히 기록하는 것을 넘어 신체적 반응으로 번역하려는 시도다.",
+  "mechanism": "컴버놀드 타운 센터의 에스컬레이터 스토퍼와 같은 억압적 구조물을 스크린 프린트와 강철 에칭으로 재구성하여, 정지된 시간과 밤의 유동적 움직임을 대비시킨다.",
+  "sensory": "차가운 강철판의 금속성, 버려진 쇼핑몰의 로고가 주는 도시적 황량함, 그리고 어두운 클럽의 소음이 겹쳐진 비정형적 질감을 강조한다.",
+  "transfer": "공간의 쇠락을 표현할 때 인물의 정적인 포즈와 철제 벤치 같은 사물을 배치하고, 이를 거친 하프톤 프린트로 겹쳐 시간의 퇴적을 시각화하는 콘티를 제안한다.",
+  "context": "섀넌은 평소 시각 예술과 이벤트 기획을 오가며 장소의 사회적 조건을 탐구해 왔다. 이번 전시는 런던 플랫 타임 하우스 레지던시에서 연구한 아니타 코센의 'O-구조' 개념과 이탈리아 철학자 프랑코 베라르디의 이론을 기반으로 한다.",
+  "findings": [
+   {
+    "text": "섀넌의 작업은 컴버놀드 타운 센터의 쇠락과 글래스고의 클럽 시리즈 'So Low'를 연결하며 공공 인프라의 점진적 삭제를 고찰한다.",
+    "s": 1,
+    "quote": "These intertwined projects offer a reflection on the gradual erasure of public infrastructure and the violence inherent in the impending emptying out of the places where social life happens."
+   },
+   {
+    "text": "전시된 유리 램프 '스노우드롭'은 컴버놀드 타운 센터의 조명 기구를 바탕으로 제작되어 공공 인프라의 취약성을 상징한다.",
+    "s": 1,
+    "quote": "Shannon’s glass lamp snowdrops, based on lights that can be found in Cumbernauld town centre, are extremely delicate, perhaps suggesting the fragility of public infrastructure."
+   },
+   {
+    "text": "섀넌은 최근 런던 플랫 타임 하우스 레지던시에서 파라심리학자 아니타 코센의 'O-구조' 개념을 연구했다.",
+    "s": 1,
+    "quote": "Her exploration of bodily and spatial compression, exhaustion and release follows research undertaken into ‘O-structure’, a concept developed by parapsychologist Anita Kohsen, during a recent residency at Flat Time House"
+   }
+  ],
+  "keywords": [
+   "심리 지리학",
+   "브루탈리즘",
+   "도시 쇠락",
+   "결합적 상호작용"
+  ],
+  "evidence": "This dialogical opposition of movement and stasis gives air to theories from Franco ‘Bifo’ Berardi",
+  "kind": "전시",
+  "depth": 5,
+  "grounding": "full",
+  "depth_reason": "건축적 쇠락과 밤 문화라는 이질적 소재를 신체성과 결합해 구체적인 시각 매체로 구현한 점이 독창적이다.",
+  "v": 2,
+  "url": "https://elephant.art/katie-shannons-cartography-of-the-end/",
+  "original_title": "Katie Shannon’s Cartography of the End",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 9000,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-24 19:15",
+  "research": {
+   "entities": [
+    "Katie Shannon",
+    "Goldsmiths Centre for Contemporary Art",
+    "Cumbernauld Town Centre",
+    "Franco Berardi"
+   ],
+   "questions": [
+    "케이티 섀넌의 작품에서 컴버놀드 타운 센터의 쇠락과 산업 음악의 미학은 어떤 방식으로 연결되는가?",
+    "프랑코 '비포' 베라르디의 '결합적 상호작용' 이론이 섀넌의 전시에서 신체적 관계와 밤 문화의 맥락으로 어떻게 해석되는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "BACK/PRUNE/VIRGIN/RUIN",
+     "url": "https://goldsmithscca.art/exhibition/episode-16-katie-shannon/"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Franco Berardi",
+     "url": "https://en.wikipedia.org/wiki/Franco%20Berardi"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 2939
+  },
+  "depth_raw": 5,
+  "depth_v": 2
+ },
+ "archdaily.com/1187086/abishkar-residence-system-architects-eknc": {
+  "title_ko": "방글라데시 다카의 아비쉬카르 레지던스, 거주자의 일상을 투영한 다세대 주거",
+  "summary_ko": "방글라데시 다카에 위치한 아비쉬카르 레지던스(Abishkar Residence)는 부모와 세 아들 가족이 함께 거주하는 다세대 주택이다. 건축가 에나물 카림 니르자르(Enamul Karim Nirjhar)가 이끄는 시스템 아키텍츠(SYSTEM architects)는 거주자의 일상과 공간에 대한 인식을 면밀히 조사하여 설계에 반영하는 참여형 프로세스를 적용했다.",
+  "lens": "고정된 주거 형식을 거부하고 거주자의 일상적 선호와 프라이버시 요구를 분석해 공간의 위계를 재구성했다.",
+  "why_now": "건축가의 독단적인 미학이 아닌 거주자의 내밀한 일상을 데이터화하여 공간 설계의 근거로 삼는 참여적 설계 방식이 주목받는다.",
+  "mechanism": "거주자 개별 질문지를 통해 공간적 선호와 프라이버시 요구를 수집하고, 이를 다세대 주거의 평면과 동선에 반영하여 사적 영역과 공용 영역을 조율했다.",
+  "sensory": "6588제곱미터의 방대한 규모 속에서 각 세대의 독립성을 보장하면서도 가족 간의 자연스러운 연결을 유도하는 입체적인 공간감이 느껴진다.",
+  "transfer": "콘티 작업 시 인물의 동선이 아닌 인물의 '공간적 선호와 기피 대상'을 우선 조사하여 공간의 레이아웃을 결정하는 연출법을 도입한다.",
+  "context": "시스템 아키텍츠는 거주자의 참여를 설계의 핵심 프로세스로 삼으며, 이번 프로젝트는 다세대 주거라는 복잡한 사회적 요구를 건축적 언어로 번역한 사례다.",
+  "findings": [
+   {
+    "text": "아비쉬카르 레지던스는 부모와 세 아들의 가족이 함께 거주하는 다세대 주택으로 설계되었다.",
+    "s": 1,
+    "quote": "这栋专为父母及他们三个儿子家庭打造的几代同堂住宅，其设计起点是一份关于日常生活的调查问卷"
+   }
+  ],
+  "keywords": [
+   "다세대주택",
+   "참여형설계",
+   "공간인식",
+   "방글라데시건축"
+  ],
+  "evidence": "ABISHKAR began not with the idea of a house, but with an attempt to understand the people who would inhabit it.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "참여형 설계의 철학은 명확하나, 이를 구현한 구체적인 평면이나 재료적 장치에 대한 정보가 부족하여 일반적인 수준의 분석에 그친다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1187086/abishkar-residence-system-architects-eknc",
+  "original_title": "Abishkar Residence / SYSTEM architects - EKNC",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 1227,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-24 19:15",
+  "research": {
+   "entities": [
+    "SYSTEM architects - EKNC",
+    "Enamul Karim Nirjhar",
+    "Abishkar Residence"
+   ],
+   "questions": [
+    "SYSTEM architects - EKNC가 추구하는 참여형 설계 프로세스는 구체적으로 어떤 방식으로 진행되는가?",
+    "다세대 주택인 Abishkar Residence에서 각 세대의 프라이버시와 공용 공간의 조화를 위해 어떤 건축적 장치를 사용했는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Abishkar 住宅 / SYSTEM architects - EKNC",
+     "url": "https://www.archdaily.cn/1189071/abishkar-zhu-zhai-system-architects-eknc?ad_name=article_cn_redirect=popup"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 461
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "dezeen.com/2026/11/24/raul-sanchez-architects-casa-de-las-lavanderas": {
+  "title_ko": "바르셀로나의 빨래터, 코발트 블루 빛의 수직 동선으로 재탄생하다",
+  "summary_ko": "라울 산체스 아키텍츠가 바르셀로나의 유서 깊은 빨래꾼 주거지인 칼레 아이구아프레다의 80제곱미터 규모 세탁소를 주택으로 재생했다. 반지하 구조의 어두운 내부를 해결하기 위해 과거 우물을 현대적으로 재해석한 클라인 블루 색상의 채광창을 설치했다. 1.5미터의 지대 차이를 활용한 입체적 동선 설계로 좁은 면적 내 주거 기능을 밀도 있게 배치했다.",
+  "lens": "역사적 노동의 흔적인 우물을 수직 채광 장치로 치환하여, 어두운 반지하 공간에 빛의 기둥을 세우고 공기 순환의 중심축으로 활용한다.",
+  "why_now": "도시의 산업 유산을 박제하지 않고, 그 공간이 지닌 고유한 기능적 서사를 현대적 주거의 물리적 장치로 전환하는 방식이 중요하다.",
+  "mechanism": "클라인 블루로 도장된 채광창에 사방의 안구형 창(oculi)을 뚫어, 천창에서 들어온 빛을 실내 전역으로 분산시킨다. 1.5미터 고저차를 활용한 계단 동선은 상하층을 연결하며 공간을 효율적으로 분할한다.",
+  "sensory": "클라인 블루의 강렬한 색채가 뿜어내는 수직의 빛과, 일본식 목재·한지 폴딩 도어가 만드는 은은한 투과광이 대비를 이룬다. 거울 마감된 주방 아일랜드는 공간의 경계를 지우며 시각적 가벼움을 더한다.",
+  "transfer": "좁은 반지하 공간 연출 시, 특정 색상을 입힌 수직 구조물을 빛의 통로이자 시각적 랜드마크로 활용하라. 거울 소재의 가구를 배치해 공간의 물리적 부피감을 상쇄하고 투명한 질감을 연출하는 기법을 추천한다.",
+  "context": "라울 산체스는 과거의 흔적을 보존하되 스테인리스 스틸 등 현대적 재료로 대조를 만드는 방식을 고수해왔다. 이번 프로젝트는 빨래터라는 장소성을 빛의 수직 기둥으로 치환하여 공간의 서사를 현대적 일상에 이식했다.",
+  "findings": [],
+  "keywords": [
+   "공간재생",
+   "수직채광",
+   "라울산체스",
+   "바르셀로나",
+   "주거건축"
+  ],
+  "evidence": "The lightwell also functions as a “modern translation of the old wells” that used to provide water for the laundry workers.",
+  "kind": "프로젝트",
+  "depth": 5,
+  "grounding": "full",
+  "depth_reason": "역사적 장소의 기능을 현대적 채광 장치로 치환한 구체적 설계 논리가 명확하며, 좁은 면적을 극복하는 공간 전략이 실무적으로 유효하다.",
+  "v": 2,
+  "url": "https://www.dezeen.com/2026/11/24/raul-sanchez-architects-casa-de-las-lavanderas/",
+  "original_title": "Raúl Sánchez Architects transforms laundry into light-filled Barcelona home",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 4432,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-24 19:15",
+  "research": {
+   "entities": [
+    "Raúl Sánchez Architects",
+    "Casa de las Lavanderas",
+    "Calle Aiguafreda"
+   ],
+   "questions": [
+    "Calle Aiguafreda 지역의 역사적 배경인 세탁소(washhouse)가 건축적 보존과 재해석에 어떤 영향을 미쳤는가?",
+    "Raúl Sánchez Architects가 80제곱미터의 좁은 공간에서 채광과 공간 효율성을 확보하기 위해 사용한 구체적인 건축적 장치는 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "시간의 궤적을 보존하는 방식: 라울 산체스의 라 카사 델 피라타",
+     "url": "https://www.yellowtrace.com.au/raul-sanchez-la-casa-del-pirata-mataro-heritage-renovation/"
+    },
+    {
+     "n": 2,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "바르셀로나 아이구아프레다, 빨래꾼의 집을 잇는 푸른 빛의 레이어",
+     "url": "https://www.wallpaper.com/architecture/residential/washerwomens-house-raul-sanchez-barcelona-spain"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "라울 산체스가 복원한 바르셀로나의 세탁부 집",
+     "url": "https://www.archdaily.com/1188496/casa-de-las-lavanderas-raul-sanchez"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3
+   ],
+   "chars": 752
+  },
+  "depth_raw": 5,
+  "depth_v": 2
+ },
+ "designboom.com/art/aaltosiilo-transforms-itself-oulu-lumo-light-festival-2026": {
+  "title_ko": "핀란드 오울루, 10cm 콘크리트 골조가 빛의 캔버스로 변모하는 방식",
+  "summary_ko": "알바르 알토와 아이노 알토가 설계한 1930년대 펄프 공장 알토실로(AaltoSiilo)가 2026년 오울루 빛 축제 루모(Lumo)의 무대로 재탄생했다. 10cm 두께의 얇은 콘크리트 벽체와 구조용 핀으로 이루어진 내부 챔버에 레이저, 사운드, 안개를 투사하여 산업 유산의 거대한 스케일을 재해석한다. 팩텀 재단(Factum Foundation)의 디지털 보존 데이터를 기반으로 지역 사회와 협력하여 문화 공간으로 탈바꿈했다.",
+  "lens": "산업 유산의 물리적 골조를 빛으로 깎아내어, 정적인 콘크리트 구조물이 관람객의 움직임에 따라 팽창하고 수축하는 동적 공간으로 변모시킨다.",
+  "why_now": "극야의 어둠이 지배하는 핀란드의 기후적 특성을 미디어 아트의 재료로 삼아, 버려진 산업 시설을 도시의 활력 있는 문화 거점으로 치환하는 전략적 사례다.",
+  "mechanism": "일카 팔로니에미의 작업 그레이 노이즈(Grey Noise)는 레이저 빔과 안개를 사용해 10cm 두께의 콘크리트 벽면을 물리적으로 절단하듯 시각화하며, 공간의 깊이감을 왜곡한다.",
+  "sensory": "차가운 노출 콘크리트의 거친 질감 위로 겹쳐지는 레이저의 예리한 광선, 그리고 칠흑 같은 어둠 속에서 울리는 사운드가 공간의 거대한 수직적 스케일을 강조한다.",
+  "transfer": "콘크리트 벽면에 레이저를 투사하여 구조물의 엣지를 강조하거나, 안개를 채워 공간의 부피를 시각적으로 조절하는 조명 콘티를 제안한다.",
+  "context": "알토실로는 1931년 완공된 알바르 알토의 초기 산업 건축물로, 최근 팩텀 재단과 스킨 캐틀링 드 라 페냐에 의해 복원되었다. 이는 알바르 알토가 설계한 오울루 내 3대 주요 프로젝트 중 하나로, 과거 산업적 기능에서 벗어나 예술 전시와 연구를 위한 공공 공간으로 진화 중이다.",
+  "findings": [
+   {
+    "text": "알토실로는 10cm 두께의 콘크리트 벽과 구조용 핀을 활용해 당시 엔지니어링 한계에 도전한 건축물이다.",
+    "s": 1,
+    "quote": "Its three 10 × 10 metre bays are enclosed by cast-in-situ concrete walls only 10 cm thick, held rigid by structural fins – a construction at the edge of the engineering tolerances of its time."
+   },
+   {
+    "text": "1931년 라슬로 모호이너지(László Moholy-Nagy)가 이 공장을 촬영해 바우하우스 및 유럽 아방가르드와 직접 연결했다.",
+    "s": 1,
+    "quote": "In 1931 László Moholy-Nagy, a friend of the Aaltos, photographed the newly completed plant for Arkkitehti magazine, linking it directly to the Bauhaus and the European avant-garde."
+   },
+   {
+    "text": "팩텀 재단은 복원 전 LiDAR와 고해상도 사진 측량으로 건물 내외부를 정밀 기록했다.",
+    "s": 1,
+    "quote": "Before any physical work, Factum Foundation made a complete recording of the interior and exterior of the AaltoSiilo using LiDAR and high-resolution photogrammetry."
+   }
+  ],
+  "keywords": [
+   "알토실로",
+   "산업유산",
+   "미디어아트",
+   "콘크리트",
+   "오울루"
+  ],
+  "evidence": "the building undergoes yet another transformation in its long history",
+  "kind": "프로젝트",
+  "depth": 5,
+  "grounding": "full",
+  "depth_reason": "산업 유산의 보존 기법과 빛을 활용한 공간 재해석이 구체적이며, 기술적 데이터와 건축적 맥락이 명확히 연결되어 있다.",
+  "v": 2,
+  "url": "https://www.designboom.com/art/aaltosiilo-transforms-itself-oulu-lumo-light-festival-2026/",
+  "original_title": "the aaltosiilo transforms itself again at oulu’s lumo light festival 2026",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 9000,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-24 19:15",
+  "research": {
+   "entities": [
+    "AaltoSiilo",
+    "Alvar Aalto",
+    "Aino Aalto",
+    "Lumo Light Festival",
+    "Finnish Light Art Society"
+   ],
+   "questions": [
+    "AaltoSiilo가 산업 시설에서 예술 공간으로 변모하게 된 역사적 배경과 보존 과정은 무엇인가?",
+    "핀란드의 지리적 특성인 극야 현상이 루모(Lumo) 빛 축제와 같은 미디어 아트 문화에 어떤 영향을 미쳤는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "AaltoSiilo",
+     "url": "https://www.aaltosiilo.com/en/"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Oulu2026 European Capital of Culture 2026",
+     "url": "https://oulu2026.eu/en/"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Alvar Aalto",
+     "url": "https://en.wikipedia.org/wiki/Alvar%20Aalto"
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "Aino Aalto",
+     "url": "https://en.wikipedia.org/wiki/Aino%20Aalto"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "리스본의 상 호세 다 보아비스타 교회, 광장을 품은 현대적 성소",
+     "url": "https://www.yatzer.com/church-of-sao-jose-da-boavista-lisbon"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "죽음의 경계에서 읽어내는 건축과 조경의 풍경",
+     "url": "https://www.architecturaldigest.com/gallery/most-beautiful-cemeteries-around-the-world"
+    },
+    {
+     "n": 7,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "코르도바의 광활한 대지에 세운 기하학적 중정 주택",
+     "url": "https://www.archdaily.com/1187661/a-geometric-ruin"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 6876
+  },
+  "depth_raw": 5,
+  "depth_v": 2
+ },
+ "creativeboom.com/news/yungbld-gives-haircare-brand-vollie-a-look-thats-premium-but-never-precious": {
+  "title_ko": "부드러움과 단단함의 충돌, 헤어케어 브랜드 볼리의 비주얼 유니버스",
+  "summary_ko": "미국 플로리다의 디자인 스튜디오 영블러드가 헤어케어 스타트업 볼리를 위해 전략, 패키지, 디지털 경험을 아우르는 전체 브랜드 세계를 구축했다. 캔디 핑크와 라벤더 등의 파스텔 톤 색상 체계에 무겁고 굵은 산세리프 서체를 조합해 부드러움과 단단한 성능 사이의 균형을 맞췄다.",
+  "lens": "무른 파스텔톤과 무거운 고딕 서체를 충돌시켜 부드러움과 기능적 성능의 긴장을 만든다.",
+  "why_now": "제품 패키지를 넘어 CGI와 디지털 웹사이트까지 단일한 시각 언어로 엮어내는 통합적 브랜드 구축 방식이 주목받고 있다.",
+  "mechanism": "원통형 병 표면에 로고를 인쇄하는 대신 양각으로 성형하고, 립 코드가 돋보이는 굵은 대문자 타이포그래피로 시각적 무게를 잡았다.",
+  "sensory": "몽환적인 파스텔 그라데이션의 CGI 질감과 따뜻하고 입자감이 도드라지는 로파이 실사 촬영이 대비를 이룬다.",
+  "transfer": "제품 뷰 컷을 촬영할 때 인쇄물 대신 팬톤 컬러 스와치 스트립을 인물의 얼굴 위에 직접 대어 시각적 기호로 활용한다.",
+  "context": "플로리다에 기반을 둔 브랜딩 및 디자인 스튜디오 영블러드는 뷰티 및 소비재 브랜드의 아이덴티티와 패키지, 디지털 경험을 전문으로 다룬다.",
+  "findings": [
+   {
+    "text": "영블러드는 뷰티 및 소비재 브랜드의 아이덴티티, 패키지, 제품 디자인, 캠페인, 디지털 영역을 전문으로 다루는 브랜딩 및 디자인 스튜디오다.",
+    "s": 1,
+    "quote": "YUNGBLD is a branding and design studio specializing in beauty and consumer brands, from identity and packaging to product design, campaigns and digital."
+   },
+   {
+    "text": "볼리는 모발의 볼륨과 목소리의 증폭을 동시에 뜻하며 일상의 공간을 주도하도록 설계된 헤어케어 시스템이다.",
+    "s": 2,
+    "quote": "Vollie alludes to the word volume - both in your hair and in amplifying your voice. It’s about empowering you to take up space and embrace your unique story."
+   }
+  ],
+  "keywords": [
+   "영블러드",
+   "볼리",
+   "브랜드유니버스",
+   "패키지디자인"
+  ],
+  "evidence": "Yungbld set out to strike a perfect balance between premium and approachable.",
+  "kind": "브랜드·캠페인",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "신생 헤어케어 브랜드의 통합적 비주얼 구축 과정을 구체적 재료와 색채로 명확히 보여준다.",
+  "v": 2,
+  "url": "https://www.creativeboom.com/news/yungbld-gives-haircare-brand-vollie-a-look-thats-premium-but-never-precious/",
+  "original_title": "Yungbld gives startup haircare brand Vollie a look that’s premium, but never precious",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 7120,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-24 19:15",
+  "research": {
+   "entities": [
+    "Yungbld",
+    "Vollie",
+    "Laura Miller"
+   ],
+   "questions": [
+    "Yungbld 스튜디오가 'Handle With Haircare'라는 슬로건을 통해 브랜드의 시각적 정체성을 어떻게 구체화했는가?",
+    "Vollie의 패키지 디자인에서 프리미엄함과 접근성을 동시에 확보하기 위해 사용된 조형적 요소와 색채 전략은 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "YUNGBLD",
+     "url": "https://www.yungbld.com/"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Vollie",
+     "url": "https://vollieverse.com"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 1148
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "dazeddigital.com/life-culture/article/71404/1/gta-vi-might-be-a-last-gasp-for-monoculture-but-should-we-be-celebrating": {
+  "title_ko": "단일 문화의 귀환, 그랜드 테프트 오토 6가 증명한 공유된 시간의 무게",
+  "summary_ko": "락스타 게임즈의 신작 그랜드 테프트 오토 6(Grand Theft Auto VI) 출시와 함께 전 세계 사용자들이 동시에 소셜 미디어를 점령하며 파편화된 디지털 시대 속 드문 단일 문화 현상을 연출했다. 이는 알고리즘에 의한 개인화된 피드에서 벗어나 대중이 동일한 문화적 경험을 공유하고자 하는 갈망을 드러낸다. 전문가들은 이러한 공유된 경험이 오히려 하위문화의 존재 근거를 강화하고 사회적 대화를 촉진한다고 분석한다.",
+  "lens": "단일 문화는 획일성이 아니라, 각기 다른 사회적 위치에 있는 개인들이 동일한 대상에 대해 비판적 판단을 내리고 대화할 수 있는 광장을 제공한다.",
+  "why_now": "파편화된 알고리즘 피드에 피로감을 느낀 대중이 동시다발적인 대형 콘텐츠 소비를 통해 공동체적 연결을 확인하고자 하는 욕구가 강해졌다.",
+  "mechanism": "주간 단위의 순차적 콘텐츠 공개와 대규모 미디어 로드아웃을 통해 소비자의 시차를 강제로 동기화하여, 집단적 대화와 반응이 일어날 수 있는 물리적·시간적 토대를 마련한다.",
+  "sensory": "145.3만 시간의 스트리밍 데이터가 증명하는 실시간 반응의 밀도와, 수많은 클립과 밈으로 파생되는 파편화된 시각적 정보들이 거대한 하나의 현상을 구성한다.",
+  "transfer": "콘텐츠 제작 시, 전체를 한 번에 공개하기보다 시청자의 반응을 동기화할 수 있는 주간 단위 배포 방식을 채택하여 대화의 밀도를 높이는 전략을 고려한다.",
+  "context": "그랜드 테프트 오토 6는 2026년 출시된 락스타 게임즈의 오픈 월드 게임으로, 레오니다 주를 배경으로 한다. 과거 2014년 엘렌 드제너러스의 오스카 셀카가 단일 문화의 마지막 정점으로 회자되는 것과 비교되며, 현대 문화 소비의 파편화와 대비되는 상징적 사건으로 다뤄진다.",
+  "findings": [
+   {
+    "text": "2026년 8월, 샘 펜더와 올리비아 딘의 곡이 영국 차트 역사상 가장 긴 기간 1위를 기록했으나, 많은 사람이 이를 들어본 적 없다고 답하며 단일 문화의 붕괴가 가시화되었다.",
+    "s": 2,
+    "quote": "Sam Fender and Olivia Dean’s Rein Me In is longest-running No 1 single in UK chart history, and yet it seems to have passed many people by"
+   },
+   {
+    "text": "2014년 아카데미 시상식에서 엘렌 드제너러스가 촬영한 셀카는 당시 4,374만 명이 시청한 대중문화의 마지막 공유된 정점으로 평가받는다.",
+    "s": 3,
+    "quote": "The selfie was an instantly viral moment in a telecast that drew the Academy Awards’ largest audience in 14 years — 43.74 million people."
+   },
+   {
+    "text": "그랜드 테프트 오토 6는 2026년 출시되었으며, 제작을 위해 13년 이상의 기간과 버즈 칼리파를 상회하는 예산이 투입되었다.",
+    "s": 4,
+    "quote": "Grand Theft Auto VI is a 2026 action-adventure game developed and published by Rockstar Games. ... thousands of people worked on the game across 13 years, with the budget reportedly exceeding that of the Burj Khalifa."
+   }
+  ],
+  "keywords": [
+   "단일문화",
+   "그랜드테프트오토6",
+   "디지털파편화",
+   "공유경험",
+   "미디어소비"
+  ],
+  "evidence": "In an era of algorithm-fuelled fragmentation, shared cultural moments like this are becoming increasingly rare",
+  "kind": "뉴스·이슈",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "대중문화의 파편화와 단일 문화의 쇠퇴를 구체적인 사례와 현상을 통해 분석적으로 다루었기 때문이다.",
+  "v": 2,
+  "url": "https://www.dazeddigital.com/life-culture/article/71404/1/gta-vi-might-be-a-last-gasp-for-monoculture-but-should-we-be-celebrating?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=in-defence-of-monoculture",
+  "original_title": "In defence of monoculture",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 8354,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-24 19:15",
+  "research": {
+   "entities": [
+    "Grand Theft Auto VI",
+    "Peter Hitchens",
+    "Sam Fender",
+    "Olivia Dean",
+    "Ellen DeGeneres"
+   ],
+   "questions": [
+    "대중문화에서 단일문화(Monoculture)의 붕괴 현상이 미디어 소비 패턴에 어떤 변화를 가져왔는가?",
+    "거대 게임 출시나 히트곡 사례가 현대 사회에서 공유된 문화적 경험의 가치를 어떻게 재조명하는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "An Estimated 2 Million Eager Xbox Gamers Made Use of the 'New Zealand Trick' to Play GTA 6",
+     "url": "https://www.ign.com/articles/2-million-people-new-zealand-gta-6-early"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Demise of the monoculture: why so many have never heard UK’s record-breaking No 1 single",
+     "url": "https://www.theguardian.com/music/2026/aug/05/demise-monoculture-why-have-so-many-never-heard-uk-record-breaking-no-1-single-sam-fender-olivia-dean"
+    },
+    {
+     "n": 3,
+     "type": "공식·1차",
+     "title": "The Last Time Everyone Watched the Same Thing",
+     "url": "https://www.hollywoodreporter.com/business/digital/monoculture-died-2014-1236545688/"
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "Grand Theft Auto VI",
+     "url": "https://en.wikipedia.org/wiki/Grand%20Theft%20Auto%20VI"
+    },
+    {
+     "n": 5,
+     "type": "위키백과",
+     "title": "Peter Hitchens",
+     "url": "https://en.wikipedia.org/wiki/Peter%20Hitchens"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "멕시코시티로 이식된 창의적 우주, 홀리 험버스톤의 공간 서사",
+     "url": "https://www.dazeddigital.com/music/article/71275/1/how-holly-humberstone-built-her-home-away-from-home-in-mexico-city?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=how-holly-humberstone-built-her-home-away-from-home-in-mexico-city"
+    },
+    {
+     "n": 7,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "가상 세계로의 집단 이주, GTA 6 출시가 흔드는 노동의 풍경",
+     "url": "https://www.dazeddigital.com/life-culture/article/71349/1/meet-the-legends-booking-time-off-work-to-play-grand-theft-auto-gta-vi?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=it-s-more-fun-than-work-meet-the-people-booking-time-off-to-play-gta-vi"
+    },
+    {
+     "n": 8,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "가상의 마력을 현실로, 락스타 게임즈가 구현한 GTA VI의 6대 실물 차량",
+     "url": "https://www.designboom.com/technology/rockstar-games-west-coast-customs-gta-vi-cars-miami/"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+   ],
+   "chars": 11611
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "designboom.com/interviews/can-le-corbusier-last-building-disassembled-shipped": {
+  "title_ko": "조립식 기계의 역설, 르 코르뷔지에의 마지막 파빌리온이 고정된 이유",
+  "summary_ko": "취리히 호숫가에 위치한 르 코르뷔지에 파빌리온은 그가 설계한 마지막 건축물로, 강철과 유리 모듈을 결합한 조립식 건축의 정수를 보여준다. 22,000개의 나사로 연결된 이 건물은 이동 가능한 기계적 건축을 지향했으나, 실제로는 콘크리트 경사로와 계단이라는 물리적 무게에 묶여 있다. 현재 취리히 디자인 박물관이 운영을 맡아 그 보존과 역사적 맥락을 관리하고 있다.",
+  "lens": "조립식 부품의 유연함을 지향하면서도, 콘크리트라는 육중한 물성에 발목 잡힌 근대 건축의 모순적 정체성을 드러낸다.",
+  "why_now": "건축을 고정된 실체가 아닌 이동 가능한 기계로 보았던 근대주의자의 꿈이, 오늘날의 가변적 공간 설계에 던지는 질문이 유효하다.",
+  "mechanism": "226cm 단위의 모듈과 수천 개의 나사를 사용해 산업 생산품처럼 건물을 조립했으나, 현장 타설된 콘크리트 동선이 건물을 대지에 고착시키는 닻 역할을 한다.",
+  "sensory": "강철 프레임의 차가운 금속성과 에나멜 패널의 매끄러운 질감, 그리고 그 사이를 가로지르는 콘크리트의 거친 무게감이 대비를 이룬다.",
+  "transfer": "콘티 작업 시 모듈러 시스템의 조립 과정을 보여주는 숏에서는 나사 결합부의 디테일을 강조하고, 공간의 고착성을 표현할 때는 콘크리트 계단의 묵직한 그림자를 활용한다.",
+  "context": "이 파빌리온은 갤러리스트 하이디 베버의 의지로 실현되었으며, 르 코르뷔지에의 초기 구상과 달리 대지에 순응하지 않는 45도 각도의 배치를 취했다. 2014년 취리히 시가 소유권을 확보한 이후, 현재는 취리히 디자인 박물관의 세 번째 전시 공간으로 활용된다.",
+  "findings": [
+   {
+    "text": "르 코르뷔지에 파빌리온은 2014년 4월 취리히 시로 소유권이 이전되었으며 2016년 5월 현재의 이름으로 명명되었다.",
+    "s": 4,
+    "quote": "In April 2014 the building and museum went over to the city of Zürich, and was renamed in May 2016."
+   },
+   {
+    "text": "파빌리온은 르 코르뷔지에의 건축물 중 유일하게 강철과 유리로만 구성된 건축물이다.",
+    "s": 1,
+    "quote": "the last building designed by the important architect and his only building made of steel and glass."
+   }
+  ],
+  "keywords": [
+   "르코르뷔지에",
+   "조립식건축",
+   "모듈러",
+   "취리히",
+   "근대건축"
+  ],
+  "evidence": "it would be absolutely impossible to keep it as it is and to unscrew it and to rebuild it in another place.",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "건축가의 철학적 이상과 물리적 현실 사이의 괴리를 구체적인 재료와 구조적 특징을 통해 날카롭게 분석했다.",
+  "v": 2,
+  "url": "https://www.designboom.com/interviews/can-le-corbusier-last-building-disassembled-shipped/",
+  "original_title": "can le corbusier’s last building be disassembled and shipped?",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 9000,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-24 19:16",
+  "research": {
+   "entities": [
+    "Le Corbusier",
+    "Pavillon Le Corbusier",
+    "Heidi Weber",
+    "Museum für Gestaltung Zürich",
+    "Vers une architecture"
+   ],
+   "questions": [
+    "르 코르뷔지에가 추구했던 '기계로서의 건축' 개념이 파빌리온 설계에 어떻게 반영되었는가?",
+    "하이디 베버와 취리히 시 사이의 갈등이 파빌리온의 보존과 운영에 어떤 영향을 미쳤는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Pavillon Le Corbusier",
+     "url": "https://pavillon-le-corbusier.ch/en"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Museum für Gestaltung Zürich",
+     "url": "https://museum-gestaltung.ch/en"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Le Corbusier",
+     "url": "https://en.wikipedia.org/wiki/Le%20Corbusier"
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "Pavillon Le Corbusier",
+     "url": "https://en.wikipedia.org/wiki/Pavillon%20Le%20Corbusier"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "아시아 브루탈리즘의 재발견, 콘크리트로 읽는 지역의 기록",
+     "url": "https://www.wallpaper.com/architecture/brutalist-asia-book"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "리스본의 상 호세 다 보아비스타 교회, 광장을 품은 현대적 성소",
+     "url": "https://www.yatzer.com/church-of-sao-jose-da-boavista-lisbon"
+    },
+    {
+     "n": 7,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "카를로 라티가 포착한 14가지 이탈리아의 일상, 오브제라는 이름의 대화",
+     "url": "https://www.wallpaper.com/architecture/carlo-ratti-objectify-series-summer-journey-italy"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "chars": 8071
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "designboom.com/art/before-digital-age-artists-already-making-color-movement-optical": {
+  "title_ko": "색을 고정된 이미지에서 공간의 현상으로 전환하는 시각적 장치들",
+  "summary_ko": "카를로스 크루즈 디에즈, 브리지트 라일리 등 예술가들은 1960년대부터 빛, 움직임, 착시를 활용해 색채를 고정된 평면에서 벗어나게 했다. 이들은 관람자의 신체 이동과 시각적 적응을 통해 공간 전체를 변화하는 색의 환경으로 재구성한다. 이러한 작업은 정지된 이미지를 넘어 관람자가 공간의 주체가 되는 동적인 경험을 구축한다.",
+  "lens": "색을 안료의 고착된 상태가 아닌, 빛의 파장과 관람자의 이동이 만나는 실시간의 시공간적 현상으로 해체한다.",
+  "why_now": "디지털 스크린이 색을 일방적으로 출력하는 시대에, 물리적 환경과 신체 움직임으로 색을 생성하는 아날로그적 상호작용은 공간 설계에 새로운 감각적 깊이를 더한다.",
+  "mechanism": "색채가 칠해진 표면이나 조명 환경을 관람자가 통과하며 시각적 잔상과 인지적 착시를 일으키는 동선을 설계한다. 빛의 산란과 굴절을 이용해 공간의 깊이감을 왜곡하며 관람자가 걷는 속도와 방향에 따라 색의 층위가 실시간으로 재배치된다.",
+  "sensory": "형태가 사라진 채 채도가 높은 빛의 안개나 겹쳐진 색의 띠만이 공간을 채운다. 망막에 맺히는 잔상과 신체 주변을 감싸는 색의 온도가 공간의 물리적 경계를 모호하게 흐린다.",
+  "transfer": "공간 연출 시 조명 기구의 배치와 색 필터를 활용해 벽면이 아닌 허공에 색의 농도를 조절하는 조명 콘티를 구성한다. 영상 편집에서는 프레임의 전환 대신 카메라의 이동과 조명 변화만으로 색의 톤이 점진적으로 변하는 롱테이크를 활용한다.",
+  "context": "카를로스 크루즈 디에즈는 키네틱 아트의 주요 인물로, 색을 형태로부터 독립적인 자율적 실재로 규정하며 1960년대부터 공간 내 색채 인지 실험을 지속했다. 브리지트 라일리는 1960년대 옵아트의 선구자로서 기하학적 패턴을 통해 정지된 화면에 진동과 움직임을 구현했다. 이들의 작업은 페레즈 미술관 마이애미 등 주요 기관에서 지속적으로 재조명되며 공간과 관람자의 관계를 재정의하고 있다.",
+  "findings": [
+   {
+    "text": "카를로스 크루즈 디에즈는 색을 형태나 지지체의 도움 없이 시간과 공간 속에서 전개되는 자율적인 실재로 보았다.",
+    "s": 3,
+    "quote": "Cruz-Diez proposed conceiving color as an autonomous reality that develops in time and space, without the aid of form or the need for a support."
+   },
+   {
+    "text": "브리지트 라일리는 1961년부터 선, 원, 곡선, 정사각형 등 단순한 기하학적 형태를 내부 논리에 따라 배열하는 데 집중했다.",
+    "s": 2,
+    "quote": "Since 1961, Bridget Riley (b. 1931) has focused exclusively on seemingly simple geometric forms, such as lines, circles, curves, and squares, arrayed across a surface"
+   }
+  ],
+  "keywords": [
+   "키네틱아트",
+   "옵아트",
+   "색채지각",
+   "공간시노그래피",
+   "빛의물성"
+  ],
+  "evidence": "the essential mechanisms remained remarkably simple: the movement of the body, changing light, and the act of looking.",
+  "kind": "프로젝트",
+  "depth": 5,
+  "grounding": "full",
+  "depth_reason": "예술사적 맥락과 구체적인 공간 연출 기법을 결합하여, 실무자가 즉각적으로 공간 설계와 영상 연출에 적용할 수 있는 논리적 장치를 제공한다.",
+  "v": 2,
+  "url": "https://www.designboom.com/art/before-digital-age-artists-already-making-color-movement-optical/",
+  "original_title": "before the digital age, artists were already making color move",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 9000,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-24 19:17",
+  "research": {
+   "entities": [
+    "Carlos Cruz-Diez",
+    "Bridget Riley",
+    "Hélio Oiticica",
+    "Pérez Art Museum Miami",
+    "Op Art"
+   ],
+   "questions": [
+    "1960년대 옵아트(Op Art)가 관람자의 시각적 인지에 미친 영향은 무엇인가?",
+    "색채를 고정된 이미지가 아닌 움직이는 경험으로 전환하려는 예술적 시도가 현대 미술의 공간 개념에 어떤 변화를 가져왔는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Home | Cruz-Diez official website",
+     "url": "https://cruz-diez.com/"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Bridget Riley - Artworks & Biography | David Zwirner",
+     "url": "https://www.davidzwirner.com/artists/bridget-riley"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Carlos Cruz-Diez",
+     "url": "https://en.wikipedia.org/wiki/Carlos%20Cruz-Diez"
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "Bridget Riley",
+     "url": "https://en.wikipedia.org/wiki/Bridget%20Riley"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "권력과 검열에 맞선 렌즈, 사진가 넬슨 가리도를 기리며",
+     "url": "https://hyperallergic.com/photographer-nelson-garrido-who-embraced-an-aesthetics-of-the-ugly-dies-at-73/"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "우디 데 오텔로의 조각: 일상 사물에 담긴 영적 기제와 물질성",
+     "url": "https://elephant.art/woody-de-othello-and-the-ritual-of-being-here/"
+    },
+    {
+     "n": 7,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "복제된 명화를 수작업으로 환원하는 엽서 크기의 회화 연작",
+     "url": "https://www.creativeboom.com/inspiration/chris-coombes-charming-postcard-paintings-play-with-the-boundaries-of-what-art-can-be/"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "chars": 5340
+  },
+  "depth_raw": 5,
+  "depth_v": 2
  }
 }
