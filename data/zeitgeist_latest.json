@@ -1,26 +1,58 @@
 {
-  "generated_at": "2026-11-24 05:08 KST",
+  "generated_at": "2026-11-24 09:15 KST",
   "period": "2026.11.17 - 2026.11.24",
-  "total_articles": 528,
+  "total_articles": 550,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 254
+      "count": 266
     },
     {
       "genre": "동시대 미술",
-      "count": 172
+      "count": 180
     },
     {
       "genre": "아방가르드 패션",
-      "count": 60
+      "count": 61
     },
     {
       "genre": "미디어 파사드·3D",
-      "count": 42
+      "count": 43
     }
   ],
   "themes": [
+    {
+      "keyword": "박물관·전시",
+      "count": 56,
+      "previous_count": 50,
+      "trend": "rising",
+      "items": [
+        {
+          "title": "빈티지 책에서 솟아나는 민속 이야기로 매혹하는 수 블랙웰(Su Blackwell)",
+          "url": "https://www.thisiscolossal.com/2026/11/su-blackwell-vintage-books/",
+          "image_url": "https://www.thisiscolossal.com/wp-content/uploads/2026/11/blackwell-10.jpg",
+          "source_name": "This Is Colossal"
+        },
+        {
+          "title": "매기 엘리스의 추수감사절 식탁에서 일어난 이상한 일",
+          "url": "https://hyperallergic.com/something-strange-at-maggie-elliss-thanksgiving-table/",
+          "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/11/IMG_1179-1.jpeg",
+          "source_name": "Hyperallergic"
+        },
+        {
+          "title": "파우더 마운틴의 야외 갤러리에서 예술과 스키 슬로프가 만나는 곳",
+          "url": "https://design-milk.com/powder-mountain-art-museum/",
+          "image_url": "https://design-milk.com/images/2026/11/Rose-Wylie-Pale-Pink-Pineapple_Bomb-2025-at-Powder-Art-Foundation-photo-by-Kim-Raff_4-1500x1000.jpg",
+          "source_name": "Design Milk"
+        },
+        {
+          "title": "새로운 공간을 선보이는 런던 박물관의 '소프트 파워'를 만나보세요",
+          "url": "https://www.wallpaper.com/architecture/public-buildings/london-museum-opens-uk",
+          "image_url": "https://cdn.mos.cms.futurecdn.net/4pzMp2QFH2ymp4uNu7GnLf-1920-80.jpg",
+          "source_name": "Wallpaper*"
+        }
+      ]
+    },
     {
       "keyword": "사진",
       "count": 19,
@@ -55,10 +87,22 @@
     },
     {
       "keyword": "가구 디자인",
-      "count": 15,
+      "count": 17,
       "previous_count": 13,
       "trend": "rising",
       "items": [
+        {
+          "title": "우리 모두가 지나치는 핸드레일에서 영감을 받은 모듈식 가구 시스템.",
+          "url": "https://www.yellowtrace.com.au/nomi-junction-furniture-collection-australian-design/",
+          "image_url": "https://assets.yellowtrace.com.au/wp-content/uploads/2026/11/17153009/Yellowtrace-JUNCTION-HIGH-ROUND-TABLE-DETAIL-SHOOT-3-06_opt90.jpg",
+          "source_name": "Yellowtrace"
+        },
+        {
+          "title": "Fireclay Tile, 전통 직물을 수작업으로 그린 타일로 변신시키다",
+          "url": "https://design-milk.com/fireclay-tile-idyllwild/",
+          "image_url": "https://design-milk.com/images/2026/11/Idyllwild-Hero-Spring-Original-1500x1000.jpg",
+          "source_name": "Design Milk"
+        },
         {
           "title": "HTA Design, '영국 최대의 공공 임대주택 개발' 공개",
           "url": "https://www.dezeen.com/2026/11/23/kidbrooke-park-road-hta-design/",
@@ -70,50 +114,6 @@
           "url": "https://www.architecturaldigest.com/story/inside-a-brooklyn-apartment-that-feels-like-an-english-country-estate",
           "image_url": "https://media.architecturaldigest.com/photos/6af325f3a1135bbbde950994/master/pass/AD1226_AD_VISITS_2%20copy.jpg",
           "source_name": "Architectural Digest"
-        },
-        {
-          "title": "로마의 거리에서 영감을 얻은 가구 컬렉션",
-          "url": "https://www.wallpaper.com/design-interiors/furniture/a-furniture-collection-inspired-by-the-streets-of-rome",
-          "image_url": "https://cdn.mos.cms.futurecdn.net/irP8mnEAL3JqnZWqHrkexW-1920-80.png",
-          "source_name": "Wallpaper*"
-        },
-        {
-          "title": "FrameScale, W. Schillig를 위해 Cloud9 Chair를 부상시키다",
-          "url": "https://www.stashmedia.tv/framescale-floats-the-cloud9-chair-for-w-schillig/",
-          "image_url": "http://www.stashmedia.tv/wp-content/uploads/W.-Schillig-Cloud9-Chair-ad-by-FrameScale-STASH-MAGAZINE5-1920x1080.jpg",
-          "source_name": "Stash Media"
-        }
-      ]
-    },
-    {
-      "keyword": "박물관·전시",
-      "count": 51,
-      "previous_count": 50,
-      "trend": "steady",
-      "items": [
-        {
-          "title": "'아트포트: 인터넷 아트 렌즈의 역사'는 켄 골드버그(Ken Goldberg)의 '데몬스트레이트(Demonstrate)'를 재고하도록 초대합니다.",
-          "url": "https://clotmag.com/oped/artport-a-history-of-internet-art-lens-invites-us-to-reconsider-ken-goldbergs-demonstrate",
-          "image_url": "https://clotmag.com/wp-content/uploads/2026/11/1092266393.jpg",
-          "source_name": "CLOT Magazine"
-        },
-        {
-          "title": "트럼프 참모, 스미소니언 인수를 계획하고 있음을 무심코 공개",
-          "url": "https://hyperallergic.com/trump-staffer-unwittingly-reveals-smithsonian-takeover-plan/",
-          "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/11/CLEAN_Smithsonian-subway_maxHeight_3000_maxWidth_3000-1-1.webp",
-          "source_name": "Hyperallergic"
-        },
-        {
-          "title": "아트 바젤 홍콩, 2027년 에디션의 출품자 명단 및 새로운 전시 공간 배치 공개",
-          "url": "https://www.artforum.com/news/art-basel-hong-kong-exhibitors-and-layout-2027-edition-1234764003/",
-          "image_url": "https://www.artforum.com/wp-content/uploads/2025/11/Print_approx_21_x_14_cm_ABHK25__General_Impressions__PR__MC_1389._HiRes.jpg?w=650",
-          "source_name": "Artforum"
-        },
-        {
-          "title": "낸 골딘이 런던으로 돌아와 헤이워드 갤러리에서 강력한 영향력을 발휘하고 있습니다.",
-          "url": "https://www.wallpaper.com/art/exhibitions-shows/nan-goldin-is-back-in-london-and-a-powerful-force-at-the-hayward-gallery",
-          "image_url": "https://cdn.mos.cms.futurecdn.net/ALYr24BkP7ALj958Q7ryhc-1920-80.png",
-          "source_name": "Wallpaper*"
         }
       ]
     },
@@ -182,34 +182,34 @@
       ]
     },
     {
-      "keyword": "설치 미술",
-      "count": 5,
-      "previous_count": 6,
+      "keyword": "해변·리조트 건축",
+      "count": 6,
+      "previous_count": 7,
       "trend": "steady",
       "items": [
         {
-          "title": "perkins&will and estúdio campana wrap são paulo airport lounge in amazon river-inspired timber installation",
-          "url": "https://www.designboom.com/architecture/perkinswill-estudio-campana-sao-paulo-airport-lounge-amazon-river-inspired-timber-installation-pedra-preta/",
-          "image_url": "https://www.designboom.com/wp-content/dbsub/457982/2026-11-11/pedra-preta-lounge-transforms-latin-americas-busiest-airport-into-a-destination-for-brazilian-art-design-and-culture-5-6af4cbe01fdb2.jpg",
-          "source_name": "Designboom Architecture"
+          "title": "파우더 마운틴의 야외 갤러리에서 예술과 스키 슬로프가 만나는 곳",
+          "url": "https://design-milk.com/powder-mountain-art-museum/",
+          "image_url": "https://design-milk.com/images/2026/11/Rose-Wylie-Pale-Pink-Pineapple_Bomb-2025-at-Powder-Art-Foundation-photo-by-Kim-Raff_4-1500x1000.jpg",
+          "source_name": "Design Milk"
         },
         {
-          "title": "'불완전에 대한 열정'이 돋보이는 안드레아 브란지(Andrea Branzi)의 램프 설치 작품",
-          "url": "https://www.dezeen.com/2026/05/08/objects-speak-andrea-branzi-lamp-milan-design-week/",
-          "image_url": "https://static-2026.dezeen.com/uploads/2026/05/objects-speak-andrea-branzi-lamp-milan-design-week_dezeen_2364_sq_1-852x852.jpg",
-          "source_name": "Dezeen Lighting"
+          "title": "바다에서 영감을 받은 끊임없이 변화하는 색상 팔레트의 인테리어가 돋보이는 로드아일랜드 해변의 가족 주택",
+          "url": "https://www.architecturaldigest.com/story/rhode-island-house-design-by-ford-huniford",
+          "image_url": "https://media.architecturaldigest.com/photos/6b0459d581651969691f5282/master/pass/Huniford%20Rhode%20Island_3002.jpg",
+          "source_name": "Architectural Digest"
         },
         {
-          "title": "Jacolby Satterwhite - A Metta Prayer",
-          "url": "https://www.nowness.com/films/jacolby-satterwhite-a-metta-prayer/",
-          "image_url": "https://www.nowness.com/media/bvuh5fa3/a-metta-prayer-still-3.jpg",
-          "source_name": "NOWNESS"
+          "title": "요코하마 팀버 워프 / 타이주 야마시타 디자인 및 건축",
+          "url": "https://www.archdaily.com/1188949/yokohama-timber-wharf-taiju-yamashita-design-and-architecture",
+          "image_url": "https://images.adsttc.com/media/images/6aff/09dd/eabd/2a00/0193/2555/large_jpg/d_93243.jpg?1795099276",
+          "source_name": "ArchDaily"
         },
         {
-          "title": "Aesop, 밀라노 디자인 위크에서 The Factory of Light 설치 작품과 함께 Aposē 램프 출시",
-          "url": "https://www.dezeen.com/2026/04/20/aesop-apose-factory-light-milan-design-week/",
-          "image_url": "https://static-2026.dezeen.com/uploads/2026/04/aesop-lamps-milan-design-week_dezeen_2364_col_sq.jpg",
-          "source_name": "Dezeen Lighting"
+          "title": "카날 비치 네이처 리조트 / 아틀리에 부지우",
+          "url": "https://www.archdaily.com/1036166/canal-beach-nature-resort-atelier-bugio",
+          "image_url": "https://images.adsttc.com/media/images/691b/d321/20ca/aa00/01ef/8011/large_jpg/HAL_F_03.jpg?1763431400",
+          "source_name": "ArchDaily"
         }
       ]
     }
