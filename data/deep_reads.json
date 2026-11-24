@@ -384562,5 +384562,171 @@
   },
   "depth_raw": 3,
   "depth_v": 2
+ },
+ "wallpaper.com/transportation/lotus-cars-hq-tour-emira-420-sport-on-the-track": {
+  "title_ko": "내연기관과 전동화의 기로에서, 로터스 헤델 공장의 이중적 풍경",
+  "summary_ko": "월페이퍼 매거진이 영국 노퍽주 헤델에 위치한 로터스 본사와 공장을 방문해 에미라 420 스포츠와 에바이야 등을 직접 주행했다. 중국 지리 그룹의 인수 이후 우한에서 전기차를 생산하는 한편, 헤델에서는 경량 스포츠카의 유산을 이어가며 하이브리드와 내연기관의 가능성을 동시에 모색하고 있다.",
+  "lens": "가벼운 순수 스포츠카의 유산과 무거운 전동화 플랫폼 사이에서 갈등하는 브랜드의 이중적 현실.",
+  "why_now": "고급 전기차 시장의 성장세가 주춤해진 시점에서 브랜드가 과거의 내연기관 및 하이브리드 헤리티지로 다시 눈을 돌리는 전환기적 국면을 보여준다.",
+  "mechanism": "2차 세계대전 당시 비행장의 활주로를 개조한 2.2마일 트랙을 활용해 경량 스포츠카의 예리한 조향 감각과 대형 전기 SUV의 중량감을 대조적으로 시험한다.",
+  "sensory": "독일산 AMG 엔진을 얹은 에미라의 날카로운 배기음과 2,000마력이 넘는 에바이야가 코너를 스쳐 나갈 때의 엄청난 속도감.",
+  "transfer": "무게 중심이 완전히 다른 두 탈것의 주행 질감을 대조하는 숏츠나 자동차 광고 콘티에서 고속 주행 시점과 콕핏 내부의 진동을 날카롭게 교차 편집한다.",
+  "context": "로터스는 영국 헤델의 스포츠카 공장, 중국 우한의 전기차 법인, 영국 웰스본의 엔지니어링 센터라는 세 축으로 구성된다.",
+  "findings": [],
+  "keywords": [
+   "로터스",
+   "헤델",
+   "스포츠카",
+   "전동화",
+   "헤리티지"
+  ],
+  "evidence": "At Lotus Cars, we have time on the track with its three newest models and a look back at past glories",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "전통적인 스포츠카 생산지와 중국 전동화 생산지의 이중적 구조를 잘 보여주나 새로운 방법론보다는 현장 스케치 중심이다.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/transportation/lotus-cars-hq-tour-emira-420-sport-on-the-track",
+  "original_title": "A flying visit to Norfolk to experience the multi-faceted character of Lotus Cars",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 8158,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-24 15:21",
+  "research": {
+   "entities": [
+    "Lotus Cars",
+    "Lotus Emira",
+    "Geely",
+    "Pipistrel",
+    "Russell Carr"
+   ],
+   "questions": [
+    "로터스 자동차가 영국 헤델 공장과 중국 우한 공장에서 각각 어떤 전략적 차이를 두고 차량을 생산하고 있나요?",
+    "로터스의 전통적인 경량 스포츠카 철학과 최근 출시된 전기차 및 하이브리드 모델 사이의 브랜드 정체성 변화는 어떻게 나타나고 있나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Velis Electro - Pipistrel",
+     "url": "https://www.pipistrel-aircraft.com/products/velis-electro/"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Lotus Cars",
+     "url": "https://en.wikipedia.org/wiki/Lotus%20Cars"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Lotus Emira",
+     "url": "https://en.wikipedia.org/wiki/Lotus%20Emira"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "2026 파리 모터쇼, 헤리티지 재해석으로 중국 브랜드에 맞서는 유럽의 전략",
+     "url": "https://www.wallpaper.com/transportation/paris-motor-show-2026-review"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "길이 2.74미터의 초소형 도심형 전기차, 스마트 #2",
+     "url": "https://www.wallpaper.com/transportation/smart-2-ev"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "길고 낮은 알루미늄 차체, 폴스타 5가 그리는 고성능 그랜드 투어러의 정형",
+     "url": "https://www.wallpaper.com/transportation/polestar-5-review"
+    }
+   ],
+   "used": [
+    2
+   ],
+   "chars": 4995
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "creativeboom.com/news/whats-the-answer-to-a-sea-of-lookalike-ai-brands-a-fossilised-typewriter-a-flight-delay-and-some-hand-drawn-cave-art-of-course": {
+  "title_ko": "구석기 시대와 화석의 언어로 구축한 AI 스타트업의 브랜딩",
+  "summary_ko": "암스테르담의 크리에이티브 에이전시 베브가 헬싱키의 AI 스타트업 제로를 위해 구석기 시대와 화석을 모티프로 한 비주얼 아이덴티티를 구축했다. 헬싱키 아모스 렉스 미술관에서 마주한 화석화된 타자기에서 영감을 받아, 기존 CRM 소프트웨어를 멸종된 구시대의 유물로 규정하고 제로의 등장을 새로운 진화의 단계로 시각화했다.",
+  "lens": "화석화된 사무 기기의 물성을 빌려 소프트웨어의 진부함을 거부한다.",
+  "why_now": "대다수의 AI 스타트업이 어두운 모드와 암호화폐 풍의 유사한 미학을 답습하는 상황에서, 제품의 기술적 차별점이 희미해진 시장에 브랜드 자체의 서사를 부여하기 위해서다.",
+  "mechanism": "일러스트레이터 케빈 레본이 손으로 직접 그린 신석기 시대의 풍경과 동굴 벽화를 피그마 위브 AI 툴에 입력해 일관된 화풍의 거대한 대지 비주얼을 확장했다.",
+  "sensory": "균열이 간 대지와 표류하는 모놀리스, 도트 매트릭스 얼굴을 가진 반짝이는 우주 오브제 '조브'의 시각적 대조가 건조한 소프트웨어 시장에 원시적 질감을 불어넣는다.",
+  "transfer": "영상 콘티의 오프닝 시퀀스에서 최첨단 기술을 다룰 때 오히려 석기 시대의 균열진 대지와 화석화된 도구의 원시적 물성을 대조시켜 화면의 긴장감을 높인다.",
+  "context": "암스테르담의 브랜딩 에이전시 베브는 테크 기업을 위한 전략적 리브랜딩을 다수 수행해 왔으며, 이번 제로 프로젝트에서는 크리에이티브 디렉터와 전략가가 함께 헬싱키 미술관을 방문하는 과정에서 핵심 아이디어를 도출했다.",
+  "findings": [],
+  "keywords": [
+   "비주얼아이덴티티",
+   "AI스타트업",
+   "원시물성",
+   "브랜딩",
+   "디자인전략"
+  ],
+  "evidence": "Extinct office technology: that was the story, says creative director Walewijn den Boer.",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "구체적인 작업의 독창적인 시각 언어와 AI 툴의 결합 과정을 상세히 다룬다.",
+  "v": 2,
+  "url": "https://www.creativeboom.com/news/whats-the-answer-to-a-sea-of-lookalike-ai-brands-a-fossilised-typewriter-a-flight-delay-and-some-hand-drawn-cave-art-of-course/",
+  "original_title": "What’s the answer to a sea of lookalike AI brands? A fossilised typewriter, a flight delay and hand-drawn cave art",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 9000,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-24 15:21",
+  "research": {
+   "entities": [
+    "Verve",
+    "Zero",
+    "Amos Rex",
+    "Johan Urrutia",
+    "Kevin Lebon"
+   ],
+   "questions": [
+    "Verve가 AI 스타트업 Zero의 브랜드 아이덴티티를 구축할 때 '멸종(extinction)'이라는 개념을 어떻게 시각적으로 구현했는가?",
+    "기존 CRM 시장의 지배적인 브랜드들과 차별화하기 위해 Verve가 선택한 디자인 전략과 그 배경은 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Strategic branding agency for companies built to lead",
+     "url": "https://verveagency.com"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Zero – Make CRM history",
+     "url": "https://zero.inc"
+    },
+    {
+     "n": 3,
+     "type": "공식·1차",
+     "title": "Generation 2026 - Amos Rex",
+     "url": "https://amosrex.fi/en/exhibitions/generation-2026/"
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "The Verve",
+     "url": "https://en.wikipedia.org/wiki/The%20Verve"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3
+   ],
+   "chars": 7460
+  },
+  "depth_raw": 4,
+  "depth_v": 2
  }
 }
