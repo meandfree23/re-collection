@@ -4189,5 +4189,62 @@
   "v": 3,
   "model": "gemini-3.1-flash-lite",
   "written_at": "2026-11-24 04:30"
+ },
+ "2026-11-25": {
+  "date": "2026-11-25",
+  "headline": "낡은 데님의 결과 8,192번 분할된 기하학의 무한한 층위",
+  "editorial": "지스 벤드의 퀼트가 낡은 옷을 엮어 시간의 비정형성을 드러내듯, 게르하르트 리히터는 평면 회화를 수천 번 분할하여 공간 전체를 기하학적 흐름으로 치환한다. 이는 단순히 재료를 가공하는 단계를 넘어, 파괴된 산업 유산의 골조 위에 새로운 구조를 얹는 페닉스 미술관의 방식과 궤를 같이한다. 파편화된 기억이나 물리적 무게를 정교한 설계로 정돈하는 과정에서, 우리는 고정된 유물이 아닌 살아있는 감각의 실체를 목격한다.",
+  "threads": [
+   {
+    "name": "파편을 엮은 새로운 외피",
+    "note": "기존의 사물이나 공간의 파편을 수집하고 재조합하여 새로운 물리적, 시각적 질서를 구축하는 방식에 주목한다.",
+    "items": [
+     {
+      "title": "지스 벤드 퀼트, 생존의 기록에서 동시대 예술의 문법으로",
+      "url": "https://www.architecturaldigest.com/story/gees-bend-alabama-quilts-festival"
+     },
+     {
+      "title": "로테르담 항구의 기억을 잇는 매드 아키텍츠의 페닉스 미술관",
+      "url": "https://www.archdaily.com/1030328/fenix-art-museum-mad-architects"
+     },
+     {
+      "title": "게르하르트 리히터의 도하 파빌리온, 수학적 패턴으로 빚은 육각형의 시각적 무한",
+      "url": "https://www.wallpaper.com/architecture/gerhard-richter-doha-pavilion"
+     }
+    ]
+   },
+   {
+    "name": "산업적 무게와 공학적 안무",
+    "note": "거대한 산업 유산이나 공학적 공정을 정밀하게 조율하여 예술적 장관으로 치환하는 과정을 살핀다.",
+    "items": [
+     {
+      "title": "메이시스 퍼레이드 스튜디오: 100년의 장관을 빚어내는 72,000평방피트의 공학",
+      "url": "https://www.architecturaldigest.com/story/the-macys-thanksgiving-day-parade"
+     },
+     {
+      "title": "시트로엥 공장의 유산을 품은 브뤼셀 카날 미술관",
+      "url": "https://www.wallpaper.com/architecture/public-buildings/kanal-brussels-opens-belgium"
+     }
+    ]
+   },
+   {
+    "name": "신체에 새긴 사회적 서사",
+    "note": "네일 아트나 의복 등 신체와 맞닿은 매체를 통해 개인과 공동체의 정체성을 독립적인 언어로 전환한다.",
+    "items": [
+     {
+      "title": "치 파리의 네일 아트: 흑인 문화의 서사를 손끝에 새기는 방식",
+      "url": "https://www.dazeddigital.com/beauty/article/71390/1/meet-chii-the-manicurist-celebrating-black-culture-through-nail-art?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=meet-chii-the-manicurist-celebrating-black-culture-through-nail-art"
+     },
+     {
+      "title": "도살장의 기억에서 길어 올린 감정적 갑옷, 브리아 아르테미스 SS27",
+      "url": "https://www.dazeddigital.com/fashion/article/71408/1/briah-artemis-taubman-ss27-new-york-designer-on-the-rise?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=new-york-designer-briah-artemis-is-spilling-her-guts"
+     }
+    ]
+   }
+  ],
+  "based_on": 24,
+  "v": 3,
+  "model": "gemini-3.1-flash-lite-preview",
+  "written_at": "2026-11-25 04:34"
  }
 }
