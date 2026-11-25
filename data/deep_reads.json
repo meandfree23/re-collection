@@ -392328,5 +392328,81 @@
   },
   "depth_raw": 4,
   "depth_v": 2
+ },
+ "wallpaper.com/design-interiors/completedworks-london-flagship-store": {
+  "title_ko": "컴플리트웍스의 런던 플래그십, 흐릿한 풍경을 조형적 언어로 번역하다",
+  "summary_ko": "주얼리 브랜드 컴플리트웍스(Completedworks)가 런던 칠턴 스트리트에 첫 번째 플래그십 스토어를 열었다. 디자이너 안나 주스버리(Anna Jewsbury)는 이동 중인 차창 밖 풍경의 '흐릿한 미학'을 공간의 핵심 개념으로 삼아, 비정형의 가구와 재활용 소재를 배치했다. 주얼리 제작 과정을 엿볼 수 있는 벽면 틈새와 전시 테이블을 통해 관람객이 공간을 천천히 탐색하도록 유도한다.",
+  "lens": "고정된 형태의 미학을 거부하고, 이동 중인 관찰자의 시선에서 포착한 흐릿한 잔상을 공간의 비정형적 레이어로 치환한다.",
+  "why_now": "디지털 피로도가 높은 시대에 재활용 소재의 거친 물성과 모호한 형태를 결합해 시각적 모호함을 창조하는 방식이 주목받는다.",
+  "mechanism": "확장 폴리스티렌과 점토를 혼합해 만든 붉은 의자와 산화된 청동 가구로 공간의 강직한 사각형 구조를 해체하고 시각적 긴장감을 형성한다.",
+  "sensory": "매끄러운 검은 목재 바닥과 흰 벽면을 배경으로, 젤리처럼 일렁이는 붉은 가구의 질감과 금속의 차가운 산화 흔적이 극명한 대비를 이룬다.",
+  "transfer": "콘티 연출 시 피사체를 고정하지 않고 미세하게 흔들리는 렌즈 효과를 활용해, 공간의 경계가 모호해지는 잔상을 프레임에 담아낼 수 있다.",
+  "context": "컴플리트웍스는 2013년 주얼리로 시작해 도자, 유리, 가구로 영역을 확장하며 재활용 소재를 활용한 조형적 실험을 이어왔다. 주스버리는 주얼리 제작 기법을 가구 디자인에 전이하는 방식을 취하며, 일상적 식기를 공간의 깊이를 만드는 조형 요소로 재해석해왔다.",
+  "findings": [
+   {
+    "text": "컴플리트웍스는 런던 칠턴 스트리트에 첫 오프라인 매장을 개점했다.",
+    "s": 1,
+    "quote": "A new home for COMPLETEDWORKS, now open on Chiltern Street, Marylebone. A place to explore, discover and spend time."
+   }
+  ],
+  "keywords": [
+   "안나 주스버리",
+   "공간 미학",
+   "조형적 실험",
+   "비정형 가구",
+   "재활용 소재"
+  ],
+  "evidence": "This blurred aesthetic was one of the starting points for the conception of the project",
+  "kind": "프로젝트",
+  "depth": 5,
+  "grounding": "full",
+  "depth_reason": "디자이너의 창작 원리인 '흐릿한 미학'을 공간의 구조와 재료 선택에 구체적으로 연결해 독창적인 공간 해석을 제시한다.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/design-interiors/completedworks-london-flagship-store",
+  "original_title": "Completedworks’ first flagship store is a space to expect the unexpected",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 6050,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-25 14:43",
+  "research": {
+   "entities": [
+    "Completedworks",
+    "Anna Jewsbury",
+    "Hassan Damluji"
+   ],
+   "questions": [
+    "Completedworks가 주얼리 디자인에서 가구 및 오브제 디자인으로 영역을 확장하며 유지하는 조형적 특징은 무엇인가?",
+    "안나 주스버리(Anna Jewsbury)가 언급한 '흐릿한 미학(blurred aesthetic)'이 매장 인테리어와 제품 디자인에 어떻게 구체적으로 반영되었는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "COMPLETEDWORKS | Jewellery & Homeware | 10% Off First Order",
+     "url": "https://www.awin1.com/awclick.php?awinmid=119171&awinaffid=103504&clickref=wallpaper-us-7850056312482972717&p=https%3A%2F%2Fcompletedworks.com%2F"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Women / Scrunch",
+     "url": "https://www.awin1.com/awclick.php?awinmid=119171&awinaffid=103504&clickref=wallpaper-us-1054031615227420707&p=https%3A%2F%2Fcompletedworks.com%2Fcollections%2Fscrunch"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "식탁을 넘어 벽면까지, 일상을 조형하는 9가지 장식 접시",
+     "url": "https://www.architecturaldigest.com/story/best-decorative-plates"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3
+   ],
+   "chars": 5314
+  },
+  "depth_raw": 5,
+  "depth_v": 2
  }
 }
