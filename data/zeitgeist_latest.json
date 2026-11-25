@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-11-25 17:59 KST",
+  "generated_at": "2026-11-25 20:35 KST",
   "period": "2026.11.18 - 2026.11.25",
-  "total_articles": 563,
+  "total_articles": 577,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 287
+      "count": 301
     },
     {
       "genre": "동시대 미술",
-      "count": 172
+      "count": 173
     },
     {
       "genre": "아방가르드 패션",
-      "count": 66
+      "count": 65
     },
     {
       "genre": "미디어 파사드·3D",
@@ -23,10 +23,22 @@
   "themes": [
     {
       "keyword": "박물관·전시",
-      "count": 61,
+      "count": 62,
       "previous_count": 58,
       "trend": "rising",
       "items": [
+        {
+          "title": "런던 박물관이 11월 28일 스미스필드 제너럴 마켓에 개관합니다",
+          "url": "https://www.archdaily.com/1189192/london-museum-opens-in-smithfields-general-market-on-november-28",
+          "image_url": "https://images.adsttc.com/media/images/6b06/13d1/dd54/ea01/8880/f5e6/large_jpg/the-london-museum-opens-its-new-home-at-the-general-market-in-west-smithfield-on-28-november_19.jpg?1795560548",
+          "source_name": "ArchDaily"
+        },
+        {
+          "title": "1930년대 시트로엥 정비소를 복원한 브뤼셀의 카날-퐁피두 센터 개관",
+          "url": "https://www.designboom.com/architecture/kanal-centre-pompidou-brussels-restored-1930s-citroen-garage-em2n-noaarchitecten-sergison-bates/",
+          "image_url": "https://www.designboom.com/wp-content/uploads/2026/11/kanal-centre-pompidou-brussels-restored-1930s-citroen-garage-em2n-noaarchitecten-sergison-bates-designboom-07.jpg",
+          "source_name": "Designboom Architecture"
+        },
         {
           "title": "도쿄에서 열리는 '빌딩 블루(Building Blue)' 전시회를 위해 강렬한 파란색 안료를 사용한 소형 농업 건물 모형을 조립하는 Assemble",
           "url": "https://www.dezeen.com/2026/11/25/assemble-building-blue-skac/",
@@ -38,24 +50,12 @@
           "url": "https://www.artforum.com/news/thelma-golden-studio-museum-in-harlems-leader-to-step-down-1234764393/",
           "image_url": "https://www.artforum.com/wp-content/uploads/2026/11/StudioMuseuminHarlem_ThelmaGolden_JulieSkarratt_Website.jpeg?w=650",
           "source_name": "Artforum"
-        },
-        {
-          "title": "SO–IL, 노르웨이 숲속에 반짝이는 유리 비늘로 뒤덮인 박물관을 구상하다",
-          "url": "https://www.designboom.com/architecture/so-il-museum-shimmering-glass-scales-norway-forest-kistefos/",
-          "image_url": "https://www.designboom.com/wp-content/uploads/2026/11/SO-IL-kistefos-museum-norway-designboom-01.jpg",
-          "source_name": "Designboom Architecture"
-        },
-        {
-          "title": "케이트 젠킨스, 몰입형 전시회에서 맛있는 '니트 요리' 선보여",
-          "url": "https://www.thisiscolossal.com/2026/11/kate-jenkins-knitalian-knitted-foods-sculpture-installation/",
-          "image_url": "https://www.thisiscolossal.com/wp-content/uploads/2026/11/jenkins-8.jpg",
-          "source_name": "This Is Colossal"
         }
       ]
     },
     {
       "keyword": "사진",
-      "count": 23,
+      "count": 22,
       "previous_count": 9,
       "trend": "rising",
       "items": [
@@ -72,57 +72,31 @@
           "source_name": "BOOOOOOOM"
         },
         {
-          "title": "Nan Goldin’s Brutal, Beautiful Worlds",
-          "url": "https://www.anothermag.com/art-photography/17653/nan-goldin-you-never-did-anything-wrong-review-exhibition-hayward-gallery",
-          "image_url": "https://images-prod.anothermag.com/566/0-349-566-377/azure/another-prod/480/0/480483.jpg",
-          "source_name": "AnOther Magazine"
-        },
-        {
           "title": "에티엔 페론(Etienne Perrone), 유색 플래시로 한적한 거리를 비춰 영화 스틸컷 같은 야경을 연출하다",
           "url": "https://www.designboom.com/art/etienne-perrone-empty-streets-colored-flash-night-scenes-film-stills-dreams-happen-after-dark/",
           "image_url": "https://www.designboom.com/wp-content/dbsub/470896/2026-11-16/etienne-perrone-photographs-empty-cities-at-night-like-stills-from-lost-films-1-6afb0c8bc9836.jpg",
           "source_name": "Designboom Art"
-        }
-      ]
-    },
-    {
-      "keyword": "해변·리조트 건축",
-      "count": 8,
-      "previous_count": 5,
-      "trend": "rising",
-      "items": [
-        {
-          "title": "그랜드 터미널 도하 / 하셀",
-          "url": "https://www.archdaily.com/1189080/grand-terminal-doha-hassell",
-          "image_url": "https://images.adsttc.com/media/images/6b04/5f25/dd54/ea01/8880/eeac/large_jpg/grand-terminal-doha-hassell_1.jpg?1795448640",
-          "source_name": "ArchDaily"
         },
         {
-          "title": "Alinea Residency가 빅 스카이로 돌아옵니다",
-          "url": "https://coolhunting.com/design/the-alinea-residency-returns-to-big-sky/",
-          "image_url": "https://coolhunting.com/wp-content/uploads/2026/11/big_sky_resort_dining_m_by_tag_photo_SHOT_15_PULLED_BACK_WIDE_072-1-2-hero-768x432.jpg",
-          "source_name": "Cool Hunting"
-        },
-        {
-          "title": "파우더 마운틴의 야외 갤러리에서 예술과 스키 슬로프가 만나는 곳",
-          "url": "https://design-milk.com/powder-mountain-art-museum/",
-          "image_url": "https://design-milk.com/images/2026/11/Rose-Wylie-Pale-Pink-Pineapple_Bomb-2025-at-Powder-Art-Foundation-photo-by-Kim-Raff_4-1500x1000.jpg",
-          "source_name": "Design Milk"
-        },
-        {
-          "title": "바다에서 영감을 받은 끊임없이 변화하는 색상 팔레트의 인테리어가 돋보이는 로드아일랜드 해변의 가족 주택",
-          "url": "https://www.architecturaldigest.com/story/rhode-island-house-design-by-ford-huniford",
-          "image_url": "https://media.architecturaldigest.com/photos/6b0459d581651969691f5282/master/pass/Huniford%20Rhode%20Island_3002.jpg",
-          "source_name": "Architectural Digest"
+          "title": "사진으로 보는 세계 각지의 레이버들: 땀에 흠뻑 젖은 초월적인 모습의 인물 사진",
+          "url": "https://www.dazeddigital.com/music/article/71399/1/portraits-of-ravers-around-the-world-indie-sleaze-forever-sub-club-glasgow?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=in-pictures-sweaty-transcendent-portraits-of-ravers-around-the-world",
+          "image_url": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1460/0/1460013.jpg",
+          "source_name": "Dazed"
         }
       ]
     },
     {
       "keyword": "리노베이션·재생",
-      "count": 17,
+      "count": 18,
       "previous_count": 16,
-      "trend": "steady",
+      "trend": "rising",
       "items": [
+        {
+          "title": "Tuckey Design Studio가 와인 바에서 영감을 얻어 풍부한 색상 팔레트를 적용한 요크셔 주택 리노베이션",
+          "url": "https://www.dezeen.com/2026/11/25/bay-house-tuckey-design-studio/",
+          "image_url": "https://static-2026.dezeen.com/uploads/2026/11/bay-house-tuckey-design-studio-architecture-residential-yorkshire-england-uk_dezeen_2364_sq-1024x1024.jpg",
+          "source_name": "Dezeen"
+        },
         {
           "title": "지우장 페리 문화 단지 리노베이션 / TURTLEHILL DESIGN",
           "url": "https://www.archdaily.com/1026978/jiujiang-ferry-cultural-complex-renovation-turtlehill-architecture-and-design",
@@ -140,12 +114,70 @@
           "url": "https://www.archdaily.com/1189109/sans-raison-renovation-mountain-soil-interior-design",
           "image_url": "https://images.adsttc.com/media/images/6b04/fe9d/2bc2/8501/8901/2b03/large_jpg/sans-raison-renovation-mountain-soil-interior-design_19.jpg?1795489443",
           "source_name": "ArchDaily"
+        }
+      ]
+    },
+    {
+      "keyword": "해변·리조트 건축",
+      "count": 9,
+      "previous_count": 5,
+      "trend": "rising",
+      "items": [
+        {
+          "title": "타윌라 아일랜드 리조트 / JT+Partners",
+          "url": "https://www.archdaily.com/1189086/tawila-island-resort-jt-plus-partners",
+          "image_url": "https://images.adsttc.com/media/images/6b04/8445/2bc2/8501/8901/297f/large_jpg/tawila-island-resort-jt-plus-partners_2.jpg?1795458135",
+          "source_name": "ArchDaily"
         },
         {
-          "title": "Estudio A-G, 색상을 사용하여 멕시코시티의 1960년대 서재가 있는 주택을 현대적으로 탈바꿈시키다",
-          "url": "https://www.dezeen.com/2026/11/23/estudio-a-g-casa-magnolia-mexico-city/",
-          "image_url": "https://static-2026.dezeen.com/uploads/2026/11/casa-magnolia-jaime-ortiz-monasterio-andres-gutierrez_dezeen_2364_sq-1-1024x1024.jpg",
-          "source_name": "Dezeen"
+          "title": "그랜드 터미널 도하 / 하셀",
+          "url": "https://www.archdaily.com/1189080/grand-terminal-doha-hassell",
+          "image_url": "https://images.adsttc.com/media/images/6b04/5f25/dd54/ea01/8880/eeac/large_jpg/grand-terminal-doha-hassell_1.jpg?1795448640",
+          "source_name": "ArchDaily"
+        },
+        {
+          "title": "Alinea Residency가 빅 스카이로 돌아옵니다",
+          "url": "https://coolhunting.com/design/the-alinea-residency-returns-to-big-sky/",
+          "image_url": "https://coolhunting.com/wp-content/uploads/2026/11/big_sky_resort_dining_m_by_tag_photo_SHOT_15_PULLED_BACK_WIDE_072-1-2-hero-768x432.jpg",
+          "source_name": "Cool Hunting"
+        },
+        {
+          "title": "파우더 마운틴의 야외 갤러리에서 예술과 스키 슬로프가 만나는 곳",
+          "url": "https://design-milk.com/powder-mountain-art-museum/",
+          "image_url": "https://design-milk.com/images/2026/11/Rose-Wylie-Pale-Pink-Pineapple_Bomb-2025-at-Powder-Art-Foundation-photo-by-Kim-Raff_4-1500x1000.jpg",
+          "source_name": "Design Milk"
+        }
+      ]
+    },
+    {
+      "keyword": "아날로그 질감·16mm 필름",
+      "count": 4,
+      "previous_count": 0,
+      "trend": "new",
+      "items": [
+        {
+          "title": "파리의 10대 디자이너",
+          "url": "https://www.nowness.com/films/top-ten-designers-in-paris-1980/",
+          "image_url": "https://www.nowness.com/media/qv3jgwqe/top-ten-designers-in-paris-still-2.png",
+          "source_name": "NOWNESS"
+        },
+        {
+          "title": "잔물결",
+          "url": "https://www.nowness.com/films/ripple-bart-hess-antonioli/",
+          "image_url": "https://www.nowness.com/media/1mfl0wi3/ripple-bart-hess-antonioli.jpg",
+          "source_name": "NOWNESS"
+        },
+        {
+          "title": "Muscle Memory",
+          "url": "https://www.nowness.com/films/muscle-memory-kharkiv-mikayla-jean-miller/",
+          "image_url": "https://www.nowness.com/media/z01l0qas/muscle-memory-kharkiv-mikayla-jean-miller.jpg",
+          "source_name": "NOWNESS"
+        },
+        {
+          "title": "'지금'은 얼마나 긴 시간인가요?",
+          "url": "https://www.nowness.com/films/how-long-is-now-adriana-ingeli/",
+          "image_url": "https://www.nowness.com/media/peijniho/how-long-is-now-adriana-ingeli.jpg",
+          "source_name": "NOWNESS"
         }
       ]
     },
@@ -180,44 +212,11 @@
           "source_name": "Yellowtrace"
         }
       ]
-    },
-    {
-      "keyword": "가구 디자인",
-      "count": 15,
-      "previous_count": 14,
-      "trend": "steady",
-      "items": [
-        {
-          "title": "Davis Furniture와 jehs+laub가 조각 같은 Laken Nesting Tables를 선보입니다",
-          "url": "https://design-milk.com/davis-furniture-and-jehslaub-introduce-the-sculptural-laken-nesting-tables/",
-          "image_url": "https://design-milk.com/images/2026/11/Laken_DavisFurniture_10-1500x1049.jpg",
-          "source_name": "Design Milk"
-        },
-        {
-          "title": "우리 모두가 지나치는 핸드레일에서 영감을 받은 모듈식 가구 시스템.",
-          "url": "https://www.yellowtrace.com.au/nomi-junction-furniture-collection-australian-design/",
-          "image_url": "https://assets.yellowtrace.com.au/wp-content/uploads/2026/11/17153009/Yellowtrace-JUNCTION-HIGH-ROUND-TABLE-DETAIL-SHOOT-3-06_opt90.jpg",
-          "source_name": "Yellowtrace"
-        },
-        {
-          "title": "Fireclay Tile, 전통 직물을 수작업으로 그린 타일로 변신시키다",
-          "url": "https://design-milk.com/fireclay-tile-idyllwild/",
-          "image_url": "https://design-milk.com/images/2026/11/Idyllwild-Hero-Spring-Original-1500x1000.jpg",
-          "source_name": "Design Milk"
-        },
-        {
-          "title": "HTA Design, '영국 최대의 공공 임대주택 개발' 공개",
-          "url": "https://www.dezeen.com/2026/11/23/kidbrooke-park-road-hta-design/",
-          "image_url": "https://static-2026.dezeen.com/uploads/2026/11/kidbrooke-park-road-hta-design-council-housing_dezeen_2364_sq-1024x1024.jpg",
-          "source_name": "Dezeen"
-        }
-      ]
     }
   ],
   "notable_names": [
     "Dezeen Awards",
     "Gerhard Richter",
-    "Nan Goldin",
     "Venice Architecture Biennale",
     "London Museum",
     "Edu Request",
@@ -226,7 +225,8 @@
     "Paris Photo",
     "Limber Up",
     "Approved Interior Photographers",
-    "Holiday Gift Guide"
+    "Holiday Gift Guide",
+    "Still Here"
   ],
   "has_comparison": true
 }
