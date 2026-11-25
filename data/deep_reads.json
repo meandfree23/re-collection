@@ -397089,5 +397089,612 @@
   },
   "depth_raw": 3,
   "depth_v": 2
+ },
+ "archdaily.com/1153300/folklores-cocina-de-mexico-araujo-galvan-arquitectos": {
+  "title_ko": "토착 요리의 유산을 구축하다: 멕시코의 폴클로레스 레스토랑",
+  "summary_ko": "아라우호 갈반 아르키텍토스가 멕시코 틀라호물코데수니가에 설계한 550제곱미터 규모의 레스토랑 프로젝트다. 스페인 식민지 이전의 요리 유산을 공간에 번역하여 정통의 풍미와 건축적 미감을 조화시켰다.",
+  "lens": "토착 요리의 역사적 기억을 거친 물성과 구축적 비례로 공간에 새긴다.",
+  "why_now": "디지털 재현이 범람하는 시대에 지역 고유의 식문화와 토속적 재료의 물성을 건축에 결합하는 태도가 주목받는다.",
+  "mechanism": "시멘트와 석재 등 현지 제조사의 골조와 자재를 활용해 공간 전체에 원초적인 무게감을 부여한다.",
+  "sensory": "거친 표면을 지닌 콘크리트와 석재의 질감이 빛과 만나 공간의 깊고 침전된 분위기를 만든다.",
+  "transfer": "공간 디자인 시 거친 회색 톤의 콘크리트 벽면과 질감이 살아있는 석재를 활용해 원초적이고 무거운 공기를 연출한다.",
+  "context": "아라우호 갈반 아르키텍토스가 2023년에 완공한 프로젝트다.",
+  "findings": [],
+  "keywords": [
+   "공간건축",
+   "멕시코건축",
+   "토속건축",
+   "레스토랑설계"
+  ],
+  "evidence": "Completed in 2023 in Tlajomulco de Zuniga, Jalisco , Mexico.",
+  "kind": "프로젝트",
+  "depth": 2,
+  "grounding": "thin",
+  "depth_reason": "원문의 정보가 짧고 인테리어와 재료의 구체적 상세가 부족하여 기본적인 프로젝트 소개 수준에 머문다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1153300/folklores-cocina-de-mexico-araujo-galvan-arquitectos",
+  "original_title": "Folklores Cocina de México / Araujo Galván Arquitectos",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 599,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-26 06:58",
+  "research": {
+   "entities": [
+    "Araujo Galván Arquitectos"
+   ],
+   "questions": [
+    "Araujo Galván Arquitectos는 어떤 건축 철학을 가지고 프로젝트를 진행하나요?",
+    "Folklores Cocina de México 레스토랑의 인테리어와 건축적 특징은 무엇인가요?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 2,
+  "depth_v": 2
+ },
+ "design-milk.com/burlwood-modern-interiors": {
+  "title_ko": "불규칙한 나이테의 결단, 현대 공간에 돌아온 벌우드",
+  "summary_ko": "나무의 스트레스와 상처가 만든 소용돌이 무늬의 벌우드가 가구와 인테리어 전반에 다시 자리 잡고 있다. 티파니 브룩스, 에비 페니모어 등 디자이너들은 월넛과 메이플, 마파 벌을 활용해 정형화된 공간에 개성과 깊이를 더한다.",
+  "lens": "나무의 상처가 만든 불규칙한 결을 정교한 대칭으로 다루어 공간에 무게감을 더한다.",
+  "why_now": "동일한 영감 보드에서 파생된 듯한 매끄러운 인테리어에 피로감을 느낀 디자이너들이 손으로 만진 듯한 물성과 서사를 찾고 있다.",
+  "mechanism": "북매칭 기법으로 대칭 패턴을 만들거나, 황동·아크릴·무광 페인트 같은 대조적인 마감재와 결합해 시각적 밀도를 조절한다.",
+  "sensory": "가까이서 보면 복잡하게 소용돌이치는 매듭과 결이 보이고, 멀리서는 깊은 음영의 하나의 거대한 면으로 읽힌다.",
+  "transfer": "공간의 초점을 만드는 콘솔이나 수납장 전면에 벌우드를 배치하고, 주변 벽면은 무광 플라스터나 딥 블루 컬러로 눌러준다.",
+  "context": "벌우드는 1920년대와 30년대 아르데코 시대와 1970년대 가구 디자인을 거치며 인기를 끌었다. 건축가 에디 매스트리(Eddie Maestri) 등은 이 유산을 현대적인 곡선 형태와 결합해 재해석한다.",
+  "findings": [],
+  "keywords": [
+   "벌우드",
+   "인테리어",
+   "가구디자인",
+   "물성",
+   "마감재"
+  ],
+  "evidence": "Few materials make a visual statement quite like burlwood.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "소재의 역사와 활용 방식을 다루나 구체적인 단일 프로젝트보다 트렌드 소개에 가깝다.",
+  "v": 2,
+  "url": "https://design-milk.com/burlwood-modern-interiors/",
+  "original_title": "Burlwood Is Making a Comeback With a Modern Twist",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 9000,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-26 06:58",
+  "research": {
+   "entities": [
+    "Tiffany Brooks",
+    "Abbe Fenimore",
+    "Eddie Maestri",
+    "Art Deco"
+   ],
+   "questions": [
+    "벌우드(Burlwood)의 독특한 무늬가 형성되는 생물학적 원리는 무엇이며, 왜 가구 제작에서 희소성을 갖게 되었나요?",
+    "1920년대 아트 데코 시대와 1970년대 가구 디자인에서 벌우드가 어떻게 활용되었으며, 현대 디자인에서는 어떤 방식으로 재해석되고 있나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Luxury Interior Design Firm | Tiffany Brooks Interiors | Chicago, IL",
+     "url": "https://www.tiffanybrooksinteriors.com/"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Studio Ten 25 - studio | ten | 25",
+     "url": "https://studioten25.com/"
+    },
+    {
+     "n": 3,
+     "type": "공식·1차",
+     "title": "Maestri Studio - Dallas TX  Architecture and Interiors that express individuality, persona",
+     "url": "https://www.maestristudio.com/"
+    }
+   ],
+   "used": [],
+   "chars": 6077
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "wallpaper.com/design-interiors/minimalist-gift-guide-2026": {
+  "title_ko": "덜어냄의 미학, 미니멀리스트를 위한 12가지 정제된 오브제",
+  "summary_ko": "과잉된 연말연시의 풍경 속에서 미니멀리스트의 감각을 충족할 정제된 사물들을 제안한다. 컷러 앤 그로스의 투명한 안경부터 국제우주정거장에서 배양된 성분을 담은 립밤, 슈퍼스튜디오의 급진적 램프까지 기능과 형태의 본질을 꿰뚫는 12가지 선택지를 조명한다.",
+  "lens": "단순함은 빈 공간이 아니라, 불필요한 레이어를 깎아내고 남은 밀도 높은 물성으로 증명된다.",
+  "why_now": "디지털 과부하 시대, 사물의 기능과 형태가 일치하는 정직한 물성에 대한 갈망이 다시금 디자인의 핵심 가치로 부상하고 있다.",
+  "mechanism": "기존의 엄격한 기능주의를 해체하고, 사용자의 개입에 따라 형태가 변하는 가변적 구조나 물리적 정제 과정을 통해 사물의 본질을 드러낸다.",
+  "sensory": "투명한 아세테이트의 질감, 무중력 환경에서 배양된 생체 성분의 매끄러움, 새틴 마감된 금속의 차갑고 정교한 촉감이 돋보인다.",
+  "transfer": "영상 콘티 작성 시, 무채색 배경 속에 단일 오브제를 배치하여 빛의 반사나 그림자가 만드는 미세한 명암 대비를 강조하는 샷을 설계해 보라.",
+  "context": "슈퍼스튜디오는 1960년대 이탈리아 급진적 디자인 운동을 이끌며 기능주의의 경직성을 비판했다. 데이비드 멜러는 정교한 금속 공예로 식탁 위 기능적 조형미를 구축해 왔으며, 스톤 아일랜드는 군용 의복의 기능성을 현대 스포츠웨어로 치환하는 실험을 지속한다.",
+  "findings": [
+   {
+    "text": "컷러 앤 그로스는 1969년 런던에서 창립된 영국 럭셔리 아이웨어 브랜드로, 모든 프레임은 이탈리아 아틀리에에서 수작업으로 제작된다.",
+    "s": 3,
+    "quote": "Cutler and Gross is a British luxury eyewear brand, founded in London by opticians Graham Cutler and Tony Gross in 1969. The frames are handmade in the brand's atelier in Italy."
+   },
+   {
+    "text": "이그지스트의 립밤은 국제우주정거장에서 배양된 생체 복합체를 사용하여 일반적인 지상 배양 성분보다 300배 높은 효율을 목표로 한다.",
+    "s": 2,
+    "quote": "Our patent-pending Space Hydration Complex was cultivated aboard the International Space Station — where biology adapts and performs under extreme conditions."
+   },
+   {
+    "text": "애플 홈뷰는 7인치 리퀴드 레티나 디스플레이를 탑재하며, 최대 6명의 사용자를 인식해 개인화된 경험을 제공한다.",
+    "s": 1,
+    "quote": "The 7‑inch Liquid Retina display includes True Tone for comfortable viewing in any light. Recognises up to six people and delivers a personalised experience for each one."
+   }
+  ],
+  "keywords": [
+   "미니멀리즘",
+   "급진적디자인",
+   "물성",
+   "기능주의",
+   "정제된형태"
+  ],
+  "evidence": "embrace the spirit of less but better",
+  "kind": "리스트·라운드업",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "다양한 분야의 오브제를 미니멀리즘이라는 일관된 철학으로 묶어내며, 각 브랜드의 기술적 배경과 디자인 맥락을 충실히 연결했다.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/design-interiors/minimalist-gift-guide-2026",
+  "original_title": "Simple but superior gifts for the minimalist in your life",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 5885,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-26 06:58",
+  "research": {
+   "entities": [
+    "Cutler and Gross",
+    "Stone Island",
+    "Superstudio",
+    "David Mellor",
+    "Tasaki"
+   ],
+   "questions": [
+    "미니멀리즘 디자인 철학에서 'less but better'가 가지는 미학적 의미는 무엇인가요?",
+    "이탈리아의 'Radical Design' 운동은 현대 디자인의 기능주의와 어떤 차별점을 가지고 있나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Apple HomeView",
+     "url": "https://www.apple.com/uk/apple-homeview/"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "VESSEL Intensive Lip Treatment | Space Hydration Boost",
+     "url": "https://wecanexist.com/products/vessel"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Cutler and Gross",
+     "url": "https://en.wikipedia.org/wiki/Cutler%20and%20Gross"
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "Stone Island",
+     "url": "https://en.wikipedia.org/wiki/Stone%20Island"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "에밀리아로마냐의 기하학적 휴양지, 지역의 역사와 급진적 건축의 조우",
+     "url": "https://www.wallpaper.com/architecture/residential/italian-retreat-calvi-brambilla"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "슬론 스퀘어에 상륙한 파인딩 브라세리, 브라세리 올리비아",
+     "url": "https://www.wallpaper.com/travel/restaurants/brasserie-olivia-london-review"
+    },
+    {
+     "n": 7,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "농촌의 독립적 정신을 기록하다: 샐리 카이트의 '코인 포 스케일'",
+     "url": "https://www.dazeddigital.com/fashion/article/71041/1/designer-sally-kite-is-making-a-case-for-west-country-fashion?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=designer-sally-kite-is-making-a-case-for-west-country-fashion"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "chars": 7240
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "dezeen.com/2026/11/25/adobes-creative-agent-now-in-creative-cloud-tools-and-firefly": {
+  "title_ko": "어도비 크리에이티브 에이전트, 도구 간 경계를 지우는 자율 워크플로의 도입",
+  "summary_ko": "어도비(Adobe)가 마이애미 비치에서 열린 어도비 맥스(Adobe MAX) 컨퍼런스에서 크리에이티브 클라우드(Creative Cloud) 전반에 걸친 크리에이티브 에이전트(Creative Agent)를 공개했다. 이는 사용자의 자연어 명령에 따라 프리미어, 일러스트레이터 등 각기 다른 도구의 복잡한 단계를 자율적으로 수행하며, 외부 AI 에이전트와도 연동되는 지능형 워크플로를 구축한다.",
+  "lens": "단순한 이미지 생성을 넘어, 파편화된 소프트웨어 환경을 하나의 유기적인 지능형 작업실로 통합하여 창작자의 결정권을 자동화의 중심에 배치한다.",
+  "why_now": "창작자가 다뤄야 할 포맷과 매체는 늘어나는 반면, 프로젝트 완수 시간은 단축되는 산업적 압박 속에서 도구 간의 물리적 이동을 최소화하려는 시도다.",
+  "mechanism": "사용자가 에이전트의 계획을 검토하고 승인하는 '플랜 모드'를 통해 제어권을 유지하며, 로컬 MCP(Model Context Protocol) 연동으로 외부 도구와 프로젝트 파일을 직접 연결한다.",
+  "sensory": "화면 전환 없이 레이어와 벡터가 실시간으로 동기화되는 매끄러운 작업 환경과, 반복적인 수작업이 제거된 뒤 남은 창작자의 직관적인 선택만이 강조되는 고요한 인터페이스를 지향한다.",
+  "transfer": "영상 콘티 작업 시, 스토리보드에서 영상 컷으로 넘어가는 반복적인 배치와 색 보정 단계를 에이전트에 위임하고, 감독은 최종 톤앤매너와 레이아웃 결정에만 집중하는 방식으로 워크플로를 재설계할 수 있다.",
+  "context": "어도비는 과거 포스트스크립트 개발부터 현재의 크리에이티브 클라우드 구독 모델에 이르기까지 디지털 콘텐츠 제작의 표준을 구축해 왔다. RE:COLLECTION은 과거 베아 코르쉬의 작업에서 어도비 툴이 개인의 심리적 파편을 재구성하는 도구로 쓰인 사례를 다룬 바 있다.",
+  "findings": [
+   {
+    "text": "어도비는 2026년 11월 10일 마이애미 비치에서 열린 어도비 맥스 컨퍼런스에서 크리에이티브 에이전트의 확장과 파이어플라이의 새로운 에이전트 기능을 발표했다.",
+    "s": 1,
+    "quote": "MIAMI BEACH, Fla. — November 10, 2026 — Today at Adobe MAX — the world's largest creativity conference — Adobe (Nasdaq: ADBE) — the global technology leader that unleashes creativity, productivity and customer experience"
+   }
+  ],
+  "keywords": [
+   "어도비",
+   "워크플로",
+   "AI에이전트",
+   "크리에이티브클라우드"
+  ],
+  "evidence": "The agent handles multi-step tasks behind the scenes, letting professionals delegate work and increase their creative velocity while remaining “in the director’s chair”.",
+  "kind": "뉴스·이슈",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "어도비의 기술적 변화가 창작자의 실질적 작업 방식에 미치는 영향을 구체적으로 분석했으나, 실제 사용자 경험의 검증은 베타 단계에 머물러 있다.",
+  "v": 2,
+  "url": "https://www.dezeen.com/2026/11/25/adobes-creative-agent-now-in-creative-cloud-tools-and-firefly/",
+  "original_title": "Adobe's Creative Agent transforms Creative Cloud tools and Firefly workflows",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 6921,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-26 06:58",
+  "research": {
+   "entities": [
+    "Adobe",
+    "Adobe Creative Cloud",
+    "Adobe Firefly",
+    "Topaz Labs",
+    "Frame.io"
+   ],
+   "questions": [
+    "Adobe의 Creative Agent가 기존의 단순 AI 도구와 차별화되는 '에이전트 워크플로우(agentic workflows)'의 핵심 개념은 무엇인가?",
+    "Adobe MAX에서 발표된 이번 업데이트가 전문 크리에이터들의 작업 방식과 생산성에 어떤 실질적인 변화를 가져올 것으로 예상되는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Adobe Firefly Expands as the AI Creative Studio, Bringing Adobe’s Trusted Creative Tools t",
+     "url": "https://news.adobe.com/news/2026/11/adobe-firefly-expands"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Elevate your creative workflow to an art form.",
+     "url": "https://frame.io/"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Adobe Inc.",
+     "url": "https://en.wikipedia.org/wiki/Adobe%20Inc."
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "Adobe Creative Cloud",
+     "url": "https://en.wikipedia.org/wiki/Adobe%20Creative%20Cloud"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "베아 코르쉬의 실험 만화 'Intrusive Thots': 심리적 고통을 기록하는 디자인의 방식",
+     "url": "https://www.itsnicethat.com/articles/bea-korsch-intrusive-thots-art-project-240926"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "흙과 짚으로 빚어낸 폭발의 잔상, 리스본 폐교의 설치 작업",
+     "url": "https://www.designboom.com/art/bomb-cloud-sculpture-soil-straw-water-abandoned-lisbon-school-oskouei/"
+    },
+    {
+     "n": 7,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "사막의 혹독함을 설계로 치환하다: Desert Dreaming이 기록한 거주 방식",
+     "url": "https://www.wallpaper.com/architecture/residential/desert-dreaming-book"
+    }
+   ],
+   "used": [
+    1,
+    3,
+    4,
+    5
+   ],
+   "chars": 8805
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "architecturaldigest.com/story/best-hotel-sheet-set": {
+  "title_ko": "호텔이 선택한 침구의 물성과 직조 구조",
+  "summary_ko": "아키텍처럴 다이제스트는 세계적 호텔과 리조트가 사용하는 5가지 프리미엄 침구 세트를 선정했다. 볼 앤 브랜치, 마통, 프레테 등은 긴 면 섬유와 퍼케일 및 새틴 직조 방식을 활용해 바스락거리는 촉감과 매끄러운 광택을 구현한다.",
+  "lens": "침구는 몸을 덮는 소모품이 아니라, 침실의 시각적 밀도와 빛의 반사를 결정하는 거대한 패브릭 장치다.",
+  "why_now": "디지털 피로가 가중되는 주거 공간에서 숙면을 위한 물리적 물성과 원초적 질감의 중요성이 커지고 있다.",
+  "mechanism": "퍼케일 직조는 실을 하나씩 교차해 바스락거리는 청량감을 내고, 새틴 직조는 표면에 실을 띄워 진주 같은 광택과 부드러움을 만든다.",
+  "sensory": "100% 장섬유 면이 주는 서늘한 촉감과 세탁을 거듭할수록 몸에 감기는 밀도 높은 무게감이 공간의 감각을 지배한다.",
+  "transfer": "침대 씬을 연출할 때 순백색의 무광 퍼케일 시트를 사용하여 인위적인 조명 반사를 줄이고 차분한 공간감을 만든다.",
+  "context": "1860년 프랑스에서 설립된 프레테(Frette)는 전 세계 하이엔드 호텔에 텍스타일을 공급해 왔으며, 볼 앤 브랜치는 공정 무역 인증을 받은 오가닉 코튼으로 지속 가능한 호텔 침구 시장을 확장하고 있다.",
+  "findings": [
+   {
+    "text": "프레테는 1860년 프랑스 그르노블에서 설립되어 5년 뒤 이탈리아 콩코레초로 이전했다.",
+    "s": 2,
+    "quote": "Established in Grenoble, France, in 1860, it was relocated to Concorezzo, Italy, five years later."
+   },
+   {
+    "text": "볼 앤 브랜치는 미국 뉴저지주 서밋에 본사를 둔 공정 무역 인증을 받은 최초의 럭셔리 침구 제조사다.",
+    "s": 3,
+    "quote": "Headquartered in Summit, New Jersey, the company is the first luxury bedding manufacturer to be certified by Fair Trade USA."
+   }
+  ],
+  "keywords": [
+   "호텔 침구",
+   "퍼케일",
+   "새틴",
+   "장섬유 면"
+  ],
+  "evidence": "A hotel bed dressed in a percale weave boasts a crisp look and feel, almost as if it were made from your favorite pressed button-down shirt.",
+  "kind": "제품·오브제",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "유명 호텔과 브랜드의 침구 직조 방식을 비교 분석했으나 단순 제품 리스트의 범위를 크게 벗어나지 않는다.",
+  "v": 2,
+  "url": "https://www.architecturaldigest.com/story/best-hotel-sheet-set",
+  "original_title": "5 Best Hotel Sheets for a Boutique Bedscape (2026)",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 9000,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-26 06:58",
+  "research": {
+   "entities": [
+    "Frette",
+    "Boll & Branch",
+    "Matouk",
+    "Kassatex",
+    "Ritz-Carlton"
+   ],
+   "questions": [
+    "침구 소재인 퍼케일(Percale)과 새틴(Sateen) 직조 방식의 근본적인 차이점과 각각의 장단점은 무엇인가요?",
+    "호텔 침구의 품질을 결정짓는 요소인 '장섬유 면(long-staple cotton)'과 '수(thread count)'의 개념은 무엇인가요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "FretteNA",
+     "url": "https://cna.st/affiliate-link/nntVzjQ3JMLowC7AN1vsK3H7eoqqaauiWtryJ9d7jRJkdjrptZ3yHy8Ef27wQgGvkFnkMviLFmmaQmdSjsufzkBDChfFrHzLsxFhwAi7Lofh9rWigxJ83Zej5kye8KvX3AVH44HR8iC6UGH4zscH78j5rwe7k7bVk4uc6YrZoLMcKksWLQwSWHfiFFD9r8JrJ4GHHfdVekf2CQmGR4BhYqqjPHwCvDmGHR8ECQF8LCDLsGpHbfqSA7ee4Xr5dobdECC7So6YyiMpoiVp4J6KYRhQrk92XvSJ9XezwKzn?xid=fr1795546212693bhj"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Frette",
+     "url": "https://en.wikipedia.org/wiki/Frette"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Boll & Branch",
+     "url": "https://en.wikipedia.org/wiki/Boll%20%26%20Branch"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "욕실의 시각적 밀도를 조절하는 텍스타일과 소재의 감각",
+     "url": "https://www.architecturaldigest.com/story/best-shower-curtains"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "5성급 호텔의 감각을 집으로, 숙면을 완성하는 베개 큐레이션",
+     "url": "https://www.architecturaldigest.com/story/best-hotel-pillow"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "침실의 물리적 층위를 결정하는 텍스타일: 면 시트의 직조와 물성",
+     "url": "https://www.architecturaldigest.com/story/best-cotton-sheets-tested"
+    }
+   ],
+   "used": [
+    2,
+    3,
+    5,
+    6
+   ],
+   "chars": 2818
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "wallpaper.com/design-interiors/design-events/miami-design-district-commission-2026-objects-of-common-interest": {
+  "title_ko": "오브젝트 오브 커먼 이벤트의 7개 조각, 마이애미의 지형과 감각을 재조직하다",
+  "summary_ko": "아테네와 뉴욕을 기반으로 활동하는 디자인 스튜디오 오브젝트 오브 커먼 이벤트(Objects of Common Interest)가 마이애미 디자인 디스트릭트의 연례 커미션 프로젝트를 맡았다. 이들은 12월 1일부터 7개 파트로 구성된 설치 미술 '아웃 오브 디스 월드 – 조건의 장'을 선보이며, 마블과 레진 등 다양한 물성을 활용해 보행자의 직관적인 동선을 유도하고 환경과 상호작용하는 조각적 시퀀스를 구축한다.",
+  "lens": "고정된 공공 조각의 관습을 깨고, 레진과 대리석이라는 상반된 물성을 배치해 보행자의 신체와 반응하는 유동적인 공간 조건을 설계한다.",
+  "why_now": "상업적 공간이 단순한 쇼핑몰을 넘어 지역민의 일상적 거점으로 자리 잡는 흐름 속에서, 예술적 개입을 통해 공간의 지리적·심리적 위계를 재정의한다.",
+  "mechanism": "16피트 높이의 레진 구체에서 증기를 방출하거나, 대리석 피라미드에 오디오를 결합해 시각과 청각을 동시에 자극하며 보행자의 이동 속도와 시선을 강제로 제어한다.",
+  "sensory": "대리석의 차갑고 무거운 무게감과 레진의 반투명한 질감이 대비되며, 증기가 흩어지는 공기 중의 습도와 낯선 오디오 사운드가 겹쳐져 공간의 밀도를 높인다.",
+  "transfer": "공간의 중심축을 의도적으로 비틀기 위해 대형 오브제를 수직으로 배치하고, 특정 지점에서만 소리가 들리게 설계하여 관람객의 단독 경험을 유도하는 동선 장치로 활용한다.",
+  "context": "오브젝트 오브 커먼 이벤트는 그리스 피레우스의 레진 공장에서 우연성을 제어하는 실험을 지속해왔으며, 이번 프로젝트는 그간의 물성 탐구를 공공 영역으로 확장한 결과다. 이들은 프리드먼 벤다(Friedman Benda) 갤러리와 협업하여 모듈형 조명 시스템을 선보이는 등 디자인과 예술의 경계를 넘나드는 작업을 이어가고 있다.",
+  "findings": [
+   {
+    "text": "오브젝트 오브 커먼 이벤트는 그리스 피레우스에 800제곱미터 규모의 레진 공장을 운영하며 레진의 물성과 우연성을 실험한다.",
+    "s": 5,
+    "quote": "오브젝트 오브 커먼 이벤츠(Objects of Common Interest)의 엘레니 페탈로티와 레오니다스 트람푸키스는 그리스 피레우스에 800제곱미터 규모의 레진 공장을 열었다."
+   }
+  ],
+  "keywords": [
+   "오브젝트오브커먼이벤트",
+   "마이애미디자인디스트릭트",
+   "공공미술",
+   "물성실험",
+   "동선설계"
+  ],
+  "evidence": "‘We didn’t just want to make a series of pristine artworks that get glorified,’ says Petaloti",
+  "kind": "프로젝트",
+  "depth": 5,
+  "grounding": "full",
+  "depth_reason": "특정 지역의 지형적 맥락을 고려한 조각적 시퀀스 설계와 물성 활용의 구체성이 뛰어나며, 콘티에 즉시 적용 가능한 공간 연출 장치를 명확히 제시한다.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/design-interiors/design-events/miami-design-district-commission-2026-objects-of-common-interest",
+  "original_title": "An exclusive first look at the 2026 Miami Design District Commission with Objects of Common Interest",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 4795,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-26 06:58",
+  "research": {
+   "entities": [
+    "Objects of Common Interest",
+    "Miami Design District",
+    "Friedman Benda",
+    "Buckminster Fuller",
+    "Bulgari"
+   ],
+   "questions": [
+    "Objects of Common Interest가 추구하는 디자인 철학인 '물질과 기하학적 형태의 감정적 공명'은 이번 설치 미술에서 어떻게 구현되었는가?",
+    "마이애미 디자인 디스트릭트의 연례 커미션 프로그램이 지역 사회와 공공 예술의 관계를 어떻게 변화시켜 왔는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Miami Design District",
+     "url": "https://www.miamidesigndistrict.com/"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Friedman Benda",
+     "url": "https://www.friedmanbenda.com/"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Buckminster Fuller",
+     "url": "https://en.wikipedia.org/wiki/Buckminster%20Fuller"
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "Bulgari",
+     "url": "https://en.wikipedia.org/wiki/Bulgari"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "우연과 레진의 물성으로 실험하는 오브젝트 오브 커먼 이벤트의 피레우스 워크숍",
+     "url": "https://www.wallpaper.com/design-interiors/work-in-process-objects-of-common-interest-greece"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "하이 주얼리의 변주, 대담한 커팅과 실루엣으로 정의하는 현대적 조형미",
+     "url": "https://www.wallpaper.com/watches-jewellery/high-jewellery-a-w-2026"
+    },
+    {
+     "n": 7,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "9월의 시선: 집의 기억부터 물 위를 걷는 도시의 실험까지",
+     "url": "https://www.designboom.com/art/exhibition-radar-september-2026/"
+    }
+   ],
+   "used": [
+    2,
+    5
+   ],
+   "chars": 6589
+  },
+  "depth_raw": 5,
+  "depth_v": 2
+ },
+ "dazeddigital.com/film-tv/article/71381/1/andrey-zvyagintsev-minotaur-director-iris-lebedeva-film-interview": {
+  "title_ko": "안드레이 즈비아긴체프의 미노타우로스: 전쟁의 비극을 응시하는 서늘한 관찰",
+  "summary_ko": "러시아 감독 안드레이 즈비아긴체프의 신작 '미노타우로스'는 클로드 샤브롤의 '부정한 여인'을 재해석한 복수 스릴러다. 2022년 러시아의 우크라이나 침공 초기, 가상의 도시 크라스노보르스크를 배경으로 징집 할당을 강요받는 사업가 글레브의 일상을 통해 전쟁의 비극과 개인의 선택을 담담히 추적한다.",
+  "lens": "정치적 구호를 배제하고 인물의 사적인 파멸과 전쟁의 기계적 폭력을 동일한 시선으로 포착해 관객에게 윤리적 선택을 되묻는다.",
+  "why_now": "정치적 선언이 범람하는 시대에, 예술이 어떻게 직접적인 프로파간다를 피하면서도 전쟁의 참상을 개인의 삶에 투영할 수 있는지 보여주는 사례다.",
+  "mechanism": "20분간 대사 없이 진행되는 살인 시퀀스는 주인공이 직장에서 타인에게 가하는 폭력과 가정 내 파멸을 거울처럼 대칭시킨다. 화려한 가구와 장식으로 채워진 실내 공간은 인물이 느끼는 심리적 고립과 대비를 극대화한다.",
+  "sensory": "라트비아에서 촬영된 러시아의 풍경은 건조하고 서늘한 질감을 띠며, 인물을 압도하는 사치스러운 실내 인테리어는 역설적으로 인물의 공허함을 강조한다.",
+  "transfer": "인물의 내면을 직접 설명하는 대사 대신, 공간의 사치스러움과 인물의 일상적 행위 사이의 부조화를 시각화하는 미장센을 활용하라. 살인이나 비극적 사건을 묘사할 때 대사를 배제하고 20분가량의 롱테이크로 일상적 소음과 정적만을 활용해 긴장감을 구축하는 방식이 유효하다.",
+  "context": "안드레이 즈비아긴체프는 '리바이어던'과 '러브리스'를 통해 러시아 사회의 부조리를 탐구해왔다. 이번 작품은 '리바이어던'에서 보여준 권력과 개인의 충돌이라는 주제 의식을 계승하되, 클로드 샤브롤의 스릴러 구조를 차용해 서사의 밀도를 높였다.",
+  "findings": [
+   {
+    "text": "안드레이 즈비아긴체프는 2003년 데뷔작 '리턴'으로 베니스 영화제 황금사자상을 수상하며 주목받았다.",
+    "s": 1,
+    "quote": "His debut film The Return (2003) won the Golden Lion at the Venice Film Festival."
+   },
+   {
+    "text": "영화 '리바이어던'은 미국에서 발생한 마빈 히메이어의 불도저 폭주 사건에서 영감을 얻어 러시아적 상황으로 재해석했다.",
+    "s": 2,
+    "quote": "According to Zvyagintsev, the story of Marvin Heemeyer's 2004 rampage through a small US town using a modified bulldozer inspired him. A similar concept was adapted into a Russian setting."
+   }
+  ],
+  "keywords": [
+   "안드레이즈비아긴체프",
+   "미노타우로스",
+   "반전스릴러",
+   "심리묘사",
+   "공간미장센"
+  ],
+  "evidence": "The film says exactly what you see on the screen. Commenting anything else about it is silly.",
+  "kind": "프로젝트",
+  "depth": 5,
+  "grounding": "full",
+  "depth_reason": "감독의 연출 철학과 구체적인 서사 기법, 공간 활용 방식이 명확히 드러나며 영상 미학적 적용점이 구체적이다.",
+  "v": 2,
+  "url": "https://www.dazeddigital.com/film-tv/article/71381/1/andrey-zvyagintsev-minotaur-director-iris-lebedeva-film-interview?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=andrey-zvyagintsev-s-minotaur-is-a-boldly-anti-war-revenge-thriller",
+  "original_title": "Andrey Zvyagintsev’s Minotaur is a boldly anti-war revenge-thriller",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 9000,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-26 06:58",
+  "research": {
+   "entities": [
+    "Andrey Zvyagintsev",
+    "Leviathan",
+    "Loveless",
+    "Minotaur",
+    "The Unfaithful Wife"
+   ],
+   "questions": [
+    "안드레이 즈비아긴체프 감독이 영화 '미노타우로스'를 통해 러시아의 우크라이나 침공과 그 속의 개인을 어떻게 은유적으로 묘사했는가?",
+    "클로드 샤브롤의 '부정한 여인'이라는 원작의 서사 구조가 즈비아긴체프의 반전 스릴러에서 어떤 방식으로 재해석되었는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Andrey Zvyagintsev",
+     "url": "https://en.wikipedia.org/wiki/Andrey%20Zvyagintsev"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Leviathan (2014 film)",
+     "url": "https://en.wikipedia.org/wiki/Leviathan%20%282014%20film%29"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 2026
+  },
+  "depth_raw": 5,
+  "depth_v": 2
  }
 }
