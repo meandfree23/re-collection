@@ -1,64 +1,38 @@
 {
-  "generated_at": "2026-11-25 20:35 KST",
-  "period": "2026.11.18 - 2026.11.25",
-  "total_articles": 577,
+  "generated_at": "2026-11-26 02:59 KST",
+  "period": "2026.11.19 - 2026.11.26",
+  "total_articles": 507,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 301
+      "count": 268
     },
     {
       "genre": "동시대 미술",
-      "count": 173
+      "count": 148
     },
     {
       "genre": "아방가르드 패션",
-      "count": 65
+      "count": 60
     },
     {
       "genre": "미디어 파사드·3D",
-      "count": 38
+      "count": 31
     }
   ],
   "themes": [
     {
-      "keyword": "박물관·전시",
-      "count": 62,
-      "previous_count": 58,
-      "trend": "rising",
-      "items": [
-        {
-          "title": "런던 박물관이 11월 28일 스미스필드 제너럴 마켓에 개관합니다",
-          "url": "https://www.archdaily.com/1189192/london-museum-opens-in-smithfields-general-market-on-november-28",
-          "image_url": "https://images.adsttc.com/media/images/6b06/13d1/dd54/ea01/8880/f5e6/large_jpg/the-london-museum-opens-its-new-home-at-the-general-market-in-west-smithfield-on-28-november_19.jpg?1795560548",
-          "source_name": "ArchDaily"
-        },
-        {
-          "title": "1930년대 시트로엥 정비소를 복원한 브뤼셀의 카날-퐁피두 센터 개관",
-          "url": "https://www.designboom.com/architecture/kanal-centre-pompidou-brussels-restored-1930s-citroen-garage-em2n-noaarchitecten-sergison-bates/",
-          "image_url": "https://www.designboom.com/wp-content/uploads/2026/11/kanal-centre-pompidou-brussels-restored-1930s-citroen-garage-em2n-noaarchitecten-sergison-bates-designboom-07.jpg",
-          "source_name": "Designboom Architecture"
-        },
-        {
-          "title": "도쿄에서 열리는 '빌딩 블루(Building Blue)' 전시회를 위해 강렬한 파란색 안료를 사용한 소형 농업 건물 모형을 조립하는 Assemble",
-          "url": "https://www.dezeen.com/2026/11/25/assemble-building-blue-skac/",
-          "image_url": "https://static-2026.dezeen.com/uploads/2026/11/assemble-building-blue-skwat-tokyo_dezeen_2364_col_sq2-1024x1024.jpg",
-          "source_name": "Dezeen"
-        },
-        {
-          "title": "할렘 스튜디오 뮤지엄의 혁신적인 리더 델마 골든, 2027년 퇴임 예정",
-          "url": "https://www.artforum.com/news/thelma-golden-studio-museum-in-harlems-leader-to-step-down-1234764393/",
-          "image_url": "https://www.artforum.com/wp-content/uploads/2026/11/StudioMuseuminHarlem_ThelmaGolden_JulieSkarratt_Website.jpeg?w=650",
-          "source_name": "Artforum"
-        }
-      ]
-    },
-    {
       "keyword": "사진",
-      "count": 22,
-      "previous_count": 9,
+      "count": 18,
+      "previous_count": 13,
       "trend": "rising",
       "items": [
+        {
+          "title": "Nan Goldin’s Brutal, Beautiful Worlds",
+          "url": "https://www.anothermag.com/art-photography/17653/nan-goldin-you-never-did-anything-wrong-review-exhibition-hayward-gallery",
+          "image_url": "https://images-prod.anothermag.com/566/0-349-566-377/azure/another-prod/480/0/480483.jpg",
+          "source_name": "AnOther Magazine"
+        },
         {
           "title": "제1회 호주 거리 사진상(Australian Street Photography Awards)이 일상생활의 변덕을 조명합니다.",
           "url": "https://www.thisiscolossal.com/2026/11/australian-street-photography-awards-2026/",
@@ -76,50 +50,12 @@
           "url": "https://www.designboom.com/art/etienne-perrone-empty-streets-colored-flash-night-scenes-film-stills-dreams-happen-after-dark/",
           "image_url": "https://www.designboom.com/wp-content/dbsub/470896/2026-11-16/etienne-perrone-photographs-empty-cities-at-night-like-stills-from-lost-films-1-6afb0c8bc9836.jpg",
           "source_name": "Designboom Art"
-        },
-        {
-          "title": "사진으로 보는 세계 각지의 레이버들: 땀에 흠뻑 젖은 초월적인 모습의 인물 사진",
-          "url": "https://www.dazeddigital.com/music/article/71399/1/portraits-of-ravers-around-the-world-indie-sleaze-forever-sub-club-glasgow?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=in-pictures-sweaty-transcendent-portraits-of-ravers-around-the-world",
-          "image_url": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1460/0/1460013.jpg",
-          "source_name": "Dazed"
-        }
-      ]
-    },
-    {
-      "keyword": "리노베이션·재생",
-      "count": 18,
-      "previous_count": 16,
-      "trend": "rising",
-      "items": [
-        {
-          "title": "Tuckey Design Studio가 와인 바에서 영감을 얻어 풍부한 색상 팔레트를 적용한 요크셔 주택 리노베이션",
-          "url": "https://www.dezeen.com/2026/11/25/bay-house-tuckey-design-studio/",
-          "image_url": "https://static-2026.dezeen.com/uploads/2026/11/bay-house-tuckey-design-studio-architecture-residential-yorkshire-england-uk_dezeen_2364_sq-1024x1024.jpg",
-          "source_name": "Dezeen"
-        },
-        {
-          "title": "지우장 페리 문화 단지 리노베이션 / TURTLEHILL DESIGN",
-          "url": "https://www.archdaily.com/1026978/jiujiang-ferry-cultural-complex-renovation-turtlehill-architecture-and-design",
-          "image_url": "https://images.adsttc.com/media/images/67af/6bd3/5886/6801/89c7/43da/large_jpg/jiujiang-ferry-cultural-complex-renovation-turtlehill-architecture-and-design_9.jpg?1739549673",
-          "source_name": "ArchDaily"
-        },
-        {
-          "title": "Claves, 상상력이 풍부한 감각으로 메제브의 1940년대 아르데코 스키 샬레를 새롭게 단장하다",
-          "url": "https://www.yatzer.com/le-sarto-megeve-france",
-          "image_url": "https://media.yatzer.com/2-Le-Sarto-Megeve-France-Claves-photo-mrtripper-yatzer-1400x2100.jpg",
-          "source_name": "Yatzer"
-        },
-        {
-          "title": "Sans Raison 리노베이션 / Mountain Soil 인테리어 디자인",
-          "url": "https://www.archdaily.com/1189109/sans-raison-renovation-mountain-soil-interior-design",
-          "image_url": "https://images.adsttc.com/media/images/6b04/fe9d/2bc2/8501/8901/2b03/large_jpg/sans-raison-renovation-mountain-soil-interior-design_19.jpg?1795489443",
-          "source_name": "ArchDaily"
         }
       ]
     },
     {
       "keyword": "해변·리조트 건축",
-      "count": 9,
+      "count": 8,
       "previous_count": 5,
       "trend": "rising",
       "items": [
@@ -150,83 +86,147 @@
       ]
     },
     {
-      "keyword": "아날로그 질감·16mm 필름",
+      "keyword": "레스토랑·호스피탈리티",
       "count": 4,
-      "previous_count": 0,
-      "trend": "new",
+      "previous_count": 5,
+      "trend": "steady",
       "items": [
         {
-          "title": "파리의 10대 디자이너",
-          "url": "https://www.nowness.com/films/top-ten-designers-in-paris-1980/",
-          "image_url": "https://www.nowness.com/media/qv3jgwqe/top-ten-designers-in-paris-still-2.png",
-          "source_name": "NOWNESS"
+          "title": "데이비드 록웰이 선보이는 스카이워커 그릴의 디자인",
+          "url": "https://design-milk.com/david-rockwell-skywalker-grill/",
+          "image_url": "https://design-milk.com/images/2026/11/lmna_sg_082426_tm_hr_0220-RS-1500x1125.jpg",
+          "source_name": "Design Milk"
         },
         {
-          "title": "잔물결",
-          "url": "https://www.nowness.com/films/ripple-bart-hess-antonioli/",
-          "image_url": "https://www.nowness.com/media/1mfl0wi3/ripple-bart-hess-antonioli.jpg",
-          "source_name": "NOWNESS"
+          "title": "새로 문을 연 엑스페리멘털 로마(Experimental Roma)에서는 이탈리아 영화의 색감과 질감이 극적인 숙박 경험을 선사합니다.",
+          "url": "https://www.wallpaper.com/travel/hotels/experimental-roma-review",
+          "image_url": "https://cdn.mos.cms.futurecdn.net/BQTV2pnnD2bG3iqfLbKt3S-1920-80.jpg",
+          "source_name": "Wallpaper*"
         },
         {
-          "title": "Muscle Memory",
-          "url": "https://www.nowness.com/films/muscle-memory-kharkiv-mikayla-jean-miller/",
-          "image_url": "https://www.nowness.com/media/z01l0qas/muscle-memory-kharkiv-mikayla-jean-miller.jpg",
-          "source_name": "NOWNESS"
+          "title": "FLEISCHEREI, 새롭게 단장한 레스토랑 / Allen Kaufmann Architekten",
+          "url": "https://www.archdaily.com/1188648/fleischerei-a-restaurant-reworked-allen-kaufmann-architekten",
+          "image_url": "https://images.adsttc.com/media/images/6af7/debe/eabd/2a00/0192/f26a/large_jpg/AK_110_1_FEATURED.jpg?1794629325",
+          "source_name": "ArchDaily"
         },
         {
-          "title": "'지금'은 얼마나 긴 시간인가요?",
-          "url": "https://www.nowness.com/films/how-long-is-now-adriana-ingeli/",
-          "image_url": "https://www.nowness.com/media/peijniho/how-long-is-now-adriana-ingeli.jpg",
-          "source_name": "NOWNESS"
+          "title": "기이에르 학교 레스토랑 / eeun architecture",
+          "url": "https://www.archdaily.com/1188550/guilliers-school-restaurant-eeun-architecure",
+          "image_url": "https://images.adsttc.com/media/images/6af5/ab33/eabd/2a00/0192/d4e1/large_jpg/50-DSCF7159.jpg?1794485150",
+          "source_name": "ArchDaily"
         }
       ]
     },
     {
-      "keyword": "목재 건축",
-      "count": 16,
-      "previous_count": 17,
-      "trend": "steady",
+      "keyword": "박물관·전시",
+      "count": 55,
+      "previous_count": 62,
+      "trend": "falling",
       "items": [
         {
-          "title": "Thermory Design Awards 2026는 열처리목재를 사용한 건축 및 디자인의 뛰어난 사례를 선정합니다.",
-          "url": "https://www.dezeen.com/2026/11/25/thermory-design-awards-2026-thermowood/",
-          "image_url": "https://static-2026.dezeen.com/uploads/2026/11/thermory-design-awards-2026-thermo-wood-promo_dezeen_2364_col_0-1024x1024.jpg",
+          "title": "데이비드 록웰이 선보이는 스카이워커 그릴의 디자인",
+          "url": "https://design-milk.com/david-rockwell-skywalker-grill/",
+          "image_url": "https://design-milk.com/images/2026/11/lmna_sg_082426_tm_hr_0220-RS-1500x1125.jpg",
+          "source_name": "Design Milk"
+        },
+        {
+          "title": "Nan Goldin’s Brutal, Beautiful Worlds",
+          "url": "https://www.anothermag.com/art-photography/17653/nan-goldin-you-never-did-anything-wrong-review-exhibition-hayward-gallery",
+          "image_url": "https://images-prod.anothermag.com/566/0-349-566-377/azure/another-prod/480/0/480483.jpg",
+          "source_name": "AnOther Magazine"
+        },
+        {
+          "title": "런던 박물관이 11월 28일 스미스필드 제너럴 마켓에 개관합니다",
+          "url": "https://www.archdaily.com/1189192/london-museum-opens-in-smithfields-general-market-on-november-28",
+          "image_url": "https://images.adsttc.com/media/images/6b06/13d1/dd54/ea01/8880/f5e6/large_jpg/the-london-museum-opens-its-new-home-at-the-general-market-in-west-smithfield-on-28-november_19.jpg?1795560548",
+          "source_name": "ArchDaily"
+        },
+        {
+          "title": "1930년대 시트로엥 정비소를 복원한 브뤼셀의 카날-퐁피두 센터 개관",
+          "url": "https://www.designboom.com/architecture/kanal-centre-pompidou-brussels-restored-1930s-citroen-garage-em2n-noaarchitecten-sergison-bates/",
+          "image_url": "https://www.designboom.com/wp-content/uploads/2026/11/kanal-centre-pompidou-brussels-restored-1930s-citroen-garage-em2n-noaarchitecten-sergison-bates-designboom-07.jpg",
+          "source_name": "Designboom Architecture"
+        }
+      ]
+    },
+    {
+      "keyword": "리노베이션·재생",
+      "count": 15,
+      "previous_count": 17,
+      "trend": "falling",
+      "items": [
+        {
+          "title": "Tuckey Design Studio가 와인 바에서 영감을 얻어 풍부한 색상 팔레트를 적용한 요크셔 주택 리노베이션",
+          "url": "https://www.dezeen.com/2026/11/25/bay-house-tuckey-design-studio/",
+          "image_url": "https://static-2026.dezeen.com/uploads/2026/11/bay-house-tuckey-design-studio-architecture-residential-yorkshire-england-uk_dezeen_2364_sq-1024x1024.jpg",
           "source_name": "Dezeen"
         },
         {
-          "title": "SO–IL, 노르웨이 숲속에 반짝이는 유리 비늘로 뒤덮인 박물관을 구상하다",
-          "url": "https://www.designboom.com/architecture/so-il-museum-shimmering-glass-scales-norway-forest-kistefos/",
-          "image_url": "https://www.designboom.com/wp-content/uploads/2026/11/SO-IL-kistefos-museum-norway-designboom-01.jpg",
-          "source_name": "Designboom Architecture"
+          "title": "지우장 페리 문화 단지 리노베이션 / TURTLEHILL DESIGN",
+          "url": "https://www.archdaily.com/1026978/jiujiang-ferry-cultural-complex-renovation-turtlehill-architecture-and-design",
+          "image_url": "https://images.adsttc.com/media/images/67af/6bd3/5886/6801/89c7/43da/large_jpg/jiujiang-ferry-cultural-complex-renovation-turtlehill-architecture-and-design_9.jpg?1739549673",
+          "source_name": "ArchDaily"
         },
         {
-          "title": "카클레비의 단독 주택 / Werkraum Design Architecture",
-          "url": "https://www.archdaily.com/1188266/private-house-in-kaklebi",
-          "image_url": "https://images.adsttc.com/media/images/6af1/8c88/4ba6/4700/01d0/80a0/large_jpg/Grigory_Sokolinsky_19.jpg?1794215149",
+          "title": "Claves, 상상력이 풍부한 감각으로 메제브의 1940년대 아르데코 스키 샬레를 새롭게 단장하다",
+          "url": "https://www.yatzer.com/le-sarto-megeve-france",
+          "image_url": "https://media.yatzer.com/2-Le-Sarto-Megeve-France-Claves-photo-mrtripper-yatzer-1400x2100.jpg",
+          "source_name": "Yatzer"
+        },
+        {
+          "title": "Sans Raison 리노베이션 / Mountain Soil 인테리어 디자인",
+          "url": "https://www.archdaily.com/1189109/sans-raison-renovation-mountain-soil-interior-design",
+          "image_url": "https://images.adsttc.com/media/images/6b04/fe9d/2bc2/8501/8901/2b03/large_jpg/sans-raison-renovation-mountain-soil-interior-design_19.jpg?1795489443",
           "source_name": "ArchDaily"
+        }
+      ]
+    },
+    {
+      "keyword": "가구 디자인",
+      "count": 13,
+      "previous_count": 17,
+      "trend": "falling",
+      "items": [
+        {
+          "title": "Buildner, 'The Next House: USA' 수상자 발표 및 2027년 대회 개최 발표",
+          "url": "https://www.archdaily.com/1188719/buildner-reveals-the-winners-of-the-next-house-usa-and-launches-the-2027-edition",
+          "image_url": "https://images.adsttc.com/media/images/6afb/9bfe/8074/f464/a9f9/34eb/large_jpg/buildner-reveals-the-winners-of-the-next-house-usa-and-launches-the-2027-edition_2.jpg?1794874413",
+          "source_name": "ArchDaily"
+        },
+        {
+          "title": "Davis Furniture와 jehs+laub가 조각 같은 Laken Nesting Tables를 선보입니다",
+          "url": "https://design-milk.com/davis-furniture-and-jehslaub-introduce-the-sculptural-laken-nesting-tables/",
+          "image_url": "https://design-milk.com/images/2026/11/Laken_DavisFurniture_10-1500x1049.jpg",
+          "source_name": "Design Milk"
         },
         {
           "title": "우리 모두가 지나치는 핸드레일에서 영감을 받은 모듈식 가구 시스템.",
           "url": "https://www.yellowtrace.com.au/nomi-junction-furniture-collection-australian-design/",
           "image_url": "https://assets.yellowtrace.com.au/wp-content/uploads/2026/11/17153009/Yellowtrace-JUNCTION-HIGH-ROUND-TABLE-DETAIL-SHOOT-3-06_opt90.jpg",
           "source_name": "Yellowtrace"
+        },
+        {
+          "title": "Fireclay Tile, 전통 직물을 수작업으로 그린 타일로 변신시키다",
+          "url": "https://design-milk.com/fireclay-tile-idyllwild/",
+          "image_url": "https://design-milk.com/images/2026/11/Idyllwild-Hero-Spring-Original-1500x1000.jpg",
+          "source_name": "Design Milk"
         }
       ]
     }
   ],
   "notable_names": [
     "Dezeen Awards",
+    "Sharjah Architecture Triennial",
+    "Nan Goldin",
     "Gerhard Richter",
     "Venice Architecture Biennale",
     "London Museum",
     "Edu Request",
     "AD Editors",
-    "Mexico City",
-    "Paris Photo",
-    "Limber Up",
     "Approved Interior Photographers",
     "Holiday Gift Guide",
-    "Still Here"
+    "Still Here",
+    "Sabine Marcelis"
   ],
   "has_comparison": true
 }

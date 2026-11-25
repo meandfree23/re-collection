@@ -4246,5 +4246,48 @@
   "v": 3,
   "model": "gemini-3.1-flash-lite-preview",
   "written_at": "2026-11-25 04:34"
+ },
+ "2026-11-26": {
+  "date": "2026-11-26",
+  "headline": "메종 기에트의 좁은 계단과 낸 골딘이 찍은 필름의 틈새",
+  "editorial": "메종 기에트의 수직적 구조는 건축이 거주자의 삶을 어떻게 담아내는지 100년의 시간을 거쳐 증명한다. 낸 골딘은 16mm 필름을 통해 인간을 넘어선 생태계의 파괴를 묵묵히 응시한다. 두 작업은 각자의 방식으로 고립된 사유와 물리적 매체를 통해 존재의 흔적을 남긴다. 데이비드 핀처가 영화 속 오브제를 정밀하게 통제하며 타란티노의 과잉을 다스리는 방식 또한 같은 맥락에서 기계적 엄밀함과 예술적 의지를 결합한다.",
+  "threads": [
+   {
+    "name": "프레임에 담긴 통제와 관찰",
+    "note": "엄격한 형식과 매체를 사용하여 대상의 본질을 정밀하게 포착하고 제어하는 시도들이다.",
+    "items": [
+     {
+      "title": "르 코르뷔지에의 벨기에 유일작, 메종 기에트의 100년 궤적",
+      "url": "https://www.wallpaper.com/architecture/residential/maison-guiette-book-ann-demeulemeesters-home-belgium"
+     },
+     {
+      "title": "핀처의 렌즈로 재해석한 타란티노의 세계: 클리프 부스의 모험",
+      "url": "https://www.dazeddigital.com/film-tv/article/71410/1/david-fincher-the-further-mis-adventures-of-cliff-booth-film-interview-ai?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=david-fincher-on-tarantino-netflix-and-his-controversial-use-of-ai"
+     },
+     {
+      "title": "낸 골딘, 브루탈리즘의 회색 벽 너머로 확장된 생태의 비극",
+      "url": "https://www.anothermag.com/art-photography/17653/nan-goldin-you-never-did-anything-wrong-review-exhibition-hayward-gallery"
+     }
+    ]
+   },
+   {
+    "name": "물리적 매체와 머무는 행위",
+    "note": "데이터가 아닌 손으로 만지고 점유하는 물리적 대상이 삶의 밀도를 어떻게 변화시키는지 다룬다.",
+    "items": [
+     {
+      "title": "르 코르뷔지에의 벨기에 유일작, 메종 기에트의 100년 궤적",
+      "url": "https://www.wallpaper.com/architecture/residential/maison-guiette-book-ann-demeulemeesters-home-belgium"
+     },
+     {
+      "title": "디지털 시대의 아날로그 의식: 음악을 물리적 오브제로 환원하는 오디오 테크",
+      "url": "https://www.wallpaper.com/tech/technology-editor-jonathan-bells-audio-gift-guide"
+     }
+    ]
+   }
+  ],
+  "based_on": 8,
+  "v": 3,
+  "model": "gemini-3.1-flash-lite",
+  "written_at": "2026-11-26 03:08"
  }
 }
