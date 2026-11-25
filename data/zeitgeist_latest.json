@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-25 14:42 KST",
+  "generated_at": "2026-11-25 17:59 KST",
   "period": "2026.11.18 - 2026.11.25",
-  "total_articles": 555,
+  "total_articles": 563,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 285
+      "count": 287
     },
     {
       "genre": "동시대 미술",
-      "count": 167
+      "count": 172
     },
     {
       "genre": "아방가르드 패션",
@@ -17,16 +17,22 @@
     },
     {
       "genre": "미디어 파사드·3D",
-      "count": 37
+      "count": 38
     }
   ],
   "themes": [
     {
       "keyword": "박물관·전시",
-      "count": 60,
+      "count": 61,
       "previous_count": 58,
       "trend": "rising",
       "items": [
+        {
+          "title": "도쿄에서 열리는 '빌딩 블루(Building Blue)' 전시회를 위해 강렬한 파란색 안료를 사용한 소형 농업 건물 모형을 조립하는 Assemble",
+          "url": "https://www.dezeen.com/2026/11/25/assemble-building-blue-skac/",
+          "image_url": "https://static-2026.dezeen.com/uploads/2026/11/assemble-building-blue-skwat-tokyo_dezeen_2364_col_sq2-1024x1024.jpg",
+          "source_name": "Dezeen"
+        },
         {
           "title": "할렘 스튜디오 뮤지엄의 혁신적인 리더 델마 골든, 2027년 퇴임 예정",
           "url": "https://www.artforum.com/news/thelma-golden-studio-museum-in-harlems-leader-to-step-down-1234764393/",
@@ -44,12 +50,6 @@
           "url": "https://www.thisiscolossal.com/2026/11/kate-jenkins-knitalian-knitted-foods-sculpture-installation/",
           "image_url": "https://www.thisiscolossal.com/wp-content/uploads/2026/11/jenkins-8.jpg",
           "source_name": "This Is Colossal"
-        },
-        {
-          "title": "UNSW 건축 환경 졸업 전시회 2026: 'To Be'",
-          "url": "https://www.archdaily.com/1189137/unsw-built-environment-graduation-exhibition-2026-to-be",
-          "image_url": "https://images.adsttc.com/media/images/6b05/8706/94d7/ea00/019d/0638/large_jpg/Poster3_MAIN__2_.jpg?1795524401",
-          "source_name": "ArchDaily"
         }
       ]
     },
