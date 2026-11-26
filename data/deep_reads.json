@@ -398139,5 +398139,103 @@
   },
   "depth_raw": 5,
   "depth_v": 2
+ },
+ "wallpaper.com/architecture/residential/clifton-house-perth-australia": {
+  "title_ko": "퍼스의 클리프턴 하우스, 1950년대 지역적 골조와 모더니즘의 조우",
+  "summary_ko": "매튜 크로포드 아키텍츠는 1951년 마샬 클리프턴이 설계한 퍼스의 주택을 리노베이션하며 기존의 테라코타 요소와 흰색 벽돌을 보존했다. 리처드 노이트라의 수평적 형태와 카를로 스카르파의 정교한 재료 재조합 방식을 차용해, 거주 공간을 안뜰과 유기적으로 연결하는 현대적 안식처로 탈바꿈시켰다.",
+  "lens": "역사적 건축의 노화를 제거하는 대신, 거장의 기법을 빌려 기존 재료를 재조합함으로써 시간의 층위를 시각적 유희로 치환했다.",
+  "why_now": "과거의 유산을 박제하지 않고, 당대의 재료를 현대적 동선과 결합해 공간의 밀도를 높이는 리노베이션 전략이 주거 건축의 핵심 과제로 부상했다.",
+  "mechanism": "기존의 불투명한 벽체를 투명한 슬라이딩 도어로 대체해 안뜰과 실내의 시각적 문턱을 제거했다. 카를로 스카르파의 방식을 따라 기존 건축의 파편을 수집하고 이를 브라질산 녹색 규암 세면대 등 새로운 물성과 나란히 배치했다.",
+  "sensory": "발트해 소나무 처마의 질감과 트래버틴 바닥의 차가운 촉감이 어우러지며, 평평한 지붕의 포르티코를 통해 유입되는 빛이 공간 깊숙이 그림자를 드리운다.",
+  "transfer": "콘티 설계 시 기존 공간의 벽을 허무는 대신 투명한 슬라이딩 도어를 설치해 외부 정원과 실내의 동선을 일체화하는 샷을 구성하라. 세면대나 가구 등 특정 오브제에 기존 건축에서 추출한 재료를 결합해 시각적 초점을 만드는 디테일을 활용할 것.",
+  "context": "매튜 크로포드 아키텍츠는 장소성에 기반한 사유하는 건축을 지향한다. 리처드 노이트라와 카를로 스카르파의 기법은 기존 건축의 뼈대를 보존하며 새로운 기능을 삽입하는 리노베이션의 고전적 모범으로, 과거 RE:COLLECTION에서 다룬 라울 산체스나 딘 레빈의 작업과도 맥락을 공유한다.",
+  "findings": [
+   {
+    "text": "리처드 노이트라는 캘리포니아 모더니즘의 상징적인 건축가로, Kaufmann Desert House와 같은 작품을 통해 수평적 형태와 얇은 기둥의 균형을 강조했다.",
+    "s": 3,
+    "quote": "His most notable works include the Kaufmann Desert House, in Palm Springs, California."
+   }
+  ],
+  "keywords": [
+   "리노베이션",
+   "카를로스카르파",
+   "리처드노이트라",
+   "공간동선",
+   "물성"
+  ],
+  "evidence": "The works of Richard Neutra, with his Californian modernism, show strong horizontal forms balanced with delicate thin columns.",
+  "kind": "프로젝트",
+  "depth": 5,
+  "grounding": "full",
+  "depth_reason": "기존 건축가의 의도를 존중하면서도 거장들의 방법론을 구체적인 재료와 동선 설계에 적용한 논리가 명확하다.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/architecture/residential/clifton-house-perth-australia",
+  "original_title": "Clifton House in Perth is inspired by the works of Richard Neutra and Carlo Scarpa",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 3670,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-26 14:31",
+  "research": {
+   "entities": [
+    "Marshall Clifton",
+    "Matthew Crawford Architects",
+    "Richard Neutra",
+    "Carlo Scarpa",
+    "Artedomus"
+   ],
+   "questions": [
+    "1950년대 호주 주거 건축에서 마샬 클리프턴(Marshall Clifton)이 추구했던 지역적 재료와 디자인의 특징은 무엇인가?",
+    "매튜 크로포드 아키텍츠(Matthew Crawford Architects)가 리노베이션 과정에서 리처드 노이트라와 카를로 스카르파의 건축 철학을 어떻게 구체적으로 적용했는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Matthew Crawford Architects",
+     "url": "https://www.mcarchitects.com.au/"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Marshall Waller Clifton",
+     "url": "https://en.wikipedia.org/wiki/Marshall%20Waller%20Clifton"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Richard Neutra",
+     "url": "https://en.wikipedia.org/wiki/Richard%20Neutra"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "시간의 궤적을 보존하는 방식: 라울 산체스의 라 카사 델 피라타",
+     "url": "https://www.yellowtrace.com.au/raul-sanchez-la-casa-del-pirata-mataro-heritage-renovation/"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "딘 레빈의 로스앤젤레스 주거 리노베이션: 1950년대 큐브를 채운 빛과 텍스처",
+     "url": "https://www.architecturaldigest.com/story/dean-levin-22re-los-angeles-home"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "런던 타운하우스와 벨기에 의회를 점령한 실험적 디자인의 현장",
+     "url": "https://www.sightunseen.com/2026/10/an-edgy-london-interior-by-max-radford-three-experimental-design-exhibitions-and-more/"
+    }
+   ],
+   "used": [
+    1,
+    3,
+    4,
+    5,
+    6
+   ],
+   "chars": 1569
+  },
+  "depth_raw": 5,
+  "depth_v": 2
  }
 }
