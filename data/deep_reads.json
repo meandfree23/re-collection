@@ -397696,5 +397696,448 @@
   },
   "depth_raw": 5,
   "depth_v": 2
+ },
+ "archdaily.com/1189258/sotarra-house-forarquitectura": {
+  "title_ko": "소타라 하우스: 말라가 해안의 불완전한 유산을 다루는 건축적 논리",
+  "summary_ko": "스페인 말라가의 엘 팔로 해안 지역에 위치한 소타라 하우스는 도시 팽창과 관광 압박 속에서 기존 주거지의 특수성을 보존하며 진행된 리노베이션 프로젝트다. 건축가 프란시스코 오르테가 루이즈는 2021년부터 행정적 난관을 돌파하며, 비표준적 주거 형태를 유지하면서도 현대적 기능성을 확보하는 작업을 수행했다.",
+  "lens": "관광지의 압박 속에서 소외된 해안가 주거지의 비정형성을 보존하며, 행정적 경직성을 건축적 논리로 돌파한 사례다.",
+  "why_now": "관광 자본에 의한 획일적 개발이 가속화되는 해안가에서, 기존 주거의 맥락을 삭제하지 않고 리노베이션하는 태도는 건축적 저항의 한 방식이다.",
+  "mechanism": "비표준적 주거지인 인프라비비엔다의 구조적 한계를 인정하고, 행정적 규제 속에서 공간의 연속성을 유지하는 논리적 재구성을 통해 공간의 가치를 복원한다.",
+  "sensory": "해안가 특유의 밀도 높은 소음과 빛을 필터링하며, 산화된 외벽과 거친 질감이 시간의 층위를 드러낸다.",
+  "transfer": "기존 건물의 비정형적 구조를 그대로 살리면서 조명을 활용해 공간의 깊이를 강조하는 샷 구성에 활용할 수 있다.",
+  "context": "말라가 동부 해안의 엘 팔로 지역은 500채 이상의 주택이 밀집된 곳으로, 관광 개발과 거주민의 삶이 충돌하는 지점이다. 포르아르키텍투라는 이러한 장소의 맥락을 보존하는 리노베이션을 주로 수행한다.",
+  "findings": [
+   {
+    "text": "엘 팔로 지역은 도시 성장과 관광 수요로 인해 비표준적 주거지인 인프라비비엔다를 보존하려는 주민들과 행정 기관 사이의 갈등이 지속되는 곳이다.",
+    "s": 1,
+    "quote": "该地区面临着城市扩张、旅游业开发的压力，以及居民们为保留其独特且别具风情的不合规范住宅（infraviviendas）而展开的拉锯。"
+   }
+  ],
+  "keywords": [
+   "리노베이션",
+   "해안주거",
+   "도시맥락",
+   "스페인건축"
+  ],
+  "evidence": "This process was marked by clashes with disconnected administrative bodies and the defense of logic and coherence in carrying out work on one of these peculiar properties.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "지역적 맥락과 행정적 갈등의 배경은 명확하나, 구체적인 리노베이션의 물리적 기법이나 공간 내부의 상세 사진 정보가 부족하다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1189258/sotarra-house-forarquitectura",
+  "original_title": "Sotarrá House / FORarquitectura",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 1256,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-26 12:36",
+  "research": {
+   "entities": [
+    "FORarquitectura",
+    "Francisco Ortega Ruiz"
+   ],
+   "questions": [
+    "말라가 엘 팔로(El Palo) 지역의 해안가 주거지가 가진 역사적, 건축적 특수성은 무엇인가요?",
+    "이 리노베이션 프로젝트가 직면했던 행정적 절차와 규제상의 어려움은 구체적으로 어떤 내용인가요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Sotarrá 住宅 / FORarquitectura",
+     "url": "https://www.archdaily.cn/1189259/sotarra-zhu-zhai-forarquitectura?ad_name=article_cn_redirect=popup"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 489
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "yellowtrace.com.au/woods-bagot-the-forest-university-of-tasmania-hobart-adaptive-reuse-public-architecture": {
+  "title_ko": "유서 깊은 돔과 실내 숲을 되살린 태즈메이니아 대학교 도심 학습 구역",
+  "summary_ko": "우즈 배곳(Woods Bagot)이 태즈메이니아 대학교를 위해 설계한 도심 학습 구역 '더 포레스트'는 높이 22m의 유서 깊은 돔과 과거 그 아래에서 자라던 실내 숲을 현대적 교육 공간으로 되살린다. 공공과 대학 커뮤니티가 만나는 친밀하면서도 개방적인 도심 속 학습 공간을 구축한다.",
+  "lens": "역사적 돔의 수직 스케일과 실내 숲의 생태적 레이어를 결합해 대학과 도시의 문턱을 지운다.",
+  "why_now": "대학 캠퍼스가 폐쇄적인 공간을 벗어나 도심 속 공공 인프라로 결합하는 전환점을 보여준다.",
+  "mechanism": "22m 높이의 기존 돔 구조를 보존하고 그 하부 공간에 실내 숲의 기억을 이식해 시각적 개방감을 극대화한다.",
+  "sensory": "높은 돔 천장에서 떨어지는 자연광과 식물이 만드는 음영이 실내 공간 전체에 차분한 물성을 부여한다.",
+  "transfer": "공공 로비나 복합 문화 공간 콘티에서 수직적 개방감을 강조하는 하이앵글 샷과 자연광 연출에 활용한다.",
+  "context": "글로벌 건축 사무소 우즈 배곳(Woods Bagot)은 애들레이드 대학교 등 유서 깊은 캠퍼스 건축 작업을 다수 수행해 왔다.",
+  "findings": [
+   {
+    "text": "우즈 배곳은 1905년에 설립된 글로벌 건축 및 컨설팅 사무소이다.",
+    "s": 1,
+    "quote": "Woods Bagot is a global architectural and consulting practice founded in Adelaide, South Australia."
+   },
+   {
+    "text": "태즈메이니아 대학교는 1890년에 설립된 호주에서 네 번째로 오래된 대학이다.",
+    "s": 2,
+    "quote": "Founded in 1890, it is Australia's fourth oldest university."
+   },
+   {
+    "text": "우즈 배곳은 런던 스튜디오를 통해 키프로스 파포스에 민티스 리조트를 설계했다.",
+    "s": 3,
+    "quote": "우즈 배곳 런던 스튜디오와 파필리아가 키프로스 파포스 차다 마을 언덕에 500만 제곱미터 규모의 민티스 리조트를 완성했다."
+   }
+  ],
+  "keywords": [
+   "우즈 배곳",
+   "태즈메이니아대학교",
+   "돔",
+   "실내숲",
+   "학습구역"
+  ],
+  "evidence": "Civic and Intimate, The Forest by Woods Bagot Gives Its Best Space Back to the City.",
+  "kind": "프로젝트",
+  "depth": 2,
+  "grounding": "thin",
+  "depth_reason": "원문 본문이 수집되지 않고 메타 정보만 남아 있어 상세한 건축적 장치를 확인하기 어렵다.",
+  "v": 2,
+  "url": "https://www.yellowtrace.com.au/woods-bagot-the-forest-university-of-tasmania-hobart-adaptive-reuse-public-architecture/",
+  "original_title": "Civic and Intimate, The Forest by Woods Bagot Gives Its Best Space Back to the City.",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 0,
+  "fetch": "fetch_error:HTTPError",
+  "cliche_hits": [],
+  "read_at": "2026-11-26 12:36",
+  "research": {
+   "entities": [
+    "Woods Bagot",
+    "태즈메이니아 대학교"
+   ],
+   "questions": [
+    "태즈메이니아 대학교의 '더 포레스트' 프로젝트가 도시와 대학 커뮤니티에 기여한 구체적인 건축적 특징은 무엇인가?",
+    "우즈 배곳이 유서 깊은 돔과 실내 숲을 현대적 교육 공간으로 리노베이션하면서 직면했던 주요 과제는 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Woods Bagot",
+     "url": "https://en.wikipedia.org/wiki/Woods%20Bagot"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "University of Tasmania",
+     "url": "https://en.wikipedia.org/wiki/University%20of%20Tasmania"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "키프로스 언덕의 지형에 스며든 리조트, 우즈 배곳의 민티스",
+     "url": "https://www.archdaily.com/1009606/minthis-hills-woods-baggot"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3
+   ],
+   "chars": 2545
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "architecturaldigest.com/story/khalil-mack-los-angeles-home-design-by-ryan-saghian": {
+  "title_ko": "로마 점토와 광섬유의 조화, NFL 선수를 위한 미니멀리즘 펜트하우스",
+  "summary_ko": "NFL 라인배커 칼릴 맥과 브리아나 맥 부부는 디자이너 라이언 사기안과 함께 로스앤젤레스 펜트하우스를 전면 개조했다. 거친 질감의 로마 점토 벽체와 하드웨어 없는 수납장을 통해 미니멀리즘을 구현하는 동시에, 아이들을 위한 방음 놀이방과 롤스로이스에서 영감받은 광섬유 천장의 영화관을 배치해 가족의 일상을 담아냈다.",
+  "lens": "미니멀리즘의 정적인 구조 속에 아이들의 역동적인 움직임을 수용하는 방음·완충 설계를 결합해, 주거 공간의 기능적 이분법을 해체한다.",
+  "why_now": "디지털 피로도가 높은 현대 주거에서, 촉각적 질감이 살아있는 로마 점토(Roman Clay)와 같은 소재가 공간의 정서적 안정감을 높이는 핵심 요소로 재조명된다.",
+  "mechanism": "벽체 전체를 몰딩 없는 로마 점토로 마감하고 모든 수납장에 터치 래치와 손잡이 없는 방식을 적용해 시각적 소음을 제거했다. 반면 놀이방 바닥에는 코르크와 고무 하부층을 설치해 소음을 차단하고 물리적 충격을 흡수하는 구조를 구축했다.",
+  "sensory": "로마 점토의 매트하고 따뜻한 질감이 공간 전체를 감싸며, 광섬유 천장의 은은한 빛이 영화관의 깊이감을 더한다. 무게감 있는 트래버틴 석재와 모헤어 러그의 부드러움이 대비를 이룬다.",
+  "transfer": "공간의 정숙함을 유지하면서도 특정 구역에 물리적 충격 흡수재를 매립하는 방식을 콘티에 적용하라. 롤스로이스의 광섬유 천장 기법을 차용해 정적인 공간에 비현실적인 밤하늘의 깊이감을 연출할 수 있다.",
+  "context": "인테리어 디자이너 라이언 사기안은 네덜란드 브랜드 아이히홀츠를 캘리포니아 감성으로 재해석하며 서해안의 건축적 특성을 반영해왔다. 이번 프로젝트에서도 운동선수 클라이언트의 요구에 맞춰 미니멀한 건축적 뼈대와 고기능성 회복 공간을 결합하는 설계를 선보였다.",
+  "findings": [
+   {
+    "text": "라이언 사기안은 캘리포니아 전역에 네덜란드 가구 브랜드 아이히홀츠의 쇼룸을 구축하며 지역 특성에 맞춘 공간 연출을 시도해왔다.",
+    "s": 3,
+    "quote": "인테리어 디자이너 라이언 사기안은 네덜란드 가구 브랜드 아이히홀츠의 제품을 캘리포니아 감성으로 재해석해 서해안 전역에 쇼룸 네트워크를 구축한다."
+   }
+  ],
+  "keywords": [
+   "로마점토",
+   "미니멀리즘",
+   "방음설계",
+   "공간디자인",
+   "텍스처"
+  ],
+  "evidence": "Nothing to interrupt the quiet they were seeking.",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "운동선수의 라이프스타일을 반영한 구체적인 건축적 개조와 소재 선택의 논리가 명확하게 드러나 있다.",
+  "v": 2,
+  "url": "https://www.architecturaldigest.com/story/khalil-mack-los-angeles-home-design-by-ryan-saghian",
+  "original_title": "In Khalil Mack's Los Angeles Penthouse, the Ceiling Glows and the Kids Climb the Walls",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 8474,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-26 12:36",
+  "research": {
+   "entities": [
+    "Khalil Mack",
+    "Ryan Saghian",
+    "Ferrari Sheppard",
+    "LA Chargers"
+   ],
+   "questions": [
+    "칼릴 맥의 로스앤젤레스 펜트하우스 인테리어에서 미니멀리즘과 가족 친화적 공간이 어떻게 조화를 이루고 있는가?",
+    "디자이너 라이언 사기안(Ryan Saghian)은 운동선수와 연예인 클라이언트를 위한 공간 디자인에서 어떤 철학을 적용하는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Khalil Mack",
+     "url": "https://en.wikipedia.org/wiki/Khalil%20Mack"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Ferrari Sheppard",
+     "url": "https://en.wikipedia.org/wiki/Ferrari%20Sheppard"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "유럽 가구와 캘리포니아의 충돌, 아이히홀츠 쇼룸의 전략",
+     "url": "https://design-milk.com/eichholtz-california-showrooms/"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3
+   ],
+   "chars": 1500
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "architecturaldigest.com/story/this-historic-home-is-built-around-a-spectacular-light-well-that-looks-like-a-connect-four-game": {
+  "title_ko": "바르셀로나의 빨래터 역사를 잇는 45도 회전의 파란색 빛 우물",
+  "summary_ko": "건축가 라울 산체스가 바르셀로나 에이샴플라 지역의 좁은 2층 주택을 복원했다. 과거 빨래터로 쓰이던 동네의 역사에서 착안해, 건물 중앙에 45도 회전시킨 원형 구멍의 파란색 라이트 웰을 설치했다. 이 구조물은 옥상 채광창에서 내려오는 빛을 실내 깊숙이 전달하며 공간의 순환을 조직한다.",
+  "lens": "역사적 장소의 기억을 원형의 구멍과 푸른 색채로 박제하고, 45도 회전된 기하학으로 공간의 정형성을 해체한 정교한 건축적 장치다.",
+  "why_now": "도시의 낡은 골조를 보존하면서도 현대적인 환경 성능을 입히는 방식이 주거 리노베이션의 핵심 과제로 부상하고 있다.",
+  "mechanism": "옥상 채광창에서 시작된 라이트 웰이 건물의 전 층을 관통하며 자연광을 수직으로 전달한다. 45도 틀어진 배치는 복도식의 단조로운 동선을 깨뜨리고 각 층과 방 사이의 시각적 연결을 생성한다.",
+  "sensory": "깊은 푸른색의 유광 래커 마감과 원형 구멍을 통과하는 빛이 물방울이 맺힌 우물 속을 연상시킨다. 테라코타 타일의 붉은 질감과 대비되는 색채가 공간에 생동감을 더한다.",
+  "transfer": "공간의 중심에 기하학적 보이드(void)를 배치하여 동선을 분기하고, 빛의 각도에 따라 변하는 색채를 활용해 정적인 실내에 시간성을 부여하는 연출에 활용한다.",
+  "context": "라울 산체스는 기존 건물의 역사적 맥락을 현대적 재료로 재해석하는 작업을 지속해왔다. 마르셀 브로이어(Marcel Breuer)의 와실리 체어, 마리오 벨리니(Mario Bellini)의 아마타 체어 등 모더니즘 디자인 가구를 배치하여 공간의 시각적 밀도를 높였다.",
+  "findings": [
+   {
+    "text": "마르셀 브로이어는 바우하우스에서 와실리 체어와 체스카 체어를 설계했으며, 20세기 가장 중요한 가구 디자이너 중 한 명으로 평가받는다.",
+    "s": 1,
+    "quote": "At the Bauhaus he designed the Wassily Chair and the Cesca Chair, which The New York Times have called some of the most important chairs of the 20th century."
+   },
+   {
+    "text": "마리오 벨리니는 이탈리아의 건축가이자 디자이너로, 70년에 걸친 경력 동안 8번의 콤파소 도로 상을 수상했다.",
+    "s": 2,
+    "quote": "In a career spanning nearly 70 years, Bellini has received many honours, including eight Compasso d'Oro awards and the Gold Medal for Lifetime Achievement from the Triennale di Milano."
+   }
+  ],
+  "keywords": [
+   "건축 리노베이션",
+   "보이드",
+   "기하학적 배치",
+   "바르셀로나",
+   "라이트 웰"
+  ],
+  "evidence": "Pierced by a series of circular openings, like a Connect 4 game, and coated in a glossy blue lacquer, the light shaft evokes an ancient well",
+  "kind": "프로젝트",
+  "depth": 5,
+  "grounding": "full",
+  "depth_reason": "역사적 맥락을 공간의 조형적 장치로 치환하는 논리가 명확하며, 기능과 심미성을 동시에 해결하는 구체적인 설계 전략이 돋보인다.",
+  "v": 2,
+  "url": "https://www.architecturaldigest.com/story/this-historic-home-is-built-around-a-spectacular-light-well-that-looks-like-a-connect-four-game",
+  "original_title": "This Historic Home Is Built Around a Spectacular Light Well That Looks Like a Connect Four Game",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 8803,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-26 12:36",
+  "research": {
+   "entities": [
+    "Raúl Sánchez",
+    "Marcel Breuer",
+    "Mario Bellini",
+    "Jasper Morrison",
+    "Vico Magistretti"
+   ],
+   "questions": [
+    "바르셀로나의 Calle Aiguafreda 지역이 가진 역사적 맥락이 건축가의 설계 의도에 어떤 영향을 미쳤는가?",
+    "건물 중앙에 배치된 45도 회전된 파란색 라이트 웰(light well)이 내부 공간의 순환과 채광에 어떤 기능적 변화를 가져왔는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Marcel Breuer",
+     "url": "https://en.wikipedia.org/wiki/Marcel%20Breuer"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Mario Bellini",
+     "url": "https://en.wikipedia.org/wiki/Mario%20Bellini"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "해안의 진부함을 지운 브라질 모더니즘: 바이런 베이의 더 보노보",
+     "url": "https://www.yellowtrace.com.au/manifold-richards-and-spence-the-bonobo-raes-hotel-byron-bay-hospitality-design/"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "마수르 자작나무로 다시 쓴 마르셀 브로이어의 합판 가구",
+     "url": "https://www.dezeen.com/2026/09/09/beton-brut-isokon-marcel-breuer-furniture-masur-birch/"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "쇼디치에서 클러큰웰로, 영국 가구 브랜드 SCP의 40년 만의 이전",
+     "url": "https://www.wallpaper.com/design-interiors/scp-clerkenwell-opening"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 2656
+  },
+  "depth_raw": 5,
+  "depth_v": 2
+ },
+ "booooooom.com/2026/11/25/illustrator-spotlight-molly-heng-cheang": {
+  "title_ko": "마카오의 밀도를 그리다: 몰리 헹 청이 포착한 인공 조명 아래의 일상",
+  "summary_ko": "마카오를 기반으로 활동하는 일러스트레이터 몰리 헹 청(Molly Heng Cheang)은 아날로그 질감과 향수를 자극하는 색조로 도시의 정지된 순간을 기록한다. 직장인과 작가를 겸업하는 그는 30제곱킬로미터에 불과한 마카오의 좁은 공간에서 개인이 겪는 고립과 노동 문화, 정체성을 탐구한다.",
+  "lens": "거대한 어항 같은 도시 마카오의 물리적 밀도를 인공 조명과 아날로그 질감의 레이어로 재해석한다.",
+  "why_now": "공간의 물리적 확장이 불가능한 환경에서 개인이 느끼는 정서적 고립과 일상의 리듬을 시각화하는 방식은 동시대 도시 거주자의 보편적 감각을 건드린다.",
+  "mechanism": "빛이 굴절하고 반사되는 도시의 특성을 인공 조명에 부드럽게 녹아드는 인물들의 표정으로 형상화한다.",
+  "sensory": "형광등 불빛 아래 머무는 서늘한 색감과 종이 위에 얹힌 거친 질감이 도시의 소음 속 정적을 환기한다.",
+  "transfer": "인공 조명으로 인해 경계가 흐려지는 인물의 표정을 포착하고, 좁은 공간의 답답함을 빛의 굴절과 반사 효과로 연출하는 콘티에 활용한다.",
+  "context": "마카오에서 나고 자란 작가는 자신의 환경인 도시의 일상과 직장 생활의 경험을 작업의 토대로 삼는다.",
+  "findings": [],
+  "keywords": [
+   "마카오",
+   "도시 일상",
+   "아날로그 질감",
+   "인공 조명"
+  ],
+  "evidence": "space does not expand outward; it refracts and reflects, like living inside a vast fish tank",
+  "kind": "작가·인터뷰",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "작가의 작업 맥락과 공간 인식을 구체적으로 설명했으나, 구체적인 작품 리스트나 기법의 상세 분석이 부족하다.",
+  "v": 2,
+  "url": "https://www.booooooom.com/2026/11/25/illustrator-spotlight-molly-heng-cheang/",
+  "original_title": "Illustrator Spotlight: Molly Heng Cheang",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 1103,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-26 12:36",
+  "research": {
+   "entities": [
+    "Molly Heng Cheang"
+   ],
+   "questions": [
+    "Molly Heng Cheang의 일러스트 작품에서 마카오의 환경은 어떻게 시각적으로 표현되는가?",
+    "작가로서의 삶과 직장인으로서의 삶을 병행하는 것이 그의 작업 스타일에 어떤 영향을 미치는가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "stashmedia.tv/iridescent-airlock-antibody-opens-blade-runner-2099-series": {
+  "title_ko": "블레이드 러너 2099: 단백질 구조와 전기화학적 질감으로 빚은 추상적 오프닝",
+  "summary_ko": "스튜디오 앤티바디(Antibody)는 드라마 블레이드 러너 2099의 오프닝 시퀀스를 위해 단백질 이미징과 분해된 아날로그 비디오 데이터를 결합한 추상적 영상을 설계했다. 패트릭 클레어와 라울 마크스는 서사적 이미지를 배제하고 액체와 전기가 뒤섞인 화학적 패턴을 통해 포스트 휴먼 시대를 시각화했다. 이는 리들리 스콧의 원작이 지닌 누추한 디스토피아 미학을 미시적 분자 단위로 확장한 시도다.",
+  "lens": "거대 서사를 지우고 단백질 가닥과 전기화학적 반응이라는 미시적 물성을 통해 '인간 그 이상'의 모호함을 시각적으로 구현했다.",
+  "why_now": "디지털 CGI의 매끄러움을 거부하고 데이터의 오류와 유기적 질감을 결합해 기술적 피로도를 돌파하려는 동시대 영상 미학의 흐름을 보여준다.",
+  "mechanism": "액체와 전기 신호가 충돌하는 그래픽 요소를 활용하여 해상도가 낮은 아날로그 비디오의 노이즈와 분자 구조의 패턴을 중첩시켰다.",
+  "sensory": "산화된 금속의 차가운 질감과 화학적 반응이 만들어내는 무지갯빛 입자, 그리고 낮게 깔리는 오미너스한 사운드가 극명한 긴장감을 조성한다.",
+  "transfer": "콘티 작업 시, 인물이나 배경 대신 단백질 이미징이나 화학적 결정 구조를 매크로 렌즈로 촬영한 듯한 추상적 레이어를 오프닝 시퀀스에 삽입하여 세계관의 긴장감을 조성하라.",
+  "context": "패트릭 클레어는 에미상을 다수 수상한 타이틀 시퀀스 디자이너로 스튜디오 앤티바디를 설립했다. 이번 작업은 리들리 스콧의 원작과 블레이드 러너 2049의 세계관을 잇는 미니시리즈의 도입부로, 드라마 본편이 폐기물과 금속으로 구현한 디스토피아적 물리성과 결을 같이한다.",
+  "findings": [
+   {
+    "text": "블레이드 러너 2099는 리들리 스콧이 제작에 참여했으며 2026년 11월 25일 아마존 프라임 비디오를 통해 공개되었다.",
+    "s": 1,
+    "quote": "Blade Runner 2099 premiered on Amazon Prime Video with all 8 episodes released on November 25, 2026."
+   },
+   {
+    "text": "패트릭 클레어는 2014년과 2016년에 에미상 최우수 메인 타이틀 시퀀스 부문을 수상했다.",
+    "s": 2,
+    "quote": "He has won the Primetime Emmy Award for Outstanding Main Title Sequence in 2014 and 2016."
+   }
+  ],
+  "keywords": [
+   "앤티바디",
+   "블레이드러너2099",
+   "타이틀시퀀스",
+   "화학적추상",
+   "포스트휴먼"
+  ],
+  "evidence": "Down in the microscopic realm of protein strands and synthetic organic chemistry, we find colors and patterns from beyond nature.",
+  "kind": "영상·필름",
+  "depth": 5,
+  "grounding": "full",
+  "depth_reason": "추상적 그래픽을 통해 SF 장르의 관습적 서사를 탈피한 독창적 기법과 미시적 물성을 활용한 시각적 장치가 매우 구체적이다.",
+  "v": 2,
+  "url": "https://www.stashmedia.tv/iridescent-airlock-antibody-opens-blade-runner-2099-series/",
+  "original_title": "Iridescent Airlock: Antibody Opens Blade Runner 2099 Series",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 4018,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-26 12:36",
+  "research": {
+   "entities": [
+    "Antibody",
+    "Blade Runner 2099",
+    "Patrick Clair",
+    "Alcon Entertainment",
+    "Scott Free Productions"
+   ],
+   "questions": [
+    "Antibody 스튜디오가 블레이드 러너 2099의 오프닝 시퀀스를 제작하며 추구한 '화학적 추상화'의 시각적 의도는 무엇인가?",
+    "전통적인 서사 방식 대신 추상적인 그래픽 요소를 선택한 것이 블레이드 러너 세계관의 '포스트 휴먼' 주제를 어떻게 보완하는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Blade Runner 2099",
+     "url": "https://en.wikipedia.org/wiki/Blade%20Runner%202099"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Patrick Clair",
+     "url": "https://en.wikipedia.org/wiki/Patrick%20Clair"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "블레이드 러너 2099의 세트 디자인: 폐기물과 금속으로 구현한 디스토피아의 일상성",
+     "url": "https://www.anothermag.com/design-living/17650/another-performance-lewis-gribben-blade-runner-2099"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3
+   ],
+   "chars": 1984
+  },
+  "depth_raw": 5,
+  "depth_v": 2
  }
 }
