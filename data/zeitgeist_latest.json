@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-26 14:31 KST",
+  "generated_at": "2026-11-26 17:44 KST",
   "period": "2026.11.19 - 2026.11.26",
-  "total_articles": 527,
+  "total_articles": 535,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 283
+      "count": 288
     },
     {
       "genre": "동시대 미술",
-      "count": 150
+      "count": 153
     },
     {
       "genre": "아방가르드 패션",
@@ -23,10 +23,16 @@
   "themes": [
     {
       "keyword": "사진",
-      "count": 18,
+      "count": 19,
       "previous_count": 13,
       "trend": "rising",
       "items": [
+        {
+          "title": "제프 바크(Jeff Bark)의 린치적 사진은 술주정뱅이 아빠와 함께 자란 유년기를 반영합니다.",
+          "url": "https://www.wallpaper.com/art/photography/jeff-bark-drunk-dad-photo-book-review",
+          "image_url": "https://cdn.mos.cms.futurecdn.net/VQR6wSpM7XBrE3qRjytR2h-1920-80.png",
+          "source_name": "Wallpaper*"
+        },
         {
           "title": "Nan Goldin’s Brutal, Beautiful Worlds",
           "url": "https://www.anothermag.com/art-photography/17653/nan-goldin-you-never-did-anything-wrong-review-exhibition-hayward-gallery",
@@ -44,12 +50,6 @@
           "url": "https://www.booooooom.com/2026/11/23/rural-veterinarian-by-photographer-timur-mansurov/",
           "image_url": "https://cdn.booooooom.com/wp-content/uploads/2026/11/Mansurov1.jpg",
           "source_name": "BOOOOOOOM"
-        },
-        {
-          "title": "에티엔 페론(Etienne Perrone), 유색 플래시로 한적한 거리를 비춰 영화 스틸컷 같은 야경을 연출하다",
-          "url": "https://www.designboom.com/art/etienne-perrone-empty-streets-colored-flash-night-scenes-film-stills-dreams-happen-after-dark/",
-          "image_url": "https://www.designboom.com/wp-content/dbsub/470896/2026-11-16/etienne-perrone-photographs-empty-cities-at-night-like-stills-from-lost-films-1-6afb0c8bc9836.jpg",
-          "source_name": "Designboom Art"
         }
       ]
     },
@@ -118,6 +118,38 @@
       ]
     },
     {
+      "keyword": "리노베이션·재생",
+      "count": 16,
+      "previous_count": 17,
+      "trend": "steady",
+      "items": [
+        {
+          "title": "BW 하우스 / Studio S+AO",
+          "url": "https://www.archdaily.com/1189236/bw-house-studio-s-plus-ao",
+          "image_url": "https://images.adsttc.com/media/images/6b06/ff39/94d7/ea00/019d/0dbe/large_jpg/_AP_7162-Pano-Edit.jpg?1795620746",
+          "source_name": "ArchDaily"
+        },
+        {
+          "title": "Tuckey Design Studio가 와인 바에서 영감을 얻어 풍부한 색상 팔레트를 적용한 요크셔 주택 리노베이션",
+          "url": "https://www.dezeen.com/2026/11/25/bay-house-tuckey-design-studio/",
+          "image_url": "https://static-2026.dezeen.com/uploads/2026/11/bay-house-tuckey-design-studio-architecture-residential-yorkshire-england-uk_dezeen_2364_sq-1024x1024.jpg",
+          "source_name": "Dezeen"
+        },
+        {
+          "title": "지우장 페리 문화 단지 리노베이션 / TURTLEHILL DESIGN",
+          "url": "https://www.archdaily.com/1026978/jiujiang-ferry-cultural-complex-renovation-turtlehill-architecture-and-design",
+          "image_url": "https://images.adsttc.com/media/images/67af/6bd3/5886/6801/89c7/43da/large_jpg/jiujiang-ferry-cultural-complex-renovation-turtlehill-architecture-and-design_9.jpg?1739549673",
+          "source_name": "ArchDaily"
+        },
+        {
+          "title": "Claves, 상상력이 풍부한 감각으로 메제브의 1940년대 아르데코 스키 샬레를 새롭게 단장하다",
+          "url": "https://www.yatzer.com/le-sarto-megeve-france",
+          "image_url": "https://media.yatzer.com/2-Le-Sarto-Megeve-France-Claves-photo-mrtripper-yatzer-1400x2100.jpg",
+          "source_name": "Yatzer"
+        }
+      ]
+    },
+    {
       "keyword": "박물관·전시",
       "count": 55,
       "previous_count": 62,
@@ -150,43 +182,17 @@
       ]
     },
     {
-      "keyword": "리노베이션·재생",
-      "count": 15,
+      "keyword": "가구 디자인",
+      "count": 14,
       "previous_count": 17,
       "trend": "falling",
       "items": [
         {
-          "title": "Tuckey Design Studio가 와인 바에서 영감을 얻어 풍부한 색상 팔레트를 적용한 요크셔 주택 리노베이션",
-          "url": "https://www.dezeen.com/2026/11/25/bay-house-tuckey-design-studio/",
-          "image_url": "https://static-2026.dezeen.com/uploads/2026/11/bay-house-tuckey-design-studio-architecture-residential-yorkshire-england-uk_dezeen_2364_sq-1024x1024.jpg",
+          "title": "자베즈 바틀렛, 데뷔 가구 컬렉션에 '브루탈리스트-포크' 정신을 담다",
+          "url": "https://www.dezeen.com/2026/11/26/jabez-bartlett-channels-brutalist-folk-spirit-for-debut-furniture-collection/",
+          "image_url": "https://static-2026.dezeen.com/uploads/2026/11/jabez-bartlett-debut-furniture-exhibition-hackney-london_dezeen_2364_col_0-1024x1024.jpg",
           "source_name": "Dezeen"
         },
-        {
-          "title": "지우장 페리 문화 단지 리노베이션 / TURTLEHILL DESIGN",
-          "url": "https://www.archdaily.com/1026978/jiujiang-ferry-cultural-complex-renovation-turtlehill-architecture-and-design",
-          "image_url": "https://images.adsttc.com/media/images/67af/6bd3/5886/6801/89c7/43da/large_jpg/jiujiang-ferry-cultural-complex-renovation-turtlehill-architecture-and-design_9.jpg?1739549673",
-          "source_name": "ArchDaily"
-        },
-        {
-          "title": "Claves, 상상력이 풍부한 감각으로 메제브의 1940년대 아르데코 스키 샬레를 새롭게 단장하다",
-          "url": "https://www.yatzer.com/le-sarto-megeve-france",
-          "image_url": "https://media.yatzer.com/2-Le-Sarto-Megeve-France-Claves-photo-mrtripper-yatzer-1400x2100.jpg",
-          "source_name": "Yatzer"
-        },
-        {
-          "title": "Sans Raison 리노베이션 / Mountain Soil 인테리어 디자인",
-          "url": "https://www.archdaily.com/1189109/sans-raison-renovation-mountain-soil-interior-design",
-          "image_url": "https://images.adsttc.com/media/images/6b04/fe9d/2bc2/8501/8901/2b03/large_jpg/sans-raison-renovation-mountain-soil-interior-design_19.jpg?1795489443",
-          "source_name": "ArchDaily"
-        }
-      ]
-    },
-    {
-      "keyword": "가구 디자인",
-      "count": 13,
-      "previous_count": 17,
-      "trend": "falling",
-      "items": [
         {
           "title": "Buildner, 'The Next House: USA' 수상자 발표 및 2027년 대회 개최 발표",
           "url": "https://www.archdaily.com/1188719/buildner-reveals-the-winners-of-the-next-house-usa-and-launches-the-2027-edition",
@@ -204,12 +210,6 @@
           "url": "https://www.yellowtrace.com.au/nomi-junction-furniture-collection-australian-design/",
           "image_url": "https://assets.yellowtrace.com.au/wp-content/uploads/2026/11/17153009/Yellowtrace-JUNCTION-HIGH-ROUND-TABLE-DETAIL-SHOOT-3-06_opt90.jpg",
           "source_name": "Yellowtrace"
-        },
-        {
-          "title": "Fireclay Tile, 전통 직물을 수작업으로 그린 타일로 변신시키다",
-          "url": "https://design-milk.com/fireclay-tile-idyllwild/",
-          "image_url": "https://design-milk.com/images/2026/11/Idyllwild-Hero-Spring-Original-1500x1000.jpg",
-          "source_name": "Design Milk"
         }
       ]
     }
