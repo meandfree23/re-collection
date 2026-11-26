@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-11-26 20:19 KST",
-  "period": "2026.11.19 - 2026.11.26",
-  "total_articles": 555,
+  "generated_at": "2026-11-27 02:45 KST",
+  "period": "2026.11.20 - 2026.11.27",
+  "total_articles": 486,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 300
+      "count": 286
     },
     {
       "genre": "동시대 미술",
-      "count": 159
+      "count": 133
     },
     {
       "genre": "아방가르드 패션",
-      "count": 64
+      "count": 47
     },
     {
       "genre": "미디어 파사드·3D",
-      "count": 32
+      "count": 20
     }
   ],
   "themes": [
     {
       "keyword": "사진",
-      "count": 21,
+      "count": 19,
       "previous_count": 13,
       "trend": "rising",
       "items": [
@@ -87,10 +87,16 @@
     },
     {
       "keyword": "아날로그 질감·16mm 필름",
-      "count": 6,
-      "previous_count": 0,
-      "trend": "new",
+      "count": 5,
+      "previous_count": 2,
+      "trend": "rising",
       "items": [
+        {
+          "title": "Ningún Pájaro en el Cielo",
+          "url": "https://www.nowness.com/films/ningun-pajaro-en-el-cielo-cayetano-garcia-sahurie/",
+          "image_url": "https://www.nowness.com/media/4nrlmgd3/npeelc_still-4.png",
+          "source_name": "NOWNESS"
+        },
         {
           "title": "무지갯빛 에어록: Antibody가 블레이드 러너 2099 시리즈를 엽니다",
           "url": "https://www.stashmedia.tv/iridescent-airlock-antibody-opens-blade-runner-2099-series/",
@@ -108,20 +114,78 @@
           "url": "https://www.nowness.com/films/top-ten-designers-in-paris-1980/",
           "image_url": "https://www.nowness.com/media/qv3jgwqe/top-ten-designers-in-paris-still-2.png",
           "source_name": "NOWNESS"
+        }
+      ]
+    },
+    {
+      "keyword": "미니멀리즘",
+      "count": 8,
+      "previous_count": 8,
+      "trend": "steady",
+      "items": [
+        {
+          "title": "Minimalist Christmas tree ornaments that make a quiet statement",
+          "url": "https://www.wallpaper.com/design-interiors/interior-accessories/minimalist-christmas-tree-decorations",
+          "image_url": "https://cdn.mos.cms.futurecdn.net/56C6iRnzhoX9H66c4i2HyK-1920-80.jpg",
+          "source_name": "Wallpaper*"
         },
         {
-          "title": "잔물결",
-          "url": "https://www.nowness.com/films/ripple-bart-hess-antonioli/",
-          "image_url": "https://www.nowness.com/media/1mfl0wi3/ripple-bart-hess-antonioli.jpg",
-          "source_name": "NOWNESS"
+          "title": "미니멀리즘을 추구하는 사람을 위한 심플하지만 퀄리티 높은 선물",
+          "url": "https://www.wallpaper.com/design-interiors/minimalist-gift-guide-2026",
+          "image_url": "https://cdn.mos.cms.futurecdn.net/YrqymXzSBFAWNQXeXW2Wx8-1920-80.png",
+          "source_name": "Wallpaper*"
+        },
+        {
+          "title": "이탈리아의 미니멀리즘 하우스가 '적은 것이 더 좋다'는 것을 보여줍니다.",
+          "url": "https://www.architecturaldigest.com/story/a-minimalist-house-in-italy-makes-the-case-for-less",
+          "image_url": "https://media.architecturaldigest.com/photos/6af4635992123f52fa79f08e/master/pass/AD1226_PAWSON_1%20copy.jpg",
+          "source_name": "Architectural Digest"
+        },
+        {
+          "title": "케이시 로어티는 미니멀한 디자인에 끌리지만, Chicken Shop Date를 위한 그의 그래픽은 개성을 돋보이게 합니다.",
+          "url": "https://www.itsnicethat.com/articles/casey-roarty-graphic-design-discover-231126",
+          "image_url": "https://admin.itsnicethat.com/images/HiTCidpQ-pH02U0x0RqRsDCWzGQ=/284877/width-1440/casey-roarty-graphic-design-itsnicethat-5.jpg",
+          "source_name": "It's Nice That"
+        }
+      ]
+    },
+    {
+      "keyword": "박물관·전시",
+      "count": 52,
+      "previous_count": 63,
+      "trend": "falling",
+      "items": [
+        {
+          "title": "Puyi Deng: Reframing the Contemporary Art Exhibition￼",
+          "url": "https://flash---art.com/2026/10/puyi-deng-reframing-the-contemporary-art-exhibition%ef%bf%bc/",
+          "image_url": "/wp-content/uploads/2026/11/L1070436-1024x681.jpg",
+          "source_name": "Flash Art"
+        },
+        {
+          "title": "1930년대 브뤼셀 시트로엥 차고에서 '유럽 최대의 박물관 개발' 개관",
+          "url": "https://www.dezeen.com/2026/11/26/kanal-museum-brussels-renovation-atelier-kanal/",
+          "image_url": "https://static-2026.dezeen.com/uploads/2026/11/kanal-museum-brussels-renovation-atelier-kanal-sq2_dezeen_2364_col_0-1024x1024.jpg",
+          "source_name": "Dezeen"
+        },
+        {
+          "title": "카를로 라티와 AI 어시스턴트, 2027 서울건축·도시정비전시회 큐레이팅 맡아",
+          "url": "https://www.dezeen.com/2026/11/26/carlo-ratti-seoul-biennale/",
+          "image_url": "https://static-2026.dezeen.com/uploads/2025/04/carlo-ratti-venice-architecture-biennale-curator-tech-bro-biennale_dezeen_2364_col_1-852x852.jpg",
+          "source_name": "Dezeen"
+        },
+        {
+          "title": "리스본 트리엔날레가 CO-OP 발표, 헤르조그 & 드 뫼롱의 멤피스 박물관 개관: 이번 주 리뷰",
+          "url": "https://www.archdaily.com/1189276/lisbon-triennale-announces-co-op-and-herzog-and-de-meurons-memphis-museum-opens-this-weeks-review",
+          "image_url": "https://images.adsttc.com/media/images/6b08/037a/3a81/a801/8917/c73a/large_jpg/lisbon-triennale-announces-co-op-and-herzog-and-de-meurons-memphis-museum-opens-this-weeks-review_5.jpg?1795687301",
+          "source_name": "ArchDaily"
         }
       ]
     },
     {
       "keyword": "리노베이션·재생",
-      "count": 18,
-      "previous_count": 17,
-      "trend": "steady",
+      "count": 15,
+      "previous_count": 18,
+      "trend": "falling",
       "items": [
         {
           "title": "하우스 Y / 모노트럼",
@@ -148,70 +212,6 @@
           "source_name": "Dezeen"
         }
       ]
-    },
-    {
-      "keyword": "박물관·전시",
-      "count": 56,
-      "previous_count": 62,
-      "trend": "falling",
-      "items": [
-        {
-          "title": "부하라 비엔날레 2027, 지속 가능한 공공 작품 전시회의 주제 및 첫 번째 작가 발표",
-          "url": "https://www.archdaily.com/1189256/bukhara-biennial-2027-announces-theme-and-first-artists-for-an-edition-of-lasting-public-works",
-          "image_url": "https://images.adsttc.com/media/images/6b07/3a42/dd54/ea01/8880/f8e5/large_jpg/bukhara-biennial_14.jpg?1795635861",
-          "source_name": "ArchDaily"
-        },
-        {
-          "title": "데이비드 록웰이 선보이는 스카이워커 그릴의 디자인",
-          "url": "https://design-milk.com/david-rockwell-skywalker-grill/",
-          "image_url": "https://design-milk.com/images/2026/11/lmna_sg_082426_tm_hr_0220-RS-1500x1125.jpg",
-          "source_name": "Design Milk"
-        },
-        {
-          "title": "Nan Goldin’s Brutal, Beautiful Worlds",
-          "url": "https://www.anothermag.com/art-photography/17653/nan-goldin-you-never-did-anything-wrong-review-exhibition-hayward-gallery",
-          "image_url": "https://images-prod.anothermag.com/566/0-349-566-377/azure/another-prod/480/0/480483.jpg",
-          "source_name": "AnOther Magazine"
-        },
-        {
-          "title": "런던 박물관이 11월 28일 스미스필드 제너럴 마켓에 개관합니다",
-          "url": "https://www.archdaily.com/1189192/london-museum-opens-in-smithfields-general-market-on-november-28",
-          "image_url": "https://images.adsttc.com/media/images/6b06/13d1/dd54/ea01/8880/f5e6/large_jpg/the-london-museum-opens-its-new-home-at-the-general-market-in-west-smithfield-on-28-november_19.jpg?1795560548",
-          "source_name": "ArchDaily"
-        }
-      ]
-    },
-    {
-      "keyword": "가구 디자인",
-      "count": 14,
-      "previous_count": 17,
-      "trend": "falling",
-      "items": [
-        {
-          "title": "자베즈 바틀렛, 데뷔 가구 컬렉션에 '브루탈리스트-포크' 정신을 담다",
-          "url": "https://www.dezeen.com/2026/11/26/jabez-bartlett-channels-brutalist-folk-spirit-for-debut-furniture-collection/",
-          "image_url": "https://static-2026.dezeen.com/uploads/2026/11/jabez-bartlett-debut-furniture-exhibition-hackney-london_dezeen_2364_col_0-1024x1024.jpg",
-          "source_name": "Dezeen"
-        },
-        {
-          "title": "Buildner, 'The Next House: USA' 수상자 발표 및 2027년 대회 개최 발표",
-          "url": "https://www.archdaily.com/1188719/buildner-reveals-the-winners-of-the-next-house-usa-and-launches-the-2027-edition",
-          "image_url": "https://images.adsttc.com/media/images/6afb/9bfe/8074/f464/a9f9/34eb/large_jpg/buildner-reveals-the-winners-of-the-next-house-usa-and-launches-the-2027-edition_2.jpg?1794874413",
-          "source_name": "ArchDaily"
-        },
-        {
-          "title": "Davis Furniture와 jehs+laub가 조각 같은 Laken Nesting Tables를 선보입니다",
-          "url": "https://design-milk.com/davis-furniture-and-jehslaub-introduce-the-sculptural-laken-nesting-tables/",
-          "image_url": "https://design-milk.com/images/2026/11/Laken_DavisFurniture_10-1500x1049.jpg",
-          "source_name": "Design Milk"
-        },
-        {
-          "title": "우리 모두가 지나치는 핸드레일에서 영감을 받은 모듈식 가구 시스템.",
-          "url": "https://www.yellowtrace.com.au/nomi-junction-furniture-collection-australian-design/",
-          "image_url": "https://assets.yellowtrace.com.au/wp-content/uploads/2026/11/17153009/Yellowtrace-JUNCTION-HIGH-ROUND-TABLE-DETAIL-SHOOT-3-06_opt90.jpg",
-          "source_name": "Yellowtrace"
-        }
-      ]
     }
   ],
   "notable_names": [
@@ -222,11 +222,7 @@
     "Venice Architecture Biennale",
     "London Museum",
     "Edu Request",
-    "AD Editors",
-    "Approved Interior Photographers",
-    "Holiday Gift Guide",
-    "Still Here",
-    "Sabine Marcelis"
+    "Approved Interior Photographers"
   ],
   "has_comparison": true
 }

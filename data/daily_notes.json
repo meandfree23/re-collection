@@ -4297,5 +4297,48 @@
   "v": 3,
   "model": "gemini-3.1-flash-lite",
   "written_at": "2026-11-26 03:45"
+ },
+ "2026-11-27": {
+  "date": "2026-11-27",
+  "headline": "현장의 흙을 빚은 기둥과 시간의 뼈대를 겹친 주택",
+  "editorial": "비씨 아키텍츠는 도면의 수치를 넘어 지역의 흙을 직접 다루며 건축을 물리적 현장으로 되돌린다. 이는 낡은 산업 시설의 뼈대를 보존하고 새로운 볼륨을 삽입하는 카날 미술관이나, 미드센추리 주택의 H자 평면을 이어받아 시간을 겹쳐내는 나튀르유망의 작업과 맥을 같이한다. 이들은 과거의 흔적을 삭제하지 않고 그 위에 지금의 물리적 조건을 정교하게 쌓아 올린다. 건축은 고립된 오브제가 아니라 땅과 시간의 기억을 잇는 살아있는 장치가 된다.",
+  "threads": [
+   {
+    "name": "장소의 기억을 잇는 방식",
+    "note": "오래된 시설과 주택의 구조를 보존하고 그 위에 새로운 층위를 더해 시간을 연결한다.",
+    "items": [
+     {
+      "title": "브뤼셀의 1930년대 시트로엥 정비소, 4만 제곱미터 규모의 카날 미술관으로 재생",
+      "url": "https://www.dezeen.com/2026/11/26/kanal-museum-brussels-renovation-atelier-kanal/"
+     },
+     {
+      "title": "시간의 뼈대를 되살린 캐나다의 미드센추리 주택 재건축",
+      "url": "https://minimalissimo.com/articles/residence-prevert-by-naturehumaine"
+     }
+    ]
+   },
+   {
+    "name": "현장의 흙과 물리적 조건",
+    "note": "도면의 데이터 대신 지역의 재료와 물리적 환경을 건축의 핵심으로 삼는다.",
+    "items": [
+     {
+      "title": "건축을 현장으로 되돌리는 법: 비씨 아키텍츠의 바이오 리저널 실천",
+      "url": "https://www.dezeen.com/2026/11/26/bc-architects-interview-20x20-marina-tabassum-2/"
+     },
+     {
+      "title": "노름 레지던스: 1751년의 목조 골조와 음예를 다루는 석회 도장",
+      "url": "https://leibal.com/interiors/norm-residence-2/"
+     },
+     {
+      "title": "아틀리에 구오: 장소의 맥락을 읽어내는 정밀한 건축적 개입",
+      "url": "https://www.archdaily.com/1188666/architecture-as-a-measured-intervention-inside-the-work-of-atelier-guo"
+     }
+    ]
+   }
+  ],
+  "based_on": 24,
+  "v": 3,
+  "model": "gemini-3.1-flash-lite",
+  "written_at": "2026-11-27 02:46"
  }
 }
