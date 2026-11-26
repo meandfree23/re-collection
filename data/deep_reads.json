@@ -402797,5 +402797,417 @@
   },
   "depth_raw": 3,
   "depth_v": 2
+ },
+ "archdaily.com/1188913/central-kitchen-graz-superfuturegroup": {
+  "title_ko": "도시의 일상과 연결된 대규모 생산 기지, 그라츠 중앙 주방",
+  "summary_ko": "오스트리아 그라츠에 완공된 중앙 주방은 매일 1만 5천 인분의 식사를 생산하는 대규모 시설이다. 수퍼퓨처그룹은 순환 경제 원칙과 지속 가능한 건축 요소를 적용하여 산업 시설의 폐쇄성을 극복하고 고품질의 작업 환경을 구현했다.",
+  "lens": "산업용 주방의 폐쇄적인 외관을 걷어내고 노동의 현장을 도시의 투명한 풍경으로 바꾼다.",
+  "why_now": "대규모 생산 시설이 도시 외곽으로 숨는 대신, 공공 인프라로서 투명하게 도시와 접촉하는 방식을 보여준다.",
+  "mechanism": "지상층에는 효율적인 식품 생산 동선을 배치하고, 상층부에는 사무와 휴게 공간을 마련해 기능과 노동 환경을 결합했다.",
+  "sensory": "금속 외관과 녹색 식물 벽이 어우러져 산업 시설의 차가운 물성을 중화하고 일상의 풍경을 만든다.",
+  "transfer": "공장이나 대형 주방을 촬영할 때, 외곽의 격리된 공간 대신 거리와 시선이 교차하는 투명한 파사드를 배경으로 설정한다.",
+  "context": "수퍼퓨처그룹이 설계한 이 프로젝트는 대규모 식품 생산의 기능적 요구와 도시 내 공공적 가치를 동시에 충족하는 건축적 시도로 진행되었다.",
+  "findings": [
+   {
+    "text": "오스트리아 그라츠에 위치한 중앙 주방은 매일 15,000인분의 식사를 생산하는 시설이다.",
+    "s": 2,
+    "quote": "오스트리아 그라츠에 위치한 중앙 주방은 매일 15,000인분의 식사를 생산하는 시설이다."
+   }
+  ],
+  "keywords": [
+   "중앙주방",
+   "순환경제",
+   "공공인프라",
+   "오스트리아"
+  ],
+  "evidence": "The new Central Kitchen Graz combines the requirements of a large-scale food production facility with an architectural concept focused on sustainability, circular economy principles, and high-quality working environments.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "대규모 생산 시설의 공공적 전환이라는 흥미로운 개념을 보여주나 구체적인 건축 상세가 부족하다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1188913/central-kitchen-graz-superfuturegroup",
+  "original_title": "Central Kitchen Graz / Superfuturegroup",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 1827,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-27 03:25",
+  "research": {
+   "entities": [
+    "Superfuturegroup",
+    "Central Kitchen Graz",
+    "Green4Cities",
+    "DOMICO",
+    "Duravit"
+   ],
+   "questions": [
+    "Central Kitchen Graz 프로젝트가 적용한 순환 경제 원칙과 지속 가능한 건축 요소는 무엇인가요?",
+    "대규모 급식 시설에서 고품질의 작업 환경을 조성하기 위해 건축적으로 어떤 설계를 도입했나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Duravit",
+     "url": "https://en.wikipedia.org/wiki/Duravit"
+    },
+    {
+     "n": 2,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "도시의 생산 기지를 투명한 공공 인프라로, 그라츠 중앙 주방",
+     "url": "https://www.designboom.com/architecture/green-metal-facade-plant-walls-municipal-kitchen-austria-central-kitchen-graz-superfuture-group/"
+    }
+   ],
+   "used": [
+    2
+   ],
+   "chars": 511
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "archdaily.com/1189300/construmat-2027": {
+  "title_ko": "지속가능한 산업화를 향한 바르셀로나 건축 박람회 컨스트루마트 2027",
+  "summary_ko": "스페인 바르셀로나의 그란 비아(Gran Via) 전시장에서 2027년 5월 18일부터 20일까지 국제 건축 박람회 컨스트루마트 2027이 열린다. 건축가와 엔지니어, 건설업계 관계자가 모여 지속가능한 건축을 위한 신소재와 산업화된 건설 시스템을 공유한다.",
+  "lens": "건축의 산업화와 기술적 진보를 통해 건설 공정의 효율을 재정의하는 자리다.",
+  "why_now": "건설 산업 전반이 탄소 발자국 절감을 위해 현장 중심의 시공에서 공장 생산 기반의 산업화된 건축으로 이행하는 시점이다.",
+  "mechanism": "다양한 제조사와 전문가 그룹을 한 장소에 모아 신소재와 건축 시스템을 직접 비교하고 검증하는 플랫폼으로 작동한다.",
+  "sensory": "전시장의 거대한 공간 속에서 신소재의 질감과 조립식 건축 시스템의 정밀한 결합 방식을 체감할 수 있다.",
+  "transfer": "공간 설계 시 모듈러 공법의 적용 가능성을 확인하거나, 신소재의 물성을 활용한 구조적 디테일을 콘티에 반영할 수 있다.",
+  "context": "바르셀로나 국제 건축 박람회는 매년 다양한 산업 전시를 주최하는 피라 데 바르셀로나(Fira de Barcelona)의 시설을 활용한다. 이번 행사는 건축의 기술적 고도화를 목표로 하는 업계의 흐름을 반영한다.",
+  "findings": [
+   {
+    "text": "피라 데 바르셀로나는 스페인 카탈루냐 지역의 주요 무역 전시 기관이다.",
+    "s": 2,
+    "quote": "Fira de Barcelona is a trade fair complex and institution in L'Hospitalet de Llobregat and Barcelona, Catalonia, Spain."
+   }
+  ],
+  "keywords": [
+   "건축박람회",
+   "산업화건축",
+   "지속가능성",
+   "신소재"
+  ],
+  "evidence": "impulsan una construcción más sostenible, industrializada y tecnológica",
+  "kind": "행사·공모",
+  "depth": 2,
+  "grounding": "thin",
+  "depth_reason": "행사 개최 소식을 알리는 정보성 공지이며 구체적인 기술적 작업 사례나 전시의 세부 내용은 부족하다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1189300/construmat-2027",
+  "original_title": "Construmat 2027",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 1021,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-27 03:25",
+  "research": {
+   "entities": [
+    "Construmat",
+    "Fira de Barcelona"
+   ],
+   "questions": [
+    "Construmat 2027에서 다루는 주요 지속 가능한 건축 기술은 무엇인가요?",
+    "Fira de Barcelona의 그란 비아(Gran Via) 전시장 개최 이력과 규모는 어떻게 되나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Construmat 2027",
+     "url": "https://www.archdaily.cn/1189303/construmat-2027?ad_name=article_cn_redirect=popup"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Fira de Barcelona",
+     "url": "https://en.wikipedia.org/wiki/Fira%20de%20Barcelona"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 546
+  },
+  "depth_raw": 2,
+  "depth_v": 2
+ },
+ "dezeen.com/2026/11/26/visa-logo-redesign-base-design": {
+  "title_ko": "비자(Visa), 익숙한 워드마크를 해체해 획득한 디지털 접점의 기동성",
+  "summary_ko": "베이스 디자인(Base Design)은 비자의 기존 워드마크를 유지하면서, 로고에서 추출한 ‘V’ 심볼과 전용 서체 ‘비자 산스(Visa Sans)’를 도입했다. 디스플레이 타입 파운드리(Displaay Type Foundry)와 협업한 이 서체는 로고의 둥근 모서리 형태를 계승한다. 또한 수평 바 그래픽을 활용해 결제 단말기부터 온라인 플랫폼까지 다양한 디지털 환경에 대응하는 시각 체계를 구축했다.",
+  "lens": "거대한 금융 네트워크의 추상성을 ‘V’라는 단일 기호로 축약해, 모바일 인터페이스와 결제 환경에서 즉각적인 인지도를 확보한다.",
+  "why_now": "디지털 결제 환경이 일상화되면서 브랜드가 노출되는 시간이 극도로 짧아진 상황에서, 기존 자산을 해체해 모듈화하는 전략이 유효하다.",
+  "mechanism": "기존 워드마크에서 ‘V’를 분리하여 독립적인 심볼로 만들고, 이를 수평 바 그래픽으로 감싸 모션과 방향성을 부여하는 방식을 취한다.",
+  "sensory": "로고의 둥근 모서리에서 파생된 서체의 부드러운 곡선이 디지털 화면 속에서 딱딱하지 않은 시각적 리듬을 형성한다.",
+  "transfer": "브랜드의 거대한 워드마크를 그대로 쓰기보다, 그 일부를 잘라내어 독립적인 아이콘으로 재구성하고 이를 모션 그래픽의 프레임으로 활용하라.",
+  "context": "베이스 디자인은 비자의 2021년 워드마크를 유지하며 과거의 자산을 해체해 현대적 환경에 맞게 재조립했다. 디스플레이 타입 파운드리는 룰루레몬 등 다수 브랜드의 전용 서체를 개발한 이력을 보유하고 있다.",
+  "findings": [
+   {
+    "text": "디스플레이 타입 파운드리는 브랜드와 제품을 위한 맞춤형 서체를 개발하여 시각적 이야기를 강화한다.",
+    "s": 1,
+    "quote": "We have helped companies enhance their unique visual stories by creating custom typefaces for their brands and products."
+   }
+  ],
+  "keywords": [
+   "베이스 디자인",
+   "비자",
+   "브랜드 아이덴티티",
+   "디스플레이 타입 파운드리"
+  ],
+  "evidence": "the studio cut the V out of the existing wordmark to function as its own symbol",
+  "kind": "브랜드·캠페인",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "기존 로고를 해체하여 새로운 그래픽 장치로 변환하는 구체적인 방법론이 제시되어 실무적 적용 가능성이 높다.",
+  "v": 2,
+  "url": "https://www.dezeen.com/2026/11/26/visa-logo-redesign-base-design/",
+  "original_title": "Base Design gives Visa a brand refresh \"for the next generation\"",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 3195,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-27 03:25",
+  "research": {
+   "entities": [
+    "Base Design",
+    "Visa",
+    "Displaay Type Foundry",
+    "Min Lew",
+    "Frank Cooper III"
+   ],
+   "questions": [
+    "Visa의 이번 브랜드 리프레시가 기존의 아이덴티티를 유지하면서도 어떻게 '다음 세대'를 위한 관련성을 확보하고자 했는가?",
+    "Visa Sans 서체와 새로운 심볼 디자인이 디지털 환경 및 소규모 접점(touchpoints)에서 사용자 경험에 어떤 변화를 주는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Homepage",
+     "url": "https://displaay.net/"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Evidence-based design",
+     "url": "https://en.wikipedia.org/wiki/Evidence-based%20design"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Visa Inc.",
+     "url": "https://en.wikipedia.org/wiki/Visa%20Inc."
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "유산의 해체와 복원: 베이스 디자인이 재정의한 비자 브랜드 아이덴티티",
+     "url": "https://www.creativeboom.com/news/visa-has-a-new-look-by-base-design-so-whats-actually-changed/"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "비자(Visa), 익숙한 워드마크를 해체하고 ‘V’의 파편으로 디지털 동선을 잇다",
+     "url": "https://www.itsnicethat.com/articles/base-design-visa-brand-refresh-graphic-design-project-241126"
+    }
+   ],
+   "used": [
+    1,
+    4,
+    5
+   ],
+   "chars": 4877
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "archdaily.com/1013852/fulldraw-winery-clayton-korte": {
+  "title_ko": "구릉과 석회암 지형에 스며든 풀드로 와이너리",
+  "summary_ko": "미국 캘리포니아 파소 로블레스의 100에이커 포도원에 위치한 풀드로 와이너리는 클레이턴 코르테가 설계를 맡았다. 6972제곱피트 규모의 이 건축물은 석회질 토양과 서늘한 해양성 기후를 지닌 템플턴 갭 구릉 지형에 숨겨지듯 자리 잡았다. 방문객은 포도원을 가로지르는 긴 곡선형 진입로를 거쳐 와이너리에 도달하게 된다.",
+  "lens": "구릉 지형을 감싸 안는 곡선형 진입로와 묻힌 듯한 볼륨으로 자연과 건축의 경계를 지운다.",
+  "why_now": "대규모 브랜드 건축이 자연을 압도하는 방식에서 벗어나, 지형과 기후 조건에 순응하며 밀도 높은 공간 경험을 구축하는 태도가 주목받고 있다.",
+  "mechanism": "100에이커의 포도원을 관통하는 긴 루프 형태의 진입로가 방문객의 시선을 서서히 유도하며 공간적 긴장감을 조율한다.",
+  "sensory": "석회암이 풍부한 대지의 거친 입자와 완만한 구릉의 곡선이 서늘한 해양성 기후 속에서 시각적 무게감을 형성한다.",
+  "transfer": "오프닝 씬에서 카메라가 피사체로 접근할 때, 직선 도로 대신 지형을 따라 휘어지는 긴 진입로를 활용해 공간의 은밀함을 극대화한다.",
+  "context": "클레이턴 코르테는 캘리포니아의 자연 지형과 기후에 밀착한 건축 작업을 다수 선보였으며, 이전 카유코스 릿지 barns 프로젝트에서도 깊은 처마와 주변 환경의 유기적 결합을 시도한 바 있다.",
+  "findings": [
+   {
+    "text": "Fulldraw 酒庄位于加利福尼亚州中部海岸葡萄酒产区的核心地带——坦普尔顿峡谷（Templeton Gap）法定种植区（AVA）。",
+    "s": 1,
+    "quote": "Fulldraw 酒庄位于加利福尼亚州中部海岸葡萄酒产区的核心地带——坦普尔顿峡谷（Templeton Gap）法定种植区（AVA）。"
+   },
+   {
+    "text": "项目坐落在一片占地 100 英亩的成熟葡萄园中，这里以肥沃的石灰岩土壤和凉爽的海洋性气候为特征，是种植罗纳河谷风格葡萄品种的绝佳之地。",
+    "s": 1,
+    "quote": "项目坐落在一片占地 100 英亩的成熟葡萄园中，这里以肥沃的石灰岩土壤和凉爽的海洋性气候为特征，是种植罗纳河谷风格葡萄品种的绝佳之地。"
+   }
+  ],
+  "keywords": [
+   "와이너리",
+   "지형순응",
+   "클레이턴코르테",
+   "석회암지형"
+  ],
+  "evidence": "Fulldraw Vineyard is located within the Templeton Gap AVA, the heart of California's Central Coast wine country.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "구체적인 와이너리 건축 프로젝트이나 원문 분량이 짧아 공간 내부의 세부 장치 확인이 제한적이다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1013852/fulldraw-winery-clayton-korte",
+  "original_title": "Fulldraw Winery / Clayton Korte",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 2367,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-27 03:25",
+  "research": {
+   "entities": [
+    "Clayton Korte",
+    "Fulldraw Winery",
+    "Templeton Gap AVA"
+   ],
+   "questions": [
+    "Fulldraw Winery의 건축 디자인이 Templeton Gap 지역의 기후와 지형적 특성을 어떻게 반영하고 있나요?",
+    "Clayton Korte가 추구하는 '친숙하면서도 독점적인' 와이너리 공간 경험은 구체적으로 어떤 건축적 요소로 구현되었나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Fulldraw 酒庄 / Clayton Korte",
+     "url": "https://www.archdaily.cn/1065182/fulldraw-jiu-zhuang-clayton-korte?ad_name=article_cn_redirect=popup"
+    },
+    {
+     "n": 2,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "포도원과 숲 사이에 세운 농업용 헛간",
+     "url": "https://www.archdaily.com/1185167/cayucos-ridge-barn-clayton-korte"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 1172
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "wallpaper.com/watches-jewellery/cora-sheibani-201-aluminium-jewellery-collection": {
+  "title_ko": "알루미늄의 물성을 빌려 확장한 볼륨, 코라 셰이바니의 201 컬렉션",
+  "summary_ko": "주얼리 디자이너 코라 셰이바니가 알루미늄을 주재료로 삼은 새로운 컬렉션 201을 선보였다. 알루미늄의 낮은 비용과 가공 용이성을 활용해 기존 귀금속으로는 구현하기 어려웠던 대형 조형미를 시도했다. 스위스에서 수작업으로 밀링과 조각 과정을 거쳐 완성하며, 금 나사와 고정 장치로 부품을 결합해 파스텔톤 보석과 조화를 이룬다.",
+  "lens": "귀금속의 관습을 벗어난 알루미늄의 가벼운 밀도가 조형의 스케일을 어디까지 확장할 수 있는지 증명한다.",
+  "why_now": "디지털 피로도가 높은 시대에 가공이 쉽고 물리적 부피감을 자유롭게 조절할 수 있는 산업 소재가 하이 주얼리의 새로운 문법으로 부상하고 있다.",
+  "mechanism": "납땜이 불가능한 알루미늄의 특성을 역이용하여 금 나사와 고정 장치를 노출하는 기계적 결합 방식을 택했다. 이는 재료 간의 이질적인 물성을 시각적 장식 요소로 전환하는 전략이다.",
+  "sensory": "산화 알루미늄의 매트하고 차가운 금속 질감과 그 위에 세팅된 파스텔톤 보석의 부드러운 빛이 극명한 대비를 이룬다.",
+  "transfer": "금속 부품을 용접 대신 나사로 고정하는 방식을 차용해 산업적 구조미를 강조하는 오브제나 공간 디테일을 설계할 수 있다. 대형 알루미늄 조형물을 밀링으로 깎아내어 무게감을 덜어낸 형태를 영상의 프롭으로 활용하라.",
+  "context": "코라 셰이바니는 형태와 색채의 대비를 탐구해왔으며, 2026년 마스트리흐트 유럽 미술 재단(TEFAF) 아트 페어에 처음 참여한 이후 2027년에도 참가를 앞두고 있다. 마스트리흐트 유럽 미술 재단은 7천 년의 미술사를 다루며 엄격한 검증 시스템으로 동시대 디자인의 흐름을 조망하는 권위 있는 행사다.",
+  "findings": [],
+  "keywords": [
+   "알루미늄",
+   "산업적 물성",
+   "조형적 확장",
+   "코라 셰이바니"
+  ],
+  "evidence": "What was fantastic about sculpting in aluminium was that we could make really large shapes",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "전통적인 귀금속 제작 방식을 알루미늄이라는 산업 소재로 치환하며 발생한 구조적 변화와 결합 기법을 구체적으로 제시했다.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/watches-jewellery/cora-sheibani-201-aluminium-jewellery-collection",
+  "original_title": "‘Aluminum gave us freedom’: London jeweller Cora Sheibani works with a new metal",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 1846,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-27 03:25",
+  "research": {
+   "entities": [
+    "Cora Sheibani",
+    "TEFAF Maastricht"
+   ],
+   "questions": [
+    "알루미늄의 물리적 특성이 기존 귀금속 주얼리 제작 방식과 비교했을 때 디자인 구현에 어떤 차이를 만드는가?",
+    "코라 셰이바니가 알루미늄과 보석을 결합하는 과정에서 금속을 납땜하지 않고 나사와 고정 장치를 사용하는 기술적 이유는 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Cora Sheibani",
+     "url": "https://www.corasheibani.com/"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "TEFAF | TEFAF Maastricht",
+     "url": "https://www.tefaf.com/fairs/tefaf-maastricht"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "유럽 미술 재단 아트 페어, 40주년 기념 2027 라인업 공개",
+     "url": "https://www.artforum.com/news/tefaf-maastricht-announces-2027-participants-1234763751/"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3
+   ],
+   "chars": 2851
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "archdaily.com/1188938/zunli-tea-house-out-of-office-design": {
+  "title_ko": "쑤저우 구쑤의 낡은 주택, 가구와 식물로 완성한 정원적 풍경",
+  "summary_ko": "중국 쑤저우 구쑤 지구의 노후 주택을 개조한 쥔리(Zunli) 찻집은 구조 변경이 불가능한 제약 속에서 가구와 식물, 마감재를 활용해 공간을 재구성했다. 아웃 오브 오피스 디자인(OUT OF OFFICE DESIGN)은 벽면을 훼손하지 않고 전기 배선을 노출하는 방식을 택하며 고전 정원의 변화하는 풍경을 실내에 구현했다.",
+  "lens": "구조적 한계를 역으로 활용해 가구와 식물을 공간의 주체로 세우고, 고정된 벽체 대신 시각적 레이어를 쌓아 정원의 깊이를 재현했다.",
+  "why_now": "건물의 원형을 보존해야 하는 도시 재생 현장에서 물리적 개입을 최소화하면서도 공간의 분위기를 완전히 전환하는 전략이 요구되는 시점이다.",
+  "mechanism": "벽면을 깎지 않고 전기 설비를 외부로 노출하는 방식을 택해 기존 구조를 보호하며, 가구 배치와 식재를 통해 시선의 깊이와 변화를 유도하는 시노그래피를 설계했다.",
+  "sensory": "오래된 건물의 거친 질감과 노출된 배관의 기계적 선, 그 사이를 채우는 식물의 생명력과 정적인 가구의 수평적 배치가 만드는 대조가 핵심이다.",
+  "transfer": "현장 구조를 수정할 수 없는 촬영지나 공간 연출 시, 벽면 매립 대신 노출 배관과 이동식 가구, 식재를 활용해 공간의 밀도를 조절하는 방식을 제안한다.",
+  "context": "아웃 오브 오피스 디자인은 쑤저우의 역사적 맥락을 유지하면서도 현대적인 일상과 전통 정원의 미학을 결합하는 리노베이션 작업을 수행했다.",
+  "findings": [],
+  "keywords": [
+   "공간리노베이션",
+   "쑤저우건축",
+   "시노그래피",
+   "정원미학"
+  ],
+  "evidence": "Electrical conduits were therefore surface-mounted, while furniture, planting and finishes became the principal means of reshaping the interior.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "구조적 제약을 극복한 리노베이션 전략은 명확하지만, 상세한 공간 구성이나 재료의 물성에 대한 정보가 제한적이다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1188938/zunli-tea-house-out-of-office-design",
+  "original_title": "Zunli Tea House / OUT OF OFFICE DESIGN",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 1397,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-27 03:28",
+  "research": {
+   "entities": [
+    "OUT OF OFFICE DESIGN",
+    "Gusu district",
+    "Suzhou"
+   ],
+   "questions": [
+    "중국 쑤저우의 역사 지구에 위치한 오래된 주거 공간을 리노베이션할 때 직면하는 구조적 제약과 해결 방법은 무엇인가요?",
+    "전통적인 중국 정원의 공간적 특징을 현대적인 소규모 실내 인테리어에 어떻게 녹여낼 수 있나요?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
  }
 }
