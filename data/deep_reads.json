@@ -409287,5 +409287,618 @@
   },
   "depth_raw": 3,
   "depth_v": 2
+ },
+ "archdaily.com/1189089/verriere-house-projectoire": {
+  "title_ko": "베리에 하우스: 헛간의 뼈대 위에 얹은 투명한 시간의 레이어",
+  "summary_ko": "캐나다 맨슨빌의 전원 지대에 위치한 베리에 하우스는 기존 헛간을 주거 공간으로 개조한 후 이를 다시 증축한 프로젝트다. 건축가 니콜라 보콥자가 이끄는 프로젝투아르 팀은 1800평방피트 규모의 부지에 주변 산세와 어우러지는 새로운 건축적 층위를 더했다. 사진가 율리스 르메리스 부샤르가 기록한 이 공간은 과거의 산업적 골조와 현대적 거주 환경의 결합을 보여준다.",
+  "lens": "기존 헛간의 거친 골조를 보존하고 그 위에 투명한 증축부를 덧대어, 시간의 궤적을 물리적 공간의 대비로 시각화했다.",
+  "why_now": "기존 건축 유산을 보존하면서도 현대적 거주 기능에 맞게 확장하는 방식은 지속 가능한 건축의 핵심 과제다.",
+  "mechanism": "헛간의 원형을 유지하는 구조적 골조와 대비되는 매끄러운 유리 면을 증축부에 도입해, 내부와 외부의 시각적 문턱을 제거했다.",
+  "sensory": "오래된 목재 헛간의 거친 질감과 증축부의 서늘하고 투명한 유리가 교차하며 빚어내는 빛의 산란이 공간의 깊이를 결정한다.",
+  "transfer": "기존 공간의 창틀이나 골조를 프레임으로 활용하여 외부 풍경을 액자처럼 담아내는 고정 샷 연출에 적용 가능하다.",
+  "context": "본 프로젝트는 캐나다 포튼 지역의 전원적 맥락을 공유한다. 같은 지역의 와일드 폰드 빌라 프로젝트를 촬영한 율리스 르메리스 부샤르가 이번 작업의 사진을 맡아 지역적 풍경의 일관성을 기록했다.",
+  "findings": [
+   {
+    "text": "와일드 폰드 빌라는 캐나다 포튼의 해안 보호 구역에 위치하며 기존 건물의 점유 면적을 유지하는 법적 제약을 준수했다.",
+    "s": 1,
+    "quote": "캐나다 포튼의 와일드 폰드 빌라는 화재로 소실된 1970년대 주택을 철거한 자리에 들어선 2700평방피트 규모의 거주지다."
+   }
+  ],
+  "keywords": [
+   "헛간 개조",
+   "증축 건축",
+   "산업적 골조",
+   "포튼",
+   "캐나다 주거"
+  ],
+  "evidence": "The project involves the extension of an old barn that had previously been converted into a family residence.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "기존 헛간을 활용한 증축이라는 명확한 유형을 제시하나, 상세한 구조적 디테일이나 재료의 물성 정보가 부족하다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1189089/verriere-house-projectoire",
+  "original_title": "Verrière House / Projectoire",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 1134,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-28 06:35",
+  "research": {
+   "entities": [
+    "Projectoire",
+    "Ulysse Lemerise Bouchard",
+    "Nicolas Bokobza",
+    "Atelier Gris"
+   ],
+   "questions": [
+    "오래된 낭떠러지나 헛간을 주거 공간으로 개조할 때 구조적 안정성과 단열은 어떻게 확보되었는가?",
+    "캐나다 퀘벡 주 팟톤(Potton) 지역의 자연환경과 건축물이 어떻게 조화를 이루고 있는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "와일드 폰드 빌라, 해안 보호 구역에서 지중해의 정취를 재건하는 방식",
+     "url": "https://www.archdaily.com/1186824/wild-pond-villa-l-mccomber"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 260
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "archdaily.com/1035818/intermodal-hub-of-lousada-spaceworkers": {
+  "title_ko": "포르투갈 루사다의 다중 모달 허브: 문화적 활력을 잇는 도시의 관문",
+  "summary_ko": "포르투갈 루사다 북부에 위치한 다중 모달 허브는 주거 단지, 문화 공간, 도로망을 통합하는 거점이다. 스페이스워커스(spaceworkers)는 음악원과 로마네스크 건축 해석 센터가 자리한 문화적 요충지에 이 시설을 설계하여 도시의 북부 확장과 지역 재생을 지원한다.",
+  "lens": "단순한 교통 시설을 넘어 문화 시설과 주거지를 잇는 도시의 물리적 교차점으로 기능하며 지역의 정체성을 재정립한다.",
+  "why_now": "도시 외곽의 팽창 속에서 파편화된 인프라를 문화적 거점과 결합해 유기적인 공공 공간으로 회복시키려는 시도가 중요해졌다.",
+  "mechanism": "기존 인프라와 새로운 도로망을 연결하는 다중 모달 구조를 통해 보행자와 차량의 동선을 효율적으로 분산하고 통합한다.",
+  "sensory": "주변의 역사적 문화 시설과 대비되는 현대적인 골조가 루사다 북부의 새로운 경관을 형성하며, 개방된 공간 구조를 통해 도시의 확장성을 시각적으로 체감하게 한다.",
+  "transfer": "광고 콘티 구성 시, 서로 다른 성격의 공간(문화시설-교통허브)을 하나의 롱테이크 동선으로 연결해 도시의 맥락을 설명하는 카메라 워킹을 활용한다.",
+  "context": "스페이스워커스는 포르투갈을 기반으로 활동하며 지역의 지형과 맥락을 건축적 언어로 번역하는 작업을 지속해왔다. 이번 프로젝트는 루사다의 로마네스크 건축 해석 센터와 음악원이라는 기존 문화적 자산과 물리적·기능적 접점을 형성하는 데 주력했다.",
+  "findings": [],
+  "keywords": [
+   "다중모달허브",
+   "도시재생",
+   "스페이스워커스",
+   "공공건축",
+   "루사다"
+  ],
+  "evidence": "The planned intervention is located in the northern area of Lousada, a growing zone where new residential clusters, cultural spaces, and an expanded road network are being proposed",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "도시적 맥락과 문화적 연결성은 명확하나, 구체적인 설계 기법이나 재료의 물성에 대한 정보가 부족하여 3점을 부여한다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1035818/intermodal-hub-of-lousada-spaceworkers",
+  "original_title": "Intermodal Hub of Lousada / spaceworkers",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 1552,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-28 06:35",
+  "research": {
+   "entities": [
+    "spaceworkers",
+    "Rui Dinis",
+    "Henrique Marques",
+    "Romanesque Interpretation Center"
+   ],
+   "questions": [
+    "로사다(Lousada)의 도시 확장 계획에서 이 다중 모달 허브가 수행하는 구체적인 교통적 역할은 무엇인가요?",
+    "건축가 spaceworkers는 주변의 문화 시설인 음악원 및 로마네스크 해석 센터와 조화를 이루기 위해 어떤 디자인 전략을 사용했나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "洛萨达多式联运枢纽 / spaceworkers",
+     "url": "https://www.archdaily.cn/1152625/luo-sa-da-duo-shi-lian-yun-shu-niu-spaceworkers?ad_name=article_cn_redirect=popup"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 598
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "stashmedia.tv/jungler-gets-hands-on-for-action-against-hunger": {
+  "title_ko": "손으로 빚은 선과 거친 질감, 아크션 콘트라 라 팸의 수작업 애니메이션",
+  "summary_ko": "프랑스 NGO 아크션 콘트라 라 팸을 위해 감독 마르게리타 프레무로소와 제작사 융글러가 손으로 직접 그린 애니메이션을 제작했다. 이 영상은 정교하게 다듬어진 디지털 미학 대신 거친 질감과 깊은 흑백 대비를 사용하여 영양실조의 현실을 시각화한다.",
+  "lens": "매끄러운 디지털 렌더링을 거부하고 재료에 긁힌 듯한 수작업 흔적을 남아 비극의 무게를 각인한다.",
+  "why_now": "디지털 피로감이 극에 달한 시점에서, 손으로 그은 선의 불규칙성과 물질성이 지닌 아날로그 물성이 사회적 메시지의 설득력을 높인다.",
+  "mechanism": "제한된 색채 팔레트와 깊은 블랙 톤을 사용하여 유기적인 질감과 선의 거친 궤적을 강조한다.",
+  "sensory": "화면을 가득 채우는 짙은 암부와 거칠게 파인 선의 질감이 시각적 긴장감을 자극한다.",
+  "transfer": "디지털 그래픽에 거친 목탄이나 잉크의 질감을 덧입히는 질감 레이어를 추가해 콘티의 건조함을 상쇄한다.",
+  "context": "아크션 콘트라 라 팸은 1979년에 설립되어 전 세계 56개국에서 기아 퇴치 활동을 벌여온 글로벌 인도주의 기구이다.",
+  "findings": [
+   {
+    "text": "Action Against Hunger was established in 1979 by a group of French doctors, scientists, and writers.",
+    "s": 1,
+    "quote": "Action Against Hunger was established in 1979 by a group of French doctors, scientists, and writers."
+   }
+  ],
+  "keywords": [
+   "수작업 애니메이션",
+   "아날로그 물성",
+   "사회적 메시지",
+   "질감"
+  ],
+  "evidence": "Director Margherita Premuroso, Paris prodco Jungler, and agency La Chose pull no punches in this raw and haunting hand-animated film for the pioneering French NGO, Action Against Hunger.",
+  "kind": "영상·필름",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "전통적 수작업 애니메이션의 물성을 사회적 메시지에 결합한 방식이 선명하나 전형적인 공익 캠페인 형식을 크게 벗어나지 않는다.",
+  "v": 2,
+  "url": "https://www.stashmedia.tv/jungler-gets-hands-on-for-action-against-hunger/",
+  "original_title": "Jungler Keeps it Hands-On for Action Against Hunger",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 3442,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-28 06:35",
+  "research": {
+   "entities": [
+    "Jungler",
+    "Action Against Hunger",
+    "Margherita Premuroso",
+    "La Chose"
+   ],
+   "questions": [
+    "Action Against Hunger가 45년간 영양실조 치료를 위해 어떤 활동을 해왔으며, 현재 직면한 주요 과제는 무엇인가요?",
+    "전통적인 수작업 애니메이션 기법이 사회적 메시지를 전달하는 영상에서 어떤 시각적, 감정적 효과를 만들어내나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Action Against Hunger",
+     "url": "https://en.wikipedia.org/wiki/Action%20Against%20Hunger"
+    },
+    {
+     "n": 2,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "맨체스터에서 열리는 모션 노스 2027, 20명 이상의 연사 라인업 공개",
+     "url": "https://www.stashmedia.tv/motion-north-2027-goes-big-march-10-11-in-manchester/"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 1669
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "dezeen.com/2026/11/27/programa-extension-sketchup-models-and-product-schedules-one-workflow": {
+  "title_ko": "스케치업 모델과 제품 사양의 실시간 동기화, 프로그램(Programa) 확장 프로그램",
+  "summary_ko": "인테리어 스튜디오 운영 소프트웨어 프로그램(Programa)이 스케치업(SketchUp)용 확장 프로그램을 출시했다. 3D 모델의 컴포넌트와 프로그램의 제품 사양표(Schedule)를 직접 연결하여, 설계 변경 시 수량과 치수 데이터를 양방향으로 동기화한다. 이를 통해 디자이너는 스프레드시트 중복 입력 없이 모델링과 발주 정보를 일원화된 워크플로우로 관리할 수 있다.",
+  "lens": "3D 모델링의 비정형적 형태와 사양표의 정량적 데이터를 단일한 데이터베이스로 묶어 설계와 시공 사이의 정보 격차를 제거한다.",
+  "why_now": "설계 변경이 잦은 인테리어 실무에서 3D 모델과 엑셀 사양표를 별도로 관리하며 발생하는 데이터 누락과 버전 혼선을 방지하기 위함이다.",
+  "mechanism": "스케치업 모델 내 컴포넌트를 프로그램의 제품 사양표와 연결하여, 모델에서 수량을 수정하면 사양표가 연동되고 반대로 제품 정보가 업데이트되면 모델에 즉시 반영하는 구조다.",
+  "sensory": "파편화된 데이터가 단일 인터페이스로 수렴하며, 3D 모델의 입체적 형태와 사양표의 텍스트 정보가 하나의 흐름으로 정렬되는 시각적 질서를 제공한다.",
+  "transfer": "공간 설계 시 가구와 마감재의 수량 산출을 모델링 단계에서 자동화하고, 수정 사항 발생 시 사양표를 별도 수정하지 않고 모델링 툴 안에서 즉각 동기화하는 워크플로우를 구축한다.",
+  "context": "프로그램은 인테리어 디자인 실무의 스프레드시트 의존도를 낮추고 데이터베이스 기반의 관리를 지향하는 스튜디오 운영 소프트웨어다. 이전에는 자재 수치와 공급망을 통합하는 플랫폼으로 실무 스튜디오의 효율을 높이는 데 집중해 왔다.",
+  "findings": [
+   {
+    "text": "프로그램은 인테리어 디자인 스튜디오를 위한 프로젝트 관리 및 사양 소프트웨어로, 옴므보이 인테리어 등 실무 스튜디오에서 사용 중이다.",
+    "s": 3,
+    "quote": "Programa is the interior design software studios choose to run the work: purpose-built project management and specification software for interior designers and architects"
+   },
+   {
+    "text": "스케치업은 1999년 @Last Software가 설립한 이후 구글을 거쳐 2012년 트림블(Trimble)에 인수된 3D 모델링 소프트웨어다.",
+    "s": 4,
+    "quote": "SketchUp was founded by @Last Software in 1999, before the company was acquired by Google in 2006. Google subsequently sold Sketchup to Trimble Inc. in 2012."
+   }
+  ],
+  "keywords": [
+   "스케치업",
+   "데이터동기화",
+   "워크플로우",
+   "인테리어설계",
+   "사양관리"
+  ],
+  "evidence": "The extension is designed to reduce duplicate data entry by connecting a 3D model in SketchUp with a project’s Schedule in Programa.",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "3D 모델링과 사양 데이터의 양방향 연동이라는 구체적인 실무 개선책을 제시하며, 설계 효율을 높이는 기술적 장치가 명확하다.",
+  "v": 2,
+  "url": "https://www.dezeen.com/2026/11/27/programa-extension-sketchup-models-and-product-schedules-one-workflow/",
+  "original_title": "Programa extension brings SketchUp models and product schedules into one workflow",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 4846,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-28 06:35",
+  "research": {
+   "entities": [
+    "Programa",
+    "SketchUp"
+   ],
+   "questions": [
+    "Programa의 스케줄 관리 기능이 기존의 스프레드시트 기반 작업 방식과 비교했을 때 건축 및 인테리어 설계 워크플로우에서 갖는 구체적인 효율성은 무엇인가?",
+    "SketchUp 모델과 Programa의 제품 데이터 간의 양방향 동기화 과정에서 데이터 무결성을 유지하기 위해 사용자가 고려해야 할 제약 사항은 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Specification & Schedule Software for Interior Designers and Architects | Programa",
+     "url": "https://programa.design/features/schedule-software-for-interior-designers-architects-clients"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Product Library for Interior Designers - Programa | Programa",
+     "url": "https://programa.design/features/product-libraries"
+    },
+    {
+     "n": 3,
+     "type": "공식·1차",
+     "title": "Interior Design Project Management Software | Programa",
+     "url": "https://programa.design/"
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "SketchUp",
+     "url": "https://en.wikipedia.org/wiki/SketchUp"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "디진 어워즈 2026 대중 투표가 선택한 14개의 인테리어 수상작",
+     "url": "https://www.dezeen.com/2026/10/27/dezeen-awards-public-vote-winner-interiors-2026/"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "스프레드시트를 넘어: 인테리어 실무의 데이터와 자재를 엮는 운영 소프트웨어 프로그램",
+     "url": "https://www.dezeen.com/2026/11/19/programa-interior-design-software/"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3,
+    4,
+    6
+   ],
+   "chars": 8805
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "architecturaldigest.com/story/quince-black-friday-sale-11-27-26": {
+  "title_ko": "쿠인스 블랙프라이데이 홈 세일: 매일 갱신되는 텍스처의 기록",
+  "summary_ko": "건축·디자인 매체 아키텍처럴 다이제스트가 유렵산 리넨 침구와 벨벳 소파 등 홈퍼니싱 베스트셀러를 할인하는 쿠인스의 블랙프라이데이 프로모션을 조명한다. 매일 24시간마다 할인 품목이 교체되며 11월 30일까지 진행되는 이번 행사는 거실과 침실의 물성을 재정비할 기회를 제공한다. 리넨, 벨벳, 가즈 등 일상 속에서 손에 닿는 소재의 질감을 전면에 내세운다.",
+  "lens": "매일 바뀔 품목의 나열 뒤에서, 일상의 표면을 쥐고 흔드는 텍스처의 물성을 감지한다.",
+  "why_now": "소비재의 단순한 가격 인하를 넘어, 연말을 앞두고 공간의 온도를 바꾸는 재료적 선택에 주목할 시점이다.",
+  "mechanism": "유럽산 플랙스 리넨과 퍼포먼스 벨벳 등 촉각적 밀도가 높은 소재를 배치하여 공간에 깊이감을 부여한다.",
+  "sensory": "시간이 흐를수록 부드러워지는 리넨의 결합과 다크 브라운 벨벳이 흡수하는 묵직한 거실의 빛.",
+  "transfer": "공간 세트나 실내 씬 촬영 시, 빛을 반사하는 광택 소재 대신 세 번 이상 세탁해 부드러워진 리넨 패브릭을 배경 벽면에 드리워 질감의 깊이를 더한다.",
+  "context": "쿠인스는 유통 마진을 줄이고 공장 직거래를 통해 합리적인 가격에 홈퍼니싱을 선보여왔으며, 이번 기획은 그간 에디터들이 검증해 온 베스트셀러들을 모았다.",
+  "findings": [
+   {
+    "text": "The Fellow Corvo EKG Pro Electric Kettle combines precise temperature control with a wide pour spout for everything from tea and coffee to hot cocoa and everyday hot water.",
+    "s": 3,
+    "quote": "The Fellow Corvo EKG Pro Electric Kettle combines precise temperature control with a wide pour spout for everything from tea and coffee to hot cocoa and everyday hot water."
+   },
+   {
+    "text": "Woven from 100% European flax, this bedding set features pre-washed linen that naturally softens over time.",
+    "s": 1,
+    "quote": "Woven from 100% European flax, this bedding set features pre-washed linen that naturally softens over time."
+   }
+  ],
+  "keywords": [
+   "홈퍼니싱",
+   "리넨",
+   "벨벳소파",
+   "텍스처",
+   "블랙프라이데이"
+  ],
+  "evidence": "AD-tested sheets and furniture best sellers are up to 30% off for a limited-time only",
+  "kind": "리스트·라운드업",
+  "depth": 2,
+  "grounding": "full",
+  "depth_reason": "단순 홈 브랜드 할인 프로모션을 소개하는 쇼핑 가이드 기사이므로 깊이 점수를 낮게 부여한다.",
+  "v": 2,
+  "url": "https://www.architecturaldigest.com/story/quince-black-friday-sale-11-27-26",
+  "original_title": "8 Best Quince Black Friday Sale Home Deals 2026",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 5224,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-28 06:35",
+  "research": {
+   "entities": [
+    "Quince",
+    "Fellow"
+   ],
+   "questions": [
+    "Quince의 블랙프라이데이 세일은 매년 어떤 방식으로 할인 품목을 변경하나요?",
+    "기사에 언급된 Fellow Corvo EKG 전기 주전자의 주요 특징과 장점은 무엇인가요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "100% European Linen Stripe Duvet Cover Set",
+     "url": "https://cna.st/affiliate-link/cpMzueKu8CceqKwduDN4h7ooPkEgMxsUKdZHavnfr6vZMk6wUCQp7Ea9UVUo31tCkUve4LCPLzVpNaBnhEXbBpzEatPgyGPNfiKy3yHEWCdDiZ6Nx1n1JvdH2CTrGZnCZQxuWPkijRiejExoGXkhatoFS9V8aeQbnymya2mpaNhPaZfb2yU27tzd4gWsay9YsZxMSzjSHBDwVwkb3FZRtqxZUPNp7NcnnVgzFoTAKgaBwk2jikrx4NCLoYqzpT4PMkTAAWis9hiGYro8ZppHJdEzwo9KZMh26Fq1BzhBjCUM6YcBot8xddfUaNBh3vuApyjiW4bBRypq7VyNAxRqA5TXDevw4SywygYtXz9De4GFU2tLRauFRkrovg"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Handcrafted Wingback Bed in Performance Linen Blend",
+     "url": "https://cna.st/affiliate-link/2qdfcznXFEUkJpx2AZbTVL8huSCGCbqPvhZbdyNjvo5FJYKtq5m3gEfhv697ojWGHTERL3VQwBdw6WSW2M6rJfmbKg5uTwVDuAuy633kEftRfLLH8FywogY6qBkDFCMbhaqgcXAjzY5pRNWCRA6FdKGYRsxvoNZiAfdfuAoevh2pCJDgXJqZNsDUbL6vmayiUysMmLAixqYhsuTXX2NqWfhyCT6HxVpHC1u3YFpsscaiEDz25x9gDUgx6o1TFmj1AzTV1kiU8X87soKR3NYqjWU7QPR1JbbF95J9tbV7EPs5gZG3QV5USaLAwkCt1wRf2jGjeuRpStQZHYmrieciRknccXpn8CvE6s5Z2NfHVGp4PEHra2LJ47RA"
+    },
+    {
+     "n": 3,
+     "type": "공식·1차",
+     "title": "Fellow Corvo EKG Pro Electric Kettle",
+     "url": "https://cna.st/affiliate-link/2EvexLQGf2tBVVFrmuH4H95DwS2VhW4vxexVxMNUNoCBx7LaKw3smyH2TVn43KKp3XtxBoDx698s3xxZj1RwiXsuPZa2EjDV3wT4o8qmCWHnv3ezrp3vsYF4DqMYHbaot4VZghrZGMCXquxf9tWZkoifvJu1KTARAb2EwCcqAomdKC7Lo7XCYDEhaAESnEBZwcfYMAwkexXmzP18cCBsWvmmeZQoquLLNLns45r5MsMJERA8zehQ477zuGJ4AfwxR7qHQRoZHy24crEyZGRLfUGbKmfayytGdcJLNeEVS461VMpti9HanEgdHCz58HRb4MEQ3QjkciJ2kYTHXKt18MwiNNRRy9hhNhUQEYAfoejnUkxb326c"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "피그마 앤섬 필름: 오드펠로우즈가 시각화한 코드와 디자인의 공생",
+     "url": "https://www.stashmedia.tv/oddfellows-weave-together-design-and-code-for-figma/"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "공예 아카이브 펠로우십이 재조명하는 소수자 공예의 서사",
+     "url": "https://hyperallergic.com/announcing-the-2026-center-for-craft-archive-fellows/"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "공간에 텍스처를 더하는 10가지 홈 데코 쿠션 브랜드",
+     "url": "https://www.architecturaldigest.com/story/best-throw-pillows"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3,
+    6
+   ],
+   "chars": 3713
+  },
+  "depth_raw": 2,
+  "depth_v": 2
+ },
+ "architecturaldigest.com/story/albany-park-kova-relaunch": {
+  "title_ko": "알바니 파크 코바 컬렉션: 모듈형 소파의 구조적 유연성과 착석감 최적화",
+  "summary_ko": "알바니 파크(Albany Park)가 코바(Kova) 라인을 재설계하며 각진 형태의 '박스'와 부드러운 곡선의 '필로우' 두 가지 실루엣을 선보였다. 사용자는 32가지 패브릭 옵션과 세 가지 강도의 쿠션 중 취향을 선택할 수 있으며, 멕시코 엘 플로리도 공장에서 제작해 7일 이내 배송한다. 구매 후 착석감이 맞지 않을 경우 60일 이내에 쿠션을 무상 교체해주는 서비스도 포함한다.",
+  "lens": "온라인 가구 구매의 불확실성을 '쿠션 강도 선택제'와 '60일 무상 교체'라는 물리적 사후 대응으로 돌파한 점이 핵심이다.",
+  "why_now": "소파를 단순한 가구가 아닌 사용자의 신체와 생활 방식에 맞춘 '개인화된 건축'으로 재정의하려는 흐름이 뚜렷하다.",
+  "mechanism": "박스형과 필로우형으로 나뉜 모듈 구조는 공간의 성격에 따라 2인용부터 U자형 섹션까지 자유로운 배치를 지원한다. 자체 공장 생산 체계를 통해 주문 즉시 제작에 착수하여 맞춤형 가구의 긴 대기 시간을 7일로 단축했다.",
+  "sensory": "견고한 하드우드 프레임이 주는 안정적인 무게감과 선택 가능한 쿠션의 탄성 차이가 실내 공간의 밀도를 결정한다.",
+  "transfer": "공간 연출 시 소파의 실루엣(직선형 대 곡선형)을 선택해 공간의 긴장감을 조절하고, 모듈 조합을 통해 동선과 수납의 효율을 극대화하는 콘티를 구성한다.",
+  "context": "알바니 파크는 30년 이상의 가구 제작 경력을 가진 자체 공장을 운영하며, 이전의 기성품 중심 유통에서 벗어나 제작 전 과정을 직접 통제하는 방식으로 전환했다. 이는 가구의 내구성과 배송 속도를 동시에 확보하려는 브랜드의 전략적 변화를 보여준다.",
+  "findings": [
+   {
+    "text": "알바니 파크는 멕시코 엘 플로리도에 자체 공장을 보유하고 있으며, 모든 소파를 주문 제작 방식으로 7일 이내에 출고한다.",
+    "s": 1,
+    "quote": "Your sofa is built to order in your fabric and your finish in our own factory in El Florido, Baja California, and it leaves our floor in a week."
+   },
+   {
+    "text": "소파의 착석감을 결정하는 쿠션 강도를 세 가지로 세분화하여 고객이 선택할 수 있게 했다.",
+    "s": 1,
+    "quote": "Kova is built in the comfort you choose: soft, medium, or firm. We'll help you find the right one."
+   },
+   {
+    "text": "구매 후 60일 이내에 쿠션이 사용자에게 맞지 않을 경우 무상으로 교체해주는 프로그램을 운영한다.",
+    "s": 1,
+    "quote": "If it turns out not to be right for you, we'll exchange your cushions within 60 days of delivery, in your home, on us."
+   }
+  ],
+  "keywords": [
+   "모듈형가구",
+   "공간설계",
+   "커스터마이징",
+   "가구디자인"
+  ],
+  "evidence": "I think of them as the same architecture with two different personalities",
+  "kind": "제품·오브제",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "제품의 재설계와 서비스 정책을 구체적으로 설명했으나, 디자인적 혁신보다는 기존 모듈 가구의 서비스 강화에 초점이 맞춰져 있다.",
+  "v": 2,
+  "url": "https://www.architecturaldigest.com/story/albany-park-kova-relaunch",
+  "original_title": "Albany Park Kova Collection Black Friday Sale (2026)",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 3458,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-28 06:35",
+  "research": {
+   "entities": [
+    "Albany Park"
+   ],
+   "questions": [
+    "Albany Park의 Kova 컬렉션이 제공하는 모듈형 소파의 구성 방식과 커스터마이징 옵션은 무엇인가요?",
+    "가구 구매 시 온라인 정보만으로 착석감을 판단하기 어려운 문제를 해결하기 위해 Albany Park는 어떤 고객 지원 정책을 시행하고 있나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Modern Sofas, Sectionals & Armchairs | Albany Park",
+     "url": "https://cna.st/affiliate-link/mKseyLofgnunoR2z4XVKu9RZRqSuoGy8dzvT6iw3QKGq9L6hpodV8qCyZq2zEq5MVAZBAwCBFAzENxQUxsX5CPpoBEQTUYrxKgsp271bXWhiJGC8G17gJqRBxCWuV8Sr4saku1VKXa1kiidUVugp3eXRcTqZupyrvbCZUgacoiPYzAgfrnf5GcZuJA7LYTMowNo4V2t8hTkpNPjBxntPVBkBAEPt6eWtYSbRNdCXQzcD4haWoKh5ypk5D4acLarBKBegCWaAf5zsrUwTxJS2JNQgkvCdz7JarcTGoMiTPvj61D1wcSA9amiLWdfq1HT15mjJFcmckbgaji9H3SZJbd67dj4AYSma"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 2113
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "designboom.com/architecture/aluminum-composite-shell-bamboo-interior-lavvu-mobile-home-unit-armenia-re-buro": {
+  "title_ko": "자동차 공학으로 빚은 22㎡의 이동식 주택, 라부(LAVVU) XL",
+  "summary_ko": "아르메니아의 스튜디오 리뷔로(Re:Büro)가 선보인 라부(LAVVU) XL은 자동차 제조 공정을 주거 건축에 이식한 모듈형 이동식 주택이다. 용접된 강철 프레임과 알루미늄 복합재 쉘을 결합해 단일 볼륨으로 제작하며, 내부에는 대나무 마감과 슬라이딩 주방 아일랜드를 배치해 22㎡의 좁은 면적을 효율적으로 활용한다.",
+  "lens": "산업용 강철 골조와 유기적인 대나무 내장재를 교차시켜, 이동식 주택이 가진 차가운 공학적 정밀함과 거주 공간의 온기를 동시에 확보한다.",
+  "why_now": "현장 시공의 불확실성을 배제하고 공장에서 완제품을 생산하는 방식은 기후 변화와 지형 제약이 심한 환경에서 주거의 유연성을 확보하는 핵심 대안이 된다.",
+  "mechanism": "자동차 제조 원리를 차용해 구조체와 설비, 가구를 하나의 일체형 볼륨으로 압축했다. 파노라마 폴딩 도어와 반원형 창을 통해 빛을 깊숙이 끌어들여 좁은 공간의 시각적 폐쇄성을 상쇄한다.",
+  "sensory": "외부의 매끄러운 알루미늄 패널이 주는 금속성 질감과 내부를 감싼 따뜻한 대나무 판넬의 물성이 대비를 이루며, 틈 없는 마감이 산업적 미감을 강조한다.",
+  "transfer": "좁은 모듈형 공간에서 슬라이딩 아일랜드 식탁을 활용해 조리대와 작업대를 가변적으로 운용하는 동선 설계를 참고하라. 금속 외피와 목재 내장재를 결합할 때의 접합부를 노출하지 않는 깔끔한 디테일은 미니멀한 공간 콘티에 유용하다.",
+  "context": "리뷔로는 이동식 건축의 유연성과 산업적 미학을 결합하는 데 집중하는 스튜디오로, 이번 프로젝트를 통해 주거의 고정된 개념을 해체하는 작업을 이어가고 있다.",
+  "findings": [],
+  "keywords": [
+   "이동식주택",
+   "모듈러건축",
+   "산업디자인",
+   "공간효율"
+  ],
+  "evidence": "each unit is fabricated under controlled factory conditions as a single self-contained volume integrating structure, interior finishes, furniture, and building systems",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "자동차 제조 공법을 주거 모듈에 적용한 구체적인 공학적 시도는 흥미로우나, 기존 모듈러 하우스의 범주를 크게 벗어나지 않는 평이한 구성이다.",
+  "v": 2,
+  "url": "https://www.designboom.com/architecture/aluminum-composite-shell-bamboo-interior-lavvu-mobile-home-unit-armenia-re-buro/",
+  "original_title": "aluminum composite shell and bamboo interior define lavvu mobile home unit in armenia",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 6695,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-28 06:36",
+  "research": {
+   "entities": [
+    "Re:Büro",
+    "LAVVU XL"
+   ],
+   "questions": [
+    "아르메니아의 스튜디오 Re:Büro가 개발한 LAVVU XL 모듈러 홈의 자동차 제조 공정 응용 방식은 무엇인가?",
+    "LAVVU XL의 22제곱미터 내부 공간에서 대나무 마감재와 슬라이딩 아일랜드 식탁은 공간 효율성을 어떻게 극대화하는가?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "wallpaper.com/fashion-beauty/best-designer-fashion-christmas-decorations-baubles": {
+  "title_ko": "럭셔리 하우스의 크리스마스 오브제, 브랜드 아카이브를 잇는 정교한 축소판",
+  "summary_ko": "패션 하우스들이 크리스마스 시즌을 맞아 브랜드 고유의 서사와 공예적 기술을 담은 오너먼트 컬렉션을 선보인다. 로에베는 애니메이션 캐릭터를, 프라다는 미드센추리 미학을, 제이더블유 앤더슨은 전통 주물 기법을 활용해 트리를 장식하는 작은 조각품들을 제안한다. 이는 단순한 장식을 넘어 브랜드의 미학적 원형을 일상 공간으로 확장하는 시도다.",
+  "lens": "럭셔리 하우스가 크리스마스 오너먼트를 통해 브랜드의 서사를 10cm 안팎의 물리적 사물로 압축해 일상 공간으로 침투시키는 방식에 주목한다.",
+  "why_now": "디지털 피로도가 높은 시기에 브랜드는 손으로 만질 수 있는 무게감과 전통 공예의 물성을 강조하며 물리적 세계에서의 존재감을 재확인한다.",
+  "mechanism": "역사적인 주물 공방과의 협업이나 무라노 유리 공예와 같은 전통 기법을 차용해, 오너먼트를 단순한 소모품이 아닌 보존 가치가 있는 오브제로 격상시킨다.",
+  "sensory": "금속의 차가운 질감, 유리의 투명한 빛, 가죽의 유연한 촉감이 크리스마스 트리의 조명과 섞이며 공간에 정교한 밀도를 더한다.",
+  "transfer": "콘티 연출 시, 특정 브랜드의 아이덴티티를 상징하는 오브제를 클로즈업 샷으로 배치해 공간의 분위기를 즉각적으로 전환하는 장치로 활용할 수 있다.",
+  "context": "프라다는 밀라노 갤러리아 아카이브를 통해 브랜드의 물리적 원점을 보존하며, 제이더블유 앤더슨은 공예 중심의 브랜드로 변모하며 외부 장인들과의 협업을 강화하고 있다. 이는 과거의 유산을 현대적인 일상 오브제로 변주하여 브랜드의 연속성을 확보하려는 전략이다.",
+  "findings": [
+   {
+    "text": "디올의 네잎클로버 오너먼트는 10x10.1cm 크기의 세라믹 소재로 제작되었다.",
+    "s": 3,
+    "quote": "Dimensions: 10 x 10.1 cm / 3.9 x 4 inches (Length x Width)"
+   }
+  ],
+  "keywords": [
+   "크리스마스 오브제",
+   "럭셔리 공예",
+   "브랜드 아카이브",
+   "오브제 연출"
+  ],
+  "evidence": "The desire to accessorise is familiar to any style fan, and, when it comes to Christmas, why not deck out your tree, too?",
+  "kind": "제품·오브제",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "브랜드별 오너먼트의 기법과 맥락을 구체적으로 설명했으나, 정보의 나열 위주로 구성되어 심층적인 비평보다는 현상 전달에 집중했기 때문이다.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/fashion-beauty/best-designer-fashion-christmas-decorations-baubles",
+  "original_title": "Designer decorations to adorn any fashion fan’s Christmas tree, from Loewe to Prada",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 5530,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-28 06:37",
+  "research": {
+   "entities": [
+    "Loewe",
+    "Prada",
+    "JW Anderson",
+    "Ralph Lauren",
+    "Bottega Veneta"
+   ],
+   "questions": [
+    "패션 하우스들이 홀리데이 시즌을 맞아 크리스마스 오너먼트와 라이프스타일 오브제에 집중하는 이유는 무엇인가?",
+    "전통적인 공예 기법이나 아카이브를 활용한 럭셔리 브랜드의 크리스마스 컬렉션은 어떤 방식으로 브랜드 가치를 전달하는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Sites-LOE_USA-Site",
+     "url": "https://www.loewe.com/eur/en/search?q=decoration"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "JW ANDERSON X John Taylor &amp; Co Bellfoundry, Sleigh Bell in Bronze in Bronze  HW0579FA0",
+     "url": "https://jwanderson.com/products/jw-anderson-x-john-taylor-co-bellfoundry-sleigh-bell-in-bronze"
+    },
+    {
+     "n": 3,
+     "type": "공식·1차",
+     "title": "Clover Ornament Green Ceramic | DIOR GB",
+     "url": "https://www.dior.com/en_gb/fashion/products/HYC06CCO0U_C600?indexName=dev_product_en_gb&objectID=HYC06CCO0U_C600&query=ornament&queryID=afca2c3701d0b1dbbd0fb264c5b57f30"
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "Loewe (fashion brand)",
+     "url": "https://en.wikipedia.org/wiki/Loewe%20%28fashion%20brand%29"
+    },
+    {
+     "n": 5,
+     "type": "위키백과",
+     "title": "Prada",
+     "url": "https://en.wikipedia.org/wiki/Prada"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "마리아 그라치아 키우리의 펜디, 라파엘라 카라를 재해석한 여성 해방의 서사",
+     "url": "https://www.anothermag.com/fashion-beauty/17504/fendi-maria-grazia-chiuri-spring-summer-2027-ss27-review-milan-fashion-week?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=a-sense-of-value-at-fendi"
+    },
+    {
+     "n": 7,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "프라다 SS27, 스커트라는 사각형 프레임에 담아낸 의복의 물성",
+     "url": "https://www.anothermag.com/fashion-beauty/17503/prada-spring-summer-2027-ss27-review-skirts?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=prada-was-devoted-to-the-skirt"
+    },
+    {
+     "n": 8,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "밀라노 갤러리아에 확장된 프라다의 거대한 헤리티지 아카이브",
+     "url": "https://www.wallpaper.com/fashion-beauty/prada-galleria-opens-in-milan"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+   ],
+   "chars": 7598
+  },
+  "depth_raw": 3,
+  "depth_v": 2
  }
 }
