@@ -4340,5 +4340,44 @@
   "v": 3,
   "model": "gemini-3.1-flash-lite",
   "written_at": "2026-11-27 02:46"
+ },
+ "2026-11-28": {
+  "date": "2026-11-28",
+  "headline": "녹아내리는 기둥의 파동과 필름 표면에 남은 긁힌 자국",
+  "editorial": "시간의 흐름 속에서 물리적 형태가 변형되고 무너져 내리는 과정에 시선이 닿는다. 마리아 W 혼이 소리의 붕괴를 주파수로 붙잡고, 란킨은 90년대 필름의 아날로그 흔적을 증거로 꺼내놓는다. 고정된 기계 장치와 거친 석재 역시 눈에 보이지 않던 시간과 에너지를 구체적인 형태로 드러낸다.",
+  "threads": [
+   {
+    "name": "소리와 빛의 붕괴",
+    "note": "시간의 흐름에 따라 변형되는 청각적 주파수와 아날로그 필름의 흔적을 다룬다.",
+    "items": [
+     {
+      "title": "마리아 W 혼의 '눈 녹는 기둥들': 소리의 물리적 붕괴와 시간의 조각",
+      "url": "https://clotmag.com/audio-visual/clotmix/clotmix-083-maria-w-horn-a-breeze-becomes-a-storm-the-wind-mix"
+     },
+     {
+      "title": "접촉의 증거: 란킨이 소환한 90년대 필름 아카이브",
+      "url": "https://www.dazeddigital.com/art-photography/article/71418/1/rankin-contact-90s-photography-exhibition-photo-book-thom-yorke-bjork-jagger?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=we-were-the-resistance-rankin-on-the-idealism-of-the-90s"
+     }
+    ]
+   },
+   {
+    "name": "동적인 기계와 공간",
+    "note": "고정된 틀에서 벗어나 환경과 사용자의 움직임에 반응하는 구조물들을 살펴본다.",
+    "items": [
+     {
+      "title": "움직이는 방: 1960년대 키네틱 환경이 제안한 공간의 유동성",
+      "url": "https://www.designboom.com/art/review-midcentury-kinetic-environments-artist-rooms-moving-machines/"
+     },
+     {
+      "title": "대나무 마디를 기계적 멈춤쇠로 치환한 조명, 7플레이츠",
+      "url": "https://leibal.com/lighting/7plates/"
+     }
+    ]
+   }
+  ],
+  "based_on": 24,
+  "v": 3,
+  "model": "gemini-3.5-flash-lite",
+  "written_at": "2026-11-28 02:32"
  }
 }
