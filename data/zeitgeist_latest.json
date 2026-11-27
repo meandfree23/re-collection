@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-27 14:24 KST",
+  "generated_at": "2026-11-27 17:56 KST",
   "period": "2026.11.20 - 2026.11.27",
-  "total_articles": 503,
+  "total_articles": 512,
   "genre_breakdown": [
     {
       "genre": "공간·건축",
-      "count": 301
+      "count": 309
     },
     {
       "genre": "동시대 미술",
@@ -17,7 +17,7 @@
     },
     {
       "genre": "미디어 파사드·3D",
-      "count": 20
+      "count": 21
     }
   ],
   "themes": [
@@ -55,10 +55,16 @@
     },
     {
       "keyword": "해변·리조트 건축",
-      "count": 10,
+      "count": 11,
       "previous_count": 5,
       "trend": "rising",
       "items": [
+        {
+          "title": "Peacock Forest Retreat / line+ studio",
+          "url": "https://www.archdaily.com/1189277/peacock-forest-retreat-line-plus-studio",
+          "image_url": "https://images.adsttc.com/media/images/6b08/0418/6c38/4800/0147/42b4/large_jpg/02-________.jpg?1795687486",
+          "source_name": "ArchDaily"
+        },
         {
           "title": "소타라 하우스 / FORarquitectura",
           "url": "https://www.archdaily.com/1189258/sotarra-house-forarquitectura",
@@ -75,12 +81,6 @@
           "title": "타윌라 아일랜드 리조트 / JT+Partners",
           "url": "https://www.archdaily.com/1189086/tawila-island-resort-jt-plus-partners",
           "image_url": "https://images.adsttc.com/media/images/6b04/8445/2bc2/8501/8901/297f/large_jpg/tawila-island-resort-jt-plus-partners_2.jpg?1795458135",
-          "source_name": "ArchDaily"
-        },
-        {
-          "title": "그랜드 터미널 도하 / 하셀",
-          "url": "https://www.archdaily.com/1189080/grand-terminal-doha-hassell",
-          "image_url": "https://images.adsttc.com/media/images/6b04/5f25/dd54/ea01/8880/eeac/large_jpg/grand-terminal-doha-hassell_1.jpg?1795448640",
           "source_name": "ArchDaily"
         }
       ]
@@ -151,10 +151,16 @@
     },
     {
       "keyword": "박물관·전시",
-      "count": 52,
+      "count": 53,
       "previous_count": 63,
       "trend": "falling",
       "items": [
+        {
+          "title": "\"We wanted to avoid the idea of tropical modernism\" says curator of Geoffrey Bawa exhibition at Vitra Design Museum",
+          "url": "https://www.dezeen.com/2026/11/27/geoffrey-bawa-exhibition-vitra-design-museum/",
+          "image_url": "https://static-2026.dezeen.com/uploads/2026/11/geoffrey-bawa_2364_sq_0-1024x1024.jpg",
+          "source_name": "Dezeen"
+        },
         {
           "title": "Puyi Deng: Reframing the Contemporary Art Exhibition￼",
           "url": "https://flash---art.com/2026/10/puyi-deng-reframing-the-contemporary-art-exhibition%ef%bf%bc/",
@@ -172,12 +178,6 @@
           "url": "https://www.dezeen.com/2026/11/26/carlo-ratti-seoul-biennale/",
           "image_url": "https://static-2026.dezeen.com/uploads/2025/04/carlo-ratti-venice-architecture-biennale-curator-tech-bro-biennale_dezeen_2364_col_1-852x852.jpg",
           "source_name": "Dezeen"
-        },
-        {
-          "title": "리스본 트리엔날레가 CO-OP 발표, 헤르조그 & 드 뫼롱의 멤피스 박물관 개관: 이번 주 리뷰",
-          "url": "https://www.archdaily.com/1189276/lisbon-triennale-announces-co-op-and-herzog-and-de-meurons-memphis-museum-opens-this-weeks-review",
-          "image_url": "https://images.adsttc.com/media/images/6b08/037a/3a81/a801/8917/c73a/large_jpg/lisbon-triennale-announces-co-op-and-herzog-and-de-meurons-memphis-museum-opens-this-weeks-review_5.jpg?1795687301",
-          "source_name": "ArchDaily"
         }
       ]
     },
@@ -216,6 +216,7 @@
   ],
   "notable_names": [
     "Dezeen Awards",
+    "Rachel Whiteread",
     "Royal Designers",
     "Sharjah Architecture Triennial",
     "Nan Goldin",
