@@ -404813,5 +404813,1085 @@
   },
   "depth_raw": 3,
   "depth_v": 2
+ },
+ "dezeen.com/2026/11/27/harold-hill-family-welcome-centre-hawkins-brown-temporary-homeless-housing": {
+  "title_ko": "런던 헤럴드 힐, 영국 최초의 노숙자 가족 임시 주거 단지",
+  "summary_ko": "건축 스튜디오 호킨스 브라운이 런던 헤버링 자치구에 74가구 규모의 임시 주택 단지인 헤럴드 힐 패밀리 웰컴 센터를 완공했다. 이 단지는 노숙 위기에 처한 가족을 위해 영국에서 처음으로 목적에 맞춰 설계된 임시 주거 시설이며, 중앙에 조경 중정을 품은 U자 형태를 취한다.",
+  "lens": "취약한 이들을 위한 임시 건축에 치매 친화적 공간 설계 기법을 이식해 불안을 지운다.",
+  "why_now": "주거 불안이 가중되는 도시에서 임시 건축물이 일회성 가설 건물이 아니라 존엄을 지키는 영구적 공공 인프라로 진화하고 있다.",
+  "mechanism": "주황빛 벽돌과 연두색 금속 패널로 외관을 감싸고, U자형 매스 중앙에 놀이 공간이 포함된 보안 중정을 배치해 채광과 시각적 개방감을 확보했다.",
+  "sensory": "높은 창으로 쏟아지는 자연광과 바닥 난방의 온기, 고대비 색상과 시각적 표지판이 주는 정돈된 안정감이 불안정한 일상을 지탱한다.",
+  "transfer": "공간의 물리적 이동 동선을 설계할 때 고대비 색상과 직관적인 시각 표지판을 조합해 시선 유도 장치로 활용한다.",
+  "context": "설계를 맡은 호킨스 브라운은 런던과 맨체스터 등에 거점을 둔 영국의 건축 스튜디오로, 셰필드의 파크 힐 재생 작업으로 RIBA 스털링 상 후보에 오르는 등 사회적 건축에 주력해 왔다.",
+  "findings": [
+   {
+    "text": "호킨스 브라운은 런던, 맨체스터, 에든버러, 더블린, 토론토에 스튜디오를 둔 영국의 건축 사무소다.",
+    "s": 2,
+    "quote": "Hawkins\\Brown is a British architectural practice with studios in London, Manchester, Edinburgh, Dublin and Toronto."
+   }
+  ],
+  "keywords": [
+   "임시주거",
+   "공공건축",
+   "호킨스브라운",
+   "런던"
+  ],
+  "evidence": "Architecture studio Hawkins\\Brown has unveiled the Harold Hill Family Welcome Centre in London, the first purpose-built development to provide temporary accommodation for homeless families in the UK.",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "영국 최초의 목적형 임시 주거 시설이라는 명확한 사회적 건축 프로젝트이며 공간적 장치가 구체적이다.",
+  "v": 2,
+  "url": "https://www.dezeen.com/2026/11/27/harold-hill-family-welcome-centre-hawkins-brown-temporary-homeless-housing/",
+  "original_title": "Hawkins\\Brown's temporary housing for homeless families in London is a UK first",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 3377,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-27 20:12",
+  "research": {
+   "entities": [
+    "Hawkins\\Brown",
+    "Harold Hill Family Welcome Centre",
+    "London Borough of Havering",
+    "HTA Design"
+   ],
+   "questions": [
+    "영국에서 임시 주거 시설을 설계할 때 건축가가 고려해야 할 사회적, 기능적 기준은 무엇인가요?",
+    "치매 친화적 디자인 원칙이 어떻게 일반적인 주거 시설의 공간 구성과 사용자 경험을 개선할 수 있나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Hawkins\\Brown",
+     "url": "https://www.hawkinsbrown.com/"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Hawkins\\Brown",
+     "url": "https://en.wikipedia.org/wiki/Hawkins%5CBrown"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "London Borough of Havering",
+     "url": "https://en.wikipedia.org/wiki/London%20Borough%20of%20Havering"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "런던 옥스퍼드 스트리트, 1km 구간 차량 통행 영구 차단",
+     "url": "https://www.dezeen.com/2026/10/27/photos-walkable-oxford-street-pedestrianisation-begins/"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "런던 옥스퍼드 스트리트, 1km 보행자 전용 구역으로 전환한 도시 실험",
+     "url": "https://www.archdaily.com/1187796/londons-oxford-street-opens-its-first-traffic-free-phase"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "런던 그리니치에 세워진 영국 최대 규모의 공공 임대주택 단지",
+     "url": "https://www.dezeen.com/2026/11/23/kidbrooke-park-road-hta-design/"
+    }
+   ],
+   "used": [
+    2
+   ],
+   "chars": 3057
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "designboom.com/architecture/1960s-grand-touring-car-design-acte-deux-renovation-paris-apartment": {
+  "title_ko": "그랜드 투어링 카의 속도감을 주거 공간으로 번역한 파리 아파트 리노베이션",
+  "summary_ko": "디자인 스튜디오 악트 두(Acte Deux)는 파리 18구의 65제곱미터 아파트를 1960년대 그랜드 투어링 카의 유선형 미학으로 재해석했다. 수평으로 길게 뻗은 금속 패널과 래커 마감 가구를 배치하고, 오렌지색 선을 바닥에 둘러 자동차 차체의 디테일을 주거 공간의 동선으로 치환했다.",
+  "lens": "자동차의 공기역학적 곡선과 정밀한 금속 디테일을 주거 공간의 마감 언어로 치환하여, 정적인 아파트에 속도감 있는 시각적 리듬을 부여한다.",
+  "why_now": "디지털 피로도가 높은 환경에서 기계적 정밀함과 아날로그적 물성(래커, 금속, 석재)을 결합하여 공간에 서사를 입히는 방식이 주목받는다.",
+  "mechanism": "벽면을 가로지르는 광택 금속 패널과 바닥의 오렌지색 래커 띠를 통해 시선을 수평으로 유도한다. 곡면 처리된 베이지색 수납장과 원형 포트홀 창은 공간 사이의 물리적 경계를 부드럽게 완화한다.",
+  "sensory": "매끄러운 래커의 광택과 차가운 크롬 금속, 거친 트라베르티노 로소(Travertino Rosso) 석재가 대비를 이룬다. 오렌지와 블루의 채도 높은 색감이 무채색 공간에 강렬한 시각적 악센트를 더한다.",
+  "transfer": "공간의 시각적 연장감을 위해 벽면 하단이나 바닥에 강렬한 색상의 띠를 둘러 동선을 강조하고, 금속성 소재를 라디에이터 그릴처럼 배치하여 깊이감을 만드는 연출을 적용할 수 있다.",
+  "context": "악트 두는 요한나 라프레이(Johanna Lapray)와 위고 라엘렉(Hugo L’ahélec)이 설립한 파리 기반 스튜디오다. 이번 프로젝트는 1960년대 콘크리트 주거 건물의 한계를 자동차 디자인의 구조적 미학으로 극복하려는 시도다.",
+  "findings": [],
+  "keywords": [
+   "악트두",
+   "그랜드투어링",
+   "파리인테리어",
+   "래커마감",
+   "수평적동선"
+  ],
+  "evidence": "drawing on the streamlined forms and richly appointed interiors of 1960s grand touring cars",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "자동차 디자인의 구체적 요소를 주거 공간의 마감과 동선으로 치환한 논리가 명확하며, 공간의 한계를 극복하는 장치가 구체적이다.",
+  "v": 2,
+  "url": "https://www.designboom.com/architecture/1960s-grand-touring-car-design-acte-deux-renovation-paris-apartment/",
+  "original_title": "1960s grand touring car design shapes acte deux’s paris apartment renovation",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 8206,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-27 20:12",
+  "research": {
+   "entities": [
+    "Acte Deux",
+    "Johanna Lapray",
+    "Hugo L’ahélec",
+    "Hervé Priou"
+   ],
+   "questions": [
+    "1960년대 그랜드 투어링 카의 디자인적 특징이 어떻게 주거 공간의 가구와 마감재로 재해석되었는가?",
+    "Acte Deux가 아파트의 좁은 공간감을 극복하기 위해 사용한 수평적 레이아웃과 시각적 장치들은 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "JEAN-BAPTISTE THIRIET",
+     "url": "https://jbthiriet.studio/"
+    }
+   ],
+   "used": [],
+   "chars": 701
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "architecturaldigest.com/story/black-friday-bed-frame-deals-11-27-2026": {
+  "title_ko": "수납과 물성의 재정의: 블랙프라이데이 침대 프레임 12선",
+  "summary_ko": "건축 매거진 아키텍처럴 다이제스트가 엄선한 12개의 블랙프라이데이 침대 프레임 할인 품목을 소개한다. 원목 플린스 구조부터 부클레 소재의 로우 프로파일 프레임까지, 공간 효율과 재료의 물성을 강조한 디자인들을 다룬다. 수납 기능과 헤드보드의 구조적 결합을 통해 침실 레이아웃의 실용적 대안을 제시한다.",
+  "lens": "침대를 단순한 가구가 아니라 공간의 밀도와 동선을 결정하는 건축적 플랫폼으로 다룬다.",
+  "why_now": "연말 쇼핑 시즌을 맞아 고가 가구의 구조적 완성도와 재료의 물성을 합리적인 조건으로 검토할 시점이다.",
+  "mechanism": "낮은 높이의 로우 프로파일 설계와 슬라이딩 도어 내부의 배선 홀을 통해 시각적 간섭을 지우고 수납 기능을 은폐한다.",
+  "sensory": "화이트 오크의 단단한 결, 부클레 원단의 포근한 촉감, 자석으로 부드럽게 맞물리는 슬라이딩 도어의 마감.",
+  "transfer": "공간 연출 콘티에서 침실 세트를 구성할 때, 협탁을 생략하는 대신 헤드보드 내장형 수납장과 히든 와이어 컷아웃을 활용해 미니멀한 앵글을 만든다.",
+  "context": "크레이트 앤 배럴(Crate & Barrel)은 일리노이주 노스브룩에 본사를 둔 글로벌 가구 및 홈 데코 리테일 브랜드이다.",
+  "findings": [
+   {
+    "text": "아티클의 테수 베드는 최대 5만 회의 마모 테스트를 거친 저흡수성 폴리에스터 원단을 사용한다.",
+    "s": 1,
+    "quote": "We rigorously test our fabrics for abrasion resistance, subjecting them to up to 50,000 rubs."
+   },
+   {
+    "text": "크레이트 앤 배럴은 미국과 캐나다에 걸쳐 100개 이상의 매장을 운영하는 글로벌 리테일 기업이다.",
+    "s": 2,
+    "quote": "headquartered in Northbrook, Illinois. They employ 8200 employees across over 100 stores in the United States and Canada"
+   },
+   {
+    "text": "웨스트 엘름은 윌리엄스 소노마의 자회사로 세계 여러 국가에 매장을 두고 있다.",
+    "s": 3,
+    "quote": "It is a wholly owned subsidiary of Williams-Sonoma, Inc. There are currently stores in the United States, Canada, Mexico"
+   }
+  ],
+  "keywords": [
+   "침대프레임",
+   "공간수납",
+   "로우프로파일",
+   "원목가구",
+   "미니멀리즘"
+  ],
+  "evidence": "As the focal point of your bedroom, your bed frame sets the tone for the rest of your space, so it’s worth choosing one that looks good and holds up over time.",
+  "kind": "리스트·라운드업",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "블랙프라이데이 할인 제품 12선을 나열한 라운드업 기사이나 각 제품의 재료와 구조적 특징이 구체적으로 기술되어 있다.",
+  "v": 2,
+  "url": "https://www.architecturaldigest.com/story/black-friday-bed-frame-deals-11-27-2026",
+  "original_title": "12 Best Black Friday Bed Frame Deals: Up to 60% Off (2026)",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 9000,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-27 20:12",
+  "research": {
+   "entities": [
+    "Crate & Barrel",
+    "Thuma",
+    "Article",
+    "West Elm",
+    "Castlery"
+   ],
+   "questions": [
+    "블랙 프라이데이 기간에 가구 구매 시 품질과 내구성을 확인하기 위해 고려해야 할 핵심 요소는 무엇인가요?",
+    "침대 프레임 선택 시 수납형과 로우 프로파일 디자인이 공간 활용도와 인테리어 분위기에 미치는 영향은 무엇인가요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Tessu Queen Low Profile Upholstered Bed - Caspian Blue",
+     "url": "https://cna.st/affiliate-link/Be77erS21HPv838fFo5PKKbHWCrKUNhuAa7Y7ZDQyLchoW7PJuDmkRSJrnr4Tuu7urrohcGhwmiyY1u2zJNnnCw72zM32cuXpqhPwjRvkKsJ6qmkLEanwrt3crzqkwm7GYtKqLZCd2hkUD1c45M8sHHPuHpcSYdBF9tUQ1tEHm4uDRTga9fW369QRrP24KsZte77pVCKujRDZwrbkGwRCq7yUcA7NUoQSvAbkhbZvopQkCwnr1oostJ3THejgr3H82uKKNaUD82Zoo2cu9QXTxmnww2gcqdKSKcyhRmHY5uAZRrwgqW8H5FRfrbukjkXqxBDjhydS89V2iYTWkdTK9gdWcotLRD4ZSNmiDsS6TSpRxs7nHqnbGSAD2n8HHyaZ8p9B4ZD8vT6teaGh7LsryYoLtTEjsjsBFFHnc"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Crate & Barrel",
+     "url": "https://en.wikipedia.org/wiki/Crate%20%26%20Barrel"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "West Elm",
+     "url": "https://en.wikipedia.org/wiki/West%20Elm"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "포스트휴먼의 풍경: 기술과 생태가 얽히는 전시 '시머'",
+     "url": "https://hyperallergic.com/shimmer-dreaming-the-posthuman/"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "비너스 윌리엄스와 크레이트 앤 배럴이 빚어낸 그랜드 슬램 컬렉션",
+     "url": "https://design-milk.com/venus-williams-crate-barrel-grand-slam-collection/"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "수직 공간의 재발견: 공간감을 확장하는 19가지 플로팅 선반",
+     "url": "https://www.architecturaldigest.com/story/best-floating-shelves"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3
+   ],
+   "chars": 3176
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "architecturaldigest.com/story/sectional-black-friday-deals-11-27-2026": {
+  "title_ko": "휴식과 구조를 재편하는 2026 블랙프라이데이 섹셔널 소파 큐레이션",
+  "summary_ko": "아키텍처럴 다이제스트(Architectural Digest) 에디터들이 2026년 블랙프라이데이를 맞아 공간의 밀도를 바꾸는 8가지 섹셔널 소파를 직접 검증해 공개했다. 모듈형 구조, 맞춤형 패브릭, 그리고 숨은 수납과 슬리퍼 기능을 겸비한 가구들이 최대 3,000달러 할인된 가격으로 소개된다.",
+  "lens": "거실의 물리적 중심을 잡는 대형 가구의 구조적 결단과 할인 기회의 결합이다.",
+  "why_now": "연말 리노베이션 시즌을 맞아 일상 공간의 레이아웃을 효율적으로 재배치하려는 수요가 집중되는 시점이다.",
+  "mechanism": "엔지니어드 우드 프레임과 고밀도 폴리우레탄 폼 코어를 결합해 장기 사용에도 형태를 유지한다.",
+  "sensory": "시각적으로 두툼한 쿠션과 다채로운 색감의 패브릭이 거실에 정적인 무게감을 부여한다.",
+  "transfer": "공간의 중심을 잡는 묵직한 볼륨의 소파를 배치해 인물 중심의 앵글에 깊이감을 더한다.",
+  "context": "인테리어 디파인(Interior Define)과 캐스토리(Castlery) 등 주요 브랜드는 에디터 검증을 거친 모듈형 시스템과 내구성 중심의 프레임을 선보여 왔다.",
+  "findings": [
+   {
+    "text": "아하우스(Arhaus)는 1986년에 설립된 미국의 고급 홈 퍼니싱 기업으로, 지속 가능성과 장인정신에 초점을 맞추고 있다.",
+    "s": 3,
+    "quote": "Arhaus, Inc. is an upscale American home furnishings company headquartered in Boston Heights, Ohio. Founded in 1986 with a focus on sustainability and artisanship in product quality"
+   }
+  ],
+  "keywords": [
+   "섹셔널소파",
+   "모듈형가구",
+   "공간설계",
+   "가구물성"
+  ],
+  "evidence": "We’re spotting up to $3,000 off sculptural sofas",
+  "kind": "리스트·라운드업",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "에디터들이 직접 테스트한 가구 큐레이션이지만 쇼핑 가이드 성격의 목록형 기사다.",
+  "v": 2,
+  "url": "https://www.architecturaldigest.com/story/sectional-black-friday-deals-11-27-2026",
+  "original_title": "8 Best Black Friday Sectional Deals, AD Approved (2026)",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 9000,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-27 20:12",
+  "research": {
+   "entities": [
+    "Interior Define",
+    "Joybird",
+    "Castlery",
+    "Article",
+    "Arhaus"
+   ],
+   "questions": [
+    "블랙 프라이데이 시즌에 가구 브랜드들이 주로 제공하는 커스텀 옵션과 할인율의 특징은 무엇인가?",
+    "소파나 섹셔널을 고를 때 내구성이나 소재(폼, 패브릭)를 비교하는 주요 기준은 무엇인가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Joybird Wilder Sectional",
+     "url": "https://cna.st/affiliate-link/2dJkVVomr493wcjHuVxhVtoAGvuqKoC3xJGDAoQKwomF9RBpzmJD62scprjBvEeu6f3DaBvhGbehwTzQMTMSqjtHJiURY2nyitJDxJ7qqAGy1z8MeCKb5C8zkrLffKhcsHfKoG26zitDjijNg6JfDfWbBUBJHNs3KpCh51zDYPWoAuxQppwoo8qpB3Zbk2yGB4yCC3KFmKBWFoc5At3FCPf6jgNcPjcvFv7B74zztPmZbWFAVUBcnt91mocaxDsKh5JAFyDgGatgLPxEbEjPqwA6coiMDYGi78hf4tt9G8X32he9SZCYNMmNU4xpisz4LfBt9HLPoKuY9TqpZ5GXqk7gYTnbPKxWgMDjyQKVWhg8FNc8XZhQoZafdq2gX7cE3G3VmXgzAzzjRiCYx3kLaVS2AbGyZHT3K"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Hamilton Chaise Sectional Sleeper Sofa | Castlery US",
+     "url": "https://cna.st/affiliate-link/Be77erS21HPv838fFo5PKKbHWCrKUNhuAa7Y7ZDQyLchoW7PJuDmkRSJrnr4Tuu7v4FanooXeSXBihrg3a2BHtWnSQyF11srwpV3g38qjWnDVLSQm43rnPDj5DBognNLuVVkqsbdQid88hyf5x2KSURVGBM3uh3zt6bkVPHwJYeHJExFBmdCix3HgJNuhz5cZ4b5LhjLvY2Fnk7vm2ePRtEPHkrVb41cd1gyUYEY9ca9A7VFF6QGDkB3cCJYhnvLoVdBscbcVMYJ1HDNfNUmS2ktkZ8EAvWKK4xd9YxKiE2YhQ5SZ3ePDAdZC7Too7KP1RJTRcenqngBdYrQJh1iGqGT4YJca5Py2xr92q7sKhsxtpYonCCdz4MngizZTfHtip3rkvhM5UsnyPtMi9PCAUEJivYMgqvwec9aYu"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Arhaus",
+     "url": "https://en.wikipedia.org/wiki/Arhaus"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "구조와 휴식을 동시에 담는 15가지 슬리퍼 소파의 실루엣",
+     "url": "https://www.architecturaldigest.com/story/the-very-best-sleeper-sofas-tested-and-reviewed-by-our-editors"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "구조의 힘을 조율하는 침대 프레임 큐레이션",
+     "url": "https://www.architecturaldigest.com/story/best-bed-frames-2025"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "시간의 층위를 입는 가죽 소파: 공간의 밀도를 결정하는 7가지 시선",
+     "url": "https://www.architecturaldigest.com/story/were-suddenly-feeling-leather-sofas"
+    }
+   ],
+   "used": [
+    3,
+    4,
+    5,
+    6
+   ],
+   "chars": 6314
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "architecturaldigest.com/story/best-black-friday-bedding-deals-11-27-2026": {
+  "title_ko": "침실에 계절의 무게를 더하는 9가지 텍스타일 감각",
+  "summary_ko": "블랙프라이데이 시즌을 맞아 아키텍처럴 다이제스트가 엄선한 9개 브랜드의 침구 라인업이다. 캐시미어 감각의 코튼 이베트 커버부터 프랑스산 오가닉 린넨, 대나무 뱀부 비스코스까지 계절에 대응하는 소재와 직조 방식을 조명한다.",
+  "lens": "침구는 몸을 덮는 소모품이 아니라, 공간의 음영과 밀도를 규정하는 건축적 패브릭이다.",
+  "why_now": "디지털 피로가 극에 달한 시대에 침실은 감각을 돌이키는 유일한 물성의 공간이며, 패브릭의 조직감은 그 공간의 온도를 결정한다.",
+  "mechanism": "배플박스 구조와 메텔라세 직조 같은 입체적 공법이 공기를 가두어 볼륨을 유지하고 체온을 조절한다.",
+  "sensory": "만졌을 때 서늘한 페르케일 면의 매트한 촉감부터 구름처럼 가라앉는 구스다운의 무게감이 대비를 이룬다.",
+  "transfer": "공간 촬영 시 인물의 실루엣 뒤로 텍스처가 무겁게 드리워지도록 메텔라세나 헤링본 위주의 굵은 직조 패브릭을 배치하라.",
+  "context": "볼앤브런치는 공정무역 인증을 거친 오가닉 면을 사용하며, 콜카타에서 생산된 제품들을 유통해왔다.",
+  "findings": [
+   {
+    "text": "볼앤브런치는 공정무역 인증을 최초로 받은 럭셔리 침구 제조업체로 인도 콜카타 등지에서 제품을 생산한다.",
+    "s": 1,
+    "quote": "the company is the first luxury bedding manufacturer to be certified by Fair Trade USA. Most of the company's products are manufactured in Kolkata, India"
+   }
+  ],
+  "keywords": [
+   "침구",
+   "텍스타일",
+   "오가닉면",
+   "직조",
+   "블랙프라이데이"
+  ],
+  "evidence": "Your bed might be the hardest-working piece of furniture in your home, so why not give it a little extra attention?",
+  "kind": "리스트·라운드업",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "유명 매체의 쇼핑 큐레이션 기사이나 구체적인 소재와 직조 기법이 잘 정리되어 있다.",
+  "v": 2,
+  "url": "https://www.architecturaldigest.com/story/best-black-friday-bedding-deals-11-27-2026",
+  "original_title": "17 Best Black Friday Bedding Deals in 2026: Vetted by AD",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 9000,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-27 20:12",
+  "research": {
+   "entities": [
+    "Brooklinen",
+    "Boll & Branch",
+    "Nickey Kehoe",
+    "Sferra",
+    "Coyuchi"
+   ],
+   "questions": [
+    "블랙 프라이데이 세일 기간에 침구류를 구매할 때 소재별(린넨, 대나무, 면 등)로 고려해야 할 관리법과 내구성은 무엇인가요?",
+    "기사에서 언급된 브랜드들이 강조하는 '지속 가능한 침구'란 구체적으로 어떤 인증이나 제조 공정을 의미하나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Boll & Branch",
+     "url": "https://en.wikipedia.org/wiki/Boll%20%26%20Branch"
+    },
+    {
+     "n": 2,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "하이디 카일리어의 샌프란시스코 자택, 빅토리아풍 주택에 더한 강렬한 색채와 패턴",
+     "url": "https://www.architecturaldigest.com/story/heidi-caillier-returns-to-san-francisco-and-makes-a-victorian-her-forever-home"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "욕실의 시각적 밀도를 조절하는 텍스타일과 소재의 감각",
+     "url": "https://www.architecturaldigest.com/story/best-shower-curtains"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "침실의 층위를 쌓는 방식: 7가지 퀼트와 커버렛의 물성 탐구",
+     "url": "https://www.architecturaldigest.com/story/best-quilts-and-coverlets-review"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 1927
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "wallpaper.com/transportation/volkswagen-golf-gti-1976-limited-edition-reveal": {
+  "title_ko": "전동화 시대의 역주행, 50주년 맞은 수동 변속기 골프 GTI",
+  "summary_ko": "폭스바겐이 골프 GTI 탄생 50주년을 기념해 1976대 한정판 모델인 '골프 GTI 1976'을 공개했다. 이번 에디션은 전동화 전환 흐름 속에서 유일하게 6단 수동 변속기를 탑재했으며, 325마력의 출력과 시속 270km의 최고 속도를 낸다. 프런트 스플리터와 리어 스포일러에 새겨진 각인, 골프공 디자인의 기어 노브 등으로 반세기의 헤리티지를 시각화했다.",
+  "lens": "디지털 조작계가 잠식한 운전석에 골프공 모양의 수동 기어 노브를 복원해 기계식 조작의 무게감을 되찾는다.",
+  "why_now": "자동 변속기와 전동화가 표준이 된 시점에서, 순수 내연기관과 수동 변속기의 조합은 기계적 감각을 향한 강렬한 회귀를 보여준다.",
+  "mechanism": "19인치 전용 휠과 성능 배기 시스템, 단단하게 조율된 서스펜션을 적용해 물리적 주행 성능을 극대화했다. 페달 조작 시 바닥 조명으로 기어변속 다이어그램을 투사해 물리적 구조를 시각적 장치로 전환한다.",
+  "sensory": "실내를 채우는 장식용 카본 파이버와 빨간색 안전벨트, 'GTI 1976' 그래픽의 퍼들 라이트가 맞물려 정교하게 짜인 레트로 감각을 완성한다.",
+  "transfer": "콘티 촬영 시 운전자의 손이 기어 노브를 잡는 클로즈업 샷에서 금속과 가죽의 마찰 질감을 부각하고, 페달 구동부의 기계적 움직임을 로우 앵글로 담아낸다.",
+  "context": "폭스바겐 골프는 1974년 첫 등장 이후 8세대에 걸쳐 3,700만 대 이상 판매된 브랜드의 핵심 모델이다. S5에서 다룬 벤틀리가 하이브리드를 걷어내고 V8 엔진을 택한 것처럼, 이번 한정판 역시 효율성 대신 순수 드라이빙의 감각에 집중한다.",
+  "findings": [
+   {
+    "text": "폭스바겐 골프는 1974년부터 8세대에 걸쳐 생산된 소형차로 3,700만 대 이상 판매된 폭스바겐의 베스트셀러이다.",
+    "s": 2,
+    "quote": "The Volkswagen Golf is a compact car/small family car (C-segment) produced by the German automotive manufacturer Volkswagen since 1974, marketed worldwide across eight generations"
+   },
+   {
+    "text": "폭스바겐은 1937년 독일 노동전에 의해 설립되었으며 제2차 세계대전 이후 영국 육군 장교 이반 허스트에 의해 부활했다.",
+    "s": 3,
+    "quote": "Established in 1937 by the German Labour Front, it was revived after World War II by British Army officer Ivan Hirst and grew into a global brand."
+   }
+  ],
+  "keywords": [
+   "폭스바겐골프",
+   "수동변속기",
+   "한정판",
+   "핫해치",
+   "내연기관"
+  ],
+  "evidence": "What transforms it from a car with flashy badging and a unique trim job is the addition of a six-speed manual gearbox.",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "전동화 시대에 수동 변속기를 부활시킨 명확한 기계적 장치와 50주년 기념 한정판의 맥락이 뚜렷하게 담겨 있다.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/transportation/volkswagen-golf-gti-1976-limited-edition-reveal",
+  "original_title": "The Volkswagen Golf GTI 1976 brings a manual gearbox back to the iconic hot hatch",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 2620,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-27 20:12",
+  "research": {
+   "entities": [
+    "Volkswagen Golf GTI",
+    "Volkswagen"
+   ],
+   "questions": [
+    "폭스바겐 골프 GTI가 자동차 역사에서 '핫 해치(Hot Hatch)' 장르를 어떻게 정의하고 발전시켜 왔나요?",
+    "이번 1976 리미티드 에디션에 적용된 수동 변속기 탑재가 현대 자동차 시장에서 갖는 상징적 의미는 무엇인가요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Volkswagen UK | The official Volkswagen website ",
+     "url": "https://www.volkswagen.co.uk/en.html"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Volkswagen Golf",
+     "url": "https://en.wikipedia.org/wiki/Volkswagen%20Golf"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Volkswagen",
+     "url": "https://en.wikipedia.org/wiki/Volkswagen"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "소형부터 7인승 플래그십까지, 슈코다가 완성한 전기차 트레오",
+     "url": "https://www.wallpaper.com/transportation/skoda-elroq-epiq-peaq-reviews"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "전기 모터를 걷어내고 후륜에 모든 것을 건 벤틀리 슈퍼스포츠",
+     "url": "https://www.wallpaper.com/transportation/bentley-supersports-review"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "반역의 에너지를 벼려낸 도심형 전기차, 쿠프라 라발",
+     "url": "https://www.wallpaper.com/transportation/cupra-raval-ev-jorge-diez-interview"
+    }
+   ],
+   "used": [
+    2,
+    3,
+    5
+   ],
+   "chars": 5303
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "flash---art.com/2026/11/asad-raza-electricity-e-werk-luckenwalde": {
+  "title_ko": "발전소와 신체를 잇는 도체: 루켄발데 E-WERK의 '전기' 전시",
+  "summary_ko": "아사드 라자가 독일 루켄발데의 전 가동 발전소이자 미술 센터인 E-WERK에서 전기를 주제로 한 전시 'Electricity'를 선보인다. 관람객은 가이드의 인솔에 따라 발전소 공간을 이동하며 소금과 레몬으로 전해질을 표현한 음료를 마시고, 신체와 에너지를 연결하는 감각적 경험을 마주한다.",
+  "lens": "에너지를 보이지 않는 자원이 아닌 신체를 통과하는 물질적 도체로 다룬다.",
+  "why_now": "기후 위기 속에서 미술관이 지속 가능성을 단순한 주제가 아닌 자체 에너지 생산이라는 운영 원칙으로 삼는 전환을 보여준다.",
+  "mechanism": "1913년에 지어진 석탄 화력발전소 건물의 뼈대 속에서 베이스 실러와 사운드, 퍼포머인 가이드의 동선이 맞물려 전기의 흐름을 신체 내부로 끌어들이며 작동한다.",
+  "sensory": "어두워진 공간에서 불을 끄고 전력 소비량을 노래하는 목소리가 울려 퍼지며, 소금물과 숯, 호박과 목재의 질감이 거친 발전소 공기의 무게를 더한다.",
+  "transfer": "공간 연출 시 보조 조명을 완전히 소거하고 전력 수치와 소리만으로 공간의 볼륨감을 감각하게 만드는 오디오 연출 콘티로 적용한다.",
+  "context": "아사드 라자는 규율의 경계를 거부하며 예술을 대사 작용이자 참여적이고 적극적인 만남으로 구상하는 작업을 이어왔다. 파블로 벤델과 헬렌 터너가 인수한 E-WERK 루켄발데는 태양광과 목재 가스 열분해로 재생 에너지를 생산해 자립하는 발전소 예술 센터다.",
+  "findings": [
+   {
+    "text": "아사드 라자는 뉴욕과 독일 베를린에서 거주하며 활동하는 미국 출신 예술가이다.",
+    "s": 1,
+    "quote": "Asad Raza is an American artist who lives and works in New York, New York, and Berlin, Germany."
+   },
+   {
+    "text": "아사드 라자는 미술의 규율적 경계를 거부하고 예술을 대사 작용이자 참여적인 적극적 만남으로 구상한다.",
+    "s": 1,
+    "quote": "creates dialogues and rejects disciplinary boundaries in his work, which conceives of art as a metabolic, active encounter that is participatory"
+   }
+  ],
+  "keywords": [
+   "전기",
+   "발전소",
+   "도체",
+   "신체",
+   "재생에너지"
+  ],
+  "evidence": "E-WERK, an extraordinary experiment that brings together a functioning power station, a contemporary art center, and a laboratory for alternative models of cultural production.",
+  "kind": "전시",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "가동 중인 발전소라는 독특한 장소 특정성과 재생에너지 생산을 예술 생산 조건과 결합하는 구체적 실험이 돋보인다.",
+  "v": 2,
+  "url": "https://flash---art.com/2026/11/asad-raza-electricity-e-werk-luckenwalde/",
+  "original_title": "Asad Raza “Electricity” E-WERK Luckenwalde",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 8740,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-27 20:12",
+  "research": {
+   "entities": [
+    "Asad Raza",
+    "E-WERK Luckenwalde",
+    "Pablo Wendel",
+    "Helen Turner"
+   ],
+   "questions": [
+    "E-WERK Luckenwalde가 예술 생산과 재생 에너지 생산을 결합하는 구체적인 운영 방식은 무엇인가?",
+    "아사드 라자(Asad Raza)의 작품 'Electricity'는 전기를 단순한 자원이 아닌 어떤 예술적 매체로 해석하고 있는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Asad Raza (artist)",
+     "url": "https://en.wikipedia.org/wiki/Asad%20Raza%20%28artist%29"
+    },
+    {
+     "n": 2,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "절벽과 호수 위로 펼쳐진 세계의 테니스 코트 30선",
+     "url": "https://www.architecturaldigest.com/gallery/the-most-beautiful-tennis-courts-in-the-world"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 500
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "architecturaldigest.com/story/black-friday-rug-deals-11-27-2026": {
+  "title_ko": "공간의 밀도를 결정하는 바닥의 레이어: 2026년 블랙 프라이데이 러그 큐레이션",
+  "summary_ko": "아키텍처럴 다이제스트가 블랙 프라이데이 시즌을 맞아 디자인 윈인리치, 베니, 러거블 등 주요 브랜드의 러그 할인 정보를 정리했다. 이번 리스트는 단순한 가격 할인을 넘어, 반려견 동반 거주 환경이나 특정 건축적 미학을 반영한 기능성 소재 및 희소성 있는 샘플 제품에 주목한다.",
+  "lens": "러그는 발밑의 면적을 점유하며 공간의 소음과 온도를 조절하는 가장 낮은 위치의 건축적 마감재다.",
+  "why_now": "연말 소비 시즌을 활용해 고가의 디자인 가구와 조화를 이루는 바닥재를 확보하여 공간의 완성도를 높일 적기다.",
+  "mechanism": "러거블의 벨크로 언더레이 시스템은 활동적인 반려견이 있는 환경에서도 러그의 위치를 고정하며, 베니의 샘플 세일은 마라케시 스튜디오의 실험적 생산 과정에서 발생한 비정형의 규격과 질감을 시장에 내놓는다.",
+  "sensory": "울의 촘촘한 결이 만드는 물리적 무게감과 셔링 처리된 표면의 입체적인 그림자가 빛의 각도에 따라 공간의 깊이를 다르게 만든다.",
+  "transfer": "콘티 연출 시 피사체의 이동 동선을 따라 바닥재의 질감을 클로즈업하여 공간의 밀도를 시각화하거나, 벨크로 고정식 러그를 활용해 촬영 중 흔들림 없는 안정적인 앵글을 확보한다.",
+  "context": "허먼 밀러와 협업하는 디자인 윈인리치는 미드센추리 모던의 유산을 현대적 주거에 이식하는 거점 역할을 한다. 베니는 2018년 설립 이후 스튜디오 KO 등 건축가들과 협업하며 마라케시의 전통 직조 방식을 동시대적 조형 언어로 번역해왔다.",
+  "findings": [
+   {
+    "text": "허먼 밀러는 1968년 로버트 프롭스트의 연구 하에 사무용 큐비클인 액션 오피스를 발명했다.",
+    "s": 4,
+    "quote": "Herman Miller is also credited with the 1968 invention of the office cubicle (originally known as the \"Action Office\") under then–director of research Robert Propst."
+   },
+   {
+    "text": "베니의 모든 러그는 마라케시 스튜디오에서 주문 제작 방식으로 생산된다.",
+    "s": 3,
+    "quote": "Every rug is made by hand, to order, in our Marrakech studio."
+   }
+  ],
+  "keywords": [
+   "러그",
+   "바닥재",
+   "미드센추리모던",
+   "직조",
+   "공간설계"
+  ],
+  "evidence": "Rugs are one of those niche investment pieces that can cost a fortune but will have little to no resale value after your dog has done a number on it",
+  "kind": "리스트·라운드업",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "할인 정보라는 실용적 목적에 집중했으나, 브랜드별 소재 및 생산 방식의 차이를 통해 공간 설계의 관점을 제시함.",
+  "v": 2,
+  "url": "https://www.architecturaldigest.com/story/black-friday-rug-deals-11-27-2026",
+  "original_title": "20 Best Early Black Friday Rug Deals to Style Every Room (2026)",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 8768,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-27 20:12",
+  "research": {
+   "entities": [
+    "Design Within Reach",
+    "Beni",
+    "Ruggable",
+    "Herman Miller",
+    "Fritz Hansen"
+   ],
+   "questions": [
+    "블랙 프라이데이 기간에 러그를 구매할 때 고려해야 할 품질 기준이나 소재별 관리 방법은 무엇인가요?",
+    "Beni와 같은 브랜드에서 판매하는 '샘플 세일' 제품이 일반 정가 제품과 차이가 발생하는 이유는 무엇인가요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Ruggable x Architectural Digest: Stylish Washable Rugs for Your Home | Ruggable US",
+     "url": "https://cna.st/affiliate-link/Wu6UuqeJKuLDw9cZo52c2J1xWSqcz3CV2izMAxpQsBFo3N8nQ2uGtx6UM6MpRibnY1jscEW2M3j59PAH4xgG2v6KByR7buJLU37eGDn5SyXq5a876GrBJiUqsWo43kFzGuZ9aa9BTBzUvPHWbbTsUmtFbtJMmnqjzuSLgPBikHAAmNqX6VK7zkhvQhHNhgEYK4BP7RPXbkDhAcmor4cDc7ywSjJgtZPbBcZiHAkNpVbNf6stjsEEKQhnWs9Qmy9FQmSkw6iHNMNy8FooFgxosaLZDnNwfzTrQ4rJFXaY3CMvFQTZvmtxK4WAyaRS7wVkRUyHVPph6ijuFkV7Ys5Z6Fde5gee"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Design Within Reach | Black Friday Sale: 25% Off Everything",
+     "url": "https://cna.st/affiliate-link/s7txNnToSWByrMd2kqwDJ4yCtmbkMLtpxrL9qzRw4vcexbWXumR2qpTdHMU8qu7YeSmc6ZuvaD8Mc8tht79PQoXgR6URHJ9SPpkifnYkM1PYEpRz8876FNxecTD6RYS3VDYkFAhDQ26iyE3DY9iovdkR9FZfGTG9tPYkgDvd9syhYFpR1vwx6gni6cysioC9rAjdx1NKSqnmVXTLMCiS7hm17ogKgCPkMZCaCdQ3aPWxTSM6fptZfoiEYQooXpuuJimsCXC1iWuJWEPK7F6WntdVaiK53RLbLuzWx6egqMdHbeFiJFtkjzz?xid=fr1793680385616aae"
+    },
+    {
+     "n": 3,
+     "type": "공식·1차",
+     "title": "BENI | Official Site | Shop Exclusive Collaborations",
+     "url": "https://cna.st/affiliate-link/RxYrVJ2FDJxYPh2BjPjaMDB7NfMX233z9FoVn5826ovuqQ2BijBVwBjTN6f83nEnudyeoBhYdWtngYaFViQzA2d3VrYLJNvfP7UKKPLgnyUy78PWA9idQaRspEJNzA5onL89Ba1vKfJe6v1baEQRztGz2hkQwMQhf9aSGG73DyU4xPEtMDWuYxkUQdz5B3XaZCD3436eQxniqKkAPb6Z1gmUKdRU32MxA4gC2NAYnb1cf4ivAG1V2VYCBk8jwNTgaREiAAUbi7w9DNcVw6HXF3J7UMAQkszSE922AaU7wjD1RChfwLJHist53rHoMc"
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "Herman Miller",
+     "url": "https://en.wikipedia.org/wiki/Herman%20Miller"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "바우하우스의 기하학으로 빚은 프리츠 한센의 청취 공간",
+     "url": "https://www.dezeen.com/2026/09/20/fritz-hansen-sound-club-london/"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "일상의 밀도를 높이는 사물들: 2026년 남성을 위한 큐레이션",
+     "url": "https://www.architecturaldigest.com/story/best-gifts-for-men"
+    },
+    {
+     "n": 7,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "찰스 슐츠의 피너츠: 50년간 기록된 미국 주거의 연대기",
+     "url": "https://www.architecturaldigest.com/story/the-secret-design-history-of-peanuts"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "chars": 5138
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "nowness.com/films/yo-yo-mohammadreza-mayghani": {
+  "title_ko": "이란 사막의 환영과 기억, 영화 요요가 포착한 정신의 파문",
+  "summary_ko": "이란의 감독 모하마드레자 마이그하니가 연출한 단편 영화 요요는 2025년 로카르노 영화제에서 상영되었다. 이란 남부 사막을 배경으로 환청에 시달리는 시아바시와 그를 구하려는 샤디의 여정을 통해 현실과 상상이 뒤섞인 내면의 풍경을 그린다. 감독 자신의 불면과 정신질환 경험을 바탕으로 사막의 고요 속에서 감춰진 폭력과 환영의 에코를 시각화했다.",
+  "lens": "사막의 고요와 환청을 겹쳐 불안의 내부를 시각적 미로로 번역한다.",
+  "why_now": "디지털 화면 속에서 개인의 내면적 트라우마와 비정형적 사운드를 시각 언어로 확장하는 작업이 주목받는 흐름에 맞닿아 있다.",
+  "mechanism": "환청과 환영을 대담한 시각 언어와 사운드 디자인으로 겹쳐 불면의 밤에 마주한 왜곡된 감각을 구현한다.",
+  "sensory": "이란 남부 사막의 메마른 지형과 고요함 속에 울려 퍼지는 환청의 메아리가 서늘한 긴장감을 만든다.",
+  "transfer": "인물의 심리적 혼란을 연출할 때, 건조한 야외 로케이션의 침묵과 불규칙한 사운드 레이어를 교차해 불안의 농도를 조절한다.",
+  "context": "나우니스(NOWNESS) 플랫폼을 통해 공개된 이번 작품은 2025년 로카르노 영화제에서 첫 상영되었으며 작가의 자전적 경험을 바탕으로 한다.",
+  "findings": [],
+  "keywords": [
+   "단편영화",
+   "사막",
+   "환영",
+   "심리적풍경"
+  ],
+  "evidence": "Iranian filmmaker Mohammadreza Mayghani explores the mind in its strangest moments, where reality and imagination intertwine, for the narrative short Yo-Yo.",
+  "kind": "영상·필름",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "감독의 자전적 경험을 바탕으로 한 시각적 실험이 돋보이나 소개 중심의 단편 영상이다.",
+  "v": 2,
+  "url": "https://www.nowness.com/films/yo-yo-mohammadreza-mayghani/",
+  "original_title": "NOWNESS Shorts: Yo-Yo",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 2101,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-27 20:12",
+  "research": {
+   "entities": [
+    "Mohammadreza Mayghani",
+    "Yo-Yo",
+    "Locarno Film Festival",
+    "NOWNESS"
+   ],
+   "questions": [
+    "감독 모하마드레자 메이가니가 영화 'Yo-Yo'를 통해 표현하고자 한 정신질환의 경험은 구체적으로 어떤 시각적 언어로 구현되었는가?",
+    "영화 속에서 요요(Yo-Yo)라는 장난감이 종교, 정치, 폭력으로부터의 도피처로서 어떤 상징적 의미를 갖는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Locarno Film Festival",
+     "url": "https://en.wikipedia.org/wiki/Locarno%20Film%20Festival"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Nowness",
+     "url": "https://en.wikipedia.org/wiki/Nowness"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "단테의 지옥에서 건져 올린 시각과 소리의 연대기",
+     "url": "https://www.nowness.com/series/sound-vision/opera-omnia-valentin-noujaim-space-afrika"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "기억의 무게와 선택의 후회를 다루는 단편 영화 Pressed to Fit",
+     "url": "https://www.nowness.com/series/nowness-shorts/pressed-to-fit-sara-silkin"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "지워져 가는 칼라쉬의 풍경, 알리나의 초상",
+     "url": "https://www.nowness.com/series/portrait-of-a-place/alina-kalasha-pakistan"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 1573
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "dezeen.com/2026/11/27/trees-on-buildings-chipotle-hoodie-shanghai-opera-house-dezeen-weekly": {
+  "title_ko": "상하이 오페라 하우스의 나선형 지붕과 건축의 공공성 논쟁",
+  "summary_ko": "스뇌헤타가 설계한 상하이 그랜드 오페라 하우스의 나선형 계단과 옥상 접근을 위해 방문객이 입장료를 지불해야 한다는 사실이 알려지며 논란이 일고 있다. 디진 위클리 팟캐스트에서 저널리스트 제니퍼 한과 낫 바커는 건축물의 공공 공간 사유화 문제를 다룬다. 또한 이들은 21세기 건축의 주요 흐름인 수직 숲 트렌드와 음식 문화 스트리트웨어의 디자인적 배경을 조명한다.",
+  "lens": "공공의 동선을 품은 거대한 나선형 지붕이 유료 관람 구역으로 변모하며 도시 건축의 문턱을 높인다.",
+  "why_now": "건축물이 도시와 대중에게 열려야 한다는 공공성 개념이 상업적 운영 방식과 충돌하는 지점을 명확히 보여준다.",
+  "mechanism": "건물의 외관을 감싸며 지붕까지 이어지는 나선형 계단 구조를 통해 관람객을 상부로 유도하나, 유료 티켓 검표를 통해 접근을 통제한다.",
+  "sensory": "건축물 외부를 따라 거대한 곡선을 그리며 상승하는 계단과 상층부에서 내려다보는 시각적 개방감이 핵심 감각 요소다.",
+  "transfer": "공공 공간을 연출할 때 개방된 동선이 특정 자본이나 시스템에 의해 차단되는 순간 발생하는 긴장감을 숏의 구도로 활용한다.",
+  "context": "노르웨이 오슬로에 기반을 둔 건축사사무소 스뇌헤타는 자연과 지형을 건축의 일부로 편입시키는 작업을 지속해왔다.",
+  "findings": [
+   {
+    "text": "스뇌헤타는 노르웨이 오슬로에 설립된 글로벌 건축사사무소이다.",
+    "s": 2,
+    "quote": "Snøhetta AS is a global architectural firm, founded in Oslo, Norway."
+   }
+  ],
+  "keywords": [
+   "스뇌헤타",
+   "상하이오페라하우스",
+   "공공성",
+   "나선형계단"
+  ],
+  "evidence": "Plus: what's behind the current trend for food-oriented streetwear? And what's wrong with Snøhetta's remarkable Shanghai Grand Opera House?",
+  "kind": "뉴스·이슈",
+  "depth": 2,
+  "grounding": "thin",
+  "depth_reason": "팟캐스트 방송 내용 소개를 다룬 뉴스 기사로 정보가 제한적이다.",
+  "v": 2,
+  "url": "https://www.dezeen.com/2026/11/27/trees-on-buildings-chipotle-hoodie-shanghai-opera-house-dezeen-weekly/",
+  "original_title": "The debate over putting trees on buildings",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 1911,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-27 20:12",
+  "research": {
+   "entities": [
+    "Snøhetta",
+    "Shanghai Grand Opera House",
+    "Jean Nouvel",
+    "Studio Gang"
+   ],
+   "questions": [
+    "건축물에 나무를 심는 '수직 숲' 트렌드가 환경적, 구조적으로 논란이 되는 이유는 무엇인가요?",
+    "상하이 그랜드 오페라 하우스의 공공 공간 접근 제한 논란은 건축의 공공성과 사유화 측면에서 어떤 시사점을 주나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Dezeen Weekly",
+     "url": "https://podcasts.apple.com/us/podcast/dezeen-weekly/id1871205904"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Snøhetta (company)",
+     "url": "https://en.wikipedia.org/wiki/Sn%C3%B8hetta%20%28company%29"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Jean Nouvel",
+     "url": "https://en.wikipedia.org/wiki/Jean%20Nouvel"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "장 누벨의 주거 단지 라 케롤라, 완공 직후 대형 화재로 참화",
+     "url": "https://www.archdaily.com/1185688/fire-severely-damages-jean-nouvels-la-querola-in-andorra"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "살와와 셀마 미쿠: 모로코의 기억과 현대 공학을 잇는 건축의 대조",
+     "url": "https://www.archdaily.com/1184803/living-with-contrasts-is-something-very-meaningful-salwa-and-selma-mikou-on-architecture-and-craft-in-louisiana-channel-interview"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "스뇌헤타가 완성한 홍콩의 녹색 폐, 파빌리아 팜 클럽하우스",
+     "url": "https://www.archdaily.com/1185885/pavilia-farm-clubhouses-snohetta"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 4142
+  },
+  "depth_raw": 2,
+  "depth_v": 2
+ },
+ "architecturaldigest.com/story/article-black-friday-sale-11-27-2026": {
+  "title_ko": "미드센추리 모던의 실용적 변주, 아티클의 블랙프라이데이 가구 리스트",
+  "summary_ko": "가구 브랜드 아티클(Article)이 연말 시즌을 맞아 미드센추리 모던 스타일의 가구와 조명을 최대 60% 할인한다. 샌드스톤 부클레 소재의 소파부터 와이어 브러시 마감의 사이드보드까지, 공간의 질감을 재구성하는 오브제를 제안한다. 온라인 기반으로 시작한 브랜드는 현재 밴쿠버 오프라인 매장을 거점으로 북미 전역으로 확장을 꾀하고 있다.",
+  "lens": "단순한 미드센추리 모던의 재현을 넘어, 부클레와 원목의 질감을 겹쳐 공간에 물리적 깊이를 더하는 방식에 주목한다.",
+  "why_now": "디지털 피로도가 높은 시기, 손끝에 닿는 직조감과 자연스러운 목재의 결은 공간에 정적인 무게감을 부여한다.",
+  "mechanism": "와이어 브러시로 목재의 부드러운 섬유를 걷어내고 단단한 결만 남기는 기법으로 재료의 물성을 극대화한다. 가구의 낮은 프로파일과 단순한 기하학적 형태는 시각적 무게를 덜어내어 공간을 확장한다.",
+  "sensory": "샌드스톤 부클레의 오돌토돌한 촉감과 브러시드 내추럴 오크의 거친 나뭇결이 대비를 이룬다. 금속 다리와 결합된 낮은 무게중심은 공간에 안정적인 수평감을 형성한다.",
+  "transfer": "콘티 작업 시, 부클레 소재의 쿠션과 원목 사이드보드를 배치해 시각적 층위를 만든다. 조명 설치 시에는 다크 그레이 파우더 코팅 마감의 펜던트를 마블이나 목재 테이블 상단에 배치해 차가운 금속과 자연 소재의 대비를 연출한다.",
+  "context": "아티클은 온라인 가구 브랜드로 시작해 밴쿠버 오프라인 매장을 통해 접점을 넓히고 있다. 과거 아키텍처럴 다이제스트가 다룬 슬리퍼 소파, 가죽 소파, 소형 데스크 리스트에서도 공간의 밀도를 높이는 가구 브랜드로서 꾸준히 언급된 바 있다.",
+  "findings": [
+   {
+    "text": "아티클은 샌드스톤 울 부클레 소재의 내구성을 위해 산업 표준인 2만 회를 넘는 5만 회의 마모 테스트를 거친다.",
+    "s": 1,
+    "quote": "We rigorously test our fabrics for abrasion resistance, subjecting them to up to 50,000 rubs. This exceeds the industry standard of 20,000 rubs"
+   },
+   {
+    "text": "애쉬포드 사이드보드는 와이어 브러시 공정을 통해 부드러운 섬유를 제거하고 단단한 나뭇결을 강조하는 방식을 취한다.",
+    "s": 3,
+    "quote": "Featuring a wire-brush finish, this process removes the softer fibers, leaving the harder grain behind. This gives the wood a distinct texture and highlights its natural patterns"
+   }
+  ],
+  "keywords": [
+   "미드센추리모던",
+   "부클레",
+   "공간질감",
+   "가구디자인"
+  ],
+  "evidence": "The repeating solid-wood fronts create a textural rhythm and also serve as built-in pulls, giving the piece a contemporary nod.",
+  "kind": "제품·오브제",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "브랜드의 세일 소식과 함께 특정 제품의 재료적 특성과 마감 기법을 구체적으로 분석하여 실무적 참고 가치가 있다.",
+  "v": 2,
+  "url": "https://www.architecturaldigest.com/story/article-black-friday-sale-11-27-2026",
+  "original_title": "Article Black Friday Sale 2026: 60% Off Furniture & Decor",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 5539,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-27 20:12",
+  "research": {
+   "entities": [
+    "Article"
+   ],
+   "questions": [
+    "Article 브랜드가 지향하는 미드센추리 모던 디자인의 특징과 브랜드의 성장 배경은 무엇인가요?",
+    "온라인 기반 가구 브랜드가 오프라인 매장으로 확장할 때 고려하는 전략적 요소는 무엇인가요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Sanders 85.5\" Reversible Sectional - Sandstone Wool Bouclé",
+     "url": "https://cna.st/affiliate-link/5HJzsPvR3PTqsNDCdBQRd7bDaj5fQDyQXMegemdKm8e6SsnhBAJVADcWxoEeGtiaCqZgRnPhDn5BDAN6qSmj9sWKh57t87K3h8PynTtfFebDKdMsqiVxCHViShxpe57ooWh3d1s4HaUZ28MFB1NpYkn4EU47r4aedZ4X2BB5gTdSxx6UdqqKzVDs1dETAitz3xFrdNgbBw2gybbmiXHw1zofGGEPqmPqXRkJk9HG375k7cpVh2VhUK77kZYXZGBaYvq29dL1PKTDtsouzFBMHQMHayyxg8ZSW1ZFjxBZpnfPFBRENbdLAzXQ91yP52fewnHScnkbityvs6V8BCPT5fxszd7xccyuBaUtUXuejT4Q6Guq2xqCe7NN7aL476xgvDmd3nXoSDJpkHCJb3z24Y3pxZ4DEo4vFFZMpVTDbHdEofUA89BJZfrcmT6WAGE1S7SvgYS"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Abisko 42.5\" Lounge Set - Quartz White",
+     "url": "https://cna.st/affiliate-link/2Cd7yruAyULCVrmDdL337pKk6eN4JbwMHrv8EoYgJD4kohmNjqds7rbLeLtLwkJsDZqeKPBkfM9MizvpXXCFRFK3TA1VzCX9ZDwDWcp15W2nbdFJziVa9yH3n9pS89kkrXQxPdS2iCQadjJLCMgsAry4xT1etyFQcF7jwn8XMUSztywtRTJNxVjAE3hRNNRHepMho2Ct92dsjY8aSURYvVPEcEPNGrbEmBM8GidUKSzLjK41tS1mY8XYnNCP5zJ1JJn6zNV2bZMV1R8n4DY6gSjYcY8pjnGK3KCDt6hfc2P8bpPpDhCLHNreKbwomVruq6bT32zypdMAweL6TZ1qhhVShtHvZsRKXyxw4XYpd7rdoq8aHPbefEUSUqpN2GveaUN4JCohjJvngTiRbt7GzbebueJCwh7jYYhV9wDKxH38"
+    },
+    {
+     "n": 3,
+     "type": "공식·1차",
+     "title": "Ashford 64\" Sideboard - Brushed Natural Oak",
+     "url": "https://cna.st/affiliate-link/bfsED2YUx11p3JKzVSrTLAMomQipG5DW3C5Zzw2kv22xqg5LnywhZHN9knYoh8miuPzgUBiBf6St6hqyysXu8MTi2R1Bp3ykBCYhJCESCH9i86UgBcHy9DFTe4S8nTzUtgLLdCXXkKPYY8acZRRVBahYaEaiWmiNN97tgkZjsk1p798WrNHLkLTDvz9pnnVjrcrLaRHsViMaM78PViUbKpfGMkyn8bxksBqKKTi6rBwu1ZQFsHPdLjzmAk2QHJMacjYMuXAHDZcmzQfHDZFt1eLsJzqbzurpcotpU5nCLubK5TpGyNckaD4gNNxF2igsLUCtubhhkn5z1nEVWkVeHrRqTZ8fcmquBnojgwaXYSj9fMbUJgG8gh8AuvBpQxZwrK2XbGymWiZz4ia2WBJUgUhQ6QkpyiYjgUmx2kLDqWyzMKhmva"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "구조와 휴식을 동시에 담는 15가지 슬리퍼 소파의 실루엣",
+     "url": "https://www.architecturaldigest.com/story/the-very-best-sleeper-sofas-tested-and-reviewed-by-our-editors"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "시간의 층위를 입는 가죽 소파: 공간의 밀도를 결정하는 7가지 시선",
+     "url": "https://www.architecturaldigest.com/story/were-suddenly-feeling-leather-sofas"
+    },
+    {
+     "n": 6,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "작은 방을 위한 9가지 책상: 수직 벽면부터 접이식 구조까지",
+     "url": "https://www.architecturaldigest.com/gallery/desks-for-small-spaces"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "chars": 7400
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "anothermag.com/art-photography/17661/nan-goldin-photography-artists-writers-legacy-hayward-gallery": {
+  "title_ko": "낸 골딘의 렌즈: 50년의 기록이 증명하는 친밀함의 정치학",
+  "summary_ko": "낸 골딘(Nan Goldin)은 50년간 친구와 연인, 퀴어 공동체의 일상을 날것 그대로 기록하며 사진의 친밀함과 사회적 정치성을 결합했다. 대표작 '성적 의존의 발라드'로 슬라이드쇼 형식을 독자적 매체로 정립한 그는, 최근 헤이워드 갤러리(Hayward Gallery) 전시를 통해 2019년 이후 제작한 신작 필름 4편을 공개하며 예술가이자 활동가로서의 행보를 이어간다.",
+  "lens": "사적 기록을 공적 담론으로 치환하는 골딘의 방식은, 사진이 단순한 이미지의 나열이 아니라 관계의 물리적 증거임을 증명한다.",
+  "why_now": "개인적인 고통과 기억을 사회적 정의와 연결하는 그의 태도는, 파편화된 이미지 시대에 창작자가 가져야 할 기록의 윤리를 재질문한다.",
+  "mechanism": "슬라이드쇼에 영상, 대사, 서사적 음악을 몽타주하여 시간의 흐름을 부여하고, 관람객을 정적인 관찰자가 아닌 서사의 목격자로 끌어들인다.",
+  "sensory": "반쯤 마신 음료, 담배, 낡은 가구 등 일상의 사물들이 빚어내는 삶의 온기와 그 이면에 짙게 깔린 상실의 건조한 질감이 공존한다.",
+  "transfer": "인물을 촬영할 때 피사체와의 거리를 좁히는 대신, 그들의 일상적 사물을 배치하여 인물의 부재 속에서도 존재의 무게를 전달하는 미장센을 구성하라.",
+  "context": "낸 골딘은 1980년대 뉴욕 언더그라운드 문화를 기록하며 사진의 고백적 형식을 개척했다. 헤이워드 갤러리는 앞서 르네 레비의 작업을 통해 브루탈리즘 건축 외관을 회화적 신체로 전환하는 시도를 선보인 바 있다.",
+  "findings": [
+   {
+    "text": "낸 골딘은 1980년대 HIV/AIDS 위기 속에서 보헤미안 LGBTQ 하위문화 공동체의 감정을 기록했다.",
+    "s": 1,
+    "quote": "Her work explores in snapshot-style the emotions of the individual, in intimate relationships, and the bohemian LGBTQ subcultural communities, especially dealing with the devastating HIV/AIDS crisis of the 1980s."
+   },
+   {
+    "text": "대표작 '성적 의존의 발라드'는 1979년부터 1986년 사이 촬영된 700여 장의 사진으로 구성된 자전적 기록물이다.",
+    "s": 2,
+    "quote": "Consisting of over 700 images, it is an autobiographical document of a portion of New York City's No wave music and art scene"
+   }
+  ],
+  "keywords": [
+   "낸 골딘",
+   "슬라이드쇼",
+   "친밀함",
+   "기록의 윤리",
+   "사회적 행동주의"
+  ],
+  "evidence": "Her seminal slideshow-turned-photobook The Ballad of Sexual Dependency (1985) is an opera of extremes, in which her unflinching lens follows friends, lovers and queer kin",
+  "kind": "프로젝트",
+  "depth": 5,
+  "grounding": "full",
+  "depth_reason": "사진 매체의 형식적 진화와 작가의 사회적 실천을 구체적인 작업 맥락과 함께 분석하여 창작자에게 실질적인 연출적 통찰을 제공한다.",
+  "v": 2,
+  "url": "https://www.anothermag.com/art-photography/17661/nan-goldin-photography-artists-writers-legacy-hayward-gallery",
+  "original_title": "Seven Artists and Writers on the Genius of Nan Goldin",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 9000,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-27 20:13",
+  "research": {
+   "entities": [
+    "Nan Goldin",
+    "The Ballad of Sexual Dependency",
+    "PAIN",
+    "Peter Hujar",
+    "Hayward Gallery"
+   ],
+   "questions": [
+    "낸 골딘의 슬라이드쇼 형식은 사진 매체와 전시 방식에 어떤 예술적 변화를 가져왔는가?",
+    "낸 골딘의 예술 활동과 PAIN을 통한 사회적 행동주의는 어떻게 상호작용하며 그녀의 작품 세계를 확장했는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Nan Goldin",
+     "url": "https://en.wikipedia.org/wiki/Nan%20Goldin"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "The Ballad of Sexual Dependency",
+     "url": "https://en.wikipedia.org/wiki/The%20Ballad%20of%20Sexual%20Dependency"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "런던 브루탈리즘의 회색 콘크리트에 형광을 입히다",
+     "url": "https://www.designboom.com/art/renee-levi-transforms-hayward-gallery-facade-in-audemars-piguet-contemporary-commission/"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "르네 레비가 헤이워드 갤러리의 콘크리트 외벽을 회화의 캔버스로 치환하다",
+     "url": "https://www.dazeddigital.com/art-photography/article/71023/1/art-writers-apply-to-interview-rene-levi-for-dazed-hayward-gallery?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=art-writers-join-dazed-club-for-your-chance-to-interview-renee-levi-for-us"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "뤄양의 렌즈가 포착한 뉴욕 차이나타운의 디아스포라 여성들",
+     "url": "https://elephant.art/luo-yangs-diaspora-birds-lands-in-nyc-chinatown/"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "chars": 2328
+  },
+  "depth_raw": 5,
+  "depth_v": 2
  }
 }
