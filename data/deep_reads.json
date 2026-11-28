@@ -410698,5 +410698,236 @@
   },
   "depth_raw": 3,
   "depth_v": 2
+ },
+ "wallpaper.com/architecture/residential/winter-retreat-palm-beach-usa": {
+  "title_ko": "미니멀의 공식을 깨고 강렬한 소재로 빚어낸 팜비치의 사적인 미술관",
+  "summary_ko": "인테리어 디자이너 클라이브 론스타인이 플로리다주 팜비치의 전직 호텔 건물을 미술 수집가 부부를 위한 겨울 휴양지로 개조했다. 오렌지 래커, 소가죽, 리넨 등 원색적이고 감각적인 소재를 과감히 배치해 예술 작품과 가구가 상호작용하도록 설계했다.",
+  "lens": "화이트큐브의 공식을 거부하고 강렬한 가구와 물성을 겹쳐 예술과 공간의 밀도를 높인다.",
+  "why_now": "중립적인 배경 속에 미술품을 가두는 방식에서 벗어나, 공간 자체의 물성과 가구가 예술과 대등하게 충돌하는 실내 건축적 태도가 주목받고 있다.",
+  "mechanism": "오렌지 래커 수납장, 로열 퍼플 소가죽, 모놀리식한 모래색 타일 바닥을 맞물려 시각적 무게감을 분산시킨다.",
+  "sensory": "빛을 반사하는 유광 오렌지 래커와 거친 질감의 소가죽, 거대한 유리창 너머의 해안 풍경이 뒤섞인다.",
+  "transfer": "영상 속 인물의 백드롭으로 매끄러운 흰 벽 대신 고채도의 래커 벽면과 질감이 살아있는 가죽 패널을 배치해 공간의 긴장감을 높인다.",
+  "context": "인테리어 디자이너 클라이브 론스타인은 소장가 부부의 방대한 미술품 컬렉션을 출발점으로 삼아 공간을 구성했다.",
+  "findings": [],
+  "keywords": [
+   "인테리어디자인",
+   "컬렉터하우스",
+   "공간설계",
+   "물성"
+  ],
+  "evidence": "Say the magic words ‘Palm Beach, Florida’, and images of winter retreat, tropical prints and ice-cream pastel colours will no doubt spring to mind.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "미술 수집가를 위한 아파트 인테리어 프로젝트의 구체적 면모를 다루나 전형적인 주거 프로젝트의 범주를 크게 벗어나지 않는다.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/architecture/residential/winter-retreat-palm-beach-usa",
+  "original_title": "This art-filled winter retreat in Palm Beach knows how to make a bold statement",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 4340,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-28 19:45",
+  "research": {
+   "entities": [
+    "Clive Lonstein",
+    "Mischa Kahn",
+    "Rashid Johnson",
+    "Nick Cave",
+    "Oscar Niemeyer"
+   ],
+   "questions": [
+    "예술 작품을 돋보이게 하기 위해 미니멀한 인테리어를 선택하는 대신, 강렬한 가구와 소재를 조합하는 디자인 방식은 어떤 효과를 내는가?",
+    "예술 작품과 가구의 경계가 모호해지는 디자인적 요소들은 공간의 분위기를 어떻게 변화시키는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Rashid Johnson",
+     "url": "https://en.wikipedia.org/wiki/Rashid%20Johnson"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Nick Cave (artist)",
+     "url": "https://en.wikipedia.org/wiki/Nick%20Cave%20%28artist%29"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "닉 케이브의 사운드수트, 침묵을 부수고 이동하는 무대가 되다",
+     "url": "https://www.designboom.com/art/nick-cave-stage-crowd/"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "베이루트의 1952년 아파트, 모더니즘과 골동품이 충돌하는 다층적 거주 공간",
+     "url": "https://www.architecturaldigest.com/story/guillaume-excoffier-places-his-art-and-design-collection-in-conversation-with-beirut"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "상파울루 111 하우스: 노출 콘크리트와 수직 정원이 빚어내는 모더니즘의 변주",
+     "url": "https://www.wallpaper.com/architecture/residential/sao-paulo-house-isay-weinfeld-rodrigo-oliveira-brazil"
+    }
+   ],
+   "used": [],
+   "chars": 2925
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "dezeen.com/2026/11/28/novelty-streetwear-products-elevate-everyday": {
+  "title_ko": "구운 감자부터 오이 피클까지, 패스트푸드가 재단한 5가지 기괴한 스트리트웨어",
+  "summary_ko": "영국 패션 브랜드 아그로 스튜디오와 알디가 구운 감자를 닮은 패딩을 선보였다. 치폴레는 영화관 부리토 반입을 위한 보온 주머니가 달린 후드티를 제작했다. 이 외에도 레고 크록스, 닉 벤텔의 스테인리스 장바구니 백, KFC의 피클 코트 등 일상 사물을 변형한 스트리트웨어가 공개되었다.",
+  "lens": "일상의 사물을 재료 삼아 패션의 유머와 기능의 경계를 비틀어버린다.",
+  "why_now": "대형 브랜드들이 유머러스한 소비문화를 자극하며 일상의 사물을 의복과 액세서리로 급진적으로 전유하고 있다.",
+  "mechanism": "실제 사물의 형태와 질감을 고스란히 본뜬 외피와 은닉형 수납 구조를 결합해 시각적 충격과 실용적 호기심을 동시에 유발한다.",
+  "sensory": "얼룩덜룩한 감자 가죽 질감의 패딩 외피와 액상형 초록색 피클이 가득 찬 투명 코트의 차가운 물성이 대조를 이룬다.",
+  "transfer": "광고 콘티나 뮤직비디오에서 일상 소품을 기괴하고 과장된 스케일의 의상으로 치환하여 시각적 전복을 노린다.",
+  "context": "치폴레(Chipotle)는 1993년 스티브 엘스가 설립한 미국의 패스트 캐주얼 레스토랑 체인이다.",
+  "findings": [
+   {
+    "text": "치폴레는 1993년 스티브 엘스가 설립한 미국의 패스트 캐주얼 레스토랑 체인이다.",
+    "s": 1,
+    "quote": "Chipotle was founded by Steve Ells on July 13, 1993."
+   }
+  ],
+  "keywords": [
+   "노벨티",
+   "스트리트웨어",
+   "패스트푸드",
+   "오브제",
+   "서브버전"
+  ],
+  "evidence": "Five novelty streetwear products that add a touch of fun to the everyday",
+  "kind": "리스트·라운드업",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "대형 브랜드들의 기발한 스트리트웨어 제품 5가지를 모은 라운드업 기사로 구체적인 제품들은 흥미로우나 단순 소개에 가깝다.",
+  "v": 2,
+  "url": "https://www.dezeen.com/2026/11/28/novelty-streetwear-products-elevate-everyday/",
+  "original_title": "Five novelty streetwear products that add a touch of fun to the everyday",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 2446,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-28 19:45",
+  "research": {
+   "entities": [
+    "Agro Studio",
+    "Chipotle",
+    "Lego",
+    "Crocs",
+    "Nik Bentel"
+   ],
+   "questions": [
+    "패션 브랜드들이 일상적인 사물을 모티브로 한 '노벨티 스트릿웨어'를 제작하는 마케팅적 의도는 무엇인가?",
+    "이러한 제품들이 단순한 홍보용 굿즈를 넘어 패션 디자인의 영역에서 어떤 평가를 받고 있는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Chipotle Mexican Grill",
+     "url": "https://en.wikipedia.org/wiki/Chipotle%20Mexican%20Grill"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Lego",
+     "url": "https://en.wikipedia.org/wiki/Lego"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "알리스터 니콜스의 클레이메이션, 제약이 빚어낸 초현실적 일상",
+     "url": "https://www.itsnicethat.com/articles/alistair-nicholls-running-late-animation-project-170926"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "영화관 반입을 위한 보온 주머니: 치폴레의 패스트푸드 스트리트웨어",
+     "url": "https://www.dezeen.com/2026/11/18/chipotles-sneak-it-in-hoodie/"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 3224
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "wallpaper.com/art/music/bon-iver-22-a-million-album-artwork-tenth-anniversary": {
+  "title_ko": "숫자 22의 이중성, 에릭 티모시 칼슨이 구축한 본 이베어의 상징 체계",
+  "summary_ko": "본 이베어(Bon Iver)의 2016년 앨범 '22, A Million' 발매 10주년을 맞아 디자이너 에릭 티모시 칼슨(Eric Timothy Carlson)이 앨범 아트워크의 재해석 과정을 공개했다. 저스틴 버논(Justin Vernon)의 음악적 실험을 시각화하기 위해 칼슨은 펜과 잉크로 그린 수작업 드로잉을 디지털 데이터와 결합하여 고유한 기호 체계를 구축했다. 이번 기념 에디션은 기존 앨범 커버를 반전시켜 숫자와 상징이 가진 이중성을 시각적으로 강조한다.",
+  "lens": "고대 연금술 기호와 현대적 타이포그래피를 펜으로 엮어, 디지털 피로를 돌파하는 아날로그적 물성의 무게를 증명한다.",
+  "why_now": "디지털 환경에서 소모되는 정보의 홍수 속에서, 음악의 서사를 고유한 상징과 기호로 박제하여 물리적 실체로 환원하는 방식이 유효하기 때문이다.",
+  "mechanism": "손으로 그린 드로잉을 스캔하여 디지털 에셋으로 변환한 뒤, 대칭과 반전 기법을 활용해 기호의 의미를 중첩시킨다.",
+  "sensory": "종이 위 잉크의 거친 질감과 대조되는 정교한 디지털 라인의 결합, 그리고 흑백의 극명한 대비가 주는 차갑고도 예리한 시각적 긴장감.",
+  "transfer": "콘티 작업 시 텍스트를 기호화하여 그리드에 배치하고, 반전(Inversion) 기법을 사용해 레이어의 깊이감을 조절하는 레이아웃 전략으로 활용한다.",
+  "context": "에릭 티모시 칼슨은 본 이베어의 음악적 동료로서 수년간 협업하며 밴드의 시각적 정체성을 구축해왔다. 이는 2016년 발매된 앨범의 10주년을 기념하여 기존의 흑백 라인 드로잉을 반전시켜 재발매하는 프로젝트로 이어진다.",
+  "findings": [],
+  "keywords": [
+   "상징주의",
+   "타이포그래피",
+   "아날로그물성",
+   "시각적은유"
+  ],
+  "evidence": "Over the interior and exterior, the 22, A Million album art is a teeming sprawl of numerology and symbology, an ouroboros of information and implication.",
+  "kind": "프로젝트",
+  "depth": 5,
+  "grounding": "full",
+  "depth_reason": "음악과 시각 디자인의 협업 과정을 상세히 다루며, 구체적인 작업 기법과 철학적 배경을 명확히 제시한다.",
+  "v": 2,
+  "url": "https://www.wallpaper.com/art/music/bon-iver-22-a-million-album-artwork-tenth-anniversary",
+  "original_title": "Inside the design of Bon Iver’s ‘22, A Million’, rereleased for its tenth anniversary",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 9000,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-28 19:45",
+  "research": {
+   "entities": [
+    "Bon Iver",
+    "Justin Vernon",
+    "Eric Timothy Carlson",
+    "22, A Million"
+   ],
+   "questions": [
+    "22, A Million 앨범 아트워크에 사용된 기호와 숫자 체계는 어떤 철학적 의미를 담고 있는가?",
+    "저스틴 버논과 에릭 티모시 칼슨의 협업 과정에서 음악적 실험이 시각적 디자인으로 어떻게 번역되었는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Bon Iver",
+     "url": "https://en.wikipedia.org/wiki/Bon%20Iver"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Justin Vernon",
+     "url": "https://en.wikipedia.org/wiki/Justin%20Vernon"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "본 이베어의 열 살 된 상징 유니버스, 에릭 티모시 칼슨이 뒤집은 22, A Million",
+     "url": "https://www.itsnicethat.com/articles/eric-timothy-carlson-bon-iver-22-a-million-graphic-design-101126"
+    }
+   ],
+   "used": [
+    1,
+    2,
+    3
+   ],
+   "chars": 1963
+  },
+  "depth_raw": 5,
+  "depth_v": 2
  }
 }
