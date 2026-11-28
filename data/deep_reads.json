@@ -409900,5 +409900,445 @@
   },
   "depth_raw": 3,
   "depth_v": 2
+ },
+ "archdaily.com/1035916/fig-tree-house-estudio-lava": {
+  "title_ko": "대서양림 경사지를 품은 반원형의 거처, 피그 트리 하우스",
+  "summary_ko": "브라질 앙그라두스레이스의 프라이아 다 피게이라에 위치한 200제곱미터 규모의 주택이다. 에스투디오 라바가 울창한 대서양림 식생과 급경사 지형의 제약을 극복하며 설계했다. 일몰과 지포이아 섬 너머의 바다 지평선을 동시에 조망하기 위해 건물을 반원형 형태로 구축했다.",
+  "lens": "지형의 곡면과 일몰의 궤도를 일치시켜 자연을 향한 시선을 건물 전체의 뼈대로 확장한다.",
+  "why_now": "지형을 평평하게 깎아내는 개발 방식에서 벗어나 경사와 식생의 조건을 형태의 원동력으로 삼는 생태적 순응주의를 보여준다.",
+  "mechanism": "반원형의 평면 배치를 통해 건물의 향을 일출과 일몰 양쪽으로 열어내며 경사진 대지 위에서 시선의 각도를 다각도로 분산시킨다.",
+  "sensory": "울창한 대서양림의 녹음 속에서 곡선형 벽체를 따라 시선이 바다 지평선과 낙조의 빛으로 자연스럽게 이동한다.",
+  "transfer": "공간의 중심 시선을 한 방향으로 고정하지 않고 곡면을 활용해 두 개의 서로 다른 자연 소스를 프레임에 담는 앵글 설계에 적용한다.",
+  "context": "줄리아 레이스와 루카스 부에노가 이끄는 에스투디오 라바가 브라질의 자연 지형과 식생을 배경으로 완공한 주거 건축 작업이다.",
+  "findings": [],
+  "keywords": [
+   "반원형 주택",
+   "대서양림",
+   "경사지 건축",
+   "브라질 건축"
+  ],
+  "evidence": "The construction of a residence at Praia da Figueira in Angra dos Reis faced the challenge of being built on a sloped terrain with dense Atlantic Forest vegetation. The semicircular shape stems from the intention to orient the building towards both the sunset and the open sea horizon across the island of Gipóia.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "경사지와 식생 조건에 대응하는 반원형 배치의 의도가 명확하나 세부적인 공간 장치에 대한 정보가 제한적이다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1035916/fig-tree-house-estudio-lava",
+  "original_title": "Fig Tree House / Estúdio Lava",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 1430,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-28 12:21",
+  "research": {
+   "entities": [
+    "Estúdio Lava",
+    "Pedro Kok",
+    "Julia Reis",
+    "Lucas Bueno"
+   ],
+   "questions": [
+    "브라질 앙그라두스레이스(Angra dos Reis)의 경사지 대서양 숲 지형에 지어진 Fig Tree House는 주변 자연경관과 어떻게 조화를 이루는가?",
+    "건물의 반원형 형태는 일몰과 바다 지평선을 조망하는 데 어떤 구조적·공간적 이점을 제공하는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "브라질 파라티의 경사지를 가로지르는 190제곱미터의 숲속 거처",
+     "url": "https://www.archdaily.com/1036417/country-house-arquipelago-arquitetos"
+    },
+    {
+     "n": 2,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "어두운 주거 공간의 반전, 상파울루 아마빌레 아파트 리노베이션",
+     "url": "https://www.archdaily.com/1188223/amabile-apartment-denis-joelsons"
+    }
+   ],
+   "used": [],
+   "chars": 514
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "design-milk.com/mius-hong-kong-cocktail-bar": {
+  "title_ko": "가전 매장의 뼈대 위에 얹은 미드센추리 칵테일 바 뮤스",
+  "summary_ko": "마이너스 워크숍의 대표 케빈 유는 홍콩 소호의 가전제품 매장을 칵테일 바 뮤스로 개조했다. 오크 나무와 트래버틴, 14피트 스테인리스 스틸 바 테이블을 조합해 협소한 공간을 밀도 있게 채웠다. 네 개의 카운터로 바 운영을 분산해 피크 시간대 혼잡을 줄였다.",
+  "lens": "구조적 한계를 자산으로 바꿔 좁은 매장을 단정한 은신처로 압축한다.",
+  "why_now": "화려한 인공 조명 대신 천장과 목재 가공을 활용해 도심 속에서 고요한 물성을 회복하려는 공간적 시도가 늘고 있다.",
+  "mechanism": "낮은 오크 목재 구조보가 동선을 안내하며 공간을 시각적으로 분할하고, 설비는 목공 뒤로 숨겨 유지보수를 유지한다.",
+  "sensory": "거친 트래버틴 석재 테이블과 매끄러운 14피트 스테인리스 바가 대비를 이루며, 천장의 가죽 블라인드가 시간에 따라 빛의 결을 바꾼다.",
+  "transfer": "공간 콘티에서 바 카운터를 여러 개로 쪼개 인파의 동선을 분산하고 병목 현상을 지우는 연출로 적용한다.",
+  "context": "홍콩 소호에 문을 연 뮤스는 바텐더 셸리 타이의 지향점에 맞춰 마이너스 워크숍이 미드센추리 모던 문법으로 설계한 공간이다.",
+  "findings": [
+   {
+    "text": "뮤스는 홍콩 중심가 센트럴 소호에 위치한 네이버후드 칵테일 바다.",
+    "s": 1,
+    "quote": "Located in the heart of Central Soho, MIUS is a neighbourhood cocktail bar shaped by precision"
+   }
+  ],
+  "keywords": [
+   "공간개조",
+   "칵테일바",
+   "미드센추리",
+   "스테인리스바",
+   "홍콩소호"
+  ],
+  "evidence": "A Former Appliance Store Becomes a Hong Kong Cocktail Bar",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "상업 공간의 구체적인 개조 전략과 재료 조합이 명확하지만 전형적인 인테리어 소개에 가깝다.",
+  "v": 2,
+  "url": "https://design-milk.com/mius-hong-kong-cocktail-bar/",
+  "original_title": "A Former Appliance Store Becomes a Hong Kong Cocktail Bar",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 4429,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-28 12:21",
+  "research": {
+   "entities": [
+    "Minus Workshop",
+    "Kevin Yiu",
+    "Lee Broom",
+    "Mius"
+   ],
+   "questions": [
+    "Minus Workshop이 홍콩의 좁은 상업 공간을 효율적으로 활용하기 위해 적용한 공간 구성 전략은 무엇인가?",
+    "미드센추리 모던 디자인 요소를 활용하여 어떻게 아늑하고 편안한 바의 분위기를 조성했는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "HOME | Mius Hong Kong",
+     "url": "https://www.mius.hk/"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Jumping the broom",
+     "url": "https://en.wikipedia.org/wiki/Jumping%20the%20broom"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "리 브룸의 '챈트', 1970년대 유리 블록으로 재구성한 공간의 리듬",
+     "url": "https://www.wallpaper.com/design-interiors/lighting/lee-broom-the-chant-chambers-london-design-festival-2026"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "유리 블록의 재발견, 리 브룸이 빚어낸 1970년대의 잔상",
+     "url": "https://www.dezeen.com/2026/09/15/lee-broom-1970s-glamour-chant-chambers-installation/"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 3270
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "archdaily.com/1189371/espira-yoga-shala-arquitectura-mixta": {
+  "title_ko": "유리날개나비의 궤적을 잇는 186제곱미터의 대나무 쉘터, 에스피라 요가 샬라",
+  "summary_ko": "코스타리카 과나카스테의 페닌슐라 파파가요 스포츠 컴플렉스에 위치한 에스피라 요가 샬라는 유리날개나비의 날개 구조를 대나무로 재해석한 186제곱미터 규모의 공간이다. 아르키텍투라 믹스타는 이 구조물을 통해 가벼움과 균형, 공중 부양의 감각을 구현하며 주변 열대 자연과 건축 사이의 밀도를 조절한다.",
+  "lens": "나비 날개의 투명하고 얇은 막을 대나무라는 유연한 골조와 멤브레인으로 치환해, 물리적 하중을 시각적 부유감으로 전환하는 기법이 탁월하다.",
+  "why_now": "디지털 과잉 시대에 재료의 물성 그 자체로 공간의 밀도를 결정짓는 아날로그적 구축 방식이 다시금 주목받고 있다.",
+  "mechanism": "대나무의 유기적 곡선과 세르주 페라리(Serge Ferrari)의 고성능 멤브레인을 결합해 구조적 안정성을 확보하면서도 시각적 투명도를 극대화했다.",
+  "sensory": "대나무가 만드는 비정형의 그림자와 멤브레인을 통과한 부드러운 산란광이 요가 샬라 내부의 정적인 분위기를 완성한다.",
+  "transfer": "공간의 천장을 덮는 멤브레인을 나비 날개의 패턴처럼 분절해, 조명 투과율을 조절하는 조형적 장치로 활용할 수 있다.",
+  "context": "아르키텍투라 믹스타(Arquitectura Mixta)는 이전 작업인 카이베 멀티센서리 파크에서 대나무를 활용해 정글의 유기적 곡선을 건축적으로 번역한 바 있다. 이번 프로젝트는 대나무 구조물에 고성능 멤브레인을 결합해 기후 순응적 성능을 한층 강화했다.",
+  "findings": [
+   {
+    "text": "아르키텍투라 믹스타는 대나무의 물성을 정글의 곡선과 결합해 자연과 인공의 경계를 해체한다.",
+    "s": 2,
+    "quote": "정글의 유기적 곡선과 대나무의 물성이 결합해 자연과 인공의 경계를 허문다."
+   },
+   {
+    "text": "세르주 페라리의 테크니컬 멤브레인은 구조 안정성과 채광을 동시에 확보하는 핵심 재료로 사용된다.",
+    "s": 1,
+    "quote": "가벼운 테크니컬 멤브레인 지붕을 통해 채광과 환기, 구조 안정성을 동시에 확보하며 기계 설비를 대체한다."
+   }
+  ],
+  "keywords": [
+   "대나무 구조",
+   "멤브레인 건축",
+   "열대 건축",
+   "공간 시노그래피"
+  ],
+  "evidence": "Inspired by the delicate wings of Costa Rica's glasswing butterfly, Espira explores the relationship between lightness, balance, and suspended movement through a sculptural bamboo structure.",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "대나무와 멤브레인을 조합해 구조적 경량화를 구현한 구체적 사례이며, 건축가의 이전 작업과 연계해 기법적 진화를 확인했다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1189371/espira-yoga-shala-arquitectura-mixta",
+  "original_title": "Espira Yoga Shala / Arquitectura Mixta",
+  "model": "gemini-3.1-flash-lite-preview",
+  "source_chars": 1575,
+  "fetch": "ok",
+  "cliche_hits": [
+   "경계를 허"
+  ],
+  "read_at": "2026-11-28 12:21",
+  "research": {
+   "entities": [
+    "Arquitectura Mixta",
+    "Peninsula Papagayo",
+    "Serge Ferrari"
+   ],
+   "questions": [
+    "유리날개나비의 날개 구조가 건축적 형태에 어떻게 반영되었는가?",
+    "대나무를 활용한 구조물이 열대 기후 환경에서 어떤 지속가능한 이점을 제공하는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "무게를 덜고 성능을 더하는 건축적 멤브레인의 법칙",
+     "url": "https://www.archdaily.com/1186502/when-more-material-does-not-mean-better-performance"
+    },
+    {
+     "n": 2,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "멕시코 정글 속 대나무의 기하학, 카이베 멀티센서리 파크",
+     "url": "https://www.archdaily.com/1188847/kaybe-tulum-multisensorial-park-arquitectura-mixta"
+    }
+   ],
+   "used": [
+    1,
+    2
+   ],
+   "chars": 502
+  },
+  "depth_raw": 4,
+  "depth_v": 2
+ },
+ "archdaily.com/1189382/s-house-bov-estudio-bov-estudio": {
+  "title_ko": "1910년의 파사드와 안뜰 사이, 보브 에스튜디오의 S 하우스",
+  "summary_ko": "스페인 아이욘에 위치한 1910년 건축물의 외벽을 보존하고, 1940년대에 분할되었던 대지를 다시 통합하여 336㎡ 규모의 단독주택으로 재구축했다. 보브 에스튜디오(BOV ESTUDIO)는 기존 파사드의 개구부를 안뜰과 연결하는 방식으로 재배치하여 거리의 접점과 가족의 사생활을 동시에 확보했다. 전 구간 단차 없는 평면 설계를 통해 거주자의 이동 편의성을 극대화했다.",
+  "lens": "역사적 파사드를 박제하지 않고 안뜰의 개구부로 전유하여, 외부의 시선과 내부의 거주성을 물리적 틈새로 조율한다.",
+  "why_now": "기존 건물의 뼈대를 해체하고 재구성하는 방식이 도시 유산의 보존과 현대적 주거 요구를 어떻게 충돌 없이 결합하는지 보여준다.",
+  "mechanism": "기존 파사드의 창과 문을 안뜰을 향하도록 재배치하여 외부와 내부의 시각적 연결을 제어하고, 단차 없는 수평적 동선으로 공간의 연속성을 확보했다.",
+  "sensory": "1910년의 거친 석조 파사드와 새로 도입된 안뜰의 빛과 바람이 교차하며, 시간의 층위가 섞인 고요한 내부 분위기를 조성한다.",
+  "transfer": "역사적 건물의 파사드를 활용한 촬영 시, 안뜰을 통해 빛을 유입시켜 실내 깊숙한 곳까지 그림자의 밀도를 조절하는 조명 콘티를 구성한다.",
+  "context": "보브 에스튜디오는 스페인 아이욘의 역사 지구 인근에서 기존 건축물의 구조적 맥락을 유지하면서 현대적 주거 기능을 삽입하는 리노베이션 작업을 수행했다.",
+  "findings": [],
+  "keywords": [
+   "파사드 리노베이션",
+   "공간 통합",
+   "무장애 설계",
+   "안뜰 건축"
+  ],
+  "evidence": "the openings of a 1910 facade now look out onto a courtyard",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "partial",
+  "depth_reason": "기존 파사드 보존과 단차 없는 평면이라는 명확한 전략이 있으나, 구체적인 재료와 공간의 상세 기법에 대한 정보가 부족하다.",
+  "v": 2,
+  "url": "https://www.archdaily.com/1189382/s-house-bov-estudio-bov-estudio",
+  "original_title": "S House / BOV ESTUDIO / BOV ESTUDIO",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 1233,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-28 12:21",
+  "research": {
+   "entities": [
+    "BOV ESTUDIO",
+    "Antonio Valverde Sánchez",
+    "César Buquerín de la Iglesia",
+    "Irene González Ruiz"
+   ],
+   "questions": [
+    "1910년에 지어진 기존 건물의 파사드를 보존하면서 현대적인 주거 공간으로 리노베이션할 때 고려해야 할 건축적 제약은 무엇인가요?",
+    "경사나 단차 없이 이동 가능한 '무장애(barrier-free)' 설계를 구현하기 위해 건축가는 어떤 공간적 배치를 선택했나요?"
+   ],
+   "sources": [],
+   "used": [],
+   "chars": 0
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "architecturaldigest.com/story/best-office-chairs-tested-and-reviewed": {
+  "title_ko": "작업실의 도구: 허먼 밀러부터 브랜치까지 인체공학 의자 8선",
+  "summary_ko": "아키텍처럴 다이제스트 편집진이 직접 앉아 검증한 인체공학 사무용 의자 8선을 공개한다. 허먼 밀러의 에어론과 아사리, 브랜치 베르브와 에르고 프로 등 기능성과 시각적 미감을 동시에 충족하는 제품들의 조절 장치와 구조적 특징을 상세히 다룬다.",
+  "lens": "사무용 의자는 신체를 지탱하는 도구를 넘어 공간의 미학을 완성하는 조형적 장치다.",
+  "why_now": "재택근무와 장시간 데스크 작업이 일상화되면서, 기능적 지원과 시각적 완성도를 모두 갖춘 가구의 선택 기준이 까다로워지고 있다.",
+  "mechanism": "메시 소재의 통기성 구조와 다점 조절 시스템이 신체의 압력을 분산하고 요추를 밀착 지지한다.",
+  "sensory": "탄성 있는 메시 좌판과 부드러운 가죽 질감이 장시간 착석 시의 피로를 덜고 신체를 안정적으로 감싼다.",
+  "transfer": "장시간 인터뷰나 모니터 작업 씬에서 인체공학 의자의 실루엣을 노출해 공간의 전문성과 현대적 무드를 동시에 연출한다.",
+  "context": "허먼 밀러(Herman Miller)는 찰스 앤 레이 임스(Charles and Ray Eames) 등 거장들과의 협업을 통해 모던 가구 디자인의 기틀을 다져왔다.",
+  "findings": [
+   {
+    "text": "Herman Miller is an American furniture and design brand based in Zeeland, Michigan known for its contributions to modern furniture design through collaborations with designers including Gilbert Rohde, George Nelson, Charles and Ray Eames, Isamu Noguchi, and Alexander Girard.",
+    "s": 1,
+    "quote": "Herman Miller is an American furniture and design brand based in Zeeland, Michigan known for its contributions to modern furniture design through collaborations with designers including Gilbert Rohde, George Nelson, Char"
+   }
+  ],
+  "keywords": [
+   "인체공학의자",
+   "허먼밀러",
+   "업무공간",
+   "오피스디자인"
+  ],
+  "evidence": "Ideally, office chairs combine a sophisticated aesthetic with a genuinely functional build—and both things can be true in the same design.",
+  "kind": "프로젝트",
+  "depth": 3,
+  "grounding": "full",
+  "depth_reason": "매거진 편집진의 실제 테스트를 거친 제품 리스트와 기능적 특징을 구체적으로 소개하나, 일반적인 쇼핑 가이드의 범주에 머문다.",
+  "v": 2,
+  "url": "https://www.architecturaldigest.com/story/best-office-chairs-tested-and-reviewed",
+  "original_title": "tk Best Ergonomic Office Chairs for a Stylish Workspace (2026)",
+  "model": "gemini-3.5-flash-lite",
+  "source_chars": 9000,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-28 12:21",
+  "research": {
+   "entities": [
+    "Herman Miller",
+    "Steelcase",
+    "Haworth",
+    "Branch",
+    "Eames Soft Pad Management Chair"
+   ],
+   "questions": [
+    "인체공학적 의자를 선택할 때 고려해야 할 핵심적인 조절 기능(요추 지지대, 팔걸이 높이 등)은 무엇인가요?",
+    "사무용 의자의 디자인과 기능성 사이의 균형을 맞추기 위해 어떤 소재와 구조적 특징을 살펴봐야 하나요?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "위키백과",
+     "title": "Herman Miller",
+     "url": "https://en.wikipedia.org/wiki/Herman%20Miller"
+    },
+    {
+     "n": 2,
+     "type": "위키백과",
+     "title": "Steelcase",
+     "url": "https://en.wikipedia.org/wiki/Steelcase"
+    },
+    {
+     "n": 3,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "일상의 밀도를 높이는 사물들: 2026년 남성을 위한 큐레이션",
+     "url": "https://www.architecturaldigest.com/story/best-gifts-for-men"
+    },
+    {
+     "n": 4,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "찰스 슐츠의 피너츠: 50년간 기록된 미국 주거의 연대기",
+     "url": "https://www.architecturaldigest.com/story/the-secret-design-history-of-peanuts"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "에디터들이 검증한 다이닝 체어 14선",
+     "url": "https://www.architecturaldigest.com/story/shop-best-dining-chairs"
+    }
+   ],
+   "used": [
+    1
+   ],
+   "chars": 1764
+  },
+  "depth_raw": 3,
+  "depth_v": 2
+ },
+ "architecturaldigest.com/story/where-does-caroline-kennedy-live-now": {
+  "title_ko": "케네디 가문의 주거지: 시간의 층위와 유산의 전유",
+  "summary_ko": "캐롤라인 케네디의 주거 이력은 하이애니스 포트의 가족 복합 단지부터 워싱턴 DC의 연방 양식 주택, 뉴욕의 펜트하우스까지 이어진다. 각 공간은 단순한 거주지를 넘어 케네디 가문의 정치적 서사와 개인적 성장을 담은 기록물로 기능했다. 최근 레드 게이트 농장 일부의 공공 자산 전환은 가문의 사적 유산을 공적 기억의 영역으로 확장하는 과정을 보여준다.",
+  "lens": "공간을 혈연의 박물관으로 고착시키지 않고, 생애 주기에 맞춰 매각·분할·공유하며 유산을 동시대의 공공 자산으로 유연하게 전유한다.",
+  "why_now": "사적인 주거지가 세대교체와 함께 공공의 영역으로 편입되는 과정은 건축적 유산을 박제하지 않고 도시의 맥락 속에 살아있게 하는 방식을 제안한다.",
+  "mechanism": "재클린 케네디가 설계한 레드 게이트 농장은 자연 기후에 순응하는 'weathering' 건축을 지향하며, 340에이커의 대지를 비영리 단체에 매각해 보존과 공공 접근성을 동시에 확보했다.",
+  "sensory": "뉴욕 펜트하우스의 석회암 질감과 센트럴 파크를 조망하는 발코니, 대서양의 염분을 머금은 바람을 통과시키는 마서즈 비니어드 주택의 비개방형 구조가 대비를 이룬다.",
+  "transfer": "콘티 작업 시, 인물의 성장과 시대적 배경을 특정 재료(벽돌, 석회암, 원목)와 창을 통해 들어오는 빛의 각도로 구분하여 시간의 경과를 시각적으로 연출할 수 있다.",
+  "context": "케네디 가문의 건축적 유산은 에드워드 듀렐 스톤이 설계한 케네디 센터와 같이 정치적 상징과 구조적 보존 사이에서 끊임없이 논쟁의 중심에 선다. 캐롤라인 케네디는 가족의 사적 공간을 보존하는 동시에, 시대의 변화에 따라 이를 공공의 기억으로 전환하는 전략적 선택을 반복해 왔다.",
+  "findings": [
+   {
+    "text": "재클린 케네디는 레드 게이트 농장의 주택을 설계할 때 자연 환경에 순응하며 세월의 흔적을 담아낼 수 있도록 'weathering'을 고려했다.",
+    "s": 2,
+    "quote": "She researched the history of New England architecture and its farm buildings. She wanted a house “built to weather.”"
+   }
+  ],
+  "keywords": [
+   "주거 유산",
+   "공공 자산",
+   "건축적 시간",
+   "재생 건축"
+  ],
+  "evidence": "She wanted a house “built to weather.”",
+  "kind": "프로젝트",
+  "depth": 4,
+  "grounding": "full",
+  "depth_reason": "가문의 사적 공간이 공공 자산으로 전환되는 구체적인 매각 과정과 건축적 의도를 명확히 분석함.",
+  "v": 2,
+  "url": "https://www.architecturaldigest.com/story/where-does-caroline-kennedy-live-now",
+  "original_title": "Where Does Caroline Kennedy Live Now? Unpacking the Former First Daughter’s Real Estate Portfolio",
+  "model": "gemini-3.1-flash-lite",
+  "source_chars": 8233,
+  "fetch": "ok",
+  "cliche_hits": [],
+  "read_at": "2026-11-28 12:21",
+  "research": {
+   "entities": [
+    "Caroline Kennedy",
+    "John F. Kennedy",
+    "Jacqueline Kennedy Onassis",
+    "White House",
+    "Kennedy Compound"
+   ],
+   "questions": [
+    "캐롤라인 케네디가 거주했던 주요 부동산들이 미국 현대사 및 케네디 가문의 역사에서 어떤 상징적 의미를 갖는가?",
+    "케네디 가문의 부동산 매각 및 이전 과정은 가문의 유산 보존과 개인적 삶의 변화를 어떻게 반영하고 있는가?"
+   ],
+   "sources": [
+    {
+     "n": 1,
+     "type": "공식·1차",
+     "title": "Remembering My Mother in the White House",
+     "url": "https://www.whitehousehistory.org/remembering-my-mother-in-the-white-house"
+    },
+    {
+     "n": 2,
+     "type": "공식·1차",
+     "title": "Letter to the Island from Caroline Kennedy - The Vineyard Gazette",
+     "url": "https://vineyardgazette.com/opinion/commentary/2019/06/27/letter-island-caroline-kennedy/"
+    },
+    {
+     "n": 3,
+     "type": "위키백과",
+     "title": "Caroline Kennedy",
+     "url": "https://en.wikipedia.org/wiki/Caroline%20Kennedy"
+    },
+    {
+     "n": 4,
+     "type": "위키백과",
+     "title": "John F. Kennedy",
+     "url": "https://en.wikipedia.org/wiki/John%20F.%20Kennedy"
+    },
+    {
+     "n": 5,
+     "type": "RE:COLLECTION 과거 기사",
+     "title": "워싱턴 DC 케네디 센터 철거 위기와 모더니즘 건축 보존 갈등",
+     "url": "https://www.dezeen.com/2026/08/27/demolish-kennedy-center-financial-structural-death-spiral/"
+    }
+   ],
+   "used": [
+    2,
+    3,
+    4,
+    5
+   ],
+   "chars": 8231
+  },
+  "depth_raw": 4,
+  "depth_v": 2
  }
 }
